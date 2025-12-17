@@ -19,6 +19,6 @@ The projects plan is to scrape IT job advertisements from Slovak/Hungarian sites
 ## Usage
 
 - **V1.0**  
- Run `Profesia_scraper.py` and `Profesia_false_check.py`
+ Run `Profesia_scraper.py` then `Profesia_false_check.py`. Output is in `CSV` folder.
 
 ---
