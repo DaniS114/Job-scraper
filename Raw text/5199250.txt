@@ -1,0 +1,112 @@
+Senior Software Developer
+FREQUENTIS Solutions & Services s. r. o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Wage (gross)
+3 600 EUR/month
+Freelancer's hourly rate to be agreed individually. The final offer may vary based on the experience and qualifications of the selected candidate.
+Information about the position
+Job description, responsibilities and duties
+Would you like to create an exciting technology and work with other enthusiastic developers?
+Bratislava-based company Frequentis Solutions & Services belongs to the Austrian FREQUENTIS group (www.frequentis.com), specialized in mission-critical communication and IT solutions, e.g. in air traffic control, public safety or defense.
+​Work for an international technological leader and enjoy the benefits of flexible working arrangements and our focus on a good work-life balance.
+Who We Are Looking For?
+We are looking for two highly skilled
+Senior Python Software Developers
+with strong experience in designing and implementing software for complex and secure environments. You should be capable of independently analysing requirements, proposing system and software architecture, and delivering reliable, high-quality code. You enjoy working with modern Linux-based systems, understand security-focused development, and can confidently contribute to technical discussions and solution design.
+We are seeking engineers who are proactive, detail-oriented, and comfortable collaborating in an international setting while supporting the continuous development and improvement of the
+CCMS – Central Configuration Management Suite
+.
+Your main tasks in the project will be
+Analyse, refine and clarify system and functional requirements
+Design system and software architecture following security & safety best practices
+Independently develop and integrate selected software modules
+Define testing concepts and support test strategy preparation
+Ensure high-quality implementation aligned with product standards
+Collaborate with international development teams on planning and technical alignment
+Your Technical Skills and Knowledge
+Required experience
+Strong programming skills in
+Python 3
+Experience with
+Flask
+or a comparable web application framework
+Good knowledge of
+JavaScript, HTML5, CSS
+Expert-level knowledge of Linux
+, preferably
+Red Hat Linux
+(ideally version 10)
+Solid understanding of
+Security-Enhanced Linux (SELinux)
+Knowledge of networking technologies is an advantage
+Beneficial experience
+Ansible, Git, Docker, Jenkins, Blackduck, CI/CD pipelines, Kubernetes
+Experience with software test frameworks
+Experience in infrastructure configuration and deployment
+Familiarity with modern Software Development Lifecycle (SDLC) practices
+Employee perks, benefits
+Training and development program (business and product trainings, language course)
+Employee referral program (financial reward for recommending a successful candidate)
+Employee assistance program (legal, financial and psychological counselling)
+Meal contribution fully paid by the company
+Multisport card/Pension scheme contribution (DDS)
+Flexible working hours, home office
+Refreshments, company & team events
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+Informačné technológie, Telekomunikácie
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Proven experience in leading or coordinating a development team
+Ability to independently analyse requirements and design architecture
+Systematic, reliable and responsible working style
+Proactive problem-solving mindset and ownership of tasks
+Strong communication skills and ability to work in a multicultural environment
+Interest in long-term cooperation within a safety-critical domain
+Technical lead skills
+​
+Advertiser
+Brief description of the company
+Our Bratislava-based company FREQUENTIS Solutions & Services is part of the Austrian FREQUENTIS group (www.frequentis.com). We are a leading global supplier of communication and information solutions for safety-critical applications, such as for air traffic control towers, public safety control rooms (112) or air defense forces. Our mission-critical solutions cover diverse areas, such as telephony and radio communication, Geographical Information Systems (GIS), incident and resource management, video surveillance and automatic video analytics.
+FREQUENTIS Solutions & Services is specialized in software development and project delivery. Together with our parent company we are developing FREQUENTIS’ next generation control room solutions, using state-of-the-art technologies and processes. Our delivery teams then deploy those solutions at our customers around the globe, with responsibility for commercial and technical project management, engineering and quality assurance.
+To grow our team, we are constantly looking for talents in all these fields. Our company offers an interesting and challenging technical environment, a people-focused culture with emphasis on a good work-life-balance and, if desired, a long-term development and career opportunities.
+For our customers, lives may be at stake and seconds count. Our solutions thus need to be developed to the highest standards when it comes to usability and reliability. Safety is what guides us from the first designs till the final tests of any of our solutions. If those are the kinds of challenges that excite you, then you have come to the right place!
+Number of employees
+150-199 employees
+Contact
+Contact person: Ing.  Eva Lajchová
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199250
+Dátum zverejnenia:
+28.11.2025
+2025-11-28
+lokalita:
+Remote work
+Pozícia:
+Programmer
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+FREQUENTIS Solutions & Services s. r. o.
+Základná zložka mzdy (brutto):
+3 600 EUR/month

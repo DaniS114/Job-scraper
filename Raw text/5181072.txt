@@ -1,0 +1,95 @@
+Senior Java Developer
+Stengl a.s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+Od 38 EUR/hod.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Náš dlhoročný zákazník pôsobiaci v oblasti herných portálov a stávkovania potrebuje do svojho IT tímu vývojárov doplniť
+šikovného
+JAVA backend
+-istu.
+Pracuje sa agilne v scrum tímoch, aj na analýze požiadaviek, a vývojári tiež participujú aj na návrhu architektúry, v súlade s Domain Driven Design princípmi.
+Zákazník kladie dôraz na performance, vytvára funkčné prototypy, a tie testuje na výkon. Používa asychrónne/reaktívne frameworky ako napríklad javarx, webflux, kafka-streams, reactor, kafka.
+Zamestnanecké výhody, benefity
+​kurzy nemeckého a anglického jazyka,
+rôzne športové a relaxačno-regeneračné aktivity,
+200 eur na vlastne športové a relaxačno – regeneračné aktivity (len pri TPP),
+plne preplácané stravné lístky (len pri TPP),
+príspevok na DDS (po 12. mesiacoch) (len pri TPP),
+bonusy pri jubileách vo firme,
+bonusy pri narodení dieťaťa,
+firemné akcie,
+2dni sick day ročne (len pri TPP).
+Ponúkame tiež:
+atraktívnu, rôznorodú prácu na zaujímavých projektoch,
+kvalitné technické vybavenie, vyspelú IT infraštruktúru,
+možnosť profesionálneho rastu,
+motivujúce finančné ohodnotenie s možnosťou pravidelného prehodnotenia
+možnosť vzdelávania a výberu rôznych školení (hard skill / soft skill).
+multisport
+Informácie o výberovom konaní
+Hybridný model, práca čiastočne aj v sídle zákazníka v Bratislave.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Java - Expert
+Spring - Expert
+Spring Boot - Expert
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+IDEA, JIRA, Confluence
+JAVA
+a vývoj backend aplikácii
+Spring, Springboot, OpenJDK 11+
+Pre buildovanie sa používa: Jenkins, Maven, nexus, GitLab
+Databáza: PostgreSQL, spracovanie dát cez Ignite, Kafka
+Monitoring aplikácii sa robí pomocou Prometheus, Grafana, Alertmanage
+Javarx, webflux, kafka-streams, reactor
+Agile vývoj, SCRUM
+Elastic search, Kibana
+Nice-to-have požiadavky:
+Skúsenosti s Domain Driven Design modelom
+Kotlin coroutines
+JAVA FX, Flutter
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+STENGL je IT konzultačná spoločnosť a súčasne softvérový dom, ktorý realizuje vlastné interné projekty ako aj projekty u zákazníkov, prostredníctvom skúsených IT expertov a odborníkov z rôznych doménových oblastí.
+STENGL je spoločnosť, ktorá má viac ako 25 ročné skúsenosti na slovenskom a českom trhu, ako aj v nemecky hovoriacich krajinách. Máme za sebou desiatky tisíc konzultačných a vývojových hodín pre našich klientov naprieč všetkými sektormi národného hospodárstva. Na Slovensku sme historicky jeden z najväčších poskytovateľov IT služieb pre klientov z nemecky hovoriacich krajín.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: HR
+Tel.:
++421903252331
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5181072
+Dátum zverejnenia:
+24.10.2025
+2025-10-24
+lokalita:
+Bratislava
+Pozícia:
+Java programátor
+Spoločnosť:
+Stengl a.s.
+Základná zložka mzdy (brutto):
+38 EUR/hod.

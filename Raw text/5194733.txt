@@ -1,0 +1,78 @@
+Embedded C/C++ developer
+OZZYLOGIK, s.r.o.
+Place of work
+Na Pažiti, Svätý Jur
+Contract type
+full-time
+Wage (gross)
+2 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+У зв’язку з розвитком і появою нових проектів шукаємо
+Embedded C/C++ developer.
+Технології, які ми використовуємо:
+C/С++, CMake, RTOS, STM32, Embedded Linux, multithreading.
+Команда проекту
+: Team Lead, 2 electronics engineer.
+Спілкування з командами інших проектів, інтеграція з ними.
+Обов'язки:
+- Розвиток існуючого рішення
+- Підтримка технічної документації в актуальному стані
+- Reverse engineering протоколів
+- Участь у розвитку linux образу для вбудованих систем
+- Підтримка та розвиток існуючого API для керування залізом
+Вимоги:
+- Дослідження в галузі електронної інженерії, інженерії зв'язку, технічної інформатики або аналогічних
+- Досвід роботи з C/C++, RTOS, Embedded Linux, multithreading
+- Розмовна та письмова англійська на рівні Intermediate
+Employee perks, benefits
+Що ми пропонуємо:
+Робота в офісі в Словаччині (м. Svätý Jur, 15 хв від Братислави)
+Конкурентна заробітна плата з урахуванням ваших очікувань та щорічна її актуалізація згідно з ринковими умовами
+Наставник для введення в робочий процес
+Індивідуально налаштоване робоче місце та персоналізоване придбання аксесуарів для комфортної роботи
+Гнучкий графік: 8:00–17:00 або 9:00–18:00
+Корпоративні обіди, фрукти та снеки в офісі
+Повністю оплачувані лікарняні, відпустка, медичне страхування відповідно до законодавства Словаччини.
+Requirements for the employee
+Candidates with education suit the position
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+Ukrainian - Advanced (C1)
+Other knowledge
+С++ - Advanced
+Embedded Linux - Skillful
+STM32 - Skillful
+Experience in the position/sector
+2
+Number of years of experience
+2
+Advertiser
+Brief description of the company
+Ozzylogik Group is a product company specializing in telecommunications. For over 20 years, we have been developing high-tech measuring hardware and software data processing complexes.
+With a team of over 200 highly motivated and skilled specialists, we are dedicated to achieving results. Our work environment is characterized by mutual assistance, respect, responsibility, and an individual approach to each employee.
+Contact
+Contact person: Oksana Sehedii
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5194733
+Dátum zverejnenia:
+19.11.2025
+2025-11-19
+lokalita:
+Svätý Jur
+Pozícia:
+C++ Programmer
+Spoločnosť:
+OZZYLOGIK, s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

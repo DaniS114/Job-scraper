@@ -1,0 +1,83 @@
+Student .NET Developer
+Kistler Bratislava, s.r.o.
+Place of work
+: Einsteinova 33, Petržalka, Slovakia, Bratislava (Job with occasional home office)
+Wage (gross)
+:
+7,5 EUR/hour
+Contract type
+: part-time
+Information about the position
+Job description, responsibilities and duties
+Join our team as a Student .NET Developer and contribute to the development and maintenance of Kistler’s Cockpit / KiStudio applications. These WPF-based .NET solutions support a wide range of use cases - from automotive applications such as combustion power and E-Powertrain analysis (Cockpit) to laboratory and vehicle testing environments (KiStudio Lab).
+You’ll be part of a team working on cutting-edge tools for real-time data processing, visualization, configuration, and analysis - used by engineers and researchers worldwide.
+Your Responsibilities:
+* Implement new functionalities for the KiStudio / Cockpit software component according to the project scope and priorities
+* Develop and maintain automated UI and system tests using FlaUI framework
+* Participate in detailed software design and documentation in line with Kistler quality standards
+* Write unit, integration, and system tests for developed components and ensure adequate test coverage
+* Apply Kistler’s professional software development methodologies and comply with project procedures
+Employee perks, benefits
+The way we work
+* Hybrid working model (based on the agreement with your team lead). We trust that you know how to organize your time to stay productive
+* Regular performance review and career growth possibilities
+Health & Well-being
+* Electric stand-up desk and ergonomic chair
+Recognition
+* Attractive referral bonus
+Career & Development
+* Library, Online Educational Portals: Pluralsight, Safari books, LeanPub, Egghead
+* Technology “sharing” groups, Coding Days
+Social life
+* Team-buildings, Company breakfast, Christmas Party, Grill Party, Family/Kid’s day, Pizza Thursdays etc.
+* Football table and board games in the office
+Extra benefits
+* Lunch tickets in amount of 6,80 EUR
+* Great coffee, tea, fresh fruit
+Requirements for the employee
+Candidates with education suit the position
+University student
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Must have:
+* Experience with SW programming (C#, C++, Java, Python or similar) or demonstratable
+algorithmic thinking and problem solving
+* Motivation to learn and work within a complex .NET development and test environment
+* Ability and willingness to learn and adapt to complex development environment
+* Affinity to work in an international environment
+Nice to have:
+* Knowledge of object-oriented principles, modeling tools, and design patterns
+* Structured, analytical, and systematic working style
+* Experience or interest in automated UI testing frameworks (e.g., FlaUI, PyTest, …)
+* Architecture and design creation as well as in the utilization of design patterns
+* Experience with development under Linux & Windows environment
+Kistler Bratislava, s.r.o.
+Einsteinova 33
+851 01 Bratislava, Slovakia
++421 948 377 105
+, Natália Shalanová, HR Generalist
+Kistler Holding AG
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5178265
+Dátum zverejnenia:
+3.11.2025
+2025-11-03
+lokalita:
+Bratislava
+Pozícia:
+.NET Programmer
+,
+C# Programmer
+,
+Programmer
+Spoločnosť:
+Kistler Bratislava, s.r.o.
+Základná zložka mzdy (brutto):
+7,5 EUR/hour

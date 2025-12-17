@@ -1,0 +1,99 @@
+Sieťový administrátor (ODKITS-6/2025)
+Kancelária Národnej rady Slovenskej republiky
+Miesto práce
+Námestie A. Dubčeka 1, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme vhodného kandidáta odborne zdatného na sieťovú infraštruktúru so znalosťou návrhu, implementácie a správy vysoko dostupných a bezpečnostných sieťových riešení v podnikových prostrediach.
+Zamestnanec bude zodpovedný za konfiguráciu, optimalizáciu a prevádzku kľúčových sieťových a bezpečnostných komponentov, pričom bude pracovať s pokročilými technológiami na úrovni L2 a L3 vrátane LAN/WAN, SDN, VPN, firewallov novej generácie (NGFW), systémov detekcie a prevencie prienikov (IDS/IPS), sieťového prístupu (NAC), proxy serverov, Wi-Fi kontrolérov a dynamických smerovacích protokolov.
+Okrem sieťovej architektúry bude zabezpečovať komplexnú ochranu infraštruktúry prostredníctvom monitoringu a analýzy bezpečnostných udalostí (SIEM, NetFlow, Syslog), detekcie hrozieb (EDR/XDR, Threat Intelligence), Identity Management (IAM, MFA, PAM), aplikácie princípov Zero Trust a segmentácie siete.
+​Náplň práce:​
+návrh, implementácia a správa      sieťovej infraštruktúry na úrovni podnikových riešení;
+správa a konfigurácia      firewallov, VPN brán, IDS/IPS systémov, proxy serverov a bezpečnostných      riešení (NGFW, UTM, SD-WAN);
+monitoring, diagnostika a      troubleshooting sieťovej komunikácie;
+implementácia bezpečnostných      opatrení na ochranu infraštruktúry a dát (NAC, 802.1X, segmentácia siete,      Zero Trust);
+správa sieťových protokolov a      technológií na úrovni L2/L3;
+hardening sieťových      komponentov, aktualizácie a Patch Management;
+spolupráca pri auditoch a      bezpečnostných testoch siete, implementácia odporúčaní na zlepšenie;
+správa Wi-Fi infraštruktúry      vrátane konfigurácie kontrolérov a zabezpečenia SSID;
+podpora a konzultácie v oblasti      IT bezpečnosti a sieťového dizajnu.
+Zamestnanecké výhody, benefity
+stravovanie vo vlastnej jedálni,
+vlastné účelové (rekreačné) zariadenie za zamestnanecké zvýhodnené ceny,
+doplnkové dôchodkové sporenie vo výške 3% zo zúčtovaného mesačného platu,
+týždeň dovolenky nad zákonný rámec,
+týždeň voľna navyše z Kolektívnej zmluvy,
+odmena pri dosiahnutí 50 rokov a 60 rokov veku,
+odmena pri príležitosti pracovného jubilea,
+kultúrno-športové aktivity s troma dňami plateného voľna,
+príspevok na dopravu do zamestnania,
+príspevok na sociálnu výpomoc,
+vianočný príspevok,
+príspevok pri narodení dieťaťa,
+príspevok pri jubilejnom darovaní krvi,
+príspevok na rekreáciu,
+príspevok na športovú činnosť dieťaťa,
+karty MultiSport.
+Informácie o výberovom konaní
+Dovoľujeme si požiadať uchádzačov o zaslanie profesijného štruktúrovaného životopisu v slovenskom jazyku buď elektronicky (kliknutím na tlačidlo "Reagovať na ponuku") alebo poštou na adresu: Kancelária Národnej rady Slovenskej republiky, Osobný úrad, Námestie Alexandra Dubčeka 1, 812 80 Bratislava.
+Všetkým uchádzačom vopred ďakujeme za prejavený záujem pracovať v Kancelárii Národnej
+rady Slovenskej republiky a zároveň oznamujeme, že budeme kontaktovať iba vybraných kandidátov.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+technického smeru (IT, telekomunikácie, kybernetická bezpečnosť)
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+Prax na pozícii/v oblasti
+odporúčaná, min. 3 roky v oblasti sieťových technológií a bezpečnosti
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Požiadavky:
+schopnosť samostatne riešiť sieťové a bezpečnostné incidenty na úrovni L2/L3;
+znalosť bezpečnostných      technológií a postupov, vrátane IDS/IPS, NGFW, Endpoint Security, NAC a Identity Management;
+schopnosť pracovať s      monitoringovými nástrojmi;
+orientácia v kryptografických      protokoloch a bezpečnostných štandardoch (TLS, IPsec, PKI, IEEE 802.1X,      NIST, ISO 27001, GDPR);
+analytické myslenie, schopnosť diagnostiky a troubleshooting problémov v sieťovom      prostredí;
+schopnosť tvorby dokumentácie,      návrhov architektúry a implementačných plánov;
+výhodou sú certifikácie v      oblasti sietí a bezpečnosti (napr. CCNP, CCIE a pod.).
+​Osobnostné predpoklady a zručnosti:
+schopnosť pracovať samostatne aj v tíme,
+proaktívny prístup k riešeniu bezpečnostných incidentov a optimalizácie infraštruktúry;
+neustále sledovanie trendov v oblasti sieťových technológií a kybernetickej bezpečnosti.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Kancelária Národnej rady Slovenskej republiky je služobný úrad zriadený podľa zákona č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky.
+Kancelária Národnej rady Slovenskej republiky je štátna rozpočtová organizácia.
+Kontakt
+Kontaktná osoba: Osobný úrad Kancelárie NR SR
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202213
+Dátum zverejnenia:
+5.12.2025
+2025-12-05
+lokalita:
+Bratislava
+Pozícia:
+Odborný referent
+,
+Správca počítačovej siete
+Spoločnosť:
+Kancelária Národnej rady Slovenskej republiky
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

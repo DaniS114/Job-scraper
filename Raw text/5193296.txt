@@ -1,0 +1,138 @@
+Senior Network Security Engineer
+NATEK SLOVAKIA, s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+1.1.2026
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+The exact salary will be adjusted according to experience and seniority level. Type: B2B or Contract of Work (COW)
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Role Overview
+We are seeking an experienced
+Network Security Engineer
+with strong hands-on expertise in
+Fortinet
+and
+Cisco
+security platforms. The ideal candidate will design, secure, and optimize enterprise-level infrastructures while supporting critical production environments. This role requires a security-first mindset, strong troubleshooting capabilities, and the ability to operate effectively under pressure.
+The selected engineer will work closely with enterprise teams, participate in on-call rotations, and support high-availability, multi-vendor network security environments.
+Key Responsibilities
+Design, deploy, and maintain
+FortiGate
+and
+Cisco FTD/ASA
+security solutions.
+Configure and manage
+VPNs (IPsec/SSL)
+,
+IPS/IDS
+, network segmentation, and secure routing.
+Implement and maintain
+HA architectures
+and conduct performance tuning.
+Utilize
+FMC
+,
+Forti Manager
+, and
+Forti Analyzer
+for policy management and centralized monitoring.
+Perform security monitoring, incident investigation, and traffic analysis through SIEM and platform-native tools.
+Support automation initiatives using
+Ansible
+, APIs, and automated workflows (nice-to-have).
+Troubleshoot complex production issues efficiently and ensure timely resolution.
+Collaborate with cross-functional teams in an enterprise environment.
+Participate in
+on-call rotation
+and support operations in OBH.
+Zamestnanecké výhody, benefity
+Internal Mobility Program – enjoy many opportunities for career growth, job rotations, diversity of projects & technologies
+International, diverse, and inclusive working environment – get experience in global projects for worldwide leaders and enjoy multinational teams
+Referral Program – enjoy cooperation with your colleagues and get the bonus
+5/10 years NATEK club – we offer long-term cooperation and celebrate each fifth-year cooperation anniversary with gifts
+NATEK CSR Events & team buildings – enjoy our values: accountability, partnership and expertise and #workITwithus
+Education – benefit from our know-how, learning courses and certificates and IT events – be part of community of leaders of the industry and take part as a speaker or a visitor
+Bonuses for Personal Events – we congratulate you on important events of your life: giving birth to children, university graduation, etc.
+Benefit Plus (Cafeteria) – use our e-shop with corporate benefits like travel, theatre tickets, books etc.
+Multisport Club Card
+Technical and Personal training – we are investing in your skills growth
+Language courses
+1 paid day off for volunteering – we are supportive of all charity ideas
+Meal contribution directly to your account
+Informácie o výberovom konaní
+Kontaktovat budeme len vybranych uchadzacov, ktori budu splnat potrebne kriteria.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+SIEM Splunk - Pokročilý
+Fortinet - Pokročilý
+Cisco - Pokročilý
+FTD/ASA - Pokročilý
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Years of experience:
+5+ years
+Fortinet (Primary):
+FortiGate NGFW, FortiManager, FortiAnalyzer, VPNs (IPsec/SSL), UTM/App Control, HA, FortiView monitoring
+Cisco (Primary):
+FTD/ASA, FMC policy management, VPNs, IPS, secure routing & segmentation (OSPF/BGP/VLANs)
+Check Point (Bonus/Nice-to-Have):
+R80.x, VSX, SmartConsole, SmartEvent
+Automation (Nice-To-have):
+Ansible playbooks, API integrations, automated policy deployment & compliance
+Monitoring & Ops(Core):
+SIEM (Splunk/FortiAnalyzer), traffic analysis, security posture tuning
+Professional Strengths
+Security-first architecture mindset
+Efficient troubleshooting in production environments
+Automation-driven operational improvement
+Vendor-agnostic flexibility (Fortinet/Cisco primary)
+Proficiency in working under pressure
+Ability to work in team in enterprise environment
+Availability to work in OBH and On call rotation
+(
+Mandatory
+)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Join one of the most sought-after companies that specializes in IT outsourcing business.
+Originating from France, NATEK was established in Czech Republic in 2004. The company currently operates in Poland, Slovakia, Czech Republic and Bulgaria and reports stable 30% growth year-o-year. Our dynamic team of + 600 employees come from over 20 different locations worldwide. Recently celebrating its 10th anniversary, NATEK has become a leading provider of IT services & consultancy in the CEE region.
+If you are interested in more information, please visit www.natek.eu
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Laura Horvathova
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5193296
+Dátum zverejnenia:
+17.11.2025
+2025-11-17
+lokalita:
+Práca z domu
+Pozícia:
+Správca počítačovej siete
+Spoločnosť:
+NATEK SLOVAKIA, s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

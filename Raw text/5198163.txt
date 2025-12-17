@@ -1,0 +1,137 @@
+Voľné pozície
+O nás
+Zamestnanecké výhody
+Kontakt
+Expert OpenShift Platform Engineer - m/ž
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 500 EUR/mesiac
+Základná nástupná brutto mzda 3 500€, plus ročný bonus. Tvoja konkrétna mzda bude závisieť od rozsahu Tvojich znalostí a praktických skúseností.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho tímu hľadáme skúseného OpenShift Platform inžiniera, ktorý bude zodpovedný za prevádzku, správu a rozvoj prostredia Red Hat OpenShift určeného pre interných klientov spoločnosti. Tvojou úlohou bude zabezpečiť stabilitu, bezpečnosť a efektívnu správu platformy, ktorá umožňuje vývojovým tímom jednoducho nasadzovať a prevádzkovať ich aplikácie.
+O projekte
+Budeš pracovať na internej platforme postavenej na Red Hat OpenShift – ide o kľúčový systém pre správu kontajnerových aplikácií.
+Platforma podporuje viacero interných tímov spoločnosti a umožňuje im automatizovaný deployment, monitoring a správu aplikácií.
+Pracujeme s moderným open-source tech stackom v prostredí Kubernetes/OpenShift ekosystému.
+Čaká ťa prostredie, kde sa cení proaktivita, technická zvedavosť a schopnosť hľadať efektívne riešenia.
+Používané technológie a metodiky
+Platforma: Red Hat OpenShift, Kubernetes, Operators, Helm
+Automatizácia: Ansible,
+CI/CD: GitLab CI, ArgoCD
+Kontajnerizácia: Kubernetes
+Správa kódu: Git, GitOps princípy
+Operačné systémy: Linux RHEL / RHCOS
+Bezpečnosť a prístup: RBAC, OAuth, certifikáty, SSO
+Agile Framework
+Tvojou úlohou bude najmä
+Zodpovednosť za architektúru a smerovanie platformy
+Prevádzkovať, monitorovať a spravovať OpenShift klastre (on-premise prostredie).
+Riešenie najkritickejších a zložitých technických problémov súvisiacich s riešeniami prostredia
+Tvorba kvót pre zdroje a zabezpečenie efektívneho smerovania využitia zdrojov
+Podporovať interné vývojové tímy pri nasadzovaní aplikácií a CI/CD procesoch.
+Riadiť automatizovanie procesov správy platformy – provisioning, aktualizácie, škálovanie.
+Navrhovať bezpečnostné opatrenia a dodržiavať interné IT štandardy.
+Spolupracovať s tímami infraštruktúry, bezpečnosti a vývoja.
+Aktívna spolupráca v agilnom tíme (Scrum/Kanban) a príspevok k rozvoju DevOps kultúry prostredníctvom zlepšovania procesov, automatizácie a zdieľania zodpovednosti za celý životný cyklus aplikácie.
+Udržiavať technickú dokumentáciu a navrhovať zlepšenia platformy.
+Zamestnanecké výhody, benefity
+Možnosť ďalšieho odborného rastu podľa tvojho výberu (užšia špecializácia, alebo získavanie ďalších profesionálnych zručností, hierarchický rast)
+Možnosť práce z domu
+Flexibilná pracovná doba
+Ročná odmena v závislosti od splnenia cieľov do výšky mzdy
+Školenia a jazykové kurzy zdarma
+Príspevok na doplnkové dôchodkové sporenie
+Ročný príspevok na individuálny výber benefitov z Cafetérie + narodeninový bonus
+Zvýhodnené celoročné cestovné poistenie pre zamestnancov
+Príspevok darcom krvi
+Príspevok pri narodení dieťaťa
+Jubilejné pracovné odmeny
+Odmena za odporúčanie kolegu
+Možnosť využívania MultiSport karty
+Zvýhodnené ponuky vo vybraných bankách a obchodoch
+Zľavy na nákup koncernových vozidiel Volkswagen
+Parkovanie zdarma
+Informácie o výberovom konaní
+Pracovný pohovor bude prebiehať aj v anglickom jazyku.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT, informatiky, techniky
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+Prax na pozícii/v oblasti
+5+ roky skúseností v oblasti DevOps, platform engineeringu alebo Linux administrácie •	4+ roky skúseností so správou Kubernetes alebo OpenShift klastrov.
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+Technické zručnosti:
+Red Hat OpenShift / Kubernetes – expert
+Linux administrácia (RHEL) – pokročilý
+CI/CD Pipelines (GitLab / Bitbucket) –pokročilý
+Monitoring (Grafana) - stredne pokročilý
+Helm  - pokročilý
+Cloudové služby – AWS /GCP/Azure (preferované) -  stredne pokročilý
+Ansible Automatizacia – výhodou
+Certifikacie – vyžadované
+Red Hat Certified Specialist in OpenShift Administration (EX280)
+Certifikacie – výhodou
+Certified Kubernetes Administrator (CKA)
+Red Hat Certified System Administrator (EX200)
+Osobnostné predpoklady a zručnosti
+Silné analytické a technické myslenie.
+Tímový hráč, schopnosť pracovať samostatne aj v spolupráci.
+Proaktívny prístup a zodpovednosť.
+Záujem o automatizáciu, efektivitu a neustále zlepšovanie procesov.
+Dobré komunikačné schopnosti a technická zvedavosť.
+Technické vedenie a mentoring tímu
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť VOLKSWAGEN GROUP SERVICES, s.r.o. s 85-percentným podielom spoločnosti Volkswagen Group Services GmbH a 15-percentným podielom spoločnosti Volkswagen Slovakia, a.s. poskytuje pre Volkswagen Slovakia, ako aj koncern Volkswagen komplexné a odborné personálne riešenia v procesoch automobilového priemyslu.
+Zameriavame sa na administratívne, technicko-podporné i výrobné procesy, predovšetkým o oblasť zabezpečenia kvality, plánovacích činností, procesnej podpory nákupu, rôznych inžinierskych a administratívnych služieb. Ponúkame preto veľa atraktívnych pracovných miest v rôznych oblastiach. Navštívte naše pracovné ponuky a využite šancu rozvíjať s nami svoju kariéru.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Tereza Michová
+Tel.:
++421902471611
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5198163
+Dátum zverejnenia:
+26.11.2025
+2025-11-26
+lokalita:
+Práca z domu
+Pozícia:
+Backend programátor
+,
+DevOps Engineer
+,
+Frontend programátor
+,
+IT architekt
+Spoločnosť:
+VOLKSWAGEN GROUP SERVICES, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

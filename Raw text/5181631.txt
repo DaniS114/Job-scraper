@@ -1,0 +1,107 @@
+Solution Architect
+Asseco Central Europe, a.s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+od 3000 € brutto v závislosti od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Chceš meniť svet k lepšiemu v oblasti zdravotníctva a máš skúsenosti ako Solution Architect? Ak áno, poďme do toho spolu!
+Vyvíjame komplexné IT riešenia pre zdravotné poisťovne, nemocnice a štátne inštitúcie. Elektronizáciou zdravotníctva zlepšujeme život pacientov aj lekárov a meníme spôsob, akým funguje zdravotná starostlivosť. Naše riešenia navrhujeme a realizujeme na moderných technológiách s ohľadom na potreby zákazníka.
+Naše riešenia zahŕňajú:
+Elektronické zdravotné karty
+e-PNky (elektronické potvrdenky o dočasnej práce neschopnosti)
+Elektronické objednávanie k lekárovi
+e-Lab – digitalizácia laboratórnych výsledkov
+eRecept – elektronické predpisovanie liekov
+Informačné systémy a portály pre zdravotné poisťovne a štátne inštitúcie
+Mobilné aplikácie pre pacientov
+Náplň práce:
+Spolupráca s obchodníkmi, analytikmi, vývojármi, IT podporou a projektovými manažérmi pri návrhu optimálneho riešenia pre zákazníka
+Návrh a definícia architektúry riešenia, výber vhodných technológií, frameworkov a platforiem
+Návrh technického riešenia informačných systémov na základe obchodných a analytických vstupov
+Zabezpečenie kvality, efektivity a realizovateľnosti riešenia, vrátane jeho súladu s definovanými štandardmi
+Aktualizácia architektúry riešenia podľa zmien v požiadavkách, s ohľadom na nové technologické trendy
+Monitorovanie priebehu vývoja a zabezpečenie dodržiavania návrhov
+Zodpovednosť za návrh riešení voči zákazníkovi aj internému tímu
+Validácia a schvaľovanie definovaných výstupov
+Poskytovanie odborných konzultácií
+Zamestnanecké výhody, benefity
+Účasti na školeniach a certifikáciách (uvedomujeme si nevyhnutný priestor pre rozvoj a technologický rast)
+Vzdelávanie a osobný rozvoj – ACE akadémia
+Flexibilný pracovný čas, hybridný spôsob čerpania HO
+Sick days a dni voľna navyše pri špeciálnych príležitostiach – svadba, pôrod, sťahovanie, sprievod prváčika v 1. školský deň
+Bonus pri narodení/osvojení dieťaťa
+Odmeny – Referral program, odmeny pre jubilantov, zodpovedajúca variabilná zložka platu
+Doplnkové dôchodkové sporenie
+Ovocie, pitný režim, káva
+Inšpiratívne workshopy a aktivity na témy: technológie, životné prostredie, diverzita a well-being
+Teambuildingy, spoločenské podujatia
+Poradenstvo v oblasti duševného zdravia
+Multisport karta, klub TJ Asseco
+CSR aktivity
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Osobnostné predpoklady a zručnosti
+Otvorená myseľ a chuť rásť v dynamickom svete technológií a štandardov
+Minimálne 5 rokov skúseností v oblasti návrhu IT riešení alebo softvérovej architektúry
+Praktická znalosť Archimate a UML
+Skúsenosť s Enterprise Architect a metodikami návrhu systémov
+Implementácia aspoň jedného veľkého softvérového riešenia s integráciou minimálne jedného externého systému
+Skúsenosti s vývojom servisne orientovaných aplikácií a integračných platforiem (Microservices, SOA, ESB, BPMN, WebServices, JMS, Docker) s vysokou dostupnosťou (min. 3 roky praxe)
+Znalosť Java technológií (Spring Boot, Hibernate, Maven, Junit)
+Skúsenosti s messaging platformami a MQ brokermi (RabbitMQ, Apache Kafka, ActiveMQ)
+Znalosť sieťových komunikačných protokolov (HTTP, HTTPS, LDAP)
+Prehľad a skúsenosti s SQL databázami (DML a DDL)
+Znalosť DevOps štandardov (CI/CD, GitOps, IaC, Terraform, Ansible) výhodou
+Znalosť orchestračných platforiem ako Kubernetes alebo OpenShift výhodou
+Schopnosť orientovať sa a komunikovať so zákazníkom
+Schopnosť tvorby, prezentácie a obhajoby technického riešenia
+Silné komunikačné zručnosti a schopnosť pracovať v tíme
+Znalosť anglického jazyka minimálne na úrovni efektívnej práce s dokumentáciou
+Výhodou:
+Znalosť štandardov pre návrh architektúr (TOGAF)
+Skúsenosti s kontajnerovými platformami (Docker, Kubernetes)
+Skúsenosti s NoSQL databázami (Cassandra, MongoDB, Elasticsearch)
+Znalosť prevádzkových štandardov ITIL
+Skúsenosť so spoluprácou a koordináciou subdodávateľov
+Skúsenosť s prácou v agilnom tíme
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Asseco Central Europe patrí medzi najsilnejšie softvérové domy v strednej a východnej Európe. Pôsobí na Slovensku, v Českej republike, Maďarsku, Taliansku, Nemecku, Rakúsku, Švajčiarsku a Poľsku. Spoločnosť realizuje náročné projekty pre sektor zdravotníctva, bankovníctva, priemysel a utility, poisťovníctva a verejnú správu, ktoré sú postavené na viac ako 35 ročných skúsenostiach s rozsiahlymi projektmi softvérových riešení na mieru.
+Skupina Asseco CE zahŕňa aj ďalšie spoločnosti so zameraním na IT. Asseco CE kladie silný dôraz na podporu strategických cieľov svojich klientov. Spoločnosť je súčasťou medzinárodnej skupiny Asseco (Asseco Group), ktorá pôsobí v približne 60 krajinách sveta a zamestnáva viac ako 33 000 ľudí.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Barbora Irecká
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5181631
+Dátum zverejnenia:
+25.10.2025
+2025-10-25
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT architekt
+,
+Programátor
+Spoločnosť:
+Asseco Central Europe, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

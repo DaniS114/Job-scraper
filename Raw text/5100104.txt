@@ -1,0 +1,89 @@
+About us
+Our benefits
+Open positions
+Senior Java Application Engineer (Hybrid set up)
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3,800 and EUR 6,300 per month (for a full-time role). The specific salary offered considers:
+- the requirements, scope, complexity and responsibilities of the role,   
+- the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Are you passionate about crafting elegant code that powers critical business systems? Join our dynamic team at Swiss Re where your Java expertise will directly impact our global insurance platforms. We're seeking a technical leader who can elevate our development standards while building innovative solutions that matter.
+About the Role
+You'll be at the heart of developing and maintaining our sophisticated in-house insurance platforms built primarily with Java and Spring Boot. You will have the opportunity to join one of our platform teams and contribute to the development of functionality which generates real business impact.
+Key Responsibilities
+•	Develop business features and functionality that will be used by large user communities
+•	Review and approve pull requests and enforce consistency and quality standards in the codebase
+•	Collaborate effectively within cross-functional teams including requirements engineers, QA specialists, and other application engineers
+•	Create architecture diagrams that decide the technology strategy
+•	Integrate services and shared platforms including messaging systems, BPMN workflows, logging frameworks, and telemetry solutions
+•	Stay current with emerging technologies and Generative AI developments to continuously improve our solutions
+About the Team
+We are a team that believes in engineering excellence and that our leaders should also be engineers themselves. We build applications that are carefully designed, thoughtfully implemented, and surpass the expectations of our users by working hand-in-hand with product owners. Quality and stability are first-class deliverables in everything we do, and we lead by example by embedding high standards into our processes.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a naturally curious and thoughtful professional who thrives in a high-performance engineering environment. Your passion for coding is matched by your commitment to delivering business value. You believe in continuous learning—whether through self-improvement or by absorbing knowledge from those around you—and you're excited to contribute to a team that values technical excellence.
+We need you to bring in the following must haves:
+•	Expert knowledge of Java and Spring Boot with proven experience across the entire software delivery lifecycle
+•	Previous public cloud experience, particularly with Microsoft Azure
+•	Comfort and proficiency working with large and established codebases, spending significant time in the IDE
+These are additional nice to haves:
+•	Experience with CI/CD pipelines and DevOps practices
+•	Knowledge of containerization technologies like Docker and Kubernetes
+•	Familiarity with insurance domain concepts and business processes
+•	Experience mentoring junior developers and contributing to team growth
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Hana Krcova
+Apply here
+ID:
+5100104
+Dátum zverejnenia:
+23.10.2025
+2025-10-23
+lokalita:
+Bratislava
+Pozícia:
+Java Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

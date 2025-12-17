@@ -1,0 +1,99 @@
+About us
+Our benefits
+Open positions
+Engineering Manager (Java)
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between [EUR 3,800] and [EUR 6,300] per month (for a full-time role). The specific salary offered considers: 
+• the requirements, scope, complexity and responsibilities of the role, 
+• the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience. In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits. Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the Role
+Our teams are at the forefront of delivering innovative solutions to support underwriters in the reinsurance industry and our corporate clients. We develop robust applications and analytical products that address a broad spectrum of topics, including contract wording, pricing, and costing services.
+We are seeking results-driven and technically proficient Engineering Managers to lead cross-functional teams comprising backend, frontend, quality assurance, and infrastructure engineers. These teams are responsible for building scalable, cloud-native systems leveraging Java and TypeScript, with a strong emphasis on performance, reliability, and maintainability.
+Responsibilities:
+· Team Leadership & Culture
+· Lead, coach and grow a high-performing engineering team
+· Foster a culture of ownership, continuous improvement and innovation
+· Facilitate open communication and regular feedback loops within the team
+Technical Strategy & Execution
+· Guide the team in designing and building cloud-native applications using Java and TypeScript
+· Ensure adherence to best practices in microservices architecture, CI/CD, observability, and test automation
+· Support architecture reviews, code quality, and design patterns aligned with modern cloud systems
+· Stay abreast of industry trends in cloud platforms, frameworks, and AI-supported development tools
+Project Delivery & Agile Practices
+· Own the end-to-end software delivery lifecycle: planning, development, testing, release and operation
+· Collaborate with product managers, architects, and UX designers to refine requirements and priorities
+· Apply agile methodologies to deliver incremental value and adaptive planning
+Recruiting, Development & Performance
+· Hire and onboard top engineering talent
+· Set goals, and support growth plans for individual team members
+· Perform performance reviews and provide mentorship to foster career development
+Interview Process:
+Our interview process is designed to evaluate both your technical skills and your leadership qualities. It includes several stages:
+1. Leadership interview
+2. Coding interview
+3. System design interview
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Minimum Qualifications:
+· Bachelor's or master's degree in computer science, a related field, or equivalent practical experience
+· 5+ years of experience with software development in one or more programming languages, with at least 2 years in a people leadership role
+· 3+ years of experience designing, building and troubleshooting reliable, resilient and secure systems
+· A passion for mentoring and developing engineering talent
+· Ability to attract talent by setting the standard for excellence
+· Excellent problem-solving abilities and a strategic mindset
+· Strong communication skills with the ability to articulate complex technical concepts to non-technical stakeholders
+Preferred Qualifications:
+· Knowledge of cloud-based architectures
+· Knowledge of cloud platforms such as Azure
+· Experience in managing hybrid or remote engineering teams
+· Knowledge of event-driven architecture (Kafka, Pub/Sub) and reactive systems
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5178675
+Dátum zverejnenia:
+20.10.2025
+2025-10-20
+lokalita:
+Bratislava
+Pozícia:
+Java Programmer
+,
+Software Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

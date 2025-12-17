@@ -1,0 +1,108 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Application Developer for Tardis + Sign on Bonus 2000 EUR
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+3 100 - 3 700 EUR/month
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 3100 € /brutto.
+Senior Application Developer has lead position within SCRUM team. Holder of the position is responsible for development, design and implementation of new or modified software products or ongoing business projects. Target of development is automation of business processes and cross platform automation. Senior Application Developer handles all phases of software development lifecycle, especially for small or midsize solutions. Provide independent technical expertise, follow agreed methodology steps and rituals and take responsibility for produced code to deliver functional solution with team. Mentor and feedback less experienced colleagues, present team outputs and share knowledge within company. Document and share best practices and constantly work on self-development. Follow industry trends, bring and recommend innovations.
+Project
+:
+TARDIS
+(
+T
+elekom
+Ar
+chitecture for
+D
+ecoupling and
+I
+ntegration of
+S
+ervices)
+The team's primary focus is the identity management of TARDIS. They solutions are based on state of the art open source products, Keycloak and Ory Hydra. Those components make sure that over 270 million API requests per day are authenticated in a secure and scalable manner.
+As a member of the team, you will play a key role in designing, building, and maintaining our platform for enterprise integration. You will work in an agile SCRUM format and collaborate with an international DevOps team. We prioritize agile values such as openness, courage, focus, commitment, and respect, and we value independent development of solutions.
+What will you do?
+Redesigning, building, and maintaining the identity management components Iris, Iris-Hydra and Orion (Keycloak, Ory Hydra).
+Redesigning the TARDIS team, user and permission management for improved user experience and granular permission controls.
+Supporting DTIT’s zero-trust strategy with standard-based token exchange and policy enforcement.
+Ensuring TARDIS availability and interoperability in various cloud platforms.
+Working in an open-source-focused environment, both consuming and providing FOSS software.
+Improving one of the core components of the TARDIS runtime landscape.
+Design and Development of the complex IT systems/applications
+Analysis of the requirements and communication with internal stakeholders
+Use agreed programing language or tools to develop automation solutions.
+Development according to Agile methodology – SCRUM
+Creation of technical documentation
+Creative approach within complex solution and technology used
+Work closely with other developers, UX designers, business and systems analysts on implementation and testing of the developed solution
+Mentor junior developers and participate on onboarding procedure
+You will succeed if you:
+Strong proficiency in Golang, Kubernetes, Helm, Docker.
+Proficiency in Java (Spring-Boot / Quarkus), GitOps, CI/CD, Cloud LMS stack (Elasticsearch, Fluentd, Jaeger, Prometheus).
+Experience with cloud platforms such as AWS and GCP.
+Familiarity with open-source software.
+Excellent communication, cooperation, and coordination skills.
+Deep knowledge of REST web services and knowledge of OAuth2.0, OIDC.
+Strong test automation skills
+Stay curious and grow: Willingness to permanently develop yourself through learning
+Ability to work in an international, agile, and collaborative team environment
+have experiences with application development – Advanced
+have experiences with programming – Advanced
+have experiences with software development - Advanced
+have knowledge of Scrum
+have knowledge of Agile Principles
+have knowledge of SAFe
+speak English – Upper intermediate (B2)
+have several years of experience working in IT industry preferably developing solutions for enterprise level application
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+3 100 - 3 700 EUR/month
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 3100 € /brutto.
+Contact
+Contact person: Ing.  Lenka Kiššová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5133981
+Dátum zverejnenia:
+29.10.2025
+2025-10-29
+lokalita:
+Remote work
+Pozícia:
+Programmer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 100 EUR/month

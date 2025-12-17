@@ -1,0 +1,103 @@
+Cloud Infrastructure Engineer – Azure & Microsoft 365
+BTCS Slovakia s. r. o.
+Place of work
+Pribinova 4, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 000 EUR/month
+Final salary depends on individual experience and skills of selected candidate
+Information about the position
+Job description, responsibilities and duties
+How we work
+As a technological leader in the fast-paced crypto space, we are required to react quickly on changing market demands. Therefore, we believe in agile project management methodologies. By continuously delivering small increments, we learn through the feedback we receive to optimize our products until they excel. While we are dynamic in spirit, we believe in our staff taking initiative to empowering themselves where they can drive impact rather than hierarchically assigned ownership.
+Main Responsibilities:
+Oversee and optimize Microsoft Azure virtual infrastructure, Windows Servers, and Microsoft 365.
+Microsoft 365 Services including but not limited to Exchange Online, SharePoint Online, OneDrive, MS Teams.
+Regularly implement and maintain Infrastructure as Code (IaC) solutions using Terraform for efficient management and automation.
+Administer and enhance Active Directory (Entra ID and On-Prem), Group Policies.
+Oversee integration and operation of internally developed and externally procured software components.
+Collaborate on cybersecurity initiatives, including Microsoft Defender and Intune MDM, to secure endpoints, mobile devices, and company resources.
+Collaborate closely with development, security, networking, and management teams, providing mentoring and sharing technical knowledge.
+Automate tasks and processes to improve operational efficiency, creating detailed documentation to support knowledge sharing.
+Advise stakeholders on strategic technology decisions, system roadmaps, and solution identification aligned with long-term business objectives.
+Qualifications & Skills:
+Bachelor’s degree in Information Technology or completed relevant IT apprenticeship.
+Deep technical expertise in at least 5 of the following:
+Windows Azure VM administration
+Microsoft Entra ID and On-Prem Active Directory
+PowerShell scripting or similar automation technologies
+Administration of Azure Virtual Desktop
+Windows DNS Administration
+Windows File Server Administration
+Experience in various Azure Services (Storage, Keyvault, Update Management, Backups, Governance  and more..)
+Entra ID Authentication (App Registration, SAML, OAuth, OIDC, SCIM..)
+Windows Certificate Authority (check naming)
+Microsoft 365 Services (SharePoint Online, OneDrive, MS Teams_)_
+Exchange Online Hybrid Setup Including Mail Authentication and Security
+Microsoft SQL Server & Azure SQL Server
+Advanced knowledge of Group Policy management and device management with Intune MDM
+Demonstrated ability to effectively manage multiple high-priority tasks under pressure, meet tight deadlines, and balance urgent requests with ongoing projects.
+Exceptional collaboration, communication, and interpersonal skills.
+Fluent in English (written and spoken); German proficiency desirable.
+A proactive, positive problem-solver comfortable driving decisions, changes, and improvements across international and cross-functional teams.
+Hands-on experience deploying, managing, and optimizing all necessary components to run applications in a cloud environment effectively.
+Employee perks, benefits
+Exciting projects in the crypto space
+A friendly and supportive team culture that relies on positivity
+Regular team events and activities
+High level of autonomy and responsibility
+Flexible organization of your working hours
+Workation:Enjoy the flexibility of working across designated EU countries, with up to 10 days a year to combine work and travel
+Sport: Multisport card
+Home office
+Information about the selection process
+Online Personal Interview
+This call is about getting to know each other. We want to know more about your background, motivations and expectations and at the same time you can ask us your questions.
+Technical Interview
+In the technical interview, we have a few tasks for you to learn more about your skills. You will also have the opportunity to get to know the team and the workplace.
+We will contact only candidates, who fit our needs. By sending your CV, you agree with processing of your personal data.
+Requirements for the employee
+Candidates with education suit the position
+Secondary school student
+Secondary without school-leaving examination
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+System Engineer
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+5
+Advertiser
+Brief description of the company
+Bitcoin Suisse is the Swiss crypto-native pioneer and trusted gateway to crypto asset investing. As a crypto broker, we operate across the most relevant crypto exchanges and provide brokerage, custody, staking and other crypto-related services at the forefront of technical innovation. We are as dedicated to our clients as we are passionate about cryptocurrencies and the underlying blockchain technology. We make things happen and have helped to shape the crypto and blockchain ecosystem in Switzerland as a driving force in the development of the ‘Crypto Valley’. Bitcoin Suisse is headquartered in Zug and targets (ultra-) high-net-worth individuals and institutional clients
+Number of employees
+250-499 employees
+Contact
+Contact person: Lujza Petríková
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5168827
+Dátum zverejnenia:
+4.11.2025
+2025-11-04
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+BTCS Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

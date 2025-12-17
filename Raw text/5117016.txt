@@ -1,0 +1,109 @@
+Pracovné ponuky
+Benefity
+O nás
+Staráme sa o vaše zdravie aj kariéru.
+U nás dostanete výhody aj nad rámec zákona.
+Ponuky spoločnosti
+Bezpečnostný analytik/analytička - KE alebo BA
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto)
+2 300 EUR/mesiac
+Uvedená nástupná mzda je len garantované minimum. Je predmetom našej vzájomnej dohody a závisí od vašich odborných znalostí a skúseností. Navyše máte nárok na ročný bonus v závislosti od firemných výsledkov.
+Termín nástupu
+dohodou
+Druh pracovného pomeru
+plný úväzok
+Kto sme
+Nový svet, o ktorý sa v Dôvere snažíme už 30 rokov, je transparentné a kvalitné zdravotníctvo. Dobrý pocit z toho, že spolu aktívne, systematicky a zmysluplne meníme nielen našu poisťovňu, ale aj celé zdravotníctvo, budete mať každý deň. Robíme všetko preto, aby sme boli v očiach verejnosti najlepšia zdravotná poisťovňa na slovenskom trhu a mali čoraz viac spokojných zamestnancov a poistencov. Ak chcete byť aj vy súčasťou modernej a stabilnej spoločnosti, ktorej oblasť inovácií a benefitov pre poistencov ako aj pre lekárov prináša pridanú hodnotu pre celý systém, pridajte sa k nám do Dôvery.
+Do akého tímu budete patriť?
+Na našom IT-čku máme už 200 interných kolegov a kolegýň, ktorí radi testujú, programujú a analyzujú. Náš tím “Odbor kybernetickej bezpečnosti" neustále vyhodnocuje existujúci stav informačnej a kybernetickej odolnosti IT infraštruktúry, siete, sieťových prvkov a koncových zariadení. Identifikujeme potenciálne riziká, ktoré by mohli ovplyvniť IT bezpečnosť a kontinuitu prevádzky ako aj elektronické služby, ktoré sú kľúčové pre chod Dôvery. Pracujeme so vstupmi z interných a externých monitorovacích nástrojov. Pracujeme s výstupmi z analýz, auditov či výsledkov penetračných testov. Na zvýšení úrovne kybernetickej odolnosti Dôvery pracujeme spoločne so zamestnancami ako aj s dodávateľmi. Veľkú váhu energie a prostriedkov venujeme vzdelávaním sa a testovaní našej pozornosti v rôznej podobe. Náš tím vedie manažér kybernetickej bezpečnosti, ktorý spolupracuje so security architektom, tímom bezpečnostných analytikov ako aj tímom dodávateľov v oblasti reakcie a implementácie bezpečnostných riešení. Aktuálne hľadáme tímového kolegu, ktorý prispeje svojimi skúsenosťami k ďalšiemu rozvoju oblastí bezpečnosti, upevňovaní a zlepšovaní bezpečnostných praktík.
+Čo vás u nás čaká?
+Identifikujete bezpečnostné riziká a navrhujete opatrenia na ich elimináciu (úroveň OS, aplikácií, hardwaru).
+Monitorujete a vyhodnocujete denné bezpečnostné udalosti, incidenty, hrozby a zraniteľnosti.
+Podieľate sa na riešení bezpečnostných incidentov, sledujete trendy.
+Analyzujete bezpečnostné hrozby a riziká na základe výstupov z bezpečnostných monitorovacích nástrojov na úrovni OS, aplikácií, hardvérovej infraštruktúry, sieťovej infraštruktúry a sieťových prvkov.
+Analyzujete potenciálne a vzniknuté incidenty a identifikujete hlavnú príčinu vzniknutých problémov.
+Spolupracujete na vyhodnocovaní zraniteľnosti, hrozieb a rizík, bezpečnostných auditov a testovaní možnosti prienikov.
+Vykonávate správu bezpečnostných nástrojov/postupov a testujete nové bezpečnostné SW/HW nástroje.
+Spolupracujete pri zavádzaní pravidiel IT bezpečnosti, kryptovania, otázok ochrany osobných údajov a GDPR, a spolupracujete pri auditoch a kontrolách.
+Zabezpečujete súčinnosť pri prevádzke IS s vybranými dodávateľmi.
+Zúčastňujete sa pravidelnej pohotovosti pre vybrané bezpečnostné nástroje v dohodnutom rozsahu.
+Zabezpečujete súčinnosť pri prevádzke IS s vybranými dodávateľmi.
+Vašou hlavnou zodpovednosťou bude administrácia, správa a spolupráca na rozvoji pridelených monitorovacích systémov v oblasti IT bezpečnosti.
+Kontrolujete dodržiavanie bezpečnostných pravidiel, postupov a procedúr.
+Vybavujete ďalšiu zverenú agendu v zmysle platných vnútorných organizačných aktov zdravotnej poisťovne.
+Zodpovedáte za plnenie ostatných úloh stanovených nadriadeným manažérom.
+Čo by ste mali ovládať?
+Minimálne 2 roky ste pracovali na podobnej pozícií.
+Máte technické znalosti bezpečnostných produktov z oblasti – SIEM, DLP, Email Gateway, Web Gateway , WAF,  IDS/IPS, Antivirus/Antimalware, Vulnerability management, EDR, Cloud Security, Zero trust.
+Máte povedomie o bezpečnostných zákonoch, vyhláškach, štandardoch – ISO 2700X a Zákon o kybernetickej bezpečnosti.
+Máte skúsenosti zo spracovania a prípravy technickej a projektovej dokumentácie navrhovaného riešenia.
+Analyzovali ste kybernetické hrozby pri využití technických prostriedkov kybernetickej bezpečnosti.
+Viete popísať kybernetické hrozby a navrhnúť opatrenia na ich elimináciu.
+Čo sa našim kolegom u nás páči?
+Sick days, 2 dni (môžete využiť kedykoľvek počas roka) + 2 dni navyše (môžete čerpať ak zostatok vašej dovolenky je 15 dní a menej).
+Prácu zvládneme odkiaľkoľvek. Každý zamestnanec si môže zvoliť, či chce pracovať v štandardnom režime 50 % home office a 50 % office. Ak niektorý z kolegov uprednostňuje pracovať viac z home officu, povaha práce mu to dovoľuje a jeho nadriadený mu to schváli, môže pracovať aj v režime 60/40, 70/30 alebo 80/20 alebo dokonca aj 100 % home office.
+Nie sme korporát a ani malá firma – sme niečo medzi :-). Máme tu rozbehnutých veľa dlhodobých projektov, ktoré naši kolegovia úspešne zastrešujú na svojich komplexných pozíciách. Väčšina našich projektov vzniká na „zelenej lúke“ a sami sa môžete presvedčiť, aký sme v nich úspešní. Stereotyp a nuda Vám zaručene nehrozí.
+Adaptačný proces u nás neznamená hodiť Vás do vody a plávať, ale je to obdobie, počas ktorého Vás postupne oboznámime so všetkým, čo budete potrebovať, aby ste boli plnohodnotným členom nášho tímu a aby ste sa na pozícií cítili komfortne.
+Šikovnosť a proaktivita sa u nás cení. A to odmenami za individuálny výkon a navyše ak sa nám bude dariť, máte možnosť získať aj finančný bonus vo výške 3-násobku hrubej mesačnej mzdy.
+V Dôvere podporujeme kolegov, ktorí sa chcú vzdelávať. Kedykoľvek môžu absolvovať rôzne kurzy a odborné školenia, zúčastniť sa odborných konferencií alebo inšpiratívnych prednášok, webinárov či prezentácií o zaujímavých projektoch, na ktorých pracujú naši kolegovia.
+Na zdraví našich kolegov nám záleží, a preto radi realizujeme programy na podporu zdravého životného štýlu ako Rozhýbme sa s Dôverou, podporujeme bežecké podujatia, preplácame masáže na pracovisku, prispievame na MultiSport kartu a psychickú pohodu sa snažíme podporiť aj našou Linkou Dôvery, na ktorú sa môžeme nonstop a anonymne obrátiť na prípadnú radu od psychológov a odborníkov na financie a právo.
+Radi občas vypneme a zregenerujeme svoje sily na našich spoločných akciách ako sú športové hry, vianočné večierky, grilovačky, husaciny, alebo odborové teambuildingy.
+Čo by vás ešte mohlo zaujímať?
+Miesto výkonu práce: väčšina nášho IT tímu sedí na Moldavskej v Košiciach, ale pár kolegov nájdete aj v Bratislave na Einsteinovej v Digital parku, odkiaľ máte blízko do Auparku, centra a rovno aj na diaľnicu, von z mesta. Záleží len na vás, kde vám to viac vyhovuje.
+Spolupráca:  hľadáme kolegu na TPP na plný úväzok, so skúšobnou dobou 3 mesiace. Zmluvu s vami uzatvárame zatiaľ na 1 rok, a keď nám to spolu pôjde, s radosťou vám zmluvu predĺžime.
+Onboarding: Začína od momentu, kedy zareagujete na inzerát. A ja vás budem sprevádzať vaším pôsobením v Dôvere od prvého kontaktu. Kedykoľvek sa môžete na mňa obrátiť.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Požadovaná prax
+2
+Osobnostné predpoklady a zručnosti
+Ste zodpovedný, kreatívny a komunikatívny.
+Ste tímový hráč.
+Máte silné prezentačné zručnosti.
+Informácie o výberovom konaní
+Informácie ohľadom spracúvania osobných údajov predovšetkým práva dotknutej osoby, v súlade s Nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) sú prístupné na www.dôvera.sk. Súhlas môžete kedykoľvek odvolať najmä zaslaním písomného odvolania na adresu sídla zdravotnej poisťovne, e-mailom na info@dovera.sk, alebo odovzdaním písomného odvolania na ktorejkoľvek pobočke zdravotnej poisťovne.
+Kontakt
+Kontaktná osoba:
+Ing.  Adriana Štefíková
+Adresa spoločnosti
+Poslať žiadosť
+Ponuky spoločnosti
+Dôvera
+O Dôvere
+Kontakty a pobočky
+Pre médiá
+Naše ocenenia
+Hlavná cena ITAPA
+2x Strieborná cena ITAPA
+ITAPA eFocus
+IT projekt roka
+Facebook Awards
+© 2025 Dôvera
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5117016
+Dátum zverejnenia:
+6.11.2025
+2025-11-06
+lokalita:
+Bratislava
+Pozícia:
+Špecialista IT bezpečnosti
+Spoločnosť:
+DÔVERA zdravotná poisťovňa, a. s.
+Základná zložka mzdy (brutto):
+2 300 EUR/mesiac

@@ -1,0 +1,74 @@
+About us
+Our benefits
+Open positions
+Lead Java Application Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3 800 and EUR 6 300 per month (for a full-time role). The specific salary offered considers: the requirements, scope, complexity and responsibilities of the role, the applicant’s own profile including education/qualifications, expertise, specialization, skills and experience. In addition to your base salary, you may be eligible for additional rewards and benefits including an attractive performance-based bonus.
+Information about the position
+Job description, responsibilities and duties
+Join our innovative team where you'll collaborate with trusted professionals to drive innovation across public and private cloud environments through automation. In this pivotal role, you'll contribute to building secure, stable platforms with a core focus on self-service capabilities for Swiss Re's business units.
+As a Lead Java Application Engineer within our Database as a Service squad, you'll spearhead the development of intelligent self-service solutions for database users while providing technical leadership for future development initiatives. Your expertise will shape how our users interact with database services, making complex database operations accessible and efficient.
+Employee perks, benefits
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+We're seeking a curious, quality-focused professional to join our dynamic cross-functional Database team spanning Bratislava and Zürich. You'll thrive in our collaborative environment if you're passionate about multi-cloud technologies and building innovative tools. Don't worry about meeting 100% of our requirements—we value potential and enthusiasm just as much as experience.
+We are looking for candidates who meet these requirements:
+- Strong Java expertise including Spring, Spring Boot, and related libraries
+- RESTful API development experience and implementation knowledge
+- Automated testing skills with unit and integration testing frameworks
+- Technical proficiency with Git, Maven, OpenAPI, and Docker
+- CI/CD pipeline experience and Java best practices implementation
+- Problem-solving abilities with attention to detail and solution-oriented mindset
+- Collaborative approach to working across cultures and geographies
+- English language proficiency for effective communication
+These are additional nice to haves:
+- Experience with Postgres and Oracle databases
+- Java and/or Microsoft Azure certifications
+- Knowledge of Agile and DevOps methodologies
+- Interest in machine learning and statistical modeling
+- Strong customer orientation with ability to anticipate needs
+- Flexible approach to hybrid working arrangements
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Denisa Bastos
+Apply here
+ID:
+5159547
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Bratislava
+Pozícia:
+Java Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

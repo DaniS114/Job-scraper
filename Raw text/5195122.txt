@@ -1,0 +1,97 @@
+Deutsche Telekom Services Europe Slovakia
+O nás
+Voľné pozície
+Firemná kultúra
+Benefity
+Kontakt
+Technical
+DevOps Engineer
+As a Senior DevOps Engineer, you will work as part of a dedicated DevOps team designing, maintaining, and enhancing cloud-native infrastructure that supports data science workloads. You’ll collaborate with multiple development teams with deploying and maintaining time-series forecasting and generative AI applications. The role focuses on building reliable, secure, and observable platform in GCP using Kubernetes, IaC, and automated CI/CD pipelines.
+Contract type
+full-time
+Place of work
+Bratislava, Slovak Republic
+Start date
+ASAP
+Wage (gross)
+From 3 000 EUR/month
+About
+the position
+Working in a distributed DevOps team across multiple locations using agile practices
+Supporting the design and operation of core infrastructure on GCP for data science and Python-based ML/AI workloads
+Maintaining and improving Kubernetes environments with Helm and ArgoCD
+Developing and reviewing Terraform modules and cloud configurations
+Managing GitLab CI/CD pipelines across applications, infrastructure, and ML projects
+Implementing and optimizing autoscaling strategies for workloads and clusters
+Ensuring robust observability across monitoring, logging, and tracing using Grafana, Prometheus, Loki, and Tempo
+Troubleshooting issues across cloud, container, networking, and application layers
+Enhancing platform reliability, cost efficiency, and developer experience
+Educating developers and data scientists on best practices and relevant parts of the technology stack
+We work in a HYBRID STYLE of working with the possibility of working from home , but twice a week we meet in the office in Košice or Bratislava for meetings.
+The published salary is the minimum possible offer.
+The starting salary may be higher depending on the extent of fulfillment of the employee's requirements (education, language skills, required practice, personality assumptions and skills).
+What
+we expect
+Candidates with education suit the position
+Secondary with school-leaving examination
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Fluent English; German is a plus
+Minimum 4 years of professional experience in DevOps or related roles
+Bachelor’s degree in Computer Science, Information Technology, or a related field
+Strong expertise with at least one major cloud provider (GCP preferred; AWS/Azure acceptable)
+Extensive experience with Docker, Kubernetes, Helm charts, and container-based production systems
+Understanding basic security concepts and helping to identify and mitigate common vulnerabilities
+Solid hands-on proficiency with Terraform and GitOps tools such as ArgoCD
+Strong experience building and maintaining CI/CD pipelines, ideally with GitLab CI
+Proficiency in Unix/Linux administration, shell scripting, and practical networking fundamentals
+Experience with monitoring and observability solutions (Grafana stack; ELK also relevant)
+Familiarity with autoscaling concepts (HPA/VPA, cluster autoscaler)
+Experience with relational and document databases, such as PostgreSQL and MongoDB, is a plus
+Experience with OpenTelemetry instrumentation is a plus
+Benefits
+that make you happy
+Annual bonus
+Fully paid meal vouchers
+Mobile phone also for private use
+Discounts for selected Telekom products
+Supplementary pension saving contribution
+Cafeteria system of benefits/Multisport card
+Sick days
+Sports club & Health days
+Teambuildings, summer & Christmas party
+Opportunities for career growth
+Referral program
+Flexible working time
+About
+the selection process
+We are dedicated to constantly promoting equal employment opportunities and are ready to make reasonable adjustments for applicants with disabilities. If you are interested in our job opportunity and meet our job requirements for this position, we encourage you to confidentially notify us if you need specific accommodations to ensure your full participation in our recruitment process at recruitment@telekom.com.
+Snažíme sa neustále podporovať rovnaké príležitosti v zamestnaní a sme pripravení urobiť primerané úpravy pre uchádzačov so zdravotným postihnutím. Ak máte záujem o túto pracovnú príležitosť a spĺňate požiadavky inzerovaného pracovného miesta, odporúčame vám, aby ste nám dôverne oznámili, ak potrebujete osobitné úpravy, ktoré vám zabezpečia plnohodnotnú účasť na našom náborovom procese na recruitment@telekom.com.
+Send CV
+Deutsche Telekom Services Europe Slovakia
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195122
+Dátum zverejnenia:
+20.11.2025
+2025-11-20
+lokalita:
+Bratislava
+Pozícia:
+Business Intelligence Specialist
+,
+Javascript Programmer
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+Deutsche Telekom Services Europe Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

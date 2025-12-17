@@ -1,0 +1,99 @@
+Back-end Developer
+Solargis s. r. o.
+Place of work
+Bottova 2a, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+as soon as possible
+Wage (gross)
+3 000 EUR/month
+salary can be higher, depending on the qualification of the jobholder
+Information about the position
+Job description, responsibilities and duties
+Design and develop scalable backend services using AWS serverless architecture
+Build and maintain APIs using AWS Lambda, API Gateway, and related services
+Implement and optimize database solutions (MongoDB)
+Debug production issues and implement monitoring solutions
+Write comprehensive tests and maintain code quality standards
+Collaborate in code reviews and architectural design sessions
+Participate in agile ceremonies and cross-functional team collaboration
+Document technical solutions and maintain system documentation
+Monitor application performance and implement optimizations
+Stay current with AWS services and backend development best practices
+Employee perks, benefits
+Participation in development of the top notch software products in the green energy industry
+Competitive salary and performance-based bonuses
+Flexible working hours and possibility of home office – based on team agreement
+Sick days
+Technical growth encouraged via opportunity to participate at conferences, workshops, and courses
+Personal growth opportunities, possibility to work on different projects
+Budget for personal development (seminars, conferences, technical courses, language courses)
+Modern office located in SKY PARK offices (Bratislava) in which you can find chill areas, workout area and standing desks
+Free refreshments and fruit
+Green transportation friendly environment - bike parking lots (in the building), showers (in the office), bike lanes in SKY PARK proximity, EV charging stations (in building)
+Multicultural and international environment, communication in English
+Work in fast growing sector of renewable energy
+Information about the selection process
+Candidate should have EU citizenship or valid Slovak residence permit
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT or similar
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Required:
+University degree in Computer Science, Software Engineering, or related IT field
+5+ years backend development experience with TypeScript/Node.js
+Strong AWS experience: Lambda, API Gateway, S3, CloudFront, CDK, CloudFormation
+Experience with AWS messaging services: SNS, SQS
+NoSQL database experience: MongoDB
+Experience with monitoring and logging: CloudWatch, Sentry
+Infrastructure as Code (CDK) experience
+Linux/Unix environment proficiency
+Agile development methodology experience
+Strong analytical and problem-solving skills
+Clean code practices and code review experience
+English communication skills (written and verbal)
+Prefered:
+Relational database experience (PostgreSQL)
+Front-end technologies: Angular, RxJS, NgRx
+Testing frameworks: Jest
+Heroku platform experience
+Advertiser
+Brief description of the company
+Solargis is a technology and consultancy company servicing companies involved in the development and operation of solar power plants. We provide meteorological data, energy evaluation software and technical consultancy primarily related to evaluation and management of solar power production.
+Thanks to 23 years of focused research and technology developed in-house, we have become a leader in the field. Today, we work for 1200 medium and large organizations from 90 countries, helping them make qualified financial decisions, improve technical design, and optimize operations. Our data products and services have become an essential part of the project development of solar power plants. We also provide services for performance evaluation, monitoring, and forecasting of solar power.
+We are a group of geoscientists, meteorologists, engineers, programmers, data scientists, analysts and business developers focused on building and promoting a solar energy assessment platform that helps the solar power industry minimize weather-related risk and improve performance efficiency.
+In our team, every member brings unique skills and expertise. We look for talented, resourceful, innovative, passionate, and friendly individuals to join our team. We offer a career that is challenging, but enjoyable, and rewarding.
+Number of employees
+100-149 employees
+Contact
+Contact person: Magdaléna Milová
+Tel.:
++421918720347
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5174419
+Dátum zverejnenia:
+13.10.2025
+2025-10-13
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+Spoločnosť:
+Solargis s. r. o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

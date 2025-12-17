@@ -1,0 +1,93 @@
+About us
+Our benefits
+Open positions
+Business Analyst (Hybrid)
+Place of work
+Mlynské nivy 12, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 100 - 3 400 EUR/month
+The specific salary offered considers: the requirements, scope, complexity and responsibilities of the role and the applicant’s own profile including education/ qualifications, expertise, specialization, skills and experience. In the situation where you significantly exceed the requirements, the offered salary may be above the advertised range. In addition to your base salary, you may be eligible for additional rewards and benefits including an attractive performance-based bonus.
+Information about the position
+Job description, responsibilities and duties
+About the Role
+We are seeking a dedicated and detail-oriented Business Analyst to join our team. The ideal candidate will be responsible for analyzing reporting needs, identifying areas for improvement, and implementing solutions to enhance efficiency and effectiveness. This role requires strong analytical skills, excellent communication abilities, and a collaborative mindset.
+The Business Analyst focus is on requirements analysis, design & build of the reports, regulatory disclosures and other analytical tasks. The ideal candidate will leverage their investment expertise, as the position will interact with various finance (like GIR and Asset Management) and gain a deep understanding of the Finance Investment reporting processes. In addition, the candidate will be responsible for on-going reporting, accuracy, quality and ensuring the integrity of the standard reporting product.
+You will enable and implement the Investment Finance Reporting vision and ensure best practice standards are met. You will translate requirements for Reporting acting as a conduit between the teams and the implementation service delivery partners.
+Accountabilities will include:
+•    Ensure that data and attributes used by reporting systems are consistent and reliable delivering accurate information required by stakeholders
+•    Perform analysis and documentation of FPSL subledger HANA tables
+•    Write technical specifications of required reporting views to support report development •    Effectively communicate requirements to application developer
+•    Liaise and coordinate with the team members to make sure all implementations follow guiding principles, aligned with the target architecture and standardization concept.
+•    Execute functional testing of reporting views and reports to ensure all requirements are implemented properly
+•    Define and ensure consistent reporting capabilities based on SAP S/4HANA Financial Products Subledger and Analysis for Office (AfO), as well as other Reporting Tools.
+•    Perform root cause analysis on identified defects and resolve accordingly
+•    Ensure best practice methods are adhered to, reports are well documented, training and support documentation are provided.
+•    Ensure communication within the team and across the organization.
+About the Team
+Subledger Reporting team has ownership of investment reporting solution and is responsible for defining business requirements and provide operational support.
+The team will be newly centralized in Bratislava. working within the Finance Reporting Solutions product area to deliver performant, scalable, and maintainable solutions that enable our stakeholders to quickly extract knowledge from large and disparate financial datasets. Our solutions support financial reconciliation, steering and auditing based primarily from subledger data on the SAP S/4 HANA and Microsoft Azure Data and Palantir Foundry platforms.
+You will act as a business analyst within this team, with end-to-end responsibility, such as development & maintenance as well as operations along the full life cycle, for our team's solutions. This includes the design and implementation of functionalities that enable fast and reliable reporting of data. Specifically, you will need to understand the standard use of SAP S/4 HANA and other platforms for analytical purposes, collaborating with customers as well as contributing to and fostering best practices and standards for your area of expertise.
+Employee perks, benefits
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+About You
+Essential:
+•    Business Analyst for Investment Subledger Reporting with a proven delivery record as a business analyst (in SAP landscape).
+•    Strong understanding of accounting principles
+•    Proven expert knowledge in various Reporting & Analytics technologies with a focus on SAP and Microsoft and Palantir.
+•    Experience with SAP/FPSL, SAP HANA preferably Financial Product Subledger (FPSL)
+•    Experience with databases and querying languages, SQL
+•    Show well-structured, analytical thinking and the ability to explain process clearly and understandably to a non-technical audience.
+Nice to have:
+•    Knowledge in IFRS accounting standard
+•    Experience with Analysis for Office
+•    Strong experience in all phases of the Analytics solution development process including requirements gathering, architecture design, implementation, testing and documentation.
+•    Experience in Finance at Swiss Re or with other major players in the re/-insurance, banking or financial services industry, ideally with consulting background.
+•    Excellent command of English, and any other language is a plus.
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Barbara Oblozinsky
+Tel.:
++421232778021
+Apply here
+ID:
+5138132
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Business Analyst
+,
+Business Intelligence Specialist
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 100 EUR/month

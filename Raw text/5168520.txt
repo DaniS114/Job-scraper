@@ -1,0 +1,75 @@
+Medior Fullstack
+ERP/Odoo Developer
+Miesto práce:
+Bratislava, možnosť home ofﬁce 100%
+Ponúkaný plat (brutto):
+2500-3100 € (podľa skúseností na TPP)
+24-30€/hod. (podľa skúseností na živnosť)
+O spoločnosti Dodo Systems s. r. o.
+Spoločnosť Dodo Systems s. r. o. bola založená skúsenými profesionálmi v odbore informačných systémov s viac ako sedemnásťročnou praxou.
+Sme certifikovaným SILVER partnerom rýchlo rastúceho ERP systému Odoo.
+Naše služby sú zamerané najmä na jeho implementáciu, poskytovanie poradenských služieb a tvorbu analýz a reportov v business intelligence nástroji Microsoft Power BI.
+ERP systémy väčšinou nasadzujeme malým a stredným spoločnostiam zo Slovenska a Českej republiky a vždy kladieme dôraz na kvalitu dodaných riešení a spokojnosť našich zákazníkov.
+Do nášho rastúceho tímu hľadáme šikovného Python programátora so skúsenosťami s HTML/CSS/JavaScriptom a chuťou učiť sa nové veci.
+Náplň práce, právomoci a zodpovednosti
+Čo budeš robiť
+vyvíjať a upravovať zákaznícke moduly podľa pripravených analýz
+implementovať backend aj frontend funkcionality v Odoo prostredí
+zlepšovať a optimalizovať existujúce moduly pre lepšiu funkcionalitu
+pripravovať technické návrhy a analýzy podľa zadaní od našich konzultantov
+participovať na code review - všetky zmeny prechádzajú kontrolou, časom budeš sám kontrolovať kód kolegov
+postupne rásť smerom na seniora a preberať komplexnejšie úlohy a rozhodnutia
+prispievať svojimi nápadmi na vylepšenia, vždy si radi vypočujeme tvoje nápady a zapracujeme ich
+Pozícia je ideálna pre ľudí primárne so skúsenosťami s Odoo alebo z iných ERP systémov, ktorí chcú získať praktické fullstack skúsenosti a profesionálne rásť v Odoo prostredí.
+Čo od teba očakávame
+Nevyhnutné požiadavky:
+minimálne 2 roky skúseností s vývojom Odoo alebo iným ERP systémom
+Python – pokročilá úroveň (framework Odoo výhodou)
+HTML/CSS/JavaScript – pokročilá úroveň (QWeb, OWL framework výhodou)
+SQL – základy pre prácu s databázami
+schopnosť samostatne riešiť úlohy a navrhovať efektívne riešenia
+angličtina – pasívne (B1) na čítanie/písanie dokumentácie
+Čo považujeme za výhodu:
+praktická skúsenosť s Odoo fullstack vývojom
+DevOps nástroje: GitHub Actions, Azure Pipelines, Docker
+skúsenosti s CI/CD a kontajnerizovanými prostrediami
+skúsenosti s integráciami cez API
+znalosť nástrojov: Azure DevOps, Git, PyCharm, GitHub
+analytické myslenie a schopnosť navrhovať architektúru riešení
+Čo ponúkame
+Pracovné podmienky:
+práca na TPP alebo živnosť podľa tvojich preferencií
+možnosť 100% home office
+25 dní dovolenky + 5 sick days pre regeneráciu a work-life balance
+flexibilný pracovný čas prispôsobený tvojmu životnému štýlu
+Profesionálny rozvoj:
+priestor pre samostatnosť a zodpovednosť v projektoch
+kontinuálny rast v Odoo vývoji s možnosťou postupu na senior pozíciu
+práca na zaujímavých projektoch s rôznorodými výzvami
+priateľské pracovné prostredie s otvorenou komunikáciou
+podporu pri vzdelávaní
+Informácie o výberovom konaní
+Posielajte CV výhradne prostredníctvom
+www.profesia.sk
+spolu so súhlasom so spracovaním osobných údajov.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5168520
+Dátum zverejnenia:
+7.10.2025
+2025-10-07
+lokalita:
+Práca z domu
+Pozícia:
+Programátor
+,
+Python programátor
+Spoločnosť:
+Dodo Systems s. r. o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

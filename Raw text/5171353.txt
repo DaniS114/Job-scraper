@@ -1,0 +1,103 @@
+SK
+EN
+SK
+EN
+About the company
+Benefits
+Job Positions
+Contact
+Junior QA (Automation - friendly)
+Place of work
+Nivy Tower, Mlynské nivy, Ružinov, Slovakia, Bratislava (Job with occasional home office)
+Contract type
+full-time
+Start date
+immediately
+Information about the position
+Job description, responsibilities and duties
+Resco helps the world work better outside the office by making it simple to build complex mobile experiences for frontline workers. Over 800 enterprise and corporate companies from segments like utilities, retail, energy, oil & gas, manufacturing, telecommunications, transportation & logistics, or NGOs rely on Resco to simplify their frontline operations, improve efficiency, and reduce paperwork.
+We are looking for a Junior QA Engineer to help increase automated test coverage and reduce the need for manual testing. Your role will involve defining what needs to be automated and implementing tests using modern tools like Playwright.
+What you’ll do:
+Run & improve regression and smoke tests for core CRM flows
+Write and maintain automated UI/integration tests (we use Playwright + TypeScript today — improvements are welcome)
+Reproduce, document, and report bugs with clear steps and context; collaborate with developers
+Create stable test data and realistic customer scenarios
+Reduce flaky tests and keep the test suite fast and useful
+Learn and grow into broader testing areas (E2E, performance, observability)
+You’re a fit if:
+Comfortable with UI testing and validating integrations
+Know Git basics, can read logs and debug simple issues
+Basic automation experience — Playwright + TypeScript is a plus; open to other stacks (Python/JS/Java)
+Curious, communicative, and takes ownership
+Wage (gross)
+1 800 EUR/month
+depending on the professional qualifications and experience
+Employee perks, benefits
+Work for the IT company of the year 2014, 3rd most profitable IT company of 2015, and help us deliver mobile solutions to customers such as UNHCR, Heineken, Dräger, Kemp & Lauritzen, Danone, Bayer CropScience, Husqvarna, and 2000+
+International work environment
+Mentorship + training time and budget
+Training, language courses & international conferences
+Relaxed and informal culture
+Flexible working hours, hybrid/remote, small supportive team, real impact
+Attractive bonus system
+MultiSport card - squash, tennis, badminton, gym, spa & countless other sports and activities
+Influence the automation framework from day one
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Intermediate (B1)
+Other knowledge
+Python - Basic
+TypeScript - Basic
+Java - Basic
+Number of years of experience
+1
+Personality requirements and skills
+Requirements:
+1–2 years testing experience preferred (internships or personal projects count)
+Ability to understand test cases and execute them effectively
+Basic JavaScript/TypeScript; scripting is an advantage
+Analytical mindset; experience with JIRA is a plus
+ISTQB Foundation Level is a plus, not required
+Basic English required
+Advertiser
+Brief description of the company
+Resco, founded in 1999, is one of the global leaders in developing field operations and mobile enterprise software solutions. The company enables organizations to use and collect business data in the field and digitize paper-based processes through state-of-the-art technology. The solutions enable integration of various CRM and ERP systems, including Microsoft Dynamics 365, Salesforce, or Resco’s standalone platform - Resco Cloud. Today, Resco empowers over 2,500 clients and 200,000 users worldwide and transforms their field operations and knowledge management.
+Number of employees
+100-149 employees
+Contact
+Contact person: HR team Resco
+E-mail:
+send CV
+Interested?
+Send your CV
+and become a part of the tech family.
+Send us your cv
+Follow us
+RESCO spol. s r.o.
+Mlynské nivy 5 / 82109 Bratislava / SK-EU
+Copyright © 2025 Resco spol. s r.o.
+All rights reserved
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5171353
+Dátum zverejnenia:
+7.10.2025
+2025-10-07
+lokalita:
+Bratislava
+Pozícia:
+IT Tester
+Spoločnosť:
+RESCO spol. s r.o.
+Základná zložka mzdy (brutto):
+1 800 EUR/month

@@ -1,0 +1,72 @@
+Senior Node.js developer
+GymBeam s.r.o.
+Miesto práce
+Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 800 - 3 800 EUR/mesiac
+Živnosť / Hodinová mzda 17 EUR - 23 EUR
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Návrh a implementácia backendov pre logistické služby v Node.js / TypeScripte na základe architektúry bez servera riadenej udalosťami v cloude AWS;
+Vývoj a údržba integrácií skladu a mobilných aplikácií používaných v sklade;
+Rozširovanie integračnej platformy o viac ako 30 API pre kuriérske služby;
+Navrhovanie technických riešení, ktoré je možné ľahko prispôsobiť rastu a vyšším nárokom;
+Písanie čistého, efektívneho a testovateľného kódu, ktorý dodržiava osvedčené postupy;
+Zlepšovanie CI/CD pipeline a postupov DevOps;
+Účasť na revíziách kódu, testovaní a ladení s cieľom zabezpečiť vysokú kvalitu kódu.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Osobnostné predpoklady a zručnosti
+Backend alebo fullstack vývojár, ktorý hľadá zaujímavý projekt v oblasti elektronického obchodu;
+Ovládanie TypeScript a asynchrónneho programovania v Node.js;
+Skúsenosti s bezserverovým výpočtom a cloudovými službami AWS (výhodou);
+Znalosť moderných CI/CD pipelines a DevOps;
+Silné zameranie na optimalizáciu výkonu a benchmarking;
+Skúsenosti v oblasti elektronického obchodu, skladu alebo logistiky a znalosť React je výhodou;
+Agilnosť, orientácia na výsledky a zameranie na poskytovanie hodnoty používateľom.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme GymBeam, najrýchlejšie rastúci e-commerce projekt so športovou výživou, oblečením, príslušenstvom a zdravými potravinami v Európe. Naša spoločnosť vznikla v roku 2014 a aktívne pôsobí na 16 trhoch, kde otvára dvere do sveta zdravého životného štýlu miliónom zákazníkov. Tomu zodpovedá aj náš pestrý a bohatý sortiment, ktorý predstavuje viac ako 10000 produktov a 125 značiek.
+Našou pýchou sú však najmä vlastné značky, medzi ktoré patria prírodné produkty s bio certifikátom VanaVita, doplnky zamerané na dámy BeastPink, prémiové športové oblečenie STRIX či herné suplementy XBEAM. Úspech nielen týchto značiek potvrdzuje silná zákaznícka základňa, ale aj mnohé ocenenia za kvalitu a obľúbenosť na rôznych trhoch.
+Charakterizuje nás aj raketový rast a obrat v desiatkach miliónov eur. Firemná kultúra a hodnoty GymBeam sa opierajú o orientáciu na zákazníka, budovanie komunity, vysoké pracovné nasadenie, inovácie vďaka novým technológiám, ale aj súdržný a talentovaný tím. Našim kolegom preto ponúkame aj množstvo príležitostí na realizáciu.
+Samozrejmosťou je kariérny rast, flexibilný pracovný čas, zaujímavé benefity či možnosť vzdelávania. Aj vďaka tomu poskytuje GymBeam zázemie a stabilitu viac ako 600 zamestnancom na rôznych pozíciách od manuálnych cez marketing až po IT. Všetci sme tak súčasťou exponenciálneho rastu firmy, ktorá nás považuje za kľúčových členov pre svoj budúci rozvoj. Pridajte sa k nám a staňte sa aj vy súčasťou tohto dobrodružstva!
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Dominika Kočišová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5190782
+Dátum zverejnenia:
+11.11.2025
+2025-11-11
+lokalita:
+Košice
+Pozícia:
+Backend programátor
+,
+DevOps Engineer
+,
+Programátor
+,
+Softvérový inžinier
+,
+Systémový inžinier
+Spoločnosť:
+GymBeam s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

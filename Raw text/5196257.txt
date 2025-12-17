@@ -1,0 +1,102 @@
+Network Engineer (Mid-level / Medior)
+ICT Solutions, s.r.o.
+Place of work
+Košice
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+2 100 EUR/month
++ Variable part of salary. The final salary can be adjusted based
+on your skills and experiences. Contractor - upon individual
+agreegement.
+Information about the position
+Job description, responsibilities and duties
+We are looking for a Mid-level Network Engineer who will take ownership of the implementation and operation of our network infrastructure. This role is ideal for someone with solid hands-on experience who can work independently, contribute to architecture decisions, and help drive network reliability and security.
+Key responsibilities:
+Design, configure and maintain LAN/WAN networks across multiple sites and DCs
+Manage and optimise network devices (switches, routers, firewalls, Wi-Fi controllers & APs)
+Monitor network performance and proactively resolve issues and incidents (L2/L3 support)
+Implement and maintain network security (VLANs, ACLs, segmentation, VPN, etc.)
+Participate in network projects (upgrades, migrations, new branches/sites, integrations)
+Create and maintain up-to-date technical documentation and network diagrams
+Collaborate with internal IT teams and external vendors/partners
+Provide technical guidance to junior colleagues when needed
+​Participate in a regular on-call rotation
+for critical incidents outside business hours​
+Strong knowledge of:
+IP networking with OSI model, TCP/IP
+VLAN, STP, DHCP, DNS, VPN (IPsec/SSL)
+OSPF – design & configuration (areas, adjacency, LSAs, summarisation, etc.)
+BGP – iBGP/eBGP, route recectors, path selection, attributes (Local Preference, MED, AS-Path, communities, etc.)
+Employee perks, benefits
+Opportunity to work on challenging network and security projects
+Real impact on network architecture and technology choices
+Professional development support (trainings, certifications, mentoring)
+Flexible working hours and home office options (by agreement)
+Competitive salary based on your experience and skills
+Friendly team and open communication
+Modern work environment based on Apple devices (MacBook, iPhone)
+Coffee and fruit
+Information about the selection process
+Please send your CV (ideally with a short description of relevant projects) and optionally your LinkedIn profile.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Driving licence
+B
+Number of years of experience
+3
+Personality requirements and skills
+3+ years of hands-on experience as a Network/Systems Engineer or similar role
+Knowledge level at least CCNP or equivalent (vendor-neutral or other vendor certification at similar level is acceptable)​
+​
+Experience with:
+Enterprise firewalls (FortiGate, Cisco ASA, pfSense, etc.)
+Enterprise Wi-Fi solutions (Cisco, Huawei, Aruba)
+Network monitoring tools (LibreNMS/Observium, Grafana)
+Linux servers (Debian, Ubuntu) and Docker containers
+Basic scripting or automation (Python, Ansible, or similar)
+Cloud networking (AWS / Azure / GCP – VPCs, VPNs, hybrid connectivity)
+Knowledge/experience with EVPN (L2/L3 VPN control-plane, VXLAN EVPN) is an advantage
+Advertiser
+Brief description of the company
+ICT Solutions is a Slovak company operating in the area of the ICT outsourcing, service design & infrastructure management since 2012. We are focused on end to end solutions for business customers.
+Number of employees
+10-19 employees
+Contact
+Contact person: Ing.  Martina Levkutová
+Tel.:
++421911772232
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5196257
+Dátum zverejnenia:
+23.11.2025
+2025-11-23
+lokalita:
+Košice
+Pozícia:
+IT Network Administrator
+,
+IT Security Specialist
+,
+Service Engineer
+,
+Systems Engineer
+Spoločnosť:
+ICT Solutions, s.r.o.
+Základná zložka mzdy (brutto):
+2 100 EUR/month

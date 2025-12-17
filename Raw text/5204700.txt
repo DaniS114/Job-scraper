@@ -1,0 +1,85 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Python Developer for Business Application
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 2 000 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+DT Technik team is good at task planning and resource coordination, providing fast response, clear and professional information that explains the essence of technical matters. We are willing to help solve problems, we have pleasant and friendly atmosphere at work.
+Purpose:
+We are seeking a talented and highly experienced Phyton Developer to join our dynamic team in Kosice .
+Our tools are used in projects such as MBfD or FTTH self-build, as well as in the processes for providing individual customer connections or outdoor collocation. Our tool portfolio ranges from front-end assistants, add-ins, back-end assistants to workflow systems and is operated by us on virtual machines.
+Other tasks include the creation of individual unit tests and E2E system tests, which are then kept up-to-date.
+Transfer of libraries to a separate, globally usable repository.
+What will you do?
+Create new endpoints in already existing application using standard Python programming language as well as additional modules like requests, json etc.
+Write tests using pytest framework to cover each line of code
+Develop additional functionalities within our Mercury plugin and our geo-server for geo-based planning
+Maintain application’s code in GitLab CI/CD
+Check your code contribution on frontend side
+You will succeed if you:
+Must-have skills:
+Have strong experience with Python 3 including working with API requests
+Be familiar with Object Oriented Programming concepts
+Have hands-on experience with modern web technologies such as HTML, JavaScript, TypeScript, CSS/SCSS, Node.js, Vue.js, Nuxt, Pug (Jade), and Webpack
+Have experience with PyQGIS and geodata processing
+Are familiar with tools and platforms such as Jira and GitLab
+(Not all skills are required at the same time.)
+Database skills (desired):
+Have experience with PL/SQL (Oracle), PostgreSQL, or MariaDB
+Language skills:
+Speak English at an upper-intermediate level (B2)
+German language is an advantage
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 000 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lenka Možná
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5204700
+Dátum zverejnenia:
+11.12.2025
+2025-12-11
+lokalita:
+Remote work
+Pozícia:
+Python Programmer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 000 EUR/month

@@ -1,0 +1,103 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Windows System Administrátor
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava
+Mzdové podmienky (brutto):
+Od 2 500 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+Hlavné činnosti a rozsah zodpovednosti:
+- správa serverov a ich inštalácia, reinštalácia a  a nasadzovanie WSUS
+- dohľad nad monitorovaním výskytu prevádzkových problémov a ich riešenie,
+- konsolidácia IT prostredia, návrh nových IT riešení a investícií za účelom lepšej výkonnosti systému - automatizácia cez PowerShell
+- správa prístupových práv AD, GPO, DNS, DHCP a bezpečnosť
+- inštalácia nových server aplikácií, updaty a patching
+- spolupráca na projektoch týkajúcich sa M365 (SharePoint, Teams..), PowerPlatform a VMware
+- backupy a zálohovanie systémov
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: ivana.jurikova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Naším klientom je významná IT spoločnosť.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+Ostatné znalosti
+Administrácia Windows serverov - Pokročilý
+Prax na pozícii/v oblasti
+administrácia v prostredí Windows
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Kvalifikačné požiadavky:
+- vzdelanie: vysokoškolské alebo úplné stredoškolské s viac ročnou praxou
+- min. 2 roky praktických skúseností na podobnej administrátorskej pozícii v oblasti správy serverov, prostredí a inštalácie Windows
+- vítané sú skúsenosti s cloudovým riešeniami postavenými na MS Azure, alebo OpenStack
+- certifikácia veľmi vítaná: v danej oblasti Microsoft Certified System Engineer
+- odborné znalosti z oblasti zabezpečenia MS Windows a informačných systémov
+- pokročilé odborné skúsenosti z oblasti IT – znalosť MS Windows Server 2016, 2019
+- ladenie systémov a MS cluster, clustering
+- znalosti MS Active Directory, MS Exchange, DNS, MS Sharepoint
+- dobrý prehľad LAN/WAN, sieťovými a smerovacími protokolmi, CISCO, storage/backup, security
+- skúsenosti s prácou na projektoch ako člen projektového tímu
+- orientácia v ITSM/ITIL (Change management etc)
+- schopnosť samoštúdia
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Ivana Juríková
+Tel.:
++421 911 189 261
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+4927750
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Bratislava
+Pozícia:
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+,
+Systémový inžinier
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

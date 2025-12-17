@@ -1,0 +1,148 @@
+Programátori
+AMCEF s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+12 - 25 EUR/hod.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Vyber si jeden z našich projektov a poď ho ku nám kódiť.
+Sme IT firma, riadená programátormi a plná programátorov a preto chápeme, čo je pri tejto práci dôležité.
+Ty si ten, kto si projekt a technológiu môže vybrať. Osobná sloboda je pre nás kľúčová, pretože práca ide lepšie, keď nás baví. A ty vieš lepšie ako my, čo ťa baviť bude. Nechceme, aby si robil projekty, o ktoré nemáš záujem. Alebo pracoval s technológiami, ktoré ťa nebavia.
+Akých ľudí aktuálne hľadáme
+:
+-
+Typescript
+developer (
+Node.JS, React
+) +
+Mongo DB
+- rozvoj nášho vlastného produktového riešenia - low-code platformy na ktorej staviame väčšinu projektov
+-
+DevOps
+špecialista (primárne
+AWS
+) - hľadáme kvôli zastupiteľnosti na rôznych projektoch, ideálne je mať presah aj do kódenia v Typescripte
+-
+Wordpress
+developer - rôzne portály a e-shopy
+-
+PHP
+developer - rôzne interné systémy, primárne v Laraveli, ale niektoré aj v iných frameworkoch
+-
+Low-code
+developeri -
+Javascript / Tailwind + AI
+- nedočkaví programátori, ktorí chcú vidieť výsledky svojej práce hneď. Pozícia je vhodná aj pre juniornejších developerov. Pre lepšie pochopenie si pozri https://www.youtube.com/watch?v=QBtDlsSrT5Y
+Čo od teba budeme požadovať
+:
+- Musíš výborne ovládať
+aspoň niektorú
+z vyššie uvedených technológií.
+- Musíš byť
+systematický a usporiadaný
+- meniť stavy úloh, trackovať na úlohy, zúčastňovať sa meetingov, dokončovať veci, ...
+- Musíš vedieť
+pracovať v tíme
+a
+komunikovať
+, či už ak na niečom si zaseknutý, ale v prípade potreby aj priamo s klientom.
+- Výhodou je, ak vieš aj
+riadiť tím
+.
+- Výhodou je proaktívny prístup k vzdelávaniu sa a
+zdieľaniu vedomostí
+.
+- Ako samozrejmosť berieme znalosť
+Version Control
+nástroja a skúsenosti s
+Jirou
+alebo iným nástrojom na manažment.
+- Z dôvodu udržania vysokej kvality kódu musíš vedieť robiť
+code review
+kolegom.
+- Musíš vedieť
+odhadovať náročnosť
+implementácie.
+​
+Čo by si mal na úvod vedieť
+:
+- aktuálne do tímu hľadáme skúsených developerov, ktorí už majú pár rokov skúseností
+- kontrakt je na živnosť / s.r.o.
+- preferujeme cca fulltime alokáciu, ale nemáme problém ani s cca part-time alokáciou
+- budeš fakturovať reálne odpracované a schválené hodiny
+- cca 95% ľudí je full remote. Väčšina projektov ale má pravidelné standupy
+- preferujeme ľudí na dlhodobú spoluprácu - ak bude obojstranná spokojnosť
+Zamestnanecké výhody, benefity
+- Výber projektov a technológií na ktorých budeš pracovať
+- Top klienti - Známe firmy a zaujímavé startupy.
+- Flexibilný odpracovaný čas
+- Flexibilná pracovná doba
+- Neobmedzené dovolenky
+- Neobmedzený home office
+- Príjemné kancelárie
+- Multisport karta
+- Odbremenenie byrokracie - Zabezpečíme všetko, čo súvisí s prácou na živnosť, aby si sa mohol plne sústrediť na prácu, ktorá ťa baví.
+- Neobmedzený kariérny rast
+- Vzdelávanie - Preplácame kurzy ako aj 50% času stráveného vzdelávaním sa v IT, aj keď to priamo nesúvisí s aktuálnymi projektmi
+- Inovácie - Pravidelne organizujeme spoločné diskusie a školenia na nové technológie a nástroje, ktoré následne zavádzame na projektoch.
+- Realizácia vlastných nápadov - Máš zaujímavé nápady na projekty, ktoré podľa teba stoja za pokus? Poďme ich zrealizovať!
+- Super kolektív - Všetci sme kolegovia a zároveň priatelia, ktorí si pomáhajú a podporujú sa.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Pozícia je vhodná pre absolventa
+Áno
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Fungujeme od roku 2015. Sme mladý, 70-členný tím fakt šikovných vývojárov a iných technicky zdatných ľudí.
+Rozrastáme sa, pracujeme na rozmanitých a zaujímavých projektoch a to nám umožňuje ponúknuť ľuďom možnosť vybrať si projekty a technológie na ktorých budú robiť. Je to naša rokmi overená stratégia vedúca ku spokojnosti všetkých.
+Víziou našej spoločnosti je inovovať. Je pre nás zásadné byť pre klientov aj poradcom, aby ich IT riešenia mali hlavu a pätu, a aby sme my nemuseli pracovať na projekte, ktorý nedáva zmysel.
+A sme veľmi vďační, že vďaka vášmu obrovskému záujmu o prácu u nás sme boli nominovaní medzi top 20 firiem v súťaži Najzamestnávateľ roka 2025 v kategórii IT a telekomunikácie :)
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Samuel Dobša
+Tel.:
++421910126458
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5186556
+Dátum zverejnenia:
+4.11.2025
+2025-11-04
+lokalita:
+Práca z domu
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Javascript programátor
+,
+PHP programátor
+,
+Programátor
+Spoločnosť:
+AMCEF s.r.o.
+Základná zložka mzdy (brutto):
+12 EUR/hod.

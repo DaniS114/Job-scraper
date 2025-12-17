@@ -1,0 +1,106 @@
+Unleash
+Your
+Power
+About Us
+Benefits
+Culture
+Jobs
+Digital Health Platform & SAMD DevOps & Mobility Specialist
+Apply Now
+Date posted:
+16.12.2025
+Location:
+Bratislava, Slovakia
+Salary:
+From 3 083,33 EUR/month
+As a motivated employee, you should be compensated appropriately. The minimum salary for this position is €3.083,33 per month (full time), but your final remuneration package may be higher depending on your qualifications and experience.
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’sPrivacy Noticeand Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+Information about the position
+Job description, responsibilities and duties
+The Future Begins Here
+At Takeda, we are creating a future-ready organization that uses data and digital to meet the needs of patients, our people, and the planet. We need your help to make this happen. Join our new Innovation Capability Center (ICC) in Bratislava, Slovakia.
+In this role at our state-of-the-art center, you will have the opportunity to grow your skills and create solutions that will benefit patients around the world. Become the heart of our internal innovation engine.
+At Takeda we unite in diversity!
+Takeda is committed to creating an inclusive workplace, where individuals are recognized for the diverse backgrounds and abilities they bring to our company. We are continually improving workplace experience and accessibility for everyone, and welcome applications from all qualified candidates. Here, you will feel welcomed, respected, and valued as an important contributor to our Team.
+The Opportunity
+As a DevOps & Mobility Specialist at Takeda, you will support the design, implementation, and operation of DevOps and mobility solutions that enable secure and efficient software delivery. You’ll work within a collaborative, scaled agile environment alongside business, product, and engineering teams. Your focus will include automating deployments, supporting mobile application delivery, and continuously improving Takeda’s developer platform and cloud infrastructure. This is a great opportunity for a technically skilled engineer to deepen their expertise in DevOps, cloud, and secure mobile delivery within a regulated, high-impact healthcare environment.
+Key Responsibilities
+DevOps & Automation
+-Support the development, automation, and maintenance of CI/CD pipelines for cloud and mobile applications.
+-Assist in configuring build and release workflows for Android and iOS applications, including integration with Google Play and Apple App Store.
+- Help implement Infrastructure as Code for cloud resources (with Terraform, Ansible, or similar tools).
+Cloud Infrastructure & Platform Support
+- Participate in deploying and supporting public cloud infrastructure (AWS, Azure, or GCP).
+- Work with team members to maintain container orchestration platforms (e.g., Kubernetes/EKS/AKS) and related DevOps tools.
+- Help expand and support the Takeda Internal Developer Portal and self-service tooling.
+Security & Compliance
+- Participate integrating security and compliance requirements into build and deployment processes.
+- Support auditing, monitoring, and documentation of DevOps workflows to meet quality and regulatory needs.
+Collaboration & Continuous Improvement
+- Collaborate with software engineers, QA, and cybersecurity teams to address challenges and improve platform reliability.
+- Contribute to platform documentation, knowledge sharing, and team onboarding.
+- Stay up to date on DevOps, cloud, and mobile best practices to support the team’s continuous improvement.
+Employee perks, benefits
+What Takeda Can Offer You
+At Takeda, you may build your career, while contributing to better people’s lives. Expect trust driven culture built around Integrity, Fairness, Honesty and Perseverance. Joining ICC will give you access to high end technology, training and colleagues who will support your growth.
+Benefits
+Here are a few benefits our employees are enjoying at Takeda. To get a full picture of what we are offering, go to our Benefits page (button above).
+• Cafeteria
+• Medical - High standard medical care
+• Bridge days
+• Summer Hours
+• Multisport Card
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+Required
+- Bachelor’s degree in computer science, engineering, or a related field, or equivalent hands-on experience.
+- 3+ years’ experience in DevOps, cloud engineering, or systems engineering roles.
+- Experience configuring and automating build and deployment processes for Android and/or iOS applications, including distributing apps through Google Play or Apple App Store using CI tools.
+-Familiarity with Infrastructure as Code (Terraform, Ansible, or comparable).
+- Practical experience with containerization (Docker) and basic Kubernetes orchestration.
+- Experience setting up or supporting CI/CD pipelines (e.g., GitHub Actions, Jenkins, or similar).
+- Scripting experience (BASH, PowerShell, or Python).
+-Good communication and collaborative skills.
+Preferred:
+- Exposure to public cloud platforms (AWS, Azure, or GCP).
+- Prior experience supporting mobile application delivery in a regulated or enterprise environment.
+- Familiarity with application life cycle management (ALM) tools.
+- Basic understanding of DevSecOps best practices and secure software delivery concepts.
+- Willingness to learn and contribute to a high-performance, cross-functional team.
+Advertiser
+Brief description of the company
+Takeda is an industry-leading, global pharmaceutical company with an unwavering dedication to putting patients at the center of everything we do. We live our values of Takeda-ism – Integrity, Fairness, Honesty, and Perseverance – and are united by our mission to strive towards Better Health and a Brighter Future for people worldwide through leading innovation in medicine.
+Here, everyone matters and you will be a vital contributor to our inspiring, bold mission. At Takeda, you will make an impact on people’s lives – including your own.
+Takeda is an equal opportunity employer.
+We are taking a giant step forward to create a future-ready organization that evolves at the speed of science and technology, to meet the needs of patients by seeking and incorporating novel digital capabilities, data, and agile methodologies. Our aim is to provide digital solutions that are personalized to each patient’s unique needs and health circumstances. With individual care at the center, we can support patients in actively managing their personal care journey – from the moment they are diagnosed through treatment and beyond. Our Digital and IT team plays an integral role in accelerating this exciting journey.
+Contact
+Contact person: Mgr.  Peter Straka
+E-mail:
+send CV
+NOT READY TO APPLY?
+Join our Talent Community and get the latest news & events happening at Takeda
+LET’S GO
+takedajobs.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5206398
+Dátum zverejnenia:
+16.12.2025
+2025-12-16
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Takeda
+Základná zložka mzdy (brutto):
+3 083,33 EUR/month

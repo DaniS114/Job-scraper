@@ -1,0 +1,106 @@
+Enterprise Linux Automation Engineer
+Košice, Košický kraj, Slovakia
+Changing the world, influencing the digital future!
+Expect more. Connect more. Be more at Diebold Nixdorf.
+More than 160 years ago, we started by manufacturing safes and vaults - security is encoded in our DNA. We are pioneers in development, sales and service of ATMs, cash registers and self-checkouts, including development and supply of SW and HW. Our teams do everything possible to make shopping and paying as convenient as possible for users. We are the innovation partner for most of the financial institutions and retail chains. Together, we impact the lives of more than 75 million people worldwide.
+Our solutions
+connect the physical and digital worlds through cash and non-cash transactions
+- quickly, securely and efficiently.
+The Košice branch of Diebold Nixdorf was officially opened in November 2017. We are a strategic delivery center where experts work in the areas of corporate infrastructure, application management, information security, as well as in teams dealing with IT processes. Since its beginning in Košice, the company has established itself on the local market of IT companies, we participate in job fairs, we have established cooperation with many schools and organize a lot of activities for our employees.
+We are looking for an experienced
+Enterprise Linux Automation Engineer
+to play a key role in shaping the global Linux strategy within our evolving Engineering organization. This is a hands-on engineering position focused on defining, standardizing, and enabling the lifecycle of Linux services across a complex, large-scale enterprise environment.
+This role is critical in driving intelligent automation, enhancing IT service delivery, and enabling proactive operations across complex infrastructure and application landscapes. The ideal candidate will architect scalable, event-driven automation and orchestration solutions that integrate seamlessly with observability and ITSM platforms, supporting robust IT service delivery at scale.
+This is an excellent opportunity for an engineer with deep Linux expertise, strong automation background, and a passion for service excellence to make a direct and lasting impact on a global IT ecosystem.
+Are you ready to be part of our friendly team? Now you have the chance!
+WHAT WILL YOU BE DOING AS ENTERPRISE LINUX AUTOMATION ENGINEER?
+Architect and implement automation-first solutions for LINUX/UNIX infrastructure and application operations
+Build and manage event-driven automation pipelines using RedHat OpenShift Pipelines or similar CI/CD tools
+Lead initiatives to define, document, and continuously improve automation, orchestration, and observability services, including SLAs, KPIs, and onboarding
+Design and configure new Linux-based services to meet enterprise strategy, architecture, and security standards
+Collaborate with infrastructure, application, and operations teams to embed automation and observability into service lifecycles from day one
+Provide leadership or collaborate in the technical configuration and service design of new Linux-based solutions
+Ensure security and compliance standards are embedded in all automation workflows
+WHAT EXPERIENCE / SKILLS DO YOU NEED?
+10+ years in enterprise IT environments, with a primary focus on LINUX/UNIX systems
+Experience developing and maintaining Infrastructure as Code (IaC) for Linux environments
+Extensive hands-on experience with Oracle Linux and Red Hat Enterprise Linux (RHEL) in production environments
+Proven experience with automation and orchestration tools (Ansible, PowerShell, Bash, Python) and monitoring tools (e.g., Prometheus, Grafana, CheckMK, ELK)
+Experience with enterprise-grade Kubernetes platforms and container management (Red Hat OpenShift)
+Background in service design, documentation, and continuous improvement methodologies (e.g., ITIL, DevOps)
+Strong emphasis on IT service delivery, automation, architecture, and orchestration across large-scale enterprise environments
+Strong understanding of security best practices for Linux systems, including hardening, vulnerability management, and compliance frameworks
+Demonstrated ability to mentor junior engineers and drive a culture of automation and continuous improvement
+Experience in global IT environments with multi-region deployments.
+Certifications in relevant technologies (e.g., Ansible, RedHat Certified, ITIL)
+GET TO KNOW OUR TEAM AND HOW WE WORK
+As part of a young, growing engineering team (35 people globally across Slovakia, India, and the US), you will drive an automation-first approach and build the foundation for how Linux systems are designed, delivered, operated, and consumed across our private cloud and data centers. You will work closely with architects, security, application teams, and operations to embed automation, observability, and service design principles from day one.
+WHAT DO WE OFFER?
+Prestige -
+we are a Key Partner to Financial institutions and Retailers
+Stability & perspective -
+we have been on the market for many years and operate globally
+Great team -
+we maintain friendly and helpful relationships, we are not just colleagues
+Innovation and development -
+we support individual development and professional training; experienced colleagues are also happy to pass on their experience
+Remuneration -
+in addition to fair wages, we have annual bonuses according to the company results
+Flexibility -
+we accommodate parents and support work-life balance. We offer home office including flexible working hours.
+Public transport -
+we will reimburse you for a yearly voucher for Košice MHD / Slovak Bus Lines (AD) / Slovak Railway Transport
+Time off -
+5 weeks holiday + 3 sick days
+Equipment -
+of course you get a laptop and phone including unlimited tariff
+Cafeteria -
+you choose your own benefits; we will give you generous budget per year for your cafeteria account
+Meal vouchers -
+you get your meal allowance from day one
+MultiSport -
+we support the physical and mental health of our colleagues
+The future -
+we contribute to your pension savings (III.pilar)
+Allowance for working from home -
+we contribute monthly to your home internet or electricity
+Good thing -
+we give you 2 days of paid time off for volunteering
+Modern offices -
+relax zones, video games and great workspace with view on the city
+Starting salary from 2800 EUR gross/month- the final offer depends on proven experience.
+Our success is never a job for one person! We look forward to you joining our team. Don't miss the opportunity to become one of us!
+ABOUT US
+Why should you join Diebold Nixdorf?
+Brightest minds + technology and innovation + business transformation  The people of Diebold Nixdorf are 23,000+ teammates of diverse talents and expertise in more than 130 countries, harnessing future technologies to deliver personalized, secure consumer experiences that connect people to commerce. Our culture is fueled by our values of collaboration, decisiveness, urgency, willingness to change, and accountability.
+-Diebold Nixdorf is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity, age, marital status, veteran status, or disability status.
+** To all recruitment agencies: Diebold Nixdorf does not accept agency resumes. Please do not forward resumes to our jobs alias, Diebold Nixdorf employees or any other organization location. Diebold Nixdorf is not responsible for any fees related to unsolicited resumes**
+We are a global Company operating in multiple Locations and Entities. As we are keen to find the best solution for our candidates several legal entities might be applicable for a Job offer. A List of our operating entities can be found here -
+https://www.dieboldnixdorf.com/en-us/about-us/global-locations
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195885
+Dátum zverejnenia:
+21.11.2025
+2025-11-21
+lokalita:
+Košice
+Pozícia:
+IT Architect
+,
+IT System Administrator
+,
+IT/Technical Support Specialist
+,
+Programmer
+,
+Systems Engineer
+Spoločnosť:
+Diebold Nixdorf
+Základná zložka mzdy (brutto):
+2 800 EUR/month

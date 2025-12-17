@@ -1,0 +1,108 @@
+Android Developer
+Sygic a. s.
+Place of work
+Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 600 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Join our
+Automotive Team
+where we deliver cutting-edge navigation solutions to
+global OEM partners
+. We’re building products with worldwide impact while keeping our startup spirit alive. One of our key focus areas is
+navigation for professional drivers
+and we’re looking for a new team member to help us take it further.
+Our applications are used across several OEM brands where android automotive is used. This means adapting to different screen sizes, hardware environments, and security requirements. The complexity of our solutions demands
+robust software architecture, clean code, and well-structured design
+.
+If you’re passionate about Android development, eager to work on high-impact projects, and not afraid to dive into
+automotive-grade security topics
+, this role is for you.
+What We’re Looking For
+Strong experience in Kotlin (Coroutines, Flow) and Jetpack Compose
+Hands-on experience with Android and Android Automotive OS is nice to have
+Solid understanding of the Android SDK internals
+Knowledge of IDLs (AIDL, FlatBuffers) is a plus
+A proactive problem-solver who brings ideas and improvements, not just code
+Awareness of and willingness to work on security aspects crucial for the automotive world
+Other tech stack: Azure DevOps, Git, JUnit for ViewModels and repositories, Dagger2
+What You’ll Do
+Develop and maintain our truck navigation app for professional drivers, ensuring it’s both user-friendly and technically reliable.
+Collaborate closely with UX/UI designers to transform design flows into functional apps.
+Adapt solutions for a wide range of platforms, from smartphones to embedded automotive systems.
+Contribute to a team-driven development process with open discussions, code reviews, and knowledge sharing.
+Continuously refactor, innovate, and adopt new technologies to keep our app modern and stable.
+Investigate and fix issues, ensuring high reliability and low crash rates.
+Employee perks, benefits
+Minimum salary is 2600 Eur/month. Final salary depends on your level of seniority.
+We care about your well-being and professional growth. Here’s what we offer to make your experience with us truly rewarding:
+Work-Life Balance:
+Enjoy flexible hours, the option to work from home, 5 extra vacation days beyond the legal minimum, 3 health days, additional leave for significant life events, an extra day off to celebrate our company’s anniversary, and sick leave compensation.
+Benefits Package:
+Take advantage of up to 1150€ in flexible benefits (Benefit Plus) that you can use for things like technology, sports, travel, health services, or even pension contributions. Plus, get a Multi-sport card for wellness and fitness activities.
+Rewards & Development:
+Earn up to 1000€ for referring a new colleague, access over 5,000 courses, join online language lessons, and enjoy performance-based bonuses. You’ll also have a personal budget to choose courses or conferences that help you grow professionally.
+Supportive Environment:
+Take a day off to volunteer, use our free anonymous psychological counseling service, and enjoy access to our company’s products.
+Modern Workplace:
+Work in a comfortable office with ergonomic furniture, a sunny summer terrace, and plenty of perks like free coffee, tea, and breakfast cereals every day. Our office is pet- and kid-friendly and has no dress code. You also have the option of parking in the building.
+Community & Well-Being:
+Join in on philanthropy projects, where you can support a charity or non-profit organization of your choice with company-matched donations. Have fun at our team-building events, hackathons, Christmas parties, or summer celebrations.
+Diversity & Inclusion:
+We’re committed to creating a workplace where everyone feels welcome, with fair recruitment practices that offer opportunities to all.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+Slovak - Upper intermediate (B2)
+and
+Czech - Upper intermediate (B2)
+and
+English - Upper intermediate (B2)
+Number of years of experience
+3
+Advertiser
+Brief description of the company
+We are Sygic and we have been changing the way people travel since 2004.
+We are known for the Sygic GPS Navigation mobile application, the first navigation app on the Appstore and the second on Google Play, but today we are much more! After all these years, we extended, but the focus and start-up mentality remain.
+Our users are considered part of our development family. We listen to their suggestions and try to ensure that our product still brings them added value.
+As part of the Eurowag Group, which comprises a dynamic portfolio of innovative companies, including us – Sygic but also fireTMS, Inelo, WebEye, Princip, KomTeS, and CVS, we collectively play pivotal roles in creating sustainable financial and technological solutions. Together we work to simplify the life of fleet companies worldwide.
+At Eurowag Group, we are committed to creating a diverse and inclusive workplace. We encourage women, men, and individuals of all backgrounds to apply and join our team.
+Number of employees
+200-249 employees
+Contact
+Contact person: Nikola Gomolová
+Tel.:
++420733185831
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5176961
+Dátum zverejnenia:
+16.10.2025
+2025-10-16
+lokalita:
+Bratislava
+Pozícia:
+Android Developer
+,
+Frontend developer
+,
+Programmer
+Spoločnosť:
+Sygic a. s.
+Základná zložka mzdy (brutto):
+2 600 EUR/month

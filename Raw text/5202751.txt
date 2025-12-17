@@ -1,0 +1,105 @@
+Senior Developer (Golang, Node, Cloud, SQL)
+SourceFirst International s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+By Agreement
+Wage (gross)
+From 3 800 EUR/month
+The final salary offered will depend on the candidate's experience and knowledge + attractive benefit system of the company.
+Information about the position
+Job description, responsibilities and duties
+Join our forward-thinking team, where innovation drives real-world impact. As part of the IT Resilience unit, we’re dedicated to building a robust, future-ready IT landscape. Our diverse and globally connected group is committed to technological excellence and resilience, playing a pivotal role in shaping our Service Asset & Configuration Management (SACM) solution.
+We’re seeking a Senior Full-Stack Application Engineer to design, develop, and maintain mission-critical backend and frontend services that power our enterprise IT ecosystem. In this role, you’ll lead advancements in our CMDB, enable seamless integrations, and shape AI-powered initiatives—collaborating across the organisation to deliver transformative results. You’ll work closely with our Solutions Architect in a supportive, knowledge-sharing environment that fosters continuous innovation and ensures business continuity.
+Resposibilities:
+Design and develop robust backend services using Golang and frontend applications with Angular 2+ and Node.js
+Architect and maintain our Federated API, connecting configuration and asset information across on-premise and multi-cloud environments.
+Optimize and enhance CMDB database systems and ensure seamless integration with corporate processes.
+Build and manage RESTful APIs, microservices architectures, and CI/CD pipelines with automated testing.
+Implement containerization using Docker and orchestrate deployments in Kubernetes environments.
+Monitor and analyze application performance using tools like Datadog, Grafana, or Prometheus.
+Transform and integrate data using ETL practices and complex SQL operations.
+Explore and implement emerging AI technologies, including generative models and intelligent agents.
+Communicate complex technical concepts with clarity and precision.
+Document and share technical knowledge to support team-wide knowledge and growth.
+Employee perks, benefits
+- flexible working time
+​​- hybrid type of home-office
+​​- kindergarten - available in our building
+​​- yearly salary re-evaluation
+​​- sick days
+​​- MultiSport card
+​​- mental & medical health support
+- public transport donation
+Information about the selection process
+Please send your CV to jobs@sourcefirstinternational.com
+We always have several positions for IT Specialists not only in Slovakia and the Czech Republic, but also on foreign projects.
+Expected date of completion of the selection process
+1.3.2026
+(there are still 74 more days)
+Company on whose behalf the position is being filled
+Financial consultancy, intermediation of financial services and insurance
+Our client is a leading international tech company and provides a wide range of products and services.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+Requirements:
+5+ years of experience with Golang and modern programming languages.
+An inherent sense of ownership of your work, acting as the CEO of your responsibilities and consistently delivering excellence.
+Strong knowledge of SQL, database modeling, and optimization techniques.
+Hands-on experience with Azure or equivalent cloud platforms.
+Experience with microservices architecture, Kubernetes, and Docker.
+Excellent written and verbal communication skills in English.
+Nice to have requirements:
+Proficiency in Angular 2+ and Node.js frontend development.
+Experience with monitoring tools like Datadog, Grafana, or Prometheus
+Knowledge of AI technologies and intelligent systems.
+Experience with ETL workflows and data processing at scale.
+Background in enterprise IT environments and configuration management.
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: IT Recruitment
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202751
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+IT Architect
+,
+IT Consultant
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 800 EUR/month

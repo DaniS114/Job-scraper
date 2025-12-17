@@ -1,0 +1,67 @@
+Voľné pracovné pozície
+Profil firmy
+Prečo Scheidt
+& Bachmann
+Kde nás nájdete
+Monitoring špecialista
+Miesto práce: Žilina
+Plat: Od 2 200 EUR/mesiac
+Junior 1 800 EUR brutto, Senior 2 200 EUR brutto. Finálna výška mzdy závisí od skúseností kandidáta
+Profil spoločnosti
+Firma Scheidt & Bachmann, Mönchengladbach vznikla v roku 1872 a v súčasnosti sa prezentuje ako inovatívna spoločnosť s dlhodobou tradíciou. V celkovo štyroch do značnej miery samostatných divíziách sa vyvíjajú, produkujú a distribuujú systémy pre parkoviská a centrá voľného času, systémy pre železničnú zabezpečovaciu techniku, systémy vybavenia cestujúcich a systémy pre čerpacie stanice. Firma Scheidt & Bachmann Slovensko s.r.o. vznikla v roku 1995 na podnet spoločnosti Scheidt & Bachmann pričom významnou mierou k tomu prispela aj úspešná spolupráca so Žilinskou univerzitou.
+Fare Collection Systems
+ponúka širokú škálu produktov rôzneho technického vybavenia podľa požiadaviek zákazníka. Táto oblasť pokrýva moderné, komplexné systémy vybavenia cestujúcich mestskej, prímestskej a metropolitnej dopravy so zariadeniami pre tlač a kódovanie cestovných lístkov.
+Ponúkame
+Perspektívna práca v stabilnej firme s adekvátnym finančným ohodnotením a potenciálom osobného rozvoja (školenia, jazykové kurzy).
+Bohatý sociálny program pre zamestnancov: teambuildingové aktivity, firemné akcie, podpora športových a kultúrnych podujatí.
+Flexibilný pracovný čas, dovolenka navyše, dodatočné dni pracovného voľna.
+Práca v skúsenom medzinárodnom kolektíve.
+Možnosť služobných ciest do zahraničia.
+Vaše povinnosti
+Čo budeš robiť?
+Analyzovať a implementovať nové možnosti monitoringu (Centreonu, Zabbix, Grafana).
+Pracovať s Prometheusom a jeho PromQL na monitorovanie mikroservisnej architektúry.
+Monitorovať RabbitMQ, SFTP na Windows serveroch, stav servisných portálov a analyzovať odpovede z API callov.
+Implementovať monitoring log súborov – vyhľadávanie konkrétnych hlášok a analýza výstupov.
+Spravovať monitoring v databázach, hlavne Oracle a PostgreSQL.
+Využívať a analyzovať API (REST API,
+HTTP)
+v monitorovacích riešeniach.
+Pracovať s Kubernetesom a jeho komplexnou implementáciou.
+Využívať Grafanu na vizualizáciu, implementáciu a automatizáciu monitoringu.
+Scripting v PowerShell a Bash.
+Využívať Python alebo iný programovací jazyk na vytvorenie vlastného drivera, ktorý bude komunikovať s Centreonom.
+Váš profil
+Čo očakávame?
+Silné analytické myslenie a schopnosť riešiť komplexné problémy.
+Znalosť Prometheus a PromQL.
+Skúsenosti so scriptovaním (vyhodou PowerShell, Bash).
+Skúsenosti s Oracle a PostgreSQL databázami.
+Skúsenosti s Grafana na vizualizáciu monitorovaných metrík.
+Znalosť Centreon, výhodou je skúsenosť so Zabbixom.
+Čo je výhodou?
+Skúsenosť s Kubernetes a mikroservisnou architektúrou.
+Skúsenosť s RabbitMQ monitoringom a SFTP monitoringom na Windows serveroch.
+Skúsenosť s API monitoringom – analýza odpovedí a vyhodnocovanie stavu.
+Čo ponúkame?
+Možnosť ovplyvňovať vývoj monitoringových riešení a automatizácie.
+Priestor na odborný rast, sebarealizáciu a zlepšovanie zručností.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5065250
+Dátum zverejnenia:
+20.10.2025
+2025-10-20
+lokalita:
+Žilina
+Pozícia:
+IT/Technical Support Specialist
+Spoločnosť:
+Scheidt & Bachmann Slovensko s.r.o.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

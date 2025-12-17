@@ -1,0 +1,87 @@
+We harness the power of tech to increase sustainability.
+How do you want to use technology?
+Kubernetes OpenShift Engineer
+Place of work
+Remote work
+Contract type
+full-time
+POSITION
+DESCRIPTION
+We’re looking for a Kubernetes Engineer who’s passionate about cloud-native tech and automation. In this role, you’ll design, deploy, and manage containerized environments using Kubernetes, CI/CD pipelines, and Infrastructure as Code tools.
+WHAT WILL
+YOU DO
+•	Containerize existing and new applications, tools, and websites and move them to Kubernetes
+•	Engineer solutions on major cloud platforms
+•	Implement scalable and serverless infrastructure using latest available technologies
+•	Work with state-of-the-art technologies and from every aspect of the DevOps/Cloud Ecosystem from development through deployment to operations and monitoring
+•	Develop health monitoring/metrics for status of the Kubernetes cluster
+•	Work in conjunction with IT, engineering, and business groups to understand functionality, scalability, performance, security, and integration requirements
+WHAT WE
+EXPECT
+•	Hands-on (3-5 years) experience in developing, deploying, tuning and debugging applications on Kubernetes
+•	Experience either in developing code in at least one high-level programming language or in building automated infrastructures
+•	Familiar with cloud platform administration and/or development
+•	Fundamental knowledge of key DevOps concepts – continuous integration and delivery, Infrastructure As Code and Cloud concept (IaaS, PaaS, SaaS, FaaS)
+•	Demonstrated experience in one or more of the following technologies and platforms: Kubernetes, Docker, PowerShell, Bash, Python, etc.
+•	University educated (Bachelor’s or Master’s degree in IT or a related field)
+•	Conversational level of English language (B2 level and above)
+•	Good understanding of German language, with active communication as well at least in a written form (B1-B2 level and above)
+•	Fluent in Slovak (C2 level)
+WHAT WE
+OFFER
+Salary
+From 2 200 EUR/month
+Accenture offers a competitive compensation package. As required by the Slovak law we state, that the legal monthly minimum gross base pay starting from 2 200 € depending on your professional and personal qualifications in the required areas.
+Flexibility:
+• Flexible working arrangements (time & place of work)
+Recognition:
+• Guaranteed paid overtime or overtime vacation
+• German language bonus up to 400€ monthly/gross depending on language proficiency and level of seniority
+• Flexible Benefit System - budget to be spent on services of your choice
+• Competitive bonus structure
+• Refer-a-Friend – get a bonus in the employee referral program
+• Loyalty rewards
+Future:
+• Wide range of trainings and expert lectures
+• Regular performance review and career growth possibilities
+• Ongoing career guidance and mentoring (Global Mentoring Program, Lean In)
+• Employee share purchase plan
+Family & Health:
+• 3 extra days off
+• Sick leave salary compensation (up to 100%)
+• Home-office equipment
+• Family oriented benefits (Wedding, Parental and Baby days-off and bonuses)
+• Employee assistance services (professional psychological, financial and legal help)
+• Multisport card
+• Contribution to special vision correction appliances
+• Life and disability group insurance
+• Sport vouchers for children’s sport activities and children camps
+Interested?
+Apply for this job
+Similar career opportunities at Accenture
+Pega Developer (Mid-Level)
+Senior Pega Developer / Pega Lead Engineer
+Senior Java Developer
+Senior Java Developer/Architect
+© 2020 Accenture. All Rights Reserved.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5190508
+Dátum zverejnenia:
+11.11.2025
+2025-11-11
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+,
+Programmer
+Spoločnosť:
+Accenture, s.r.o.
+Základná zložka mzdy (brutto):
+2 200 EUR/month

@@ -1,0 +1,77 @@
+Java Developer
+DanubePay, a. s.
+Miesto práce
+Pribinova 25, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 300 EUR/mesiac
+Výsledná mzda závisí od skúseností uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Java Developer, ktorý sa stane súčasťou nášho tímu bude mať príležitosť spolupracovať na analýze a vývoji jednotlivých častí informačného systému v oblasti správy platobných kariet a spracovania transakcií. V projektoch sa využívajú predovšetkým technológie:
+Java 17+, Spring Boot (Web, Data JPA, Security, Actuator)
+Maven, Gitlab, GitLab CI/CD
+JPA/Hibernate, SQL/PLSQL, Oracle & MySQL, Flyway
+REST, OpenAPI
+REST/HTTP Security - OWASP
+Docker
+AWS, Terraform (IaC)
+Linux
+Hlavná náplň práce:
+​spolupráca pri analýze požiadaviek, identifikácii dopadov, odhadoch pracnosti a predkladaní návrhov nových riešení a zmien v projektoch​
+Zamestnanecké výhody, benefity
+Príjemné pracovné prostredie
+Atraktívne zamestnanecké benefity
+Možnosť kariérneho rastu
+Podpora vzdelávania
+Príspevok do DDS
+Home Office
+Sick Days
+MultiSport karta a ďalšie
+Informácie o výberovom konaní
+Kontaktovať budeme iba tých uchádzačov, ktorí spĺňajú požadované kritériá.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Technická znalosť anglického jazyka
+Ochota učiť sa
+Skúsenosti z oblasti platobných kariet alebo z oblasti, bankovníctva sú výhodou
+Samostatnosť, proaktivita,
+Pozitívny prístup, schopnosť prekonávať prekážky
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme spoľahlivým partnerom vo svete bezhotovostných platieb, platobných kariet a virtuálnych platobných nástrojov. Na trhu pôsobíme už viac ako 10 rokov a našim hlavným zameraním je spracovanie kartových transakcií pre finančný aj nefinančný sektor. Našou filozofiou je poskytovať našim zákazníkom, komplexné riešenia včas a efektívne. Medzi našich zákazníkov patria finančné inštitúcie zo Slovenska, Českej republiky, Poľska, Portugalska, Islandu ale aj globálna banka s centrálou v USA, štátne inštitúcie aj spoločnosti pôsobiace v nebankovom sektore. Jednou z našich priorít je vysoká úroveň zabezpečenia, pretože sa pohybujeme v oblasti mimoriadne citlivých dát. DanubePay je stabilný spoločnosť so silným zázemím, špičkovými technológiami, dlhoročnými praktickými skúsenosťami a hlavne vysokou bezpečnosťou spracovania citlivých informácií.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Katarína Žideková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5157627
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Java programátor
+,
+Programátor
+Spoločnosť:
+DanubePay, a. s.
+Základná zložka mzdy (brutto):
+2 300 EUR/mesiac

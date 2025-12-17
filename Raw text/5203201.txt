@@ -1,0 +1,136 @@
+Senior konzultant informačnej bezpečnosti
+IstroSec s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+4 500 EUR/mesiac
+Výsledné hodnotenie závisí od úrovne kvalifikácie a relevantných pracovných skúseností kandidáta. Do uvedenej sumy nerátame ročné bonusy.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do tímu hľadáme kvalifikovaného, zodpovedného, technicky zdatného a proklientsky orientovaného konzultanta v oblasti IT bezpečnosti. Budete spolupracovať na návrhu a implementácií technických riešení, auditoch kybernetickej bezpečnosti, konzultovať s našimi klientami vhodné opatrenia na zvýšenie stavu bezpečnosti ich siete, či zúčastňovať sa TableTop cvičení. Pozícia vyžaduje technicky zameraného kandidáta.
+Práca konzultanta vyžaduje cestovanie ku klientovi. Budete mať možnosť využívať homeoffice, v kancelárií vás očakávame počas 1 až 2 dní v týždni.
+K náplni Vašej práce bude patriť:
+- Posudzovanie úrovne zabezpečenia systémov, sietí a infraštruktúr
+- Vykonávanie činností v súvislosti s reakciou na kybernetické útoky
+- Hardening systémov na základe bezpečnostných štandardov
+- Audit bezpečnostných riešení a návrh opatrení
+- Komunikácia s klientom, spolupráca pri identifikovaní požiadaviek od klienta a následná spolupráca s internými tímami
+Od kandidáta vyžadujeme znalosti (väčšiny) nižšie uvedených tém a zručnosť v nasledovných oblasti Informačnej bezpečnosti:
+Riadenie informačnej bezpečnosti:
+- Zákon o KB, Zákon o ITVS, ISO 27001, ISO 22301, NIST CFS, CMMI, SDLC
+- Awareness a bezpečnostné školenia
+- Bezpečnostné politiky a postupy
+- Bezpečnostné stratégie, programy, komunikácia s vrcholovým manažmentom
+- Metriky, KPI, KRI, reporting
+Riadenie rizík:
+- ISO 27005, analýza rizík (kvalitatívna, semi aj kvantitatívna), BIA
+- BCM, DR
+Aplikácia bezpečnostných opatrení:
+- princípy navrhovania opatrení
+- hardening OS, sietí a cloudu
+- fyzická bezpečnosť
+- riadenie identít a riadenie prístupu, SSO, MFA, RBAC, LDAP, AD
+- bezpečnosť virtualizovaných prostredí
+- bezpečnosť cloudu
+- bezpečnosť OT
+- mentoring junior kolegov
+- zero trust
+Bezpečnosť prevádzky:
+- riadenie bezpečnostných incidentov
+- logovanie a monitoring
+- riadenie zmien, riadenie technických zraniteľností, riadenie kapacít, patch management
+- šifrovanie/PKI, TLS
+- DLP, email security
+- sieťová bezpečnosť – FW, IDS, IPS, Proxy, VPN, DDoS Protection, WAF, NDR
+- endpoint – antimalware, EDR, HIPS, App whitelisting
+Riadenie súladu:
+- audit technických opatrení
+- audit KB podľa zákona 69/2018
+- audit podľa ISO 27001
+- tabletop cvičenia
+- skenovanie zraniteľností
+Kandidát musí mať aspoň jeden z nasledovných certifikátov:
+- CISSP
+- CRISC
+- CISA
+- CISM
+- Certifikovaný manažér/audítor KB
+- CySA+
+- OSCP
+- CEH
+Zamestnanecké výhody, benefity
+Naša firma podporuje zamestnancov v kontinuálnom vzdelávaní. Možnosť sebarozvoja poskytujeme prostredníctvom kurzov, certifikácií, workshopov či účasti na konferenciách. Tiež sa môžete zapájať do ďalších činností spomenutých vyššie - od vývoja detekčných pravidiel cez incident response až po audity bezpečnosti.
+Veríme, že dobré výsledky firmy sú dielom celého tímu. Úspech pretavujeme do odmien nad rámec finančného ohodnotenia.
+Samozrejmosťou je pridelenie firemného hardware.
+Podporujeme aktívny životný štýl príspevkom na Multi Sport kartu. V kancelárií vždy nájdete zdravé občerstvenie. A máme super kávu! Keď práve nemáte svoj deň, môžete využiť sick day.
+Radi niekedy spoločne vypneme, preto sa pravidelne stretávame na teambuildingoch. Môžeme sa tam stretnúť v uvoľnenej a priateľskej atmosfére.
+Nadštandardný príspevok na DDS
+Finančný príspevok na stravu
+Ako IT firma si uvedomujeme prínosy práce z domu. Preto máte možnosť využívať homeoffice počas 3 až 4 dní v týždni, v závislosti od aktuálnej náplne práce.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+technické zameranie, informačné technológie
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Active Directory (Windows) - Mierne pokročilý
+Linux - Mierne pokročilý
+Microsoft Windows - Mierne pokročilý
+Zabezpečenie siete - Mierne pokročilý
+Konfigurácia siete - Mierne pokročilý
+Riadenie informačnej bezpečnosti - Pokročilý
+Riadenie rizík - Pokročilý
+Aplikácia bezpečnostných opatrení - Expert
+Bezpečnosť prevádzky - Expert
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+Bezpečnostný konzultant, analytik
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Schopnosť spolupracovať a efektívne komunikovať v time
+Silná osobná a pracovná etika
+Znalosť bežne používaných taktík a techník útočníkov zameraných na IT infraštruktúru a schopnosť ich identifikovať
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+IstroSec je dôveryhodný poskytovateľ prvotriednych pokročilých služieb v oblasti kybernetickej bezpečnosti a dodávateľ špičkových nástrojov na zabezpečenie komplexnej odolnosti. Má inovatívny, multidisciplinárny tím viac ako 50-tich expertov svetovej úrovne. Odbornosť tímu je postavená na vysoko kvalifikovaných etických hackeroch, incident responderoch a konzultantoch s desiatkami rokov skúseností, ktorí svojimi vedomosťami pokrývajú široký záber tém z oblasti kybernetickej bezpečnosti.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Veronika Frankova
+Tel.:
++421911778543
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203201
+Dátum zverejnenia:
+11.12.2025
+2025-12-11
+lokalita:
+Bratislava
+Pozícia:
+IT konzultant
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+IstroSec s.r.o.
+Základná zložka mzdy (brutto):
+4 500 EUR/mesiac

@@ -1,0 +1,111 @@
+IT Security Operations Engineer
+Biometrix, s. r. o.
+Place of work
+Vicenzy 16, Šamorín, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+3 300 EUR/month
+This role offers a hybrid working model with 3 days from home and 2 days in the office per week.
+Information about the position
+Job description, responsibilities and duties
+Are you passionate about cybersecurity and eager to grow your career in a global environment? We’re looking for a motivated Security Operations Engineer who is ready to make a real impact. This is a great opportunity to be part of a dynamic team working on global security projects, where your attention to detail and commitment to excellence will truly matter.
+As a SecOps (Security Operations) Engineer, you’ll help bridge the gap between IT operations and cybersecurity — integrating security into every step of our processes, monitoring and managing security controls, and responding to real-world security threats. If you're ready to learn, contribute, and grow in a high-impact role, we’d love to hear from you!
+Key responsibilities:
+Security policy, compliance & continuous improvement:
+you will develop and implement security policies, ensure adherence to industry standards and regulations, analyze security data, identify areas for improvement, and implement changes to enhance the organization's security posture,
+Incident response process:
+you will investigate security incidents, determine root causes, and implement corrective actions with SOC & IT Teams,
+Security monitoring and threat intelligence
+: you will monitor the organization's IT infrastructure, networks, and systems to identify potential security vulnerabilities or threats. You will proactively detect and respond to security events or indicators of compromise by logs and other tools collaboration.
+Vulnerability and monitoring management
+: you will identify security weaknesses in the organization's systems and networks, prioritize vulnerabilities based on their severity, and collaborate with IT teams to patch or mitigate those vulnerabilities in a timely manner. You will monitor the organization's security systems to identify potential security
+Security tool management
+: you will manage and optimize security tools and technologies deployed within the organization. This includes configuring and fine-tuning security solutions, such as firewalls, antivirus software, intrusion prevention systems (IPS), and endpoint detection and response (X/EDR) tools.
+Security awareness and training
+: you will develop and deliver security awareness programs based on company & industry standards weakness areas to educate employees about common security behavior, best practices for data protection as well as how to recognize and report potential security incidents.
+Employee perks, benefits
+At our company, your growth and well-being matter. Here’s what you can look forward to as part of our team:
+Continuous learning in an international environment - gain valuable experience working on global security projects and grow your skills every day;
+Supportive team spirit – join a friendly and stable team in the trusted medical industry;
+Annual salary review – your hard work and progress won’t go unnoticed;
+Annual performance bonus;
+Daily meal allowance is €4.92;
+Bring a friend on board and receive a €200 referral bonus;
+Take part in company events;
+Stay refreshed with healthy fruit every week and employee vitamins;
+Fuel your day with free coffee and tea.
+Information about the selection process
+If you're detail-oriented, curious, eager to grow and contribute to a global security projects, send us your CV in English – we want to hear from you!
+To help us get to know you better and make the process smooth for both sides, please make sure your CV includes:
+- Your hands-on experience in Security Operations (SecOps) roles,
+- Details about any security-related courses or certifications you’ve completed.
+We really appreciate your time and effort — this helps us focus on meaningful conversations with candidates who share our passion for security!
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Educational Specialization
+IT security, OSCP, CEH
+Language skills
+English - Upper intermediate (B2)
+and
+Slovak - Upper intermediate (B2)
+Experience in the position/sector
+2
+Personality requirements and skills
+In-depth understanding of cybersecurity principles, concepts, and best practices; knowledge of common attack vectors, vulnerabilities, and threat landscapes;
+Strong understanding of networking protocols, architectures, and security measures;
+High experience of firewalls, routers, switches, and intrusion detection/prevention;
+Proficiency in various operating systems, especially Linux and Windows; working knowledge of system administration and security configurations;
+Ability to analyze scan results, prioritize vulnerabilities, and recommend remediation;
+Knowledge of incident response procedures and methodologies;
+Experience in handling and mitigating security incidents in a timely manner;
+Familiarity with SIEM tools for log analysis and correlation;
+Experience securing cloud environments, such as Azure;
+Familiarity with scripting languages like Python or PowerShell (advance);
+Strong analytical and problem-solving skills;
+Knowledge of security frameworks and standards.
+Other key factors:
+​In case of security event or potential breach, availability to work after standard working hours;
+Being part of a global team, fluent communication in English is a must
+Excellent communication and collaboration skills;
+Quick learning; continuous learning and staying updated on the latest threats, technologies, and security trends is crucial;
+Very thorough with high attention to details;
+High motivation with a willingness to contribute;
+Ability to deal with multiple tasks at the same time while also addressing unexpected issues that may arise;
+Constant personal desire for improvement;
+Capable of distinguishing and prioritizing between majors and minor issues.
+Advertiser
+Brief description of the company
+Biometrix as part of QMD, develops, manufactures and markets innovative, high-quality medical devices for intensive care, surgery and interventional cardiology. Offering a wide range of tailored and cost-effective products, our customers benefit from state-of-the-art solutions used in hospitals and medical centers worldwide. Our products are sold in over 50 countries worldwide.
+Number of employees
+150-199 employees
+Contact
+Contact person: Ing.  Zsuzsanna Kasza
+Tel.:
++421903560068
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5182557
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Šamorín
+Pozícia:
+IT Consultant
+,
+IT Security Specialist
+Spoločnosť:
+Biometrix, s. r. o.
+Základná zložka mzdy (brutto):
+3 300 EUR/month

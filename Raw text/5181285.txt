@@ -1,0 +1,97 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+BI Data Engineer
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 1 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+The data engineer develops, constructs, tests and maintains architectures, such as databases and large-scale processing systems, and ensures that architecture fully supports requirements of the business.
+What will you do?
+Analyze complex data elements, data flows, and dependencies to contribute to conceptual, logical, and physical BI and data warehouse models.
+Design, build, implement, and maintain data warehouse and BI structures to support business needs and reporting requirements.
+Develop and maintain ETL processes within the Microsoft BI Suite (SSIS, SSRS, SSAS) and integrate external data sources into Telekom’s data environment.
+Contribute to the design and improvement of BI and reporting solutions for Telekom’s enterprise customer and TSI sales areas.
+Collaborate with business analysts and stakeholders to translate business requirements into efficient data models and reporting solutions.
+Apply agile working principles within interdisciplinary teams to ensure continuous delivery and high-quality results.
+Support AI-based forecasting and predictive analytics initiatives using modern tools and methods.
+Maintain version control and CI/CD pipelines for BI solutions using GitLab.
+Document BI processes and data models using UML and maintain clear communication with technical and business teams
+You will succeed if you:
+Have a University degree in Information Technology, Computer Science, or a related field.
+Have experience in business analysis and solution design, particularly within BI or data-driven environments.
+Possess development experience with the Microsoft BI Suite (SSIS, SSRS, SSAS).
+Have a basic understanding of data warehouse architecture and ETL processes.
+Understand Telekom’s sales processes, especially in the enterprise customers / TSI area (preferred).
+Have working knowledge of UML and GitLab for documentation and version control.
+Bring a basic understanding of AI and cloud architectures (Azure, GCP, or similar).
+Are skilled in analytical thinking, identifying complex relationships in data, and presenting them clearly.
+Communicate effectively in German and English (B2 level) and enjoy teamwork in an agile setting.
+Are willing to travel occasionally to or within Germany.
+speak English - Upper intermediate (B2)
+Nice to have
+Experience with
+Microsoft Power BI
+for reporting and visualization.
+Experience with
+Innovator
+tool for data modeling and documentation.
+Exposure to
+AI-based forecasting (predictive analytics)
+.
+Hands-on experience with
+Google Cloud Platform (GCP)
+services.
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 1 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lucia Gbúrová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5181285
+Dátum zverejnenia:
+24.10.2025
+2025-10-24
+lokalita:
+Remote work
+Pozícia:
+Database Analyst
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+1 500 EUR/month

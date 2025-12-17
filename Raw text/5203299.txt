@@ -1,0 +1,107 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Frontend Software Engineer
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 3 000 EUR/month
+* Financial bonus based on performance paid twice a year up to 10% from the base salary paid during the evaluation period (normally 6 months).
+
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+Contract type
+full-time
+We’re looking for an experienced frontend developer who thrives in a dynamic environment, enjoys building scalable systems, and is passionate about delivering high-quality digital products used by millions.
+You’ll join a cross-functional team of engineers working on high-impact global websites like eset.com, esetscienceaward.sk, welivesecurity.com, support.eset.com, and others. We build websites for visitors around the globe (200,000 visitors per day) and our mission is to educate them on how to protect themselves against cybersecurity threats.
+What you’ll do:
+Develop and maintain features across a multi-project, highly scalable CMS system used across ESET’s global web platforms.
+Write modern, clean, and efficient code in Vue (Nuxt) or React (Next), ideally both.
+Build reusable UI components and collaborate on a shared design system.
+Integrate AI tools like custom assistants and chatbots to enhance user experience and internal workflows.
+Work closely with backend engineers to integrate REST/GraphQL APIs with security and performance in mind.
+Participate in Agile development: daily standups, sprint planning, reviews, and retrospectives.
+Contribute to code reviews, technical discussions, and architectural decisions.
+This position is a maternity leave cover.
+What we’re looking for:
+5+ years of professional experience in frontend development.
+Solid proficiency in Vue.js (Nuxt) and React (Next).
+Experience with component-based architecture and scalable codebases.
+Familiarity with headless CMS platforms and building modular frontend apps.
+Understanding of web performance, SEO best practices, and accessibility.
+Experience with TypeScript, build tools (Vite, Webpack), and modern JavaScript patterns.
+Strong GIT skills and familiarity with CI/CD workflows.
+Comfortable collaborating across teams, taking ownership, and working independently.
+Interested in emerging technologies and excited to help push the boundaries of ESET’s websites.
+Good English communication skills (B2+ level).
+Bonus points for:
+Experience integrating or building AI-based solutions (chatbots, agents, MCP servers,..).
+Familiarity with Docker and cloud-based development environments.
+Background in creating design systems or frontend architecture for multi-brand projects.
+Experience with PHP & Laravel framework.
+Familiarity with automated component and unit testing tools like Vitest or Jest.
+What we offer:
+A chance to shape global websites and highly-scalable CMS solution.
+Work on cutting-edge projects.
+Tech stack includes Typescript, Vue (Nuxt), React (Next), GraphQL, Vite, and more.
+Access to premium AI tools: GitHub Copilot, MS Copilot, custom internal AI tooling, etc.
+Smart, motivated colleagues and a supportive learning culture.
+Clear growth path
+Kontaktná osoba
+Lenka Vladovičová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203299
+Dátum zverejnenia:
+9.12.2025
+2025-12-09
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Frontend developer
+,
+Javascript Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

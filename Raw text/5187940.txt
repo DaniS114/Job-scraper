@@ -1,0 +1,131 @@
+Unified Communications Support Engineer
+Resonate Services s.r.o.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+by agreement
+Wage (gross)
+1 600 EUR/month
+We are required by law to disclose basic wage component for the advertised positions. We carefully consider your professional qualifications, experience, and shared responsibilities in our compensation package, which may have been negotiable. Our goal is to pay our employee's fairly, with regard to the market situation and we are willing to welcome high-quality candidates.
+Information about the position
+Job description, responsibilities and duties
+We are seeking an experienced and highly skilled Unified Communications Support Engineer to join our team at Resonate.
+This position operates at a senior technical level within our support organization and is ideal for someone with a deep understanding of Unified Communications environments. You will take ownership of complex technical challenges, provide expert-level support, and work independently across a broad range of UC technologies, contributing to the overall technical leadership of the team.
+You will be responsible for supporting and maintaining enterprise UC environments, including Microsoft Teams Direct Routing, Session Border Controllers (AudioCodes and Ribbon), Contact Centre solutions (Luware, AnywhereNow), and Microsoft Teams Rooms (MTRs).
+The position also involves working with a variety of integrated tools and services such as Akixi reporting, CallCabinet, Yealink, Poly, and Teams-certified devices.
+With a diverse customer base of more than 35 enterprise customers, this role offers both variety and technical depth, making it ideal for someone who enjoys complex problem-solving, continuous learning, and working in a fast-moving environment.
+Primary Responsibilities
+Provide proactive and reactive support for Unified Communications and collaboration services.
+Manage and troubleshoot Microsoft Teams Direct Routing, including SBC configuration, voice routing, and call flow analysis.
+Support and configure Contact Centre solutions – primarily Luware Nimbus and AnywhereNow.
+Provide support for Microsoft Teams Rooms (MTRs), including troubleshooting issues, performing proactive monitoring, and conducting regular functionality checks to ensure optimal operation.
+Manage customer voice and telephony integrations, including Teams calling policies, Auto Attendants, and Call Queues.
+Collaborate on firmware upgrades, SSL certificate renewals, and other Change Requests.
+Maintain Contact Centre solutions (Luware Nimbus, AnywhereNow) and integrated reporting/recording tools (Akixi, CallCabinet).
+Perform diagnostic analysis on SBCs (AudioCodes, Ribbon) and coordinate with vendors on escalated issues.
+Troubleshoot and optimize call quality, SIP signaling, and audio/video performance.
+Document configurations, troubleshooting steps, and operational procedures in internal knowledge bases.
+Collaborate with internal and external teams to resolve complex technical issues and implement long-term solutions.
+Participate in service improvement and automation initiatives.
+Maintain strong communication with customers, ensuring high-quality support delivery in line with SLAs.
+Working hours:
+Primarily afternoons, with occasional morning shifts. Includes on-call duties.
+Employee perks, benefits
+Financial benefits:
+• Variable quarterly bonus depending on reaching company’s objectives and individual performance goals (KPIs),
+• Referral bonus,
+• Contribution to the 3rd pension pillar,
+• Childbirth bonus,
+• Financial contribution for meals.
+Work-life balance:
+• Flexible working hours and hybrid working model (incl. home office),
+• 2 extra paid vacation days (on top of 20/25) per year after 2 years with the company.
+Wellbeing:
+• Multisport card,
+• Team-building program,
+• Company breakfast every Thursday (on-site),
+• Stocked kitchen with free drinks, freshly roasted coffee, and vitamin care packages (on-site),
+• Ergonomic work station (on-site),
+• Support with setting up the home office workplace,
+• Free bicycle garage (on-site),
+• Free parking space (on-site),
+• Work anniversary present and recognition rewards.
+Career plan:
+• Annual salary review based on performance,
+• Growth assessment,
+• Adaptation, training, and development program (upskilling and reskilling, certificates).
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+IT, Telecommunication, Networking, System Administration
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+DNS - Domain Name System - Skillful
+Microsoft Office 365 - Skillful
+Number of years of experience
+2
+Personality requirements and skills
+You do not have to fulfill all the criteria to 100%. We are looking for talented and motivated people who are keen to learn new things and grow with us.
+Technical Skills
+Minimum 2 years of experience in IT/UC support or similar technical role.
+General understanding of TDM/IP telephony, telecommunication carriers, and circuit interfaces.
+Knowledge of Microsoft Unified Communications products (Office 365, Teams, Teams Rooms).
+Solid understanding of network protocols, DNS, IP routing, and Windows-based environments.
+​
+Personal Skills
+​
+Strong English proficiency (written and spoken) – B2 level or higher.
+Team-oriented mindset with problem-solving skills, flexibility, and attention to detail.
+Preferred and desirable skills
+Strong knowledge of Microsoft Teams, Teams Rooms, and Unified Communications technologies.
+Good understanding of VoIP, SIP, RTP, and network fundamentals (DNS, IP, ports, and routing).
+Experience working with Session Border Controllers (AudioCodes, Ribbon).
+Familiarity with Contact Centre platforms (Luware, AnywhereNow).
+Experience supporting Microsoft Teams Rooms (MTRs).
+Knowledge of Microsoft 365 administration and Windows Server.
+Strong troubleshooting and analytical skills with a structured approach to problem-solving.
+Ability to communicate clearly and professionally with both technical and non-technical stakeholders.
+Self-motivated, well-organized, and capable of working independently or as part of a distributed team, managing multiple customers and priorities.
+Flexibility and willingness to learn new tools and technologies quickly.
+Basic understanding or hands-on experience with PowerAutomate or similar automation tools.
+Advertiser
+Brief description of the company
+Resonate is an experienced team of experts in Unified Communications. We developed the expertise by leading the delivery of the largest and most complex solution in the world for one of the world’s largest companies.
+In doing so, we’ve worked alongside many industry experts and exceptionally talented people within our own organization. Resonate is all about bringing that expertise and those relationships together for our customers to help them achieve tremendous cost savings whilst enabling innovation and removing legacy solutions.
+We have seen a staggering growth in the last five years with an increasing demand for our quality services in the UC arena, which has been even further accelerated with the Covid pandemic. This growth is set to rise hence our requirement for top class talent to help grow the company to new heights.
+Number of employees
+50-99 employees
+Contact
+Contact person: Maria Cerna
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5187940
+Dátum zverejnenia:
+6.11.2025
+2025-11-06
+lokalita:
+Košice
+Pozícia:
+IT/Technical Support Specialist
+,
+Service Engineer
+,
+Technician
+Spoločnosť:
+Resonate Services s.r.o.
+Základná zložka mzdy (brutto):
+1 600 EUR/month

@@ -1,0 +1,108 @@
+Cloud Systems Engineer
+Blueprint Power Slovakia s.r.o.
+Place of work
+Kominárska 1552/3A, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+asap
+Wage (gross)
+2 500 - 4 000 EUR/month
+depends on the candidate's experience and knowledge
+Information about the position
+Job description, responsibilities and duties
+Job Description
+Our purpose is to deliver energy to the world, today and tomorrow. For over 100 years, bp has focused on discovering, developing, and producing oil and gas in the nations where we operate. We are one of the few companies globally that can provide governments and customers with an integrated energy offering. Delivering our strategy sustainably is fundamental to achieving our ambition to be a net zero company by 2050 or sooner.
+Would you like to discover how our diverse, hardworking people are leading the way in making energy cleaner and better – and how you can play your part in our world-class team?
+Join our BPP SK Team and advance your career as a/an
+Cloud systems engineer
+Description
+As an Cloud System (CS) Engineers in Retail Energy Platform Solutions department, you will be responsible for building, deploying, and maintaining scalable cloud software that powers digital energy solutions across gas, LNG, and power portfolios.
+You’ll be instrumental in enabling intelligent energy assets & management, while supporting also demand-side management (DSM), and ensuring secure, high-performance energy platform solution for U.S. energy sectors.
+Objectives
+In this role You will:
+Deliver cloud-native solutions for DSM, DR orchestration, and Retail Energy platform.
+Maintain operational integrity and cybersecurity across distributed systems.
+Support platform modernization and integration of legacy systems into bp’s cloud ecosystem.
+Collaborate with rest of the IT teams to ensure resilient infrastructure and rapid deployment cycles.
+Enable data-driven decision-making through modernisation and automation.
+Work across the entire Software Development Lifecycle (SDL) as Cloud Systems (CS) Engineer byresolving and designing system specifications, requirements, documentation, standards, reviews, and software implementation.
+Design, develop, and test software for energy applications while writing efficient, reliable, andmaintainable code in a containerized environment.
+Implement RESTful APIs & services to support the business requirements and integrate withthird-party services.
+Work with multi-functional teams to integrate software services into the final product.
+Debug, solve, and optimize existing systems to ensure proper operation and efficiency and work with engineers to identify problems in the existing solutions and software stack.
+Mentor junior team members and improve & share knowledge and standard methodologies across the team.
+Implement security measures to protect sensitive data and ensure the privacy of users.
+Work with the security team to ensure that systems are secure and align with relevant policies and standards.
+Stay up-to-date with industry standards and emerging technologies, and evaluate and recommend new tools and approaches as appropriate.
+Coordinate with the Team Lead & Senior Leads on the state of the work, prioritization, and planning.
+Work and perform other tasks under the Team Lead & Senior Leads' direction and supervision.
+Employee perks, benefits
+Reward elements: ACB bonus (based on the company performance - %), spot bonus, focus@bp - energize awards,
+further development/education/certification - grow@bp wide covering portal,
+flexible working hours, home office, remote working - on agreement, car allowance for business trips,
+local benefits: Multisport cards, attending conferences, EAP - employee assistance program.
+Information about the selection process
+Legal Disclaimer:
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, socioeconomic status, neurodiversity/neurocognitive functioning, veteran status or disability status. Individuals with an accessibility need may request an adjustment/accommodation related to bp’s recruiting process (e.g., accessing the job application, completing required assessments, participating in telephone screenings or interviews, etc.). If you would like to request an adjustment/accommodation related to the recruitment process, please contact us.
+If you are selected for a position and depending upon your role, your employment may be contingent upon adherence to local policy. This may include pre-placement drug screening, medical review of physical fitness for the role, and background checks.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT, informatics
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+3
+Personality requirements and skills
+What You will need to be successful:
+A University degree or 3+ years of work experience in relevant fields like information technology, computer science, engineering, mathematics, statistics and other IT fields.
+Strong experience with Python, Django & Celery frameworks and working with time-series data.
+Structured software development experience including agile software development processes.
+Experience with relational databases and SQL language (PostgreSQL, MySQL, or similar).
+Experience working with Event pipelines, Message Brokers, and Cache Mechanisms (RabbitMQ, Redis, or similar).
+Knowledge of RESTful API design and development, as well as experience integrating with third-party APIs.
+Experience working with containerization technologies (Docker, Podman, Kaniko, or similar), and container orchestrations (Kubernetes,...).
+Experience working with cloud platforms, especially GCP, possibly AWS or Azure.
+Familiarity with Linux/Unix administration, and experience using Linux systems such as Debian, Ubuntu, or others.
+Experience with Unit tests, Integration tests, and End-to-End Tests in backend applications.
+Experience working with SCM (git) and platforms like GitLab or GitHub to collaborate with other team members effectively.
+Understanding of HTML, CSS, and JavaScript frameworks or other web frameworks.
+Knowledge of HTTP, Websocket, MQTT protocols, and data serialization formats.
+Strong problem-solving skills and ability to analyze & fix complex systems.
+Confirmed ability to learn quickly and works well both independently and in a (distributed) team setting.
+Experience in the energy industry, industrial/IoT protocols, distributed control systems, or cybersecurity would be preferable.
+Advertiser
+Brief description of the company
+Projects we will work on together
+Blueprint Power transforms the energy profile of the built environment, creating new revenue opportunities while reducing the carbon footprint for its customers. We work with buildings of all types - office, multi-family, retail, and others. Our energy transformation platform tracks energy usage and carbon output in real-time, continually optimizes energy consumption with onsite and grid power sources, and increases the value and flexibility of the built environment with a greener strategy.
+Number of employees
+25-49 employees
+Contact
+Contact person: Mgr.  Michaela Hercegova
+Tel.:
++421915722855
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5201134
+Dátum zverejnenia:
+3.12.2025
+2025-12-03
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+Spoločnosť:
+Blueprint Power Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

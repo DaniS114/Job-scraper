@@ -1,0 +1,88 @@
+Senior Frontend/Fullstack Developer (React+Node/Java)
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 3 500 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+- Budeš pracovať hlavne na vývoji našej webovej stránky a občas sa dostaneš do kontaktu aj s backofficovými systémami (CMS)
+- Budeš pracovať v tíme s ďalšími 5 programátormi
+- Hľadáme k nám fullstack developera, ktorý bude vyvíjať komplexne od frontendu, cez backend až po databázu
+- Webové stránky robíme v Reacte, dizajny a UI máme v Zepline a Figme, komponenty nahadzujeme do Storybooku
+- Pri server-side sa stretneš hlavne s Javou – Spring Bootom, a Node
+- Dáta máme najmä v PostgreSQL, Redis-e, na data iných tímov sa integrujeme cez RestAPI a Kafku
+- CI/CD máme v Gitlabe takže skúsenosť s nimi uvítame
+- Aplikácie nasadzujeme na vlastné VM a ich monitoring a prevádzka bude náplňou aj Tvojej práce
+- Nehráme sa na byrokraciu, dôverujeme si - nestretneš sa s mikromanažmentom a ani Ťa nebudeme nútiť vykazovať prácu do rôznych nástrojov
+Zamestnanecké výhody, benefity
+- 13. plat
+- Možnosť home-office
+- Firemný telefón
+- Práca s najnovšími a najmodernejšími technológiami
+Predpokladaný termín ukončenia výberového konania
+1.3.2026
+(ostáva ešte 97 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Našim klientom je spoločnosť, ktorá sa opiera o spičkový vývojársky tím, IT dizajnérov, prográmatorov, testerov, ktorí vyvíjaju produkty pre všetky online kanály.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+​- Skúsenosť s agilným spôsobom vývoja softvéru
+- Skúsenosť s vývojom moderného frontendu (JS/TS, React, Webpack/Vite...)
+- Skúsenosť s vývojom backendu (Java, Node, SQL atď.)
+- Skúsenosť s návrhom IT architektúry
+- Schopnosť pracovať v tíme aj samostatne
+- Zaujímajú ťa nové technológie a trendy
+- Nie je ti jedno ako program vyzerá, máš rád programovanie, dátové štruktúry a algoritmy
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: IT Recruitment
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5196501
+Dátum zverejnenia:
+24.11.2025
+2025-11-24
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+IT architekt
+,
+Java programátor
+,
+Javascript programátor
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

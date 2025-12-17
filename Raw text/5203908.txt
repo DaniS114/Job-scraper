@@ -1,0 +1,124 @@
+dátový inžinier/dátová inžinierka - expert/expertka vývoja dátového skladu (DWH)
+Národná banka Slovenska
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac
+od 3000 €
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Charakteristika práce:
+Budovanie a obsluha riešenia dátového skladu (DWH) a business intelligence (BI) v NBS. Návrh, vývoj, modifikácia a testovanie komponentov dátového skladu – procesov dátových púmp (ETL).
+Popis rozhodujúcich činností na pracovnom mieste:
+• Analyzuje incidenty dátového skladu (DWH) a navrhuje riešenia na odstránenie možných chýb, nepresností, neúplností a porušených konzistencií dát
+• Vyvíja dátové pumpy (ETL) v NBS určené na extrahovanie, transformáciu a spracovanie dát v dátovom sklade (DWH) podľa zadania
+• Spolupracuje pri tvorbe funkčnej špecifikácie riešenia s hlavným dátovým architektom a dátovým analytikom
+• Pripravuje návrh integrácie dát do DWH a navrhuje riešenia business intelligence (BI)
+• Implementuje procesy pre dátové pumpy (ETL), mapuje číselníky, dimenzie súčasných a historických dát DWH (SCD), súbory, tvorí extrakty, dátové integrácie a segregácie, unifikácie a párovanie transakcií
+• Nastavuje parametre závislostí ETL úloh, pripravuje inštalačné balíčky na nasadenie do produkcie
+• Upravuje a prispôsobuje parametre procesov dátových púmp (ETL) do požadovanej formy
+• Vykonáva testovanie implementovaných častí ETL na základe definovaných testovacích scenárov
+• Vykonáva školiacu a konzultačnú činnosť u biznis používateľov v rozsahu implementovanej časti DWH
+• Podpora prevádzky NBS DWH – denný monitoring ETL procesov, vykonávanie profylaktiky ETLprocesov
+• Nastavuje dátové kontroly kvality
+Zamestnanecké výhody, benefity
+Základná zložka mzdy:od 3000 €
+Konkrétna výška mzdy bude závisieť od dosiahnutého vzdelania, doterajších pracovných skúseností a odborných vedomostí vybraného kandidáta.
+Ponúkame najmä tieto benefity:
+• pružný pracovný čas
+• príležitostná práca z domu
+• týždeň dovolenky nad rámec Zákonníka práce
+• 5 dní plateného pracovného voľna
+• možnosť získať štvrťročné odmeny za výsledky práce
+• príspevok na doplnkové dôchodkové sporenie
+• profesijný a odborný rozvoj
+• vlastná odborná knižnica
+Doplňujúce informácie:
+Hľadáme vývojára so zmyslom dávkového spracovania dát v masívne paralelizovanom prostredí. Baví ho hrať sa s dátami, optimalizovať SQL. Rovnako ako v relačnej databáze a tak aj v Big Data prostredí. T.j. nezľakne sa príšer z dátových jazier a ani ďalších úloh vyplývajúcich z prevádzky celobankového dátového skladu NBS. Náš nový kolega, alebo kolegyňa by mala mať široký rozhľad v IT oblasti. Ak Vás baví téma datawarehouse, vývoj ETL, spracovanie veľkého objemu dát a aj veľkej šírky záberu, či tvorba reportov, neváhajte a pošlite nám svoj životopis, čakajú nás mnohé výzvy ku ktorým potrebujeme novú posilu.
+Informácie o výberovom konaní
+Zaujalo Vás toto miesto a chcete sa prihlásiť? Prosím kliknite nižšie na „Poslať spoločnosti životopis“ a budete presmerovaný priamo do nášho systému, kde vyplníte prihlasovací formulár. Termín na prihlásenie je najneskôr do 31.1.2026.
+Bližšie informácie o podmienkach spracúvania osobných údajov nájdete na: https://www.nbs.sk/sk/ochrana-osobnych-udajov .
+Pracovné miesto je prístupné bez ohľadu na pohlavie.
+Predpokladaný termín ukončenia výberového konania
+1.2.2026
+(ostáva ešte 46 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+prírodovedné, technické, informatické, ekonomické, matematické
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Kvalifikačný profil:
+• vzdelanie: Vysokoškolské 2. stupeň
+• zameranie: prírodovedné, technické, informatické, ekonomické, matematické
+• prax v odbore: najmenej 5 rokov
+Odborný profil:
+• znalosť jazyka a jeho úroveň: Anglický - aktívna znalosť vrátane odbornej terminológie
+• IT zručnosti: MS Word; MS Excel; MS PowerPoint; MS Outlook; Internet.
+• Praktické skúsenosti s nástrojmi pre modelovanie, návrh a udržiavanie dátového modelu DWH (Sparx Enterprise Architect, Oracle Data Modeler)
+• Znalosť Oracle Data Integrator
+• Project tracking systémy
+• odborné vedomosti a zručnosti:
+• Rozšírená znalosť SQL databáz (Oracle 11g a vyššie, MS SQL)
+• Expertná znalosť oblasti dátového skladu DWH (metodika, tvorba, obsluhovanie, techniky, praktiky riešení a návrhu)
+• Praktické skúsenosti s PL/SQL a SQL
+• Systémová znalosť implementačných postupov v ETL (mapovanie číselníkov, SCD, spracovanie súborov, tvorba extraktov, dátová integrácia a segregácie, unifikácia a párovanie transakcií)
+• Procedurálne myslenie
+• Rozvoj a optimalizácia Oracle DB
+• Dolaďovanie (fine-tuning) a optimalizácia SQL
+• Expertná znalosť technologických platforiem
+• Základný prehľad v integračných spôsoboch
+Profil sociálnych a osobnostných kompetencií:
+• samostatnosť
+• tímová spolupráca
+• komplexné a koncepčné myslenie
+• inovatívnosť
+• chuť učiť sa
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Národná banka Slovenska je centrálnou bankou SR a zároveň je súčasťou Európskeho systému centrálnych bánk a jednotného mechanizmu dohľadu.
+Naše postavenie je výnimočné aj preto, že ako verejná inštitúcia zriadená zo zákona zabezpečujeme viaceré nezastupiteľné úlohy pre našu krajinu.
+Sú to najmä menová politika, dohľad nad finančným trhom, finančná stabilita, zabezpečovanie platobných systémov a peňažného obehu, ekonomický výskum a zber štatistických údajov.
+Počet zamestnancov
+1000 a viac zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Martina Novosedlíková
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203908
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Bratislava
+Pozícia:
+Databázový administrátor
+,
+Databázový analytik
+,
+Oracle programátor
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Národná banka Slovenska
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

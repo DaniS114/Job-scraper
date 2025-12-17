@@ -1,0 +1,101 @@
+DevOps Engineer – Kubernetes & Cloud-Native - TN
+Slovanet, a. s.
+Miesto práce
+Trenčín, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac
+Finálna úroveň základnej mesačnej mzdy na pozícii vychádza zo skúseností, znalostí a praxe kandidáta. K základnej mzde prislúchajú rôzne mimoriadne, projektové, ročné odmeny, ktoré upresníme na pohovore.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Čo ťa na tejto pozícii čaká?
+Výzva pre skúseného
+DevOps Engineera
+, ktorý sa bude podieľať na správe a rozvoji Kubernetes infraštruktúry, budovaní CI/CD procesov a nasadzovaní moderných cloud-native riešení. Ideálny kandidát má skúsenosti so škálovaním aplikácií, kontajnerizáciou, observabilitou a bezpečnosťou v enterprise prostredí.
+Hlavné zodpovednosti:
+inštalácia a správa Kubernetes prostredia
+zálohovanie a disaster recovery v Kubernetes (Kasten K10, Velero)
+škálovanie aplikácií a nasadzovanie stratégií (KEDA, Blue-Green Deployment)
+správa container image registry (Harbor, Gitlab) a tvorba/testovanie Docker/Podman images
+konfigurácia a optimalizácia CI/CD pipeline (GitLab CI, ArgoCD, Azure DevOps)
+nasadzovanie a prevádzkovanie databáz (PostgreSQL, MariaDB, MongoDB, Redis)
+implementácia Infrastructure as Code (Helm,Terraform, Ansible)
+implementácia a správa monitorovacích systémov (Prometheus, Grafana)
+centralizované logovanie a alerting (Loki, ELK stack)
+analýza výkonnosti systémov a proaktívne riešenie problémov
+implementácia bezpečnostných politík v Kubernetes (RBAC, NetworkPolicies, security context)
+využitie SBOM a vulnerability scannerov na zvýšenie bezpečnosti aplikácií
+správa certifikátov, šifrovania a Secrets (Vault, PKI)
+monitoring sieťovej prevádzky a prevencia útokov (CloudGuard AppSec WAF, firewall)
+Požiadavky na kandidáta:
+Odborné požiadavky:
+skúsenosti s Ceph alebo NetApp storage riešeniami
+skúsenosti s CSI implementáciami (Longhorn, NVMe over TCP)
+znalosť programovacích jazykov (Python, Go, Bash)
+znalosť adminstracie linuxu
+Osobnostné predpoklady:
+Samostatnosť, zodpovednosť a proaktívny      prístup
+Ochota učiť sa nové technológie
+Tímový hráčso schopnosťou efektívne komunikovať​
+Zamestnanecké výhody, benefity
+Čo ti ponúkame?
+v prvej fáze 6 mesačný projekt s možnosťou predĺženia kontraktu, či dlhodobej spolupráce
+prácu s modernými cloud-native technológiami v enterprise prostredí
+možnosť čiastočne pracovať z domu po skúšobnej dobe - 2 dni v týždni
+priestor na ďalšie vzdelávanie a odborný rast
+dni voľna naviac
+príspevok na dôchodkové sporenie DDS
+zľavy na produkty spoločnosti
+Edenred benefity – cafeteria (možnosť čerpania peňažného príspevku na voľný čas zamestnanca), MultiSport karta a ďalšie
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+Vzdelanie v odbore
+IT / Telekomunikácie / Technický odbor
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Prax na pozícii/v oblasti
+5 +
+Počet rokov praxe
+5
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Slovanet je slovenská firma, v ktorej môžeš stále stretnúť jej zakladateľov a súčasných majiteľov. Vďaka tomu ponúka nenapodobiteľnú atmosféru, s ľudským prístupom a priateľskými vzťahmi.
+Sme jedným z najväčších telekomunikačných operátorov na Slovensku. Na trhu pôsobíme viac ako 25 rokov. Hoci firma vznikla ako hŕstka nadšencov, dnes má takmer 300 zamestnancov.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Soňa Machatová
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5173342
+Dátum zverejnenia:
+11.11.2025
+2025-11-11
+lokalita:
+Trenčín
+Pozícia:
+DevOps Engineer
+,
+Programátor
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Slovanet, a. s.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

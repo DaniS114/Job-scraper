@@ -1,0 +1,113 @@
+VK/2025/3317 - Špecialista bezpečnosti SOC
+Ministerstvo práce, sociálnych vecí a rodiny SR
+Miesto práce
+Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky, Špitálska, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+1 429 - 4 000 EUR/mesiac
+Výsledný plat bude  predmetom osobného rozhovoru a bude sa odvíjať od skúseností a odborných znalostí uchádzača
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Počet obsadzovaných miest:
+1
+Organizačný útvar:
+referát dohľadového centra bezpečnosti
+Nadriadený organizačný útvar:
+sekcia informatiky
+Odbor štátnej služby:
+1.05 Informatika (sociálno-ekonomické informácie, štátny informačný systém)
+Špecialista bezpečnosti SOC
+Obsadzované štátnozamestnanecké miesto vo funkcii
+hlavný štátny radca
+Vedúci štátny zamestnanec:
+nie
+Druh štátnej služby:
+dočasná štátna služba na voľné štátnozamestnanecké miesto odborníka, ktorý je dočasne potrebný na plnenie úloh štátnej služby
+Najnáročnejšia činnosť:
+Koordinovanie celoštátneho alebo medzištátneho systému s najširšími vonkajšími a vnútornými väzbami na ďalšie zložité a rozsiahle systémy rôznych odborov a smerov s dôsledkami za rozhodnutia s celoštátnym a medzinárodným dosahom na úrovni ministerstva.
+Bližšie určená najnáročnejšia činnosť:
+Koordinovanie činností v oblasti informačnej bezpečnosti pri tvorbe a realizácii jednotného celoštátneho informačného systému v pôsobnosti ministerstva.
+Analyzuje a rieši bezpečnostné incidenty a podozrivé udalosti, ktoré klasifikoval Operátor SOC.
+Vypracováva bezpečnostné politiky a postupy.
+Zabezpečovanie L2 podpory pri riešení incidentov.
+Analyzuje koreňové príčiny.
+Vypracováva odporúčania na zlepšenie bezpečnosti.
+Získava doplňujúce informácie o prostredí.
+Identifikuje a hodnotí nové bezpečnostné zraniteľnosti v systémoch.
+Udržuje aktuálnosť playbookov a ďalšej SOC dokumentácie.
+Poskytuje technickú podporu pri implementácii bezpečnostných nástrojov.
+Zabezpečuje súlad riešených incidentov s internými bezpečnostnými predpismi.
+Spolupracuje na vývoji a implementácii nových bezpečnostných procesov.
+Komunikuje s tretími stranami.
+Informácie o výberovom konaní
+Termín podávania žiadostí do výberového konania je od 31.10. do 14.11.2025.
+Žiadosť s dokladmi a prílohami v listinnej podobe s uvedením identifikátora výberového konania môžete v stanovenom termíne:
+a)	doručiť do podateľne Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky, Špitálska 4, 6, 8, 816 43 Bratislava alebo
+b)	zaslať poštou na adresu: Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky, osobný úrad, Špitálska 4, 6, 8, 816 43 Bratislava.
+Realizácia VK: druhý novembrový týždeň 2025
+UPOZORNENIE:
+- prihlásenie elektronicky prostredníctvom Centrálneho informačného systému štátnej služby ako VK/2025/3317, (link: https://cisss.gov.sk/employee-selection/detail/c80d36ee-6e83-42fa-8896-dc1cb72b54f7 ).
+- prihlásenie do výberového konania podaním žiadosti v LISTINNEJ PODOBE musí obsahovať náležitosti uvedené v § 3 ods. 1 vyhlášky ÚV SR č. 127/2017 Z. z., ktorou sa ustanovujú podrobnosti o výberových konaniach:
+1.	názov a sídlo služobného úradu, ktorý vyhlásil výberové konanie,
+2.	identifikátor výberového konania,
+3.	titul, meno a priezvisko uchádzača,
+4.	dátum narodenia uchádzača,
+5.	rodné číslo alebo iné identifikačné číslo uchádzača,
+6.	pohlavie,
+7.	občianstvo uchádzača,
+8.	telefonický kontakt a e-mailový kontakt uchádzača,
+9.	korešpondenčnú adresu uchádzača,
+10.	zvolenú podobu doručovania písomností v súvislosti s výberovým konaním (elektronicky na emailovú adresu alebo v listinnej podobe).
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Osobnostné predpoklady a zručnosti
+Ďalšie požiadavky:
+svedomitosť a spoľahlivosť, 2. motivácia, 3. adaptabilita a flexibilita, 4. schopnosť pracovať pod tlakom, 5. komunikačné zručnosti, 6. analytické, koncepčné a strategické myslenie
+Odborné znalosti:
+Oblasť legislatívy:
+znalosť zákona č. 95/2019 Z. z. o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov
+znalosť vyhlášky č. 179/2020 Z. z. ktorou sa ustanovuje spôsob kategorizácie a obsah bezpečnostných opatrení informačných technológií verejnej správy
+znalosť zákona č. 69/2018 Z. z. o kybernetickej bezpečnosti a o zmene a doplnení niektorých zákonov
+znalosť Vyhlášky Národného bezpečnostného úradu č. 227/2025 Z. z. o bezpečnostných opatreniach,
+znalosť zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Government.
+Jazykové znalosti:
+anglický jazyk výhodou
+Vítané počítačové znalosti:
+Inštalácia, konfigurácia a hardening operačných systémov
+Znalosti bezpečnostnej architektúry IKT
+Praktická realizácia záloh a obnovy systémov
+Znalosť techniky a metódy riadenia konfigurácií a vplyv konfigurácií na bezpečnosť
+Znalosť inštalácie systémov pre SOC a ich administrácie
+Znalosť princípov a zdroje získavania informácií o zraniteľnostiach (napr. varovania, rady, bulletiny)
+Znalosť tried a vektory útokov
+Znalosť procesov riešenia kybernetických bezpečnostných incidentov
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Ústredný orgán štátnej správy
+Kontakt
+Kontaktná osoba: Mgr.  Jana Hricková
+Tel.:
++421220462121
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5184868
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Špecialista IT bezpečnosti
+Spoločnosť:
+Ministerstvo práce, sociálnych vecí a rodiny SR
+Základná zložka mzdy (brutto):
+1 429 EUR/mesiac

@@ -1,0 +1,107 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+DevOps Engineer Professional (Principal) for Industrial AI Cloud
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 3 800 EUR/month.
+NVIDIA and Deutsche Telekom are jointly developing the world’s first industrial AI cloud for European manufacturers. This AI factory in Germany will host 10,000 GPUs across NVIDIA DGX B200 systems and RTX Pro Servers. Deutsche Telekom provides secure, sovereign and fast infrastructure, including data centers, operations, security, and AI solutions.
+Role Overview:
+DevOps Engineer Principal / DevOps Professional provides consultation of functional organization to implement DevOps principles in term of culture and technologies. Holder of the position prepares prototypes and concepts for further automation of assigned technology, driving continuous improvement. DevOps Engineer Professional is responsible for entire lifecycle of Continuous Integration/Continuous Deployment pipelines and Infrastructure as Code approaches.
+What will you do?
+Design, develop, test, implement and support ICT components and applications in order to deliver quality standard product portfolio on AI Factory Cloud platform.
+Develop concepts, processes and methods for automation, optimization, and standardization to satisfy efficiency and automation requirements.
+Consult and provide advice or information at request or at own initiative to all relevant employees or customers regarding technical aspects of products.
+Consult and provide project deliverables to fulfil the project scope.
+Consult and implement new innovative technologies to satisfy innovation strategy.
+Owns responsibility for maintenance & support of enhancement of the Product pipelines with further levels of value chain, connecting pipeline to different platforms and infrastructures, integration of different platforms and infrastructures into the pipeline, root-cause analysis of pipeline runtime errors
+Provide overall solutions and principles in planning, developing, and implementing new products to satisfy business requirements.
+Develop, and implement architecture of services based on AI Factory Cloud platform requirements.
+Mentor and train co-workers to spread knowledge level and develop their skills.
+Creates concepts for further automation of services, processes, and/or operating models.
+Act as key technical lead and solve and coordinate activities across related technologies/outside own team.
+Provide consulting services to project teams on areas of expertise.
+Setups and manages integration with partner applications.
+Research and development in assigned technology, determine business requirements, propose changes and develop implementation plans.
+You will succeed if you:
+Have Master`s degree in Information technologies
+5+ years - Experience in the design and delivery of systems based on IaaS, PaaS and SaaS
+3+ years - Experience in building CI/CD pipelines and serverless architectures
+AI Factory Cloud platform sw stack knowledge incl. its dependencies on below layers
+NVIDIA GPU-Accelerated server platform knowledge
+Data Engineering, Data Transformation, Data Migration tools knowledge
+Solid knowledge of Kubernetes (or similar) container-based technologies
+Experience with VMware environments (VMware Tanzu Kubernetes)
+Experience with scripting languages (Go/Python/Bash)
+Experience with Automation tools and automation deployments (Ansible/Salt-stack/Terraform/Helm)
+Experience with CI/CD in a Kubernetes environment and repository management
+Expert in automation with Git (GitHub, GitLab) and CI/CD tools like GitHub Actions or GitLab CI/CD
+Experience with Linux OS
+Experience with Software Defined Networking (SDN)
+Experience with monitoring and visualization tools (Grafana, Prometheus, …)
+Other skills:
+Good communication skills, analytical thinking, team cooperation, presentation skills, negotiation skills
+speak English- Advanced (C1), German is an advantage
+Project Management- Basic
+Leadership skills- Basic
+Quality management- Intermediate
+Financial literacy- Intermediate
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+3 800 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 3 800 EUR/month.
+Contact
+Contact person: Anna Heveryová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5201259
+Dátum zverejnenia:
+3.12.2025
+2025-12-03
+lokalita:
+Košice
+Pozícia:
+IT Architect
+,
+IT Consultant
+,
+Programmer
+,
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 800 EUR/month

@@ -1,0 +1,128 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Software Solution Designer with German Language
+Place of work
+Moldavská cesta, Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Ready to Shape the Future of Software Solutions at the HUB DAS (DOM (EOS) and API Decoupling Layer) ?
+We’re looking for a
+Senior Software Solution Designer (m/f/d) – German Speaking
+to take the lead in crafting end-to-end application development solutions that truly make an impact. Join our agile team and help us deliver smart, scalable, and customer-centric innovations aligned with Deutsche Telekom’s high standards. If you're passionate about driving value through technology and collaboration, this is your opportunity to make a difference.
+Information about HUB:
+The
+HUB DAS (DOM (EOS)
+and
+API Decoupling Layer)
+is responsible for the development of various services in the Magenta Business environment in the Unassisted Sales Channel, Assisted Sales Channel and Magenta Business Collaboration. Specifically, development in the API environment focuses on connecting the side (unassisted sales, assisted sales channel) with the underlying production lines, e.g. SeCe-IT, CRM-T, etc., in the Magenta Business environment.
+The HUB is also developing the unified standardize order management platform for the service organization.
+What will you do?
+Support and lead a software development team focused on building new applications and maintaining existing environments
+Perform due diligence to ensure high-quality and feasible technical solutions
+Develop software solutions by analyzing business needs, collaborating with users, and understanding systems flow, data usage, and work processes
+Evaluate operational feasibility through comprehensive analysis, problem definition, and proposed solutions
+Document and demonstrate solutions using flowcharts, layouts, diagrams, clean code, and thorough documentation
+Design and install software systems by defining technical specifications, standards, and programming guidelines
+Improve operational efficiency by conducting systems analysis and recommending process or policy changes
+Independently manage the full software development lifecycle from demand to deployment
+Analyze initial customer requests and system architectures to deliver optimal value
+Define architectural rules, guidelines, and specifications aligned with Deutsche Telekom standards
+Design complex yet operable software solutions that balance performance and cost-efficiency
+Identify and evaluate multiple options for fulfilling customer demands, choosing the best fit for effort, cost, time, and quality
+Propose scope adjustments or alternative solutions when standard approaches fall short
+Ensure compliance with architectural, security, and process standards
+Work on rapid deployments of showcases, pilots, and Proofs of Concept (PoCs)
+Design integrations between new applications and existing systems
+Provide technical consulting to bridge business requirements and technical feasibility
+Collaborate effectively with coders, testers, and other team members as the primary solution designer
+Create solution and architecture documentation for development and operational teams
+Design test drivers, simulators, automation scripts, logical test cases, and define test criteria
+Implement end-to-end solutions and oversee their successful deployment
+Perform post-implementation reviews and lessons learned to continuously improve processes
+You will succeed if you:
+Hold a Master’s degree in Information Technologies
+Have relevant certifications (LSA, product-specific) as required
+Bring expert knowledge in solution design, MS Office, Scrum, Jira, and ITIL
+Are fluent in
+English (B2)
+and
+German (B2)
+Communicate clearly and present ideas with confidence
+Think analytically and solve problems creatively
+Work collaboratively and manage conflicts constructively
+Guide and support the development of colleagues
+Excel in resource planning and project management
+Stay calm under pressure and adapt in fast-paced environments
+Are passionate about open-source and modern technologies
+Understand business processes and can design end-to-end IT solutions
+Have experience with complex IT landscapes, solution rollouts, and business analysis
+Simplify complexity for customers and focus on delivering measurable results
+have strong background in leading and guiding development teams, ensuring alignment with business objectives and helping resolve technical and functional ambiguities.
+are skilled in driving alignment across departments and facilitating decision-making processes.
+Requirements Engineering:
+Extensive experience in gathering, analyzing, documenting, and managing IT and business requirements, in close collaboration with stakeholders, Product Owners, and development teams.Skilled in translating business needs into clear and actionable user stories and functional specifications
+End-to-End Process Expertise:
+Deep understanding of end-to-end business processes, from order capture through fulfillment and service delivery, including support and incident management.
+Experience in analyzing and optimizing process flows with cross-functional impact.
+Agile & Frameworks:
+Extensive hands-on experience with Scrum and agile development practices, including backlog refinement, sprint planning, reviews, and retrospectives.
+Proficient in working within scaled agile frameworks such as SAFe or LeSS, with a strong commitment to cross-functional collaboration and continuous improvement.
+Comfortable acting as a bridge between business and IT in fast-paced agile settings.
+Tools & Technical Know-how:
+Tools: Jira, Confluence, Azure DevOps, MS Visio, Miro
+Modeling: BPMN 2.0, UML, Use Case Modeling
+Documentation: User Stories, Epics, Acceptance Criteria
+Other: Solid understanding of DevOps processes, CI/CD principles, RESTful APIs
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Dana Dráčová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5123753
+Dátum zverejnenia:
+11.11.2025
+2025-11-11
+lokalita:
+Košice
+Pozícia:
+Software Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 500 EUR/month

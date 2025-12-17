@@ -1,0 +1,104 @@
+Software Engineer (Fullstack) - Omega team
+Eleveo a.s., organizačná zložka Slovensko
+Place of work
+Košice
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+From 2 800 EUR/month
+Depends on seniority.
+Information about the position
+Job description, responsibilities and duties
+About Eleveo
+Eleveo a.s. is a leading provider of innovative software solutions designed to empower Contact Centers worldwide. Our flagship platform enables organizations to
+record, analyze, and improve customer interactions
+by leveraging advanced tools for self-evaluation, quality management, and customer feedback analysis.
+Founded with a vision to transform customer service experiences, Eleveo combines deep industry expertise with cutting-edge technology to help businesses
+enhance operational efficiency, improve agent performance, and elevate customer satisfaction
+. Our solutions support omnichannel environments, integrating voice, chat, email, and social media channels to provide a holistic view of customer interactions.
+With a global client base spanning multiple industries, Eleveo emphasizes
+reliability, scalability, and innovation
+in all our offerings. We foster a culture of continuous improvement, collaboration, and agile development, ensuring our platform evolves alongside the fast-changing needs of modern Contact Centers.
+Headquartered in Prague, with offices in Slovakia and the USA, Eleveo is proud to be a part of the global digital transformation movement—helping businesses turn customer insights into actionable improvements and lasting competitive advantage.
+To learn more about our products and vision, visit our product page.
+About team
+Team Omega is responsible for integrating with Contact Center as a Service (CCaaS) providers and collecting contact center–related
+data
+for use in Eleveo applications (Workforce Management, Workforce Optimization) and analytics. The ultimate goal is to provide easy-to-setup integration with customers’ cloud contact center systems and provide a seamless experience for
+data
+transfer.
+You will
+Write well-designed, testable code based on PM (Product Management) requirements
+Develop a software product, staying true to our company’s core values and needs while lending your own creativity to the mix
+Create scalable, automated solutions for our customer base
+Integrate software components into a fully functional software system
+Write unit and integration tests for each new development delivery
+Document and maintain software functionality
+Employee perks, benefits
+​Creative environment with a strong sense of ownership, living agile
+Architecting a solution in a fast-growth industry (high scalability, fault resiliency…)
+Flexible home-office policy
+Flexible working hours – based on agreement with the team
+Global multinational environment; headquarter in Prague, and offices in Slovakia, and the USA
+Open and transparent team environment
+Competitive salary
+Team events – company breakfasts, team building
+Budget for training and conferences, internal knowledge share sessions
+Trainings - courses across tech, business, leadership, and wellness are paid after agreement with your manager
+Focus time – dedicated time for education, experiments, or working on open-source projects
+Look at the list of benefits https://joineleveo.com/benefits/
+Information about the selection process
+You can find more information about our selection process on the page: https://joineleveo.com/interview/
+Please note, only selected candidates will be contacted.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Educational Specialization
+Software Development
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+​Advanced or senior level in React
+Proficiency withHTML, CSS and JavaScript/TypeScript
+Some experience with Java or Kotlin and Spring Boot
+Basic level (or general overview) in Docker, Kubernetes, Helm, Unix & Linux
+Object-oriented programming and functional programming
+Experience with Spring Batch and OLAP cubes are a plus
+Git, Maven/Gradle(nice to have)
+Databases – PostgreSQL (basics)
+Familiar with general software design patterns
+Clean code attitude and test-driven – unit tests, integration tests
+Strong technical thinking and problem-solving skills
+Interest in modern technologies (AWS Cloud preferably)
+Fluent English
+Advertiser
+Brief description of the company
+Eleveo is a software company developing products which support everyday operation of a wide range of contact centers, including financial institutions, telecommunication providers or emergency services. The main focus of the company is software for recording, reconstruction and archivization of calls, as well as later analysis and evaluation of recordings. The primary goal of the Kosice development center is development of a native cloud platform.
+More information can be found at: https://joineleveo.com/about-eleveo/
+Contact
+Contact person: Mgr.  Zuzana Sotáková
+Tel.:
++421948892189
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5155151
+Dátum zverejnenia:
+17.11.2025
+2025-11-17
+lokalita:
+Košice
+Pozícia:
+Software Engineer
+Spoločnosť:
+Eleveo a.s., organizačná zložka Slovensko
+Základná zložka mzdy (brutto):
+2 800 EUR/month

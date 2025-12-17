@@ -1,0 +1,106 @@
+Výskumný pracovník – AI
+IT & Elektronic s.r.o.
+Miesto práce
+Belopotockého 627, 031 01 Liptovský Mikuláš
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 500 - 4 900 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+výskum a experimenty s algoritmami adaptívneho učenia (adaptive learning engines),
+vývoj systémov na personalizované odporúčania obsahu,
+analýza správania a progresie študentov pomocou ML/Data Analytics,
+vývoj a tréning strojového učenia modelov (NLP, klasifikácia, regresie),
+integracia AI modelov do platformy a testovanie ich výkonu,
+evaluácia a optimalizácia AI komponentov na základe dát,
+dokumentácia experimentov, metodológií a výsledkov,
+spolupráca s technickým vedúcim a ostatnými tímami na integráciách.
+Zamestnanecké výhody, benefity
+úlohu vedúceho AI výskumu s možnosťou tvorby nových algoritmov,
+prístup ku kvalitným datasetom a výpočtovým zdrojom (GPU, cloud infraštruktúra),
+spoluprácu s výskumnými tímami a inštitúciami,
+atraktívne finančné ohodnotenie podľa skúseností a výsledkov,
+prostredie pre inováciu a experimentovanie.
+Informácie o výberovom konaní
+V prípade záujmu pošlite svoj životopis alebo profil na adresu: pazdernaty@itelektronic.sk V priebehu pár dní sa vám ozveme a dohodneme na online pohovore.
+Predpokladaný termín ukončenia výberového konania
+5.1.2026
+(ostáva ešte 19 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Slovenský jazyk - Stredne pokročilý (B2)
+a
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+Python - Pokročilý
+TensorFlow (Machine learning) - Pokročilý
+PyTorch - Pokročilý
+Scikit-Learn - Pokročilý
+Pandas - Pokročilý
+Jupyter - Pokročilý
+Matplotlib - Pokročilý
+Plotly - Pokročilý
+Natural Language Processing (NLP) - Základy
+Osobnostné predpoklady a zručnosti
+vysokoškolské vzdelanie (preferovane Ph.D.) v oblasti informatiky, dátovej vedy, matematiky alebo príbuznom odbore,
+skúseností s vývojom ML / AI riešení,
+hlboké znalosti algoritmov machine learningu a deep learningu,
+praktické skúsenosti s nástrojmi:
+Python
+,
+TensorFlow / PyTorch
+,
+scikit-learn
+,
+pandas
+,
+skúsenosť s dátovou analýzou a vizualizáciou
+Jupyter
+,
+Matplotlib
+,
+Plotly
+),
+znalosť NLP (natural language processing) je výhodou,
+skúsenosť s experimentálnym výskumom a publikáciou výsledkov je výhodou,
+schopnosť pracovať s veľkými dátovými súbormi,
+analytické myslenie a schopnosť riešenia komplexných problémov.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+IT & Elektronic s.r.o. je zameraný na výskum a vývoj v oblasti Kybernetickej bezpečnosti, kryptografie a AI výskumu.
+Skúmame konkrétne nástroje, algoritmy a prototypy, ktoré riešia aktuálne problémy v oblasti dátovej bezpečnosti, AI a kryptografie.
+Kontakt
+Kontaktná osoba: Matúš Pazdernatý
+Tel.:
++421902425722
+E-mail:
+poslať životopis
+Na to, aby ste reagovali na túto ponuku,
+nepotrebujete životopis
+. Stačí len, keď vyplníte formulár.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199290
+Dátum zverejnenia:
+28.11.2025
+2025-11-28
+lokalita:
+Liptovský Mikuláš
+Pozícia:
+Programátor
+,
+Výskumný a vedecký pracovník
+Spoločnosť:
+IT & Elektronic s.r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

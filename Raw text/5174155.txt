@@ -1,0 +1,114 @@
+Voľné pozície
+O nás
+Zamestnanecké výhody
+Kontakt
+Senior Kubernetes Systems Engineer - m/ž
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 300 EUR/mesiac
+Základná nástupná brutto mzda 3 300€, plus ročný bonus, preplácané pracovné pohotovosti. Tvoja konkrétna mzda bude závisieť od rozsahu Tvojich znalostí a praktických skúseností.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme kvalifikovaného a skúseného Kubernetes Systémového Inžiniera, ktorý by sa pridal do nášho mladého a rýchlo rastúceho Cloudového tímu. Ideálny kandidát by mal mať silné skúsenosti s riadením produkčných Kubernetes clustrov, preukázateľné znalosti Kubernetes networkingu a demonštrovať odbornosť pri riešení kritických a zložitých technických problémov. Úspešný kandidát bude zohrávať kľúčovú rolu pri podpore našich projektov bežiacich na našej Kubernetes platforme a zabezpečovať bezpečné a efektívne riadenie Kubernetes clustrov na popredných poskytovateľoch cloudu, ako sú AWS, Azure alebo GCP.
+Vytváranie a manažovanie      produkčných Kubernetes clustrov
+Riešenie kritických a zložitých      technických problémov súvisiacich s Kubernetes riešeniami
+Deployment aplikácií na      Kubernetes clustroch
+Bezpečné riadenie Kubernetes      zväzkov na aspoň jednom z poskytovateľov cloudu (AWS, Azure, alebo GCP)
+Manažovanie secretov a      implementácia najlepších bezpečnostných postupov
+Dobrá znalosť kľúčových      konceptov Kubernetes (Deployment, ReplicaSet, DaemonSet, Statefulsets,      Jobs)
+Konfigurácia a riadenie Ingress Controllerov (napr. Nginx) a cloudu-native loadbalancerov
+Riadenie komponentov úložiska v      Kubernetes (PV, PVC, Storage Classes, Provisioners)
+Implementácia a optimalizácia      sietí Kubernetes (Services, Endpoints, DNS, LoadBalancers)
+Nastavenie kvót pre zdroje a zabezpečenie      efektívneho využitia zdrojov
+Nastavenie monitoringu a výstrahy pre Kubernetes      cluster pomocou open-source nástrojov ako Grafana a Prometheus
+Spolupráca so stakeholdermi a porozumenie ich      predstáv o architektúre a prevádzke, neustále zlepšovanie podpory pre      Kubernetes
+Práca v tíme Scrum/Kanban a aktívny príspevok k      DevOps kultúre
+Využívanie nástrojov ako HELM, Ansible a Terraform      pre efektívne nasadenie a riadenie infraštruktúry
+Zamestnanecké výhody, benefity
+Možnosť ďalšieho odborného rastu podľa tvojho výberu (užšia špecializácia, alebo získavanie ďalších profesionálnych zručností, hierarchický rast)
+Možnosť práce z domu
+Flexibilná pracovná doba
+Ročná odmena v závislosti od splnenia cieľov do výšky mzdy
+Školenia a jazykové kurzy zdarma
+Príspevok na doplnkové dôchodkové sporenie
+Ročný príspevok na individuálny výber benefitov z Cafetérie + narodeninový bonus
+Zvýhodnené celoročné cestovné poistenie pre zamestnancov
+Príspevok darcom krvi
+Príspevok pri narodení dieťaťa
+Jubilejné pracovné odmeny
+Odmena za odporúčanie kolegu
+Možnosť využívania MultiSport karty
+Zvýhodnené ponuky vo vybraných bankách a obchodoch
+Zľavy na nákup koncernových vozidiel Volkswagen
+Parkovanie zdarma
+Informácie o výberovom konaní
+Na pracovnom pohovore budú preskúšané jazykové znalosti uchádzača.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT, MAT-FYZ a iné so zameraním na informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+Kubernetes, IT, Cloud
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Certifikácia v oblasti správy      Kubernetes (CKA) a vývoja aplikácií (CKAD) je výhodou
+Prax vytvárania a riadenia      produkčných Kubernetes clustrov
+Dobrá znalosť Kubernetes sietí      a kľúčových konceptov
+Praktické skúsenosti s      poskytovateľmi cloudu (AWS, Azure alebo GCP)
+Znalosť nástrojov ako HELM,      Ansible a Terraform
+Silný tímovy hráč s DevOps      zmýšlaním
+Skúsenosti s nastavením      monitoringu a výstrahy pre Kubernetes clustre
+Vynikajúce schopnosti riešenia      problémov a komunikácie
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť VOLKSWAGEN GROUP SERVICES, s.r.o. s 85-percentným podielom spoločnosti Volkswagen Group Services GmbH a 15-percentným podielom spoločnosti Volkswagen Slovakia, a.s. poskytuje pre Volkswagen Slovakia, ako aj koncern Volkswagen komplexné a odborné personálne riešenia v procesoch automobilového priemyslu.
+Zameriavame sa na administratívne, technicko-podporné i výrobné procesy, predovšetkým o oblasť zabezpečenia kvality, plánovacích činností, procesnej podpory nákupu, rôznych inžinierskych a administratívnych služieb. Ponúkame preto veľa atraktívnych pracovných miest v rôznych oblastiach. Navštívte naše pracovné ponuky a využite šancu rozvíjať s nami svoju kariéru.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Tereza Michová
+Tel.:
++421902471611
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5174155
+Dátum zverejnenia:
+3.11.2025
+2025-11-03
+lokalita:
+Práca z domu
+Pozícia:
+Backend programátor
+,
+DevOps Engineer
+,
+Frontend programátor
+,
+IT architekt
+Spoločnosť:
+VOLKSWAGEN GROUP SERVICES, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 300 EUR/mesiac

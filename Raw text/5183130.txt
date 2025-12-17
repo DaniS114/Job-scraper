@@ -1,0 +1,149 @@
+Mid-Senior Administrátor IT infraštruktúry
+HexaTech s. r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+podľa skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​Hľadáme skúseného a zodpovedného
+administrátora IT infraštruktúry
+, ktorý bude mať na starosti správu systémov postavených na
+VMware
+a
+Microsoft technológiách
+. Kandidát bude súčasťou tímu zabezpečujúceho
+prevádzku a rozvoj infraštruktúry pre zákazníkov zo štátnej správy
+. ​Pozícia nezahŕňa podporu koncových používateľov –
+ide o L2/L3 technickú podporu IT systémov v prostredí zákazníka na vyžiadanie.
+​Do budúcna je plánované zapojenie aj do
+projektov v prostredí verejných cloudov (Azure, AWS, GCP)
+.​
+​
+Požiadavky na kandidáta
+Minimálne
+2 roky praxe v oblasti IT prevádzky alebo administrácie systémov
+Skúsenosti so správou
+VMware prostredia
+(vCenter, ESXi)
+Pokročilá znalosť
+Windows Server (2016/2019/2022)
+Pokročilá znalosť
+Linux Server
+(RedHat family, Ubuntu)
+Skúsenosti so správou
+Active Directory
+,
+GPO
+,
+CA
+,
+DNS
+,
+DHCP
+Orientácia v
+sieťových službách a protokoloch
+(TCP/IP, VLAN, routing, firewall basics)
+Základy práce s
+Git
+(verzionovanie konfigurácií, skriptov alebo dokumentácie)
+Výhodou sú skúsenosti so zálohovacím systémom
+Veeam Backup & Replication
+a páskovými knižnicami
+Výhodou sú znalosti správy
+Virtual Desktop (VDI)
+Výhodou sú znalosti správy
+diskových polí (SAN/NAS)
+Výhodou sú skúsenosti s
+Ansible
+alebo inými nástrojmi na automatizáciu konfigurácie
+Výhodou sú skúsenosti s
+prevádzkou alebo administráciou služieb nasadených v štátnom cloude (napr. GovCloud, NASES, DEUS)
+Výhodou sú znalosti alebo skúsenosť s prostrediami s
+public cloud (Azure, M365)
+Zamestnanecké výhody, benefity
+Home office / hybrid / flexibilný režim
+– ako ti to vyhovuje.
+Projekty, ktoré fungujú
+a reálne sa používajú (žiadne aplikácie „do šuflíka“).
+Priestor rásť
+– technicky aj kariérne (certifikácie, mentoring).
+Slovo programátora má váhu
+– nebudeš
+„kóder na povel“
+, ale plnohodnotná súčasť tímu.
+Neformálne prostredie
+, otvorená komunikácia, žiadna byrokracia.
+Flexibilný pracovný čas
+,
+zdravý rozum
+, priame vzťahy.
+Práca s
+technológiami, ktoré dávajú zmysel
+.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+VMware vCenter - Pokročilý
+VMware ESX - Pokročilý
+Microsoft Windows Server 2016 - Pokročilý
+Linux - Pokročilý
+Active Directory (Windows) - Pokročilý
+GPO - Pokročilý
+CA - Pokročilý
+DNS - Domain Name System - Pokročilý
+DHCP - Dynamic Host Configuration Protocol - Pokročilý
+TCP/IP - Pokročilý
+VLAN - Pokročilý
+GIT - Pokročilý
+Bash Scripting - Pokročilý
+Windows PowerShell - Pokročilý
+Prax na pozícii/v oblasti
+2
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+​Angličtina na úrovni čítania technickej dokumentácie ti nerobí problém.
+Technické myslenie, proaktivita, zodpovednosť a férový prístup sú ti vlastné.
+Nechýba ti tímový duch a máš chuť učiť sa nové veci.​
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme dynamický IT startup s jasnou víziou – prinášať moderné open source riešenia, ktoré menia spôsob, akým firmy využívajú technológie. Vďaka nášmu inovatívnemu prístupu vytvárame flexibilné a dostupné softvérové nástroje šité na mieru rôznym odvetviam. Staviame na hodnotách otvorenosti, spolupráce a neustáleho technologického rastu. Veríme, že transparentnosť a sila komunity sú kľúčom k dlhodobo udržateľným riešeniam pre každého.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Oleksandra Khvostova
+Tel.:
++421905565702
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5183130
+Dátum zverejnenia:
+20.11.2025
+2025-11-20
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+Spoločnosť:
+HexaTech s. r. o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

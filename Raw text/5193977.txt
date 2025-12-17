@@ -1,0 +1,111 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Solution Designer for Payment
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 1 700 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+We are looking for a Solution Designer to support our Lynx team. You will play a key role in further developing of services, drive demands into technological solutions and support the business side from IT perspective.
+Application
+The application is our responsibility - The Magenta Payment System (MPS) is DT'S Payment platform for paying with Paypal, Creditcard, ApplePay, GooglePay etc. Furthermore, we provide additional API to give Customer the ability to prevent pay for outstanding debt and payment APIs to make our functionality available to all touchpoints.
+What will you do?
+clarify the demands with our customer so that development team can understand what the outcome should be
+have full analytical ownership of a demand including time plan, technical agreements with other teams involved in demand
+supporting product owner (e.g. creation of EPIC’s)
+provide the connection between customer and development team
+creation of user stories in Jira and documentation in Confluence wiki
+support a software development team focused on building new applications
+document and demonstrate solutions using flowcharts, layouts, diagrams and thorough documentation
+independently manage the full software development lifecycle from demand to deployment
+design integrations between applications and existing systems
+collaborate effectively with developers, testers, and other team members
+collaborate with security teams to ensure compliance with payment industry standards (e.g., PCI DSS)
+You will succeed if you:
+hold a Master’s degree in Information Technologies
+previous experience as Business Analyst / Product Owner
+have knowledge in object-oriented analysis and UML
+experience in REST API design
+have SQL knowledge, experience with databases
+communicate clearly and present ideas with confidence
+have strong analytical and communication skills
+have structured way of working
+have a general overview for IT applications architecture, technologies, environments, and security
+are able to work as a team player not as an individual
+are transparent and proactive in identifying and preventing potential problems
+have agile mindset
+are commitment, courage, focus, openness, and respect
+have willingness and drive for continuous learning
+Requirements Engineering:
+Extensive experience in gathering, analyzing, documenting, and managing IT and business requirements, in close collaboration with stakeholders, Product Owners, and development teams.
+Skilled in translating business needs into clear and actionable user stories and functional specifications
+End-to-End Process Expertise:
+Deep understanding of end-to-end business processes, from order capture through fulfillment and service delivery, including support and incident management.
+Experience in analyzing and optimizing process flows with cross-functional impact.
+Agile & Frameworks:
+Extensive hands-on experience with Scrum and agile development practices, including backlog refinement, sprint planning, reviews, and retrospectives.
+Proficient in working within scaled agile frameworks such as SAFe or LeSS, with a strong commitment to cross-functional collaboration and continuous improvement.
+Comfortable acting as a bridge between business and IT in fast-paced agile settings.
+Optional Skills:
+experience with creation of test scenarios
+knowledge in data security and data privacy (PSA, PSI, SoC)
+Tools & Technical Know-how:
+Tools: Jira, Confluence, Hoppscotch, Miro
+Modeling: BPMN 2.0, UML, Use Case Modeling
+Documentation: User Stories, Epics, Acceptance Criteria
+Other: Understanding of RESTful APIs, DevOps processes, CI/CD principles
+Languages
+English – fluent
+German – advantage
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 1 700 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Dana Dráčová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5193977
+Dátum zverejnenia:
+18.11.2025
+2025-11-18
+lokalita:
+Košice region
+Pozícia:
+IT Analyst
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+1 700 EUR/month

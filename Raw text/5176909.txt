@@ -1,0 +1,104 @@
+Senior PHP Developer  - Vytváraj s nami digitálne ekosystémy a produkty budúcnosti
+SCR technologies s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 800 - 3 800 EUR/mesiac
+finálna úroveň základnej mzdy závisí od individuálnych schopností a skúseností vybraného kandidáta a od dohodnutej formy spolupráce TPP/kontrakt
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme kolegu so skúsenosťami v oblasti PHP vývoja  (5+) a webových technológií. Potrebná je skúsenosť s PHP frameworkom Laravel, taktiež skúsenosti s návrhom a implementáciou robustných a škálovateľných webových aplikácií a API rozhraní. Znalosť moderných vývojových nástrojov - Git, Docker a CI/CD, je tiež dôležitá. Na danej pozícii by sme chceli novému kolegovi postupne zveriť aj zodpovednosť za návrh architektúry riešenia s dôrazom na rozpočet a pre-použiteľnosť, implementáciu riešenia v súlade s navrhnutou architektúrou.
+návrh architektúry riešenia po technologickej stránke s dôrazom na rozpočet a pre-použiteľnosť
+implementácia riešenia v súlade s navrhnutou architektúrou, čím sa stáva technologickým garantom pre projektového manažéra a klienta
+kontrola kvality kódu a code review
+upresnenie biznis zadania od projektového manažéra smerom do tímu, a aktívna účasť na stand up - och
+Zamestnanecké výhody, benefity
+flexibilný pracovný čas s možnosťou home office, stretávame sa každé dva týždne v office v Banskej Bystrici, pričom poskytujeme možnosť využívania kancelárie aj v BA
+príležitosť pracovať s najnovšími technológiami
+agilný tím a etablované CI / CD (GitLab, Docker, Portainer, JIRA,...)
+špičkový tím ľudí, ktorí sú odborníci na software development, UX/UI design, marekting
+podpora vzdelávania a odborného rastu (časová, finančná)
+technologicky veľmi zaujímavé projekty
+pravidelné teambuildingy a mnoho spoločných akcií  (vzdelávacích, zábavných) počas roka
+Informácie o výberovom konaní
+V prípade záujmu alebo doplňujúcich otázok nás kontaktujte cez formulár na profesii, prípadne  životopis a súhlas so spracovaním osobných údajov zašlite priamo na job@scr.sk.
+Veľmi si vážime záujem všetkých kandidátov, ale vzhľadom na časovú náročnosť procesu si vyhradzujeme právo kontaktovať len tých uchádzačov, ktorí spĺňajú požadované podmienky.
+Ak nebudete kontaktovaný/á do dvoch týždňov od dátumu ukončenia výberového konania, berte na vedomie, že pozícia je obsadená vhodným kandidátom.
+Ďakujeme za pochopenie.
+HR team SCR technologies
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Ostatné znalosti
+PHP - Expert
+MySQL - Pokročilý
+JavaScript - Pokročilý
+Laravel (PHP framework) - Expert
+OOP - Pokročilý
+DevOps - Pokročilý
+Unit Testing - Pokročilý
+ElasticSearch - Pokročilý
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+znalosť PHP frameworku (Laravel)
+znalosť návrhových vzorov a best practices softvérového vývoja
+skúsenosti s webovými službami a tvorbou REST API rozhraní
+skúsenosti s optimalizáciou databáz
+skúsenosti s integráciami REST, SOAP, RPC
+skúsenosti s PHP Unit test
+DevOps - skúsenosti s Gitlab CI/CD alebo s Github Actions
+skúsenosti s Elasticsearch
+​
+Za výhodu považujeme :
+znalosť frontend frameworkov (Vue.js, Angular, React, jQuery) výhodou
+skúsenosť s October CMS výhodou
+skúsenosť s AWS platformou
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SME ŠPECIALISTI NA DIGITÁLNE EKOSYSTÉMY, RIEŠENIA A TECHNOLÓGIE V OBLASTI E-COMMERCE, WEB PORTÁLOV, B2B a B2C ZÓN, AUTOMATIZÁCIE PROCESOV, CROSSELL A UPSELL RIEŠENÍ PRE B2B DODÁVATEĽOV A B2C ZÁKAZNÍKOV .
+Pomáhame spoločnostiam naplniť ich digitálny potenciál vývojom tailor-made inovatívnych softvérových riešení a prenájmom našich IT expertov. Vytvárame digitálne ekosystémy a produkty budúcnosti s využitím najmodernejších open-source technológií a experience UX/UI dizajnu. Naši klienti už viac ako 15 rokov získavajú next-gen náskok pred konkurenciou v segmentoch e-commerce, fintech, insurtech, healthtech, mass media, startups a e-government.
+Našou víziou je byť lídrom v poskytovaní riešení digitálnych produktov a digitálnej transformácie pre svetové spoločnosti.
+Sme členom skupiny SCR®, kde prepájame know-how z oblasti technológií, marketingu a designu a  preto sme o krok vpred pred konkurenciou.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Zuzana Chlebničanová
+Tel.:
++421910920167
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5176909
+Dátum zverejnenia:
+16.10.2025
+2025-10-16
+lokalita:
+Práca z domu
+Pozícia:
+Backend programátor
+,
+PHP programátor
+,
+Programátor
+Spoločnosť:
+SCR technologies s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

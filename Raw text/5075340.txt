@@ -1,0 +1,99 @@
+O nás
+Benefity
+Aktivity siete
+Voľné
+pracovné
+pozície
+Kontakt
+Data Warehouse (DWH) Analyst | Apache Spark & Power BI
+Place of work
+Bratislava
+Contract type
+full-time
+Start date
+asap
+Wage (gross)
+3 800 EUR/month
+Salary from 3800 EUR brutto based on experience, yearly bonus 1 salary.
+V sieti Penta Hospitals vytvárame modernejšie medicínske prostredie nemocníc a polikliník. Spájajú nás spoločné hodnoty ako rešpekt, zodpovednosť a tímová práca. Pre nás je každý pacient priorita.
+Staňte sa našou súčasťou a prispievajte k zlepšovaniu kvality zdravotníctva na Slovensku.
+Náplň práce a zodpovednosť
+Penta Hospitals International is the headquarter of the biggest international chain of hospitals, outpatient clinics and elderly care facilities in the Central and Eastern Europe. The chain comprises 47 hospitals and 57 outpatient clinics, as well as 54 elderly care facilities located in Czechia, Poland and Slovakia. We employ 20 000 employees and continue to grow.
+We are seeking a skilled and detail-oriented Data Warehouse (DWH) Analyst with expertise in Apache Spark and Power BI. This role is critical in enabling data-driven clinical and operational decision-making by integrating and analyzing large, complex healthcare datasets from electronic health records (EHRs), enterprise resource planning (ERPs) and billing systems, and other sources.
+Key Responsibilities:
+• Design and maintain scalable ETL/ELT pipelines using Apache Spark to support data processing.
+• Integrate data from multiple clinical and operational systems into a unified Data Warehouse.
+• Clean, transform, and standardize structured and unstructured data while ensuring data integrity and quality.
+• Collaborate with clinicians, administrators, and other stakeholders to define reporting requirements and develop impactful Power BI dashboards.
+• Create data models and visualizations to support patient care analytics, population health, operational efficiency, and regulatory reporting.
+• Monitor data flows and perform root-cause analysis on data inconsistencies and failures.
+• Document data lineage, definitions, and transformations to support data governance efforts.
+• Contribute to the evolution of the organization’s enterprise data strategy and self-service BI initiatives.
+Čo Vám ponúkame
+Year-round health care BenefitCare, teambuildings, Christmas party, Multisport card and UpBalansea card, employee card Dr. Max and many more.
+Benefity
+Kandidát by mal mať
+Čo od Vás očakávame
+Required Qualifications:
+• Bachelor’s or Master’s degree in Health Informatics, Computer Science, Information Systems, or related field.
+• 3+ years of experience in a data analytics, BI, or DWH role.
+• Strong experience with Power BI, including DAX, data modeling, and report development.
+• Expertise in writing complex SQL queries and working with relational databases (e.g., SQL Server, PostgreSQL, or Oracle).
+• Solid understanding of healthcare data and regulations.
+• Excellent communication skills to collaborate with clinical and technical teams.
+Preferred Skills:
+• Proficient in Apache Spark (PySpark or Scala) for big data processing and transformation.
+• Experience with Delta Lake, Databricks, or cloud-native Spark platforms.
+• Familiarity with CI/CD practices and version control (e.g., Git).
+• Background in performance tuning and data governance.
+Vzdelanie
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+Health Informatics, Computer Science, Information Systems or related field.
+Language skills
+English - Intermediate (B1)
+Other knowledge
+Apache Spark - Expert
+Microsoft Power Bi - Expert
+Data Analysis Expressions (DAX) - Advanced
+Data modeling - Advanced
+SQL - Advanced
+Databricks - Advanced
+CI/CD pipeline - Basic
+Main focus of the company's activities
+Hospitals, medical practice activities, other human health activities
+Information about the selection process
+We truly appreciate the interest of all applicants. However, only those selected for an interview will be contacted. Thank you for your understanding.
+Kontaktovať Vás bude
+Jana Palenčárová
+Tel.:
++421917152220
+E-mail:
+poslať životopis
+MÁM ZÁUJEM
+Našou víziou je stať sa prvou voľbou pre pacientov a inšpirovať ostatných, aby zlepšili zdravotníctvo v strednej a východnej Európe.
+www.procare.sk
+www.pentahospitals.sk/volne-pozicie
+Facebook
+LinkedIn
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5075340
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Bratislava
+Pozícia:
+Database Analyst
+Spoločnosť:
+Penta Hospitals SK, a. s.
+Základná zložka mzdy (brutto):
+3 800 EUR/month

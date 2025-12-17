@@ -1,0 +1,78 @@
+Hľadáme (senior) vývojára, ktorý sa nebojí C++ !
+BAE Systems OneArc Czechia k.s. - organizačná zložka
+Miesto práce
+Alžbetina 42, 040 01 Košice, Slovakia (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+1.12.2025
+Mzdové podmienky (brutto)
+4 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Zohnať kvalitného C++ programátora je v dnešnej dobe neľahká úloha - nielenže sa firmy predbiehajú v platoch a benefitoch, ale kto dnes ešte v C++ robí rád(a), tak to znamená, že týmto jazykom a technológiami naň naviazanými doslova žije.
+My, vývojári v BAE Systems OneArc, sa za takýchto nadšencov považujeme. Mnohí z nás stáli pri zrode nášho hlavného produktu - Virtual Battle Space (VBS) - od čias, kedy sa objavilo C++98 a niektorí pamätajú časy ARMA či dokonca Operation Flashpoint, kde to celé začalo.
+Ako firma sa OneArc za 25 rokov rozrástla z pár členného tímu nadšencov na medzinárodnú spoločnosť - najväčšia pobočka je v Prahe, najnovšia tu v Košiciach. Naši hlavní zákazníci sú členské krajiny NATO, ktoré na našich produktoch trénujú vojakov, čím šetria nielen prostriedky na výcvik, ale aj chránia životy samotných vojakov a životné prostredie vôkol nás.
+Hľadáme do nášho tímu senior vývojára/ku, ktorý/á má programovanie predovšetkým ako hobby a až potom ako profesiu. Robíme na faktzaujímavých veciach, od 3D renderingu cez AR/VR až po simuláciu celých svetov v cloude, takže naše projekty a úlohy preveria aj tie najdrsnejšie povahy
+Na druhej strane uprednostňujeme motivovaných a spokojných zamestnancov, takže žiadne šibeničné deadliny alebo ťahanie nadčasov - my naše produkty dodávame, keď sú naozaj hotové.
+Ak sa ti pozdáva, čo si si práve prečítal(a) a zároveň ovládáš:
+C++ (nečakané!) - dedičnosť, STL, algoritmy, šablóny
+dangling pointers, double free, memory leaks, zlé poradie inicializácii objektov, … áno, všetky tie problémy, kde si treba vyhrnúť rukávy
+trpezlivosť pri analyzovaní záhadných problémov (viď predošlý bod)
+matematika (hlavne lineárna algebra)
+princípy game developmentu (nie nutnosť, ale poteší)
+máš apoň 4 roky praxe (buď s C++ alebo gamedev)
+a vieš sa dohovoriť po anglicky na úrovni B2 (väčšinou čítanie/písanie, občas telefonát), tak nám určite napíš, budeme sa mať o čom porozprávať
+Ak to klapne, budeš:
+vyvíjať a udržiavať softvérové funkcie
+navrhovať architektúru softvérových modulov a plánovať implementáciu
+rozdeľovať projekty na menšie časti, ktoré tím zvládne doručiť postupne
+aktívne komunikovať s architektmi, projektovým vedením a stakeholdermi
+mentorovať juniorov, dávať spätnú väzbu, robiť code reviews
+navrhovať zlepšenia vývojového procesu, technického riešenia alebo odstraňovania technického dlhu
+spolupracovať na výberových konaniach pre nových kolegov
+zúčastňovať sa odhadovania projektov a úloh​
+Zamestnanecké výhody, benefity
+pohodové pracovné prostredie - nie je nás tu v KE ani dvadsať, máme prakticky plochú riadiacu štruktúru, sídlime v pekných priestoroch hneď pri Hlavnej ulici
+stabilnú prácu - nie je to len taký personalistický BS, jednak máme minimálnu fluktuáciu ľudí, ale hlavne máme dlhodobé zákazky a zákazníkov
+možnosť reálnej zodpovednosti a rastu - nehľadáme len robotov na programovanie, ale aj ľudí, ktorí vedia svoje vedomosti odovzdávať ďalej
+keďže armáda do vývoja investuje nemalé prostriedky, tak máš možnosť pracovať s najmodernejším (niekedy aj najexotickejším) hardvérom, aký sa dá kúpiť
+25 dní dovolenky (bežne je 20) + 3 dni osobného voľna
+stravenky, ktoré ti v pohode vystačia na obed a plne hradená Multisport karta
+flexibilnú pracovnú dobu (hybridný režim)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+BAE Systems OneArc je globalná softvérová spoločnosť s dominantným postavením v oblasti poskytovania simulátorov pre ozbrojené a mierové sily. Využívame najnovšie herné technológie a početný tím skúsených vývojárov, aby sme dokázali dodať vysoko realistické a cenovo výhodné výcvikové a simulačné softvérové riešenia a komponenty pre obranné účely.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Petr Polivka
+Tel.:
++420736214920
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5197608
+Dátum zverejnenia:
+25.11.2025
+2025-11-25
+lokalita:
+Košice
+Pozícia:
+Softvérový inžinier
+Spoločnosť:
+BAE Systems OneArc Czechia k.s. - organizačná zložka
+Základná zložka mzdy (brutto):
+4 000 EUR/mesiac

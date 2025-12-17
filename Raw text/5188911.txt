@@ -1,0 +1,115 @@
+IT špecialista pre technickú podporu (budúci Site Reliability Engineer)
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+1 500 - 2 400 EUR/mesiac
+Finálna výška mzdy závisí od skúseností kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Budeš súčasťou tímu, ktorý je zodpovedný za udržiavanie a zlepšovanie spoľahlivosti, škálovateľnosti a výkonu našej lokálnej infraštruktúry. Aby si v tejto úlohe uspel/a, budeš potrebovať hlad po technických znalostiach a vášeň pre riešenie problémov. Pridaj sa k nám pri budovaní robustnej a spoľahlivej infraštruktúry, ktorá bude slúžiť naším používateľom v nasledujúcich rokoch.
+- Budeš v priamom kontakte s koncovými používateľmi – pomáhať im, keď to potrebujú, a zabezpečovať hladký chod informačných systémov.
+- Aktívne sleduješ systém a zachytávaš problémy skôr, než ich vôbec niekto postrehne – tvoja práca má okamžitý dopad.
+- Riešiš produkčné incidenty a eskaluješ problémy, ktoré si vyžadujú vyššiu pozornosť – si kľúčový článok pri zachovaní stability systému.
+- Zabezpečuješ pravidelné aktualizácie a údržbu – systém bude vďaka tebe stále aktuálny a spoľahlivý.
+- Spolupracuješ s vývojármi – poskytuješ cenný pohľad z prevádzkovej praxe, vylepšuješ návrhy a architektúru.
+- Buduješ a udržiavašdeployment pipeline – automatizuješ procesy nasadzovania a zvyšuješ efektivitu tímu.
+- Navrhuješ moderné riešenia pre monitoring a logovanie – máš systém pod kontrolou a vieš, čo vylepšiť.
+- Využívaš automatizačné skripty a nástroje – zbavuješ sa rutiny a zefektívňuješ každodennú prácu.
+Zamestnanecké výhody, benefity
+Individuálny prístup
+– u nás nie si len číslo, zaujíma nás, kto si, čo ťa motivuje a napĺňa.
+Osobnostný aj kariérny rast
+– máme jasne nastavenú politiku rozvoja a vzdelávania, ktorá ťa posunie vpred.
+Skúsení mentori
+– čaká ťa podpora od odborníkov, ktorí ti pomôžu rásť (nielen ak si medior či senior).
+Kurzy angličtiny
+– pre lepšiu komunikáciu aj osobný rozvoj.
+Až 96 hodín vzdelávania ročne
+– priestor zlepšovať sa v tom, čo ťa baví.
+Tímový rozpočet na konferencie, workshopy a certifikácie
+– ak chceš rásť, my ťa v tom podporíme.
+Rozvojové programy pre celé tímy
+– lebo veríme v silu spolupráce.
+Odborné komunity
+– pravidelné stretnutia, kde zdieľame know-how a inšpirácie.
+Flexibilný pracovný čas a home office
+– pracovný režim prispôsobený tvojmu životnému štýlu.
+Firemné akcie a teambuildingy
+– nezabúdame ani na oddych a zábavu.
+Moderné technológie a skúsený tím
+– budeš súčasťou inovatívneho prostredia s odborníkmi vo svojom fachu.
+Rôznorodé projekty a technologické výzvy
+– stereotyp u nás nehrozí.
+Informácie o výberovom konaní
+Prosím, pošlite svoj životopis na email jobs@sourcefirstinternational.com. Máme vždy viacero pozícií pre IT špecialistov nielen na Slovensku a v Čechách ale aj na zahraničných projektoch.
+Predpokladaný termín ukončenia výberového konania
+31.3.2026
+(ostáva ešte 133 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Naším klientom je spoločnosť s viac ako 30-ročnou históriou, ktorá patrí medzi popredných dodávateľov komplexných informačných systémov na Slovensku.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+Hľadáme človeka, ktorý:
+Premýšľa v súvislostiach – rozumie, ako jednotlivé časti systému spolu súvisia a vie predvídať, ako zmeny ovplyvnia celkový výkon a spoľahlivosť.
+Má chuť sa neustále zlepšovať – sleduje nové technológie, osvedčené postupy a rozvíja svoje technické zručnosti.
+Vie zabrať aj pod tlakom – zachová si chladnú hlavu v krízových situáciách a sústredí sa na rýchlu obnovu funkčnosti systémov.
+Je férový, otvorený a spoľahlivý – drží slovo, komunikuje priamo a koná s integritou.
+Dokáže sa pozrieť na veci s odstupom – vie prehodnotiť svoj názor a prijať spätnú väzbu.
+Čo by bolo fajn, keby si vedel (ale ak niečo z toho chýba, nevadí – vieme ťa doučiť):
+Správa Linux serverov – vrátane troubleshooting a optimalizácie výkonu.
+Práca s virtualizačnými a kontajnerizačnými technológiami (napr. VMware, Hyper-V, Docker).
+Znalosť skriptovania v jazykoch ako Bash, Python alebo PowerShell.
+Skúsenosti s nástrojmi na správu infraštruktúry a CI/CD (Saltstack, Terraform, Jenkins...).
+Prehľad v monitorovacích a logovacích nástrojoch ako Zabbix, Prometheus, Grafana či Graylog.
+Základná znalosť databáz (napr. Oracle DB, PostgreSQL) je určite výhodou.
+Ak nemáš pracovné skúsenosti s technológiami vyššie, ale máš ukončenú technickú vysokú školu, určite pošli tvoje CV a radi sa na neho pozrieme.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: IT Recruitment
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5188911
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava
+Pozícia:
+IT/Technical Support Specialist
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+1 500 EUR/mesiac

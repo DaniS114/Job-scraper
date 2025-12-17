@@ -1,0 +1,125 @@
+Shape the Future with Photoneo, now part of Zebra Technologies
+Software Engineer
+Location
+Bratislava, Slovak Republic
+Wage
+full-time
+Type of employment
+From 3 000 EUR/month
+About this position
+In this role, you will be at the heart of our R&D department, supporting your colleagues by delivering reliable build, test, and release pipelines in a timely manner. You will help the team transition to new environments and processes, setting up tools that raise coding standards and improve workflow.
+Location
+Bratislava, Slovakia
+Type of employment
+Full-time Regular/Contract
+Reports to
+DevOps Team Leader
+Salary (brutto)
+Based on experience and seniority:
+Junior: From €2,000/month and up
+Senior: From €3,000/month and up
+Core responsibilities:
+Write Bash and Python helper scripts and tools.
+Create and maintain automated tests, integrating them into existing or new pipelines.
+Design, implement, and maintain Jenkins and/or GitHub Actions pipelines.
+Work with internal teams to automate build, test and release pipelines.
+Write Dockerfiles, Ansible playbooks.
+Write Conan or Python packaging scripts, package software components.
+Automate and document processes for security and compliance requirements.
+Develop new platforms and baselines for existing products.
+Develop new software components in C++ as needed.
+Requirements:
+Strong Linux administration and development experience (preferably Ubuntu).
+Good understanding of the full software build and packaging process—from compiler and linker to containers and CI/CD pipelines.
+Be comfortable working in a complex, international R&D environment, collaborating closely with multiple teams.
+Must-have:
+admin/developer experience with Linux
+Shell (Bash)
+Docker
+Python
+Git
+admin experience with CI: Jenkins or GitHub Actions
+Nice-to-have:
+Ansible
+JFrog Artifactory
+C++
+Conan
+CMake
+DEB format
+pytest
+setuptools/poetry/uv
+ROS (Robot Operating System)
+Yocto
+Essential attributes:
+Good communicator and collaborator
+Quick and eager learner of unfamiliar tools and technologies
+Analytic problem solver
+Pragmatic, goal oriented
+Comfortable working in a complex and international environment
+Benefits
+Core benefits from day one:
+Daily breakfast at the office
+Option to work from home / hybrid work model
+Flexible working hours
+Unlimited sick days
+Parking for everyone, bicycle storage, showers, and lockers available on-site
+Summer terrace with a view of Bratislava
+Pet-friendly office – bring your pet to work
+Professional development support
+Generous referral bonus
+Additional benefits after your first anniversary
+Employees can choose one of the following:
+Annual public transport pass (MHD)
+Contribution toward a recreational stay
+Massage credit
+Annual healthcare package at the private ProCare clinic
+3rd pillar – employer contribution (retirement savings)
+Brain Boost – contribution toward professional development and other educational activities
+Comfy Up – improve your work environment with extra support
+And more...
+Upload your CV now!
+Contact Person:
+Mgr.  Brano Mesaros
+Benefits
+Home / Hybrid Workplace
+Flexible work schedule
+Unlimited sick days
+Parking, bike storage, showers
+Professional development
+Pet friendly office
+Generous referral program
+Rooftop terrace with great view
+and much more...
+Upload your CV now!
+Contact Person:
+Mgr.  Brano Mesaros
+About Photoneo
+Photoneo, now part of Zebra Technologies, is a global leader in robotic 3D vision and intelligence, empowering robots to "see" and understand their surroundings with unmatched precision. Based on patented 3D technology, Photoneo’s solutions are transforming industries such as automotive, logistics, e-commerce, food, and medical. Learn more at
+www.photoneo.com
+.
+< Back to job positions
+Your ideas. Our technology. A smarter future.
+Zebra Technologies Slovakia s.r.o., Plynárenská 6, 821 09 Bratislava, Slovakia
+You can react to this job
+without sending your CV
+. It is sufficient to fill in a form.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195783
+Dátum zverejnenia:
+21.11.2025
+2025-11-21
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Zebra Technologies Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

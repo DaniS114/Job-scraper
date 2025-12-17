@@ -1,0 +1,121 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Senior Network Infrastructure Engineer
+Information about the position
+Place of work:
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross):
+From 3 900 EUR/month
+final monthly basic salary is based on candidate´s professional experience, skills and knowledge *
+Start date:
+by agreement
+Contract type:
+full-time
+Job description, responsibilities and duties
+We are looking for a Senior Network Infrastructure Engineer with strong expertise in enterprise networking across multi-site environments. The role focuses on routing, switching, Wi-Fi, MPLS, SAN and DWDM and supporting advanced transport technologies.
+Core Networking Responsibilities:
+• Operate and maintain enterprise LAN/WAN infrastructure
+• Manage and optimize:
+- Standard LAN switching
+- Layer 3 routing (dynamic routing protocols)
+- Spanning Tree (STP/RSTP/MSTP)
+• Support and troubleshoot:
+- MPLS connectivity between all sites (Nokia)
+- Cisco Wi-Fi infrastructure (Access Points + Controllers)
+• Perform upgrades, optimization, and capacity planning across the network
+• Troubleshoot incidents (A+/A/B/C severity) and ensure service continuity
+• Integrate with monitoring systems (Zabbix, PRTG, SNMP, Syslog)
+• Maintain and update technical documentation (NetBox, diagrams, configs)
+• Prepare operational and SLA reports
+Information about the selection process
+* We are required by law to disclose basic wage component (minimum salary) for the advertised positions. Your actual final salary is based on your professional competencies, skills, qualifications and experience matching the position. If you are interested in our offer, send your CV in Slovak or English to ivana.jurikova@prohr.sk. Please, specify the position of your interest in the subject of message.
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Stable IT company.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+Computer Science, Information Technology, or a related field.
+Language skills
+English - Upper intermediate (B2)
+and
+Slovak - Upper intermediate (B2)
+Experience in the position/sector
+IT/Networking
+Number of years of experience
+4
+Personality requirements and skills
+• 4-5+ years of enterprise networking experience
+• Strong analytical and troubleshooting mindset
+• Ability to work independently and handle production-critical environments
+• Good communication and documentation skills
+Required Expertise (Must-Have):
+• LAN Switching (VLANs, 802.1Q, trunking, STP variants)
+• Dynamic Routing (OSPF, BGP or equivalent)
+• Spanning Tree Protocols (STP/RSTP/MSTP)
+• MPLS (preferably in a Nokia-based environment) - hands-on or strong operational understanding
+• Cisco Wi-Fi systems (APs + wireless controllers)
+• Strong hands-on troubleshooting skills in enterprise networks
+• A strong networking background and ability to learn quickly is what matters.
+Technologies You Should Be Willing & Able to Learn:
+• SAN technologies
+• Cisco MDS Fibre Channel (zoning, VSANs, fabrics)
+• DWDM systems (Nokia, Cisco), including:
+- ROADM
+- Optical channel engineering
+- OSNR/BER monitoring
+- XPonder and optical transport basics
+Preferred (Optional) Certifications
+• CCNP Enterprise or Service Provider
+• ITIL Foundation
+Advertiser
+Brief description of the company
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+The company is a holder of a licence to offer recruitment services.
+Number of employees
+10-19 employees
+Contact
+Contact person: Mgr.  Ivana Juríková
+Tel.:
++421 911 189 261
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199301
+Dátum zverejnenia:
+28.11.2025
+2025-11-28
+lokalita:
+Bratislava
+Pozícia:
+IT Consultant
+,
+IT Network Administrator
+,
+IT Security Specialist
+,
+IT System Administrator
+,
+IT/Technical Support Specialist
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 900 EUR/month

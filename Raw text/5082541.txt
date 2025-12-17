@@ -1,0 +1,115 @@
+Senior Java Developer
+NetCore j.s.a.
+Miesto práce
+Garbiarska 2, Košice
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 4 625 EUR/mesiac
+Výsledný plat závisí od skúseností a typu zmluvy.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Kto sme
+Sme originál slovenská softvérová firma. Keďže nemáme v zahraničí nijakú materskú spoločnosť, všetko, čo robíme – vývoj, podpora, rast aj predaj produktov – robíme odtiaľto. Máme vlastný produkt, ktorý predávame celosvetovo - Unimus. Naše riešenie pre automatizáciu a správu sietí používajú firmy všetkých veľkostí – od malých lokálnych sietí, cez dátové centrá a telco operátorov, až po známe spoločnosti mimo IT sveta. Veci robíme tak, aby dávali zmysel nielen dnes, ale aj o pár rokov.
+Ak ti záleží na tom, aby tvoja práca mala skutočný dopad, si na správnom mieste. Nepracujeme na zákazku pre niekoho iného – my náš produkt vymýšľame, navrhujeme, testujeme, predávame a podporujeme. Každá tvoja zmena v kóde sa dostane do rúk ľudí, ktorí sa starajú o sieťovú infraštruktúru. A to je dosť cool.
+Čomu sa budeš venovať
+Hľadáme Java backend developera, ktorý sa chce venovať:
+Podieľaniu sa na návrhu funkcionalít – náš PO prinesie nápad, ale výsledná podoba vzniká až po diskusii s tímom
+Rozširovaniu našej compliance funkcionality v oblasti kybernetickej bezpečnosti – novinka, na ktorej sme začali robiť tento rok
+Navrhovaniu škálovateľnej architektúry – rozdeľujeme monolith architektúru do modulárnych častí
+Spracovaniu veľkého množstva dát v reálnom čase (WebSockety, eventy)
+Performance a bezpečnostným optimalizáciám (SQL tunning, SAST, šifrovanie, OWASP)
+Zlepšovaniu bez bremena starých verzií – máme len jednu aktívnu a tú neustále posúvame ďalej
+Vývoju, ktorý ťa udrží mimo rutiny, keďže podporujeme 5 rôznych databáz
+A čo ešte? Budeš pri tom, keď budeme spúšťať ďalšie nové funkcionality – konkrétny plán nájdeš v našej roadmape - https://wiki.unimus.net/display/UNPUB/Roadmap
+Technológie, ktoré denne použiješ
+Java, Spring, Hibernate, Vaadin
+REST API, WebSockety, XML, JSON
+MySQL, MariaDB, PostgreSQL, HSQL, MSSQL
+Git, Maven, Docker
+SAST, šifrovanie, OWASP štandardy
+V Jave, Springu a písaní SQL queries musíš byť naozaj dobrý, v ostatných technológiách ti dáme priestor zorientovať sa.
+Prečo to celé dáva zmysel
+Tvoríme softvér, ktorý pomáha udržiavať sieťovú infraštruktúru klientov po celom svete
+Každá funkcia, ktorú urobíš, má reálny dopad na náš produkt a jeho používateľov
+Fungujeme už 8 rokov a máme stabilný pool veľkých zákazníkov, preto hľadáme dlhodobú spoluprácu, nie len "projekt na chvíľu"
+Pracuješ na produkte, kde ťa štruktúra kódu baví - a tvoje rozhodnutia formujú produkt aj smerovanie firmy
+Ako pracujeme
+Máme malé tímy - ten tvoj tvoria 5 backend developeri + produktový owner, ktorý vie, čo robí
+Náš Scrum Master drží projektový kompas – spája tímy a dohliada, aby sme všetci šli jedným smerom
+Core hours medzi 10:00 – 16:00. Mimo týchto hodín je na tebe ako budeš pracovať
+Máme ľudí, ktorí produkt stavali – sú hneď vedľa, takže sa stačí otočiť a veci vieme vyriešiť bez zbytočného písania, scrollovania či čakania
+S čím sa u nás vôbec nestretneš
+Mikromanažmentom ani rozhodnutiami „zhora“ bez diskusie s tímom
+Meetingami bez pointy a byrokraciou, ktorá brzdí prácu
+Očakávaním, že budeš na príjme aj počas dovolenky
+Netransparentným odmeňovaním alebo neochotou baviť sa o tvojom raste
+Benefity, ktoré sú reálne fajn
+Stock options
+– podiel na firme, ktorú pomáhaš budovať
+Interná alebo externá spolupráca
+– formu vieme doladiť podľa situácie
+Extra dni voľna
+– medzi Vianocami a Novým rokom si môžeš užiť extra dni dovolenky
+Vzdelávanie podľa vlastného výberu
+– školenie, kniha, kurz? Možností je veľa
+Burrito Fridays
+– áno, každý piatok burritká platené firmou
+Teambuildingy
+– také na ktoré sa teší celý tím aj s rodinami a to aspoň 4x ročne
+VR, šípky a stolný futbal
+- hrávame denne a sem-tam si dáme aj turnaj
+Masáže v kancelárii
+– lebo 8 hodín za klávesnicou vie byť náročných
+Sprcha a šatňa
+– ak obľubuješ ranný beh alebo prídeš na bajku, budeš to milovať
+Pet-friendly office
+– ak ti pes asistuje pri debugu, pokojne ho vezmi so sebou
+Sabbatical po 3 rokoch
+– recharge bez výčitiek
+a okrem toho všetkého u nás samozrejme aj zaparkuješ
+Čo ťa čaká v procese
+Krátky telefonát, aby sme sa zoznámili
+Technický rozhovor s naším manažmentom - bez zadania, ale overíme si tvoje skúsenosti a porozprávame sa o našich technológiách
+Osobné stretnutie s tímom - opäť technický rozhovor, tentoraz priamo s ľuďmi, s ktorými budeš pracovať
+Ak si sadneme, dáme ti ponuku a je to hotovo
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Jazykové znalosti
+Slovenský jazyk - Stredne pokročilý (B2)
+a
+Anglický jazyk - Mierne pokročilý (B1)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme softvérová firma so slovenskými koreňmi, ktorá vyvíja vlastný softvér na automatizáciu a správu sietí (https://unimus.net). Sme úplne nezávislí a vytvárame riešenia, ktoré majú globálny dopad na svet sieťového manažmentu – od malých lokálnych sietí až po národných telekomunikačných operátorov.
+Momentálne rozširujeme náš softvérový balík o nový produkt na mapovanie a vizualizáciu sietí.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Dana Melicharová
+Tel.:
++421918580770
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5082541
+Dátum zverejnenia:
+30.10.2025
+2025-10-30
+lokalita:
+Košice
+Pozícia:
+Java programátor
+Spoločnosť:
+NetCore j.s.a.
+Základná zložka mzdy (brutto):
+4 625 EUR/mesiac

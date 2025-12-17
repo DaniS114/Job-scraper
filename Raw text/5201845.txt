@@ -1,0 +1,110 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+FullStack Developer (Python) for chatbot Bratislava/Košice
+Informácie o pracovnom mieste
+Miesto práce:
+Práca z domu
+Mzdové podmienky (brutto):
+Od 2 900 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+-	analýza, návrh architektúry, vývoj a implementácia  moderného chatbot systému pomocou modernej cloudovej natívnej architektúry.
+-	vývoj nového riešenia a jeho rozširovanie podľa potreby spoločnosti využitím najnovších technológií: Python, JS, AI, NLP, devops - Kubernetes, AzureDevOps, CI/CD
+-	Unit testing
+-	zabezpečenie bezpečnosti a prístupových práv
+-	deployment aplikácie  - zodpovednosť od začiatku do konca teda od návrhu až po nasadenie
+-	následná údržba/servis aplikácií, monitorovanie problémov
+-	tvorba technickej dokumentácie
+Zamestnanecké výhody, benefity
+- motivujúce finančné ohodnotenie
+- medzinárodné prostredie a zaujímavé projekty
+- podpora v oblasti školenia a vzdelávania
+- podpora športových a kultúrnych aktivít
+Informácie o výberovom konaní
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: anna.spasova@prohr.sk
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná IT spoločnosť.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+alebo
+Slovenský jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+JavaScript - Mierne pokročilý
+Python - Pokročilý
+GO - Mierne pokročilý
+Natural Language Processing (NLP) - Mierne pokročilý
+Prax na pozícii/v oblasti
+SW vývoj Python, GO, NLP, AI
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+-	stredoškolské vzdelanie s maturitou alebo univerzitné vzdelanie (technické, IT, ekonomické,..)
+-	znalosť anglického jazyka na aktívnej úrovni
+-	minimálne 3 roky praxe v oblasti vývoja v Python/Go a Javascript (skúsenosti s komerčnými projektmi)
+-	skúsenosti s návrhom GUI aplikácie
+-       NLP a AI/ML
+Technické znalosti:
+•	Python/Go
+•	JavaScript
+•	NLP, Keras, Tensorflow, Pytroch, numpy, pandas...
+•	DevOps culture - AWS/Azure, CI/CD, git, Kuberenetes/docker
+-	komunikačné zručnosti, schopnosť práce v tíme i samostatne, flexibilita, analytické myslenie, kreativita
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Anna Spasová
+Tel.:
++421 2 6241 3438, +421 911 525 022
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5201845
+Dátum zverejnenia:
+4.12.2025
+2025-12-04
+lokalita:
+Práca z domu
+Pozícia:
+Frontend programátor
+,
+IT analytik
+,
+Javascript programátor
+,
+Programátor
+,
+Python programátor
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+2 900 EUR/mesiac

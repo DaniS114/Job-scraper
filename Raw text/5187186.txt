@@ -1,0 +1,145 @@
+DevOps Engineer (Linux / Kubernetes)
+eGroup Solutions, a. s.
+Miesto práce
+BBC 5, Plynárenská, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády)
+Termín nástupu
+Dohodou/Ihneď
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+Uvádzame minimálnu výšku mzdy. Presná výška mzdy bude dohodnutá pri pohovore - zohľadňujeme skúsenosti a znalosti kandidátov.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme
+DevOps inžiniera
+, ktorý sa vyzná v
+Linuxe
+,
+kontajnerizácii
+a
+automatizácii infraštruktúrnych procesov
+.
+Ak ti je blízky svet Kubernetes, CI/CD pipelines, logovania a monitoringu - a nechýba Ti chuť riešiť výzvy s reálnym dopadom - radi Ťa privítame v našom tíme.
+U nás sa nebudeš nudiť - čaká Ťa práca na zaujímavých projektoch, možnosť ovplyvniť architektúru riešení a spolupráca so skúsenými kolegami.
+Zamestnanecké výhody, benefity
+Čo ti ponúkame
+Zázemie renomovanej a prosperujúcej slovenskej IT spoločnosti
+Prácu s najlepšími technológiami a možnosť kariérneho rastu
+Motivujúce finančné ohodnotenie
+Hlavný pracovný pomer
+Tréningový a rozvojový program, certifikácie
+Skvelý tím, ktorý si pomáha
+Firemný smartfón, notebook, zdieľané auto
+Nadštandardná zdravotná starostlivosť
+Niekoľko tímových a firemných akcií ročne
+Multisport karta
+Ovocné pondelky
+Narodeninový a meninový darček
+Informácie o výberovom konaní
+Znie to ako tvoja parketa?
+Pošli nám svoj životopis (kariera@egroup.sk) a napíš pár slov o tom, prečo ťa baví Linux.
+Radi ťa spoznáme pri káve v našej bratislavskej kancelárii.
+Vyhradzujeme si právo odpovedať iba kandidátom, ktorí budú pozvaní na pohovor. Vopred ďakujeme všetkým uchádzačom za prejavený záujem.
+So zaslaním životopisu súhlasíte so spracovaním osobných údajov. Údaje, ktoré nám poskytnete, starostlivo posúdime a spracujeme v súlade so zákonom o ochrane osobných údajov.
+Predpokladaný termín ukončenia výberového konania
+30.11.2025
+(ostáva ešte 13 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+technické zameranie, IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+DevOps, Linux administrácia alebo infraštruktúra
+Počet rokov praxe
+2
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Tvoja náplň práce:
+Správa, návrh a rozvoj prostredí postavených na
+Linuxe
+a
+Kubernetes / OpenShift
+Tvorba, správa a optimalizácia
+CI/CD pipelines
+(GitLab CI, Tekton, ArgoCD)
+Automatizácia infraštruktúry pomocou
+Ansible
+a
+Terraform
+Implementácia a údržba
+monitoringu a logovania
+(Prometheus, Grafana, Loki, ELK, Alertmanager)
+Zálohovanie a obnova kubernetes klastrov, návrh DR scenárov
+Spolupráca na návrhu architektúry a DevOps procesov pre nové projekty
+Podpora vývojových tímov pri nasadzovaní aplikácií
+Technické zručnosti:
+Pokročilá znalosť
+Linux systémov (RHEL, CentOS, Ubuntu)
+Skúsenosti s
+Kubernetes / OpenShift
+Skúsenosti s
+GitLab CI, Tekton alebo ArgoCD
+Vítané technické zručnosti:
+Znalosť
+Ansible
+a
+Terraform
+Skúsenosti s
+monitoringom a logovaním
+(Prometheus, Grafana, Loki, ELK)
+Prehľad v oblasti
+zálohovania a disaster recovery
+Osobnostne hľadáme:
+Zodpovedného a samostatného človeka, ktorý má tímového ducha
+Technicky zvedavého kolegu, ktorý rád hľadá nové riešenia
+Niekoho, koho baví Linux, automatizácia a infraštruktúra ako celok
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme eGroup Solutions – slovenská IT spoločnosť s viac ako 15-ročnou históriou. Budujeme a spravujeme moderné IT infraštruktúry, cloudujeme, automatizujeme a prinášame riešenia pre veľkých aj menších zákazníkov. Sme renomovaným dodávateľom technologicky orientovaných riešení a komplexných služieb IT, zameriavame sa na realizáciu IT projektov a podporu prevádzky IT. Naša kultúra stojí na spolupráci, poctivej práci, technickej zvedavosti a zdravom zmysle pre humor.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Michaela Rybanská
+Tel.:
++421911026532
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5187186
+Dátum zverejnenia:
+5.11.2025
+2025-11-05
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+,
+IT architekt
+,
+IT konzultant
+,
+IT projektový manažér
+,
+Systémový administrátor
+Spoločnosť:
+eGroup Solutions, a. s.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

@@ -1,0 +1,152 @@
+O nás
+Kariéra
+Kontakt
+find ( “
+perfect_job
+” );
+Buď súčasťou našich projektov.
+Infrastructure Administrator
+Place of work
+Remote work
+Basic wage component (gross) and other rewards
+From 2 100 EUR/month
++ variable component  (base salary depends on seniority, experiences and qualification of the candidate)
+About
+We are seeking an IT Specialist/Administrator with experience in patch management, Windows Server, Ivanti EPM, VMware. You will play a key role in maintaining system security and compliance through structured patching cycles, troubleshooting, and cooperation with the security team.
+Your responsibilities
+Coordinate and execute
+server patching cycles
+(monthly, quarterly, golden image, VDIs).
+Perform pre-patch and post-patch checks to ensure the
+successfulness of patching
+.
+Manage
+VMware vSphere environment
+, including snapshots, rollback, and recovery.
+Use
+Ivanti Endpoint Manager
+(EPM) for patch deployment, software rollout, and compliance checks.
+Troubleshoot patch-related issues
+and
+escalate
+when necessary.
+Ensure compliance with
+security
+and
+audit requirements
+.
+Document
+procedures
+and
+patching guidelines
+.
+Prepare
+reports
+and maintain
+patching records
+.
+What do we expect?
+Windows Server administration
+.
+Patch management tools (
+Ivanti EPM
+preferred).
+VMware vSphere basics
+(VMs, snapshots).
+Strong troubleshooting and problem-solving skills.
+Experience with
+batch
+and
+PowerShell
+, including writing and maintaining scripts.
+Proficiency with
+Excel
+and
+reporting
+.
+fluency in
+English
+German will be an advantage
+Benefits
+Compensation and rewards:
+Boost your earnings with
+bonuses
+(company performance, project, or extra performance bonus)
+Invest in yourself with a yearly
+well-being budget
+(up to €2,000)
+Earn
+referral bonus
+(up to €3,000)
+Secure your future with a
+pension plan contribution
+Flexibility and Work-Life Balance:
+Flexible working hours
+that adjust to your personal needs
+Choose your work environment –
+100% remote
+or modern
+offices: Košice, Bratislava, Prague
+Personal and Professional Development:
+Sharpen your skills with extensive
+training & certifications
+Boost your language skills with
+language courses
+Wellbeing and Culture:
+Build bonds through
+team-building activities & company events
+like the VolleyCup and Christmas party
+Join our
+family culture
+and participate in diverse
+interest groups
+like bikers, runners, gamers, and more
+Invest in your well-being with a
+MultiSport card
+Promote your mental health with
+confidential psychological support
+Hiring process
+Has the job offer captured your interest? Please fill out the
+application form
+and let us know about yourself.
+We will assess the information you send us and
+will get back
+to you under any circumstances.
+We will contact the chosen applicants and
+specify the details
+.
+A job
+interview with a hiring manager
+is a two-way opportunity to get to know each other better. The hiring process also includes a
+second interview
+with the customer directly.
+We will inform you about the feedback from the interview as soon as possible. Successful candidates will receive a
+job offer.
+Contact
+Contact person: Monika Sojková
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5185996
+Dátum zverejnenia:
+3.11.2025
+2025-11-03
+lokalita:
+Remote work
+Pozícia:
+IT Architect
+,
+IT Network Administrator
+,
+IT System Administrator
+Spoločnosť:
+Fpt Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 100 EUR/month

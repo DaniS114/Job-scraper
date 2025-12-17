@@ -1,0 +1,81 @@
+QA Engineer (Medior/Senior)
+Moxymind s. r. o.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 600 EUR/month
+Final salary depends on candidates experience and skills.
+Information about the position
+Job description, responsibilities and duties
+We are now looking for
+Medior and Senior QA Engineers
+to join long-term projects for our clients in industries such as energy and heavy machinery. You will be part of cross-functional teams, working on software testing solutions that ensure quality, reliability, and scalability. Depending on your skills and experience, you’ll be assigned to a project where you can make the biggest impact.
+As a QA Engineer with us, you will:
+Contribute to the quality assurance of applications through manual/automation testing.
+Work on complex testing activities (functional, integration, regression, performance, user acceptance).
+Analyze business requirements and create/execute manual and automated test cases.
+Collaborate with developers, product owners, and end-users to resolve issues and ensure complete test coverage.
+Prepare and maintain test plans, test cases, and test automation frameworks.
+Track, document, and report on defects and test results.
+Work in an Agile environment with CI/CD practices.
+Employee perks, benefits
+Flexible working hours & hybrid way of working (WFH)
+Yearly education budget
+Budget for appliances
+Multisport card
+English lessons
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Personality requirements and skills
+Tech stack (preferred/nice to have):
+Programming & Automation:
+Python, Java, C++, JavaScript.
+Testing Frameworks & Tools:
+Selenium, Cucumber, JUnit, Robot Framework, JBehave, Appium, Playwright, Karate.
+API Testing:
+REST APIs, Postman, Wiremock, Proxyman.
+Databases:
+SQL (or other relational DBs).
+CI/CD & DevOps:
+Jenkins, Git, experience with automation in pipelines.
+Other:
+HCL Commerce, Apigee or other API gateways, load/performance testing, microservices testing, AWS or other cloud platforms.
+What we expect from you:
+At least 3 years of experience in software testing (manual or automation) for Medior roles.
+At least 5+ years of experience in QA with provenleadership/mentoring a bilities for Senior roles.
+Experience with automation framework design and development.
+Knowledge of at least one modern programming language (Python preferred).
+Proactive, flexible, and communicative team player.
+Advertiser
+Brief description of the company
+Moxymind's vision is to create the best place to work for smart and talented people. We founded Moxymind in 2014 with the goal of making software testing better. We believe in innovation and progress. Better software, better world.
+https://www.moxymind.eu/
+Number of employees
+25-49 employees
+Contact
+Contact person: Zuzana Skotnická
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5172174
+Dátum zverejnenia:
+8.10.2025
+2025-10-08
+lokalita:
+Košice
+Pozícia:
+IT Tester
+Spoločnosť:
+Moxymind s. r. o.
+Základná zložka mzdy (brutto):
+2 600 EUR/month

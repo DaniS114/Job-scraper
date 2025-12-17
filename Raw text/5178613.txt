@@ -1,0 +1,103 @@
+Senior DevOps/Platform Engineer - Network/System emphasis (Kubernetes, Terraform, SaltStack, Python/Go)
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 500 - 4 200 EUR/mesiac
+* nástupná mzda je závislá od skúsenosti kandidáta a je predmetom diskusie počas výberového konania. Možnosť iba na trvalý pracovný pomer.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+- náš klient sa pohybuje v DevOps prostredí, kde developerské tímy riadia celý životný cyklus aplikácií – od vývoja, cez buildovanie a testovanie, až po nasadzovanie, prevádzku a monitorovanie v produkcii
+- používajú nástroje a spoločného middleware, ako napr. GitLab, Prometheus, Grafana, Saltstack, Terraform, ElasticSearch, OTEL či Kafka
+- sú si ale vedomí, že donekonečna pridávať ďalšie zodpovednosti developerom a vyžadovať po každom, aby vedel používať, konfigurovať a spravovať túto infraštruktúru, nie je možné - a preto máme samostatný tím, ktorý sa o ňu stará, zabezpečuje jej prevádzku a stabilitu, a postupne ju rozvíja s cieľom vytvoriť internú (developerskú) platformu​
+- hľadáme skúseného kandidáta so skúsenosťami v nasadzovaní, konfigurácii a prevádzke CI/CD, monitorovacích nástrojov, centralizovaného logovania, kontajnerizovaných aplikácií, provisioningom a správou Kubernetes​
+- ako člen tímu sa budeš podieľať na prevádzke CI/CD nástrojov, automatizačných a orchestracej platforiem, monitorovacieho a logovacieho stacku
+- budeš sa podieľať na neustálom zlepšovaní a rozširovaní týchto systémov
+- získaš priestor analyzovať a zapojiť svoje skúsenosti a kreativitu do riešenia našich "DevOps výziev", konzultovať, pomáhať vytvárať a nastavovať štandardy v oblasti kontajnerizácie a automatizácie, IaC, monitoringu a logovania​
+Zamestnanecké výhody, benefity
+- každoročné zvýšenie platu, ktoré nadobúda platnosť od februára
+- koncoročná odmena (okolo 13. platu) pred Vianocami
+- možnosť získať firemný mobil
+- káva, čaj a ďalšie občerstvenie zdarma
+- možnosť výberu medzi Mac alebo Windows počítačom
+- home office v pondelok a piatok
+Informácie o výberovom konaní
+Prosím pošlite svoj životopis na email stanislav.vrabel@sourcefirstinternational.com
+Máme vždy viacero pozícií pre IT špecialistov nielen na Slovensku a v Čechách, ale aj na zahraničných projektoch.
+Predpokladaný termín ukončenia výberového konania
+1.12.2025
+(ostáva ešte 28 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Slovenská technologická inovatívna produktová firma.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+Čo používame a s čím sa u nás stretneš (nie je potrebné spĺňať úplne všetko, aspoň niečo z toho):
+​- na dostatočnej úrovni rozumieš networkingu a si schopný navrhnúť sieťovú topológiu, nakonfigurovať sieťové prvky a následne aj diagnostikovať a opravovať prípadné sieťové problémy
+​- rozumieš storage technológiam, protokolom a API (napr. OpenEBS, NFS, MinIO), dokážeš navrhnúť ich použitie, nasadiť ich do prevádzky a spravovať
+​- máš skúsenosti s virtualizáciou (momentálne používame VMWare a KVM) - budeš spolupracovať s tímom systémových administrátorov
+​- máš skúsenosti s konfiguráciou a správou Linuxu - v našej novej IaC buildujeme image cez Packer, konfigurujeme s využitím cloud-init a SaltStack-u, a do virtualiácie nasadzujeme cez Terraform
+​- používaním, inštaláciou a konfiguráciou git repository a CI/CD toolingu - my používame prevažne GitLab a jeho pipelines
+​- IaC nástrojmi SaltStack a Terraform (respektíve alternativy: Ansible, Chef, Pulumi...)
+​manažmentom infraštruktúry pre centralizované logovanie, ideálne FluentD alebo fluent-bit, opentelemetry, ElasticSearch a Kibana
+​- infraštruktúrou pre distribuovaný tracing, v našom prípade ho staviame na OTEL
+​- monitorovacou infraštruktúrou ako je Prometheus + Grafana + Alertmanger
+​- kontajnerizačnými technológiami ako Docker, containerd, Cloud Native Buildpacks
+​- správou repozitárov pre softvérové artefakty: Nexus a Harbor (respektíve ich alternatívy)
+​- prevádzkou messaging middleware - Kafka, Zookeeper, Schema Registry
+​- vieš rozbehať on-premise Kubernetes v produkčnej kvalite vrátane CNI, CSI, service mesh, RBAC, atď.
+​- máš skúsenosti s produkčnou správou on-premise Kubernetes a s platformou postavenou na nej, definovaním best-practices a policies, day-2 operations a podporou pre developerské tímy
+​- navrhoval si, nasadzoval a spravoval on-premise cloud infraštruktúru ako OpenStack alebo CloudStack
+​- programovacími jazykmi ako Go a Python, a vieš debugovať v nich bežne implementovaný DevOps toolset; v prípade potreby ich dokážeš modifikovať alebo implementovať nový custom tooling​
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Stanislav Vrabel
+Tel.:
++421903857296
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5178613
+Dátum zverejnenia:
+21.10.2025
+2025-10-21
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT architekt
+,
+IT konzultant
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

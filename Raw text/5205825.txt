@@ -1,0 +1,99 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior DevOps Engineer
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2 600 EUR/month.
+Purpose
+Senior DevOps Engineer is responsible for entire lifecycle of Continuous Integration/Continuous Deployment pipelines and Infrastructure as Code approaches. Takes account and defines automated configuration management, release management, build, test and deployment activities. Provides prototypes and concepts for further automation of assigned technology.
+What will you do?
+•  Manage and troubleshoot daily cloud backend operations for large-scale environments.
+Perform hardware-oriented tasks via console and command line.
+Develop and maintain monitoring, alerting, and QA tools for database services.
+Automate operational processes using modern frameworks and pipelines.
+Perform lifecycle management activities: upgrades, patches, and maintenance at the PaaS/platform level.
+Investigate, resolve, and deliver fixes for bugs and incidents in line with defined processes.
+Drive feature deployments and contribute to problem-solving to improve customer experience.
+Collaborate within agile teams and contribute to open communication and knowledge sharing.
+You will succeed if you:
+•  Degree in a technical, engineering, or scientific field, or equivalent professional training.
+5–7 years of professional IT experience with a focus on modern cloud technologies.
+Strong knowledge of Cloud Database Solutions (both Relational and NoSQL).
+Good understanding of infrastructure, networking, hardware, storage, and IaaS/PaaS/SaaS models.
+Extensive experience with Linux systems and network-related services.
+Proven experience (3+ years) in:
+o  Incident and bug management,
+o  Operational platform tasks (patches, upgrades, LCM),
+o  Containerization (Kubernetes, Docker, etc.),
+o  Automation and monitoring tools (e.g., Cloud Scope, CodeArts Light, Grafana).
+Familiarity with version control systems (Git, GitHub).
+Basic proficiency in Windows, Jira, Confluence, ServiceNow, and office/text tools (e.g. Notepad++).
+Knowledge of agile development processes and CI/CD pipeline usage.
+OpenStack or open-source programming experience is an advantage.
+Fluent written and spoken English.
+Eligible to work within the European Union to meet data security and privacy requirements.
+Soft skills :
+Strong problem-solving and analytical abilities.
+Precision and attention to detail.
+Agile mindset and proactive attitude.
+Excellent teamwork and communication skills.
+High customer focus and accountability.
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2 600 EUR/month.
+Contact
+Contact person: Anna Heveryová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5205825
+Dátum zverejnenia:
+15.12.2025
+2025-12-15
+lokalita:
+Košice
+Pozícia:
+Programmer
+,
+Software Engineer
+,
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 600 EUR/month

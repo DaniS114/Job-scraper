@@ -1,0 +1,84 @@
+About us
+Our benefits
+Open positions
+Senior Data Engineer
+Place of work
+Mlynské nivy 12, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 3 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3,300 and EUR 5,500 per month (for a full-time role). The specific salary offered considers:
+
+the requirements, scope, complexity and responsibilities of the role,
+the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+ 
+In addition to your base salary, you may be eligible for additional rewards and benefits including an attractive performance-based bonus.
+Information about the position
+Job description, responsibilities and duties
+Turn data into decisions! Join our innovative team as a Senior Data Engineer and architect the future of data solutions that power business intelligence across our entire organization. This is your opportunity to build scalable data foundations that transform raw information into actionable insights as we grow our team.
+About the Role
+As a Senior Data Engineer, you'll be the architect behind our company's Single Version of Truth data foundation. You'll design elegant data models and build robust pipelines that deliver trusted, high-quality data to drive business decisions across the organization. You'll join us at an exciting time as we're currently building and expanding our data team, offering you the opportunity to shape our data culture from the ground up.
+Key Responsibilities
+Lead and design scalable data architectures and pipelines that assemble complex datasets supporting critical business objectives
+Contribute to building our growing data team by sharing knowledge and supporting team members
+Collaborate with stakeholders to understand data needs and develop innovative ways to leverage data in daily business processes
+Share expertise and help establish best practices that drive innovation across our expanding Data Architecture & Engineering team
+Build and optimize data models that ensure consistency, accuracy, and accessibility across systems
+Partner cross-functionally with Data Architects, Data Engineers, and Data Analysts to deliver cohesive data solutions
+Help establish standards for team operations as we grow and foster a culture of continuous improvement
+About the Team
+The Data Architecture and Engineering team is the central force behind our company's Single Version of Truth data foundation. We're a dynamic team of Data Engineers and Data Architects building the core data infrastructure that powers everything from reporting to advanced analytics. Our work brings together data from all systems and applications across the business, creating a unified data ecosystem that enables informed decision-making at all levels. We're currently in an exciting growth phase, expanding our team to meet increasing data demands. If you're excited about working with a team that's actively shaping the company's data future and contributing to our team's development, this is where you belong.
+Information about the selection process
+We are an equal opportunity employer. We recruit, hire and promote without regard to race, religion, color, national origin, sex, disability, age, pregnancy, sexual orientation, marital status, military status, or any other characteristic protected by law. Decisions on employment are solely based on an individual's qualifications for the position.
+During the recruitment process, reasonable accommodations for disabilities are available upon request.
+We provide feedback to all candidates via email. In case you have not heard from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+About You
+You're a data enthusiast with a passion for building scalable, efficient systems that transform raw information into valuable business insights. You thrive in collaborative environments where you can apply your technical expertise while also supporting others. Your approach combines technical excellence with business acumen, allowing you to translate complex requirements into elegant data solutions. You're excited by the prospect of joining a growing team where you can make a significant impact on our data culture and practices.
+We are looking for candidates who meet these requirements:
+Bachelor's degree or higher in Computer Science or related field with strong foundation in data engineering and analytics
+Advanced proficiency in Python, SQL, and experience with distributed computing frameworks like Spark
+Proven experience with both relational and NoSQL databases
+Practical experience in building data solutions including modeling, design, development, and deployment in Agile environments
+These are additional nice to haves:
+Experience with modern data platforms (Palantir Foundry, Databricks, Snowflake, or similar)
+Experience with cloud platforms (Azure, AWS)
+Experience working in global, cross-cultural business environments
+Knowledge of data governance principles and practices
+Familiarity with data visualization tools and techniques
+Experience with real-time data processing and streaming technologies
+Background in specific industry domains (finance, insurance)
+Previous experience in collaborative team environments
+Interest in mentoring and knowledge sharing
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Hana Krcova
+Apply here
+ID:
+5196403
+Dátum zverejnenia:
+24.11.2025
+2025-11-24
+lokalita:
+Bratislava
+Pozícia:
+Database Analyst
+,
+Software Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 300 EUR/month

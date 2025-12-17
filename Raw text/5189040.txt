@@ -1,0 +1,91 @@
+AI/ML Data scientist
+Liberum s. r. o.
+Place of work
+Bratislava
+Contract type
+full-time, trade licence
+Wage (gross)
+3 800 - 5 000 EUR/month
+month fix salary depends on your experience
+Information about the position
+Job description, responsibilities and duties
+Our client is a globally focused fintech company based in Bratislava that aims to transform the way people understand and manage their finances.
+Role summary
+End‑to‑end ownership of data science projects—from problem framing and data work to modeling, deployment, and monitoring. You balance classical ML and modern LLM/RAG techniques with strong product sense.
+What you’ll do
+Problem      framing:
+Translate business objectives into testable ML problems with      measurable ROI.
+Data:
+Explore,      clean, and engineer features from varied sources; partner with data      engineering on pipelines.
+Modeling:
+Build and      evaluate models (tree‑based, linear, time series, recommendation, NLP/CV      as needed).
+LLMs &      retrieval:
+Prototype and productionize LLM‑powered features (prompting, fine‑tuning,      RAG, evaluation).
+MLOps:
+Package,      deploy, and monitor models (drift, bias, performance); maintain feature      stores and model registry.
+Experimentation:
+Design A/B      tests; define metrics and guardrails.
+Documentation      & enablement:
+Write clear docs; enable engineering/product to use models safely.
+Compliance      & ethics:
+Apply privacy, safety, and fairness best practices.
+Employee perks, benefits
+Opportunity to be at the very beginning of a new international fintech project
+Direct influence on strategic and technical decisions
+Collaboration with experienced professionals from the global finance and AI sectors
+Modern work environment in Bratislava
+Information about the selection process
+We will carefully review every application. Only candidates who meet the requirements and qualifications for the position will be contacted.
+Expected date of completion of the selection process
+7.12.2025
+(there are still 20 more days)
+Company on whose behalf the position is being filled
+Banking, finance
+The company focuses on developing innovative digital solutions that make financial analysis and trading more intuitive, data-driven, and accessible to a wider audience.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+3–7+ years in      applied ML or DS; strong Python (pandas, NumPy, scikit‑learn), SQL.
+Experience with      at least one deep learning stack (PyTorch or TensorFlow) and one      orchestration tool (Airflow/Prefect).
+Familiarity      with vector databases and LLM tooling (e.g., LangChain/LlamaIndex), and      with MLflow/Kubeflow for tracking.
+Solid      statistics and experimental design; ability to explain trade‑offs to non‑technical      audiences.
+Bonus:      streaming/real‑time ML, reinforcement learning, or domain expertise in      FinTech
+​
+Advertiser
+Brief description of the company
+The company holds a valid license for employment mediation.
+The company is a holder of a licence to offer recruitment services.
+Number of employees
+1 employee
+Contact
+Contact person: Mgr.  Marianna Zálesňáková
+Tel.:
++421905555600
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5189040
+Dátum zverejnenia:
+7.11.2025
+2025-11-07
+lokalita:
+Bratislava
+Pozícia:
+Database Analyst
+,
+IT Analyst
+Spoločnosť:
+Liberum s. r. o.
+Základná zložka mzdy (brutto):
+3 800 EUR/month

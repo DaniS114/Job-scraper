@@ -1,0 +1,83 @@
+AI Solutions Developer
+EuroView s.r.o.
+Miesto práce
+Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 2 600 EUR/mesiac
+2600 E je spodná hranica. Mzda sa určuje podľa seniority a skúseností.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+We are looking for a motivated AI Solutions Developer to join product development team.
+You will help us design and deliver business-ready AI applications that improve productivity and user experience across HR, sales, helpdesk, and other business functions.
+Your main focus will be developing chatbots, copilots, and productivity tools in Microsoft Copilot Studio, supported by Azure AI Foundry to orchestrate, manage, and scale AI services. This role is about applying Microsoft AI technologies in practical, value-driven ways, not building custom LLMs.
+Build and deploy AI solutions using Microsoft Copilot Studio.
+Use Azure AI Foundry to manage models, prompts, and AI orchestration.
+Ensure solutions are reliable, accurate, and intuitive for business users.
+Collaborate with stakeholders to translate needs into practical copilots and assistants.
+(Optionally) integrate solutions with Power Platform and Microsoft Teams.
+Zamestnanecké výhody, benefity
+Variable quarterly bonus depending on reaching company’s objectives and individual performance goals (KPIs),
+Referral bonus,
+Contribution to the 3rd pension pillar (1% of gross salary, without a need of employee contribution),
+Childbirth bonus,
+Financial contribution for meals (4€)
+Informácie o výberovom konaní
+Je možné pracovať aj full remote, head office je v Košiciach.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Spoločnosť v oblasti produktového SW vývoja.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+developer
+Osobnostné predpoklady a zručnosti
+Technical Skills
+Hands-on experience with Microsoft Copilot Studio (
+or similar AI chatbot tools
+).
+Familiarity with
+Azure AI Foundry (or strong willingness to learn)
+.
+Ability to design solutions that balance AI capabilities with business value.
+Curiosity to explore prompt design, orchestration, and responsible AI practices.
+Preferred and desirable skills
+Experience with Power Platform (Power Automate, Power Apps).
+Knowledge of Microsoft Teams integration.
+Exposure to Azure Cognitive Services.
+Basic data integration skills (APIs, connectors, or Azure Data Factory).
+Awareness of data security and compliance in AI solutions.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Personálna a poradenská spoločnosť zameraná na priame vyhľadávanie a výber odborníkov, členov stredného, vyššieho a TOP manažmentu, v oblastiach IT, telco, financie, obchod. Spoločnosť zastrešuje  rozvojové projekty v oblastiach personalistiky, tréningov, assessment a development centier.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Matej Kováč
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5190894
+Dátum zverejnenia:
+12.11.2025
+2025-11-12
+lokalita:
+Košice
+Pozícia:
+Programátor
+Spoločnosť:
+EuroView s.r.o.
+Základná zložka mzdy (brutto):
+2 600 EUR/mesiac

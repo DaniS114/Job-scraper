@@ -1,0 +1,90 @@
+Infrastructure & DevOps Engineer
+IT PROUD s. r. o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou/asap
+Mzdové podmienky (brutto)
+4 800 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Čo budeš robiť
+• Infrastructure & DevOps
+• budovať a prevádzkovať infraštruktúru ako kód (Terraform, Terragrunt, Helm, Ansible) v Azure • nastavovať siete a bezpečnostné prvky v štýle “default deny” (NSG/ASG, Azure Firewall/WAF, segmentácia).
+• nasadzovať a spravovať VPN/IPsec (site-to-site, point-to-site), routing a vysokú dostupnosť.
+• zavádzať policy-as-code (Azure Policy, OPA), správu secrets (HashiCorp Vault, Key Vault) a bezpečné CI/CD (Azure DevOps/GitHub Actions)
+• monitorovať infraštruktúru a bezpečnosť pomocou Azure Monitor, Log Analytics, Sentinel, Splunk
+• tvoriť workflows pre incidenty, zálohy/DR a patch management
+• vykonávať infraštrukturné audity a pentesty
+Stack, s ktorým budeš robiť:
+• cloud & infra: Azure, Terraform, Terragrunt, Azure Policy, Key Vault, Defender for Cloud, Sentinel
+• devops & ci/cd: Azure DevOps, GitHub Actions, Git, Helm, Ansible
+• os & networking: Linux, VPN/IPsec, DNS, PKI
+• security & monitoring: Azure Monitor, Log Analytics, Splunk, WAF, Firewall, audit/skenovacie nástroje
+• containers: Docker, Azure Container Registry
+Zamestnanecké výhody, benefity
+• flexibilný pracovný čas
+• podpora vzdelávania – príspevky na školenia, kurzy a konferencie
+• mladý a priateľský kolektív (neformálna atmosféra)
+• príspevok na IT vybavenie • ročné odmeny (upresníme na pohovore)
+• rôzne teambuildingové aktivity, ktoré posilnia tímového ducha a priateľské vzťahy
+• podpora osobného a profesionálneho rastu prostredníctvom školení a certifikácií
+• práca plná výziev, ktoré vás posunú vpred a pomôžu rozvíjať vaše zručnosti v oblasti IT
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Firma pôsobiaca v IT sektore.
+Spolupráca s SK aj zahraničnými firmami.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+• skúsenosti s Azure na produkčnej úrovni (identity, sieť, compute, storage, bezpečnosť)
+• linux native (bash, shell, systemd, sieťovanie, iptables, troubleshooting)
+• myslenie “firewall default blocked” a schopnosť navrhovať bezpečné architektúry
+• prax s IPsec/IKEv2 – návrh, konfigurácia, testovanie a monitoring
+• analytické myslenie: vieš rozložiť problém, určiť priority a zvoliť najjednoduchšie bezpečné riešenie
+• základy bezpečného vývoja a CI/CD (Terraform, least privilege, bezpečné PR/review procesy)
+• záujem o debugovanie, lab testy a zisťovanie, kde sa veci „zlomia“
+• vieš aplikovať agilný prístup s dôrazom na rýchlosť a účelnosť v testovacom prostredí
+Výhody:
+• skúsenosť s red teaming/pentest nástrojmi (nmap, Burp/ZAP, Metasploit)
+• znalosť MITRE ATT&CK a threat modelingu • prax s firewallmi (Palo Alto, Fortinet, Pfsense, Azure Firewall Premium)
+• certifikácie (SANS, TCM Security, Terraform Associate, OSCP, CompTIA, Burp) – vítané, nie nutné
+• skúsenosti s prostrediami, ktoré podliehajú certifikáciám a reguláciám (SOC 2, DORA, HIPAA, PCI DSS)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+We come from the IT industry, we are a community of developers and admins and we understand that IT is not  a field that could be classified as a single department in a company anymore.The digital era is transforming business to be available everywhere/anytime on demand and that makes IT to be a business driver.
+Only IT people refer other IT people to make it sure that business gets what expects and IT specialists get to do their hobby as a dream job.And we promote those ones that understand that improving daily work by automation is even more important than doing daily work.
+Kontakt
+Kontaktná osoba: Ing.  David Obrecz
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5161010
+Dátum zverejnenia:
+28.10.2025
+2025-10-28
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+IT PROUD s. r. o.
+Základná zložka mzdy (brutto):
+4 800 EUR/mesiac

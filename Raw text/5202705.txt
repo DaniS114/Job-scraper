@@ -1,0 +1,123 @@
+Medior Flutter Developer (Web / Mobile / Desktop)
+TMI, s.r.o.
+Miesto práce
+Považská Bystrica
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 800 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+O pozícii
+Hľadáme skúseného
+Medior Flutter Developera
+, ktorý sa cíti ako doma vo svete multiplatformového vývoja. Primárne sa budeš venovať
+Flutter Web aplikáciám
+, ale tvoje riešenia budú smerovať aj na
+desktop (Windows/macOS/Linux) a
+iOS/Android
+.
+Hľadáme človeka, ktorý rozumie moderným UI princípom, vie pracovať s architektúrou a rozumie, čo znamená rýchly, optimalizovaný a responzívny Flutter projekt.
+Čo bude tvoja náplň práce
+·        vývoj frontendových riešení v
+Flutteri
+pre Web, iOS, Android a Desktop
+·        tvorba komponentov, widgetov a UI logiky podľa design systému
+·        integrácia REST/FastAPI
+·        optimalizácia výkonu
+·        responzívny dizajn pre všetky platformy
+·        code reviews a udržiavanie vysokej kvality kódu
+·        spolupráca s backendom a QA
+Na čom budeš pracovať
+moderné webové aplikácie z      oblastí:
+AI výroby, interné portály, real-time dashboards
+práca na vlastných aj      klientských projektoch, podľa preferencií
+Zamestnanecké výhody, benefity
+Čo ponúkame ???
+·        remote práca alebo hybrid podľa preferencií
+·        flexibilný pracovný čas
+·        možnosť priamo ovplyvňovať produkt a architektúru
+·        moderný tech stack a reálne produkty
+·        priateľský tím a veľmi neformálna atmosféra
+·        priestor pre vlastné nápady a experimenty
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+áno
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Očakávame od teba
+Must-have:
+·        2–4 roky skúseností s
+Flutter/Dart
+·        skúsenosť s
+Flutter Web
+·        znalosť
+State managementu
+(Riverpod / BLoC / Provider / GetX)
+·        veľmi dobrý prehľad v
+UI/UX princípoch
+·        integrácia API: REST / FastAPI
+·        skúsenosť s deploymentom na:
+o   Web
+o   iOS & Android
+o   prípadne Windows/Linux builds
+·        Git, CI/CD workflow
+Nice-to-have:
+·        znalosť WebAssembly + web performance optimalizácie
+·        skúsenosť s testingom (unit, widget, integration)
+·        základy backendu (python alebo .NET), nie je podmienkou
+·        skúsenosť s webdizajnom
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Kto sme?
+Sme TMI – rýchlo rastúca, no stabilná IT firma s viac ako 20-ročnou tradíciou na slovenskom trhu.
+Technológie nás nielen živia – my ich fakt milujeme ️.
+Čo robíme?
+- spravujeme počítačové siete,
+- ťaháme štruktúrovanú kabeláž,
+- montujeme moderné kamerové a zabezpečovacie systémy,
+- vyvíjame softvér a dodávame kompletné IT riešenia pre firmy aj domácnosti.
+Našim klientom prinášame istotu, bezpečnosť a inovácie.
+Našim ľuďom zase férové podmienky, priateľskú atmosféru a možnosť rásť.
+Prečo práve TMI?
+- Budeš pracovať s najnovšími technológiami (sme partneri Microsoft, Eset, Unifi, Jablotron).
+- Dostaneš priestor na vzdelávanie a rozvoj – nech si vždy krok vpred.
+- Čakajú ťa zaujímavé projekty pre známe firmy aj domácnosti.
+- Užiješ si priateľskú firemnú kultúru – u nás nie si len číslo.
+- Uvidíš reálne výsledky svojej práce a budeš na ne hrdý.
+Ak hľadáš stabilitu, férový prístup a tím, ktorý ťa nikdy nenechá v kaši, pridaj sa k nám.
+Staň sa súčasťou technologickej rodiny TMI a posuň svoju kariéru na vyšší level.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Tibor Majcík
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202705
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Považská Bystrica
+Pozícia:
+IT/Technical Support Specialist
+Spoločnosť:
+TMI, s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

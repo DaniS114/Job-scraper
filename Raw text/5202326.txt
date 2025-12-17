@@ -1,0 +1,114 @@
+Naše produkty
+Práca za rohom
+Najzamestnávateľ
+Profesia
+Platy.sk
+Edujobs
+Teamio
+Seduo
+Profesia days
+O nás
+Náš príbeh
+Náš tím
+Práca u nás
+Kontakt
+Kontaktujte nás
+SK
+EN
+Naše produkty
+O nás
+Práca u nás
+Kontakt
+Kariéra v Alma Career Slovakia
+System Administrator/ka (Linux/GCP)
+System Administrator/ka (Linux/GCP)
+Jedným slovom spájame… tých správnych ľudí s tými správnymi firmami. Sme súčasťou medzinárodnej technologickej skupiny Alma Career, ktorej produkty zlepšujú svet práce už v deseti krajinách Európy. Na Slovensku medzi také produkty patria napríklad Profesia.sk, Práca za rohom, Platy.sk, Teamio, Seduo, Edujobs, Arnold, Výpomoc so srdcom alebo napríklad festival príležitostí Profesia Days. Našou víziou je tak neustále prinášať tie najlepšie riešenia pre uchádzačov aj firmy, vzdelávanie a spokojnosť zamestnancov.
+Odpovedať na pozíciu
+Miesto práce
+Pribinova 19, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac
+Hľadáme skúseného/ú administrátora/administrátorku Linuxu so silnou znalosťou Google Cloudu, ktorý/á nám pomôže udržať súčasnú prevádzku v top kondícii a zároveň pripraviť a realizovať migráciu vybraných produktov z GCP do AWS. Pridáš sa k rastúcemu SRE tímu, ktorý/á posúva Alma Career smerom k moderným prevádzkovým praktikám a kultúre „You build it, you run it“.
+Kto sme:
+Sme vznikajúci SRE team združujúci DevOps aktivity pre migrujúce a nové produkty v AWS Cloude a hľadáme niekoho ako si ty. Aktuálne je našou prioritou samotná migrácia do AWS cloudu z iných riešení a posun firmy smerom k modernému YBYR prístupu. Máš tak možnosť byť pri vzniku niečoho nového a pomôcť nám to urobiť správne už od začiatku. Naše blízke ciele zahŕňajú vydefinovanie jednotného prístupu k observabilite, definované error budgety a ciele úrovne služieb. Skrátka nie je toho málo, a práve preto potrebujeme tvoju bystrú hlavu, aby nám s tým pomohol/a!
+Čo bude tvojou úlohou:
+Prevádzka a údržba Linux infraštruktúry (VM, siete, LB/proxy, MySQL), patchovanie, hardening, kapacitné plánovanie a automatizácia rutinných úloh.
+Monitoring, alerting (Zabbix, Kibana, Grafana, Graylog).
+Incident management: rýchla diagnostika, obnova, post-incidentná dokumentácia a RCA.
+Zálohy a DR: stratégia záloh, pravidelné testy obnovy a priebežné zlepšovanie RPO/RTO.
+Bezpečnosť a compliance: riadenie prístupov, certifikáty, logovanie, príprava na audity.
+Spolupráca s vývojármi: podpora nasadzovania, zmien a bezpečných odovzdaní; zdieľanie best practices a dokumentácie.
+Príprava a realizácia migrácií: návrh cieľovej architektúry, prenos služieb z GCP do AWS.
+Čo od teba očakávame:
+Samostatnosť a proaktívny prístup.
+Pokročilý Linux admin (Ubuntu/Debian), sieťarina (TCP/IP, DNS, DHCP, VPN), LB.
+Silná prax v GCP (Compute, LB, Cloud Run, Pub/Sub, GCS a pod.); aspoň základná znalosť AWS je nutná.
+Skriptovanie a automatizácia (Bash/Python; výhodou TypeScript), CI/CD (GitLab pipelines a GitHub Actions).
+Monitoring & logovanie (Zabbix, Kibana, Grafana, Graylog).
+Databáza (MySQL/MariaDB – prevádzka, ladenie, zálohy/obnova; základy NoSQL vítané).
+Kontajnery (Docker; skúsenosť s Kubernetes výhodou).
+IaC – Terraform (znalosť AWS CDK je plus).
+Znalosť Ansible - automatizačná platforma.
+Pracovná skúsenosť s vývojom aplikácie (OOP).
+Aktívna komunikácia v angličtine, keďže budeš pracovať v medzinárodnom teame.
+Celá firma ide v Agilnom vývoji, čo nám pomáha v plánovaní spolupráce. Nemali by ťa tak zaskočiť Plánovanie, Retrospektívy a denné Stand-upy.
+Bonusové body:
+Znalosť AWS služieb a prevádzky v AWS; základ CDK/TypeScript.
+Prehľad DevSecOps, Well-Architected Framework, DORA metrík.
+Certifikácia GCP (Cloud Engineer/ Cloud Developer) a/alebo AWS (Developer/CloudOps/DevOps).
+Ako bude vyzerať tvoj štart:
+Po 1. mesiaci: poznáš naše zdieľané repozitáre, monitoring a prevádzku pridelených aplikácií; si v kontakte s produktovými tímami, riešiš operatívu.
+Po 3. mesiacoch: aktívne navrhuješ zlepšenie, zlepšuješ prevádzkové štandardy (SLO/alerting, automatizácia), pomáhaš s plánovaním migráce do AWS.
+Prečo k nám:
+Budeš pri kľúčovej transformácii – zaistení stability súčasného GCP prevádzky a následný presun do AWS.
+Reálny dopad: dostupnosť našich produktov (Profesia.sk, Platy.sk...a iné), bezpečnosť, náklady aj spokojnosť vývojových tímov.
+Remote/Hybrid, spolupráca naprieč produktmi, práca v medzinárodnom teame prevažne online.
+Reportovať budeš priamo Head of Site Reliability Engineering.
+A čo ťa u nás spraví šťastným/šťastnou?
+Priestor na chyby, čas na experiment, možnosti podieľať sa na rozhodnutiach a smerovaní produktu.
+Otvorená atmosféra v tíme. U nás nebudeš mať striktné deadliny od externého klienta.
+Vzdelávanie a rozvoj - domáce a zahraničné konferencie, interné technologické workshopy (SOLID, DDD, Javascript, OOP a iné), online kurzy.
+Dostaneš počítač a OS podľa tvojej preferencie (Linux alebo MacOS).
+3 dni dovolenky navyše.
+Happy Days: neobmedzené voľno kedykoľvek a na čokoľvek (pomôž, kde je treba v rámci dobrovoľníckeho dňa, uži si deň svojich narodenín alebo choď na 1-dňovú turistiku :-).
+Najrôznejšie interné, ale aj externé prednášky/kurzy/konferencie. Naviac budeš mať neobmedzený prístup do našej vzdelávacej platformy Seduo.
+Hedepy: program online starostlivosti o duševné zdravie, ktoré ti môže pomôcť v tvojich životných situáciách, ale aj v osobnom rozvoji.
+Multisport karta čiastočne hradená zamestnávateľom.
+Parádny office v centre mesta Bratislavy. Budeme radi, ak budeš po zaučení chodiť minimálne 3x do týždňa do našej modernej kancelárie na Pribinovej 19.
+Možnosť práce z domu, takže si možno konečne vyladíš svoj work-life balance.
+Priateľský tím, na ktorý sa môžeš vždy spoľahnúť.
+Všetci si tu tykáme, chodíme spolu na mimopracovné aktivity, teambuildingy a pod.
+Dobrovoľnícke aktivity v rámci práce (účasť na CSR projektoch).
+Ideš do toho s nami?
+Znie to ako niečo pre teba? Pošli nám CV/LinkedIn a pár viet o tom, čo ťa v prevádzke a automatizácii najviac baví – radi sa ozveme.
+Kontaktná osoba
+Zuzana Kaňuchová
+Odpovedať na pozíciu
+Späť na voľné pracovné miesta
+We are a member of
+Alma Career
+family.
+ID:
+5202326
+Dátum zverejnenia:
+5.12.2025
+2025-12-05
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Alma Career Slovakia s. r. o.   (pôvodne Profesia, spol. s r.o.)
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

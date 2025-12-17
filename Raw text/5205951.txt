@@ -1,0 +1,111 @@
+IT Systémový Administrátor s focusom na serverové prostredie - Bratislava
+Tatry mountain resorts, a.s.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ihneď, resp. dohodou
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiac
+2000 - 2500 Eur v závislosti od skúseností a relevantnosti uchádzača
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho tímu hľadáme nového šikovného kolegu, ktorý bude zabezpečovať podporu IT činností zastrešovanú pre tuzemsko + zahraničie v rozsahu aktivít zamestnávateľa.
+Hlavná náplň práce:
+Zodpovednosť za inštaláciu, konfiguráciu a správu virtuálnych serverov bežiacich na VMware vSphere, zálohovacieho riešenia Veeam Backup and Replication a správu databázových systémov Microsoft SQL Server. Cieľom pozície je zabezpečiť spoľahlivý, bezpečný a výkonný chod serverových prostredí v rámci interných systémov.
+Kľúčové zodpovednosti
+Virtualizačné prostredie (VMware vSphere)
+•	Inštalácia, konfigurácia a správa virtuálnych serverov Windows/Linux prevádzkovaných na menších  VMWare vSphere clustroch, obnova zo zálohy, riešenie problémov na úrovni OS.
+•	Úplná správa VM menších serverových lokalít (do 10 VM) – inštalácia, konfigurácia, monitoring, patchovanie a zabezpečenie.
+•	Pravidelné monitorovanie výkonu a kapacity virtualizačných prostredí.
+•	Dobré znalosti prevádzky VMware vSphere clustrov bez potreby ich inštalácie alebo rekonfigurácie.
+Zálohovanie a obnova dát (Veeam Backup & Replication)
+•	Implementácia a správa zálohovacích riešení prostredníctvom Veeam Backup and Replication.
+•	Tvorba a udržiavanie politiky zálohovania, plánovanie a kontrola zálohovacích úloh.
+•	Obnova systémov a dát pri incidentoch alebo na základe požiadaviek.
+•	Zabezpečenie dát proti kybernetickým hrozbám – šifrovanie AES-256, MFA, immutable storage.
+•	Pravidelný monitoring a reporting stavu záloh, kontrola úspešnosti a integrity.
+Microsoft SQL Server
+•	Inštalácia a konfigurácia MS SQL Server databáz.
+•	Nastavenie základných parametrov (storage, pamäť, sieťové pripojenia).
+•	Aplikácia aktualizácií a bezpečnostných záplat.
+•	Monitorovanie dostupnosti, výkonu a stavu databáz.
+•	Zálohovanie a obnova databáz podľa politiky záloh (plné, inkrementálne, test obnovy).
+•	Správa používateľov a oprávnení, základná diagnostika chýb a kontrola integrity dát.
+•	Dokumentácia inštalačných a prevádzkových postupov.
+Miesto výkonu práce: Bratislava, resp. Liptovský Mikuláš alebo Tatranská Lomnica. ​
+Zamestnanecké výhody, benefity
+Práca v stabilnej a úspešnej spoločnosti. Poskytujeme možnosť lyžovania a rozsiahly sociálny program ( skipass, aquapass, zamestnanecké pobyty a množstvo zliav a výhod ), pracovný notebook, mobil, teambuildingy a skvelú firemnú kultúru.
+Okrem ďalších výhod, ktoré toto zamestnanie ponúka je výhodou, že budeš pracovať v mladom a dynamickom kolektíve.
+Informácie o výberovom konaní
+V prípade, že Vás naša ponuka oslovila posielajte nám Vaše životopisy na nižšie uvedený mail.
+U všetkých dokumentov zasielaných našej spoločnosti uvádzajte prosím súhlas so spracovaním osobných údajov.
+V prípade veľkého počtu žiadostí nebude možné odpovedať všetkým uchádzačom.
+Kontaktovať budeme iba vybraných uchádzačov za účelom osobného pohovoru.
+Za pochopenie ďakujeme.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+IT Systémový Administrátor
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Požiadavky na kandidáta
+Technické znalosti:
+•	Základné skúsenosti so správou VMware vSphere HA clustrov
+•	Pokročilé skúsenosti so správou virtuálnych serverov
+•	Pokročilé znalosti Veeam Backup & Replication
+•	Znalosť Windows Server a Linux OS na administrátorskej úrovni
+•	Praktické skúsenosti s MS SQL Server administráciou
+•	Základy sieťovej administrácie a bezpečnostných princípov
+Osobnostné predpoklady:
+•	Samostatnosť a systematický prístup k práci.
+•	Zodpovednosť za spoľahlivosť systémov a dát.
+•	Analytické myslenie a schopnosť riešiť technické problémy.
+•	Schopnosť dokumentovať a zdieľať znalosti v tíme.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Skupina Tatry mountain resorts, a.s. („TMR“) je lídrom v prevádzkovaní horských stredísk a zábavných parkov a poskytovaní turistických služieb v strednej Európe.
+Naša spoločnosť má záujem zamestnávať talentovaných, motivovaných a lojálnych zamestnancov. Našim zamestnancom umožňujeme profesijný rast a dávame príležitosť využiť svoj potenciál.
+Gopass, a.s.  je súčasťou skupiny TMR a slúži ako platforma, kde:
+• nakúpite lístky a vstupy do zimných stredísk v 5 krajinách, do golfových rezortov, aquaparkov a zábavných parkov,
+• unikátny vernostný program, ktorý uplatníte okrem vyššie uvedených miest aj v hoteloch, reštauráciách, obchodoch alebo požičovniach,
+• karta, ktorá slúži ako váš osobný lístok na vstup do lyžiarskych stredísk, aquaparkov a je kľúčom k mnohým ďalším produktom a službám
+• mobilná aplikácia, ktorá vám v reálnom čase sprostredkuje všetky dôležité informácie o dianí v stredisku, prehľad vašich lyžiarskych štatistík.
+Počet zamestnancov
+1000 a viac zamestnancov
+Kontakt
+Kontaktná osoba: Magdaléna Kudelová
+Tel.:
++421905974947
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5205951
+Dátum zverejnenia:
+15.12.2025
+2025-12-15
+lokalita:
+Bratislava
+Pozícia:
+Systémový administrátor
+Spoločnosť:
+Tatry mountain resorts, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

@@ -1,0 +1,92 @@
+Vývojár junior mobilných aplikácií
+Univerzita Komenského v Bratislave Rektorát
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok
+Termín nástupu
+podľa dohody
+Mzdové podmienky (brutto)
+Od 1 300 EUR/mesiac
+Uvedený plat je funkčný plat v súlade s ustanoveniami zákona č. 553/2003 Z.z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme v znení neskorších predpisov /výška funkčného platu sa odvíja od započítanej praxe/. Základná zložka mzdy v 7. platovej triede je v rozpätí 1041,50 eur – 1249,50 eur, v závislosti od doby započítanej praxe.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+vývoj      jednotlivých obrazoviek a modulov mobilnej aplikácie,
+práca      s API a spracovanie dát v aplikácii,
+implementácia      používateľského rozhrania podľa návrhov,
+spolupráca      s seniorným vývojárom a dodržiavanie architektonických zásad,
+testovanie,      práca na bugfixoch a dokumentácii.
+Zamestnanecké výhody, benefity
+5 dní voľna navyše (celkom 25 dní dovolenky, nad 33 rokov 30 dní dovolenky za rok)
+o 0,5 hod. skrátený pracovný čas denne oproti súkromnej sfére
+flexibilný pracovný čas
+psychologické poradenstvo zadarmo (mentálne zdravie, kariérne poradenstvo) v Psychologickej poradni UK
+multisport karta pre zamestnanca aj rodinného príslušníka
+ubytovanie v rekreačných zariadeniach v Richňave, Harmónii Modre a Modre Piesok so zľavou pre zamestnanca a rodinného príslušníka
+príspevok na III. pilier DDS
+finančná odmena pri pracovných výročiach a životných výročiach
+školenia internými aj externými školiteľmi
+mobilita Erasmus+
+zľavy na produkty u partnerov
+množstvo ďalších benefitov podľa Kolektívnej zmluvy
+Informácie o výberovom konaní
+O pozícii
+Hľadáme motivovaného a zvedavého vývojára na juniorské miesto v tíme, ktorý bude spolupracovať so seniorným vývojárom na vývoji jednotnej mobilnej brány pre akademický informačný systém. Pozícia je vhodná aj pre čerstvých absolventov alebo študentov s praxou z projektov.
+Ponúkame
+•	príležitosť rásť pod vedením skúseného vývojára,
+•	prácu na reálnom veľkom projekte s dopadom na používateľov,
+•	flexibilný pracovný režim,
+•	odborné vzdelávanie,
+•	stabilné pracovné prostredie,
+•	zaradenie do príslušnej platovej triedy
+Ako sa prihlásiť
+Zašlite nám:
+•	životopis,
+•	krátky motivačný list,
+•	akékoľvek ukážky projektov alebo GitHub,
+na adresu: pavel.beno@uniba.sk do predmetu mailu zadať „vývojár AIS“
+Súčasťou výberového konania bude jednoduchá technická úloha.
+Predpokladaný termín ukončenia výberového konania
+31.1.2026
+(ostáva ešte 45 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+Osobnostné predpoklady a zručnosti
+Požadujeme
+základná      znalosť vývoja mobilných aplikácií (Android, iOS alebo Flutter),
+schopnosť      pracovať s Gitom a čítať technickú dokumentáciu,
+ochota      učiť sa nové technológie a postupy,
+zodpovedný      prístup, samostatnosť a záujem o vývoj aplikácií.
+Výhodou je
+skúsenosť      s Flutterom, React Native alebo nativným vývojom,
+vlastné      malé projekty, aplikácie alebo GitHub portfólio,
+skúsenosť      s REST API, JSON, testovaním,
+účasť      na školských/študentských IT projektoch.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Univerzita Komenského v Bratislave (UK) je moderná európska univerzita, je najväčšia a najstaršia slovenská univerzita. V roku 2019 oslávila 100. výročie svojho založenia. Ako jediná slovenská vysoká škola sa pravidelne umiestňuje v celosvetových rebríčkoch najlepších univerzít sveta. Na 13 fakultách poskytuje najširší výber študijných programov (vyše 900) v troch stupňoch, pričom viaceré z nich sú na Slovensku jedinečné. Na výber je zo širokej škály oblastí ľudského poznania – od medicíny cez humanitné a sociálne vedy, prírodné vedy, matematiku až po teológiu.
+UK je výskumnou inštitúciou, ktorá zastrešuje stovky domácich i zahraničných vedeckovýskumných projektov. Viacerí študenti sú tak už počas štúdia súčasťou významného výskumu a môžu sa aktívne zapojiť do riešenia projektov a grantov či sa zúčastňovať na odborných stážach (aj v zahraničí).
+Kontakt
+Kontaktná osoba: Mgr.  Viera Mikulová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202834
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Bratislava
+Pozícia:
+Programátor
+Spoločnosť:
+Univerzita Komenského v Bratislave Rektorát
+Základná zložka mzdy (brutto):
+1 300 EUR/mesiac

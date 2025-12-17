@@ -1,0 +1,134 @@
+CTO/ Product Owner
+SourceFirst International s.r.o.
+Place of work
+Bratislava
+Contract type
+full-time
+Start date
+by agreement
+Wage (gross)
+3 900 EUR/month
++ bonuses, depending on candidate´s experience
+Information about the position
+Job description, responsibilities and duties
+We are looking for a technically minded product leader to take over long-term ownership
+a Node.js-based platform used in patrol vehicles as part of our smart policing solution. You will serve as the guardian of the codebase, the owner of the architecture, and the internal voice of the
+product.
+This is not a traditional product manager role. You will be expected to be technical, able to read
+and write Node.js code, and manage integration work at the code and architectural level. At the
+same time, you will operate as a bridge between business and development, translating police or
+integrator requests into sustainable, maintainable features without fragmenting the platform.
+In this role you will own a nationally deployed product with a real-world impact on public safety.
+You will work with autonomy and authority to define technical direction and roadmap, suffer from
+minimal bureaucracy, work in a high-trust environment and benefit from flexible work with small
+team that has large impact.
+Responsibilities:
+Product Ownership
+- Maintain a clear roadmap for the platform.
+- Track global trends and competitors in mobile policing platforms.
+- Translate customer change requests into long-term product features.
+- Own the product backlog, prioritizing sustainable feature evolution.
+Technical Leadership
+- Own the technical architecture and ensure the product does not fragment across
+deployments.
+- Define and enforce standards for integrations, extensions, and partner implementations.
+- Serve as senior developer when needed (code reviews, debugging, spike development).
+- Own release management, CI/CD pipeline governance, and codebase integrity.
+Integration & Support Oversight
+- Coordinate integration work with external teams (e.g., Slovak Police IT).
+- Ensure customer-specific changes are developed as modules/plugins, not forks.
+- Manage hotfixes, maintenance releases, and version control across environments.
+- Act as point-of-contact for escalated technical issues and major incidents.
+Developer Coordination
+- Serve as team lead for the small support squad (2–3 developers initially).
+- Manage relationships with key contributors, ensuring stable collaboration.
+Employee perks, benefits
+​- Company car for personal use
+​- Company laptop and phone for personal use
+​- Extra days off
+​- Multisport card
+​- Financial contributions for the birth of a child
+​- Company events, teambuilding activities, sports events...
+​- Employer contributions to the supplementary pension scheme (DDS)
+​- Contribution for the purchase of hardware/software
+​- Language courses
+​- Opportunity for development and deepening of qualifications
+​- Opportunities for career growth​
+Expected date of completion of the selection process
+31.12.2025
+(there are still 58 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is one of the largest info-communication integrators and IT service providers in the CEE. We provides products and services in the field of Robotics and Process Automation, the Internet of Things (IoT), IT Infrastructure, Communications and Cloud Solutions, IT Security, Services and Outsourcing, IT Consulting and Applications.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT, Informačné technológie
+Personality requirements and skills
+- The ideal candidate will have 7+ years in backend development (strong preference for Node.js)
+and deep knowledge of API-based platform design and distributed systems.
+- You will have experience acting as tech lead or software architect in a SaaS or platform context.
+- Working knowledge of PostgreSQL and modern deployment practices (Docker, CI/CD) is also a necessity.
+- Aside from technical skills, you will have strong organizational skills and the ability to enforce
+structure on chaotic teams.
+- You need to be an excellent communicator — capable of speaking
+both to developers and product/business stakeholders.
+- Ideally experience working with public-sector or high-stakes, high-integrity systems.
+​
+Nice to Have Skills
+- Experience in the public safety, first responder, or smart city domains
+- Familiarity with DevOps, security architecture, and on-prem/cloud hybrid deployments
+- Ability to build dashboards or lightweight telemetry to track platform performance
+Required qualifications
+- Strong backend experience in Node.js
+- Deep knowledge of API-based platform design and distributed systems.
+- Working knowledge of PostgreSQL and modern deployment practices (Docker, CI/CD)
+- Fluency in English and Slovak
+- Ideally technical and business educational background
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: Rastislav Srnka
+Tel.:
++421904823347
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5184032
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+IT Product Manager
+,
+Javascript Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 900 EUR/month

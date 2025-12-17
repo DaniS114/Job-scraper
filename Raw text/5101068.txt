@@ -1,0 +1,82 @@
+React Native Developer –  hybridný spôsob práce
+Hilbi Health s.r.o.
+Miesto práce
+Karadžičova 16, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+mzdové podmienky od 2000 € v závislosti od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+React
+(NextJS, Vite, UmiJS) v rôznych podobách
+TypeScript
+ako náš preferovaný jazyk
+Antd/Pro, MUI alebo shadcn/ui
+na interné admin systémy
+Tanstack-Query, Tanstack/React-router, Zustand/Redux
+a ďalšie…
+React Native CLI alebo Expo
+na mobilné aplikácie
+ESLint, Prettier a prehooks
+, aby sme si udržali poriadok v kóde
+Git (GitLab)
+na verzionovanie, sledujeme Gitflow, používame pull requesty a code review
+CI/CD
+, v mnohých projektoch využívame automatické nasadzovanie
+Testovanie
+– nie je to naša najobľúbenejšia činnosť, ale chápeme jeho dôležitosť a robíme ho napriek tomu
+Sledujeme trendy
+v odvetví a radi skúšame nové technológie, ktoré nás zaujmú
+Zamestnanecké výhody, benefity
+Práca pre globálnu healthcare spoločnosť
+Získate príležitosť podieľať sa na zmysluplných projektoch, ktoré pozitívne ovplyvňujú zdravie a kvalitu života ľudí po celom svete.
+Flexibilný pracovný čas
+Podporujeme rovnováhu medzi pracovným a súkromným životom – pracovný čas si môžete prispôsobiť podľa svojich potrieb.
+Príjemné a priateľské pracovné prostredie
+Tvoríme neformálnu a otvorenú firemnú kultúru založenú na dôvere, spolupráci a vzájomnej podpore.
+Možnosť home-office podľa potreby
+V prípade potreby vám umožňujeme pracovať z domu – flexibilita a dôvera sú u nás samozrejmosťou.
+Káva, čaj a čerstvé ovocie každý deň
+Dbáme na vašu pohodu – drobnosti, ktoré spríjemnia váš deň v práci.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+React - Pokročilý
+responzívny web dizajn - Pokročilý
+HTML, CSS - Pokročilý
+Figma - Základy
+Postman - Základy
+GIT - Základy
+Rest API - Základy
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Hilbi Health s.r.o. sme rastúca spoločnosť v oblasti zdravotníctva, ktorá expanduje na medzinárodné trhy, pričom sa zameriavame na inovatívne riešenia a optimalizáciu procesov v zdravotnej starostlivosti. Naša cesta je prinášať zlepšenia, ktoré zefektívňujú zdravotníctvo a zvyšujú kvalitu starostlivosti o pacientov. Aktuálne sa rozrastáme v Indii, čo predstavuje obrovský trh a jedinečnú príležitosť na ďalší rozvoj.
+Hľadáme dynamických a samostatných ľudí, ktorí sa radi učia, cestujú a získavajú cenné poznatky z lokálnych trhov. Tieto skúsenosti následne implementujeme do našich produktov a procesov. Ponúkame možnosť profesijného rastu a podieľania sa na formovaní budúcnosti zdravotnej starostlivosti.
+Kontakt
+Kontaktná osoba: Michaela Eisnerová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5101068
+Dátum zverejnenia:
+28.10.2025
+2025-10-28
+lokalita:
+Bratislava
+Pozícia:
+Frontend programátor
+Spoločnosť:
+Hilbi Health s.r.o.

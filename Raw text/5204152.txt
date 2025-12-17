@@ -1,0 +1,73 @@
+Senior BE Developer (Ruby on Rails)
+Moxymind s. r. o.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 3 400 EUR/month
+Final salary depends on candidates experience and skills.
+Information about the position
+Job description, responsibilities and duties
+We are looking for an experienced
+Senior Backend Software Engineer (Ruby on Rails)
+to join the Moxymind team to work on a long term project for our global client in the heavy machinery and construction industry.
+As a backend engineer with us, you will contribute to the design, development, and maintenance of scalable backend services built primarily on Ruby on Rails. This role is ideal for a proactive individual with strong Ruby expertise who enjoys working on complex systems, and who is open to transitioning to Java in the future as the platform evolves technologically.
+As a Senior Backend Software Engineer with us you will:
+Analyze requirements and design, develop, test, and maintain backend components and services.
+Use best coding practices, established patterns, and Ruby/Rails frameworks to ensure high-quality and maintainable code.
+Work directly on complex application and technical problem identification and resolution.
+Collaborate closely within agile team.
+Contribute to architectural discussions and propose improvements to increase system performance and reliability.
+Participate in code reviews and mentor less experienced engineers.
+Deploy and maintain software using CI/CD pipelines (e.g., GitLab CI, Jenkins, Azure DevOps).
+Gradually engage in Java-based development as the project transitions to a hybrid tech stack.
+Employee perks, benefits
+Flexible working hours & ability to WFH
+Budget for education
+Budget for appliances
+Multisport card
+English lessons
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Personality requirements and skills
+What we expect from you:
+Be proficient in designing and developing REST APIs, working with SQL databases (PostgreSQL preferred), and using background job frameworks such as Sidekiq.
+Have experience with cloud environments (e.g. AWS), containerization (Docker), and CI/CD pipelines.
+Have a solid understanding of agile methodologies and experience collaborating within cross-functional teams.
+Be open to learning and contributing to Java development.
+Advertiser
+Brief description of the company
+Moxymind's vision is to create the best place to work for smart and talented people. We founded Moxymind in 2014 with the goal of making software testing better. We believe in innovation and progress. Better software, better world.
+https://www.moxymind.eu/
+Number of employees
+25-49 employees
+Contact
+Contact person: Zuzana Skotnická
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5204152
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Košice
+Pozícia:
+Backend developer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+Moxymind s. r. o.
+Základná zložka mzdy (brutto):
+3 400 EUR/month

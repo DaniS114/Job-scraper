@@ -1,0 +1,84 @@
+About us
+Our benefits
+Open positions
+Lead Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between [EUR 3,800] and [EUR 6,300] per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Imagine this: Breaking news on TV – a hurricane is approaching the US coastline and is about to bring chaos and devastation upon millions of people in the region!
+You know that now is the time your work is put to the test: will your application scale out as designed under the heavy load of calculating the financial impact this storm may have?
+The application you’re responsible for sits at the core of natural catastrophe simulation at Swiss Re.
+About the role
+In this role you would have the outstanding possibility to work on some of the most exciting engineering challenges the industry can offer. You craft and implement reliable, highly parallelized applications hosted on Azure, our public cloud hosting platform of choice.
+In close collaboration with natural catastrophe experts, you lead the design, implementation and testing of our core applications.
+Numerous challenges make this work exciting. High availability and extreme scaling requirements are equally important as quality and security aspects. Do you feel up for it, then apply now!
+About the team
+We are a highly motivated, collaborative engineering team that is responsible for building and running sophisticated, scalable and high-quality public cloud applications. Our team consists of architects, developers and test engineers with a shared company mission: to make the world more resilient.
+In close collaboration with our business peers and surrounding tech teams we act in true start-up fashion – innovative and cross-functional.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Are you eager to make an impact? Do you wish to have your talent recognized and rewarded? Then join our team and find an encouraging environment in which we aspire to make the impossible possible.
+•	You have a wealth of experience in a lead position, in-charge of building public cloud applications, preferably in Java
+•	Experience in systems design, high performance / parallel computing (HPC). GPU programming as a plus
+•	Understanding of the implications and the trade-offs of different solutions with regards to performance, reliability, availability and security
+•	Strong problem-solving and collaborative mindset
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5077032
+Dátum zverejnenia:
+20.10.2025
+2025-10-20
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Frontend developer
+,
+Java Programmer
+,
+Software Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

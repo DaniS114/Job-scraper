@@ -1,0 +1,108 @@
+Senior Power BI Engineer
+Joyful Craftsmen s.r.o.
+Place of work
+Olivova 2096, Nové Město, Czechia, Prague (Job with occasional home office)
+Contract type
+full-time, trade licence
+Wage (gross)
+From 4 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+We are the Microsoft Data Platform Competence Center – leading experts in Microsoft data technologies. Our team has hands-on experience with the full spectrum of modern data solutions including Azure Data Factory, Synapse Analytics, Microsoft Fabric, Power BI, Purview, Azure SQL Database, Databricks, Palantir, and more.
+We constantly learn, experiment, and refine our engineering practices, implementing new innovations across the data ecosystem. People are at the core of our success –
+that’s why we offer our data engineers up to one month per year dedicated purely to learning and professional growth.
+Our team has grown to 40 specialists operating in both
+the Czech Republic and Switzerland
+.
+What you will do as a Senior Power BI Engineer
+Design, develop, and deliver scalable, high-performance Power BI datasets and reports, leveraging Databricks (Gold layer) and SQL-based metadata.
+Work closely with business stakeholders to translate complex requirements into efficient and maintainable Power BI solutions.
+Optimize large-scale data models and refresh pipelines using incremental refresh, partitioning, and query folding.
+Maintain and enhance ADF pipelines, Azure Functions, and YAML-based CI/CD processes in Azure DevOps to support automated testing and deployment workflows.
+Ensure data quality, security (including RLS), and governance across the Power BI ecosystem.
+Collaborate in a cross-functional environment and support teammates in solving analytical and technical challenges.
+What we expect
+5+ years of professional experience in
+Power BI development
+(data modeling, DAX, performance optimization, visualization).
+Strong hands-on experience with
+Azure Data Factory
+, Azure Functions, and Azure DevOps (YAML pipelines).
+Excellent SQL skills and understanding of metadata-driven modeling.
+Ability to work closely with both business and technical stakeholders, shaping requirements and solution design.
+Experience with Databricks and PySpark is a major advantage and will help integrate reporting with upstream data transformations.
+You care about the team — collaboration and knowledge sharing are key values for us.
+You can communicate in English on projects (or improve with our language courses).
+You have a strong drive to learn and grow. Everyone receives up to 30 learning days per year.
+A proactive mindset, excellent communication skills, and a passion for building high-quality data solutions.
+What we offer you
+Budget
+for personal development (courses, conferences, certifications)
+Opportunity to work remotely on
+international projects
+Work from the comfort of your home or from our new design office
+We value our time –
+no overtime
+Access to our company library for inspiration
+Attractive mobile plan, Multisport card, and fuel card
+Barbecues on the terrace and plenty of other team events
+Employee perks, benefits
+Educational courses, training
+Meal tickets / catering allowance
+Launch of a completely new project
+Holidays 5 weeks
+Occasional work from home
+Education allowance
+Refreshments on workplace
+Contribution to sport / culture / leisure
+Foreign business trips
+Opportunity to work up hours
+Sales commission
+Individual schedules of working hours
+Corporate events
+Bonuses
+Individual budget for personal growth
+Dedicated time for innovations
+Flexible start/end of working hours
+International conferences
+Corporate/personal coach
+Notebook
+Children-friendly office
+Self-organization of the job
+Discount on company products / services
+Dog-friendly office
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+Advertiser
+Contact
+Contact person: Justýna Neuhortová
+E-mail:
+send CV
+You can react to this job
+without sending your CV
+. It is sufficient to fill in a form.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5194362
+Dátum zverejnenia:
+19.11.2025
+2025-11-19
+lokalita:
+Prague
+Pozícia:
+Business Intelligence Specialist
+,
+IT Analyst
+,
+IT Consultant
+Spoločnosť:
+Joyful Craftsmen s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+4 000 EUR/month

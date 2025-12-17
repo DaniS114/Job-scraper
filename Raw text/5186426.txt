@@ -1,0 +1,123 @@
+DevOps Engineer, DevOps Administrator
+SkyToll, a. s.
+Miesto práce
+Lamačská cesta, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ihneď alebo dohodou
+Mzdové podmienky (brutto)
+2 800 - 3 800 EUR/mesiac
+Mzda je predmetom partnerskej dohody počas výberového konania. Minimálna nástupná mzda začína na 2.800 € brutto pri plnom úväzku.
+Variabil 16% vyplácaný štvrťročne na základe plnenia KSI
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+návrh, implementácia a správa CI/CD pipeline pre produkčné prostredia,
+automatizácia nasadzovania aplikácii a infraštruktúry
+monitorovanie systémov, logovanie a alertovanie
+správa kontajnerových technológií (Docker, Kubernetes),
+spolupráca s vývojárskymi tímami na zlepšení deployment procesov,
+zabezpečenie vysokej dostupnosti, škálovateľnosti a bezpečnosti systémov,
+optimalizácia výkonu a nákladov v cloudových prostrediach
+​Pozícia, na ktorú osobnosťou "geek-a" skvelo zapadneš do malého tímu mladých ľudí spravujúcich technológie enterprise úrovne z oboch svetov ako proprietárneho tak aj opensource používaných na prevádzku služieb vo vysokodostupnom (HA) prostredí.​
+Zamestnanecké výhody, benefity
+Finančné výhody:
+- atraktívna základná mzda
+- variabilná zložka pri splnení KSI 16%
+- vernostné odmeny za odpracované roky
+- mimoriadne prémie
+Flexibilita a voľno:
+- pružný/flexibilný pracovný čas
+- 5 dní pracovné voľno
+- možnosť občas pracovať z domu (home office)
+Stabilita a rast:
+- stabilný finančný rast a obrat spoločnosti
+- nízka fluktuácia zamestnancov
+- podpora aj v mimoriadnych životných situáciách
+Vzdelávanie a rozvoj:
+- bezplatné jazykové kurzy
+- interné vzdelávanie
+- odborné školenia
+Firemná kultúra:
+- rôznorodé teambuildingy
+- neformálny dress code na pracovisku
+- darčeky pre deti zamestnancov 2x ročne
+- veľkolepé Vianočné večierky
+- priateľská atmosféra na pracovisku
+Zdravie a wellbeing:
+- multisport karta
+- úschovňa bicyklov na pracovisku
+- kvalitná káva
+- zvýhodnené ceny skipassov
+Informácie o výberovom konaní
+Na základe zaslaného životopisu dôkladne posúdime Vaše skúsenosti, znalosti a predpoklady na obsadzovanú pracovnú pozíciu.
+V prípade, že spĺňate požiadavky, s radosťou Vás pozveme na interview najneskôr do 10 dní od prijatia žiadosti. Uchádzač, ktorý sa zúčastní výberového konania bude informovaný o výsledku telefonicky alebo e-mailom.
+Ak Vás nebudeme do 30 dní kontaktovať, vybrali sme kandidáta, ktorého skúsenosti a znalosti lepšie zodpovedajú požiadavkám našej spoločnosti.
+Predpokladaný termín ukončenia výberového konania
+30.11.2025
+(ostáva ešte 26 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Vzdelanie v odbore
+informatika, telekomunikácie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+DevOps - Pokročilý
+CI/CD pipeline - Pokročilý
+Jenkins - Pokročilý
+Bash Scripting - Pokročilý
+Terraform - Pokročilý
+Prometheus - Pokročilý
+Windows PowerShell - Pokročilý
+GitLab - Pokročilý
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+DevOps, Systémový administrátor
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Výhodou sú znalosti:
+GitOps prístupom (ArgoCD, Flux)
+Znalosť nástrojov na správu tajomstiev (Vault, AWS Secret Manager)
+Agile/Scrum Metodiky
+Cloudová platforma (OCI, AWS, Azure, GCP)
+VMware, Linus, Windows
+Očakávame:
+komunikačné schopnosti
+tímový hráč
+​zodpovednosť
+chuť vzdelávať sa a sledovať trendy v informačných a open-source technológiách​
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Dňa 13. januára 2009 podpísala spoločnosť SkyToll, a.s. zmluvu s Národnou diaľničnou spoločnosťou na dodávku a prevádzku Komplexnej služby elektronického výberu mýta v Slovenskej republike.
+Slovenský projekt elektronického výberu mýta je vo svete unikátny tým, že pokrýva okrem diaľnic a rýchlostných ciest aj veľký rozsah ciest prvej triedy najvyspelejšou technológiou satelitného mýta. Riešenie  je založené na GPS - GSM technológii, je maximálne flexibilné na zabezpečenie budúceho nárastu objemu nákladnej dopravy, ako i rozširovania cestnej siete SR. Na realizácii projektu sa zúčastňujú nielen renomované medzinárodné firmy, ale aj slovenskí odborníci a lokálne spoločnosti v oblasti informačných technológií a inteligentných dopravných systémov.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Iveta Posoldová, PhD.
+Tel.:
++421232336920
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5186426
+Dátum zverejnenia:
+4.11.2025
+2025-11-04
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+SkyToll, a. s.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

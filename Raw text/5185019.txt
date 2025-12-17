@@ -1,0 +1,85 @@
+About us
+Our benefits
+Open positions
+Senior Frontend Developer (Hybrid)
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between [EUR 3,800] and [EUR 6,300] per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Are you passionate about creating intuitive, responsive user interfaces that transform complex business needs into elegant digital experiences? Join our innovative team where your Angular expertise will help shape the future of our digital landscape! We are looking for a skilled Angular developer who understands how to write clear and maintainable code but also has a solid understanding of architectural best practices, modern frameworks, and the importance of creating intuitive user experiences that make a real impact.
+About the Role
+As our Senior Front End Developer, you'll design and implement modern web applications using Angular for our Contract Information Hub - the central platform for P&C Treaty and Facultative contract administration. You'll deliver intuitive user interfaces that enable efficient contract information management while collaborating with teams across the organization.
+Key Responsibilities
+•	Design and develop responsive, user-friendly interfaces for the Contract Information Hub, serving internal users across the organization
+•	Review and approve pull requests to ensure code quality, consistency, coding standards, and maintainability of front-end code
+•	Guide and mentor development teams on Angular best practices, sharing your expertise to elevate overall team performance
+•	Solve complex UI/UX problems by leveraging your experience and technical knowledge to optimize application performance and user experience
+•	Research and implement emerging front-end technologies to continuously improve our solutions and stay ahead of industry trends
+About the Team
+Our team develops, extends and maintains business applications with a primary focus on the Contract Information Hub - Swiss Re's central platform for P&C Treaty and Facultative contract administration. This system serves as one of the key building blocks in our P&C's Hub Architecture. We closely collaborate with other teams around the globe to ensure seamless integration within our ecosystem.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a technical innovator who thrives in collaborative environments where ideas flow freely. Your natural curiosity drives you to explore new approaches, while your thoughtful problem[1]solving ensures reliable, maintainable solutions. You excel in high-performance engineering settings and are passionate about writing clean, efficient code that delivers exceptional user experiences. You embrace continuous learning and are excited to contribute to a team that values technical excellence and creative thinking.
+We are looking for candidates who meet these requirements:
+•	Proven experience developing web applications using Angular (Angular 2+)
+•	Strong understanding of TypeScript, HTML5, CSS3, and modern front-end development practices
+•	Understanding of frontend architecture and best practices
+These are additional nice to haves:
+•	Knowledge of UI/UX design principles and experience with design systems
+•	Experience with testing frameworks like Jasmine, Karma, or Jest
+•	Familiarity with CI/CD pipelines and front-end build tools
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5185019
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Frontend developer
+,
+Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

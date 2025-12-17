@@ -1,0 +1,100 @@
+UiPath Cloud Architect (Engineer) – Automation & AI
+SOITRON, s.r.o.
+Place of work
+Bratislava Region, Slovakia, Bratislava region (Job with occasional home office)
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+From 2 800 EUR/month
+from 2 800 EUR gross/month (we’re open to a discussion based on your expertise and preferred role scope — Engineer vs. Architect).
+Information about the position
+Job description, responsibilities and duties
+We are looking for an experienced
+UiPath Cloud Architect / Engineer
+to join our
+sister company Millennium
+, where you will lead the transition from on-prem Orchestrator to
+UiPath Automation Cloud
+and help deliver the next generation of
+AI-powered automations
+.
+You will design, implement, and operate a secure, observable, and cost-efficient cloud platform, while coaching developers on best practices for modern, cloud-first automation.
+This is a hands-on technical role that combines
+architecture, delivery, and enablement
+— ideal for someone who enjoys both strategic design and practical implementation.
+Your mission:
+Lead the migration from on-prem Orchestrator to Automation Cloud – planning, testing, PROD cutover, rollback, and post-go-live audit.
+Define the tenant & access model (folders, accounts, RBAC, SSO) with strong security and least-privilege principles.
+Build monitoring and observability using UiPath Insights and Orchestrator dashboards (SLOs, alerts, reporting).
+Implement CI/CD pipelines for packages and configurations (Git-based).
+Deliver AI Agents built in UiPath Agent Builder under AI Trust Layer governance (policies, model evaluation, and traceability).
+Integrate systems using UiPath Integration Service and secure connection management.
+Coach developers on cloud-native automation patterns (queue-centric design, long-running workflows, human-in-the-loop).
+Employee perks, benefits
+Participation in high-impact automation and AI projects with enterprise clients.
+Opportunity to shape the UiPath Cloud & AI automation landscape within Soitron Group.
+Work in a modern environment that combines the stability of a large IT integrator with the agility of a family-oriented culture.
+Motivating financial package based on experience and expertise.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Intermediate (B1)
+Personality requirements and skills
+5–8 years of experience in enterprise RPA/automation using UiPath Orchestrator, Studio, and Assistant.
+Proven experience with on-prem → Automation Cloud migration.
+Deep understanding of Automation Cloud administration (tenants, folders, accounts, robot provisioning, licensing).
+Experience building and maintaining monitoring, dashboards, and SLOs in UiPath Insights or similar tools.
+Delivered at least one AI-assisted automation or UiPath Agent Builder project into production under governance (AI Trust Layer or equivalent).
+Programming skills in Python or JavaScript (C# is a plus).
+Familiarity with REST APIs and Git-based CI/CD pipelines.
+Nice to have
+Experience with Microsoft Entra ID / SSO and network-proxy configurations for UiPath Robots.
+Infrastructure-as-Code mindset and automation of deployments.
+Experience with UiPath Integration Service custom connectors, Action Center, or Test Manager.
+Advertiser
+Brief description of the company
+SOITRON (member of SOITRON Group) is a Central European IT integrator operating in the market since 1991. The company's philosophy is to constantly move forward, which is why it is a leader in implementing unique technologies and innovative solutions.
+It offers clients products and services in the field of network and communication solutions, cybersecurity, data centres, IT outsourcing, IT support, and advisory.
+Its portfolio includes smart police car solutions – Mosy and cybersecurity services – void SOC (Security Operations Center).
+Soitron Group employs more than 850 international experts, with professional teams in Slovakia, the Czech Republic, Romania, Turkey, Bulgaria, Poland, and the UK.
+Number of employees
+500-999 employees
+Contact
+Contact person: Anna Leskovjanská
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5179924
+Dátum zverejnenia:
+22.10.2025
+2025-10-22
+lokalita:
+Bratislava region
+Pozícia:
+DevOps Engineer
+,
+IT Architect
+,
+Programmer
+,
+Software Engineer
+,
+Systems Engineer
+Spoločnosť:
+SOITRON, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 800 EUR/month

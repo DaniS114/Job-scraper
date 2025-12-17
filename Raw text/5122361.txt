@@ -1,0 +1,85 @@
+Site Reliability Engineer
+SAP SE
+Place of work
+Twin City C, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+08/01/2025
+Wage (gross)
+From 2 300 EUR/month
+Information about the position
+Job description, responsibilities and duties
+We help the world run better
+At SAP, we enable you to bring out your best. Our company culture is focused on collaboration and a shared passion to help the world run better. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose-driven and future-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of benefit options for you to choose from.
+What you’ll do
+We are looking for passionate Site Reliability Engineers to support our delivery architecture, cloud readiness initiatives, and the adoption of emerging technologies for our advanced cloud solutions. Our team is responsible for managing cutting-edge cloud products such as Digital Currency Hub, Customer Checkout Manager Cloud Edition, and Supportability Services. We use the latest technologies, including Kubernetes (K8s), K8s operators, and GitHub Actions-based pipelines, to deliver significant business value to customers worldwide and enhance their operational effectiveness
+As a Site Reliability Engineer, your primary responsibilities will include
+Designing, developing, testing, and delivering container-based execution environments leveraging technologies like Docker.
+Developing robust Kubernetes orchestration frameworks to ensure optimal service scaling and traffic management with tools like Istio.
+Automating operational practices to streamline workflows and improve efficiency.
+Contributing to the technical execution of delivery architecture and supporting cloud enablement efforts.
+Supporting the delivery roadmap and driving the adoption of new technologies to enhance our cloud solutions.
+Committing to best practices in the development lifecycle.
+Working effectively in a fast-paced, collaborative team environment, delivering features end-to-end.
+What you bring
+You are a highly motivated and tech-savvy professional with a master’s degree in computer science and a passion for coding and automation.
+You possess extensive knowledge of containerisation (Docker), service scaling using orchestration (Kubernetes), traffic management (Istio), and similar technologies.
+Experience with deployment methodologies like blue-green and canary deployments, as well as proficiency with pipeline-based deployments and CI tools such as Git, SVN, and Jenkins, are essential.
+You have experience with multiple cloud infrastructure providers and abstraction layers like Gardener, and hands-on experience with large-scale cloud software build, integration, and test environments.
+Proficiency in languages such as Java, SQL, JavaScript, Python, Go, Shell Script, and Ruby in a test-driven environment is crucial.
+A bachelor's or master's degree in computer science or at least 3 years of relevant experience
+Agile, quick to learn, optimistic, with a collaborative approach to achieving team goals.
+Excellent interpersonal and communication skills; fluent in both written and spoken Slovak and English.
+Team-oriented, communicative, customer-focused, and quality-driven.
+Creative, innovative, and passionate about new technologies and tools.
+Meet your team
+Our team supports a wide range of cloud products such as Digital Currency Hub, Customer Checkout Manager Cloud Edition, and Supportability Services. Utilizing advanced technologies like Kubernetes (K8s), K8s operators, and GitHub Actions-based pipelines, we deliver significant business value to customers worldwide and assist them in operating more efficiently. Join a dynamic, international team within the world’s third-largest software company, where you will have extensive opportunities for growth and professional development.
+Bring out your best
+SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better and more equitable world.
+SAP is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to the values of Equal Employment Opportunity and provide accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in theSAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+EOE AA M/F/Vet/Disability:
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, age, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability.
+Successful candidates might be required to undergo a background verification with an external vendor.
+Employee perks, benefits
+Employee Benefits at SAP:
+Flexible working hours and the option to work from      home
+Additional vacation days to support work-life      balance
+Company contribution to supplementary pension      insurance
+Annual healthcare allowance for wellness and      preventive care
+Monetary allowance for sports and cultural      activities
+SAP Equity participation for long-term value      sharing
+Requirements for the employee
+Candidates with education suit the position
+Primary education
+Language skills
+English - Upper intermediate (B2)
+Advertiser
+Brief description of the company
+SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+Contact
+Contact person: Matej Lenarth
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5122361
+Dátum zverejnenia:
+11.11.2025
+2025-11-11
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+Spoločnosť:
+SAP SE
+Základná zložka mzdy (brutto):
+2 300 EUR/month

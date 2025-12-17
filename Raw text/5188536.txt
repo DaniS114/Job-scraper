@@ -1,0 +1,97 @@
+Tech Architect - Core Transaction Processing (Batch Processing, UC4)
+SourceFirst International s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+Based on agreeemnet
+Wage (gross)
+3 800 - 5 000 EUR/month
+The final salary offered will depend on the candidate's experience and knowledge + attractive benefit system of the company.
+Information about the position
+Job description, responsibilities and duties
+For our clien we are looking for a Technical Architect to lead the modernization of our core batch and transaction processing environment within Asset Management. This critical function ensures accurate and timely end-of-day processing, supporting downstream systems and reporting.
+You will take ownership of the batch landscape—balancing deep technical knowledge with strategic architecture thinking. Your focus will include simplifying processes, improving performance and resilience, and aligning with business SLAs. The role involves close collaboration across technology, operations, and infrastructure teams to design scalable solutions that work across both legacy and cloud platforms.
+Your responsibilities on this position are:
+- Architect and evolve the transaction processing layer across systems and asset classes
+- Support legacy and cloud-native workflows in a hybrid architecture
+- Optimize batch performance, reduce processing windows, and increase operational stability
+- Map system dependencies and align flows with SLA commitments
+- Lead technical discussions and support implementation of key changes
+- Present architecture proposals to leadership and support strategic prioritization
+Employee perks, benefits
+- flexible working time
+​​- hybrid type of home-office
+​​- kindergarten - available in our building
+​​- yearly salary re-evaluation
+​​- sick days
+​​- MultiSport card
+​​- mental & medical health support
+- public transport donation
+Information about the selection process
+Please send your CV to jobs@sourcefirstinternational.com.
+We always have several positions for IT Specialists not only in Slovakia and the Czech Republic, but also on foreign projects.
+Expected date of completion of the selection process
+31.12.2025
+(there are still 44 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a leading international tech company and provides a wide range of products and services.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+​- 5+ years in technical or architectural roles with batch systems (UC4 knowledge preferred)
+- Experience designing hybrid on-prem/cloud architectures
+- Familiarity with event-driven or microbatching approaches
+- Strong data flow understanding and SLA alignment
+- Effective communicator with a strategic mindset
+Nice to have skills:
+- Domain knowledge in asset management or capital markets is a plus
+- SQL or Python experience is a bonus
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: IT Recruitment
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5188536
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT Analyst
+,
+IT Architect
+,
+IT Consultant
+,
+Systems Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 800 EUR/month

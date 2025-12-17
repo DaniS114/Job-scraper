@@ -1,0 +1,89 @@
+Kubernetes inžinier
+InterWay, a. s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP / Dohodou
+Mzdové podmienky (brutto)
+Od 2 900 EUR/mesiac
+Toto je začiatok, výsledná mzda závisí od seniority kandidáta a jeho skúseností. Možnosť pracovať na faktúru.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného Kubernetes inžiniera, ktorý bude kľúčovou súčasťou nášho Iway Cloud tímu. Spoločne sme zodpovední za návrh, vývoj a prevádzku modernej kontajnerovej platformy pre vývojové tímy. Pozícia kombinuje znalosti infraštruktúry, automatizácie, bezpečnosti a cloud native nástrojov.
+Hlavné úlohy:
+Budovanie a údržba Kubernetes platformy ako služby (PaaS)
+Automatizácia nasadzovania a      prevádzky pomocou GitOps a Infrastructure as Code
+Integrácia CI/CD nástrojov a      monitoring/logging riešení
+Optimalizácia výkonu a stability platformy
+Podpora vývojárov pri používaní      Kubernetes
+Požadované skúsenosti:
+Minimálne 1+ rok skúseností s      Kubernetes v produkcii
+Skúsenosť s kontajnermi (Docker, containerd)
+Práca s nástrojmi ako Helm,      ArgoCD, Prometheus, Terraform, GitLab CI
+Dobrá znalosť Linuxu, sietí a      bezpečnostných princípov
+Osobnostné predpoklady:
+Samostatnosť, zodpovednosť a analytické myslenie
+Ochota zlepšovať veci, automatizovať a zdieľať know-how
+Komunikácia s vývojármi a      infraštruktúrnym tímom
+Pracovné prostredie:
+DevOps tím zodpovedný za platformu a jej spoľahlivosť
+Kubernetes ako základná      infraštruktúra pre vývoj a produkciu
+Moderné nástroje, GitOps,      cloud-native prístup
+Plus ak máš tieto certifikácie je to pre teba veľkou výhodou:
+CKA / CKS (Kubernetes certifikácie)
+Terraform Associate
+Cloud certifikácia (AWS, Azure, GCP)
+Zamestnanecké výhody, benefity
+Športovanie s kartou MULTISPORT
+Flexibilný pracovný čas, pravidelný homeoffice
+Vzdelávací program zameraný na odborný rozvoj a certifikácie
+Príspevok do III. piliera
+Výborný kolektív, pohodová atmosféra na pracovisku
+Príspevok na stravu nad rámec zákona
+Sick Days
+Pravidelné teambuildingy (splav, husacina, Christmas párty, opekačky, terasovica, plážový volejbal v lete,...)
+Regenerácia tela aj mysle = masáže priamo na pracovisku, ak potrebuješ na chvíľku vypnúť v "chill zóne" si môžeš zahrať stolný futbal alebo len tak pokecať s kolegami
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT / Technické
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Ťažiskom portfólia produktov a služieb spoločnosti InterWay, a. s. sú systémová integrácia, e-business riešenia a cloudové služby. Poskytuje komplexné web riešenia a služby, zamerané na expandovanie a skvalitňovanie podnikateľských činností v internetovom priestore a v oblasti verejnej správy. Medzi klientov patria významné domáce a zahraničné, finančné i nefinančné inštitúcie.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Petra Jánošová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5173317
+Dátum zverejnenia:
+10.10.2025
+2025-10-10
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+,
+IT konzultant
+,
+Systémový administrátor
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+InterWay, a. s.
+Základná zložka mzdy (brutto):
+2 900 EUR/mesiac

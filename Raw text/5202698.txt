@@ -1,0 +1,115 @@
+Medior React + TypeScript Developer
+TMI, s.r.o.
+Miesto práce
+Považská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 800 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+O pozícii
+Hľadáme skúseného
+Medior React + TypeScript Developera
+, ktorý má chuť pracovať na moderných webových aplikáciách, má čistý kód v malíčku a rozumie tomu, ako funguje frontend v reálnom svete – od architektúry až po optimalizáciu výkonu.
+Budeš pracovať na produktoch využívaných vo výrobných procesoch, v malom tíme developerov, kde tvoj názor a nápady naozaj počuť.
+Čo bude tvoja náplň práce
+vývoj a údržba frontendu v
+React      + TypeScript
+tvorba komponentov v rámci      nášho
+UI design systému
+implementácia API volaní      (REST/FastAPI)
+optimalizácia výkonu, riešenie      edge-case scenárov
+code reviews + zlepšovanie      kvality kódu
+úzka spolupráca s backendom, UX      a QA
+možnosť navrhovať riešenia a      ovplyvňovať architektúr
+Na čom budeš pracovať
+moderné webové aplikácie z      oblastí:
+AI výroby, interné portály, real-time dashboards
+práca na vlastných aj      klientských projektoch, podľa preferencií
+Zamestnanecké výhody, benefity
+Čo ponúkame ???
+možnosť pracovať
+remote
+flexibilný pracovný čas
+priestor na vlastné nápady a skutočný vplyv na produkt
+prístup k moderným technológiám a architektúram
+neformálna firemná kultúra, priateľský tím
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Vodičský preukaz
+B
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Čo od teba očakávame
+Must-have:
+2–4 roky skúseností s
+React.js
+silné základy v
+TypeScripte
+skúsenosť s
+React Hooks,      Context API
+znalosť
+Styled Components /      Tailwind / CSS Modules
+práca s API (REST / FastAPI)
+Git, Git Flow, CI/CD základy
+schopnosť písať čistý,      prehľadný a udržateľný kód
+Nice-to-have:
+skúsenosti s React Query /      Zustand / Redux Toolkit
+znalosť Dockeru, Node.js,      Next.js
+skúsenosť s testovaním (Jest,      React Testing Library)
+cit pre UX a detail
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Kto sme?
+Sme TMI – rýchlo rastúca, no stabilná IT firma s viac ako 20-ročnou tradíciou na slovenskom trhu.
+Technológie nás nielen živia – my ich fakt milujeme ️.
+Čo robíme?
+- spravujeme počítačové siete,
+- ťaháme štruktúrovanú kabeláž,
+- montujeme moderné kamerové a zabezpečovacie systémy,
+- vyvíjame softvér a dodávame kompletné IT riešenia pre firmy aj domácnosti.
+Našim klientom prinášame istotu, bezpečnosť a inovácie.
+Našim ľuďom zase férové podmienky, priateľskú atmosféru a možnosť rásť.
+Prečo práve TMI?
+- Budeš pracovať s najnovšími technológiami (sme partneri Microsoft, Eset, Unifi, Jablotron).
+- Dostaneš priestor na vzdelávanie a rozvoj – nech si vždy krok vpred.
+- Čakajú ťa zaujímavé projekty pre známe firmy aj domácnosti.
+- Užiješ si priateľskú firemnú kultúru – u nás nie si len číslo.
+- Uvidíš reálne výsledky svojej práce a budeš na ne hrdý.
+Ak hľadáš stabilitu, férový prístup a tím, ktorý ťa nikdy nenechá v kaši, pridaj sa k nám.
+Staň sa súčasťou technologickej rodiny TMI a posuň svoju kariéru na vyšší level.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Tibor Majcík
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202698
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Považská Bystrica
+Pozícia:
+IT/Technical Support Specialist
+Spoločnosť:
+TMI, s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

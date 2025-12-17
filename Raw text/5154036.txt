@@ -1,0 +1,147 @@
+Senior Backend Developer
+WORLD BUSINESS PRESS online, a.s.
+Miesto práce
+Slávičie údolie 106, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ihneď/podľa dohody
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+(mzda sa odvíja v závislosti od skúsenosti kandidátov)
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme
+seniorného backend/fullstack developera
+pre vývoj troch interných
+fintech riešení
+:
+Klientske CRM
+– správa používateľov, transakcií a klientskych dát.
+Call centrum CRM
+– správa hovorov, finančných ukazovateľov a napojenie na komunikačné služby.
+Admin panel pre sociálnu fintech platformu
+– postavený na
+Laravel Nova 4
+, s integráciou na
+.NET/C# backend
+a možnosťou úprav podľa potrieb projektu.
+Návrh a implementácia
+REST API
+a backend logiky v
+Laraveli
+.
+Vývoj a údržba frontend vrstvy CRM vo
+Vue 3 + Nuxt 3 + Pinia + TailwindCSS
+.
+Tvorba modulov v
+Laravel Nova 4
+(Resources, Tools, Cards, Metrics, Actions).
+Integrácie s platobnými, komunikačnými a externými systémami (vrátane
+C# API
+).
+Práca s
+MySQL 8
+,
+Redis (cache, queue)
+a
+Docker
+prostredím.
+Riešenie bezpečnosti, loggingu, testovania (
+PHPUnit / Pest
+), výkonu a škálovania.
+Spolupráca s frontend, UX/UI a marketing tímom na nových webových riešeniach.
+Zamestnanecké výhody, benefity
+Práca na
+troch vlastných fintech systémoch
+s reálnym dopadom.​
+Hybridný režim práce
+a flexibilný pracovný čas.
+Firemný
+MacBook
+a moderné technické zázemie.
+Možnosť odborného rastu v technológiách
+Laravel, Nova, Vue/Nuxt, .NET integrácie
+.
+Firemné teambuildingy, MultiSport karta, občerstvenie, káva, masáže.
+Informácie o výberovom konaní
+Ak spĺňate uvedené požiadavky a ste pripravení prispieť svojimi schopnosťami k našim projektom, pošlite nám svoj životopis, motivačný list a pridajte odkazy na predchádzajúce projekty alebo portfólio.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+skúsenosti s PHP/Laravel
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Laravel 10–12
+,
+PHP 8.1+
+,
+MySQL 8
+Redis
+(cache, queue),
+Git / GitLab CI
+,
+Docker
+Návrh a implementácia
+REST API
+, bezpečnosť, logging
+Laravel Nova 4
+(Tools, Cards, Metrics, Actions)
+Vue 3 + Nuxt 3
+,
+Pinia
+,
+TailwindCSS
+– frontend CRM vrstvy
+Clean code / PSR
+,
+PHPUnit / Pest
+Výhodou:
+skúsenosti s
+C# / .NET
+(napojenie Nova adminu na .NET služby)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+WORLD BUSINESS PRESS online, a.s. pôsobí od roku 2010 a ponúka B2B klientom široké spektrum služieb v oblastiach marketingu, IT riešení a web developmentu. Našou prioritou je individuálny prístup a dlhodobé partnerstvá s klientmi, ktorým pomáhame rozvíjať ich podnikanie prostredníctvom inovatívnych digitálnych riešení.
+Počet zamestnancov: 25–49
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Bc.  Jana Reiterova
+Tel.:
++421907757899
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5154036
+Dátum zverejnenia:
+14.10.2025
+2025-10-14
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Javascript programátor
+,
+PHP programátor
+,
+Programátor
+Spoločnosť:
+WORLD BUSINESS PRESS online, a.s.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

@@ -1,0 +1,142 @@
+RedHat Administrátor
+Všeobecná zdravotná poisťovňa, a. s.
+Miesto práce
+Celé Slovensko, Bratislavský kraj
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Od 2500 EUR brutto mesačne. Finálna mzda je stanovená ako súčet tarifného platu a osobného príplatku, ktorý je fixnou časťou základnej mzdy. Výsledná výška mzdy závisí od úrovne schopností a skúseností uchádzača o zamestnanie. Táto téma je dôležitou súčasťou rozhovoru. Okrem mzdy má každý zamestnanec možnosť získať odmenu 1x ročne v priemernej výške dvojnásobku základnej mzdy, čo predstavuje až 14 platov ročne. Samozrejmosťou sú aj iné finančné a nefinančné benefity.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Čo bude Tvojou úlohou:
+komunikácia a aktívna spolupráca s dodávateľom aplikácií ohľadne nasadzovania, optimalizácie, riešení problémov a monitoringu na danej platforme
+nasadzovanie, optimalizácia, riešenie problémov a monitoringu na danej platforme
+vedenie prehľadnej systémovej dokumentácie k spravovaným systémom
+komunikácia s poskytovateľom docker platformy, prípadne s free komunitou, riešenie prevádzkových problémov
+kooperácia s administrátormi ostatných subsystémov
+Zamestnanecké výhody, benefity
+Na našich zamestnancoch nám záleží a dávame im vždy to najlepšie:
+Angažovanosť sa v našej firme cení. Zamestnanec má možnosť získať
+odmenu v danom roku v priemernej výške dvojnásobku základnej mzdy
+, čo predstavuje až
+14 platov ročne
+Relaxujte s
+5 dňami dovolenky nad rámec zákona
+Máme
+7,5 hodinový pracovný úväzok
+, pričom pracovný čas je
+flexibilný
+Ak sa zamestnanec necíti dobre, ponúkame mu
+3 sick days za rok
+bez nutnosti priepustky od lekára
+Na načerpanie energie a sily dávame našim zamestnancom príspevok až
+140€ za rok na rekreáciu
+(nad rámec zákona)
+Ponúkame „
+stravné
+“ a to v max. hodnote
+až 8,80€
+( od 1.12.2025 až do výšky 9,30€) aj za dni na dovolenke, ako aj za dni vianočných a novoročných sviatkov
+Športujte a relaxujte aj so svojimi najbližšími vďaka karte
+Multisport karte
+, s príspevkom od zamestnávateľa
+Doprajeme svojim zamestnancom zdravie a vitalitu prostredníctvom aplikácie
+UpBalansea
+s príspevkom od zamestnávateľa
+Možnosť využitia
+školiacich
+a
+ubytovacích
+zariadení na oddych a regeneráciu
+Choroba si nevyberá, preto ak ostanete na
+PN-ke
+, u nás ju budete mať preplatenú
+až do výšky 80%
+Pripravte sa na jeseň života s príspevkom zamestnávateľa vo výške 5% do
+III. piliera
+(doplnkové dôchodkové sporenie) už po prvých 3 mesiacoch trvania pracovného pomeru. Budete lepšie pripravený aj na Vašu budúcnosť
+Možnosť získať
+Referral bonus
+za odporúčanie nového kolegu, ktorý zapadne do kolektívu
+Poskytujeme svojim zamestnancom
+finančný príspevok
+na rôzne životné udalosti (pracovné výročia, životné jubileá, narodenie dieťaťa, sociálna výpomoc), pretože si vážime Vašu lojalitu
+Organizujeme
+firemné
+Teambuildingy
+, máte tiež možnosť zúčastniť sa na športových dňoch, dňoch zdravia priamo na pracovisku si tak môžete preveriť svoj zdravotný stav a získať množstvo zaujímavých informácií o nových trendoch v oblasti zdravého životného štýlu od odborníkov na cvičenie, stravovanie aj relax
+Ako firma ponúkame pre zamestnancov
+výhody z našej pravidelne obnovujúcej sa ponuky
+pobytov, zliav a výhod predovšetkým z oblasti relaxu a zdravia
+A ešte mnoho benefitov, ktoré vyplývajú v rámci platnej
+Kolektívnej zmluvy
+Informácie o výberovom konaní
+Všetkým uchádzačom ďakujeme za prejavený záujem. Tvojmu životopisu sa budeme starostlivo venovať, avšak dovolíme si kontaktovať len vybraných uchádzačov, ktorí spĺňajú nami stanovené kritériá.
+Čo by Ťa ešte mohlo zaujímať?
+Hľadáme kolegu alebo kolegyňu na TPP so skúšobnou dobou 3 mesiace.  Zmluvu s Tebou uzatvárame na dobu určitú 1 rok, ale po vzájomnej dohode Ti ju veľmi radi predĺžime. Miesto výkonu práce je po dohode možné na celom území Slovenskej republiky v rámci pobočiek Všeobecnej zdravotnej poisťovne.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Vysokoškolské I. stupňa, technické, ITVysokoškolské II. stupňa, technické, IT
+Ostatné znalosti
+Microsoft Outlook - Pokročilý
+Microsoft Excel - Pokročilý
+Microsoft Word - Pokročilý
+Prax na pozícii/v oblasti
+Minimálne 3 roky praxe v oblasti OCP alebo Kubernetes, orchestrácia kontajnerov
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Technické zručnosti a osobnostné predpoklady:
+Nutné: Konfigurácia, správa RedHat OpenShift platformy
+Praktické skúsenosti s nasadením alebo ladením aplikácií s jednou alebo viacerými z nasledujúcich technológií na OpenShift, Kubernetes, Docker
+Vhodné: Konfigurácia, správa Hadoop,  Ambari
+Prehľad v administrácii  systémov typu  UX / Linux , docker , virtualizácia , HW ( servre), Kafka , Spark, ELK, Kibana, Zabbix, Elasticsearch, Cassandra ...
+Technická skúsenosť v RedHat OpenShift
+Základy PowerShell, Bash, Python atď.
+Skúsenosti s vývojom riadeným testami (TDD) a automatizovaným testovaním
+Práca v tíme, komunikatívnosť, dokumentácia, organizácia
+Schopnosť byť flexibilný, čo sa týka plánov a pracovných úloh, vrátane možnej pohotovostnej služby pri nasadzovaniach alebo podpore
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+VšZP je najväčšia a najdlhšie pôsobiaca poisťovňa na Slovensku s takmer 20-ročnou históriou, ktorej dôverujú takmer 3 milióny spokojných poistencov.
+Svojim klientom dlhodobo poskytuje komplexné služby v oblasti zdravotného poistenia vo svojich viac ako 73 kontaktných miestach na Slovensku a prostredníctvom elektronických služieb–ePobočky a mobilnej aplikácie VšZP.
+Naším cieľom je byť modernou spoločnosťou, ktorá bude udávať trendy v oblasti verejného zdravotného poistenia. Chceme byť lídrom s proklientskym servisom a fungovať transparentne v prospech našich poistencov, platiteľov, poskytovateľov zdravotnej starostlivosti a predovšetkým pre našich zamestnancov.
+Vďaka prebiehajúcim a pripravovaným aktivitám a zanietenosti celého tímu spoločnosti VšZP rastie vizibilita poisťovne a hrdosť zamestnancov, že sú jej súčasťou. Na našich zamestnancoch nám záleží a dávame im vždy to najlepšie.
+Počet zamestnancov
+1000 a viac zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Ľubica Speváková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5201043
+Dátum zverejnenia:
+3.12.2025
+2025-12-03
+lokalita:
+Bratislavský kraj
+Pozícia:
+IT analytik
+,
+IT architekt
+,
+IT manager
+,
+IT projektový manažér
+Spoločnosť:
+Všeobecná zdravotná poisťovňa, a. s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

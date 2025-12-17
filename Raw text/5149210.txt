@@ -1,0 +1,96 @@
+We harness the power of tech to increase sustainability.
+How do you want to use technology?
+Azure Infra and Security Consultant with German
+Place of work
+Remote work
+Contract type
+full-time
+POSITION
+DESCRIPTION
+Join Accenture as an Azure Infrastructure and Security Consultant and play a pivotal role in enhancing the reliability and recoverability of our clients' cloud environments. You will leverage your deep expertise in Microsoft Azure and disaster recovery to deliver actionable recommendations that fortify our clients' systems against disruptions.
+This is a unique opportunity for senior professionals with experience in Infrastructure to upskill in the Security, latest technologies and earn industry-leading certifications. At Accenture, you'll work on diverse projects, ensuring continuous learning and growth. Be part of a dynamic team that values innovation and excellence.
+WHAT WILL
+YOU DO
+• Conduct in-depth technical analysis of cloud infrastructure, application dependencies, observability configurations, and failover capabilities
+• Evaluate and strengthen configurations for Azure AD (Entra ID), Privileged Identity Management (PIM), Azure security services, including Microsoft Defender for Cloud and others
+• Review and enhance MIRPs, including escalation protocols, incident communication plans, recovery sequencing, and impact containment strategies
+• Assess the resiliency and security posture of customer environments from both technical and operational perspectives
+• Identify risks, vulnerabilities, and single points of failure across workloads and operational processes
+• Deliver professional, customer-facing documentation summarizing technical findings and process maturity recommendations
+WHAT WE
+EXPECT
+• up to 5 years of hands-on experience with cloud infrastructure architecture, specifically within Microsoft Azure environments
+• Experience with Azure AD (Entra ID), PIM, Azure Policy, Azure Monitor
+• Understand the concept of High Availability (HA) and Disaster Recovery (DR) design in Microsoft Azure
+• Proven ability to assess and design effective Major Incident Response Plans (MIRPs) that align with operational SLAs and business risk tolerances
+• Excellent communication and documentation skills for technical and executive stakeholders
+• Bachelor’s or Master’s degree in IT or a related field
+• English and German language proficiency at Upper intermediate (B2) or Advanced (C1)
+Nice to have:
+• Microsoft certifications such as: AZ-305, AZ-400, SC-100, AZ-500, SC-200, SC-300, AZ-104
+•  Experience with Azure security and governance services, including Microsoft Defender for Cloud, Sentinel, Key Vault, and Log Analytics
+WHAT WE
+OFFER
+Salary
+3 300 EUR/month
+Accenture offers a competitive compensation package. As required by the Slovak law we hereby state, that the legal monthly minimum gross base pay starting from 3300€ depending on your professional and personal qualifications in the required areas.
+Recognition:
+• Guaranteed paid overtime or overtime vacation
+• German language bonus up to 400€ monthly/gross depending on language proficiency and level of seniority
+• Flexible Benefit System - budget to be spent on services of your choice
+• Competitive bonus structure
+• Refer-a-Friend – get a bonus in the employee referral program
+• Loyalty rewards
+Flexibility:
+• Flexible working arrangements (time & place of work)
+Future:
+• Wide range of trainings and expert lectures
+• Regular performance review and career growth possibilities
+• Ongoing career guidance and mentoring (Global Mentoring Program, Lean In)
+• Employee share purchase plan
+Family & Health:
+• 3 extra days off
+• Sick leave salary compensation (up to 100%)
+• Home-office equipment
+• Family oriented benefits (Wedding, Parental and Baby days-off and bonuses)
+• Employee assistance services (professional psychological, financial and legal help)
+• Multisport card
+• Contribution to special vision correction appliances
+• Life and disability group insurance
+• Sport vouchers for children’s sport activities and children camps
+Interested?
+Apply for this job
+Similar career opportunities at Accenture
+Senior Data Specialist – Microsoft Azure
+Senior Python Developer
+Azure Machine Learning Developer
+Secure AI Consultant with German
+AI Adoption Consultant with German
+© 2020 Accenture. All Rights Reserved.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5149210
+Dátum zverejnenia:
+4.12.2025
+2025-12-04
+lokalita:
+Remote work
+Pozícia:
+IT Analyst
+,
+IT Consultant
+,
+IT/Technical Support Specialist
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+Accenture, s.r.o.
+Základná zložka mzdy (brutto):
+3 300 EUR/month

@@ -1,0 +1,91 @@
+WordPress Developer
+Servers.com
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+This role is responsible for developing code that can withstand high profile sites and intense loads. You will collaborate with a cross-functional team to architect and develop durable, extensible, and secure code. This role requires expert level PHP, CSS, JavaScript, & HTML; impeccable WordPress experience; a solid understanding of frontend and backend technologies; automated testing, and CLI skills.
+Responsibilities:
+Develop new software solutions and maintain existing applications
+Work with stakeholders to understand requirements and objectives
+Create, review, and update technical documentation
+Keep apprised of relevant new technology and best practices
+Write tests to validate code function
+Execute bug fixes
+Measure results of implemented solutions
+Participate in troubleshooting/triaging of issues and document them appropriately
+Skills, Competencies, and Qualifications:
+3+ years Experience in the WordPress space
+1+ years developing with React
+Thorough knowledge of the product development life cycle
+Solid organizational and communication skills
+Mid to advanced level vanilla JavaScript experience (including experience with webpack, babel, and ES2015+ syntax)
+Exceptional HTML & CSS (including experience with PostCSS or Sass and BEM) skills
+Experience working with design systems and design system thinking
+Adept at crafting modern PHP (ex: autoloading, dependency management, dependency injection, templating libraries, automated testing, OOP, and/or frameworks like Symfony or Laravel, etc.)
+Experience working with at least one automated testing framework
+Comfortable working in a Linux environment
+A passion for improving software/systems
+Ability to work remotely with little-to-no supervision
+Bachelor’s Degree in Computer Science, Mathematics, or a related discipline or equivalent experience
+Preferred Qualifications:
+Experience with developing blocks for the Block Editor
+Experience with continuous integration and automated deployment pipelines
+Experience with JS application frameworks
+Experience building sites that are accessible (you’ve worked with WAI-ARIA and done
+WCAG 2.0+ AA/Section 508 work) and performant (working knowledge of best practices)
+Experience in more advanced areas of JavaScript (state management; async operations; unit, snapshot, and integration testing; REST APIs)
+Full stack experience beyond HTML, CSS, and JavaScript
+Background working
+Physical Requirements and Work Environment:
+The physical demands described here are representative of those that must be met by an individual to successfully perform the essential duties of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential duties.
+While performing the essential duties of this job, the individual is regularly required to use hands to finger, talk, and hear
+The individual frequently is required to stand and walk
+Works at a desk and computer screen for extended periods of time
+Works in a traditional climate controlled office environment
+Works in a highly stressful environment dealing with a wide variety of challenges, deadlines and diverse employee population
+Be able to occasionally lift up to ten (10) pounds
+Disclaimer:
+This job description is only a summary of the typical functions of the position. It is not intended to be an exhaustive or comprehensive list of all job responsibilities, tasks, or duties. Additional duties and tasks may be assigned as part of the job function. Liquid Web Inc. reserves the right to modify, interpret, or apply this job description in a way that best supports the organizational needs. The job description in no way creates or implies an employment contract. The employment contract remains “at will”.
+Equal Employment Opportunity Policy: Liquid Web is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Servers.com is a global IaaS hosting platform. It offers a full suite of computing, storage, and networking services with a focus on single-tenant infrastructure solutions.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Bahdan Serdziuk
+Tel.:
++421950382535
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202735
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Práca z domu
+Pozícia:
+Softvérový inžinier
+Spoločnosť:
+Servers.com
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

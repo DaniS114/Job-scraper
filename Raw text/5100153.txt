@@ -1,0 +1,92 @@
+About us
+Our benefits
+Open positions
+Data Engineer / Application Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 400 - 4 100 EUR/month
+For Slovakia the base salary range for this position is between [EUR 2,400] and [EUR 4,100] per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role,
+•	the applicant’s own profile including education/qualifications, expertise, specialization, skills and experience.
+ In addition to your base salary, you may be eligible for additional rewards and benefits including an attractive performance-based bonus.
+Information about the position
+Job description, responsibilities and duties
+About the role
+As a data/application engineer supporting the Alternative Capital Partners IT unit (ACP), you will cooperate closely with other engineers on running and enhancing an IT application. The application is embedded into an environment serving business and integrates with other applications and platforms. The application is productive and operational. The role requires maintenance, new feature development and operations support. It requires communication with an international user community as well as a wide range of IT peers across the globe.
+About the team
+We are a small, dynamic, and international team of experienced specialists that design, build and operate the ACP IT landscape in collaboration with our business partners. We follow agile methodologies (daily stand-up, bi-weekly sprints, product increments) and utilize DevOps recommendations. We are actively utilizing Microsoft Azure cloud and Palantir Foundry platform for our application landscape.
+Key Responsibilities
+-Create new solultions, implement change requests, bug fixing and adequate test cases for system/application
+-Optimize application performance and ensure secure, scalable deployments in palantir foundry & azure environment.
+-Maintain code quality and automated testing using CI/CD pipelines.
+-Provide operational support and troubleshooting of the production issues
+-Ensure processing of reporting deliverables, data feeds in due time according to closing cycles
+-Operational support, monitoring and issue handling within the team
+-Produce (and maintain) system & application documentation
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You are an experienced software engineer with a university degree (Masters preferred) in IT, engineering (or similar), that enjoys being hands-on. You have an accomplished record in delivering sustainable solutions and set the standard for those around you. You are comfortable working in multi-dimensional teams with direct involvement from business SMEs and care about security, quality, user experience, documentation, testing, team spirit and the big picture.
+Professional background and key skills:
+-Four or more years' experience as a data/application or full-stack engineer
+-Familiarity with CI/CD concepts and tools using Azure DevOps or equivalent platforms
+-Good knowledge and work experience on automated testing (Jest, Junit) or test driven-development approach
+-High level of abstraction, fast understanding, conceptual thinking, and strong problem-solving skills
+-Experience with project management methodologies and tools (preferably Azure DevOps)
+-Prior experience with azure cloud and/or palantir Foundry is a plus
+-Ability to work in agile teams using tools like Azure DevOps or Jira
+-Excellent communication skills and ability to collaborate across global teams
+-Strong knowledge of SQL and databases (e.g. Postgres SQL, Oracle)
+-Proficient in Python, PySpark (Spark) and TypeScript (or JavaScript)
+-Willingness to learn new technologies and languages
+-Proficiency in English (written & verbal)
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5100153
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Programmer
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 400 EUR/month

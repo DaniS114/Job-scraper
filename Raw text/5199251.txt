@@ -1,0 +1,105 @@
+Cloud Data Engineer
+Profinit Slovakia, s.r.o. (člen skupiny Profinit)
+Miesto práce
+Kukuričná, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiac
+Vzhľadom aj na zákonnú požiadavku je zverejnené rozpätie výšky mzdy, pričom spodná hranica tohto rozpätia predstavuje minimálnu garantovanú sumu základnej zložky mzdy vzťahujúcej sa na uvedenú pracovnú pozíciu. Finálna výška ponúkanej mzdy bude predmetom diskusie, pričom závisí tiež od schopností, odborných znalostí a skúseností vybraného kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Máš rád prácu s dátami a láka ťa práca na rozmanitých medzinárodných projektoch? Zaujímajú ťa moderné technológie a chceš odborne rásť? Ak áno, teší nás, že čítaš ďalej, hľadáme totiž Cloud Data Engineera na projekty v rôznych doménach (telco, banking, energetika, farmaceutický priemysel alebo poisťovníctvo).
+Po úspešnom pohovore ti priradíme projekt podľa tvojich zručností a preferencií a pracovať budeš v tíme skúsených dátových inžinierov, analytikov a vývojárov.
+Techstack, s ktorým sa môžeš u nás stretnúť:
+Databricks / DBT
+SQL
+Airflow
+Python
+AWS ekosystém / Azure ekosystém
+Elastic Stack
+Jupyter Notebook
+EKS
+Čo budeš u nás robiť:
+Akvizícia a spracovanie vstupných dát pre modely
+Konštrukcia PoC alebo produkčných riešení
+Produktizácia riešení/modelu, refactoring modelu, DevOps, automatizácia
+Analýza požiadaviek, konzultácie s DS užívateľmi, príprava metodík
+Analýza dátových zdrojov, modelovanie, konfigurácia, spúšťanie a testovanie dátových pipelines
+Migrácie systémov do cloudu
+Zamestnanecké výhody, benefity
+Hybridný režim s možnosťou home office
+25 dní dovolenky pre každého
+Prístup k odborným školeniam a certifikátom v oblasti vývoja a softwarového inžinierstva
+Možnosť štúdia cudzích jazykov
+Mobilná tarifa s neobmedzeným volaním a SMS po SK a 16 GB dát aj na súkromné účely
+Deň voľna na Silvestra
+Dni voľna navyše pri kariérnom postupe
+Čo ďalšie ponúkame:
+Prácu na rozmanitých projektoch s moderným tech stackom a v medzinárodnej spoločnosti
+Práca v tíme skúsených programátorov s dlhoročnou praxou
+Priestor pre tvoje vlastné inovácie a nápady
+Individuálny prístup a definovaný proces kariérneho rastu
+Pozícia je otvorená pre našu dcérsku spoločnosť Profinit Slovakia, s.r.o. (člen skupiny Profinit).
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+DBT - Mierne pokročilý
+Databricks - Mierne pokročilý
+Apache Airflow - Mierne pokročilý
+Python - Mierne pokročilý
+SQL - Mierne pokročilý
+Amazon Web Services (AWS) - Mierne pokročilý
+Microsoft Azure - Mierne pokročilý
+Počet rokov praxe
+1
+Osobnostné predpoklady a zručnosti
+Máš VŠ vzdelanie s IT zameraním
+Máš skúsenosti so softvérovým vývojom na IT projektoch
+Angličtina na komunikatívnej úrovni ti nerobí problém
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Za viac ako 25 rokov sme získali dôveru viac ako 50 zákazníkov v oblasti financií, telekomunikácií a štátnej správy v ČR a úspešne sa rozrastáme aj do zahraničia. Pre našich zákazníkov pracujeme na projektoch v oblasti vývoja softvéru na mieru, data managementu, data science a AI v 8 európskych krajinách. Zákazníci o nás hovoria ako o spoľahlivom dodávateľovi, ktorý drží slovo a robí softvér poriadne. Naši zamestnanci zase oceňujú otvorenú a priateľskú atmosféru.
+Profinit je významným hráčom na poli application outsourcingu a information managementu. Máme za sebou mnoho úspešných projektov pre najväčšie finančné a telco spoločnosti, letiská, poisťovne, bitcoinovú burzu a ďalších významných klientov v ČR a EÚ.
+Od roku 2024 sme súčasťou globálnej technologickej skupiny Amdocs, ktorá pôsobí vo viac než 90 krajinách sveta a spolupracuje s lídrami v oblasti telekomunikácií a médií. Vďaka tomu sa nám otvárajú nové možnosti pre technologický rast, inovácie a medzinárodné projekty – pričom si zachovávame našu vlastnú firemnú kultúru.
+Za naše výsledky hovorí aj ocenenie za jednu z 5 najlepších firiem v oblasti vývoja softvéru na zákazku v ČR.
+Spoznajte nás lepšie a pridajte sa k tímu Profinit – jsmeprofinit.eu
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Martina Fusková
+Tel.:
++421903654659
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199251
+Dátum zverejnenia:
+28.11.2025
+2025-11-28
+lokalita:
+Bratislava
+Pozícia:
+Databázový administrátor
+,
+Databázový analytik
+,
+IT konzultant
+Spoločnosť:
+Profinit Slovakia, s.r.o. (člen skupiny Profinit)
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

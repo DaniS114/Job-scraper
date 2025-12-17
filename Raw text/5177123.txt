@@ -1,0 +1,88 @@
+Hledá se: Backend-for-Frontend (BFF) Engineer pro klíčové online služby (Hybridní spolupráce v Praze)
+radixal s.r.o.
+Miesto práce
+Praha, Česko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+Od 70 000 Kč/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Už vás nebaví být jen malou součástí velkého soukolí? Hledáte roli, kde nebudete pouze plnit úkoly, ale skutečně vlastnit a tvořit řešení od A do Z? Nabízíme příležitost pro zkušeného inženýra, který se chce ponořit do komplexního, distribuovaného ekosystému a zanechat za sebou viditelnou stopu.
+Pojďte s námi budovat páteř digitálních produktů, které hýbou světem.
+O co půjde? Vaše mise
+Stanete se klíčovým tvůrcem Backend-for-Frontend (BFF) vrstvy pro naše stěžejní online služby. Vaše práce bude přímo ovlivňovat klíčové aplikace, které slouží tisícům uživatelů v reálném čase. Nebudete jen propojovat systémy; budete mozkem, který rozhoduje, jak efektivně a rychle dostat správná data na správné místo.
+Budete vlastnit a tvořit:
+Navrhnete, vyvinete a převezmete plnou zodpovědnost za BFF vrstvu, která pohání naše nejdůležitější moduly.
+Budete designovat na míru:
+Vaším úkolem bude navrhovat a stavět API s chirurgickou přesností tak, aby dokonale sloužila potřebám našich frontendových aplikací a zajistila skvělý uživatelský zážitek.
+Budete garantem kvality:
+Vysoký výkon, spolehlivost a konzistence nebudou jen prázdná slova v prezentaci, ale váš denní chleba.
+Kdo jste vy? Hledáme tvůrce, ne jen vykonavatele
+Hledáme samostatného a zodpovědného inženýra s vášní pro vysoce výkonné služby. Člověka, který se nebojí složitých problémů a dokáže se v nich zorientovat, navrhnout řešení a dotáhnout ho do úspěšného konce.
+Máte zkušenosti:
+Máte za sebou prokazatelné úspěchy ve vývoji backendových služeb s využitím moderních programovacích jazyků.
+Myslíte v širším kontextu:
+Nebojíte se komplexních, distribuovaných systémů a architektura mikroslužeb je vám blízká. Máte zkušenosti s REST API, orchestrací služeb a transformací dat.
+Vlastnictví je vám přirozené:
+Přebíráte zodpovědnost za problém jako celek, nejen za přidělený úkol. Proaktivně spolupracujete s ostatními týmy, abyste dosáhli nejlepšího možného výsledku.
+Cloud je váš kamarád:
+Máte zkušenosti s cloudovými platformami, ideálně s Azure.
+Komunikujete bez bariér:
+Domluvíte se plynně česky i anglicky.
+Technologie, se kterými se u nás potkáte
+Nehledáme chodící encyklopedii, ale člověka s pevnými základy a ochotou učit se. Zkušenost s Microsoft ekosystémem (.NET, C#) je velkým plusem, ale pokud vládnete
+Javou, Pythonem
+nebo jiným moderním jazykem, rádi se s vámi pobavíme. Ve našem stacku můžete narazit na:
+Frameworky:
+Spring Boot, Django, FastAPI, ASP.NET Core, Entity Framework Core
+Cloud a DevOps:
+Azure, kontejnery (Docker, Kubernetes), CI/CD pipelines
+Architektura:
+Microservices, Backend-for-Frontend (BFF)
+Co vám můžeme nabídnout?
+Flexibilní hybridní spolupráci:
+Kombinujte výhody týmové práce v moderních kancelářích v Praze 4 s pohodlím home office.
+Vliv a zodpovědnost:
+Obrovskou míru autonomie a příležitost skutečně vlastnit a ovlivňovat klíčové části produktu.
+Technologickou výzvu:
+Práci na moderním a komplexním technologickém stacku v distribuovaném prostředí, kde se rozhodně nebudete nudit.
+Skvělý tým:
+Spolupráci s týmem zkušených profesionálů, kteří vám pomohou růst a společně s vámi budou řešit i ty nejtěžší výzvy.
+Pokud jste se v popisu našli a hledáte výzvu, kde vaše práce bude mít reálný dopad, ozvěte se nám. Těšíme se na vás.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+radixal je rychle rostoucí softwarehouse. Jsme zaměřeni na vývoj zakázkového software pro korporátní zákazníky. Pracujeme pro firmy jako je Schlieger, SwissLife, Srovnejto, ePojištění, DHL, RegioJet, Raiffeisenbank, Globus, Schneider Electric a další.
+Vyvíjíme webové aplikace pro finančnictví i samořiditelné vlaky... :-)
+Všichni pracujeme full-remote, z domova. Máme zvládnuté řízení remote týmů, sdílení know-how, online setkávání, zaškolení.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Monika Berkyová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5177123
+Dátum zverejnenia:
+16.10.2025
+2025-10-16
+lokalita:
+Praha
+Pozícia:
+Programátor
+Spoločnosť:
+radixal s.r.o.
+Základná zložka mzdy (brutto):
+70 000 Kč/mesiac

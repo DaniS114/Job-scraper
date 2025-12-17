@@ -1,0 +1,84 @@
+Python Developer – AI nástroje & automatizace
+MBtech Bohemia s.r.o.
+Místo práce
+Práce z domu
+Druh pracovního poměru
+živnost
+Mzdové podmínky (brutto)
+Od 50 000 Kč/měsíc
+Informace o pracovním místě
+Náplň práce, pravomoci a zodpovědnosti
+Co Vás nemine
+Vývoj nástrojů a knihoven v jazyce Python (CLI, orchestrace, REST API, služby)
+Implementace logiky agentů a podpůrných nástrojů v rámci AI Swarm frameworku
+Vývoj backendových komponent pro prediktivní údržbu (např. sběr dat, výpočty, exporty)
+Automatizace komunikace s externími systémy (např. MS Graph, SharePoint, databáze)
+Spolupráce s vývojáři, datovými analytiky a AI/ML specialisty
+Co Vás u nás čeká
+Tým, který nejen vyvíjí, ale navrhuje vlastní nástroje – není to jen vývoj podle zadání
+Přístup ke kompletní agentní AI infrastruktuře, cloudovým službám, a vývoji platformy
+Prostor pro růst: architektura, AI, cloud, DevOps – podle vašich zájmů
+Férové vedení, otevřenost a zapojení do technických rozhodnutí
+Výměna know-how mezi týmy zabývajícími se vývojem, BI, daty, i Kubernetes provozem
+Na čem u nás můžete pracovat
+Python 3.10+ – vlastní knihovny, CLI nástroje, orchestrátory, integrace
+FastAPI, pydantic, asyncio, pandas, numpy
+Práce s LLM (OpenAI, Azure GPT), vektorové databáze, embeddings
+REST API integrace – MS Graph, Power BI API, Jira API, Confluence API
+Kubernetes a Docker – běh agentů, orchestrace úloh, správci kontextu
+Git, GitHub Actions, DevOps pipelines
+Vývoj interních nástrojů i zákaznických platforem s AI rozšířením
+Jaké znalosti a dovednosti byste měli mít
+Zkušenost s jazykem Python – samostatná práce s kódem, návrh funkcí, OOP
+Schopnost pracovat v týmu a uvažovat systémově – rozumět architektuře, nejen modulu
+Chuť automatizovat, psát čistý kód a učit se nové věci
+Zájem o oblast AI
+Znalost angličtiny pro běžnou technickou komunikaci
+Výhodou bude, pokud budete umět
+Znalost FastAPI, pydantic, asyncio, nebo jiného frameworku pro služby
+Zkušenost s vektorovými databázemi, embeddings, nebo LLM nástroji
+Zkušenost s moderními agentními frameworky (Microsoft Agent Framework / AutoGen, CrewAI, LangGraph)
+Znalost Docker, Kubernetes, CI/CD nebo GitOps přístupů
+Znalost SQL nebo základního frontendu výhodou (HTML/JS)
+VŠ vzdělání v technickém nebo analytickém oboru
+Proč se k nám přidat
+Vyvíjíme vlastní AI platformy, nikoliv jen „aplikace s AI funkcí“ – například náš agentní Swarm framework využívající LLM
+Propojujeme data, automatizaci a AI – máme přístup až na úroveň tenantu Power BI i části Azure, včetně komplexní správní vrstvy
+Naše řešení běží v cloudových i on-premise Kubernetes clusterech, kde zajišťujeme orchestraci agentních úloh, automatizaci a prediktivní výpočty (např. pro energetiku a údržbu systémů)
+Zaměstnanecké výhody, benefity
+Práce převážně z domova
+Individuální rozvržení pracovní doby
+Flexibilní začátek/konec pracovní doby
+Notebook
+Vlastní organizace náplně práce
+Požadavky na zaměstnance
+Pozici vyhovují uchazeči se vzděláním
+středoškolské s maturitou
+Inzerující společnost
+Kontakt
+Kontaktní osoba: Elizabeth Franková
+E-mail:
+poslat životopis
+Na to, abyste reagovali na tuto nabídku,
+nepotřebujete životopis
+. Stačí, když vyplníte formulář.
+Odpovědět na nabídku
+Doporučit nabídku známému
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5205811
+Dátum zverejnenia:
+15.12.2025
+2025-12-15
+lokalita:
+Práce z domu
+Pozícia:
+Programátor Python
+Spoločnosť:
+MBtech Bohemia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+50 000 Kč/měsíc

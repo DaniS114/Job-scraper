@@ -1,0 +1,80 @@
+About us
+Our benefits
+Open positions
+Senior Java Application Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3,800 and EUR 6,300 per month (for a full-time role). The specific salary offered considers: • the requirements, scope, complexity and responsibilities of the role, • the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience. In addition to your base salary, you may be eligible for additional rewards and benefits including an attractive performance-based bonus.
+Information about the position
+Job description, responsibilities and duties
+Are you passionate about transforming complex business needs into elegant technical solutions? Join our innovative team where your Java expertise will help shape the future of our digital landscape! We're looking for a talented problem-solver who can architect and develop robust applications that drive our business forward in this exciting technology-focused role.
+About the Role
+our Java Application Engineer, you'll be at the forefront of designing and implementing cutting-edge business applications using Java and Spring Boot. You'll collaborate with diverse teams across the organization to deliver scalable, high-performance solutions that create meaningful impact for both internal and external stakeholders.
+Key Responsibilities
+•	Design and develop business and integration applications serving both internal and external users and systems
+•	Review and approve pull requests to ensure code quality, consistency, coding standards, and maintainability
+•	Guide and mentor development teams on involved technology stacks, sharing your expertise to elevate overall team performance
+•	Solve complex problems by leveraging your experience and technical knowledge to optimize software performance
+•	Research and implement emerging technologies to continuously improve our solutions and stay ahead of industry trends
+About the Team
+Our team develops, extends and maintains business applications. Both business user group and respective solutions range from very tailored and specialized to large applications for hundreds of users. The content covers the use case for data capture, integration, transformation to BPM solutions. We closely collaborate with other teams around the globe.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a technical innovator who thrives in collaborative environments where ideas flow freely. Your natural curiosity drives you to explore new approaches, while your thoughtful problem-solving ensures reliable, maintainable solutions. You excel in high-performance engineering settings and are passionate about writing clean, efficient code that delivers tangible business value. You embrace continuous learning and are excited to contribute to a team that values technical excellence and creative thinking.
+We are looking for candidates who meet these requirements:
+•	Proven experience developing software using Java and Spring framework
+•	Experience in REST API design and implementation
+•	Strong knowledge of relational database systems (e.g., PostgreSQL) and optimization techniques
+These are additional nice to haves:
+•	Knowledge of modern software architecture patterns and principles, including microservice architecture and event-driven design
+•	Previous public cloud experience and containerization technologies
+•	Experience with CI/CD pipelines and DevOps practices
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5180779
+Dátum zverejnenia:
+23.10.2025
+2025-10-23
+lokalita:
+Bratislava
+Pozícia:
+Java Programmer
+,
+Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

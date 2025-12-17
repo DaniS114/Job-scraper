@@ -1,0 +1,89 @@
+FPGA developer
+OZZYLOGIK, s.r.o.
+Place of work
+Svätý Jur
+Contract type
+full-time
+Wage (gross)
+From 2 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Ми створюємо високотехнологічні вимірювальні програмно-апаратні комплекси обробки даних. У зв’язку з розвитком офісу у Словаччині шукаємо
+FPGA developer
+для розробки та супроводу проектів бездротових засобів зв'язку на базі SDR.
+Необхідні навички:
+- досвід програмування на мовах Verilog/VHDL/SystemVerilog від 2−3 років
+- досвід роботи в середовищі Vivado IDE
+- досвід роботи в середовищі Quartus Prime
+- досвід роботи з вимірювальним обладнанням
+- знання аналогової та цифрової схемотехніки
+- знання алгоритмів цифрової обробки сигналів
+- розуміння програм написаних на мовах високого рівня (С/С++, MATLAB)
+- вища освіта у напрямі електроніки та телекомунікацій, комп'ютерні науки (кандидати, з суміжних галузей також будуть розглянуті)
+Буде плюсом:
+- досвід роботи з САПР ModelSim
+- досвід роботи із сімейством мікросхем Xilinx Zynq-7000
+- досвід роботи із сімейством мікросхем Altera Cyclone V
+- знання архітектури та досвід роботи з шиною AXI Memory-Mapped/ AXI-Stream
+- знання та досвід роботи з DMA модулями для ПЛІС (Xilinx DMA, CDMA ...)
+- досвід роботи з Matlab
+- знання С/С++, Python
+- досвід роботи в середовищі Linux
+Що передбачає:
+1. створення та розробка IP-core та проектів для ПЛІС серії Xilinx Zynq та Atlera (Intel) Cyclone FPGA які включають:
+- перенесення існуючих алгоритмів з С/С++ в ПЛІС
+- імплементація алгоритмів ЦОС з Matlab у ПЛІС
+- розробка нових алгоритмів ЦОС.
+2. написання тестів (testbench) для перевірки та симуляції.
+3. тестування та налагодження роботи проектів на "залізі"
+4. створення технічної документації
+Employee perks, benefits
+Робота в офісі в Словаччині (м. Svätý Jur, 15 хв від Братислави).
+Конкурентна заробітна плата з урахуванням ваших очікувань та щорічна її актуалізація згідно з ринковими умовами
+Наставник для введення в робочий процес
+Індивідуально налаштоване робоче місце та персоналізоване придбання аксесуарів для комфортної роботи
+Гнучкий графік: 8:00–17:00 або 9:00–18:00.
+Корпоративні обіди, фрукти та снеки в офісі.
+Повністю оплачувані лікарняні, відпустка, медичне страхування відповідно до законодавства Словаччини.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+Ukrainian - Advanced (C1)
+Other knowledge
+Field-programmable Gate Array (FPGA) - Advanced
+C++ - Skillful
+Verilog - Skillful
+Xilinx Vivado - Skillful
+Experience in the position/sector
+2
+Number of years of experience
+2
+Advertiser
+Brief description of the company
+Ozzylogik Group is a product company specializing in telecommunications. For over 20 years, we have been developing high-tech measuring hardware and software data processing complexes.
+With a team of over 200 highly motivated and skilled specialists, we are dedicated to achieving results. Our work environment is characterized by mutual assistance, respect, responsibility, and an individual approach to each employee.
+Contact
+Contact person: Oksana Sehedii
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5159921
+Dátum zverejnenia:
+21.10.2025
+2025-10-21
+lokalita:
+Svätý Jur
+Pozícia:
+C++ Programmer
+Spoločnosť:
+OZZYLOGIK, s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

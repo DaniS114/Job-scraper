@@ -1,0 +1,88 @@
+.NET Tech Lead
+EuroView s.r.o.
+Miesto práce
+Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+4 500 - 5 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​We are currently seeking for experienced candidates for the position of .NET technical lead, to join development team and be part of a greater team that will deliver product enhancements and new products, whilst working within an agile development environment.
+​As a Technical lead, you'll engineer, guide, and implement technical solutions and improvements with the help of software development team colleagues, to address business requirements. Also, you will be taking active part in development by conducting code reviews and coding. You will closely cooperate with Product Owners in SCRUM.
+Establishing technical direction;
+Proposing suitable technical solution options to address business requirements;
+Guiding team members with troubleshooting technical issues;
+Overseeing software quality, performance and system modifications;
+Ensuring adherence to technical standards and procedures;
+Collaborating with teammates, giving and receiving feedback to foster growth;
+Contribute to and promote excellence in engineering output by mentoring and helping the members of the team;
+Active participating on SCRUM, helping with Backlog, contributing to writing UserStories based on Feature definitions and Prodcut Owner guidance, supporting Sprint goals completion and stepping in to help;
+Active participation in Product Release Planning;
+Taking active part in programming, conducting code reviews;
+Close cooperation and leading integration with Frontend (PowerPlatform) development sub-team, aiming for end-to-end optimal technical solutions;
+Close cooperation with Testing sub-team, aiming for good quality.
+​
+Zamestnanecké výhody, benefity
+Variable quarterly bonus depending on reaching company’s objectives and individual performance goals (KPIs),
+Referral bonus,
+Contribution to the 3rd pension pillar (1% of gross salary, without a need of employee contribution),
+Childbirth bonus,
+Financial contribution for meals (4€)
+Informácie o výberovom konaní
+product development
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+global company
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+​
+Technical Skills
+Strong with C# language development, with .NET 7+ and .NET Framework, developing containerized applications using Docker.
+Strong in developing cloud services on Azure.
+Strong in developing fast and scalable REST API applications.
+Strong working with databases (such as MongoDB / CosmosDB, also Dataverse). Database normalization.
+Strong in integrations with external systems.
+Software architecting experience, microservices architectures focusing on Microsoft Azure.
+Experience with solutions which include ChatBots/AI development/integration
+Experience building CI/CD pipelines in Azure/Github.
+Preferred and desirable skills
+Experience with front-end development such as Typescript/React/JavaScript is desirable.
+Experience working with CRM systems desirable.
+Experience working with Teams / Microsoft Graph APIs and PowerShell desirable.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Personálna a poradenská spoločnosť zameraná na priame vyhľadávanie a výber odborníkov, členov stredného, vyššieho a TOP manažmentu, v oblastiach IT, telco, financie, obchod. Spoločnosť zastrešuje  rozvojové projekty v oblastiach personalistiky, tréningov, assessment a development centier.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Matej Kováč
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195533
+Dátum zverejnenia:
+21.11.2025
+2025-11-21
+lokalita:
+Košice
+Pozícia:
+.NET programátor
+Spoločnosť:
+EuroView s.r.o.
+Základná zložka mzdy (brutto):
+4 500 EUR/mesiac

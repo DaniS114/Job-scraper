@@ -1,0 +1,123 @@
+Databázový administrátor
+Stengl a.s.
+Miesto práce
+Vienna, Rakúsko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+3.11.2025
+Mzdové podmienky (brutto)
+50 - 55 EUR/hod.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pre koncového klienta vo Viedni,
+hľadáme skúseného Database administrátora, so znalosťou nemeckého jazyka.
+Zodpovednosti:
+Správa, návrh a konfigurácia serverov
+DB2 LUW (Linux, Unix, Windows),
+implementácia a prevádzka
+vysoko dostupného prostredia DB2
+, ktoré spĺňa požiadavky
+nepretržitej dostupnosti,
+práca s nástrojmi na
+presun a migráciu dát
+používanými v DB2 LUW,
+vytváranie a správa databázových objektov
+(tabuľky, indexy, schémy, procedúry a pod.),
+monitorovanie a optimalizácia výkonu SQL dotazov
+a databázového prostredia,
+poskytovanie
+podpory pri riešení problémov
+s databázou a výkonom, najmä v súvislosti s aplikáciami
+Java JDBC.
+Zamestnanecké výhody, benefity
+kurzy nemeckého a anglického jazyka,
+rôzne športové a relaxačno-regeneračné aktivity,
+200 eur na vlastne športové a relaxačno – regeneračné aktivity (len pri TPP),
+plne preplácané stravné lístky (len pri TPP),
+príspevok na DDS (po 12. mesiacoch) (len pri TPP),
+bonusy pri jubileách vo firme,
+bonusy pri narodení dieťaťa,
+firemné akcie,
+2dni sick day ročne (len pri TPP).
+Ponúkame tiež:
+atraktívnu, rôznorodú prácu na zaujímavých projektoch,
+kvalitné technické vybavenie, vyspelú IT infraštruktúru,
+možnosť profesionálneho rastu,
+motivujúce finančné ohodnotenie s možnosťou pravidelného prehodnotenia
+možnosť vzdelávania a výberu rôznych školení (hard skill / soft skill).
+multisport
+Informácie o výberovom konaní
+Začiatok: ihneď.
+Rozsah práce: Fulltime
+Miesto výkonu práce: 3 dni týždenne onsite vo Viedni, zvyšok remote.
+Miesto výkonu práce: sídlo zákazníka – 1090 Viedeň, Rakúsko
+Znalosť nemeckého jazyka na úrovni materinského jazyka
+Bezúhonnosť a bezpečnostná previerka (nutná)
+Občianstvo členskej krajiny EÚ
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Nemecký jazyk - Pokročilý (C1)
+Ostatné znalosti
+DB2 - Pokročilý
+SQL - Pokročilý
+RHEL Enterprise Linux - Pokročilý
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Niekoľkoročná prax s
+RHEL Enterprise Linux,
+skúsenosti s
+DB2 LUW
+(verzie 10.1, 10.5 a 11.5),
+prax v
+optimalizácii komplexných SQL príkazov,
+skúsenosti s používaním
+DB2 utilít
+na údržbu databáz a objektov,
+znalosť prostredia s
+vysokou dostupnosťou (purescale),
+znalosť
+bezpečnostných opatrení DB2
+na ochranu citlivých informácií,
+skúsenosti s
+konceptmi obnovy a zálohovania databáz,
+praktické skúsenosti s
+DB2 nástrojmi
+používanými v podnikových prostrediach,
+schopnosť pracovať samostatne aj v tíme
+, dobré komunikačné zručnosti a proaktívny prístup.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+STENGL je IT konzultačná spoločnosť a súčasne softvérový dom, ktorý realizuje vlastné interné projekty ako aj projekty u zákazníkov, prostredníctvom skúsených IT expertov a odborníkov z rôznych doménových oblastí.
+STENGL je spoločnosť, ktorá má viac ako 25 ročné skúsenosti na slovenskom a českom trhu, ako aj v nemecky hovoriacich krajinách. Máme za sebou desiatky tisíc konzultačných a vývojových hodín pre našich klientov naprieč všetkými sektormi národného hospodárstva. Na Slovensku sme historicky jeden z najväčších poskytovateľov IT služieb pre klientov z nemecky hovoriacich krajín.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: HR
+Tel.:
++421903252331
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5183547
+Dátum zverejnenia:
+29.10.2025
+2025-10-29
+lokalita:
+Rakúsko
+Pozícia:
+Databázový administrátor
+Spoločnosť:
+Stengl a.s.
+Základná zložka mzdy (brutto):
+50 EUR/hod.

@@ -1,0 +1,118 @@
+Senior Frontend Developer (React)
+NetCore j.s.a.
+Miesto práce
+Garbiarska 2, Košice
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+podľa dohody
+Mzdové podmienky (brutto)
+Od 4 725 EUR/mesiac
+Výsledný plat závisí od typu zmluvy.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Kto sme
+Sme originál slovenská softvérová firma. Keďže nemáme v zahraničí nijakú materskú spoločnosť, všetko, čo robíme – vývoj, podpora, rast aj predaj produktov – robíme odtiaľto. Máme vlastný produkt, ktorý predávame celosvetovo - Unimus. Naše riešenie pre automatizáciu a správu sietí používajú firmy všetkých veľkostí – od malých lokálnych sietí, cez dátové centrá a telco operátorov, až po známe spoločnosti mimo IT sveta. Veci robíme tak, aby dávali zmysel nielen dnes, ale aj o pár rokov.
+Ak ti záleží na tom, aby tvoja práca mala skutočný dopad, si na správnom mieste. Nepracujeme na zákazku pre niekoho iného – my náš produkt vymýšľame, navrhujeme, testujeme, predávame a podporujeme. Každá tvoja zmena v kóde sa dostane do rúk ľudí, ktorí sa starajú o sieťovú infraštruktúru. A to je dosť cool.
+​
+Čomu sa budeš venovať
+​
+Hľadáme frontend developera, ktorý:
+Sa pridá do tímu a bude sa podieľať na vývoji nášho nového produktu
+Bude vyvíjať výkonné a škálovateľné frontend systémy pomocou moderných frameworkov
+Píše kvalitný, modulárny a udržiavateľný kód a prispieva aj k nastavovaniu štandardov kvality a realizuje code reviews v tíme
+Optimalizuje aplikácie pre maximálnu rýchlosť a škálovateľnosť
+Úzko spolupracuje s product ownerom, UI dizajnérom a ostatnými členmi tímu
+S čím budeš pracovať
+Používame moderný frontend stack, ktorý ti umožní budovať rýchle a škálovateľné aplikácie:
+JavaScript (ES6+), TypeScript
+React 18 v architektúre SPA (single-page application)
+CSS3 a HTML5
+Vite, Vitest, Node.js, PNPM – nástroje pre vývoj, testovanie a bundling
+Optimalizácia výkonu – caching, práca s veľkými dátami, efektívne renderovanie
+Komunikácia v reálnom čase – WebSockety cez Socket.io, prepojenie na REST služby v JSON formáte
+State manažment – MobX / MobX-state-tree
+Styling komponentov – Styled Components a Chakra UI
+Pixi.js, Canvas API
+Testovanie – unit testy, integračné a end-to-end testy
+V JavaScripte, Reacte a TypeScripte by si mal byť macher. Zvyšné technológie ti radi pomôžeme sa doučiť – dôležité je, že máš chuť sa zlepšovať.
+Prečo to celé dáva zmysel
+​Vyvíjame nový produkt, ktorý už má za sebou niekoľko fáz vývoja a tento rok bude uvedený na trh. Stále je však priestor prinášať nápady, formovať architektúru a mať reálny vplyv na smerovanie produktu aj technické rozhodnutia.
+Nie je to údržba starého systému, ale ani chaos bez základov - buduješ nové, ale s oporou v stabilnej firme, ktorá má fungujúce procesy, skúsený tím a jasnú víziu.
+Každá funkcia, ktorú vytvoríš, bude mať dopad – nielen na používateľov, ale aj na celý produkt. Je to príležitosť pracovať na niečom, čo má budúcnosť, a zároveň tvoj podpis.
+S čím sa u nás vôbec nestretneš
+Mikromanažmentom ani rozhodnutiami „zhora“ bez diskusie s tímom
+Meetingami bez pointy a byrokraciou, ktorá brzdí prácu
+Očakávaním, že budeš na príjme aj počas dovolenky
+Netransparentným odmeňovaním alebo neochotou baviť sa o tvojom raste
+Benefity, ktoré sú reálne fajn
+Stock options
+– podiel na firme, ktorú pomáhaš budovať
+Interná alebo externá spolupráca
+– formu vieme doladiť podľa situácie
+Extra dni voľna
+– medzi Vianocami a Novým rokom si môžeš užiť extra dni dovolenky
+Vzdelávanie podľa vlastného výberu
+– školenie, kniha, kurz? Možností je veľa
+Burrito Fridays
+– áno, každý piatok burritká platené firmou
+Teambuildingy
+– také na ktoré sa teší celý tím aj s rodinami a to aspoň 4x ročne
+VR, šípky a stolný futbal
+- hrávame denne a sem-tam si dáme aj turnaj
+Masáže v kancelárii
+– lebo 8 hodín za klávesnicou vie byť náročných
+Sprcha a šatňa
+– ak obľubuješ ranný beh alebo prídeš na bajku, budeš to milovať
+Pet-friendly office
+– ak ti pes asistuje pri debugu, pokojne ho vezmi so sebou
+Sabbatical po 3 rokoch
+– recharge bez výčitiek
+a okrem toho všetkého u nás samozrejme aj zaparkuješ
+Čo ťa čaká v procese
+Krátky telefonát, aby sme sa zoznámili
+Technický rozhovor s naším manažmentom - bez zadania, ale overíme si tvoje skúsenosti a porozprávame sa o našich technológiách
+Osobné stretnutie s tímom - opäť technický rozhovor, tentoraz priamo s ľuďmi, s ktorými budeš pracovať
+Ak si sadneme, dáme ti ponuku a je to hotovo
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Slovenský jazyk - Pokročilý (C1)
+a
+Anglický jazyk - Mierne pokročilý (B1)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme softvérová firma so slovenskými koreňmi, ktorá vyvíja vlastný softvér na automatizáciu a správu sietí (https://unimus.net). Sme úplne nezávislí a vytvárame riešenia, ktoré majú globálny dopad na svet sieťového manažmentu – od malých lokálnych sietí až po národných telekomunikačných operátorov.
+Momentálne rozširujeme náš softvérový balík o nový produkt na mapovanie a vizualizáciu sietí.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Marek Ihnát
+Tel.:
++421905801675
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5114866
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Košice
+Pozícia:
+Frontend programátor
+Spoločnosť:
+NetCore j.s.a.
+Základná zložka mzdy (brutto):
+4 725 EUR/mesiac

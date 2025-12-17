@@ -1,0 +1,90 @@
+Java Developer
+SourceFirst International s.r.o.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Start date
+By agreement
+Wage (gross)
+3 500 - 4 000 EUR/month
+Final salary depends on candidate´s experience
+Information about the position
+Job description, responsibilities and duties
+For our client we are looking for experienced Java Developer who will take part in building platform services that support Remote Access Management. These services enable key capabilities such as equipment monitoring, fleet management, and remote connectivity.
+You will take part in developing scalable backend solutions in Java (Spring Boot) using microservices architectures deployed on cloud (AWS and Azure). The work includes creating RESTful APIs, integrating real-time data streaming, and ensuring high availability and performance through automated CI/CD pipelines. The goal is to deliver a reliable, secure, and scalable platform that enhances digital operations and customer experience.
+Employee perks, benefits
+You can enjoy non- formal, start-up atmosphere while still working on stable, complex projects
+You will work with latest technologies and the output of your work will be used by millions of users around the world
+Flexible working hours, home office possibility and salary corresponding to your skills
+Great coffee and lots of fun activities (table tennis, foosball, game nights etc.)
+Expected date of completion of the selection process
+31.3.2026
+(there are still 103 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a tech company and provides a wide range of products and services.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+Proven experience in the following:
+- Designing and developing software applications in Java (preferably Java 11+) with focus on backend development (4+ years)
+- Designing, developing, deploying and maintaining software at scale.
+- Developing software applications using relational and NonSQL databases.
+- Application architectural patterns, such as MVC, Microservices, Event-driven, etc.
+- Deploying software using CI/CD tools such as Azure DevOps, Jenkins, etc.
+- Deploying and maintaining software using public clouds such as AWS or Azure.
+Strong understanding and/or experience in many of the following:
+- Building applications using Spring and Spring boot
+- Message streaming solutions, such as AWS Kinesis, AWS SQS, AWS SNS, Apache Kafka, RabbitMQ, Apache ActiveMQ.
+- Experience designing well-defined Restful APIs
+- Hands on experience with API tools such as Swagger, Postman and Assertible
+- Test Driven Development and Behavior Driven Development.
+- Hands on experience with testing tools such as Cucumber and Selenium and their integration into CI/CD pipelines.
+- Datastores such as AWS Aurora, AWS RDS, AWS DynamoDB, MongoDB, ElasticSearch, Cassandra, Redis, MySQL, Oracle.
+- Other AWS technologies, such as API Gateway, ALB, NLB, Fargate, Lambda, S3, CloudWatch, KMS, etc
+- Debugging and maintaining software in Linux or Unix platforms
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: IT Recruitment
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5204454
+Dátum zverejnenia:
+11.12.2025
+2025-12-11
+lokalita:
+Košice
+Pozícia:
+Backend developer
+,
+Java Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

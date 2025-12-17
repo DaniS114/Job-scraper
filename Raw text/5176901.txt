@@ -1,0 +1,73 @@
+Place of work
+Bratislava
+Contract type
+part-time, internship, work experience
+Ponúkaná mzda (brutto)
+From 7,1 EUR/hour
+LLMOps | DevOps Engineer Intern
+Orientačná celková mzda (brutto)
+From 7,1 EUR/hour
+At Dell Technologies, we are always looking for the next generation of innovative thinkers to drive our business forward. As an intern, you will have the opportunity to work on meaningful projects, partner with professionals across the globe while gaining knowledge about our business. Our mission is to enable the future generation of professionals to create strong networks, achieve critical experiences, and develop core skills that position you for career success.
+Join us to do the best work of your career and make a profound impact as a
+LLMOps / DevOps Engineer Intern
+on our
+Demand Intelligence Team
+in
+Bratislava, Slovakia.
+Our data scientists & engineers are helping to shape our marketing strategy for a digital world and on scale. We are looking for an LLMOps/DevOps Engineer Intern to help take care of our LLM based solution, AI Agents and Data Product Pipelines in production.
+What you'll achieve:
+This position will merge DevOps, software engineering, data science, and data engineering to deploy LLM based data processing and agentic pipelines that deliver demand signals to Go-to-market teams (Marketing, Sales).  You will use your technical knowledge and software development to help build technology-centric solutions that accelerate the development of Artificial Intelligence and Machine Learning capabilities across the company.
+You will work with our Machine Learning Engineers to build robust and scalable solutions that will help power our Marketing organization with AI/ML models, AI Agents and data processing solution based on (but not only) latest open source LLMs.
+You will:
+Assist in deploying and managing data processing pipelines (including LLM based ones), AI solutions (including agentic) and machine learning models in production environments.
+Collaborate with data scientists, data engineers and machine learning engineers to transition solutions from development to production.
+Help set up and maintain infrastructure for deployment and monitoring of data products pipelines.
+Work closely with cross-functional teams to ensure final solutions meet business requirements.
+Document processes, workflows, and best practices related to LLMOps/DevOps.
+Essential Requirements:
+Currently pursuing a master’s degree in computer science, engineering, or a related field.
+Strong programming skills in Python.
+Basic understanding of machine learning concepts and model deployment frameworks.
+Knowledge and experience with containerization technologies (e.g., Docker, Kubernetes).
+Teamplayer and self-starter - able to work within team as well as independently, in a cross-functional team environment within an Agile framework.
+Desirable Requirements
+:
+Knowledge and experience with LLMs, no-code tools (n8n, Flowise, etc.) and workflow automation tools (Apache Airflow) and Experience with CI/CD platforms (GitHub Actions, GitLab CI, Azure DevOps).
+Excellent problem-solving and analytical skills, strong communication skills and ability to work effectively in a team.
+Salary starting from:
+7.10 eur / hourly
+Who we are
+We believe that each of us has the power to make an impact. That’s why we put our team members at the center of everything we do. If you’re looking for an opportunity to grow your career with some of the best minds and most advanced tech in the industry, we’re looking for you.
+Dell Technologies is a unique family of businesses that helps individuals and organizations transform how they work, live and play. Join us to build a future that works for everyone because Progress Takes All of Us.
+Application closing date: 30th November 2025
+Dell Technologies is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. Read the full Equal Employment Opportunity Policy here.
+Job ID:
+R247978
+Benefity
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5176901
+Dátum zverejnenia:
+17.10.2025
+2025-10-17
+lokalita:
+Bratislava
+Pozícia:
+Database Analyst
+,
+DevOps Engineer
+,
+Programmer
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+Dell Technologies
+Základná zložka mzdy (brutto):
+7,1 EUR/hour

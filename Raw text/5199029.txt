@@ -1,0 +1,107 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Linux Engineer
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava
+Mzdové podmienky (brutto):
+Od 3 000 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+- Správa Linux/UNIX systémov (Red Hat, SUSE) vrátane inštalácie, konfigurácie, patchovania a riešenia incidentov
+- Budovanie a údržba cloud infraštruktúry a služieb v Linux prostredí
+- Kontajnerizácia aplikácií a nasadenia pomocou Docker, Helm, Kubernetes
+- Automatizácia prostredia a procesov Jenkins
+- Správa a konfigurácia služieb ako LDAP, Kerberos, CMDB
+- Spolupráca na testovaní nových technológií a systémov zavádzaných v spoločnosti
+- Poskytovať poradenstvo zákazníkom a podpora interného tímu
+- Monitorovanie výskytu prevádzkových problémov a ich riešenie
+Zamestnanecké výhody, benefity
+- Perspektíva ďalšieho profesionálneho rastu a osobného rozvoja
+- Moderné pracovné prostredie
+- Účasť vo vzdelávacom programe
+- Široké spektrum benefitov
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: ivana.jurikova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Náš klient je medzinárodná spoločnosť, ktorá pôsobí v oblasti poskytovania služieb IT komplexných riešení
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Linux - Expert
+Docker - Pokročilý
+Kubernetes - Pokročilý
+Bash Scripting - Pokročilý
+Prax na pozícii/v oblasti
+administrácia UNIX/LINUX
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+- Min. 3 roky praktických skúseností na podobnej  inžinierskej pozícii v oblasti správy, inštalácie OS LINUX  systémov / RHEL, Centos, Red Hat Cluster Suite
+- Znalosť Docker, Helm a Kubernetes
+- Skúsenosti so CI/CD, Git, Ansible/Puppet/Jenkins - výhoda
+- Znalosť skriptovania - PoweShell/Bash/Python
+- Skúsenosti s návrhom/dizajnom Linux/cloud infraštruktúry - výhoda
+- Anglický jazyk – aktívna komunikácia
+- Ochota vzdelávať sa a prehlbovať  svoje odborné znalosti
+- Schopnosť samostatne riešiť problémy
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Ivana Juríková
+Tel.:
++421 911 189 261
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199029
+Dátum zverejnenia:
+28.11.2025
+2025-11-28
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

@@ -1,0 +1,142 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Network Engineer for Industrial AI Cloud
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 1 850 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+NVIDIA and Deutsche Telekom are jointly developing the world’s first industrial AI cloud for European manufacturers. This AI factory in Germany will host 10,000 GPUs across NVIDIA DGX B200 systems and RTX Pro Servers. Deutsche Telekom provides secure, sovereign and fast infrastructure, including data centers, operations, security, and AI solutions.
+Role Overview:
+We are seeking a
+Senior Network Engineer for Industrial AI Cloud
+to build and automate network platform for automation and operation related network components such as Switches, Firewalls, Routers, Border Gateways as part of core environment of the Industrial AI Cloud. In this role you will provision and manage above mentioned stack, implement and fine-tune monitoring, and deploy additional components if necessary. You’ll be working and coordinating between multiple teams (such as Infrastructure, Platform) to deliver and continuously improve infrastructure services following ITIL processes.
+Senior Network Engineer considers and implements design to enable automated configuration management, release management, build, test and deployment activities. This is a customer facing role/ tailor made solutions and implementations for the customer including consultancy. Proprietary technologies used for managing above scope: InfiniBand, Cumullus OS, RoCE, UFM,  FortiGate friewalls, Cisco Border gateways.
+What will you do?
+Coordinate Operations
+together with Data Center, IaaS & PaaS layer: Coordinate and support network lifecycle activities (installs, upgrades, changes, firmware updates) and manage /network interconnections and related documentation.
+Switch & Firewall Management:
+Provision and maintain InfiniBand switches according to ITIL Standards.
+Automation:
+Develop and maintain automation scripts to orchestrate overall scope. Fine tuning, configuration changes through whole project lifetime.
+OS & Firmware Management:
+Maintain network-based environments, apply patches, and manage firmware upgrades at scale.
+Monitoring & Observability
+ITIL Processes:
+Follow and improve incident, problem, and change management workflows; document runbooks and standard operating procedures. Adhere to ZERO Outage guidelines.
+Cross-Team Collaboration:
+Work closely with Platform Engineers and AI solution teams to ensure smooth deployments and operations.
+Manage High-Speed Fabric:
+A unified network fabric utilizing both InfiniBand and Ethernet / RoCE technologies.
+Management Network:
+A separate 1 Gbps Ethernet  and serial console for out-of-band (OOB) network management.
+PE/CE datacenter connectivity:
+CE routers, firewalls Design, develop, test, implement and support ICT components and applications in order to deliver quality standard product portfolio on AI Factory Cloud platform.
+Build and develop
+concepts, processes and methods for automation, optimization, and standardization to satisfy efficiency and automation requirements.
+Provide advice or information
+at request or at own initiative to all relevant employees or customers regarding technical aspects of products.
+Provide project deliverables
+to fulfil the project scope.
+Consult and implement
+new innovative technologies to satisfy innovation strategy.
+Provide overall solutions
+and principles in planning, developing, and implementing new products to satisfy business requirements.
+Develop, and implement architecture
+of services based on AI Factory Cloud platform requirements.
+Mentor and train co-workers
+to spread knowledge level and develop their skills.
+Act as key technical lead
+and solve and coordinate activities across related technologies/outside own team.
+Provide consulting services
+to project teams on areas of expertise.
+Research and development
+in assigned technology, determine business requirements, propose changes and develop implementation plans.
+You will succeed if you:
+Have a Master’s degree in Information Technologies
+Have experience with:
+Network installation, maintenance, operations
+NVIDIA/Mellanox switch configuration & UFM management
+Data Center routing & BGP/OSPF; ASNs, IP Transit, peering, failover connectivity
+Linux networking (Cumulus/Ubuntu/Debian); configuring bridges, bonds, VLANs, routing tables
+Tools: iperf, ethtool, nvidia-smi, perfquery, NVIDIA/Mellanox diagnostics
+Monitoring, incident detection & root-cause analysis in large-scale DC networks
+Firewall & security management (FortiGate: policies, NAT, VPNs, IDS/IPS, HA); security segmentation, DDoS mitigation, and zero-trust networking
+Switch provisioning, firmware/OS upgrades, patching, config backups
+VMware (VMware Tanzu Kubernetes)
+Scripting (Go/Python/Bash)
+Automation tools (Ansible, SaltStack, Terraform, Helm)
+CI/CD in Kubernetes environments; repository management
+Git-based automation (GitHub/GitLab) & CI/CD tools (GitHub Actions/GitLab CI)
+Linux OS administration
+Software-Defined Networking (SDN)
+Monitoring & visualization (Grafana, Prometheus)
+Have deep understanding of:
+InfiniBand architecture, RoCE, low-latency/high-throughput networking for AI/HPC
+ITIL processes (incident, problem, change)
+Industrial AI Factory Cloud platform stack and its dependencies
+NVIDIA GPU-accelerated server platforms
+Data engineering, transformation & migration tools
+Kubernetes or similar container-based technologies
+Are familiar with NOC/SOC operations and on-call rotation models
+Other skills:
+Good communication skills, analytical thinking, team cooperation, presentation skills, negotiation skills
+English- Advanced (C1), German is an advantage
+Project Management- Basic
+Leadership skills- Basic
+Quality management- Intermediate
+Financial literacy- Intermediate
+Possible specialization
+Participation on on-call duties , independent solving and troubleshooting of incidents and errors within defined expertise.
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 1 850 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lívia Tomečková
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203823
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Remote work
+Pozícia:
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+1 850 EUR/month

@@ -1,0 +1,101 @@
+O NÁS
+VOĽNÉ POZÍCIE
+BENEFITY
+Bezpečnostný špecialista - DevSecOps
+Miesto práce
+Bratislava
+Mzdové podmienky (brutto)
+Od 2 200 EUR/mesiac
+Finálne mzdové ohodnotenie bude závisieť od praxe a skúseností vybraného kandidáta, pričom bude v súlade so zákonom č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme.
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+asap
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+zabezpečenie bezpečnostných aspektov v rámci DevOps procesov - tzv. "shift-left" prístup, dôraz na bezpečnosť už vo fáze návrhu a vývoja
+identifikácia a mitigácia bezpečnostných rizík počas vývoja, testovania, nasadzovania a prevádzky softvérových komponentov
+integrácia bezpečnostných nástrojov do CI/CD pipeline (SAST, DAST, SCA, Container Scanning, Dependency Scanning)
+správa a prevádzka bezpečnostných nástrojov ako IriusRisk CE, OpenSCAP, GitLab Secure, Armosec, Fluentbit, rsyslog, QRadar
+podpora bezpečného nasadzovania v Kubernetes (OpenShift) prostredí a zabezpečenie kontajnerovej orchestrácie
+spolupráca na návrhu a implementácii bezpečnostných kontrol v rámci ArgoCD, ArgoWorkflow a Ansible playbookov
+participácia na bezpečnostných hodnoteniach (napr. threat modeling), automatizovanom patch managemente (Linux/Windows)
+vyhodnocovanie a eskalácia bezpečnostných incidentov, návrh nápravných opatrení a ich implementácia
+príprava a aktualizácia bezpečnostných politík a štandardov v súlade s reguláciami (napr. ISO/IEC 27001, GDPR, NIST)
+podpora compliance, auditov a bezpečnostného reportingu pomocou nástrojov ako Prometheus, Dynatrace, Veeam Kasten K10
+súčinnosť pri monitorovaní bezpečnostného stavu prostredníctvom SIEM (QRadar) a forenznej analýze incidentov
+Zamestnanecké výhody, benefity
+skrátený týždenný pracovný čas – 37,5 hodín
+flexibilný pracovný čas
+nárok na 5 dní dovolenky nad rámec zákona
+dodatočné dni voľna nad rámec zákona (rodinné udalosti, dobrovoľnícke aktivity)
+príspevok zamestnávateľa na DDS
+karta MultiSport
+príspevok na stravovanie nad rámec zákona
+priestor na sebarealizáciu, odborný aj kariérny rast
+Informácie o výberovom konaní
+Vopred ďakujeme všetkým uchádzačom za prejavený záujem. Kontaktovať ohľadom osobného pohovoru budeme len tých kandidátov, ktorí spĺňajú požadované kritériá. Ďakujeme za porozumenie.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT, informačná bezpečnosť, kybernetika
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+Skúsenosti v oblasti IT.
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+zodpovednosť
+samostatnosť
+analytické myslenie
+dôslednosť
+orientácia na detail
+skúsenosti a zručnosti:
+DevSecOps stack: GitLab CI/CD, Harbor, OpenSCAP, Armosec, ArgoCD, ArgoWorkflow, Ansible
+Bezpečnostné analýzy a automatizácia: IriusRisk, SAST/DAST/SCA nástroje, Secure Code Review, Secret Scanning
+Kontajnerová bezpečnosť: OpenShift, Kubernetes, Docker image scanning, zabezpečenie runtime prostredia
+Monitoring a SIEM: Prometheus, Fluentbit, QRadar, rsyslog, Dynatrace
+Skriptovanie a automatizácia: znalosť Bash, Python, YAML (Ansible playbooky)
+Znalosť bezpečnostných štandardov: OWASP Top 10, NIST SP 800-53, CIS Benchmarks, ISO/IEC 27001
+Základy sieťovej bezpečnosti, konfigurácie firewallov, patch management (Linux/Windows)
+výhodou:
+certifikácie - CompTIA Security+,  GIAC DevSecOps, GIAC Cloud Security Automation (GCSA), Certified Kubernetes Security Specialist (CKS), ISO/IEC 27001 Lead Implementer alebo Auditor, HashiCorp Cestified: Terraform Associate
+skúsenosti: zabezpečenie pipelines vo väčších organizáciách, Kubernetes admission controllers, OPA/Gatekeeper, Kyverno, Cloud prostredia (napr. AWS, Azure) a ich bezpečnostné mechanizmy
+Ak sa vám ponúkaná práca páči, pošlite nám svoj
+životopis
+!
+Kontaktovať budeme len vybraných uchádzačov.
+Kontakt
+Kontaktná osoba: Ing.  Stanislava Čemeričková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5123814
+Dátum zverejnenia:
+3.11.2025
+2025-11-03
+lokalita:
+Bratislava
+Pozícia:
+IT manager
+,
+IT/Technical Support Specialist
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+Národné centrum zdravotníckych informácií
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

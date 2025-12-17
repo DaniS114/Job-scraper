@@ -1,0 +1,96 @@
+SAP S4 IT Solutions - FI AR Consultant
+Kyndryl Services Slovensko, spol. s r.o.
+Place of work
+Krasovského 14, Petržalka, Slovakia, Bratislava (Job with occasional home office)
+Contract type
+full-time
+Start date
+asap
+Wage (gross)
+From 3 330 EUR/month
+The final salary offer reflects the set of skills and experience that selected candidates bring to the team.
+Information about the position
+Job description, responsibilities and duties
+Are you ready to join the team of software engineering experts at Kyndryl? We are seeking a talented Software Engineering Technical Specialist to contribute to our software engineering space and provide critical skills required for the development of cutting-edge products.
+As a Software Engineering Technical Specialist, you will develop solutions in specific domains such as Security, Systems, Databases, Networking Solutions, and more. You will be a leader – contributing knowledge, guidance, technical expertise, and team leadership skills. Your leadership will be demonstrated in your work, to your customers, and within your teams.
+Responsibilities
+Configure and maintain SAP FI-AR module, including customer master data, billing, payments, and dunning.
+Gather business requirements and translate them into functional specifications.
+Implement end-to-end AR solutions in SAP ECC or S/4HANA.
+Perform testing, troubleshooting, and support for AR-related issues.
+Support integration with related modules (SD, FSCM, CO).
+Assist in SIT, UAT, and production support.
+Provide user training and create documentation.
+Work with cross-functional teams on continuous improvement initiatives.
+At Kyndryl, we value effective communication and collaboration skills. When you recognise opportunities for business change, you will have the ability to clearly and persuasively communicate complex technical and business concepts to both customers and team members. You’ll be the go-to person for problem-solving of customers’ business and technical issues. You have a knack for effectively identifying and framing problems, leading the collection of elements of information, and integrating this information to produce timely and thoughtful decisions. Your aim throughout, is to improve the effectiveness, efficiency and delivery of services through the use of technology and technical methods and methodologies.​
+The salary range for this opportunity starts at 3 330 EUR gross per month. The final salary offer reflects the set of skills and experience that selected candidates bring to the team.
+Driving the design, development, integration, delivery, and evolution of highly scalable distributed software you will integrate with other layers and offerings. You will provide deeper functionality and solutions to address customer needs. You will work closely with software engineers, architects, product managers, and partner teams to get high-quality products and features through the agile software development lifecycle.
+Your continuous grooming of features/user stories to estimate, identify technical risks/dependencies and clearly communicate them to project stakeholders will ensure the features are delivered with the right quality and within timeline. You will maintain and drive the clearing of technical debt, vulnerabilities, and currency of the 3rd party components within the product.
+As a Software Engineering Technical Specialist, you will also coach and mentor engineers to design and implement highly available, secure, distributed software in a scalable architecture. This is an opportunity to make a real impact and contribute to the success of Kyndryl's innovative software products. Join us and become a key player in our team of software engineering experts!
+Your Future at Kyndryl
+Every position at Kyndryl offers a way forward to grow your career. We have opportunities that you won’t find anywhere else, including hands-on experience, learning opportunities, and the chance to certify in all four major platforms. Whether you want to broaden your knowledge base or narrow your scope and specialize in a specific sector, you can find your opportunity here.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+Computer Science, IT
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Required Qualifications
+Bachelor’s Degree in Finance, Accounting, Business Administration, Information Systems, or a related field. a Master's degree (e.g. MBA or MSc in Finance/IT) is an advantage.
+2–5+ years of hands-on experience working with the SAP FI (Financial Accounting) module, with a strong focus on Accounts Receivable (AR) processes.
+Proven experience with SAP AR configuration including:
+Customer master data setup and maintenance
+Definition of payment terms, payment methods, and tolerance groups
+Configuration of dunning procedures and correspondence settings
+Incoming payments (manual and automatic), clearing rules
+Lockbox or bank statement (MT940/BAI) processing
+Strong understanding of end-to-end AR business processes such as:
+Customer invoicing and billing
+Collections and dispute handling
+Credit management processes
+Month-end AR closing activities
+Experience working withSAP ECCand/orSAP S/4HANAenvironments.
+Basic knowledge of integration points between SAP FI-AR and related modules like Sales and Distribution (SD),Controlling (CO), or FSCM (Financial Supply Chain Management).
+Ability togather business requirements, preparefunctional specifications, and communicate effectively with both technical teams and business teams.
+Familiarity with SAP reporting tools such as AR Aging reports and reconciliation tools
+Strong analytical and problem-solving skills with attention to detail.
+Ability to work both independently and in acollaborative team environment.
+Excellent communication skillsin English (verbal and written) and other EU language is a plus.
+Preferred Qualifications
+SAP FI or S/4HANA Finance certification.
+Exposure to FSCM Collections/Dispute Management.
+Basic ABAP debugging and Fiori experience.
+Advertiser
+Brief description of the company
+Kyndryl is a market leader that thinks and acts like a start-up. We design, build, manage, and modernize the mission-critical technology systems that the world depends on every day. So why work at Kyndryl? We are always moving forward – always pushing ourselves to go further in our efforts to build a more equitable, inclusive world for our employees, our customers, and our communities.
+With state-of-the-art resources and Fortune 100 clients, every day is an opportunity to innovate, build new capabilities, new relationships, new processes, and new value. Our employee learning hub gives you access to the best learning in the industry to receive certifications and accreditations, including Microsoft University, AWS Cloud Center of Excellence, Udemy, and the Harvard Business Review.
+Through our company-wide volunteering and giving platform, you can donate, start fundraisers, volunteer, and search over 2 million non-profit organizations.  At Kyndryl, we invest heavily in you! We want you to succeed so that together, we will all succeed.
+Number of employees
+1000 and more employees
+Contact
+Contact person: Mgr.  Zuzana Ternovszky
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5163608
+Dátum zverejnenia:
+3.11.2025
+2025-11-03
+lokalita:
+Bratislava
+Pozícia:
+IT Consultant
+Spoločnosť:
+Kyndryl Services Slovensko, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 330 EUR/month

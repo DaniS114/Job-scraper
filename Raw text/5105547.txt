@@ -1,0 +1,85 @@
+About us
+Our benefits
+Open positions
+AI Engineer 80%100%
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 400 - 4 100 EUR/month
+For Slovakia the base salary range for this position is between [EUR 2,400] and [EUR 4,100] per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+We are the largest data science team of Swiss Re and are looking for an enthusiastic AI Engineer who is passionate about applying cutting-edge AI techniques to real-world challenges. We create global AI-driven products made in Bratislava. While we value a strong foundation in machine learning, we also emphasize robust engineering practices, scalable infrastructure, and deploying AI solutions into production.
+If you join us, you will be able to participate in a variety of interesting initiatives. For example, you will:
+•	Design and deploy AI solutions to extract insights from complex legal documents using Generative AI,
+•	Build and operationalize machine learning models to estimate life expectancy,
+•	Develop AI tools to assess climate risks,
+•	Contribute to a wide range of projects in close collaboration with Swiss Re's global network of offices.
+We are a highly skilled and diverse team in Bratislava that solves analytics projects around the globe. Our passion to learn is what connects us. We love to learn new skills and will support you to do the same! We reserve time for studying and organize our own upskilling sessions as well.
+By joining us, you will have the opportunity to develop your skills in the technologies that power modern data science products - especially in cloud computing and distributed systems - while applying machine learning to solve complex, real-world problems. This role offers a unique chance to learn, grow, and contribute within a collaborative, high-impact environment.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Nobody is perfect and meets 100% of requirements. If you, however, meet some of the criteria below, we will be happy to meet you.
+In order to be successful in the role, you need to have these technical skills and knowledge:
+•	Degree in Computer Science, Applied Mathematics, Software Engineering, or a related quantitative field
+•	Proficiency in Python (or similar languages) and familiarity with modern AI/ML frameworks
+•	Solid understanding of machine learning, deep learning, and MLOps practices
+If you also have the following experience and interests, it is a huge plus:
+•	Experience deploying AI systems in production environments, including model monitoring and maintenance
+•	Experience working with large-scale data pipelines and distributed computing
+•	Experience in Generative AI and/or Natural Language Processing
+•	Interest in AI ethics, explainability, and secure model deployment
+If you don't have some of those but are eager to learn them, get in contact with us.
+Thank you for taking the time to read our job advertisement. We look forward to getting to know you!
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Lucia Vargova
+Apply here
+ID:
+5105547
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Bratislava
+Pozícia:
+Programmer
+,
+Python Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 400 EUR/month

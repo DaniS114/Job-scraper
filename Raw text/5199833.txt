@@ -1,0 +1,101 @@
+Senior HW Design Engineer
+Novo s.r.o.
+Miesto práce
+Bučany, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+1.1.2026
+Mzdové podmienky (brutto)
+2 000 - 4 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Tvorba a úprava elektrických schém riadiacich jednotiek, napájacích modulov, senzorických a komunikačných modulov pre mobilné roboty.
+Voľba vhodnej topológie zapojenia podľa funkčných a bezpečnostných požiadaviek.
+Návrh PCB layoutu
+Výber a správa elektronických komponentov
+Spolupráca s mechanickou a softvérovou časťou tímu
+Príprava podkladov pre výrobu a montáž
+Testovanie a uvádzanie prototypov do prevádzky
+Dodržiavanie noriem a bezpečnostných požiadaviek
+Podpora sériovej výroby a servisu
+Rozmiestnenie súčiastok na doske so zohľadnením mechanických obmedzení robota (rozmery, montážne body, konektory, káblové zväzky).
+Vedenie spojov s dôrazom na EMC/EMI, signálovú integritu, výkonové a vysokoprúdové vetvy.
+Výber vhodných súčiastok (MCU, napájacie meniče, senzory, komunikačné obvody, konektory, ochranné prvky) s ohľadom na dostupnosť, cenu a spoľahlivosť.
+Práca s knižnicami súčiastok (schematické značky, footprinty), ich tvorba a údržba.
+Úzka koordinácia s konštruktérmi mechaniky pri umiestňovaní dosiek a konektorov v robote.
+Spolupráca so SW vývojármi pri definovaní pinoutu, napájacích vetiev, rozhraní a diagnostiky.
+Zohľadnenie požiadaviek na servisovateľnosť, modularitu a budúce rozšírenia
+Generovanie výrobných dát (Gerber, Excellon, pick-and-place, BOM) a výrobných výkresov.
+Komunikácia s dodávateľmi PCB a osadenia (DFM/DFT pripomienky, technologické obmedzenia).
+Optimalizácia návrhu z pohľadu nákladov na výrobu a montáž.
+Spolupráca pri oživovaní prototypov (bring-up), meranie základných parametrov (napájania, signálové úrovne, teploty).
+Diagnostika a odstraňovanie chýb v zapojení či layoute, návrh úprav.
+Návrh testovacích prípravkov, konektorov a test pointov pre sériovú výrobu.
+Zohľadnenie platných noriem (EMC, bezpečnosť, elektrická odolnosť) v návrhu.
+Zamestnanecké výhody, benefity
+Práca na unikátnych projektoch v oblasti robotiky a AI
+Flexibilný pracovný čas a možnosť home office
+Mladý, dynamický kolektív bez zbytočnej byrokracie
+Priestor pre vlastné nápady a inovácie
+Príležitosť podieľať sa na vývoji najmodernejších technológií
+Kontinuálny profesionálný rast
+Konkurencieschopné finančné ohodnotenie
+Moderné pracovné prostredie
+Informácie o výberovom konaní
+Tešíme sa na stretnutie s kandidátmi, ktorí zdieľajú našu vášeň pre inovácie a excelenciu v robotike.
+Predpokladaný termín ukončenia výberového konania
+30.12.2025
+(ostáva ešte 13 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Robotika, Elektrotechnika, Kybernetika, Špeciálne stroje
+Prax na pozícii/v oblasti
+2
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Praktické skúsenosti s vývojom riešení v robotike (výhodou)
+Analytické myslenie a inovatívny prístup pri riešení problémov
+Proaktívny prístup a ochota učiť sa nové veci
+Vysoké pracovné nasadenie
+Nadšenie pre robotiku
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Novo je slovenská výskumno-vývojová spoločnosť, ktorá pôsobí v Piešťanoch a Trnave (Bučany).
+V Trnave sa zameriavame na výskum, vývoj a výrobu mobilných robotov. Ako OEM výrobca predávame naše produkty prostredníctvom distribútorov. Viac informácií o našich mobilných robotoch  nájdete na www.mrazrobotics.com. Viac informácií o medicínskych prístrojoch nájdete na www.novomedical.sk.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Peter Novak, MBA
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199833
+Dátum zverejnenia:
+1.12.2025
+2025-12-01
+lokalita:
+Bučany
+Pozícia:
+Elektrotechnický inžinier
+,
+Konštruktér
+,
+Konštruktér integrovaných obvodov
+,
+Softvérový inžinier
+Spoločnosť:
+Novo s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

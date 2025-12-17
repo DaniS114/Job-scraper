@@ -1,0 +1,124 @@
+Systémový administrátor
+L4 IT Systems GmbH, organizačná zložka Slovensko
+Miesto práce
+City Business Center, Karadžičova, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+1.1.2026
+Mzdové podmienky (brutto)
+1 800 EUR/mesiac
+od 1800 € brutto v závislosti od skúseností kandidáta
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+• Administrácia a správa Linux serverov (RHEL, Debian), vrátane ich konfigurácie, aktualizácií a optimalizácie prevádzky.
+• Správa a údržba virtualizačnej platformy
+Proxmox VE
+vrátane nasadzovania VM, kontajnerov a klastrových riešení.
+• Konfigurácia, údržba a monitorovanie databázových systémov
+PostgreSQL
+a
+Patroni
+(high availability).
+• Prevádzka a rozvoj monitorovacích nástrojov
+Zabbix
+a
+Prometheus
+, tvorba metrík a alertovacích pravidiel.
+• Kontajnerizácia aplikácií a nasadzovanie riešení pomocou
+Docker
+.
+• Spolupráca s internými tímami pri riešení incidentov, problémov a požiadaviek súvisiacich s infraštruktúrou.
+• Zodpovednosť za správu používateľských účtov, prístupov a konfiguráciu koncových zariadení v prostredí
+Microsoft 365 a Intune
+.
+• Podpora pri návrhu, implementácii a testovaní systémových riešení, optimalizácia existujúcej infraštruktúry.
+• Dokumentácia konfigurácií, postupov, zmien a vytváranie podkladov pre interné tímy aj externých partnerov.
+• Spoluúčasť na riešení sieťových úloh – základná konfigurácia a správa
+TCP/IP, VLAN
+a sieťových prvkov.
+Zamestnanecké výhody, benefity
+• Práca s modernými technológiami v oblasti Linux infraštruktúry, virtualizácie, databáz a monitoringu.
+• Možnosť odborného rastu smerom k senior systémovej administrácii, DevOps, cloudovým riešeniam alebo špecializovaným technologickým rolám.
+• Prístup k technickým školeniam, kurzom a certifikáciám (Linux, PostgreSQL, cloud, monitoring, bezpečnosť).
+• Flexibilný pracovný čas a možnosť čiastočnej práce z domu podľa charakteru úloh.
+• Stabilné finančné ohodnotenie s možnosťou rastu podľa skúseností a výkonnosti.
+• Podpora zo strany skúsených administrátorov, priestor pre učenie, mentoring a technologický rozvoj.
+• Účasť na zaujímavých interných aj zákazníckych projektoch v oblasti IT infraštruktúry.
+• Príjemné a profesionálne pracovné prostredie, otvorená komunikácia a tímová spolupráca.
+Predpokladaný termín ukončenia výberového konania
+1.1.2026
+(ostáva ešte 38 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Stredoškolské alebo vysokoškolské vzdelanie v oblasti informačných technológií
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+Minimálne 5 rokov praxe v oblasti IT
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+• Pokročilá znalosť Linux systémov (ideálne RHEL, Debian) a orientácia v serverových technológiách.
+• Znalosť virtualizácie
+Proxmox VE
+, databáz
+PostgreSQL
+, replikácie
+Patroni
+, monitoringu
+Zabbix
+a
+Prometheus
+, ako aj kontajnerizácie pomocou
+Docker
+.
+• Základy sieťových technológií (TCP/IP, VLANs) a schopnosť orientovať sa vo Windows prostredí.
+• Skúsenosť so správou používateľských účtov a zariadení (Microsoft 365, Intune).
+• Znalosť skriptovania v
+Bash
+je výhodou.
+• Silná orientácia na riešenie problémov, schopnosť pracovať samostatne aj v tíme.
+• Proaktívny prístup, ochota učiť sa nové technológie a sledovať trendy v IT.
+• Dobré komunikačné schopnosti v internom aj zákazníckom prostredí.
+• Presnosť, systematickosť a zodpovednosť pri dokumentácii, konfiguráciách a práci so systémami.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+In 2021, L4 IT Systems was established with the goal of introducing innovative ideas into the IT sector. At the start of 2022 we have teamed with Tahaluf al Emarat Technical Solutions as their official partner for Europe. Tahaluf is a prominent IT company in the GCC region, with annual sales above $250,000,000. Notable clients include governments and the largest corporations in the area.
+L4 increased considerably since 2021. We have a presence in the DACH regions of Europe, New office with 360° views of Bratislava close to the city center and innovation center that houses our portfolio showroom, and a Slovak branch.
+With the increasing presence on the EU market we have established cooperation with major players in the IT and communication industry. We are a proud partner of IBM, Bosch Security, Frequentis, Photoneo, Arvoo, Dormakaba and Muehlbauer.
+These days, our clientele is global in scope, not just limited to Europe. In addition to IT SW and HW, we also offer customized ID card and biometric documents printing, cyber and physical security solutions, smart traffic and parking solutions,  customized IoT solutions and critical communication (radio, mobile and data).
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Karol Achberger
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195620
+Dátum zverejnenia:
+21.11.2025
+2025-11-21
+lokalita:
+Bratislava
+Pozícia:
+Správca informačného systému
+,
+Systémový administrátor
+Spoločnosť:
+L4 IT Systems GmbH, organizačná zložka Slovensko
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

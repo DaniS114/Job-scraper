@@ -1,0 +1,126 @@
+CGI Slovensko
+Tvoríme digitálnu budúcnosť
+Sme popredná globálna firma v oblasti IT konzultácií.
+Medior/Senior Java Developer
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 500 - 4 000 EUR/mesiac
+The base salary starts from 2500 to 4000 EUR/m. (gross). Final salary could be higher - it depends on skills and expertise of candidates.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+For the needs of our current projects, we welcome a new colleague to join our team of Java developers. For this position, we are looking for someone with ideally 3 years of experience in Java programming.
+Responsibilities
+Contribute significantly to implementing and documenting technical solutions within a delivery team that includes scrum masters, product owners, architects, and other engineers (developers, test engineers, and technical delivery engineers).
+Develop full-stack applications powering the terminal onboarding process using Java and Spring Boot.
+Design and implement integrations via RESTful APIs and messaging systems for smooth communication between distributed platforms.
+Support architectural direction and participate in solution specification, development, implementation, and delivery of new and existing applications or services.
+Improve CI/CD pipelines through automation and best DevOps practices, ensuring efficient continuous integration, delivery, and deployment.
+Ensure code quality and security, adhering to standards and OWASP principles.
+Execute the full suite of development tasks in a modern delivery pipeline, including unit, component, system integration, and regression testing.
+Create monitoring and logging solutions for state-of-the-art observability in production environments.
+Participate in Agile ceremonies, code reviews, and technical discussions to foster collaboration and continuous improvement.
+Stay current with emerging technologies, frameworks, tools, and programming languages.
+Support solutions in production under a build-it-own-it model.
+Zamestnanecké výhody, benefity
+What do we offer?
+• Friendly working atmosphere and a stable background of one of the largest IT companies in the world
+• Support of your professional growth
+• Certified learning programs
+• Profit Participation Plan - participation in the company’s profit
+• Share purchase Plan – the possibility of purchasing employee shares
+• 25 days of leave for regeneration for everyone
+• 3 sick-days for recovery
+• 30 days of fully paid sick leave
+• Benefit Plus Program for leisure activities
+• Referral bonus for referring a new colleague
+• Multisport card for sports and wellness facilities
+• The possibility of obtaining an interest-free loan
+• Language training
+• Vaccination against influenza and tick-borne encephalitis
+• Possibility of participation in various sports events
+• Member Assistance Program - possibility of using the advisory services of psychological and legal experts for health, work, or other serious life events
+• And many more…
+Join us and find out!
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Java - Pokročilý
+Spring Boot - Mierne pokročilý
+Oracle SQL Developer - Pokročilý
+Hibernate - Pokročilý
+JUnit - Mierne pokročilý
+Mockito - Mierne pokročilý
+Linux - Mierne pokročilý
+Bash Scripting - Mierne pokročilý
+Docker - Mierne pokročilý
+Kubernetes - Mierne pokročilý
+Spring MVC - Základy
+Java Message Service (JMS) - Mierne pokročilý
+ActiveMQ Artemis - Mierne pokročilý
+Restful API - Mierne pokročilý
+OpenAPI - Mierne pokročilý
+Vodičský preukaz
+E
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Must:
+Minimum 3 years of experience in designing, developing, and implementing Java-based applications in an Agile environment; full-stack development experience preferred.
+Proficient in Java (11 or higher) with practical experience using Git and Maven/Gradle.
+Hands-on experience with Spring Boot, Spring Data, and Spring Web MVC.
+Proven ability working with RESTful APIs and OpenAPI.
+Strong skills in SQL; familiarity with Oracle DB and Hibernate.
+Experience with JMS and ActiveMQ Artemis.
+Practical knowledge of JUnit and Mockito.
+Experience with Linux, Shell/Bash scripting, Docker, and Kubernetes.
+Solid understanding of microservice architectures.
+Experience working in AWS environments.
+Knowledge of modern database technologies (relational and non-relational).
+Good understanding of security principles (OWASP Top 10).
+Experienced with runtime, build, and deployment technologies as well as tools such as Eclipse, IntelliJ, GitLab, JIRA, and Confluence.
+Strong communication and coordination skills (collaborating with product owners, stakeholders, and technical representatives).
+Highly organized and competent in problem-solving and finding solutions.
+Nice to have:
+Exposure to Spring Integration, Spring Authorization Server, Spring Batch, Spring Cloud Kubernetes, Spring Cloud Config, or Spring Cloud Netflix.
+Familiarity with Liquibase and Kafka.
+Understanding of tools like Keycloak, Fortify, WIZ.io, WebInspect, or Sonatype Lifecycle.
+Experience with Helm, ArgoCD, Splunk, Dynatrace, Jenkins, Nexus, or Harbor.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+CGI je popredná spoločnosť poskytujúca poradenské a technologické služby zamerané na pomoc klientom pri dosahovaní úspechu v ich podnikaní. Od založenia v roku 1976 zdieľame s našimi zákazníkmi ich problémy a poskytujeme kvalitné služby k ich riešeniu. 90 000 odborníkov v 40 krajinách sveta znamená pre našich klientov blízkosť, odbornosť a kompletné IT služby, ktoré naplnia ich obchodné potreby kdekoľvek a kedykoľvek. Ponúkame tak prístup a zodpovednosť lokálneho partnera, ako aj služby a schopnosti potrebné pre splnenie rozvíjajúcich sa potrieb v globálnom meradle. Naše pobočky v strednej a východnej Európe sa nachádzajú v Českej republike, Slovensku a Maďarsku. Zároveň pracujeme na projektoch významných organizácií v iných štátoch, ako je Bulharsko, Chorvátsko, Macedónsko, Čierna Hora, Rumunsko a Srbsko.
+Počet zamestnancov
+150-199 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Barbora Mohrová
+Tel.:
++421911825744
+E-mail:
+poslať životopis
+Follow CGI
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5197985
+Dátum zverejnenia:
+26.11.2025
+2025-11-26
+lokalita:
+Bratislava
+Pozícia:
+Programátor
+Spoločnosť:
+CGI Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

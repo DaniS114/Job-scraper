@@ -1,0 +1,93 @@
+Sr. PHP Developer
+Servers.com
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Wage (gross)
+2 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Modern Tribe is a specialized team within Liquid Web. While most of our organization is product and service focused, Modern Tribe operates in an agency model, delivering client-facing solutions through project-based work.
+We develop custom solutions for some of the world's largest companies, government institutions and smaller growing organizations. We pride ourselves on our ability to bridge people and technology and to bring the passion and dedication of an entrepreneur to every project.
+Being part of Liquid Web means you’ll enjoy the stability, resources, and career growth opportunities of a unified global tech company, while working day-to-day in a creative, fast-moving agency environment.
+You will be helping to build and inspire an awesome dev team working on innovative and large scale Laravel and WordPress installations. We are looking for a backend developer that is already actively working in PHP on a day-to-day basis. We want you to be as excited and as passionate as we are about what we are creating with PHP.
+What You’ll Do:
+Collaborate with the project strategist to articulate the best technological solution for the problem at hand
+Analyze user story acceptance criteria to ensure technical feasibility and point out potential issues
+Lead a team of developers to make sure we can deliver on time, on budget and on scope
+Architect and develop new features, custom functionality and frontend integration
+Write high quality code with readability, efficiency and maintainability in mind
+Develop and maintain complex Laravel and WordPress based applications
+Implement complex features using modern PHP code and patterns while following standards
+Implement unit testing for key portions of each application
+Code review the work of other developers
+Improve our internal tools, libraries and standards
+Actively participate in our scrum meetings
+Work with the team to diagnose and resolve backend bugs and support requests
+Mentor junior developers
+What You Bring:
+Agency experience - ability to thrive in a fast-paced, client-facing environment with billable project work is almost essential for success in this role.
+5+ years of experience as a backend PHP developer on production sites.
+2+ years of experience leading technical direction, mentoring developers, and guiding team practices.
+Extensive hands-on experience implementing complex WordPress websites and Laravel applications.
+Strong command of modern PHP practices, such as autoloading, dependency management, dependency injection, templating libraries, automated testing, and OOP (including frameworks like Symfony or Laravel).
+Solid understanding of secure, performant coding practices and a comprehensive knowledge of MySQL.
+Experience with at least one automated testing framework.
+Excellent understanding of the software development life cycle and best practices.
+Strong communication skills with the ability to explain technical concepts clearly to both technical and non-technical audiences.
+Proven ability to work effectively in a distributed/remote team environment with minimal supervision.
+Fluent in English, both written and spoken.
+Highly organized, detail-oriented, and self-motivated with a methodical approach to problem-solving.
+Preferred Qualifications:
+Experience with continuous integration and automated deployment pipelines
+Experience with JS application frameworks
+Experience with server technologies like Redis or ElasticSearch
+Experience with Python
+Remote work experience
+We Offer:
+A collaborative team culture
+Consistent/set work hours
+Challenging non-redundant daily duties
+A voice in how things get done
+Access to ongoing training
+Disclaimer:
+This job description is only a summary of the typical functions of the position. It is not intended to be an exhaustive or comprehensive list of all job responsibilities, tasks, or duties. Additional duties and tasks may be assigned as part of the job function. Liquid Web Inc. reserves the right to modify, interpret, or apply this job description in a way that best supports the organizational needs. The job description in no way creates or implies an employment contract. The employment contract remains “at will”.
+Equal Employment Opportunity Policy: Liquid Web is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Advertiser
+Brief description of the company
+Servers.com is a global IaaS hosting platform. It offers a full suite of computing, storage, and networking services with a focus on single-tenant infrastructure solutions.
+Number of employees
+250-499 employees
+Contact
+Contact person: Bahdan Serdziuk
+Tel.:
++421950382535
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203888
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Remote work
+Pozícia:
+Software Engineer
+Spoločnosť:
+Servers.com
+Základná zložka mzdy (brutto):
+2 000 EUR/month

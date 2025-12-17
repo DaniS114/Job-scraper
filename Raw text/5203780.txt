@@ -1,0 +1,102 @@
+Remote SAP UI/Frontend Developer (Platforma Simplifier & UI5)
+radixal s.r.o.
+Místo práce
+Práce z domu
+Druh pracovního poměru
+plný úvazek, živnost
+Termín nástupu
+ASAP
+Mzdové podmínky (brutto)
+80 000 - 140 000 Kč/měsíc
+Informace o pracovním místě
+Náplň práce, pravomoci a zodpovědnosti
+Hledáme technologického nadšence, který vnímá Low-Code ne jako omezení, ale jako akcelerátor digitální transformace. Připojte se k mezinárodnímu týmu na 100% remote projektu a podílejte se na modernizaci klíčových servisních procesů pro významného německého klienta. Vaším úkolem bude překlenout propast mezi robustním SAP backendem a moderním, uživatelsky přívětivým frontendem pomocí platformy Simplifier.
+Tato role není o "prostém klikání". Hledáme architekta UI řešení, který rozumí tomu, co se děje pod kapotou.
+Vývoj moderních aplikací:
+Využití Low-Code platformy
+Simplifier
+pro rapidní vývoj UI, v kombinaci s psaním vlastního
+JavaScript
+kódu pro komplexní byznys logiku.
+Integrace a Data Binding:
+Napojování UI komponent na SAP S/4HANA backend prostřednictvím OData služeb a REST API. Budete řešit datové modely a jejich transformaci pro frontend.
+Design a UX:
+Aplikace principů
+SAP Fiori
+pro zajištění konzistentního a intuitivního uživatelského zážitku.
+DevOps a Nasazení:
+Správa životního cyklu aplikací, verzování a jejich deployment do prostředí SAP Fiori Launchpad (BSP aplikace).
+IoT Přesah:
+Možnost práce s integrací IoT dat (MQTT protokoly) v rámci servisních scénářů.
+Co od vás očekáváme (Must-Have):
+Zkušenost s
+SAPUI5 / OpenUI5
+a principy Fiori designu (nebo silná znalost moderního JS frameworku jako React/Vue s ochotou se rychle adaptovat na SAP svět).
+Prokazatelná praxe s
+JavaScriptem a JSON
+(manipulace s daty, asynchronní volání, logické operace na straně klienta).
+Schopnost algoritmického myšlení – ať už píšete kód nebo navrhujete vizuální workflow.
+Povědomí o
+Low-Code platformách
+(zkušenost přímo se Simplifier je obrovskou výhodou, ale jsme otevřeni expertům na Neptune, Mendix nebo OutSystems).
+Komunikativní angličtina pro denní spolupráci v mezinárodním týmu.
+Co nabízíme:
+100% Remote:
+Pracujte odkudkoliv, projekt je řízený na dálku.
+Technologická špička:
+Práce s konceptem "Clean Core" a moderními integračními vzory, které definují budoucnost SAP vývoje.
+Stabilita a Růst:
+Dlouhodobá spolupráce na projektu, který má strategický význam pro digitální transformaci klienta.
+Férové podmínky:
+Transparentní spolupráce s motivujícím ohodnocením odpovídajícím senioritě a náročnosti role
+Požadavky na zaměstnance
+Pozici vyhovují uchazeči se vzděláním
+vysokoškolské I. stupně
+vysokoškolské II. stupně
+postgraduální
+Inzerující společnost
+Stručná charakteristika společnosti
+radixal: Tvořte budoucnost s námi.
+Chcete pracovat na projektech, které skutečně mění svět?
+Radixal je dynamická softwarová společnost, která stojí za inovativními řešeními pro přední české a mezinárodní společnosti jako Srovnejto, ePojištění, DHL, RegioJet, Raiffeisenbank, Globus, Schneider Electric, Global Payments, VEIT Electronics, skupina Agel, SpaceMetric, Schlieger a další. Vyvíjíme špičkové webové aplikace a podílíme se na vývoji futuristických technologií jako jsou samořiditelné vlaky.
+Proč radixal?
+Dopad na svět: Vaše práce bude mít skutečný dopad na životy lidí a fungování významných společností.
+Inovace: Budete pracovat na špičkových technologiích a podílet se na vytváření nových řešení.
+Svoboda a zodpovědnost: U nás máte volnost při práci, ale zároveň nesete zodpovědnost za své úkoly.
+Odborný růst: Nabízíme vám možnost neustále se učit a rozvíjet své dovednosti.
+Přátelské prostředí: Stanete se součástí našeho přátelského týmu, kde se podporujeme navzájem.
+Flexibilita: Pracujeme převážně remote, což vám umožní skloubit práci s osobním životem.
+Co nás odlišuje:
+Ověřená kvalita: Naše práce mluví sama za sebe. Jsme zařazeni mezi 50 nejrychleji rostoucích technologických společností v ČR podle žebříčku Deloitte FAST 50 za rok 2024.
+Zkušenosti s velkými projekty: Máme bohaté zkušenosti s realizací komplexních projektů pro významné klienty jako Swisslife, Wustenrot, Strabag nebo EON.
+Zaměření na člověka: Věříme v sílu týmu a podporujeme osobní rozvoj každého zaměstnance.
+Hledáme:
+Talentované vývojáře: Pokud jste vášniví pro programování a chcete se podílet na tvorbě něčeho opravdu velkého, jsme tu pro vás.
+Kreativní myslitele: Pokud máte rádi výzvy a hledáte nové řešení, rádi vás uvidíme.
+Týmové hráče: Pokud umíte spolupracovat a sdílet znalosti, skvěle se k nám hodíte.
+Pokud hledáte smysluplnou práci, kde můžete uplatnit svůj potenciál a stát se součástí úspěšného týmu, neváhejte nás kontaktovat.
+Počet zaměstnanců
+50-99 zaměstnanců
+Kontakt
+Kontaktní osoba: Monika Berkyová
+E-mail:
+poslat životopis
+Odpovědět na nabídku
+Doporučit nabídku známému
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203780
+Dátum zverejnenia:
+9.12.2025
+2025-12-09
+lokalita:
+Práce z domu
+Pozícia:
+Programátor
+Spoločnosť:
+radixal s.r.o.
+Základná zložka mzdy (brutto):
+80 000 Kč/měsíc

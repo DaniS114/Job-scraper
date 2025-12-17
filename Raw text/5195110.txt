@@ -1,0 +1,86 @@
+IT Biznis Analytik
+ITAPS s. r. o.
+Miesto práce
+Svätoplukova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Mzdové podmienky (brutto)
+25 EUR/hod.
+Finálna mzda je závislá od doterajších skúseností, seniority v hľadanej oblasti a od odborných znalostí.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného Biznis analytika pre externú spoluprácu. Pozícia je vhodná pre kandidátov s praxou vo finančnom sektore, ktorí sú schopní efektívne riešiť biznis a IT požiadavky.
+Zber, správa, validácia a sledovanie biznis požiadaviek.
+Identifikácia stakeholderov (interní biznis užívatelia) a riadenie ich zapojenia.
+Analýza business procesov:
+As-Is a To-Be analýzy – mapovanie aktuálneho a návrh budúceho stavu procesu
+Integračné analýzy – analýza dátových tokov, dátové mapovanie, návrh API modelu
+Impact analýzy – mapovanie a vyhodnocovanie dopadu zmien na systémy a ostatné procesy
+Návrh riešenia ich digitalizácie a automatizácie
+Vytváranie zadaní pre dodávateľov
+Pripomienkovanie materiálov od dodávateľa
+Komunikácia s dodávateľom, interným stuffom (technickí a biznis užívatelia)
+Príprava
+test scenárov a UAT kritérií
+Tvorba a udržiavanie dokumentácie pre nasadené projekty
+V malej miere nejaký DPA vývoj v MS Power Automate
+Administrácia, monitoring a udržiavanie jednotlivých nasadených procesov
+Základná znalosť verziovacích nástrojov
+(Git / DevOps repo) a CI/CD pipeline.
+SQL dotazy na úrovni administrácie DB
+Práca s REST API službami na úrovni konzumenta API - schopnosť prečítať swagger
+Technológie :
+BPMN -
+Procesné modelovanie vo forme diagramov
+Ja konkrétne používam
+Camunda
+modeler
+MS SQL
+Server –
+SQL
+dotazovanie sa nad DB
+MS Power Automate
+– tu riešim vývoj, ako aj návrh riešenia DPA riešení
+Openshift
+- administrácia nasadených procesov riešených kontajnerizáciou
+Azure DevOps
+– administrácia repozitárov a pipelines nasadených projektov
+MS Azure/Azure ActiveDirectory
+Zabbix
+– monitorovanie procesov
+Atlassian JIRA
+– to v KOOP len začíname používať, ale bolo by fajn, ak by to ten človek aspoň zbežne poznal
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Itaps s.r.o. je spoločnosť pôsobiaca v Bratislave, ktorá vznikla v roku 2011. Zameriavame sa na viaceré sféry IT - support, testing, analýza, development, RPA, R&D. Ponúkame flexibilné riešenia v oblasti IT a široké spektrum podporného tímu pre zadaný projekt.
+Viac informácií o nás a o našich službách nájdeš na: www.itaps.sk
+Kontakt
+Kontaktná osoba: Zuzana Leštinská
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195110
+Dátum zverejnenia:
+20.11.2025
+2025-11-20
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+Spoločnosť:
+ITAPS s. r. o.
+Základná zložka mzdy (brutto):
+25 EUR/hod.

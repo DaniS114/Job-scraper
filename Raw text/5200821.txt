@@ -1,0 +1,110 @@
+Tech Lead
+Asseco Central Europe, a.s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+od 3000€ brutto v závislosti od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do tímu Asseco Central Europe hľadáme Tech Lead, ktorý zodpovedá za návrh, koordináciu a realizáciu technických riešení v oblasti modernizácie aplikácií. Rola zahŕňa vedenie vývojového tímu za oblasť technológií, mentoring, technologický dohľad a aktívnu účasť na vývoji.
+Kľúčové oblasti zodpovednosti:
+Technologické vedenie projektu:
+podieľanie sa na návrhu cieľovej architektúry aplikácií.
+Výber vhodných technológií a nástrojov.
+Dohľad nad technickou kvalitou riešení.
+Modernizácia aplikácií:
+Migrácia frontendu na
+Angular, React
+Refaktoring backendu v
+Java (Spring Boot)
+.
+Dockerizácia aplikácií a návrh CI/CD pipeline.
+Vedenie tímu:
+Technický mentoring a koučing členov tímu.
+Podpora pri rozvoji technických zručností.
+Spolupráca s projektovým manažérom pri plánovaní a prioritizácii úloh.
+Komunikácia a koordinácia:
+Spolupráca s architektmi, analytikmi a ďalšími stakeholdermi.
+Prezentácia technických riešení a návrhov.
+Zabezpečenie súladu s internými štandardmi a best practices.
+Zamestnanecké výhody, benefity
+flexibilný pracovný čas, hybridný spôsob čerpania HO
+sick days a dni voľna navyše pri špeciálnych príležitostiach – svadba, pôrod, sťahovanie, sprievod prváčika v 1. školský deň
+bonus pri narodení/osvojení dieťaťa
+odmeny – Referral program, odmeny pre jubilantov, zodpovedajúca variabilná zložka platu
+doplnkové dôchodkové sporenie
+ovocie, pitný režim, káva
+inšpiratívne workshopy a aktivity na témy technology, enviro, diversity, well being
+teambuildingy, spoločenské podujatia
+vzdelávanie a osobný rozvoj - ACE akadémia
+poradenstvo v oblasti duševného zdravia
+multisport karta, klub TJ Asseco
+CSR aktivity
+a iné
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+Pokročilé znalosti
+Java (Spring Boot)
+a
+Angular, React
+Skúsenosti s
+Docker
+, CI/CD nástrojmi (napr. GitLab CI, Jenkins).
+Znalosť databáz: Oracle a PostgreSQL
+Znalosť operačného systému: Linux
+Prehľad v moderných technológiách a architektonických vzoroch.
+Skúsenosti s vedením vývojového tímu.
+Schopnosť efektívne komunikovať technické témy.
+Výhodou: znalosť
+Kubernetes
+, skúsenosti s migráciou legacy systémov.
+Očakávania od roly:
+Proaktívny prístup k riešeniu technických výziev.
+Zodpovednosť za technické rozhodnutia a ich dopad.
+Podpora tímu pri dosahovaní technologických cieľov.
+Zabezpečenie udržateľnosti a škálovateľnosti riešení.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Asseco Central Europe patrí medzi najsilnejšie softvérové domy v strednej a východnej Európe. Pôsobí na Slovensku, v Českej republike, Maďarsku, Taliansku, Nemecku, Rakúsku, Švajčiarsku a Poľsku. Spoločnosť realizuje náročné projekty pre sektor zdravotníctva, bankovníctva, priemysel a utility, poisťovníctva a verejnú správu, ktoré sú postavené na viac ako 30 ročných skúsenostiach s rozsiahlymi projektmi softvérových riešení na mieru. Skupina Asseco CE zahŕňa aj ďalšie spoločnosti so zameraním na IT. Asseco CE kladie silný dôraz na podporu strategických cieľov svojich klientov. Spoločnosť je súčasťou medzinárodnej skupiny Asseco (Asseco Group), ktorá pôsobí v približne 60 krajinách sveta a zamestnáva viac ako 33 000 ľudí.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Natália Hladká
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5200821
+Dátum zverejnenia:
+3.12.2025
+2025-12-03
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+,
+IT konzultant
+,
+Programátor
+,
+Softvérový inžinier
+,
+Systémový inžinier
+Spoločnosť:
+Asseco Central Europe, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

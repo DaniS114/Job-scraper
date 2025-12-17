@@ -1,0 +1,84 @@
+Manual IT Tester
+Moxymind s. r. o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 000 EUR/month
+Final salary depends on candidates experience and skills.
+Information about the position
+Job description, responsibilities and duties
+We are looking for a Manual Tester to join the Moxymind team on an exciting long-term project. In this role, you will be responsible for ensuring the quality through structured and thorough manual testing. You will work as part of a cross-functional agile team, collaborating closely with developers, analysts, and product owners to deliver high-quality digital solutions.
+As a Manual IT Tester with us you will:
+Prepare, manage, and execute clear and well-structured manual test scenarios.
+Perform functional, regression, integration, and user acceptance testing.
+Test backend functionality, including business logic, integrations, and data flows.
+Validate REST APIs, request/response structures, and error handling.
+Verify data consistency and integrity using SQL queries or database checks.
+Detect, document, and report defects with accuracy and clarity.
+Test applications across multiple platforms (web, iOS, Android).
+Collaborate closely with developers, backend engineers, analysts, and product owners.
+Take ownership of the testing process and overall product quality.
+Ensure coverage of functional, integration, and system-level aspects of tested solutions.
+Support releases of websites, forms, and mobile applications connected to internal systems.
+Actively participate in Agile ceremonies (stand-ups, sprint planning, retrospectives).
+Employee perks, benefits
+Yearly budget for education
+Yearly budget for tech appliances
+Multisport card
+Flexible working hours
+Opportunity to work from home
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Personality requirements and skills
+You should have:
+3+ years of experience in manual testing of web and/or mobile applications.
+Hands-on experience with backend testing and system integrations.
+Experience creating, managing, and executing manual test scenarios.
+Knowledge of testing methodologies and test types (functional, regression, integration,
+system, UAT).
+Experience with API testing tools (e.g. Postman, Swagger, similar).
+Basic ability to write and execute SQL queries.
+Experience working in an Agile / Scrum environment.
+Practical experience with bug tracking tools (e.g. Jira).
+Strong analytical skills and ability to clearly report and prioritize defects.
+Conversational level of English, both written and spoken.
+Proactive, detail-oriented, and quality-driven mindset.
+Nice to have:
+Experience testing microservices-based systems.
+Knowledge of message queues or event-driven systems.
+Basic understanding of backend architectures.
+Experience with test management tools.
+Familiarity with log analysis (e.g. Kibana, Splunk).
+Advertiser
+Brief description of the company
+Moxymind's vision is to create the best place to work for smart and talented people. We founded Moxymind in 2014 with the goal of making software testing better. We believe in innovation and progress. Better software, better world.
+https://www.moxymind.eu/
+Number of employees
+25-49 employees
+Contact
+Contact person: Zuzana Skotnická
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5206634
+Dátum zverejnenia:
+17.12.2025
+2025-12-17
+lokalita:
+Bratislava
+Pozícia:
+IT Tester
+Spoločnosť:
+Moxymind s. r. o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

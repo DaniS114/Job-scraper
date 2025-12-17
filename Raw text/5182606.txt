@@ -1,0 +1,100 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Azure Architect
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto):
+3 900 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+- Navrhovanie, implementácia a správa cloudových riešení na platforme Microsoft Azure.
+- Vytváranie a optimalizácia cloudovej architektúry pre rôzne aplikácie a služby.
+- Vedenie tímu inžinierov a spolupráca s vývojármi a ďalšími architektmi pri integrácii cloudových riešení.
+- Analyzovanie a riešenie komplexných technických problémov a výziev súvisiacich s cloudovou infraštruktúrou.
+- Navrhovať, vyvíjať a spravovať Azure cloud infraštruktúru vrátane výpočtových, úložných a sieťových zdrojov
+- Konfigurovať a spravovať Azure služby, ako sú Azure VMs, Azure App Services, Azure SQL Database a Azure Active Directory
+- Zabezpečovať bezpečnosť cloudovej infraštruktúry - implementovať firewally, riadenie prístupu, šifrovanie a zabezpečiť súlad s regulačnými požiadavkami
+- Optimalizovať služby súvisiace s výkonom, dostupnosťou a stabilitou Azure infraštruktúry.
+- Navrhovať a Automatizovať nasadzovanie a správu cloudových služieb pomocou Infrastructure-as-Code (IaC) nástrojov ako ARM Templates, Azure CLI, Terraform
+- Zavádzanie najlepších postupov pre bezpečnosť, výkon a škálovateľnosť cloudových riešení.
+- Poskytovanie technického poradenstva a podpory klientom a interným tímom.
+- Sledovanie najnovších trendov a technológií v oblasti cloud computingu a ich aplikácia v praxi.
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: ivana.jurikova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná medzinárodná spoločnosť
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Windows PowerShell - Pokročilý
+Microsoft Azure - Pokročilý
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+- Vzdelanie v oblasti informatiky, telekomunikácií alebo iného relevantného odboru.
+- Minimálne 3 roky skúseností s návrhom a implementáciou cloudových riešení Microsoft Azure.
+- Pokročilé znalosti Azure služieb ako Azure Virtual Machines, Azure SQL Database, Azure Active Directory, Azure DevOps, atď.
+- Skúsenosti s nástrojmi a technológiami ako ARM Templates, Terraform, PowerShell, Azure CLI.
+- Certifikácia Microsoft Certified: Azure Solutions Architect Expert je veľkou výhodou.
+- Silné analytické a problémové riešiace schopnosti.
+- Schopnosť efektívne komunikovať s klientmi a členmi tímu.
+- Znalosť zabezpečenia a správy identít v cloudovom prostredí.
+- Schopnosť pracovať samostatne aj v tíme, a viesť technické projekty.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Ivana Juríková
+Tel.:
++421 911 189 261
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5182606
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT architekt
+,
+Správca informačného systému
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 900 EUR/mesiac

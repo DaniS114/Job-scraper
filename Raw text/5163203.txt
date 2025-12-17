@@ -1,0 +1,132 @@
+IT administrátor
+FUERGY Industries j. s. a.
+Miesto práce
+Škultétyho 1, Žilina
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+Od 2000 EUR/mesiac brutto, finálna mzda záleží od skúseností a seniority uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Tím je ako batéria – spolu máme väčší výkon.
+Hľadáme ďalší článok, ktorý nás nabije novou energiou.
+Hľadáme skúseného IT profesionála s rozsiahlymi znalosťami v oblasti správy komplexných IT infraštruktúr, ktorý bude schopný podporovať naše technologické aktivity a transformačné projekty. Ideálny kandidát má solídne technické znalosti sieťových technológií, serverových systémov, cloudových riešení a kybernetickej bezpečnosti, ako aj schopnosť efektívne riešiť technické výzvy v dynamickom prostredí.
+Hlavné úlohy a zodpovednosti:
+Inštalácia, konfigurácia a údržba pracovných staníc, tlačiarní a sieťových zariadení
+Diagnostika a riešenie SW/HW technických požiadaviek používateľov
+Poskytovanie technickej podpory na 1. a 2. úrovni
+Denná pravidelná kontrola a monitoring informačných systémov
+Pravidelná kontrola a správa zálohovacieho riešenia
+Správa používateľských účtov a prístupov v ActiveDirectory a Microsoft 365
+Správa cloudových služieb Microsoft 365 a Google Workspace
+Udržiavanie a aktualizácia IT dokumentácie a systémových špecifikácií
+Administrácia serverov v prostredí Windows a Linux
+Správa systémov kybernetickej bezpečnosti a implementácia bezpečnostných opatrení
+Správa a optimalizácia sieťovej infraštruktúry vrátane Mikrotik zariadení
+Podpora pri transformačných projektoch vrátane migrácie do cloudových služieb
+Implementácia a testovanie nových technologických riešení
+Zamestnanecké výhody, benefity
+4 dni sick days ročne
+15 dní ročne plne doplatenej PN-ky
+Stravné nad rámec zákona
+MultiSport karta
+plne hradená zamestnávateľom
+Home office aspoň 1 deň v týždni
+Flexibilný pracovný čas
+, aby ste si vedeli lepšie zladiť prácu a súkromie
+Pravidelné teambuildingy
+, či už v lete alebo v zime
+Práca v modernom prostredí
+našich kancelárií
+Pestrá a dynamická práca
+v perspektívnej oblasti s veľkým ekologickým dopadom
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Active Directory - Pokročilý
+Microsoft Office 365 - Pokročilý
+Prax na pozícii/v oblasti
+IT administrácia a podpora
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Požadované znalosti a zručnosti:
+Stredoškolské alebo vysokoškolské vzdelanie v oblasti IT alebo príbuznom odbore
+Minimálne 3-5 rokov skúseností v oblasti IT administrácie a podpory
+Pokročilé znalosti Windows a Linux operačných systémov
+Skúsenosti so správou ActiveDirectory a Microsoft 365 služieb
+Skúsenosti s virtualizačnými technológiami (Proxmox, VMware, Hyper-V)
+Znalosti sieťových technológií a protokolov
+Základné znalosti kybernetickej bezpečnosti a bezpečnostných praktík
+Skúsenosti s diagnostikou a riešením technických problémov
+Schopnosť efektívne komunikovať s používateľmi a technickými partnermi
+Analytické myslenie a systematický prístup k riešeniu problémov
+Proaktívny prístup a schopnosť pracovať samostatne aj v tíme
+Ochota učiť sa nové technológie a postupy
+Znalosť anglického jazyka na komunikačnej úrovni
+Uvítame:
+Skúsenosti s cloudovými technológiami (Azure, AWS)
+Znalosti skriptovania a automatizácie (PowerShell, Bash, Python)
+Skúsenosti s Proxmoxvirtualizačnou platformou
+Znalosti Mikrotik sieťových zariadení
+Skúsenosti so správovaním VPN riešení
+Skúsenosti s Apple produktmi a macOS administráciou
+Certifikácie Microsoft, Linux alebo sieťové
+Skúsenosti s konferenčnými systémami a AV technológiami
+Znalosti databázových systémov
+Skúsenosti s ISO 27001 prostredím
+Pokročilá znalosť anglického jazyka
+Schopnosť mentoringu a zdieľania znalostí s kolegami
+Flexibilita a schopnosť rýchlo sa adaptovať na nové technológie
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+FUERGY je slovenská technologická spoločnosť, ktorá prináša moderný a udržateľný prístup k riadeniu energetiky. Ako trhový líder v oblasti smart batériových úložísk a automatizovaného energetického manažmentu poskytujeme komplexné riešenia pre komerčný aj energetický sektor. Pôsobíme primárne na Slovensku a zároveň rozvíjame naše aktivity aj v Českej republike a Chorvátsku.
+Prostredníctvom unikátneho know-how a in-house technológie pomáhame:
+- znižovať náklady na energie našim zákazníkom,
+- zefektívňovať výrobu a spotrebu elektrickej energie,
+- zvyšovať energetickú sebestačnosť,
+- decentralizovať a dekarbonizovať celú energetiku.
+Naše riešenia využívajú desiatky zákazníkov po celom Slovensku – od výrobných a logistických areálov, cez obchodné centrá až po verejné inštitúcie. Medzi nimi sú napríklad Železiarne Podbrezová, Národný futbalový štadión, Osram Slovakia, Eissmann Automotive, OC Galéria Martin, Tower 115 a mnohí ďalší.
+Našu expanziu podporila investícia vo výške 16 miliónov eur od fondu Pro Partners Holding, ktorá nám umožnila rozšíriť portfólio riešení a vstúpiť na nové trhy.
+Popri riešeniach pre veľkých zákazníkov prinášame inteligentnú energetiku aj domácnostiam a malým firmám prostredníctvom produktu Infimeo – smart batériového úložiska novej generácie s vlastným systémom energetického manažmentu.
+FUERGY dnes predstavuje stabilného partnera pre firmy, ktoré chcú efektívne a zodpovedne riadiť svoju energetiku.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: HR oddelenie
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5163203
+Dátum zverejnenia:
+28.10.2025
+2025-10-28
+lokalita:
+Žilina
+Pozícia:
+IT/Technical Support Specialist
+,
+Správca počítačovej siete
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+FUERGY Industries j. s. a.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

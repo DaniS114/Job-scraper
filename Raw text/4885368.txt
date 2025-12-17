@@ -1,0 +1,97 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior QA Automation Engineer (REF1461E)
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+We’re an awesome bunch of people who are working hard, having fun, and getting stuff done. We bring a diverse set of skills, experiences, and backgrounds to the table, which makes as a dynamic and creative force. Whether it's brainstorming ideas, solving complex problems, or tackling crew challenges, we’re always up for the task.
+In the role of QA Automation Senior / Lead you will be serving as a technical lead within QA area, overseeing software testing and product quality. You’ll develop test strategies, create test documents, identify faults, and review QA reports. You’ll evaluate test automation tools and lead the transition from manual to automated testing. You’ll build test automation frameworks, provide QA support, and define/update quality standards.
+You’ll set up CI/CD pipelines and lead the entire QA process on multiple projects. You’ll ensure released products meet quality standards, stay updated on processes and technologies, and maintain a high degree of quality. You’ll possess knowledge of DevOps and agile frameworks.
+What will you do?
+Meeting with the software/product designers to determine quality assurance parameters.
+Leading the QA team in designing QA test procedures.
+Leading evaluation of tools and technologies most appropriate for test automation on one or multiple projects.
+Create an approach and methodology for building a test automation architecture.
+Create overall test architecture within continuous integration in a CI/CD pipeline
+Overseeing the drafting of testing documents.
+Implementing testing procedures and overseeing the QA process.
+Identify quality assurance process bottleneck and suggest actions for improvement.
+Troubleshooting quality issues and modifying test procedures.
+Conducting analysis checks on product specifications.
+Identify key KPIs for product quality.
+Reviewing Quality Assurance reports.
+Ensuring the successful deployment of products into the market.
+Responding to requests from the design team and management.
+Mentor and support QA Automation Engineers and testers in test automation related tasks and evaluate their progress in regards to test automation and support test team with automated testing know-how.
+You will succeed if you:
+Speak English at least at the B2 level. Speaking German is your advantage.
+Your Core skills should be:
+Active knowledge of least one object-oriented programming language > JAVA, Python.
+Active work in agile development (SCRUM & SAFe).
+API Test automation solutions.
+Active work with Selenium, Selenide, TestNG, Playwright, RestAssured, Hoppscotch.
+Experience with Allure, Xray.
+Experience in using Gradle, Git, JIRA.
+CI/CD - creation of Gitlab / Jenkins pipelines.
+Knowledge of principles of containerization (Docker, Docker Compose).
+Knowledge of BDD agile process and active work within any BDD framework.
+Previous role in / responsibility for creating modern test automation architecture / strategy and responsibility for delivery of test automation and its results to contribute to assurance of product quality (focus on back-end test automation).
+Hands-on experience of creating test solution from scratch.
+Wide knowledge of test frameworks and tools.
+It is nice to have:
+Knowledge of cloud services > preferable AWS, GCP, Azure.
+Experience with using AI in testing.
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lucia Gbúrová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+4885368
+Dátum zverejnenia:
+17.10.2025
+2025-10-17
+lokalita:
+Košice
+Pozícia:
+IT Tester
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 600 EUR/month

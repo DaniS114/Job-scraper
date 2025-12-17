@@ -1,0 +1,87 @@
+Monitoring Administrátor
+Asseco CE Cloud, a.s.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+1 800 EUR/mesiac
+od 1800€ brutto v závislosti od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného Zabbix administrátora, ktorý bude zodpovedný za správu, monitorovanie a návrh Zabbix infraštruktúry. Táto pozícia je určená pre odborníka, ktorý má skúsenosti s aplikáciou Zabbix na monitorovanie systémov a aplikácií a dokáže navrhovať efektívne riešenia pre komplexné IT prostredia.
+Hlavné zodpovednosti:
+Správa a údržba existujúcej Zabbix infraštruktúry.
+Návrh a implementácia nových monitorovacích riešení na základe požiadaviek.
+Monitorovanie systémov, aplikácií a sietí pomocou Zabbix.
+Optimalizácia a ladenie výkonu Zabbix serverov a agentov.
+Tvorba a správa šablón, triggerov, grafov a reportov.
+Riešenie incidentov a problémov súvisiacich s monitorovaním.
+Spolupráca s tímami IT na integrácii Zabbix s inými nástrojmi a systémami.
+Zamestnanecké výhody, benefity
+flexibilný pracovný čas, hybridný spôsob čerpania HO
+sick days a dni voľna navyše pri špeciálnych príležitostiach – svadba, pôrod, sťahovanie, sprievod prváčika v 1. školský deň
+bonus pri narodení/osvojení dieťaťa
+odmeny – Referral program, odmeny pre jubilantov, zodpovedajúca variabilná zložka platu
+doplnkové dôchodkové sporenie
+ovocie, pitný režim, káva
+inšpiratívne workshopy a aktivity na témy technology, enviro, diversity, well being
+teambuildingy, spoločenské podujatia
+vzdelávanie a osobný rozvoj - ACE akadémia
+poradenstvo v oblasti duševného zdravia
+multisport karta, klub TJ Asseco
+CSR aktivity
+a iné
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Požiadavky na kandidáta:
+Skúsenosti so Zabbixom na pokročilej úrovni (administrácia, konfigurácia, ladenie).
+Znalosť návrhu a implementácie monitorovacích riešení.
+Skúsenosti s aplikáciami a systémovým monitorovaním.
+Znalosť skriptovania (napr. Bash, Python) na automatizáciu úloh.
+Znalosť Linux/Unix systémov na administrátorskej úrovni.
+Schopnosť analyzovať a riešiť problémy v IT infraštruktúre.
+Výhodou je znalosť integrácie Zabbix s inými nástrojmi (napr. Grafana, Prometheus).
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Asseco CE Cloud poskytuje vysoko kvalitné technologické a infraštruktúrne služby pre verejný aj súkromný sektor. Ponúka komplexnú správu infraštruktúry, od návrhu, architektúry až po implementáciu a prevádzku podľa potrieb zákazníkov, outsourcing IT služieb a kompletnú migráciu aplikácií a systémov. Súčasťou služieb sú tiež na mieru šité cloudové riešenia v privátnych, verejných aj hybridných modeloch.
+Pôsobí na Slovensku a v Česku, kde zamestnáva viac ako 100 ľudí. Asseco CE Cloud je dcérskou spoločnosťou medzinárodnej firmy Asseco Central Europe, ktorá má stabilné postavenie na trhu už 35 rokov.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Natália Hladká
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5204316
+Dátum zverejnenia:
+11.12.2025
+2025-12-11
+lokalita:
+Bratislava
+Pozícia:
+Správca informačného systému
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Asseco Central Europe, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

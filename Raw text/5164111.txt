@@ -1,0 +1,91 @@
+DevOps & Cloud Infrastructure Lead
+IT PROUD s. r. o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou/asap
+Mzdové podmienky (brutto)
+4 800 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Čo budeš robiť
+• Viesť DevOps tím zameraný na budovanie a prevádzku infraštruktúry ako kód v Azure (Terraform, Helm, Ansible, GitHub Actions).
+• Zodpovedať za architektúru, štandardy a best practices v oblasti infraštruktúry, siete a bezpečnosti.
+• Zavádzať princípy policy-as-code a security-by-default (Zero Trust, least privilege).
+• Koordinovať cross-funkčné tímy (Infra, IAM, Security, Business Owners) pri dodávke cloudových služieb.
+• Zabezpečiť monitoring, audit a compliance s reguláciami (GDPR, DORA, ISO 27001).
+• Mentorovať členov tímu a viesť code reviews, knowledge-sharing a interné tréningy.
+• Zodpovedať za incident response procesy, DR/backup stratégie a zabezpečenie kontinuity prevádzky.
+Zamestnanecké výhody, benefity
+• flexibilný pracovný čas
+• podpora vzdelávania – príspevky na školenia, kurzy a konferencie
+• mladý a priateľský kolektív (neformálna atmosféra)
+• príspevok na IT vybavenie • ročné odmeny (upresníme na pohovore)
+• rôzne teambuildingové aktivity, ktoré posilnia tímového ducha a priateľské vzťahy
+• podpora osobného a profesionálneho rastu prostredníctvom školení a certifikácií
+• práca plná výziev, ktoré vás posunú vpred a pomôžu rozvíjať vaše zručnosti v oblasti IT
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Firma pôsobiaca v IT sektore.
+Spolupráca s SK aj zahraničnými firmami.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné Technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+2-5
+Osobnostné predpoklady a zručnosti
+• Schopnosť vysvetliť a prezentovať riešenia v oblasti cloud infraštruktúry (identity, sieť, výpočtové zdroje a bezpečnosť) na úrovni zrozumiteľnej pre manažment aj netechnických stakeholderov.
+• Schopnosť komunikovať so stakeholdermi (biznis, security, IT ops) a prekladať technické požiadavky do roadmapy.
+• Preukázaná prax v vedení DevOps tímu alebo v roli Lead/Senior Engineer.
+• Znalosť CI/CD procesov a nástrojov (Azure DevOps, GitHub Actions, GitOps, ArgoCD).
+• Silné security-first myslenie – default deny, IAM, secrets management.
+• Skúsenosť s incident managementom a vedením post-mortem analýz.
+Výhody:
+• Prax s regulovanými prostrediami (bankovníctvo, poisťovníctvo, zdravotníctvo).
+• Znalosť frameworkov a štandardov (MITRE ATT&CK, NIST CSF, CIS Benchmarks).
+• Certifikácie (Azure Solutions Architect Expert, CKA/CKAD, HashiCorp Terraform Associate).
+• Skúsenosti s finops / cost management a optimalizáciou cloudovej infraštruktúry.
+• Znalosť nástrojov pre observabilitu (Prometheus, Grafana, ELK, Splunk, Sentinel).
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+We come from the IT industry, we are a community of developers and admins and we understand that IT is not  a field that could be classified as a single department in a company anymore.The digital era is transforming business to be available everywhere/anytime on demand and that makes IT to be a business driver.
+Only IT people refer other IT people to make it sure that business gets what expects and IT specialists get to do their hobby as a dream job.And we promote those ones that understand that improving daily work by automation is even more important than doing daily work.
+Kontakt
+Kontaktná osoba: Ing.  David Obrecz
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5164111
+Dátum zverejnenia:
+28.10.2025
+2025-10-28
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT architekt
+,
+Správca informačného systému
+,
+Systémový inžinier
+Spoločnosť:
+IT PROUD s. r. o.
+Základná zložka mzdy (brutto):
+4 800 EUR/mesiac

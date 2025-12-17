@@ -1,0 +1,90 @@
+Identity access management admin
+Offer experts s. r. o.
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 2 200 EUR/month
++ bonuses
+Information about the position
+Job description, responsibilities and duties
+​-Ensuring System Health by performing daily checks (before and during operation hours) to ensure system health and performance for the workday. Handling of Job Queue (resolution of frozen tasks, performance monitoring, etc.) to ensure a good working performance for the system during the day.
+​-Monitoring of input interfaces and data, troubleshooting in the case of incidents and problems,
+​-usage of management and extension of monitoring systems to ensure a fast reaction time and quick information in case of problems
+​-Use monitoring as a trigger for 24/7 standby mode calls
+​-Ensure and improve/optimize system performance by technical means (system and hardware configuration)
+​-Deployment of changes, participation in closing meetings and takeover of deployment tasks from developers. Smoke tests after deployment, Deployment report. Management of the “change advisory board” process.
+​-Active handling of all incidents, problems and requests in IDM assignment groups, check of meta-data (incident vs. request, criticality, etc.), in-time assignment and resolution. Customer contact for IDM related incidents in English and German.
+​-Checking and enrichment of incidents which are escalated to 3rd level, gatekeeper to 3rd level.
+​-Training and information-loop for 1st level and application managers depending on IDM.
+​-Reporting of outages and degradations incl. regular updates
+​-Proactive problem management and self responsibly problem analysis and creation of mitigation tasks for problems.
+​-IDM Catalogue Management - management of IDM Shop item catalog, interaction with customers to create needed shop items as per request on a daily basis.
+​-Patching/Vulnerability Fixing - Patching and updating of systems, fixing of vulnerabilities within time constraints.
+​-Documentation / Handbook - regular (at least quarterly) check and update of IDM handbooks and documentations (internal and customer) in English and German.
+​-Standups - participation in “daily” standups (as needed/as decided by team), Active information about tasks, sharing of information within the team.
+​-Ensure SLA, RTO, RPO, BCM - ensure SLA based of reaction and resolution time. Ensure RTO and RPO with backup and recovery tests (at least once a year) and verification of functionality. Ensure business continuity management, planning and handling of failover tests.
+​-Reporting, Audit Support - creation of standard reports or creation of specific reports e.g. for audits.​
+Employee perks, benefits
+possible 100% HO
+courses
+bonuses
+Company on whose behalf the position is being filled
+Banking, finance
+fintech
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+​-Successfully completed studies/university of applied sciences (computer science / business informatics) or comparable experience (HTL and professional experience)
+​-At least 1 to 3 years of professional experience with One Identity Manager (customisation, operational management, maintenance, support)
+​-Several years of experience with the operational management of IAM systems (preferably One Identity Manager) in a 24 x 7 operation onpremise and in the cloud
+​-Experience with troubleshooting and solving complex problems (2nd and 3rd level support) in a 24 x 7 operation
+​-Basic knowledge of SQL and at least one programming language such as: .NET, VBA, Angular (framework)
+​-Experience in the operation and customisation of interfaces to other systems
+​(HR systems, AD, O365, LDAP/directory services, SAP, databases, REST APIs, SCIM, etc.)
+​-Customer orientation and communication skills in supporting our customers and their application managers (2nd level)
+​-Knowledge of Windows Server, MSSQL, IIS, load balancing
+​-Strong understanding of problem solving and analytical thinking paired with an independent way of working
+​-Willingness to undergo continuous and independent further training
+​-JIRA know-how desirable
+​-Good knowledge of English and ideally basic German​
+Advertiser
+Brief description of the company
+recruitment services/IT delivery
+Contact
+Contact person: Mgr.  Peter Kluknavsky
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5133481
+Dátum zverejnenia:
+9.12.2025
+2025-12-09
+lokalita:
+Remote work
+Pozícia:
+IT Network Administrator
+,
+IT System Administrator
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+Offer experts s. r. o.
+Základná zložka mzdy (brutto):
+2 200 EUR/month

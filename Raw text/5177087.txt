@@ -1,0 +1,107 @@
+Senior Laravel Developer
+Roman Berešík
+Miesto práce
+Bottova 2a, 811 09 Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+2025-10-26
+Mzdové podmienky (brutto)
+3 000 - 6 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme
+Full Stack Developera
+s veľmi pokročilou znalosťou
+Laravelu
+a
+Vue.js
+, ktorý posilní náš vývojový tím pri rozvoji webovej aplikácie https://aiapply.co/.
+Hlavnou náplňou práce bude vývoj nových funkcionalít na webe, vylepšovanie existujúcich modulov a technická optimalizácia backendu aj frontendu platformy. Budeš pracovať na systéme, ktorý využíva umelú inteligenciu na automatizáciu hľadania práce, generovanie životopisov, motivačných listov a podávanie žiadostí za používateľov.
+Tvoja práca bude zahŕňať:
+vývoj a rozširovanie webovej aplikácie v Laravel (API, databázové modely, autentifikácia, integračné služby)
+tvorbu interaktívneho používateľského rozhrania pomocou Vue.js
+optimalizáciu výkonu a UX
+návrh a implementáciu nových modulov pre používateľov a administrátorov
+integráciu s externými API (napr. Stripe, OpenAI, Google Cloud, ATS systémy)
+spoluprácu na návrhu architektúry systému a kódových štandardoch
+účasť na plánovaní a návrhu nových produktových funkcií
+Ak je kódenie tvoja vášeň a máš chuť stáť pri budovaní produktu, ktorý využíva AI na ulohčovanie života stovkám tisícom userov, hľadáme práve teba.
+Zamestnanecké výhody, benefity
+Práca v rýchlo rastúcej technologickej spoločnosti so sídlom vo Veľkej Británii a globálnou používateľskou základňou
+Office v Bratislave - The Spot Cowork Bratislava
+Stabilné zázemie – sme profitabilná firma s reálnym produktom a trvalým rastom
+Odborný rast podporený technickými výzvami, autonómiou a možnosťou prevziať zodpovednosť
+Malý, vysoko výkonný tím bez korporátnej byrokracie a zbytočných procesov
+Priama komunikácia s tímom a zakladateľmi, rýchle rozhodovanie
+Flexibilná práca na diaľku v rámci Európy
+Pravidelné tímové stretnutia niekoľkokrát do roka v Anglicku, na Slovensku alebo v iných európskych mestách
+Možnosť ovplyvniť technické smerovanie produktu a prinášať vlastné nápady
+Informácie o výberovom konaní
+Ak ťa táto pozícia zaujala, pošli nám svoj životopis!
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informatika
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+FastAPI - Pokročilý
+SQL - Pokročilý
+HTML - Mierne pokročilý
+GIT - Mierne pokročilý
+Vue.js - Pokročilý
+Laravel (PHP framework) - Expert
+Osobnostné predpoklady a zručnosti
+Silné analytické myslenie a schopnosť riešiť komplexné technické problémy
+Zodpovedný prístup k práci a schopnosť dotiahnuť veci do konca
+Samostatnosť, schopnosť prevziať ownership a pracovať bez mikromanažmentu
+Systematické a logické uvažovanie
+Dôraz na kvalitu kódu, čistotu riešení a technickú precíznosť
+Schopnosť rýchlo sa učiť nové technológie a orientovať sa v neznámom prostredí
+Chuť pracovať na produktoch, ktoré majú reálny dopad a používajú sa v praxi
+Proaktívny prístup, iniciatíva a schopnosť prichádzať s návrhmi na zlepšenie
+Odolnosť voči technickým výzvam, troubleshooting berie ako výzvu, nie problém
+Tímovosť a schopnosť efektívnej spolupráce v remote prostredí
+Technická zvedavosť, vášeň pre programovanie a neustále zlepšovanie
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+AIApply je inovatívna online platforma, ktorá pomocou umelej inteligencie uľahčuje ľuďom hľadanie práce. Ponúkame nástroje na tvorbu životopisov a motivačných listov, prípravu na pohovory aj automatické podávanie žiadostí o prácu. Našim cieľom je šetriť čas uchádzačov a zvýšiť ich šance na získanie pracovnej príležitosti doma aj v zahraničí.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Roman Berešík
+Tel.:
++421904036074
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5177087
+Dátum zverejnenia:
+17.10.2025
+2025-10-17
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+PHP programátor
+,
+Programátor
+Spoločnosť:
+Roman Berešík
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

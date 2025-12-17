@@ -1,0 +1,97 @@
+Data Engineer
+Dentsply Sirona Slovakia s. r. o.
+Place of work
+Einsteinova 33, Petržalka, Slovakia, Bratislava (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 800 EUR/month
+*By legal requirement we are providing the information about the basic wage component (minimum salary) for the advertised position. The final financial conditions will be discussed based on your experience, however they will be not lower than above mentioned minimum salary component.
+Information about the position
+Job description, responsibilities and duties
+Data Engineer
+As a Data Engineer at Dentsply Sirona, you will play a vital role in the development, enhancement, and maintenance of our Data Engagement Platform (DEP). Working with a passionate team, you will collaborate on transformative projects, handling data at scale and leveraging the latest tools in the industry.Our Global Data and Analytics department is responsible for collecting and streamlining data into the DEP, developing Business Intelligence (BI) solutions, and creating reports for Dentsply Sirona. With a team of 20+ members, we work cross-functionally, interacting with teams in finance, marketing, sales, supply, and operations. We utilize both Azure and GCP tools, alongside Databricks and dbt, to power our analytics and insights.
+Responsibilities:
+Build scalable, efficient data ingestion workflows using Python, SQL, and cloud-native tools.
+Develop and orchestrate large-scale data and ML workflows in Databricks and BigQuery, across GCP or Azure environments.
+Manage and troubleshoot data platforms in Azure and GCP, focusing on maintaining reliability and performance for AI/ML
+applications, data ingestion processes, and scalable cloud infrastructure.
+Collaborate with the broader Global Data and Analytics team, ensuring smooth communication and knowledge sharing.
+Maintain clear and open communication with stakeholders, ensuring the team fully understands data requirements.
+Take on additional responsibilities as needed to support our growing platform.
+Employee perks, benefits
+​This role will provide the opportunity of being a part of building a new strategic function within DS, gaining exposure within and being a part of improving the business.
+​• Professional development and possibility to grow within a newly established Shared Service Center based in Einpark
+• Fully paid meal vouchers 7.70 Eur per working day
+​• 3 Health and Wellness days per year
+​• Fully paid sick leave up to one month
+​• Contribution to dental care up to 150 Eur per year
+​• Pension Contribution after 1 year
+​• Classes of foreign languages
+​• Access to Multisport card
+​• Referral Programe Bonus up to 1200 Eur
+​• Employee Assistance Programe
+​• Social events
+​• Refreshment in the office – coffee, tea, water, fruit on Wednesdays
+• Yearly performance-based bonus
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+Microsoft Power Bi - Advanced
+SQL - Advanced
+Python - Advanced
+Number of years of experience
+5
+Personality requirements and skills
+A degree in Management Information Systems or a related experience.
+At least 5 years of experience in a BI role or as a data engineer.
+Experience with Databricks and dbt is a plus.
+Familiarity with Azure DevOps, Jira, and version control.
+Strong proficiency in SQL, Python
+Advantage is experience in AI and machine learning frameworks.
+Solid understanding of relational databases and best practices.
+Expertise in troubleshooting common database issues.
+Ability to translate business needs into technical solutions, ensuring alignment between business and technical requirements.
+Strong analytical and logical thinking skills.
+Excellent verbal and written communication skills.
+Proficiency in English, both spoken and written.
+Advertiser
+Brief description of the company
+Dentsply Sirona is the world’s largest manufacturer of professional dental products and technologies, with a 130-year history of innovation and service to the dental industry and patients worldwide. Dentsply Sirona develops, manufactures, and markets a comprehensive solutions offering including dental and oral health products as well as other consumable medical devices under a strong portfolio of world class brands. Dentsply Sirona’s products provide innovative, high-quality and effective solutions to advance patient care and deliver better and safer dentistry. Dentsply Sirona’s global headquarters is located in Charlotte, North Carolina, USA. The company’s shares are listed in the United States on NASDAQ under the symbol XRAY.
+For more information about our company, please visit our web page www.dentsplysirona.com
+Number of employees
+200-249 employees
+Contact
+Contact person: Katarína Straková
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5138884
+Dátum zverejnenia:
+29.10.2025
+2025-10-29
+lokalita:
+Bratislava
+Pozícia:
+Business Analyst
+,
+Clinical Data Manager
+,
+DevOps Engineer
+,
+IT Manager
+Spoločnosť:
+Dentsply Sirona Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+2 800 EUR/month

@@ -1,0 +1,99 @@
+SW Architekt / SW líder (Java stack)
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Po vzájomnej dohode.
+Mzdové podmienky (brutto)
+3 600 - 5 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme do svojho tímu skúseného lídra / Architekta.
+Tvojou náplňou práce bude:
+vedenie tímu 15 vývojárov a poskytovanie mentorstva pre tím.
+Zodpovednosť za kvalitu a efektívnosť vývojových procesov a metodológie. Skúsenosti s nástrojmi na statickú analýzu kódu, unit testovanie, optimalizáciu kódu a nástroje na spoluprácu.
+Riadenie rozsahu projektu, časového harmonogramu a kontroly kvality.
+Schopnosť vytvárať technologické riešenie na základe špecifikácií zákazníka.
+Návrh a dohľad nad SW vývojom s využitím Azure (AWS) a mikroservisnej architektúry.
+Realizácia technických prototypov, tvorba a údržba technickej dokumentácie.
+Vývoj a udržiavanie DevOps pipeline pre kontinuálnu integráciu a nasadzovanie (CI/CD) s využitím nástrojov ako Jenkins, GitLab.
+Zamestnanecké výhody, benefity
+flexibilná pracovná doba
+Po zaškolení možnosť dohodnúť sa na dňoch home-officu
+príspevok pri uzavretí manželstva
+Referral príspevok
+finančný bonus po odpracovaní 10 rokov
+Multisport karta
+teambuildingy (celofiremné, divízne, vianočná večera)
+podpora športových aktivít (korčuľovanie, bowling, ...)
+No dresscode
+Mobil a notebook aj na osobné použitie
+zľavy u tretích strán
+možnosť odborného vzdelávania, certifikácií a školení
+čerstvé ovocie, čaj, káva
+moderné priestory
+Predpokladaný termín ukončenia výberového konania
+16.12.2025
+(ostáva ešte 29 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Náš klient je uznávaným expertom v oblasti IKT a softvérového vývoja dodávajúcim sofistikované a jedinečné technologické riešenia prispôsobené potrebám klientov. Divízia IKT systémov sa zameriava na integráciu bezpečnej IKT infraštruktúry s vysokou pridanou hodnotou, ako sú dátové centrá, komunikačné systémy a siete.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+- Skúsenosti:  ako tímový líder, architekt alebo v podobnej roli v oblasti softvérového vývoja.
+- Líderské schopnosti: Schopnosť viesť tímy, mentorovať vývojárov a efektívne komunikovať .
+-Technické zručnosti: Znalosť technológií Java, Spring Boot, Kubernetes, Docker, Apache Kafka, Grafana a Prometheus, SQL a noSQL databázy, integračné vzory (REST, SOAP, ETL).
+- Odbornosť v oblasti cloudu: Znalosť a praktické skúsenosti s platformou Azure.
+- Architektúra: Preukázané skúsenosti s mikroservisami , migráciou do cloudu, cloudovou architektúrov, návrhmi logického/fyzického modelu SW aplikácií.
+- Preferované certifikácie:
+Microsoft Azure Fundamentals AZ-900 (alebo obdobná)
+- Certifikovaný SOA architekt
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: IT Recruitment
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5188541
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+,
+IT architekt
+,
+IT konzultant
+,
+Java programátor
+,
+Programátor
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 600 EUR/mesiac

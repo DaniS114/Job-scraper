@@ -1,0 +1,108 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Solution Application Architect (Azure)
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava
+Mzdové podmienky (brutto):
+Od 4 500 EUR/mesiac
+(finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta)*
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+Je súčasťou tímu, ktorý robí návrh riešení pre Cloud Azure platformu /analýza/architektúra/development/migrácie/deployment aplikacií
+Rola je zameraná na stavbu návrh architektúry, aplikačných a integračných API rozhraní a infraštruktúry pred nasadením a transformácií z on premise do cloudu
+Úlohy:
+- Transformácia aplikácií pre nasadenie migráciu z on-premise do cloudu a budovanie infraštruktúry na IaaC (infraštruktúra ako kód)
+prostredím vytvorením platformy pre deployment a manažment aplikácii v cloude Git, GitLab Runners for CI, Docker, Ansible, Terraform, Kubernetes, Azure DevOps /Jenknis, Azure Cloud Services
+- aktívne sa podieľa na projektoch, ktoré súvisia s budovaním cloudových riešení na platforme - Azure
+- podieľanie sa na tvorbe architektúry a metodiky pre rôzne SW systémy a ich nasadenie na viacerých cloudových platformách
+- vytvorenie nástrojov a plánov pre integráciu a začlenenie cloudových riešení do architektúry
+- pracuje s poskytovaním nástrojov ako sú  generátory kódov a úložiská schém CI / CD
+- Podpora a implementácia systémov založených na osvedčených postupoch SRE.
+- Návrh a integrácia Azure. Zabezpečenie najvyššej úrovne bezpečnosti a rýchla reakcia na všetky nové a vznikajúce zraniteľné miesta a bezpečnostné hrozby.
+- Vedenie tímu zodpovedného za automatizáciu, podpora tímov softvérového inžinierstva v testovaní a nasadzovaní
+Zamestnanecké výhody, benefity
+- zaujímavý benefitný systém/finančne-nefinančné benefity/
+- flexibilita, možnosť home-office
+- odborné školenia, jazykové kurzy
+- práca v medzinárodnom prostredí
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: anna.spasova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná medzinárodná IT spoločnosť.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+Architekt DevOps
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+- vysokoškolské vzdelanie technického smeru – informačné technológie
+- 3 roky skúsenosti na podobnej pozícii, development, aplikačný architect, alebo líder pre smerovanie Cloud
+- praktické skúsenosti s cloudovými riešeniami - MS Azure, GCP, IaC
+- Znalosť návrhu aplikačných a integračných servisov
+- Skúsenosť modelovacích jayzkov ako UML, Archimate
+- Prehľad v  Kubernetes, Helm charts, Docker, Infrastructure as code, Terraform, CI/CD, Azure DevOps alebo Jenkins, Maven, Gradle,
+- Azure networking, storage security, security tooly napr. MMS policies, autorizácia, networking, cloudfare, sonar scan
+- dobrý prehľad o súčasných trendoch v aplikáciách Clouds a Cloud Native;
+- prehľad konkurenčných spoločností;
+- Návrhy pre Deployment a environmentu pre zavádzanie aplikácii do produkčných prostredí
+- skúsenosť s komunikáciou so zákazníkmi na úrovni prezentácie riešenia
+- Scrum/Kanban
+- schopnosť koordinovať technický tím
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Anna Spasová
+Tel.:
++421 2 6241 3438, +421 911 525 022
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5186234
+Dátum zverejnenia:
+4.11.2025
+2025-11-04
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT architekt
+,
+IT manager
+,
+IT projektový manažér
+,
+Systémový administrátor
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+4 500 EUR/mesiac

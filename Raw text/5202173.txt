@@ -1,0 +1,107 @@
+(Senior) Full Stack Developer
+UNIQA
+Miesto práce
+Krasovského 15, Petržalka
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 400 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+V súčasnej dobe hľadáme vhodného kandidáta či vhodnú kandidátku na pozíciu:
+(Senior) Full Stack Developer
+Máte chuť podieľať sa na zaujímavých projektoch, ktoré reagujú na najnovšie trendy v oblasti fintechu a poisťovníctva?
+Je pre vás výzvou byť zodpovedný/á za vývoj aplikácií?
+Chcete mať prístup k moderným technológiám a nástrojom?
+Láka vás neustále pracovať na svojom odbornom a osobnom raste?
+Ste tímový hráč so zodpovedným prístupom k práci?
+Ak áno, čítajte ďalej…
+Aké je poslanie tejto pozície?
+V rámci tejto pracovnej pozície sa budete podieľať na návrhu, vývoji a prevádzke moderných webových aplikácií, ktoré využívajú najnovšie technológie a cloudové riešenia. Pracujeme agilne, s dôrazom na kvalitu kódu, automatizáciu a monitoring.
+Aký je tím vývoja potálov v UNIQA?
+Príjemné pracovné prostredie je pro nás základ, a preto sme k sebe ústretoví a pripravení si kedykoľvek vzájomne pomôcť. Dokážeme sa baviť nie len o práci a nebránime sa novým výzvam a možnostiam Celý tým IT je skvelá partia, radi si vyrazíme spoločne po práci alebo na teambuilding.
+Technologický stack
+Backend:
+Java
+Spring Boot, Spring Cloud
+Docker
+Maven
+Frontend:
+TypeScript
+React, Redux
+Material UI (MUI)
+CI/CD & DevOps:
+Jenkins, GitLab CI
+SonarQube
+ELK Stack (Elasticsearch, Logstash, Kibana)
+Prometheus, Grafana, Zabbix
+Databázy:
+PostgreSQL
+Čo od vás očakávame?
+skúsenosti s vývojom webových aplikácií na úrovni full stack
+dobrá znalosť Java a Spring ekosystému
+skúsenosť s React a TypeScript
+znalosť kontajnerizácie (Docker)
+základy CI/CD a monitoring nástrojov
+tímový duch, samostatnosť a chuť učiť sa nové veci
+Bonusové body za
+skúsenosti s cloudovou platformou Azure
+znalosť návrhových vzorov a architektúr (microservices, event-driven)
+práca s GitLab pipelines, SonarQube alebo ELK stackom
+skúsenosti s Angular
+znalosť MSSQL
+Čo vám ponúkame?
+prácu na zmysluplných projektoch s dopadom
+stabilné zázemie a podporu profesijného rastu
+prístup k moderným technológiám a nástrojom
+priateľský kolektív a príjemné pracovné prostredie v Bratislave alebo Brne
+možnosť získať ročný bonus vo výške až 2násobku mzdy
+skrátený pracovný týždeň na 37,5 hodiny, 5 týždňov dovolenky (aj pre zamestnancov do 33 rokov), 3 dni osobného voľna ročne, pružná pracovná doba, home office
+Employee Life Assistant (ELA) – jedinečná služba pre zamestnanca s možnosťou využívať bezplatne komplexné asistenčné služby v oblasti práva, financií, psychológie a zdravého životného štýlu
+online lekárské služby od Dr. Digital
+skupinové životné poistenie UNIQA plnehradené zamestnavateľom
+Restart Break – príležitosť načerpať nové sily po 5 rokoch zamestnania u nás
+celý rad ďalších atraktívnych firemných benefitov (príspevok na Gastro kartu alebo priamy finančný príspevok na účet zamestnanca; možnosť vybrať si jeden z nasledujúcich benefitov: 1) systém Cafeterie, 2) plne hradená MULTISPORT karta 3) kombinácia Cafeterie + Multisport karta; príspevok na výuku AJ; firemné akcie; pitný režim na pracovisku; zvýhodnené firemné produkty; príspevok na doplnkové dôchodkové sporenie; benefit pre spolurodiča po narodení dieťaťa; odmena za pracovné výročie; deň voľna pre rodiča prváčika v prvý školský deň, príspevok na rekreáciu a príspevok na športovú činnosť dieťaťa a mnoho ďalších)
+Lokalita: Bratislava / Brno / hybridne
+Chcete byť súčasťou tímu, ktorý posúva digitálne služby na vyššiu úroveň? Pošlite nám svoj životopis a ukážky projektov, na ktorých ste pracovali.
+Zamestnanecké výhody, benefity
+Mobilný telefón
+Individuálne rozvrhnutie pracovného času
+Bonusy/prémia
+Notebook
+Vlastna organizácia práce
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Jazykové znalosti
+Anglický jazyk - Začiatočník (A2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Na Slovensku a v Českej republike nám dôverujú viac ako 3 milióny klientov, o ktorých sa spoločne staráme. Každý z nás je trochu iný – stretávajú sa u nás všetky generácie, v managemente máme 33 % žien a niektorí naši kolegovia a kolegyne majú rôzne zdravotné znevýhodnenia. Na našich odlišnostiach si jednoducho zakladáme. Pretože práve vďaka nim sme každý deň lepší. A to je tiež dôvod, prečo nám tento rok pribudli na imaginárnu poličku ocenení ďalšie úspechy - naše Cestovné poistenie, Poistenie majetku a Povinné ručenie získalo ocenenie Bronzová koruna 2024 a náš produkt Cestovné poistenie pre klientov Raiffeisenbank získal dokonca Striebornú korunou 2024.
+UNIQA - Lepšia práca spoločne.
+Kontakt
+Kontaktná osoba: Andrea Hrdova
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202173
+Dátum zverejnenia:
+5.12.2025
+2025-12-05
+lokalita:
+Bratislava
+Pozícia:
+Java programátor
+,
+Programátor
+Spoločnosť:
+UNIQA
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 400 EUR/mesiac

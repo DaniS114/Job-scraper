@@ -1,0 +1,91 @@
+Pracovné ponuky
+O nás
+Kontakt
+Group Data & AI Platform Engineer
+Remote work
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+Dohodou
+Popis pracovnej pozície
+The position is based in Slovak Republic. Applicants must have a place of work in Slovakia.
+As one of the leading insurance companies, we know that together we can achieve more. At UNIQA, we are therefore the community for a better life. We use our individual skills to shape the future together.
+Do you want to be an important part of the digital transformation in a renowned company?
+Would you like to work with Footprint in the CEE area for one of the most successful companies in the insurance industry?
+Do you not only want to be part of the digital transformation of UNIQA, but also bear responsibility and play a major role in shaping it?
+We, Team Group Data & AI, are a group of motivated, creative and innovative data enthusiasts with expertise in various areas. Our goal is to make UNIQA fit for digital transformation. We inspire our colleagues by implementing innovative data solutions together with the business departments and also provide the necessary technological basis.
+Tell us about your strengths and apply as a Group Data & AI Platform DevOps :
+What are your tasks?
+Manage and Develop the Groups solution blueprint for a Group wide standardized Data & AI platform using:
+o	Azure Databricks (Spark, Delta Lake, MLflow)
+o	Azure Machine Learning
+o	Azure Data Factory for data orchestration
+o	Azure SQL and Data Lake Storage
+Support infrastructure automation with Terraform
+Optimize data pipeline patterns and model deployment workflows
+Contribute to MLOps practices using Azure DevOps
+Manage and actively run the solution blueprint release cycles
+Collaborate with data scientists, analysts, and business stakeholders to translate requirements into scalable solutions.
+Ensure Data & AI solutions meet compliance, security, and performance standards
+Support local platform responsibles Group wide in managing the local instances
+Čo ti ponúkame
+3 500 EUR/month
+Salary from 3500 EUR, 13th and 14th salary
+Thanks to flexible working hours, at UNIQA GSC, you can arrange your day to suit your needs.
+For new colleagues, we have prepared a comprehensive welcome package.
+Every employee receives a daily meal allowance of € 8,80.
+We offer  language courses in German and English , along with a diverse range of vocational training opportunities.
+A 13th and 14th salary is guaranteed for all UNIQA GSC employees.
+We contribute to the third pillar of the supplementary pension savings  and also provide accident insurance coverage for our employees.
+We regularly organize events for employees such as  Christmas parties, summer celebrations, sports days and more.
+If you are a sports enthusiast, you will certainly appreciate the Multisport card we offer.
+Si ten správny kandidát?
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+-	3–5+ years of experience in DevOps, data engineering, AI, or machine learning roles
+-	Strong hands-on experience in using cloud services, preferably in Azure Databricks and ideally also Azure AI services (e.g. Cognitive Services)
+-	Preferably knowledge of Power BI or another relevant BI Tool
+-	Experience with Cloud FinOps
+-	A collaborative mindset and the ability to realise complex ideas within an agile Teams setup
+-	Good communicative and interpersonal skills with the ability to address stakeholder requirements and turn them into solutions.
+-	Beneficial: Experience working in or with fintech, insurance, or banking organizations.
+O UNIQA GSC
+UNIQA Group Service Center Slovakia, spol. s r.o.
+UNIQA Group Service Center Slovakia, spol. s r.o.,  je dcérskou spoločnosťou rakúskeho poisťovacieho koncernu UNIQA Group Austria. Firma sa člení na úseky Software Service (SWS), Cross-Border Service (CBS) a Back Office Service (BOS) a Nearshoring (NES).
+Prioritnou činnosťou úseku SWS je vývoj a údržba softvéru pre komerčné poisťovne patriace do skupiny UNIQA. Koncentruje sa najmä na systém INAS, ktorý je určený pre správu portfólia poistných produktov, poistných zmlúv a poistných udalostí, klientských, partnerských a účtovných údajov. V posledných rokoch sa dostáva do popredia vývoj moderných webových aplikácií nadväzujúcich na systém INAS.
+Úsek CBS, ktorý vznikol v roku 2006, sa zaoberá správou poistných zmlúv a likvidáciou poistných udalostí klientov rakúskeho poisťovacieho koncernu.
+Number of employees
+500-999 employees
+Contact
+Contact person: Ing.  Ingrid Vagačová
+Tel.:
++421904933679
+E-mail:
+send CV
+Poslať životopis
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5175088
+Dátum zverejnenia:
+11.11.2025
+2025-11-11
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+,
+IT Analyst
+Spoločnosť:
+UNIQA Group Service Center Slovakia, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

@@ -1,0 +1,76 @@
+BI Developer
+distriBind Limited
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+From 2 000 EUR/month
+£1,750 - £3,000 per month. Offer / contract in GBP
+Information about the position
+Job description, responsibilities and duties
+Company Overview
+distriBind is an InsurTech delivering Automated Data Exchange and Back Office processing to the Insurance Industry.Primarily focused on the Delegated Authority sector, distriBind allows data to be passed from distribution to capacity in a highly automated manner whether using real-time APIs or more traditional bordereaux.
+At the core of our culture lies a strong commitment to delivering excellence and honesty. This is key to the supportive, fun and open working environment that we have.
+distriBind was formed in 2018 with the ambition to be the leading Global Delegated Authority solution and has been awarded a grant from Innovate UK for it’s Machine-Learning Capacity Utilisation Predictor, was runner-up in the 2020 ACORD InsurTech Innovation Challenge, and was a member of the Lloyd’s Lab cohort 6 in 2021.Since then, distriBind has been shortlisted for numerous awards, received multiple industry recognitions and been a part of some great innovation programs.
+Job Overview
+The SQL/BI Developer will be responsible for ensuring optimal efficiency of complex data queries within the platform and surfacing standard and custom views for BI Reporting in Power BI.
+distriBind processes large volumes of data and ensuring fast and efficient data queries is essential. You will continually monitor queries to identify slower performing queries and perform optimisation.
+R&D will be a crucial part of this role, identifying more efficient ways to store and retrieve data while ensuring security and availability of client data. You will work with the other developers to identify and implement efficiencies as well as with the Product Team to deliver reports either as part of the product roadmap or for client requirements.
+Duties
+Continually monitor the platform to identify slower-performing queries and implement optimisations to improve performance and efficiency.
+Suggest changes to the storage and retrieval of data to improve performance / security efficiency.
+Implement elements of the technology or product roadmaps related to data security, storage and retrieval
+Build SQL stored procedures and views to support the data processing and reporting requirements of the platform
+Support the creation of documentation
+Stay up to date on changes in the Insurance industry or technological changes to help maintain distriBind as a cutting-edge platform
+Other activities as required from time to time to support the goals of the company and targets set
+Required Experience
+4+ years SQL Server development experience for enterprise software
+Azure SQL PaaS and Azure SQL experience
+Managing and Deploying SQL Server applications in cloud environments
+Experience building and maintaining super-fast queries for large volumes of data
+Experience delivering views for BI Reporting – Power BI / Tableau / Qlik
+Power Query, DAX
+Python, R an advantage
+Employee perks, benefits
+Equity options
+This will be a contract opportunity as we do not have a Slovakian payroll
+Information about the selection process
+A remote contract role
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+Language skills
+English - Upper intermediate (B2)
+Advertiser
+Brief description of the company
+distriBind is an InsurTech curing the insurance industry of its spreadsheet addiction with a digital data exchange and full delegated authority workbench.
+We work with large global insurers and MGAs to automate data exchange and improve visibility. We have won multiple awards.
+Number of employees
+20-24 employees
+Contact
+Contact person: Dave Connors
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5179565
+Dátum zverejnenia:
+21.10.2025
+2025-10-21
+lokalita:
+Remote work
+Pozícia:
+Software Engineer
+Spoločnosť:
+distriBind Limited
+Základná zložka mzdy (brutto):
+2 000 EUR/month

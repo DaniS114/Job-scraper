@@ -1,0 +1,97 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+DevOps Engineer (Kubernetes, Terraform, Ansible)
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava
+Mzdové podmienky (brutto):
+Od 3 600 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Termín nástupu:
+Dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+- Budovať, udržiavať a zlepšovať architektúru systému ďalšej generácie spôsobom „Infrastructure as a Code“
+- Budovanie cloudového AWS prostredia, nastavovanie a implementácia Kubernetes, Terraform, Ansible
+- Zodpovedá za vytváranie a implementáciu systémových vylepšení, ktoré zlepšujú výkon a spoľahlivosť systému
+- Budovanie a vývoj platforiem CI/CD s cieľom rýchlejšieho a bezpečnejšieho presunu zmien do produkcie
+- Vyvinúť nástroje a procesy na lepšie využitie základných zdrojov
+- Vytvárať dokumentačné materiály a usmerňovať ďalšie tímy týkajúce sa navrhovaných riešení a technológií
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: ivana.jurikova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná spoločnosť poskytujúca zaujímavé a inovatívne projekty.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT, technické, SW Inžinierstvo, telekomunikácie, bezpečnosť
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+- 3+ roky skúseností ako  Automation Developer, DevOps Engineer, AWS Admin(Architect, Deployment špecialista)
+- Skúsenosti so skriptovaním pomocou Go, Bash alebo Python
+- Skúsnenosti s configuration management toolmi: Ansible, Chef, Salt, Puppet, Terraform…
+- Orchestrácia, kontajnerizácia a riadenie zdrojov: OpenShift, Kubernetes, Docker
+- Silné znalosti o systémoch založených na Linuxe; RedHat
+- Dobrá znalosť cloudových riešení – AWS, networking, microservices,
+- Terraform
+- CI/CD, setting up pipelines, znalosť version control system (git, bitbucket...)
+- JAVA programming, Spring
+- Deployment Jenkins, Bamboo
+- Základné znalosti o osvedčených postupoch softvéru, ako je agilný vývoj, vývojový program Devops, pokyny pre kódovanie, preskúmania kódu atď.
+Ďalšie znalosti: Kafka, Nginx, Bitbucket, Nexus, git, Bamboo, Jenkins, JBoss,
+- Správa monitoringu – Prometheus, Zabbix, Grafana, Elastic, Splunk
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Ivana Juríková
+Tel.:
++421 911 189 261
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+4881864
+Dátum zverejnenia:
+12.12.2025
+2025-12-12
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Programátor
+,
+Python programátor
+,
+Scrum Master
+,
+Systémový administrátor
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 600 EUR/mesiac

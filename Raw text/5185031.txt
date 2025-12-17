@@ -1,0 +1,111 @@
+About us
+Our benefits
+Open positions
+Data Architect
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 300 - 5 500 EUR/month
+For Slovakia the base salary range for this position is between [EUR 3,300] and [EUR 5,500] per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the Role
+As the Data Architect & Product Owner, you will drive both the technical architecture vision and strategic platform evolution, ensuring business-as-usual operations run smoothly while continuously improving governance, performance, and usability of the data ecosystem.
+You will lead the BAU and continuous improvement of the Foundry-based Data Products Platform, balancing architecture stewardship with agile product ownership.
+Your responsibilities cover data modeling, platform governance, performance optimization, and enablement.
+At the same time, you will act as an Asset Management Domain Data Architect, owning and evolving Asset Management data architecture further.
+Curious to learn more? Let’s dive in!
+Your key responsibilities:
+As a Product Owner
+•	Own the roadmap, backlog, and priorities for platform stability, security, and feature evolution
+•	Ensure the platform remains aligned with architectural best practices and enterprise standards
+•	Balance operational reliability (incident management, monitoring, runbooks) with strategic development (enhancements, automation, and innovation)
+•	Prioritize improvements that deliver sustainable business value, such as reusability, maintainability, and governance automation
+•	Monitor and optimize platform performance, ensuring critical SLAs (e.g., KEP, KWP) are consistently met
+•	Coordinate closely with use-case oriented squads to ensure platform scalability, enablement, and smooth onboarding of new use cases
+•	Develop and maintain reusable components, templates, and patterns to accelerate delivery of new data solutions.
+•	Create and share best-practice documentation, onboarding materials, and training to uplift data engineering maturity across the organization
+As an AM Data Architect
+•	Define and maintain data models (structured and unstructured) across the Asset Management landscape (AMADM, Markit EDM, and related schemas)
+•	Govern schema, metadata, and lineage standards across Foundry; review and approve model changes for consistency and compliance
+•	Define integration patterns, data flow design, and architectural guidelines for cross-domain interoperability
+•	Ensure all changes adhere to data governance principles, including classification, retention, and metadata completeness
+•	Collaborate with other teams to define and evolve data architecture blueprints, governance frameworks, and performance guidelines
+•	Provide architectural oversight for Foundry and other use cases, ensuring solutions adhere to AM data architecture principles and Swiss Re standards
+•	Represent the squad in architecture and data governance forums, advocating for standardization, interoperability, and continuous improvement
+About the Team
+At the heart of Data & Tech Asset Management, Platform Excellence team ensures that Foundry Data Products use-cases run securely, efficiently and in line with enterprise data architecture principles. We ensure that clients get best support with data questions or platform expansion requests.
+Our mission is simple but essential:
+Keep platform stable, performance and compliant – while empowering our clients to innovate safely and quickly.
+As part of Swiss Re's Asset Management Digital & Tech organization, we work in a scaled agile model with a shared leadership team and broadly aligned autonomy for our squads. We are located across the globe but share the same values of passion, openness, respect, humility, and curiosity in our team. We strive to improve the quality of our work for our customers every day. As a matter of trust, we give you a high degree of flexibility which matches your independent working style. Is this for you? Then we want to get to know you!
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You’re passionate about engineering and data practices, and you fully understand the value of ETL processes in delivering accurate, reliable, and accessible data. You are technically fluent in data architecture and hands-on with Foundry yet capable of steering cross-functional stakeholders towards a shared product vision. You're equally comfortable discussing schema normalization as you are defining roadmap priorities or handling production incidents.
+Essentials:
+•	Proven track record as Data Architect, Data Product Owner, or Platform Owner in a data-intensive environment
+•	Deep expertise in data modeling, data governance, ETL, and performance optimization
+•	Hands-on experience with Palantir Foundry (Object Sets, Ontologies, Code Workbooks, Contour)
+•	Technical fluency in Python, SQL, and PySpark
+•	Experience managing agile backlogs and balancing BAU with strategic initiatives
+•	Strong understanding of security, access control, and compliance in enterprise data platforms
+•	Excellent communication skills — able to translate between technical and business perspectives
+Nice to haves:
+•	Familiarity with Stargate, Databricks, or MSBI ecosystems
+•	Knowledge of asset management data domains and operational data flows
+•	Experience defining data platform architecture patterns or DevSecOps automation
+•	Cloud platform understanding (Azure, AWS)
+Take a next step in your career and hit APPLY button. We are looking forward to reviewing your application!
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5185031
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+Database Analyst
+,
+Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 300 EUR/month

@@ -1,0 +1,78 @@
+About us & contact
+Career
+Benefits
+IAM - IDM operations support
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+asap
+Wage (gross)
+From 2 000 EUR/month
+basic salary from 2000 gross depends on candidate's experience + Q bonuses
+Job description, responsibilities and duties
+Are you interested in access management, permissions and to keep access simple and secure? Then, you are on the right place here. We are looking for new colleagues to join the Identity and Access Management team, to support the operation of the IDM solutions which are based on the product “One Identity”. We are a part of international agile team which supports our customers within Raiffeisen group.
+We have our offices in Presov and Nitra, but you can work from home/remotely as well.
+Your tasks:
+• Active handling of all requests and incidents in ServiceNow in our assignment group, verify correct classification and metadata (incident vs. request, criticality, etc.), in-time assignment and resolution. Customer contact/support for IDM related requests / incidents
+• Monitoring of input interfaces and data, troubleshooting in the case of incidents
+• L2 customer support on IDM related tasks within business hours
+• IDM Catalog Management - management of IDM Shop items, interaction with customers to create/manage needed shop items on a daily basis.
+• Vulnerability monitoring and Patching - patching and updating of systems, fixing of vulnerabilities within time constraints to ensure system health
+• Active participation on meetings, inform about tasks, sharing of information within team
+• Reporting, Audit Support - creation of standard reports or creation of specific reports based on user or audit requirements
+• Active collaboration with other sub-groups in Operation team and with Development team on internal IDM related projects
+• Regular check and update of internal and customer documentation/handbook to ensure validity and ease of readability
+Usage of two ITSM/Ticket tools:
+-	Service Now 1st to 2nd level and end-customer communication
+-	Jira 2nd to 3rd level and application manager communication
+Personality requirements and skills
+What are we expecting:
+- At least 1 year of professional experience with Identity and Access Management or similar role
+- Understand the basics of security and access management, basic understanding of Active Directory
+- Experience with troubleshooting and solving complex problems on L2 support level (OS, user)
+- Basic knowledge of SQL and querying Databases
+- Strong understanding of problem solving, and analytical thinking paired with an independent way of working
+- Can enforce and communicate policies clearly and respectfully when needed
+- Communicate well and care about a good user experience
+As advantage:
+- Scripting in Power Shell
+- Experience with IDM product of One Identity
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+SQL - Basic
+Active Directory (Windows) - Basic
+Windows server administration - Basic
+ServiceNow - Basic
+Jira - Basic
+Microsoft Office 365 - Skillful
+Send CV to the company
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Vaše osobné údaje sú spracovávané a likvidované v súlade s Nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 a zákona o ochrane osobných údajov 18/2018. Zásady a smernicu o ochrane osobných údajov nájdete na:
+GDPR
+Your personal data is processed and disposed of in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council and the Data Protection Act 18/2018. The privacy policy and directive can be found at:
+GDPR
+Follow us on
+ID:
+4791969
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Remote work
+Pozícia:
+IT Security Specialist
+,
+IT/Technical Support Specialist
+,
+Systems Administrator
+Spoločnosť:
+Raiffeisen Informatik SK s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

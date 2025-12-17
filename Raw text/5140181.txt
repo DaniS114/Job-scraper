@@ -1,0 +1,111 @@
+O NÁS
+VOĽNÉ POZÍCIE
+BENEFITY
+Bezpečnostný analytik jednotky CSIRT
+Miesto práce
+Bratislava
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Finálne mzdové ohodnotenie bude závisieť od praxe a skúseností vybraného kandidáta, pričom bude v súlade so zákonom č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme.
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Bezpečnostný analytik jednotky CSIRT vykonáva:
+monitorovanie a analýzu bezpečnostných udalostí zo SIEM systémov a iných zdrojov (logy, IDS/IPS, firewall, EDR, atď.),
+identifikáciu, klasifikáciu a eskaláciu kybernetických bezpečnostných incidentov,
+technickú analýzu útokov vrátane malvérov, phishingových kampaní, DDoS útokov a pokusov o neoprávnený prístup,
+návrh a implementáciu protiopatrení a reakčných scenárov na zaznamenané incidenty,
+forenznú analýzu systémov a digitálnych dôkazov v prípade závažných incidentov,
+spoluprácu s ostatnými zložkami informačnej bezpečnosti (napr. administrátori, vývojári, vedenie),
+vyhodnocovanie výstupov z threat intelligence platforiem a sledovanie aktuálnych kybernetických hrozieb,
+testovanie zraniteľností (v spolupráci s penetračnými testermi alebo prostredníctvom automatizovaných nástrojov),
+pravidelné cvičenia reakcie na incidenty a simulované útoky (table-top alebo technické cvičenia),
+tvorbu dokumentácie k incidentom, výstupných správ a post-mortem analýz.
+Bezpečnostný analytik jednotky CSIRT zodpovedá za:
+rýchlu a efektívnu reakciu na bezpečnostné incidenty v súlade s internými procesmi a legislatívou,
+správne vedenie záznamov o incidentoch a ich dokumentáciu v súlade s požiadavkami na auditovateľnosť,
+dodržiavanie časových rámcov pre oznamovanie incidentov orgánom podľa zákona (napr. NBÚ, ENISA),
+koordináciu nápravných opatrení s internými alebo externými tímami (napr. IT prevádzka, dodávatelia),
+aktualizáciu interných bezpečnostných politík, reakčných plánov a playbookov na základe získaných skúseností,
+aktívnu spoluprácu s jednotkami CSIRT a inými relevantnými bezpečnostnými autoritami.
+Zamestnanecké výhody, benefity
+skrátený týždenný pracovný čas – 37,5 hodín
+flexibilný pracovný čas
+nárok na 5 dní dovolenky nad rámec zákona
+dodatočné dni voľna nad rámec zákona (rodinné udalosti, dobrovoľnícke aktivity)
+príspevok zamestnávateľa na DDS
+karta MultiSport
+príspevok na stravovanie nad rámec zákona
+priestor na sebarealizáciu, odborný aj kariérny rast
+Informácie o výberovom konaní
+Vopred ďakujeme všetkým uchádzačom za prejavený záujem. Kontaktovať ohľadom osobného pohovoru budeme len tých kandidátov, ktorí spĺňajú požadované kritériá. Ďakujeme za porozumenie.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT, informačná bezpečnosť, kybernetika
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+MITRE ATT&CK - Pokročilý
+TLP Protokol - Mierne pokročilý
+EDR/XDR, SIEM, tiketovacie nástroje - Mierne pokročilý
+Prax na pozícii/v oblasti
+Skúsenosti v oblasti kybernetickej a informačnej bezpečnosti
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+praktické skúsenosti s analýzou bezpečnostných incidentov alebo logov z bezpečnostných systémov (SIEM, EDR,XDR, IDS/IPS),
+znalosť sieťových protokolov a schopnosť analyzovať sieťovú komunikáciu (napr. pomocou Wireshark),
+základy forenznej analýzy systémov a spracovania digitálnych dôkazov,
+orientácia v operačných systémoch (Linux/Windows) a ich bezpečnostných mechanizmoch,
+znalosť princípov fungovania škodlivého kódu a metód jeho detekcie,
+praktické zručnosti s nástrojmi určenými na detekciu a analýzu bezpečnostných udalostí,
+skúsenosť s tvorbou dokumentácie a správ k incidentom,
+schopnosť pracovať pod tlakom počas riešenia incidentov a v tíme CSIRT.
+Odporúčané certifikácie:
+CompTIA Security+
+CompTIA CySA+ (Cybersecurity Analyst)
+GCIH – GIAC Certified Incident Handler
+GCIA – GIAC Certified Intrusion Analyst
+GCFA – GIAC Certified Forensic Analyst
+CHFI – Computer Hacking Forensic Investigator
+OSCP -  The OffSec Certified Professional
+Ak sa vám ponúkaná práca páči, pošlite nám svoj
+životopis
+!
+Kontaktovať budeme len vybraných uchádzačov.
+Kontakt
+Kontaktná osoba: Ing.  Stanislava Čemeričková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5140181
+Dátum zverejnenia:
+20.10.2025
+2025-10-20
+lokalita:
+Bratislava
+Pozícia:
+IT manager
+,
+IT/Technical Support Specialist
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+Národné centrum zdravotníckych informácií
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

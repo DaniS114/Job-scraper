@@ -1,0 +1,113 @@
+Pridaj sa k nám ako Medior Full Stack Developer a tvor s nami budúcnosť technológií
+Dataconcept s.r.o.
+Miesto práce
+Prievozská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 200 EUR/mesiac
+spolupráca možná aj na živnosť
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Chceš pracovať v prostredí, kde sa kombinuje energia ThePrimeagena a kreatívne myslenie Thea? Pridaj sa k nám a zaži atmosféru plnú inovácií a technologických výziev!
+Hľadáme šikovného Medior Full Stack Developera/ku, ktorého/ktorej doménou je objektovo orientované programovanie (OOP), PHP a má skúsenosti s modernými frontend technológiami.
+Ak si sa v tomto našiel/la, potom čítaj ďalej a pošli nám svoj životopis spolu s náhľadom kódu. Budete sa tešiť na stretnutie.
+Požiadavky:
+•	Minimálne 3 roky skúseností
+•	Skúsenosti s Drupal CMS
+•	Znalosť PHP-FIG PSR štandardov a Composera
+•	Znalosť Laravel
+•	Znalosť SQL databáz (napr. MySQL, MariaDB, PostgreSQL) a optimalizácie dotazov
+•	Skúsenosti s kontajnerizáciou aplikácií (napr. Docker)
+•	Znalosť testovania backend kódu (PHPUnit)
+•	Schopnosť pracovať s nástrojmi na správu verzií (Git)
+•	Schopnosť optimalizovať backend aplikácie na výkon a bezpečnosť
+•	Základy frontend technológií (React, Vue.js, Angular)
+Výhodou:
+•	Skúsenosti s Headless CMS
+•	Skúsenosti s CI/CD pipelines
+•	Znalosť Redis, Memcached alebo iných caching technológií
+•	Skúsenosti s Nginx alebo Apache servermi
+•	Skúsenosti s RabbitMQ, Kafka alebo podobnými nástrojmi
+•	Skúsenosti s bezpečnostnými štandardmi a implementáciou (OWASP)
+•	Znalosť SilverStripe CMS alebo iných PHP frameworkov/CMS systémov
+•	znalosť Tailwind CSS
+•	Skúsenosti s JavaScriptom a TypeScriptom
+•	Pokročilé znalosti React.js
+•	Skúsenosti s Next.js
+•	Praktické skúsenosti s vývojom responzívnych a prístupných webových aplikácií
+•	Skúsenosť s optimalizáciou výkonu frontend aplikácií
+•	Základy práce s Figma
+Zamestnanecké výhody, benefity
+​• piatkový home office
+​• počítač a telefón sú samozrejmosť
+​• jazykové a odborné kurzy
+​• rôzne teambuildingové aktivity
+​• stravné uhrádzame v plnej výške
+​• 3 dni sick days​
+parádny tím, na ktorý sa môžeš vždy obrátiť
+Informácie o výberovom konaní
+každý jeden životopis čítame a dávame vedieť výsledok. Nezabudni pripojiť vzorku kódu na ktorý si pyšný/á prípadne Tvoj GitHub.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Prax na pozícii/v oblasti
+3
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Výhodou, nie však podmienkou, sú:
+- Soft Skills:
+Rýchlo sa učíš, dokážeš sa prispôsobiť zmenám
+Sleduješ nové trendy, vzdelávaš sa
+- Hard Skills
+Skúsenosti s návrhom a vývojom RESTful web API.
+Backend vývojárske skúsenosti s PHP frameworkami ako Slim, Laravel, a Symfony.
+Znalosť SQL databáz.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Nájdeš nás na mape MarTech spoločností. Zavádzame automatizáciu pomocou marketingových technológií a AI. Vďaka zákazníckym dátam vytvárame optimálnu zákaznícku cestu, digitálny zážitok a stratégiu komunikácie.
+Obchodné procesy: Zefektívnenie práce obchodníkov prostredníctvom automatizácie a zavedenie CRM.
+Marketingové procesy: Riešenia pre segmentáciu,automatizovanú a personalizovanú marketingovú komunikáciu.
+Firemné procesy: Využitie AI a automatizácia firemných procesov.
+Vývoj IT: Návrh a realizácia web aplikácií pre obchod a marketing.
+Od roku 2022 sme súčasťou skupiny Kreator Group (Wiktor Leo Burnett, DataConcept, Starmedia, Socialists, Leopard Production, Data on Steroids).
+Kontakt
+Kontaktná osoba: Branislav Kohl
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+4880890
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+PHP programátor
+,
+Programátor
+Spoločnosť:
+Dataconcept s.r.o.
+Základná zložka mzdy (brutto):
+3 200 EUR/mesiac

@@ -1,0 +1,100 @@
+Senior Fullstack/ Backend Developer
+IstroSec s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP/Dohodou
+Mzdové podmienky (brutto)
+4 000 EUR/mesiac
+Výsledné ohodnotenie ovplyvňuje seniorita, skúsenosti uchádzača a forma úväzku.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme senior softvérového inžiniera na vývoj anti-ransomware produktu
+IstroSec Gryphon
+. Gryphon chráni zariadenia prostredníctvom pokročilých techník detekcie a obrany voči škodlivému kódu a využíva ho čoraz viac klientov z rôznych sektorov. Našim cieľom nie je nič menej, ako pomôcť používateľom držať ransomware na dištanc. Chceme sa pomocou Gryphona zbaviť príjmov z našich Incident Response činností spojených s vydieračským malware! :)
+https://gryphon[dot]istrosec.com
+Čo očakávame
+Znalosti programovacích jazykov a frameworkov:
+• TypeScript (a JavaScript)
+• Node.js (Express, tRPC, Zod, ...)
+• React (React-Admin, webpack)
+• HTML5
+Znalosti iných technológií, ako napríklad:
+• PostgreSQL
+• OpenSSL
+• GIT
+• Docker
+Základné znalosti kybernetickej bezpečnosti sú vítané!
+Ak vieš, čo znamená skratka PKI (hint: nie „protein kinase inhibitor“, hoci i tie sú mocné :), nie je ti cudzie implementovať digitálne podpisovanie, orientuješ sa v pojmoch ako hash či kryptografia alebo máš skúsenosti s bezpečnostnými riešeniami (AV, EDR, ...), u nás to zúročíš a posunieš na nový level.
+Kde budem pracovať?
+Miesto v office (s výhľadom, kávovarom a kolegami, v bezprostrednej blízkosti OC Vivo) budeš mať k dispozícií minimálne na jeden deň do týždňa. Očakávame úroveň seniority spätú so schopnosťou rozvrhnúť si svoj čas a doručiť výsledok, bez nutnosti manažovať každý Tvoj krok. Po zvyšok týždňa môžeš pracovať z domu.
+S kým budem pracovať?
+S tímom 4 developerov a s ďalšími kolegami, ktorí na vývoji produktu spolupracujú.
+Porady bývajú raz do týždňa v kancelárii, a vtedy Ťa na nich skutočne potrebujeme. Následne sa koordinujete podľa potreby a aktuálnej činnosti. Počas zaúčania bude frekvencia stretnutí, pochopiteľne, vyššia – ale v primeranej miere.
+Tím IstroSec ako taký má približne 40 členov, ktorí poskytujú klientom po celom svete rôzne služby v oblasti informačnej bezpečnosti.
+Na čom to budem pracovať?
+Pracovať budeš na centralizovanom manažmente nášho riešenia. To slúži na konfiguráciu a ovládanie koncových zariadení, ako aj na zber, vyhodnocovanie a analýzu údajov o ich stave. Všetko čo sa deje na koncovom zariadení má pod drobnohľadom náš agent, ktorý pracuje na všetkých vrstvách operačného systému, aby detegoval a zastavil hrozby. Agenta vyvíjajú kolegovia z druhého tímu, našou úlohou je zaručiť, že má správne informácie na vyhodnocovanie diania na zariadení. Zozbierané údaje z agenta obohatíme užitočným kontextom pre efektívnejšiu prácu používateľov nášho webového rozhrania. Tento produkt využívajú denne analytici z oblastí Managed Defense, Incident Response ale aj Digital Forensics.
+Používateľská časť je tvorená React aplikáciami, ktoré píšeme v TypeScripte a balíme pomocou webpack a babel. React aplikácie ale aj agenti komunikujú so serverovou časťou cez REST API alebo WebSocket. Serverový kód je tvorený TypeScriptom, ale vo výnimočných prípadoch, kde Node.js runtime nestačí, máme aj Go. Kontajnery orchestrujeme pomocou Dockeru a keď potrebujeme bezpečne uložiť dáta, spoliehame sa na PostgreSQL. Čaká nás veľa výziev v oblasti kybernetickej bezpečnosti, škálovania, optimizácie ale aj user-experience s ktorými nám vieš pomôcť.
+Čo budem robiť?
+Samostatne i v spolupráci s inými členmi developerského tímu rozširovať funkcionality Gryphona a ladiť jeho existujúce komponenty. Očakávame, že každý člen tímu si bude schopný napísať základnú sadu testov (unit a integračné) pomocou vitest, a bude k vyvíjanému kódu písať dokumentáciu (keďže svojmu kódu rozumieš najlepšie).
+Dotkneš sa i návrhu databáz – a ak si niekedy písal migrácie databáz, výborne, budeš mať príležitosť i u nás.
+V tíme si vzájomne poskytujete „službu“ code review. Preto očakávaj, že budeš prezerať kód kolegov a zapracúvať feedback od nich na tvoje vlastné riadky.
+To, že sa pri tom všetkom budeš učiť, je nadbytočné zdôrazňovať.
+Zamestnanecké výhody, benefity
+Čo môžeš očakávať?
+Pracovať budeš na softvéri, ktorý už dnes chráni tisícky endpointov. A toto číslo bude rásť. Mala by Ťa tešiť predstava, že spoluvytváraš niečo, čo má potenciál zachrániť dáta, prácu a potenciálne i živobytie množstvu ľudí.
+Ohodnotenie bude na úrovni okolo 4000€ brutto, v závislosti od skúseností a dohodnutého typu spolupráce. Preferujeme zamestnanie na TPP.
+Prémie vyplácame v závislosti od aktuálnej ekonomickej situácie. Zatiaľ sa vždy dalo vyčleniť časť zisku na odmeny pre tých, ktorí sa oň denne pričiňujú.
+Spomeňme ešte benefity v podobe príspevku na Multišport kartu, sickdays, a príspevok na III. pilier. Takisto ti pridelíme služobný hardware.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT, vývoj softvéru. Uvítame aj uchádzačov bez ukončeného vzdelania, ak majú ekvivalent praxe (min 5 rokov na vývojárskej pozícií).
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Prax na pozícii/v oblasti
+Vývoj softvéru
+Osobnostné predpoklady a zručnosti
+Zodpovednosť
+Schopnosť pracovať samostatne aj v tíme
+Schopnosť manažovať svoj čas
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+IstroSec je dôveryhodný poskytovateľ prvotriednych pokročilých služieb v oblasti kybernetickej bezpečnosti a dodávateľ špičkových nástrojov na zabezpečenie komplexnej odolnosti. Má inovatívny, multidisciplinárny tím viac ako 50-tich expertov svetovej úrovne. Odbornosť tímu je postavená na vysoko kvalifikovaných etických hackeroch, incident responderoch a konzultantoch s desiatkami rokov skúseností, ktorí svojimi vedomosťami pokrývajú široký záber tém z oblasti kybernetickej bezpečnosti.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Veronika Frankova
+Tel.:
++421911778543
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203192
+Dátum zverejnenia:
+11.12.2025
+2025-12-11
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Programátor
+Spoločnosť:
+IstroSec s.r.o.
+Základná zložka mzdy (brutto):
+4 000 EUR/mesiac

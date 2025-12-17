@@ -1,0 +1,132 @@
+Senior Python Developer
+BTCS Slovakia s. r. o.
+Place of work
+Pribinova 4, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Wage (gross)
+From 3 800 EUR/month
+The final salary depends on the individual experience and skills of the selected candidate.
+Information about the position
+Job description, responsibilities and duties
+About the Role:
+You’ll join the Invest and Advice Team to support building innovative crypto products alongside a team of passionate researchers. From advanced analytics frameworks and custom indices to derivative trading strategies, our work is at the forefront of the digital asset space. These solutions will soon power our premium, white-glove portfolio for high-net-worth clients worldwide.
+You will also support Artificial Intelligence internal products such as AI assistants for Compliance and AI automations for business processes.
+We’re a greenfield environment — no rigid corporate policies, minimal meetings, and plenty of room for creativity. You’ll have the freedom to shape solutions, experiment with new ideas, and make a real impact from day one.
+Position Overview:
+We are looking for a
+Senior Python Developer
+to design and build medium-complexity applications and services in our Azure environment. The ideal candidate is a strong Python engineer with
+solid experience in writing and maintaining reusable, testable code
+, good knowledge of Azure cloud services (Key Vault, Storage Accounts, Application Insights), and familiarity with DevOps practices (CI/CD, containerization, ArgoCD, observability).
+You will have the following responsibilities:
+Design, develop, and maintain Python applications and supporting libraries.
+Write
+clean, reusable, well-tested, and maintainable code
+with strong focus on quality.
+Integrate with Azure services such as
+Key Vault, Storage Accounts, Application Insights, and Data Lake
+.
+Build and maintain CI/CD pipelines in Azure DevOps; support deployments with
+Docker and ArgoCD
+.
+Set up and use observability tools (
+Grafana, OpenTelemetry, Application Insights
+) for monitoring and debugging.
+Work with
+SQL databases
+and optimize queries for performance and reliability.
+Collaborate with cross-functional teams to align application design with infrastructure and compliance requirements.
+Document solutions and support knowledge sharing across the team.
+Employee perks, benefits
+​Exciting projects in the crypto space
+Friendly and supportive team culture that relies on positivity
+Flexible organization of your working hours
+Christmas bonus
+Company shares
+Home-office
+Workation: Enjoy the flexibility of working across designated EU countries, with up to 10 days a year to combine work and travel
+Multisport card
+Information about the selection process
+Online Personal Interview
+This call is about getting to know each other. We want to know more about your background, motivations and expectations and at the same time you can ask us your questions.
+Technical Interview
+In the technical interview, we have a few tasks for you to learn more about your skills. You will also have the opportunity to get to know the team and the workplace.
+We will contact only candidates, who fit our needs. By sending your CV, you agree with processing of your personal data.
+Requirements for the employee
+Candidates with education suit the position
+Secondary without school-leaving examination
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+5
+Personality requirements and skills
+Required Skills and Qualifications:
+Bachelor’s degree in Computer Science, Engineering, or related field, or equivalent experience.
+5+ years of professional Python development experience
+, delivering production applications.
+Strong knowledge of Linux.
+Strong background in
+maintaining codebases
+: modular design, testing strategies.
+Hands-on experience with
+Azure cloud services
+: Key Vault, Storage Accounts, Application Insights, preferably also Azure SQL or Data Lake.
+Familiarity with
+CI/CD pipelines
+(Azure DevOps preferred).
+Experience with
+containerization (Docker)
+and deployments.
+Knowledge of observability and monitoring tools (
+Grafana, OpenTelemetry, Application Insights, AI Instrumentation
+).
+Solid understanding of clean coding practices and modular design.
+Strong problem-solving skills, communication, and ability to work in a collaborative environment.
+Preferred Skills:
+Experience with
+PySpark
+for big data processing and analytics.
+Exposure to Kubernetes (ArgoCD).
+Experience with distributed task orchestration (Celery, Airflow) or messaging (Kafka, RabbitMQ).
+Familiarity with advanced logging and monitoring best practices.
+Familiarity with bash, PowerShell scripting, excel VBA
+Strong SQL knowledge and practical experience with relational databases.
+Advertiser
+Brief description of the company
+Bitcoin Suisse is the Swiss crypto-native pioneer and trusted gateway to crypto asset investing. As a crypto broker, we operate across the most relevant crypto exchanges and provide brokerage, custody, staking and other crypto-related services at the forefront of technical innovation. We are as dedicated to our clients as we are passionate about cryptocurrencies and the underlying blockchain technology. We make things happen and have helped to shape the crypto and blockchain ecosystem in Switzerland as a driving force in the development of the ‘Crypto Valley’. Bitcoin Suisse is headquartered in Zug and targets (ultra-) high-net-worth individuals and institutional clients
+Number of employees
+250-499 employees
+Contact
+Contact person: Lujza Petríková
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5166061
+Dátum zverejnenia:
+30.10.2025
+2025-10-30
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+BTCS Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+3 800 EUR/month

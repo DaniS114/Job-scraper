@@ -1,0 +1,102 @@
+msg life Slovakia
+NAPREDUJ SPOLU S NAMI
+a využi svoj talent
+Analyzujeme, vyvíjame a testujeme inteligentné softvérové produkty v oblasti
+finančných a poistných služieb
+www.msg-life.sk
+Pracovné ponuky
+O nás
+Kontakt
+Systémový Integrátor pre oblasť poisťovníctva -  Home Office/Office
+Reagovať na ponuku
+Miesto práce
+Práca z domu
+Mzdové podmienky (brutto)
+Od 2 300 EUR/mesiac
+*
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+*Od 2300 € brutto mesačne. Konkrétna výška mzdy závisí od znalostí a skúseností a je výsledkom vzájomnej dohody. Práca z domu alebo v kancelárii v BA,ZA alebo KE.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+• Rollout a inštalácia informačných systémov podľa požiadaviek zákazníka.
+• Nasadenie nových testovacích prostredí a starostlivosť o existujúce konfigurácie  (interné a zákaznícke).
+• Optimalizácia, automatizácia a integrácia rôznych komponentov a samotného  inštalačného procesu v rámci systémov.
+• Vývoj, zavedenie a údržba DevOps integration pipeline a build management pri rôznych konfiguráciách.
+• Návrh, monitorovanie, log analýza a optimalizácia procesov v oblasti správy zdrojového kódu, integrácie a testovania.
+• Vytváranie dokumentácií a štandardizácia, technické poradenstvo klientom.
+Technológie a nástroje, s ktorými budeš pracovať:
+• DevOps, práca s CI/CD (continuous integration/continuous delivery) pipeline (Jenkins, Git, Nexus, Artifactory, Ansible)
+• Práca s aplikačnými servermi Tomcat, JBoss/WildFly, WebSphere a databázovými systémami DB2, Oracle a PostgreSQL
+Zamestnanecké výhody, benefity
+• Atraktívne platové ohodnotenie
+• Motivujúce odmeny a prémie
+• Vianočná prémia až do výšky základnej mesačnej mzdy
+• Štedrý príspevok na stravné
+• Príspevok na hobby 200€ ročne
+• Pružný pracovný čas
+• Príspevok do III. piliera
+• Home Office / Office podľa vlastného výberu
+• Až 5 dní dovolenky ročne nad zákonný rámec
+• Deň plateného voľna na Silvestra
+• Interné aj externé vzdelávanie
+• Bezplatné kurzy nemeckého a anglického jazyka v rámci pracovného času
+• Individuálny a priateľský prístup
+• Tímové športové aktivity
+• Zdravé občerstvenie, kvalitná káva aj čaje
+• ...a omnoho viac nájdeš na https://msg-life.sk/benefity/
+Informácie o výberovom konaní
+Zaujala ťa pracovná pozícia v msg life Slovakia? Nečakaj a ozvi sa nám. Pripoj nám životopis, alebo čokoľvek, čo nás presvedčí o tom, že ťa potrebujeme. Prevedieme ťa výberovým procesom, poskytneme ti spätnú väzbu a zostaneme s tebou v kontakte od začiatku až do konca. Tvoje osobné údaje budú u nás v bezpečí keďže sme zladení so zákonom č. 18/2018 Z. z. o ochrane osobných údajov a sním súvisiacich nariadení. Prijatie žiadosti obratom potvrdíme e mailom. Už teraz sa na teba tešíme!
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+a
+Nemecký jazyk - Úplný začiatočník (A1)
+Osobnostné predpoklady a zručnosti
+• Skúsenosti s podporou riešení založených na CI/CD princípoch (Jenkins, GitHub, Nexus, Artifactory, Maven)
+• Znalosti, alebo skúsenosti s aplikačnými servermi ako napríklad Tomcat, JBoss/WildFly, WebSphere a databázovými systémami DB2,  Oracle a PostgreSQL
+• Rutinná a bezpečná práca na príkazovom riadku vo Windows a Linux
+• Vítané skúsenosti s niektorým skriptovacím, alebo programovacím jazykom ako napríklad: Yaml, Unix-Shell, Perl, PHP, Groovy, Java, Python, PowerShell a pod.
+• Skúsenosti s integráciou komplexných informačných systémov pod Windows a Linux
+• Základné znalosti princípov kontajnerizácie (Docker, Kubernetes) a ochota podieľať sa na prípadných úpravách systémov a migráciách na cloud (AWS/Azure)
+• Základné znalosti z počítačových sietí
+• Znalosť anglického jazyka na komunikačnej úrovni – stredne pokročilý až pokročilý (B2-C1).
+• Znalosť nemeckého jazyka – začiatočník až stredne pokročilý (A1-B1).
+• Úspešne ukončené SŠ alebo VŠ vzdelanie I. alebo II. stupňa
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť msg life Slovakia je dcérskou spoločnosťou nemeckej skupiny msg life Gruppe. Medzinárodne činná skupina zodpovedá za profesionálne IT a poradenské služby v segmentoch poisťovníctva a finančníctva. Pre viac informácií kliknite  na  webovú stránku: https://msg-life.sk/
+Počet zamestnancov
+250-499 zamestnancov
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+Kontaktné údaje:
+Kontaktná osoba: Personálne oddelenie
+Tel.:
++421232221454
+E-mail:
+poslať životopis
+ID:
+4581317
+Dátum zverejnenia:
+12.12.2025
+2025-12-12
+lokalita:
+Práca z domu
+Pozícia:
+Databázový administrátor
+,
+Softvérový inžinier
+Spoločnosť:
+msg life Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+2 300 EUR/mesiac

@@ -1,0 +1,84 @@
+Fullstack Developer - Senior
+Finax, o.c.p., a. s.
+Miesto práce
+ROSUM, Bajkalská, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Mzdové podmienky (brutto)
+4 100 EUR/mesiac
+4 100 EUR/mesiac + v závislosti od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Na čom sa budeš podieľať, ak sa pridáš do Finaxu?
+Vo Finaxe veríme, že finančné sebavedomie pristane každému.
+Zvyšujeme finančnú gramotnosť ľudí prostredníctvom vzdelávania a meníme spôsob, akým vnímajú financie vďaka našim férovým, transparentným a inovatívnym produktom.
+Prečo si myslíme, že by ťa mohla baviť práca na tejto pozícii?
+Budeš vyvíjať nové softvérové riešenia aj vylepšovať tie existujúce. Čaká ťa práca, kde sa stretneš s návrhom, implementáciou aj optimalizáciou aplikácií.
+Medzi tvoje kľúčové aktivity by patrili:
+​
+Komplexný vývoj webových aplikácií využívajúcich PHP/Laravel backend;
+Návrh a implementácia RESTful API a mikroservisových architektúr v Laravel frameworku;
+Deployment a správa aplikácií v Kubernetes prostredí, vrátane konfigurácie CI/CD pipeline;
+Vývoj webových aplikácií pomocou Vue.js a PHP;
+Optimalizácia databázových dotazov, návrh efektívnych dátových modelov a cache stratégií;
+Implementácia bezpečnostných opatrení naprieč celým stackom aplikácie;
+Architektúra škálovateľných riešení s dôrazom na výkonnosť a udržiavateľnosť kódu;
+Code review, technické vedenie projektov a mentoring juniornejších vývojárov;
+Riešenie technických problémov, najmä s ohľadom na výkonnosť, kvalitu a bezpečnosť;
+Spolupráca s vedúcimi tímov a vývojármi na udržiavaní štandardov a kvality softvéru.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+PHP - Pokročilý
+Laravel (PHP framework) - Pokročilý
+Vue.js - Pokročilý
+Prax na pozícii/v oblasti
+5
+Osobnostné predpoklady a zručnosti
+Veríme, že naša spolupráca bude úspešná, ak:
+máš minimálne 5 rokov skúseností v oblasti softvérového vývoja;
+máš skúsenosti s komplexným vývojom webových aplikácií pomocou PHP/Laravel/Vue.js;
+si schopný/á riešiť problémy analyticky a prichádzať s inovatívnymi riešeniami;
+si schopný/á pracovať individuálne, no zároveň aj efektívne spolupracovať v tíme;
+ovládaš AJ na B2 úrovni.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme obchodník s cennými papiermi licencovaný Národnou bankou Slovenska. Prinášame férovosť do sveta financií a vytvárame lepšiu budúcnosť pre finančne zabezpečený život bez stresu.
+Misiou Finaxu je sprevádzať ľudí na ich finančnej ceste prostredníctvom férových, jednoduchých a inovatívnych riešení. Programom finančného vzdelávania sa snažíme zvyšovať finančnú gramotnosť občanov a rovnako ich inšpirovať v tom, ako správne investovať, ako zvýšiť príjmy z úspor, finančne plánovať či neplatiť dane tam, kde nemusia.
+Ako prv‎ý sme priniesli tzv. robo-advisor platformu, (automatizované online finančné poradenstvo), nielen na Slovensko a Poľsko, ale aj na ďalšie trhy v strednej Európe a približujeme investovanie ľuďom.
+Sme prvá finančná inštitúcia v EÚ, ktorá získala licenciu na poskytovania celoeurópskeho investičného produktu PEPP.
+Aktuálne spravujeme majetok v hodnote viac ako 1 mld. eur pre viac ako 90 000 klientov v piatich krajinách a plánujeme expanziu aj na ďalšie trhy.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Daniela Raffajová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5193430
+Dátum zverejnenia:
+17.11.2025
+2025-11-17
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Programátor
+Spoločnosť:
+Finax, o.c.p., a. s.
+Základná zložka mzdy (brutto):
+4 100 EUR/mesiac

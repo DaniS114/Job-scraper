@@ -1,0 +1,92 @@
+About us
+Our benefits
+Open positions
+Angular Frontend Engineer
+Place of work
+Mlynské nivy 12, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 700 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,700 and EUR 4,500 per month (for a full-time role). The specific salary offered considers:​
+
+the requirements, scope, complexity and responsibilities of the role, ​
+the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.​
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.​
+
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.​
+Information about the position
+Job description, responsibilities and duties
+Do you love building attractive, responsive, and purposeful business applications using web technologies? We are looking for a skilled Angular developer who understands how to write clear and maintainable code but also has a solid understanding of architectural best practices, modern frameworks, and the importance of creating intuitive user experiences that make a real impact.
+About the Role
+As a Frontend Engineer, you'll collaborate with cross-functional teams to create exceptional user experiences that power our insurance platforms from end to end.
+Key Responsibilities
+-Develop and review code that meets our high standards for quality and maintainability
+-Debug TypeScript, CSS, and HTML exceptions and profile performance issues
+-Integrate REST APIs in a secure and typesafe way
+-Shape architecture by contributing to key decisions and documentation that guide our technical direction
+-Stay current with emerging technologies and Generative AI developments to continuously improve our development efficiency
+-Collaborate closely with user experience experts, product owners, and requirements engineers
+-Build end-to-end user engagement platforms spanning the entire insurance value chain
+About the Team
+We are a team that believes in engineering excellence and that our leaders should also be engineers themselves. We build applications that are carefully designed, thoughtfully implemented, and surpass the expectations of our users by working hand-in-hand with product owners. Quality and stability are first-class deliverables in everything we do, and we lead by example by embedding high standards into our processes.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a naturally curious and thoughtful professional who thrives in a high-performance engineering environment. Your passion for coding is matched by your commitment to delivering business value. You believe in continuous learning—whether through self-improvement or by absorbing knowledge from those around you—and you're excited to contribute to a team that values technical excellence.
+We are looking for candidates who meet these requirements:
+-Proficiency in software development across the entire software delivery lifecycle
+-Strong knowledge of Angular, HTML, and CSS
+-Experience building and packaging modules with Webpack and NodeJS
+-Comfort working with large and established codebases in an IDE environment
+-Understanding of frontend architecture and best practices
+These are additional nice to haves:
+-Experience with responsive design and cross-browser compatibility
+-Knowledge of state management solutions (NgRx, RxJS)
+-Familiarity with UI/UX design principles
+-Experience with automated testing frameworks for Angular
+-Background in insurance or financial services technology
+-Knowledge of accessibility standards and implementation
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Hana Krcova
+Apply here
+ID:
+5162564
+Dátum zverejnenia:
+24.10.2025
+2025-10-24
+lokalita:
+Bratislava
+Pozícia:
+Frontend developer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 700 EUR/month

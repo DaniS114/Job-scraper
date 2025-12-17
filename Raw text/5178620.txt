@@ -1,0 +1,92 @@
+Senior PHP Developer (Laravel, Nette)
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+3 500 - 4 500 EUR/mesiac
++ atraktívny benefitný systém
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​- Budeš pracovať v scrum tíme 5-6 ďalších PHP developerov
+​- Pracujeme agilne (so všetkým, čo k tomu patrí: planning, stand-up, retrospektíva, sprint review - demo) a naši programátori sami často prídu so zaujímavými nápadmi
+​- Dostaneš sa k vývoju aplikácie od A po Z: analýza požiadaviek, návrh, implementácia, testovanie aj prevádzka
+​- Nehráme sa na byrokraciu – nevykazujeme prácu do nástrojov a nezaťažujeme programátorov poradami
+​- Pracujeme s vývojovými prostriedkami ako PhpStorm, Git/Gitlab, JIRA, Confluence a vývoj prebieha nad Dockerovými kontajnermi
+​- Aplikácie prevádzkujeme na Linux CentOS a Oracle Linux, nasadzovanie automatizujeme Saltstackom a zdrojové kódy udržiavame v Gite
+​- Pre vyššiu performance používame PHP frameworky Laravel a Nette
+​- Kvalitu kontrolujeme cez PHPstan/PHPunit
+​- Robíme distribuované systémy integrované cez REST a messaging systémy Kafka, RabbitMQ
+​- Dáta ukladáme do databáz MySQL, PostgreSQL
+​- Na backend-e implementujeme aj interné GUI aplikácie (HTML, CSS, Javascript, jQuery, Bootstrap)​
+Zamestnanecké výhody, benefity
+- 13. plat
+- Možnosť home-office
+- Firemný telefón
+- Práca s najnovšími a najmodernejšími technológiami
+Informácie o výberovom konaní
+Prosím, pošlite svoj životopis na email tomas.kerekanic@sourcefirstinternational.com. Máme vždy viacero pozícií pre IT špecialistov nielen na Slovensku a v Čechách, ale aj na zahraničných projektoch.
+Predpokladaný termín ukončenia výberového konania
+31.12.2025
+(ostáva ešte 58 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Našim klientom je spoločnosť, ktorá je lídrom inovácií vo svete online služieb.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+- Si skúsený PHP developer (Laravel alebo Nette výhodou), aspoň 4+ roky skúseností
+​- Zaujíma ťa Linux OS
+​- Schopnosť samo študovať (avšak kedykoľvek sa kohokoľvek čokoľvek spýtaj a rád ti poradí) a kreativita
+​- Zaujímajú ťa nové technológie a trendy
+​- Nie je ti jedno ako program vyzerá, máš rád programovanie, dátové štruktúry a algoritmy​
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Tomas Kerekanic
+Tel.:
++421902333645
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5178620
+Dátum zverejnenia:
+21.10.2025
+2025-10-21
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+PHP programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

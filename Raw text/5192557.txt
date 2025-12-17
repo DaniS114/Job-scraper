@@ -1,0 +1,84 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Frontend Developer (React) - Protect platform
+Place of work
+Žilina, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 800 EUR/month
+*Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+*The final basic wage component can be higher accordingly to individual skills and experience of selected candidate.
+Contract type
+full-time
+We are looking for a Frontend Developer with strong React experience to enhance the ESET PROTECT platform, focusing on user interfaces for our Cloud Workload Protection (CWP) and Cloud Security Posture Management (CSPM) capabilities.
+The role is primarily frontend-focused — backend involvement may happen only in exceptional cases to clarify integration behavior.
+What You’ll Do
+Develop modern UI components in React for CWP and CSPM features.
+Collaborate with backend developers to ensure smooth API and microservices integration.
+Contribute to iterative feature development and platform improvements.
+Work in an Agile setup (SAFe), actively participating in planning and team collaboration.
+Requirements
+Strong hands-on experience with React.js.
+Proficiency in TypeScript or JavaScript.
+Familiarity with npm and modern frontend tooling.
+Ability to work collaboratively and communicate clearly within the team.
+Nice to Have
+Experience with Java (GWT) or Kotlin.
+Knowledge of Webpack, Redux, or GraphQL.
+Awareness of backend/cloud technologies such as .NET, Kubernetes, Helm, or Azure CLI.
+Experience working in SAFe or a similar Agile framework.
+What We Offer
+You’ll be part of a team that values collaboration, trust, and shared growth. We build things together, learn from each other, and make space for thoughtful discussion as well as hands-on progress. This role gives you the chance to work on a widely used security platform while helping shape how our CWP and CSPM capabilities evolve. You’ll have room to develop your skills, explore new ideas, and be supported by people who care about doing meaningful work well.
+Kontaktná osoba
+Jakub Kunik
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5192557
+Dátum zverejnenia:
+14.11.2025
+2025-11-14
+lokalita:
+Žilina
+Pozícia:
+Frontend developer
+,
+Programmer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/month

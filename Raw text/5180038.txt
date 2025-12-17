@@ -1,0 +1,205 @@
+O nás
+Kariéra
+Kontakt
+find ( “
+perfect_job
+” );
+Buď súčasťou našich projektov.
+Network/Infrastructure Administrator
+Place of work
+Remote work
+Basic wage component (gross) and other rewards
+From 2 100 EUR/month
++ variable
+About
+We are looking for an Infrastructure and Network Administrator. In this role, you will support and maintain IT systems within our Renewables division, working across two technical teams to ensure stable, secure, and efficient infrastructure and network operations.
+Your responsibilities
+Administer and maintain
+virtualized environments using VMware (ESXi, vCenter)
+– including deployment, monitoring, and optimization of virtual machines.
+Manage and support
+Windows Server
+and
+Windows Client
+environments, ensuring
+performance, security, and patch management
+.
+Maintain and troubleshoot
+Active Directory
+, including
+Group Policy Objects (GPOs)
+,
+Organizational Units (OUs)
+, and
+access permissions
+.
+Handle
+user and group management
+for internal systems and applications.
+Configure, manage, and support
+network infrastructure
+, including
+firewalls (Palo Alto, WatchGuard)
+and
+Cisco switching
+environments.
+Participate in
+network design, security hardening, and monitoring
+, ensuring compliance with internal standards.
+Collaborate with
+IT and OT (Operational Technology)
+teams to ensure
+high availability
+of systems supporting renewable operations.
+Provide
+2nd/3rd line support
+for infrastructure and network-related incidents.
+Contribute to
+documentation, change management
+, and
+continuous improvement
+initiatives.
+What do we expect?
+5+ years
+of hands-on experience with
+VMware technologies (ESXi, vCenter)
+.
+5+ years
+of experience administering
+Windows Server
+and
+Client environments
+.
+3+ years
+of experience managing
+Active Directory
+, including
+GPO
+and
+identity management
+.
+Solid understanding of
+network concepts (TCP/IP, VLANs, routing, VPN, DNS, DHCP)
+.
+Experience with
+firewall configuration and management
+, preferably
+Palo Alto
+and
+WatchGuard
+.
+Experience with
+Cisco switching
+and
+network troubleshooting
+.
+Ability to work collaboratively within a
+cross-functional IT team
+and coordinate with
+Renewables business units
+.
+Strong
+problem-solving skills
+,
+attention to detail
+, and
+communication abilities
+.
+nice to have:
+Familiarity with
+OT networks
+or
+hybrid IT/OT environments
+.
+Experience with
+monitoring and automation tools
+(e.g., SolarWinds, Ansible, PowerShell).
+Basic understanding of
+cloud services
+(
+Azure
+,
+AWS
+).
+Relevant certifications (
+VCP, MCSE, CCNA, PCNSA
+) are advantageous.
+Benefits
+Compensation and rewards:
+Boost your earnings with
+bonuses
+(company performance, project, or extra performance bonus)
+Invest in yourself with a yearly
+well-being budget
+(up to €2,000)
+Earn
+referral bonus
+(up to €3,000)
+Secure your future with a
+pension plan contribution
+Flexibility and Work-Life Balance:
+Flexible working hours
+that adjust to your personal needs
+Choose your work environment –
+100% remote
+or modern
+offices: Košice, Bratislava, Prague
+Personal and Professional Development:
+Sharpen your skills with extensive
+training & certifications
+Boost your language skills with
+language courses
+Wellbeing and Culture:
+Build bonds through
+team-building activities & company events
+like the VolleyCup and Christmas party
+Join our
+family culture
+and participate in diverse
+interest groups
+like bikers, runners, gamers, and more
+Invest in your well-being with a
+MultiSport card
+Promote your mental health with
+confidential psychological support
+Hiring process
+Has the job offer captured your interest? Please fill out the
+application form
+and let us know about yourself.
+We will assess the information you send us and
+will get back
+to you under any circumstances.
+We will contact the chosen applicants and
+specify the details
+.
+A job
+interview with a hiring manager
+is a two-way opportunity to get to know each other better. The hiring process also includes a
+second interview
+with the customer directly.
+We will inform you about the feedback from the interview as soon as possible. Successful candidates will receive a
+job offer.
+Contact
+Contact person: Monika Sojková
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5180038
+Dátum zverejnenia:
+22.10.2025
+2025-10-22
+lokalita:
+Remote work
+Pozícia:
+IT Network Administrator
+Spoločnosť:
+Fpt Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 100 EUR/month

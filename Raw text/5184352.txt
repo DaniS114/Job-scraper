@@ -1,0 +1,111 @@
+Expert na virtualizáciu VMware | Proxmox | Red Hat OpenShift s nemeckým jazykom
+detect s. r. o.
+Miesto práce
+Vienna, Rakúsko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+Od 3 500 EUR/mesiac
+Výsledná mzda záleží od schopností a vedomostí uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pre nášho klienta Vo Viedni hľadáme kolegu, 50% na mieste vo Viedni.(časom vo väčšom podiele práca z domu alebo u nás v kolektíve)
+Ako Systémový Administrátor budete zodpovedný za efektívnu prevádzku serverov s operačným systémom Linux/Unix, vrátane inštalácie, údržby a aktualizácie systémového softvéru.
+Budete analyzovať a riešiť technické problémy, poskytovať podporu pri konfigurácii, správe incidentov a zmenách, a zabezpečovať dostupnosť služieb v súlade s definovanými zmluvnými podmienkami.
+Podpora, údržba a optimalizácia existujúcich virtualizačných prostredí, ako aj hodnotenie a návrh potenciálnych alternatív, napríklad Proxmox a Red Hat OpenShift.
+Podpora pri migrácii a integrácii nových platforiem a technológií do existujúcich systémov.
+Typický deň na pracovnej pozícii zahŕňa monitorovanie výkonu serverov a rýchle riešenie technických problémov, ako aj koordináciu s tímom na zlepšení efektivity procesov.
+Zamestnanecké výhody, benefity
+​
+Možnosť home office.
+Práca v mladom kolektíve.
+Príjemné prostredie firmy.
+Organizovanie si povinností.
+Priestor pre vlastné návrhy.
+Firemný automobil a telefón.
+Cafeteria pre zamestnancov.
+Možnosť profesijného rastu.
+Informácie o výberovom konaní
+V prípade záujmu nám prosím zašlite e-mailom svoj životopis v slovenskom a v nemeckom jazyku.
+Kontaktovať budeme vybraných uchádzačov.
+Predpokladaný termín ukončenia výberového konania
+7.11.2025
+(ostávajú ešte 4 dni)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské bez maturity
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Nemecký jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Administrácia LAN/WAN - Základy
+Klient/server administrácia - Expert
+Administrácia Linux/Unix serverov - Expert
+TCP/IP - Mierne pokročilý
+Vodičský preukaz
+B
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Min. 3 roky  skúseností s VMware
+Skúsenosti s vSphere, vCenter, ESXi.
+Solídne znalosti virtualizácie.
+Znalosti úložísk a sietí.
+Znalosti systémov Linux.
+Skúsenosti so správou virtualizácie.
+Optimalizácia virtualizovaných prostredí.
+Znalosť automatizácie (Ansible, Terraform).
+Skúsenosti s PowerCLI sú výhodou.
+Analytické myslenie.
+Schopnosť pracovať v tíme.
+Komunikačné a prezentačné zručnosti.
+Flexibilita a prispôsobivosť.
+Výhodou:
+​Skúsenosti s Proxmox VE alebo Red Hat OpenShift / Kubernetes
+Znalosť kontajnerizácie (Docker, Podman)
+Certifikácie s praxou (napr. VCP, RHCE, CKAD) sú výhodou pri migračných projektoch z VMware na alternatívne platformy.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť detect s. r. o. pôsobí na slovenskom trhu v informačných technológiách od roku 2004. Touto ponukou reagujeme na vzrastajúci dopyt o outsourcing. Zastrešujeme starostlivosť o IT komplexne od serverov, sietí, pracovných staníc až po kancelársku techniku tak, aby sa náš zákazník mohol plne sústrediť na jeho CORE business. Naším cieľom je poskytovanie kvalitných a spoľahlivých služieb s dôrazom na uspokojenie požiadaviek zákazníka.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Marek Čuboň
+Tel.:
++421940502377
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5184352
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Rakúsko
+Pozícia:
+IT/Technical Support Specialist
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+Spoločnosť:
+detect s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

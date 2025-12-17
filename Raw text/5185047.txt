@@ -1,0 +1,99 @@
+About us
+Our benefits
+Open positions
+Data Analytics Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 300 - 5 500 EUR/month
+For Slovakia the base salary range for this position is between [EUR 3,300] and [EUR 5,500] per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+ 
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the Role
+As a Senior Data Engineer in the Specialty Analytics team at Swiss Re, you will architect and develop advanced data and analytics solutions that drive key business decisions in our Property & Casualty (P&C) domain. You’ll be part of a forward-looking team using cutting-edge big data technologies to address challenges posed by climate change, geopolitical instability, and emerging risk areas.
+You’ll take end-to-end ownership of data solutions, working closely with stakeholders to transform raw data into actionable insights through scalable pipelines and interactive applications.
+Key Responsibilities
+•	Design and implement end-to-end analytics solutions using Palantir Foundry, including:
+o	Scalable data transformation pipelines in PySpark
+o	Web applications with Workshop (low-code) and TypeScript
+•	Translate business needs into technical specifications in close collaboration with Product Owners and Architects.
+•	Troubleshoot and resolve functional and technical data issues for stakeholders.
+•	Actively contribute to the evaluation and prototyping of new analytics platform capabilities.
+•	Collaborate across a global, cross-functional team to deliver robust and high-impact data products.
+About the Team
+The Specialty Analytics team delivers tailored analytics solutions across niche lines of business: Agriculture, Aviation, Credit & Surety, Cyber, Nuclear, and Political Violence. We’re part of a global strategic initiative to maximize the value of P&C data and enable data-driven decisions across the reinsurance value chain.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're passionate about solving complex big data problems and turning data into strategic assets. A self-starter and strong collaborator, you're eager to deliver innovative solutions in a dynamic, global setting.
+Your Profile
+•	Degree in Computer Science, Data Science, or a related field
+•	6+ years of experience in data engineering or analytics roles
+•	Expertise in Python/PySpark for scalable data pipelines
+•	Proficiency in SQL, especially Spark SQL
+•	Experience building user-facing applications with JavaScript/TypeScript
+•	Familiarity with Palantir Foundry is a significant advantage
+•	Domain knowledge in (Re)Insurance, finance, or related fields is a plus
+•	Understanding of data warehousing, ELT techniques, and cloud data architectures
+•	Agile mindset and practical experience with Scrum or other agile frameworks
+•	Bonus: knowledge of HTML/CSS, Gradle, or Power BI
+Soft Skills
+•	Strong analytical, problem-solving, and communication skills
+•	Able to manage own workload and deliver autonomously
+•	Comfortable working in global and multicultural teams
+•	Curious, adaptable, and enthusiastic about continuous learning
+Nice to Have
+•	Experience with Machine Learning or Generative AI
+•	Project management skills within agile delivery environments
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5185047
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+Database Analyst
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 300 EUR/month

@@ -1,0 +1,109 @@
+Senior DevOps Engineer
+Unlimit Recruitment, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 800 EUR/mesiac
+Konečná výška závisí od úrovne odbornosti, skúseností a celkového profilu uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného
+Senior DevOps Engineera
+, ktorý sa pridá k internému softvérovému tímu zameranému na vývoj cloud-native (Azure-based) SaaS/PaaS riešení pre klientov z oblasti životného a zdravotného poistenia. Tím pôsobí ako softvérový dom v rámci medzinárodnej technologickej organizácie a zodpovedá za návrh, vývoj a rozvoj infraštruktúrnych riešení využívaných globálne.
+Na rozdiel od klasických DevOps tímov sa zameriavaš na
+tvorbu a automatizáciu infraštruktúry
+, nie na jej prevádzku. Ako seniorný člen tímu budeš mať dôležitú úlohu pri návrhu infraštruktúry, písaní IaaC kódu a automatizácii deploymentov. Zároveň budeš poskytovať technické vedenie ostatným DevOps inžinierom a úzko spolupracovať s Engineering Managerom a Product Ownerom na plnení technickej stratégie.
+Zamestnanecké výhody, benefity
+Spoluprácu na dlhodobom a stabilnom projekte s globálnym dopadom
+Prácu v technologicky silnom tíme, kde kvalita kódu nie je len fráza
+Flexibilný model práce (kombinácia home office a kancelárie)
+Otvorené prostredie podporujúce rast, učenie a technickú diskusiu
+Možnosť pracovať s najnovšími technológiami a vývojovými prístupmi
+Atraktívne odmeňovanie a bonusy viazané na výkon
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Poisťovníctvo
+Našim klientom je globálna technologicko-finančná spoločnosť pôsobiaca v oblasti poistných riešení, ktorá sa zameriava na vývoj vlastných cloudových platforiem a produktov. Tímy s medzinárodným dosahom tvoria riešenia využívané naprieč kontinentmi a kladú dôraz na kvalitu, spoľahlivosť a inováciu.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Kľúčové zručnosti:
+Pokročilé skúsenosti s administráciou a používaním
+Azure služieb
+.
+Znalosť skriptovania v
+PowerShell
+alebo
+Bash
+.
+Praktické skúsenosti s
+Kubernetes
+a kontajnerizačnými technológiami.
+Silné znalosti
+Terraformu
+pre infraštruktúrne provisioning.
+Skúsenosti s
+Azure DevOps
+(CI/CD, release management).
+Schopnosť viesť tím a poskytovať technické usmernenie kolegom.
+Výhodou je:
+Programátorské základy v niektorom OOP jazyku (napr.
+Java
+alebo
+Go
+).
+Skúsenosti so
+security scanmi
+,
+autentifikačnými protokolmi
+a
+Cloudflare
+.
+Prehľad o
+Okta
+pre identity & access management.
+Znalosť princípov
+GitLab/GitHub DevOps
+.
+Porozumenie dátovým princípom a infraštruktúrnej bezpečnosti.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Recruitment company with focus on IT jobs.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Peter Nemček
+Tel.:
++421918452857
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5189908
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Unlimit Recruitment, s.r.o.
+Základná zložka mzdy (brutto):
+3 800 EUR/mesiac

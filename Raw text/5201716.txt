@@ -1,0 +1,100 @@
+CGI Slovensko
+Tvoríme digitálnu budúcnosť
+Sme popredná globálna firma v oblasti IT konzultácií.
+Automated / Manual Tester
+Place of work
+Bratislava
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+1 800 - 3 200 EUR/month
+The base salary starts from 1800 to 3200 EUR/m. (gross). Final salary could be higher - it depends on skills and expertise of candidates.
+Information about the position
+Job description, responsibilities and duties
+As a member of team, you will test scalable and secure applications that drive dynamic financial services. This team is responsible for enabling and disabling Base24 (payment engine) acquiring and for Terminal Management & Configurations, ensuring efficient and reliable operations that empower clients and shape the future of digital transactions.
+What you will do:
+•	Work with SCRUM Team members (3 amigo concept) to determine test approach for functionality and enhancements introduced during each SPRINT.
+•	Design test cases (BDD) that are validating every USER STORY in scope of given cycle (sprint) in line with acceptance criteria defined.
+•	Execute tests (both manual and automated), schedule test execution runs and reports on their results. Maintain and update automated tests every test execution cycle.
+•	Coordinate various testing phases (smoke, regression, functional, integration).
+•	Raise bugs when deviations from the acceptance criteria are observed as a result of the test execution.
+•	Analyze and investigate issues arising from automation test runs.
+•	Assist SCRUM team members on the issue resolution by providing comprehensive results of the test execution and reproducing bugs.
+•	Participate in Agile ceremonies and technical discussions.
+Employee perks, benefits
+What do we offer?
+• Friendly working atmosphere and a stable background of one of the largest IT companies in the world
+• Support of your professional growth
+• Certified learning programs
+• Profit Participation Plan - participation in the company’s profit
+• Share purchase Plan – the possibility of purchasing employee shares
+• 25 days of leave for regeneration for everyone
+• 3 sick-days for recovery
+• 30 days of fully paid sick leave
+• Benefit Plus Program for leisure activities
+• Referral bonus for referring a new colleague
+• Multisport card for sports and wellness facilities
+• The possibility of obtaining an interest-free loan
+• Language training
+• Vaccination against influenza and tick-borne encephalitis
+• Possibility of participation in various sports events
+• Member Assistance Program - possibility of using the advisory services of psychological and legal experts for health, work, or other serious life events
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+3
+Personality requirements and skills
+•	What you will need to have:
+•	Previous professional experience with:
+o	Backend testing
+o	User Interface (UI) testing
+o	Integration testing
+o	Regression testing
+•	Previous professional experience with:
+o	SoapUI/Postman
+o	GitLab
+o	SQL
+o	Gherkin
+o	IntelliJ IDEA
+o	Jira
+o	Xray
+o	Confluence
+•	Fluent English, due to work in an international environment, strong English skills are also required to enable easy communication in teams distributed across the world.
+•	Location: 5days a week in Bratislava office is required
+Advertiser
+Brief description of the company
+At CGI, we call our employees members because all who join CGI are building their own company - one that has grown to 91,500 professionals located in more than 40 countries. Founded in 1976, CGI is a leading IT and business process services company committed to help clients succeed. We have the expertise, stability and dedicated professionals, all needed to achieve results for our clients and for our members. Learn more at www.cgi.com.
+Number of employees
+150-199 employees
+Contact
+Contact person: Mgr.  Barbora Mohrová
+Tel.:
++421911825744
+E-mail:
+send CV
+Follow CGI
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5201716
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Bratislava
+Pozícia:
+IT Tester
+Spoločnosť:
+CGI Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+1 800 EUR/month

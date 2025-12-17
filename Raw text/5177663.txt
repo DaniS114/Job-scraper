@@ -1,0 +1,101 @@
+About us
+Benefits
+Jobs
+Subject Matter Expert - Vulnerability and Patch Management (CTI Integration and SecOps Support)
+Contract Type
+full-time
+Wage (gross)
+From 3 200 EUR/month
+The final level of salary is dependent on skills, knowledge and experience of a candidate.
+Place of work
+SKY PARK Offices I Alto Real Estate, Bottova, Bratislava, Slovakia (Job with occasional home office)
+About the job
+We are seeking a highly experienced and motivated Subject Matter Expert (SME) to lead and mature our Vulnerability and Patch Management program for UNIQA Austria and the Group. You will be the go-to expert for all aspects of vulnerability identification, assessment, remediation, and reporting, leveraging Cyber Threat Intelligence (CTI) to enhance prioritization.
+Crucially, this role involves active collaboration with our Security Operations (SecOps) team and participation in an on-call rotation to address urgent security matters.  Working within our SAFe framework, you will define robust processes, manage platform operations, implement effective controls, coordinate patch deployment, and provide essential expertise during security events across our diverse international infrastructure.
+Key responsibilities
+Process Ownership: Define, document, implement, and continuously improve vulnerability and patch management processes, ensuring alignment with industry best practices (e.g., NIST, ISO 27001) and regulatory requirements (DORA).
+CTI Integration&Application: Consume, analyze, and integrate Cyber Threat Intelligence (CTI) feeds, reports, and services to inform vulnerability prioritization, risk assessment, and patching strategies.
+Platform Operations: Oversee the configuration, operation, maintenance, and optimization of VP platforms (scanners, patch management systems). Explore integration points for CTI and SecOps tooling (SIEM, SOAR).
+Control Design & Monitoring: Design, implement, and monitor the effectiveness of security controls related to V&P Support internal and external audits.
+Patch Deployment Strategy & Coordination: Develop and manage patch deployment strategies, coordinate activities across diverse systems, use CTI to influence emergency patching, and manage the exception process.
+SAFe Agile Engagement: Actively participate in SAFe ceremonies as the V&P/applied CTI SME. Collaborate with ARTs, Product Owners, and System Architects.
+Risk Assessment & Prioritization: Analyze vulnerability data, assess risks based on asset criticality, exploitability, CTI, and business impact, and prioritize remediation efforts.
+SecOps Collaboration & Support:
+Collaborate closely with the Security Operations Center (SOC) / SecOps team, providing deep V&P expertise during incident response and threat hunting activities.
+Support the analysis and investigation of security incidents where vulnerabilities or patch status are relevant factors.
+Contribute to the integration and optimization of V&P tools with SecOps platforms (e.g., SIEM, SOAR).
+Reporting&Metrics: Develop and maintain KPIs/KRIs for the V&P program, incorporating CTI context and supporting SecOps reporting needs. Provide regular reports to stakeholders.
+On-Call Duty: Participate in a scheduled on-call rotation for AT (approximately one week every 6-8 weeks) to provide expert handling of urgent security incidents outside of standard Vienna business hours.
+Technical Guidance&Continuous Improvement: Provide expert advice on remediation; stay abreast of vulnerabilities, threats (via CTI), and methodologies; drive improvements and automation.
+Your skills & qualifications
+Required Qualifications:
+Minimum 5-7+ years of direct experience in Vulnerability Management and Patch Management within a large, complex enterprise environment.
+Proven experience as an SME in the V&P domain.
+Solid understanding and practical application of Cyber Threat Intelligence (CTI) within vulnerability management.
+In-depth knowledge of V&P tools (scanners, patch management systems).
+Strong understanding of OS (Windows, Linux), networking, CVSS, common vulnerabilities.
+Experience defining and managing V&P processes and controls.
+Excellent analytical, problem-solving, and decision-making skills under pressure.
+Strong communication and interpersonal skills for collaboration across international teams.
+Willingness and ability to participate in a regular on-call rotation.
+Experience working in an international or global organization.
+Fluency in English (written and spoken).
+Preferred Qualifications:
+Bachelor's or Master degree in Computer Science, Information Security, or related field, or equivalent experience.
+Relevant industry certifications (CISSP, CISM, CRISC, CEH, GIAC certs like GSEC/GCWN/GCTI).
+Experience working directly with a Security Operations Center (SOC), incident response team, or in a SecOps environment.
+Demonstrable experience working within an Agile framework, specifically SAFe.
+Familiarity with SIEM (e.g., Splunk, QRadar, Sentinel) and SOAR platforms.
+Experience with CTI platforms (e.g., Recorded Future, Anomali, Mandiant TI).
+Experience with V&P in cloud environments (AWS, Azure, GCP).
+Scripting skills (Python, PowerShell).
+Our benefits
+WHAT CAN WE OFFER YOU?
+Glad you asked!
+13th Salary & Annual performance-based Bonus
+Flexible working hours with possibility to work from home up to 50%
+Additional days offs (eg. the last working day of the year, volunteering activities)
+3 Sick days / year
+Cafeteria benefit system + Contribution to Multisport Card
+Retention awards for 5 &10 years anniversary
+Pension contributions and discounts on UNIQA insurance products
+Company phone available also for personal use
+Free car & bicycle parking
+German Language course
+Education allowance for your learning & development
+Referral bonus
+At UNIQA 4WARD, we are dedicated to providing equal opportunities to all employees and applicants. We respect and value each other regardless of race, color, ethnicity, cultural background, age, gender, gender identity or expression, nationality, religion, disability, sexual orientation, marital status, or any other characteristic protected by law. We believe that diversity enriches our workplace and fosters a culture of inclusivity, respect, and collaboration.
+What can you expect from our selection process?
+First, our HR Specialist will reach out to you by phone for a short conversation.
+Following this, for most of our openings, you can expect a first virtual interview with your prospective manager and team. The second round is typically conducted in person with the UNIQA 4WARD management team.
+We are looking 4ward to meeting you!
+For other job openings, please click here.
+Contact person: Jana Lupová
+E-Mail:
+jana.lupova@uniqa.at
+UNIQA 4WARD, organizačná zložka,
+Branch office of UNIQA Insurance Group AG
+Sky Park Offices, Bottova 7939/2A
+811 09 Bratislava, Slovakia
+www.uniqa4ward.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5177663
+Dátum zverejnenia:
+3.11.2025
+2025-11-03
+lokalita:
+Bratislava
+Pozícia:
+IT Analyst
+,
+IT Security Specialist
+Spoločnosť:
+UNIQA 4WARD, organizačná zložka
+Základná zložka mzdy (brutto):
+3 200 EUR/month

@@ -1,0 +1,91 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Java Developer + Sign On Bonus 2000 EUR
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+3 100 - 3 700 EUR/month
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 3100 € /brutto.
+Our mission:
+As a dynamic, flat and international organization, we shape the future of Deutsche Telekom IT in integrated teams consisting of all relevant competencies – it goes without saying that Telekom customers are also part of these teams.
+Our Focus:
+Architectural Evolution: We're dedicated to transitioning from monolithic systems to a decoupled API architecture, improving efficiency, reliability, and enabling scalability.
+Cloud Transition: Our work involves utilizing top-tier cloud solutions including AWS, Azure, and Google Cloud, as well as our private cloud for sensitive data. We're in the process of migrating from on-premise setups to a more robust, scalable cloud infrastructure.
+Cutting-Edge Technology: We stay on the forefront of the tech industry by actively employing modern technologies, fostering an environment that encourages learning and professional growth.
+Agile Collaboration: We believe in the power of teamwork and adaptability. By implementing the Scrum methodology and SAFe in our biggest projects, we ensure dynamic collaboration and efficient workflow across all levels of our organization.
+Innovation & Value Creation: Our teams are constantly pushing the boundaries, redesigning current solutions to fit contemporary standards, and embarking on greenfield projects with high business potential. Through strategic prototyping, we continuously unearth fresh ideas and cultivate a culture of constant innovation.
+What will you do?
+Develop new and maintain existing source code of applications
+Works in SCRUM team on developing and building complex application solutions for customer DTAG
+Serve as professional mentor for junior and medior developers
+Listen to user requests, consult with internal /external customers, project managers,
+Analyze of customer’s requirements and propose overall application / framework design of midsize application architecture (incl. interfaces, relation database structure), provide complex business analysis to build application functionality
+Provide project estimates, timeline like total number of development hours, total number of testing hours and bug fixing and report it to customer for budget planning in advance
+Implement customer’s requirements based on specification in selected object-oriented programming language into functional and user-friendly application
+Provide testing of programmed functionality before deployment to avoid bugs and ensure quality of code
+Implement security concept according to PSA policy in developed application to ensure accordance with DTAG standards
+Mentoring
+Take part on internal evaluation processes
+Product responsibility from technology point of view.
+Negation with PO/PM about technology stacks used in project.
+Required skills : Extensive experience in JAVA, JEE enterprise technologies, especially Spring Framework, JBoss (Wildfly), EJB 3.0, web services, XML binding, J2E, JSF, JMETER, Lucom Interaction Platform
+Tech Stacks
+We are searching for candidates with Java, Spring Boot skills.
+You will succeed if you:
+Have Bachelor's degree or Master's degree in Information technologies
+Have minimum 5 years of experience in JAVA development of complex solutions
+Have some experience within the field of application programming in object-oriented programming languages, experience with agile software development methodology (e.g., Scrum)
+Are advanced at Programming, HW/SW Overview, General IT Overview,
+Have good soft skills like Communication, Analytical thinking, Team Cooperation
+Speak
+English at least on B2 level and German language is advantage
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+3 100 - 3 700 EUR/month
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 3100 € /brutto.
+Contact
+Contact person: Ing.  Lenka Možná
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5168603
+Dátum zverejnenia:
+30.10.2025
+2025-10-30
+lokalita:
+Remote work
+Pozícia:
+Java Programmer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 100 EUR/month

@@ -1,0 +1,102 @@
+Senior Java Developer
+RecruLab s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+3 000 - 4 000 EUR/month
++ annual bonus
+Information about the position
+Job description, responsibilities and duties
+​We’re looking for an experienced Java Developer to join our cross-functional Scrum team. You’ll work on B2B solutions, focusing on backend development, cloud integration, and microservices. This is a hands-on role with a strong DevOps culture — you build it, you run it. If you're ready to take ownership, work with modern tools, and grow in an international environment, we’d like to hear from you.
+Develop and maintain backend applications using Java Spring Boot
+Work on B2B solutions for our business customers
+Build systems that break down product orders into service orders
+Integrate cloud-based platforms like WebEx, Microsoft Teams, and Zoom
+Support migration from monolithic systems to microservices
+Write clean, testable code and automated tests
+Design APIs, data models, and cloud-native services
+Collaborate in a cross-functional Scrum team based
+Follow DevOps principles — you build it, you run it
+Participate in planning, demos, and retrospectives (hybrid setup)
+Handle deployments, CI/CD pipelines, and release management
+Maintain and document systems and processes
+Mentor junior developers
+Employee perks, benefits
+Remote-first work model with regular in-person sessions (1 day office every 2 weeks in Kosice)
+Flexible work environment with autonomy and ownership
+Learning & development (training, certifications, career coaching)
+Work-life balance (parental support, flexible hours, extra leave)
+International work culture with opportunities for growth
+Over 25 benefits covering:
+Financial well-being (bonuses, allowances)
+Health and fitness (sports support, wellness programs)
+Access to modern tools and cloud technologies
+Strong focus on individual lifestyle and freedom
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+International IT company
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Technical Skills
+3+ years in application development
+Advanced in Java Spring Boot
+Experience with:
+MapStruct, Lombok, Liquibase, WireMock
+GIT, Maven, Gradle, UML
+SQL and NoSQL (PostgreSQL, MongoDB, FireStore)
+REST API, OpenAPI (OAS), message-based communication
+Cloud platforms: AWS or GCP
+CI/CD pipelines (GitLab preferred)
+Agile/SCRUM practices and tools (e.g. Jira)
+Personal Traits
+Communicative and team-oriented
+Analytical and structured thinker
+Takes ownership and delivers reliably
+Open to mentoring and knowledge sharing
+Comfortable in a remote, international setup
+Fluent in English (minimum B2 level)
+Advertiser
+Brief description of the company
+Recruitment consultancy
+Contact
+Contact person: Ing.  Pavol Derco
+Tel.:
++421917991200
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5162283
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Remote work
+Pozícia:
+Backend developer
+,
+IT Architect
+,
+Java Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+RecruLab s.r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

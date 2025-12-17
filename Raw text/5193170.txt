@@ -1,0 +1,83 @@
+Full-stack Developer (PHP/Symfony + React)
+NEOSHIP s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac
+Mzda sa odvíja od skúseností a schopností uchádzača
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Technológie, s ktorými budeš pracovať a rýchly náhľad do projektu:
+- Hlavný projekt sa skladá z dvoch častí: server je postavený na frameworku Symfony 5.2 v
+spojení s REST api, frontend buildujeme v React JS.
+- Aktívne budeš využívať OOP.
+- Určite oceníš aj PHP Unit testy, ktoré ti pomôžu písať funkčný kód.
+Aby sme ale spoločne naplnili ciele spoločnosti, na túto pozíciu vyžadujeme skúsenosti v oblasti:
+- PHP 8.0+, HTML5, LESS/SASS/CSS3,
+- Javasript, React JS (Material UI)
+- PostgreSQL 9.6+, SQLITE
+- Symfony 5.0+ (prípadne ktorýkolvek z tejto rodiny frameworkov)
+- GIT
+- návrh architektúry (MVC), OOP, optimalizácia
+- základy administrácie Linuxu prostredníctvom CommandLine
+Výhodou (nie povinné): unit, integration testy, Docker, CI/CD.
+Zamestnanecké výhody, benefity
+- Práca v modernej prosperujúcej spoločnosti.
+- Flexibilný pracovný čas.
+- Okolo seba budeš mať skvelý tím mladých ľudí, ktorí ťahajú spoločne rovnakým smerom a
+práca je ich hobby.
+- Priateľská a otvorená komunikácia.
+Predpokladaný termín ukončenia výberového konania
+15.12.2025
+(ostáva ešte 28 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Prax min. 2 roky v komerčnom vývoji.
+HP 8+, Symfony – základy
+React – základy
+SQL databázy – pokročilé znalosti
+Angličtina B2 – schopnosť pracovať s dokumentáciou a komunikovať v tíme.
+VŠ I. stupňa v relevantnom odbore.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+NEOSHIP je online systém určený na expedovanie balíkov, ktorý využívajú eshopy už od roku 2013.
+Eshopy majú v systéme prehľad o všetkých zásielkach a financiách využívaných na prepravu cez kuriérske spoločnosti. Spolu s ďalšou funkcionalitou im tak výrazne uľahčujeme prácu a optimalizujeme súvisiace náklady s odosielanými balíkmi.
+V tíme si vážime otvorenosť, dôveru, flexibilitu, iniciatívnosť pri riešení výziev a odhodlanie navzájom sa zlepšovať.
+Kontakt
+Kontaktná osoba: Ing.  Juraj Balogh
+Tel.:
++421911489687
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5193170
+Dátum zverejnenia:
+17.11.2025
+2025-11-17
+lokalita:
+Bratislava
+Pozícia:
+Programátor
+Spoločnosť:
+NEOSHIP s.r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

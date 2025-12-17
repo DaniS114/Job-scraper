@@ -1,0 +1,89 @@
+About us
+Our benefits
+Open positions
+Workplace Engineer - Managed Print Solutions (MPS)
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 700 - 4 500 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,700 and EUR 4,500 per month (for a full-time role). The specific salary offered considers:
+
+​-the requirements, scope, complexity and responsibilities of the role,
+
+​-the applicant’s own profile including education/qualifications, expertise, specialization, skills and experience.​In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognize your achievements. Further you will enjoy a variety of global and location specific benefits.​Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.​
+Information about the position
+Job description, responsibilities and duties
+About the role:
+In this hands-on engineering role, you'll be responsible for the end-to-end management of our HP Enterprise Managed Print Services ecosystem. You'll balance technical excellence with user experience, ensuring our printing and scanning infrastructure is secure, compliant, and intuitive. Your work will directly contribute to Swiss Re's operational efficiency while supporting our sustainability initiatives through smart print management.
+Reporting to the Head of Field Services Service Management, you'll work closely with the MPS Service Manager to align technical implementations with service objectives and business requirements. This collaborative approach ensures our print solutions meet both operational needs and strategic goals.
+Key Responsibilities:
+- Design, integrate, and maintain HP Enterprise Managed Print and Document Solutions (MPS), including printing, scanning, and copying capabilities globally, ensuring alignment with Swiss Re's technology and security standards.
+- Manage and optimize HP print infrastructure components including HP Web Jetadmin (WJA), HP Security Manager, SafeCom PullPrint, and HP SecurePrint.
+- Oversee firmware patching, configuration baselines, device compliance, and print driver management in collaboration with global teams.
+- Evaluate and document printer hardware and software configurations, ensuring standardization and lifecycle compliance.
+- Provide L3/L4 technical support and coordinate with HP Enterprise and vendor partners for resolution of complex issues.
+- Develop automation, monitoring, and reporting solutions to enhance reliability and operational efficiency.
+- Drive continuous improvement, process optimization and service documentation to ensure a consistent global print experience.
+About the Team:
+The Workplace Engineering team sits within the Field Services Management Department under Group Technology Services (GTS). Our mission is to design, implement, and maintain workplace technologies that empower Swiss Re employees to work efficiently and securely, wherever they are.
+We deliver innovative, user-focused solutions that support the Digital Workplace strategy, combining reliability with security and sustainability. Collaboration and continuous improvement are at the heart of what we do, ensuring that every service we manage contributes to an exceptional employee experience across all Swiss Re locations. Shape
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+About you:
+We seek a technically proficient professional with a strong service orientation and commitment to operational excellence. You recognize that effective print infrastructure directly impacts employee productivity and organizational efficiency. Your approach combines technical precision with a user-centric mindset, ensuring that complex systems function seamlessly for end-users. You excel in collaborative, cross-functional environments where your specialized expertise contributes to enterprise-wide solutions while continuously expanding your professional capabilities.Shape
+We are looking for candidates who meet these requirements:
+- Degree in Information Technology, Computer Science, related field, or equivalent practical experience
+- 3+ years of experience in enterprise print infrastructure management and document solution environments
+- Strong understanding of network protocols, Active Directory integration and print queue management
+- Experience with IoT device compliance, patching and security frameworks
+- Proven analytical and troubleshooting skills at L3/L4 support level
+Preferred Qualifications and Skills:
+- HP Enterprise certification (e.g. HP Accredited Technical Professional – MPS)
+- Scripting or automation experience (PowerShell, Python) for system management and reporting
+- Strong communication skills with ability to explain technical concepts clearly
+- Experience working in global, multicultural environments
+- Familiarity with ITIL processes, Jira, and service management best practices
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Denisa Bastos
+Apply here
+ID:
+5192637
+Dátum zverejnenia:
+14.11.2025
+2025-11-14
+lokalita:
+Bratislava
+Pozícia:
+Service Engineer
+,
+Service Technician
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 700 EUR/month

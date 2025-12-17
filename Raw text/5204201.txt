@@ -1,0 +1,99 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Medior .NET Developer with some frontend skills (Angular)
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 2 000 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Our mission:
+As a dynamic, flat and international organization, we shape the future of Deutsche Telekom IT in integrated teams consisting of all relevant competencies – it goes without saying that Telekom customers are also part of these teams.
+Our Focus:
+Architectural Evolution: We're dedicated to transitioning from monolithic systems to a decoupled API architecture, improving efficiency, reliability, and enabling scalability.
+Cloud Transition: Our work involves utilizing top-tier cloud solutions including AWS, Azure, and Google Cloud, as well as our private cloud for sensitive data. We're in the process of migrating from on-premise setups to a more robust, scalable cloud infrastructure.
+Cutting-Edge Technology: We stay on the forefront of the tech industry by actively employing modern technologies, fostering an environment that encourages learning and professional growth.
+Agile Collaboration: We believe in the power of teamwork and adaptability. By implementing the Scrum methodology and SAFe in our biggest projects, we ensure dynamic collaboration and efficient workflow across all levels of our organization.
+Innovation & Value Creation: Our teams are constantly pushing the boundaries, redesigning current solutions to fit contemporary standards, and embarking on greenfield projects with high business potential. Through strategic prototyping, we continuously unearth fresh ideas and cultivate a culture of constant innovation.
+What will you do?
+We are seeking a talented Medior .NET Developer to join our dynamic team in Košice, Slovakia. As a key member of our development team, you will be responsible for designing, implementing, and maintaining robust .NET applications that drive our business forward.
+Develop and maintain scalable, high-performance applications using C# and the .NET framework
+Collaborate with cross-functional teams to gather requirements and translate them into technical specifications
+Design and implement database structures using SQL Server
+Write clean, efficient, and well-documented code
+Participate in code reviews and contribute to improving our development practices
+Troubleshoot, debug, and optimize application performance
+Stay up-to-date with the latest trends and technologies in .NET development
+Contribute to knowledge sharing within the team
+Participate in Agile ceremonies and contribute to sprint planning and estimation
+You will succeed if you:
+have Bachelor's degree in Computer Science, Software Engineering, or a related field
+3-5 years of professional experience in .NET development
+Strong proficiency in C# and the .NET framework
+Experience with ASP.NET Core and web application development
+Solid understanding of object-oriented programming principles and design patterns
+Proficiency in HTML, CSS, and JavaScript
+Experience with SQL and database management systems
+Familiarity with version control systems, preferably Git
+Knowledge of Agile methodologies and software development best practices
+Strong problem-solving skills and attention to detail
+Excellent communication and teamwork abilities
+Fluency in English (working language)
+Knowledge of Slovak is a plus
+Microsoft certifications (e.g., MCSA, MCSD) are advantageous
+Tech Stack
+We are searching for Fullstack developers with medior backend .NET skills and some frontend skills (Angular is advantage)
+Additional preferred knowledge/experience (as an advantage): any testing tool/framework, Kubernetes, Docker, Microservices, Git, cloud technologies (AWS, Azure, Google), DB.
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 000 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lenka Kiššová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5204201
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Remote work
+Pozícia:
+.NET Programmer
+,
+Programmer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 000 EUR/month

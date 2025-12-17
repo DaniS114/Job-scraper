@@ -1,0 +1,94 @@
+Linux System Engineer (Tower Solutions)
+FREQUENTIS Solutions & Services s. r. o.
+Place of work
+Karadžičova 8, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Wage (gross)
+3 500 EUR/month
+Minimum monthly salary: 3,500 EUR brutto. Freelancer's hourly rate to be agreed individually. The final offer may vary based on the experience and qualifications of the selected candidate.
+Information about the position
+Job description, responsibilities and duties
+Bratislava-based FREQUENTIS Solutions & Services belongs to the Austrian FREQUENTIS group (www.frequentis.com), specialized in mission-critical communication and IT solutions, e.g. in air traffic control, public safety or defense.
+When it comes to Air Traffic Management, using the latest digital tower technologies from Frequentis, airports can futureproof their ATC operations at significantly lower cost than renovating or rebuilding a conventional tower. With a digital tower, operated locally or remotely, existing staff resources can work more flexibly and efficiently to manage growing volumes of traffic. A Frequentis remote tower solution is fully scalable from a single instance to a multi remote tower centre in which a central team of controllers manages multiple airports.
+We are looking for a System Engineer who
+will be responsible for designing, deploying, and maintaining secure, high-availability Linux-based systems that support the Remote Digital Tower infrastructure, ensuring seamless and reliable air traffic management operations.
+Your Main Responsibilities:
+• Installing and integrating systems and system components into existing system environments
+• Assisting our customers with their technical queries about the operation, configuration and service of the serviced system
+• Documentation and analysis of reported incidents and problems
+• Coordinating and carrying out root cause analyses and remedies
+• Designing, planning and technically executing changes and extensions to existing systems (change requests)
+• Coordinating with product development teams and/or development teams on error analysis and troubleshooting
+• Site acceptance with customers
+Know-how & experience:
+• Install, configure, and maintain Linux servers (particularly RHEL), including updates, upgrades & troubleshooting issues
+• Bash scripting
+• Solid experience with virtualization platforms (VMware preferred)
+• Experience with various storage technologies
+• Experience with networking
+• Understanding of clustering concepts​
+Special skills & abilities:
+•	Analytical skills to localize errors and sources of errors in distributed systems
+•	Professional communication and client relationship skills, even during critical situations and under time pressure
+•	Precise and thorough documentation abilities
+Employee perks, benefits
+• Training and development program (business and product trainings, language course)
+• Employee referral program (financial reward for recommending a successful candidate)
+• Employee assistance program (legal, financial and psychological counselling)
+• Meal contribution fully paid by the company
+• Multisport card/Pension scheme contribution (DDS)
+• Flexible working hours, home office
+• Refreshments, company & team events
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+Information Technology, Telecommunications
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You are flexible, self-driven, goal-oriented and structured in how you approach your work.
+You can integrate yourself into a larger cooperation, follow corporate processes.
+You are open to travel on business trips to:
+our headquarters in Vienna up to 3x/week (possibility to use a company car)
+Advertiser
+Brief description of the company
+Our Bratislava-based company FREQUENTIS Solutions & Services is part of the Austrian FREQUENTIS group (www.frequentis.com). We are a leading global supplier of communication and information solutions for safety-critical applications, such as for air traffic control towers, public safety control rooms (112) or air defense forces. Our mission-critical solutions cover diverse areas, such as telephony and radio communication, Geographical Information Systems (GIS), incident and resource management, video surveillance and automatic video analytics.
+FREQUENTIS Solutions & Services is specialized in software development and project delivery. Together with our parent company we are developing FREQUENTIS’ next generation control room solutions, using state-of-the-art technologies and processes. Our delivery teams then deploy those solutions at our customers around the globe, with responsibility for commercial and technical project management, engineering and quality assurance.
+To grow our team, we are constantly looking for talents in all these fields. Our company offers an interesting and challenging technical environment, a people-focused culture with emphasis on a good work-life-balance and, if desired, a long-term development and career opportunities.
+For our customers, lives may be at stake and seconds count. Our solutions thus need to be developed to the highest standards when it comes to usability and reliability. Safety is what guides us from the first designs till the final tests of any of our solutions. If those are the kinds of challenges that excite you, then you have come to the right place!
+Number of employees
+150-199 employees
+Contact
+Contact person: Ing.  Eva Lajchová
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5125364
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Bratislava
+Pozícia:
+IT System Administrator
+,
+IT/Technical Support Specialist
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+FREQUENTIS Solutions & Services s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

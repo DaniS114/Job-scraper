@@ -1,0 +1,106 @@
+Data Engineer
+CulturePulse s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 500 - 5 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+At
+CulturePulse
+we’re building AI that understands people. Our platform leverages advanced data analytics and cultural AI models to help organizations connect with their audiences on a deeper, more human level.
+To support our growth, we’re looking for a
+Data Engineer
+who will own our data pipelines, shape the future of our ETL/ELT architecture. This is a unique opportunity to join an ambitious, international team at the forefront of cultural AI.
+Your responsibilities
+Pipeline Ownership
+Design, build, and maintain scraping pipelines for multiple sources through APIs and BigQuery
+Ensure raw data is consistently stored and organized in a centralized data layer (single source of truth for downstream processing)
+Architecture & Future-Proofing
+Identify architectural gaps and implement modern data architecture (e.g., medallion architecture with bronze/silver/gold layers)
+Define and introduce standards and best practices for ETL/ELT jobs
+Monitoring & Reliability
+Improve monitoring and alerting systems for better reliability
+Develop proactive issue detection and automated recovery strategies
+Refine data quality checks and pipeline SLAs
+Database & Storage
+Manage and optimize MongoDB (Atlas): indexing, schema optimization, archiving, performance tuning
+Explore and lead transition toward scalable modern platforms (Snowflake, Redshift, or similar)
+Collaboration
+Partner with Data Science to deliver reliable, high-quality datasets for training and production
+Work with Backend and Product teams to ensure data availability meets product requirements
+Act as a hands-on contributor
+Align with the Head of Engineering on long-term backend strategy and standards
+What we’re looking for
+3+ years of experience in this position
+Strong programming skills in
+Python
+(PySpark, Pandas, etc.)
+Hands-on experience with
+ETL/ELT design and orchestration
+(Airflow or similar)
+Deep knowledge of
+MongoDB (Atlas)
+and relational databases
+Experience with
+AWS cloud services
+(S3, ECS, Lambda, etc.)
+Strong background in
+Unix/Linux environments
+(scripting, process management, scheduling)
+Ability to design and scale
+modern data architectures
+Leadership mindset: able to own the function and represent Data Engineering in cross-team discussions
+Zamestnanecké výhody, benefity
+AI and cultural analytics
+Key role in shaping our backend and data infrastructure
+Flexible working environment (remote/hybrid options
+)
+Growth opportunities as we scale, including team leadership and architecture ownership
+A passionate, international, and mission-driven team
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Prax na pozícii/v oblasti
+3
+Počet rokov praxe
+3
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+AI spoločnosť špecializujúca sa na sociálne počúvanie a analýzu textu.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Nikol Ziukina
+Tel.:
++421951338121
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5179391
+Dátum zverejnenia:
+23.10.2025
+2025-10-23
+lokalita:
+Bratislava
+Pozícia:
+Programátor
+Spoločnosť:
+CulturePulse s.r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

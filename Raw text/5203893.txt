@@ -1,0 +1,82 @@
+Full-Stack (React&Next.js) Engineer
+Avenga Slovakia s.r.o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+2 000 EUR/month
+The exact amount of the salary depends on the actual knowledge and experience, qualifications and expertise of the candidate.
+Information about the position
+Job description, responsibilities and duties
+We are looking for a Full-Stack Engineer experienced in React and Next.js to join the team.  You will join a growing UI/UX team at a leading enterprise that is redefining how companies manage AI infrastructure at scale. This is a Full-Stack role focused primarily on front-end development (approximately 60-70% of your time).
+This is your role
+Developing and maintaining the frontend of a greenfield, Kubernetes-based PaaS application using React and TypeScript.
+Building dynamic, real-time dashboards using React, TypeScript, and Next.js.
+Designing and implementing pixel-perfect UIs with Tailwind CSS that scale across devices.
+Developing robust backend services and APIs to keep interfaces fast and intelligent.
+Creating exceptional developer experiences for AI/ML engineers and data scientists.
+Writing unit, integration, and end-to-end tests to ensure high-quality, production-ready code.
+Collaborating cross-functionally with Product, UX designers, UI leads, and engineering leadership to ensure design consistency.
+Actively contributing to team growth, knowledge sharing, and continuously improving the development processes and technology stack.
+Employee perks, benefits
+Pleasant working environment and stable background in one of the largest software development companies in the EU
+Space to work independently and creatively with the possibility to implement your own ideas and opportunities to learn new things and approaches
+You have the opportunity to influence your direction in the company
+High quality hardware and software, access to the latest technologies and specific projects
+Opportunities to improve your language skills, we are a major global player
+At Avenga, you'll get quality support in your development thanks to a wide range of internal and external training courses, so you can push the boundaries of your competences
+We offer you benefits such as life insurance and pension contribution, EN/DE/ES lessons, MultiSport card, sick days, meal allowance, lots of company events, offices in Bratislava with quality amenities for lovers of sport, food and coffee, hybrid remote work after mutual agreement, and more
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+This is you
+5+ years of relevant professional experience, with a primary focus on frontend development.
+Expert knowledge of React, core JavaScript/HTML/CSS, and TypeScript.
+Mastery of advanced React features, including hooks, context, and suspense.
+Experience with Next.js, specifically both the app router and pages router.
+Strong understanding of REST APIs, web page performance optimization, and debugging best practices.
+Experience with module bundlers, reactive state management, and JavaScript unit/feature testing frameworks.
+Ability to write robust backend services when required, powering responsive and data-rich applications.
+Eye for design and UX best practices, with familiarity with design systems, Figma, and cross-browser compatibility.
+Experience working with AI/ML tooling is preferred.
+Experience with high-scale applications is preferred.
+Understanding of DevOps/Cloud Native practices is preferred.
+Fluent in English
+Advertiser
+Brief description of the company
+Sme globálna technologicko-poradenská spoločnosť, ktorá pomáha organizáciám riešiť zložité IT výzvy prostredníctvom inovatívnych a na mieru šitých digitálnych riešení.
+S viac ako 6 000 odborníkmi po celom svete ponúkame komplexné portfólio služieb – či už ide o vývoj softvéru, analýzu, architektúru, projektový manažment, testovanie, oblasť kybernetickej bezpečnosti, návrh UX/UI, DevOps alebo iné pokročilé technologické poradenstvo.
+Našimi klientmi sú firmy z rôznych odvetví vrátane bankovníctva, telekomunikácií, automobilového priemyslu, mobility a zdravotníctva. Spoločne s nimi realizujeme projekty zamerané okrem iného aj na využitie umelej inteligencie. Tá sa stala kľúčovým nástrojom pre moderné podniky, pretože umožňuje automatizáciu rutinných úloh, zvyšuje efektivitu, zlepšuje rozhodovacie procesy a poskytuje hlbší vhľad do správania zákazníkov.
+Avenga je súčasťou technologického piliera medzinárodnej investičnej skupiny KKCG Group.
+Pridajte sa k nám a rozvíjajte svoj potenciál a schopnosti v rámci našich medzinárodných projektov.
+Number of employees
+1000 and more employees
+Contact
+Contact person: Miriam Szarvasová
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203893
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Remote work
+Pozícia:
+Frontend developer
+Spoločnosť:
+Avenga Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

@@ -1,0 +1,124 @@
+Senior System Engineer
+SourceFirst International s.r.o.
+Place of work
+Bratislava
+Contract type
+full-time
+Start date
+by agreement
+Wage (gross)
+From 2 500 EUR/month
++ attractive company benefits system
+Information about the position
+Job description, responsibilities and duties
+About the Role
+We’re seeking a hands-on Senior Systems Engineer to join our Project Delivery Team. You will design, assemble, configure, document, and hand over turnkey infrastructures that we deliver to customers—covering Linux and Windows servers, end-user devices, Layer-2/Layer-3 switching, storage subsystems (NAS/SAN), and tape libraries. This is a field/implementation role (not internal IT) with occasional on-site work at customer locations and data centers.
+Responsibilities
+Solution design & build
+Translate customer requirements and HLD/LLD into validated build plans and BoMs
+Design and implement HA/clustered solutions (Pacemaker/Corosync, DRBD, Hyper-V failover clustering)
+Size, configure, and tune storage platforms (RAID, ZFS, iSCSI/FC SAN, SMB/NFS NAS) and integrate tape libraries (LTO, SAS/FC, LTFS/backup apps)
+Plan and configure enterprise switching: VLANs, trunking/port-channels, STP/RSTP, routing, ACLs, QoS
+Deployment & integration
+Rack/stack, cable management, firmware/driver baselines, and golden image preparation
+OS installation and hardening (RHEL/Alma/Ubuntu, Windows Server), AD/DNS/DHCP integration, GPOs where relevant
+Hyper-V host/cluster build, VM templates, networking (vSwitch), and storage presentation
+Automation for repeatable builds (e.g., Bash/PowerShell, Ansible preferred) and runbooks
+Operations readiness & handover
+Produce full project documentation: LLDs, as-built, network/stencil diagrams, installation & admin manuals, SOPs, backup/restore guides
+Conduct FAT/SAT, performance, and failover testing, and remediate findings
+Deliver knowledge transfer to the internal support team
+Quality, security & compliance
+Apply OS and network hardening best practices, patch/firmware governance
+Ensure delivery artifacts align with contractual, security, and regulatory requirements (e.g., ISO/IEC 27001 controls, GDPR data handling where applicable)
+Employee perks, benefits
+flexible working hours
+opportunity to travel abroad
+hybrid home office
+company events
+fruit and cafeteria benefits
+attractive financial bonuses
+Information about the selection process
+Please send your CV to jobs@sourcefirstinternational.com
+We always have multiple openings for IT specialists — not only in Slovakia and the Czech Republic, but also on international projects.
+Expected date of completion of the selection process
+31.12.2025
+(there are still 44 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+The company develops software and provides services worldwide (across the EU, Australia, New Zealand, South America, Arab countries, and even Antarctica).
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT, Informačné technológie
+Personality requirements and skills
+Requirements
+- 5+ years delivering infrastructure projects in customer environments
+- Linux: Expert-level admin (systemd, storage, networking, SELinux/AppArmor, packaging), HA with Pacemaker/Corosync, replication (DRBD); backup/restore
+- Windows Server: AD, DNS/DHCP, file/print, Hyper-V deployment, and clustering
+- Networking (switching/routing): VLANs/802.1Q, LACP, STP, inter-VLAN routing, ACLs, comfortable with mainstream enterprise switch vendors
+- Storage: RAID, ZFS/MD/LVM, NAS (SMB/NFS), SAN (iSCSI/FC), multipathing, performance troubleshooting (IOPS/latency/queue depth)
+- Tape libraries: LTO generations, robotics basics, media management, LTFS, and/or enterprise backup suites.
+- Scripting/automation: Bash and PowerShell, able to codify builds (Ansible preferred).
+- Documentation: Clear, complete LLD/as-built/runbooks, diagramming (Visio/Draw.io) at a professional standard
+- Customer-facing delivery skills: clear communication with technical and non-technical stakeholders, fluent in technical English
+- Physical & logistics: Comfortable with data-center work (racking, cabling, labeling), travel to customer sites (worldwide)
+- Containers (Docker/Podman), KVM, or VMware familiarity
+- Monitoring/logging: Zabbix/Prometheus/Grafana, syslog/ELK
+- Backup suites (e.g Veeam, Commvault, NetBackup, Bacula/Bareos)
+- Cloud awareness (Azure/AWS) for hybrid handovers
+Nice to Have Skills
+- RHCE
+- MCSE/Windows Server/Hyper-V
+- CCNA/CCNP
+- VCP
+- ITIL
+- Additional scripting (Python)
+- Infra-as-Code (Terraform)
+- CI/CD for infra builds
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: IT Recruitment
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5188923
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava
+Pozícia:
+IT Architect
+,
+IT System Administrator
+,
+IT/Technical Support Specialist
+,
+Service Engineer
+,
+Systems Administrator
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

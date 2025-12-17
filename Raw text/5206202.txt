@@ -1,0 +1,85 @@
+DevOps Specialist pre oblasť Healthcare
+Asseco Central Europe, a.s.
+Miesto práce
+Galvaniho 19, 821 04 Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 400 EUR/mesiac
+Ponúkaná základná mzda je od 2400 € brutto, s individuálnym zohľadnením doterajšej praxe a kvalifikácie.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Tvoríme nový informačný systém pre zákazníka z oblasti verejného zdravotníctva a chceme posilniť existujúci DevOps tím.
+Staň sa súčasťou nášho tímu a spolupracuj na systéme postavenom na moderných open-source technológiách a prevádzkovanom na platforme OpenShift.
+Tvojou hlavnou úlohou bude:
+podpora prevádzky a konfigurácie informačných systémov bežiacich na platforme OpenShift
+deployment systému cez Jenkins, GitLab (GitOps)
+konfigurácia využívaných open-source technologických produktov podľa potrieb vývojového tímu
+správa continuos integration a continuos delivery v GitLabe a tvorba/úprava CI/CD pipelines
+vývoj a údržba monitorovacích nástrojov založených na Prometheus a Grafana
+Zamestnanecké výhody, benefity
+flexibilný pracovný čas, hybridný spôsob čerpania HO
+sick days a dni voľna navyše pri špeciálnych príležitostiach – svadba, pôrod, sťahovanie, sprievod prváčika v 1. školský deň
+bonus pri narodení/osvojení dieťaťa
+odmeny – Referral program, odmeny pre jubilantov, zodpovedajúca variabilná zložka platu
+doplnkové dôchodkové sporenie
+ovocie, pitný režim, káva
+inšpiratívne workshopy a aktivity na témy technology, enviro, diversity, well being
+teambuildingy, spoločenské podujatia
+vzdelávanie a osobný rozvoj - ACE akadémia
+poradenstvo v oblasti duševného zdravia
+multisport karta, klub TJ Asseco
+CSR aktivity
+a iné
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Osobnostné predpoklady a zručnosti
+schopnosť analytického myslenia
+samostatnosť, zodpovednosť a ochota učiť sa
+skúsenosti s vývojom a prevádzkou IS
+komunikatívnosť a tímový duch
+základy administrácie linux a shell scripting
+skúsenosti s prevádzkou kontajnerizovaných aplikácií (Docker, Kubernetes, OpenShift)
+znalosť konfigurácie build, test and deployment automation (CI/CD)
+používateľská znalosť SQL
+práca s verzovacími nástrojmi (Git)
+Výhodou je znalosť:
+Helm
+GitLab, Argo CD
+Prometheus, Graffana (monitoring)
+Elasticsearch, Logstash, Filebeat, Kibana (analýza logov)
+PostgreSQL
+základy programovania v JAVA
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Asseco Central Europe patrí medzi najsilnejšie softvérové domy v strednej a východnej Európe. Pôsobí na Slovensku, v Českej republike, Maďarsku, Taliansku, Nemecku, Rakúsku, Švajčiarsku a Poľsku. Spoločnosť realizuje náročné projekty pre sektor zdravotníctva, bankovníctva, priemysel a utility, poisťovníctva a verejnú správu, ktoré sú postavené na viac ako 30 ročných skúsenostiach s rozsiahlymi projektmi softvérových riešení na mieru. Skupina Asseco CE zahŕňa aj ďalšie spoločnosti so zameraním na IT. Asseco CE kladie silný dôraz na podporu strategických cieľov svojich klientov. Spoločnosť je súčasťou medzinárodnej skupiny Asseco (Asseco Group), ktorá pôsobí v približne 60 krajinách sveta a zamestnáva viac ako 33 000 ľudí.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Barbora Irecká
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5206202
+Dátum zverejnenia:
+16.12.2025
+2025-12-16
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Programátor
+Spoločnosť:
+Asseco Central Europe, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 400 EUR/mesiac

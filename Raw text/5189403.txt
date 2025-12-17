@@ -1,0 +1,94 @@
+C++ Software developer (Portugal)
+SourceFirst International s.r.o.
+Place of work
+Porto, Portugal, Abroad - Others (Job with occasional home office)
+Contract type
+full-time
+Start date
+Upon agreement.
+Wage (gross)
+2 200 - 3 500 EUR/month
+The salary depends on the candidate’s level of seniority.
+Information about the position
+Job description, responsibilities and duties
+We are looking for an experienced and independent C++ developer for our branch in Porto, Portugal.
+You will be responsible for development of a server application for the transmission and basic processing of meteorological data intended for civil national meteorological institutions, international organizations, military forces, and airports worldwide.
+The application consists of several core processes running 24/7, which are monitored and controlled either through a desktop user interface or via a REST API. The application is cross-platform (Linux, Windows).
+Information about the selection process
+Send your CV to:
+jakub.halajcik@sourcefirstinternational.com
+We always have multiple positions available for IT specialists not only in Slovakia and the Czech Republic, but also on international projects.
+Expected date of completion of the selection process
+1.3.2026
+(there are still 104 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+The company develops software and provides services worldwide — across the EU, Australia, New Zealand, South America, Arab countries, and even Antarctica.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+- Open mind and willingness to explore new areas – meteorology is a rather specific field. However, we concentrate more on developing software tools to be used by meteorologis rather than meteorological science.
+- C++ language on advanced level (standard library, Boost, templates, exceptions, etc). If you are a really good programmer who does not use C++, you can still apply for the job if you are willing to learn C++ to reach advanced level.
+- Python language (at least on intermediate level)
+- Experience with software development in a team (e.g.  in corporate environment,  as part of an open source project)
+- We are only looking for people interested in long term employment.
+- English language - fluent. All internal documentation is in English and our customer base is spread around the world.
+Nice to have:
+- Understanding efficiency of code and algorithms (both in terms of speed and memory consumption)
+- Creativity in designing new algorithms
+- Experience in user interface design
+- Qt UI framework experience
+- Knowledge of scientific Python modules such as numpy and scipy
+- Basic experience with GIS systems and formats (SHP, GeoJSON, GML)
+- Experience with web services and web development in general
+- Experience with cloud technologies (especially in Amazon EC2)
+- Basic grasp of geometry and numerical computations
+- Linux or Windows OS administration skills
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: Jakub Halajcik
+Tel.:
++421902528675
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5189403
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Abroad - Others
+Pozícia:
+C++ Programmer
+,
+IT Architect
+,
+Programmer
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 200 EUR/month

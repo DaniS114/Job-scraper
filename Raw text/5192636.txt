@@ -1,0 +1,108 @@
+Unleash
+Your
+Power
+About Us
+Benefits
+Culture
+Jobs
+Data Engineer
+Apply Now
+Date posted:
+14.11.2025
+Location:
+Bratislava, Slovakia
+Salary:
+From 3 050 EUR/month
+As a motivated employee, you should be compensated appropriately. The minimum salary for this position is €3050 per month (full time), but your final remuneration package may be higher depending on your qualifications and experience.
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’sPrivacy Noticeand Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+Information about the position
+Job description, responsibilities and duties
+Data Engineer
+The Future Begins Here
+At Takeda, we are creating a future-ready organization that uses data and digital to meet the needs of patients, our people, and the planet. We need your help to make this happen. Join our new Innovation Capability Center (ICC) in Bratislava, Slovakia.
+In this role at our state-of-the-art center, you will have the opportunity to grow your skills and create solutions that will benefit patients around the world. Become the heart of our internal innovation engine.
+At Takeda we unite in diversity
+Takeda is committed to creating an inclusive workplace, where individuals are recognized for the diverse backgrounds and abilities they bring to our company. We are continually improving workplace experience and accessibility for everyone, and welcome applications from all qualified candidates. Here, you will feel welcomed, respected, and valued as an important contributor to our Team.
+The Opportunity
+As Data Engineer you will be responsible for building and maintaining data systems and constructing data tables and data models that are optimized for operations and analysis, supporting several Business Function requirements and downstream systems.
+Job Description
+•	Develop and maintain scalable data models and pipelines using AWS native technologies to support increasing data sources, volumes, and complexity.
+•	Collaborate with several business functions to improve data models and their quality to support the development of digital products, fostering data-driven decision-making across the organization.
+•	Implement processes and systems to ensure data reconciliation, monitor data quality, and ensure production data is accurate and available for key stakeholders, downstream systems, digital products, and business processes.
+•	Write unit, integration, and performance test scripts, contribute to engineering documentation, and maintain the engineering wiki.
+•	Perform data analysis to troubleshoot and resolve data-related issues.
+•	Work closely with Agile Scrum Teams, specifically front-end and back-end engineers, product managers, scrum masters and quality engineers to deliver integrated and scalable data products.
+•	Collaborate with enterprise teams, including Enterprise Architecture, Security, and Enterprise Data Backbone Engineering to design and develop data integration patterns and models supporting various digital products.
+•	Partner with DevOps and the Cloud Center of Excellence to deploy data pipeline solutions in the Takeda AWS environments, meeting security and performance standards.
+•	Support and align with Data Trustees, Data Stewards, and Master Data Management functions following Data Governance principles.
+Employee perks, benefits
+What Takeda Can Offer You
+At Takeda, you may build your career, while contributing to better people’s lives. Expect trust driven culture built around Integrity, Fairness, Honesty and Perseverance. Joining ICC will give you access to high end technology, training and colleagues who will support your growth.
+Benefits
+Here are a few benefits our employees are enjoying at Takeda. To get a full picture of what we are offering, go to our Benefits page (button above).
+• Cafeteria
+• Medical - High standard medical care
+• Bridge days
+• Summer Hours
+• Multisport Card
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+•	Bachelor’s Degree from an accredited institution in Engineering, Computer Science, or a related field.
+•	4+ years of experience in data engineering, software development, data warehousing, data lake/mesh, and supporting digital products developing data products following FAIR principles.
+•	Strong expertise in data integration, data modeling, and modern database technologies (Graph, SQL, No-SQL, Python, PySpark) and AWS cloud technologies (e.g., DMS, Lambda, Databricks, SQS, Step Functions, Data Streaming).
+•	Extensive experience in DBA, schema design & dimensional modeling, and SQL optimization.
+•	Excellent written and verbal communication skills, with the ability to collaborate effectively with cross-functional teams.
+•	Understanding of good engineering practices (DevSecOps, source-code versioning using GIT).
+•	Proficient working in Agile Scrum Teams and using Jira and Confluence.
+•	Knowledge of SDLC.
+•	Fluency in English.
+Nice To Have
+•	Experience with streaming technologies like Spark Streaming or Kafka.
+•	Infrastructure as Code (IaC) experience, preferably with Terraform.
+•	Experience designing and developing API data integrations using SOAP / REST / FAST.
+•	Gen AI Skills like RAG Pattern, LLM or Long Chain.
+Advertiser
+Brief description of the company
+Takeda is an industry-leading, global pharmaceutical company with an unwavering dedication to putting patients at the center of everything we do. We live our values of Takeda-ism – Integrity, Fairness, Honesty, and Perseverance – and are united by our mission to strive towards Better Health and a Brighter Future for people worldwide through leading innovation in medicine.
+Here, everyone matters and you will be a vital contributor to our inspiring, bold mission. At Takeda, you will make an impact on people’s lives – including your own.
+Takeda is an equal opportunity employer.
+We are taking a giant step forward to create a future-ready organization that evolves at the speed of science and technology, to meet the needs of patients by seeking and incorporating novel digital capabilities, data, and agile methodologies. Our aim is to provide digital solutions that are personalized to each patient’s unique needs and health circumstances. With individual care at the center, we can support patients in actively managing their personal care journey – from the moment they are diagnosed through treatment and beyond. Our Digital and IT team plays an integral role in accelerating this exciting journey.
+Contact
+Contact person: Mgr.  Peter Straka
+E-mail:
+send CV
+NOT READY TO APPLY?
+Join our Talent Community and get the latest news & events happening at Takeda
+LET’S GO
+takedajobs.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5192636
+Dátum zverejnenia:
+14.11.2025
+2025-11-14
+lokalita:
+Bratislava
+Pozícia:
+Business Intelligence Specialist
+,
+Database Administrator
+,
+Database Analyst
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+Takeda
+Základná zložka mzdy (brutto):
+3 050 EUR/month

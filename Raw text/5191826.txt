@@ -1,0 +1,67 @@
+ERNI Slovakia
+Open positions
+Benefits
+Contacts
+Senior Rust Engineer (Relocation to Switzerland)
+Place of work
+Zürich, Switzerland
+Start date
+asap
+Contract type
+full-time
+Salary
+10 000 EUR/month
+is minimum; we are open to discuss; depends on your skills and experience
+Join a global leader in medical diagnostics that helps millions of people access better healthcare every day. You’ll work in a collaborative, innovative environment where your ideas are valued, your individuality is respected, and you can grow personally and professionally.
+Your tasks will be:
+• Exciting domain & new product development – you will be part of a greenfield MedTech project where a completely new product is built from scratch
+• Meaningful impact for people – your work directly contributes to improving healthcare and people’s lives
+• Modern tech stack – you will work with Rust, Docker, CI/CD, cloud-based workflows, and distributed systems
+• International environment – you will collaborate with experienced experts across multiple countries and cultures
+• Switzerland as a location – you will spend 2 days a week on-site with the client in one of Europe’s most innovative countrie
+Requirements
+What are we looking for:
+• University education in a software related field such as software or electrical engineering
+• At least 8 years of experience in software development, including 3 years using Rust
+• Strong expertise in C/C++ and Embedded Linux; experience with C#/.NET is a plus
+• Solid understanding of Rust's core concepts, including ownership, borrowing, and lifetimes.
+• Experience with asynchronous programming in Rust (e.g., using async/await).
+• Experience with Linux Dockers, basic scripting knowledge would be an advantage, experience with C++ and Linux, familiarity with common Rust libraries and frameworks (e.g., tokio, actix-web, rocket, serde, sqlx). Also, RabbitMQ knowledge would be an advantage. Experience with CAN bus
+• Event-Driven Architecture knowledge would be an advantage
+• First experience working in regulated environments such as the medical device industry
+• Fluent in English and German is advantageous
+• Willingness to relocate to Switzerland
+Come and join ERNI
+• A flagship project in the MedTech sector: innovative, greenfield, and impactful
+• Strong team spirit: fun events and a great sense of community among ERNIans
+• Personalized professional development: tailor-made training opportunities at ERNI
+• Work-life balance: flexible hours and remote work (up to 5 weeks/year within the EU)
+• Attractive pension benefits: we cover two-thirds of your pension contributions
+Number of employees
+50-99 employees
+Contact
+Contact person: Mgr.  Monika Branišová
+E-mail:
+send CV
+www.betterask.erni/sk-en/
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5191826
+Dátum zverejnenia:
+13.11.2025
+2025-11-13
+lokalita:
+Switzerland
+Pozícia:
+Programmer
+,
+Software Engineer
+Spoločnosť:
+ERNI (Slovakia) s.r.o.
+Základná zložka mzdy (brutto):
+10 000 EUR/month

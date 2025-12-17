@@ -1,0 +1,89 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Data Engineer with PL/SQL
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+The senior data engineer develops, constructs, tests and maintains architectures, such as databases and large-scale processing systems, and ensures that architecture fully supports requirements of the business. Plays a collaborative role where he/she works closely with the business’s Data and Analytics teams, gathering technical requirements for exceptional data governance.
+Project description
+In the course of developing Telekom’s platform for Machine-to-Machine Reporting (TMSP), further activities in the areas of database development and reporting are required. As a rapidly growing Telekom application, it is essential to respond quickly to reporting requirements. This is implemented using agile development methods (SCRUM, Kanban).
+Included are adjustments and further developments in the database areas (STAGE, INTEGRATION, AGGREGATION, and EXPORT LAYER). The semantic intermediate layer (the so-called “Universe”) will be expanded, including for self-service requirements.
+You will be part of an agile DevOps team and will primarily be responsible for the functionality and optimization of our ETL process chains. You will support our frontend reporting based on SAP BO Web Intelligence and assist with platform releases by performing functional tests for your application area.
+Based on new customer reporting requirements, you will contribute innovative ideas within the team. You are willing to familiarize yourself with new technologies (e.g., cloud technologies, frontend tools such as Power BI, MS Strategy) to provide our customers with a modern reporting experience.
+What will you do?
+Analyses complex data elements and systems, data flow, dependencies, and relationships in order to contribute to conceptual physical and logical data models.
+Designs, builds, implementation and maintain the database structures to support business needs including integration of vendor database solutions into data environment.
+Contributes to the development of the capacity planning function to properly identify needed hardware, software, database configuration / architecture to support application / business needs.
+Manages the life cycle of multiple database tools by enabling smooth upgrades and/or installation and support of new capabilities.
+Data munging, manipulation, cleansing and blending from multiple data sources and exposure to various data types and storage paradigms including data mining.
+Works with data to solve business problems and build and maintain the infrastructure to answer questions with data.
+Develops and manages scalable data processing platforms used for exploratory data analysis and real-time analytics.
+Oversees activities of the junior data engineers, ensuring proper execution of their duties and alignment with business vision and objectives.
+You will succeed if you:
+Hold a Master’s degree in Information Technologies or a related field.
+Have at least 5 years of experience in ICT Analysis, Architecture & Design.
+Have expertise in Data Analytics and data visualization.
+Possess advanced experience in data processing frameworks
+Have expert-level knowledge of Data Streaming and Data Warehousing.
+Demonstrate advanced skills in SQL and experience with Oracle 12c
+Possess advanced programming and scripting skills.
+Demonstrate strong analytical thinking, team management, cross-functional collaboration, strategic thinking, innovation, effective communication, and stress tolerance.
+Have advanced proficiency in English (C1); German language skills (B1) are an advantage.
+Optional
+Experience with cloud technologies and frontend tools such as Power BI, MS Strategy
+Experience with SAP BO (SAP BO Data Services, SAP BO Information Design Tool, SAP BO Web Intelligence)
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lucia Gbúrová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5181281
+Dátum zverejnenia:
+24.10.2025
+2025-10-24
+lokalita:
+Remote work
+Pozícia:
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 100 EUR/month

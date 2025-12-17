@@ -1,0 +1,129 @@
+Senior SAP Basis administrator – Technical System Owner
+Place of work
+Bratislava
+Contract type
+full-time
+Salary
+3 600 EUR/month
+From 3600€
++ VAR*
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions.
+Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+Job description, responsibilities and duties
+As Senior SAP Basis Administrator you will be part of a global Technical Application Management team with focus on SAP Service Operations, ensuring that all mission critical SAP systems will be in best possible shape, running with best performance & highest availability, and are in full compliance with Quality and Information Security regulations.
+You will be supporting SAP systems hosted in SAP RISE and customer owned cloud environment. We as Siemens Healthineers are investing to new modern cloud-based technologies like SAP BTP.
+Your role will include coordination of & collaboration with external Service Providers from customer point of view. In this context, you are acting as a System owner for SAP Basis and Infrastructure area managing delivery of external providers and suppliers.
+With detailed in-depth knowledge of SAP basis, platform technology and standards, you will be the technical subject matter expert, supporting, consulting and guiding team members, project teams and suppliers with respect to technical topics. In case of technically driven upgrade projects, you will be taking over the role of a technical lead.
+You will work on complex issues and projects where analysis of situations requires an in-depth evaluation of variable factors. You will have to often think out of the box of SAP basis and look into topics from global point of view. You will be expected to provide independent judgment and discretion in solving complex business problems.
+You will be responsible for coordinating the technical infrastructure and operations team of the SAP BTP. You will be handling coordination of tasks related to system administration, configuration, and monitoring of the platform's components and services, user access, roles, and permissions within the platform to maintain data security and compliance.
+Tasks and responsibilities:
+Continuity management
+Be responsible for availability of assigned SAP system landscapes ensuring highest possible continuity management also by participating on call / on duty support, where in case of major incident or service interruption, lead war rooms responsible for soonest restoration of disrupted service.
+Incident / problem management
+Contribute into resolution of incidents and problem tickets handled by suppliers and internal teams.
+Act as quality manager to evaluate, if solution provided by supplier has required quality and proper lessons learned were performed to ensure, that similar issues will not reoccur.
+Change / project management
+Be responsible for proper planning and handling of regular changes according know standards like SAP kernel/DB updates, OS patching, DR/HA tests, refreshes, Firewall adjustments, etc., ensuring that all components under your responsibility remain updated.
+Be a member of project teams being responsible for covering SAP Basis and infrastructure areas for business-critical projects like: SPS/EHP/S4hana/BW4hana upgrades, migrations to cloud, new landscapes installations, carve outs, etc..
+Lead topics which have wider coverage than only for SAP basis area, for instance leading rollouts of new versions of frontend applications like SAP GUI, NWBC, etc..
+SAP Basis and infrastructure System ownership for several SAP system landscapes
+Be a part of system owner team where you will be responsible for SAP basis and infrastructure topics.
+Act as a communication bridge between business and technical teams.
+Evaluate and report system performance regularly against the performance benchmarks, proactively identify future issues and plan to optimize performance.
+Create technical documentation and knowledge-based articles.
+Subject matter expert in SAP Basis areas like:
+architecture and configuration
+infrastructure and optimizations
+performance troubleshooting and root cause analysis
+Security (certificates, SSL, SSO, SNC, etc.)
+Transport management system
+etc.
+Education:
+University degree in engineering / computer science or similar
+Experience:
+At least 8 years of experience in SAP Basis area, at least 6 years as 3^rd level support.
+Excellent SAP NetWeaver skills, solid experience with SAP on HANA, S/4 Hana, SAP Fiori, SAP PO/PI, SAP BI/BW, and SAP Solution Manager.
+Experience with performing of standard SAP Basis tasks like SPS/EHP/S4hana/BW4hana upgrades, migrations to cloud, new landscapes installations etc..
+In-depth knowledge of SAP related security concepts (certificates, SSL, SSO, SNC, etc.).
+Proven experience in dealing with major incident management / escalations also with delivering 24/7 on call / on duty 3^rd level support.
+Must be able to demonstrate functional understanding of the SAP technical framework.
+SAP HANA, SAP OS/DB Migration SAP Certification is a plus.
+Experience with SAP S/4HANA on Cloud deployments or migrations is a plus.
+BTP platform support experience and certification is big plus.
+Skills within BTP core components like BTP cockpit, SAP CIS, SAP SLS, SAP CALM, cTMS
+Skills within any other BTP applications (subaccounts) like SAP Integration Suite, SAP DI, SAP Datasphere, SAP AC, SAP BAS, SAP RDP, SAP RPA, SAP DAR, SAP DRC, SAP DM, SAP Build App
+Skills with Cloud Connector setup and maintenance
+Provisioning and administration of databases in SAP HANA Cloud
+SAP Build Work Zone - Implementation and Administration
+Experience with leading teams is a plus, if there is no experience in this area, at least willingness to grow in this subject is needed.
+Participation in projects and project management training / certifications are a plus.
+General Technical Skills:
+Must be proficient with concepts of SAP architecture.
+At least basic knowledge of ITIL framework.
+Must be able to demonstrate solid in-depth expertise in technical SAP Basis area.
+Must be able to demonstrate experience in technical Service Management
+At least basic knowledge of Enterprise Infrastructure / operating systems / network / programing.
+Non-Technical Skills:
+Excellent communication skills / experience with customer-facing position / ability to deliver presentations to bigger audiences
+Must be able to communicate and work effectively in a multi-cultural environment.
+Must possess the ability to collaborate remotely with the functional teams in Germany and the USA.
+German Language skills would be very helpful but are not mandatory.
+Must be a self-starter, capable of working with very little supervision.
+Must be capable of taking initiative and be proactive, with a firm understanding of the final goal to be achieved.
+Must not only be an excellent team player but also show willingness to take over the lead.
+Experience with Service Management, especially dealing with external service providers, is a plus.
+Basic wage component (gross) and other rewards
+: starting from 3600 EUR brutto /month + VAR*
+How we work:
+When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Check our Careers Site at
+https://www.siemens-healthineers.com/sk
+As an equal opportunity employer, we welcome applications from individuals with disabilities.
+Required education, skills and personality requirements
+Required education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+We offer
+Variable and Christmas bonus
+Hybrid type of work combination of work from
+home & work from office(telework / homeoffice)
+Flexible Working Hours
+Bridge days free extra paid leave 6 days per year
+3 sick days per year (no doctors permit needed)
+In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of family care
+Additional pension plan
+300 EUR for regeneration of work force via cafeteria system
+Multisport Card  employer's contribution of 10 EUR
+Recognition and Reward program
+Wellbeing program Psychological, Legal and Financial Councelling
+Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps)
+Retention program (work anniversary, life anniversary, employee loans)
+Training and development program (business and product trainings, e-learning, language courses, soft skills trainings,)
+Adjustable standing desk as a standard
+Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial Intelligence, Healthcare IT services, )
+Participation on world famous IT conferences like Microsoft IGNITE for best employees
+Send CV
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Join us!
+Send CV
+Click for more information
+ID:
+5192040
+Dátum zverejnenia:
+14.11.2025
+2025-11-14
+lokalita:
+Bratislava
+Pozícia:
+Systems Administrator
+Spoločnosť:
+Siemens Slovensko
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 600 EUR/month

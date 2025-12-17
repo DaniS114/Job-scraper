@@ -1,0 +1,109 @@
+Qt / C++ HMI Vývojár (Autonómne & Edge systémy)
+Optima Ideas, s.r.o.
+Miesto práce
+Vedecký park Univerzity Komenského v Bratislave, Ilkovičova, Karlova Ves
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 500 - 4 000 EUR/mesiac
++ ďalšie bonusy
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného a inovatívneho
+vývojára používateľských rozhraní v Qt / C++
+, ktorý sa pridá k nášmu tímu zameranému na vývoj moderných používateľských rozhraní pre
+autonómne systémy (UAV)
+a
+edge zariadenia
+.
+Pozícia ponúka príležitosť pracovať na
+pokročilých AI a vizuálnych riešeniach
+, ktoré sú nasadzované na vysokovýkonných embedded a edge platformách.
+Zodpovednosti:
+Vývoj používateľského rozhrania:
+Návrh, implementácia a optimalizácia moderných UI riešení v prostredí Qt (Qt Widgets, QML) pre autonómne a edge systémy – vrátane vizualizácie senzorických dát a systémového stavu.
+Integrácia so systémovými komponentmi:
+Spolupráca s tímom na integrácii UI vrstvy s backendovými modulmi, AI komponentmi a riadiacimi systémami autonómnych zariadení.
+Vývojové prostredie:
+Vývoj prebieha v operačnom systéme
+Ubuntu
+, s použitím profesionálnych vývojových nástrojov od
+JetBrains
+(CLion, PyCharm).
+Vývoj v C++:
+Implementácia robustného a efektívneho kódu s využitím moderných knižníc a návrhových vzorov.
+Nasadzovanie a testovanie:
+Príprava aplikácií na reálne nasadenie – prostredníctvom Docker kontajnerov alebo priamo na edge platformách s podporou NVIDIA GPU.
+Spolupráca v tíme:
+Úzka spolupráca s vývojármi AI, systémovými inžiniermi a UX/UI dizajnérmi v agilnom prostredí.
+Inovácie a výskum:
+Aktívna účasť na návrhu nových riešení pre interaktívne vizualizačné rozhrania a ovládacie systémy autonómnych platforiem.
+Požiadavky:
+Znalosť
+C++
+(ideálne C++17 alebo novšia) a skúsenosti s vývojom v
+Qt
+(Widgets, QML, QtQuick).
+Skúsenosti s vývojom pre
+embedded alebo edge zariadenia
+, ideálne pre
+autonómne alebo riadiace systémy
+.
+Znalosť
+Linuxového prostredia (Ubuntu)
+a vývojových nástrojov
+JetBrains
+(napr. CLion, PyCharm).
+Základy
+Docker
+alebo iných kontajnerizačných technológií výhodou.
+Skúsenosť s
+CI/CD  - GitLabe
+(build, test, deploy).
+Schopnosť efektívne riešiť problémy, optimalizovať výkon a pracovať na viacerých projektoch súčasne.
+Tímový hráč s dobrými komunikačnými schopnosťami a ochotou učiť sa nové technológie.
+Zamestnanecké výhody, benefity
+Práca v stabilnej spoločnosti
+Príjemné pracovné prostredie a mladý dynamický kolektív
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+alebo
+Slovenský jazyk - Stredne pokročilý (B2)
+alebo
+Český jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Optima Ideas, s.r.o. focuses on providing research, innovation and implementation of ICT cutting edge solutions for various sector verticals.  In cooperation with Universities, ICT technological companies, the company is dedicated to research and innovation in the areas of e.g. IoT solutions and Machine learning/AI deployments in the cloud in docker/kubernetes environments etc. Due to more than 20 years of experience of Optima Ideas, s.r.o. employees in the field of research and development of software solutions according to the requirements of practice and at the same time built network of collaborators from both academic and business spheres, the company has sufficient professional background, resources, and opportunities for the provision and implementation of activities supporting the transfer of research and development results into practice.
+In 2020, the company launched its own research and development program aimed at the development of an highly innovative HW/SW product - AInalytics.io - a personalized analytical system for proactive security and intelligent monitoring through open Edge AI. The solution is built on the use of AI tools in analyzing high volume video footage. The company is currently engaged in industrial research, testing some of its prototypes, primarily analytics solutions, thanks to its extensive collaboration with multiple sector verticals.
+Kontakt
+Kontaktná osoba: Richard Holly
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5189093
+Dátum zverejnenia:
+7.11.2025
+2025-11-07
+lokalita:
+Bratislava
+Pozícia:
+Softvérový inžinier
+Spoločnosť:
+Optima Ideas, s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

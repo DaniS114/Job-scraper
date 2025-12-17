@@ -1,0 +1,131 @@
+Senior Frontend Developer
+WORLD BUSINESS PRESS online, a.s.
+Miesto práce
+Slávičie údolie 106, 811 02 Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+1.1.2026
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+(finálna mzda sa odvíja od skúseností kandidáta)
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme
+Senior Frontend Developera
+, ktorý sa pridá k nášmu tímu a bude sa podieľať na vývoji
+fintech webových projektov
+a
+klientskej zóny
+postavenej na
+Vue 3 (nad Nuxt 3)
+.
+Práca zahŕňa aj prepojenie s
+custom CMS systémom postaveným na Laravel Nova 4
+a spoluprácu s marketingovým tímom pri návrhu a tvorbe nových webových stránok.
+Čomu sa budeš venovať:
+Návrh a vývoj frontend častí webových stránok a aplikácií.
+Implementácia riešení pre nové prezentačné weby v spolupráci s marketingovým tímom.
+Vývoj a údržba klientskej zóny vo
+Vue 3 + Nuxt 3
+.
+Využívanie
+TypeScriptu, Pinia, Tailwind CSS, Vite
+.
+Tvorba animácií a mikrointerakcií pomocou
+Framer Motion / GSAP / VueUse Motion
+.
+Prepojenie frontendu s
+Laravel backendom
+a
+CMS Nova 4
+(vlastné Tools, Cards, Metrics).
+Optimalizácia výkonu, UX a kvality kódu.
+Spolupráca s UX/UI a backend tímom na nových riešeniach.
+Zamestnanecké výhody, benefity
+Práca na inovatívnych
+fintech projektoch
+s moderným stackom
+Hybridný režim práce
+Flexibilný pracovný čas
+Moderné kancelárie s výbornou dostupnosťou
+Firemný MacBook a technické zázemie
+Možnosť kariérneho rastu v oblasti frontend architektúry
+Teambuildingy, MultiSport karta, občerstvenie, vlastná kuchynka, káva a ovocie
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+Vue / Nuxt
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Pokročilé skúsenosti s
+Vue 3
+a
+Nuxt 3
+(Composition API).
+Znalosť
+TypeScript
+,
+Tailwind CSS
+,
+Pinia
+,
+Vite
+.
+Skúsenosť s
+Laravel Nova
+alebo iným Laravel CMS.
+Znalosť
+animácií
+(GSAP, Motion) a UX princípov.
+Samostatnosť, precíznosť a schopnosť navrhovať riešenia pre nové weby.
+Výhodou: znalosť
+Docker, Redis, CI/CD pipelines
+, skúsenosti s
+real-time stackom (Laravel Reverb, Echo, WebSocket)
+.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+WORLD BUSINESS PRESS online, a.s. pôsobí od roku 2010 a ponúka B2B klientom široké spektrum služieb v oblastiach marketingu, IT riešení a web developmentu. Našou prioritou je individuálny prístup a dlhodobé partnerstvá s klientmi, ktorým pomáhame rozvíjať ich podnikanie prostredníctvom inovatívnych digitálnych riešení.
+Počet zamestnancov: 25–49
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Bc.  Jana Reiterova
+Tel.:
++421907757899
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5183573
+Dátum zverejnenia:
+29.10.2025
+2025-10-29
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Javascript programátor
+,
+PHP programátor
+,
+Programátor
+Spoločnosť:
+WORLD BUSINESS PRESS online, a.s.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

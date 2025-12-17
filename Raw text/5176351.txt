@@ -1,0 +1,147 @@
+Solution Architekt
+I.S.D.D. plus, s.r.o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+ZM od 3000€; konečná výška mzdy bude dojednaná na základe skúsenosti daného uchádzača
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme Solution architekta
+Baví ťa technologická architektúra a chceš pracovať na riešeniach, ktoré majú skutočný dopad? Pridaj sa k nám — sme IT firma špecializujúca sa na vývoj proprietárnych riešení pre klientov v
+telekomunikáciách, bankovníctve, energetike, verejnej správe
+a ďalších odvetviach.
+Hľadáme technologického nadšenca, ktorý sa nebojí riešiť komplexné technologické výzvy, vie sa na veci pozrieť z nadhľadu a nechýba mu schopnosť komunikovať s rôznymi cieľovými skupinami (inžinieri, vývojári, architekti, projektoví manažéri, manažment, biznis) a rozumieť ich potrebám a požiadavkám.
+Čo budeš robiť?
+Navrhovať
+detailnú IT architektúru
+pre moderné informačné systémy a aplikácie podľa potrieb biznisu
+Tvoriť
+aplikačnú a integračnú architektúru
+na základe funkčných požiadaviek a posudzovať riešenia
+Prezentovať      riešenia technickému aj netechnickému publiku, poskytovanie technickej      expertízy, diagnostika a návrh riešení
+Komunikovať      s internými a externými dodávateľmi počas analýzy, vývoja aj nasadzovania      riešení
+Schvaľovať      technický dizajn a
+dohliadať na súlad so štandardmi a stratégiou
+Spravovať
+architektonické modely a repozitáre
+pomocou profesionálnych      nástrojov
+Podieľať      sa na
+RFI/RFP konaniach
+a hodnotení dodávateľských riešení
+Zlepšovať      interné
+procesy a architektonické štandardy
+Diskusia,      mentoring a presadzovanie odborného názoru
+Čo ponúkame?
+Možnosť      pracovať na
+strategických projektoch s reálnym dopadom
+v rôznych      odvetviach
+Vplyv      na architektonické rozhodnutia a technologický smer riešení
+Skúsený      tím, ktorý si zakladá na kvalite a zmysluplnej spolupráci
+Flexibilitu,      priestor na rast a rozvoj
+Prácu      s modernými technológiami a prístupmi
+Koho hľadáme?
+VŠ      vzdelanie technického alebo ekonomického-technického smeru (I. alebo II. stupeň)
+Skúsenosti      ako
+solution architekt
+(aspoň 2 roky, preukázateľná participácia na 300+MD projektoch), ideálne z prostredia s reguláciami (banky,      telco, verejný sektor…)
+Praktické skúsenosti so SW vývojom vítané
+Znalosť      návrhu systémov a služieb za použitia architektonických, technologckých, priemyselných či bezpečnostných štandardov a protokolov
+Plynulá      znalosť angličtiny (slovom aj písmom)
+Silné      analytické a komunikačné schopnosti
+Schopnosť technického písania pre rôzne cieľové publikum
+Znalosť      nástrojov ako
+Enterprise Studio
+alebo
+Enterprise Architect
+je výhodou
+Proaktívny,      tímový prístup a chuť zlepšovať veci
+Orientácia predovšetkým v týchto technologických oblastiach: JAVA (Spring Boot, Quarkus), Node.js (Express.js, Nest.js), messaging (RabbitMQ, Kafka), web (React, Angular, Next.js), API (REST, GraphQL), RDBMS (PostgreSQL, MariaDB, Oracle), NoSQL (MongoDB, DynamoDB), TSDB (InfluxDB, TimeScaleDB), biznis procesy (Camunda)
+Znalosť      nástrojov ako Bizzdesign Enterprise Studio alebo Sparx Enterprise      Architect je výhodou
+Povedomie      o TOGAF (certifikát výhodou) a praktické skúsenosti      s modelovaním architektúry v notácii Archimate
+Znalosť      a praktické skúsenosti s notáciou UML pre detailný návrh systému      a BPMN pre modelovanie procesov
+Skúsenosti      s praktickou implementáciu Domain Driven dizajnu (DDD) sú vítané
+Otvorenosť      pre prácu s podporou AI
+Proaktívny,      tímový prístup (no zároveň samostatnosť pri vykonávaní úloh), inovatívnosť
+Zamestnanecké výhody, benefity
+Ponúkame širokú škálu benefitov
+Zdravie a well-being:
++ multišport karta
++ nadštandardné zdravotné prehliadky
++ príspevok na šport, kultúru, wellness
++ firemný futbal, ping-pong, bowling, badminton, účasť na bežeckých pretekoch, cyklistické aktivity (po práci aj do práce:), alternatívne iné športy
++ daily rutine: ovocie v kanceláriách, káva, pitný režim a firemné raňajky
+Rodina a financie:
++ 13. plat, kvartálne bonusy, koncoročná odmena (podľa typu pozície a spolupráce)
++ príspevky pri narodení dieťaťa, či svadbe
++ flexibilný pracovný čas, možnosť práce z domu
+Social&fun:
++ nekorporátne prostredie inovatívnej slovenskej firmy
++ vzdelávanie a odborný rast:
++ pravidelné odborné školenia
++ interné workshopy na odborné, soft aj nonbusiness témy
++ firemná Java a React akadémia
++ Tech Buddy pre každého nováčika (vrátane seniorov)
++ účasť na rôznych konferenciách a odborných eventoch
++ firemná angličtina s native lektorom
++ tímové akcie (motokáry, airsoft, pivo na terase) + pravidelné firemné turistické akcie (chaty, skialp, lyžovačky, víkendovky)
++ Vianočný večierok, Husacie hody a celofiremný teambuilding pre veľkých, Deň detí a Mikuláš pre malých...
+* Podľa §62 Zákona o službách zamestnanosti 5/2004 Z.z. máme ako Zamestnávateľ pri zverejňovaní pracovnej ponuky povinné uvádzať sumu základnej zložky mzdy. Finálna výška platu je však predmetom dojednania, suma sa bude odvíjať od seniority a skúseností uchádzača.
+Informácie o výberovom konaní
+Všetkým uchádzačom ďakujeme za prejavený záujem. Vaše CV si prejdeme a vybraných uchádzačov budeme kontaktovať telefonicky.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Informatika
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Expert (C2)
+Ostatné znalosti
+TOGAF - Pokročilý
+Enterprise Studio - Pokročilý
+Enterprise Architect - Pokročilý
+Prax na pozícii/v oblasti
+3 a viac
+Osobnostné predpoklady a zručnosti
++ Komunikačné zručnosti - schopnosť profesionálnej, konštruktívnej a nekonfliktnej písomnej a verbálnej komunikácie s biznis vlastníkmi, analytikmi a vývojármi. Schopnosť pýtať sa, formulovať a zobrať si slovo.
++ Technické/IT vzdelanie, schopnosť rozumieť princípom developerskej práce
++ Certifikávia v oblasti business analýzy vítaná
++ Písomné zručnosti - schopnosť zachytiť výstupy analýz do špecifikácií (word / excel) výstižne, formálne aj obsahovo správne.
++ Príjemné a nekonfliktné vystupovanie, zdravá miera asertivity.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+I.S.D.D. plus je softvérová spoločnosť poskytujúca komplexné služby v oblasti informačných technológií so špecializáciou na sektor telekomunikácií, bankovníctva a verejnej správy ako aj na riešenia pre inteligentné systémy. Budujeme efektívne, škálovatelné a zabezpečené riešenia, podporované najmodernejšími dostupnými technológiami.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Hana Ovari
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5176351
+Dátum zverejnenia:
+15.10.2025
+2025-10-15
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+,
+Softvérový inžinier
+Spoločnosť:
+I.S.D.D. plus, s.r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

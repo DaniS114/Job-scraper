@@ -1,0 +1,119 @@
+Django Developer (medior–senior)
+Erudo
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+živnosť
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do tímu
+Erudo
+hľadáme
+skúseného Django developera
+, ktorý sa nezľakne
+legacy aplikácie
+, vie sa v nej rýchlo zorientovať a pomôže nám ju dlhodobo rozvíjať a zlepšovať.
+Naša webová aplikácia slúži na
+správu a poskytovanie video kurzov
+, newsletterov, blogu a interného CMS. Ide o monolitickú Django aplikáciu s HTML templates (bez samostatného frontend frameworku), doplnenú o
+vanilla JavaScript, HTMX a Celery
+.
+Hľadáme niekoho, kto vie pracovať samostatne, zodpovedne a ocení kombináciu
+udržiavania existujúceho kódu a vývoja nových funkcionalít
+.
+Čo budeš robiť
+Údržba a
+refaktoring existujúcej Django aplikácie
+Vývoj
+nových funkcionalít
+pre video kurzy, CMS, newslettery a blog
+Práca s
+Django templates, vanilla JS a HTMX
+Implementácia a úprava
+background taskov (Celery)
+Spolupráca na technických rozhodnutiach (podľa chuti a skúseností)
+Príležitostne infra/devops úlohy (deploy, konfigurácie, zlepšenia procesov)
+Technológie a stack
+Python / Django
+HTML templates (žiadny samostatný frontend framework)
+PostgreSQL (cez Django ORM)
+Celery
+Wagtail CMS
+(pre časť aplikácie)
+Vanilla JavaScript, HTMX
+GitHub a Docker pre CI/CD
+Koho hľadáme
+Medior alebo senior developer so
+samostatnosťou v Django projektoch
+Skúsenosť s prácou na
+legacy kóde
+a jeho postupným zlepšovaním
+Schopnosť pracovať autonómne a dodávať funkčné riešenia
+Pokročilé využívanie AI nástrojov pri vývoji (napr. Claude Code, Cursor...) je vítané
+Výhodou sú skúsenosti s infra/devops alebo Wagtailom (nie podmienkou)
+Forma polupráce
+​
+Miesto práce:
+remote / Bratislava (podľa dohody)
+​
+Forma spolupráce:
+kontrakt (živnosť / s.r.o.)
+Rozsah:
+cca 40–80 hodín mesačne
+Trvanie:
+6 mesiacov (s možnosťou dlhodobej spolupráce)​
+Odmena:
+dohodou, podľa skúseností
+Ako pracujeme
+Oceníme
+čistého implementátora
+, ktorý spoľahlivo dodáva podľa zadania
+Rovnako vítame aj
+technického partnera
+, ktorý navrhuje zlepšenia a zaujíma sa o vzdelávacie aplikácie
+Minimum byrokracie, dôraz na výsledok a rozumnú komunikáciu
+Prečo Erudo
+Zmysluplná práca so skutočným dopadom
+na vzdelávanie a slovenské školstvo
+Autonómia v technických rozhodnutiach
+Flexibilná spolupráca a rozsah práce
+Menší tím, priame rozhodovanie, žiadny korporátny balast
+Možnosť dlhodobej spolupráce, ak si sadneme
+Ako sa prihlásiť
+Pošli nám:
+stručné info o sebe / CV
+odkazy na GitHub alebo relevantné projekty (ak máš)
+krátku informáciu o dostupnej kapacite (hodiny/mesiac) a predstavu o hodinovom rate (na faktúru)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Erudo je občianske združenie založené v roku 2015 s cieľom vybaviť mladých ľudí praktickými zručnosťami, ktoré sú nevyhnutné pre 21. storočie. Prináša do škôl inovatívne spôsoby vyučovania – najmä projektové vyučovanie (PBL) a STEM (veda, technológia, inžinierstvo a matematika).
+https://erudo.sk/
+Kontakt
+Kontaktná osoba: Marek Mansell
+Tel.:
++421911816665
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5205009
+Dátum zverejnenia:
+17.12.2025
+2025-12-17
+lokalita:
+Práca z domu
+Pozícia:
+Python programátor
+Spoločnosť:
+Erudo

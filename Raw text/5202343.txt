@@ -1,0 +1,121 @@
+Naše produkty
+Práca za rohom
+Najzamestnávateľ
+Profesia
+Platy.sk
+Edujobs
+Teamio
+Seduo
+Profesia days
+O nás
+Náš príbeh
+Náš tím
+Práca u nás
+Kontakt
+Kontaktujte nás
+SK
+EN
+Naše produkty
+O nás
+Práca u nás
+Kontakt
+Kariéra v Alma Career Slovakia
+Product Manager pre B2B zónu pracovných portálov (napr. Profesia.sk)
+Product Manager pre B2B zónu pracovných portálov (napr. Profesia.sk)
+Jedným slovom spájame… tých správnych ľudí s tými správnymi firmami. Sme súčasťou medzinárodnej technologickej skupiny Alma Career, ktorej produkty zlepšujú svet práce už v deseti krajinách Európy. Na Slovensku medzi také produkty patria napríklad Profesia.sk, Práca za rohom, Platy.sk, Teamio, Seduo, Edujobs, Arnold, Výpomoc so srdcom alebo napríklad festival príležitostí Profesia Days. Našou víziou je tak neustále prinášať tie najlepšie riešenia pre uchádzačov aj firmy, vzdelávanie a spokojnosť zamestnancov.
+Odpovedať na pozíciu
+Miesto práce
+Pribinova 19, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 2 800 EUR/mesiac
+Staň sa kľúčovým hráčom v produktovom tíme Alma Career – skupiny stojacej aj za Profesiou. Naše produktové oddelenie tvoria desiatky tímov, ktoré budujú a rozvíjajú pracovné portály v deviatich európskych krajinách. Práve teraz prechádzame strategickou transformáciou: spájame všetky portály pod jednu spoločnú platformu, aby sme dokázali rýchlejšie prinášať inovácie miliónom používateľov naprieč Európou.
+Čo bude tvojou pracovnou náplňou?
+Budeš sa podieľať na vývoji Profesia B2B zóny, cez ktorý firmy vedia jednoducho nakupovať a využívať naše služby.
+Budeš sa podieľať na našej misií spraviť tento produkt medzinárodný pre všetky krajiny v našej skupine.
+Budeš riešiť každodennú produktovú operatívu (riešiť požiadavky, overovať nahlásené bugy, odpovedať na otázky..).
+Našu B2B zónu potrebujeme na pozadí pripojiť na rôzne backendové komponenty spravované inými tímami. Tvojou úlohou bude plánovať, rozbíjať na drobné a projektovo viesť tieto integrácie.
+Spoločne si určíme, na ktorý komponent sa ideme integrovať.
+Spolu s tímom musíte zanalyzovať, čo všetko bude integrácia obnášať.
+Na základe dát, rozhovorov s používateľmi a analýzou našich interných aj konkurenčných produktov, budeš hľadať príležitosti ako čo najlepšie tieto komponenty prepojiť.
+Väčšina integrácií bude mať dopad aj na používateľské prostredie. V takých prípadoch spolu s UXákom navrhnete ako bude funkcionalita pre uchádzačov vyzerať a fungovať (napr. budete navrhovať ako má vyzerať registrácia a prihlasovanie firiem na Profesií).
+Počas implementácie budeš dohliadať na to, že tasky odsýpajú ako majú.
+Postaráš sa o informovanosť o progrese smerom do tímu aj smerom k ostatným stakeholderom.
+Ako robíme produkty my?
+Náš tím tvoria produkťák/y, backend and frontend vývojári a UX dizajnér.
+Máme nastavené zabehnuté procesy (Jira, scrum, dvojtýždňové šprinty, daily standups, demá..). Nie všetkých procesov sa ale musíš striktne držať. Ak sa s tímom dohodnete, môžete si fungovanie upraviť podľa seba.
+Máme nastavené ročné aj kvartálne ciele, ktorých sa držíme. Snažíme sa robiť veci systematicky ale nie úplne rigidne.
+Snažíme sa releasovať po malých častiach a veci skôr zjednodušovať ako komplikovať. Naša firemná hodnota je “simplicity”.
+Veríme, že kľúčom k úspechu sú angažovaní programátori. Za určovanie priorít a navrhovanie riešení je zodpovedný celý tím, nie iba produktový manažér.
+Nebojíme sa robiť chyby. Ak sa stane chyba, otvorene sa o nej porozprávame a snažíme sa z nej poučiť.
+Dbáme na otvorenú komunikáciu a dobrú náladu vo vnútri tímu.
+Pracujeme veľa z domu, ale snažíme sa, aby sa celý tím videl aspoň raz za dva týždne (keď končí šprint).
+V tíme medzi sebou komunikujeme v slovenčine, ale tasky/dokumentáciu píšeme po anglicky. Spolupracujeme s niektorými tímami, ktoré hovoria iba anglicky, preto musíš dobre ovládať angličtinu.
+Čo od teba očakávame?
+Orientuješ sa v nových technológiách a máš solídne technologické porozumenie.
+Rozumieš pojmom ako monolit, services alebo databáza. Vieš si predstaviť ako na pozadí funguje software. Vieš si preštudovať napr. rest api dokumentáciu a vyčítať z toho ako služba funguje a aké dáta potrebuje.
+Si zvedavý, zaujímaš sa ako veci fungujú a rýchlo sa učíš.
+Skúsenosti s produktovým manažmentom alebo programovaním sú výhodou, ale nie sú vyžadované.
+Chceš skúmať ako používatelia pracujú s produktom. Skúsenosti s user researchom, AB testovaním alebo akýmikoľvek technikami product discovery sú výhodou.
+Vieš pracovať v dynamickom prostredí a máš dobré komunikačné zručnosti.
+Máš logické myslenie a vieš pracovať s dátami. Vieš vidieť dáta v širšom kontexte a nájsť v nich patterny. Nerobí ti problém napíšať jednoduchšiu MySQL query alebo čítať dáta v JSON formáte.
+Vieš rozbiť problém na drobné a vždy hľadáš najefektívnejšie riešenie.
+Máš “ťah na bránu”, záleží ti na tom, aby boli veci dokončené načas a v dobrej kvalite.
+Vieš prioritizovať a oddeliť podstatné od nepodstatného.
+Vieš zistiť potreby biznisu, vývojárov, používateľov a celé to nejak skĺbiť do seba.
+Máš svoj názor, ale vieš si vypočuť a zvážiť aj iné alternatívy.
+Si líder, vieš sa nadchnúť pre vec a preniesť to ďalej do tímu.
+Dohovoriť sa po anglicky nie je pre teba problém.
+Nemáš problém chodiť aspoň 2x do týždňa do Bratislavy do officu.
+A čo ti ponúkame my?
+Priestor na chyby, čas na experiment, možnosti podieľať sa na rozhodnutiach a smerovaní produktu.
+Otvorená atmosféra v tíme. U nás nebudeš mať striktné deadliny od externého klienta.
+Dostaneš počítač a OS podľa tvojej preferencie (Linux alebo MacOS).
+3 dni dovolenky navyše.
+Happy Days: neobmedzené voľno kedykoľvek a na čokoľvek (pomôž, kde je treba v rámci dobrovoľníckeho dňa, uži si deň svojich narodenín alebo choď na 1-dňovú turistiku :-).
+Najrôznejšie interné, ale aj externé prednášky/kurzy/konferencie. Naviac budeš mať neobmedzený prístup do našej vzdelávacej platformy Seduo.
+Hedepy: program online starostlivosti o duševné zdravie, ktoré ti môže pomôcť v tvojich životných situáciách, ale aj v osobnom rozvoji.
+Multisport karta čiastočne hradená zamestnávateľom.
+Parádny office v centre mesta Bratislavy, budeme radi, ak sa ukážeš aj v našich moderných kanceláriách v Bratislave na Pribinovej 19.
+Možnosť práce z domu, takže si možno konečne vyladíš svoj work-life balance.
+Priateľský tím, na ktorý sa môžeš vždy spoľahnúť.
+Všetci si tu tykáme, chodíme spolu na mimopracovné aktivity, teambuildingy a pod.
+Dobrovoľnícke aktivity v rámci práce (účasť na CSR projektoch).
+Ideš do toho s nami?
+Ak ťa naša ponuka zaujala, pošli nám svoje CV a motivačný list, kde spomeň, prečo ťa zaujala práve táto pozícia a čo vieš navyše ponúknuť z hľadiska tvojich zažitých produktov.
+Na reakciu na túto ponuku ťa budú čakať ešte 4 otázky, na ktoré chceme aby si nám zodpovedal/a.
+Ďakujeme.
+S kým budeš pracovať?
+Do jedného z našich kľúčových tímov hľadáme produktového manažéra, ktorý sa bude podieľať na rozvoji B2B (klientskej) zóny Profesie. Tvojou úlohou bude posunúť túto zónu na nový level – pretvoriť ju na flexibilný, škálovateľný produkt, ktorý dokáže efektívne slúžiť klientom naprieč celou Alma Career. Budeš mať priestor ovplyvniť produktovú stratégiu, formovať spoločnú platformu a prinášať riešenia, ktoré majú reálny dopad na HR trh v deviatich krajinách.
+Katarína Jandová
+Head of Job boards SK
+Kontaktná osoba
+Zuzana Kaňuchová
+Odpovedať na pozíciu
+Späť na voľné pracovné miesta
+We are a member of
+Alma Career
+family.
+ID:
+5202343
+Dátum zverejnenia:
+5.12.2025
+2025-12-05
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+IT projektový manažér
+,
+PHP programátor
+,
+Produktový manažér v IT
+,
+Programátor
+Spoločnosť:
+Alma Career Slovakia s. r. o.   (pôvodne Profesia, spol. s r.o.)
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

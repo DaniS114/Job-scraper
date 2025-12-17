@@ -1,0 +1,87 @@
+Embedded Software Engineer in C for Laboratory Diagnostics Systems
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Salary
+From 3 000 EUR/month
+From 3000 EUR brutto /month + VAR*
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions. Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+Job description, responsibilities and duties
+Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.
+Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions.
+Are you an embedded systems expert with a deep understanding of low-level C programming and CAN bus protocols? Do you want to apply your skills from automotive or similar industries to a critical mission in healthcare?
+Help us develop life-saving laboratory diagnostic equipment, and we are looking for a talented engineer to help us redefine the intelligence of our systems
+https://www.siemens-healthineers.com/sk/laboratory-diagnostics
+.
+Your Profile: The Skills You Bring
+Experienced in C programming for embedded systems.
+Proven experience with microprocessor/Firmware development, preferably with TI microcontrollers.
+Deep knowledge of CAN Bus systems (both generic and proprietary variants).
+Experience with handling bus overflow, message prioritization, and unpredictable behavior is crucial.
+Strong skills in rigorous testing methodologies like stress testing.
+Hands-on experience with LabVIEW for prototyping and testing is a significant advantage.
+Solid general electrical knowledge, especially in control systems and feedback loops.
+Experience with low-level communication protocols like SPI.
+The Problems You Will Solve:
+You will become the first member of our Slovakia-based team, collaborating closely with colleagues in the US and India to shift system intelligence from high-level Windows platforms down to the device control level (DCL). Your responsibilities will include:
+Developing "more brains" for low-level control of critical subsystems like thermal management, precise movement or refrigeration.
+Designing and implementing robust firmware that can operate immediately upon power-on (e.g., initiating cooling before the full OS boots).
+Expanding our use of CAN bus for all internal sensor communication, ensuring stability and preventing system shutdowns from bus overflow.
+Applying your expertise in stress and boundary testing to create exceptionally fault-tolerant systems.
+Developing regression tests and test suits to ensure robustness of the system.
+This role is an excellent fit for skilled engineers from the automotive industry or any other field with a strong emphasis on robust, real-time embedded systems and CAN bus communication.
+Basic wage component (gross) and other rewards:
+starting from 3000 EUR brutto /month + VAR*
+How we work:
+When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably.
+Check our Careers Site at
+https://www.siemens-healthineers.com/sk
+As an equal opportunity employer, we welcome applications from individuals with disabilities.
+Required education, skills and personality requirements
+Required education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Other knowledge
+LabVIEW - Advanced
+CAN Bus systems - Advanced
+C - Advanced
+We offer
+Variable and Christmas bonus
+Hybrid type of work – combination of telework and work from office
+Flexible Working Hours
+Bridge days – free extra paid leave 6 days per year
+3 sick days per year (no doctor’s permit needed)
+In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of family care
+Additional pension plan
+300 EUR for regeneration of work force via cafeteria system
+Wellbeing program – Psychological, Legal and Financial Counseling
+Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps)
+Retention program (work anniversary, life anniversary, employee loans)
+Training and development program (business and product trainings, e-learning, language courses, soft skills trainings…)
+Adjustable standing desk as a standard
+Participation on world famous IT conferences like Microsoft IGNITE for best employees
+Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial Intelligence, Healthcare IT services, …)
+Send CV
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Join us!
+Send CV
+Click for more information
+ID:
+5181151
+Dátum zverejnenia:
+24.10.2025
+2025-10-24
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+Spoločnosť:
+Siemens Slovensko
+Základná zložka mzdy (brutto):
+3 000 EUR/month

@@ -1,0 +1,83 @@
+About us
+Our benefits
+Open positions
+Cloud Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 700 - 4 500 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,700 and EUR 4,500 per month (for a full-time role). The specific salary offered considers:​-the requirements, scope, complexity and responsibilities of the role, ​-the applicant’s own profile including education/qualifications, expertise, specialization, skills and experience.​In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognize your achievements. Further you will enjoy a variety of global and location specific benefits.​Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.​
+Information about the position
+Job description, responsibilities and duties
+About the role
+The Azure Application Hosting team at Swiss Re is seeking a Cloud Engineer with a focus on Kubernetes and Azure Cloud. In this role, you'll engage in Infrastructure as Code, automation, and application hosting using Kubernetes. Your main responsibility will be to manage and improve our shared application hosting platform for various types of applications in the Azure cloud.
+A significant part of your role involves the further engineering of the platform, but also ensuring the stability and operability of the platform. This includes automating operational processes as much as possible. You will also participate in an on-call rotation, approximately once every two months, to handle high-priority incidents, with the frequency expected to decrease as our team grows.
+Your work will include managing a managed PaaS platform, covering aspects like fully automated secret management, storage, and identity management for application teams. You'll also be involved in migrating new applications to the public cloud and optimizing existing setups.
+For example, you will:
+Build infrastructure and a platform that allow Swiss Re units to:
+help improve the life of farmers in Brazil with image recognition based on satellite data.
+build models to predict life expectancy or predict the CO2 footprint of companies.
+support many other exciting projects in a collaborative environment with colleagues from Swiss Re's international offices.
+You will work in a team building new cutting-edge solutions cloud infrastructure solutions, with 5 mentors to support your learning.
+We are a diverse team and our passion to learn is what connects us. We are looking for a person who loves to learn and we will support you in this journey! We reserve time for studying and attending conferences, and we organize our own upskilling sessions as well. In addition to projects for our clients, we also work on innovation projects which allow us to learn new methodologies and gain fresh experience.
+The team is based in Zürich, Switzerland, and Madrid, Spain. We're looking for someone who is ready to contribute to our team's efforts and support Swiss Re's cloud initiatives.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Nobody is perfect and meets 100% of requirements. If you however meet some of the criteria below and are genuinely curious about the world of public cloud and application hosting, we will be happy to meet you.
+To be successful in the role, you need to have these technical skills and knowledge:
+- Experience in Kubernetes and generally application hosting
+- Experience in public cloud, mainly Azure
+- Knowledge of interacting with API and CLI interfaces
+- Knowledge of programming language Golang and Bash/Powershell
+- Passion for learning and innovating
+If you also have the following experience and interests, it is a huge plus:
+- Background in software engineering or application design
+- Knowledge of and/or interest in pulumi for IaC
+- Knowledge of and/or interest in platform and application security
+- Experience in corporate/enterprise technical landscapes
+If you join us, you will be able to participate in a variety of interesting initiatives.
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Denisa Bastos
+Apply here
+ID:
+5166138
+Dátum zverejnenia:
+30.10.2025
+2025-10-30
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+,
+Systems Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 700 EUR/month

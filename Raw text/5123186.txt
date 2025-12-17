@@ -1,0 +1,90 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Technical Specialist (System engineer) for Eset Corporate Solutions
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 500 EUR/month
+* Financial bonus based on performance paid twice a year up to 10% from the base salary paid during the evaluation period (normally 6 months).
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+Contract type
+full-time
+We are looking for a new colleague to join our Corporate Solutions team to support the delivery and deployment of custom security solutions for our clients.
+Your main role will be to cooperate on:
+deployment of Corporate Solutions offerings (trial environment setup, production deployment based on client’s requirements)
+monitoring of environment where the solution is deployed
+definition, technical setup and maintenance of key metrics
+setup and maintenance of automated testing of the solution at new release
+further evolution and technical enhancements of ESET Corporate Solutions offerings
+What else does Technical Specialist role entail?
+you will work with Corporate Solutions team on delivery of ESET corporate offerings to Customer, which includes understanding Customer’s use case, requirements, understanding of ESET solution and approach, and participation on the delivery and deployment of the agreed solution
+you´ll get familiar with existing ESET products and their components as well as with the tools, processes and procedures that are relevant for the team
+having a 360-degree view about ESET security solutions and products you will  be able to setup and configurate them regarding customer needs
+you will analyze technical aspects of environments (architecture, infrastructure, OS, databases, etc.) & evaluate their advantages / disadvantages / limits / risks in order to be able to provide best potential solutions / configurations of security products in customer’s environment
+What are our requirements?
+minimum of 3 years of hands-on experience with cloud platforms such as Azure and AWS (IAM, networking, compute, storage)
+strong understanding of cloud computing best practices, including security, scalability, and cost management; familiarity with different models (Public, Private, Hybrid, IaaS, PaaS, SaaS)
+containerization & orchestration experience: Docker, Kubernetes, Openshift
+advanced Linux/Unix administration experience (Ubuntu, CentOS, RedHat, Debian)
+Experience with monitoring and logging tools
+After you master your main responsibilities, we offer you further opportunities for learning and growth, e.g. to the Senior Technical Specialist or Solution Architect positions.
+Kontaktná osoba
+Nicole Vajdová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5123186
+Dátum zverejnenia:
+24.10.2025
+2025-10-24
+lokalita:
+Bratislava
+Pozícia:
+IT Consultant
+,
+IT Security Specialist
+,
+IT System Administrator
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

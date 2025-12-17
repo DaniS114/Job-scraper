@@ -1,0 +1,83 @@
+AI / ML Solutions Specialist
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Salary
+From 2 900 EUR/month
+From 2900 + VAR*
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions.
+Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+Job description, responsibilities and duties
+We're at the forefront of revolutionizing healthcare through cutting-edge medical imaging software products. Our mission is to empower doctors in diagnosing a wide range of diseases from medical images. Our system is built on microservices architecture utilizing innovative technologies while maintaining a strong focus on automation and quality.
+Operating within an agile framework, we're committed to setting new industry standards.
+We’re looking for an AI/ML Solutions Specialist to participate in Design/Development of a new Ultrasound system.
+Your role:
+You design and deploy full-stack ML and computer vision solutions for diagnostic ultrasound.
+You build advanced models for detection, classification, and segmentation in both video and static images.
+You turn business and clinical needs into rapid prototypes and collaborate closely with R&D and medical teams.
+You stay up to date with modern CV/ML research and apply it directly to product development.
+You identify opportunities where AI/ML can improve workflows, efficiency, or product capabilities.
+Your expertise:
+4+ years of experience in ML, computer vision, data science, or image processing.
+PhD or M.S. in a technical/scientific field.
+Strong foundation in algorithms, statistics, and modern ML/CV techniques.
+Excellent Python skills (PyTorch, OpenCV) and strong proficiency in C++.
+Experience working with various datasets and communicating effectively across teams.
+Preferred Qualifications:
+Medical imaging experience
+Familiarity with TensorFlow/Keras/PyTorch/MLFlow
+Experience in healthcare product development
+AWS or Azure experience
+Agile/Scrum background
+Basic wage component (gross) and other rewards:
+starting from 2900 EUR brutto /month + VAR*
+How we work:
+When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Check our Careers Site at
+https://jobs.siemens-healthineers.com/careers
+Required education, skills and personality requirements
+Required education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+We offer
+Variable and Christmas bonus
+Hybrid type of work – combination of telework and work from office
+Flexible Working Hours
+Bridge days – free extra paid leave 6 days per year
+3 sick days per year (no doctor’s permit needed)
+In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of family care
+Additional pension plan
+300 EUR for regeneration of work force via cafeteria system
+Wellbeing program – Psychological, Legal and Financial Councelling
+Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps)
+Retention program (work anniversary, life anniversary, employee loans)
+Training and development program (business and product trainings, e-learning, language courses, soft skills trainings,…)
+Adjustable standing desk as a standard
+Participation on world famous IT conferences like Microsoft IGNITE for best employees
+Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial Intelligence, Healthcare IT services, …)
+Send CV
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Join us!
+Send CV
+Click for more information
+ID:
+5202925
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Košice
+Pozícia:
+Programmer
+Spoločnosť:
+Siemens Slovensko
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 900 EUR/month

@@ -1,0 +1,100 @@
+Lenovo Slovakia
+Benefits
+Jobs
+Contact us
+Data Integration Developer and Analyst
+What do you need to succeed in this opportunity
+•	At least 4 years experience as SQL developer with solid understanding of relational databases (DDL/DML/DCL commands) and big data technologies (Azure Synapse, Hadoop).
+•	Excellent understanding of ETL/ELT concepts, data modelling, data warehousing and data governance principles.
+•	At least 4 years hands on experience with Python for use in data integration, data manipulation and beyond.
+•	Excellent problem-solving skills, analytical mindset and attention to detail.
+•	Strong communication (fluent in spoken and written English) and collaboration skills to work effectively with teams worldwide.
+•	Ability to work with high levels of autonomy, accountability, and integrity.
+•	Heavy user of agentic AI products or dev frameworks, e.g.. Google Gemini, ChatGPT, Claude Anthropic, Grok, Devin AI, Microsoft Copilot Studio, GitHub CoPilot, Google Antigravity, Cursor with demonstrable results.
+•	Bachelor's degree in IT or highly technical field (engineering, mathematics, data analytics, etc.)
+Required education
+University education (Bachelor's degree)
+Educational Specialization
+database developer
+Language skills
+English - Upper intermediate (B2)
+What will you do
+•	Act as a key liaison between technical and business domains, translate complex business requirements into data deliverables written in SQL and Python.
+•	Design, develop, deploy and maintain robust data integration solutions in Apache Airflow and Azure Data Factory.
+•	Maintain Apache Airflow infrastructure, including installation, configuration, and monitoring.
+•	Continuously monitor and optimize data workflows for top performance, identify and troubleshoot bottlenecks.
+•	Maintain and enhance an event logging system collecting status logs from various Lenovo systems.
+•	Maintain existing VMs used by the Data Integration & Insights team and ensure continuous operation.
+•	Maintain existing SQL DB backup jobs.
+•	Create and continuously update documentation on the back-end implementation.
+•	Adhere to code version control best practices.
+•	Cooperate with the Analytics team on AI/ML projects by providing data and analytics support.
+•	Champion adoption of Gen AI products and dev automation frameworks to improve data workflows and unlock business insights.
+Other information
+Place of work:
+Landererova, Bratislava, Slovakia (Job with occasional home office)
+Salary offer (gross):
+From 2 800 EUR/month
+Base gross monthly salary from 2800 EUR, depending on experience + variable part 12% of your annual earnings.
+Start date:
+ASAP
+Contract type:
+full-time
+What we offer
+Healthcare and well-being
+Development
+Work - life balance
+Bonus system
+Community life (CSR)
+About Lenovo
+Lenovo is a company in a constant state of
+creation.
+Here, you'll
+architect
+your own career,
+pioneer
+new ideas and
+master
+new skills.
+Lenovo Slovakia employs more than
+25 nationalities
+and
+is the biggest shared service center in Lenovo Group.
+Our people share a common aspiration to
+be the very best.
+Whether
+serving
+our customers,
+working
+together as a team or
+contributing
+to the community, we are working to build
+unique company.
+APPLY
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5206061
+Dátum zverejnenia:
+16.12.2025
+2025-12-16
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+Database Analyst
+,
+Python Programmer
+,
+Service Engineer
+,
+Systems Engineer
+Spoločnosť:
+Lenovo (Slovakia) s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/month

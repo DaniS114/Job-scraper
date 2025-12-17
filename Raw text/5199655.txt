@@ -1,0 +1,114 @@
+Frontend Developer
+RecruLab s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 500 - 3 500 EUR/month
+Information about the position
+Job description, responsibilities and duties
+As a Frontend Developer, you will be responsible forshaping high-performance interfaces with a strong emphasis on datavisualization and user experience. You will lead initiatives to research andevaluate visualization technologies while maintaining the frontend architecture.
+Key Responsibilities:
+Architecture     & Development:
+Design and maintain the frontend     architecture to meet performance, scalability, and maintainability     requirements. Implement new features, debug issues, and ensure code is     production-ready.
+Data     Visualization:
+Lead initiatives by researching and     evaluating libraries (e.g., React, Canvas/SVG, D3.js) to create     maintainable and performant visualizations.
+Quality     & CI/CD:
+Maintain build quality and continuous     integration within the frontend ecosystem. Contribute to QA by ensuring UI     meets design and usability expectations.
+Planning:
+Estimate effort for backlog items and assess the feasibility of     non-functional requirements.
+Collaboration:
+Work with backend developers, product owners, and QA to improve     infrastructure and automation. Identify and track technical debt.
+Employee perks, benefits
+Work-Life     Balance:
+Hybrid work model, flexible working     hours, and 25 days of vacation per year.
+Compensation:
+Competitive salary, overtime compensation, referral bonuses, and     relocation bonuses (for moves >100km).
+Well-being:
+Ergonomic workstations (adjustable desks/chairs) and paid sick-leave     reimbursement.
+Growth:
+Regular performance reviews, career growth opportunities, and access to     online educational platforms and language courses (English/German).
+Culture:
+A supportive team culture with team-building events, holiday parties,     subsidized meals/vouchers, and office amenities.
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+International high-tech company.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+Software Engineering, Electrical Engineering, or a related field
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+2
+Personality requirements and skills
+Must-Have Qualifications:
+Experience:
+At least 2 years in web UI/frontend development using modern JS     frameworks/libraries.
+Education:
+Bachelor’s or Master’s degree in Computer Science, Software Engineering,     Electrical Engineering, or a related field.
+Data     Visualization:
+Demonstrated interest or experience     working with libraries such as
+Canvas, SVG, or D3.js
+.
+Modeling:
+Familiarity with software modeling techniques (e.g., UML).
+Language:
+Strong command of English (written and spoken).
+Nice-to-Have (Advantageous):
+Backend:
+Experience with backend development, specifically
+C#
+.
+Database:
+Experience with
+PostgreSQL
+or similar.
+Real-Time     Ops:
+Knowledge of technologies like
+WebSockets
+or
+SignalR
+.
+DevOps:
+Familiarity with CI/CD tools (e.g.,
+Jenkins
+).
+Methodology:
+Experience with agile development.
+Advertiser
+Brief description of the company
+Recruitment consultancy
+Contact
+Contact person: Ing.  Pavol Derco
+Tel.:
++421917991200
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199655
+Dátum zverejnenia:
+1.12.2025
+2025-12-01
+lokalita:
+Bratislava
+Pozícia:
+Frontend developer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+RecruLab s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

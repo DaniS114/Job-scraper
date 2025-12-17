@@ -1,0 +1,154 @@
+Python inžinier/architekt, 330 až 380€MD
+TITANS freelancers, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP alebo dohodou
+Mzdové podmienky (brutto)
+6 600 - 7 600 EUR/mesiac
+Práca na kontrakt podľa počtu odpracovaných hodín.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Spolupráca
+možná
+v hybridnom režime ON-SITE m
+in. 50%
+[ Bratislava ] +
+REMOTE
+(resp. na základe bližšej dohody so zákazníkom)
+Vývoj modernej architektúry Lakehouse
+postavenej na
+Azure Datalake
+s využitím jazyka
+Python
+a frameworku
+PySpark
+na
+implementáciu obchodných služieb
+v oblasti
+poisťovníctva;
+implementácia obchodných funkcií
+, ktoré umožnia spúšťať
+účtovné procesy
+a generovať údaje na splnenie požiadaviek na
+reporting;
+navrhovanie, vyvíjanie, automatizácia a podpora backend aplikácií
+, ktoré kombinujú dátové prvky z viacerých domén a systémov;
+spolupráca s:
+ostatnými inžiniermi, analytikmi, vlastníkmi produktov a zainteresovanými stranami, aby sa dodali riešenia s pridanou hodnotou, ktoré spĺňajú obchodné potreby a očakávania;
+vedúcim inžinierom tímu na vytvorení cieľovej architektúry pre produkty v rámci pôsobnosti tímu;
+návrh služieb transformácie dát a dátových tokov
+a aktívna účasť na kódovaní;
+prezentácia a komunikácia nápadov
+a návrhov rôznym zainteresovaným stranám na účely posúdenia a brainstormingu;
+implementácia postupov softvérového inžinierstva
+s cieľom zabezpečiť kvalitu, výkonnosť a udržateľnosť aplikácií;
+mentoring a podpora rozvoja
+odborných zručností mladších kolegov;
+vykonávanie peer code reviews.
+Zamestnanecké výhody, benefity
+Stabilné zamestnanie a motivujúce finančné ohodnotenie;
+flexibilný pracovný čas;
+priestor na sebarealizáciu a osobnostný rast s možnosťou získať skúsenosti v IT sektore;
+predplatné časopisu Forbes/Nextech po úspešne odpracovaných 120MD.
+Informácie o výberovom konaní
+V prípade záujmu nám pošlite životopis v anglickom jazyku s upresnením Vašej časovej dostupnosti.
+Kontaktovať ohľadom ďalšieho postupu výberového konania budeme všetkých záujemcov. Ďakujeme vopred všetkým za prejavený záujem.
+Osobné údaje záujemcov o spoluprácu na projekte, ktorí nám zašlú svoj profesijný životopis prostredníctvom internetovej stránky www.profesia.sk, budeme spracúvať na účely výberového konania. Poskytnutie údajov záujemcu je nevyhnutné na účasť vo výberovom konaní, ktorého sa zúčastňuje ako záujemca o účasť na projekte, ktorý bude realizovaný pre nášho zákazníka. Osobné údaje záujemcov o spoluprácu (fyzických osôb – podnikateľov resp. konateľov spoločnosti, ktorí majú záujem byť našim obchodným partnerom) v rozsahu údajov uvedených v životopise, motivačnom liste, iných zaslaných prílohách a ďalších údajov získaných na uvedený účel v priebehu výberového konania (napr. pri osobnom pohovore) budeme spracúvať na tento účel po dobu do skončenia výberového konania. Spracúvanie údajov záujemcov na tento účel je nevyhnutné, aby sa na základe žiadosti dotknutej osoby vykonali opatrenia pred uzatvorením zmluvy (predzmluvné vzťahy). Osobné údaje budeme na tento účel uchovávať po dobu do ukončenia výberového konania. Bližšie informácie o podmienkach spracúvania Vašich osobných údajov na tento účel nájdete v sekcii Pravidlá ochrany osobných údajov na našej webovej stránke.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+5 rokov
+Osobnostné predpoklady a zručnosti
+Minimláne
+5-ročná
+preukázateľná
+projektová skúsenosť
+v oblasti
+softvérového [Python] inžinierstva;
+pokročilé skúseností s
+navrhovaním a implementáciou spoľahlivého a škálovateľného softvéru;
+prostredníctvom celého životného cyklu vývoja softvéru s využitím nástrojov na správu kódu a automatizácie;
+znalosť:
+programovacieho jazyka
+Python (budovanie štruktúry a skriptovanie);
+jazyka
+SQL
+na vyhľadávanie a manipuláciu s dátami;
+relačných databáz (
+Oracle, PostgreSQL
+);
+integračných technológií (
+REST/SOAP API);
+skúseností s/so:
+vývojom riadeným testovaním;
+metodikami vývoja
+Scrum/Agile;
+prácou v globálnom distribuovanom tíme v multikultúrnom prostredí;
+schopnosť jasného vyjadrovania
+technických tém pred netechnickým publikom ;
+min. bakalársky alebo ekvivalentný titul v oblasti informatiky, dátových vied alebo podobnej disciplíne;
+výhodou skúsenosti s/so:
+frameworkom
+PySpark
+na vytváranie a optimalizáciu komplexných data pipelines;
+prostredia
+Azure Cloud
+(
+Databricks
+,
+Data Factory
+,
+Data Lakes);
+prácou v
+Azure DevOps;
+projektami v oblasti poisťovníctva alebo vo finančnom sektore.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Chceš sa stať Titanom či Titankou?
+Ak túžiš po práci, prostredníctvom ktorej budeš podporovať inovatívne projekty, nezávislosť odborníkov, férové spolupráce a priamu komunikáciu, možno hľadáme práve teba!
+Sme TITANS freelancers a od roku 2013 poskytujeme služby v oblasti outsourcingu IT špecialistov. Posilňujeme IT projekty, na ktorých chýbajú tí správni ľudia, a freelancerom ponúkame špičkové projekty, ktoré vylepšia ich portfóliá.
+Toto sú čísla, ktoré hovoria za nás:
+30 000+ IT špecialistov v našej databáze
+650+ spokojných klientov na Slovensku a v zahraničí
+1 000+ alokovaných freelancerov
+Veríme, že pravý hrdina či hrdinka má viac než len skúsenosti a túžbu rásť - do práce vkladá aj svoje srdce, sebareflexiu a odvahu. Ak chceš s nami meniť svet freelancingu a outsourcingu IT špecialistov k lepšiemu, ozvi sa nám a prezradíme ti viac.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Recruitment
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5183783
+Dátum zverejnenia:
+29.10.2025
+2025-10-29
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+,
+Programátor
+,
+Python programátor
+Spoločnosť:
+TITANS freelancers, s.r.o.
+Základná zložka mzdy (brutto):
+6 600 EUR/mesiac

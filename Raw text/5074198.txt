@@ -1,0 +1,90 @@
+About us
+Our benefits
+Open positions
+Java Developer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 700 - 4 500 EUR/month
+For Slovakia the base salary range for this position is between [EUR 2,700] and [EUR 4,500] per month (for a full-time role). The specific salary offered considers:​
+
+the requirements, scope, complexity and responsibilities of the role, ​
+the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.​
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.​
+
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the Team
+Our team is at the forefront of providing solutions for underwriters and analytics for Reinsurance. We build apps and analytical products that focus on a wide range of topics around Contract Wordings.
+Joining us, you will learn the technologies that are used in modern apps and data solutions with a focus on cloud technologies and distributed systems, in a collaborative environment with colleagues from Swiss Re's international offices.
+As a backend developer, you will collaborate in a team of around 15 developers, implementing new user stories, but also helping to maintain running applications. You will be part of a team catering for apps for our core contract processes, working side-by-side with our business engineers, data engineers and other technology professionals. You will be fully engaged in stories preparation across various technologies, namely Java and Azure.
+In your role you are responsible for:
+· Participating in story preparation & implementation
+· Development of new applications and extending existing together with the team
+· Maintenance of existing applications
+· Design BE services to support modern and responsive UI/UX frontends
+· Monitoring applications
+· Staying on top of emerging trends using up to date technologies for development and testing
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Must have:
+· Proven experience with Java and Java Spring Boot microservice development
+· Proven experience with testing of Java Spring applications
+· Proven experience working with relational and NoSQL databases
+· Focusing on software quality proven by tools
+· Experience working in a team contributing to the full development lifecycle
+· Enjoy teamwork with the ability to work responsibly, self-reliant, and result-oriented
+· Willingness to learn new things and adapt fast for change
+· Able to dig deep into problems and investigate issues
+Nice to have:
+· Experience with Spring Webflux, the reactive-stack web framework
+· In-depth knowledge of the Azure cloud platform
+· Experienced developing distributed systems hosted in public clouds on Kubernetes
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5074198
+Dátum zverejnenia:
+17.10.2025
+2025-10-17
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Java Programmer
+,
+Software Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 700 EUR/month

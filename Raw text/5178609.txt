@@ -1,0 +1,81 @@
+About us
+Our benefits
+Open positions
+DevSecOps Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 700 EUR/month
+For Slovakia the base salary range for this position is between [EUR 2,700] and [EUR 4,500] per month (for a full-time role). The specific salary offered considers:​
+
+-the requirements, scope, complexity and responsibilities of the role, ​
+-the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.​
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.​
+
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the Role:
+As a DevSecOps Engineer, in a central DevSecOps team, you will be responsible to design, assess and implement solutions to address our infrastructure and security requirements for central CI/CD Platform. Platforms and tools we use at Swiss Re include Microsoft Azure, Azure DevOps, Docker, Kubernetes, AquaSec, Terraform, Python, GitHub just to name a few.
+About the team:
+"DevSecOps Platform" team is part of Group Technology Servies(GTS), in SwissRe. Our team is globally distributed. And our vision is to revolutionize software delivery by empowering developers with cutting-edge solutions, promoting collaboration, agility, and excellence. We aim to elevate the developer experience through innovative approaches that prioritise security, compliance, and seamless integration.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+-Hands on development skills in any language (Java, Golang, Javascript / Typescript) with good understanding of code quality and artefact security.
+-Expertise in CI/CD tools (Azure DevOps, GitLab, GitHub), version control (Git), artifact management (Artifactory), and scripting (Bash, Python, PowerShell).
+-Proven experience of CI/CD platforms to build and deploy cloud-native applications.
+-In-depth knowledge of Linux infrastructure experience
+-Solid experience with Networking concepts, security
+-Hands on experience on docker containers and IaC - Terraform/Packer
+-Good understanding of application security and monitoring solutions.
+-Demonstrated ability to take end-to-end ownership of initiatives and collaborate effectively with international teams.
+-Proactive, adaptable, and customer-oriented mindset with a strong sense of responsibility and ownership.
+-Excellent communication and documentation skills in English, with proven experience working in multicultural environments.
+-Strong analytical, conceptual, and problem-solving abilities.
+-Ability to propose and execute Proofs of Concept (PoCs) to accelerate feedback cycles.
+-Skilled in managing and resolving major incidents with clear and effective customer communication.
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Denisa Bastos
+Apply here
+ID:
+5178609
+Dátum zverejnenia:
+20.10.2025
+2025-10-20
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT Security Specialist
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 700 EUR/month

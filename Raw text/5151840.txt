@@ -1,0 +1,122 @@
+Game Logic Developer
+Greentube Slovakia s.r.o.
+Miesto práce
+Moldavská cesta 8b, Košice
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiac
+Nástupná mzda je závislá od skúsenosti kandidáta a je predmetom diskusie počas  výberového konania. Minimálna nástupná mzda začína od 2 000,- EUR.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme
+Game Logic Developera
+, ktorý sa pripojí k nášmu tímu pri tvorbe inovatívnych a atraktívnych
+online hier
+. Ako súčasť tímu developerov, grafikov, zvukárov a QA špecialistov budeš zodpovedný za implementáciu a údržbu
+jadra hernej logiky a matematiky
+, ktoré poháňajú naše sloty, kockové a kartové hry.
+A čo budú tvoje zodpovednosti?
+Implementácia hernej logiky
+podľa špecifikácií od game dizajnérov a produktových manažérov
+Integrácia matematických modelov a PAR sheetov
+do herného frameworku s dôrazom na presnosť výsledkov a RTP.
+Vývoj a údržba
+výkonného a škálovateľného kódu
+pre reálne časové herné prostredie.
+Spolupráca s
+frontend, backend a grafickými tímami
+na prepojení logickej vrstvy s vizuálmi, animáciami a zvukmi.
+Zabezpečenie
+súladu s hernými reguláciami a certifikačnými požiadavkami
+v rôznych jurisdikciách.
+Písanie
+unit testov a debug nástrojov
+na validáciu funkčnosti hier a náhodnosti.
+Účasť na
+code review, optimalizáciách a refaktoringu
+pre kvalitu a udržateľnosť kódu.
+Spolupráca s QA tímom pri
+automatizovanom aj manuálnom testovaní
+hernej logiky.
+Príprava a údržba technickej dokumentácie.
+Tvoja práca zabezpečí, že naše hry budú matematicky presné, v súlade s reguláciami a zábavné pre hráčov po celom svete.
+Zamestnanecké výhody, benefity
+Čakajú Ťa pekné officové priestory, turnaje v stolnom futbale/šípkach/šachu, výborná káva a milí ľudia.
+Sme dobre zohratý kolektív a ak budeš mať chuť môžeš sa pripojiť na naše akcie, teambuildingy a eventy.
+Naša firemná kultúra je uvoľnená a priateľská, s nami zažiješ kopec srandy.
+​U nás je tvoj osobný rozvoj dôležitý a vzdelávanie samozrejmosťou.
+Manažment benefitov sme zverili do tvojich rúk, teda si ich môžeš vybrať podľa toho čo máš rád/rada cez systém kafetérie (áno, máme aj multisportku, aj občasný homeoffice a flexibilný pracovný čas).
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Informatika, Matematika, IT, Softvérové inžinierstvo
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Java - Pokročilý
+C - Pokročilý
+.NET - Základy
+Počet rokov praxe
+1
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Vzdelanie v odbore
+Matematika, Informatika,
+Softvérové inžinierstvo alebo prax v odbore.
+Znalosť anglického jazyka na úroni B1/B2.
+Programátorské zručnosti v
+C# / Java
+(aspoň jeden z jazykov).
+Dobrá znalosť pravdepodobnosti, štatistiky a diskrétnej matematiky.
+Skúsenosť s verziovacími systémami (
+GIT
+).
+Silné analytické a problémové myslenie.
+Schopnosť pracovať v medzinárodnom tíme.
+Výhodou je skúsenosť s hernými frameworkmi alebo enginmi a  problematikou RNG (Random Number Generator) a jej certifikáciou.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Greentube Slovakia, ako súčasť nadnárodnej spoločnosti NOVOMATIC, pôsobí v oblasti interaktívnej zábavy s dôrazom na online a mobilný herný sektor. V oblasti vývoja a výroby elektronických hier v prostredí HTML5 patrí k priekopníkom a technologickým lídrom v celosvetovom meradle. Inovatívne riešenia prináša na trh od roku 2001.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Jana Stankovičová
+Tel.:
++421904613943
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5151840
+Dátum zverejnenia:
+8.10.2025
+2025-10-08
+lokalita:
+Košice
+Pozícia:
+C# programátor
+,
+IT analytik
+,
+Java programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Greentube Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

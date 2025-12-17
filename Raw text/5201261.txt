@@ -1,0 +1,105 @@
+IT System Engineer
+CRIF - Slovak Credit Bureau, s. r. o.
+Place of work
+Twin City C, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+1.1.2026
+Wage (gross)
+3 000 EUR/month
+The offered gross salary can be higher depending on the candidate seniority.
+Information about the position
+Job description, responsibilities and duties
+Position Overview
+The System Engineer position is situated within the IT Operations & Infrastructures Department and is assigned to the Enterprise Systems Management Team, reporting functionally to the ESM IT Coordinator. This role is pivotal in managing CRIF Internal Corporate Services, including overseeing deployments in both test and production environments, supervising server and system upgrades, monitoring system infrastructure performance, and troubleshooting system configurations. All activities are performed in alignment with production requirements and established organizational guidelines.
+Scope of Production Environments
+The System Engineer will work across both on-premises environments and with a variety of cloud service providers. Therefore, hands-on experience managing Software as a Service (SaaS) and Infrastructure as a Service (IaaS) solution on platforms such as Microsoft Azure and Amazon Web Services (AWS) is essential. The successful candidate must be capable of designing, delivering, and maintaining service architectures that adhere to security policies, infrastructural limitations, and strategic business decisions.
+Employee perks, benefits
+* 5 extra vacation days
+* Sickness-leave allowance during the first 10 days of sickness
+* Health and life insurance contribution
+* Contribution to pension fund
+* Extra meal-voucher allowance
+* Non-stop license on pluralsight.com and MSDN
+* Space for your further development
+* Stable company with warm working environment
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+IT
+Language skills
+English - Upper intermediate (B2)
+and
+Slovak - Proficiency (C2)
+Number of years of experience
+3
+Personality requirements and skills
+Required Technical Expertise and Skills
+•	Strong proficiency with Microsoft Windows technologies, particularly within environments integrated with Active Directory domains, both on-premises and via Azure EntraID.
+•	Solid experience in administering Microsoft 365 services, including Exchange Online, SharePoint Online, and Teams.
+•	Ability to manage complex architectures based on Microsoft Windows Server 2019 and 2022.
+•	Competence in configuring and installing Windows servers in both standalone and cluster modes, ensuring compliance with CRIF corporate policies.
+•	Skills in protecting server infrastructures by analyzing system logs, identifying potential issues, maintaining software updates, scheduling batch jobs, and managing data backups.
+•	Experience in analyzing security issues and applying necessary remediations in accordance with service level agreements (SLAs), company processes, and procedures.
+•	Proficiency in monitoring servers by conducting technical analysis, performance tuning, and troubleshooting service-related problems.
+•	Application of MS Windows operating system updates, security patches, and configuration changes to managed services in line with internal policies, utilizing internal change request management tools.
+•	Experience in supporting internal employees with issues related to corporate services, using internal ticketing systems and collaborating with the Digital Workplace team.
+•	Basic understanding of automation and artificial intelligence (AI) concepts.
+Advertiser
+Brief description of the company
+CRIF is the international company that manages Banking and Non-banking Credit Bureaus, provides a complete range of solutions for business & consumer information as well as credit & marketing management.
+Our mother company is CRIF S.p.A. with seat in Italy, which is successful on the market more than 30 years.
+Number of employees
+100-149 employees
+Contact
+Contact person: Jan Kaskoun
+E-mail:
+send CV
+CRIF - Slovak Credit Bureau, s.r.o.
+Mlynské nivy 14, Twin City C
+Bratislava 82109
+Slovensko
+www.crif.sk
+Tel:
++421 (02) 5920 7511
+E-mail:
+kariera@crif.com
+IČO:
+35886013
+IČ DPH:
+SK2021842042
+DIČ:
+2021842042
+Reg. číslo:
+31737/B
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5201261
+Dátum zverejnenia:
+3.12.2025
+2025-12-03
+lokalita:
+Bratislava
+Pozícia:
+IT Network Administrator
+,
+IT Security Specialist
+,
+IT/Technical Support Specialist
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+CRIF - Slovak Credit Bureau, s. r. o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

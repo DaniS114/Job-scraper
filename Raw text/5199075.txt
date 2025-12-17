@@ -1,0 +1,73 @@
+Java Developer
+Greyson Consulting s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+Finálna úroveň celkovej mzdy môže byť aj vyššia a je závislá od individuálnych skúseností a schopností vybraného kandidáta, minimálne však na úrovni Základnej zložky mzdy.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Vývoj, údržba a nasadzovanie bankových aplikácií
+Implementácia backendových služieb v Java a Spring
+Návrh, implementácia a správa REST a SOAP služieb
+Spolupráca v rámci agilného tímu
+Využívanie CI/CD nástrojov (Jenkins, TeamCity); Docker, Kubernetes a AWS
+Aktívna účasť na návrhu a optimalizácii riešení pre moderné bankové platformy
+Zamestnanecké výhody, benefity
+Možnosť podieľať sa na projektoch v Prahe, Bratislave a vo Viedni
+Záleží nám na vašom kariérnom raste – ponúkame transparentný kariérny model s pravidelným ročným hodnotením
+Prístup k množstvu vzdelávacích kurzov, školení a odborných certifikácií (vrátane jazykových kurzov a prístupu k online platforme Udemy)
+Zapojenie sa do diania v Greysone – workshopy, projektové meetingy, ale aj pravidelné neformálne akcie a teambuildingy
+Široká ponuka benefitov (5 dní plateného voľna navyše, 3 sick days, Benefit Plus cafeteria, Multisport karta)
+Priestor pre duševnú pohodu: ponúkame 4 hodiny ročne na individuálny koučing alebo terapiu
+Odmena za odporúčanie nového kolegu
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Skúsenosti s vývojom v Java (min. 5 rokov), znalosť Spring Framework
+Znalosť REST, SOAP, Postgre SQL / Oracle
+Skúsenosti s cloudovými platformami (AWS) a kontajnerizáciou (Docker, Kubernetes)
+Znalosť CI/CD pipelines – Jenkins, TeamCity
+Skúsenosti s mikroservisnou architektúrou a RESTful API
+Slovenčina alebo čeština na úrovni rodeného hovoriaceho
+Angličtina na úrovni minimálne B2
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme Greyson – konzultačná a IT spoločnosť, ktorá už od roku 2007 pomáha top firmám na Slovensku a v Česku. Najviac nás nájdeš v bankovníctve a poisťovníctve, kde prinášame riešenia, ktoré menia spôsob, akým firmy fungujú.
+Náš tím tvorí viac ako 250 odborníkov – projektoví manažéri, IT architekti, konzultanti, developeri, testeri aj biznis špecialisti. Každý z nás prispieva k tomu, že sme sa stali jednou z popredných consultingových spoločností v regióne. A stále rastieme – možno práve s tebou.
+Čomu sa venujeme:
+Consulting: analyzujeme, vytvárame a transformujeme biznis modely, organizáciu a technológie
+IT riešenia: integrácie, migrácie dát, business intelligence a technologické poradenstvo
+Testovanie: komplexné riešenia pre test manažment a kvalitu softvéru
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Michaela Boumová
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199075
+Dátum zverejnenia:
+28.11.2025
+2025-11-28
+lokalita:
+Bratislava
+Pozícia:
+Java programátor
+Spoločnosť:
+Greyson Consulting s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

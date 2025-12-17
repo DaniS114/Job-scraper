@@ -1,0 +1,85 @@
+Data Analyst
+Eleveo a.s., organizačná zložka Slovensko
+Place of work
+Košice
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+From 3 000 EUR/month
+Depends on seniority.
+Information about the position
+Job description, responsibilities and duties
+​
+You will
+​
+Develop and refine SQL queries to structure and transform data for reporting and analytics.
+Design and implement a unified database model, ensuring seamless data flow into OLAP cubes and columnar databases like ClickHouse (soon to be introduced).
+Partner with different teams to understand data sources and assist in optimizing their integration into a consolidated analytics framework.
+Evaluate and test speech-to-text providers, assessing their performance across different languages and use cases.
+Contribute to the enhancement of our Generative AI, LLM-based system, which processes speech-to-text transcriptions into summaries, topic detection, and other insights.
+Experiment with emerging AI/ML models, optimizing their accuracy through prompt engineering, fine-tuning, and output formatting.
+Support the development of RAG (Retrieval-Augmented Generation) solutions and explore model quantization techniques.
+Employee perks, benefits
+Creative environment with a strong sense of ownership, living agile
+Architecting a solution in a fast-growth industry (high scalability, fault resiliency…)
+Flexible home-office policy
+Flexible working hours – based on agreement with the team
+Global multinational environment; headquarter in Prague, and offices in Slovakia, and the USA
+Open and transparent environment
+Competitive salary
+Team events – company breakfasts, team building
+Budget for training and conferences, internal knowledge share sessions
+Trainings - courses across tech, business, leadership, and wellness are paid after agreement with your manager
+Focus time – dedicated time for education, experiments, or working on open-source projects
+Look at the list of benefits https://joineleveo.com/benefits/
+Information about the selection process
+You can find more information about our selection process on the page: https://joineleveo.com/interview/
+Requirements for the employee
+Candidates with education suit the position
+Secondary without school-leaving examination
+Educational Specialization
+Software Development
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Proven working experience in data analysis, data science, data engineering, or related fields.
+Advanced SQL expertise, especially in PostgreSQL, with experience in complex queries, data transformations, and performance optimization.
+Experience designing and maintaining scalable data models, including schema design and ETL processes.
+Basic understanding of AI/ML models, including LLMs, prompt engineering, fine-tuning, and quality assessment.
+Python
+knowledge for experimenting with and testing ML/LLM libraries is a nice to have.
+Strong communication skills in English.
+Experience working with cloud-based solutions and modern data tools.
+Experience working in Agile environments with cross-functional teams.
+Big advantage is understanding of AI
+Advertiser
+Brief description of the company
+Eleveo is a software company developing products which support everyday operation of a wide range of contact centers, including financial institutions, telecommunication providers or emergency services. The main focus of the company is software for recording, reconstruction and archivization of calls, as well as later analysis and evaluation of recordings. The primary goal of the Kosice development center is development of a native cloud platform.
+More information can be found at: https://joineleveo.com/about-eleveo/
+Contact
+Contact person: Mgr.  Zuzana Sotáková
+Tel.:
++421948892189
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5115586
+Dátum zverejnenia:
+14.11.2025
+2025-11-14
+lokalita:
+Košice
+Pozícia:
+IT Analyst
+Spoločnosť:
+Eleveo a.s., organizačná zložka Slovensko
+Základná zložka mzdy (brutto):
+3 000 EUR/month

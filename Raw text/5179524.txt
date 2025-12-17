@@ -1,0 +1,85 @@
+Software Engineer
+distriBind Limited
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+From 2 750 EUR/month
+£2,400 - £3,500 per month depending on experience. Offer / contract will be in GBP.
+Information about the position
+Job description, responsibilities and duties
+Company Overview
+distriBind is an InsurTech delivering Automated Data Exchange and Back Office processing to the Insurance Industry.Primarily focused on the Delegated Authority sector, distriBind allows data to be passed from distribution to capacity in a highly automated manner whether using real-time APIs or more traditional bordereaux.
+At the core of our culture lies a strong commitment to delivering excellence and honesty. This is key to the supportive, fun and open working environment that we have.
+distriBind was formed in 2018 with the ambition to be the leading Global Delegated Authority solution and has been awarded a grant from Innovate UK for its Machine-Learning Capacity Utilisation Predictor, was runner-up in the 2020 ACORD InsurTech Innovation Challenge, and was a member of the Lloyd’s Lab cohort 6 in 2021.Since then, distriBind has been shortlisted for numerous awards, received multiple industry recognitions and been a part of some great innovation programs.
+Job Overview
+The Software Engineer will be responsible for performing development tasks to meet the requirements and the company’s wider technology strategy.
+As an experienced developer, the Software Engineer will be handling various software related tasks and work alongside the software lead and the product team to deliver quality code for the requirements in an agile environment.
+Duties
+Research & analyse the requirements seeking for clarification where necessary.
+Estimate the assigned tasks accurately to support the product planning.
+Write clean and efficient codes to meet the business requirements. This includes writing testable, scalable and maintainable codes.
+Perform unit & integration tests to ensure the quality & stability of the software.
+Deliver all the assigned tasks in an agile way to meet the objectives of a sprint.
+Prepare documentation of the relevant modules & functionalities where necessary.
+Actively participate in code-reviews and technical discussions.
+Stay up to date with the latest technologies and best practices. Implement improvements to enhance software performance and development processes.
+Keep yourself updated on the changes in the insurance industry and help to maintain distriBind as a cutting-edge platform.
+Various other activities as required from time to time to support the company to achieve its goals and objectives.
+Required Experience
+3+ years of hands-on development experience (C#, .NET Core, SQL, Azure) in an agile environment. Some experience with data-driven enterprise applications is preferred.
+Experienced in cloud native solutions preferably using Microsoft Azure technologies like Azure function, Azure container app, Azure service bus, Azure storage etc.
+Experience in designing & implementing scalable solutions.
+REST API development.
+SQL and NOSQL database systems. Experienced with writing efficient queries & procedures.
+JavaScript libraries and frameworks like jQuery/React/Angular etc.
+Good understanding of various software design patterns.
+Agile methodology, GIT and CI/CD. Azure DevOps preferred.
+Having worked with large datasets is a significant advantage.
+Familiar with tools/concepts like LINQ, EF Core, batch processing, confluence etc.
+Familiar with ML.NET is a plus.
+Familiar with insurance domain is a plus.
+Employee perks, benefits
+Equity options
+Employee will work on a contractor basis as we do not have Slovakian payroll
+Information about the selection process
+We are looking for up to 2 engineers, who will be hired as contractors.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+Language skills
+English - Upper intermediate (B2)
+Experience in the position/sector
+3+
+Advertiser
+Brief description of the company
+distriBind is an InsurTech curing the insurance industry of its spreadsheet addiction with a digital data exchange and full delegated authority workbench.
+We work with large global insurers and MGAs to automate data exchange and improve visibility. We have won multiple awards.
+Number of employees
+20-24 employees
+Contact
+Contact person: Dave Connors
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5179524
+Dátum zverejnenia:
+21.10.2025
+2025-10-21
+lokalita:
+Remote work
+Pozícia:
+Software Engineer
+Spoločnosť:
+distriBind Limited
+Základná zložka mzdy (brutto):
+2 750 EUR/month

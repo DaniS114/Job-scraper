@@ -1,0 +1,134 @@
+Who we are
+Company
+Open Roles
+18
+Benefits
+Early Talent
+Back
+Junior Data Scientist
+Place of work
+Zbrojničná, Košice, Slovakia (Job with occasional home office)
+Start date & Contract type
+full-time
+Wage (gross)
+2 300 EUR/month
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Information about the position
+Job description, responsibilities and duties
+Who is CAT Digital? What do we do?
+Big machines require big thinking. Are you looking for your next big challenge?
+Cat® Digital is the digital and technology arm of Caterpillar Inc., leveraging the latest technologies to build industry leading digital solutions for our customers and dealers. With over one million connected assets worldwide, our teams use data, technology, advanced analytics, telematics, and AI capabilities to help our customers build a better world.
+Working with a Fortune 100 leader, you can build your career on a global scale and take advantage of development opportunities with emerging technologies. We’ve created an inclusive environment for you to explore your passions, make an impact and do the work that really matters. Join Us.
+Job Opportunity:
+We are seeking talented individuals to join our team to help us grow our presence, organization, culture, which will drive our digital product development efforts. As a member of our team, you will have the opportunity to work with cutting-edge technologies and collaborate with top professionals working on very high impact and visibility products. Don't miss this chance to join a newly forming presence and support digital innovation for a global leader in heavy machinery!
+What will you do?
+As a Junior Data Scientist at Cat Digital's Slovakian branch, you will contribute to design, development and deployment of Caterpillar’s state of the art digital program. You will also:
+Contribute to anomaly detection and prediction capabilities, focusing on noise reduction and model improvements.
+Package models as analytics ready outputs (exception triggers, scores, confidence, salient channels) and integrate with data lake pipelines for delivery to the Foresight UI (CAT’s in-house monitoring solution).
+Partner with product & application teams to wire model outputs into Suggested/Auto Recommendations and Enhanced Analytic Context in CMA workflows.
+Build reproducible training/evaluation pipelines; contribute to MLOps (data versioning, model registry, CI/CD, monitoring, drift checks).
+Track key metrics (precision/recall, exception noise, lead time, coverage) and participate in feedback driven retraining using CMA and recommendation signals.
+This position works directly with Slovakia based engineering leadership and Cat Digital IT in the US.
+Employee perks, benefits
+At Caterpillar, we are committed to fostering a culture of innovation and continuous learning, and we believe in investing in the development of our employees. As a member of our team, you will have access to a wide range of training and development opportunities, as well as very competitive compensation and benefits packages, like:
+2 300+ euros / month gross
+Performance related annual cash incentive
+Industry leading Pension plan
+5 days of extra vacation above the legislative requirement
+Attractive Life insurance
+1 volunteering day
+Multisport Card
+Information about the selection process
+Please frequently check the email associated with your application, including the junk/spam folder, as this is the primary correspondence method. If you wish to know the status of your application – please use the candidate log-in on our career website as it will reflect any updates to your status. ​
+Caterpillar is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws.​
+Caterpillar is committed to creating a dynamic work environment that values diversity and inclusion, respect and integrity, customer focus, and innovation. For more information, visit https://www.caterpillar.com/en/careers/why-caterpillar.html​
+Follow us on, Facebook, LinkedIn, and YouTube..​
+#LI
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Effective Communications: Understanding of effective communication concepts, tools and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors.
+Relevant degree in Computer Science or similar field.
+Solid Python (pandas, NumPy), PyTorch or TensorFlow, and SQL skills; comfort with notebooks and code reviews.
+Hands-on experience with timeseries machine learning and strong interest in Attentional/Transformer methods for sequential data.
+Familiarity with model evaluation beyond accuracy (e.g., class imbalance, precision/recall, calibration, lead time).
+Top candidates will have: ​
+Experience with Snowflake (or similar cloud data warehouse), Airflow/MLflow, Docker/Kubernetes, Grafana/Power BI.
+Knowledge of interpretability techniques for sequential models (feature/step attributions, attention visualization).
+Advertiser
+Brief description of the company
+Caterpillar
+is a company of
+builders
+. Of
+challenge breakers
+. Of
+innovators
+who want to impact the world. Our people build and design the products and services that help
+shape the communities
+where we work and live.
+We are building on our legacy and innovating for the next generation. One where
+technology-enabled services
+create improved outcomes for our people and the customers and communities we serve.
+Our ability to innovate and build
+begins with our people
+. Our tech and digital teams are at the forefront of Caterpillar’s evolution – taking pride in
+solving complex problems by building new systems
+from the ground up.
+On our team, you’ll
+leverage data
+from across our entire enterprise and
+more than 1.5M connected assets
+to solve problems and find solutions that open a new world of possibilities for our machines, our customers, our dealers and our business.
+While the challenge is great, so is the opportunity. Working with a
+Fortune 100 leader
+, you can build your career
+on a global scale
+and take advantage of development opportunities with
+emerging technologies
+like telematics, data engineering, AI and machine learning, and predictive analytics.
+Number of employees
+1000 and more employees
+Contact
+Contact person: Patricia Kundratova
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+If there is currently no open position suitable for you, please submit your e-mail address and preferences. If a new position (opened in the future) aligns with your qualifications and interests, you may be contacted about the opportunity.
+Send CV
+Poštová 18, 040 01 Košice
+© 2025-2026 Caterpillar. All rights reserved.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202152
+Dátum zverejnenia:
+5.12.2025
+2025-12-05
+lokalita:
+Košice
+Pozícia:
+Database Analyst
+,
+Python Programmer
+Spoločnosť:
+Caterpillar Slovakia, s. r. o.
+Základná zložka mzdy (brutto):
+2 300 EUR/month

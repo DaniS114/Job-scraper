@@ -1,0 +1,74 @@
+Senior Server Engineer (Python)
+Charged Monkey s.r.o.
+Place of work
+Sokolovská 32, Karlín, Czechia
+Contract type
+full-time
+Wage (gross)
+From 130 000 Kč/month
+Information about the position
+Job description, responsibilities and duties
+We are a small team of talented and experienced game makers participating in the development of an unannounced new, truly unique multiplayer strategy game. Our ambitions are huge, and only a world-class team could achieve them. To date, we've built a team of incredibly talented individuals from all over the world, who together are bringing industry-defining games to life. Do you want to be part of a team that wants to see their game loved by millions and won't stop until they succeed? A team full of experience, talent, and passion? A team looking for others like them to join them?
+This position is offered as remote or in an office located in Prague.
+Right now, we are actively looking for a Senior Server Engineer focused on core server technology to join our team.
+At Charged Monkey, we create games for everyone - and want to ensure that the people behind our games reflect that!   We are committed to creating a diverse, supportive work environment where everyone is treated with respect. We are committed to providing equal employment opportunities and welcome individuals from all backgrounds to join us & embrace the adventure!
+Here’s what you will be doing:
+Work in a team responsible for designing, developing, and maintaining backend services and APIs in Python running on AWS
+Design and implement new features in our core technologies, working collaboratively with other stakeholder teams to understand requirements and identify the best technical solutions.
+Plan the future of our server core technologies that will lay the foundation for exciting new gameplay features
+Inspect the performance of our server clusters and propose improvements
+Deep analysis of player behaviors and how our server can be hardened to both improve player experience and defend against bad actors (botters, cheaters, etc)
+Work closely with the QA team to resolve bugs and deliver high-quality code
+Deploy, monitor, and manage applications in a cloud environment such as AWS
+Stay up-to-date with industry changes and emerging trends, especially regarding Python, Redis and its ecosystem, AWS, Gaming, etc
+To do this job, you will need:
+Highly experienced in being part of a professional development team or other relevant area
+Experience in developing highly available back-end systems and servers for large-scale MMO games, high-traffic web systems or applications
+Experienced with Python and its ecosystem (libraries, frameworks, etc.), familiarity with web frameworks such as Flask, Tornado, FastAPI, or another similar web framework and Python threading, as well as the principles of async programming
+Familiar in design and implementation of highly-scalable, reliable, and secure systems using Redis and its ecosystem, such as Redislabs. Solid understanding of RESTful API design and development
+Ability to write efficient low-latency, low-IO code
+Strong knowledge of Linux operating systems and Docker containers, as well as Redis, MySQL (or similar database systems)
+Good understanding of how to prevent intrusions, injections, cheating etc.
+Experience in version control, especially multi-track development and familiarity with deployments methodologies and CI/CD pipelines
+Experience with automated testing
+Experience with stateful and stateless game server architectures
+While not mandatory, below are some nice-to-haves:
+Familiarity with messaging systems such as RabbitMQ, AWS SQS, Redis Streams
+Experience working with AWS services like EC2, ECR, RDS, S3, and IAM
+Knowledge of Infrastructure-as-Code (IaC) and experience with Terraform for managing infrastructure deployment
+Understanding of network infrastructure and cloud networking concepts, such as VPC, Subnet, Security Groups, and Load Balancing
+Experience with traffic analysis via Charles proxy, browser developer tools, Datadog, logs
+Understanding Kibana / Datadog log querying and dashboards
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Advertiser
+Contact
+Contact person: Tibor Nagy
+Tel.:
+732313099
+E-mail:
+send CV
+You can react to this job
+without sending your CV
+. It is sufficient to fill in a form.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202138
+Dátum zverejnenia:
+5.12.2025
+2025-12-05
+lokalita:
+Prague
+Pozícia:
+Python Programmer
+Spoločnosť:
+Charged Monkey s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+130 000 Kč/month

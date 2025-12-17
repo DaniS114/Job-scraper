@@ -1,0 +1,98 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Linux/Windows SysAdmin
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto):
+Od 2 900 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+System Admin je súčasťou tímu, ktorý zabezpečuje každodenné fungovanie internej infraštruktúry prevádzka Linux app serverov a Windows desktop.
+Úlohy:
+- zodpovedá za správu, administrovanie a monitorovanie serverov a IT infraštruktúry spoločnosti ( servery, mailové riešenia, siete)
+- sledovanie, monitorovanie nasadených systémov a serverov pre potreby klienta
+- zabezpečuje administráciu & engineering,  denne bude riešiť bežnú prevádzku a aj budovať nové veci, navrhovať v zmysle optimalizácie nasadených systémov a ich funkcionalitu a v prípade problémov identifikuje, analyzuje a lokalizuje poruchy, spúšťa podporné procesy resp. spúšťa recovery/reštart režim
+- administruje Jiru, confluence wiki, zabezpečuje kontrolu nasadených systémov
+- rieši incidenty týkajúce sa sietí a firewall
+- automatizuje procesy,  programuje v Bash, Python
+Zamestnanecké výhody, benefity
+- zaujímavý benefitný systém/finančne-nefinančné benefity/
+- odborné školenia, jazykové kurzy
+- práca v medzinárodnom prostredí
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: ivana.jurikova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná medzinárodná IT spoločnosť.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+- vzdelanie technického smeru – informačné technológie
+- min 2+ roky skúsenosti na podobnej support pozícii/systémový administrátor internej infraštruktúry, správca systémov, support  specialist, IT operation specialist, windows-linux administrátor,
+Must have: linux a windows administrácia - praktické skúsenosti so správou desktopy a počítače Windows a servre Linux (RedHat)
+Active directory, správa počítačov – skúsenosti s DNS/DHCP/Web server/ PROXMOX/VmWare
+Nice to have: administrovat Jiru, confluence wiki
+-  skúsenosti s virtualizáciou VMware, LAN/WAN,  správa firewall
+- výhodou je znalosť cloudových riešení - AWS, MS Azure, OpenStack
+- všeobecný prehľad v informačných technológiách (systémy, databázy, siete, bezpečnosť)
+- mať záujem o vylepšovanie a budovanie a nové návrhy v oblasti internej infraštruktúry
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Ivana Juríková
+Tel.:
++421 911 189 261
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5188286
+Dátum zverejnenia:
+6.11.2025
+2025-11-06
+lokalita:
+Bratislava
+Pozícia:
+IT tester
+,
+IT/Technical Support Specialist
+,
+Programátor
+,
+Správca informačného systému
+,
+Systémový administrátor
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+2 900 EUR/mesiac

@@ -1,0 +1,111 @@
+Backend Software Engineer – PHP
+Pinsight
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Start date
+January, February 2026
+Wage (gross)
+3 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+​
+About the Role
+We are seeking an experienced
+Backend Software Engineer (PHP)
+who will play a
+key role in the design, development, and scaling of Pinsight’s SaaS platform
+. This is a
+critical technical position
+with a strong influence on architecture, performance, and future system evolution.
+You will work closely with the software development team based in Slovakia, product managers, and US-based stakeholders to deliver high-quality, scalable features across our entire platform.
+​
+What You’ll Do
+Design, develop, test, and maintain scalable full-stack SaaS solutions
+Build and optimize complex backend systems in PHP (Symfony)
+Develop and maintain RESTful APIs
+Write and maintain automated tests using PHPUnit to ensure code quality and reliability
+Contribute to system architecture and technical design decisions
+Collaborate with product and engineering teams on requirements and implementation
+Improve performance, reliability, and security
+Maintain and improve DevOps processes, cloud infrastructure, and CI/CD
+Work with containerized environments (Docker, Nginx, Linux)
+Review code and promote best engineering practices
+Provide feedback on user stories and product specifications
+Communicate effectively with US-based colleagues during overlapping morning hours
+Nice to have
+​
+Experience with Node.js
+Frontend experience with React, HTML5, CSS
+Cloud platforms: AWS or Azure
+Experience with mobile or web-based SaaS products
+​
+What We’re Looking For
+3+ years of professional software development experience
+Strong PHP backend expertise, ideally with Symfony
+Solid experience with MySQL
+Experience building RESTful web services
+Understanding of Linux-based environments
+Experience working in Agile / Scrum teams
+Proficiency with Git
+Strong English communication skills
+Why join us?
+​Pinsight is a well-established, US-based company with a mission to help organizations unlock human potential. We offer a collaborative work environment, opportunities for growth, and the chance to contribute to products that make a real difference.This is a
+fully remote, home-office
+position, offering flexibility and autonomy while working with a supportive, globally distributed team.​
+Employee perks, benefits
+​25 days of paid vacation.
+MultiSport card.
+Laptop – Microsoft Surface.
+1,000 EUR cash contribution to your home office setup.
+Online courses and trainings.
+In-person teambuilding events 2-3x a year - I promise you'll have fun!​
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+Informatics, Computer Science or related
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+PHP - Advanced
+Symfony (PHP framework) - Skillful
+MySQL - Skillful
+Docker - Basic
+ReactJS - Basic
+GIT - Skillful
+Experience in the position/sector
+3
+Number of years of experience
+3
+Advertiser
+Brief description of the company
+Pinsight is a talent management Software as a Service (SaaS) business focused on cultivating the talent between frontline managers and C-suite. We offer our enterprise clients high-tech, human touch assessment experiences through our flexible, scalable, and secure platform. We are a mission-driven organization working hard to bring fairness to leader selection, development, and succession. We believe that the power and status that comes with leadership roles should be awarded based on merit and not based on what people look like or where they come from.
+Contact
+Contact person: Attila Jakab
+Tel.:
++421918947469
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202036
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Remote work
+Pozícia:
+Software Engineer
+Spoločnosť:
+Pinsight
+Základná zložka mzdy (brutto):
+3 000 EUR/month

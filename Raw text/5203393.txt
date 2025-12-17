@@ -1,0 +1,92 @@
+About us
+Our benefits
+Open positions
+MDM API/Azure Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 400 - 4 100 EUR/month
+For Slovakia the base salary range for this position is between [EUR 2,400] and [EUR 4,100] per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Are you passionate about building robust, scalable applications that power enterprise data solutions? Join our team as an MDM API/Azure Engineer and leverage your Java expertise to create innovative solutions that drive business value through effective master data management. This role offers the perfect blend of technical challenge and professional growth in a dynamic, collaborative environment.
+About the Role
+As our MDM API/Azure Engineer, you'll be at the intersection of cloud technology and enterprise data management. You'll architect, build, and maintain API solutions that ensure data consistency, accessibility, and security across our organization.
+Key Responsibilities:
+- Design and develop Java-based APIs for master data distribution
+Implement and optimize RESTful APIs using Spring Boot to facilitate seamless data integration
+- Utilize Hibernate for ORM and manage complex database interactions with high performance
+- Deploy and manage applications on Azure Cloud, leveraging Azure DevOps for CI/CD pipelines
+- Automate infrastructure provisioning and management using Terraform for consistent environments
+- Collaborate effectively with cross-functional teams to deliver high-quality software solutions
+- Troubleshoot and resolve complex technical issues across the application stack
+- Ensure adherence to best practices for security, performance, and scalability
+About the Team
+We are a dynamic, globally distributed team of analysts and engineers driving the MDM function at Swiss Re. Our expertise spans the entire software development lifecycle, from business analysis and solution design to platform management for nearly 750 master data and reference data sets. As the central hub for all MDM topics, we serve as the primary point of contact for customers, business partners, and enterprise architects, ensuring data consistency and integrity across the organization.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+About You
+You're a skilled Java developer who thrives in complex technical environments. You combine deep technical expertise with a collaborative mindset and a passion for creating elegant solutions to challenging problems. Your attention to detail and commitment to quality make you an ideal candidate for this role where data integrity and system performance are critical.
+We are looking for candidates who meet these requirements:
+- Bachelor's degree in Computer Science, Engineering, or related field, or equivalent experience
+- Strong proficiency in Java Core, Spring Framework (Spring Core, Spring Boot, Spring Security), and Hibernate
+- Experience with SQL databases, particularly Azure SQL, including query analysis and optimization
+- Demonstrated experience with Microsoft Azure cloud platform and Azure DevOps
+- Practical knowledge of infrastructure automation using Terraform
+- Experience with containerization technologies like Docker and orchestration with Kubernetes
+- Proficiency with Git version control and Maven build tools
+These are additional nice to haves:
+- Familiarity with Agile development methodologies
+- Experience with data integration patterns and technologies
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Lucia Vargova
+Apply here
+ID:
+5203393
+Dátum zverejnenia:
+9.12.2025
+2025-12-09
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+Database Analyst
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 400 EUR/month

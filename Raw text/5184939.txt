@@ -1,0 +1,90 @@
+About us
+Our benefits
+Open positions
+Quality Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava
+Contract type
+full-time
+Wage (gross)
+2 700 - 4 500 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,700 and EUR 4,500 per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+ 
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the Team and our Scope
+Our team, a software house within Swiss Re, develops cloud-native (Azure-based) SaaS/PaaS solutions for external Life & Health insurance clients. Our portfolio includes globally established products and those in growth or incubation stages. We utilize the latest technology and prioritize innovation to stay competitive.
+Our technical team comprises professionals with multidisciplinary skills, located in various countries, delivering highly available, multi-regional solutions used worldwide.
+About role
+As a Quality Engineer specializing in automation, you will take ownership of the automation strategy within one of our product engineering team. You will contribute to the design, implementation, and evolution of advanced automated testing frameworks, driving continuous improvement in test quality and coverage. You will collaborate daily with other QAs, Senior QAs, SW Engineers and DevOps to constantly set the standard for quality and innovation across the organization.
+Your responsibilities will be:
+•	Ensure high-quality deliverables for our end-clients.
+•	Identify, report and troubleshoot defects in collaboration with development teams.
+•	Work on development, and continuous improvement of scalable test automation frameworks and suites across multiple product lines under L&H solutions.
+•	Integrate test automation tools, including build verification systems, IDE plugins, and linting programs, to optimize testing efficiency and reliability.
+•	Write and enforce test automation scripts following defined internal coding standards to ensure consistency and maintainability.
+•	Collaborate with DevOps and cloud teams to integrate automation into CI/CD pipelines and ensure infrastructure reliability.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Must have excellent technical proficiency in...
+o	Hands-on experience in test automation, with efficient test automation and continuous integration.
+o	Understanding different types of test frameworks covering UI, services, files, and databases.
+o	Performing QA testing for either front-end (user interface) or back-end (server APIs, databases) components of applications, ensuring comprehensive test coverage,
+o	QA experience with a background in Enterprise Java technologies.
+o	Experience in compatibility testing and regression testing.
+o	Good understanding of different types of testing, good to have knowledge of performance testing using tools like JMeter.
+Preferrable experience in...
+o	Proficient in Java/J2EE, REST, JUnit/TestNG, and various test automation frameworks.
+o	Experience with front-end web application test automation tools including Cucumber, JUnit, JMeter, Cypress, Selenium, WebDriver, Grid.
+o	Experience REST API testing, data validation testing, and integration testing.
+o	Hands-on experience with automation tools and frameworks like SoapUI, Postman, Protractor, Rest Assured.
+o	Familiarity with Azure DevOps (Repos, Pipelines, CI/CD).
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Livia Pasztorova
+Apply here
+ID:
+5184939
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+IT Tester
+,
+Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 700 EUR/month

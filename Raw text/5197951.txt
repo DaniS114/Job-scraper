@@ -1,0 +1,88 @@
+Junior/Mid DevOps Engineer
+HexaTech s. r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+podľa skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​Hľadáme šikovného
+DevOps Engineera
+, ktorý sa pridá do nášho tímu a pomôže nám spojiť vývoj softvéru a prevádzku tak, aby sa celý proces tvorby, testovania a nasadzovania aplikácií stal rýchlejším a jednoduchším.
+Čo budeš robiť:
+Budeš pracovať s linuxovými servermi, riešiť bežné prevádzkové úlohy a používať terminál na správu systémov.
+Zapojíš sa do tvorby a údržby skriptov v Bash alebo Pythone na automatizáciu opakovaných úloh.
+Dostaneš sa k práci s Dockerom, kde budeš vytvárať, upravovať a optimalizovať kontajnery aj ich konfigurácie.
+Budeš sa podieľať na nasadzovaní aplikácií v Kubernetes.
+Zapojíš sa do budovania, správy a vylepšovania CI/CD pipeline (GitLab CI, GitHub Actions, Jenkins), vrátane automatického testovania a nasadzovania.
+Získaš skúsenosti s cloudovými platformami (AWS, Azure, GCP) a ich základnými službami v oblasti compute, storage a networkingu.
+Budeš pracovať s Infrastructure as Code nástrojmi.
+Budeš spolupracovať s vývojármi pri riešení incidentov, troubleshootingu a optimalizácii behu aplikácií.
+​Budeš používať Git, pracovať s verzovaním, pull requestami a riešením jednoduchých konfliktov.​
+Zamestnanecké výhody, benefity
+Home office / hybrid / flexibilný režim – ako ti to vyhovuje.
+Projekty, ktoré fungujú a reálne sa používajú (žiadne aplikácie „do šuflíka“).
+Priestor rásť – technicky aj kariérne (certifikácie, mentoring).
+Slovo programátora má váhu – nebudeš „kóder na povel“, ale plnohodnotná súčasť tímu.
+Neformálne prostredie, otvorená komunikácia, žiadna byrokracia.
+Flexibilný pracovný čas, zdravý rozum, priame vzťahy.
+Práca s technológiami, ktoré dávajú zmysel.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Slovenský jazyk - Pokročilý (C1)
+a
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+Bash Scripting - Mierne pokročilý
+Python - Mierne pokročilý
+CI/CD pipeline - Mierne pokročilý
+Amazon Web Services (AWS) - Mierne pokročilý
+Azure DevOps Server - Mierne pokročilý
+Google Cloud Platform - Mierne pokročilý
+GIT - Mierne pokročilý
+Prax na pozícii/v oblasti
+1
+Počet rokov praxe
+1
+Osobnostné predpoklady a zručnosti
+​Angličtina na úrovni čítania technickej dokumentácie ti nerobí problém.
+Technické myslenie, proaktivita, zodpovednosť a férový prístup sú ti vlastné.
+Nechýba ti tímový duch a máš chuť učiť sa nové veci.​
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme dynamický IT startup s jasnou víziou – prinášať moderné open source riešenia, ktoré menia spôsob, akým firmy využívajú technológie. Vďaka nášmu inovatívnemu prístupu vytvárame flexibilné a dostupné softvérové nástroje šité na mieru rôznym odvetviam. Staviame na hodnotách otvorenosti, spolupráce a neustáleho technologického rastu. Veríme, že transparentnosť a sila komunity sú kľúčom k dlhodobo udržateľným riešeniam pre každého.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Oleksandra Khvostova
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5197951
+Dátum zverejnenia:
+26.11.2025
+2025-11-26
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+HexaTech s. r. o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

@@ -1,0 +1,89 @@
+Alza rastie,
+POĎ RÁSŤ
+s nami!
+QA Automation Engineer SK
+Miesto práce
+Bernolákovo, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP / Dohodou
+Mzdové podmienky (brutto)
+Od 1 800 EUR/mesiac *
+* Garantovaná nástupná mzda od 1800€
+Informácie o pracovnom mieste
+Čo ťa na tejto pozícii čaká?
+Chceš byť pri zrode úplne nového high-tech skladu a ovplyvniť, ako bude fungovať už od prvého dňa?
+Hľadáme posilu do tímu, ktorá sa nebojí testovania v reálnom prostredí a chce sa podieľať na spustení plne automatizovaného logistického centra v Triblavine pri Bratislave.
+Tvojou úlohou bude overiť, že všetko funguje tak, ako má – od softvéru až po dopravníky. Budeš prepojením medzi vývojom, technológiou a skutočnou prevádzkou.
+Poďme sa spolu pozrieť, čo ťa u nás čaká:
+Navrhovať, vytvárať a spúšťať automatizované testy pre novo nasadzované systémy a technológie.
+Testovať softvér, ktorý priamo ovplyvňuje chod skladu – od riadenia dopravníkov až po integráciu s ERP a ďalšími systémami.
+Byť fyzicky prítomný na mieste a overovať správanie systémov v reálnej prevádzke (end-to-end testovanie).
+Úzko spolupracovať s vývojármi, prevádzkou, integračnými tímami a partnermi dodávajúcimi technológie.
+Pomáhať nastavovať štandardy kvality, ladiť testovacie stratégie a navrhovať zlepšenia.
+Aké sú naše očakávania ?
+▪ Skúsenosť s testovaním backendových systémov prostredníctvom ich aplikačného rozhrania (HTTP, SOAP, MQTT, TCP/IP a pod.)..
+▪ Základná znalosť jazyka JavaScript, veľmi dobrá znalosť nástroja Postman.
+▪ Skúsenosť s verzovacími nástrojmi (Git, Azure DevOps).
+▪ Porozumenie testovacím stratégiám a technikám – regresné testy, integračné testy, load/performance testy.
+▪ Schopnosť analyzovať chyby, čítať logy a pracovať s monitoringom.
+▪ Systematický přístup k testování a smysl pro detail.
+▪ Zájem o technologie, které se promítají do reálného světa, ochotu být součástí týmu, který doslova uvádí sklad do života
+▪ Schopnost hledat chyby nejen ve kódu, ale i v logice nebo propojení mezi systémy.
+Plusy navyše sú znalosti:
+▪ Skúsenosť s testovaním v prostredí logistiky, výroby alebo automatizácie.
+▪ Znalosť systémov v oblasti logistiky alebo priemyselnej automatizácie.
+▪ Znalosť nástrojov ako TestRail, Allure, JIRA.
+A čo ti za to ponúkame?
+Dáme Ti zamestnanecké zľavy od 1. dňa na všetky naše produkty v ponuke. Môžeš si za kvartál nakúpiť až do 3 700 €.
+▪ Whatever days – aby sme svoju prácu mohli robiť čo najlepšie, musíme si občas taktiež poriadne oddýchnuť. A preto máš od nás 5 dní voľna naviac.
+▪ Stravovacie poukážky v hodnote 6,60€.
+▪ K tomu všetkému ešte MultiSport karta pre tvoje zdravé telo a ducha za 16€/mesačne a zľavy aj pre rodinného príslušníka alebo partnera zamestnanca :).
+▪ Získaj titul Borca/Inovátora mesiaca a spolu s tým aj odmenu do výšky 400€.
+▪ Alza Anniversary = Finančný príspevok. ĎAKUJEME za každý rok s nami.
+▪ Dovedieš si kamoša alebo známeho do firmy a dostaneš odmenu minimálne 180€ a viac, ak u nás uspeje počas skúšobnej doby.
+▪ Darček pri narodení dieťaťa a 3 dni plateného voľna pre otecka.
+▪ Psychologická poradňa ZDARMA.
+▪ Môžeš kariérne rásť , priemerne u nás za kvartál posunieme 20% zamestnancov.
+▪ ŠÉFA, ktorý ti bude vždy oporou - ako profesnou, tak ľudskou.
+▪ Máš istotu neustále rastúcej firmy a príležitosť učiť sa od najlepších - nie nadarmo sme jednotkou na trhu.
+▪ Absolvuješ intenzívne, interné školenia a môžeš sa tak pravidelne u nás vzdelávať
+Inzerujúca spoločnosť
+Niečo v skratke o nás:
+Alza.sk s. r. o. je dcérska spoločnosť najväčšieho českého internetového obchodu s počítačmi a elektronikou Alza.cz. Sme firmou s viac ako 1 500 zamestnancami v SR, ČR, Maďarsku a Rakúsku, s jasnou víziou a silným zázemím. Na Slovensku pôsobíme od roku 2004. Zákazníkom ponúkame široký sortiment nielen z oblasti IT a elektroniky, tisícky položiek s doručením i v deň objednania , špičkový e-shop a osobný prístup nášho personálu. Veľký záujem zákazníkov a nárast obratu nás presvedčil, že na Slovensku máme popredné miesto. Sme jednotkou na českom trhu a na Slovensku patríme medzi najväčších online predajcov. Ponúkame Vám prácu v príjemnom a priateľskom kolektíve, zázemie silnej a stabilnej spoločnosti, ktorá je lídrom v oblasti inovácií a technológií. Vieme oceniť osobný prístup k práci, nasadenie, skúsenosti a schopnosti. Ako člen nášho tímu budete mať možnosť realizovať svoje nápady a posúvať seba ako aj spoločnosť dopredu.
+Správca osobných údajov je Alza.cz a.s., IČO: 270 82 440 (+420 225 340 111). Spracovateľom osobných údajov je spoločnosť Alza.sk s.r.o., so sídlom Karadžičova 8, 821 08 Bratislava - mestská časť Ružinov, IČO: 36562939 (+421 257 101 800). Vaše osobné údaje spracovávame k tomu, aby sme danú pozíciu (a prípadne inú pozíciu) obsadili vhodným kandidátom. Vami poskytované osobné údaje (uvedené v životopise) sú nevyhnutné pre rozhodnutie o uzavretí prípadnej pracovnej zmluvy (tj. právny základ spracovania).
+S kým sa na výberovom konaní stretneš?
+Petra Svitničová
+Peťka je dynamická a organizovaná HR špecialistka, ktorá verí v dôležitosť transparentnej komunikácie a podpory zamestnancov v každom aspekte ich pracovného života. Má rada komunikáciu na rôzne témy, takže sa na ňu neváhajte obrátiť, ak budete potrebovať pomoc. Nebojí sa výziev a verí, že spolu zvládnete vstup do Alza Family.
+Poslať životopis
+Alza.sk, s.r.o.
+Karadžičova 8
+821 08 Bratislava – Ružinov
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5117656
+Dátum zverejnenia:
+21.10.2025
+2025-10-21
+lokalita:
+Bernolákovo
+Pozícia:
+IT konzultant
+,
+IT/Technical Support Specialist
+,
+Javascript programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Alza.sk s. r. o.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

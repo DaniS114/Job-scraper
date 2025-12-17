@@ -1,0 +1,134 @@
+Web aplikačný programátor
+Centrum spoločných činností Slovenskej akadémie vied
+Miesto práce
+Výpočtové stredisko SAV, Dúbravská cesta, Karlova Ves, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+1 100 - 2 200 EUR/mesiac
+Výška hrubej mzdy pri čiastočnom pracovnom úväzku, 18,75 hod. za týždeň je 1100€, pri plnom pracovnom úväzku 37,5 hod./týždeň je 2200€. Je možné dohodnúť čiastočný pracovný úväzok v rozpätí od 18,75 hod. do 37,5 hod. za týždeň.
+Mzda bude upresnená v rámci výberového konania a bude sa odvíjať od skúseností vybraného kandidáta, pričom bude v súlade so zákonom č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme. 
+Mzda pozostáva z dvoch zložiek: tarifný plat podľa odpracovaných rokov a osobné ohodnotenie.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ste proaktívny, kreatívny a skúsený hráč v IT sektore?
+Tak sa ozvite a staňte sa súčasťou nášho tímu vo Výpočtovom stredisku SAV!
+Centrum spoločných činností Slovenskej akadémie vied, v. v. i., organizačná zložka Výpočtové stredisko SAV hľadá novú posilu do svojho tímu na oddelenie webových služieb a propagácie.
+Na pozíciu
+WEB APLIKAČNÝ PROGRAMÁTOR
+hľadáme šikovného a spoľahlivého kolegu alebo kolegyňu, ktorý bude zvládať pracovať samostatne a zároveň je tímový hráč.
+Úlohou Web aplikačného programátora bude vývoj a údržba webových aplikácií na PHP, ďalej práca na projektoch, ktoré zahŕňajú vlastné riešenia aj integrácie s CMS systémami, ako Drupal a WordPress a taktiež úpravy interného systému v C#.
+Každodenné činnosti:
+vývoj a údržba webových aplikácií v PHP/MySQL/Apache prostredí,
+tvorba a úprava custom modulov a pluginov pre Drupal a Wordpress,
+práca s verziovacím systém Git,
+základná práca v programe Linux Shell,
+spolupráca s tímom pri návrhu a optimalizácií riešení,​
+ostatné úlohy v rámci oddelenia.
+Zamestnanecké výhody, benefity
+​stabilná práca v Slovenskej akadémii vied s bezproblémovým parkovaním,
+príjemné pracovné prostredie v zabehnutom kolektíve,
+flexibilná pracovná doba,
+príspevok na stravovanie,
+pracovná doba bude upresnená na osobnom pohovore, plný úväzok je 37,5 hodiny za týždeň, alebo kratší úväzok podľa dohody,
+1 týždeň dovolenky nad rámec zákona,
+3 * pracovné zdravotné voľno "sick days" v priebehu roka,
+1 * pracovné voľno na dobrovoľnícke aktivity na žiadosť zamestnanca,
+príspevok do DDS vo výške 2% z odpracovanej mzdy,
+možnosť čerpať rekreačný príspevok a príspevok na športové aktivity pre deti,
+odmeny pri životných jubileách,
+preplácaná PN nad rámec zákona,
+karta MULTISPORT za zvýhodnenú cenu,
+v prípade samostatnosti je možná občasná práca z domu,
+zvýhodnené ceny vybraných kultúrnych podujatí.
+Informácie o výberovom konaní
+*Ak Vás naša pracovná ponuka zaujala, zašlite nám svoj životopis a motivačný list, kde napíšete pár slov o tom, prečo sa chcete stať súčasťou nášho tímu!
+*Pracovný pomer je možné dohodnúť aj na kratší úväzok, konkrétne informácie budú upresnené na osobnom pohovore.
+*Kontaktovať budeme len vybraných uchádzačov.
+Predpokladaný termín ukončenia výberového konania
+30.11.2025
+(ostáva ešte 27 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+programovanie, informačné technológie a elektrotechnika
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+PHP - Pokročilý
+MySQL - Pokročilý
+Drupal CMS - Mierne pokročilý
+WordPress - Pokročilý
+Linux - Základy
+C# - Mierne pokročilý
+GIT - Základy
+Prax na pozícii/v oblasti
+2
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Potrebné znalosti a skúsenosti:
+znalosť skriptovacieho jazyka PHP vrátane objektového programovania,
+skúsenosti s open-source systémom MySQL,
+skúsenosti so CMS: Drupal a WordPress (tvorba modulov / pluginov),
+základné znalosti Linux príkazového riadku,
+základy programovania v jazyku C# (na úpravy existujúceho kódu),
+práca s Gitom.
+Výhodou sú skúsenosti s:
+Composer, Symfony alebo Kubernetes,
+integráciou API alebo modernými PHP frameworkmi.
+​
+Osobnostné predpoklady:
+proaktívny a samostatný prístup pri navrhovaní rôznych nápadov a riešení, ale i ochota pracovať v tíme,
+technické a analytické myslenie,
+zodpovedný prístup k práci,
+cit pre detail so záberom aj na širší kontext,
+ochota vzdelávať sa v danej oblasti,
+samostatnosť, systematickosť a prioritizácia,
+požadovaná prax na rovnakej alebo obdobnej pozícií minimálne 2 roky.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Centrum spoločných činností Slovenskej akadémie vied, v. v. i. zabezpečuje a spravuje infraštruktúru výskumu a vývoja. Poskytuje množstvo služieb nielen pre univerzity či verejnosť, ale taktiež sa podieľa na realizácii európskych projektov a reprezentuje Slovenskú republiku v európskych iniciatívach či združeniach.
+Pozostáva z 8 organizačných zložiek: Výpočtové stredisko SAV, Kongresové centrum SAV Smolenice, Kongresové centrum SAV Academia Stará Lesná, Archív SAV, Technicko-hospodárska správa ÚSV SAV, Encyklopedický ústav SAV, VEDA-vydavateľstvo SAV, Správa účelových zariadení SAV.
+Počet zamestnancov
+200-249 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Tatiana Straská
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5180205
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+.NET programátor
+,
+C# programátor
+,
+iOS programátor
+,
+PHP programátor
+,
+Webmaster
+Spoločnosť:
+Centrum spoločných činností Slovenskej akadémie vied
+Základná zložka mzdy (brutto):
+1 100 EUR/mesiac

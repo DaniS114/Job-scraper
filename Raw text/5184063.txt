@@ -1,0 +1,100 @@
+Monitoring Špecialista (Prometheus, PromQL, Grafana, Centreon)
+SourceFirst International s.r.o.
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+1 800 EUR/mesiac
++ atraktívny benefitný systém
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pre klienta hľadáme šikovného Monitoring Špecialistu, ktorý bude:
+- Analyzovať a implementovať nové možnosti monitoringu (Centreonu, Zabbix, Grafana).
+- Pracovať s Prometheusom a jeho PromQL na monitorovanie mikroservisnej architektúry.
+- Monitorovať RabbitMQ, SFTP na Windows serveroch, stav servisných portálov a analyzovať odpovede z API callov.
+- Implementovať monitoring log súborov – vyhľadávanie konkrétnych hlášok a analýza výstupov.
+- Spravovať monitoring v databázach, hlavne Oracle a PostgreSQL.
+- Využívať a analyzovať API (REST API, HTTP) v monitorovacích riešeniach.
+- Pracovať s Kubernetesom a jeho komplexnou implementáciou.
+- Využívať Grafanu na vizualizáciu, implementáciu a automatizáciu monitoringu.
+- Scripting v PowerShell a Bash.
+- Využívať Python alebo iný programovací jazyk na vytvorenie vlastného drivera, ktorý bude komunikovať s Centreonom.
+Zamestnanecké výhody, benefity
+- práca v stabilnej firme
+- adekvátne finančné ohodnotenie
+- potenciál osobného rozvoja
+- bohatý sociálny program
+- flexibilný pracovný čas
+Informácie o výberovom konaní
+Prosím pošlite svoj životopis na email ladislav.zakalicky@sourcefirstinternational.com. Máme vždy viacero pozícii pre IT špecialistov nielen na Slovensku a v Čechách ale aj na zahraničných projektoch.
+Predpokladaný termín ukončenia výberového konania
+31.3.2026
+(ostáva ešte 147 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Naším klientom je nemecko- slovenská inovatívna spoločnosť s dlhodobou tradíciou.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+- Silné analytické myslenie a schopnosť riešiť komplexné problémy
+- Znalosť Prometheus a PromQL
+- Skúsenosti so scriptovaním
+- Skúsenosti s Oracle a PostgreSQL databázami
+- Skúsenosti s Grafana na vizualizáciu monitorovaných metrík
+- Znalosť Centreon
+Nice to Have Skills
+- PowerShell, Bash
+- Zabbix
+- Skúsenosť s Kubernetes a mikroservisnou architektúrou
+- Skúsenosť s RabbitMQ monitoringom a SFTP monitoringom na Windows serveroch
+- Skúsenosť s API monitoringom – analýza odpovedí a vyhodnocovanie stavu
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Ladislav Zakalicky
+Tel.:
++421904094855
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5184063
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Žilina
+Pozícia:
+Databázový administrátor
+,
+DevOps Engineer
+,
+IT/Technical Support Specialist
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

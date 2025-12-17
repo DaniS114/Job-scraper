@@ -1,0 +1,111 @@
+Backend Developer / Data Analyst (Hybrid Role)
+TechPath Advisors
+Place of work
+Remote work
+Contract type
+part-time, trade licence
+Start date
+10.1.2026
+Wage (gross)
+25 EUR/hour
+Compensation: Minimum guaranteed €1,500 per month. 
+Workload: 60–100 hours per month.
+Information about the position
+Job description, responsibilities and duties
+We’re looking for an experienced
+.NET developer and data analyst
+who enjoys working with technology, data, and meaningful solutions. Your role will combine software development, data work, and analytical thinking.
+A typical day may include:
+Designing and developing internal business processes for client applications primarily in .
+NET C#
+, secondarily in Python
+Designing, creating, and optimizing
+SQL
+queries and stored procedures (primarily MS SQL / Azure SQL)
+Creating and managing
+ETL
+pipelines for data transformation and processing
+Designing
+Power BI
+reports and analytical dashboards
+Working with data in
+Microsoft Fabric
+, optionally Snowflake or Databricks
+Integrating and leveraging
+AI tools
+(e.g., ChatGPT, Copilot, Azure OpenAI)
+Collaboration on data and AI-driven projects
+Required skills & experience:
+Advanced knowledge of
+.NET C#
+Advanced knowledge of
+SQL (T-SQL)
+Experience with
+Microsoft Fabric
+and
+Power BI
+Experience with ETL processes and data analytics
+Practical experience using AI tools in real projects
+Nice-to-have skills:
+Experience with
+Azure Services
+, Azure OpenAI, AI Foundry
+Knowledge of LLM languages and working with ML models on data
+Experience with Azure DevOps
+What we offer:
+Flexible cooperation — remote or hybrid
+Interesting projects in AI, data analytics, and cloud technology
+Opportunity to work on innovative projects for clients worldwide
+Long-term collaboration with room for growth
+Open culture and informal communication
+A team that connects technology with real business value
+Information about the selection process
+If the position interests you, send us your CV (in English), your LinkedIn profile, or a work sample (e.g., GitHub). We’d love to meet you and discuss potential collaboration. We’re looking for someone who can bridge the world of code and data.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+4
+Personality requirements and skills
+Analytical and logical mindset
+Independence and accountability
+Creative and proactive approach
+Openness to new technologies
+Problem-solving skills and ability to see relationships in data
+Advertiser
+Brief description of the company
+TechPath Advisors is a technology partner for modern companies, combining data strategy, internal process optimization, cloud solutions, and artificial intelligence. We act as the bridge between business goals and technical execution, turning client priorities into real outcomes through advanced IT solutions. We help companies use data effectively, automate processes, and deliver innovation through AI. Organizations across Europe and the United States use our solutions.
+WEB: techpathadvisors.com
+Follow us on LinkedIn: linkedin.com/company/techpath-advisors
+Contact
+Contact person: Marek Hlinka
+E-mail:
+send CV
+You can react to this job
+without sending your CV
+. It is sufficient to fill in a form.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5196755
+Dátum zverejnenia:
+1.12.2025
+2025-12-01
+lokalita:
+Remote work
+Pozícia:
+Backend developer
+,
+Database Analyst
+Spoločnosť:
+TechPath Advisors
+Základná zložka mzdy (brutto):
+25 EUR/hour

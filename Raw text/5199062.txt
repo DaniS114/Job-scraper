@@ -1,0 +1,109 @@
+Software Engineer – Embedded, Edge & AI Systems
+ACTUSMART Software, s. r. o.
+Place of work
+Ladislava Dérera 2749/2, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+1 800 EUR/month
+This is a minimum salary for a junior, higher salary possible according experience e.g. for senior software engineers.
+Information about the position
+Job description, responsibilities and duties
+About Us
+Actusmart
+is an innovative technology company based in Slovakia, specializing in the development of intelligent software solutions for electric actuators and automation systems.
+We combine embedded software, edge computing, and AI technologies to create smarter, more connected actuator systems.
+To support our growing projects and new software platform developments, we are looking for a motivated
+Software Engineer – Embedded, Edge & AI Systems
+to join our team.
+Your Tasks
+As a
+Software Engineer
+, you will contribute to the further development of our actuator software ecosystem — from firmware to intelligent tools and edge platforms.
+Develop and maintain cross-platform tools for
+parameterization, diagnostics, and troubleshooting
+(desktop, web, and mobile).
+Contribute to
+edge device and gateway solutions
+, bridging the OT and IT worlds for connected actuator systems.
+Improve and expand
+industrial communication and IoT connectivity
+, including protocols such as MQTT and IO-Link.
+Support ongoing
+firmware maintenance and development
+for our actuator controllers (e.g., transition from Logik 2 to Logik 3).
+Collaborate with hardware, software, and AI teams to integrate smart functions and predictive capabilities.
+Participate in design reviews, testing, and continuous improvement of our software platforms.
+Your Profile
+Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, or a related field.
+At least
+2 years of experience
+in software development for embedded or automation systems.
+Strong programming skills in
+C
+; additional experience in C++, .NET, or mobile/web technologies is a plus.
+Familiarity with
+industrial communication protocols
+,
+edge computing
+, and
+IoT technologies
+.
+Knowledge or interest in
+AI/ML
+applications for control and diagnostics.
+Solid understanding of software architecture, testing, and version control.
+Solution-oriented, reliable, and a good communicator.
+Fluent in
+English
+; Slovak or German is an advantage.
+The Offer
+At
+Actusmart
+, we offer a dynamic and innovative work environment where your software expertise directly influences the next generation of actuator technologies.
+You will have the opportunity to work across embedded systems, edge platforms, and smart applications.
+Competitive annual gross salary based on experience and skills.
+Modern working environment with room for creativity and professional development.
+Flexible working hours and a strong focus on teamwork and innovation.
+If you’re passionate about embedded software, intelligent control, and shaping the future of smart actuators, we want to hear from you.
+Please feel free to send your CV f.schiebel@schiebel-actuators.com
+Requirements for the employee
+Candidates with education suit the position
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Advanced (C1)
+Other knowledge
+C++ - Skillful
+Python - Basic
+Driving licence
+B
+Advertiser
+Brief description of the company
+Actusmart is an innovative technology company based in Slovakia, specializing in the development of intelligent software solutions for electric actuators and automation systems.
+Contact
+Contact person: Felix Schiebel
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199062
+Dátum zverejnenia:
+28.11.2025
+2025-11-28
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+Spoločnosť:
+ACTUSMART Software, s. r. o.
+Základná zložka mzdy (brutto):
+1 800 EUR/month

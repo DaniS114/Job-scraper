@@ -1,0 +1,97 @@
+Junior SOC Analytik (Security Operations Center)
+L4 IT Systems GmbH, organizačná zložka Slovensko
+Miesto práce
+City Business Center, Karadžičova, Ružinov
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+1.12.2025
+Mzdové podmienky (brutto)
+1 600 EUR/mesiac
+Pri vyšších odborných skúsenostiach - dohodou
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Monitorovanie bezpečnostných udalostí v reálnom čase prostredníctvom platformy IBM QRadar a spriaznených nástrojov.
+Analýza a kategorizácia incidentov na základe prichádzajúcich dát a korelačných pravidiel.
+Identifikácia podozrivých aktivít, anomálií alebo potenciálnych hrozieb v sieťovej a systémovej infraštruktúre.
+Práca s nástrojmi typu EDR (Endpoint Detection and Response) od rôznych výrobcov – analýza správania koncových zariadení a reakcia na detegované udalosti.
+Spolupráca s tímom vyšších úrovní (Tier 2, Tier 3) pri eskalácii a riešení zložitejších incidentov.
+Používanie platformy IBM SOAR (Security Orchestration, Automation and Response) na automatizáciu reakcií a efektívne zvládanie incidentov.
+Vypracovanie reportov o incidentoch, trendoch a návrhoch na zlepšenie bezpečnostných opatrení.
+Spolupráca s IT a bezpečnostnými tímami na prevencii, detekcii a mitigácii hrozieb.
+Podieľanie sa na zlepšovaní procesov SOC, tvorbe playbookov a dokumentácie.
+Zamestnanecké výhody, benefity
+Prácu s najmodernejšími bezpečnostnými technológiami od popredných výrobcov (IBM, Microsoft, SentinelOne, CrowdStrike a ďalšie).
+Možnosť profesijného rastu na pozície SOC Analyst Tier 2 / Incident Responder / Threat Hunter.
+Odborné školenia a certifikácie hradené zamestnávateľom.
+Flexibilný pracovný čas, možnosť čiastočnej práce z domu.
+Stabilné finančné ohodnotenie s možnosťou rastu podľa odbornosti a výkonnosti.
+Komplexné zaškolenie a mentoring od skúsených Security/SOC špecialistov.
+Príležitosť pracovať v priateľskom, no profesionálnom tíme, kde sa zdieľajú vedomosti a podporuje kariérny rozvoj.
+Predpokladaný termín ukončenia výberového konania
+1.1.2026
+(ostáva ešte 59 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Stredoškolské alebo vysokoškolské vzdelanie v oblasti informačných technológií, sieťovej bezpečnosti alebo informatiky
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+TCP/IP, DNS, HTTP, SMTP - Základy
+malware, phishing, brute-force, DDoS - Základy
+Logy Windows, Linux, network zariadení - Základy
+Wireshark, Nmap, VirusTotal, Shodan - Základy
+Python, PowerShell, Bash - Úplný začiatočník
+IBM QRadar, IBM SOAR - Úplný začiatočník
+Cloud, EDR, threat intelligence - Úplný začiatočník
+Prax na pozícii/v oblasti
+Minimálne 5 rokov praxe v oblasti IT bezpečnosti, konzultingu alebo architektúry systémov
+Počet rokov praxe
+1
+Osobnostné predpoklady a zručnosti
+Prax v IT oblasti (servis, podpora, administrácia systémov alebo sietí) je výhodou.
+Skúsenosť alebo záujem o oblasť kybernetickej bezpečnosti (SOC, SIEM, EDR, forenzná analýza).
+Možnosť pracovať aj v SOC režime 24/7
+Znalosť základov sieťových protokolov (TCP/IP, DNS, HTTP, SMTP) a princípov komunikácie v IT infraštruktúre.
+Základné povedomie o typoch kybernetických útokov (malware, phishing, brute-force, DDoS).
+Schopnosť pracovať s logmi zo systémov Windows, Linux alebo sieťových zariadení.
+Základné skúsenosti s nástrojmi na analýzu ako Wireshark, Nmap, VirusTotal, Shodan.
+Výhodou sú znalosti skriptovania alebo automatizácie (Python, PowerShell, Bash).
+Znalosť práce s SIEM platformami (ideálne IBM QRadar) a SOAR riešeniami (napr. IBM SOAR) je silnou výhodou.
+Záujem o neustále vzdelávanie v oblasti bezpečnosti a moderných technológií (napr. cloud, EDR, threat intelligence)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+In 2021, L4 IT Systems was established with the goal of introducing innovative ideas into the IT sector. At the start of 2022 we have teamed with Tahaluf al Emarat Technical Solutions as their official partner for Europe. Tahaluf is a prominent IT company in the GCC region, with annual sales above $250,000,000. Notable clients include governments and the largest corporations in the area.
+L4 increased considerably since 2021. We have a presence in the DACH regions of Europe, New office with 360° views of Bratislava close to the city center and innovation center that houses our portfolio showroom, and a Slovak branch.
+With the increasing presence on the EU market we have established cooperation with major players in the IT and communication industry. We are a proud partner of IBM, Bosch Security, Frequentis, Photoneo, Arvoo, Dormakaba and Muehlbauer.
+These days, our clientele is global in scope, not just limited to Europe. In addition to IT SW and HW, we also offer customized ID card and biometric documents printing, cyber and physical security solutions, smart traffic and parking solutions,  customized IoT solutions and critical communication (radio, mobile and data).
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Karol Achberger
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5181339
+Dátum zverejnenia:
+24.10.2025
+2025-10-24
+lokalita:
+Bratislava
+Pozícia:
+Špecialista IT bezpečnosti
+Spoločnosť:
+L4 IT Systems GmbH, organizačná zložka Slovensko
+Základná zložka mzdy (brutto):
+1 600 EUR/mesiac

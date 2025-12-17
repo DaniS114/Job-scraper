@@ -1,0 +1,92 @@
+Information Security Architect
+Job Description
+What you will do
+At Johnson Controls, we’re seeking a skilled Information Security Architect to join our Global Information Security team. In this role, you’ll collaborate with cybersecurity, IT, and business teams to
+design and implement robust security architectures, standards, and controls that protect our systems and data
+. You’ll play a key role in ensuring compliance, assessing security posture, and guiding secure technology deployments across the enterprise.
+How you will do it
+Design & Architecture
+Develop and implement enterprise-wide security reference architectures.
+Ensure alignment with global security standards and policies.
+Approve final designs and validate builds for compliance.
+Follow the Security Posture Assessment process, which involves research, validation, and evaluation of all new initiatives, with phase gates reviews presented to all stakeholders during the process
+Security Assessment & Compliance
+Conduct security posture assessments for new initiatives.
+Identify and mitigate risks in third-party solutions.
+Ensure adherence to regulatory and internal security requirements.
+Collaboration & Consulting
+Partner with service management and stakeholders to gather requirements.
+Act as a trusted advisor to business units and IT teams.
+Provide expert input on security standards, roadmaps, and infrastructure.
+Documentation & Communication
+Create high-quality technical documentation, white papers, and presentations.
+Communicate complex security concepts clearly to technical and non-technical audiences.
+Continuous Improvement
+Stay current on emerging threats, vulnerabilities, and technologies.
+Recommend improvements in network, identity, and infrastructure security.
+What we look for
+Required
+3+ years of experience in information security, including application development and security applications.
+Strong understanding of attacker techniques, threat landscapes, vulnerability management, and security monitoring.
+Broad technical expertise in:
+Endpoint and platform security (Windows, Linux, mobile)
+Identity and access management (IAM), PKI, encryption/tokenization, data protection
+Cloud security (AWS, Azure, GCP)
+Network security (web proxies, reverse proxies, load balancing, IDS/IPS, firewall, wireless, and remote connectivity, TCP/IP protocol, and remote access security techniques/products)
+Excellent communication skills—both written and verbal.
+Ability to work independently and collaboratively in a global team.
+High integrity and discretion in handling confidential matters.
+Preferred
+Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent experience).
+Familiarity with compliance frameworks (PCI-DSS, HIPAA, FISMA, SOX).
+Overview of NIST standards and security architecture frameworks (e.g., SABSA, TOGAF).
+Experience in security operations or incident analysis.
+Certifications
+Certified Information Systems Security Professional (CISSP)
+Certified Information Systems Security Professional - Information Systems Security Architecture Professional (CISSP-ISSAP)
+Certified Cloud Security Professional (CCSP)
+Certified Information Security Manager (CISM)
+Certified Information Systems Auditor (CISA)
+Certified Ethical Hacker (CEH)
+Cisco Certified Network Associate Security (CCNA Security)
+Cisco Certified Network Associate (CCNA)
+Cisco Certified Network Professional Security (CCNP Security)
+Cisco Certified Network Professional (CCNP)
+Server Platform Certifications (Microsoft, Linux)
+Our benefits
+Besides working in an international environment, you will receive a regularly monthly bonus after your first six months, meal vouchers, a recreation allowance and retail discounts. Additionally, our flexible benefits program will allow you to customize benefits from a selection of 3500 products and service such as gym membership, medical cover, a multi-sports card plus many more.
+Our onsite facilities at our Bratislava based office includes a canteen, nursery and coffee machines located on every floor.
+If you are relocating to Bratislava to join Johnson Controls, you will be eligible to receive a housing allowance to help you setup your new life in Slovakia.
+The gross monthly salary for this position
+starts from 2,700 EUR per month
+, plus a monthly bonus that starts after your first 6 months. Please note this is a minimum salary and our compensation packages are based on your professional experience and qualifications.
+Our culture
+At Johnson Controls you’ll have the opportunity to work on some of the most exciting projects in today’s market. Our hardworking people empower us, and we believe in being part of a team that is open, collaborative, results-oriented, hardworking and above all fun.
+We believe that diversity and inclusion matter and make a difference. By embracing the true value of diversity and inclusion, getting comfortable with having crucial conversations, and valuing different perspectives, we will be one of the most desirable places to work.
+#LI-BB1
+#LI-Hybrid
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5192156
+Dátum zverejnenia:
+14.11.2025
+2025-11-14
+lokalita:
+Bratislava
+Pozícia:
+IT Analyst
+,
+IT Architect
+,
+IT Project Manager
+,
+IT Security Specialist
+Spoločnosť:
+JOHNSON CONTROLS INTERNATIONAL spol. s r.o.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

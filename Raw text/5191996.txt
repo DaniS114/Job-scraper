@@ -1,0 +1,117 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Software Engineer Java (Bratislava, Košice)
+Informácie o pracovnom mieste
+Miesto práce:
+Práca z domu
+Mzdové podmienky (brutto):
+Od 3 200 EUR/mesiac
+(finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta)*
+Termín nástupu:
+dohodou, ihneď výhoda
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+Vývoj SW riešení v agilnom vývojovom tíme podľa Scrum.
+-  vývoj aplikácii nasadených v cloude.
+-  analýza požiadaviek a komunikácia s klientom a produktovými analytikmi
+-  design riešení pre Cloud platformu ktorá je požívaná na high-performance data pipelines, streaming analytics, data integration
+- Backend - Microservices architecture: Java 17, 21, Spring (Spring Boot 3, Spring Cloud)
+- Process orchestration: Camunda
+- Code versioning: Gitlab
+- Build: Gitlab CI, Maven, Nexus, Harbor
+- Unit testing: Junit, Mockito, Powermock, Cucumber
+- Quality: SonarQube, Fortify, WebInspect, BuildBreaker
+- APIs: Apigee - API gateway, REST API (Open API 2, 3), GraphQL
+- Persistence: Hibernate, Oracle, Postgres, Liquibase
+- Messaging: Kafka
+- Monitoring: AppDynamics, Splunk
+- Collaboration: Jira, Confluence
+Zamestnanecké výhody, benefity
+- možnosť pracovať ako zamestnanec, alebo ako kontraktor
+- nadštandardné finančné ohodnotenie a prémiový systém
+- pružný pracovný čas, s pevnou časovou zložkou
+- možnosť zdokonaľovať sa v oblasti IT s využitím technických znalostí a vlastného osobnostného potenciálu
+- rôznorodosť projektov, práca s najnovšími technológiami
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: anna.spasova@prohr.sk
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Iné neuvedené oblasti
+Spoločnosť poskytuje svojim klientom integrované softvérové biznis riešenia a IT konzultačné služby.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Software Programovanie
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+Ostatné znalosti
+Java - Pokročilý
+Prax na pozícii/v oblasti
+IT programátor
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+• vysokoškolské vzdelanie technického zamerania je výhodou
+• skúsenosti s technickými analýzami a vývojom aplikácií JAVA 17/21,
+na pokročilej úrovni (samostatný developer) aspoň 3+ roky skúseností s programovaním
+• prehľad v používaní Open Source Frameworks
+- Spring Boot,
+-  návrh Rest API, web services
+- Automatizácia kódov CICD Jenkins a Docker
+• Aktívna komunikatívna znalosť anglického jazyka (slovom aj písmom) je podmienka,
+• analytické zručnosti a schopnosť riešiť problém
+• schopnosť pracovať samostatne ako aj v rámci tímu
+• schopnosť efektívnej organizácie času  a samostatne riešiť problémy
+• schopnosť aspoň základnej komunikácie s klientom, lojalita, zodpovednosť,  záujem o problematiku
+•  Scrum
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Anna Spasová
+Tel.:
++421 2 6241 3438, +421 911 525 022
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5191996
+Dátum zverejnenia:
+13.11.2025
+2025-11-13
+lokalita:
+Práca z domu
+Pozícia:
+Databázový analytik
+,
+IT architekt
+,
+Java programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 200 EUR/mesiac

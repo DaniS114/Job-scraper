@@ -1,0 +1,102 @@
+AI Solution Specialist
+HB Reavis
+Miesto práce
+Nivy Tower, Mlynské nivy, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+na dohodu (brigády)
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 10 EUR/hod.
+Finálne platové ohodnotenie bude závisieť od skúseností daného kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme zanieteného AI Solutions Specialist, ktorý sa pridá k nášmu IT tímu v Bratislave (možnosť part-time alebo stáže). Táto rola predstavuje jedinečnú príležitosť pre človeka s vášňou pre umelú inteligenciu a záujmom preskúmať, ako môže AI podporovať reálne obchodné potreby v rámci celej spoločnosti HB Reavis.
+Hlavným zameraním je navrhovať, vyvíjať a implementovať AI riešenia,
+prompty
+a
+agentov
+, ktoré pomáhajú interným tímom dosahovať vyššiu efektivitu a inteligentnejšie pracovné postupy. Pozícia si vyžaduje úzku spoluprácu s rôznymi oddeleniami na identifikácii príležitostí, kde AI dokáže priniesť skutočnú pridanú hodnotu – od automatizácie procesov až po zlepšovanie rozhodovania.
+Táto úloha kombinuje technickú zvedavosť s komunikačnými zručnosťami, pričom sa vyžaduje priama interakcia s koncovými používateľmi na pochopenie ich potrieb, testovanie riešení a zabezpečenie efektívnej adopcie AI nástrojov v ich dennej práci.
+Náplň práce:
+Vyvíjať, testovať a optimalizovať AI prompty a agentov pre interné využitie naprieč rôznymi oddeleniami.
+Spolupracovať s obchodnými jednotkami a koncovými používateľmi na identifikácii a navrhovaní praktických AI aplikácií, ktoré zlepšujú pracovné postupy a efektivitu.
+Transformovať potreby používateľov do realizovateľných AI riešení a podporovať ich implementáciu.
+Poskytovať praktickú podporu, poradenstvo a základné školenia kolegom, ktorí zavádzajú AI nástroje.
+Vyhľadávať nové trendy, nástroje a technológie v oblasti AI relevantné pre operácie HB Reavis.
+Dokumentovať a zdieľať osvedčené postupy v prompt engineeringu a dizajne AI riešení.
+Zamestnanecké výhody, benefity
+​​​​Príležitosť formovať spôsob využitia AI v medzinárodnej spoločnosti.
+Možnosť nadobudnúť praktické skúsenosti s najmodernejšími AI nástrojmi a projektmi.
+Podporné prostredie pre učenie sa, experimentovanie a profesionálny rast.
+Moderné pracovisko v Bratislave
+Príležitosť ovplyvniť spôsob, ako naše tímy pracujú a inovujú.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+študent vysokej školy
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+Ostatné znalosti
+SQL - Pokročilý
+Python - Pokročilý
+OpenAPI - Pokročilý
+Osobnostné predpoklady a zručnosti
+Vzdelanie a Znalosti:
+Vzdelanie v oblasti Informačných technológií, Počítačovej vedy alebo príbuznom technickom odbore      (ukončené alebo prebiehajúce štúdium).
+Silný záujem o umelú inteligenciu, strojové učenie a automatizačné nástroje.
+Znalosť programovania (Python, JavaScript alebo      podobné).
+Skúsenosti s SQL.
+Skúsenosti s OpenAI API, Anthropic Claude      API alebo podobnými rozhraniami.
+Skúsenosti s Azure AI Studio, Azure OpenAI      Service, Azure AI agent deployment, Azure Deployments & Infrastructure.
+Kľúčové Zručnosti:
+Vynikajúce komunikačné a kolaboračné zručnosti — schopnosť pracovať priamo s používateľmi, rozumieť ich potrebám a jasne vysvetľovať technické koncepty.
+Analytické myslenie a zameranie na riešenie      problémov s proaktívnym prístupom.
+Dobrá znalosť anglického a slovenského jazyka.
+Technické Nástroje:
+Git (systém kontroly verzií)
+Jupyter notebooks
+Linux/Unix príkazový riadok
+IDE (VS Code, PyCharm)
+Požadovaný prehľad v oblasti AI výhodou:
+Pochopenie rôznych typov ML (riadené, neriadené,      reinforcement learning).
+Architektúry neurónových sietí (CNNs, RNNs,      Transformers).
+Metriky hodnotenia modelu a validačné stratégie.
+Dôvernosťúdajov a etické aspekty AI.
+Optimalizácia nákladov pre AI systémy.
+Dizajnové vzory agentov (ReAct, ReWOO,      Plan-and-Execute).
+Volanie nástrojov/funkcií (Tool/function calling)      s LLM modelmi.
+Správa pamäte pre agentov (krátkodobá, dlhodobá).
+Stratégie hodnotenia a testovania agentov.
+Orchestrácia a komunikácia viacerých agentov      (multi-agent orchestration).
+Agentic RAG vzory.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme medzinárodný poskytovateľ pracovných priestorov. Navrhujeme, budujeme a spravujeme priestory so zameraním na udržateľnosť, wellbeing a produktivitu ľudí. Naše budovy sú medzinárodne ocenené a vyznačujú sa centrálnou polohou s výbornou dostupnosťou, prístupom k dizajnu zameraným na ľudí s vysokými štandardmi udržateľnosti a inovácií, zameranými na služby pre klientov.
+Pôsobíme v piatich krajinách: v Spojenom kráľovstve, Nemecku, Poľsku, na Slovensku a v Maďarsku a poskytli sme pracovné priestory už pre viac ako 75 000 ľudí. Od založenia spoločnosti HB Reavis v roku 1993 sme úspešne dodali viac ako 1,69 milióna m2 kancelárskych a obchodných priestorov. V súčasnosti spravujeme 640 000 m2 pracovných priestorov v hodnote 3 miliardy EUR.
+Okrem pracovných priestorov, šitých na mieru, ponúkame aj extra pridané služby, ktoré z pracovného prostredia robia miesto podporujúce wellbeing a produktivitu jeho užívateľov. Klienti tak majú k dispozícií službu More by HB Reavis, ktorá poskytuje bikesharing, službu concierge a organizuje eventy podporujúce zdravý životný štýl.
+Kontakt
+Kontaktná osoba: Katarína Magdolenová
+Tel.:
++421947957711
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5188116
+Dátum zverejnenia:
+6.11.2025
+2025-11-06
+lokalita:
+Bratislava
+Pozícia:
+IT/Technical Support Specialist
+Spoločnosť:
+HB Reavis
+Základná zložka mzdy (brutto):
+10 EUR/hod.

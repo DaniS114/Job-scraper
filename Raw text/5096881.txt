@@ -1,0 +1,87 @@
+About us
+Our benefits
+Open positions
+Tech Architect AM Core Processing
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 200 - 5 300 EUR/month
+For Slovakia the base salary range for this position is between [EUR 3,800] and [EUR 6,300] per month (for a full-time role). The specific salary offered considers:​
+
+the requirements, scope, complexity and responsibilities of the role, ​
+the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.​
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.​
+
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Core batch processing is a critical function in Asset Management, ensuring end-of-day completeness, accuracy, and downstream reporting. As Tech Architect – Core Transaction Processing, you will lead the technical evolution of this environment, helping us modernize and improve the end-to-end processing architecture.
+You will take ownership of the overall batch landscape, balancing deep technical insight with architectural thinking. This includes identifying simplification opportunities, improving system performance and stability, and ensuring alignment to business SLAs. You will work across technology, operations, and infrastructure teams to define and implement scalable, future-ready solutions that are fit for a multi-cloud environment.
+Your role will involve both hands-on engagement and architectural design: from understanding data dependencies and critical paths, to driving proposals for modernization, microbatching, or hybrid architectures where appropriate. You’ll also act as a technical partner to application teams, helping shape realistic roadmaps and bringing others along on the change journey.
+Key responsibilities:
+•Take architectural ownership of the batch and transaction processing layer across systems and asset classes
+•Define and evolve a fit-for-purpose hybrid architecture that supports both UC4-based legacy processes and cloud-native workflows
+•Identify performance bottlenecks, reduce batch windows, and improve operational resilience
+•Map end-to-end dependencies and align process flows with business-driven SLAs
+•Lead design discussions, build consensus for change, and support the implementation of selected improvements
+•Collaborate closely with operations and application teams to align on strategy and technical feasibility
+•Present architectural proposals to IT leadership and support value-based prioritization
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You bring at least 5+ years of experience in engineering or architecture roles, and have developed a strong foundation in batch-oriented systems. Ideally, you’ve grown from hands-on experience with tools like UC4 and are now looking to apply your knowledge in a more strategic, architectural capacity — with exposure to cloud services and modern processing approaches.
+You’re comfortable operating across legacy and cloud environments, and are able to design practical, resilient solutions that deliver measurable business value. You understand data and system dependencies, and you’re capable of influencing cross-functional teams to align on improvements and simplifications.
+You combine hands-on technical engagement with strong conceptual thinking, and enjoy bridging gaps between application teams, operations, and technology leadership.
+You are:
+•Experienced with enterprise-scale batch processing environments and tools (UC4 preferred)
+•Comfortable designing hybrid architectures that span on-prem and cloud (including SaaS/PaaS integration)
+•Familiar with event-driven or microbatch principles, and able to evaluate when and where they are appropriate
+•Skilled in mapping data flows and aligning them with regulatory and business-driven SLAs
+•Able to articulate technical ideas clearly, document architecture proposals, and influence decisions across teams
+•Familiar with the asset management or capital markets domain, or eager to deepen your knowledge
+•Comfortable presenting to IT leadership and driving proposals forward in a pragmatic, business-aligned way
+•Experience with Python or SQL is a plus
+•Curious and proactive, with a willingness to learn and grow in a complex, regulated technology environment
+Please apply with your complete documentation: CV, cover letter, reference letters and diplomas.
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5096881
+Dátum zverejnenia:
+17.10.2025
+2025-10-17
+lokalita:
+Bratislava
+Pozícia:
+IT Architect
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 200 EUR/month

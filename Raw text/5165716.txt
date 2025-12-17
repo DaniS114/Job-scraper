@@ -1,0 +1,88 @@
+Senior Solution Architect for Data Cloud
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Salary
+From 4 200 EUR/month
+From 4200 + VAR*
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions.
+Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+Job description, responsibilities and duties
+Your tasks and responsibilities
+:
+You will manage the solution architecture and the further development of our Data Cloud in coordination with internal stakeholders from various business and business areas
+You will design, develop, implement and manage requirements for the Data Cloud Platform, focusing on AI enablement, data architecture, the data interfaces, as well as security, authorization and data access management
+You will develop and automate our cloud environments in terms of security, reliability, monitoring and data supply to optimize operational processes
+You will analyze innovative new AI-supported data management components and methods and pilot new solutions by designing and implementing initial proof-of-concepts
+You can find out more about this business area at
+https://www.siemens-healthineers.com/de/products-services
+Your qualifications and experience:
+You have a degree in (business) informatics, medical informatics, mathematics or comparable
+You have many years of relevant professional experience in the field of cloud services, e.g. Azure, AWS, Google Cloud and have worked in cross-functional teams
+We are also happy to welcome applicants who have completed vocational training and further education in connection with additional professional experience in this field
+You have very in-depth technical knowledge of database and data warehouse technologies (especially Snowflake or Cloud DWH solutions) as well as data integration, e.g. SAP SLT, Glue, Matillion and other ETL tools, as well as data streaming, e.g. Kafka
+You have experience designing, implementing, and supporting scalable data solutions leveraging open lakehouse technologies (storage layer, file formats, compute options), to improve reliability, performance, and interoperability across analytics platforms
+You have very in-depth knowledge of corporate data landscapes and architectural building blocks (data sets); Experience with data models from SAP ERP, SAP BI and CRM software is an advantage
+You have very good experience in developing solutions with SQL (standard and procedural), scripting languages and data transformation methods (e.g. Python, Airflow, Azure functions)
+You have experience in software development with agile working models (DevOps approach)
+Your profile and skills:
+You are results-oriented and have the ability to take the initiative
+They are able to handle multiple parallel tasks and prioritize accordingly to meet deadlines
+You will work closely with project managers and development teams to understand technical requirements and develop appropriate solutions
+You are a team player, have good communication skills, and can work and build relationships with people from different backgrounds and cultures
+You will work and communicate with colleagues in an international environment and have business fluency in English. German knowledge is a nice-to-have asset for communication with German-speaking stakeholder
+Basic wage component (gross) and other rewards
+: starting from 4200 EUR brutto /month + VAR*
+How we work:
+When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably.
+Check our Careers Site at
+https://www.siemens-healthineers.com/sk
+As an equal opportunity employer, we welcome applications from individuals with disabilities.
+Required education, skills and personality requirements
+Required education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+We offer
+Variable and Christmas bonus
+Hybrid type of work – combination of work from home & work from office(telework / homeoffice)
+Flexible Working Hours
+Bridge days – free extra paid leave 6 days per year
+3 sick days per year (no doctor’s permit needed)
+In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of family care
+Additional pension plan
+300 EUR for regeneration of work force via cafeteria system
+Multisport Card – employer's contribution of 10 EUR
+Recognition and Reward program
+Wellbeing program – Psychological, Legal and Financial Councelling
+Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps)
+Retention program (work anniversary, life anniversary, employee loans)
+Training and development program (business and product trainings, e-learning, language courses, soft skills trainings,…)
+Adjustable standing desk as a standard
+Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial Intelligence, Healthcare IT services, …)
+Participation on world famous IT conferences like Microsoft IGNITE for best employees
+Send CV
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Join us!
+Send CV
+Click for more information
+ID:
+5165716
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Bratislava
+Pozícia:
+IT Architect
+Spoločnosť:
+Siemens Slovensko
+Základná zložka mzdy (brutto):
+4 200 EUR/month

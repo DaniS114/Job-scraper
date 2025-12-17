@@ -1,0 +1,91 @@
+Medior Cloud Engineer (Azure, Kubernetes, Golang)
+SourceFirst International s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+By agreement
+Wage (gross)
+2 700 - 4 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+For our client we are looking for Cloud Engineer with a focus on Kubernetes and Azure Cloud. In this role, you'll engage in Infrastructure as Code, automation, and application hosting using Kubernetes. Your main responsibility will be to manage and improve client´s shared application hosting platform for various types of applications in the Azure cloud.
+A significant part of your role involves the further engineering of the platform, but also ensuring the stability and operability of the platform. This includes automating operational processes as much as possible. You will also participate in an on-call rotation, approximately once every two months, to handle high-priority incidents, with the frequency expected to decrease as the team grows.
+Your work will include managing a managed PaaS platform, covering aspects like fully automated secret management, storage, and identity management for application teams. You'll also be involved in migrating new applications to the public cloud and optimizing existing setups.
+Build infrastructure and a platform that allow units to:
+- help improve the life of farmers in Brazil with image recognition based on satellite data.
+- build models to predict life expectancy or predict the CO2 footprint of companies.
+- support many other exciting projects in a collaborative environment with colleagues from international offices.
+You will work in a team building new cutting-edge solutions cloud infrastructure solutions, with 5 mentors to support your learning. Client´team is diverse and is connected by passion to learn, so they areare looking for a person who loves to learn and they will support you in this journey. The team reserves time for studying and attending conferences, and organizes  own upskilling sessions as well. In addition to projects for their clients, they also work on innovation projects which allow them to learn new methodologies and gain fresh experience.
+Employee perks, benefits
+- flexible working time
+​​- hybrid type of home-office
+​​- kindergarten - available in our building
+​​- yearly salary re-evaluation
+​​- sick days
+​​- MultiSport card
+​​- mental & medical health support
+​​- public transport donation​​
+Expected date of completion of the selection process
+31.3.2026
+(there are still 133 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a leading international tech company and provides a wide range of products and services.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+Experience in Kubernetes and generally application hosting
+Experience in public cloud, mainly Azure
+Knowledge of interacting with API and CLI interfaces
+Knowledge of programming language Golang and Bash
+Passion for learning and innovating
+Nice to have:
+Background in software engineering or application design
+Knowledge of and/or interest in pulumi for IaC
+Knowledge of and/or interest in platform and application security
+Experience in corporate/enterprise technical landscapes
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: IT Recruitment
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5188644
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT Consultant
+,
+Software Engineer
+,
+Systems Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

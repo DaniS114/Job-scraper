@@ -1,0 +1,93 @@
+Web Developer (Angular, TypeScript,Node)
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 200 - 3 700 EUR/mesiac
+Výsledná mzda závisí od skúseností kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Vyvíjať budeš frontendovú časť našich existujúcich a nových webových aplikácií a webových komponentov založených na HTML5 / CSS / TypeScript / JavaScript / Angular, ako aj back-end založený na NodeJS / TypeScript / NestJS.
+Budeš implementovať webové aplikácie založené na formulári s overením na strane klienta aj grafickú vizualizáciu informácií o počasí alebo klíme.
+Pomôžeš nám s výberom vhodných webových technológií a frameworkov a spolupracovať budeš s ľuďmi z iných tímov, s dizajnérmi používateľského rozhrania a s našimi zákazníkmi.
+Zamestnanecké výhody, benefity
+- vlastné parkovacie miesto pred budovou
+- flexibilná pracovná doba
+- možnosť cestovania do zahraničia
+- hybridný home office
+- firemné eventy
+- ovocie, kafetéria
+- zaujímavé finančné bonusy
+Informácie o výberovom konaní
+Prosím pošlite svoj životopis na email martin.lukac@sourcefirstinternational.com . Máme vždy viacero pozícii pre IT špecialistov nielen na Slovensku a v Čechách ale aj na zahraničných projektoch.
+Predpokladaný termín ukončenia výberového konania
+1.2.2026
+(ostáva ešte 76 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Spoločnosť pomáha vytvárať meteorologické aplikácie.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+- Odborná prax s vývojom jednostránkových webových aplikácií (front-end aj back-end) minimálne 1-2 roky
+- Pokročilé skúsenosti s doručovaním obsahu na báze AJAX z externých webových služieb (JSON RPC, REST, SOAP alebo iné)
+- Skúsenosti s programovaním v TypeScript / JavaScript / ES6+
+- Dobrá znalosť nových značiek a technológií HTML5, ako sú video, plátno, webové úložisko, drag & drop, geolokácia, komunikácia cez web soket
+- Schopnosť riešiť problémy s webovou bezpečnosťou, ako je autentifikácia a autorizácia, XSS, CSRF, vkladanie kódu, odoslanie dvojitého formulára
+- Dobrá znalosť HTML / CSS a skúsenosti s riešením problémov s nekompatibilitou v rôznych webových prehliadačoch
+- Skúsenosti s responzívnym dizajnom (Materiál), základná grafická manipulácia, fonty, ikony
+- Znalosť niektorých moderných webových frameworkov na strane klienta (napr. Angular, Angular JS, React, Vue, …) a knižníc (napr. RxJS, NgRx, LeafletJS) a ochota učiť sa nové
+- Pracovné skúsenosti s git (alebo iným systémom riadenia zdrojov ako SVN, CVS, TFS)
+- Znalosť nástrojov súvisiacich s full-stack webovým vývojom – správcovia balíkov, zavádzače modulov, transpilery, polyfilly, CSS / JS preprocesory, minifikátory (napríklad Yarn, NPM, Angular CLI, NX, Webpack, SASS / SCSS, atď...)
+- Schopnosť čítať/písať v angličtine
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Martin Lukac
+Tel.:
++421902235397
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5188408
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Javascript programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

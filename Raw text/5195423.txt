@@ -1,0 +1,103 @@
+SAS L3 Support Services
+Arcondis Solutions s.r.o.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 500 EUR/month
+The salary indicated is a tentative estimation and the final salary will be agreed after an interview, once we find out more about your experience and skills
+Information about the position
+Job description, responsibilities and duties
+We are seeking a highly skilled and experienced SAS L3 Support Services Specialist to provide advanced technical support, expert guidance, and mentoring in the administration and optimization of SAS environments. This role is critical in ensuring the stability, performance, and security of SAS systems, while also supporting version control through Subversion (SVN) and aligning with client-specific security models.
+The ideal candidate will possess deep expertise in SAS server operations, metadata management, system troubleshooting, and performance tuning. You will work closely with client teams to deliver proactive support, resolve complex issues, and ensure seamless integration with third-party systems.
+Key Responsibilities
+Provide expert-level knowledge transfer, mentoring, and advisory services to clients on SAS system administration
+Monitor, start, stop, and manage SAS servers and spawners
+Administer and maintain SAS metadata repositories, including regular backups and access control
+Use SAS Management Console (SMC) to manage metadata, user permissions, and library configurations
+Troubleshoot SAS server issues including connectivity, authentication, and performance bottlenecks
+Monitor system resources (CPU, RAM, disk, ports) and optimize server performance
+Install and manage SAS software updates, patches, and hotfixes
+Support and maintain Subversion (SVN) repositories, including user access, folder structures, and hook routines
+Resolve SVN client connectivity issues and assist with operations such as checkout, commit, import/export
+Maintain audit and message logs, and perform corrections as needed
+Ensure compliance with customer security models and access policies
+Support integration of SAS with third-party systems such as databases and web application servers
+Employee perks, benefits
+​• Company bonus (based on company financial results)
+​​• Referral bonus depending on level of person referred
+​​• Business mobile (also for private calls) and laptop
+​​• Heath-/Dentalcare costs coverage (up to 250EUR/year)
+​​• Allowance for foreign languages classes/sport and leisure activities (up to 200EUR/year)
+​​• 3 sick days per calendar year
+​​• 2 extra days off for your wedding
+​​• Social events (team-buildings and team-dinners)
+​​• Budget for trainings & certifications
+​​• Monthly events in Kosice (Office)
+​​• Free snacks & drinks in the office
+​​• Home Office upon agreement (or possibility to work from our office in Kosice)
+​​• Flexible working hours
+​• Become part of an established company with a start-up mindset (Self-organizing, flat hierarchy)
+​• Ice Hockey Tickets Discount (HC Kosice home games)
+​• Supplementary pension scheme (the third pillar) contribution​
+Information about the selection process
+Please submit your application in English.
+Thank you for applying to Arcondis!
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT
+Language skills
+English - Advanced (C1)
+Experience in the position/sector
+IT
+Personality requirements and skills
+Strong knowledge of SAS installation structures and configuration
+Proficiency in using SAS Management Console (SMC)
+Experience with Subversion (SVN) repository management and support
+Familiarity with system monitoring tools and log analysis
+Ability to perform regular backups and manage SAS software updates
+Bachelor’s degree in Computer Science, Information Systems, or a related field
+Experience integrating SAS with third-party platforms (e.g., databases, web servers)
+Understanding of SAS repositories and enterprise data governance practices
+Analytical and methodical approach to troubleshooting and performance tuning
+Good communication and mentoring skills for client-facing interactions
+Attention to detail and commitment to system integrity and security
+Ability to work independently and collaboratively in a fast-paced environment
+Solid understanding of enterprise IT infrastructure and security principles
+Advertiser
+Brief description of the company
+Arcondis is a global professional services company with an exclusive focus on the healthcare and life science industries, with their particularly demanding requirements on quality and regulatory affairs.
+Number of employees
+150-199 employees
+Contact
+Contact person: Arcondis Solutions
+Tel.:
++421905869620
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195423
+Dátum zverejnenia:
+20.11.2025
+2025-11-20
+lokalita:
+Košice
+Pozícia:
+Customer Support Specialist
+,
+IT/Technical Support Specialist
+Spoločnosť:
+Arcondis Solutions s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

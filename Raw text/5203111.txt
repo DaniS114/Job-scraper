@@ -1,0 +1,83 @@
+Backend / DevOps developer
+DHA a.s.
+Miesto práce
+Poprad, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok
+Termín nástupu
+podľa dohody
+Mzdové podmienky (brutto)
+Od 1 800 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme posilu do nášho tímu na pozíciu Backend / DevOps developer.
+Úspešný kandidát bude súčasťou projektového tímu GateMD a podielať sa na vývoji moderného aplikačného riešenia s priamym dopadom na bezpečnosť a efektivitu poskytovania zdravotnej starostlivosti na Slovensku.
+Zámerom projektu je digitalizácia klinických dát, integrácia jednotlivých "medical devices" a IT systémov, či zvýšenie efektivity a bezpečnosti pracovných postupov v rámci nemocnice.
+Tvoriť malé backend služby      (Python/Node),
+pracovať s Docker, Compose,      Traefik, PostgreSQL,
+upravovať frontend,
+jednoduchý DevOps & CI/CD,
+integrovať externé API,
+nasadzovať systémy u zákazníka      (on-premise + cloud).
+Zamestnanecké výhody, benefity
+Práca na inovatívnom projekte s priamym dopadom na bezpečnosť a efektivitu klinických procesov v prostredí Slovenského zdravotníctva,
+dynamické a inovatívne prostredie,
+flexibilný pracovný čas,
+hybridný typ práce – kombinácia práce z domu a z kancelárie,
+odmeny vo väzbe na výkonnosť,
+iné benefity možné dohodou.
+Informácie o výberovom konaní
+Formou osobného pohovoru. Ak chce byť kandidát zvažovaný na inzerovanú pozíciu, je potrebné zaslať svoje CV na nižšie uvedenú kontaktnú adresu.
+Predpokladaný termín ukončenia výberového konania
+31.1.2026
+(ostáva ešte 45 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+v oblasti informatiky a informačných technológii (alebo príbuznom obore)
+Jazykové znalosti
+Slovenský jazyk - Pokročilý (C1)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Vodičský preukaz
+B
+Osobnostné predpoklady a zručnosti
+vysokoškolské vzdelanie v oblasti informatiky a informačných technológii (alebo príbuznom obore)
+2 - 5 rokov relevantných pracovných skúseností (programátor, práca s požadovanými platformami, tvorba Backend služieb, atď.)
+znalosť nasledujúcich platforiem, aplikácii a metodík:
+Python / Node,
+Docker & Linux,
+správa API + jednoduchý UI font
+skúsenosti so zdravotným sektorom sú výhodou avšak nie nevyhnutné,
+schopnosť kandidáta pracovať rýchlo, efektívne a samostatne,
+človek schopný pracovať v mladom a dynamickom tíme,
+dobré komunikačné schopnosti – schopnosť spolupracovať internými a externými pracovníkmi.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+DHA a.s. je mladá a dynamicky sa rozvíjajúca poradenská spoločnosť.Venujeme sa predovšetkým oblasti využívania a implementácie informačných technológii v zdravotníctve, čo je oblasť v ktorej náš „core team“ pôsobí a zbiera skúsenosti, či už na Slovensku a v Českej republike ale aj v zahraničí, už od roku 2003. Našim cieľom je modernizácia a zvyšovanie kvality zdravotnej starostlivosti na štandard 21. storočia. Navrhujeme reálne riešenia pre poskytovateľov zdravotnej starostlivosti tak, aby bola dosiahnutá maximálna možná miera efektivity využívania ich zdrojov a zároveň zvyšovaná úroveň komfortu a bezpečnosti pre pacientov. Našim klientom pomáhame zvládnuť výzvy ktoré prináša digitálna transformácie a moderné technológie do zdravotníctva. DHA a.s. je partnerom pri významných investičných projektoch v Slovenskom zdravotníctve a v rámci projektov pôsobíme aj v Českej republike.
+Kontakt
+Kontaktná osoba: Stanislav Bunčák
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203111
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Poprad
+Pozícia:
+Backend programátor
+,
+DevOps Engineer
+Spoločnosť:
+DHA a.s.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

@@ -1,0 +1,87 @@
+We harness the power of tech to increase sustainability.
+How do you want to use technology?
+NodeJS Developer
+Place of work
+Remote work
+Contract type
+full-time
+POSITION
+DESCRIPTION
+We are seeking an experienced Front-End Engineer specializing in Node.js to join our Team. The ideal candidate will design, develop, and maintain scalable and engaging user interfaces, leveraging cloud technologies and best engineering practices. This is an opportunity to work in a collaborative environment, contributing to robust and secure product solutions.
+WHAT WILL
+YOU DO
+•	Design, develop, and maintain scalable front-end applications using React (or similar frameworks) and TypeScript
+•	Build secure and performant user interfaces, integrating with RESTful APIs and microservices
+•	Collaborate with backend engineers to ensure seamless integration between front-end and backend systems
+•	Implement and maintain CI/CD pipelines for front-end deployments utilizing AWS services or similar cloud platforms
+•	Apply Test-Driven Development (TDD) to ensure high test coverage and reliable deliverables
+•	Participate in pair programming sessions to foster collaboration, improve code quality, and promote knowledge sharing
+•	Write unit, integration, and end-to-end tests with frameworks such as Jest, Mocha, or Cypress
+•	Contribute to system architecture discussions and advocate for engineering best practices
+•	Troubleshoot and resolve issues in development, testing, and production environments
+WHAT WE
+EXPECT
+•	2-5 years of experience in front-end development with Node.js and frameworks like JavaScript/TypeScript, React, Angular, or Vue
+•	Strong experience in designing and consuming RESTful APIs
+•	Hands-on experience with AWS cloud services for front-end hosting and deployment (e.g., S3, CloudFront)
+•	Familiarity with serverless frameworks and infrastructure as code (IaC) tools for front-end environments
+•	Proficiency with CI/CD pipelines and DevOps practices for front-end applications
+•	Demonstrated Test-Driven Development (TDD) mindset and experience
+•	Experience with pair programming in Agile delivery teams
+•	Expertise in unit and integration testing with Jest, Mocha, Cypress, or similar tools
+•	Strong understanding of security, scalability, and performance in front-end systems
+•	Excellent problem-solving skills and attention to detail
+•	English language proficiency (B2 or higher) – written and spoken
+•	Bachelor’s or Master’s degree in Computer Science, Information Technology, or related field
+WHAT WE
+OFFER
+Salary
+2 000 - 3 000 EUR/month
+Accenture offers a competitive compensation package. As required by the Slovak law we state that the legal monthly minimum gross base pay starting from 2 000€-3000€ depending on your professional and personal qualifications in the required areas.
+Flexibility:
+• Flexible working arrangements (time & place of work)
+Recognition:
+• Guaranteed paid overtime or overtime vacation
+• German language bonus up to 400€ monthly/gross depending on language proficiency and level of seniority
+• Flexible Benefit System - budget to be spent on services of your choice• Competitive bonus structure
+• Refer-a-Friend – get a bonus in the employee referral program
+• Loyalty rewards
+Future:
+• Wide range of trainings and expert lectures
+• Regular performance review and career growth possibilities
+• Ongoing career guidance and mentoring (Global Mentoring Program, Lean In)
+• Employee share purchase plan
+Family & Health:
+• 3 extra days off
+• Sick leave salary compensation (up to 100%)
+• Home-office equipment
+• Family oriented benefits (Wedding, Parental and Baby days-off and bonuses)
+• Employee assistance services (professional psychological, financial and legal help)
+• Multisport card
+• Contribution to special vision correction appliances
+• Life and disability group insurance
+• Sport vouchers for children’s sport activities and children camps
+Interested?
+Apply for this job
+Similar career opportunities at Accenture
+ServiceNow Developer
+© 2020 Accenture. All Rights Reserved.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5204179
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Remote work
+Pozícia:
+Frontend developer
+Spoločnosť:
+Accenture, s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

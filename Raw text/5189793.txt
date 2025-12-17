@@ -1,0 +1,117 @@
+Group Head of Network Architecture & Operations
+MARKÍZA - SLOVAKIA, spol. s r.o.
+Place of work
+Bratislava region, Czech Republic (The job requires travelling)
+Contract type
+full-time
+Wage (gross)
+From 4 000 EUR/month
+The stated amount of salary represents the minimum guaranteed amount and will be specified based on your experience and expectations.
+Information about the position
+Job description, responsibilities and duties
+️ CME Group is seeking a strategic and technically accomplished Group Head of Network Architecture & Operations to lead the transformation of our global network infrastructure.
+️ This role defines the long-term network strategy, drives modernization roadmaps, and manages budgets to ensure scalable, secure, and high-performance connectivity across CME’s international footprint. The position covers enterprise and cloud networking, as well as infrastructure supporting media platforms such as Video on Demand (VoD).
+️ Broadcast experience is an advantage but not required. Frequent travel across CME’s territories will be essential to foster collaboration and maintain strong local engagement.
+Who we are? https://www.cme.net/
+What You Will Be Responsible For?
+Strategic Leadership & Planning
+• Define and execute the global network architecture strategy aligned with CME’s business, cloud, and media transformation goals.
+• Develop and maintain a multi-year modernization roadmap, setting clear milestones for infrastructure evolution and service delivery.
+• Lead and coordinate a virtual team of network professionals across CME’s territories, promoting collaboration, innovation, and accountability.
+Cloud & VoD Networking
+• Design and optimize hybrid connectivity across public and private clouds (e.g., Azure, AWS, O2 Cloud), including secure interconnects, VPNs, and SD-WAN overlays.
+• Support VoD platform infrastructure, including CDN integration, high-availability clusters, and web delivery optimization.
+• Partner with cloud architects and platform teams to ensure seamless integration of network services with SaaS, PaaS, and IaaS environments.
+Infrastructure & Operations
+• Manage high-capacity, low-latency transport networks (e.g., OTN/DWDM) for enterprise and media operations.
+• Oversee IP management, VLAN segmentation, and multicast configurations across data centers and cloud environments.
+• Ensure disaster recovery readiness and cross-border failover for critical services including VoD and broadcast systems.
+Support Operations
+• Oversee and enhance delivery of L1–L3 network support services, ensuring stability and performance of business-critical systems.
+• Maintain clear escalation paths, ownership, and SLA adherence in line with ITIL practices.
+• Collaborate with IT, Broadcast, Cybersecurity, and Online units to ensure consistent support coverage and knowledge transfer.
+Budgeting & Resource Management
+• Own and manage the global network infrastructure budget, including cost forecasting, optimization, and investment planning.
+• Evaluate and prioritize network initiatives based on ROI, strategic alignment, and risk assessment.
+• Manage vendor relationships, contracts, and SLAs to ensure quality and cost efficiency.
+Innovation & Future-Proofing
+• Evaluate and integrate emerging technologies such as SDN, network automation, and cloud-native networking.
+• Drive innovation while supporting CME’s ESG goals through energy-efficient network design and sustainable practices.
+Security & Compliance
+• Implement and maintain strong network security controls, including firewalls, VPNs, NAC, and Zero Trust Architecture.
+• Collaborate with CISOs to align network security design with CME’s cybersecurity strategy.
+• Ensure compliance with internal governance and relevant industry standards.
+• Promote best practices for Change, Incident, and Problem Management in line with ITIL.
+Media & Broadcast Support (as applicable)
+• Support modernization of media workflows, including IP-based broadcast infrastructure (e.g., SMPTE 2110) and cloud playout.
+• Provide architectural guidance for video transport, ensuring reliable, low-latency content delivery.
+• Collaborate with broadcast engineering teams to enable UHD and remote production capabilities.
+• Optimize multicast routing, synchronization (e.g., PTP), and bandwidth provisioning for high-quality video distribution.
+Employee perks, benefits
+Why Join CME?
+• Lead a high-impact network transformation shaping the future of one of Central and Eastern Europe’s top media groups.
+• Work with cutting-edge technologies across enterprise, cloud, and media environments.
+• Collaborate with expert teams across multiple countries in a dynamic, innovative organization.
+• 29 days off - 25 vacation days + 4 personal days extra, because life isn't just about work.
+• 4 volunteering days - we actively help the community we live in.
+• Flexible working hours and work from anywhere - We believe everyone has their own rhythm.
+• Modern offices in the iconic environment of Barrandov Studios.
+• Laptop, phone and other equipment you need.
+• Multisport card to keep you fit.
+• Healthcare in a premium medical facility.
+• Inspiring environment full of creative people.
+• International opportunities and collaboration across CME Group.
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+What You Will Need to Succeed?
+• Extensive experience in network architecture and operations, ideally within multinational organizations.
+• Proven leadership in managing international teams and complex transformation projects.
+• Strong background in strategic planning, roadmap development, and budget ownership.
+• Expertise in IP networking, SDN, cloud networking, and network security.
+• Experience with cloud environments, VoD infrastructure, or IP-based media workflows (advantage).
+• Relevant certifications (e.g., CCIE, JNCIE, AWS/Azure Networking Specialty) are an asset.
+• Commitment to continuous learning and staying current on emerging technologies and best practices.
+• Excellent communication and collaboration skills in English; other CEE languages are a plus.
+Advertiser
+Brief description of the company
+Central European Media Enterprises (CME) is the leading television broadcaster in Central and Eastern Europe reaching approximately 91 million people in Central and Eastern European countries. The company's success across these countries is attributable to its business strategy and continued expansion plans.
+TV MARKÍZA belongs to CME Media Group and represents CME in Slovakia.
+Number of employees
+250-499 employees
+Contact
+Contact person: Mgr.  Lýdia Judičáková
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5189793
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava region, Czech Republic (The job requires travelling)
+Pozícia:
+IT Architect
+,
+IT Security Specialist
+,
+IT System Administrator
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+MARKÍZA - SLOVAKIA, spol. s r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+4 000 EUR/month

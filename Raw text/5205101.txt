@@ -1,0 +1,99 @@
+Medior / Senior NodeJS Developer
+Hilbi Health s.r.o.
+Miesto práce
+Karadžičova 16, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 500 EUR/mesiac
+mzdové podmienky od 3500 € v závislosti od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hilbi Health je medzinárodná health-tech spoločnosť, ktorá tvorí digitálne riešenia pre kliniky, nemocnice a pacientov na viacerých kontinentoch. Budujeme moderné workflow systémy, AI asistenciu, telemedicínu a infraštruktúru.
+Rozširujeme core engineering tím a hľadáme skúseného Backend alebo Fullstack Developera so zameraním na Node.js, ktorý chce pracovať na systémoch so skutočným dopadom či už v Meditechu alebo Fintechu.
+Čo bude tvojou náplňou práce
+​Vývoj a návrh backendových služieb v Node.js (TypeScript)
+Práca v stacku: Express, PostgreSQL, Redis, Docker, GitLab CI/CD
+Tvorba API pre frontend aplikácie a mobilné riešenia v React Native
+Implementácia bezpečnostných štandardov, integračných a unit testov
+Spolupráca na architektúre škálovateľných systémov používaných globálne
+Využívanie cloudových služieb (GCP / AWS) a asynchrónnych procesov
+Participácia na technologickom smerovaní platformy – máš priestor prinášať nové riešenia
+Informácie o výberovom procese
+1. Online rozhovor
+Úvodný call je o tom, aby sme sa navzájom spoznali.
+Zaujíma nás tvoja doterajšia prax, motivácia, očakávania a priestor dostaneš aj ty a môžeš sa pýtať na tím, projekty alebo čokoľvek, čo je pre teba dôležité.
+2. Osobný rozhovor
+V tejto fáze ti dáme niekoľko praktických úloh/ otázok, aby sme lepšie pochopili tvoje technické zručnosti a spôsob premýšľania.
+Zároveň spoznáš kolegov, s ktorými budeš potenciálne pracovať, a získaš reálnejší obraz o našej technickej kultúre.
+Kontaktujeme len kandidátov, ktorí spĺňajú požadované kritériá pre danú pozíciu.
+Zamestnanecké výhody, benefity
+Príjemné a priateľské prostredie
+Možnosť home-office v prípade potreby
+Multisport karta
+Práce pre globálnu healthcare spoločnosť
+Výhody pri poskytovaní zdravotnej starostlivosti a kontakty na lekárov
+Flexibilný pracovný čas
+Prístup k špičkovým lekárom a zdravotným benefitom
+Priestor rásť – technicky aj kariérne
+Káva, čaj, ovocie, občasný team catering :)
+Predpokladaný termín ukončenia výberového konania
+31.1.2026
+(ostáva ešte 45 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+NODE.JS - Pokročilý
+JavaScript/TypeScript - Pokročilý
+SQL - Pokročilý
+Express JS - Pokročilý
+Osobnostné predpoklady a zručnosti
+Máš skúsenosť s prácou na stredne veľkých až veľkých projektoch
+Rozumieš architektúre backendu a vieš písať čistý, udržiavateľný kód
+Skúsenosť v oblasti Meditechu a Fintechu výhodou
+Ovládaš minimálne: Node.js, TypeScript, Express, SQL
+Vieš pracovať so systémami distribuovanými pre tisíce používateľov (výhoda)
+Angličtina na úrovni B2 (výhoda)
+Nebojíš sa učiť nové technológie a prispievať nápadmi
+Osobnostne si: samostatný, ale tímový a zodpovedný
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pridaj sa k Hilbi Health a pomôž nám budovať platformu, ktorá má skutočný dopad na zdravotnú starostlivosť. Tvoríme produkty, ktoré denne pomáhajú tisícom pacientov a lekárov.
+Hľadáme – Frontend Developera (React)
+Hilbi Health je globálna zdravotnícka technologická platforma pôsobiaca v Európe, Indii, USA a SAE (Dubaj).
+Budujeme moderné digitálne nástroje, ktoré prepájajú lekárov a pacientov pomocou AI, dát a špičkového UX/UI.
+Aktuálne hľadáme Frontend Developera (React), ktorý má cit pre čistú architektúru, precízne užívateľské rozhranie a chuť budovať reálne produkty škálované naprieč svetom.
+Pripojíš sa k nášmu core engineering tímu a budeš pracovať na moderných rozhraniach využívaných klinikami a pacientami v Európe, v Indii, v US, na Blízkom východe a ďalších regiónoch.
+Hilbi Health s.r.o. sme rastúca spoločnosť v oblasti zdravotníctva, ktorá expanduje na medzinárodné trhy, pričom sa zameriavame na inovatívne riešenia a optimalizáciu procesov v zdravotnej starostlivosti. Naša cesta je prinášať zlepšenia, ktoré zefektívňujú zdravotníctvo a zvyšujú kvalitu starostlivosti o pacientov. Aktuálne sa rozrastáme v Indii, čo predstavuje obrovský trh a jedinečnú príležitosť na ďalší rozvoj.
+Kontakt
+Kontaktná osoba: Michaela Eisnerová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5205101
+Dátum zverejnenia:
+12.12.2025
+2025-12-12
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+Spoločnosť:
+Hilbi Health s.r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

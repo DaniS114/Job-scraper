@@ -1,0 +1,100 @@
+Group Head of Data and AI Architecture
+MARKÍZA - SLOVAKIA, spol. s r.o.
+Place of work
+Praha, Prague, Czech Republic
+Contract type
+full-time
+Wage (gross)
+From 4 000 EUR/month
+The stated amount of salary represents the minimum guaranteed amount and will be specified based on your experience and expectations.
+Information about the position
+Job description, responsibilities and duties
+️ CME Group is seeking an experienced and visionary Head of Data and AI Architecture to lead the design, development, and governance of our group-wide data architecture.
+️ This role plays a critical part in modernizing CME’s data platforms, ensuring scalability, security, and regulatory compliance while enabling advanced analytics, business intelligence, and AI-driven innovation.
+️ Ready to build the next generation of CME’s data ecosystem? Apply now and join our team in Prague.
+Who we are? https://www.cme.net/
+What You Will Be Responsible For?
+Strategic Data Architecture
+• Define and implement the group-wide data architecture vision aligned with business and regulatory requirements.
+• Lead the migration from legacy and on-premise systems to modern, cloud-based data platforms (Azure, AWS, or GCP).
+• Harmonize data models, reporting structures, and semantic layers across all CME markets.
+Data Platform Design & Management
+• Architect and oversee scalable data platforms, including data lakes, warehouses, and semantic layers.
+• Ensure efficient and secure ETL/ELT processes and seamless integration of internal and external data sources.
+• Maintain and optimize data pipelines for reliability, performance, and security.
+Data Governance & Compliance
+• Establish and maintain data governance frameworks covering data quality, classification, retention, and access control.
+• Ensure full compliance with GDPR, the EU AI Act, and other relevant regulations.
+• Collaborate closely with compliance, IT, and information security teams at both group and local levels.
+Collaboration & Enablement
+• Partner with Data Engineers, Analysts, Scientists, and business stakeholders to ensure high-quality, accessible data for analytics and decision-making.
+• Support business intelligence, non-financial reporting, and digital transformation initiatives.
+• Act as a key partner in vendor and technology discussions related to data tooling and infrastructure.
+Continuous Improvement
+• Monitor global trends in data architecture, analytics, and AI integration.
+• Promote the adoption of modern technologies and best practices across all markets.
+• Lead or contribute to cross-country projects aimed at enhancing data capabilities and reporting standards.
+Employee perks, benefits
+Why Join CME?
+• Shape the future of data and AI architecture for one of Central and Eastern Europe’s leading media and entertainment groups.
+• Lead strategic modernization projects impacting multiple markets and business domains.
+• Collaborate with talented teams across technology, analytics, and business functions in a dynamic international environment.
+• 29 days off - 25 vacation days + 4 personal days extra, because life isn't just about work.
+• 4 volunteering days - we actively help the community we live in.
+• Flexible working hours and work from anywhere - We believe everyone has their own rhythm.
+• Modern offices in the iconic environment of Barrandov Studios.
+• Laptop, phone and other equipment you need.
+• Multisport card to keep you fit.
+• Healthcare in a premium medical facility.
+• Inspiring environment full of creative people.
+• International opportunities and collaboration across CME Group.
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+What You Will Need to Succeed?
+• At least 10 years of experience in enterprise data architecture, ideally within multi-country or matrixed organizations.
+• Proven leadership in data platform modernization, cloud migration, and cross-functional collaboration.
+• Deep expertise in data modeling, ETL/ELT design, BI tools (e.g., Power BI, Tableau), and data governance.
+• Familiarity with AI integration into data workflows (e.g., semantic search, predictive analytics).
+• Strong stakeholder management and communication skills, with the ability to align technical vision and business goals.
+• Excellent communication and collaboration skills in English; other CEE languages are a plus.
+Advertiser
+Brief description of the company
+Central European Media Enterprises (CME) is the leading television broadcaster in Central and Eastern Europe reaching approximately 91 million people in Central and Eastern European countries. The company's success across these countries is attributable to its business strategy and continued expansion plans.
+TV MARKÍZA belongs to CME Media Group and represents CME in Slovakia.
+Number of employees
+250-499 employees
+Contact
+Contact person: Mgr.  Lýdia Judičáková
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5189939
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Prague
+Pozícia:
+IT Architect
+,
+IT System Administrator
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+MARKÍZA - SLOVAKIA, spol. s r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+4 000 EUR/month

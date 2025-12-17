@@ -1,0 +1,89 @@
+About us
+Our benefits
+Open positions
+Java Application Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 700 - 4 500 EUR/month
+For Slovakia the base salary range for this position is between [EUR 2,700] and [EUR 4,500] per month (for a full-time role). The specific salary offered considers:​
+-the requirements, scope, complexity and responsibilities of the role, ​
+-the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.​
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.​
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.​
+Information about the position
+Job description, responsibilities and duties
+About the Role
+NEXUS is Swiss Re’s strategic technology platform for Enterprise Data Exchange that we use to offer a centralized, integrated, and standardized way to exchange data between applications. Over the last 12 years we have developed NEXUS with customized features that are used by all Swiss Re’s clients. We offer you the chance to join the dynamic and agile team responsible for the development and support of the group wide application NEXUS. You bring new ideas and can broaden our experience-base in emerging technologies and the latest software engineering trends.
+In this role as Java Engineer, you will:
+•	Collaborate closely with our business to understand and address engineering requirements
+•	Participate actively in solution design and implementation processes
+•	Deliver high-quality work by applying standard methodologies
+•	Continuously improve and maintain existing applications
+•	Ensure compliance with Swiss Re security requirements
+•	Offer technical expertise and guidance to business analysts and other team members
+About the Team
+As part of Swiss Re's Group Data Services organization, we work in a scaled agile model with a shared leadership team and broadly aligned autonomy for our squads. We are located across the globe but share the same values of passion, openness, respect, humility, and curiosity in our team. We strive to improve the quality of our work for our customers every day. As a matter of trust, we give you a high degree of flexibility which matches your independent working style. Is this for you? Then we want to get to know you!
+The main focus for the team is the development and support of the Group Information Broker. The purpose of the application is to exchange data between publisher and subscriber(s) within well-defined SLA's. The meta-information details to process the publisher/subscriber data is defined in contracts. The application takes care of the consuming the data from the publisher endpoint, execute a structural data validation and data transformation before it is stored on the subscriber endpoint. This is a critical component of the global IT infrastructure as well as being a cornerstone of the Data Governance strategy. Examples of upcoming priorities include enhancements to support clients in the private and public cloud, adding connectors for new data sources types, implementation of new features
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+We are looking for passionate and smart developers who have a background in digital technologies and who are seeking for exciting possibilities to apply their know-how in the financial world. If you match most of the following core skills, we’d love to hear from you:
+Requirements
+•	A full stack development background and demonstrable experience in all application tiers - UI, client / server applications, backend processing and databases
+•	Strong knowledge of Java and its core concepts
+•	Experience with Java EE or Spring framework for building enterprise applications
+•	RESTful APIs: experience designing, implementing, and consuming APIs; solid understanding of HTTP, JSON, status codes
+•	Familiarity with relational databases such as PostgreSQL, Oracle, and experience with SQL
+•	Proficiency with Git and common workflows (branching, pull requests)
+•	Good communication skills with a customer-oriented and flexible mindset
+•	Eager to learn new technologies
+Nice to have
+•	Experience with TypeScript/JavaScript; Angular is a plus
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Lucia Vargova
+Apply here
+ID:
+5145771
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Bratislava
+Pozícia:
+Java Programmer
+,
+Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 700 EUR/month

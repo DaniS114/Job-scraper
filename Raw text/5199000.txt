@@ -1,0 +1,100 @@
+Deutsche Telekom Services Europe Slovakia
+O nás
+Voľné pozície
+Firemná kultúra
+Benefity
+Kontakt
+Technical
+AI SERVICES - Senior Data Engineer /KE/
+We are looking for an independent and motivated data engineer who is not afraid of taking ownership of complex tasks, creates working solutions quickly, can creatively come up with innovative ideas, but also knows how and when to use already existing solutions. As a data engineer, your mission is to combine strong technical background with excellent communication skills to translate business requirements into robust data architecture solutions.
+Contract type
+full-time
+Place of work
+Košice, Slovak Republic
+Start date
+ASAP
+Wage (gross)
+From 3 000 EUR/month
+About
+the position
+Which challenges are expecting you:
+Become an essential part of AI Shared Services team focused on building comprehensive data architecture frameworks and strategies aligned with business objectives.
+Proactively identify opportunities to improve our data infrastructure and processes for our ML solutions by proposing and implementing innovative solutions
+Develop and maintain our data processing and ETL pipelines.
+Create and maintain data models, schemas, and metadata repositories to ensure data integrity and accessibility.
+Integrate data from various internal and external sources.
+Collaborate with stakeholders to gather requirements and translate them into effective data solutions.
+Implement data governance policies and standards to ensure compliance and data quality.
+Stay up to date with recent data engineering technologies and developments.
+Provide technical guidance and mentorship to data engineering team members.
+Write clean, production ready, well-documented and tested code.
+We work in a HYBRID STYLE of working with the possibility of working from home , but twice a week we meet in the office in Košice or Bratislava for meetings.
+The published salary is the minimum possible offer.
+The starting salary may be higher depending on the extent of fulfillment of the employee's requirements (education, language skills, required practice, personality assumptions and skills).
+What
+we expect
+Candidates with education suit the position
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+Your skills:
+Bachelor or Master of Science in Computer Science, Information Systems or similar technical fields
+5+ years of experience as a data engineer, data architect, or similar roles
+Fluent in English (German / Czech / Slovak is a plus)
+Advanced database systems knowledge (SQL, NoSQL, database optimization techniques)
+Strong knowledge of data modeling techniques and methodologies (dimensional, relational, etc.)
+Enhanced practical experience with ETL/ELT processes and development of data pipelines
+Extensive knowledge of cloud data solutions (preferably GCP, but AWS or Azure are also fine)
+Experience with modern data warehouses (BigQuery, Snowflake, Redshift)
+Advanced Python knowledge (OOP, design patterns, testing, good coding practices and popular data processing libraries)
+Experience with using and/or building APIs and integrating data from various sources.
+Knowledge of orchestration tools such as Dagster or Airflow
+Strong analytical skills, ability to understand complex data structures and produce efficient data solutions. Excellent communication skills and ability to explain complex technical concepts to non-technical stakeholders
+Nice to have:
+Experience with agile work (Scrum, Kanban)
+Working knowledge of Gitlab CI/CD
+Working knowledge of containerization technologies (Docker, Kubernetes) and related deployment tools (helm, jenkins)
+Experience with data visualization tools (e.g. Power BI, MicroStrategy)
+Experience developing and operating machine learning applications
+Benefits
+that make you happy
+Annual bonus
+Fully paid meal vouchers
+Mobile phone also for private use
+Discounts for selected Telekom products
+Supplementary pension saving contribution
+Cafeteria system of benefits/Multisport card
+Sick days
+Sports club & Health days
+Teambuildings, summer & Christmas party
+Opportunities for career growth
+Referral program
+Flexible working time
+About
+the selection process
+We are dedicated to constantly promoting equal employment opportunities and are ready to make reasonable adjustments for applicants with disabilities. If you are interested in our job opportunity and meet our job requirements for this position, we encourage you to confidentially notify us if you need specific accommodations to ensure your full participation in our recruitment process at recruitment@telekom.com.
+Snažíme sa neustále podporovať rovnaké príležitosti v zamestnaní a sme pripravení urobiť primerané úpravy pre uchádzačov so zdravotným postihnutím. Ak máte záujem o túto pracovnú príležitosť a spĺňate požiadavky inzerovaného pracovného miesta, odporúčame vám, aby ste nám dôverne oznámili, ak potrebujete osobitné úpravy, ktoré vám zabezpečia plnohodnotnú účasť na našom náborovom procese na recruitment@telekom.com.
+Send CV
+Deutsche Telekom Services Europe Slovakia
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199000
+Dátum zverejnenia:
+28.11.2025
+2025-11-28
+lokalita:
+Košice
+Pozícia:
+Database Analyst
+,
+Programmer
+Spoločnosť:
+Deutsche Telekom Services Europe Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

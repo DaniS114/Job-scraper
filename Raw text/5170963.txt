@@ -1,0 +1,96 @@
+Backend Developer / Technical Consultant
+Cogniware, s.r.o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Wage (gross)
+From 2 500 EUR/month
+Information about the position
+Job description, responsibilities and duties
+​
+Do you want to build backend systems and provide expert technical guidance for critical governmental security agencies across Europe and the Middle East?
+At Cogniware, we design sophisticated, high-performance systems that empower law enforcement, anti-terrorism units, and intelligence agencies. If you're passionate about crafting efficient code, leveraging cutting-edge technologies, and potentially acting as a technical consultant to our clients — this opportunity is for you.
+Information about the position
+As a Backend Developer / Technical Consultant, you'll play a pivotal role in designing, developing, and deploying backend solutions that power critical investigative and intelligence workflows. You’ll work closely with development teams and architects to ensure solutions are performant, secure, and meet operational needs. For those with a strong consulting mindset, you'll also have the opportunity to provide expert technical advice and guidance to our clients.
+What You'll Do
+Design, develop, and maintain high-performance backend services using Java.
+Implement and integrate with Apache technologies such as Kafka, NiFi, and Flink for data processing and streaming.
+Work with data storage solutions, including ElasticSearch.
+Collaborate with front-end teams, potentially leveraging Angular, to ensure seamless integration.
+Participate in technical discussions, code reviews, and architectural decisions.
+Ensure scalability, security, and reliability of backend systems.
+Provide technical consultancy and guidance to clients on system architecture and implementation (if applicable).
+Troubleshoot and resolve complex technical issues.
+Communicate effectively in English, both written and spoken.
+These skills are a plus:
+We’re looking for someone with most (not all) of the following:
+Proven experience as a Backend Developer with strong Java proficiency.
+Experience with Apache technologies like Kafka, NiFi, and Flink.
+Familiarity with ElasticSearch for data indexing and searching.
+Knowledge of front-end technologies, particularly Angular, is a plus.
+Ability to perform technical consultancy and provide expert advice.
+Strong understanding of software development principles, design patterns, and best practices.
+Experience with microservices architecture and API-driven development.
+Familiarity with containerization (e.g., Docker, Kubernetes).
+Experience with agile development methodologies (Scrum, Kanban).
+Ability to work effectively in a remote and flexible environment.
+​What You’ll Love About Working with Us
+Work on meaningful projects that support national security and investigations.
+Collaborate with respected clients in law enforcement and intelligence fields.
+Travel opportunities up to 25% of your time, or work fully remotely.
+Flexible working hours and a results-oriented culture.
+Supportive, feedback-driven team focused on excellence and innovation.
+Ready to build impactful backend solutions and consult on critical projects?
+Join our team at Cogniware and be part of something impactful.
+Requirements for the employee
+Candidates with education suit the position
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Advanced (C1)
+Other knowledge
+Java - Advanced
+The position is suitable for a fresh graduate
+Yes
+Advertiser
+Brief description of the company
+Cogniware is an innovative company with incredible projects for security organizations around the world! Our headquarters is in Prague, Czech Republic; our market is the whole world - more than 100 projects, in 24 countries, on 4 continents.
+At Cogniware, we're passionate about leveraging cutting-edge technologies to revolutionize digital investigations. Our advanced systems and solutions utilize the latest Artificial Intelligence innovations, including Facial Recognition, Voice Biometry, Speech-to-Text, and NLP. We are able to analyze massive amounts of data to uncover hidden clues and evidence, making us a trusted partner to law enforcement and counter-terrorism agencies around the world.
+Our flagship product, Argos, is the cornerstone of our operation. Developed in-house, Argos is an effective digital investigation tool that is able to impact the fight against crime and terrorism significantly. We continue to expand Argos' capabilities and reach, enabling agencies to stay ahead of the curve.
+At our company, we're committed to delivering innovation and excellence in everything we do. We take pride in providing exceptional customer service and are always ready to take on new challenges. With our experience and expertise, we're dedicated to helping you stay one step ahead in the quest for a safer world.
+Number of employees
+25-49 employees
+Contact
+Contact person: Branislav Mikoláško
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5170963
+Dátum zverejnenia:
+6.10.2025
+2025-10-06
+lokalita:
+Remote work
+Pozícia:
+Backend developer
+,
+IT Architect
+,
+IT Consultant
+,
+Java Programmer
+,
+Software Engineer
+Spoločnosť:
+Cogniware, s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

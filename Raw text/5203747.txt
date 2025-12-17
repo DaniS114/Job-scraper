@@ -1,0 +1,73 @@
+Senior Java Developer (SpringBoot, Microservices, AWS)
+GoodWill Recruitment, s.r.o.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Wage (gross)
+3 000 - 4 000 EUR/month
+Final offer depends on experience and seniority of the candidate.
+Information about the position
+Job description, responsibilities and duties
+Building platform services, supporting equipment monitoring, fleet management, and remote connectivity.
+Developing scalable backend solutions in Java (Spring Boot) using a microservices architecture deployed on public cloud.
+Designing and implementing RESTful APIs and integrating real-time data streaming.
+Ensuring high availability, performance, and security through automated CI/CD pipelines.
+Delivering a reliable, secure, and scalable platform that enhances digital operations and overall customer experience.
+Employee perks, benefits
+Rich benefit system.
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+A modern software development company.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+Information Technology
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Strong backend development expertise in Java 11+, including designing and building applications with Spring/Spring Boot and RESTful APIs.
+Experience developing, deploying, and maintaining scalable microservices using modern architectural patterns and working with both SQL and NoSQL databases (e.g., Aurora, DynamoDB, MongoDB, Redis).
+Proficiency with cloud platforms such as AWS or Azure, including services like API Gateway, Lambda, Fargate, S3, CloudWatch, and use of message streaming systems (Kafka, Kinesis, SQS/SNS, RabbitMQ).
+Skilled in CI/CD pipelines and deployment using tools like Azure DevOps or Jenkins.
+Advertiser
+Brief description of the company
+Sme GoodWill Recruitment - Vaši kariérni inovátori. Ak chcete zmenu a máte chuť napredovať, pozrieme sa s vami na to, aké možnosti máte vo svojom segmente a zistíme, akú výzvu vám vieme ponúknuť. Vyhľadávame špecialistov v oblasti výroby, vývoja, logistiky, elektrotechniky, informačných technológií, financií či ľudských zdrojov. Môžeme sľúbiť osobný prístup, férovosť a čestnosť. Sme Goodwill Recruitment - spájame správnych ľudí so správnymi firmami.
+Vážime si váš prejavený záujem a ďakujeme za zaslanie životopisu. Kontaktovať budeme kandidátov, ktorí spĺňajú požiadavky na danú pozíciu.
+Contact
+Contact person: Ján Hajnik
+Tel.:
++421948614486
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203747
+Dátum zverejnenia:
+9.12.2025
+2025-12-09
+lokalita:
+Košice
+Pozícia:
+Backend developer
+,
+DevOps Engineer
+,
+Java Programmer
+,
+Software Engineer
+Spoločnosť:
+GoodWill Recruitment, s.r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

@@ -1,0 +1,102 @@
+About us
+Our benefits
+Open positions
+Application Owner & E2E Analyst
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 200 - 3 700 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,200 and EUR 3,700 per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Become a part of the team that is closely involved with the most important solutions and processes for Swiss Re Asset Management. We are responsible for owning many of the critical applications in the end-to-end chain, for their proper management, governance and fulfiling the IT security requirements. We are also the gatekeeper for the introduction of new trading products and ensure full e2e testing by coordinating all affected Asset Management teams.
+About the Role
+In this role you will be responsible for:
+•	IT ownership of multiple applications, understand their purpose, the setup and infrastructure
+•	Work closely with various internal teams including IT resilience, Governance and IT security to be aware and fully invested in the latest initiatives
+•	Manage the roadmap to ensure all defined deliverables are delivered within designated timelines
+•	Communicate and negotiate the requirements with the application teams (business owners) to ensure they are understood. The business owners need to be engaged on all topic areas of cybersecurity, disaster recovery, governance, access management etc.
+•	Consult application teams and work closely with them to improve application lifecycle processes. This includes the DGF process which is a formal set of steps to introduce new software into Swiss Re.
+•	Complete configuration reviews and coordinate penetration testing activities
+•	Become an expert on selected front and middle office trading business applications and processes to ensure a good understanding of our E2E processes
+•	Ensure KPIs and service level agreements are monitored and kept within desired thresholds
+•	Work closely with audit teams, if relevant, for applications in your scope
+•	As part of the tasks for new product E2E testing, you will manage the overall coordination and testing for all impacted teams. These new product initiatives are treated as mini projects and you will learn to understand the product, the trading system and all impacted downstream teams, systems and processes.
+•	You will also be engaged in the technical onboarding of new investment managers which includes meetings with new managers, setting up the sftp gateway, building new interfaces and testing new incoming and outgoing files.
+•	Be prepared to show initiative, to challenge our processes and to suggest improvements to our landscape
+About the Team
+We are a small, focused team, part of Group Digital & Technology (GDTO) serving the Asset Management domain within Swiss Re. The team is located in Bratislava, collaborating with business and IT teams in numerous locations worldwide including New York, London and Zurich.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Your passion is IT, you have strong interpersonal and technical skills and are eager to broaden your knowledge and expertise. You understand how IT solutions are built and how they operate. You don't want to be a hands-on developer but you know about back-end, front-end, cloud, angular and you wouldn't look for python and pandas only in the zoo. You are an energetic and diligent person who is interested to understand how the technology team operates within the asset management business.
+Mandatory skills:
+•	Bachelor or master's degree in computer science, business informatics, informatics, or mathematics
+•	2+ years of working experience in financial markets and/or computer science
+•	Ideally you have experience with IT application ownership
+•	Experience with IT governance, cyber security or vendor management
+•	Strong interest in financial market products
+•	Analytical & conceptual skills to understand key business needs and design tailored solutions to solve specific business problems
+•	Knowledge or working experience with Python, Power BI and SQL is a significant advantage
+•	Excellent verbal and written English skills
+•	Enjoy working in an interdisciplinary and multi-cultural environment
+•	High degree of flexibility, independent and proactive working style
+Desirable skills:
+•	Knowledge of ITIL, change management and release management
+•	Understanding of Microsoft Azure or other public cloud concepts
+•	Knowledge of SQL and NoSQL databases (e.g., PostgreSQL, Azure SQL, Cosmos DB)
+•	Experience with or willingness to learn Palantir Foundry
+•	Experience with DevSecOps practices
+•	Basic knowledge of Angular, TypeScript or JavaScript is a plus
+•	Basic understanding of cloud security
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5202033
+Dátum zverejnenia:
+5.12.2025
+2025-12-05
+lokalita:
+Bratislava
+Pozícia:
+IT Analyst
+,
+Python Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 200 EUR/month

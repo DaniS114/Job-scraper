@@ -1,0 +1,77 @@
+One bank.
+Many career paths.
+#makeITmatter
+Full Stack Developer for LUX (all humans)
+Location:
+Bratislava, Bratislavský kraj, Slovakia
+Working-Hours:
+fulltime_permanent
+Division:
+Customer Journeys
+Company:
+Erste Digital
+Apply now
+Make a difference in the financial life of millions of people: At Erste Digital you are co-creating the digital future, in which better financial health is possible. #believeinyourself
+We are part of Erste Group – the largest banking group in Central and Eastern Europe with more than 2,500 branches and over 45,000 employees. Our more than 2,000 IT experts and enthusiasts are the bank's Digital Muscle.
+What to do:
+Main focus on frontend development in Angular and optional React to migrate the current frontend too.
+Partnering with UI/UX designers to translate design concepts into seamless user interfaces.
+Provide test coverage for frontend, writing comprehensive unit and integration tests.
+Implement self-service functionalities that cater to multiple personas (developers, product owners, business analysts, administrators).
+Java backend development needed for the frontend
+Work closely with backend teams (Kafka, MongoDB, Cassandra, APIs) to ensure seamless data flows and consistent user experiences.
+Participate in agile development processes, particularly within Scrum teams, to support iterative and collaborative software delivery.
+Collaborate closely with analyst teams to understand requirements and deliver tailored solutions for the internal development platform.
+Apply strong problem-solving skills with a proactive approach to troubleshooting and resolving technical challenges.
+You check these boxes:
+3+ years of professional experience  in frontend development, with at least 2 years in Angular.
+Strong proficiency in TypeScript, HTML5, SCSS, a plus is ReactJS
+Familiarity with frontend testing frameworks (Jasmine, Karma)
+Experience in JAVA implementation of REST interfaces (optimal HATEOAS)
+Familiarity with Software-Composition- and Code-Analysis Tools (JFrog Xray, Sonar, Lint)
+Basic UX/UI design skills (wireframing, prototyping in Figma) – bridges frontend engineering with UX thinking.
+Advocate for user-centric design and experience, ensuring workflows are intuitive and efficient.
+Solid understanding of state management and responsive design
+Some experience in real-time streaming and data aggregation pipelines for big data applications would be a plus
+Fluency in English, German knowledge preferable B1 level
+Willingness to travel to Vienna 1x/week (as business trip)
+Why you will like us:
+Possibility to benefit and learn from our international, talented and passionate community at Erste
+Interest groups and clubs: Take part in discussions and get involved in projects. Numerous interest groups invite you to engage with a topic
+Health Care – Taking care of your health is important. That’s why we contribute to your above standard medical examination and provide a helpline in case of hard lifetime situations. You also receive a salary compensation during sick leave
+Work-Life-Balance – Sabbatical, paternity leave, contribution to marriage & childbirth, 4 days of extra holiday per year, contribution to the 3rd pillar and MultiSport card. This is how we promote a balance between work, leisure, and family
+Employee Referral Program – Become a talent scout for career opportunities in IT. We are rewarding every successful referral for Erste Digital
+A competitive and performance-related salary dependent on your professional and personal qualifications is granted - we are obliged by law to quote the minimum wage of EUR 2800,- gross per month for this full time position. But this is just a formality, we are more than happy to discuss your actual expectations.
+The way we are:
+Erste Group considers the diversity of its employees as key to innovation and success. As employer we are
+            proud to offer everyone equal chances, irrespective of age, skin colour, religious belief, gender, sexual
+            orientation or origin.
+Apply now
+Follow us:
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195897
+Dátum zverejnenia:
+21.11.2025
+2025-11-21
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Frontend developer
+,
+Javascript Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+Erste Digital GmbH
+Základná zložka mzdy (brutto):
+2 800 EUR/month

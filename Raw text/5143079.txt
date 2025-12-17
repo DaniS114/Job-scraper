@@ -1,0 +1,96 @@
+Java / Fullstack Programátor
+IPESOFT spol. s r.o.
+Miesto práce
+Obchodná, Žilina-Vlčince, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+od 2500 EUR (podľa seniority, skúseností) + ročná prémia v rámci bonusového systému spoločnosti
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Spoločnosť IPESOFT
+, líder v oblasti vývoja softvérových riešení a technológií pre priemyselný a energetický sektor, hľadá
+Java/Fullstack programátora
+, ktorý sa bude podieľať aj na
+architektonickom návrhu
+a formovaní technologických riešení a
+spolupodieľať sa na ich implementácii
+. Ak chcete
+určovať architektonické smerovanie inovatívnych projektov
+a
+pracovať s najmodernejšími enterprise technológiami
+, staňte sa súčasťou nášho tímu!
+Náplň práce:
+Implementácia a rozširovanie platformy (Jakarta EE/Spring) spájajúcej svet priemyselnej automatizácie a energetiky s modernými otvorenými technológiami (napr. REST/SOAP/Open API, OData, Comet/Websocket, gRPC, PKI, OAuth2/OpenId Connect, Kerberos/SPNEGO, Open Telemetry atď.).
+Návrh a spolupráca na vývoji a nasadzovaní frontendových aplikácií (React + Typescript) nad touto platformou.
+Návrh, vývoj, údržba a podpora nasadenia integračných modulov v Jave smerom na externé služby v oblasti energetiky.
+Participácia pri riadení technického dizajnu a štandardov pre fullstack (Java/JavaScript) riešenia v interných a externých projektoch spoločnosti.
+Spolupráca na strategických R&D iniciatívach – modernizácia UI platformy, kontajnerizácia, nasadzovanie v cloude, optimalizácia CI/CD procesov.
+Mentoring a technické vedenie vývojárov, dohľad nad kvalitou kódu a dodržiavaním architektonických princípov.
+Analýza a riešenie technických problémov v Jave.
+Zamestnanecké výhody, benefity
+práca v stabilnej spoločnosti pôsobiacej na trhu viac ako 30 rokov
+príjemné pracovné prostredie
+flexibilný pracovný čas
+motivačný systém zamestnaneckých benefitov
+firemné akcie, podpora športových  podujatí
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+informačné technológie, informatika
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Java - Pokročilý
+Prax na pozícii/v oblasti
+informačné technológie
+Počet rokov praxe
+6
+Osobnostné predpoklady a zručnosti
+Požiadavky:
+Minimálne 6 rokov skúseností s      vývojom v Jave, z toho aspoň 2 roky v oblasti návrhu architektúry alebo      technického vedenia tímu.
+Skúsenosti s návrhom enterprise      riešení, znalosť architektonických vzorov a princípov.
+Prax s Java EE/Jakarta EE      štandardmi alebo frameworkmi (napr. CDI, JAX-RS, JAX-WS, JPA/Hibernate,      MicroProfile) či platformami ako Spring, Quarkus, Dropwizard, Tomcat,      WildFly.
+Výhodou sú znalosti otvorených      API štandardov, autentifikačných protokolov, cloudového nasadzovania a      Kubernetes.
+Skúsenosti s DevOps prístupom a      nástrojmi ako Git, JIRA, CI/CD.
+Schopnosť viesť technické      diskusie, robiť rozhodnutia a prezentovať návrhy.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť IPESOFT dodáva inovatívne softvérové riešenia pre energetiku a optimalizáciu výrobných procesov. Vyjadrením dôvery významných firiem našej spoločnosti je skutočnosť, že v portfóliu našich zákazníkov sú firmy ako U.S.Steel Košice, eustream, Slovenský plynárenský priemysel, Slovenské elektrárne, Slovnaft, Stredoslovenská energetika, ČEZ, ŽSR, Continental, EPS Belehrad, Kazašské železnice a ďalšie významné výrobné a energetické podniky.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Iveta Stopková
+Tel.:
++421903263890
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5143079
+Dátum zverejnenia:
+23.10.2025
+2025-10-23
+lokalita:
+Žilina
+Pozícia:
+Java programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+IPESOFT spol. s r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

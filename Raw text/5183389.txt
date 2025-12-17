@@ -1,0 +1,90 @@
+Hľadáme Android Programátora
+PROSOFT, spol. s r.o.
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ihneď/dohodou
+Mzdové podmienky (brutto)
+1 800 - 2 800 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Chceš byť súčasťou tímu, ktorý vyvíja riešenia s reálnym prínosom pre verejný sektor? Daj nám o sebe vedieť!
+Hľadáme do nášho tímu kolegu programátora, ktorý by sa podieľal na návrhu a vývoji systémov pre oblasť osobnej dopravy - koncoví užívatelia týchto systémov sú najmä pracovníci významného slovenského dopravcu. Predmetom vývoja sú mobilné aplikácie s robustnou business logikou na pozadí.
+Aplikácie vyvíjame v Android a C++/QT, perzistencia dát v SQL databáze. Backend systémy vyvíjame v Jave, Spring framework, Hibernate, SQL databáza. Prípadná znalosť oboch technológií ( Android/Java aj C++) je vítaná.
+Požadované znalosti
+SQL (SQLite/ORACLE) - pokročilý,
+Android - pokročilý,
+Java/Kotlin – pokročilý,
+REST API – základná znalosť,
+Gradle, - základná znalosť,
+Git - základná znalosť.
+Uvítame skúsenosti s:
+C++ / Qt, QML,
+Spring Boot,
+Smart-GWT
+Hibernate
+Jasper Reports
+ORACLE PL/SQL
+GitLab CI/CD
+Docker
+Kubernetes
+Testovacie framework
+Design Patterns.
+Zamestnanecké výhody, benefity
+Flexibilný pracovný čas a po zaškolení možnosť príležitostnej práce z domu.
+Ak máš záujem o vzdelávací kurz alebo konferenciu, podporíme ťa. Okrem toho môžeš navštevovať hodiny angličtiny priamo vo firme.
+Možnosť vybrať si technologickú výbavu podľa vlastných preferencií.
+Podporíme ťa v získavaní profesijných certifikátov z oblasti IT.
+Organizujeme spoločné teambuildingy (chatovačky, opekačky, firemné raňajky atď.)
+Môžeš sa pridať ku kolegom čo pravidelné športujú (badminton, plážový volejbal)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+informatika
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Osobnostné predpoklady a zručnosti
+Samostatnosť
+Tímový duch
+Aktívny prístup k práci a inováciam
+Záujem a schopnosť učiť sa
+Zodpovednosť
+Iniciatívnosť
+ďalšími zručnosťami, ktoré nám môžu pomáhať zlepšovať sa, byť otvorení inováciám a zabezpečia, že spolu budeme mať naozaj aj dobrý pocit z toho čo po sebe zanechávame.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+PROSOFT je overeným a spoľahlivým dodávateľom informačných systémov a súvisiacich technológií s viac ako 30 ročnou históriou a tímom viac ako 50 IT odborníkov. Zameriavame na komplexný vývoj podnikových informačných systémov a aplikácii, s dôrazom na technológie ako Java EE, ReactJS, Android a iOS. Naše softvérové riešenia umožňujú zákazníkom plne využiť potenciál digitálnej transformácie.
+Kontakt
+Kontaktná osoba: Ing.  Zuzana Brezániová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5183389
+Dátum zverejnenia:
+29.10.2025
+2025-10-29
+lokalita:
+Žilina
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Java programátor
+,
+Programátor
+Spoločnosť:
+PROSOFT, spol. s r.o.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

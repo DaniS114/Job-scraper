@@ -1,0 +1,105 @@
+Senior SW Engineer pro produkt SafeQ
+ARTIN Slovakia s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+3 000 - 4 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Meníme svet firemnej tlače. Z on‑prem do cloudu. Zo komplikovaných ovládačov na jedno univerzálne riešenie dostupné odkiaľkoľvek. Ak ťa láka budovať robustné, bezpečné a globálne využívané služby, pridaj sa k nám.
+Na čom budeš pracovať
+Vývoj a nasadzovanie onprem a cloudových služieb SafeQ Cloud, ktoré využívajú zákazníci po celom svete
+Návrh a implementácia škálovateľnej a bezpečnej architektúry na spracovanie tlačových úloh
+Optimalizácia výkonu a riešenie technických problémov v produkčnom prostredí
+Písanie kvalitného, udržateľného kódu a podpora procesu code review
+Spolupráca s tímom na plánovaní sprintov a určovaní technického smeru v rámci Large-Scale Scrum (LeSS)
+Koho hľadáme
+Vývojára so skúsenosťami a záujmom riešiť komplexné problémy
+Backend v Jave alebo C#, extra body za Scalu, Kotlin či Python
+Základná znalosť Unixu, Git a CI/CD pipeline je pre nás samozrejmosť
+Angličtinu budeš využívať denne v medzinárodnom tíme
+Máš zmysel pre ownership – nechceš len kódovať podľa zadania, ale chápať biznis a aktívne navrhovať riešenia
+Tech stack, s ktorým sa u nás stretneš
+Cloud: AWS, Docker
+Backend: Java / Scala / .NET (C#), občas Python
+Frontend: JavaScript / TypeScript / Wicket
+Concurrency: Akka
+Nástroje: Git, CI/CD, Atlassian (Jira, Bamboo, Confluence)
+Čo ti prinesie body navyše
+Skúsenosti so Scalou, Javou alebo Wicketom
+Automatizácia a dôraz na testy
+Virtualizácia a cloudové technológie (Docker, VMware, Azure, AWS)
+Občasný zásah do vývoja alebo supportu
+Prečo ísť do toho s nami
+Reálny dopad
+: zjednocujeme svet rôznorodých tlačiarní a zariadení do jedného zrozumiteľného systému.
+Sloboda a zodpovednosť
+: prácu si plánujeme sami, technológie si vyberáme podľa potrieb.
+Rást
+: mentoring, koučing, zdieľanie know‑how naprieč celým R&D.
+Autonómny
+tím šiestich skúsených vývojárov (s tebou nás bude sedem).
+Súčasť
+R&D s viac než stovkou kolegov
+– veľa priestoru pre tvoje nápady.
+Zamestnanecké výhody, benefity
+Neobmedzená dovolenka + 3 sick days ročne
+Príspevok na stravovanie formou stravného paušálu
+Firemné vzdelávanie – technické aj softskillové kurzy, pravidelné workshopy na prezentačné zručnosti, spätnú väzbu, jazykové kurzy a podobne
+Plne vybavené kancelárie – dopĺňané chladničky, káva, čaje, stoly na prácu v stoji, nabíjačky pre elektromobily, bicykle a kolobežky
+Neobmedzený home office
+Firemný benefitný systém – možnosť využiť Multisport kartu, Edenred kartu alebo príspevok na dôchodkové sporenie
+Nákupy cez firemné partnerské účty (napríklad v CZC a Alze)
+Plne hradená služba ULékaře.cz (telemedicína)
+Referral bonus za odporučenie nového kolegu
+Pravidelné akcie Artin počas roka – teambuildingy, športové dni, filmové večery a ďalšie
+Neobmedzený paušál na telefón plne hradený firmou
+Štandardné pracovné vybavenie (notebook, monitory, dokovacie stanice a periférie)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+alebo
+Český jazyk - Úplný začiatočník (A1)
+Počet rokov praxe
+5
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+ARTIN je globálna spoločnosť poskytujúca profesionálne IT služby. Vyvíjame, integrujeme a testujeme softvér, aby sme našim zákazníkom pomohli posunúť ich podnikanie požadovaným smerom. Poskytujeme výnimočnú hodnotu prostredníctvom overených a moderných technológií.
+Je nás už viac ako 200 a nájdeš nás v Bratislave, v Brne a v Prahe. Pridaj sa k nám do priateľského a odborného IT tímu. :)
+Počet zamestnancov
+200-249 zamestnancov
+Kontakt
+Kontaktná osoba: Soňa Straková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5165937
+Dátum zverejnenia:
+24.11.2025
+2025-11-24
+lokalita:
+Práca z domu
+Pozícia:
+Backend programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+ARTIN Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

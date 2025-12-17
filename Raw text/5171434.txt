@@ -1,0 +1,116 @@
+Frontend Developer
+GoodRequest, s. r. o.
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+1 500 EUR/mesiac
+- Junior od 1500€, Medior od 2200€, Senior od 3000€
+Platové podmienky závisia od skúseností kandidátov, radi ich prediskutujeme.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho frontend tímu hľadáme novú posilu, ktorá sa stane súčasťou digitálneho štúdia, kde technológie, biznis a ľudia tvoria dokonalý mix. V rámci dlhodobej spolupráce s lídrami na trhu ako Tatra banka, O2, Notino alebo ZSE prinášame inovácie, ktoré reálne využívajú státisíce ľudí.
+Ako bude vyzerať tvoja práca?
+Tímová podpora, na ktorú sa môžeš spoľahnúť. Nikdy nebudeš na zložitý problém sám/sama. Či už cez rýchly call, diskusiu na Slacku, vždy máš k dispozícii ochotných kolegov, ktorí ti poradia a pomôžu. Staviame na spolupráci, nie na sólových výkonoch.
+Kultúra kvality a konštruktívneho feedbacku. Kvalita (nie len kódu) je pre nás štandard. Očakávaj, že code reviews budú neoddeliteľnou súčasťou tvojej práce – vnímame ich ako najlepší nástroj na spoločný rast a zdieľanie know-how, nie ako kritiku. Neustále diskutujeme o technológiách a zlepšovaní našich procesov. Podporujeme otvorenú komunikáciu a 1on1 s lídrom je u nás štandard.
+Vzdelávanie je súčasťou tvojej práce. Či už je to experimentovanie na našej inovačnej platforme, príprava na interný meetup, písanie blogov, účasť na konferencii Frontend Days alebo organizovanie webinárov. Aktívne podporujeme tvoju zvedavosť a túžbu učiť sa nové veci.
+​
+Aké technológie používame
+Náš technologický stack si starostlivo vyberáme. Nesledujeme slepo každý trend, ale staviame na overených technológiách, ktoré riešia reálne problémy. Kľúčový je pre nás výkon, udržateľnosť, stabilita a to, aby sa nám s ním dobre pracovalo.
+TypeScript: Je pre nás absolútnym základom.
+React: Jeho obrovský ekosystém a "future-proof" povaha z neho robia spoľahlivý základ našich aplikácií.
+Next.js: Ponúka nám všetko, čo potrebujeme od server-side renderingu až po pokročilé optimalizácie.
+React Native: Ak máš praktické skúsenosti s React Native a Expo, získaš významné bonusové body. Strategicky rozširujeme frontendový vývoj aj do sveta mobilných aplikácií. Budeš mať jedinečnú príležitosť podieľať sa na smerovaní a raste nášho rozširujúceho sa React Native tímu.
+UI a prístupnosť: Máme bohaté skúsenosti s Ant Design, ale kvôli výzvam v oblasti prístupnosti a štýlovania sme prešli na modernejšiu knižnicu Mantine. Na štýlovanie najčastejšie používame Styled-Components, avšak migrujeme do CSS modules a SCSS kvôli kompatibilite so Server-Side Renderingom (SSR).
+State Management a práca s API: Komunikáciu s BE riešime cez REST alebo GraphQL. State manažment riešime pomocou TanStack Query (React Query). Na prácu s formulármi sa nám osvedčil React Hook Form.
+Strapi (Headless CMS): Umožňuje našim klientom flexibilne spravovať obsah webu, zatiaľ čo my na strane frontendu máme voľnosť pri výbere technológií. Preto, ak máš skúsenosť s Node.js a backendom získaš bonusové body.
+Konzistentný a čistý kód zaisťujeme pomocou ESLint, Prettier a Stylelint. Pre maximálnu typovú bezpečnosť medzi frontendom a backendom využívame Zod na validáciu schém a OpenAPI-TypeScript na generovanie typov priamo z API špecifikácie.
+Benefity, ktoré ťa potešia
+Pre nás sú ľudia na prvom mieste. Na čo sa môžeš tešiť?
+Najnovší MacBook, mobilný paušál a všetko technické vybavenie, ktoré budeš potrebovať
+Tvoj rozvoj je pre nás kľúčový. Okrem budgetu na externé kurzy a konferencie u nás dostaneš prepracovaný onboarding, polročné ciele a hlavne priestor rásť vďaka našej inovačnej kultúre a zdieľaniu vedomostí.
+Flexibilný pracovný čas, žiadne striktné pravidlá
+Možnosť pracovať z niektorého z našich krásnych a moderných officov v Žiline, Košiciach, Bratislave a Liptovskom Mikuláši.
+Firemná angličtina, pestrá ponuka odborných kurzov
+Gallup koučing
+Multisport karta, wellbeing program
+Legendárne teambuildingy‍, pravidelné spoločné raňajky, firemný hackathon
+Referral bonus, bezúročné pôžičky, dôchodkové sporenie, príspevok na parkovanie
+Tímová kultúra - nie sme tu len kolegovia:
+Zdieľame know-how: Na pravidelných Frontend Meetupoch si prezentujeme zaujímavé riešenia z projektov a nové technológie. Je to otvorený priestor, kde sa môže každý podeliť o svoje know-how a inšpirovať ostatných.
+Interný Hackathon, kde budeš mať priestor vymaniť sa z rutiny. Spoločne tvoríme, experimentujeme a hľadáme nové spôsoby, ako prinášať hodnotu našim klientom aj nám samotným.
+Legendárne akcie: Čakajú ťa legendárne teambuildingy ako GR8 Days alebo Webová chata, na ktoré sa nezabúda.
+Sme aktívni: Vždy tu nájdeš parťáka/čku na bicykel, turistiku, lezenie alebo len tak na pivo po práci.
+Frontend Days: Vytvorili sme si vlastnú dvojdňovú konferenciu, pretože sa chceme venovať témam, ktoré nás reálne zaujímajú: od technických deep-divov do Next.js SEO a bezpečnosti, cez soft-skillové workshopy o efektivite a komunikácii, až po spoločný teambuilding ako laser game či motokáry.
+​
+Čo od teba očakávame?
+Máš za sebou aspoň 2 roky skúseností s vývojom v TypeScripte, React a Next.js
+Proaktívny prístup k riešeniu úloh a zároveň schopnosť byť tímovým hráčom
+Bonusové body získaš, ak máš praktické skúsenosti s React Native, CI/CD nástrojmi, Dockerom alebo znalosťami o accessibility
+Čo môžeš očakávať
+Nástup: ASAP, resp. dohodou
+Spolupráca: 8h, TPP/ SZČO/ SRO
+Lokalita: Hybrid (3 dni v office, 2 dni homeoffice) alebo remote nad 30km od našich officov
+Flexibilná pracovná doba
+Informácie o výberovom konaní
+- Krátky skríningový rozhovor
+- Vypracovanie zadania (juniori, mediori)
+- Pohovor s Andreou a Andrejom (Talent specialist a Frontend leader)
+- Live coding s Romanom
+- Vitaj v GoodRequest!
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT, príp. príbuzné odbory
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Prax na pozícii/v oblasti
+Frontend Developer
+Počet rokov praxe
+2
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Tvoríme digitálne produkty, ktoré majú zmysel, prinášajú reálnu hodnotu a posúvajú svet k lepšiemu. Dôverujú nám značky ako Notino, ZSE, Tatra banka, Benu lekárne, Jaguar & Land Rover, Forbes, iKROS a mnohé ďalšie.
+Každému projektu venujeme svoje srdce aj profesionalitu. Veríme, že technológie majú slúžiť ľuďom, ktorí ich používajú každý deň. Sme tím s výnimočnou kultúrou, otvorení novým nápadom a spoločným cieľom tvoriť projekty s reálnym dopadom.
+Na Slovensku nás nájdeš v štyroch mestách:
+Bratislava (The Spot) – srdce startupovej a digitálnej komunity, moderný priestor plný energie, eventov a inšpiratívnych ľudí.
+Žilina (NordCity Obchodná) – kreatívne centrum mesta s výhľadom na Malú Fatru, kde sa stretáva pohodlie a inovatívna atmosféra.
+Košice – miesto s veľkým IT potenciálom, kde si budujeme komunitu ľudí, ktorí chcú tvoriť digitálne produkty so svetovým dosahom.
+Liptovský Mikuláš – naše srdcovky pod Tatrami, kde nechýba blízkosť prírody a unikátna rovnováha medzi prácou a životom.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Andrea Eckerová
+Tel.:
++421917280466
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5171434
+Dátum zverejnenia:
+7.10.2025
+2025-10-07
+lokalita:
+Žilina
+Pozícia:
+Frontend programátor
+,
+Programátor
+Spoločnosť:
+GoodRequest, s. r. o.
+Základná zložka mzdy (brutto):
+1 500 EUR/mesiac

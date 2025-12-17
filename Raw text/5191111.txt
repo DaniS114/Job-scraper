@@ -1,0 +1,91 @@
+Fullstack Developer (Java, React) Projekt
+essential data, s.r.o.
+Miesto práce
+Lazaretská 12, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+Od 3 200 EUR/mesiac
+Výška platu závisí od viacerých faktorov: miera a charakter skúseností, znalosť technológií, ktoré používame.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme ľudí, nie stroje. Aktuálne skôr mediorov a seniorov.
+Uznávame ľudí, ktorí premýšľajú a dokážu sa poučiť na vlastných chybách. Dopĺňame tím o odborníkov, ktorí nám sedia aj ľudsky, vedia zdieľať informácie, priateľsky a otvorene komunikovať.
+Naša firemná kultúra je založená na hodnotách dôvery, tímovosti a otvoreného dialógu a profesionálneho prístupu.
+Tvojou hlavnou úlohou bude návrh, vývoj a implementácia aplikácií v ekosystéme Java pri vývojí SW riešení na úrovni frontendovej aj backendovej časti. A spolupráca na architektúre jednotlivých modulov veľkých SW riešení.
+Spolupráca na návrhu technického riešenia na základe výsledkov analýzy požiadaviek zákazníka
+Vývoj modulov webových aplikácií
+Testovanie a ladenie kódu
+Opravy chýb a priebežná údržba aplikácie
+Príprava technickej dokumentácie
+Návrh architektúry modulového riešenia, identifikácia a vyhodnocovanie variantných riešení
+Zodpovednosť za správnosť, efektívnosť a účelnosť navrhovanej architektúry v spolupráci s hlavným architektom
+Zodpovednosť za kvalitu kódu
+Technický dohľad a riadenie vývojového tímu
+Spôsob vývoja: IntelliJ IDEA, Jenkins, Git flow, GitLab, JIRA, Confluence, SonarQube
+Používané technológie: Spring Boot, React, Java,
+Zamestnanecké výhody, benefity
+∗	Práca na zaujímavých projektoch a priestor pre sebarealizáciu a uplatnenie vlastných nápadov, iniciatíva a konštruktívne nápady u nás nachádzajú svoje vyjadrenie v praxi
+∗	Príjemná firemná atmosféra menšej firmy ľudí
+∗	Flexibilný pracovný čas
+∗	Možnosť pracovaťaj  z home-office
+∗	Zaujímavý benefitný systém (vstupné karty do fitness centra, čerstvé ovocie, veselé firemné akcie, parkovanie v centre mesta)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Počet rokov praxe
+7
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+• Java SE na úrovni pokročilý, skúsenosti so Spring Framework a/alebo Java EE výhodou, Java 8.-17., Spring Boot...
+• Skúsenosti s návrhom aplikačnej architektúry – UML (Class, ERD, Component)
+• Výhodou znalosti Linux s ohľadom na deployment aplikácií (DevOps) výhodou
+• Anglický jazyk – mierne pokročilý
+Osobnostné predpoklady:
+• Chuť spolupracovať s mladým vývojovým tímom agilnými metódami
+• Schopnosť sústrediť sa na detaily a zároveň vnímať pozorne požiadavky zákazníka a ostatných partnerov
+• Profesionalita, schopnosť pracovať v tíme a dobré komunikačné zručnosti
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme slovenský software house.
+Pomáhame spoločnostiam vyťažiť z dát AI digitálnej transformácie maximum.
+Naším poslaním je prinášať pokrokový pohľad, otvárať nové možnosti a dodávať efektívne a užitočné riešenia zákazníkom.
+Do práce vkladáme energiu, rozum a srdce - AI (aj )preto sa s nami jednoducho a dobre pracuje.
+-
+Pre viac informácií ohľadom spracovania vašich osobných údajov prosím skopírujte nasledujúci odkaz: https://e-d.sk/job-gdpr
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Lucia Komiňáková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5191111
+Dátum zverejnenia:
+12.11.2025
+2025-11-12
+lokalita:
+Bratislava
+Pozícia:
+Java programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+essential data, s.r.o.
+Základná zložka mzdy (brutto):
+3 200 EUR/mesiac

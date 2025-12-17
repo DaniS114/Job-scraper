@@ -1,0 +1,99 @@
+Cloud inžinier (MS 365/ Azure) v Žiline (príležitostný HO)
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+1 700 - 2 500 EUR/mesiac
++ koncoročný bonus a projektové odmeny. Mzda je vecou vzájomnej dohody, ktorá sa odvíja od toho, aké skúsenosti si k nám už prinesieš.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme človeka, ktorého baví technológia a chce ísť v cloude na vyššiu úroveň.
+U nás nenájdeš klasickú hierarchiu a “príkazy zhora”. Fungujeme ako tím, ktorý si navzájom pomáha, férovo zdieľa informácie a spoločne hľadá nové riešenia. Máme za sebou množstvo úspešných projektov a ocenení od Microsoftu, ale najviac sme hrdí na to, že väčšina kolegov by prácu u nás nemenila – kvôli partii, ktorá drží spolu.
+Ak máš skúsenosti s cloudovými službami Microsoft 365 / Azure a chceš sa posunúť ďalej, čítaj ďalej.
+AKÁ BUDE TVOJA ÚLOHA V TÍME?
+návrh riešení a implementácie v prostredí Microsoft Azure a 365,
+konfigurácia a testovanie IT riešení pre zákazníkov,
+vyhodnocovanie nových cloudových technológií a ich prínosu do praxe,
+riešenie incidentov a kritických situácií u zákazníkov,
+vzdelávanie zákazníkov a účasť na obchodných rokovaniach,
+priebežné budovanie špecializácie – u nás si vyberieš oblasť, v ktorej pôjdeš do hĺbky.
+Čo u nás nájdeš?
+prístup k zaujímavým a veľkým projektom,
+prostredie, kde sa informácie nezadržiavajú, ale zdieľajú,
+možnosť ovplyvniť stratégiu a prichádzať s vlastnými nápadmi,
+podporu od vedenia aj tímu – každý má priestor napredovať,
+mentoring a priestor na vzdelávanie (očakávame ale aj Tvoju proaktivitu),
+partiu ľudí, ktorí sa stretávajú aj mimo práce – na túrach, splavoch, cyklotúrach či pri hrách.
+Benefity
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Informácie o výberovom konaní
+Ak Ťa naša ponuka zaujala a spĺňaš naše požiadavky, pošli nám životopis. Vyhradzujeme si právo kontaktovať len záujemcov, ktorí spĺňajú požiadavky uvedené v inzercii.
+Výberové konanie bude ukončené po obsadení pozície úspešným uchádzačom. Tvoje osobné údaje spracúvame v zmysle súhlasu, ktorý udeľuješ pre www.profesia.sk.
+Informácie o spracúvaní osobných údajov určené dotknutým osobám v podmienkach SOFTIPu https://www.softip.sk/sk/o-nas/ochrana-osobnych-udajov/informacie-o-spracuvavani-ou/
+Prax na pozícii/v oblasti
+relevantné k tejto pozícii
+Osobnostné predpoklady a zručnosti
+AKÉ PREDPOKLADY BUDEME U TEBA HĽADAŤ?
+Nemusíš byť expert/ka v každej menovanej oblasti z cloudu, ale potrebuješ znalosti, na ktorých budeš stavať. Ak niečo nie je Tvoja silná stránka, u nás budeš mať priestor sa učiť.
+architektonické vedomosti pre Microsoft cloud služby:
+MS 365  (oblasti kolaborácie, bezpečnosti a identity)
+MS Azure (oblasti PaaS, IaaS a SaaS Azure služieb, bezpečnosti, identity, monitoringu, manažmentu infraštruktúrnych zdrojov)
+pokročilé znalosti v oblasti Microsoft Exchange, Microsoft Teams, Microsoft SharePoint
+pokročilé znalosti a skúsenosti v oblasti služieb Microsoft Azure predovšetkým virtualization, compute, network, storage a database
+orientácia v oblasti Azure Landing zone, Azure Virtual Desktop, Container Instances, Azure Kubernetes Services, PowerShell, Azure CLI, Azure Policy, Azure Monitor
+Od kandidátov očakávame:
+schopnosť architektonicky riadiť technický projekt
+orientáciu v Microsoft on-premises riešeniach
+všeobecný rozhľad v oblasti IT technológií
+analytické a technické myslenie
+komunikačné a prezentačné zručnosti
+flexibilitu pri riešení problémov.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SOFTIP je najväčší slovenský výrobca podnikových informačných systémov s najširším portfóliom IT produktov a služieb. Naše riešenia pomáhajú lepšie riadiť tisícky firiem a organizácií všetkých veľkostí na Slovensku aj v zahraničí. Sme najlepším implementačným partnerom pre SAP Business One a patríme medzi lídrov v oblasti Microsoft technológií v regióne CEE.
+Spája nás nadšenie pre moderné IT technológie a chuť neustále objavovať nové možnosti tohto odboru. Máme 30 rokov skúseností a staráme sa o viac ako 12 500 zákazníkov. Práve vďaka nim neustále rastieme a spolu s tým aj potreba rozširovať náš tím expertov, ktorí budú spolu s nami posúvať hranice našich možností.
+A v čom spočíva naša jedinečnosť a čím sa odlišujeme od ostatných?
+Napríklad aj tým, že do dnešného dňa sú súčasťou nášho pracovného tímu ľudia, ktorí viac ako 15, 20 alebo dokonca aj 30 rokov odovzdávajú svoje skúsenosti ďalšej generácii nadšencov. Pôsobíme v 9 slovenských mestách a rozumieme, že nie každému vyhovuje pracovné prostredie kancelárie, a preto podporujeme prácu z domu.
+Sme spoločensky zodpovedná firma, ktorá pri všetkých svojich činnostiach kladie dôraz na životné prostredie. Za našu angažovanosť nás renomovaná certifikačná spoločnosť TÜV SÜD Slovakia ocenila titulom Výnimočná firma v kategórii Spoločenská zodpovednosť.
+Počet zamestnancov
+150-199 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Natália Balážová
+Tel.:
++421904487273
+E-mail:
+poslať životopis
+Poslať CV
+Aktuálne voľné pozície
+www.softip.sk/kariera
+ID:
+5184504
+Dátum zverejnenia:
+30.10.2025
+2025-10-30
+lokalita:
+Žilina
+Pozícia:
+IT architekt
+,
+IT konzultant
+,
+Systémový administrátor
+,
+Systémový inžinier
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+SOFTIP, a.s.
+Základná zložka mzdy (brutto):
+1 700 EUR/mesiac

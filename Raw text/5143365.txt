@@ -1,0 +1,86 @@
+Systémový špecialista virtualizačných technológií - senior
+LYNX s.r.o.
+Miesto práce
+LYNX s.r.o., Košice, Gavlovičova, Juh, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+hneď
+Mzdové podmienky (brutto)
+Od 2 400 EUR/mesiac
+Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+návrh, implementácia, správa a dokumentácia systémov postavených na virtualizačných technológiách
+podpora prevádzky a kooperácia s tímami aplikačných, bezpečnostných a sieťových špecialistov
+identifikácia zraniteľnosti systémov a následným návrhom nápravných opatrení,
+vytváranie dokumentácie rôznych úrovni (analytické, dizajnové, systémové)
+Zamestnanecké výhody, benefity
+kontinuálne vzdelávanie a certifikácia, ktorá bude šitá na mieru
+nefinančné benefity pre zamestnancov
+flexibilný pracovný čas
+možnosť Home Office
+a veľa ďalších​
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informatika (nie je podmienkou v prípade uchádzačov so skúsenosťami a praxou v požadovanej oblasti)
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+VMware vSphere/ iná virtualizačná technológia - Pokročilý
+Vodičský preukaz
+B
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Požiadavky na uchádzača: (technické)
+Praktické      skúsenosti s návrhom a implementáciou VMware vSphere:
+VMware       vSphere ESXi vo vysoko dostupných klastroch (HA/DRS, vMotion/Storage       vMotion)
+VMware       vCenter Server so SSO a integráciou s Active Directory, implementácia       vSphere Distributed Switch (vDS) a konfigurácia DRS
+Praktické      skúsenosti s návrhom, implementáciou a správou HCI riešení VMware vSAN,      vrátane diagnostiky incidentov na virtualizačnej platforme.
+Praktické      skúsenosti a znalosti v oblasti virtualizácie sietí (VMware NSX),      prevádzky kontajnerov (VMware VKS) alebo virtualizácie klientskych staníc      (Omnissa Horizon).
+Skúsenosti      so zálohovaním systémov na virtualizačnej platforme (napr. Veeam, Rubrik,      MS DPM a pod.).
+Znalosti      v oblasti sietí a sieťovej topológie LAN.
+Skúsenosti      s návrhom a implementáciou služieb ako DNS a DHCP (prevádzkovaných na      platforme Microsoft Windows Server alebo Linux).
+Skúsenosti      so skriptovaním v PowerShell a s automatizačnými nástrojmi Terraform,      OpenTofu, Ansible.
+Výhodou sú:
+Skúsenosti      s návrhom a implementáciou Microsoft Hyper-V:
+vo       vysoko dostupných klastroch (Failover Cluster)
+s       nástrojom SCVMM
+Skúsenosti      s návrhom a implementáciou hypervízorov typu KVM/Xen:
+platformy       XenServer, XCP-NG, Proxmox, Red Hat Virtualization
+Skúsenosti      a znalosti cloudových služieb Microsoft Azure, Amazon, Google.
+Znalosť      produktových portfólií renomovaných výrobcov serverovej a dátovej      infraštruktúry (napr. HPE, IBM, Lenovo).
+Certifikácie      v technológiách VMware a Microsoft.
+Ďalšie požiadavky: (netechnické)
+Mali by ste byť komunikatívny, schopný pracovať v tíme, ovládať anglický jazyk minimálne na úrovni čítania technickej dokumentácie, ochotný sa vzdelávať, schopný samoštúdia
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Slovenská firma, pôsobiaca v oblasti počítačových sietí, informačných systémov a informačnej bezpečnosti.
+Kontakt
+Kontaktná osoba: Ing.  Kristína Lukáčová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5143365
+Dátum zverejnenia:
+4.12.2025
+2025-12-04
+lokalita:
+Košice
+Pozícia:
+Systémový administrátor
+Spoločnosť:
+LYNX s.r.o.
+Základná zložka mzdy (brutto):
+2 400 EUR/mesiac

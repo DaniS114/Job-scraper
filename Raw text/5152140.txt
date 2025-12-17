@@ -1,0 +1,158 @@
+O NÁS
+VOĽNÉ POZÍCIE
+BENEFITY
+Administrátor bezpečnostných riešení
+Miesto práce
+Bratislava
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Finálne mzdové ohodnotenie bude závisieť od praxe a skúseností vybraného kandidáta, pričom bude v súlade so zákonom č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme.
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Administrátor bezpečnostných riešení spravuje nasledovné systémy:
+Certifikačná autorita (CA)
+Vykonáva
+Vydávanie, obnovu, revokáciu a publikáciu digitálnych certifikátov.
+Konfiguráciu certifikačných šablón a ich politík.
+Správu CRL (Certificate Revocation List) a OCSP responderov.
+Monitoring stavu a údržbu certifikačných služieb.
+Zodpovedá za
+Bezpečnú prevádzku certifikačnej autority v súlade s internými a legislatívnymi požiadavkami.
+Integritu, dôveru a dostupnosť vydaných certifikátov.
+Dodržiavanie certifikačnej politiky (CP) a vyhlásenia o certifikačných praktikách (CPS).
+Evidenciu a archiváciu operácií spojených s vydávaním a správou certifikátov.
+Active Directory Federation Services (ADFS)
+Vykonáva
+Implementáciu a správu ADFS farmy a jej komponentov.
+Konfiguráciu federácií, dôveryhodných strán a poskytovateľov identity.
+Správu certifikátov používaných ADFS službou.
+Riešenie incidentov súvisiacich s federovaným prístupom.
+Zodpovedá za
+Spoľahlivé a bezpečné fungovanie ADFS pre účely Single Sign-On (SSO) a federácií.
+Integráciu ADFS s aplikáciami tretích strán a cloudovými službami.
+Prístupové politiky a podmienky federovanej autentifikácie.
+Zabezpečenie kontinuity služby a obnovu v prípade výpadkov.
+Identity and Access Management (IAM)
+Vykonáva
+Implementáciu a konfiguráciu IAM riešení.
+Správu životného cyklu používateľov a ich prístupových oprávnení.
+Automatizáciu procesov provisioning/deprovisioning účtov.
+Kontrolu prístupových práv a auditovateľnosť zmien.
+Zodpovedá za
+Riadenie identít a oprávnení v súlade s bezpečnostnými politikami organizácie.
+Dodržiavanie princípov najmenších oprávnení (least privilege).
+Súlad s požiadavkami auditov, regulácií (napr. GDPR, ISO 27001) a interných kontrol.
+Správu autentifikačných mechanizmov.
+Public Key Infrastructure (PKI)
+Vykonáva
+Návrh a implementáciu PKI architektúry a jej komponentov.
+Správu certifikátových autorít, registrátorov a politiky vydávania.
+Správu a rotáciu kľúčov, certifikátov a trustových reťazcov.
+Pravidelné testovanie obnovy a revokácie kľúčov a certifikátov.
+Zodpovedá za
+Bezpečnosť a spoľahlivosť celej PKI infraštruktúry.
+Ochranu privátnych kľúčov a dôveru medzi internými a externými systémami.
+Dokumentáciu a revíziu PKI procesov, pravidiel a konfigurácií.
+Hardware Security Module (HSM)
+Vykonáva
+Inštaláciu, konfiguráciu a správu HSM zariadení.
+Vytváranie, zálohovanie a obnova kryptografických kľúčov uložených v HSM.
+Integráciu HSM so systémami využívajúcimi šifrovanie a digitálne podpisy.
+Monitorovanie , logovanie a riešenie incidentov.
+Zodpovedá za
+Fyzickú a logickú bezpečnosť kryptografických operácií.
+Ochranu privátnych kľúčov pred neoprávneným prístupom.
+Dodržiavanie compliance požiadaviek na úrovni HSM (napr. FIPS 140-2, Common Criteria).
+Plánovanie obnovy a rotácie HSM kľúčov a certifikátov.
+Zamestnanecké výhody, benefity
+skrátený týždenný pracovný čas – 37,5 hodín
+flexibilný pracovný čas
+nárok na 5 dní dovolenky nad rámec zákona
+dodatočné dni voľna nad rámec zákona (rodinné udalosti, dobrovoľnícke aktivity)
+príspevok zamestnávateľa na DDS
+karta MultiSport
+príspevok na stravovanie nad rámec zákona
+priestor na sebarealizáciu, odborný aj kariérny rast
+Informácie o výberovom konaní
+Vopred ďakujeme všetkým uchádzačom za prejavený záujem. Kontaktovať ohľadom osobného interview budeme len tých kandidátov, ktorí spĺňajú požadované kritériá. Ďakujeme za porozumenie.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Prax na pozícii/v oblasti
+Prax v oblasti IT
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Predpodklady a zručnosti:
+Skúsenosti so správou systémov Microsoft ( ADFS), vrátane implementácie ADFS farmy a Single Sign-On riešení.
+Praktická skúsenosť s prevádzkou CA, vrátane znalosti PKI, OCSP (CRL) problematiky a správy certifikátov.
+Znalosť IAM systémov, provisioning/deprovisioning, prístupových oprávnení a auditu.
+Skúsenosti s konfiguráciou a správou HSM (Hardware Security Module), vrátane  inštalácie softwaru, zálohovania a ochrany kryptografických kľúčov.
+Schopnosť riešiť incidenty a zabezpečiť vysokú dostupnosť služieb.
+Orientácia v bezpečnostných politikách a požiadavkách na compliance (napr. GDPR, ISO 27001, FIPS 140-2).
+Analytické a technické myslenie, schopnosť pracovať samostatne aj v tíme.
+Ostatné znalosti:
+Orientovanie sa v operačných systémoch Linux výhodou
+Skúsenosti s automatizáciou a skriptovaním (napr. PowerShell, Bash).
+Znalosť šifrovacích techník, digitálnych podpisov a kryptoalgoritmov.
+Základné znalosti databázových systémov (Microsoft SQL Server , PostgreSQL - Linux)
+Schopnosť čítať a upravovať technickú dokumentáciu a politické dokumenty (CP, CPS).
+Skúsenosti s Active Directory.
+Odporúčané certifikácie:
+Entrust Certified PKI Administrator
+Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+Thales Certified HSM Engineer
+Okta Certified Administrator
+CyberArk Defender
+Microsoft Certified: Windows Server Hybrid Administrator Associate
+Certified PKI Professional (CPKI-P)
+Microsoft Certified: Identity and Access Administrator Associate
+CompTIA Security+
+Certifikáty v oblasti PKI alebo HSM (napr. Thales, Entrust,)
+Ak sa vám ponúkaná práca páči, pošlite nám svoj
+životopis
+!
+Kontaktovať budeme len vybraných uchádzačov.
+Kontakt
+Kontaktná osoba: Ing.  Stanislava Čemeričková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5152140
+Dátum zverejnenia:
+20.10.2025
+2025-10-20
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+,
+IT konzultant
+,
+IT tester
+,
+IT/Technical Support Specialist
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+Národné centrum zdravotníckych informácií
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

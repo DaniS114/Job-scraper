@@ -1,0 +1,107 @@
+Data Engineer
+Bolder Slovakia s. r. o.
+Place of work
+City Business Center V., Karadžičova, Ružinov, Slovakia, Bratislava (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 600 EUR/month
+The minimum offer for this role is 2600€ gross/month/full-time. We aim to pay our employees fairly, therefore, your salary might be higher reflecting your experience and skill set.
+Information about the position
+Job description, responsibilities and duties
+We are seeking a talented and experienced
+Data Engineer
+to join our dynamic team working in the finance services industry. Your work will empower data-driven decision-making, enhance business intelligence, and drive innovation in the financial domain. You’ll collaborate with cross-functional teams to create scalable solutions that leverage cutting-edge technologies.
+Responsibilities:
+Building and Maintaining Data Pipelines and Automation
+: Developing ETL (Extract, Transform, Load) pipelines to ingest, clean, transform, and load data from various sources into Azure data stores and Databricks clusters. This may involve writing code in languages like Python or SQL, as well as utilizing tools like Azure Integration Services for distributed processing.
+Data Modelling and Optimization
+: Designing and implementing data models that optimize business reporting and optimized for Power BI application.
+Architecting Data Solutions
+: Actively taking part in end-to-end data solutions using Azure Cloud services. This involves understanding business requirements and selecting appropriate Azure components to meet those needs.
+Performance Optimization
+: Optimize data pipelines for performance, reliability, and cost-effectiveness. Monitor data processing efficiency and propose enhancements.
+Data Quality and Governance
+: Investigate and address data quality issues. Implement data governance practices to ensure compliance and security.
+Employee perks, benefits
+At Bolder, you will always find:
+Proper financial compensation based on your qualifications and experience.
+Opportunity to make a real impact on our team and business.
+Work in an environment that supports personal growth and a balanced professional and personal life.
+Challenging development opportunities at Bolder Group and affiliated companies.
+With this position, we also offer you attractive company benefits, including:
+Guaranteed 13th salary
+2 sick days per year
+Sick leave support
+Fully covered meal vouchers
+Multisport card or cash allowance for sports and cultural activities
+Travel allowance paid monthly with your salary
+Fruits and beverages in the office daily
+Team activities and events
+Information about the selection process
+To ensure a smooth review process, we kindly ask that you submit your CV in English.
+At Bolder Group, we are an equal-opportunity employer committed to promoting both visible and invisible forms of diversity. We strive to foster a diverse workforce at all levels and across all departments in various regions.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Azure Services
+: Strong understanding of Azure services relevant to data engineering, such as Azure Storage, Azure SQL Database, Azure Integration Services, etc. Knowledge of how these services integrate with each other to form an end-to-end data processing pipeline.
+Data Modelling
+: Experiences with Databricks Data Lake concept. Strong understanding of data modelling principles and techniques. Ability to design ETL processes in a Cloud environment. Proficiency in building Power BI reports.
+Programming Languages
+: Proficiency in programming languages commonly used in data engineering, such as Python and SQL. Pyspark is good to know.
+Minimum of
+1 year of professional working experience
+.
+Good English
+: writing, reading and verbal communication skills are a must.
+Advantageous Skills (considered as a plus):
+Logic Apps
+Proficiency in creating reports using Power BI.
+Familiarity with APIs.
+Experience Machine Learning (Sklearn or TensorFlow).
+Advertiser
+Brief description of the company
+Bolder is an independent service provider, offering corporate & fund services, company structuring and business support, governance and compliance solutions.
+Bolder offers unique career opportunities for professionals who enjoy teamwork across multiple jurisdictions. The foundation of our organisation is an international network of expertise and client teams. In these teams, we share knowledge and leverage the industry expertise of our global workforce to provide optimal services to our clients.
+Our expertise teams offer an environment where all staff members are mentored by experienced colleagues. At the same time, we encourage each other to take ownership of local and cross-border projects.
+Number of employees
+25-49 employees
+Contact
+Contact person: Tomáš Balogh
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5204177
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Bratislava
+Pozícia:
+Business Intelligence Specialist
+,
+Database Administrator
+,
+Database Analyst
+,
+IT Consultant
+,
+Python Programmer
+Spoločnosť:
+Bolder Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+2 600 EUR/month

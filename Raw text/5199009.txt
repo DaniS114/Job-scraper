@@ -1,0 +1,112 @@
+Medior/Senior programátor
+IT & Elektronic s.r.o.
+Miesto práce
+Belopotockého 627, 031 01 Liptovský Mikuláš
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+● implementácia backendových komponentov a API funkcionalít platformy,
+● návrh a vývoj databázových schém a optimalizácia dotazov,
+● integrácia experimentálnych AI a analytických modulov do jádra platformy,
+● automatizované a manuálne testovanie funkčnosti a stability riešenia,
+● dokumentácia kódu a technických riešení,
+● spolupráca s technickým vedúcim na dodržiavaní architektonických štandardov,
+● identifikácia a riešenie technických problémov a úzkych miest v kóde,
+● vylepšovanie vývojových procesov a nástrojov.
+Zamestnanecké výhody, benefity
+● účasť na vývoji inovatívnej e-learningovej platformy s AI komponentmi,
+● možnosť pracovať s modernými technológiami a experimentálnymi modulmi,
+● spoluprácu s technickým vedúcim a skúsenými kolegami,
+● profesionálne a stabilné prostredie v rámci podporeného výskumno-vývojového projektu,
+● forma práce on-site,
+● atraktívne finančné ohodnotenie podľa skúseností.
+Informácie o výberovom konaní
+V prípade záujmu pošlite svoj životopis alebo profil na adresu: pazdernaty@itelektronic.sk
+V priebehu pár dní sa vám ozveme a dohodneme na online pohovore.
+Predpokladaný termín ukončenia výberového konania
+31.12.2025
+(ostáva ešte 14 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+a
+Slovenský jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Streams - Mierne pokročilý
+Spring Boot - Pokročilý
+Multithreading - Mierne pokročilý
+Spring Security - Mierne pokročilý
+Hibernate - Pokročilý
+Spring MVC/WebFlux - Mierne pokročilý
+JPA - Pokročilý
+Spring Data JPA - Mierne pokročilý
+JUnit - Mierne pokročilý
+Microservices - Mierne pokročilý
+Cloud (AWS/GCP) - Mierne pokročilý
+Mockito - Pokročilý
+Docker - Pokročilý
+SQL - Pokročilý
+RabbitMQ - Pokročilý
+PostgreSQL/MySQL - Pokročilý
+Rest API - Pokročilý
+Maven/Gradle - Pokročilý
+Kafka - Pokročilý
+JSON - Pokročilý
+HTTP - Pokročilý
+Kubernetes - Pokročilý
+GraphQL - Mierne pokročilý
+Jenkins/GitHub - Pokročilý
+Actions/GitLab CI - Pokročilý
+Logging - Pokročilý
+ELK stack - Pokročilý
+SOLID - Pokročilý
+Osobnostné predpoklady a zručnosti
+Znalosť programovacích jazykov:  Java, Python, alebo C#
+Skúsenosti s databázami (SQL).
+Znalosť moderných frameworkov.
+Schopnosť pracovať v tíme.
+Analytické a logické myslenie.
+Komunikačné zručnosti.
+Proaktívny prístup k práci.
+Orientácia na výsledky.
+Odborná zdatnosť a flexibilita.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+IT & Elektronic s.r.o. je zameraný na výskum a vývoj v oblasti Kybernetickej bezpečnosti, kryptografie a AI výskumu.
+Skúmame konkrétne nástroje, algoritmy a prototypy, ktoré riešia aktuálne problémy v oblasti dátovej bezpečnosti, AI a kryptografie.
+Kontakt
+Kontaktná osoba: Matúš Pazdernatý
+Tel.:
++421902425722
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199009
+Dátum zverejnenia:
+28.11.2025
+2025-11-28
+lokalita:
+Liptovský Mikuláš
+Pozícia:
+Programátor
+Spoločnosť:
+IT & Elektronic s.r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

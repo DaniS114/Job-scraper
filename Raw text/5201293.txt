@@ -1,0 +1,113 @@
+O nás
+Pracovné pozície
+Benefity
+IT & Network
+BackEnd Application Engineer
+Mám záujem
+Mzdové podmienky
+2 500 EUR/mesiac
+Druh pracovného pomeru
+plný úväzok
+Mesto
+Bratislava
+Za tvoju prácu ťa odmeníme:
+Uvedená mzda predstavuje minimálne platové ohodnotenie, na finálnej sume sa dohodneme spoločne a rozhodujúce budú tvoje skúsenosti. Okrem mzdy ti ponúkame aj atraktívne výkonnostné bonusy (podľa splnených cieľov) - viac detailov nájdeš v časti Prečo pracovať u nás?
+Späť na pozície
+Aká bude tvoja rola?
+V Orange Slovensko práve renovujeme order manažment proces od vytvorenia objednávky až po jej doručenie. Ak máš ambíciu a chuť vybudovať  SW riešenie, ktoré je moderné a technologicky udržateľné, tak čítaj ďalej!
+Návrh a implementácia riešenia pre riadenie spracovania objednávok.
+Modelovanie procesov objednávok pomocou BPMN v BPM engine (napr. Camunda, jBPM, Kogito) a tvorba dizajnov workflow.
+Integrácia spracovania objednávok s okolitými systémami (ERP, CRM, WMS, e-commerce, platobné brány).
+Zabezpečenie konzistencie spracovania udalostí/events; návrh a implementácia stratégií retry, compensations a eventual consistency.
+Podporovať budovanie interného know-how v  oblasti spracovania objednávok (školenia, knowledge sharing, code reviews).
+Koho hľadáme?
+Minimálne 2 roky praktických skúseností s implementáciou order management riešení alebo BPM-based procesov; hands-on.
+Znalosť  BPM nástrojov (Camunda, jBPM alebo iné) vítaná.
+Znalosť a praktická skúsenosť s automatizáciou bezpečnostných procesov pomocou Infrastructure as Code (IaC).
+Praktické skúsenosti s programovacími jazykmi vhodnými pre back-end (Node.js, Python, Java) a s návrhom API.
+Znalosť databáz (SQL aj NoSQL) a návrhu dátových modelov.
+Znalosť CI/CD, monitoringom a implementáciou bezpečnostných opatrení v cloudových prostrediach.
+Komunikačné a prezentačné zručnosti, práca v tíme.
+Vysokoškolské vzdelanie v informatike alebo príbuznom technickom odbore (resp. ekvivalentné skúsenosti).
+Anglický jazyk na pokročilej úrovni (minimálne B2).
+Prečo pracovať u nás?
+Flexibilná pracovná doba
+a možnosť čiastočného
+Home Office
+8 dní dovolenky navyše
+10 dní
+kompenzácia PN/OČR
+3 dni voľna
+navyše na
+dobročinnú aktivitu
+a
+špeciálne príležitosti
+(svadba, narodenie dieťaťa)
+Holiday Office
+ti umožní pracovať 12 dní na diaľku aj z iných krajín
+Sabbatical
+v prípade potreby väčšieho množstva oddychu
+Parkovanie pre zamestnancov
+350 €
+na
+smartphone
+podľa vlastného výberu každé 2 roky
+900 €
+ročne v
+Benefit Plus
+napr. na dovolenku, elektroniku, knihy alebo ako príspevok na DDS
+MultiSport karta
+Neobmedzený paušál
+na pracovné aj súkromné účely
+Zvýhodnená ponuka
+našich služieb pre teba a tvojich blízkych
+100 % hradené
+stravné (6,98 €/deň)
+Využi
+zamestnanecké zľavy
+na nákup produktov a služieb u našich partnerov
+Odmena
+až do výšky
+2 000 €
+za odporúčanie svojich známych na naše voľné pracovné pozície
+Podpora vzdelávania
+pre kariérny aj osobnostný rast prostredníctvom školení a konferencií
+Psychologické poradenstvo
+pre teba a tvojich blízkych
+Prihlásiť sa na pozíciu
+Benefity
+Zobraziť všetky
+5 dní dovolenky navyše
+Doprajeme ti voľno nad rámec zákona, aby si mal/a viac času na seba a svojich blízkych.
+Narodeninové voľno
+V mesiaci svojich narodenín môžeš u nás čerpať deň voľna bez ohľadu na zostatok dovolenky.
+2 dni voľna na regeneráciu
+Dovolenka minutá, no potrebuješ ešte oddych? K dispozícii dostaneš ďalšie 2 dni voľna na regeneráciu.
+O výberové konanie sa postará
+Zuzana Krześniak
+Recruiter
+recruitment.sk@orange.com
+Objav naše
+atraktívne benefity
+Späť
+na hlavnú stránku
+Spojte sa s nami
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5201293
+Dátum zverejnenia:
+3.12.2025
+2025-12-03
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+Spoločnosť:
+Orange Slovensko, a.s.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

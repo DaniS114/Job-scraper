@@ -1,0 +1,170 @@
+AI Engineer – Tvorba a optimalizácia LLM agentov, Prompt Engineering & RAG [Ref:1261]
+APM Digital Solutions, s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+1 500 - 4 800 EUR/mesiac
+Ohodnotenie v závislosti od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Zmeň svet s AI agentmi a pridaj sa k nám!
+Hľadáme
+AI špecialistu
+, ktorý chce pracovať na technológiách, čo reálne menia spôsob, akým firmy fungujú.
+Budeš tvoriť a ladiť
+AI agentov
+na
+Microsoft stacku (Azure AI, Copilot Studio)
+a
+OpenAI
+, robiť kreatívny
+prompt engineering
+, pracovať s
+knowledge base
+a dolaďovať správanie agentov tak, aby fungovali ako top výkonní digitálni kolegovia.
+Ak si skúsenejší, čakajú ťa aj príležitosti na
+fine-tuning modelov
+a pokročilú optimalizáciu — veci, ku ktorým sa väčšina ľudí nedostane.
+Pracovať môžeš
+odkiaľkoľvek zo SR alebo EÚ
+. Do Bratislavy nám stačí, keď prídeš
+1–2× mesačne
+na workshopy, brainstormingy alebo stretko s teamom. Zvyšok je na tebe. Flexibilita full-on.
+Prečo je táto rola super pre teba:
+Dostaneš sa k veciam, kam sa bežný AI developer nedostane.
+Budeš priamo tvoriť generáciu AI agentov pre enterprise zákazníkov.
+Robíme rýchlo, pragmaticky a na reálnych projektoch.
+Žiadna korporátna byrokracia.
+Reálny dopad na produkty a riešenia.
+Čomu sa budeš venovať:
+Agentic Development & AI Engineering
+Tvorba, konfigurácia a orchestrácia AI agentov na Microsoft technológiách (Azure AI, Semantic Kernel, Copilot Studio) a OpenAI.
+Budovanie multi-agent riešení, nastavovanie behavior rules, skills, tool-use a bezpečnostných rámcov.
+Návrh promptov, systémových inštrukcií a optimalizácia promptového reťazca pre stabilné a predvídateľné výsledky.
+Knowledge Base Engineering
+Tvorba, správa a optimalizácia knowledge base pre agentov (structuring, chunking, retrieval, metadata stratégie).
+Hodnotenie kvality odpovedí, troubleshooting halucinácií, tuning retrieval stratégií.
+Implementácia RAG architektúr (retrieval-augmented generation) a ich performance optimalizácia.
+Model Optimization & Fine-Tuning (pre senior kandidátov)
+Fine-tuning a evalvácie modelov podľa potreby klientov.
+Testovanie a porovnávanie modelov, meranie presnosti a stabilizácia správania AI agentov.
+Integrácie & Technické riešenia
+Integrácia agentov do existujúcich systémov klienta (API, MS Teams, workflow nástroje, CRM).
+Monitoring riešení v produkcii, troubleshooting a incident support.
+Spolupráca s biznis a IT tímami pri návrhu architektúry AI riešení.
+Consulting & Delivery
+Pomoc klientom pochopiť možnosti AI agentov a vysvetliť technické koncepty „ľudskou rečou“.
+Návrh nových AI use casov – u klientov aj interne.
+Sle­dovanie trendov v agentic AI, RAG, MLOps, MS a OpenAI ekosystémoch.
+Koho hľadáme:
+Máš skúsenosti s:
+Agentic programming alebo vývojom AI agentov (Microsoft Copilot Studio, Semantic Kernel, LangChain, Autogen alebo iné).
+Prácou s OpenAI modelmi alebo Azure OpenAI.
+Prompt engineeringom (system prompts, structured prompting, tool-choice).
+Budovaním knowledge base pre AI agentov alebo RAG architektúr.
+Integráciami cez API a základnými cloud službami (Azure výhodou).
+Výhodou je:
+Skúsenosti s ML / LLM modelmi, evaluáciami a optimalizáciou.
+Fine-tuning modelov (supervised fine-tuning, adapters, embeddings tuning).
+Znalosť Azure AI Stacku (Cognitive Search, Kubernetes, Functions, AI Studio).
+Schopnosť konzultovať AI riešenia s klientom, ideálne v enterprise prostredí.
+Python a AI/ML knižnice (PyTorch, Transformers) – nie nutné, ale plusom.
+Zamestnanecké výhody, benefity
+Profesionálne pracovné prostredie (Macbook, Apple smartphone aj na súkromné účely)
+Práca s najmodernejšími toolmi na trhu vo všetkých oblastiach
+Rýchly osobnostný a kariérny rast
+Požívanie cudzieho jazyka na veľmi frekventovanej báze
+Cafeteria, čerstvé ovocie a zelenina na pracovisku
+Mladý team kolegov a prebiehajuci staffing
+Internacionalita a dynamika
+Možnosť pôsobiť v rôznych segmentoch
+Finančné benefity:
++5 extra dní dovolenky za rok po 12 mesiacoch (do 12 mesiacov 2 dni)
+MultiSport karta na športové a relax aktivity (100% hradená zamestnávateľom)
+Finančný bonus za odporúčanie vhodného kandidáta od 500 - 1000 EUR
+Extra dni voľna pre špeciálne udalosti v živote, ako svadba, narodenie dieťaťa
+Ďalšie benefity:
+Sídlime v centre mesta v luxusných priestoroch
+Elektronické gastro lístky
+Individuálny prístup zo strany spoločnosti
+Homeoffice
+Predpokladaný termín ukončenia výberového konania
+15.1.2026
+(ostáva ešte 29 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+AI - Umelá inteligencia - Pokročilý
+Python - Pokročilý
+Tvorba MS Agentov - Pokročilý
+Prax na pozícii/v oblasti
+2
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Silné analytické a problémové myslenie.
+Proaktívny, inovatívny mindset – hľadáš, kde môže AI priniesť reálnu hodnotu.
+Schopnosť fungovať v cross-funkčných tímoch.
+Výborné komunikačné schopnosti – technické veci vieš podať jednoducho a prakticky.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+APM Digital | Shaping the Future of CRM and AI
+Founded in 2016, APM Digital is an innovation-driven Salesforce Consulting and Microsoft Partner. We specialize in AI-powered transformation, next-generation CRM solutions, and agile IT outsourcing, always with a clear focus on delivering measurable business impact.
+We are not just another IT services company. We are pioneers in combining AI with CRM to reinvent how enterprises grow, operate, and engage with their customers across Europe, the DACH region, and the Middle East.
+*************
+What We Do
+** AI Innovation for Enterprises
+We design and implement scalable AI solutions, from consulting to full system development, enabling organizations to achieve measurable growth and efficiency.
+** Intelligent CRM Solutions
+As Salesforce and multi-CRM experts, we enhance customer engagement with AI-driven insights, automation, and seamless integrations.
+** Engineering Power On Demand
+Our nearshore teams provide flexibility and speed, accelerating AI, CRM, and custom app development projects.
+** Software Rescue and Outsourcing
+We stabilize and modernize legacy applications with minimal downtime and bring them into the AI era.
+*************
+Why Join Us
+At APM Digital, you will work at the intersection of AI, CRM, and enterprise innovation. We empower our people to deliver projects that matter, solve complex challenges, and co-create solutions with global clients.
+We are a company where innovation meets impact, and where your ideas can directly shape the digital future.
+*************
+Learn more: www.apm.digital
+Kontakt
+Kontaktná osoba: Margaréta Černotová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203952
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Práca z domu
+Pozícia:
+IT architekt
+,
+IT konzultant
+,
+Programátor
+,
+Python programátor
+,
+Softvérový inžinier
+Spoločnosť:
+APM Digital Solutions, s.r.o.
+Základná zložka mzdy (brutto):
+1 500 EUR/mesiac

@@ -1,0 +1,112 @@
+Hosting [Windows, Linux] administrátor, 200 až 250€MD
+TITANS freelancers, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP alebo dohodou
+Mzdové podmienky (brutto)
+4 000 - 5 000 EUR/mesiac
+Práca na kontrakt podľa počtu odpracovaných hodín.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Spolupráca možná v režime:
+OFF-SITE ( Bratislava )
+s čiastočným
+ON-SITE
+(približne 2x za týždeň).
+Prevádzka a správa serverov, úložísk, virtualizovaného prostredia a backup riešení;
+zodpovednosť za prevádzkovanie hostingových služieb v regióne EU a USA;
+zabezpečenie dodržiavania SLA
+pre incidenty a požiadavky, riadenie zmien v high-availability prostrediach;
+riešenie kritických udalostí (výpadky dátového centra, výpadky produkčných serverov);
+monitoring riešení
+v oblasti dostupnosti, výkonu a bezpečnosti dát;
+komunikácia so zákazníkmi a spolupráca s dodávateľmi, spracovanie eskalácií, podpora auditov a compliance;
+monitoring prevádzkovaného z pohľadu dostupnosti, výkonu a bezpečnosti dát;
+podpora automatizácie a zlepšovania procesov;
+účasť na on-call službách a nadčasovej podpore podľa biznis potrieb;
+tvorba a údržba technickej dokumentácie.
+Zamestnanecké výhody, benefity
+Stabilné zamestnanie a motivujúce finančné ohodnotenie;
+flexibilný pracovný čas;
+priestor na sebarealizáciu a osobnostný rast s možnosťou získať skúsenosti v IT sektore;
+predplatné časopisu Forbes/Nextech po úspešne odpracovaných 120MD.
+Informácie o výberovom konaní
+V prípade záujmu nám pošlite životopis v anglickom jazyku s upresnením Vašej časovej dostupnosti.
+Kontaktovať ohľadom ďalšieho postupu výberového konania budeme všetkých záujemcov. Ďakujeme vopred všetkým za prejavený záujem.
+Osobné údaje záujemcov o spoluprácu na projekte, ktorí nám zašlú svoj profesijný životopis prostredníctvom internetovej stránky www.profesia.sk, budeme spracúvať na účely výberového konania. Poskytnutie údajov záujemcu je nevyhnutné na účasť vo výberovom konaní, ktorého sa zúčastňuje ako záujemca o účasť na projekte, ktorý bude realizovaný pre nášho zákazníka. Osobné údaje záujemcov o spoluprácu (fyzických osôb – podnikateľov resp. konateľov spoločnosti, ktorí majú záujem byť našim obchodným partnerom) v rozsahu údajov uvedených v životopise, motivačnom liste, iných zaslaných prílohách a ďalších údajov získaných na uvedený účel v priebehu výberového konania (napr. pri osobnom pohovore) budeme spracúvať na tento účel po dobu do skončenia výberového konania. Spracúvanie údajov záujemcov na tento účel je nevyhnutné, aby sa na základe žiadosti dotknutej osoby vykonali opatrenia pred uzatvorením zmluvy (predzmluvné vzťahy). Osobné údaje budeme na tento účel uchovávať po dobu do ukončenia výberového konania. Bližšie informácie o podmienkach spracúvania Vašich osobných údajov na tento účel nájdete v sekcii Pravidlá ochrany osobných údajov na našej webovej stránke.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+3 roky
+Osobnostné predpoklady a zručnosti
+Minimálne 3 roky aktívnych skúseností s hostingom a systémovou administráciou v high-availability prostrediach;
+pokročilé skúsenosti s/so:
+administráciou Windows a Linux (Suse, RedHat) serverov;
+správou virtualizovaného prostredia (
+VMware, OpenStack
+);
+storage a backup riešeniami (
+Commvault
+);
+verejným cloudom (
+Alibaba Cloud
+, prípadne iné IaaS) – správa zdrojov, účtov, práv, compliance a nákladov;
+monitoringom (
+Checkmk,
+Zabbix
+);
+výhodou:
+skúsenosti so správou databáz (
+MySQL, MS SQL
+, Redis);
+profesná certifikácia v doméne (HP, Dell, Microsoft, Red Hat, Suse, VMware, ITIL...);
+prehľad v bezpečnostných štandardoch;
+znalosť LAN/WAN
+administrácie v kontexte virtualizovaného prostredia;
+skúsenosti s implementáciou, riadením a riešením problémov high-availability prostredí.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Chceš sa stať Titanom či Titankou?
+Ak túžiš po práci, prostredníctvom ktorej budeš podporovať inovatívne projekty, nezávislosť odborníkov, férové spolupráce a priamu komunikáciu, možno hľadáme práve teba!
+Sme TITANS freelancers a od roku 2013 poskytujeme služby v oblasti outsourcingu IT špecialistov. Posilňujeme IT projekty, na ktorých chýbajú tí správni ľudia, a freelancerom ponúkame špičkové projekty, ktoré vylepšia ich portfóliá.
+Toto sú čísla, ktoré hovoria za nás:
+30 000+ IT špecialistov v našej databáze
+650+ spokojných klientov na Slovensku a v zahraničí
+1 000+ alokovaných freelancerov
+Veríme, že pravý hrdina či hrdinka má viac než len skúsenosti a túžbu rásť - do práce vkladá aj svoje srdce, sebareflexiu a odvahu. Ak chceš s nami meniť svet freelancingu a outsourcingu IT špecialistov k lepšiemu, ozvi sa nám a prezradíme ti viac.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Recruitment
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5179082
+Dátum zverejnenia:
+21.10.2025
+2025-10-21
+lokalita:
+Bratislava
+Pozícia:
+Systémový administrátor
+Spoločnosť:
+TITANS freelancers, s.r.o.
+Základná zložka mzdy (brutto):
+4 000 EUR/mesiac

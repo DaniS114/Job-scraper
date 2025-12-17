@@ -1,0 +1,108 @@
+Linux System Engineer (Defence)
+FREQUENTIS Solutions & Services s. r. o.
+Place of work
+Slovak Republic, Austria, Abroad - Others (The job requires travelling)
+Contract type
+full-time, trade licence
+Wage (gross)
+3 200 EUR/month
+Minimum monthly salary: 3,200 EUR brutto. Freelancer's hourly rate to be agreed individually. The final offer may vary based on the experience and qualifications of the selected candidate.
+Information about the position
+Job description, responsibilities and duties
+Our Bratislava-based company FREQUENTIS Solutions & Services s. r. o. belongs to the Austrian group FREQUENTIS AG (www.frequentis.com). We provide communication and information systems for control centers with safety-critical tasks. Control Centre Solutions’ are developed and distributed by FREQUENTIS in the business segments Air Traffic Management (civil and military air traffic control, aeronautical information management, air defence) and Public Safety & Transport (police, fire and rescue services, emergency medical services, vessel traffic and railways).​
+Join our team and help us make our solutions even more reliable. Work for an international technological leader and enjoy the benefits of flexible working arrangements and our focus on a good work-life balance.
+Who We Are Looking For?
+We are looking for System Engineers who will take a key role in the technical implementation and service lifecycle of our systems, ensuring both delivery excellence and high-quality service support for our customers in the Defense domain.
+Main tasks
+​Plan, design, and implement technical solutions for customer delivery projects, ensuring compliance with system requirements and quality standards​
+Integrate systems and components into complex environments, performing installation, configuration, and validation activities
+Perform system audits, participate in site acceptances, and ensure system readiness.
+Prepare and maintain technical documentation, including configuration records, design specifications, and operational manuals
+Assist customers with technical questions related to system operation, configuration, and service
+Collaborate with Product Management on designing and extending/improving products
+Support the transition of delivery projects into the service phase, ensuring smooth knowledge transfer and operational readiness
+Service and maintenance duties: Handle service tickets (incidents, problems, configuration changes) within agreed response times and participate in on-call duties. Document and analyze reported incidents and problems, coordinate and carry out root cause analyses and remedies
+Technical Skills and Knowledge
+​Installation, configuration, and maintenance of Linux servers (preferably RHEL), including upgrades and troubleshooting
+​Bash scripting proficiency
+​Solid experience with virtualization platforms (VMware and KVM preferred)
+Understanding of VoIP technologies (SIP) and experience with SBC & PABX systems
+​Familiarity with various storage technologies and basic networking concepts and configurations (CISCO preferred)
+​Understanding of clustering principles
+​Ability to create clear technical documentation, including step-by-step guides, specifications, and requirements
+​Ability to quickly adapt to frequent software releases and evolving environments
+Special skills & abilities
+Strong analytical and troubleshooting skills in distributed system environments
+Professional and calm communication skills, even in critical situations
+Precise and structured documentation practices
+Willingness to travel to Vienna or to customer’s locations internationally
+Willingness to undergo security clearance
+Willingness to participate in an on-call duty rotation
+Skills considered as an advantage, but not disqualifying
+Experience with Windows Server installation and maintenance
+Experience with cloud platforms (AWS, Azure, etc.)
+Experience with database system (MySQL, MSSQL, PostgreSQL, Oracle DBMS)
+Experience with monitoring systems (Zabbix)
+Experience with monitoring and backup solutions
+Familiarity with automation tools (Ansible)
+Experience with service management frameworks (e.g., ITIL)
+Employee perks, benefits
+Training and development program (business and product trainings, language course)
+Employee referral program (financial reward for recommending a successful candidate)
+Employee assistance program (legal, financial and psychological counselling)
+Meal contribution fully paid by the company
+Multisport card/Pension scheme contribution (DDS)
+Flexible working hours, home office
+Refreshments, company & team events
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+Information Technology, Telecommunications
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+Flexible, self-driven, and goal-oriented
+Structured and responsible approach to work
+Team player who can operate within corporate processes and collaborative environments
+Customer-oriented mindset with a focus on delivery excellence
+Advertiser
+Brief description of the company
+Our Bratislava-based company FREQUENTIS Solutions & Services is part of the Austrian FREQUENTIS group (www.frequentis.com). We are a leading global supplier of communication and information solutions for safety-critical applications, such as for air traffic control towers, public safety control rooms (112) or air defense forces. Our mission-critical solutions cover diverse areas, such as telephony and radio communication, Geographical Information Systems (GIS), incident and resource management, video surveillance and automatic video analytics.
+FREQUENTIS Solutions & Services is specialized in software development and project delivery. Together with our parent company we are developing FREQUENTIS’ next generation control room solutions, using state-of-the-art technologies and processes. Our delivery teams then deploy those solutions at our customers around the globe, with responsibility for commercial and technical project management, engineering and quality assurance.
+To grow our team, we are constantly looking for talents in all these fields. Our company offers an interesting and challenging technical environment, a people-focused culture with emphasis on a good work-life-balance and, if desired, a long-term development and career opportunities.
+For our customers, lives may be at stake and seconds count. Our solutions thus need to be developed to the highest standards when it comes to usability and reliability. Safety is what guides us from the first designs till the final tests of any of our solutions. If those are the kinds of challenges that excite you, then you have come to the right place!
+Number of employees
+150-199 employees
+Contact
+Contact person: Ing.  Eva Lajchová
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5178884
+Dátum zverejnenia:
+20.10.2025
+2025-10-20
+lokalita:
+Slovak Republic, Austria, Abroad - Others (The job requires travelling)
+Pozícia:
+IT System Administrator
+,
+IT/Technical Support Specialist
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+FREQUENTIS Solutions & Services s. r. o.
+Základná zložka mzdy (brutto):
+3 200 EUR/month

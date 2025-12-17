@@ -1,0 +1,181 @@
+Azure Cloud Architekt
+PredictiveDataScience, s. r . o.
+Miesto práce
+Trnava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok
+Termín nástupu
+01.01.2026
+Mzdové podmienky (brutto)
+2 500 - 4 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného
+Azure Cloud Architekta
+, ktorý bude navrhovať, implementovať a optimalizovať cloudové riešenia v prostredí
+Microsoft Azure
+.
+Tvojou úlohou bude viesť návrh architektúry pre nové projekty, dohliadať na ich bezpečnosť, výkonnosť a nákladovú efektivitu, ako aj spolupracovať s vývojármi, DevOps a AI tímami (napr. projekt
+PredictiveResearchLab
+) na tvorbe moderných cloud-native riešení.
+Náplň práce
+Návrh a implementácia architektúry:
+Tvorba a návrh
+end-to-end architektúry
+pre cloudové riešenia v prostredí Azure (IaaS, PaaS, SaaS).
+Návrh infraštruktúry podľa princípov
+Well-Architected Framework (WAF)
+.
+Integrácia služieb ako
+Azure Functions, App Services, Logic Apps, Event Grid, Azure Service Bus, API Management
+.
+Optimalizácia dostupnosti, výkonnosti a nákladov infraštruktúry (scaling, caching, load balancing).
+Tvorba
+architektonickej dokumentácie
+, diagramov a deployment modelov.
+Cloud infraštruktúra a DevOps:
+Návrh a správa infraštruktúry ako kódu (
+Terraform
+).
+Príprava a údržba CI/CD pipeline-ov (
+Azure DevOps
+).
+Správa identity a prístupov (
+Azure AD, RBAC, Managed Identities
+).
+Automatizácia procesov prostredníctvom
+PowerShell
+alebo
+Azure CLI
+.
+Integrácia s dátovými a AI službami:
+Spolupráca s AI a dátovým tímom (napr. LLM/AI Expertmi v rámci
+PredictiveResearchLab
+) pri návrhu architektúry pre dátové a AI systémy.
+Integrácia
+Azure Machine Learning
+,
+Azure Cognitive Services
+a
+Azure OpenAI Service
+do aplikačných riešení.
+Návrh dátových tokov s využitím
+Azure Data Factory, Synapse Analytics, Azure Storage, Event Hub
+.
+Bezpečnosť a riadenie prístupu:
+Nastavenie
+Zero Trust
+princípov,
+network segmentation
+,
+firewallov
+,
+Key Vault
+a
+Security Center
+.
+Tvorba a audit
+role-based access control (RBAC)
+modelov.
+Dodržiavanie
+compliance a governance
+pravidiel (napr.GDPR, ISO 27001, Azure Policy).
+Monitoring, správa a optimalizácia:
+Nastavenie monitoringu cez
+Azure Monitor, Application Insights, Log Analytics
+.
+Tvorba dashboardov pre prevádzkové a biznis ukazovatele.
+Vyhodnocovanie spotreby a návrhy optimalizácie nákladov (
+Azure Cost Management, Advisor Reports
+).
+Spolupráca a podpora tímov:
+Technické vedenie projektov a mentoring vývojárov a DevOps inžinierov.
+Konzultácie s biznis analytikmi a product ownermi pri návrhu cloud architektúry.
+Účasť na plánovaní sprintov a hodnotení technických rizík.
+Zamestnanecké výhody, benefity
+Účasť na inovatívnych projektoch (napr.
+PredictiveResearchLab
+, AI integrácie, dátové platformy)
+Možnosť navrhovať a ovplyvňovať architektúru projektov od základu
+Práca s najnovšími technológiami Microsoft Azure a OpenAI
+Hybridný režim práce, flexibilný čas, špičkové technické vybavenie
+Odborný rast, certifikačná podpora (Microsoft Learn, Pluralsight, certifikácie hradené firmou)
+Predpokladaný termín ukončenia výberového konania
+7.12.2025
+(ostáva ešte 20 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+informatika, informačné systémy, sieťové technológie alebo príbuzný odbor
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+s návrhom a implementáciou cloud riešení.
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Technické zručnosti:
+Výborná znalosť
+Azure služieb (Compute, Storage, Networking, Security, AI, DevOps)
+.
+Skúsenosti s
+Terraform
+Znalosť
+CI/CD nástrojov (Azure DevOps)
+.
+Výhodou: znalosť
+Python, PowerShell, YAML
+, skúsenosti s
+Docker/Kubernetes (AKS)
+.
+Znalosť princípov
+cloud governance, FinOps, bezpečnosti a škálovateľnosti
+Osobnostné predpoklady:
+Strategické a systémové myslenie
+Zodpovednosť a technická precíznosť
+Schopnosť riešiť problémy a navrhovať efektívne riešenia
+Komunikačné zručnosti – preklad technických riešení do biznis jazyka
+Tímový hráč so schopnosťou mentoringu
+Certifikácie (výhodou):
+Microsoft Certified:
+Azure Solutions Architect Expert (AZ-305)
+Microsoft Certified:
+DevOps Engineer Expert (AZ-400)
+Microsoft Certified:
+Security Engineer Associate (AZ-500)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+PredictiveDataScience je moderná dátovo-analytická spoločnosť špecializujúca sa na prediktívne modelovanie, pokročilú analytiku a implementáciu riešení umelej inteligencie. Pomáhame firmám premeniť ich dáta na hodnotné poznatky, automatizovať rozhodovacie procesy a budovať inovatívne produkty postavené na AI. Naším cieľom je prinášať presné, spoľahlivé a praktické riešenia, ktoré podporujú rast a konkurencieschopnosť našich klientov.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Lukáš Hrčka, PhD.
+Tel.:
++421908388784
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5193323
+Dátum zverejnenia:
+17.11.2025
+2025-11-17
+lokalita:
+Trnava
+Pozícia:
+DevOps Engineer
+,
+Programátor
+Spoločnosť:
+PredictiveDataScience, s. r . o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

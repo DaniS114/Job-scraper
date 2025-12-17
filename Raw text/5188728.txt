@@ -1,0 +1,91 @@
+About us
+Our benefits
+Open positions
+MDM ETL Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 400 - 4 100 EUR/month
+For Slovakia the base salary range for this position is between [EUR 2,400] and [EUR 4,100] per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Are you passionate about master data management and eager to join a global team driving data excellence? We're looking for a skilled MDM Delivery Specialist to help us maintain and enhance our critical data infrastructure while delivering exceptional value to our business partners across Swiss Re.
+About the Role
+In this role, you'll be at the forefront of our data management initiatives, handling everything from incident resolution to complex ETL development. You would ensure our master data remains accurate, accessible, and secure.
+Key Responsibilities:
+•	Own and manage incidents, problems, change requests, and infrastructure topics related to our MDM platforms
+•	Design and implement data quality checks and collaborate with data owners on follow-up actions
+•	Develop and maintain ETL processes using Oracle, PL/SQL, PowerCenter Informatica, and Azure to integrate data from various sources
+•	Create technical designs for interfaces and database applications, ensuring they meet business requirements
+•	Perform and document system technical tests and align them with infrastructure requirements
+•	Monitor and support the MDM landscape including EBX6, Oracle, DB2, MS SQL, Web services, and Informatica PowerCenter
+•	Collaborate with cross-functional teams to deliver optimal solutions for master data management
+About the Team
+We are a team of analysts and engineers, spread across multiple locations globally, driving the MDM function at Swiss Re.
+We are responsible for driving all stages of software development lifecycle including business analysis, solution design and platform management for nearly 750 master data and reference data sets.
+We are the main points of contact for our customers, business partners and enterprise architects for all MDM topics.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a detail-oriented problem solver with a passion for data management. You thrive in collaborative environments and enjoy tackling complex technical challenges. With your strong analytical mindset and communication skills, you're able to translate business needs into technical solutions while maintaining high standards of data quality.
+We are looking for candidates who meet these requirements:
+•	Master's or Bachelor's degree in Information Management, Computer Science, or equivalent field
+•	Previous experience with Oracle database development (Data modeling, Database design, SQL, PL/SQL)
+•	Solid knowledge of database development tools (i.e., TOAD, SQLPlus, GIT)
+•	Experience with ETL tools (PowerCenter, Azure Data Factory) and software development tools like Source Control (Git) and Build Tools (AzureDevOps)
+These are additional nice to haves:
+•	Knowledge of data governance principles and practices
+•	Experience working in a global, distributed team environment
+•	Familiarity with Agile development methodologies
+•	Problem-solving abilities and a proactive approach to challenges
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Lucia Vargova
+Apply here
+ID:
+5188728
+Dátum zverejnenia:
+7.11.2025
+2025-11-07
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+Database Analyst
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 400 EUR/month

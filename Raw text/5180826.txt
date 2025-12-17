@@ -1,0 +1,109 @@
+Back to open positions
+About PwC
+Students and graduates
+Experienced candidates
+Mothers
+Benefits
+Place of work
+Twin City A, Karadžičova, Old Town, Slovakia, Bratislava (Job with occasional home office)
+Contract type
+full-time
+Start date
+by agreement
+Wage (gross)
+From 2 200 EUR/month
+(For candidates with demonstrated experience the salary is negotiable based on experience and proven seniority.)
+Cloud Platform Engineer
+Job description, responsibilities and duties
+About Us:
+PwC is a global leader in consulting services and part of the Big 4. While we are renowned for our financial services such as audit and tax advisory, we also boast a dynamic Advanced Technology Solution (ATS) team. Our focus extends into developing cutting-edge IT solutions, encompassing global smart solutions from AI and RPA to web development.
+We are looking for a talented and experienced
+Cloud Engineer
+to join our growing team. As well as experience with cloud infrastructure, networking, and security, the Cloud Platform Engineer will be responsible for operating, monitoring, and maintaining our many Azure subscriptions and associated global applications. This is a cloud infrastructure role, and involves both engineering and operations, requiring comfort with project work and handling incident tickets as part of the team.
+Responsibilities:
+Design, build and maintain
+Azure based
+infrastructure with Terraform modules (IaaS and PaaS resources) as part of new projects or updates needed to production environments
+Troubleshoot IaaS and PaaS issues raised via SNow incident and meet ticket closure SLA’s
+Documentation and knowledge sharing: create and maintain environment diagrams, playbooks, runbooks, and best practice documents
+Communicate with internal business partners including guidance on application design
+Core Skills:
+Strong experience with
+Azure core services
+: Resource Manager, Virtual Machines/Scale Sets, Storage (Blob/Files), Networking (VNets, NSGs, Load Balancer, App Gateway, DNS, Private Link)
+Experience in Windows or Linux administration, with strong problem-solving abilities
+Skilled in
+Azure Kubernetes Service
+Experience with
+Terraform
+Excellent problem-solving and analytical skills
+Nice To Have:
+Experience with BICEP and/or ARM templates
+CI/CD and automation: Azure DevOps Pipelines or GitHub Actions (YAML)
+Familiarity with configuration management tools, preferably Ansible
+Familiarity with configuring and managing Kafka/MongoDB/Elasticsearch
+Competency in scripting languages such as Bash, Shell, or PowerShell
+Why Join Us?
+Be part of a forward-thinking team that leads innovation in technology solutions.
+Work on impactful projects that span various domains, including AI and RPA.
+Collaborate with industry experts and gain exposure to diverse technologies.
+Opportunity to mentor and lead within a supportive and dynamic environment.
+Are you ready to drive innovation and make a global impact in technology?
+Apply now and embark on an exciting journey with PwC's ATS team!
+PwC is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+Employee perks, benefits
+Benefits you can enjoy while working at PwC
+Financial Rewards:
+Benefit from regular salary reviews and special life events/bonuses. Enjoy meal contributions and a cafeteria benefit system offering personalized choices.
+Flexibility & Work-Life Balance:
+Enjoy our hybrid working policy, flexible working hours, 2 extra days off during Christmas along with Sick-days. Every minute of your extra work is valued and compensated.
+Career Development:
+Engage in tailored internal and external training programs as well as structured career development plan.
+Health & Well-being:
+Access premium benefits such as Multisport card or a medical center membership. Take advantage of our Well-being and Work-Life Coaching program.
+Supportive Culture:
+Participate in teambuilding activities and social events and join our employee referral program. Experience a culture with regular feedback and a supportive environment.
+Global Opportunities
+: Seize the opportunity for international assignments and work on diverse projects with international clients. Explore the world while working with the possibility of working from abroad.
+Extra perks:
+Use various discounts at partner companies such as cars, health care, beauty, culture or others. Transfer up to 4 telephone numbers at discounted rates.
+At PwC, we believe in nurturing your career, supporting your health and wellness, and recognizing your dedication. Join our team and experience a workplace that values you beyond your work hours.
+Information about the selection process
+If you'd like to apply for this position, please click on the "Apply Now" button on our website and apply through our system.
+You can find the data privacy announcement here: https://pwc.to/2s8n2tn
+If the current position is not right for you but you have friends or acquaintances in your area who could be interested in working with us, feel free to direct them to us. If we establish cooperation with a candidate recommended by you, you can receive a reward from 300 to 1000 EUR, depending on the seniority of the candidate: https://www.pwc.com/sk/en/careers/get-rewarded-for-recommending-candidate.html
+We seek to hire people who are great at what they do and bring our behaviours to life in how they do it. Our PwC Professional framework guides us to work together to create a better tomorrow. Together, Trusted Leadership and Distinctive Outcomes are how we deliver on our purpose and strategy, serving our clients and living our values in every interaction, everyday. The PwC Professional framework defines the behaviours we’re all expected to demonstrate at PwC and what we look for in our future talent.
+Are you ready to be a PwC Professional?
+Contact
+Contact person: Vanessa Barthová
+E-mail:
+send CV
+Send CV
+Back to open positions
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5180826
+Dátum zverejnenia:
+23.10.2025
+2025-10-23
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+DevOps Engineer
+,
+Frontend developer
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+PwC
+Základná zložka mzdy (brutto):
+2 200 EUR/month

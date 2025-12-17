@@ -1,0 +1,127 @@
+Senior Front-end developer (TypeScript/React)
+Inphinity s. r. o.
+Miesto práce
+Dúbravská cesta 14, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 500 EUR/mesiac
+Platové ohodnotenie sa pohybuje od 3500€ brutto. Platové podmienky sa pohybujú v závislosti od znalostí, kvalifikácie a motivácie kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​Inphinity prepája analytickú silu Qliku s Qlik natívnou Inphinity Suite. Neustále vyvíjame moderné a inovatívne produkty a sme hrdí na to, že vytvárame podporné prostredie pre všetkých našich zamestnancov, kde môžu proaktívne robiť to najlepšie a rásť spolu so spoločnosťou.​
+Hľadáme
+Senior TypeScript programátora
+na
+dlhodobú spoluprácu
+, ktorý sa nebojí vývoja na už zabehnutých produktoch. Pracovať budeš interne v našom expertnom tíme na pozícií Front-end Developera. Zapojíš sa do sedem-členného tímu, ktorý autonómne pracuje na vývoji produktov.
+Samostatný vývoj a aktualizácia nášho existujúceho software-ového riešenia, uživateľského rozhrania, pomocou webových technológií
+(React, TypeScript)
+Migrácia legacy komponentov z
+AngularJS
+do ReactJS
+Spolupráca na formavaní šecifikácií nových funkcií z hľadiska
+UI
+Pripájanie na existujúce back-end
+REST API
+​Konfigurácia kompilačných nástrojov ako
+Webpack
+a správa závislostí​
+​Testovanie a zabezpečovanie kvality kódu (pomocou automatizovaných testou)​
+Ladenie kódu a opravy bugov nahlásených zákazníkmi
+Práca s
+Git, TeamCity, JetBrains IDEs
+Zapojenie sa do technických code-reviews, prípadne konzultácie s junior developerom
+Aktívna komunikácia so zvyškom tímu
+Integrácia vytvorených komponentov do prostredia
+Qlik
+Zamestnanecké výhody, benefity
+Práca v špičkových a moderných technológiách
+(Qlik, Snowflake...)
+Dostupnosť
+AI nástrojov
+(plne hradený account napr.
+Chat GPT
+)
+Prístup k najmodernejším poznatkom a trendom v oblasti Dátovej analytiky
+25 dní dovolenky
+bez ohľadu na vek +
+5 Inphinity days
+Zmluva na dobu neurčitú formou
+TPP/ŽL/s.r.o. ako aj orientácia na dlhodobú spoluprácu a partnerský prístup
+90€
+/kvartál
+príspevok na relaxáciu
+, športové aktivity/multisport karta a duševné zdravie
+Príspevok do 3. piliera
+(TPP)
+Po zaškolení
+možnosť práce z domu
+(občasná návšteva office v Bratislave vítaná)
+Mobilný telefón a PC aj na súkromné účely
+Možnosť
+zdarma parkovať v budove
+, škôlka v budove, káva čaj a ovocie na pobočke (BA)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+ReactJS - Pokročilý
+TypeScript - Pokročilý
+Rest API - Mierne pokročilý
+AngularJS - Základy
+Webpack - Základy
+Prax na pozícii/v oblasti
+5
+Osobnostné predpoklady a zručnosti
+Pokročilá znalosť ReactJS a TypeScript
+Praktická skúsenosť s návrhom a implementáciou webových uživateľských rozhraní
+Predchádzajúce pracovné skúsenosti s AngularJS - výhodou
+Znalosť Qlik Sense alebo Qlik Cloud - výhodou
+Znalosť protokolu OAuth 2.0 - výhodou
+Schopnosť efektívne pracovať samostatne, ako aj v tíme
+Túžba zlepšovať svoje zručnosti a pracovať na sebe
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Inphinity je technologický partner Qlik-u, ktorý pozostáva z tímu dátových expertov, ktorí sa zaviazali poskytovať používateľom Qlik-u dodatočnú funkcionalitu a hodnotu. Inphinity umožňuje active intelligence prostredníctvom workflow, akcií, zachytávania procesov a dát. Bezpečné, škálovateľné a pripravené pre vaše SaaS alebo on-prem Qlik prostredie. Inphinity distribuuje produkty prostredníctvom globálneho partnerského programu a úzko spolupracuje s partnermi a zákazníkmi, aby sme posunuli hranice dátovej analýzy. Inphinity sme vybudovali z úspechu EMARK, renomovanej značky v rámci ekosystému Qlik.
+20+ rokov v oblasti BI  10+ rokov spolupráce s Qlik  20+ nadšených partnerov
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Marek Černák
+Tel.:
++421940999161
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5184476
+Dátum zverejnenia:
+30.10.2025
+2025-10-30
+lokalita:
+Bratislava
+Pozícia:
+Frontend programátor
+,
+Javascript programátor
+,
+Programátor
+Spoločnosť:
+Inphinity s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

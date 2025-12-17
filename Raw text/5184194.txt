@@ -1,0 +1,117 @@
+C++ programátor
+Grain Slovakia s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+5 500 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​Hľadáme senior softvérového inžiniera na
+vývoj anti-ransomware/EDR produktu Gryphon
+.
+Gryphon chráni zariadenia prostredníctvom pokročilých techník detekcie a obrany voči škodlivému kódu a využíva ho čoraz viac klientov z rôznych sektorov. Našim cieľom nie je nič menej, ako pomôcť používateľom držať ransomware na dištanc a pomôcť s incident responsom. Chceme sa pomocou Gryphona zbaviť príjmov z našich Incident Response činností spojených s vydieračským malware!​
+Na čom to budeš pracovať?
+Pracovať budeš na agentskej časti nášho riešenia.
+Agenti slúžia na zber dát, vyhodnocovanie pravidiel, prijímanie príkazov zo servera a ovládanie zariadení.
+Všetko čo sa deje na endpointoch je potom analyzované a spracované v našej webovej službe.
+Agent funguje na všetkých vrstvách operačného systému od user-modu po kernel-mode, aby mal možnosť detekovať a blokovať všetky hrozby.
+Väčšina agenta beží v user-mode a je písaná v
+modernom C++
+, no na komplexnú ochranu systému je potrebný aj
+kernel-mode kód
+s obmedzenými možnosťami C++.
+Tento produkt využívajú denne analytici z oblastí Managed Defense, Incident Response ale aj Digital Forensics.
+Čaká nás veľa výziev v oblasti kybernetickej bezpečnosti, škálovania, optimizácie ale aj user-experience s ktorými nám vieš pomôcť.
+Čo budeš robiť?
+Samostatne i v spolupráci s inými členmi developerského tímu rozširovať funkcionality Gryphona a ladiť jeho existujúce komponenty.
+Očakávame, že každý člen tímu si bude schopný napísať základnú sadu testov (
+unit a integračné
+).
+Podľa tvojej odvahy/skúseností budete môcť aj písať kód v kernel-mode.
+Zamestnanecké výhody, benefity
+Pracovať budeš na softvéri, ktorý už dnes chráni tisícky endpointov.
+A toto číslo bude rásť. Mala by Ťa tešiť predstava, že spoluvytváraš niečo, čo má potenciál zachrániť dáta, prácu a potenciálne i živobytie množstvu ľudí.
+Ohodnotenie bude na úrovni okolo
+5500€/133636CZK brutto
+, v závislosti od skúseností a dohodnutého typu spolupráce.
+Preferujeme zamestnanie na
+TPP,
+no nebránime sa aj
+živnosti
+.
+Prémie vyplácame v závislosti od aktuálnej ekonomickej situácie.
+Zatiaľ sa vždy dalo vyčleniť časť zisku na odmeny pre tých, ktorí sa oň denne pričiňujú.
+Spomeňme ešte benefity v podobe príspevku na Multišport kartu, sickdays, a v blízkej dobe začneme prispievať i na III. pilier.
+Takisto ti pridelíme služobný hardware.
+Informácie o výberovom konaní
+Výberový proces je dvojkolový.
+1. kolo prebieha online formou (trvá cca 1 hodinu)
+2. kolo je osobne v spoločnosti alebo online (trvá cca 2 hodiny)
+Pracujete remote (občasné stretnutia v Bratislave sú potrebné, frekvencia dohodou)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+kybernetická bezpečnosť
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+C++ - Pokročilý
+Windows - Pokročilý
+Osobnostné predpoklady a zručnosti
+Znalosti programovacích jazykov, frameworkov a technológii:
+Používame moderné C++ (20/23) - aspoň 5 rokov skúseností v
+C++,
+CMake, ideálne zamerané na
+Windows
+alebo
+Cross-platform
+.
+Windows Internals
+(Vedieť ako fungujú procesy, thready, virtuálna pamäť, registre, security (security descriptory, ACLka, privilégia...),
+ETW, WNF, COM, WinRM...)
+Znalosť šifrovania, PKI, hashov, podpisov
+CMake
+vcpkg
+abseil/boost
+Vedieť písať drivery (minifiltre, WFP) je veľké plus
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Grain Slovakia je členom holdingu Anxo Group, ktorý zabezpečuje služby v oblasti systémovej integrácie a outsourcingu IT a HR riešení v regióne CEE a Middle East.
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Anna Pikovská
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5184194
+Dátum zverejnenia:
+30.10.2025
+2025-10-30
+lokalita:
+Práca z domu
+Pozícia:
+C++ programátor
+Spoločnosť:
+Grain Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+5 500 EUR/mesiac

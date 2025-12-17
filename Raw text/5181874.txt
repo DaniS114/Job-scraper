@@ -1,0 +1,121 @@
+Backup and Monitoring Support
+AlfaPro spol. s r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+1 300 - 1 600 EUR/mesiac
+Mzda záleží od schopností a vedomostí a nie je konečná. Pred letom je odmena a pred Vianocami je odmena + štedré odmeny pri projektoch a ďalšie odmeny pri nadštandardnom výkone.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme kolegu na Backup and Monitoring support. Pozícia je vhodná pre juniora so základnými skúsenosťami Backupov a Monitoringu siete. Teda niekoho kto možno nemá ešte toľko skúsenosti ale má veľký záujem. IT je pre neho hobby, ktorému venuje aj svoj voľný čas.
+Tvojou náplňou práce bude:
+• Práca v tíme na IT helpdesku
+• Riešenie incidentov poslaných backupovacími softvérmi
+• Proaktívne riešenie incidentov v monitoringu
+• Nahadzovanie nových zariadení a systémov do monitoringu a úprava / udržovanie monitoringu.
+Pozri si video ako to u nás vyzerá https://youtu.be/4fCg26t3fB4
+Hľadáme človeka, ktorý je akčný, nadšený pre IT, neočakáva stereotypnú prácu, aj keď občas sa jej nevyhne, je kreatívny a komunikatívny, vie veci úspešne dotiahnuť do konca a chce robiť prácu, z ktorej aj vidí výsledky a vidí aký prínos má jeho práca pre celú firmu.
+Ktorý hľadá prácu kde sa musí učiť nové veci, posúvať sa osobnostne, znalosťami a zručnosťami vpred. Kde musí hľadať najlepšiu cestu ako uskutočniť zverený cieľ.
+Ak ťa IT baví a chceš sa v IT zlepšovať a kariérne rásť pošli nám svoj životopis a napíš nám do emailu 10 slov čo ta v IT baví a s čím už máš skúsenosti - čomu sa venuješ vo voľnom čase v IT.
+Zamestnanecké výhody, benefity
+Ponúkame:
+Výborný kolektív, vzdelávanie, super nápomocného šéfa ktorý rozumie IT, viac voľnosti a slobody, možnosť sa vzdelávať, zmysluplnú prácu.
+Sme firma, ktorá robí veci inak už viac ako 19 rokov, či už ku klientom alebo k zamestnancom.
+Sme kolegami a zároveň kamaráti a spolu tvoríme tím, ktorý spolupracuje a pomáha si aj v súkromnom živote. Samotný tím sa významnou mierou podieľa na smerovaní celej spoločnosti a každý môže prispieť svojimi nápadmi.
+Pre celý tím / firmu je dôležitý výsledok práce. Nie či prídeš o 5 minút neskôr do práce alebo či si počas pracovnej doby vybavíš súkromnú záležitosť. Dôležitá je spolupráca, aby bol klient ale aj tím spokojný. Nikdy nezažiješ nudné vytváranie reportu v Exceli.
+• členovia tímu si môžu nakupovať IT tovar za veľmi výhodne podmienky
+• MultiSport karta 70% hradených zamestnávateľom
+• odmeny pred letom a pred Vianocami
+• možnosť používať firemné vozidlá na súkromné účely
+• mobilný telefón aj na súkromné účely
+• pracovné náradie je k dispozícii aj súkromne
+• možnosť práce z domu
+• dovolenka nad rámec zákona,
+• sick days
+• voľno a finančný príspevok navyše pri narodení dieťaťa
+• príspevok alebo plné preplatenie školenia / kurzu
+• bezúročné pôžičky
+• pitný režim a snack na pracovisku
+• spoločné raňajky
+• stolný futbal
+Samozrejmosťou sú pravidelné spoločné akcie, kde je kopec zábavy. Navzájom sa členovia tímu vzdelávajú na školeniach. Pri projektoch sa dajú získať štedré odmeny a taktiež máme systém aj nefinančného odmeňovania, za proaktivitu a prínosy, ktoré pomôžu celému tímu a našim klientom. Spoločne budujeme knowleadge base databázu aby sme mali prácu bez stresu. Sídlime v nových moderných priestorch kde mame napríklad aj oddychovú miestnosť a sprchu napríklad pre cyklistov. Ak ti tu niečo chýba pod s nami pracovať a zmeň to.
+Informácie o výberovom konaní
+Ak ťa IT baví a chceš sa v IT zlepšovať pošli nám svoj životopis na zamestnanie@alfapro.sk a napíš nám do  emailu 10 slov o tom co ťa v IT baví (aká oblasť) čomu sa venuješ vo voľnom čase v IT. Pripadne aké súkromne či pracovné projekty si realizoval?
+Na pohovore bude skúška z technickej teoretickej časti aj praktickej.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+a
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+Veeam Backup & Replication - Základy
+Altaro VM Backup - Základy
+Microsoft Windows - Základy
+Administrácia LAN/WAN - Základy
+Klient/server administrácia - Základy
+Administrácia Windows serverov - Základy
+TCP/IP - Základy
+Zabbix - Základy
+Vodičský preukaz
+B
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Čo by si mal spĺňať je:
+* nadšenie pre IT (IT ako hobby )
+* mať základne technické znalosti (DNS, DHCP, IPv4, Veeam Backup & Replication, Altaro VM Backup, Zabbix  )
+* analytické myslenie,
+* komunikatívnosť,
+* samostatnosť pri riešení pridelených úloh a zároveň byť tímový hráč
+* flexibilita a schopnosť prijať zodpovednosť,
+* korektnosť a lojalita,
+* schopnosť rýchlo sa učiť nové technológie a chcieť sa ich učiť.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť AlfaPro spol s r.o. sa zameriava už od roku 2006 na garantovanú proaktívnu správu počítačových sietí pre firmy, začínajúc od 2 do 500 PC. Našimi klientmi sú úspešné spoločnosti, ktoré chcú svoj čas efektívne využívať do svojej primárnej obchodnej činnosti a IT vnímajú ako dôležitý prostriedok, o ktorý by sa mala starať spoločnosť, pre ktorú je to primárna činnosť. Odlišujeme sa tým, že naši klienti neplatia za odpracované hodiny opravou chýb, ale za efektívne fungujúci systém. Celý náš tím IT špecialistov je pripravený nie len hasiť vzniknuté problémy, ale hlavne predchádzať im a pomáhať zvýšiť efektivitu procesov vo firme za pomoci IT riešení a priniesť tak pridanú hodnotu.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Roman Legindi
+Tel.:
++421907152344
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5181874
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Bratislava
+Pozícia:
+IT/Technical Support Specialist
+,
+Servisný technik
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+Spoločnosť:
+AlfaPro spol. s r.o.
+Základná zložka mzdy (brutto):
+1 300 EUR/mesiac

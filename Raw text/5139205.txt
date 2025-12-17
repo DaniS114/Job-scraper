@@ -1,0 +1,87 @@
+About us
+Our benefits
+Open positions
+Senior Connectivity Network Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Sakia the base salary range for this position is between [EUR 3,800] and [EUR 6,300] per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role,
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Join our network team at Swiss Re and help strengthen global resilience. As Senior Connectivity Network Engineer, you will define network standards, adopt the latest technologies, and oversee network concepts for our digital solutions.
+About the Role
+The Senior Connectivity Network Engineer acts as a Subject Matter Expert on network aspects for the DDI and Load Balancing product portfolio, supporting IT projects in On-Prem and Cloud integrations. Responsibilities include developing new products based on business needs, setting standards, collaborating across teams, and ensuring project success. Provides technical assistance for issues that cannot be resolved within operations and reviews product and integration architecture. Maintain accurate documentation of network configurations, changes, and troubleshooting steps.
+⦁    Collaborate with Infrastructure Engineers, Service Managers, internal stakeholders, and external IT partners.⦁    Offer expert guidance on EfficientIP DDI platforms and F5 Load Balancing technologies.
+⦁    Design and implement DDI solutions and F5 LTM configurations—including virtual servers, pools, nodes, profiles, iRules, and health monitors—in alignment with the enterprise network architecture.
+⦁    Configure and administer DNS, DHCP scopes, IP address allocations, and failover protocols.
+⦁    Diagnose and resolve advanced DDI issues and Layer 4–7 traffic as well as application delivery challenges in multi-vendor environments.
+⦁    Provide technical leadership on Efficient IP and F5 platform migrations, upgrades, and patch management.
+⦁    Maintain thorough documentation of system configurations, best practices, and operational procedures.
+⦁    Ensure compliance with security policies and best practices related to enterprise achritecture
+About the Team
+The Network Connectivity Team manages all network engineering and operations for Swiss Re worldwide, covering SD-WAN, perimeter security, Data Centres, LAN & Wi-Fi, DDI, and load balancers. We set the company's network strategy and maintain global IT infrastructure that reliably connects people and technology. We're seeking a network engineer familiar with core network concepts and practices in DDI and Load Balancing area.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You will work in a diverse team, learning new technologies, handling network solutions, and sharing knowledge. The role emphasizes integrity, teamwork, communication, and adaptability in a hybrid work setting.
+⦁    Strong experience with DDI EfficientIP SOLIDserver
+⦁    In-depth knowledge of DNS (BIND/Unbound), DHCP, IPAM and DDI security principles
+⦁    Working experiences with Load balancing technology, F5 Big-IP LTM architecture and configuration
+⦁    Understanding of TCP/IP, HTTP/HTTPS, SSL/TLS, and DNS.
+⦁    Familiarity with DDI automation and scripting (e.g., Python, Shell), creating and troubleshooting iRules and traffic policies.
+⦁    Experience in enterprise networking and security integration.
+⦁    Ability to analyze logs, packets, and configurations for issue resolution.
+⦁    Enjoying understanding new technologies and shaping new products for our customers
+⦁    Designing solutions, preparing documentation, effective communication, marketplace assessment, and translating requirements into practical outcomes.
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Denisa Bastos
+Apply here
+ID:
+5139205
+Dátum zverejnenia:
+3.11.2025
+2025-11-03
+lokalita:
+Bratislava
+Pozícia:
+IT Network Administrator
+,
+Service Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

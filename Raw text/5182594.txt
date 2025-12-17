@@ -1,0 +1,79 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Big Data Engineer on OpenXDR platform
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 3 200 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. 
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are developing a cutting-edge XDR solution that can provide comprehensive and proactive security across multiple domains, such as endpoint, cloud, email, identity and network.
+We are looking for Big Data Engineer for new OpenXDR solution that store and process data in form of low-level events from various sources of security data on AWS platform.
+Requirements:
+at least 2 years of experience with streaming and Big Data Technologies: Expertise in working with distributed streaming and computing frameworks such as Apache Kafka, Apache Flink, Hadoop, Apache Spark, and related tools like HDFS (Hadoop Distributed File System).
+experience with analytics suits like OpenSearch, Elasticsearch
+practical experience with Kafka
+programming skills in programming languages like Java or Python
+hands on experience with terraform
+hands on experience with NoSQL databases and event processing and messaging systems (like Kafka)
+some experience with AWS
+Nice-to-Have Skills:
+experience on platform AWS with services like AWS EMR, S3, Glue, Flink or MSK
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5182594
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Bratislava
+Pozícia:
+Database Analyst
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 200 EUR/month

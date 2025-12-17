@@ -1,0 +1,112 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Python/PySpark Developer (junior/medior)
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto):
+Od 2 600 EUR/mesiac
+final monthly basic salary is based on candidate´s professional experience, skills and knowledge *
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+- Sledovanie, diagnostika, analýza a vývoj aplikácie - pre reporting, ktorá spracovávajú dáta zo všetkých zdrojov spoločnosti. Projekt je postavený primárne na platforme AI/ML. Je to skvelá príležitosť pre rast a učenie. Pracuje sa v úzkej spolupráci s rôznymi tímami naprieč spoločnosťou.
+- Kódovanie BE časti a úpravy vo FE, integrácia s inými systémami
+-  OS: Linux, Debian/CentOS,
+-  DB: PostgreSQL
+-  Programovací jazyk PYTHON/ PySpark a TYPESCRIPT
+- Riešenie príčin problémov pri nasadzovaní s IT vývojom a IT testermi
+- Návrh opatrení na predchádzanie vzniku potenciálnym problémom - proaktívna prevencia
+- Definovať potrebu novej funkcionality, automatizácie riešenia vzhľadom na požiadavky užívateľov
+- Návrh nového riešenia a zohľadnenie vplyvu zmeny na celý systém
+- Testovanie novej funkcionality a jej implementácia do produkčného systému
+- Zodpovednosť za kvalitu kódu, dodržiavanie štandardov spoločnosti
+- Pravidelná  komunikácia s ostatnými programátormi, užívateľmi, manažérom
+- Pozícia vyžaduje prácu v medzinárodnom tíme
+- Agile, Scrum, JIRA
+Zamestnanecké výhody, benefity
+- práca na odbornej pozícií s možnosťou využívať doterajšie skúsenosti a vlastný osobnostný potenciál.
+- zázemie stabilnej medzinárodnej spoločnosti
+- zaujímavý sociálany a motiváčný program
+- jazykové vzdelávanie a odborné kurzy
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: anna.spasova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná spoločnosť pôsobiaca v oblasti informačných technológií.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Python - Pokročilý
+PySpark - Pokročilý
+Prax na pozícii/v oblasti
+development Python
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+-	Skúsenosti s celým cyklom vývoja SW riešenia – analýza, vývoj SW, testovacia fáza, implementácia, realizácia zmien, support
+-	minimálne 2 roky skúsenosti s programovaním  v Python /PySpark
+-       Kandidáti s väčšími skúsenosťami sú vítaní
+-       Anglický jazyk - pokročilá úroveň
+-	Technické požiadavky:
+o	Linux /vývoj Python/
+o	Databáza Oracle/vývoj SQL/
+o 	GIT
+o	TypeScript - výhoda
+o      ML/AI - Tensorflow, Pytorch, numpy
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Anna Spasová
+Tel.:
++421 2 6241 3438, +421 911 525 022
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5179576
+Dátum zverejnenia:
+21.10.2025
+2025-10-21
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+,
+IT konzultant
+,
+IT tester
+,
+Programátor
+,
+Python programátor
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+2 600 EUR/mesiac

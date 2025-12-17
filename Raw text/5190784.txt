@@ -1,0 +1,118 @@
+Frontend developer at SEERLINQ
+Premedix
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+* The final salary will depend on the candidate’s experience and skills.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Where science meets code.
+At
+Seerlinq
+– a successful
+med-tech startup
+driven by science, research, and innovation – we’re looking for a talented
+Frontend Developer
+to help us shape the future of
+telemedicine.
+Project:
+- Large-scale static frontend platform
+- Data-heavy platform for patient and patient data management
+- Main components: dashboards, charts, tables
+- Integration with our RESTful API
+Work description:
+- Building and refactoring data-heavy platform
+- Main components: responsive and interactive tables and charts
+- Applying accessibility and responsive design principles
+​
+Skills/ Tech Stack:
+​
+- Current stack: SolidJS/React, Vite, JavaScript/TypeScript, HTML5, CSS
+- OpenAPI types from our backend
+- Open to new frameworks
+- UI/UX skills optional, ale welcome
+- Deployed on AWS CloudFront
+- Performance optimization
+Why Join Seerlinq?
+- Work on a
+meaningful med-tech product
+that directly impacts healthcare
+- Join a
+small, ambitious team
+where your ideas matter
+- Opportunity to
+shape technology decisions
+and grow with the company
+- Flexible environment, modern stack, and a culture that values curiosity and creativity
+Zamestnanecké výhody, benefity
+- A dynamic role in a future-oriented company
+- A young and friendly team
+- A modern and comfortable work environment
+- Continuous opportunities for professional and personal growth
+- Care for your health
+- Company events and team-building activities
+Informácie o výberovom konaní
+If you're interested, feel free to contact us by responding to the advertisement or via email at: career@seerlinq.com
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+ReactJS - Mierne pokročilý
+JavaScript - Mierne pokročilý
+TypeScript - Mierne pokročilý
+HTML 5 - Mierne pokročilý
+CSS - Mierne pokročilý
+Prax na pozícii/v oblasti
+Frontend developer
+Osobnostné predpoklady a zručnosti
+- Experience with SolidJS or React, Vite, JavaScript/TypeScript, HTML5, CSS
+- Openness to learning and exploring new frameworks and tools
+- Strong attention to detail and focus on clean, maintainable code
+- Sense for usability and user experience (UI/UX skills are a plus)
+- Self-driven, proactive and comfortable working in a dynamic startup environment
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Seerlinq je medtech startup zameraný na neinvazívnu diagnostiku a personalizovanú optimalizáciu liečby, najmä pre pacientov so srdcovým zlyhaním. Využíva pokročilé algoritmy strojového učenia na analýzu signálov fotopletyzmografie (PPG). Táto technológia pomáha pri monitorovaní pacientov so srdcovým zlyhávania, čím umožňuje včasnú intervenciu  a znižuje počet hospitalizácií.
+Premedix Clinic jedna z prvých kliník precíznej medicíny v EÚ s unikátnym programom personalizovanej zdravotnej starostlivosti založenej na genomike a digitálnej medicíne. Program je výsledkom vlastného výskumu sesterskej organizácie – Premedix Academy. V Premedix Academy sme súčasťou viacerých výskumných projektov a iniciujeme aj vlastné štúdie. Okrem toho organizujeme rôzne vzdelávacie podujatia ako pre študentov, tak aj pre lekárov z praxe.
+Našim cieľom je implementovať precíznu medicínu do klinickej praxe a poskytovať tak prvotriednu zdravotnú starostlivosť. Aby sme naplnili tento cieľ, zriaďujeme sieť medicínskych expertov a kliník s vlastným výskumným programom a systémom vzdelávania.
+• Viac informácií o výskumných projektoch:
+https://premedixacademy.org/
+• Viac informácií o klinike:
+https://premedixclinic.sk/
+• Viac o spoločnosti Seerlinq:
+https://seerlinq.com/
+Kontakt
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5190784
+Dátum zverejnenia:
+13.11.2025
+2025-11-13
+lokalita:
+Bratislava
+Pozícia:
+Frontend programátor
+,
+Programátor
+Spoločnosť:
+Premedix
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

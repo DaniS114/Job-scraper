@@ -1,0 +1,92 @@
+About us
+Our benefits
+Open positions
+DevOps Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 700 - 4 500 EUR/month
+For Slovakia the base salary range for this position is between [EUR 2,700] and [EUR 4,500] per month (for a full-time role). The specific salary offered considers:​
+-the requirements, scope, complexity and responsibilities of the role, ​
+-the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.​
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.​
+
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.​
+Information about the position
+Job description, responsibilities and duties
+Are you looking for a challenging DevOps engineering role where you can keep learning, stretching your capabilities and contribute to some key financial platforms?
+In this role your tasks will include day-to-day operational work but also include project-related work in a multinational environment where you can count on an established team that seeks additional engineering support and expertise.
+In this role you will:
+•	Ensure that systems and infrastructure are safe and secure against cybersecurity threats
+•	Perform root cause analysis and resolve technical issues
+•	Work with software developers and software engineers to ensure that end to end development follows established processes and works as intended
+•	Implement and deploy software, updates, fixes, and provide Level 3 technical support to improve customer experience by reducing the occurrence of errors
+•	Design procedures for system troubleshooting and maintenance
+•	Create & Operate cloud infrastructure (IaC, performance/cost optimizations,…)
+About the team
+Joining our IT team offers a dynamic international experience with a diverse set of functions and applications in a constantly evolving landscape, ensuring a unique and educational journey. We prioritize agility, platform stability, and a passion for continuous learning, providing exposure to essential financial processes globally.
+About You
+You possess fluency in English, a results-oriented mindset, and are comfortable with adhering to deadlines, which can sometimes be tight. You demonstrate a willingness to enhance your skills and knowledge concerning the platforms you'll work on, understanding both their technical aspects and their business applications from our partners' perspective. You are a proactive and creative problem solver who knows when to seek assistance and, when necessary, is prepared to challenge the status quo.
+The essential skills we are looking for include:
+•	Experience with public and private cloud infrastructure (Azure, Cloud Foundry)
+•	Container technologies (Docker, Kubernetes)
+•	Working experience with a CI/CD setup
+•	Configuration and managing databases like MSSQL and Oracle
+•	Excellent communication skills to support our internal clients with their inquiries and incidents
+With additional experience in PostgreSQL and Mongo databases, proficiency in MSBI tools like SSIS & SSAS, a background in developing applications for large companies, and an understanding of ITIL processes including incident, problem, and release management, You are well-equipped for IT roles requiring diverse technical skills and process knowledge.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You possess fluency in English, a results-oriented mindset, and are comfortable with adhering to deadlines, which can sometimes be tight. You demonstrate a willingness to enhance your skills and knowledge concerning the platforms you'll work on, understanding both their technical aspects and their business applications from our partners' perspective. You are a proactive and creative problem solver who knows when to seek assistance and, when necessary, is prepared to challenge the status quo.
+The essential skills we are looking for include:
+•	Experience with public and private cloud infrastructure (Azure, Cloud Foundry)
+•	Container technologies (Docker, Kubernetes)
+•	Working experience with a CI/CD setup
+•	Configuration and managing databases like MSSQL and Oracle
+•	Excellent communication skills to support our internal clients with their inquiries and incidents
+With additional experience in PostgreSQL and Mongo databases, proficiency in MSBI tools like SSIS & SSAS, a background in developing applications for large companies, and an understanding of ITIL processes including incident, problem, and release management, You are well-equipped for IT roles requiring diverse technical skills and process knowledge.
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Livia Pasztorova
+Apply here
+ID:
+5117658
+Dátum zverejnenia:
+17.11.2025
+2025-11-17
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 700 EUR/month

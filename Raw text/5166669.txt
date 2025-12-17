@@ -1,0 +1,105 @@
+CGI Slovensko
+Tvoríme digitálnu budúcnosť
+Sme popredná globálna firma v oblasti IT konzultácií.
+API Developer
+Place of work
+Landererova 12, Landererova, Old Town
+Contract type
+full-time
+Wage (gross)
+From 2 100 EUR/month
+The base salary starts from 2100 to 3500 EUR/m. (gross). Final salary could be higher - it depends on skills and expertise of candidates.
+Information about the position
+Job description, responsibilities and duties
+We are looking for a technology enthusiast, that is constantly improving skills and is learning in every opportunity.
+•	We are running on Java 21
+•	Our micro services run on SpringBoot 3 and Spring
+•	From Spring we are using components like Spring MVC, Spring Security, Spring Integration, Spring Data JPA, Spring Data Redis, Spring Data Mongodb, Apache Camel, and more
+•	We are using also some parts from Spring cloud project like Config Server.
+•	We use JUnit with Mockito, Spock for unit testing and Integration Testing in API, cypress for front end unit tests
+•	We expose our APIs to the outside world through Apigee
+•	We build RESTful (OpenAPI 2 and 3 standard) APIs
+•	We consume SOAP APIs with use of Apache Camel
+•	We have Oracle database and we're using JPA/Hibernate as ORM layer
+•	We are in the process of migrating to NoSQL databases like Redis or DocumentDB
+•	We use Front end technologies of Angular 14, Typescript, HTML5, SCSS, RxJS, Ngrx, High charts, Webpack, Responsive and Progressive Web designs, BEM, Angular Material CDK
+•	Our code is version in Git and use Gitlab as our code repository
+•	Maven is our build tool, our artefacts are stored in Nexus
+•	For continuous quality we use static code analysis SonarQube and Fortify, which is focused on security and our APIs are scanned by WebInspect
+•	Our services and servers are monitored using Dynatrace
+•	Vast majority of our java developers use IntelliJ IDEA Ultimate to write their code, but if you prefer Eclipse, STS, VSCode, vim or notepad it's up to you. Your code just needs to be properly formatted according to our code style
+•	We are collaborating using Atlassian tools: Confluence and JIRA
+Employee perks, benefits
+What do we offer?
+• Friendly working atmosphere and a stable background of one of the largest IT companies in the world
+• Support of your professional growth
+• Certified learning programs
+• Profit Participation Plan - participation in the company’s profit
+• Share purchase Plan – the possibility of purchasing employee shares
+• 25 days of leave for regeneration for everyone
+• 3 sick-days for recovery
+• 30 days of fully paid sick leave
+• Benefit Plus Program for leisure activities
+• Referral bonus for referring a new colleague
+• Multisport card for sports and wellness facilities
+• The possibility of obtaining an interest-free loan
+• Language training
+• Vaccination against influenza and tick-borne encephalitis
+• Possibility of participation in various sports events – e.g. Do práce na bicykli/To work by bike, marathons, etc.
+• Member Assistance Program - possibility of using the advisory services of psychological and legal experts for health, work, or other serious life events
+• And many more…
+Join us and find out!
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+•	proven experience in a similar role (5+ years) with strong experience in Java
+•	strong understanding of integration with backend data systems (Oracle DB, JPA/Hibernate)
+•	excellent understanding and experience of Microservices with Spring Boot
+•	strong knowledge of RESTful API design
+•	experience / understanding of DevOps principles
+•	experience with a cloud platform: AWS, Google Cloud, etc.
+•	superior problem-solving skills and debugging capabilities
+•	good working knowledge of revision control and code review tools (Git, Gitlab)
+•	flexible and self-driven with a collaborative approach to problem solving
+•	excellent verbal and written communication skills (English required)
+•	Apart from the above, any of below mentioned points it will be considered as a plus:
+o	degree/diploma in Computer Science, Computer Engineering, or in a relevant field
+o	Spring components like Spring MVC, Spring Security, Spring Integration, Spring Data JPA, Spring Data Redis, Spring Data Mongodb, Apache Camel
+o	comfortable writing developer tests (JUnit with Mockito ,Spock)
+o	NoSQL Databases (Redis, DocumentDB)
+o	experience working in high performance Agile Scrum teams
+•	excellent verbal and written communication skills (English required)
+•	Location: 5days a week in Bratislava office is required
+Advertiser
+Brief description of the company
+At CGI, we call our employees members because all who join CGI are building their own company - one that has grown to 91,500 professionals located in more than 40 countries. Founded in 1976, CGI is a leading IT and business process services company committed to help clients succeed. We have the expertise, stability and dedicated professionals, all needed to achieve results for our clients and for our members. Learn more at www.cgi.com.
+Number of employees
+150-199 employees
+Contact
+Contact person: Kristína Kajanová
+E-mail:
+send CV
+Follow CGI
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5166669
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Programmer
+Spoločnosť:
+CGI Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+2 100 EUR/month

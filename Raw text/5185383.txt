@@ -1,0 +1,102 @@
+React Native Developer
+Asseco Central Europe, a.s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+od 2000€ brutto v závislosti od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Budujeme aplikáciu pre public sféru, ktorá spája mobilný a webový svet cez React Native, Expo a React Native Web. Používame Turborepo monorepo na škálovanie a dlhodobú udržateľnosť. Architektúru staviame na Zustand pre správu stavu a React Query na prácu s dátami. Aplikácia podporuje offline mód s lokálnou SQLite databázou, aby bola funkčná aj bez internetu.
+Čo budeš robiť
+Navrhovať a vyvíjať funkcie v
+React Native + Expo
+.
+Riešiť architektonické otázky pri práci s
+React Navigation, React Query, Zustand, SQLite
+.
+Vykonávať
+code review
+, mentorovať juniorov a dohliadať na kvalitu kódu.
+Podieľať sa na implementácii offline-first prístupu a práce s lokálnou databázou.
+Zamestnanecké výhody, benefity
+flexibilný pracovný čas, hybridný spôsob čerpania HO
+sick days a dni voľna navyše pri špeciálnych príležitostiach – svadba, pôrod, sťahovanie, sprievod prváčika v 1. školský deň
+bonus pri narodení/osvojení dieťaťa
+odmeny – Referral program, odmeny pre jubilantov, zodpovedajúca variabilná zložka platu
+doplnkové dôchodkové sporenie
+ovocie, pitný režim, káva
+inšpiratívne workshopy a aktivity na témy technology, enviro, diversity, well being
+teambuildingy, spoločenské podujatia
+vzdelávanie a osobný rozvoj - ACE akadémia
+poradenstvo v oblasti duševného zdravia
+multisport karta, klub TJ Asseco
+CSR aktivity
+a iné
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+Čo očakávame
+Skúsenosti s
+React Native
+(nie len React + wrapper).
+Znalosť
+monorepo architektúry
+(ideálne Turborepo).
+Praktické skúsenosti so state managementom
+Zustand
+a
+React Query
+.
+Výhodou je
+Skúsenosť s implementáciou
+offline riešení
+(SQLite alebo podobné).
+Schopnosť optimalizovať výkon a riešiť komplexné technické výzvy.
+Skúsenosti s bezpečnosťou a autentifikáciou (Biometrics, AppAuth, Keychain).
+Práca s mapami a vizualizáciou vrstiev.
+Predchádzajúca skúsenosť s aplikáciami s veľkým počtom používateľov.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Asseco Central Europe patrí medzi najsilnejšie softvérové domy v strednej a východnej Európe. Pôsobí na Slovensku, v Českej republike, Maďarsku, Taliansku, Nemecku, Rakúsku, Švajčiarsku a Poľsku. Spoločnosť realizuje náročné projekty pre sektor zdravotníctva, bankovníctva, priemysel a utility, poisťovníctva a verejnú správu, ktoré sú postavené na viac ako 35 ročných skúsenostiach s rozsiahlymi projektmi softvérových riešení na mieru.
+Skupina Asseco CE zahŕňa aj ďalšie spoločnosti so zameraním na IT. Asseco CE kladie silný dôraz na podporu strategických cieľov svojich klientov. Spoločnosť je súčasťou medzinárodnej skupiny Asseco (Asseco Group), ktorá pôsobí v približne 60 krajinách sveta a zamestnáva viac ako 33 000 ľudí.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Natália Hladká
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5185383
+Dátum zverejnenia:
+2.11.2025
+2025-11-02
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Java programátor
+,
+Javascript programátor
+,
+Programátor
+Spoločnosť:
+Asseco Central Europe, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

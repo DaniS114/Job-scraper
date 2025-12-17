@@ -1,0 +1,100 @@
+Senior Systems Engineer / Hybrid Cloud Tech Lead - remote work
+Location:
+Remote work
+Contract type:
+full-time
+Wage:
+From 2 700 EUR/month
+Company profile
+Descartes is the global leader in providing on-demand, software-as-a-service solutions focused on improving the productivity, performance and security of logistics-intensive businesses.
+More than 26 000 our customers use our modular, software-as-a-service solutions to
+- route, schedule, track and measure delivery resources;
+- plan, allocate and execute shipments;
+- rate, audit and pay transportation invoices;
+- access global trade data;
+- file customs and security documents for imports and exports;
+- and complete numerous other logistics processes by participating in the world's largest, collaborative multimodal logistics community.
+Our headquarters are in Waterloo, Ontario, Canada and we have offices and partners around the world.
+Learn more at www.descartes.com
+Your responsibilities
+We’re looking for someone who enjoys solving big technical challenges, loves cloud tech, and wants to help shape how our systems run across Azure, public cloud, and on-prem environments. If that sounds like you, keep reading.
+What you’ll be doing
+You’ll be part of our global engineering team—sometimes working from home, sometimes meeting with colleagues in the office. Your main mission: keep our Windows and cloud environments running smoothly while helping us grow and modernize them.
+Here’s a taste of what your days might look like:
+•	Running and improving our  hybrid/cloud environments and  Windows domains.
+•	Leading or jumping into projects involving Azure, Office 365, and cloud modernization.
+•	Driving automation using PowerShell, Azure CLI, and Infrastructure as Code.
+•	Helping steer our cloud strategy—what we should adopt, improve, or rethink.
+•	Troubleshooting tricky issues and handling production changes.
+•	Sharing your knowledge with teammates around the world.
+•	Making sure our server environments are secure, scalable, and reliable.
+•	Taking part in an on-call rotation
+The final job offer depends on your knowledge and experience.
+Your profile
+We’d love to meet you if you have:
+•	Solid experience with larger IT environments—especially hybrid or cloud setups.
+•	A knack for problem-solving and staying calm under pressure.
+•	Great communication skills and the ability to explain technical topics clearly.
+•	Experience juggling multiple projects without losing track of what matters.
+•	The ability to create solid documentation and technical designs.
+Technical skills you’ll need
+You should feel at home with:
+•	Microsoft technologies, especially Azure and Office 365.
+•	Windows Server (on-prem and cloud), Active Directory, GPO, DNS, DFS, trust
+relationships, and similar core components.
+•	Automation tools like PowerShell & Azure CLI.
+•	Infrastructure as Code.
+•	Hybrid identity setups (Azure AD) and cloud security best practices.
+Nice-to-have:
+•	Citrix XenApp experience
+•	Azure-focused Microsoft certifications
+•	A degree in Computer Science or similar
+•	3–5+ years of relevant experience
+We offer
+• Flexible working hours with a standard 7.5-hour workday
+• Remote work, with regular presence at the Descartes office in Namestovo or Zilina.
+• Free parking in the parking house directly at the building
+• Opportunity to work in an international team
+• Laptop provided for every employee
+• Company mobile phone of your choice (once every 2 years with employer's contribution)
+• Referral bonus program
+• Competitive salary commensurate with experience
+• Family-oriented benefits (wedding, new baby bonus, and additional days off)
+• Regeneration allowances, personal and work anniversary bonuses
+• Paid sick days
+• Meal vouchers, even while on leave
+• Professional development opportunities: English classes, training courses, and
+conference participation
+• Company events (team-building, Christmas party, family BBQ, and more)
+• Refreshments at the workplace (coffee, tea, fresh fruit)
+Contact
+Contact person: Alena Jankuliaková
+E-mail:
+send CV
+Send CV to the company
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202950
+Dátum zverejnenia:
+9.12.2025
+2025-12-09
+lokalita:
+Remote work
+Pozícia:
+IT Network Administrator
+,
+IT System Administrator
+,
+IT/Technical Support Specialist
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+Descartes Systems (Slovakia) s.r.o.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

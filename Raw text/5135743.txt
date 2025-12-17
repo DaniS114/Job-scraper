@@ -1,0 +1,101 @@
+Senior Operations Engineer – Cloud Administration
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Salary
+From 2 800 EUR/month
+From 2800 + VAR*
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions. Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+Job description, responsibilities and duties
+We are seeking a highly skilled and experienced
+Senior Operations Engineer
+to manage and optimize our cloud infrastructure with a focus on
+Azure-based solutions
+. This role will involve daily ticket handling for access management, developing Azure functions and tooling, and ensuring the seamless operation of cloud environments. The ideal candidate will possess deep technical expertise in Azure, senior-level development skills, and a strong background in system administration and IT operations.
+Key Responsibilities :
+Cloud Administration & Management
+Oversee the provisioning, configuration, and maintenance of Azure cloud infrastructure to ensure optimal performance, scalability and security.
+Develop and maintain Azure functions and tools to enhance automation and streamline operational processes.
+Monitor cloud resources using advanced tools to identify performance bottlenecks and implement cost-saving measures.
+Access Management & Ticket Handling
+Handle daily tickets related to access management, ensuring compliance with organizational policies and security standards.
+Troubleshoot access-related issues promptly to minimize disruptions and maintain service quality.
+Collaborate with stakeholders to define access control policies that align with business requirements.
+Development & Tooling
+Design, develop, and deploy custom tools and scripts using Azure Functions to automate repetitive tasks and improve operational efficiency.
+Implement robust solutions for monitoring, reporting, and alerting across cloud environments.
+Work closely with development teams to integrate new tools into existing workflows while adhering to best practices.
+System Administration & IT Operations
+Perform system updates, patches, and configurations across cloud environments to ensure reliability and security.
+Conduct root cause analysis (RCA) for recurring incidents and implement preventive measures.
+Optimize system performance through proactive monitoring and advanced troubleshooting techniques.
+Collaboration & Knowledge Sharing
+Partner with cross-functional teams including development, IT, and architecture teams to evaluate new services based on requirements.
+Provide technical guidance on cloud best practices to internal teams while mentoring junior staff members.
+Maintain comprehensive documentation for operational processes, technical solutions, and troubleshooting guides.
+Required Skills & Qualifications :
+Experience in
+Azure cloud administration
+, including resource provisioning, security management, and automation tooling.
+Senior-level development skills with proficiency in scripting languages such as Python or PowerShell for Azure Functions.
+Strong expertise in system administration and IT operations with a focus on cloud environments.
+Deep knowledge of Azure services such as Azure Active Directory (AAD), Kubernetes Clusters (AKS), Networking (VNet), Storage Accounts, etc.
+Advanced problem-solving abilities with a focus on analytical troubleshooting of complex systems.
+Excellent communication skills for effective collaboration across teams.
+Preferred Qualifications :
+Certifications such as Microsoft Certified: Azure Solutions Architect Expert or Azure Administrator Associate are highly desirable.
+Experience with DevOps practices including CI/CD pipelines for cloud-based applications.
+Basic wage component (gross) and other rewards
+: starting from 2800 EUR brutto /month + VAR*
+How we work :
+When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Check our Careers Site at
+https://www.siemens-healthineers.com/sk
+As an equal opportunity employer, we welcome applications from individuals with disabilities.
+Required education, skills and personality requirements
+Required education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+We offer
+Variable and Christmas bonus
+Hybrid type of work – combination of work from home & work from office(telework / homeoffice)
+Flexible Working Hours
+Bridge days – free extra paid leave 6 days per year
+3 sick days per year (no doctor’s permit needed)
+In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of family care
+Additional pension plan
+300 EUR for regeneration of work force via cafeteria system
+Multisport Card – employer's contribution of 10 EUR
+Recognition and Reward program
+Wellbeing program – Psychological, Legal and Financial Councelling
+Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps)
+Retention program (work anniversary, life anniversary, employee loans)
+Training and development program (business and product trainings, e-learning, language courses, soft skills trainings,…)
+Adjustable standing desk as a standard
+Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial Intelligence, Healthcare IT services, …)
+Participation on world famous IT conferences like Microsoft IGNITE for best employees
+Send CV
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Join us!
+Send CV
+Click for more information
+ID:
+5135743
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Systems Engineer
+Spoločnosť:
+Siemens Slovensko
+Základná zložka mzdy (brutto):
+2 800 EUR/month

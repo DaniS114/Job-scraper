@@ -1,0 +1,77 @@
+Senior Frontend/Fullstack Developer
+N I K É , spol. s r.o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+* nástupná mzda je závislá od skúsenosti kandidáta a je predmetom diskusie počas výberového konania. Minimálna nástupná mzda začína od 2500,- EUR/mesačne.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+- Budeš pracovať hlavne na vývoji stránky nike.sk a občas sa dostaneš do kontaktu aj s backoficovými systémami (CMS)
+- Budeš pracovať v tíme s ďalšími 5 programátormi
+- Hľadáme k nám fullstack developera, ktorý bude vyvíjať komplexne od frontendu, cez backend až po databázu
+- Webové stránky robíme v Reacte, dizajny a UI máme v Zepline a Figme, komponenty nahadzujeme do Storybooku
+- Pri server-side sa stretneš hlavne s Javou – Spring Bootom, a Node
+- Dáta máme najmä v PostgreSQL, Redis-e, na data iných tímov sa integrujeme cez RestAPI a Kafku
+- CI/CD máme v Gitlabe takže skúsenosť s nimi uvítame
+- Aplikácie nasadzujeme na vlastné VM a ich monitoring a prevádzka bude náplňou aj Tvojej práce
+- Nehráme sa na byrokraciu, v Niké si dôverujeme - nestretneš sa s mikromanažmentom a ani Ťa nebudeme nútiť vykazovať prácu do rôznych nástrojov
+Informácie o výberovom konaní
+Niké je líder inovácií vo svete tipovania. V Niké sa opierame o špičkový vývojársky tím, ktorý posúva náš business do nových dynamických dimenzií najnovších IT trendov. Vlastné sú nám voľnosť, fullstack vývoj a DevOps. Aj preto je Niké jednotkou tipovania na Slovensku.
+Vyvíjame riešenia pre stávkovanie cez všetky online kanály – web, mobile web, aplikácie pre Android a iOS.
+V Niké nájdeš dynamické a tvorivé prostredie otvorené akýmkoľvek novým nápadom, výborný tím pracujúci na vývoji jedinečných aplikácií.
+Našich viac ako 120 IT špecialistov, z celkového počtu 250 zamestnancov pracujúcich na centrále, už sídli v novej Niké IT budove na Starých Gruntoch v Mlynskej doline.
+Viac info zistíš na:
+https://kariera.nike.sk/
+Ďakujeme Vám za každú reakciu na túto pracovnú ponuku, ceníme si váš záujem. Kontaktovať budeme kandidátov, ktorých pozveme na osobné stretnutie.
+O zásadách ochrany osobných údajov sa dozviete na:
+https://www.nike.sk/info/zasady-ochrany-osobnych-udajov
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+- Skúsenosť s agilným spôsobom vývoja softvéru
+​- Skúsenosť s návrhom IT architektúry
+- Máš seniorne skúsenosti s vývojom moderného frontendu (JS/TS, React, Webpack/Vite...)
+- Máš skúsenosti s vývojom backendu (Java, Node, SQL atď.)
+- Schopnosť pracovať v tíme aj samostatne
+- Zaujímajú ťa nové technológie a trendy
+- Nie je ti jedno ako program vyzerá, máš rád programovanie, dátové štruktúry a algoritmy
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Niké, s.r.o. prvá slovenská stávková spoločnosť.
+Kontakt
+Kontaktná osoba: Radovan Mihina
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5175141
+Dátum zverejnenia:
+28.10.2025
+2025-10-28
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Java programátor
+,
+Javascript programátor
+,
+Softvérový inžinier
+Spoločnosť:
+N I K É , spol. s r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

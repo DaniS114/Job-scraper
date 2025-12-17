@@ -1,0 +1,127 @@
+Junior DevOps Engineer
+DevOpsGroup s. r. o.
+Place of work
+Remote work
+Contract type
+agreement-based (Temporary jobs), trade licence
+Start date
+ASAP
+Wage (gross)
+From 5 EUR/hour
+Reward system for every certification.
+Information about the position
+Job description, responsibilities and duties
+We’re looking for a
+curious and motivated individual who doesn’t settle for “it works” — but always asks why it works.
+As part of our
+DevOps Academy
+, you’ll go through multiple hands-on chapters covering core technologies like Linux, Git, Docker, AWS, and Kubernetes, while working toward certifications as an
+AWS Solutions Architect
+and
+Certified Kubernetes Administrator
+. In your first two years, you’ll gain real-world experience across a range of internal and client projects, always with the support of your mentor.
+This role is designed for or early-career developers who want to build a strong DevOps foundation and grow into cloud infrastructure professionals.
+​
+‍Roles and Responsibilities
+​
+As a Junior DevOps Engineer, you’ll contribute to both internal and customer projects while learning the ropes of modern DevOps practices in our
+DevOps
+Academy
+. Your responsibilities will grow as your skills do, but from the start, you’ll:
+Assist in the deployment and configuration of development tools and environments (e.g. CI servers, version control, test automation)
+Help manage and maintain cloud infrastructure — primarily in
+AWS
+, but also in Azure
+Collaborate with the team to troubleshoot issues related to infrastructure, deployments, and services
+Write and maintain scripts and automation tools to improve deployment and operations
+Contribute to real project work — not dummy tasks — with support from senior engineers
+Continuously build your understanding of modern DevOps tools, trends, and best practices
+​
+Ideal Skills and Requirements
+​Student or graduate in Computer Science or related field
+1–2 years of internship or work experience in programming (web dev is a plus)
+Curious and open to learning new technologies
+Comfortable with Git and basic scripting
+Bonus if you’ve touched any of these:
+Terraform
+Bash / Python / Go
+Helm / Argo CD
+Employee perks, benefits
+Growth-Focused Environment
+Learn by doing with real projects, mentorship, and a clear path from junior to architect.
+Access to a Shared Knowledge Base
+Leverage our collective DevOps expertise, tools, and internal documentation.
+Remote-First Culture
+Work from anywhere — we support remote collaboration and async communication.
+Certification Bonuses
+Earn extra rewards when you complete key certifications like AWS or Kubernetes.
+Flexible Working Hours
+​
+Adapt your schedule around studies, life, or personal projects.
+​​
+Active recognition of autonomy and initiative
+We reward proactive team members, both financially and in terms of career progression
+Variety of projects
+You’ll work on both internal and client-facing projects, giving you exposure to different technologies and real-world challenges
+Stability and reliable income
+We focus on long-term engagements with trusted clients, which means a stable environment and predictable growth path
+Information about the selection process
+During the academy phase, your hourly rate starts at €5, increases to €10 upon certification, and reaches €15 when you join your first client project. The full program spans 4 years: the first half focuses on learning and practical exposure, and the second half on growing into a key team member based on your goals.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+Cloud, Platform engineering, DevOps
+Language skills
+English - Upper intermediate (B2)
+Experience in the position/sector
+Web Developer, Programmer, System Administrator
+Number of years of experience
+2
+The position is suitable for a fresh graduate
+Yes
+Personality requirements and skills
+Curiosity and willingness to learn
+– You don’t settle for “it works,” you want to know
+why
+it works.
+Self-motivation
+– You take initiative, enjoy solving problems and exploring solutions independently.
+Growth mindset
+– You’re driven to improve, open to feedback, and excited by new challenges.
+Critical thinking
+– You can analyze situations, ask good questions, and break down complex problems.
+Responsibility
+– You take ownership of your tasks, respect deadlines, and care about quality.
+Team player
+– You’re open, friendly, and willing to support and learn from others.
+Advertiser
+Brief description of the company
+DevOpsGroup is the third company in Slovakia to become an AWS Advanced Partner, backed by a team of skilled professionals in DevOps automation and cloud solutions across AWS, Azure, and Kubernetes. We deliver DevOps as a Service, cloud migration, and support for startups with a focus on efficiency, expertise, and a personal approach. Our clients benefit from faster time-to-market, streamlined operations, and reduced costs. We’re known for our reliability, knowledge sharing, and strong customer support.
+Learn more at devopsgroup.eu.
+Number of employees
+10-19 employees
+Contact
+Contact person: Pavol Krajkovic
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5183929
+Dátum zverejnenia:
+29.10.2025
+2025-10-29
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+DevOpsGroup s. r. o.
+Základná zložka mzdy (brutto):
+5 EUR/hour

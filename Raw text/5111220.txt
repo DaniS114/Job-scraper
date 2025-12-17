@@ -1,0 +1,94 @@
+Software Test Architect for medical application
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Salary
+From 2 400 EUR/month
+From 2400 EUR brutto /month + VAR*
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions. Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+Job description, responsibilities and duties
+Do you want to help us create the future of healthcare?
+Our team in Kosice is working on a great range of products and solutions in Radiography, Fluoroscopy, Mobile X-ray, Women's Health and Accessory Solutions.
+​​​​​​​Our products are very often the first point of care, touching the lives of many people all over the world. This is our motivator every single day and makes us proud of what we do.
+To make state-of-the art imaging technology available for hospitals and their patients all around the globe, we love working interdisciplinary as one big XP team to create cost-efficient, high-quality, innovative and reliable products.
+Your responsibilities:
+Architecture:
+You are responsible for improving and refactoring our test architecture at the subsystem level to ensure the release of highly tested software versions for various products on a daily basis from our mainline. This includes compliance with all regulatory documentation and requirements.
+Strategy:
+You own the test strategy in close alignment with the development team, ensuring a robust and future-proof test environment.
+Quality Assurance:
+You drive improvements in test quality standards, including test code structure, coverage, and performance.
+To achieve this, you will actively participate in the review of all parts of our software development process to establish and maintain a sustainable, scalable, and high-performance test pipeline.
+Requirement Engineering:
+In collaboration with the software architects, product owners, and developers, you define sustainable testing requirements, focusing on reusability, coverage, and automated documentation.
+Test Scenarios:
+Based on your expertise, you define test scenarios aligned with our workflows, ensuring optimized trunk-based development. Your goal is to establish a test architecture that enables nightly software releases from our platform.
+Your Qualifications and Experience:
+You have a degree in Computer Science, Software Engineering, or a related field.
+You have experience in hardware-related software testing, including an understanding of HW/SW interfaces and test routines.
+You have expertise in test-driven development (TDD), requirement engineering, and CI/CD processes.
+You have extensive experience in test architecture (certifications or training as a test architect would be desirable).
+You have experience in testing complex software systems in a hardware environment.
+You have strong programming skills in C++ and Python.
+You are familiar with agile development and working in agile teams.
+Strong communication and leadership skills on a technical level, helping the team set up the test infrastructure for future trunk-based platform development.
+Strategic thinking and planning distinguish you and allow you to shape the future of our testing environment.
+You actively promote an open and collaborative work culture within agile teams, fostering an environment of trust and mutual respect.
+You work in an international team and therefore have business-fluent English skills. German language is welcome.
+Basic wage component (gross) and other rewards:
+starting from 2400 EUR brutto /month + VAR*
+How we work:
+When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably.
+Check our Careers Site at
+https://www.siemens-healthineers.com/sk
+As an equal opportunity employer, we welcome applications from individuals with disabilities.
+Required education, skills and personality requirements
+Required education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+C++ - Advanced
+We offer
+Variable and Christmas bonus
+Hybrid type of work – combination of telework and work from office
+Flexible Working Hours
+Bridge days – free extra paid leave 6 days per year
+3 sick days per year (no doctor’s permit needed)
+In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of family care
+Additional pension plan
+300 EUR for regeneration of work force via cafeteria system
+Wellbeing program – Psychological, Legal and Financial Counseling
+Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps)
+Retention program (work anniversary, life anniversary, employee loans)
+Training and development program (business and product trainings, e-learning, language courses, soft skills trainings…)
+Adjustable standing desk as a standard
+Participation on world famous IT conferences like Microsoft IGNITE for best employees
+Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial Intelligence, Healthcare IT services, …)
+Send CV
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Join us!
+Send CV
+Click for more information
+ID:
+5111220
+Dátum zverejnenia:
+22.10.2025
+2025-10-22
+lokalita:
+Košice
+Pozícia:
+IT Architect
+,
+IT Tester
+Spoločnosť:
+Siemens Slovensko
+Základná zložka mzdy (brutto):
+2 400 EUR/month

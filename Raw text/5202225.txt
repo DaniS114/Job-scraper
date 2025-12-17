@@ -1,0 +1,91 @@
+About us
+Our benefits
+Open positions
+Python Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 700 - 4 500 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,700 and EUR 4,500 per month (for a full-time role). The specific salary offered considers: • the requirements, scope, complexity and responsibilities of the role, • the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience. In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits. Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Join our innovative team and help shape the future of finance technology! We're seeking a talented Application Engineer to develop modern lakehouse architecture solutions that power critical accounting processes for our customers. In this role, you'll leverage your Python expertise to build scalable data solutions while collaborating with a dynamic, international team committed to excellence.
+About the Role
+As an Application Engineer, you'll be at the forefront of implementing business services using Python on our Azure Datalake platform. You'll design and develop backend applications that enable our customers to run their accounting processes efficiently while generating data for critical reporting needs. This is a true DevOps position where you'll own your code from development through production deployment.
+Key Responsibilities
+•	Design and develop data transformation services and data flows using Python/PySpark
+•	Translate business requirements into technical specifications and implement robust solutions
+•	Architect end-to-end applications that combine data elements from multiple domains and systems
+•	Break down complex work into manageable tasks, estimate timelines, and plan delivery
+•	Contribute to the design and implementation of robust application architecture
+•	Implement high levels of test automation to ensure quality and reliability
+•	Conduct peer code reviews and ensure adherence to best practices
+•	Collaborate with stakeholders to understand requirements and advise on efficient solutions
+•	Apply Agile Scrum and DevOps methodologies throughout the development lifecycle
+•	Support operations during quarterly closing cycles
+•	Ensure technical designs meet quality requirements for performance, reliability, and availability
+About the Team
+The Quota Share Retro Squad is a mid-size international team that's always working to find new ways to solve challenges. Our team is a part of Finance IT Division of Swiss Re.
+The Product Owner is based in Bratislava and leads a team that develops and runs the next generation of finance business applications for Swiss Re.
+The team builds on a lakehouse architecture using Azure Databricks, Azure Data Factory and Azure Data Lake (Delta Lake) with Python being the main programming language and PySpark is used for large scale data engineering.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a collaborative problem-solver who thrives in a dynamic environment. You're passionate about writing clean, efficient code and have a keen eye for detail. You enjoy the challenge of transforming complex business requirements into elegant technical solutions and are committed to continuous learning and improvement.
+We are looking for candidates who meet these requirements:
+•	Bachelor's or master's degree in a relevant quantitative field (Computer Science, Mathematics, Engineering or equivalent)
+•	6+ years of experience in designing and implementing reliable, scalable software through the full development lifecycle
+•	Strong Python proficiency with hands-on experience in PySpark and SQL
+•	Profound experience with Spark-based data lake technologies including Azure Databricks, Azure Data Factory, and Azure Data Lake
+•	Expertise working with relational databases like Oracle/Postgres
+•	Experience with integration technologies like REST/SOAP APIs
+These are additional nice to haves:
+•	Experience with test-driven development practices
+•	Knowledge of financial or accounting systems
+•	Cloud platform experience beyond Azure
+•	Experience working in international teams
+•	Agile/Scrum certification
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Livia Pasztorova
+Apply here
+ID:
+5202225
+Dátum zverejnenia:
+5.12.2025
+2025-12-05
+lokalita:
+Bratislava
+Pozícia:
+Python Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 700 EUR/month

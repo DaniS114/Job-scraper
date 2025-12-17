@@ -1,0 +1,111 @@
+Senior Fullstack Developer
+Kistler Bratislava, s.r.o.
+Place of work
+: Bratislava, Slovak Republic
+Wage (gross)
+:
+3 200 EUR/month
+The salary in the job add is a minimal guaranteed base salary and can be higher - depending on the skills, level, education, professional experience, technological know-how.
+Contract type
+: full-time
+Information about the position
+Job description, responsibilities and duties
+We are looking for a Senior Fullstack Developer to join our team developing the akvisIO product, Kistler’s advanced industrial IoT solution. In this role, you will design, develop, and maintain end-to-end software solutions - from robust .NET backends to intuitive React-based frontends. You’ll play a key role in ensuring system quality, performance, and scalability within an international development environment.
+Main Responsibilities:
+Develop fullstack solutions using .NET backend and React frontend technologies, including programming, testing, and bug fixing.
+Design and maintain frontend architecture and the underlying technology stack to meet both functional and non-functional requirements.
+Provide reliable effort estimations, manage technical debt, and promote clean code and best development practices.
+Ensure continuous integration, participate in quality assurance, and collaborate on infrastructure and automation improvements.
+Support deployment activities, ensuring solutions are technically sound and ready for live operation.
+Apply Kistler’s professional software development methodology and contribute to continuous process and product improvement.
+Deliver high-quality software aligned with project objectives and organizational standards.
+Join us and be part of the team driving innovation with the
+akvisIO product
+- transforming data into insight for smarter industry performance.
+Employee perks, benefits
+The way we work
+Hybrid working model – based on the agreement with your team lead. We trust that you know how to organize your time to stay productive
+Regular performance review and career growth possibilities
+A dynamic and challenging role in a global company
+Collaborative and supportive team culture
+Close collaboration with business drivers and key users
+Support for ongoing professional development to expand your technical and professional knowledge
+Health & Well-being
+Electric stand-up desk and ergonomic chair
+100% salary reimbursement for 10 days of sick leave
+25 days of vacation for everybody
+Recognition
+Compensation of overtimes
+Compensation of travelling time in case of business trip (extra allowance)
+Flexible Benefit System - starting from 1000€ per year in the Benefit Plus portal - platform with thousands of suppliers of your choice, including Kistler specific offerings
+Attractive referral bonus
+Extra contribution in significant life events – weddings and childbirths, rehousing
+Relocation bonus for employees who are moving because of Kistler (over 100 km)
+Career & Development
+Online English & German language courses
+Library, Online Educational Portals: Pluralsight, Safari books, LeanPub, Egghead
+Social life
+Team-buildings, Company breakfast, Christmas Party, Grill Party, etc.
+Football table and board games in the office
+Extra benefits
+Special offers and discounts (Metro cards, SND, Curaprox etc.)
+Lunch tickets in amount of 8,00 EUR
+Great coffee, tea, fresh fruit
+Information about the selection process
+Do you like it so far? Let us know, send us your CV. After receiving and reviewing your CV we will contact you for short telephone pre-screen. Following this, if successful, we will set up meeting with your future team leader and one of our technical specialist for more detailed discussion about your experience and motivation and to answer your questions about company and project itself. The final stage of the hiring process is meeting with head of Kistler Bratislava to get to know you better and align on the personal and position expectations. Our HR colleagues will be informing and guiding you through every step of this process. Good luck. We are looking forward to meeting you.
+Expected date of completion of the selection process
+7.1.2026
+(there are still 21 more days)
+Requirements for the employee
+Candidates with education suit the position
+University education
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+4
+Personality requirements and skills
+Must Have:
+Bachelor’s or Master’s degree in Computer Engineering, Computer Science, or Electrical Engineering.
+4+ years of experience as a software developer with C#/.NET, preferably .NET Core 6+, ASP.NET Core, and Entity Framework Core.
+Strong skills in React, and real-time communication using WebSocket and SignalR.
+Experience working with database systems; knowledge of PostgreSQL is a plus.
+Familiarity with microservices and messaging architectures; experience with NATS.IO is an advantage.
+Proficiency with Git and version control best practices.
+Experience developing and optimizing high-performance, multithreaded and concurrent applications
+Knowledge of software modeling tools and architecture modeling (e.g., UML).
+Excellent written and spoken English communication skills.
+Comfortable working in an international and cross-functional team environment.
+Nice to Have:
+Experience with industrial IoT systems and OPC UA.
+Hands-on experience with Docker and containerized development.
+Previous experience with data visualization libraries (e.g., D3.js, Chart.js, Recharts)
+Kistler Bratislava, s.r.o.
+Einsteinova 33
+851 01 Bratislava, Slovakia
++421 948 377 105
+, Natália Shalanová, HR Generalist
+Kistler Holding AG
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5203102
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Bratislava
+Pozícia:
+.NET Programmer
+,
+C# Programmer
+,
+Systems Engineer
+Spoločnosť:
+Kistler Bratislava, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 200 EUR/month

@@ -1,0 +1,108 @@
+About us
+Our benefits
+Open positions
+Data Engineering Technical Lead
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 300 - 5 400 EUR/month
+For Slovakia the base salary range for this position is between [EUR 3,800] and [EUR 6,300] per month (for a full-time role). The specific salary offered considers:
+ 
+•	the requirements, scope, complexity and responsibilities of the role,
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Are you a hands-on technical expert with a passion for building scalable data operations capabilities? We're looking for a technically-driven leader to architect, develop, and enhance common components on Swiss Re's strategic Palantir Foundry-based data platform. In this role, you'll apply your deep technical expertise in data engineering and software development to design robust solutions while guiding a team of engineers toward technical excellence.
+About the Role
+We are seeking a senior technical leader to drive development of future-oriented data operations capabilities, so called common components, on Swiss Re's strategic data and analytics management platform. As the Lead Engineer, you’ll collaborate closely with engineers, senior stakeholders, and domain experts across all Business Units and Group Functions.
+Key Responsibilities:
+- Product Ownership and Strategy
+Define and drive the vision, roadmap, and lifecycle of common components—core services like load management, data quality management, metadata management - ensuring alignment with enterprise data strategy.
+- Technical Leadership and Engineering Excellence
+Contribute to the architecture, design, and development of common components, ensuring scalable, maintainable, and high quality solutions. Lead by example through hands-on engineering, including coding, testing, troubleshooting, and conducting code reviews. Foster best practices in software development and data engineering across teams.
+- Operational Excellence
+Oversee the reliable and scalable operation of common components, ensuring high availability, performance, and compliance with internal and external standards.
+- Cross-Functional Collaboration
+Partner with data architects, engineers, governance teams, and business stakeholders across all units to understand needs, gather feedback, and prioritize enhancements that benefit the further evolution of common components.
+- Platform Enablement and Adoption
+Promote the adoption of common components across the organization by delivering well-documented, user-friendly capabilities and providing enablement support (e.g., training, documentation, office hours).
+- Innovation and Continuous Improvement
+Stay ahead of industry trends and emerging technologies to evolve capabilities. Drive proof-of-concepts and pilot innovations that can be industrialized at scale.
+- Governance and Risk Management
+Ensure that common components support enterprise data governance policies, including data protection, access management, and auditability, while minimizing operational risks.
+About the Team
+You will join the global Group Data Services (GDS) organization of the Chief Data and Analytics Officer. The organization consists of teams of enthusiastic data engineers, architects and platform specialists dedicated to realizing the full potential of Swiss Re's data. We engage with all parts of the company, enabling them to formulate and implement data ambitions, to develop group-wide data assets and to provide data-driven products and services to our clients. The platform you will work with is internally known as "Stargate"; a Palantir Foundry-based data platform that underpins a petabyte-scale data ecosystem of the Swiss Re group. The company uses it to perform a wide range of data processing tasks, building data integration solutions, advanced analytics and even state-of-the-art AI-based automated decision making.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+About You
+You are a technically-minded problem solver who thrives on complex data engineering challenges. You have deep hands-on experience building data solutions and are comfortable writing code, designing architectures, and diving into technical details. While you have experience leading technical initiatives, your primary passion is for the technical work itself. You enjoy mentoring others on technical topics and can effectively communicate complex concepts to both technical and non-technical audiences.
+We are looking for candidates who meet these requirements:
+- Strong hands-on data engineering experience with proven ability to design, build, and optimize scalable data pipelines in Spark-based environments
+- Proficient coding skills in Python with experience applying it to data engineering problems
+- Deep technical expertise with Palantir Foundry or similar data platforms
+- Solid understanding of data engineering fundamentals including data modeling, ETL processes, and data integration patterns
+- Bachelor's or Master's degree in Computer Science, Information Technology, or a related technical field
+- Experience leading small technical teams or mentoring junior engineers
+These are additional nice to haves:
+- Experience with Java, TypeScript or other full-stack development
+- Experience with both SQL and NoSQL databases including Oracle, SQL Server, MySQL, and document/graph databases
+- Knowledge of cloud platforms such as Microsoft Azure or AWS
+- Understanding of (Re)insurance or financial services data needs
+- Experience with agile development methodologies
+- Background in implementing data governance controls and standards
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Lucia Vargova
+Apply here
+ID:
+5115994
+Dátum zverejnenia:
+17.11.2025
+2025-11-17
+lokalita:
+Bratislava
+Pozícia:
+IT Architect
+,
+IT Consultant
+,
+IT Manager
+,
+IT Product Manager
+,
+IT Project Manager
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 300 EUR/month

@@ -1,0 +1,100 @@
+Storage Administrator – Cisco UCS & NetApp - BB
+Slovanet, a. s.
+Miesto práce
+Banská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac
+Finálna úroveň základnej mesačnej mzdy na pozícii vychádza zo skúseností, znalostí a praxe kandidáta. K základnej mzde prislúchajú rôzne mimoriadne, projektové, ročné odmeny, ktoré upresníme na pohovore.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Čo ťa na tejto pozícii čaká?
+Výzva pre skúseného
+Storage Administratora
+, ktorý sa bude podieľať na správe a rozvoji enterprise infraštruktúry s dôrazom na
+virtualizáciu VMware v Sphere
+,
+úložiská NetApp a blade servery Cisco UCS
+. Kandidát by mal mať silné technické znalosti, schopnosť riešiť komplexné incidenty a chuť podieľať sa na zlepšovaní dostupnosti a výkonu IT prostredia.
+Hlavné zodpovednosti:
+administrácia storage infraštruktúry (NetApp NAS/SAN, snapshots, replikácie, monitoring výkonu)
+správa Cisco UCS prostredia (blade servery, fabric interconnects, integrácia s virtualizačnou a storage vrstvou)
+správa a konfigurácia VMware vSphere (správa clusterov, VM, HA, DRS, troubleshooting)
+zabezpečenie vysokej dostupnosti a stability prostredia
+riešenie incidentov a problémov druhej úrovne (L2/L3 support)
+participácia na projektoch súvisiacich s rozvojom a modernizáciou infraštruktúry
+tvorba a udržiavanie technickej dokumentácie
+Požiadavky na kandidáta:
+Odborné požiadavky:
+skúsenosti s enterprise prostrediami (HA, DR, škálovanie infraštruktúry)
+orientácia v sieťových technológiách (LAN/SAN, TCP/IP, VLAN, iSCSI, FC)
+skúsenosti so skriptovaním (napr. PowerShell) pre automatizáciu opakovaných úloh
+znalosť monitoringových nástrojov (vCenter, NetApp OnCommand, UCS Manager)
+skúsenosti so zálohovacími riešeniami (najmä Veeam)
+výhodou je znalosť Linuxových systémov (administrácia, troubleshooting)
+Osobnostné predpoklady:
+samostatnosť, zodpovednosť a proaktívny      prístup
+ochota učiť sa nové technológie
+tímový hráč so schopnosťou efektívne komunikovať
+Zamestnanecké výhody, benefity
+Čo ti ponúkame?
+v prvej fáze 6 mesačný projekt s možnosťou predĺženia kontraktu, či dlhodobej spolupráce
+prácu s modernými cloud-native technológiami v enterprise prostredí
+možnosť čiastočne pracovať z domu po skúšobnej dobe - 2 dni v týždni
+priestor na ďalšie vzdelávanie a odborný rast
+dni voľna naviac
+príspevok na dôchodkové sporenie DDS
+zľavy na produkty spoločnosti
+Edenred benefity – cafeteria (možnosť čerpania peňažného príspevku na voľný čas zamestnanca), MultiSport karta a ďalšie
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+Vzdelanie v odbore
+IT / Telekomunikácie / Technický odbor
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Prax na pozícii/v oblasti
+5 +
+Počet rokov praxe
+5
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Slovanet je slovenská firma, v ktorej môžeš stále stretnúť jej zakladateľov a súčasných majiteľov. Vďaka tomu ponúka nenapodobiteľnú atmosféru, s ľudským prístupom a priateľskými vzťahmi.
+Sme jedným z najväčších telekomunikačných operátorov na Slovensku. Na trhu pôsobíme viac ako 25 rokov. Hoci firma vznikla ako hŕstka nadšencov, dnes má takmer 300 zamestnancov.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Soňa Machatová
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5173319
+Dátum zverejnenia:
+11.11.2025
+2025-11-11
+lokalita:
+Banská Bystrica
+Pozícia:
+Programátor
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Slovanet, a. s.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

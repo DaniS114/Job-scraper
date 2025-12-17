@@ -1,0 +1,112 @@
+WordPress Programátor/Developer
+GRANDPANO s.r.o.
+Miesto práce
+Hattalova 12, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+1.12.2026
+Mzdové podmienky (brutto)
+1 500 - 2 500 EUR/mesiac
++ bonusy, odmeny
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného WordPress vývojára / vývojárku, ktorý/á sa pridá k nášmu dynamickému tímu. Budeš tvoriť špičkové webové riešenia, pracovať na medzinárodných projektoch a mať priestor posúvať svoje schopnosti.
+Tvoje zodpovednosti budú zahŕňať:
+Vývoj a úprava WordPress tém a pluginov na mieru.
+Implementácia nových funkcií a modulov podľa požiadaviek klientov či interných projektov.
+Optimalizácia výkonu webov: rýchlosť načítania, cachovanie, minimalizácia kódu, optimalizácia obrazov, práce s CDN, atď.
+Zaistenie bezpečnosti webov (aktualizácie, ochrana proti útokom, audit).
+Práca s front-endom: HTML5, CSS3, JavaScript, responsive/adaptívny dizajn.
+Spolupráca s UX/UI dizajnérmi, testovanie na rôznych zariadeniach / prehliadačoch.
+Integrácie s externými API, nástrojmi (platobné brány, CRM, analytika).
+Údržba existujúcich webov – riešenie bugov, migrácie, aktualizácie, podpora.
+Dokumentácia kódu, kontrola kvality výstupov, verzionovanie (Git).
+Zamestnanecké výhody, benefity
+Práca na inovatívnych projektoch, možnosť nasadiť moderné technológie a prístupy.
+Neustály profesionálny rast: školenia, konferencie, novinky v oblasti web-technológií.
+Moderné pracovné vybavenie – počítač, softvér, podmienky, ktoré podporia tvoju produktivitu.
+Flexibilita / otvorenosť v procese – rozhodovanie o technológiách, návrhoch riešení.
+Otvorená firemná kultúra – bez prehnanej byrokracie, podpora vlastných nápadov.
+Bonusy za výkon, úspešné projekty – motivácia, ktorá má merateľný efekt.
+​
+Informácie o výberovom konaní
+Ak máš pocit, že sa nájdeš v tejto pozícii:
+Pošli nám úplný životopis v slovenskom (alebo aj anglickom) jazyku.
+Prilož portfólio tvojich WordPress projektov – čo najviac konkrétnych ukážok tém, pluginov, integrácií; ak si optimalizoval(a) výkon webu, uveď výsledky.
+Ak chceš, prilož krátky komentár, prečo práve ty a prečo práve Grandpano.
+Snažíme sa odpovedať všetkým kandidátom do 3 týždňov od uzávierky.
+Predpokladaný termín ukončenia výberového konania
+1.12.2026
+(ostáva ešte 349 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Slovenský jazyk - Pokročilý (C1)
+alebo
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+HTML5 - Pokročilý
+CSS3 - Pokročilý
+JavaScript - Pokročilý
+GIT - Pokročilý
+PHP - Pokročilý
+MySQL - Pokročilý
+Rest API - Pokročilý
+WordPress - Pokročilý
+Prax na pozícii/v oblasti
+3
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Hard skills (technické schopnosti):
+Pokročilá znalosť PHP – WordPress core, vlastné pluginy, hooky, filters.
+HTML5, CSS3, JavaScript – moderné štandardy, responsive a cross-browser dizajn.
+Skúsenosť so správou a optimalizáciou výkonu webov: caching, CDN, optimalizácia obrázkov, minimalizácia skriptov / štýlov.
+Bezpečnostné best practices v WP – aktualizácie, ochrana pred útokmi, validácia vstupov.
+Skúsenosti s REST API alebo inými integráciami externých systémov.
+Práca s MySQL / SQL databázami.
+Nástroje verzionovania (Git) a workflow pre vývoj, testovanie, deploy.
+Soft skills (osobnostné / pracovné predpoklady):
+Schopnosť pracovať samostatne, riešiť problémy a navrhovať vylepšenia.
+Komunikatívnosť – vedieť diskutovať technické riešenia, vysvetliť klientovi i tímu.
+Zodpovednosť voči kvalite výsledkov a detailom.
+Flexibilita, ochota adaptovať sa na nové technológie, knižnice, trendy.
+Skúsenosť s vedením menších tímov alebo mentoring (pre seniornú úroveň).
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme Grandpano, Full service digitálna agentúra, ktorá sa zameriava na Real Estate Marketing so silným prepojením na technológiu VR/AR.
+Tvoríme úspešné značky, moderné weby a prinášame inovatívne marketingové stratégie pre našich partnerov.
+Našimi klientmi sú lídri v rôznych odvetviach, vrátane Real Estate, HR a eventov. Spolupracujeme s prestížnymi značkami ako McDonald's, KFC, Kaufland, SKANSKA, J&T Real Estate.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Dávid Vojčák
+Tel.:
++421902552270
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199692
+Dátum zverejnenia:
+1.12.2025
+2025-12-01
+lokalita:
+Bratislava
+Pozícia:
+Programátor
+Spoločnosť:
+GRANDPANO s.r.o.
+Základná zložka mzdy (brutto):
+1 500 EUR/mesiac

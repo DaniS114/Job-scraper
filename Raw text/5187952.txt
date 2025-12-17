@@ -1,0 +1,98 @@
+Trainee pre automatizáciu a BI - stáž pre študentov
+TPA Slovensko
+Miesto práce
+Štúrova 27, Staré Mesto
+Druh pracovného pomeru
+skrátený úväzok, internship, stáž
+Mzdové podmienky (brutto)
+6 EUR/hod.
+možnosť navýšenia hodinovej odmeny v závislosti od dĺžky spolupráce a odpracovaného času
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Mať prácu popri štúdiu dnes nie je výnimka ale bežná prax. Ak chceš získať skúsenosti z oblasti IT, administratívy a obchodu už počas školy, si na správnom mieste. Dlhodobo ponúkame u nás študentom možnosť stáže. Chápeme, že nie vždy je jednoduché skĺbiť školské a pracovné povinnosti - preto ponúkame veľmi flexibilnú pracovnú dobu. V rámci tejto pozície ponúkame jedinečnú príležitosť získať skúsenosti z oblasti IT v spoločnosti s medzinárodných pôsobením.
+Ako Trainee budeš dôležitou súčasťou nášho tímu, ktorý sa stará o optimalizáciu a dáta.
+Konkrétne ťa čaká:
+Automatizácia procesov: Identifikácia manuálnych a opakujúcich sa úloh a návrh riešení na ich automatizáciu (napr. cez skripty, RPA nástroje a pod.).
+Dátová príprava a vizualizácia (BI): Zber, čistenie, transformácia dát a ich vizualizácia v BI nástrojoch (Power BI, Looker Data Studio, BigQuery, MS Azure, Excel/Google Sheets).
+Tvorba reportov: Pomoc pri príprave a údržbe kľúčových obchodných a prevádzkových interných a klientských reportov.
+Podpora pri AI/DS projektoch: Asistencia seniorným kolegom pri jednoduchších úlohách súvisiacich s modelovaním, predikciami a implementáciou AI riešení (napr. príprava dát pre modely).
+Dokumentácia: Vytváranie a aktualizácia dokumentácie k automatizovaným a dátovým riešeniam.
+"Kávu nevaríš!": Budeš pracovať na reálnych úlohách s pridanou hodnotou – sľubujeme, že to bude zaujímavejšie.
+Zamestnanecké výhody, benefity
+prácu, ktorú bez problémov zladíš so školou aj skúškami
+možnosť pracovať aj z domu (po zaučení) – ideálne, keď máš prednášky alebo seminár
+naučíš sa veľa od skúsených kolegov – radi ti všetko ukážeme
+pravidelný feedback a mentoring – aby si rástol/a v tom, čo ťa baví
+prístup k moderným technológiám a rozvoj digitálnych zručností – užitočné do CV aj do života
+priestor pre tvoje nápady a nové riešenia – tvoj hlas u nás bude počuť
+možnosti vzdelávania a prístup k online školeniam – naučíš sa, čo sa v škole často neučí
+šanca pokračovať v kariére po škole – veľa našich stážistov u nás ostalo natrvalo
+možnosť zapojiť sa do ESG a CSR projektov – rob niečo, čo má zmysel
+bonus za odporučenie nového kolegu alebo klienta
+tímový rozpočet na vzdelávanie a spoločné eventy – áno, aj zábava sa ráta
+MULTISPORT karta – keď si chceš po škole aj trochu vypnúť
+káva, čaj a ovocné dni v sezóne – energia vždy po ruke
+športové a spoločenské akcie, súťaže, teambuildingy – lebo nie je to len o práci
+priateľská a podporná atmosféra – u nás sa budeš cítiť ako súčasť tímu.
+Osobnostné predpoklady a zručnosti
+Základná znalosť programovania/skriptovania (ideálne Python alebo iný jazyk relevantný pre automatizáciu/dáta, ako je SQL).
+Pochopenie dátových štruktúr a princípov práce s databázami.
+Základná znalosť BI nástrojov (napr. Power BI alebo iné) a silná znalosť Excelu.
+Analytické myslenie a schopnosť riešiť problémy (ak vidíš problém, vidíš aj príležitosť!).
+Anglický jazyk na komunikačnej úrovni (technická dokumentácia a komunikácia so SW).
+BONUS (ale nie podmienka): Záujem/základné znalosti AI, Machine Learning (ML) konceptov.
+Čaká ťa priateľský kolektív, prostredie medzinárodnej firmy a príležitosť sebarealizácie. Sme firma, ktorá dbá na rozvoj a potreby zamestnancov - preto sa priamo u nás často konajú mnohé workshopy a školenia. Pozri sa na našu web stránku a tiež na profily našich skúsených kolegov na sieti LinkedIn a uvidíš, že budeš mať na začiatku svojej kariéry skvelých mentorov.
+Sídlime v nových a moderných priestoroch.
+Našimi hodnotami sú
+Profesionalita - Tímovosť - Ľudskosť
+, ktoré sa snažíme napĺňať v našom každodennom pracovnom živote. Sme pyšní, že viacero rokov za sebou je viac ako 90% zamestnancov spokojných s prácou u nás. Viac informácií o tom, ako sa v TPA pracuje a žije, si môžeš nájsť na
+www.tpa-group.sk
+alebo na našom
+Facebooku
+či
+Instagrame
+.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Vzdelanie v odbore
+študent vysokej školy so zameraním na IT a Dáta
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+https://www.tpa-group.sk/sk/kariera/
+Spoločnosť TPA bola založená pred viac ako 40 rokmi v Rakúsku. Dnes je jednou z popredných špecialistov na dane a audit na Slovensku. TPA Group je etablovaná ako úspešný hráč v strednej a juhovýchodnej Európe.
+TPA Slovensko patrí dlhodobo do desiatky najväčších spoločností poskytujúcich služby v oblasti daní, účtovníctva, mzdového účtovníctva a auditu na Slovensku. Naši klienti sa môžu spoľahnúť na viac ako 130 zamestnancov v troch pobočkách na Slovensku - v Bratislave, Banskej Bystrici a v Košiciach.
+Okrem Slovenska TPA Group pôsobí v ďalších jedenástich krajinách strednej a juhovýchodnej Európy: v Albánsku, Bulharsku, Česku, Chorvátsku, Maďarsku, Čiernej Hore, Poľsku, Rakúsku, Rumunsku, Slovinsku a Srbsku. Celkovo zamestnáva viac ako 2050 zamestnancov v 31 pobočkách.
+TPA Group je členom Baker Tilly Europe Alliance, a preto sme schopní poskytnúť klientom celosvetovú sieť daňových poradcov, audítorov a konzultantov.
+Vďaka našej aliancii so sieťou Baker Tilly International je 12 krajín združenia TPA Group účinne prepojených na globálnej úrovni a sme tak schopní poskytovať kvalitné služby vo všetkých hlavných obchodných centrách a regiónoch sveta.
+Sieť Baker Tilly International v súčasnosti pozostáva zo 123 nezávislých členov v 148 krajinách a zamestnáva viac ako 37 000 pracovníkov vo viac ako 700 pobočkách, vďaka čomu patrí medzi top 10 globálnych poradenských sietí.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Zuzana Rjapošová
+Tel.:
++421257351111
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5187952
+Dátum zverejnenia:
+6.11.2025
+2025-11-06
+lokalita:
+Košice
+Pozícia:
+IT konzultant
+Spoločnosť:
+TPA Slovensko
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+6 EUR/hod.

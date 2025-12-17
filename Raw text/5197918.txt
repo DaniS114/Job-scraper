@@ -1,0 +1,117 @@
+Infrastructure Systems Engineer
+localhost s.r.o.
+Place of work
+Remote work
+Contract type
+trade licence
+Start date
+ASAP
+Wage (gross)
+From 4 000 EUR/month
+Final agreement depends on your skill-set and experience. This is the subject of a partnership agreement during the selection process.
+Information about the position
+Job description, responsibilities and duties
+In a dynamic environment where reliability and smart infrastructure matter, your expertise can make all the difference.
+We are seeking a skilled
+Systems Engineer
+who enjoys hands-on work with infrastructure, servers, and network devices.
+In this role, you will be a key part of keeping our data center running smoothly — configuring modems, switches, and Cisco routers, monitoring system health, automating data flows, deploying new hardware, and resolving technical issues. You’ll ensure our systems remain secure, reliable, and up to date, while also bringing fresh ideas to continuously improve the infrastructure.
+If you want a position where your work truly shapes how the entire system performs, this is the opportunity for you.
+Key Responsibilities
+Work directly on complex technical problem identification and resolution.
+Operate independently on advanced systems or infrastructure components supporting multiple applications or services.
+Manage and maintain DataCenter devices: servers (*nix), *nix-based firewalls, and virtualization environments.
+Configure, validate, and deploy network devices (modems, switches, Cisco routers), including new hardware setup, troubleshooting, and functionality testing.
+Support and improve infrastructure tooling — including automation, data-flow testing, and custom solutions.
+Monitor system health using tools such as Zabbix and Grafana, tracking alerts, performance, temperature, and device status across 3000+ connected units.
+Collaborate with fellow systems engineers to optimize and evolve the infrastructure.
+Perform additional duties assigned by Digital management as needed.
+Employee perks, benefits
+extra days off: 3x localhost days and 3x sick days
+Referral bonus
+Benefit plus budget
+Financial contribution to Pension plan
+Multisport Card
+Education support (certificates, courses, trainings)
+Physiotherapist sessions once a week in the office
+Bonuses at every smashing life events
+Flexible working arrangements
+Transparent approach and communication
+Supporting your ideas
+Information about the selection process
+Apply now and let’s build something great together.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT
+Language skills
+English - Upper intermediate (B2)
+Experience in the position/sector
+IT
+Number of years of experience
+5
+Personality requirements and skills
+What You Bring:
+5+ years of experience delivering and maintaining infrastructure
+Strong background in systems engineering
+Proven ability to diagnose and troubleshoot production issues
+Advanced administration skills with operating systems such as RedHat, Alpine, OpenWRT, and *BSD
+Good knowledge of:
+containerization (Docker, etc.)
+configuration management (Ansible, etc.)
+DevSecOps practices and tooling
+virtualization (oVirt, VMware, etc.)
+system hardening (SELinux, HIDS, security best practices)
+application security practices: SAST, DAST, SCA, IAST
+Nice to Have
+Strong knowledge of firewall tools (iptables, PF, firewalld, etc.)
+Solid networking background (TCP/IP, switching, routing)
+Experience with monitoring systems (Zabbix, Grafana)
+Familiarity with CI/CD automation
+Ability to work independently with minimal supervision
+Comfortable adapting quickly in complex environments
+Proactive, creative, and flexible mindset
+Self-motivated and collaborative attitude
+Advertiser
+Brief description of the company
+Join the digital revolution with localhost!
+We're not your average IT company. As a team of passionate tech experts based in Košice, we've spent the last decade empowering global and local brands alike.
+Our 100+ strong team of engineers is committed to your success, constantly learning and adapting to bring you the most innovative solutions and state-of-the-art software. Whether you're a startup or an enterprise, we're your trusted partner.
+Reach out today and let's shape your digital future together: info@localhost.company
+Number of employees
+25-49 employees
+Contact
+Contact person: Ing.  Dana Holub Pospišilová
+Tel.:
++421905811824
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5197918
+Dátum zverejnenia:
+26.11.2025
+2025-11-26
+lokalita:
+Remote work
+Pozícia:
+IT Network Administrator
+,
+IT System Administrator
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+localhost s.r.o.
+Základná zložka mzdy (brutto):
+4 000 EUR/month

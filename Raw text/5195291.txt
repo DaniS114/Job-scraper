@@ -1,0 +1,92 @@
+Pracovné ponuky
+Benefity
+O nás
+Staráme sa o vaše zdravie aj kariéru.
+U nás dostanete výhody aj nad rámec zákona.
+Ponuky spoločnosti
+Cache/IRIS programátor/ka - KE alebo BA
+Miesto práce
+Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto)
+2 400 EUR/mesiac
+Mzda je predmetom našej vzájomnej dohody a závisí od vašich odborných znalostí a skúseností. Navyše máte nárok na ročný bonus v závislosti od firemných výsledkov.
+Druh pracovného pomeru
+plný úväzok
+Kto sme
+Nový svet, o ktorý sa v Dôvere snažíme už 30 rokov, je transparentné a kvalitné zdravotníctvo. Dobrý pocit z toho, že spolu aktívne, systematicky a zmysluplne meníme nielen našu poisťovňu, ale aj celé zdravotníctvo, budete mať každý deň. Robíme všetko pre to, aby sme boli v očiach verejnosti najlepšia zdravotná poisťovňa na slovenskom trhu a mali čoraz viac spokojných zamestnancov a poistencov. Ak chcete byť aj vy súčasťou modernej a stabilnej spoločnosti, ktorej oblasť inovácií a benefitov pre poistencov ako aj pre lekárov prináša pridanú hodnotu pre celý systém, pridajte sa k nám do Dôvery.
+Do akého tímu budete patriť?
+Na našom IT-čku máme vyše 200 kolegov a kolegýň, ktorí radi testujú, programujú a analyzujú. Náš tím „Oddelenie vývoja aplikácií“ nájdete v Košiciach, ale máme kolegov aj v Bratislave. Náš tím tvorí 43 programátorov, zložený z Frontend-istov, Backened-istov, SQL špecialistov, Appkových developerov (Android, iOS). Celkovo sa venujeme .NET Core 3.1., MSSQL, ASP.NET, C-Sharp, Kotlin, Swift, ReactJS, TypeScript, Cache, IRIS. Vy by ste sa venovali práve Cache a IRIS. Programovali želané požiadavky v našom internom systéme ZIPS a ESB. Nepoznáte ani IRIS ani Cache? Nevadí, tu: https://www.intersystems.com/data-platform/ nájdete základné informácie. Z nášho pohľadu, ide o robustnú technológiu, vhodnú pre oblasť zdravotníctva a preto ju v našich aplikáciách využívame.
+Čo Vás u nás čaká?
+Navrhujete a optimalizujete riešenia v Cache a IRIS.
+Konzultujete a pripomienkujte postupy, návrhy riešenia a implementáciu s aplikačným architektom.
+Zúčastňujete sa pravidelných stretnutí projektového tímu (Stand-Up Meeting) a reportujete riešenia projektovému manažérovi.
+Pripravujete programové patche pre odstránenie chýb v programovom kóde.
+Pomáhate juniorným programátorom (v prípade vyššej úrovne).
+Čo by ste mali ovládať?
+Máte skúsenosti s vývojom v InterSystems IRIS alebo Caché? Ak nie nevadí, veľmi rýchlo Vás to naučíme. Stačí, že máte zmáknuté základy v C-čku, JavaScripte alebo NodeJs.
+Máte skúsenosti s programovacími jazykmi JavaScript, HTML, CSS, C.
+Máte skúsenosti s agilným developmentom.
+Radi pracujete v tíme.
+Veľkou výhodou Python, .Net Core, MSSQL, C-sharp.
+Čo sa našim kolegom u nás páči?
+Prácu zvládneme odkiaľkoľvek. Každý zamestnanec si môže zvoliť, či chce pracovať v štandardnom režime 60 % home office a 40 % office. Ak niektorý z kolegov uprednostňuje pracovať viac z home officu, povaha práce mu to dovoľuje a jeho nadriadený mu to schváli, môže pracovať aj v režime 70/30 alebo 80/20 alebo dokonca aj 100 % home office.
+Nie sme korporát a ani malá firma – sme niečo medzi :). Máme tu rozbehnutých veľa dlhodobých projektov, ktoré naši kolegovia úspešne zastrešujú na svojich komplexných pozíciách. Väčšina našich projektov vzniká na „zelenej lúke“ a sami sa môžete presvedčiť, akí sme v nich úspešní. Stereotyp a nuda vám zaručene nehrozí.
+Adaptačný proces u nás neznamená hodiť vás do vody a plávať, ale je to obdobie, počas ktorého vás postupne oboznámime so všetkým, čo budete potrebovať, aby ste boli plnohodnotným členom nášho tímu a aby ste sa na pozícií cítili komfortne.
+Šikovnosť a proaktivita sa u nás cení. A to odmenami za individuálny výkon a navyše, ak sa nám bude dariť, máte možnosť získať aj finančný bonus vo výške 3-násobku hrubej mesačnej mzdy.
+V Dôvere podporujeme kolegov, ktorí sa chcú vzdelávať. Kedykoľvek môžu absolvovať rôzne kurzy a odborné školenia, zúčastniť sa odborných konferencií alebo inšpiratívnych prednášok, webinárov či prezentácií o zaujímavých projektoch, na ktorých pracujú naši kolegovia.
+Na zdraví našich kolegov nám záleží, a preto radi realizujeme programy na podporu zdravého životného štýlu ako Rozhýbme sa s Dôverou, podporujeme bežecké podujatia, preplácame masáže na pracovisku, prispievame na MultiSport kartu a psychickú pohodu sa snažíme podporiť aj našou Linkou Dôvery, na ktorú sa môžeme nonstop a anonymne obrátiť pre prípadnú radu od psychológov a odborníkov na financie a právo.
+Radi občas vypneme a zregenerujeme svoje sily na našich spoločných akciách ako sú športové hry, vianočné večierky, grilovačky, husaciny, alebo odborové teambuildingy.
+Čo by Vás ešte mohlo zaujímať?
+Miesto výkonu práce: prevažná časť nášho interného IT-čka sedí v Košiciach, v modernom biznis centre na Moldavskej, ale máme kolegov aj na našej centrále v Bratislave, na Einsteinovej v Digital parku, odkiaľ máte blízko do Auparku, centra a rovno aj na diaľnicu, von z mesta. Záleží na vás, kde vám to viac vyhovuje.
+Spolupráca: hľadáme kolegu na TPP na plný úväzok, so skúšobnou dobou 3 mesiace. Zmluvu s vami uzatvárame zatiaľ na 1 rok, a keď nám to spolu pôjde, s radosťou vám zmluvu predĺžime. Ak vám táto spolupráca nevyhovuje, je možnosť pracovať pre nás aj na živnosť.
+Onboarding: Začína od momentu, kedy zareagujete na inzerát. A ja vás budem sprevádzať vaším pôsobením v Dôvere od prvého kontaktu. Kedykoľvek sa môžete na mňa obrátiť.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Osobnostné predpoklady a zručnosti
+Ste samostatný ale viete fungovať aj v tíme.
+Máte chuť sa vzdelávať a učiť sa nové veci.
+Ste dôsledný, precízny so snahou o čistý kód.
+Ste zodpovedný a máte orientáciu na výsledok.
+Kontakt
+Kontaktná osoba:
+Mgr. Karolína Černáková
+Adresa spoločnosti
+Poslať žiadosť
+Ponuky spoločnosti
+Dôvera
+O Dôvere
+Kontakty a pobočky
+Pre médiá
+Naše ocenenia
+Hlavná cena ITAPA
+2x Strieborná cena ITAPA
+ITAPA eFocus
+IT projekt roka
+Facebook Awards
+© 2025 Dôvera
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195291
+Dátum zverejnenia:
+20.11.2025
+2025-11-20
+lokalita:
+Košice
+Pozícia:
+Programátor
+Spoločnosť:
+DÔVERA zdravotná poisťovňa, a. s.
+Základná zložka mzdy (brutto):
+2 400 EUR/mesiac

@@ -1,0 +1,116 @@
+Unleash
+Your
+Power
+About Us
+Benefits
+Culture
+Jobs
+Digital Health Platform & SAMD DevOps & Mobility Senior Specialist
+Apply Now
+Date posted:
+16.12.2025
+Location:
+Bratislava, Slovakia
+Salary:
+From 3 850 EUR/month
+As a motivated employee, you should be compensated appropriately. The minimum salary for this position is €3850 per month (full time), but your final remuneration package may be higher depending on your qualifications and experience.
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’sPrivacy Noticeand Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+Information about the position
+Job description, responsibilities and duties
+The Future Begins Here
+At Takeda, we are creating a future-ready organization that uses data and digital to meet the needs of patients, our people, and the planet. We need your help to make this happen. Join our new Innovation Capability Center (ICC) in Bratislava, Slovakia.
+In this role at our state-of-the-art center, you will have the opportunity to grow your skills and create solutions that will benefit patients around the world. Become the heart of our internal innovation engine.
+At Takeda we unite in diversity!
+Takeda is committed to creating an inclusive workplace, where individuals are recognized for the diverse backgrounds and abilities they bring to our company. We are continually improving workplace experience and accessibility for everyone, and welcome applications from all qualified candidates. Here, you will feel welcomed, respected, and valued as an important contributor to our Team.
+The Opportunity
+As a DevOps & Mobility Senior Engineer, you will be a hands-on technical leader working alongside business, product development, and infrastructure teams within a scaled agile environment at Takeda. You will drive short, iterative change cycles aligned with our future state strategy, ensuring security is seamlessly integrated throughout the software development lifecycle. This role bridges the traditional gap between development, operations, and security—enabling agility, reducing vulnerabilities, and strengthening the overall security posture of Takeda’s digital assets and mobility platforms.
+You will foster developer productivity, evolve our Internal Developer Platform, and champion reusable, scalable approaches across our DevSecOps community, accelerating the delivery of high-quality, compliant solutions in a complex regulated environment.
+Key Responsibilities
+DevSecOps Leadership & Technical Strategy
+- Act as a technical leader, guiding product, infrastructure, and business teams through iterative change cycles towards Takeda’s target operating model.
+- Design, build, and deploy complex Infrastructure as Code to support the Takeda Enterprise Cloud Platform and mission-critical applications.
+- Lead the evolution of Takeda’s DevSecOps Platform capabilities, including CI/CD, container platforms, vulnerability scanning, and security automation.
+Developer Productivity & Internal Platform Enablement
+- Build and maintain Python-based solutions and GenAI integrations to optimize developer productivity and experience.
+- Curate and expand Takeda’s Internal Developer Portal, providing frictionless self-service for code, dependencies, and DORA metrics.
+- Deliver and manage reusable architectural patterns, “building blocks,” and frameworks to accelerate team onboarding and development.
+Cloud Infrastructure & Automation
+- Architect, integrate, and maintain public cloud infrastructure and developer platform solutions, leveraging Terraform, Ansible, and other IaC tools.
+- Develop, integrate, and support CI/CD pipelines (GitHub/GitHub Actions), container orchestration (Kubernetes/EKS/AKS, Helm, ArgoCD), and platform security solutions (AquaSec, Quay).
+- Integrate Application Performance Monitoring (APM) instrumentation and manage the T/O capability roadmap, adopting new technologies to maximize platform reliability and efficiency.
+Security, Compliance & Collaboration
+- Ensure DevSecOps practices are fully aligned with cybersecurity, compliance, and regulatory requirements.
+- Collaborate with Cybersecurity/Compliance teams to refine and automate secure SDLC processes.
+- Actively participate in Takeda’s DevSecOps Community—promoting efficient, secure, and compliant workflows.
+Continuous Delivery & Customer Focus
+- Enable product teams to safely achieve multiple daily releases.
+- Partner with stakeholders to align technical solutions to customer and business outcomes.
+- Support and mentor teams, fostering a high-performance engineering culture.
+Employee perks, benefits
+What Takeda Can Offer You
+At Takeda, you may build your career, while contributing to better people’s lives. Expect trust driven culture built around Integrity, Fairness, Honesty and Perseverance. Joining ICC will give you access to high end technology, training and colleagues who will support your growth.
+Benefits
+Here are a few benefits our employees are enjoying at Takeda. To get a full picture of what we are offering, go to our Benefits page (button above).
+• Cafeteria
+• Medical - High standard medical care
+• Bridge days
+• Summer Hours
+• Multisport Card
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+Required:
+- Bachelor’s degree in computer science or a related field, or equivalent professional experience.
+- 5+ years’ experience across IT disciplines including systems engineering, cloud infrastructure, and integration.
+- Proven experience configuring and automating build processes for Android and iOS mobile applications, including managing build and distribution workflows through Google Play and Apple App Store using continuous integration tools.
+- Hands-on expertise designing, building, and maintaining public cloud infrastructure and developer platform solutions.
+- Advanced skills in CI/CD integrations (GitHub/GitHub Actions) and deploying cloud-hosted applications.
+- Deep proficiency with Infrastructure as Code (Terraform, Ansible).
+- Expert with containers, orchestration, and security: Docker, Kubernetes/EKS/AKS, Helm, ArgoCD, AquaSec, Quay.
+- Practical scripting skills: BASH and/or PowerShell.
+- Proficient in one or more programming languages (Python, Java preferred).
+- Solid understanding of modern DevSecOps concepts and CI/CD processes.
+- Strong OS-level debugging and troubleshooting skills.
+- Excellent communication, interpersonal, and stakeholder management skills.
+Preferred:
+- Experience with Internal Developer Platform (IDP) implementation.
+- Prior work in regulated industries (healthcare, life sciences, pharma).
+- Familiarity with GenAI integrations to boost developer velocity.
+- Working knowledge of application performance monitoring and DORA metrics frameworks.
+- Experience deploying and configuring application life cycle management (ALM) tools.
+Advertiser
+Brief description of the company
+Takeda is an industry-leading, global pharmaceutical company with an unwavering dedication to putting patients at the center of everything we do. We live our values of Takeda-ism – Integrity, Fairness, Honesty, and Perseverance – and are united by our mission to strive towards Better Health and a Brighter Future for people worldwide through leading innovation in medicine.
+Here, everyone matters and you will be a vital contributor to our inspiring, bold mission. At Takeda, you will make an impact on people’s lives – including your own.
+Takeda is an equal opportunity employer.
+We are taking a giant step forward to create a future-ready organization that evolves at the speed of science and technology, to meet the needs of patients by seeking and incorporating novel digital capabilities, data, and agile methodologies. Our aim is to provide digital solutions that are personalized to each patient’s unique needs and health circumstances. With individual care at the center, we can support patients in actively managing their personal care journey – from the moment they are diagnosed through treatment and beyond. Our Digital and IT team plays an integral role in accelerating this exciting journey.
+Contact
+Contact person: Mgr.  Peter Straka
+E-mail:
+send CV
+NOT READY TO APPLY?
+Join our Talent Community and get the latest news & events happening at Takeda
+LET’S GO
+takedajobs.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5206404
+Dátum zverejnenia:
+16.12.2025
+2025-12-16
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Takeda
+Základná zložka mzdy (brutto):
+3 850 EUR/month

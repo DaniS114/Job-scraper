@@ -1,0 +1,94 @@
+About us
+Benefits
+Jobs
+Group Data and AI Platform DevOps
+Contract Type
+full-time
+Wage (gross)
+From 3 500 EUR/month
+The final level of salary is dependent on skills, knowledge and experience of a candidate.
+Place of work
+SKY PARK Offices I Alto Real Estate, Bottova, Bratislava, Slovakia (Job with occasional home office)
+About the job
+As one of the leading insurance companies, we know that together we can achieve more. At UNIQA, we are therefore the community for a better life. We use our individual skills to shape the future together.
+Do you want to be an important part of the digital transformation in a renowned company?
+Would you like to work with Footprint in the CEE area for one of the most successful companies in the insurance industry?
+Do you not only want to be part of the digital transformation of UNIQA, but also bear responsibility and play a major role in shaping it?
+We, Team Group Data and AI, are a group of motivated, creative and innovative data enthusiasts with expertise in various areas. Our goal is to make UNIQA fit for digital transformation. We inspire our colleagues by implementing innovative data solutions together with the business departments and also provide the necessary technological basis.
+Tell us about your strengths and apply as a Group Data and AI Platform DevOps.
+What are your tasks?
+Manage and Develop the Groups solution blueprint for a Group wide standardized Data and AI platform using:
+Azure Databricks (Spark, Delta Lake, MLflow)
+Azure Machine Learning
+Azure Data Factory for data orchestration
+Azure SQL and Data Lake Storage
+Support infrastructure automation with Terraform
+Optimize data pipeline patterns and model deployment workflows
+Contribute to MLOps practices using Azure DevOps
+Manage and actively run the solution blueprint release cycles
+Collaborate with data scientists, analysts, and business stakeholders to translate requirements into scalable solutions.
+Ensure Data and AI solutions meet compliance, security, and performance standards
+Support local platform responsibles Group wide in managing the local instances
+Your skills & qualifications
+What do we expect from you?
+3–5+ years of experience in DevOps, data engineering, AI, or machine learning roles
+Strong hands-on experience in using cloud services, preferably in Azure Databricks and ideally also Azure AI services (e.g. Cognitive Services)
+Preferably knowledge of Power BI or another relevant BI Tool
+Experience with Cloud FinOps
+A collaborative mindset and the ability to realise complex ideas within an agile Teams setup
+Good communicative and interpersonal skills with the ability to address stakeholder requirements and turn them into solutions.
+Beneficial: Experience working in or with fintech, insurance, or banking organizations.
+Our benefits
+WHAT CAN WE OFFER YOU?
+Glad you asked!
+13th salary and performance-based bonus
+Flexible working hours with possibility to work from home up to 50%
+3 sick days/year
+Additional days off (eg. the last working day of the year, volunteering activities)
+Pension contributions and discounts on UNIQA insurance products
+Company phone available also for personal use
+Free car and bicycle parking
+Contribution to Multisport card
+German language course
+Education allowance for your learning and development
+Referral bonus
+Positive working atmosphere
+At UNIQA 4WARD, we are dedicated to providing equal opportunities to all employees and applicants. We respect and value each other regardless of race, color, ethnicity, cultural background, age, gender, gender identity or expression, nationality, religion, disability, sexual orientation, marital status, or any other characteristic protected by law. We believe that diversity enriches our workplace and fosters a culture of inclusivity, respect, and collaboration.
+What can you expect from our selection process?
+First, our HR Specialist will reach out to you by phone for a short conversation.
+Following this, for most of our openings, you can expect a first virtual interview with your prospective manager and team. The second round is typically conducted in person with the UNIQA 4WARD management team.
+We are looking 4ward to meeting you!
+For other job openings, please click here.
+Contact person: Jana Lupová
+E-Mail:
+jana.lupova@uniqa.at
+UNIQA 4WARD, organizačná zložka,
+Branch office of UNIQA Insurance Group AG
+Sky Park Offices, Bottova 7939/2A
+811 09 Bratislava, Slovakia
+www.uniqa4ward.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5120162
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+DevOps Engineer
+,
+Process Engineer
+,
+Service Engineer
+Spoločnosť:
+UNIQA 4WARD, organizačná zložka
+Základná zložka mzdy (brutto):
+3 500 EUR/month

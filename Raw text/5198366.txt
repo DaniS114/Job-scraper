@@ -1,0 +1,112 @@
+Apply now
+Senior AI Automation Engineer
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 760 EUR/month
+Base salary from 3760 EUR gross a month. The actual salary is based on skills, experience and knowledge.
+Information about the position
+Job description, responsibilities and duties
+At AT&T we’re redefining the future of communication by connecting people to greater possibility - with expertise, simplicity, and inspiration. At the heart of our purpose lies a diverse workforce of 200,000 people and a culture that aspires to serve customers first, act boldly, move faster, and win as one.
+Our Product Development group, part of AT&T’s Technology Services (ATS) organization, is responsible for building software-based products, services, and platforms that our customers love and need. Harnessing technology and rebuilding software expertise, the team is inspiring simplicity with projects that deliver revenue and cost savings opportunities.
+Job Overview
+AT&T is building a new era of intelligent automation. We are looking for a highly skilled LLM/Prompt-Context Engineer with a strong fullstack Python background to design, develop, and integrate intelligent systems focused on large language models (LLMs), prompt engineering, and advanced context management. In this role, you will play a critical part in architecting context-rich AI solutions, crafting effective prompts, and ensuring seamless agent interactions using frameworks like LangGraph.
+As a Senior AI Automation Engineer, you will architect, build, and deploy context-driven AI solutions that transform how entire organizations work and deliver value. You’ll
+leverage the power of LLMs, Retrieval-Augmented Generation (RAG), and next-gen AI agents to automate complex workflows, unleashing revolutionary productivity and efficiency. Your work will directly drive the adoption of autonomous AI agents, enabling smarter operations, seamless data pipelines, and adaptive digital services.
+Core Responsibilities
+Design, optimize, and evaluate prompts for LLMs to achieve precise and contextually appropriate outputs across diverse use cases.
+Architect and implement dynamic context management strategies, including session memory, retrieval-augmented generation, and user personalization to enhance agent performance.
+Integrate, fine-tune, and orchestrate LLMs within Python-based applications, leveraging APIs and custom pipelines for scalable deployment.
+Build and manage complex conversational and agent workflows using frameworks like LangGraph to support multi-agent or multi-step solutions.
+Develop and maintain robust backend services, APIs, and (optionally) front-end interfaces to deliver end-to-end AI applications.
+Work closely with product, data science, and engineering teams to define requirements, run prompt experiments, and iterate quickly on solutions.
+Implement testing, monitoring, and evaluation pipelines to continuously improve prompt effectiveness, context handling, and overall agent performance.
+Apply and advocate best practices in software engineering, code quality, testing, DevOps, and secure, ethical AI automation.
+Skills, Knowledge, and Experience
+Day-to-Day
+Design and develop agentic AI solutions and intelligent automation workflows using LLMs, prompt engineering, and context management.
+Collaborate with cross-functional teams to define and refine requirements, run prompt experiments, and iterate on AI-driven solutions.
+Architect and integrate scalable, production-grade Python applications for AI agent deployment.
+Participate in code reviews, contribute to best practices, and mentor peers on AI automation technologies and frameworks.
+Monitor, evaluate, and optimize prompt and context strategies for improved agent performance.
+Technical Skills
+Deep experience with full-stack Python development (FastAPI, Flask, Django; SQL/NoSQL databases).
+Demonstrated expertise in prompt engineering for LLMs (OpenAI, Anthropic, open-source LLMs).
+Strong understanding of context engineering, including session management, vector search, and knowledge retrieval strategies.
+Hands-on experience integrating AI agents and LLMs into production systems.
+Proficiency with agentic/conversational flow frameworks such as LangGraph.
+Familiarity with Retrieval-Augmented Generation (RAG) pipelines and multi-agent orchestration.
+Experience with cloud infrastructure, containerization (Docker), and CI/CD practices.
+Exceptional analytical, problem-solving, and communication skills.
+Additional Desirable Experience
+Experience evaluating and fine-tuning LLMs or working with RAG architectures.
+Background in information retrieval, search, or knowledge management systems.
+Contributions to open-source LLM, agent, or prompt engineering projects.
+Experience with secure, ethical, and scalable deployment of AI solutions in enterprise environments.
+Education
+Bachelor level degree or equivalent in Computer Science, or related field of study.
+Benefits
+A career with us, a global leader in communications and technology, comes with big rewards. We offer a competitive salary plus an annual company performance bonus. Once you are a part of the team, you will gain some amazing perks and benefits including car allowance, wellness & leisure time contribution, sickness compensation plan, premium medical services, family friendly benefits as well as meal contribution and an extra week of vacation (…and much more).
+Location and Work Environment
+These roles are based in Bratislava, Slovakia; Kosice, Slovakia; and Brno, Czechia. They are hybrid-flex positions requiring presence in the office 2 times per week, with occasional travel between these locations.
+Ready to find out more? Apply today!
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+AI - artificial intelligence - Advanced
+Advertiser
+Brief description of the company
+Considering we’ve done some pretty impressive work around here, that’s saying something. But we couldn’t have done it without our brilliant people, and you could be one of them. With an average of two patents a day and eight Nobel Prizes to our name, it’s no wonder that for more than a century we have been defining the industry and setting the bar for innovation. This is your chance to do the same. Explore a career with AT&T.
+Contact
+Contact person: Hana Balikova
+E-mail:
+send CV
+Apply now
+Benefits
+Your needs? Met. Your wants? Considered. Take a look at our comprehensive benefits.
+Financial Well-being
+Let’s start with the big one: Your work gets rewarded with competitive compensation.
+Health & Wellness
+You and your family get access to excellent medical, dental and vision insurance options.
+Paid Time Off
+Chill out with PTO that you can spend any way you want.
+Work-Life Balance
+Working here comes with the work-life balance you deserve.
+Family Planning & Care
+Our family friendly leave policy gives you the support you need to take care of loved ones at all stages in life.
+AT&T Perks
+Having perks that matter to you matters to us. That means offering discounts where it counts, like insurance for auto, home and pets.
+See Our Benefits
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5198366
+Dátum zverejnenia:
+27.11.2025
+2025-11-27
+lokalita:
+Košice
+Pozícia:
+Frontend developer
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+AT&T Global Network Services Slovakia
+Základná zložka mzdy (brutto):
+3 760 EUR/month

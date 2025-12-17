@@ -1,0 +1,104 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Software  Engineer  .NET
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto):
+Od 3 500 EUR/mesiac
+(finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta)*
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+Analýza, návrh, vývoj implementácia aplikácií.
+Hľadáme senior developera so skúsenosťami s vývojom C#/ C++.
+Bude mať voľnú ruku pri návrhoch a implementovaní riešenia.
+V krátkej budúcnosti by sa môže stať team leadrom 7-8 členného SCRUM tímu.
+Microsoft .Net  C#  Advanced feature like multithreading (Async, Task), WPF,  MVVM,  design patterns, nHibernate, web services, XML, XLS, CSV, JavaScript, HTML 5, jQuery.
+Zodpovednosti:
+•	návrh technického  dizajnu pre nový framework
+•	Vývoj, implementácia  integračného prostredia pre komplexný aplikačný framework, ktorý je zložený z jednotlivých častí
+•	Vývoj, integrácia a údržba komplexných testovacích scenárov pre integráciu jednotiek v spolupráci s ďalšími oddeleniami spoločnosti.
+•	Spolupráca na analýze požiadaviek zákazníka
+•	Využívanie agilných metód vývoja - SCRUM
+•	Spolupráca na funkčných a technických špecifikáciach
+•	Zlepšovanie testovania jednotiek a testovacích úrovní integrácie jednotlivých jednotiek a samotné testovanie
+•	Konfigurácia a úprava systémov
+Zamestnanecké výhody, benefity
+•	zázemie a istota stabilnej IT spoločnosti
+•	možnosť pracovať stále na nových projektoch
+•	vzdelávací program a rozvoj zamestnancov
+•	možnosť cestovať a absolvovať školenia v zahraničí
+•	motivujúce finančné ohodnotenie zodpovedajúce postaveniu pozície v IT medzinárodnej spoločnosti
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: anna.spasova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná medzinárodná spoločnosť.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+IT vývoj .NET
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+•	SŠ vzdelanie s maturitou aleboVŠ/vyššie odborné vzdelanie v oblasti IT
+•	Min. 4 roky skúseností so softvérovým vývojom Microsoft .NET .C#,  aspoň základy v programovaní C++,  MVVM,  design patterns
+•       Veľmi dobré znalosti MS SQL databázy
+•	Znalosť kvality procesov pri vývoji softvérových produktov založených na viacerých komponentoch
+•	Veľmi dobré komunikačné zručnosti, logické myslenie a schopnosť pracovať v medzinárodnom tíme.
+•	Flexibilita k virtuálnej komunikácii pri vývoji s pobočkou  spoločnosti
+•	Aktívna znalosť anglického jazyka
+•	Vítané sú skúsenosti s riadením tímu a s agilnými metódami vývoja SCRUM
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Anna Spasová
+Tel.:
++421 2 6241 3438, +421 911 525 022
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5201848
+Dátum zverejnenia:
+4.12.2025
+2025-12-04
+lokalita:
+Bratislava
+Pozícia:
+.NET programátor
+,
+IT analytik
+,
+IT konzultant
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

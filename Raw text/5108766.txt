@@ -1,0 +1,89 @@
+About us
+Our benefits
+Open positions
+Senior DevOps Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3,800 and EUR 6,300 per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the Team and our Scope
+Our team, a software house within Swiss Re, develops cloud-native (Azure-based) SaaS/PaaS solutions for external Life & Health insurance clients. Our portfolio includes globally established products and those in growth or incubation stages. We utilize the latest technology and prioritize innovation to stay competitive.
+Our technical team comprises professionals with multidisciplinary skills, located in various countries, delivering highly available, multi-regional solutions used worldwide.
+About the Role
+We are looking for an experienced Senior DevOps Engineer to join our team. Unlike other teams, we design and build productive infrastructure, leaving operations to others. The ideal candidate should have strong experience in writing IaaC and automating deployments, with skills in PowerShell, Kubernetes, Terraform, Azure DevOps, Helm, and modern DevOps best practices. As a Senior, you will guide other DevOps engineers and collaborate with the Engineering Manager and Product Owner to ensure the infrastructure meets evolving requirements.
+Your responsibilities will be:
+•	Solutionalize how to automatically deploy cloud infrastructure including networking, storage, compute, policies, monitoring, security, identity, functions, etc.
+•	Collaborate with product developers to identify DevOps solutions for embedding software in a secure, high-performance cloud infrastructure that meets enterprise standards.
+•	Create and implement DevOps solutions for automatic deployment of SW infrastructure, including disaster recovery strategies, operational manuals, and instructions for handing over maintenance to a separate team.
+•	Continuously assess and identify how to increase infrastructure performance while keeping cloud costs under control.
+•	Assess security policies, infrastructure requirements and changing guidelines to ensure keeping the SW infrastructure always compliant, resilient and secure.
+•	Lead a team of DevOps engineers, offering technical guidance. Collaborate with architects, managers, tech leads, and product owners to deliver solutions within the roadmap and SDLC processes.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+•	Must have excellent technical proficiency in…
+o	Usage and administrator of Azure services.
+o	Strong experience with PowerShell/Bash scripting.
+o	In-depth knowledge of Kubernetes and containerization.
+o	Strong skills with Terraform for infrastructure provisioning.
+o	Knowledge of Azure DevOps for CI/CD pipelines and release management.
+o	Experience managing teams of DevOps engineers.
+•	Preferably knowledge also about…
+o	Programming background in any OOP language (preferred Java and/or Go).
+o	Knowledge of security scans, authorization protocols, CloudFlare.
+o	Understanding of data fundamentals.
+o	Familiarity with Okta for identity and access management.
+o	Knowledge of Cloudflare for web performance and security.
+o	General knowledge of Gitlab and/or Github DevOps practices
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Livia Pasztorova
+Apply here
+ID:
+5108766
+Dátum zverejnenia:
+7.11.2025
+2025-11-07
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

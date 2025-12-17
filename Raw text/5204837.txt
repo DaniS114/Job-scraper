@@ -1,0 +1,141 @@
+expert/expertka data manažmentu
+Národná banka Slovenska
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+1.2.2026 alebo dohodou
+Mzdové podmienky (brutto)
+Od 2 255 EUR/mesiac
+od 2255 €
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Charakteristika práce:
+Komplexná správa dátových štruktúr a dátového modelu (dáta manažment) a riadenie údajov (data governance).
+Popis rozhodujúcich činností na pracovnom mieste:
+• Riadi a koordinuje činnosti súvisiace so správou a údržbou informačných systémov v gescii odboru štatistiky.
+• Definuje, vytvára a udržiava biznis a metadátové popisy údajov, logický dátový model, dátové kontroly, pravidlá, algoritmy a transformácie, integrácie a zabezpečuje prístup k údajom naprieč bankou.
+• Riadi a koordinuje prenos údajov medzi NBS a národnými a medzinárodnými inštitúciami.
+• Riadi a koordinuje prenos údajov medzi NBS a národnými a medzinárodnými inštitúciami.
+• Zbiera a analyzuje požiadavky používateľov v štruktúrovanej forme.
+• Analyzuje údaje, identifikuje rizikové oblasti a dáva návrhy na ich riešenia a elimináciu.
+• Definuje v spolupráci s užívateľmi parametre dátového modelovania, analytiku, reporting v BI nástrojoch.
+• Nastavuje komplexné programové a technické výstupy v databázach a v automatizovanom spracovaní dát.
+• Vytvára nástroje na ďalšie automatizované spracovanie údajov pre tvorbu výstupov požadovaných medzinárodnými inštitúciami.
+• Koordinuje automatizované spracovávanie všetkých údajov za zverenú doménu.
+• Vypracováva a aktualizuje metodiku technického spracovávania výstupov.
+• V súčinnosti s ďalšími útvarmi NBS vypracováva funkčné špecifikácie špeciálnych aplikácií.
+• Definuje stupeň citlivosti údajov z hľadiska ich bezpečnosti (napr. osobné údaje, utajované údaje) a určuje prístupové práva a k citlivým dátam.
+• Zaškoľuje zamestnancov NBS v používaní špeciálnych aplikácií vyvinutých na odbore štatistiky.
+• Riadi vykonávanie činností spojených s dohľadom zberu, spracovania, ukladania a správy a šírenia dát v NBS (data governance).
+• Vedie a koordinuje činnosti pracovného tímu.
+Zamestnanecké výhody, benefity
+Základná zložka mzdy:od 2255 €
+Konkrétna výška mzdy bude závisieť od dosiahnutého vzdelania, doterajších pracovných skúseností a odborných vedomostí vybraného kandidáta.
+Ponúkame najmä tieto benefity:
+• pružný pracovný čas
+• príležitostná práca z domu
+• týždeň dovolenky nad rámec Zákonníka práce
+• 5 dní plateného pracovného voľna
+• možnosť získať štvrťročné odmeny za výsledky práce
+• príspevok na doplnkové dôchodkové sporenie
+• profesijný a odborný rozvoj
+• vlastná odborná knižnica
+Doplňujúce informácie:
+• V Národnej banke Slovenska výrazne narastá potreba práce s dátami, od agregátov až po mikroúdaje. Z tohto dôvodu sa momentálne implementujú viaceré projekty, ktoré z nej robia modernú, agilnú a dátovo orientovanú inštitúciu. Odbor štatistiky je do viacerých z nich zapojený - DWH, BI, ML, Open Data, MDM, Data Governance, Dátová stratégia, AI akčný plán. Relatívnou novinkou je aj štatistika klimatických zmien, ktorá prepája údaje súvisiace so zmenou klímy s mikroúdajmi finančného trhu. Súčasťou práce je aj kooperácia s expertami z medzinárodných inštitúcií a iných centrálnych bánk pri tvorbe medzinárodných štatistických metodík a účasť na stretnutiach pracovných skupín a projektových tímov.
+• Vyššie uvedené si zároveň vyžaduje aj adekvátne personálne posilnenie. Ak si človek, ktorý má rád výzvy, chce sa podieľať na zavádzaní zmien spojených s týmito projektami a nebojí sa implementácie nových riešení v BI nástrojoch Qlik Sense alebo Power BI, prípadne v jazykoch Python, SQL alebo VBA, integrácia API rozhraní, si to práve Ty, koho do nášho tímu hľadáme.
+Informácie o výberovom konaní
+Zaujalo Vás toto miesto a chcete sa prihlásiť? Prosím kliknite nižšie na „Poslať spoločnosti životopis“ a budete presmerovaný priamo do nášho systému, kde vyplníte prihlasovací formulár. Termín na prihlásenie je najneskôr do 14.1.2026
+Bližšie informácie o podmienkach spracúvania osobných údajov nájdete na: https://www.nbs.sk/sk/ochrana-osobnych-udajov .
+Pracovné miesto je prístupné bez ohľadu na pohlavie.
+Predpokladaný termín ukončenia výberového konania
+15.1.2026
+(ostáva ešte 29 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+informatické, technické, ekonomické, matematické, štatistické, finančný manažment
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Kvalifikačný profil:
+• vzdelanie: vysokoškolské 2. stupňa
+• zameranie: informatika, technické, ekonomické, matematické, štatistické, finančný manažment
+• prax v odbore: 3
+Odborný profil:
+• znalosť jazyka a jeho úroveň: anglický jazyk - aktívna znalosť vrátane odbornej terminológie
+• IT zručnosti:
+• MS Word, Excel a PowerPoint,
+• Business Intelligence nástroje – používateľská úroveň,
+• znalosť SQL, rel. DB modelu,
+• znalosť R a Python – výhodou,
+• znalosť Service Component architektúry (API, SOAP, SOA) – výhodou,
+• odborné vedomosti a zručnosti:
+• Nástroje pre vizualizáciu dát a pre dátové modelovanie – používateľská znalosť,
+• Business intelligence nástroj – používateľská znalosť,
+• znalosť práce s databázami,
+• znalosť matematických funkcií, modelov a teórií,
+• analytické a prezentačné zručnosti,
+• zručnosť aplikovať teoretické vedomosti do praxe,
+• riešenie odborných problémov,
+• rozhodovanie a argumentačné zručnosti,
+• základná znalosť agilného projektového riadenia.
+Profil sociálnych a osobnostných kompetencií:
+• komunikačné zručnosti
+• učenie a odborný rozvoj
+• budovanie tímu a tímová spolupráca
+• etiketa a spoločenský protokol
+• organizačné a koordinačné schopnosti
+• komplexné a koncepčné myslenie
+• spoľahlivosť a zodpovednosť
+• tímová spolupráca
+• iniciatívnosť, inovatívnosť a kreativita
+• orientácia na ciele, objektívnosť
+• samostatnosť, nezávislosť a flexibilita
+• prezentačné zručnosti
+• analytické zručnosti
+• schopný zvládať pracovný stres a záťaž
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Národná banka Slovenska je centrálnou bankou SR a zároveň je súčasťou Európskeho systému centrálnych bánk a jednotného mechanizmu dohľadu.
+Naše postavenie je výnimočné aj preto, že ako verejná inštitúcia zriadená zo zákona zabezpečujeme viaceré nezastupiteľné úlohy pre našu krajinu.
+Sú to najmä menová politika, dohľad nad finančným trhom, finančná stabilita, zabezpečovanie platobných systémov a peňažného obehu, ekonomický výskum a zber štatistických údajov.
+Počet zamestnancov
+1000 a viac zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Martina Novosedlíková
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5204837
+Dátum zverejnenia:
+12.12.2025
+2025-12-12
+lokalita:
+Bratislava
+Pozícia:
+Business Intelligence Specialist
+,
+Databázový analytik
+,
+Python programátor
+,
+Špecialista reportingu
+,
+Štatistik
+Spoločnosť:
+Národná banka Slovenska
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 255 EUR/mesiac

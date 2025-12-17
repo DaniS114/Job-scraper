@@ -1,0 +1,91 @@
+Vývojár vo Visual C++
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Termín nástupu
+ASAP / Dohodou
+Druh pracovného pomeru
+plný úväzok
+Platové ohodnotenie
+1 800 EUR/mesiac
+od 1800 EUR (brutto) / mesiac + variabilná odmena
+*Máme zákonnú povinnosť zverejniť v inzerovanej pozícii základnú zložku mzdy. Na pohovore starostlivo posúdime Vašu kvalifikáciu, predpoklady a skúsenosti a kandidátom s vyššou úrovňou skúseností, bude samozrejme seniorita zohľadnená v platovej ponuke. Našim cieľom je odmeňovať zamestnancov férovo s prihliadnutím na situáciu na trhu a tak, aby sme vedeli v našom tíme privítať kvalitných kandidátov.
+O nás
+Siemens
+Siemens stelesňuje špičkové riešenia najmä v oblastiach automatizácie a riadenia, energetiky, informačných a komunikačných technológií.
+Popis pracovnej pozície a zodpovednosti
+Pre americký systém protipožiarnej ochrany hľadáme pre ďalší rozvoj produktu vývojára v jazyku C++  v prostredí MS-Windows. Vývojár bude členom projektového tímu na Slovensku  a bude sa spolupodieľať na vývoji produktu pre nastavenie a riadenie protipožiarneho systému. Služobné cesty do  zahraničia (USA, NY) iba príležitostne
+.
+Zodpovednosti:
+analýza požiadaviek
+návrhy riešení
+implementácia prevažne v C++
+testovanie
+Očakávame:
+skúsenosti  s objektovo-orientovaným programovaním  v jazyku C++ najmenej 3 roky
+skúsenosti s viacvrstvovou a distribuovanou architektúrou sú výhodou
+skúsenosti s vývojom produktov a agilným vývojom sú výhodou
+znalosť STL, objektových a SQL databáz, SQLite, Boost, OpenSSL, XML, Xerces, CppUnit testami, multi-threading, C++/CLI, MFC alebo inými Windows UI technológiami  sú výhodou
+skúsenosti s TCP/IP, UDP/IP, COM, USB a sériovou komunikáciou s hardware a Cloud sú výhodou
+skúsenosti s vývojom vo VisualStudio, RoboHelp, InstallShield, Git a GitLab sú výhodou
+skúsenosti s UML a písaním technickej dokumentácie v anglickom jazyku sú výhodou
+Osobnostné predpoklady:
+Spoľahlivosť, tvorivosť, systematickosť, iniciatívnosť,  pracovitosť, komunikatívnosť, tímovosť.
+Potrebné vzdelanie, zručnosti a osobnostné predpoklady
+Vzdelanie
+vysokoškolské I. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+C++ - Pokročilý
+Čo ponúkame
+Ponúkame:
+Homeoffice, telepráca
+Flexibilný pracovný čas (9:00 – 15:00), skrátené piatky
+Work-life balance
+Bezplatné parkovanie
+Bridge days (spravidla 3 dni/rok)
+Sick days (3dni/rok)
+Dodatočné platené pracovné voľno
+MultiSport
+Cafeteria systém - BenefitPlus (spravidla 300 bodov/€ ročne)
+Príspevok do 3. piliera dôchodkového poistenia až do výšky 3 % hrubého platu (po skúšobnej dobe)
+Náhrada ušlého zárobku za obdobie PN a OČR (až do výšky 100% mzdy, celkovo 20dní/rok)
+Príspevok pri narodení dieťaťa vo výške 300 €,
+Príspevok na predškolské zariadenie vo výške 200 € (v rámci systému Cafeteria – BenefitPlus)
+Príspevok na reprezentatívne športové aktivity
+HEALTHY BACK PROGRAM= ponúkame ergonomické pracovisko (elektricky ovládaný stôl na sedenie a státie, ergonomické stoličky)
+Práca s najnovšími technológiami + väčšina projektov prebieha v agilnej metodike (používame SAFe)
+Možnosť zúčastniť sa rôznych medzinárodných konferencií
+2 SIM karty so zľavou pre zamestnancov aj pre členov rodiny
+Bonus za odporúčanie zamestnanca až do výšky 2 000 €
+Možnosť investovať do nákupu akcií spoločnosti Siemens (po skúšobnej dobe)
+Zľavy pre zamestnancov (elektronika, jazykové kurzy, dovolenkové pobyty...)
+Zľavnené pôžičky pre zamestnancov (pre zamestnancov s pracovným pomerom dlhším ako 3 roky)
+Program starostlivosti o zdravie, Deň zdravia, teambuildingový program
+Vzdelávanie v rôznych oblastiach podľa vlastného výberu v rámci pracovného času
+Ako to u nás vyzerá
+Poslať životopis
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+Pridaj sa k nám!
+Pošli CV
+Klikni pre viac informacií
+ID:
+5176709
+Dátum zverejnenia:
+16.10.2025
+2025-10-16
+lokalita:
+Žilina
+Pozícia:
+C++ programátor
+,
+Programátor
+Spoločnosť:
+Siemens Slovensko
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

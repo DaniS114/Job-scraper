@@ -1,0 +1,92 @@
+DevOps Engineer (Azure, Kubernetes, Docker, OpenShift)
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Atraktívny benefitný systém klienta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+- Návrh, implementácia a správa robustných CI/CD pipelines pre automatické nasadzovanie a testovanie softvéru (Jenkins, Gitlab, Nexus).
+- Konzultácie k architektúre a nastaveniu prostredí pre beh aplikácií.
+- Správa a optimalizácia kontajnerovej a orchestrálnej infraštruktúry (Kubernetes, Docker).
+- Zodpovednosť za dostupnosť, škálovateľnosť a monitorovanie produkčných a neprodukčných prostredí.
+- Implementácia infraštruktúry ako kódu (IaC) pomocou nástrojov ako Terraform alebo Ansible.
+- Spolupráca s developermi a testermi pri optimalizácii procesov, odstraňovaní prekážok a zrýchľovaní release cyklu.
+- Zabezpečenie bezpečnostných štandardov a integrácia bezpečnostných nástrojov -DevSecOps
+Zamestnanecké výhody, benefity
+flexibilná pracovná doba
+Po zaškolení možnosť dohodnúť sa na dňoch home-officu
+príspevok pri uzavretí manželstva
+Referral príspevok
+finančný bonus po odpracovaní 10 rokov
+Multisport karta
+teambuildingy (celofiremné, divízne, vianočná večera)
+podpora športových aktivít (korčuľovanie, bowling, ...)
+No dresscode
+Mobil a notebook aj na osobné použitie
+zľavy u tretích strán
+možnosť odborného vzdelávania, certifikácií a školení
+čerstvé ovocie, čaj, káva
+moderné priestory
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Náš klient je uznávaným expertom v oblasti IKT a softvérového vývoja dodávajúcim sofistikované a jedinečné technologické riešenia prispôsobené potrebám klientov. Divízia IKT systémov sa zameriava na integráciu bezpečnej IKT infraštruktúry s vysokou pridanou hodnotou, ako sú dátové centrá, komunikačné systémy a siete.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+- Skúsenosti minimálne 5 rokov na pozícii DevOps/Cloud/Systémový Inžinier.
+- Cloudová Platforma: Znalosť a praktické skúsenosti s cloudovou platformou (primárne Azure - Azure DevOps, AKS, IaaS/PaaS).
+- Kontajnerizácia/Orchestrácia: Kubernetes, Docker.
+- Praktická skúsenosť s technológiou OpenShift.
+- CI/CD Nástroje: Skúsenosti s GitLab CI/CD, Jenkins, Nexus.
+- Infraštruktúra ako Kód (IaC): Terraform, Ansible.
+- Monitorovanie a Logovanie: Skúsenosti s nástrojmi ako Prometheus, Grafana, Loki , Zabbisx a ELK stack.
+- Skúsenosť s konfiguráciou nástrojov ako Hashicorp Vault, Keycloak, Argo CD, Helm.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: IT Recruitment
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5205935
+Dátum zverejnenia:
+15.12.2025
+2025-12-15
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT konzultant
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

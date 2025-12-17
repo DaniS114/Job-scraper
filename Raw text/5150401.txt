@@ -1,0 +1,93 @@
+Home
+O Solar Turbines
+Kariéra
+Kontakt
+Voľné pozície
+EN
+SK
+C++ Senior Developer
+Miesto práce
+Poštová, Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 400 EUR/mesiac
+base salary depends on seniority, experiences and qualification of the candidate + attractive variable salary part
+Informácie o pracovnom mieste
+The Control Platforms team within the SPE organization at Solar Turbines is responsible for the development and lifecycle management of core control system components and architecture. This includes feature development, maintenance, and subject matter expertise for the Turbotronic Gateway—a device that enhances security and expands data collection capabilities.
+________________________________________
+Job Description
+We are seeking a Software Application Development Engineer to join our global team. This role involves close collaboration with cross-functional engineering groups to design, develop, and test software applications using a scaled agile development process. The ideal candidate will contribute to the development of secure, high-performance software solutions for both Windows and Linux platforms.
+Key Accountabilities:
+Design, develop, and maintain software applications using C++ and C#
+Implement secure programming principles and network programming (TCP/IP)
+Apply object-oriented programming concepts and design patterns
+Collaborate with cross-functional teams to define and meet software requirements
+Troubleshoot and maintain existing codebases across platforms
+Create and analyze technical diagrams, flowcharts, and models
+Participate in Agile development practices throughout the software lifecycle
+Ensure adherence to best coding practices, libraries, frameworks, and APIs
+________________________________________
+Minimum Qualifications
+Bachelor’s degree in Computer Science, Computer/Electrical/Mechanical Engineering, or equivalent experience
+Minimum of 6 years of software engineering experience, with a strong focus on C++ development
+Solid understanding of Agile methodologies
+Proficiency in:
+C++
+Git version control
+Secure and network programming principles
+Object-Oriented Programming
+Demonstrated ability to work collaboratively in a team environment, contributing to shared goals and supporting team success
+Strong interpersonal and communication skills
+Competent in written and spoken English
+Preferred Qualifications
+Experience working independently and as part of a small development team
+Familiarity with test-driven development and debugging across platforms
+Strong problem-solving skills and ability to diagnose production issues
+Solid understanding of Agile methodologies and experience with Azure DevOps
+C# and/or Python proficiency
+Passion for technology and continuous learning
+Proactive, creative, and self-motivated mindset
+Fluent in written and spoken English
+Zamestnanecké výhody, benefity
+Extraordinary opportunity for personal and professional growth in both local and international, friendly and fun environment of growing • Fortune100 company in Slovakia
+Competitive Compensation
+Generous Pension Plan (Company’s Contribution to “3rd pillar”)
+Life Insurance
+Extra 5 days’ vacation on top of the legislative entitlement
+Employee assistance program for employees and their family members
+Employee Referral Program
+Flexible working hours
+Hybrid Work
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Solar Digital as Customer Service group of Solar Turbines is the global organization responsible for InSight Platform technology and the relentless innovation of the entire ecosystem, capabilities, and customer user experience. Solar Digital is obsessively customer-centric with a passion for cutting edge technology. With deep expertise in cyber-security, machine data acquisition, software development, product knowledge, analytics, and regional teams around the world, it is dedicated to deliver digital solutions for Customer success.
+Main Mission is to provide world-class secure digital solutions for asset lifecycle management to ensure our customers success. Solar Digital is building better, smarter world through technology partnerships with its customers. Highest priority is to satisfy the customer through early and continuous delivery of valuable software and services.
+Kontakt
+Kontaktná osoba: Tomáš Faust
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5150401
+Dátum zverejnenia:
+17.10.2025
+2025-10-17
+lokalita:
+Košice
+Pozícia:
+Softvérový inžinier
+Spoločnosť:
+Solar Turbines Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+3 400 EUR/mesiac

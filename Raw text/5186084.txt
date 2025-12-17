@@ -1,0 +1,87 @@
+Senior QA Engineer
+Moxymind s. r. o.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 3 000 EUR/month
+Final salary depends on candidates experience and skills.
+Information about the position
+Job description, responsibilities and duties
+We are now looking for
+Senior Backend QA Engineer
+to join the Moxymind team to work on a long term projects for one of our clients operating in the heavy machinery industry. You will be part of cross-functional team, working on software testing solutions that ensure quality, reliability, and scalability. Depending on your experience and skill set, you’ll be assigned to a project where you can make the greatest impact.
+As a Backend QA Engineer with us you will:
+Ensure the quality of backend services and APIs through both manual and automated testing.
+Design, implement, and execute functional, integration, regression, and performance tests.
+Analyze business and technical requirements to create and maintain effective test cases.
+Collaborate closely with developers, product owners, and DevOps teams to resolve issues and improve test coverage.
+Build and maintain test plans, automation scripts, and testing frameworks using Karate.
+Document and report defects, testing progress, and results in a clear and structured way.
+Work in an Agile environment with CI/CD best practices and modern DevOps tools.
+Employee perks, benefits
+Yearly budget for education
+Yearly budget for tech appliances
+Multisport card
+Flexible working hours
+Opportunity to work from home
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+Tech stack (preferred/nice to have):
+Testing Frameworks & Tools:
+Karate (primary), Postman, Wiremock, JUnit, Cucumber.
+Programming & Automation:
+Python, Java, or JavaScript (basic scripting knowledge).
+API Testing:
+REST APIs, API gateways (Apigee or similar), backend microservices testing.
+Databases:
+SQL or other relational databases.
+CI/CD & DevOps:
+Jenkins, Git, experience with automated testing in pipelines.
+Other:
+Experience with
+HCL Commerce
+is a strong advantage. Familiarity with cloud platforms (AWS or others) is a plus.
+What we expect from you:
+At least
+5+ years
+of QA experience with proven leadership or mentoring skills for
+Senior
+roles.
+Experience designing, implementing, and maintaining backend automation frameworks (preferably in Karate).
+Strong understanding of API testing principles and test data management.
+Proactive, analytical, and communicative team player with strong attention to detail.
+Advertiser
+Brief description of the company
+Moxymind's vision is to create the best place to work for smart and talented people. We founded Moxymind in 2014 with the goal of making software testing better. We believe in innovation and progress. Better software, better world.
+https://www.moxymind.eu/
+Number of employees
+25-49 employees
+Contact
+Contact person: Zuzana Skotnická
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5186084
+Dátum zverejnenia:
+3.11.2025
+2025-11-03
+lokalita:
+Košice
+Pozícia:
+IT Tester
+Spoločnosť:
+Moxymind s. r. o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

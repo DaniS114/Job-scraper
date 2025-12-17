@@ -1,0 +1,104 @@
+CGI Slovensko
+Tvoríme digitálnu budúcnosť
+Sme popredná globálna firma v oblasti IT konzultácií.
+Java Developer experienced with Quarkus framework
+Miesto práce
+Landererova 12, Staré Mesto
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+Od 2 100 EUR/mesiac
+The base salary starts from 2100 to 3500 EUR/m. (gross). Final salary could be higher - it depends on skills and expertise of candidates.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+The Event Gateway is providing a client agnostic mechanism to handle both incoming and outgoing asynchronous near real time streaming messages. It's lightweight, robust, and scalable system. The solution is providing the ability to register topics and event subscriptions on those topics via a UI which is simple and easy for Fiserv and a client to use.
+Tech Stack:
+•	Java 17+
+•	Spring Boot 3, Quarkus
+•	REST API (Open API 3)
+•	Apache Kafka, Amazon MSK
+•	Hibernate, JPA
+•	Maven, GitLab CI/CD, ArgoCD, Nexus
+•	Junit, Mockito
+•	Sonatype Lifecycle, Fortify, WebInspect, SonarQube
+•	Dynatrace, Splunk
+•	AWS, Kubernetes, Docker
+•	Jira, Confluence
+•	IntelliJ IDEA Ultimate
+Responsibilities:
+•	Implement new features and functionality, as well as optimize and refactor existing code.
+•	Write clean, efficient and well documented code.
+•	Work with appropriate frameworks, libraries and tools (e.g. Spring Boot, Quarkus, Maven, Gradle).
+•	Stay updated on the latest trends and technologies in the Java ecosystem.
+•	Automate development processes, such as continuous integration / continuous deployment (CI/CD) pipelines.
+•	Resolve complex technical issues, whether in the development stage or in production environment.
+•	Analyze logs and error reports to trace problems and apply fixes.
+•	Contribute to innovation initiatives, proposing new technologies or approaches.
+Position requires 5 days  availability on-site in Bratislava office.
+Zamestnanecké výhody, benefity
+What do we offer?
+• Friendly working atmosphere and a stable background of one of the largest IT companies in the world
+• Support of your professional growth
+• Certified learning programs
+• Profit Participation Plan - participation in the company’s profit
+• Share purchase Plan – the possibility of purchasing employee shares
+• 25 days of leave for regeneration for everyone
+• 3 sick-days for recovery
+• 30 days of fully paid sick leave
+• Benefit Plus Program for leisure activities
+• Referral bonus for referring a new colleague
+• Multisport card for sports and wellness facilities
+• The possibility of obtaining an interest-free loan
+• Language training
+• Vaccination against influenza and tick-borne encephalitis
+• Possibility of participation in various sports events – e.g. Do práce na bicykli/To work by bike, marathons, etc.
+• Member Assistance Program - possibility of using the advisory services of psychological and legal experts for health, work, or other serious life events
+• And many more…
+Join us and find out!
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+Osobnostné predpoklady a zručnosti
+•	In-depth knowledge of Java: This includes understanding the latest versions of Java, core concepts like object-oriented programming, multithreading, exception handling, collections framework, and Java memory management (garbage collection, etc.).
+•	Professional Experience: 5+ years of hands-on experience in Java development.
+•	Quarkus Framework: Experience with Quarkus is MUST have
+•	Spring Framework: Experience with Spring Boot, Spring Security, and Spring Data is NICE to have
+•	Build Tools: Knowledge of build automation tools like Maven or Gradle.
+•	Web Services: Proficiency with RESTful services and related technologies like JSON, XML.
+•	Version Control: Knowledge of Git or other version control systems.
+•	Unit Testing: Familiarity with testing tools like Junit and Mockito.
+•	Fluent English (C1)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+CGI je popredná spoločnosť poskytujúca poradenské a technologické služby zamerané na pomoc klientom pri dosahovaní úspechu v ich podnikaní. Od založenia v roku 1976 zdieľame s našimi zákazníkmi ich problémy a poskytujeme kvalitné služby k ich riešeniu. 90 000 odborníkov v 40 krajinách sveta znamená pre našich klientov blízkosť, odbornosť a kompletné IT služby, ktoré naplnia ich obchodné potreby kdekoľvek a kedykoľvek. Ponúkame tak prístup a zodpovednosť lokálneho partnera, ako aj služby a schopnosti potrebné pre splnenie rozvíjajúcich sa potrieb v globálnom meradle. Naše pobočky v strednej a východnej Európe sa nachádzajú v Českej republike, Slovensku a Maďarsku. Zároveň pracujeme na projektoch významných organizácií v iných štátoch, ako je Bulharsko, Chorvátsko, Macedónsko, Čierna Hora, Rumunsko a Srbsko.
+Počet zamestnancov
+150-199 zamestnancov
+Kontakt
+Kontaktná osoba: Kristína Kajanová
+E-mail:
+poslať životopis
+Follow CGI
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5168197
+Dátum zverejnenia:
+3.11.2025
+2025-11-03
+lokalita:
+Bratislava
+Pozícia:
+Java programátor
+Spoločnosť:
+CGI Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+2 100 EUR/mesiac

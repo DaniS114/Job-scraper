@@ -1,0 +1,88 @@
+About us
+Our benefits
+Open positions
+Data Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 400 - 4 100 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,400 and EUR 4,100 per month (for a full-time role). The specific salary offered considers: the requirements, scope, complexity and responsibilities of the role, the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience. In addition to your base salary, you may be eligible for additional rewards and benefits including an attractive performance-based bonus
+Information about the position
+Job description, responsibilities and duties
+Make a meaningful impact at the intersection of data and sustainability! Join our innovative team where your technical expertise will drive environmental initiatives and help shape a more resilient future.
+About the Role
+As a Data Engineer in our Product Area "Research & Sustainability," you'll be at the forefront of supporting impactful sustainability initiatives through data-driven solutions. This role offers an excellent opportunity to apply your technical skills to meaningful projects while collaborating with experienced professionals across our global organization.
+Key Responsibilities:
+- Support and develop data pipelines and products in collaboration with our Lead Engineer
+- Write and maintain high-quality, efficient code that meets our technical standards
+- Analyze complex datasets to identify patterns and help create valuable insights
+- Collaborate effectively with cross-functional teams to ensure product success
+- Contribute to innovation in our sustainability-focused technical solutions
+About the Team
+Our team drives data-driven insights and technological innovation within Group Underwriting. We create tech solutions tailored for sustainability, working in a global environment with colleagues based in Zurich, Bratislava, Bangalore, and beyond. This is an exciting opportunity to learn from experienced professionals and grow in a dynamic, international setting.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Required Skills and Experience:
+- Strong PySpark proficiency with demonstrated ability to develop efficient data processing solutions and optimize distributed computing workflows
+-Strong understanding of Data Engineering principles including CI/CD practices and experience in either Data Modelling, ETL processes, big data technologies or data warehousing
+- Additional Python/Scala programming skills with proven problem-solving abilities and analytical thinking
+These are additional nice to haves:
+- Experience implementing advanced PySpark features such as custom transformations, window functions, and UDFs
+- Knowledge of Palantir Foundry and Azure cloud platforms
+- Experience working in agile project environments and with tools like Azure DevOps
+- Skills in generating and interpreting complex data sets
+- Familiarity with QA and testing frameworks
+- Understanding of Typescript
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Livia Pasztorova
+Apply here
+ID:
+5166465
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Business Intelligence Specialist
+,
+Database Administrator
+,
+Database Analyst
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 400 EUR/month

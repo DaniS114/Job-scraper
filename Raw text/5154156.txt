@@ -1,0 +1,89 @@
+IT sieťový a bezpečnostný špecialista
+IPESOFT spol. s r.o.
+Miesto práce
+Obchodná, Žilina-Vlčince, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+2 500 - 3 500 EUR/mesiac
+od 2 500 EUR (podľa seniority, skúseností) + ročná prémia v rámci bonusového systému spoločnosti
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Spoločnosť Ipesoft hľadá posilu do tímu sieťovej a kybernetickej bezpečnosti, ktorá zvládne návrh aj implementáciu bezpečnostných riešení. Ak ťa baví networking a bezpečnosť, pošli nám svoj životopis.
+Náplň práce:
+Návrh, nasadenie implementácie sieťových zariadení v office aj OT sieťach.
+Návrh, nasadenie a správa bezpečnostných riešení (EDR, SIEM, log management).
+Threat hunting, detekcia a reakcia na incidenty, tvorba a ladenie detekčných pravidiel.
+Hardening a bezpečnostný dohľad nad Windows Server/AD a Linux (Debian/Ubuntu/RedHat).
+Spolupráca na bezpečnostnej architektúre, politikách a procesoch.
+Súlad s legislatívou a normami: zákon č. 69/2018 Z. z. o kybernetickej bezpečnosti, NIS2, ISO/IEC 27001.
+Reportovanie rizík, návrh opatrení a podpora auditov.
+Zamestnanecké výhody, benefity
+práca v stabilnej spoločnosti pôsobiacej na trhu viac ako 30 rokov
+príjemné pracovné prostredie
+flexibilný pracovný čas
+motivačný systém zamestnaneckých benefitov
+firemné akcie, podpora športových podujatí
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+informatika, informačné technológie,  IT siete
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+Kybernetická bezpečnosť - Pokročilý
+Windows a Linux - Základy
+Networking - Pokročilý
+Prax na pozícii/v oblasti
+informačné technológie, networking
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+Požiadavky:
+Skúsenosti s konfiguráciou sieťových zariadení - Fortigate, Mikrotik, Cisco.
+Pochopenie OT sietí a bezpečnostných technológií (TCP/IP, FW, VPN, IDS/IPS).
+Skúsenosť s EDR (napr. Defender for Endpoint, SentinelOne) a SIEM (napr. Wazuh/ELK).
+Znalosť threat hunting postupov, korelácie logov, tvorby detekcií a KPI.
+Orientácia v zákone 69/2018 Z. z., NIS2 a ISO/IEC 27001 (politiky, riadenie rizík, ISMS).
+Základy skriptovania (PowerShell/Bash; výhodou Python).
+Vhodný kandidát musí byť samostatný, zodpovedný  a mať schopnosť komunikovať technické témy zrozumiteľne.
+Výhodou sú:
+Certifikácie: Security+, SC-200/SC-100, ISO 27001 LA/LI, CEH, OSCP, CISSP, NSE, prípadne ekvivalenty.
+Skúsenosť s cloud security (Azure/M365, AWS), MDM, DLP, vuln. managementom.
+Prax v SOC/CSIRT/blue team prostredí.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť IPESOFT dodáva inovatívne softvérové riešenia pre energetiku a optimalizáciu výrobných procesov. Vyjadrením dôvery významných firiem našej spoločnosti je skutočnosť, že v portfóliu našich zákazníkov sú firmy ako U.S.Steel Košice, eustream, Slovenský plynárenský priemysel, Slovenské elektrárne, Slovnaft, Stredoslovenská energetika, ČEZ, ŽSR, Continental, EPS Belehrad, Kazašské železnice a ďalšie významné výrobné a energetické podniky.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Ing. Mgr.  Iveta Kucková
+Tel.:
++421903263890
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5154156
+Dátum zverejnenia:
+11.11.2025
+2025-11-11
+lokalita:
+Žilina
+Pozícia:
+Špecialista IT bezpečnosti
+Spoločnosť:
+IPESOFT spol. s r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

@@ -1,0 +1,102 @@
+Senior Quality Engineer (Azure, SaaS/PaaS, CI/CD, Selenium, Cypress, Rest API, SoapUI, Postman)
+SourceFirst International s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+Based on agreement
+Wage (gross)
+From 3 800 EUR/month
+The final salary offered will depend on the candidate's experience and knowledge + attractive benefit system of the company.
+Information about the position
+Job description, responsibilities and duties
+As a Senior Quality Engineer specializing in automation, you will take ownership of the automation strategy within one of our product engineering team. You will lead the design, implementation, and evolution of advanced automated testing frameworks, driving continuous improvement in test quality and coverage. You’ll mentor and lead junior engineers, facilitate cross-team collaboration, and communicate testing outcomes to diverse stakeholders, setting the standard for quality and innovation across the organization.
+Our team, software house within company, develops cloud-native (Azure-based) SaaS/PaaS solutions for external Life & Health insurance clients.
+Responsibilities:
+-Proactively lead and manage QA initiatives to ensure high-quality deliverables for our end-clients.
+-Lead the design, development, and continuous improvement of scalable test automation frameworks and suites across multiple product lines under L&H solutions.
+-Evaluate and integrate test automation tools, including build verification systems, IDE plugins, and linting programs, to optimize testing efficiency and reliability.
+-Write and enforce test automation scripts following defined internal coding standards to ensure consistency and maintainability.
+-Collaborate with DevOps and cloud teams to integrate automation into CI/CD pipelines and ensure infrastructure reliability.
+Employee perks, benefits
+​​- flexible working time
+​​- hybrid type of home-office
+​​- kindergarten - available in our building
+​​- yearly salary re-evaluation
+​​- sick days
+​​- MultiSport card
+​​- mental & medical health support
+​​- public transport donation​​
+Information about the selection process
+Please send your CV to tomas.simander@sourcefirstinternational.com
+We always have several positions for IT Specialists not only in Slovakia and the Czech Republic, but also on foreign projects.
+Expected date of completion of the selection process
+31.12.2025
+(there are still 14 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a leading international tech company and provides a wide range of products and services.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+-Hands-on experience in test automation, with strong familiarity in CI/CD pipelines to enable efficient test automation and continuous integration.
+-Proven record of executing QA strategies and unification of QA processes.
+-Experience designing automation solutions for complex architectures covering UI, services, files, and databases.
+-Able to perform QA testing across both front-end (user interface) and back-end (server, APIs, databases) components of applications.
+-Strong QA experience with a solid background in Enterprise Java technologies.
+-Strong experience in compatibility testing and regression testing.
+-Preferrable experience in leading and managing automation teams, while providing technical guidance and solutions to support successful delivery.
+Nice to have skills:
+-Proficient in Java/J2EE, REST, JUnit/TestNG, and various test automation frameworks.
+-Experience with front-end web application test automation tools including Selenium, WebDriver, Grid, Cucumber, JUnit, JMeter, Cypress.
+-Experience REST API testing, data validation testing, and integration testing.
+-Hands-on experience with automation tools and frameworks like SoapUI, Postman, Protractor, Rest Assured.
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: Tomas Simander
+Tel.:
++421909114115
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202739
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Bratislava
+Pozícia:
+Head of Technical Department
+,
+IT Tester
+,
+Programmer
+,
+Quality Engineer
+,
+Software Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 800 EUR/month

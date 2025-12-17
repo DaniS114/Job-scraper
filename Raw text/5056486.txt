@@ -1,0 +1,132 @@
+Join Our Team as a Skilled Systems Engineer
+localhost s.r.o.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+trade licence
+Start date
+ASAP
+Wage (gross)
+From 4 000 EUR/month
+Final agreement depends on your skill-set and experience. This is the subject of a partnership agreement during the selection process.
+Information about the position
+Job description, responsibilities and duties
+Are you ready to be a key part of a tech-savvy, forward-thinking team managing critical infrastructure? At
+localhost
+, we're looking for a
+Systems Engineer
+who thrives on innovation, system reliability, and continuous improvement.
+As a Systems Engineer, you’ll take charge of maintaining and evolving our DataCenter infrastructure – from servers to firewalls – ensuring everything runs smoothly and securely. You’ll contribute to the future of our infrastructure by driving ideas, automation, and improvements across the board.
+What You'll Do:
+Maintain, monitor, and optimize core infrastructure in our DataCenters (*nix servers, firewalls, virtualization)
+Troubleshoot and resolve complex technical issues independently
+Proactively identify problems using monitoring tools and solve them before they escalate
+Apply security best practices using automation tools (HIDS, SeLinux, etc.)
+Collaborate with fellow systems engineers to deliver scalable, resilient systems
+Support the implementation of new ideas and continuous improvements
+Take ownership of tasks and contribute to team innovation
+Employee perks, benefits
+extra days off: 3x localhost days and 3x sick days
+Referral bonus
+Benefit plus budget
+Financial contribution to Pension plan
+Multisport Card
+Education support (certificates, courses, trainings)
+Physiotherapist sessions once a week in the office
+Bonuses at every smashing life events
+Flexible working arrangements
+Transparent approach and communication
+Supporting your ideas
+Information about the selection process
+Apply now and let’s build something great together.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT
+Language skills
+English - Upper intermediate (B2)
+Experience in the position/sector
+IT
+Number of years of experience
+5
+Personality requirements and skills
+What You Bring:
+5+ years
+of experience in infrastructure delivery and systems engineering
+Strong ability to
+troubleshoot production issues
+Advanced knowledge of operating systems like *
+RedHat, Alpine, OpenWRT,
+BSD
+Solid experience with:
+Docker
+or other container technologies
+Ansible
+or similar configuration management tools
+DevSecOps
+practices and tools
+Virtualization platforms
+like oVirt, VMware
+System hardening
+and secure configurations
+Application security
+practices (SAST, DAST, SCA, IAST)
+Nice to Have:
+Experience with firewall tools (Iptables, PF, Firewalld, etc.)
+Solid understanding of
+networking (TCP/IP, switching, routing)
+Familiarity with monitoring tools like
+Zabbix
+or
+Grafana
+CI/CD
+automation experience
+Proactive, creative mindset and a drive to learn new tech
+Ability to work both
+independently
+and collaboratively
+Interest in cross-functional collaboration with product owners, engineers, and leadership
+Passion for technology and continuous improvement
+Advertiser
+Brief description of the company
+Join the digital revolution with localhost!
+We're not your average IT company. As a team of passionate tech experts based in Košice, we've spent the last decade empowering global and local brands alike.
+Our 100+ strong team of engineers is committed to your success, constantly learning and adapting to bring you the most innovative solutions and state-of-the-art software. Whether you're a startup or an enterprise, we're your trusted partner.
+Reach out today and let's shape your digital future together: info@localhost.company
+Number of employees
+25-49 employees
+Contact
+Contact person: Ing.  Dana Holub Pospišilová
+Tel.:
++421905811824
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5056486
+Dátum zverejnenia:
+23.10.2025
+2025-10-23
+lokalita:
+Košice
+Pozícia:
+IT Network Administrator
+,
+IT System Administrator
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+localhost s.r.o.
+Základná zložka mzdy (brutto):
+4 000 EUR/month

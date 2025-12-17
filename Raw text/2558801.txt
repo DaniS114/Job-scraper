@@ -1,0 +1,54 @@
+Nokia
+Open positions
+What we offer
+Contact
+C/C++ Software Developer
+Place of work: Bratislava, Slovakia (Job with occasional home office)
+What we do
+Come create the technology that helps the world act together.
+Our R&D center, home to over 100 engineers, is dedicated to shaping the future of software-defined IP networks, helping the world act together. Our next-generation data center platforms deliver the scale, openness, aggregation, and interconnectivity required for modern DC networks.
+Our solutions are designed to deliver exceptional results, powered by breakthrough silicon and software innovations. Along with open, intent-based network automation, this allows the operators to launch and deploy new digital services easily, quickly and cost-efficiently. As generative AI and industry digitalization converge, we're unlocking unprecedented possibilities and making networks more essential than ever.
+Imagine a world where technology seamlessly connects us all, enabling innovation and progress. At Nokia Bratislava, we're at the forefront of this digital revolution.
+What are your job duties
+As a C/C++ Software Developer, you will work on the development and evolution of software for IP routers. You will have a chance to participate in the development of leading IP products. You will have the opportunity to use your creativity and engineering experience to improve the development and test environment, procedures and the products themselves.
+As part of our team, you will:
+•	Develop features that will evolve the IP router products
+•	Collaborate with the test team to deliver your features with exceptional quality and to maintain it during their lifetime
+•	Be in close contact with the other engineers and teams
+•	Understand the challenges of SW design for high availability systems
+•	Be able to cope with the responsibility of delivering a feature you committed to
+What we are looking for
+We are looking for junior and senior developers as well as fresh graduates with a programming background. The key is a passion for software development and finding joy in programming.
+We count on you have:
+•	A good understanding and experience with programming and debugging in C, C++
+•	Fluent English knowledge – verbal and written as well
+•	University degree in Engineering and Technology / Information Technology
+Nice to have:
+•	Experience with Linux (command line) including basic scripting
+•	Experience with some versioning systems (preferably GIT)
+•	Relevant experience with IP protocol family and routing
+Only CVs in English will be considered for the selection process.
+What we offer
+•	Wage (gross): from 2200 EUR/month with completed master’s degree
+•	Financial contributions, such as life insurance, private health care, private pension plan - 3rd pillar retirement savings, salary compensation during illness leave (PN), life events (marriage, childbirth/adoption), meal allowance above the law
+•	Time benefits, such as 3 sick days, extra 5 days off, flexible working time and hybrid way of working (2 days office, 3 days home-office)
+•	Development benefits, a variety of learning, project & career opportunities
+•	Besides these, we are offering a casual & innovative culture, free refreshments & fruits in the workspace and for sure, the excitement of having an impact across the most important internet companies.
+Apply online
+ID:
+2558801
+Dátum zverejnenia:
+28.10.2025
+2025-10-28
+lokalita:
+Bratislava
+Pozícia:
+C++ Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+Nokia Slovakia, a.s.
+Základná zložka mzdy (brutto):
+2 200 EUR/month

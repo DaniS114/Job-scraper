@@ -1,0 +1,73 @@
+About us
+Open positions
+Benefits
+Contact
+Senior Data Maintenance Analyst - Integrated Steering & Reporting (ISR) Platform
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Minimum salary *
+From 1 850 EUR/month
+Contract type
+full-time
+* Of course, an overpayment is possible depending on the respective training, qualification and professional experience. The gross salary is based on these aforementioned criteria and is finally determined after the personal interview.
+Henkel operates worldwide with leading brands and technologies in two exciting business areas: Consumer Brands (Laundry & Home Care and Beauty Care) and Adhesive Technologies. Our success is built on constant innovation and people who strive for excellence. Working at Henkel is much more than just a job. It's a passion. Have you got what it takes?
+Your role
+Join Henkel as an "Senior Data Maintenance Analyst - Integrated Steering & Reporting (ISR) Platform" and play a key role in enabling data-driven decision-making within our Adhesives business.
+In this role, you will ensure the accessibility of Strategy & Sales data on our Integrated Steering & Reporting (ISR) platform.
+Your primary responsibility will be to collect, review, and upload ISR master data in continuous alignment with our Business Stakeholders. Additionally, you will focus on executing and designing data quality management processes, as well as enabling self-service BI capabilities for our users. You will also explore opportunities to automate and continuously improve our internal processes.
+In this role you will be responsible for:
+Coordination and refinement of ISR master data updates in close collaboration with business stakeholders across all segments of Henkel Adhesives.
+Maintenance and streamlining of data mappings using Microsoft Excel and the Azure Portal.
+Execution of data quality checks and KPI monitoring using ISR and Databricks.
+Identification and resolution of data inconsistencies in partnership with our development team.
+Support in the development of a holistic self-service BI approach, enabling users to access ISR data for their own reporting in Microsoft Power BI.
+Automation of internal ISR data processes using Python and Microsoft Power Query.
+Your skills
+Experience in data-driven analytics in ERP (SAP, Oracle) or BI (Power BI, Tableau) environments.
+Required technical skills: Advanced Excel and Power BI skills.
+Basic SQL knowledge  in environments like Databricks or MS Fabric is beneficial.
+Preferred technical skills: Python.
+Proactive working style and solid analytical skills.
+Ability to manage stakeholders from various functions and (ideally) ability to translate business requirements into technical design documents.
+Fluent spoken & written English.
+Good communication skills.
+Eagerness to learn and agile mindset.
+Advantage: Project management tool experience like Azure DevOps, Trello or Jira is beneficial but not mandatory.
+Benefits we offer
+Flexible work scheme with flexible hours, hybrid work model and up to 30 days per year for remote work abroad
+Diverse national and international growth opportunities
+Globally applicable well-being standards, including health and preventive care programs
+Gender-neutral parental leave for a minimum of 8 weeks
+Employee Share Plan with voluntary investment and Henkel matching shares
+13th salary, incentives
+Cafeteria benefit system, Multisport card
+Henkel shop and Henkel nursery school
+Extra paid days off for special life situations, referral and relocation bonus
+#HenkelSlovensko
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202881
+Dátum zverejnenia:
+15.12.2025
+2025-12-15
+lokalita:
+Bratislava
+Pozícia:
+Administrative Worker, Official
+,
+Customer Support Specialist
+,
+Database Analyst
+,
+IT/Technical Support Specialist
+,
+Marketing Analyst
+Spoločnosť:
+HENKEL SLOVENSKO, spol. s r.o.
+Základná zložka mzdy (brutto):
+1 850 EUR/month

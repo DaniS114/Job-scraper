@@ -1,0 +1,95 @@
+SW Architect (SW & AI riešenia)
+essential data, s.r.o.
+Miesto práce
+Lazaretská 12, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+Od 4 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hlavná úloha:
+Hľadáme talentovaného  a skúseného architekta, ktorý bude navrhovať systémovú architektúru a zabezpečovať jej správnu implementáciu. Budete komunikovať so zákazníkmi, prezentovať návrhy a konzultovať riešenia. Zároveň hľadáme človeka, ktorý má skúsenosť s odovzdávaním know-how, mentoringom a človeka, ktorý rád rozvíja iných.
+Náplň práce:
+Analýza požiadaviek klientov:
+Identifikácia potrieb a tvorba technického konceptu vrátane výberu vhodných technológií.
+Návrh architektúry:
+Tvorba optimálnych architektonických riešení a vyhodnocovanie alternatívnych možností.
+Technické riadenie tímu:
+Dohliadanie na prácu vývojového tímu a zabezpečenie efektívnej realizácie projektov.
+Technické štúdie:
+Príprava technických štúdií, ktoré zahrňujú limity, možnosti, škálovateľnosť a kontinuitu riešení.
+Kvalita a štandardy:
+Definovanie pravidiel a štandardov kvality pre navrhované architektúry a zabezpečenie ich správnosti a účelnosti.
+Dokumentácia:
+Tvorba a udržiavanie detailnej dokumentácie softvérovej architektúry.
+Technický dohľad:
+Monitorovanie a hodnotenie technických aspektov riešenia počas celého jeho životného cyklu.
+Spolupráca:
+Úzka kooperácia s projektovým manažérom a vedúcim vývoja pri nasadení riešení a komunikácia s ďalšími technickými subjektmi projektu.
+Zamestnanecké výhody, benefity
+∗ Práca na zaujímavých projektoch a priestor pre sebarealizáciu a uplatnenie vlastných nápadov, iniciatíva a konštruktívne nápady u nás nachádzajú svoje vyjadrenie v praxi
+∗ Príjemná firemná atmosféra menšej firmy
+∗ Flexibilný pracovný čas
+∗ Zaujímavý benefitný systém (vzdelávanie, vstupné karty do fitness centra, čerstvé ovocie, firemné akcie, parkovanie v centre mesta)
+Informácie o výberovom konaní
+Budeme kontaktovať uchádzačov, ktorí zodpovedajú kvalifikačným kritériám.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+6
+Osobnostné predpoklady a zručnosti
+•	Komunikatívny a proaktívny typ s strategickým myslením.
+•	Nadhľad, orientácia na detail, precíznosť.
+•	Znalosť celého cyklu SW vývoja a princípov OOP.
+•	Pokročilé skúsenosti s vývojom na platforme Java
+• Znalosť moderných AI framerworkov a platforiem je výhodou
+• Skúsenosti s modelovaním a tréningom AI modelov je výhodou
+•	Znalosť metodík TOGAF a ArchiMate.
+•	Orientácia v technológiách: dependency injection (Spring, EJB...) a MVC frameworky (Spring MVC, Play...).
+•	Výhodou sú skúsenosti s frameworkmi a nástrojmi pre distribuované aplikácie a integráciu systémov (Apache CXF, ActiveMQ, Fuse ESB, Akka...).
+•	Skúsenosti s nástrojmi pre automatizáciu zostavovania projektov a správu závislostí (Maven, Gradle).
+•	Skúsenosti s continuous integration (Jenkins, Hudson).
+•	Skúsenosti s agilným vývojom (SCRUM) a test-driven vývojom.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme slovenský software house.
+Pomáhame spoločnostiam vyťažiť z dát AI digitálnej transformácie maximum.
+Naším poslaním je prinášať pokrokový pohľad, otvárať nové možnosti a dodávať efektívne a užitočné riešenia zákazníkom.
+Do práce vkladáme energiu, rozum a srdce - AI (aj )preto sa s nami jednoducho a dobre pracuje.
+-
+Pre viac informácií ohľadom spracovania vašich osobných údajov prosím skopírujte nasledujúci odkaz: https://e-d.sk/job-gdpr
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Lucia Komiňáková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5147693
+Dátum zverejnenia:
+13.10.2025
+2025-10-13
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+essential data, s.r.o.
+Základná zložka mzdy (brutto):
+4 000 EUR/mesiac

@@ -1,0 +1,63 @@
+Systémový administrátor (Linux / Web)
+Betonred
+Place of work
+Bratislava
+Contract type
+full-time
+Wage (gross)
+From 1 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Hľadáme spoľahlivého systémového administrátora, ktorý sa bude starať o správu našich Linux serverov a nasadzovanie webových stránok vo väčšom množstve (na „potoku“).
+Ide o praktickú a technicky orientovanú pozíciu, vhodnú pre človeka, ktorý sa vyzná v Linuxe, vie pracovať cez SSH a rozumie základom webhostingu a frameworku Laravel.
+Náplň práce:
+Správa a údržba serverov (Linux);
+Práca cez SSH a terminál Linuxu;
+Nasadzovanie (deploy) a aktualizácia webových stránok na serveroch;
+Práca s viacerými projektmi naraz – automatizované nasadzovanie webov na potoku;
+Základná práca s frameworkom Laravel (konfigurácia prostredia, jednoduché úpravy);
+Monitorovanie a zabezpečenie stabilnej prevádzky serverov a služieb.
+Požiadavky:
+Pokročilé znalosti práce s PC a sieťami;
+Skúsenosti s administráciou Linux serverov;
+Znalosť práce v SSH;
+Základné znalosti Laravelu alebo porozumenie fungovania PHP aplikácií;
+Zodpovednosť, dôslednosť a samostatnosť.
+Výhodou je:
+Skúsenosti s automatizáciou (Docker, Ansible a pod.);
+Znalosť Nginx, Apache, MySQL, Git;
+Skúsenosti s CI/CD alebo s hromadným nasadzovaním webov.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+Russian - Advanced (C1)
+or
+Ukrainian - Advanced (C1)
+Advertiser
+Brief description of the company
+Naša spoločnosť sa zaoberá vývojom a údržbou webových a mobilných aplikácií pre klientov z Európy a USA. Vytvárame moderné, spoľahlivé a škálovateľné riešenia založené na technológiách Kotlin, Laravel, Python a ďalších frameworkoch. Náš tím spája skúsených vývojárov, dizajnérov a systémových administrátorov, ktorí zabezpečujú celý proces – od nápadu a návrhu až po nasadenie a technickú podporu hotového produktu.
+Contact
+Contact person: Andrei Parovik
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5177055
+Dátum zverejnenia:
+17.10.2025
+2025-10-17
+lokalita:
+Bratislava
+Pozícia:
+Systems Administrator
+Spoločnosť:
+Betonred
+Základná zložka mzdy (brutto):
+1 000 EUR/month

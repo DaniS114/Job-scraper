@@ -1,0 +1,160 @@
+O nás
+Kariéra
+Kontakt
+find ( “
+perfect_job
+” );
+Buď súčasťou našich projektov.
+QA Engineer with Playwright
+Place of work
+Remote work
+Basic wage component (gross) and other rewards
+From 2 100 EUR/month
++ variable
+About
+We are looking for a Medior QA Engineer. In this role, you will support both modern and legacy enterprise applications, working in a mixed environment with a focus on manual and automated testing. You will contribute to the quality delivery of complex systems and work closely with development and product teams on testing and release processes.
+Your responsibilities
+Perform manual and automated testing
+for legacy and modern systems.
+Develop and maintain automated test suites
+using
+Playwright and TypeScript
+.
+Manage and contribute to
+testing documentation
+within the test case management system.
+Optimize test automation workflows
+in
+CI/CD environments
+(GitLab, Pipelines).
+Test and validate
+REST APIs and event-driven systems
+(Kafka).
+Use
+AI tools and Agentic Coding
+to generate, optimize, and maintain test cases.
+Apply AI for
+improved defect detection, regression analysis, and test coverage
+.
+Collaborate with developers and product teams on
+defect reporting
+and
+release readiness
+.
+Contribute to
+KPI tracking and QA process improvement
+initiatives.
+What do we expect?
+Proven experience in
+manual testing of enterprise applications
+.
+Strong skills in
+Playwright and TypeScript for test automation
+.
+Practical experience with
+Postman, Newman, and JavaScript
+for API testing.
+Solid knowledge of
+REST API testing
+and
+event-driven systems
+(Kafka).
+Understanding of
+Docker
+and containerized environments.
+Hands-on experience with
+AI in development
+, especially
+Agentic Coding
+.
+Experience working in
+modernization and mixed IT environments
+.
+Fluent in
+English
+Willingness to travel
+1-2 times per year
+.
+nice to have:
+German language.
+Benefits
+Compensation and rewards:
+Boost your earnings with
+bonuses
+(company performance, project, or extra performance bonus)
+Invest in yourself with a yearly
+well-being budget
+(up to €2,000)
+Earn
+referral bonus
+(up to €3,000)
+Secure your future with a
+pension plan contribution
+Flexibility and Work-Life Balance:
+Flexible working hours
+that adjust to your personal needs
+Choose your work environment –
+100% remote
+or modern
+offices: Košice, Bratislava, Prague
+Personal and Professional Development:
+Sharpen your skills with extensive
+training & certifications
+Boost your language skills with
+language courses
+Wellbeing and Culture:
+Build bonds through
+team-building activities & company events
+like the VolleyCup and Christmas party
+Join our
+family culture
+and participate in diverse
+interest groups
+like bikers, runners, gamers, and more
+Invest in your well-being with a
+MultiSport card
+Promote your mental health with
+confidential psychological support
+Hiring process
+Has the job offer captured your interest? Please fill out the
+application form
+and let us know about yourself.
+We will assess the information you send us and
+will get back
+to you under any circumstances.
+We will contact the chosen applicants and
+specify the details
+.
+A job
+interview with a hiring manager
+is a two-way opportunity to get to know each other better. The hiring process also includes a
+second interview
+with the customer directly.
+We will inform you about the feedback from the interview as soon as possible. Successful candidates will receive a
+job offer.
+Contact
+Contact person: Monika Sojková
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5179165
+Dátum zverejnenia:
+21.10.2025
+2025-10-21
+lokalita:
+Remote work
+Pozícia:
+IT Tester
+,
+Programmer
+Spoločnosť:
+Fpt Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 100 EUR/month

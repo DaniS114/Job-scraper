@@ -1,0 +1,128 @@
+LLM / AI Expert
+PredictiveDataScience, s. r . o.
+Miesto práce
+Trnava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok
+Termín nástupu
+01.01.2026
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ako
+LLM/AI Expert
+budeš kľúčovou osobou v tíme
+PredictiveResearchLab
+, ktorý vyvíja výskumné a prediktívne AI riešenia pre analýzu dát, modelovanie správania a generovanie poznatkov z nestrukturovaných dát.
+Tvoja práca bude zahŕňať kombináciu
+AI vývoja, výskumu a aplikovanej dátovej vedy
+Kľúčové činnosti:
+1. Vývoj AI modelov a prototypov:
+Návrh, vývoj a testovanie riešení založených na veľkých jazykových modeloch (Transformery pre time series data (TST) a texty, T4PdM pre klasifikáciu porúch v rotačných strojoch, …).
+Fine-tuning alebo adapter-tuning modelov na špecifické domény (napr. Dokumentácie z výroby, výskumné články, vedecké dáta).
+Implementácia
+RAG (Retrieval-Augmented Generation)
+pipeline pre prácu s internými znalostnými bázami.
+Vytváranie
+prediktívnych a analytických modelov
+z kombinácie štruktúrovaných a neštruktúrovaných dát.
+2. Integrácia do výskumného systému (PredictiveResearchLab):
+Spolupráca na návrhu architektúry výskumného prostredia – prepojenie dátových zdrojov, API rozhraní a LLM komponentov.
+Vývoj backendových služieb pre spracovanie
+Integrácia modelov do interaktívneho výskumného dashboardu (napr. React front-end, Power BI, Grafana,…).
+Optimalizácia výkonnosti modelov (latencia, náklady na inference, caching stratégie).
+3. Práca s dátami a dátovým tokom:
+Tvorba pipeline-ov na zber, čistenie, tokenizáciu a embedding textových dát (dokumentácie, správy, reporty).
+Práca s
+vektorovými databázami
+(Redis, Elasticsearch, Azure Cognitive Search, PostgreSQL).
+Tvorba a údržba dátových katalógov a indexov pre vyhľadávanie informácií.
+4. Experimentovanie a validácia:
+Návrh a realizácia experimentov – porovnávanie modelov, hodnotenie kvality odpovedí, precision/recall analýza.
+Meranie presnosti predikcií a generovaných výstupov, návrh metód pre ich zlepšenie.
+Automatizácia experimentov pomocou MLOps nástrojov (Weights & Biases, MLflow, Azure Machine Learning).
+5. Inovácia a výskum:
+Monitorovanie trendov v oblasti LLM, generatívnej AI, prediktívneho modelovania a reasoning frameworkov.
+Testovanie nových modelov (napr. open-source LLM) a návrh ich možného využitia v projektoch.
+Publikovanie interných výskumných výstupov a návrhov pre zlepšenie výkonnosti systémov PredictiveResearchLab.
+6. Spolupráca a konzultácie:
+Spolupráca s dátovými inžiniermi, vývojármi a architektmi pri nasadzovaní modelov.
+Konzultácia s biznis analytikmi – preklad výskumných cieľov do technických požiadaviek.
+Príprava dokumentácie, prehľadov výsledkov a prezentácia výstupov pre interné a externé tímy.
+Zamestnanecké výhody, benefity
+Prácu na projektoch s reálnym dopadom (AI integrácie do firemných systémov, inteligentná automatizácia, generatívne aplikácie)
+Možnosť ovplyvňovať smerovanie AI iniciatív vo firme
+Flexibilný pracovný čas, hybridný režim, technické vybavenie podľa preferencie
+Podpora vzdelávania – kurzy, konferencie, certifikácie (Azure AI, OpenAI Developer, MLOps Engineer)
+Predpokladaný termín ukončenia výberového konania
+7.12.2025
+(ostáva ešte 20 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+informatika, umelá inteligencia, dátová veda, matematika alebo príbuzný odbor
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+strojového učenia, NLP alebo dátovej vedy
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Technické zručnosti:
+Znalosť
+Pythonu
+(pandas, PyTorch/TensorFlow, LangChain, FastAPI,…)
+Skúsenosti s
+LLM frameworkmi
+(LangChain, LlamaIndex, OpenAI SDK, Azure OpenAI, vekt. databázy)
+Znalosť cloudových riešení (
+Azure, AWS
+)
+Výhodou: skúsenosti s
+retrieval-augmented generation (RAG)
+,
+fine-tuningom modelov
+,
+MLOps
+,
+Docker/Kubernetes
+Osobnostné predpoklady:
+Kritické myslenie a schopnosť prekladať technické riešenia do biznis hodnoty
+Samostatnosť a zodpovednosť
+Inovatívne myslenie a chuť učiť sa nové veci
+Schopnosť prezentovať a obhajovať návrhy pred tímom aj klientom
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+PredictiveDataScience je moderná dátovo-analytická spoločnosť špecializujúca sa na prediktívne modelovanie, pokročilú analytiku a implementáciu riešení umelej inteligencie. Pomáhame firmám premeniť ich dáta na hodnotné poznatky, automatizovať rozhodovacie procesy a budovať inovatívne produkty postavené na AI. Naším cieľom je prinášať presné, spoľahlivé a praktické riešenia, ktoré podporujú rast a konkurencieschopnosť našich klientov.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Lukáš Hrčka, PhD.
+Tel.:
++421908388784
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5193316
+Dátum zverejnenia:
+17.11.2025
+2025-11-17
+lokalita:
+Trnava
+Pozícia:
+Softvérový inžinier
+Spoločnosť:
+PredictiveDataScience, s. r . o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

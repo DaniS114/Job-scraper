@@ -1,0 +1,70 @@
+About us & contact
+Career
+Benefits
+OpenShift Administrator (m/f/d)
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+asap
+Wage (gross)
+From 2 500 EUR/month
+Salary from 2500 EUR gross/ month - the final offer is most likely to be higher based on proven experience
+Job description, responsibilities and duties
+We are looking for OpenShift Administrator extend current remote team providing support within OpenShift environment.
+You can work in a combination of : Nitra+Homeoffice/Presov+Homeoffice/remote by agreement
+Key Responsibilities:
+• Installation, configuration, and operation of locally deployed OpenShift environments
+• Management and maintenance of the underlying hardware infrastructure
+• Development and implementation of automation solutions to optimize operational processes
+• Implementation and support of monitoring and logging solutions for clusters and applications
+• Setup and maintenance of GitOps processes for continuous delivery and infrastructure management
+• Troubleshooting and issue resolution during ongoing operations
+• Participation in 24/7 support to ensure smooth platform operation
+• Collaboration with application teams to ensure a stable and high-performing platform
+Personality requirements and skills
+You must have:
+• In-depth experience in administering Kubernetes, ideally OpenShift
+• Experience in installing and operating container platforms
+• Strong knowledge of Linux administration and hardware management
+• Experience with automation tools
+• Experience with GitOps tools and processes (e.g., ArgoCD)
+• Knowledge in monitoring solutions (e.g., Prometheus)
+• Willingness to participate in 24/7 on-call support
+• Analytical thinking, structured working style, and team spirit
+Language:
+• English
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+Kubernetes - Advanced
+Openshift - Skillful
+Linux - Advanced
+GitOps - Skillful
+Send CV to the company
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Vaše osobné údaje sú spracovávané a likvidované v súlade s Nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 a zákona o ochrane osobných údajov 18/2018. Zásady a smernicu o ochrane osobných údajov nájdete na:
+GDPR
+Your personal data is processed and disposed of in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council and the Data Protection Act 18/2018. The privacy policy and directive can be found at:
+GDPR
+Follow us on
+ID:
+5178209
+Dátum zverejnenia:
+20.10.2025
+2025-10-20
+lokalita:
+Remote work
+Pozícia:
+Software Engineer
+,
+Systems Administrator
+Spoločnosť:
+Raiffeisen Informatik SK s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

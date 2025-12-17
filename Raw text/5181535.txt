@@ -1,0 +1,99 @@
+Sr. E-commerce Developer
+SOITRON, s.r.o.
+Place of work
+Bratislava, Slovak Republic
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+From 3 000 EUR/month
+Salary starting from 3000 EUR, based on experience
+Information about the position
+Job description, responsibilities and duties
+We are looking for a Senior E-commerce Developer with a strong familiarity developing and optimizing E-commerce SaaS solutions such as Shopify, Magento or SalesForce Commerce Cloud. This role requires someone with strong backend experience, hands-on coding skills, and the ability to support integrations, databases, and platform functionality from end-to-end. Additionally, this person will help develop and support other web properties and applications within the company tech stack. This person should be well versed with javascript front-end libraries such as React/Next or Vue/Nuxt and integration with REST APIs and/or GraphQL. We are looking for a candidate that has a robust portfolio and preferably has experience working on several projects or has agency experience. This position will require you to present and explain concepts, audit requests, answer questions, and effectively communicate with other business units and marketing teams. Additionally, you must be able to handle multiple projects simultaneously, and can manage and support existing code bases created by other developers and external agencies.
+RESPONSIBILITIES
+:
+- Develop and customize business requirements on existing e-commerce SaaS solutions
+- Manage optimization and custom builds on an e-commerce platform
+- Own technical execution for features and functions across multiple platforms and frameworks
+- Translate design comprehensives into web and mobile standards-compliant HTML/CSS/JS
+- Monitor site performance, resolve bugs and ensure speed, stability and scalability
+- Support third-party integrations and troubleshoot across layers of the stack
+- Build mobile and touch-optimized websites and applications
+- Present and explain concepts, answer questions, and communicate with various business stakeholders
+- Ability to analyze business requirements and develop digital solutions that are scalable and sustainable.
+- Integrating applications into headless CMS using REST APIs and/or GraphQL.
+- Ability to understand and work with legacy code, and not just create from scratch.
+- Ability to handle multiple projects simultaneously.
+Employee perks, benefits
+We provide wide range of benefits, with option to personalize it according to your preferences.
+Working with us, gives you opportunity to:
+-work for stable and established mid-sized Slovak company
+-work-life balance and career development
+-financial support in life situations
+-recreation voucheres
+-multisport card
+-fully paid anonymous therapy sessions
+-opportunity to volunteer in organisation of your choosing
+-supplementary pension savings
+-healthcare benefit package
+-budget for HW & SW
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+- 7-10+ years experience working as a Full Stack Developer or equivalent experience.
+- Deep expertise in working with E-commmerce SaaS solutions framework (Liquid templating language a plus)
+- A portfolio showcasing difficult and interesting projects that demonstrate strong knowledge of HTML, CSS/SCSS and vanilla JavaScript (not just jQuery)
+- Experience using and integrating a Cloud based headless CMS like Contentful
+- 3+ years experience with AWS, Netlify, Google Cloud, or another cloud service.
+- 3-5+ years professional experience building JavaScript applications and services
+- Experience working within a distributed team and project management in Github and Jira
+- 3+ years experience with JavaScript systems like React/Next or Vue/Nuxt.
+- Git or other version control systems.
+- A strong sense of UI/UX design and layout.
+- Familiarity with AWS and serverless architectures is preferred.
+- Experience with versioning tools like GIT
+- Experience with AWS Elastic Beanstalk, API Gateway, EC2 Instances a plus
+- Experience using JAVA Springboot,, Mongo DB, Docker, MySQL and Node a plus.
+- Experience in CPG, toys and children’s entertainment is a plus
+- Experience and mentoring other developers is a plus
+Advertiser
+Brief description of the company
+SOITRON (member of SOITRON Group) is a Central European IT integrator operating in the market since 1991. The company's philosophy is to constantly move forward, which is why it is a leader in implementing unique technologies and innovative solutions.
+It offers clients products and services in the field of network and communication solutions, cybersecurity, data centres, IT outsourcing, IT support, and advisory.
+Its portfolio includes smart police car solutions – Mosy and cybersecurity services – void SOC (Security Operations Center).
+Soitron Group employs more than 850 international experts, with professional teams in Slovakia, the Czech Republic, Romania, Turkey, Bulgaria, Poland, and the UK.
+Number of employees
+500-999 employees
+Contact
+Contact person: Mgr.  Barbora Kormančíková
+Tel.:
++421905381798
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5181535
+Dátum zverejnenia:
+24.10.2025
+2025-10-24
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Frontend developer
+Spoločnosť:
+SOITRON, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

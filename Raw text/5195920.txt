@@ -1,0 +1,68 @@
+One bank.
+Many career paths.
+#makeITmatter
+Software Engineer with DevOps (all humans)
+Location:
+Košice, Košický kraj, Slovakia
+Working-Hours:
+fulltime_permanent
+Division:
+Core Integration & Platforms
+Company:
+Erste Digital
+Apply now
+Make a difference in the financial life of millions of people: At Erste Digital you are co-creating the digital future, in which better financial health is possible. #believeinyourself
+We are part of Erste Group – the largest banking group in Central and Eastern Europe with more than 2,500 branches and over 45,000 employees. Our more than 2,000 IT experts and enthusiasts are the bank's Digital Muscle.
+Integration and Platforms Department is seeking an experienced Internal Development Platform Engineer to join its dynamic team. As a platform engineer at Erste Digital, you will have the unique opportunity to develop a platform from the ground up, driving technical excellence and operational efficiency across the organization. This role is pivotal in enhancing engineering practices and empowering our developers to achieve their best.
+What to do:
+Develop and maintain an internal development platform that empowers our developers and upholds organizational standards, particularly for Java
+Collaborate closely with development teams to understand and fulfill their requirements for the internal development platform
+Manage and maintain our suite of DevOps tools and services to ensure streamlined operations
+Configure and manage platform-related servers, databases, and other services essential for the platform
+Proactively monitor the infrastructure to identify and resolve potential issues, ensuring smooth and efficient operations
+You check these boxes:
+Possess a robust foundation in Java with an emphasis on technical excellence
+Expertise in automation practices, including proficiency with CI/CD tools, and a strong command of DevOps tools such as Ansible and Terraform.
+Well-versed in containerization platforms like Docker, OpenShift, and Kubernetes, enabling scalable and efficient deployment
+Experienced in utilizing observability tools for comprehensive logging, monitoring, tracing, and alerting, including Prometheus and Grafana.
+Proficient in managing and understanding relational databases, with a focus on PostgreSQL
+Familiarity with a diverse array of cloud products, adding versatility to your skill set
+Exceptional problem-solving capabilities, with a proactive approach to troubleshooting and resolving technical issues
+Solid understanding and application of Agile methodologies and practices
+Effective communication and collaboration skills in English, at a minimum B2 level
+Why you will like us:
+Possibility to benefit and learn from our international, talented and passionate community at Erste
+Interest groups and clubs: Take part in discussions and get involved in projects. Numerous interest groups invite you to engage with a topic
+Health Care – Taking care of your health is important. That’s why we contribute to your above standard medical examination and provide a helpline in case of hard lifetime situations. You also receive a salary compensation during sick leave
+Work-Life-Balance – Sabbatical, paternity leave, contribution to marriage & childbirth, 4 days of extra holiday per year, contribution to the 3rd pillar and MultiSport card. This is how we promote a balance between work, leisure, and family
+Employee Referral Program – Become a talent scout for career opportunities in IT. We are rewarding every successful referral for Erste Digital
+A competitive and performance-related salary dependent on your professional and personal qualifications is granted - we are obliged by law to quote the minimum wage of EUR 3000,- gross per month for this full time position. But this is just a formality, we are more than happy to discuss your actual expectations.
+The way we are:
+Erste Group considers the diversity of its employees as key to innovation and success. As employer we are
+            proud to offer everyone equal chances, irrespective of age, skin colour, religious belief, gender, sexual
+            orientation or origin.
+Apply now
+Follow us:
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195920
+Dátum zverejnenia:
+21.11.2025
+2025-11-21
+lokalita:
+Košice
+Pozícia:
+DevOps Engineer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+Erste Digital GmbH
+Základná zložka mzdy (brutto):
+3 000 EUR/month

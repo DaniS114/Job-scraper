@@ -1,0 +1,109 @@
+Backend Developer (Node.js)
+GoodRequest, s. r. o.
+Miesto práce
+Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+1.11.2025, resp. dohodou
+Mzdové podmienky (brutto)
+2 200 EUR/mesiac
+- Medior od 2200€, Senior od 3000€ brutto. Platové podmienky závisia od skúseností kandidátov, radi ich prediskutujeme.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​Hľadáme šikovného Backend Developera, ktorý sa stane súčasťou digitálneho štúdia, kde technológie, biznis a ľudské potreby tvoria dokonalý mix. Naše riešenia sú prelomové, dlhodobo udržateľné a vždy založené na tímovej spolupráci. Vitaj v GoodRequest.
+Technológie, na ktorých pracujeme:
+​Node.js, TypeScript, SQL a noSQL databázy
+Docker, Kubernetes, Github Actions, Redis, Elasticsearch
+CI/CD, testovanie s Jest a Mocha
+DigitalOcean, AWS a ďalšie
+Pracujeme v agilnom prostredí (Scrum) a využívame nástroje ako JIRA, Notion či Github, aby sme mali všetko pod kontrolou.
+Benefity, ktoré ťa potešia
+Pre nás sú ľudia na prvom mieste. Na tvojej pohode v práci nám skutočne záleží!
+Na čo sa môžeš tešiť?
+Najnovší MacBook, mobilný paušál a všetko technické vybavenie, ktoré budeš potrebovať
+Maximálna podpora vzdelávania, tímové meetupy, spoločná účasť na konferenciách a workshopoch
+Flexibilný pracovný čas, žiadne striktné pravidlá a mikromanažment
+Možnosť pracovať z niektorého z našich krásnych a moderných officov (ZA, LM, KE a BA)
+Firemná angličtina, pestrá ponuka odborných kurzov
+Gallup koučing
+Multisport karta, wellbeing program
+Legendárne teambuildingy‍, pravidelné spoločné raňajky, firemný hackathon
+Referral bonus, bezúročné pôžičky, dôchodkové sporenie, príspevok na parkovanie
+Projekty, na ktoré budeš hrdý ️
+Spolupracujeme s partnermi ako Tatra banka, Forbes, Fitshaker, Bistro, ZSE Drive či KIA Motors. Väčšina projektov sú dlhodobé partnerstvá, od návrhu až po testovanie.
+Tímová kultúra
+V tíme to žije – od gurmánskych večerí až po diskusie o  AI, kryptomene, športe, turistike, záhradách či kutilstve
+.  Spoločne:
+Zdieľame know-how na backend meetupoch.
+Pracujeme na tímových cieľoch a vzájomne si pomáhame.
+Podporujeme otvorenú komunikáciu – 1on1 s lídrom je u nás štandard.
+Čo od teba očakávame?
+Počet rokov praxe: 3
+Skúsenosti s Node.js
+Skúsenosti s TypeScript sú veľká výhoda
+Znalosť SQL databáz (PostgreSQL), princípov REST API a git.
+Schopnosť pracovať na úlohách samostatne, efektívne a produktívne
+Bonusové body za skúsenosti s Dockerom, testovacími frameworkami, CI/CD nástrojmi či linux-based servermi
+Ďalšie detaily
+Nástup: Dohodou
+Spolupráca: 8h, TPP/SZČO/SRO
+Lokalita: Hybrid (Žilina, Liptovský Mikuláš, Košice, Bratislava) alebo remote nad 30km od našich officov
+Platové podmienky: Medior od 2200€, Senior od 3000€ brutto
+Informácie o výberovom konaní
+Hiringový proces:
+- Krátky skríningový hovor.
+- Vypracovanie zadania.
+- Pohovor s tímom a livecoding (I. a II. kolo).
+- A potom… Vitaj v GoodRequest!
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT, prípadne príbuzné odbory
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Počet rokov praxe
+3
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Tvoríme digitálne produkty, ktoré majú zmysel, prinášajú reálnu hodnotu a posúvajú svet k lepšiemu. Dôverujú nám značky ako Notino, ZSE, Tatra banka, Benu lekárne, Jaguar & Land Rover, Forbes, iKROS a mnohé ďalšie.
+Každému projektu venujeme svoje srdce aj profesionalitu. Veríme, že technológie majú slúžiť ľuďom, ktorí ich používajú každý deň. Sme tím s výnimočnou kultúrou, otvorení novým nápadom a spoločným cieľom tvoriť projekty s reálnym dopadom.
+Na Slovensku nás nájdeš v štyroch mestách:
+Bratislava (The Spot) – srdce startupovej a digitálnej komunity, moderný priestor plný energie, eventov a inšpiratívnych ľudí.
+Žilina (NordCity Obchodná) – kreatívne centrum mesta s výhľadom na Malú Fatru, kde sa stretáva pohodlie a inovatívna atmosféra.
+Košice – miesto s veľkým IT potenciálom, kde si budujeme komunitu ľudí, ktorí chcú tvoriť digitálne produkty so svetovým dosahom.
+Liptovský Mikuláš – naše srdcovky pod Tatrami, kde nechýba blízkosť prírody a unikátna rovnováha medzi prácou a životom.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Andrea Eckerová
+Tel.:
++421917280466
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5150991
+Dátum zverejnenia:
+16.10.2025
+2025-10-16
+lokalita:
+Košice
+Pozícia:
+Backend programátor
+,
+Programátor
+Spoločnosť:
+GoodRequest, s. r. o.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

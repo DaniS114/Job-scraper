@@ -1,0 +1,131 @@
+Hľadáme Junior IT Administrátora! Pridaj sa k nám a rozvíjaj svoje zručnosti v dynamickom prostredí (SK / EN / HU)
+MAXNETWORK, s.r.o.
+Miesto práce
+Veľké Úľany
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+15.12.2025
+Mzdové podmienky (brutto)
+1 200 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme šikovného a technicky zameraného
+Junior IT administrátora
+, ktorý bude pomáhať so správou našej firemnej IT infraštruktúry a infraštruktúry klientov. Pracovať budeš pod vedením skúsených adminov.
+1. Sieťová infraštruktúra
+správa L2/L3 topológie, VLAN, routing, ACL
+evidencia aktívnych prvkov (switche, routery, firewall, Wi-Fi)
+IP adresné plány, VPN, NAT politiky
+dokumentácia štruktúrovanej kabeláže
+2.
+Podpora klientov a zariadení (ISP časť)
+technická podpora klientov (L1/L2)
+riešenie porúch internetového pripojenia a služieb
+konfigurácia a monitoring ISP zariadení:
+ONT/ONU, CPE routery, access pointy
+switche, optické prevodníky
+monitoring optických trás, signálu, prevádzky
+pomoc pri výjazdoch technikov (diagnostika, testovanie liniek)
+práca so systémom ticketov a dokumentácia riešení
+eskalácia problémov senior administrátorom
+3. Serverová infraštruktúra
+pomoc pri správe fyzických a virtuálnych serverov
+evidencia a správa VM (parametre, dostupnosť)
+monitoring úložísk, replikácií, snapshotov
+zálohovacie politiky, DR postupy
+4. Aplikácie a podnikové služby
+evidencia aplikácií a databáz
+kontrola licencovania
+základná administrácia interných systémov
+5. E-mailový systém
+správa Microsoft 365 / Exchange
+administrácia schránok, skupín a prístupov
+licenčné nastavenia
+6. Active Directory
+správa používateľov, skupín, OU štruktúry
+GPO politiky
+onboarding / offboarding používateľov
+práca s Azure AD / hybrid
+Zamestnanecké výhody, benefity
+- technicky zaujímavé projekty (server, sieť, cloud, bezpečnosť)
+- skúsený tím, od ktorého sa veľa naučíš
+- podpora v certifikáciách (Mikrotik, Cisco, Huawei, Microsoft)
+- flexibilný pracovný čas
+- stabilné zázemie technologickej firmy
+Predpokladaný termín ukončenia výberového konania
+15.12.2025
+(ostáva ešte 28 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+informačné technológie  sieťové technológie / počítačové siete
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+alebo
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+MikroTik RouterOS, Cisco , Huawei - Pokročilý
+Linux Ubuntu/Debian/Proxmox - Mierne pokročilý
+Proxmox, VMware ESXi, Hyper-V - Mierne pokročilý
+VLAN - Mierne pokročilý
+Routing - Mierne pokročilý
+ChatGPT - Mierne pokročilý
+Vodičský preukaz
+B
+Osobnostné predpoklady a zručnosti
+- technické myslenie a chuť riešiť IT problémy
+- samostatnosť, zodpovednosť a spoľahlivosť
+- slušná komunikácia a profesionálne vystupovanie
+- ochota učiť sa nové technológie (siete, servery, cloud, AI)
+- schopnosť pracovať v tíme a pýtať si pomoc, keď treba
+- dobrá organizácia práce a schopnosť určovať si priority
+- presnosť pri dokumentovaní úloh a postupov
+- odolnosť voči stresu a schopnosť zachovať kľud
+- flexibilita pri riešení urgentných situácií
+- ochota pracovať aj v teréne pri občasných výjazdoch
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť MAXNETWORK, s.r.o. bola založená v roku 2002 ako odpoveď na narastajúci dopyt po kvalitných a spoľahlivých službách v oblasti výpočtovej techniky. Jej vznik nebol náhodný – vychádzal z reálnej potreby na trhu, kde sa čoraz viac prejavovala potreba efektívnej správy IT infraštruktúry a odborného servisu pre podnikateľské subjekty. Zakladateľ spoločnosti si dali za cieľ vybudovať stabilný tím kvalifikovaných odborníkov, ktorí budú schopní pružne reagovať na technické výzvy, predchádzať problémom a zabezpečiť plynulý chod počítačových sietí klientov.
+Od svojho vzniku sa MAXNETWORK, s.r.o. neustále rozvíja a rozširuje svoje pôsobenie – nielen v oblasti hardvérových a softvérových riešení, ale aj v oblasti návrhu, implementácie a údržby dátových sietí. Dlhodobým cieľom spoločnosti je poskytovať profesionálne IT služby na vysokej technickej a odbornej úrovni, pri zachovaní priaznivých a férových podmienok pre zákazníkov.
+V súčasnosti je naša spoločnosť aktívna v IT trhoch:
+Správa počítačových sietí a informačných systémov formou outsourcingu
+Regionálny poskytovateľ internetových a TV služieb
+Predaj výpočtovej techniky
+Výstavba optických sietí
+Návrh a realizácia podnikových informačných systémov a počítačových sietí
+Návrh a vývoj softvérových riešení na mieru
+Návrh a montáž bezpečnostných systémov
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Andrea Pongráczová
+Tel.:
++421915695327
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5193335
+Dátum zverejnenia:
+17.11.2025
+2025-11-17
+lokalita:
+Veľké Úľany
+Pozícia:
+Správca počítačovej siete
+Spoločnosť:
+MAXNETWORK, s.r.o.
+Základná zložka mzdy (brutto):
+1 200 EUR/mesiac

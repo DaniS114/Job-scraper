@@ -1,0 +1,97 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Cloud Security Specialist (AWS)
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto)
+Od 2 200 EUR/mesiac
+*Finálna suma základnej zložky mzdy môže byť upravená v závislosti od individuálnych znalostí a skúseností vybraného kandidáta.  
+Bonus: Výkonnostná prémia 2x ročne až do výšky 10% zo zákl. mzdy vyplatenej za hodnotené obdobie (spravidla 6 mesiacov)
+Druh pracovného pomeru
+plný úväzok
+Baví ťa zabezpečovanie cloudových technológií i práca na projektoch? Rád testuješ nové technológie? Pridaj sa do nášho technického tímu internej bezpečnosti.
+U nás ťa čaká toto všetko a ešte omnoho viac:
+zahĺbiš sa do tajov cloudov  “What are clouds made of? Linux servers, mostly”-
+staneš sa neoddeliteľnou súčasťou návrhu a zabezpečenia nových zaujímavých projektov.
+dostaneš sa k zabezpečovaniu infraštruktúrnych oblastí, hlavne v Amazon Web Services a MS Azure prostredí.
+Takto by vyzerala Tvoja práca:
+prevádzka, nasadzovanie a automatizácia existujúcich a nových bezpečnostných technológií pre výber logov a bezpečnostný monitoring, zabezpečenie dát a workloadov v AWS, popripade v MS Azure. Následne nasadzovanie politík na dohľad nas nastavením komponentov a ich vznucovanie, primárne v AWS, sekundarne v MS Azure,
+analýza, návrh a dohľad nad rozvojom bezpečnosti v AWS, poprípade v MS Azure prostredi.
+participácia na interných infraštruktúrnych projektoch ohľadne zabezpečenia prostredia v AWS, poprípade MS Azure prostredí,
+dohľad nad change managementom z pohľadu informačnej bezpečnosti,
+konzultácie interným stakeholderom, primárne Cloud operation teamom a developerským oddeleniam.
+Možnosť pracovať na pobočke v BA alebo KE.
+Takto si Ťa predstavujeme:
+záujem o bezpečnosť a chuť vzdelávať sa a rásť v informačnej bezpečnosti,
+samostatný prístup k riadeniu svojej práce a zameranie na kvalitu,
+analytické schopnosti,
+efektívne komunikačné schopnosti,
+schopnosť vybudovať si akceptáciu a dôveru u kolegov,
+minimálne 2 roky skúsenosti so správou bezpečnostných technológií alebo 4 roky skúsenosti v role Cloud administrátora,
+dobré technické znalosti cloudových systémov – primárne AWS, sekundárne MS Azure, poprípade GCP,
+schopnosť súčasne pracovať na viacerých projektoch v rámci tímu,
+anglický jazyk aktívny, nevyhnutné je porozumieť odbornému textu, písanie mailov a reagovať počas meetingov.
+Výhodu budú mať kandidáti so:
+skúsenosťami s prevádzkou a dohľadom nad bezpečnosťou AWS, MS Azure, GCP,
+kontainerizačnými riešeniami ako Docker a Kubernetes v cloude (EKS,AKS,GKE),
+vysokoškolským vzdelaním,
+certifikátmi alebo technickými školeniami cloudových riešení,
+bezpečnostnými certifikátmi, napr. CompTIA Security+, SSCP, CISSP, CCSP, CKS.
+Kontaktná osoba
+Maria Kukla
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5191528
+Dátum zverejnenia:
+13.11.2025
+2025-11-13
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Systémový administrátor
+,
+Systémový inžinier
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

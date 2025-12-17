@@ -1,0 +1,81 @@
+SLSP.sk
+DevOps Engineer – staň sa hlasom automatizácie v najväčšej banke na Slovensku
+Reagovať na ponuku
+Miesto práce
+Tomášikova 3271/48, Nové Mesto
+Druh pracovného pomeru
+plný úväzok
+Platové podmienky
+3 000 EUR/mesiac
+*
+*
+Uvedená výška mzdy predstavuje minimálnu garantovanú sumu základnej zložky mzdy vzťahujúcej sa na uvedenú pracovnú pozíciu.
+Skutočná suma základnej zložky mzdy bude upravená v súlade s vašimi odbornými znalosťami a schopnosťami.
+Pracovná náplň:
+Do nášho sporkárskeho tímu hľadáme nového kolegu alebo novú kolegyňu na pozíciu DevOps Engineer, ktorý/ktorá bude hnacou silou automatizácie naprieč našimi systémami a aplikáciami.
+Očakávame, že prinesieš inovatívne prístupy, budeš využívať moderné technológie a pomôžeš nám zefektívniť každodenné operácie naprieč celou bankou.
+Ak ťa baví hľadať lepšie riešenia, posúvať veci dopredu a výzvy berieš ako príležitosť, budeš sa u nás cítiť ako doma.
+Čomu sa budeš venovať?
+navrhovať a implementovať štandardy automatizácie naprieč celým lifecycle-om dodávania zmien
+spravovať a rozvíjať kontajnerovú platformu OpenShift
+spravovať a rozvíjať nástroje našej DevSecOps platformy (GitLab, Jenkins, Nexus, SAST/DAST nástroje)
+spolupracovať na vývoji a správe CI/CD pipelines
+poskytovať podporu pre onboarding a prevádzku aplikácií na OpenShift platforme
+optimalizovať existujúce procesy
+poskytovať podporu pre členov tímu a ostatné oddelenia
+Uvítame, ak budeš mať:
+máš skúsenosti s programovaním – ideálne v Pythone, Go alebo Bash/Shell
+si doma v technológiách ako Kubernetes, OpenShift, GitLab, Nexus, Jenkins, Ansible či Helm
+vieš, čo znamená mať systémy pod dohľadom – poznáš Elastic, Prometheus alebo Grafanu
+rozumieš princípom DevOps a máš skúsenosti s CI/CD
+máš skúsenosť s cloudom – ak nie, chuť doňho ponoriť sa je veľké plus
+premýšľaš analyticky, riešiš problémy logicky
+si proaktívny/proaktívna a rád/rada sa učíš nové veci
+Poď s nami dokončovať to, čo sme načali a my ťa odmeníme:
+Tvoju prácu u nás si vážime. Odmeníme ťa 13. platom a ročným bonusom.
+Extra money za úsilie navyše.
+Na kvalitné jedlo ti prispejeme 8€. Stravné hradíme v plnom rozsahu, a to aj v dňoch keď dovolenkuješ.
+Participuj aj na úspechoch banky, cez zamestnanecký programe sa staneš akcionárom, akcionárkou skupiny ERSTE.
+Chceme spolupracovať s ľuďmi, s ktorými radi trávite čas. Odporuč nám nových kolegov a kolegyne, a my ťa odmeníme sumou až do 1000€.
+Urob si radosť, prispejeme ti na ňu 264€ ročne.
+Na to, aby si bol/a na dôchodku finančne fit ti prispejeme do III. piliera.
+Pre lepšie vyváženie práce a súkromia alebo, aby ste stihli dokončiť načaté aj doma:
+Dovolenkuj s nami až o 5 dní navyše.
+Voľný deň - pre rodiča budúceho prváčika pri jeho/jej prvom školskom dni, pri darovaní krvi, pri nadštandardnej zdravotnej prehliadke.
+Ťažkosti súkromné aj pracovné môžeš riešiť cez psychologickú podporu, prostredníctvom linky pomoci pre našich zamestnancov.
+Zdravotný stav teba a tvojich blízkych ťa vďaka nám nezaskočí – využiť môžeš našu digitálnu ordináciu, ktorá ti je k dispozícií doma aj v zahraničí
+Veríme, že v zdravom tele je zdravý duch, športuj s Multisport aj UpBalansea kartou.
+Vzdelávaj sa a dokončuj svoje štúdia, veríme, že ti v tom pomôžu workshopy, ktoré pripravujeme spolu s platformou SEDUO.
+Oddychovať môžeš aj vďaka „Lucky“ time.
+Nečakané výdavky nepočkajú do výplaty, máme pre teba PALM APP
+V Sporke sa všetci poznáme aj vďaka spoločným eventom, ktoré organizujeme.
+Budúcnosť je Tvoja v Slovenskej sporiteľni
+Kontaktné údaje:
+Mgr.  Dominika Majerčáková
+Slovenská sporiteľňa, a.s.
+Tomášikova 48, 832 37 Bratislava, Slovensko
+www.slsp.sk
+Všetky ponuky
+•
+www.slsp.sk
+Copyright © 2002 - 2014 Slovenská sporiteľňa, a.s.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5193581
+Dátum zverejnenia:
+18.11.2025
+2025-11-18
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Slovenská sporiteľňa, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

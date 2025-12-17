@@ -1,0 +1,101 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Devops Engineer/Team Lead
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto)
+Od 3 300 EUR/mesiac
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. * Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Druh pracovného pomeru
+plný úväzok
+DevOps Engineer / Team Lead zodpovedá za návrh, implementáciu a správu cloud infraštruktúry a CI/CD procesov v Microsoft Azure, ako aj za vedenie menšieho DevOps tímu. Cieľom pozície je zabezpečiť spoľahlivé, škálovateľné a nákladovo efektívne prostredie pre vývoj, testovanie a prevádzku ESET cloud produktov. Pozícia kombinuje odbornú zodpovednosť (60%) za technické riešenia s manažérskou zodpovednosťou (40%) za koordináciu tímu, plánovanie, rozvoj členov a dohľad nad dosahovaním stanovených cieľov. Sme otvorení kandidátom, ktorí doteraz nemali skúsenosť viesť tím, no vnímajú, že majú potenciál a chceli by sa posunúť aj do tejto role.
+Technické zodpovednosti
+Infrastructure as Code (IaC): Navrhovať, vyvíjať a udržiavať infraštruktúru v Azure pomocou Terraform alebo Terragruntu.
+Environment Automation: Zabezpečiť plne automatizovaný deployment ESET PROTECT Hub prostredí (vrátane Support Module) naprieč vývojovými, testovacími a demo stage-mi.
+CI/CD Modernization: Refaktorovať existujúce pipelines, automatizovať end-of-sprint akcie, zlepšiť PR buildy (labely, conditional buildy, SonarQube checks) a zvýšiť transparentnosť procesov.
+Testing Integration: Integrovať automatizované testy (napr. API tests) do CI/CD pipelines, zvyšovať test coverage a robustnosť automatizácie.
+Monitoring and SLA Reporting: Zavádzať monitoring a reporting SLA metrík v nástrojoch ako SLAM, zabezpečiť kvalitu dát a časovú presnosť reportov.
+Cloud Cost Management: Spolupráca s cost management tímom pri identifikácií a implementácií optimalizácií a riadení rezervácií.
+Security and Compliance: Spolupracovať s IT/IS tímami pri identifikácií a implementácií politík a sieťových a security štandardov.
+Automation and Scripting: Automatizovať rutinné operácie pomocou PowerShell, Bash alebo Python skriptov.
+Documentation: Udržiavať aktuálnu technickú dokumentáciu infraštruktúry a procesov v Confluence.
+Zodpovednosti ako Team Lead
+Tímové vedenie: Koordinovať menší DevOps tím, zabezpečiť rovnomerné rozloženie práce a efektívnu spoluprácu s vývojovými a QA tímami.
+Plánovanie a prioritizácia: Zodpovedať za plánovanie kapacít, určovanie priorít a dodržiavanie termínov podľa roadmapy a PI cieľov.
+Rozvoj a mentoring: Poskytovať technické vedenie, koučing a spätnú väzbu členom tímu, podporovať ich odborný a kariérny rast.
+Reporting: Pravidelne reportovať stav úloh, riziká a pokrok voči cieľom (napr. PI Objectives, OKRs).
+Zlepšovanie procesov: Identifikovať príležitosti na zefektívnenie práce tímu, automatizácie a spolupráce medzi tímami.
+Spolupráca s manažmentom: Spolupracovať so Section Managerom, architektmi a Product Owners na plánovaní, rozpočte a strategickom smerovaní DevOps iniciatív.
+Požadované skúsenosti
+Minimálne 3 roky praxe v oblasti DevOps, Cloud Engineering alebo SRE.
+Skúsenosti s vedením menšieho technického tímu (koordinácia, mentoring, plánovanie).
+Pokročilé skúsenosti s Microsoft Azure (Resource Groups, App Services, Storage, Networking, Monitoring).
+Praktická znalosť Infrastructure as Code (Terraform alebo Bicep).
+Skúsenosti s CI/CD pipeline nástrojmi (Azure DevOps, GitHub Actions alebo GitLab CI).
+Skúsenosti so skriptovaním (PowerShell, Bash alebo Python).
+Znalosť Azure Cost Management a princípov FinOps.
+Silné analytické a komunikačné schopnosti, schopnosť viesť technické diskusie.
+Anglický jazyk na úrovni B2+.
+Výhodou:
+Znalosť AWS alebo iných cloudových platforiem.
+Základné skúsenosti s Docker alebo Kubernetes (AKS).
+Skúsenosť s Helm, ArgoCD, FluxCD.
+Prax s Azure Policy, Key Vault, Defender for Cloud.
+Znalosť SonarQube, Application Insights, Grafana.
+Certifikácia Microsoft Azure Administrator alebo DevOps Engineer Expert.
+Kontaktná osoba
+Jakub Kunik
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5173020
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT manager
+,
+Team leader
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 300 EUR/mesiac

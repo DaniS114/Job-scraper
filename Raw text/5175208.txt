@@ -1,0 +1,159 @@
+Systémový inžinier (II)
+Stredoslovenská distribučná, a.s.
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+1 970 EUR/mesiac
+Od 2 400 EUR priemerne, z toho základná mzda od 1 970 EUR, výkonnostná prémia max 709 EUR/kvartál, Ročná odmena 1 182 EUR, Vianočná mzda 1 182 EUR. Naša ponuka môže byť výrazne vyššia v závislosti od Vašich skúseností, školení, kvalifikácie a odbornej praxe. Konkrétna mzda je stanovená po pohovore.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​
+Do nášho IT tímu v
+Stredoslovenskej distribučnej, a.s.
+hľadáme technicky zdatného špecialistu/špecialistku
+pre technologické, sieťové a monitorovacie systémy
+, ktorý/á má chuť podieľať sa na spoľahlivej a bezpečnej prevádzke kľúčových technológií.
+Chceli by ste pracovať v
+hybridnom modeli
+, kde sa môžete stretávať a konzultovať s kolegami v office, ale zároveň nemusíte každý deň cestovať do práce a pracovať z pohodlia domova?
+Máte znalosti sieťových technológií na úrovni
+CCNA/HCNA
+?
+Ak vás baví svet sietí, serverov, monitoringu a IT technológií,
+radi sa učíte nové veci a chcete rásť v stabilnej spoločnosti, ktorá dáva priestor odbornému rozvoju, ste presne ten, koho hľadáme.
+Pridajte sa do SSD a buďte súčasťou tímu, ktorý drží sieť pod kontrolou!
+►│
+Požiadavky na kandidáta
+Vzdelanie:
+preferované vysokoškolské vzdelanie technického zamerania 2. stupňa, príp. 1. stupňa​
+Jazyková znalosť:
+anglický jazyk na úrovni B2
+►│
+Odborné predpoklady
+Must have predpoklady:
+Očakávame, že uchádzač/ka sa bude orientovať a vedieť navrhovať, konfigurovať a manažovať
+MPLS / WAN, SD-WAN
+a
+SD-DC
+siete (praktické skúsenosti sú výhodou).
+Očakávame aktívnu znalosť
+HUAWEI, Cisco
+alebo
+HP IOS
+a schopnosť pracovať v
+CLI
+(príkazovom riadku).
+Uchádzač by mal vedieť písať, testovať a udržiavať automatizačné skripty v
+Ansible
+(napr.playbooky, role),
+Terraform
+(konfigurácie a moduly) a
+GitHub Actions (CI/CD
+workflow).
+Očakávame skúsenosti s nástrojmi
+Zabbix
+a
+Flowmon
+na monitorovanie a správu sietí.
+Uchádzač by mal mať skúsenosti s používaním
+Unix / Linux a Windows OS
+.
+Nice to have predpoklady:
+Tieto znalosti nie sú podmienkou, ale určite oceníme, ak:
+Máte schopnosť pracovať s repozitármi, vykonávať základné operácie ako napr. klonovanie, commitovanie, push/pull, práca s vetvami.
+Sa viete orientovať v
+GitHub
+rozhraní,​
+Máte základné znalosti v oblasti firewallov, balancovania komunikácie, virtualizácie a kontajnerizácie,
+Ste schopní orientovať sa v základných konceptoch automatizácie konfigurácie, tvorby playbookov a správy infraštruktúry (
+Ansible
+),
+Ak disponujete
+odbornou spôsobilosťou podľa vyhlášky 508/2009 Z. z.
+►│ POPIS PRÁCE:
+​Samostatná konfigurácia, implementácia, testovanie a prevádzka technologických a monitorovacích systémov
+​Participácia na rozvojových činnostiach, tvorbe stratégie a implementácii nových služieb, zariadení, funkcionalít v oblasti technologických, monitorovacích a sieťových systémov
+Poskytovanie konzultácií IT útvarom, projektovým tímom a biznis útvarom v oblasti architektúry počítačových sietí a monitorovacích nástrojov
+Aktívna účasť na výkone pracovnej pohotovosti v dohodnutom rozsahu
+Práca v odborných a projektových tímoch podľa aktuálnych poverení.
+Koordinácia a participácia na realizácii integračných testov v prípade potreby.
+Tvorba a aktualizácia dokumentácie, posudzovanie a pripomienkovanie dokumentácie predloženej externým dodávateľom  v oblasti pôsobnosti.
+Administratívne činností súvisiace s výkonom činností na pracovnom mieste.
+Plnenie operatívnych úloh útvaru podľa pokynov nadriadeného.
+►│ Osobnostné predpoklady
+​
+Spoľahlivosť
+Zodpovednosť
+Schopnosť pracovať v tíme
+Samostatnosť
+Lojalita
+Schopnosť a snaha veci zlepšovať, neuspokojiť sa s existujúcim stavom
+Flexibilita v meniacich sa podmienkach a odolnosť voči stresu
+Zamestnanecké výhody, benefity
+7,5 hodinový pracovný čas​
+týždeň platenej dovolenky nad Zákonník práce, sviatok navyše – Deň energetikov
+voľno navyše pre matky s deťmi a osamelých otcov
+možnosť práce Home office v súlade s internými pravidlami
+stravné plne hradené zamestnávateľom (aj pre zamestnancov na dlhodobej PN)
+vianočná mzda
+odmena za hospodársky výsledok spoločnosti
+príspevky zo sociálneho fondu (príspevok na doplnkové dôchodkové sporenie, príspevok na regeneráciu pracovnej sily, rekondičné pobyty, príspevok pri narodení dieťaťa, príspevok na detské jasle a predškolské zariadenia, príspevok na rekreáciu pre deti, sociálna výpomoc pri dlhodobej PN a ťažkých životných situáciách)
+odmena pri pracovných výročiach, životnom jubileu zamestnancov
+zvyšovanie kvalifikácie zamestnancov, vzdelávací systém
+program duševnej pohody zamestnancov
+firemné a kultúrne podujatia (letné športové hry, Deň energetikov, vianočný večierok, dni zdravia, deň detí, Mikuláš, teambuildingy, účasť na charitatívnych a dobrovoľníckych akciách)
+možnosť sebarealizácie a kariérneho rastu, podieľanie sa na úspechoch a rozvoji spoločnosti
+Informácie o výberovom konaní
+V prípade Vášho záujmu a splnenia podmienok, zašlite profesijný štruktúrovaný životopis s fotografiou, spolu s motivačným listom v slovenskom jazyku na uvedené kontaktné údaje: • email: kariera@ssd.sk Do predmetu e-mailovej správy, alebo na obálku, či priamo v žiadosti pri písomnom styku, UVEĎTE NÁZOV POZÍCIE, o ktorú sa uchádzate. Vážime si Váš prejavený záujem, avšak dovoľujeme si Vás informovať, že kontaktovaní do 21 pracovných dní budú uchádzači, ktorí budú spĺňať vyššie uvedené špecifické požiadavky a naše predstavy o úspešnom kandidátovi. V rámci výberového konania v sídle našej spoločnosti absolvujete osobný individuálny rozhovor, ako aj ďalšie časti, ktoré nám pomôžu spoznať Vašu osobnosť a odborné predpoklady pre pracovnú pozíciu. SPRACOVANIE OSOBNÝCH ÚDAJOV Dovoľujeme si Vás informovať, že v súvislosti s týmto výberovým konaním organizovaným našou spoločnosťou, vystupujete ako dotknuté osoby podľa článku 13 Nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov) o spracúvaní osobných údajov obsiahnutých v životopise, motivačnom liste a dotazníku. Spracúvanie osobných údajov na účel výberového konania je nevyhnutné na vykonanie opatrení pred uzatvorením zmluvy na základe žiadosti dotknutej osoby v zmysle čl. 6 ods. 1 písm. b) všeobecného nariadenia o ochrane údajov. Právnym základom spracúvania osobných údajov je čl. 6 ods. 1 písm. b) všeobecného nariadenia o ochrane údajov. Osobné údaje môžu byť poskytnuté týmto príjemcom: subjekty vykonávajúce psychodiagnostiku, poskytovateľ IT podpory, subjekt zabezpečujúci výkon externého auditu, spolupracujúce personálne agentúry a subjekty, ktorým poskytnutie osobných údajov vyplýva zo zákona. Osobné údaje ďalej môžu byť poskytnuté orgánom verejnej moci podľa osobitných predpisov. Osobné údaje nie sú poskytované do tretích krajín mimo EÚ, ani prevádzkovateľ nezamýšľa preniesť osobné údaje do tretích krajín. Pri spracúvaní osobných údajov nedochádza k automatizovanému rozhodovaniu, ani profilovaniu. Osobné údaje získané na účel výberového konania budú uchovávané počas trvania výberového konania a ďalších 12 mesiacov po jeho ukončení; po skončení doby uchovávania budú tieto osobné údaje zlikvidované alebo (v prípade uzavretia pracovnej alebo obdobnej zmluvy) budú nadväzne využívané na pracovnoprávne účely. Dotknutá osoba má právo podať sťažnosť dozornému orgánu, ktorým je Úrad na ochranu osobných údajov SR, a právo požadovať od prevádzkovateľa prístup k svojim osobným údajom, právo na opravu alebo vymazanie alebo obmedzenie spracúvania svojich osobných údajov, ako aj právo na prenosnosť údajov. Podrobné informácie o právach dotknutých osôb a spôsobe ich uplatnenia sú uvedené na webovom sídle prevádzkovateľa: www.ssd.sk. Ako dotknutá osoba nás môžete kontaktovať e-mailom na kariera@ssd.sk alebo poštou na adrese sídla prevádzkovateľa. Dotknutá osoba sa môže v prípade otázok týkajúcich sa spracúvania osobných údajov obrátiť tiež na zodpovednú osobu e-mailom na adresu dpo@ssd.sk. Poskytnutie osobných údajov na účel výberového konania organizovaného prevádzkovateľom je nevyhnutné na vykonanie opatrení pred uzatvorením zmluvy na základe žiadosti dotknutej osoby v zmysle čl. 6 ods. 1 písm. b) všeobecného nariadenia o ochrane údajov; neposkytnutie osobných údajov na uvedený účel znemožňuje účasť na výberovom konaní.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Multiprotocol Label Switching (MPLS) - Pokročilý
+WAN - Pokročilý
+HCNA (Huawei Certified Network Associate) - Pokročilý
+Cisco Certified Network Associate (CCNA) - Pokročilý
+Ansible - Pokročilý
+Terraform - Pokročilý
+GitHub - Pokročilý
+Zabbix - Pokročilý
+Flowmon Networks - Pokročilý
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť Stredoslovenská distribučná, a. s., (SSD) je regionálnym prevádzkovateľom distribučnej sústavy elektrických vedení na úrovni veľmi vysokého, vysokého a nízkeho napätia. Zabezpečuje distribúciu elektriny na území Banskobystrického, Žilinského a časti Trenčianskeho kraja. Spravuje takmer 35-tisíc kilometrov elektrických vedení, ktoré napájajú zhruba 790-tisíc domácností a firiem.
+Počet zamestnancov
+1000 a viac zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Linda Zemanová
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5175208
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Žilina
+Pozícia:
+Správca počítačovej siete
+,
+Špecialista prevádzky sietí a služieb
+Spoločnosť:
+Stredoslovenská distribučná, a.s.
+Základná zložka mzdy (brutto):
+1 970 EUR/mesiac

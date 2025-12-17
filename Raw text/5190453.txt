@@ -1,0 +1,120 @@
+System Administrator for Grid Control Complex Solutions
+Place of work
+Lamačská cesta, Bratislava, Slovakia (Job with occasional home office)
+Start date
+ASAP / By agreement
+Contract type
+full-time
+Salary
+2 200 EUR/month
+From 2 200€
+brutto / month + variable bonus*
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. This salary is for junior candidate. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions. Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+About us
+Siemens
+We are a technology company focused on industry, infrastructure, transport, and healthcare. By combining the real and the digital worlds, we empower our customers to transform their industries and markets, helping them to transform the everyday for billions of people.
+Job description, responsibilities and duties
+Digitalization – Decentralization of energy resources – Decarbonization of power generation
+At
+Siemens Smart Infrastructure
+(SI)
+we’re driving the energy transition.
+The exponential growth of distributed energy resources (DER) is rapidly changing the challenges for all players on the electrical power market. Decentralization and digitalization are enhancing and transforming the energy world faster than ever.
+Siemens business unit
+Grid Software
+Account for growth challenges our customers facing due to the DER growth. Our employees are working on pioneer topics in very close collaboration with these customers. In the Grid Control segment, we’re mainly working on equipping control centers with a software bundle called Spectrum Power™.
+Beyond traditional grid operation, Spectrum Power™ solutions actively help grid operators manage, orchestrate, and optimize their transmission and distribution systems. Over 1,300 Spectrum Power™ systems in operation keep the lights on for hundreds of millions of people around the globe.
+We are looking for a passionate candidate (m/f/d) to join our team in Advanced Project (Grid Control) located in Bratislava, Slovakia. The positions will allow the successful candidate to bring engineering knowhow together with software skills and work in a field with enormous impact on the future.
+Main Duties:
+Installation and Configuration of Siemens Grid Control Systems including Hardware, Software and all belonging third party products (example: operating system, Oracle Database, JBoss, Jasper Reports, Nagios, etc.)
+Preparation of test cases and execution of basic tests
+Error detection and troubleshooting of the solution used 24/7 in critical infrastructure
+Responsibility for the system infrastructure of the complex control center of computer systems (planning, configuration and testing of the infrastructure - firewall, DMZ, IP addresses, vulnerability tests)
+Clarifying technical concepts with the customer
+Supporting Sales Department with Technical Concepts and Consulting in Tender processes
+Playing an important role of being interface between Project Manager and Project Team
+Apply IT security standards to the critical infrastructure systems (multifactor authentications, encryption standards and protocols, System Hardening, IPA, Linux and Windows,…)
+Language skills
+English language – Intermediate level (B2)
+As advantage would be German language skill– Intermediate level (B2) or willingness to learn
+Experiences and Education:
+Relevant IT education background (University education I. or II. degree in information technology or adequate experience)
+Advanced experience in UNIX/Linux administration
+Desired experience in Administration of Windows servers
+Basic knowledge of network technologies (routing, switching) required
+Experience with virtualization technologies preferrable
+Basic knowledge of programming and scripting (example: Powershell, Bash, ksh, …)
+Optional: Experience with Ansible for automating system administration tasks
+Knowledge of Hardware (BIOS configuration, RAID arrays, Clustering) – server technologies, enterprise solutions
+Basic Understanding of Oracle Database
+Reading and understanding of source codes - C, C++, Perl
+Basic knowledge of IT security (e.g. hardening, patch management, …)
+Personal qualifications:
+Customer oriented
+Business Process oriented
+Operational "hands-on" attitude
+Strong analytical approach to troubleshooting / problem solving
+Independent, proactive, and self-structured work style
+Willingness to grow with Siemens Grid Control Software
+General willingness to travel
+What we offer
+Multi-cultural environment
+Working in fast growing business unit
+Supporting individual suggested education / trainings / certifications
+Required education, skills and personality requirements
+Required education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+We offer
+Home office, telework
+Flexible working hours (9:00 – 15:00), short Fridays
+Bridge days – 3 days/year
+Sick days – 3 days/year
+Additional paid leave
+Cafeteria system - BenefitPlus = 300 points / € per year
+Contribution to 3rd pillar pension up to 3% of gross salary (after the employment trial period)
+Sick leave compensation and Sick Leave to Care for a Family Member compensation (up to 100% of salary, 20 days/year)
+Childbirth bonus of 300€
+Contribution for attending a preschool facility (200€)
+Contribution for representative sports activities
+MultiSport
+2 SIM cards with discounted employee flat rate also for family members
+Employee referral bonus up to 2 000€
+Opportunity to invest in the purchase of Siemens shares
+Discounts for employees (electronics, language courses, vacation stays...)
+Discounted employee´s loans
+Wellbeing program, Health Day, team-building program
+Education in various fields of your choice
+Work anniversary present and life anniversary contribution
+Valuable gift on the occasion of retirement
+How it looks here
+Send CV
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Join us!
+Send CV
+Click for more information
+ID:
+5190453
+Dátum zverejnenia:
+11.11.2025
+2025-11-11
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+IT System Administrator
+,
+IT/Technical Support Specialist
+,
+Systems Administrator
+Spoločnosť:
+Siemens Slovensko
+Základná zložka mzdy (brutto):
+2 200 EUR/month

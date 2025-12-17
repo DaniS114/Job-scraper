@@ -1,0 +1,107 @@
+Linux a Kubernetes systémový špecialista
+LYNX s.r.o.
+Miesto práce
+Gavlovičova, Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 500 - 3 000 EUR/mesiac
+Podľa rozsahu znalosti (2 000 - 3 000 €)
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+návrh, implementácia, správa a dokumentácia systémov postavených na Linux technológiách
+návrh, implementácia, správa a dokumentácia systémov postavených na kontajnerizačných technológiách
+podpora prevádzky a kooperácia s tímami aplikačných a bezpečnostných špecialistov
+identifikácia zraniteľnosti systémov a následným návrhom nápravných opatrení
+vytváranie dokumentácie rôznych úrovni (analytické, dizajnové, systémové)
+Zamestnanecké výhody, benefity
+kontinuálne vzdelávanie a certifikácia šitá na mieru
+flexibilný čas
+možnosť home office
+školenia a profesionálny rast
+prístup k najnovším technológiám
+Informácie o výberovom konaní
+Spoločnosť LYNX si vyhradzuje právo kontaktovať len vybraných úchádzov, ktorí spĺňajú požadované kritéria.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informatika
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+Linux OS - Pokročilý
+Kubernetes - Pokročilý
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+IT bezpečnosti
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Požiadavky na uchádzača: (technické)
+Praktické skúsenosti a výbornú znalosť administrácie
+Linux
+(RHEL/Debian), systemd, správy balíkov, webových, sieťových a diskových služieb (Apache/Nginx, Bind, Samba, Nfs).
+Praktické skúsenosti a istotu v
+Kubernetes
+(deployments, ingress, PV/PVC, security contex, upgrade/hardening, CNI (Calico/Antrea/OVN).
+Praktické skúsenosti a vytvaranie/údržbu
+CI/CD
+(GitLab CI/Jenkins), verzovanie v
+Git
+.
+Praktické skúsenosti
+s
+tvorbou
+Infrastructure as Code
+(Terraform, Ansible), ideálne s
+GitOps
+prístupom (Argo CD/Flux).
+Praktické skúsenosti s konfiguráciou
+monitoringu a observability
+(Prometheus, Grafana, Alertmanager, log stack ELK/OpenSearch, Instana, Zabbix).
+Praktické skúsenosti s vytváraním skriptov v
+Bash/Python
+na automatizáciu opakovaných úloh.
+Praktické skúsenosti a orientácia v
+sieťovej vrstve a bezpečnosti
+(TCP/IP, DNS, TLS, reverzné proxy Nginx/HAProxy, firewall, secret management – Vault/SOPS).
+Vítané požiadavky: (technické)
+Praktické skúsenosti s návrhomriešení vysokej dostupnosti (HA/DR), zálohovanie, testy obnovy.
+Praktické skúsenosti v Cloud prostrediach(výhodou AWS/Azure/GCP, managed K8s -EKS/AKS/GKE).
+Praktické skúsenosti so Service Mesh (Istio/Linkerd), Policy as Code (OPA/Kyverno), Argo Workflows.
+Praktické skúsenosti a znalosti produktových portfólií renomovaných výrobcov serverovej a dátovej infraštruktúry ako sú napríklad HPE, IBM, Lenovo.
+Certifikácie v oblastiach Linux/Kubernetes technológií (RHCSA/RHCE a CKA).
+Ďalšie požiadavky: (netechnické)
+Mali by ste byť komunikatívny, schopný pracovať v tíme, ovládať anglický jazyk minimálne na úrovni čítania technickej dokumentácie, ochotný sa vzdelávať, schopný samoštúdia.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Slovenská firma, pôsobiaca v oblasti počítačových sietí, informačných systémov a informačnej bezpečnosti.
+Kontakt
+Kontaktná osoba: Ing.  Kristína Lukáčová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5170523
+Dátum zverejnenia:
+4.12.2025
+2025-12-04
+lokalita:
+Košice
+Pozícia:
+IT konzultant
+Spoločnosť:
+LYNX s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

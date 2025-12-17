@@ -1,0 +1,137 @@
+Automation Tester
+CODERAMA s. r. o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 1 800 EUR/mesiac
+Základná mzda pri TPP je od 1 800,- EUR. Pri kontrakte sa mzda pohybuje do 3 500,- EUR.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ahoj,
+Som Nika z CODERAMA a do tímu hľadám šikovného Automatizovaného Testera, ktorý sa rád stretáva s tímom a robí na projekte vo fintech odvetví.
+Počas dňa ťa čaká:
+návrh a vývoj
+automatizovaných testov
+pre API aj UI vrstvu,
+spolupráca s
+business analytikmi a vývojármi
+pri písaní testovacích scenárov a prípadov,
+vytváranie a schvaľovanie
+test plánov
+a spätná väzba k špecifikáciám a technickému dizajnu,
+logovanie chýb, sledovanie ich opravy a retestovanie,
+testovanie v súlade s internými štandardmi a
+prispievanie k ich zlepšovaniu
+,
+rozširovanie automatizačných možností testovania a podpora tímu pri zvyšovaní kvality kódu,
+získavanie znalostí o
+merchant acquiring
+doméne a samotnej platforme.
+Čo očakávame my od teba?
+min. 2
+roky skúseností v  automatizácii
+(Java alebo C#),
+skúsenosti s frameworkmi ako
+Selenium, REST Assured
+,
+znalosť princípov
+BDD / TDD
+, výhodou skúsenosti s
+Cucumber, Gherkin syntaxou
+,
+schopnosť analyzovať funkcionalitu a navrhovať efektívne testy,
+znalosť
+OOP princípov
+a databáz (SQL, Oracle),
+skúsenosť s
+Git
+,
+JIRA/XRAY
+,
+Jenkins/GitLab CI/CD
+,
+prehľad o
+SDLC procese
+,
+angličtinu na komunikatívnej úrovni – budeš súčasťou
+medzinárodného tímu
+,
+V CODERAMA sa o teba dobre postaráme, tak ak chceš vedieť viac, napíš nám a my sa ti ozveme späť :)
+Zamestnanecké výhody, benefity
+• Nadštandardné platové ohodnotenie
+• Možnosť kariérneho rastu a sebarealizácie
+• Možnosť rotácie medzi projektami
+• Práca v úspešnej spoločnosti a v priateľskom kolektíve
+• Podpora vzdelávania a sebarozvoja
+• Flexibilná pracovná doba
+• Žiadna byrokracia
+• Firemný hardware
+• Stabilita, takmer žiadna fluktuácia - ak už raz do CODERAMA prídeš, nebudeš chcieť odísť
+• Event kalendár plný športových a kultúrnych akcií, teambuildingov a iných aktivít
+• Práca spojená s cestovaním, tzv. Work & Travel
+• Pet friendly office
+• Psychologické poradenstvo, coaching a mentoring program
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+SQL - Pokročilý
+Rest API - Pokročilý
+Jira - Pokročilý
+Selenium - Pokročilý
+Prax na pozícii/v oblasti
+2
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+• Znalosť agilného vývoja
+• Chuť pracovať
+• Záujem učiť sa nové technológie a neustále sa odborne vzdelávať
+• Zodpovednosť za pridelené úlohy
+• Samostatnosť, ale zároveň aj tímovosť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+CODERAMA, s.r.o. je progresívny a inovatívny SOFTWARE HOUSE zaoberajúci sa vývojom komplexných enterprise riešení pre zákazníkov zo Slovenska a zahraničia ako sú ŠKODA AUTO, NOTINO, CRIF, KONICA MINOLTA, MOROSYSTEMS, MONET+, KISTLER, KOMIX, BRAVIDA, ČSOB, MEGAUBYTOVANIE.SK, DXC TECHNOLOGY, TELEKOM, INTERWAY, KROS, UNIQA, AVILOO, UNILABS SK a ďalších.
+Zákazníci na nás najviac oceňujú našu proaktivitu a poctivosť. Okrem vývoja zákazníckych riešení sme sa s nadšením pustili aj do vlastných projektov a už teraz sa nevieme dočkať ako ich uvedieme na trh.
+V CODERAMA je nás 140+ a neustále rastieme. Okrem Žiliny pôsobíme aj v Bratislave, Nitre, Martine, Banskej Bystrici či v Košiciach. Mnohí z nás pracujú aj REMOTE. Každý z nás je jedinečný a navzájom sa perfektne dopĺňame. Vieme tvrdo zamakať ale aj sa poriadne zabaviť.
+V CODERAMA si zakladáme na kamarátskom prístupe, tímovosti, poctivej práci, transparentnosti a slobode. Problémy riešime spoločne a aj úspechy oslavujeme spoločne. Ak sa chceš presvedčiť, že pracovať u nás je naozaj zážitok, príď nás kedykoľvek navštíviť.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: HR Tím
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5191982
+Dátum zverejnenia:
+13.11.2025
+2025-11-13
+lokalita:
+Bratislava
+Pozícia:
+IT tester
+Spoločnosť:
+CODERAMA s. r. o.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

@@ -1,0 +1,108 @@
+Senior Data Quality Engineer
+Empera Consulting, s. r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+Uvedené platové ohodnotenie je orientačné a ohodnotenie závisí od relevantnosti skúseností kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Medzinárodná spoločnosť s centrom v Bratislave buduje nový tím pre správu dát od základov. Novovznikajúci
+data quality
+stream má za cieľ
+zmerať, sledovať a zlepšiť kvalitu dát
+v kritických tokoch a reportoch. Hľadáme
+technickejšieho seniora
+, ktorý postaví
+základy data quality programu
+(profilácia, pravidlá, monitoring, RCA & remediation). Výsledky bude prezentovať v
+prehľadných reportoch
+pre vlastníkov dát.
+ZODPOVEDNOSTI:
+Pravidlá kvality dát:
+navrhnúť a zaviesť pravidlá pre úplnosť, správnosť, konzistentnosť, včasnosť a jedinečnosť dát v prioritných oblastiach a pri najdôležitejších údajoch.
+Kontroly a priebežné sledovanie (tzv. alerting):
+nasadiť kontroly do hlavných dátových tokov a transformácií, revidovať existujúcu dátove toky, nastaviť prahové hodnoty a upozornenia a popísať jasný postup eskalácie
+Riešenie incidentov a hľadanie príčin:
+viesť analýzu skutočnej príčiny problému od nahlásenia až po overenú nápravu; úzko spolupracovať s tímami na zdrojových systémoch a pravidelne vyhodnocovať trendy
+Prehľadné reportovanie kvality:
+pripravovať zrozumiteľné prehľady pre vlastníkov dát a manažment a organizovať pravidelné hodnotiace stretnutia
+Integrácia a meranie prínosu:
+prepojiť kontroly s kľúčovými dátovými procesmi a katalógom, automatizovať ich spúšťanie a definovať ukazovatele úspechu (napr. pokrytie pravidlami, čas od odhalenia po nápravu, pokles kritických chýb) s priebežným reportovaním
+Zamestnanecké výhody, benefity
+Prostredie s rýchlym rozhodovaním a zázemím veľkej skupiny
+– blízko k ľuďom, no s podporou a stabilitou medzinárodnej organizácie.
+Flexibilná práca
+– hybridný model, možnosť práce z domu a rozumné plánovanie času.
+Rozvoj a vzdelávanie
+– prístup k školeniam, konferenciám a odborným komunitám, podpora pri zmene či rozšírení zručností.
+Motivačné odmeňovanie
+– férová mzda doplnená o výkonnostný bonus.
+Dôraz na regeneráciu
+– extra platené voľná, možnosť sabbaticalu a ďalšie praktické benefity.
+Predpokladaný termín ukončenia výberového konania
+15.11.2025
+(ostáva ešte 12 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Iné neuvedené oblasti
+Klientom je etablovaná medzinárodná spoločnosť s lokálnou centrálou v Bratislave.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+​
+Osobnostné predpoklady a zručnosti:
+proaktívnosť, dôslednosť, schopnosť vysvetliť technické nálezy biznisu, tímová spolupráca, orientácia na výsledok
+Technické predpoklady a zručnosti:
+znalosť SQL, PowerBI na pokročilej úrovni
+skúsenosť s Python a cloudovými riešeniami je výhodou
+min. 5 rokov skúsenosti v oblasti data quality
+skúsenosť so zavádzaním data quality procesov do organizácie je výhodou
+Jazykové zručnosti:
+slovenský, resp. český jazyk na plynulej úrovni
+komunikatívna angličtina
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť operujúca v oblasti recruitmentu, executive search a HR poradenstva.
+Počet zamestnancov
+3-4 zamestnanci
+Kontakt
+Kontaktná osoba: Mgr.  Martina Vlkovičová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5176389
+Dátum zverejnenia:
+15.10.2025
+2025-10-15
+lokalita:
+Bratislava
+Pozícia:
+Inžinier kvality
+,
+IT analytik
+,
+IT konzultant
+,
+Softvérový inžinier
+,
+Systémový inžinier
+Spoločnosť:
+Empera Consulting, s. r. o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

@@ -1,0 +1,107 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Network Security Specialist
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 500 EUR/month
+*The final basic wage component can be adjusted accordingly to individual skills and experience of selected candidate.
+*Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period (usually 6 months)
+Contract type
+full-time
+We are looking for a new colleague to join our Delivery & Deployment team providing tailored security solutions for our clients.
+In 2022, ESET has launched global Corporate Solutions Division, dedicated to support large companies and public institutions with bespoke cyber security solutions.
+Your main role will be to cooperate on designing, installing, setup and configuration of security systems and solutions / products, cooperate on implementing change requests and support them. You will have to understand different platforms / environments and their behavior and be able to accommodate security solutions within these platforms / environments fulfilling customer’s requests.
+What does the role entail?
+Analyze customer environments to identify the most suitable network security solutions and products.
+Design network security solutions across physical and virtual infrastructures.
+Collaborate with internal teams and developers in definition of end-to-end cybersecurity solutions tailored to specific client needs.
+Configure and deploy custom security setups based on customer requirements.
+Conduct comprehensive testing and validation of deployed solutions to ensure performance and reliability.
+Fine-tune solutions to ensure that they meet defined acceptance criteria and fully align with client expectations.
+Prepare clear and detailed technical and operational documentation.
+Perform a structured handover of implemented solutions to the operations and support teams.
+Work closely with product development teams to define new feature requirements and suggest product enhancements based on customer experiences.
+Lead and participate in technical workshops, product demonstrations, and proof-of-concept (PoC) activities for prospective customers.
+Occasionally travel to customer sites to deliver onsite expertise and support as part of project implementation activities.
+What are our requirements?
+Proven experience as a Network Security Engineer, Network Security Technical Lead or Cybersecurity Specialist with networking background.
+Ability to effectively translate customer requirements into technical architectures and solutions.
+Hands-on experience with the configuration and deployment of security technologies, including:
+deep Packet Inspection (DPI)
+Intrusion Detection Systems (IDS)
+Intrusion Prevention Systems (IPS)
+Network Access Control (NAC)
+Practical experience with containerization technologies, specifically Kubernetes and Docker.
+Proficiency with Linux-based operating systems.
+Strong technical and analytical thinking, with the ability to work independently and in a team.
+Nice to Have (Optional but Beneficial)
+Experience with virtualization platforms, such as VMware, Hyper-V, or KVM.
+Experience integrating network security solutions with SIEM platforms.
+Familiarity with the configuration of network-level security technologies such as Firewalls, Data Loss Prevention (DLP) and Domain Name System (DNS)
+Basic knowledge of programming or scripting.
+Experience in client-facing roles, with strong communication and interpersonal skills.
+What do We Offer?
+Opportunity to grow toward Solution Architect role.
+Access to continuous learning and upskilling in cutting-edge security technologies.
+Dynamic team environment and impactful projects for leading clients.
+Hybrid working environment with flexibility.
+and much more... to see the full list of perks and benefits please visit our website: https://www.eset.com/sk/o-nas/kariera/benefity/
+Kontaktná osoba
+Nicole Vajdová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5106356
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava
+Pozícia:
+IT Network Administrator
+,
+Network and Service Operation Specialist
+,
+Service Engineer
+,
+Systems Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

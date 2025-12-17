@@ -1,0 +1,149 @@
+Softvérový Architekt / Senior Vývojár
+PredictiveDataScience, s. r . o.
+Miesto práce
+Trnava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok
+Termín nástupu
+2026-01-01
+Mzdové podmienky (brutto)
+2 000 - 3 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného
+Senior Vývojára (-ku)/ Softvérového Architekta (-ku)
+, ktorý dokáže navrhovať a viesť vývoj komplexných softvérových riešení – od architektúry až po nasadenie do produkcie.
+Budeš kľúčovým technickým členom tímu, ktorý sa podieľa na tvorbe moderných cloudových, dátových a AI aplikácií (napr.
+PredictiveResearchLab
+).
+Očakávame, že máš výborné technické zázemie, skúsenosť s návrhom systémov a chuť podieľať sa na budovaní robustnej, škálovateľnej a udržateľnej architektúry.
+1. Návrh a vývoj softvérovej architektúry:
+Tvorba návrhu
+systémovej architektúry
+aplikácií a služieb – API, microservices, integračné vrstvy.
+Návrh a realizácia
+modulárneho a škálovateľného riešenia
+v súlade s princípmi
+Clean Architecture, Domain-Driven Design (DDD)
+.
+Definícia štandardov pre kód, štruktúru projektov a DevOps procesy.
+Spolupráca s Azure Architektom pri návrhu cloud infraštruktúry (App Services, Kubernetes, Azure Functions, API Gateway).
+2. Vývoj a implementácia:
+Aktívna účasť na vývoji backendu (ideálne v
+Python / Node.js
+, podľa projektov).
+Vývoj REST API, integrácií s databázami, AI službami a frontend aplikáciami.
+Optimalizácia výkonu, bezpečnosti a testovateľnosti kódu.
+Review kódu a mentoring mladších vývojárov.
+3. Integrácia a dátové spracovanie:
+Implementácia dátových tokov (ETL, event streaming, real-time spracovanie).
+Spolupráca s dátovým a AI tímom pri integrácii prediktívnych modelov, LLM služieb a analytických komponentov.
+Návrh a realizácia rozhraní pre komunikáciu medzi modulmi a mikroslužbami.
+4. DevOps a CI/CD:
+Spolupráca na automatizácii buildov, testov a deploymentov v
+Azure DevOps / GitHub Actions
+.
+Kontrola kvality prostredníctvom code review, static analysis a test coverage reportov.
+Tvorba prostredia pre staging / testing / production s dôrazom na stabilitu a bezpečnosť.
+5. Technické vedenie a inovácie:
+Technický líder pre tím vývojárov – vedenie code review, zdieľanie best practices, podpora pri riešení problémov.
+Spolupráca s produktovým manažmentom a biznis tímom na návrhu riešení.
+Návrh a zavádzanie nových technológií, frameworkov a štandardov vo vývoji.
+Účasť na architektonických review a výskumných iniciatívach (napr. integrácia AI do core systémov).
+Prax:
+min. 5–6 rokov
+praxe v oblasti softvérového vývoja
+aspoň 2–3 roky
+skúseností s návrhom architektúry systémov
+Skúsenosti s cloud prostredím (Azure, AWS) výhodou
+Zamestnanecké výhody, benefity
+Čo ponúkame
+Účasť na kľúčových projektoch – architektúra a vývoj pre
+PredictiveResearchLab
+, AI a dátové platformy
+Priestor ovplyvniť technologické smerovanie firmy a návrh architektúry
+Flexibilný pracovný čas, hybridný režim, kvalitné technické vybavenie
+Možnosť odborného rastu a účasti na certifikáciách (Microsoft Azure, TOGAF, .NET, Python, AI integrácie)
+Práca s modernými technológiami a tímom, ktorý sa zameriava na inováciu
+Predpokladaný termín ukončenia výberového konania
+7.12.2025
+(ostáva ešte 20 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+informatika, softvérové inžinierstvo, IT systémy, alebo príbuzný odbor
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+Sofvérového vývoja
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Technické zručnosti:
+Výborná znalosť aspoň jedného jazyka:
+Python
+,
+Node.js/JavaScript/TypeScript
+Znalosť návrhových vzorov a princípov
+Clean Architecture
+,
+SOLID
+,
+CQRS
+,
+DDD
+Skúsenosť s databázami:
+SQL (MSSQL, PostgreSQL)
+aj
+NoSQL (Elasticsearch, Cosmos DB, MongoDB)
+Znalosť kontajnerizácie a orchestrácie (
+Docker, Kubernetes
+)
+Výhodou: skúsenosti s frontend frameworkom (
+React
+)
+Skúsenosti s integračnými vzormi (REST, Event-Driven Architecture, Message Queue – RabbitMQ, Kafka, ETL nástroje – logstash, NodeRed)
+Znalosť nástrojov pre DevOps (
+Azure DevOps, GitHub Actions, Terraform, CI/CD pipelines
+)
+Osobnostné predpoklady:
+Silné analytické a systémové myslenie
+Technická precíznosť a zmysel pre detail
+Zodpovednosť, samostatnosť a schopnosť rozhodovať
+Schopnosť mentorovať, viesť a koordinovať vývojárov
+Záujem o inovácie a nové technológie (napr. AI integrácie, mikrofrontendy, event sourcing)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+PredictiveDataScience je moderná dátovo-analytická spoločnosť špecializujúca sa na prediktívne modelovanie, pokročilú analytiku a implementáciu riešení umelej inteligencie. Pomáhame firmám premeniť ich dáta na hodnotné poznatky, automatizovať rozhodovacie procesy a budovať inovatívne produkty postavené na AI. Naším cieľom je prinášať presné, spoľahlivé a praktické riešenia, ktoré podporujú rast a konkurencieschopnosť našich klientov.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Lukáš Hrčka, PhD.
+Tel.:
++421908388784
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5193298
+Dátum zverejnenia:
+17.11.2025
+2025-11-17
+lokalita:
+Trnava
+Pozícia:
+IT architekt
+,
+Python programátor
+Spoločnosť:
+PredictiveDataScience, s. r . o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

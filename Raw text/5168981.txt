@@ -1,0 +1,86 @@
+About us
+Our benefits
+Open positions
+Junior Data Analytics Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+1 600 - 2 600 EUR/month
+For Slovakia the base salary range for this position is between [EUR 1,600] and [EUR 2,600] per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Data & Analytics Reinsurance is a key tech partner for our Reinsurance divisions, supporting in the transformation of the data landscape and the creation of innovative analytical products and capabilities. We use modern approaches to running the product development lifecycle, design thinking and rapid prototyping to quickly test for value. We build powerful insights and deploy them into production as part of analytical products. Both our team and our partners are truly global, spanning across different countries and serving a global customer basis.
+About The Role
+In your role as an Analytics Engineer in Data & Analytics Re, you collaborate with data engineers, business analysts and product owners to build impactful products tackling a variety of business challenges, such as improving our portfolio strategy, costing accuracy and financial performance.
+Your key responsibilities are:
+•	Design and implement end-to-end analytics solutions using Palantir Foundry, including:
+o	Scalable data transformation pipelines in PySpark
+o	Web applications with Workshop (low-code) and TypeScript
+•	Translate business needs into technical specifications in close collaboration with Product Owners and Architects.
+•	Troubleshoot and resolve functional and technical data issues for stakeholders.
+•	Actively contribute to the evaluation and prototyping of new analytics platform capabilities.
+•	Collaborate across a global, cross-functional team to deliver robust and high-impact data products.
+To help you develop the skills required for this role, you will be paired with a mentor who will guide you through the responsibilities and nuances of the position during your first 6–12 months. In addition, you will benefit from a structured learning program that covers both technical and business topics.
+The role is located in Bratislava, with flexibility for a hybrid working model.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+About You
+•	University degree or equivalent experience with a quantitative background, we welcome graduates as well as people with first experience in a data-related field! Computer science degree is a plus.
+•	Previous experience with coding / software engineering during studies or in a professional context. Experience in building applications and/or data visualizations is a plus as is Agile experience.
+•	Understanding of data modelling concepts and SQL. Working with data pipelines, experience with (Py)Spark is a plus.
+•	Experience with Palantir Foundry is a plus.
+•	Domain knowledge in (Re)Insurance is a plus.
+•	Interest to analyze data within the business landscape while applying conceptual and problem-solving skills. You enjoy dealing with colleagues in business functions!
+•	And most importantly, you are a people person that loves collaborating with others to find excellent solutions to hard business problems!
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+1700 and more employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5168981
+Dátum zverejnenia:
+4.11.2025
+2025-11-04
+lokalita:
+Bratislava
+Pozícia:
+Database Analyst
+,
+IT Analyst
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+1 600 EUR/month

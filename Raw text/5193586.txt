@@ -1,0 +1,89 @@
+SLSP.sk
+IT Analytik/čka (senior) – rule engine
+Reagovať na ponuku
+Miesto práce
+Tomášikova 3271/48, Nové Mesto
+Druh pracovného pomeru
+plný úväzok
+Platové podmienky
+3 000 EUR/mesiac
+*
+*
+Uvedená výška mzdy predstavuje minimálnu garantovanú sumu základnej zložky mzdy vzťahujúcej sa na uvedenú pracovnú pozíciu.
+Skutočná suma základnej zložky mzdy bude upravená v súlade s vašimi odbornými znalosťami a schopnosťami.
+Pracovná náplň:
+Hľadáme skúseného analytika/analytičku, ktorý/á dokáže prepojiť biznis požiadavky s technickým riešením.
+Tvojou úlohou bude analyzovať zadania, navrhovať logiku a implementovať ju do spustiteľných pravidiel v rule engine. Nejde o bežnú administratívu - budeš pracovať s dátami, logickými výrazmi a rozhodovacími tabuľkami, ktoré priamo riadia kľúčové bankové procesy.
+Čomu sa budeš venovať?
+Prekladať biznis požiadavky do funkčných špecifikácií a rozhodovacích tabuliek
+Upravovať/rozvíjať pravidlá v internom rule engine (BRMS) – agenda groups, salience, queries, helper funkcie, jednoduché výrazy
+Kontrolovať generovaný výstup (XLSX → pravidlá), čítať DRL/MVEL zápisy, robiť drobné úpravy
+Tuning a troubleshooting: prečo sa pravidlo nespustilo, v akom poradí bežia skupiny, atď
+Navrhovať a validovať dátové modely, integračné toky (REST/SOAP), mapovania
+Pripravovať test scenáre, unit/regresné testy pravidiel
+Správa, verzovanie a optimalizácia existujúcich pravidiel
+Spolupracovať s produktovým tímom, vývojom, testingom a architektúrou
+Čítanie Java kódu, drobné utility
+SQL na overovanie dát a investigáciu, JSON/XML payloady, REST/SOAP, Kafka
+Git/Jira/Confluence
+Uvítame, ak budeš mať:
+3 - 6+ rokov v IT analýze / backend analýze / systémovej analýze (alebo mix s devom)
+Silné logické myslenie, pohodlie v booleovských podmienkach a práce s dátami
+SQL, rozumieš si s JSON/XML, REST, SOAP
+Vieš čítať Javu a nebojíš sa krátkych výrazov/funkcií (nemusíš byť full-time programátor)
+Samostatnosť, schopnosť dotiahnuť veci a zrozumiteľne komunikovať s biznisom aj IT
+Poteší nás, ak máš navyše:
+Skúsenosti s mikroslužbovou architektúrou a technológiami Spring a Kotlin
+Znalosť alebo praktická skúsenosť s pravidlovými systémami (Drools)
+Prax z finančného sektora, najmä v oblastiach úverov, účtov, scoringu, compliance či risku
+Schopnosť modelovať procesy pomocou UML a BPMN
+Skúsenosť s nástrojmi JIRA a Confluence
+Anglický jazyk na úrovni B2 – pre bežnú pracovnú komunikáciu a porozumenie technickej dokumentácie
+Poď s nami dokončovať to, čo sme načali a my ťa odmeníme:
+Tvoju prácu u nás si vážime. Odmeníme ťa 13. platom a ročným bonusom.
+Extra money za úsilie navyše.
+Na kvalitné jedlo ti prispejeme 8€. Stravné hradíme v plnom rozsahu, a to aj v dňoch keď dovolenkuješ.
+Participuj aj na úspechoch banky, cez zamestnanecký programe sa staneš akcionárom, akcionárkou skupiny ERSTE.
+Chceme spolupracovať s ľuďmi, s ktorými radi trávite čas. Odporuč nám nových kolegov a kolegyne, a my ťa odmeníme sumou až do 1000€.
+Urob si radosť, prispejeme ti na ňu 264€ ročne.
+Na to, aby si bol/a na dôchodku finančne fit ti prispejeme do III. piliera.
+Pre lepšie vyváženie práce a súkromia alebo, aby ste stihli dokončiť načaté aj doma:
+Dovolenkuj s nami až o 5 dní navyše.
+Voľný deň - pre rodiča budúceho prváčika pri jeho/jej prvom školskom dni, pri darovaní krvi, pri nadštandardnej zdravotnej prehliadke.
+Ťažkosti súkromné aj pracovné môžeš riešiť cez psychologickú podporu, prostredníctvom linky pomoci pre našich zamestnancov.
+Zdravotný stav teba a tvojich blízkych ťa vďaka nám nezaskočí – využiť môžeš našu digitálnu ordináciu, ktorá ti je k dispozícií doma aj v zahraničí
+Veríme, že v zdravom tele je zdravý duch, športuj s Multisport aj UpBalansea kartou.
+Vzdelávaj sa a dokončuj svoje štúdia, veríme, že ti v tom pomôžu workshopy, ktoré pripravujeme spolu s platformou SEDUO.
+Oddychovať môžeš aj vďaka „Lucky“ time.
+Nečakané výdavky nepočkajú do výplaty, máme pre teba PALM APP
+V Sporke sa všetci poznáme aj vďaka spoločným eventom, ktoré organizujeme.
+Budúcnosť je Tvoja v Slovenskej sporiteľni!
+Kontaktné údaje:
+Mgr.  Dominika Majerčáková
+Slovenská sporiteľňa, a.s.
+Tomášikova 48, 832 37 Bratislava, Slovensko
+www.slsp.sk
+Všetky ponuky
+•
+www.slsp.sk
+Copyright © 2002 - 2014 Slovenská sporiteľňa, a.s.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5193586
+Dátum zverejnenia:
+18.11.2025
+2025-11-18
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+Spoločnosť:
+Slovenská sporiteľňa, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

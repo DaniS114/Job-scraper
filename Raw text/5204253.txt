@@ -1,0 +1,100 @@
+PRACOVNÉ PONUKY
+O NÁS
+Software Developer – Vision Applications
+This position is being filled for the sister company Muehlbauer Automation s.r.o.
+Place of work
+Nitra
+Contract type
+full-time
+Wage (gross)
+From 3 050 EUR/month
+Your final salary will be based on your experience
+Job description, responsibilities and duties
+Position Overview
+The Software Developer will design, implement, and maintain advanced vision application solutions.
+The role requires full-cycle development capabilities: requirements analysis, architecture, coding, testing, deployment, and maintenance.
+The developer must be able to deliver solutions comparable in quality and functionality to industry leaders in machine vision.
+Key Responsibilities
+Develop software for image acquisition, processing, and analysis.
+Integrate vision systems with industrial hardware (cameras, sensors, robotics).
+Implement algorithms for object detection, recognition, and tracking.
+Optimize performance for real-time applications.
+Collaborate with hardware engineers and product managers to define requirements.
+Maintain documentation and ensure compliance with industry standards.
+Provide technical support and troubleshooting for deployed solutions.
+Employee perks, benefits
+Attractive additional financial benefits such as holiday allowances and health bonus (1 extra salary)
+Flexible working times depending on the respective workplace
+Language courses payed by company (150 € / semester)
+Regular employee interviews for individual career advancement
+Multisport card
+Social benefits (weddings, births, work, life anniversaries)
+Employee events
+Meal vouchers valued at € 7.00 / day with the option of boarding in the company
+Private parking in front of the company
+Multisport card at discounted rate
+Meal vouchers valued at €7/day
+Possibility of workplace meals
+Teambuildings
+Travel bonus
+13th Salary
+Private parking
+Vitamins
+Social benefits: childbirth, wedding, life anniversary, work anniversary
+Requirements for the employee
+Candidates with education suit the position
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Intermediate (B1)
+Personality requirements and skills
+Required Technical Skills
+Programming Languages: C++, Python (mandatory).
+Frameworks & Libraries: OpenVINO, OpenCV, TensorFlow/PyTorch (preferred).
+Vision Systems: Experience with industrial cameras, frame grabbers, and SDKs.
+Software Engineering: Strong knowledge of OOP, design patterns, and agile methodologies.
+Operating Systems: Windows and Linux development environments.
+Networking & Interfaces: GigE Vision, USB3 Vision, Camera Link.
+Database & Cloud: SQL, REST APIs, cloud integration (optional but advantageous).
+Education & Experience
+Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, or related field.
+Optimal 3 years of professional experience in vision application development but not strictly required.
+Proven track record of delivering industrial-grade solutions.
+Experience with full software lifecycle management.
+Personal Competencies
+Analytical thinking and problem-solving skills.
+Ability to work independently and in a team.
+Strong communication skills (English required, German/Slovak optional).
+Commitment to deadlines and quality standards.
+Continuous learning mindset in emerging vision technologies.
+Muehlbauer Group Slovakia
+Novozámocká 233
+949 05 Nitra
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5204253
+Dátum zverejnenia:
+10.12.2025
+2025-12-10
+lokalita:
+Nitra
+Pozícia:
+C Programmer
+,
+C++ Programmer
+,
+Java Programmer
+,
+Process Engineer
+,
+Software Engineer
+Spoločnosť:
+Muehlbauer Technologies s.r.o.
+Základná zložka mzdy (brutto):
+3 050 EUR/month

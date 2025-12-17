@@ -1,0 +1,106 @@
+Senior DevOps developer (Kubernetes)
+SOITRON, s.r.o.
+Place of work
+Bratislava region, Slovak Republic (Job with occasional home office)
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+From 2 500 EUR/month
+Basic salary starts at €2.500, however your final salary will depend on fair and deep evaluation of your knowledge & expertise. Also, our complex benefit package will be presented to you in detail.  Offered salaries reflect the current market
+Information about the position
+Job description, responsibilities and duties
+Our sister company 2Ring is recently looking for someone like you - a champion of
+DevOps
+. We offer you a job where
+innovations
+, passion for
+development
+and collaboration is a spirit. We support talents to deploy their skills. If you are professional, innovative and go-to person  you can expect the same from us. You´ll become one of the key contributors who will create
+improvements
+in our products and solutions. Join us and we can help each other to
+grow.
+Our tech stack:
+Kubernetes, Azure AKS, Helm, Kustomize, Docker, Linux, C#, .Net Core, Rust, Python, Vue.js, Grafana, Prometheus, Azure Devops, Github, MS SQL Server
+What you will do:
+Design, develop and maintain Kubernetes infrastructure (cloud based and on-prem)
+Create and maintain Helm Go templates and Kustomize configuration files
+Write and improve deployment automation scripts (Python)
+Document both automated and manual operational processes
+Design and implement container images (Python, C#, .Net Core, Typescript)
+Create and improve integrations with external identity providers (Azure AD, Okta, Keycloak)
+Investigate performance issues
+Employee perks, benefits
+Benefits:
+Work results used by hundreds of thousands of people in tens of countries on (almost) all continents
+Strong support of education and technological growth. After each sprint one day available for studies and free permanent access to educational portal www.pluralsight.com
+Open and friendly informal team atmosphere
+Flexible working hours
+Flat management structure
+Variable benefits package (including training, sports, medical care, mobile communication, social benefits, team-building activities)
+Team/family events for you and your relatives
+An annual retreat with workshops
+New-born child contributions
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Language skills
+English - Intermediate (B1)
+Other knowledge
+C# - Skillful
+The position is suitable for a fresh graduate
+Yes
+Personality requirements and skills
+Required skills:
+Coding skills (C#/Java/C++)
+Scripting/automation skills (Python preferred)
+Container design and implementation
+HTTP protocol basics
+Nice to have skills:
+Cloud experience (preferably Azure)
+Experience with managed Kubernetes services (preferably AKS)
+Familiarity with microservice architecture
+Linux systems administration (preferably Ubuntu)
+Experience with basic networking concepts
+Understanding of main concepts of OAuth and OIDC
+Advertiser
+Brief description of the company
+SOITRON (member of SOITRON Group) is a Central European IT integrator operating in the market since 1991. The company's philosophy is to constantly move forward, which is why it is a leader in implementing unique technologies and innovative solutions.
+It offers clients products and services in the field of network and communication solutions, cybersecurity, data centres, IT outsourcing, IT support, and advisory.
+Its portfolio includes smart police car solutions – Mosy and cybersecurity services – void SOC (Security Operations Center).
+Soitron Group employs more than 850 international experts, with professional teams in Slovakia, the Czech Republic, Romania, Turkey, Bulgaria, Poland, and the UK.
+Number of employees
+500-999 employees
+Contact
+Contact person: Anna Leskovjanská
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5179750
+Dátum zverejnenia:
+22.10.2025
+2025-10-22
+lokalita:
+Bratislava region
+Pozícia:
+Backend developer
+,
+C# Programmer
+,
+DevOps Engineer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+SOITRON, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

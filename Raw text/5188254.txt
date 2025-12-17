@@ -1,0 +1,90 @@
+Senior Real-Time Data Engineer
+Greentube Slovakia s.r.o.
+Place of work
+Laurinská 18, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+By agreement
+Wage (gross)
+From 3 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Our
+Real-Time Data Engineering team
+builds low-latency, high-throughput pipelines that power operational and analytical use cases as well as user-facing features. As we expand our ecosystem by integrating Databricks alongside our existing Cloudera infrastructure, this role plays a key part in shaping a modern, scalable data foundation.
+Joining a small, collaborative, and international team, you’ll contribute to solutions that enable innovation across the business - all in an environment that values humor, curiosity, continuous learning, and accountability without blame.
+Your Tasks:
+Primarily design and implement robust, scalable, and low latency streaming and batch data pipelines using Databricks on Azure
+Occasionally develop some real-time data pipelines using Cloudera tools such as NiFi, Kafka, Spark, Kudu, and Impala
+Collaborate with data scientists, analysts, engineers, product managers and third-party partners to deliver reliable, high-quality data products
+Contribute to continuous improvements in infrastructure, automation, observability, and deployment practices
+Document as needed and share knowledge with other team members
+Be part of a monthly on-call rotation (1 week per month) to support the stability of our real-time data infrastructure
+Employee perks, benefits
+We believe great work happens when people feel supported, inspired, and balanced. By supporting our employees, we create an environment where everyone thrives and reaches their full potential. That’s why we provide:​
+​​Possibility of regular home-office
+Flexible working hours
+Team-buildings
+Language courses
+Meal vouchers (fully paid by employer)
+Fruit, coffee, tea available in the office
+Informal and relaxed work environment
+Supporting your personal and professional development - the opportunities to attend in various trainings, courses, conferences or meetups
+"Refer a friend" benefit - the opportunity to receive a financial bonus when referring a friend for an open vacancy​​
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Several years of data engineering experience building batch and real-time data pipelines
+3+ years of hands-on experience with Databricks is essential
+Experience developing data pipelines with the Cloudera stack is a plus
+Strong knowledge of the Azure cloud ecosystem, including Azure Data Lake and Azure DevOps
+Proven expertise in real-time data technologies such as Kafka and Spark Structured Streaming, plus solid SQL skills (including query tuning and optimization)
+Proficiency in Python or Scala for large-scale data engineering tasks
+Familiarity with the medallion architecture and Delta Lake best practices
+Familiarity with CI/CD workflows for data engineering (Azure DevOps, GitHub Actions, or similar) is an advantage
+Knowledge of data governance, schema evolution, and GDPR/data privacy in pipelines is beneficial
+Understanding of observability tools for data pipelines (logging, alerting, metrics) adds value
+Experience in online gaming, entertainment, or e-commerce industries is a nice bonus
+Fluent English (spoken and written) with excellent communication skills (clear, concise, and audience-aware)
+Advertiser
+Brief description of the company
+Greentube Slovakia is Greentube’s mobile branch and the industry’s first choice in providing B2B companies with casino games that run seamlessly on all platforms (desktop and mobile). Strong HTML5 competencies are the hallmark of this company: Greentube Slovakia is among the best of the best when it comes to transforming the famous games of the NOVOMATIC Group into high-quality mobile solutions. Players are eager to take their games with them wherever they might go, from the daily commute to a night out with friends, and Greentube Slovakia continuously delivers!
+Number of employees
+50-99 employees
+Contact
+Contact person: Jana Stankovičová
+Tel.:
++421904613943
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5188254
+Dátum zverejnenia:
+6.11.2025
+2025-11-06
+lokalita:
+Bratislava
+Pozícia:
+Database Analyst
+,
+IT Analyst
+,
+Software Engineer
+,
+Systems Engineer
+Spoločnosť:
+Greentube Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

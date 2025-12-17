@@ -1,0 +1,125 @@
+Site IT Support Engineer L1/L2 (VCK)
+Volvo Car Slovakia s. r. o.
+Place of work
+Volvo Car Kosice / Valaliky Industrial park, Valaliky
+Contract type
+full-time
+Wage (gross)
+2 200 EUR/month
+* The salary amount represents the minimum guaranteed amount of the basic salary component applicable to the job. Final salary is negotiable and will be adjusted in accordance with seniority level and previous experience of candidate.
+Information about the position
+Job description, responsibilities and duties
+Let's introduce ourselves
+This role combines the responsibilities of On-Site IT Support and Factory Service Desk roles to deliver comprehensive L1 and L2 support within a manufacturing environment. Support Engineer will be the first point of contact for factory IT issues and will also be hands-on with factory floor hardware, software, and infrastructure, ensuring swift and effective incident resolution. The team collaborates closely with network, server, and application support groups, operates on shifts, and contributes to IT service improvement initiatives.
+Location: Valaliky Industrial Park, Kosice district, Slovakia
+Work hours: Shift-based aligned with factory production hours
+What you'll do
+Build on our future global plant infrastructure IT landscape and participate in delivering global digital infrastructure solutions according to the global standards.
+In doing so, you will:
+Utilize strong Information Technology mindset and previous experience with digital infrastructure domains;
+Act as the first point of contact for factory IT issues, both in person and via Service-Now tickets;
+Diagnose and resolve hardware and software issues across desktops, laptops, handhelds, printers, thin clients, tablets, forklift terminals, etc.;
+Perform root cause analysis, resolution, or escalation of L1 and L2 incidents and service requests;
+Monitor, analyze, and address alerts related to infrastructure, applications, network, and devices using tools like Zabbix;
+Manage user accounts, permissions, and GPO tasks within Active Directory;
+Support deployment, patching, antivirus updates, and compliance on factory clients;
+Deploy OS images, applications, and perform reimaging as needed using tools like MDT, WSUS, MobiControl;
+Handle stock and asset management: record movements, perform replacements, and manage spare part inventory;
+Operate within OpenVMS, Windows, and Linux environments to support application and middleware components;
+Collaborate with application teams and 3rd party vendors for issue resolution;
+Contribute to knowledge base development and process improvements;
+Participate in shift rotation, weekend support, and on-call schedules as required;
+Support major incident management and lead resolution during critical IT disruptions;
+Interface and collaborate alongside several other support groups, such as network, server, and application support, vendors, and suppliers to be on top of current and future needs, ensure seamless infrastructure service delivery, and harmonize local digital solutions to global standards;
+Be responsible for lessons learned management, share best practices and knowledge, and coach the team members.
+What you'll bring
+Several years of previous working experience in the daily operations in a similar position;
+Preferred university education in Information Technology, Computer Science, or a related field, as well as additional qualifications in the form of relevant certifications such as: CCNA, CCNP, CISSP, CISM, MS Certified AZ/SC, CompTIA (A+, Security+);
+Basic understanding of ITIL processes, preferably ITIL certification;
+Server OS: Basic knowledge of Server Operating systems, such as Linux, Windows, and (optional) OpenVMS;
+Client OS: Windows 7/10/11;
+DC Facilities: Server room components like Power, UPS;
+AD: Maintaining accounts/clients in Active Directory and maintaining GPOs;
+Network: LAN setup, including wireless;
+Desktop Security: Antivirus deployment and update, patch management, monitoring, and reporting;
+Desktop, Laptop, Handheld devices: OS deployment / provisioning, common application installation and troubleshooting, hardware knowledge, disposal (disk wipe);
+Monitoring: Zabbix or similar tools;
+Printers: Managing local & network printers;
+Phones: Mobile devices management;
+Incident Reporting tools: Service Now or similar tools;
+Good communication and presentation skills, conversational in English, written and spoken, and proficient in Slovak language;
+Not only an individual contributor attitude but also a demonstrated ability to work within a multinational team, influence and collaborate with stakeholders at all levels of the organization;
+Ability to manage multiple assignments simultaneously and have the capacity to identify, mitigate, and decide on solutions when facing obstacles in your assignment;
+Willingness and flexibility to work in shifts, including weekends and on-call duties.
+Nice to have experience:
+Databases: Basic Oracle/Oracle RDB understanding;
+Tools such as MDT, WSUS, MobiControl;
+Scripting tools such as Powershell.
+Compensation Data
+Base Monthly Salary (Gross) for this position starts from 2.200 EUR.
+* The salary amount represents the minimum guaranteed amount of the basic salary component applicable to the job. Final salary is negotiable and will be adjusted in accordance with seniority level and previous experience of candidate.
+Additional benefits:
+Summer & Winter Pay;
+Annual Volvo Bonus depending on performance and company's financial results;
+Contribution for Supplementary Pension Savings (lll. Pillar);
+Cafeteria Benefit Program;
+Contribution for meals exceeding legal requirements;
+Compensation for dioptric glasses & contact lenses beyond the legal requirements;
+Life insurance for cases of loss of life, disability, work injury.
+Expected date of completion of the selection process
+19.12.2025
+(there are still 25 more days)
+Requirements for the employee
+Candidates with education suit the position
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+and
+Slovak - Upper intermediate (B2)
+Number of years of experience
+4
+Advertiser
+Brief description of the company
+Volvo Cars. For Life.
+Už takmer sto rokov umožňujeme ľuďom slobodne sa pohybovať osobným, udržateľným a bezpečným spôsobom. Dnes sme hnacou silou odvážneho pokroku v oblasti elektrifikácie, udržateľnosti a bezpečnosti automobilov. Na uskutočnenie našej ambicióznej vízie hľadáme talenty, ktoré sú pripravené riešiť výzvy zajtrajška - už dnes.
+V spoločnosti Volvo Cars veríme, že výnimočné veci dosahujú obyčajní ľudia s vášňou pre zmenu. Ak vás inšpiruje príležitosť pomôcť nanovo definovať budúcnosť mobility, pozývame vás, aby ste sa stali súčasťou nášho príbehu.
+Pre hladší priebeh registrácie odporúčame použiť e-mailovú adresu spojenú s používanejšou doménou, napríklad Gmail, Hotmail, Yahoo atď. Lokálne formáty e-mailových adries (napr. na doménach ako Centrum.sk alebo Post.sk) môžu občas spôsobiť komplikácie počas registrácie, najmä ak sa nepodarí doručiť jednorazové heslo na overenie. Ďakujeme!
+___________________________________
+Volvo Cars. For Life.
+For nearly a century, Volvo Cars has empowered people to move freely in a personal, sustainable and safe way. Today, we are driving bold advancements in electrification, sustainability and automotive safety. To realise our ambitious vision, we are seeking innovative minds who are ready to tackle the challenges of tomorrow – today.
+At Volvo Cars, we believe extraordinary things are achieved by ordinary people with a passion for making a difference. If you’re inspired by the opportunity to help redefine the future of mobility, we invite you to be part of our journey.
+We recommend using an e-mail address associated with a more widely used domain such as Gmail, Hotmail, Yahoo, etc., for a smoother registration process. Local formats of e-mail addresses (e.g., those on domains like Centrum.sk or Post.sk) may occasionally cause issues during the registration, particularly if the one-time password for authentication is not successfully delivered. Thank you!
+Number of employees
+250-499 employees
+Contact
+Contact person: Marek Ordoš
+E-mail:
+send CV
+POSLAŤ CV
+AKTUÁLNE VOĽNÉ POZÍCIE
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195121
+Dátum zverejnenia:
+20.11.2025
+2025-11-20
+lokalita:
+Valaliky
+Pozícia:
+IT System Administrator
+,
+IT/Technical Support Specialist
+,
+Service Technician
+Spoločnosť:
+Volvo Car Slovakia s. r. o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 200 EUR/month

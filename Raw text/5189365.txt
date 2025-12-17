@@ -1,0 +1,148 @@
+Voľné pozície
+O nás
+Zamestnanecké výhody
+Kontakt
+Cloud Platform inžinier so zameraním na automatizáciu - m/ž
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+Základná nástupná brutto mzda 3 000€. Tvoja mzda bude závisieť od rozsahu Tvojich znalostí a praktických skúseností.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ako Cloudový inžinier budeš pracovať na cloudových službách koncernu Volkswagen alebo jednotlivých koncernových značiek.
+Primárnou úlohou cloudovej platformy koncernu Volkswagen je zabezpečenie interakcie a komunikácie medzi motorovými vozidlami pripojenými cez internet („connected cars“) a informačnými systémami koncernu Volkswagen.
+Budeš súčasťou rozvíjajúceho sa mladého a dynamického tímu, ktorý pracuje s najmodernejšími technológiami v oblasti cloudových služieb a riešení.
+Budeš pracovať s najnovšími technológiami, procesmi a metodikami ako sú:
+AWS, Azure a Google Cloud
+Návrh a poskytovanie IT infraštruktúry na základe princípov „Infrastructure as a code“.
+Konfiguračný management - Ansible
+Deployment služieb - Terraform, CloudFormation
+CI/CD - Concourse CI
+Kontajnerizácia - Kubernetes, EKS, Docker
+Vizualizácia dát a reporting - ELK Stack
+Tvojou úlohou bude najmä:
+Monitorovanie stavu služieb
+Riešenie požiadaviek, incidentov a výpadkov na službách
+Updaty a ďalší rozvoj služieb
+Implementácia opatrení na zaistenie bezpečnosti služieb v súlade s bezpečnostnými štandardami koncernu Volkswagen
+Konfigurovanie existujúcich a nových cloudových služieb
+Udržiavanie a aktualizácia dokumentácie služieb
+Aktívne zapojenie sa do projektov návrhu a implementácie nových služieb a zlepšovania existujúcich služieb
+Zamestnanecké výhody, benefity
+Možnosť ďalšieho odborného rastu podľa tvojho výberu (užšia špecializácia alebo získavanie ďalších profesionálnych zručností, hierarchický rast)
+Možnosť práce z domu
+Flexibilná pracovná doba
+Školenia a jazykové kurzy zdarma
+Príspevok na doplnkové dôchodkové sporenie
+Ročný príspevok na individuálny výber benefitov z Cafetérie + narodeninový bonus
+Zvýhodnené celoročné cestovné poistenie pre zamestnancov
+Príspevok darcom krvi
+Príspevok pri narodení dieťaťa
+Jubilejné pracovné odmeny
+Odmena za odporúčanie kolegu
+Možnosť využívania MultiSport karty
+Zvýhodnené ponuky vo vybraných bankách a obchodoch
+Zľavy na nákup koncernových vozidiel Volkswagen
+Parkovanie zdarma
+Informácie o výberovom konaní
+Na pracovnom pohovore budú preskúšané jazykové znalosti kandidáta.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT, MAT-FYZ a iné so zameraním na informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Požadované technické zručnosti:
+Administrácia UNIX/Linux
+- 2 a viac rokov skúseností
+Kubernetes, Docker
+- 2 a viac rokov skúseností
+Helm chart templating
+- 1 a viac rokov skúseností
+CICD Automation (Concourse, Jenkins
+...) - 1 a viac rokov skúseností
+Cloudové služby -
+AWS
+(preferované)/
+GCP/Azure
+-  1 a viac rokov skúseností
+Vítané technické znalosti:
+Terraform, Bash, GO, Python, ELK Stack
+Osobnostné predpoklady:
+Máš
+analytické schopnosti
+Si
+tímový/-á hráč/-ka
+ale úlohy dokážeš riešiť aj
+samostatne
+Nehľadáš prekážky, hľadáš
+riešenia
+Si
+zodpovedný
+a
+proaktívny
+Rád
+riešiš problémy
+, zlepšuješ veci okolo seba, zefektívňuješ procesy
+Rád sa učíš
+nové veci nielen v oblasti informačných technológií
+Máš dobré
+komunikačné
+schopnosti a
+prezentačné
+zručnosti
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť VOLKSWAGEN GROUP SERVICES, s.r.o. s 85-percentným podielom spoločnosti Volkswagen Group Services GmbH a 15-percentným podielom spoločnosti Volkswagen Slovakia, a.s. poskytuje pre Volkswagen Slovakia, ako aj koncern Volkswagen komplexné a odborné personálne riešenia v procesoch automobilového priemyslu.
+Zameriavame sa na administratívne, technicko-podporné i výrobné procesy, predovšetkým o oblasť zabezpečenia kvality, plánovacích činností, procesnej podpory nákupu, rôznych inžinierskych a administratívnych služieb. Ponúkame preto veľa atraktívnych pracovných miest v rôznych oblastiach. Navštívte naše pracovné ponuky a využite šancu rozvíjať s nami svoju kariéru.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Tereza Michová
+Tel.:
++421902471611
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5189365
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Práca z domu
+Pozícia:
+IT architekt
+,
+IT/Technical Support Specialist
+,
+Systémový administrátor
+,
+Systémový inžinier
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+VOLKSWAGEN GROUP SERVICES, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

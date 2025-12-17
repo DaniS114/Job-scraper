@@ -1,0 +1,93 @@
+Azure DEV OPS Engineer
+Manuvia, a. s.
+Miesto práce
+Prešov
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 800 EUR/mesiac
++ kvartálne bonusy.  Výška mzdy môže byť aj vyššia v závislosti od skúseností kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pozícia je obsadzovaná pre finančnú spoločnosť pôsobiacu najmä v strednej a východnej Európe, ktorá poskytuje bankové a investičné služby pre jednotlivcov aj firmy.
+• tvorba a údržba infraštruktúry ako kódu (IaC) pre nové aj existujúce cloudové aplikácie
+• budovanie a správa platformovej vrstvy, na ktorej bežia aplikácie a služby
+• spolupráca s internými zákazníkmi pri zavádzaní aplikácií do cloudu a pri nastavovaní ich infraštruktúry
+• poskytovanie konzultácií, podpory a školení pre používateľov a interné tímy
+• participácia na agilných projektoch a úzka komunikácia s tímom počas celého životného cyklu riešenia
+• nasadzovanie, správa a optimalizácia cloudových riešení v prostredí Microsoft Azure
+• automatizácia procesov, integrácia CI/CD pipeline-ov a dohľad nad ich správnym fungovaním
+• monitoring, diagnostika a riešenie incidentov súvisiacich s cloud aplikáciami a infraštruktúrou
+• tvorba a aktualizácia technickej dokumentácie k infraštruktúre, prostrediu a procesom
+• práca na zabezpečení stability, odolnosti a škálovateľnosti cloudových systémov
+Zamestnanecké výhody, benefity
+• 13. plat (ročný bonus)
+• každoročné navyšovanie platov
+• mimoriadne odmeny
+• stravné lístky plne hradené zamestnávateľom
+• Multisport karta
+• príspevok na tímové športové aktivity
+• firemné podujatia - letný večierok, vianočný večierok
+• priestor pre profesionálny rast, rozvoj a prácu s novými technológiami
+• IT školenia
+• jazykové školenia ( nemčina, angličtina)
+• príspevok pri narodení dieťaťa
+• zľavy u vybraných obchodných partnerov
+• bonus za privedenie priateľa
+• kompenzácia za prípadné nadčasy
+• stabilnú prácu v medzinárodnej spoločnosti
+• možnosť pracovať plne remote alebo v kombinácii s kanceláriou - flexibilný režim práce (Prešov + homeoffice / Nitra + homeoffice / remote podľa dohody)
+• hlavný pracovný čas 9:00 - 15:00 (zvyšok flexibilne)
+• motivujúce finančné ohodnotenie vrátane kvartálnych bonusov
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+• skúsenosti s cloudovým prostredím (najmä Microsoft Azure)
+• znalosť práce s Azure ARM Templates alebo iným IaC nástrojom
+• schopnosť skriptovať — PowerShell alebo Python
+• znalosť DevOps princípov a práce s CI/CD procesmi
+• základné znalosti IT infraštruktúry (sieťovanie, virtualizácia, servery, storage)
+• skúsenosti s administráciou operačných systémov Linux aj Windows
+• základná znalosť kontajnerových technológií (napr. Docker, kontajnery)
+• schopnosť kódovať, testovať, odstraňovať chyby a dokumentovať riešenia
+• znalosť nástrojov na správu verzií, napríklad Git (výhodou je skúsenosť s Atlassian nástrojmi)
+• schopnosť pracovať v tíme, komunikovať naprieč oddeleniami a samostatne si riadiť čas
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme Manuvia – váš partner na ceste k novej kariére.
+Zameriavame sa na prepojenie kandidátov s pracovnými príležitosťami v širokom spektre odvetví, pričom sa sústreďujeme na prispôsobenie služieb vašim konkrétnym potrebám a preferenciám.
+Ak hľadáte zamestnanie, ktoré vás bude profesionálne napĺňať, alebo stabilitu, ktorú potrebujete. Naším cieľom je pomôcť vám nájsť pozíciu, ktorá zodpovedá vašim požiadavkám a osobným cieľom.
+Nekončíme nájdením novej pracovnej pozície – naším záujmom je zabezpečiť, aby ste sa v novej práci cítili komfortne a dokázali využiť všetky svoje schopnosti a potenciál.
+U nás si môžete byť istí, že vám nájdeme prácu na mieru.
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+1000 a viac zamestnancov
+Kontakt
+Kontaktná osoba: Terézia Kovalčínová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5197854
+Dátum zverejnenia:
+26.11.2025
+2025-11-26
+lokalita:
+Prešov
+Pozícia:
+Softvérový inžinier
+,
+Systémový inžinier
+Spoločnosť:
+Manuvia, a. s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

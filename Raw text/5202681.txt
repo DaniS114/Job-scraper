@@ -1,0 +1,106 @@
+Data Engineering Tech Lead (Python, Spark, ETL)
+SourceFirst International s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+by agreement
+Wage (gross)
+3 300 - 6 000 EUR/month
+The final salary offered will depend on the candidate's experience and knowledge. + Attractive benefit system of the company.
+Information about the position
+Job description, responsibilities and duties
+We are seeking a senior technical leader to drive development of future-oriented data operations capabilities, so called common components, on strategic data and analytics management platform. As the Lead Engineer, you’ll collaborate closely with engineers, senior stakeholders, and domain experts across all Business Units and Group Functions.
+Product Ownership and Strategy
+Define and drive the vision, roadmap, and lifecycle of common components—core services like load management, data quality management, metadata management - ensuring alignment with enterprise data strategy.
+Technical Leadership and Engineering Excellence
+Contribute to the architecture, design, and development of common components, ensuring scalable, maintainable, and highquality solutions. Lead by example through hands-on engineering, including coding, testing, troubleshooting, and conducting code reviews. Foster best practices in software development and data engineering across teams.
+Operational Excellence
+Oversee the reliable and scalable operation of common components, ensuring high availability, performance, and compliance with internal and external standards.
+Cross-Functional Collaboration
+Partner with data architects, engineers, governance teams, and business stakeholders across all units to understand needs, gather feedback, and prioritize enhancements that benefit the further evolution of common components.
+Platform Enablement and Adoption
+Promote the adoption of common components across the organization by delivering well-documented, user-friendly capabilities and providing enablement support (e.g., training, documentation, office hours).
+Innovation and Continuous Improvement
+Stay ahead of industry trends and emerging technologies to evolve capabilities. Drive proof-of-concepts and pilot innovations that can be industrialized at scale.
+Governance and Risk Management
+Ensure that common components support enterprise data governance policies, including data protection, access management, and auditability, while minimizing operational risks.
+Employee perks, benefits
+​- kindergarten - available in our building
+​- yearly salary re-evaluation
+​- hybrid type of home-office
+​- flexible working time
+​- sick days
+​- MultiSport card
+​- mental & medical health support
+​- public transport donation​
+Information about the selection process
+In case of interest, please send your CV to: jobs@sourcefirstinternational.com .
+We have many open positions for IT specialists, not only in Slovakia and Czech Republic, but also on other foreign projects.
+Expected date of completion of the selection process
+30.6.2026
+(there are still 194 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+We are one of the world’s leading technology service providers.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT, Informačné technológie
+Personality requirements and skills
+Strong hands-on data engineering experience with proven ability to design, build, and optimize scalable data pipelines in Spark-based environments
+Proficient coding skills in Python with experience applying it to data engineering problems
+Deep technical expertise with Palantir Foundry or similar data platforms
+Solid understanding of data engineering fundamentals including data modeling, ETL processes, and data integration patterns
+Bachelor's or Master's degree in Computer Science, Information Technology, or a related technical field
+Experience leading small technical teams or mentoring junior engineers
+Nice to Have Skills
+Experience with Java, TypeScript or other full-stack development
+Experience with both SQL and NoSQL databases including Oracle, SQL Server, MySQL, and document/graph databases
+Knowledge of cloud platforms such as Microsoft Azure or AWS
+Experience with agile development methodologies
+Background in implementing data governance controls and standards
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: IT Recruitment
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202681
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Bratislava
+Pozícia:
+Business Intelligence Specialist
+,
+IT Consultant
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 300 EUR/month

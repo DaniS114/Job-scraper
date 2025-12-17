@@ -1,0 +1,103 @@
+Data/Application Engineer (Python, PySpark, SQL)
+SourceFirst International s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+By an agreement
+Wage (gross)
+2 400 - 4 000 EUR/month
+The final salary offered will depend on the candidate's experience and knowledge + attractive benefit system of the company. Only possible on permanent employment.
+Information about the position
+Job description, responsibilities and duties
+You will cooperate closely with other engineers on maintaining and enhancing an IT application. The application is embedded in an environment that serves the business and integrates with other systems and platforms. It is currently in production and operational use. The mid-/long term plan is to migrate the solution to different platform.
+We follow agile methodologies (daily stand-up, bi-weekly sprints, product increments) and utilize DevOps practices.
+Responsibilities
+Create new solultions, implement change requests, bug fixing and adequate test cases for system/application
+Optimize application performance and ensure secure, scalable deployments in palantir foundry & azure environment.
+Maintain code quality and automated testing using CI/CD pipelines.
+Provide operational support and troubleshooting of the production issues
+Ensure processing of reporting deliverables, data feeds in due time according to closing cycles
+Operational support, monitoring and issue handling within the team
+Produce (and maintain) system & application documentation
+Employee perks, benefits
+- flexible working time
+​​- hybrid type of home-office
+​​- kindergarten - available in our building
+​​- yearly salary re-evaluation
+​​- sick days
+​​- MultiSport card
+​​- mental & medical health support
+- public transport donation
+Information about the selection process
+Feel free to send your CV to pavel.stojka@sourcefirstinternational.com
+We always have several positions for IT Specialists not only in Slovakia and the Czech Republic, but also on foreign projects.
+Expected date of completion of the selection process
+31.1.2026
+(there are still 89 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a leading international tech company and provides a wide range of products and services.
+Requirements for the employee
+Candidates with education suit the position
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+Four or more years' experience as a data/application or full-stack engineer
+Familiarity with CI/CD concepts and tools using Azure DevOps or equivalent platforms
+Good knowledge and work experience on automated testing (Jest, Junit) or test driven-development approach
+High level of abstraction, fast understanding, conceptual thinking, and strong problem-solving skills
+Experience with project management methodologies and tools (preferably Azure DevOps)
+Ability to work in agile teams using tools like Azure DevOps or Jira
+Excellent communication skills and ability to collaborate across global teams
+Strong knowledge of SQL and databases (e.g. Postgres SQL, Oracle)
+Proficient in Python, PySpark (Spark) and TypeScript (or JavaScript)
+Willingness to learn new technologies and languages
+Proficiency in English (written & verbal)
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: Pavel Stojka
+Tel.:
++421902235479
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5182948
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+IT Analyst
+,
+IT Consultant
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 400 EUR/month

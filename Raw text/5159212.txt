@@ -1,0 +1,99 @@
+Hľadáme Senior Java Developera
+localhost s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+Od 4 000 EUR/mesiac
+Záverečná výška mzdy závisí na výsledku výberového konania a skúsenostiach kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Chcel by si pracovať na komplexnom projekte v medzinárodnom prostredí? Do localhostu hľadáme backend developera, s dlhorončnými skúsenosťami so softvérovým vývojom v programovacom jazyku Java a tiež preukázateľnými skúsenosťami v AWS.
+Na tomto projekte budeš mať možnosť spolupracovať v tíme seniorných developerov z rôznych krajín, stretneš sa s rôznymi úlohami a výzvami, vďaka ktorým budeš mať možnosť posunúť sa zase o krok vpred.
+Náplň práce:
+• Návrh a vývoj backendovej časti softvérových aplikácií v jazyku Java (Java 11+).
+• Návrh, vývoj, nasadzovanie a údržba škálovaných softvérových systémov.
+• Vývoj softvérových aplikácií s použitím SQL a NoSQL databáz.
+• Aplikovanie návrhových architektonických vzorov ako MVC, mikroservisy a event-driven dizajn.
+• Nasadzovanie softvéru pomocou CI/CD, ako napríklad Azure DevOps a Jenkins.
+• Nasadzovanie a údržba softvéru pomocou cloudových platforiem, ako AWS alebo Azure.
+• Spolupráca v agilnom prostredí (Scrum) s cross-functional tímami s cieľom vytvoriť kvalitné softvérové riešenia v požadovanej kvalite a stanovenom čase.
+• Participácia na pravidelnom on-calle a riešenie vzniknutých problémov.
+​
+Zamestnanecké výhody, benefity
+• 6 dní voľna navyše: 3x localhost day a 3x sick day
+• Referral bonus
+• Benefit+ príspevok
+• Multisport karta
+• Príspevok do III. piliera
+• Podpora vzdelávania (kurzy, školenia a certifikácie)
+• Fyzioterapeut priamo v office
+• Rôzne bonusy pri životných príležitostiach
+• Flexibilný pracovný čas
+• Transparentný prístup a komunikácia
+• Podpora nových nápadov
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+8
+Osobnostné predpoklady a zručnosti
+• Minimálne 8 rokov skúseností s vývojom v jazyku Java.
+• Preukázateľné znalosti s Java technológiami ako Spring, Hibernate a pod.
+• Preukázateľné skúsenosti s mikroservisnou architektúrou a cloudovými technológiami (AWS, Azure).
+• Skúsenosť s message brokermi, ako Kinesis, SQS, SNS, Apache Kafka, RabbitMQ, Apache ActiveMQ.
+• Skúsenosť s dátovými úložiskami, ako AWS Aurora, AWS RDS, AWS DynamoDB, MongoDB, ElasticSearch, Cassandra, Redis, MySQL, Oracle.
+• Skúsenosť s ďalšími AWS technológiami, ako API Gateway, ALB, NLB, Fargate, Lambda, S3, CloudWatch, KMS a inými.
+• Preukázateľné skúsenosti s testovacími nástrojmi, ako napríklad Cucumber a Selenium  a ich integráciou do CI/CD pipeline.
+• Schopnosť efektívne komunikovať s technickými aj netechnickými členmi projektu.
+• Plynulá komunikácia v anglickom jazyku.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Vstupte do novej digitálnej éry s localhost!
+localhost nie je len obyčajná IT firma. Sme tím technologických nadšencov so sídlom v Košiciach, s 10-ročnými skúsenosťami v pomáhaní globálnym a lokálnym značkám s ich digitálnymi potrebami.
+Náš 100+ tím talentovaných inžinierov sa zameriava na váš úspech. Neustále sa učíme a sledujeme najnovšie trendy, aby sme vám priniesli inovatívne riešenia a špičkové softvérové produkty.
+Sme hrdí na to, že sme spoľahlivým partnerom pre klientov z rôznych odvetví, či už ide o domáce firmy alebo globálne korporácie.
+Kontaktujte nás ešte dnes a zistite, ako vám môžeme pomôcť s vašimi digitálnymi výzvami: info@localhost.company
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Patrik Polák
+Tel.:
++421905595022
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5159212
+Dátum zverejnenia:
+28.10.2025
+2025-10-28
+lokalita:
+Práca z domu
+Pozícia:
+Backend programátor
+,
+Java programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+localhost s.r.o.
+Základná zložka mzdy (brutto):
+4 000 EUR/mesiac

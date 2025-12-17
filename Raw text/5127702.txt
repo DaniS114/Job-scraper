@@ -1,0 +1,95 @@
+QA Automation Engineer
+RecruLab s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+2 600 - 3 500 EUR/month
++ annual bonus
+Information about the position
+Job description, responsibilities and duties
+We are seeking a
+QA Automation Engineer
+to take a key role in driving our quality assurance strategy. This position will serve as the technical lead within the QA function, responsible for overseeing software testing, ensuring product quality, and guiding the transition from manual to automated testing processes. You will evaluate tools, build automation frameworks, lead CI/CD integration, and set standards that shape the overall quality assurance practice across multiple projects.
+Key Responsibilities
+Collaborate with product and software teams to define QA parameters.
+Lead the QA team in designing, implementing, and improving automated test procedures.
+Evaluate and recommend appropriate test automation tools for one or more projects.
+Define and build scalable, maintainable test automation frameworks and strategies.
+Integrate testing into CI/CD pipelines and oversee continuous test coverage.
+Drive QA documentation including test plans, test cases, and reports.
+Analyze and resolve quality issues; recommend improvements to QA processes.
+Define and track KPIs to monitor product quality and QA effectiveness.
+Ensure quality standards are met before deployment and release.
+Mentor and support QA Engineers and testers, particularly in automation best practices.
+Collaborate with stakeholders to align QA goals with overall product strategy.
+Employee perks, benefits
+We are committed to supporting our employees both professionally and personally. Our comprehensive
+work-life balance program
+is designed to promote well-being, personal growth, and career development. We offer more than
+25 unique benefits
+across key areas including:
+Financial benefits
+Learning and development support
+Health and wellness programs
+Family-friendly and flexible working arrangements
+And many other lifestyle-oriented perks
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+International IT company.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Required Qualifications
+Proficiency in English (B2 level or higher); German language skills are a plus.
+Strong hands-on experience with at least one object-oriented programming language (Java preferred).
+Proven experience in agile environments (SCRUM and/or SAFe).
+Expertise in API test automation and UI automation using tools such as Selenium, Selenide, TestNG, Playwright, RestAssured, Hoppscotch.
+Familiarity with test reporting and management tools such as Allure and Xray.
+Working knowledge of Gradle, Git, and JIRA.
+Experience designing and managing GitLab/Jenkins CI/CD pipelines.
+Understanding of containerization technologies such as Docker and Docker Compose.
+Experience working with BDD frameworks and methodologies.
+Demonstrated leadership in designing test automation architecture from the ground up, especially with a focus on backend systems.
+Broad knowledge of modern test frameworks and tools.
+Preferred Qualifications
+Experience with cloud platforms such as AWS, GCP, or Azure.
+Exposure to AI-driven testing approaches and tools.
+Advertiser
+Brief description of the company
+Recruitment consultancy
+Contact
+Contact person: Ing.  Pavol Derco
+Tel.:
++421917991200
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5127702
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Remote work
+Pozícia:
+IT Tester
+Spoločnosť:
+RecruLab s.r.o.
+Základná zložka mzdy (brutto):
+2 600 EUR/month

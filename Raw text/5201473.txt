@@ -1,0 +1,88 @@
+Medior Application Support Engineer
+Multitude IT Labs (as part of Multitude Group)
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+2 300 EUR/month
+The starting salary for this position is €2,300 gross per month. The final offer will be determined fairly, based on your experience, and alignment with the role’s requirements.
+Information about the position
+Job description, responsibilities and duties
+We are seeking an Application Support Engineer with prior experience in an application support role to join our team and help ensure the stability, efficiency, and continuous improvement of our production environment. In this role, you will take ownership of resolving complex production incidents, identifying root causes, and collaborating with multiple teams to enhance the performance and reliability of our systems. You will be instrumental in supporting our loan handling software and related applications, which serve customers across 10+ countries, while driving operational excellence and delivering exceptional user experiences.
+This role is perfect for someone who enjoys problem-solving, thrives in a collaborative environment, and has a strong technical foundation—particularly in Microservices, APIs, SQL and analyzing and troubleshooting logs using tools like Kibana. Familiarity with RabbitMQ and Kafka is beneficial, and while our applications are primarily cloud-based (e.g., on Azure), deep knowledge of the hosting platform is not essential.
+Key Responsibilities
+Analyze, troubleshoot, and resolve complex business process incidents related to technical and process issues.
+Take ownership of critical production incidents, coordinating effectively with Business, Backoffice, and Development teams.
+Set up and optimize application and process monitoring using appropriate tools to proactively prevent production issues.
+Lead root cause analyses and contribute to the problem management process to enhance system stability.
+Troubleshoot technical issues, assign priorities, and escalate problems where necessary.
+Create and maintain comprehensive documentation for business processes and system workflows.
+Actively participate in projects, business analysis, development lifecycle processes, and testing of hotfixes.
+Monitor post-deployment activities to ensure production environment stability.
+Mentor and provide training to junior team members.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Other knowledge
+Remote Support - Advanced
+Agile methodologies - Advanced
+Analytical thinking - Advanced
+Communication skills - Advanced
+Kibana - Advanced
+Jira - Advanced
+Confluence - Advanced
+Grafana - Advanced
+SQL - Advanced
+Apache Kafka - Skillful
+RabbitMQ - Skillful
+Workday - Skillful
+Experience in the position/sector
+5
+Personality requirements and skills
+5 Plus years of experience in a business/application support or related engineering role.
+Strong understanding of the IT development lifecycle and Agile methodologies.
+Excellent problem-solving skills, analytical thinking, and attention to detail.
+Ability to manage and prioritize parallel tasks while addressing ad-hoc requirements.
+Exceptional verbal and written communication skills with a collaborative, team-oriented approach.
+Capability to work independently with minimal supervision in a fast-paced environment.
+Experience in the Banking/Financial Services industry, with knowledge of onboarding processes and payment systems is highly advantageous.
+Hands-on experience with tools such as Kibana, JIRA, Confluence and Grafana.
+Familiarity with APIs and microservices architecture.
+SQL knowledge, with the ability to write and optimize simple queries and perform data analysis is welcome.
+Familiarity with Kafka and RabbitMQ, with a basic understanding of message brokering and real-time data streaming, is an advantage.
+Experience with Workday is an advantage.
+Advertiser
+Brief description of the company
+At Multitude, we’re more than just a listed European FinTech company—we’re a team driving financial innovation. We provide digital lending and online banking services that empower consumers, SMEs, and FinTechs to grow and succeed.
+Powered by our Growth Platform, we operate through three business units: Ferratum, offering seamless mobile banking for consumers; CapitalBox, providing flexible financing for SMEs; and Multitude Bank, supporting non-bank lenders and FinTechs.
+In 2024, we achieved €263.7 million in revenue and €20.2 million in net profit, reflecting strong financial growth. With 700+ employees across 25 countries, we’re shaping the future of finance in 17 markets. Founded in 2005 in Finland, Multitude is listed on the Frankfurt Stock Exchange (MULT).
+Number of employees
+500-999 employees
+Contact
+Contact person: Ladislav Kilian
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5201473
+Dátum zverejnenia:
+4.12.2025
+2025-12-04
+lokalita:
+Remote work
+Pozícia:
+IT System Administrator
+Spoločnosť:
+Multitude IT Labs (as part of Multitude Group)
+Základná zložka mzdy (brutto):
+2 300 EUR/month

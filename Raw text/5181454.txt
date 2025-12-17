@@ -1,0 +1,101 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Junior Application Developer - Java Spring Boot
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+1 050 - 1 800 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+General Purpose
+Develops new and maintain existing source code of  based applications in programming language like Java, ASP.Net or C#  based on requirements of  internal or external customers. These applications support usually automation of business processes.
+Works in project team on assigned  tasks / parts of the application (e.g. GUI front end, DB back end, import scripts, reporting services and related)  to develop and build application for customer usage. May requires senior developer’s support as mentor in design and implementation phase of software development  lifecycle.
+Purpose
+Develops new and maintains existing applications  in Java Spring Boot based on requirements of internal or external customers.
+Your project:
+You will be part of a B2B IT organization operating within an agile release train "Voice & Partner Products Provisioning". The final product enables the decomposition of product orders into service orders and the allocation and provisioning of underlying resources.
+Your work will involve developing solutions such as virtual cloud-based Private Branch Exchanges (PBXs) and provisioning Over-The-Top (OTT) services like WebEx, Microsoft Teams, Zoom, and more. Additionally, you will contribute to integrating these platforms into the comprehensive Deutsche Telekom products for business customers in Germany.
+Your team:
+You will join a newly established, cross-functional Scrum team based in Košice. We are committed to fostering a strong DevOps culture under the motto: "We build it, we run it."
+In this team, you will enjoy broad access to modern technology stack with freedom to choose (of course there will be some architectural guidelines), empowering you to make independent decisions while expecting a high level of ownership and commitment to delivery.
+The team primarily works remotely, with in-person meetings required for sprint demos, planning, and retrospectives (typically every two weeks for 1 day in our offices in Košice), as well as Program Increment (PI) planning sessions held approximately every 3–4 months for 3 days locally or abroad.
+What will you do?
+Analyse of customer’s requirements and propose overall application architecture incl. interfaces (e.g. REST API OAS), relation / document database structure, use of native cloud development approach etc.
+Perform complex business analysis in order to build application functionality easy for maintenance and future extension according to customer needs as business intelligent solution that implements business processes in automated form
+Develop backend applications or microservices according stories definition in chosen programming language (primarily Java Spring Boot or another Java application development framework)
+Beside new future development you will participate on application modernization, refactoring and decomposing of application from monolith to microservice architecture according to enterprise architecture guidelines
+Develop and run automated tests on various application levels, provides testing of programmed functionality before deployment in order to avoid bugs and ensure quality of code
+Write and update complex technical system documentation and business logic documentation (e.g. UML)
+Maintain application, support bug fixing
+Prepare GitLab CI/CD pipelines with DevOps engineers cooperation
+Perform deployments on cloud infrastructure, handle release management in order to provide regular upgrades of software
+Prepare and perform data migrations
+Contribute to knowledge base of developers
+Make proposals for optimization of processes
+Proactively manage problem solving and root cause analysis
+You will succeed if you:
+have experience with:
+with complex application landscape - 2 years
+programming Java Spring Boot - expert
+MapStruct, Lombok, Liquibase, Open API generator, WireMock
+GIT, Maven, Gradle build tools, UML
+SQL and NoSQL databases (PostgreSQL, MongoDB, FireStore)
+one of the following clouds: AWS, GCP or Open Telekom Cloud
+REST API and message based communication
+API first approach
+SCRUM software development methodology and JIRA
+are communicative, team player and have analytical thinking
+speak English - Upper intermediate (B2)
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+1 050 - 1 800 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lenka Kiššová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5181454
+Dátum zverejnenia:
+24.10.2025
+2025-10-24
+lokalita:
+Košice region
+Pozícia:
+Java Programmer
+,
+Javascript Programmer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+1 050 EUR/month

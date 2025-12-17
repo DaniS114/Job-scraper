@@ -1,0 +1,93 @@
+AI Prompt Engineer
+ableneo Slovensko s.r.o.
+Place of work
+Mýtna 48, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+Upon agreement
+Wage (gross)
+From 2 000 EUR/month
+Final salary depends on candidate's experience
+Information about the position
+Job description, responsibilities and duties
+About position:
+Are you passionate about AI and looking to gain real, hands-on experience—whether you come from a data/AI background or you're a developer ready to shift your career toward AI?
+We’re seeking a motivated AI Prompt Engineer who wants to turn theoretical knowledge or software development skills into practical AI solutions. In this role, you’ll work closely with senior AI engineers and business teams to design, test, and deploy AI workflows on our delivery platform. You’ll help bring real use cases to life—from prompt engineering and LLM integration to workflow automation and AI-driven features.
+This is an ideal opportunity for developers or early-career AI practitioners who want to build strong, practical AI experience fast and see their work used in real business applications.
+What you will do
+Implement AI use cases using prompting, workflow orchestration, and scripting.
+Configure and test RAG/CAG and agent-based workflows using our internal platform components.
+Prepare and transform structured/unstructured data for AI usage (common data engineering tasks).
+Integrate AI services into existing tools and processes via APIs or automation scripts.
+Perform functional testing, troubleshooting, and refinement of AI behavior.
+Contribute to documentation, demos, and knowledge sharing across teams.
+What you will bring
+Hands-on experience with LLM prompting and common AI usage patterns.
+Medium programming skills to process data, automate and integrate workflows.(e.g., Python, Java)
+Problem-solving mindset and willingness to experiment and iterate.
+Ability to segment bigger problems into smaller, actionable steps.
+Good communication skills, able to work with both technical and non-technical stakeholders.
+Proficiency in English and Slovak or Czech.
+Preferred Experience
+Exposure to RAG, document processing, or chatbot/assistant implementations.
+Interaction with enterprise environments, ticketing tools, or case/document systems.
+Familiarity with cloud-based AI services (e.g., OpenAI, Azure AI, AWS AI).
+Understanding of API concepts, data formats, and workflow logic (JSON, REST, events, etc.).
+Employee perks, benefits
+Engaging projects
+across diverse industries, offering continuous professional challenges and growth opportunities
+Tailor-made learning & development program
+, complemented by monthly in-house workshops to boost your skills
+Flexible working hours
+and the possibility of
+home office
+Modern, inspiring office environment
+with daily perks such as breakfast, fresh fruit, and yoga sessions
+Requirements for the employee
+Candidates with education suit the position
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+and
+Slovak - Intermediate (B1)
+Advertiser
+Brief description of the company
+Who we are
+Ableneo is a partner for AI and technology-driven transformation. We combine deep software engineering with business consulting to help organisations implement intelligent systems that deliver measurable results and reduce the risk of failed innovation.
+What we do
+• AI & Data Enabling. We deploy chatbots and LLM solutions, automate documents and workflows, and work with Computer Vision. Our focus is on solving concrete business problems with AI and achieving a high success rate in real use cases.
+• Business Optimisation & Efficiency. We streamline processes, reduce delays, automate operational work, and set up more efficient ways of working.
+• Product Design & Development. We design and build digital products, customer journeys, and scalable platforms that support long-term growth.
+• Software Engineering. We offer flexible delivery models. From specialised roles to full teams, supporting both fast-growing companies and established enterprises.
+Why join us
+We have years of experience and strong references across startups, scale-ups, and large organisations. We work on assignments where AI makes real impact. For example, in the banking sector we validated an LLM solution with a high success rate in a real proof-of-concept.
+At Ableneo you will work on projects that push the boundaries of AI and software engineering. You will solve complex problems, collaborate with decision-makers, and help build systems that have immediate business value.
+If you want to shape the next generation of intelligent software, let’s talk.
+Number of employees
+10-19 employees
+Contact
+Contact person: Alexandra Gašparová
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202199
+Dátum zverejnenia:
+5.12.2025
+2025-12-05
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+Spoločnosť:
+ableneo Slovensko s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

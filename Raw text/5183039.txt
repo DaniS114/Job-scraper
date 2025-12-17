@@ -1,0 +1,133 @@
+DevOps Engineer
+Insignia Lifestyle Services s. r. o.
+Place of work
+Digital Park, Einsteinova, Petržalka
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+3 500 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Insignia Group of Companies is one of the most bespoke high-end lifestyle management and payment service groups in the world. We are looking for a
+DevOps Engineer
+to join our dynamic Bratislava team.
+We are seeking an experienced
+DevOps Engineer
+to join our team and help us modernize, automate, and optimise our infrastructure. Our primary environments are workloads hosted in our on-premises datacenter,
+Microsoft Azure
+and
+Microsoft 365
+. The ideal candidate will be responsible for designing and implementing
+CI/CD pipelines from scratch, planning and managing the gradual migration of critical services from on-premises to cloud
+and introducing modern DevOps best practices across the organization.
+What You Will Be Doing
+CI/CD Implementation & Automation
+Design, build, and maintain CI/CD pipelines tailored to our applications and services.
+Automate builds, testing, deployments, and monitoring.
+Implement Infrastructure as Code (IaC) using tools like Terraform, ARM templates, or Bicep.
+Cloud Migration
+Drive the process of
+strategic migration of critical services
+from on-premises datacenter to cloud.
+Design migration roadmaps that minimize downtime and risk while maximizing efficiency and scalability.
+Ensure hybrid cloud solutions operate seamlessly during the transition phase.
+Infrastructure Management
+Manage and optimize resources across cloud and on-premises servers.
+Monitor, secure, and maintain infrastructure availability and performance.
+Ensure services are scalable and resilient during and after migration.
+Collaboration & Process Improvement
+Partner with development and IT teams to coordinate cloud adoption and DevOps processes.
+Introduce modern practices such as GitOps, containerization, and automated testing.
+Drive cultural adoption of DevOps principles within the organization.
+Security & Compliance
+Ensure infrastructure and pipelines adhere to security, compliance, and governance standards.
+Implement monitoring, alerting, and logging solutions to improve system reliability and visibility.
+What You Bring
+Strong experience with
+Azure (IaaS, PaaS, networking, security)
+and
+Microsoft 365
+environments. AWS considered a plus.
+Strong experience with Unix
+Proven experience building CI/CD pipelines using
+GitLab, Azure DevOps, GitHub Actions or similar tools.
+Proficiency in Infrastructure as Code (
+Ansible, Terraform, Bicep, ARM
+).
+Knowledge of scripting and automation (
+PowerShell, Python, Bash
+).
+Experience with containerization (
+Docker, Kubernetes
+) and modern deployment practices.
+Experience with
+Databases & Data Management
+: MS SQL, MySQL, MongoDB, Redis.
+Experience with message brokers: RabbitMQ, Apache Kafka.
+Proven experience
+planning and executing cloud migrations
+from on-premises environments.
+Strong problem-solving skills and ability to work independently.
+Excellent communication and collaboration skills with cross-functional teams.
+Proactive mindset with eagerness to introduce and drive new technologies.
+Employee perks, benefits
+​- working for one of the best international lifestyle management companies
+​- working with young highly motivated team
+​- provided with trainings and continuing education
+​- 25 vacation days
+​- other corporate benefits​
+Information about the selection process
+Please send CV in English only.
+Requirements for the employee
+Candidates with education suit the position
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Experience in the position/sector
+Finance, Banking, Payments
+Number of years of experience
+3
+Personality requirements and skills
+3-5+ years in a DevOps or similar role.
+Knowledge of monitoring / observability tools (Prometheus, Grafana, Azure Monitor, ELK, Site24x7).
+Experience with hybrid identity management (Azure AD, ADFS).
+Familiarity with security best practices and compliance frameworks.
+Previous experience modernising legacy systems into cloud-native or containerised environments.
+Familiarity with datacenter administration (Windows Server, Active Directory, virtualization, storage, networking) is considered a plus.
+Experience with Dynamics 365 deployment and integration is considered a plus.
+Experience in Finance, Banking or other regulated industries is considered a plus.
+Advertiser
+Brief description of the company
+With 30 years of excellence, Insignia has long been a trusted partner to the world’s most elite, ultra-high-net-worth individuals. Renowned for our unrivaled expertise, we cater to the most discerning clients, providing an exceptional standard of service that anticipates their every need and exceeds their highest expectations.
+We are more than a service provider; we are curators of extraordinary experiences and stewards of wealth and lifestyle. Our philosophy is rooted in bespoke service, granting our clients exclusive access to the finest in luxury, emerging trends, and a global network of distinguished partners and industry specialists.
+Headquartered in London, with a growing presence across the Globe our reach enables us to offer unparalleled solutions across all aspects of luxury and financial management. Innovation is at our core, and our clients’ satisfaction is the driving force behind everything we do.
+At Insignia, we foster a culture of independent thinking, assertiveness, and collaboration, where each team member is empowered to contribute to our continued success and the delivery of extraordinary results.
+Number of employees
+50-99 employees
+Contact
+Contact person: Mgr.  Sandra Merklová
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5183039
+Dátum zverejnenia:
+28.10.2025
+2025-10-28
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Insignia Lifestyle Services s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

@@ -1,0 +1,136 @@
+Join Brightpick – Where Real-World AI and Robotics Comes to Life
+At Brightpick, we build intelligent robots that solve complex logistics challenges using advanced AI, computer vision, and autonomous mobility. Our flagship robot, the Brightpick Autopicker, is truly unique: a robotic platform in place of feet, a robotic arm instead of a hand, a 3D scanner for vision, and AI algorithms as its brain — all seamlessly integrated to enable autonomous movement and intelligent decision-making.
+Why Brightpick?
+Fully in-house tech: from hardware to AI & algorithms. Also design and manufacturing!
+Rapid rollout and proven results in the EU and US
+A place where you can thrive and accelerate your career growth
+Headquartered in Bratislava, but delivering our solutions all around the world, we’re a tight-knit team of 200+ engineers, builders, and problem-solvers. We move fast, think bold, build technology that matters.
+Pridaj sa k Brightpick - Kde ožívajú robotické aplikácie spolu s AI
+V Brightpicku vytvárame inteligentné roboty, ktoré riešia komplexné logistické výzvy pomocou pokročilej umelej inteligencie, počítačového videnia a autonómnej mobility. Náš vlajkový robot, Brightpick Autopicker, je skutočne jedinečný. Robotická platforma namiesto nôh, robotické rameno namiesto ruky, 3D skener ako oči a AI algoritmy ako rozum. Všetko dokonale integrované pre autonómny pohyb a inteligentné rozhodovanie.
+Prečo Brightpick?
+Naše vlastné technológie: od hardvéru až po AI a algoritmy. A tiež samotné dizajnovanie a výroba robotov!
+Rýchla implementácia a preukázateľné výsledky v EÚ a USA
+Miesto, kde môžeš napredovať a urýchliť svoj kariérny rast
+Naše sídlo je v Bratislave, no naše riešenia dodávame po celom svete. Sme zohratý tím viac ako 200 inžinierov, vývojárov a riešiteľov problémov. Vďaka nášmu nasadeniu a práci, ktorá nás napĺňa, budujeme technológie, na ktorých záleží.
+Cybersecurity & Compliance Manager
+Place of work
+Plynárenská 6, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 500 EUR/month
+and more based on experience
+Information about the position
+Job description, responsibilities and duties
+Brightpick is building the next generation of warehouse automation. Our AI-driven robotic systems help companies streamline e-commerce fulfillment faster and more cost-effectively. We’re growing quickly and looking for a hands-on cybersecurity professional to help us raise the bar on security and compliance as we scale.
+You will lead the implementation of Brightpick’s cybersecurity and compliance strategy across software development, delivery, and IT. Reporting to the Director of Software Engineering and working closely with the Director of IT and the Senior Management Board, you will be instrumental in shaping a secure-by-design culture as we pursue ISO/IEC 27001 certification and align with EU and U.S. cybersecurity regulations, including the Cyber Resilience Act (CRA) and NIS2 Directive (and its transpositions).
+You will be involved from the early stages of the project processing pipeline and are expected to communicate proactively with customer IT security departments and other external stakeholders to align on security expectations and requirements.
+Location
+Bratislava
+Type of employment
+Full-time
+Salary (brutto)
+From 3500 EUR/month based on seniority and experience
+Core responsibilities:
+Lead the implementation of cybersecurity and compliance practices across software development, delivery, and IT
+Establish and lead a cybersecurity team
+Define, implement, and maintain Brightpick’s cybersecurity strategy
+Drive and coordinate ISO/IEC 27001 certification and related audits
+Ensure compliance with GDPR, the EU Cyber Resilience Act (CRA), NIS2 Directive, and relevant U.S. frameworks (e.g., NIST CSF 2.0)
+Schedule, oversee, and interpret penetration testing; translate findings into actionable security improvements
+Synthesize regulatory, audit, and client requirements into concrete development and process goals
+Establish and oversee vulnerability detection and risk rating processes, including integration into development and CI pipelines
+Define and drive the implementation of a software update and patch management policy
+Work closely with external cybersecurity service providers and consultants to enhance our security posture
+Collaborate closely with the Legal department on compliance, regulatory alignment, and incident response preparedness
+Proactively communicate with customer IT security departments and external stakeholders to ensure alignment with security requirements
+Oversee employee security awareness training and cross-functional security initiatives
+Collaborate with engineering on secure development practices, vulnerability scanning, and SBOM generation
+Support the creation and ongoing improvement of the Business Continuity Plan and Disaster Recovery Plan
+Manage third-party security assessments and client security requests
+Oversee security practices and data protection policies in our cloud infrastructure (Google Cloud Platform)
+Requirements:
+Master’s degree in Information Technology, Cybersecurity, or a related field
+Minimum of 4 years of experience in cybersecurity and compliance roles
+Strong understanding of ISO/IEC 27001, GDPR, CRA, NIS2, and U.S. frameworks such as NIST CSF 2.0
+Fluency in Slovak and English (written and spoken)
+Proven leadership and team-building experience, including hiring and mentoring cybersecurity talent
+Goal-driven mindset with the ability to translate high-level objectives into operational results
+Experience with security operations, policies, risk management, and audits
+Familiarity with tools like SIEM, MFA, password vaults, vulnerability scanners, and SBOM pipelines
+Experience with Google Cloud Platform (GCP) or similar cloud environments
+Relevant certifications (e.g., CISSP, CISM, ISO 27001 Lead Implementer) are a plus
+Primary language: Slovak; English proficiency: C1 level
+Benefits:
+Daily breakfast in the office
+Option of working from home/hybrid work (in case the position allows it)
+Flexible work schedule (in case the position allows it)
+Sick days
+Parking for everyone, bike storage with showers and changing rooms on site at our HQ
+Rooftop terrace with nice view of Bratislava
+Dog friendly office
+Multisport Card
+Referral program
+Additional benefits you can choose from after 1st year:
+Multisport Card (with company contribution)
+Contribution to a recreation stay
+Year-round healthcare access at ProCare
+Supplementary pension contribution (III pilier)
+Brain boost - budget for professional development
+Annual public transportation pass
+E-Shop voucher to buy anything you might need
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+and
+Slovak - Proficiency (C2)
+Advertiser
+Brief description of the company
+The journey of our company started in 2013 when 4 friends came up with the idea to provide eyes for robots worldwide so that they could see and understand it. This idea led to a series of patents and awards. Shortly thereafter, the four-man company grew fast, becoming a technological sanctuary for machine vision, smart automation enthusiasts & innovators.
+In 2021 Photoneo launched its new Business Unit BRIGHTPICK, the first fully automated fulfillment solution for warehouses and grocers and added to its broad competences and industries served. In early 2025 the sensor/3D vision part of the company (‘’Photoneo’’) was acquired by Zebra Technologies, marking a significant and celebrated tech acquisition in Slovak history.
+We, the remaining part of the company, were rebranded as Brightpick, with hubs in the USA and EU (with main HQ in Slovakia), dedicated to providing global automation solutions for e-commerce and grocery fulfillment.
+Being a part of Brightpick means being a part of a team that continuously pushes the boundaries further and creates space for solutions of the future. Join us and experience the journey with us!
+Address
+Brightpick s. r. o.
+Plynárenská 6
+84105 Bratislava
+Number of employees
+200-249 employees
+Contact
+Contact person: Magdaléna Jelínková
+E-mail:
+send CV
+<<< Back to the list of jobs
+You can react to this job
+without sending your CV
+. It is sufficient to fill in a form.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5189483
+Dátum zverejnenia:
+10.11.2025
+2025-11-10
+lokalita:
+Bratislava
+Pozícia:
+IT Manager
+,
+IT Project Manager
+,
+IT Security Specialist
+,
+Risk Manager
+,
+Security Service Manager
+Spoločnosť:
+Brightpick s. r. o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

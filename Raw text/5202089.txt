@@ -1,0 +1,103 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Data Engineer with Google Cloud (GCP)
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+The senior data engineer develops, constructs, tests and maintains architectures, such as databases and large-scale processing systems, and ensures that architecture fully supports requirements of the business. Plays a collaborative role where he/she works closely with the business’s Data and Analytics teams, gathering technical requirements for exceptional data governance.
+Team description
+To strengthen our team MusGKteers in Data value Stream B2B Analytics we are looking for a
+Data-Engineer
+.
+Our mission is to implement a future-proof data warehouse (DWH) landscape within the One Data Ecosystem (ODE).
+To achieve this, we need to migrate the current architecture (ODW and ODL) to the Google Cloud Platform (GCP).
+In addition, new products and KPIs continuously generate additional requirements from the organization to ensure that our B2B data remains up to date.
+The scope of work is extensive, demanding, and highly exciting.
+If you are interested in working in this future-oriented and agile environment, then you’ve come to the right place.
+You just need the following skills … but be assured: we ourselves are still in the learning phase for the new cloud environment.
+So there is nothing you cannot learn as well.
+What will you do?
+Analyses complex data elements and systems, data flow, dependencies, and relationships in order to contribute to conceptual physical and logical data models.
+Designs, builds, implementation and maintain the database structures to support business needs including integration of vendor database solutions into data environment.
+Contributes to the development of the capacity planning function to properly identify needed hardware, software, database configuration / architecture to support application / business needs.
+Manages the life cycle of multiple database tools by enabling smooth upgrades and/or installation and support of new capabilities.
+Data munging, manipulation, cleansing and blending from multiple data sources and exposure to various data types and storage paradigms including data mining.
+Works with data to solve business problems and build and maintain the infrastructure to answer questions with data.
+Develops and manages scalable data processing platforms used for exploratory data analysis and real-time analytics.
+Oversees activities of the junior data engineers, ensuring proper execution of their duties and alignment with business vision and objectives.
+You will succeed if you:
+possess strong expertise in cloud technologies (ideally Google Cloud Platform), including tools such as BigQuery, Dataform, BigLake, Vertex AI, Google Cloud Storage, Cloud Composer/Airflow, and Dataproc
+have solid knowledge of Python and PySpark
+bring experience in designing and engineering DWH/BI solutions, including data modelling
+understand data historization concepts and can apply them effectively
+have hands-on experience with DevOps practices
+are familiar with CI/CD processes using GitLab
+can work with UML for system and process modelling
+have practical experience with agile delivery frameworks such as LeSS or Scrum
+demonstrate a collaborative, agile mindset suitable for cross-functional, interdisciplinary teams
+show strong analytical capabilities, including the ability to recognize complex dependencies and communicate them clearly
+can design and implement efficient processes for integrating and consolidating heterogeneous data sources
+communicate confidently in English at a very good level (B2); German language skills are an advantage
+bring strong teamwork and communication skills
+have experience working in intercultural or nearshore project environments
+are willing to travel to and within Germany
+POSSIBLE SPECIALIZATION / NICE TO HAVE
+experience with meta-model–based frameworks (e.g., Innovator)
+skills in reporting and dashboarding with Microsoft Power BI
+knowledge of AI-based forecasting and predictive analytics
+experience contributing to end-to-end solution design for business requirements
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lucia Gbúrová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202089
+Dátum zverejnenia:
+5.12.2025
+2025-12-05
+lokalita:
+Remote work
+Pozícia:
+IT Analyst
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 100 EUR/month

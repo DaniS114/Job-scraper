@@ -1,0 +1,91 @@
+Spoločnosť
+Tlačové
+centrum
+Spoločenská zodpovednosť
+Sponzoring
+Kariéra
+Kontakt
+O spoločnosti
+Kariéra
+Aktuálne pozície
+Centrála (Bratislava)
+Architekt IT bezpečnosti (IT Security Architect)
+Architekt IT bezpečnosti (IT Security Architect)
+Miesto výkonu práce:
+Pribinova 40, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Aká bude vaša rola v tíme
+Staňte sa súčasťou tímu CETIN Networks - sesterská spoločnosť O2 Slovakia, ktorá je vlastníkom a prevádzkovateľom telekomunikačnej siete O2.
+V našom tíme aktuálne vzniká nová príležitosť pre skúseného Architekta IT bezpečnosti, ktorý sa nebojí výziev a chce stáť pri návrhu a ochrane IT infraštruktúry jedného z najväčších mobilných operátorov na Slovensku.
+Vašou náplňou práce bude najmä:
+Navrhovať a implementovať bezpečnostné riešenia v oblasti IAM (Active Directory, Azure AD, PAM, SSO, MFA)
+Navrhovať stratégie a riešenia pre ochranu koncových zariadení (EDR, DLP, patch management, OS hardening)
+Spolupracovať na návrhu bezpečnostnej architektúry pre cloudové služby (SaaS, IaaS, PaaS – najmä Microsoft 365, Azure)
+Posudzovať bezpečnostné riziká, modelovať hrozby a pripravovať bezpečnostné politiky a štandardy, vulnerability scany
+Konzultovať bezpečnostné požiadavky pre nové IT projekty a technológie (napr. digital workplace, zero trust)
+Monitorovať dodržiavanie bezpečnostných pravidiel, podporovať bezpečnostný monitoring (SIEM) a audit
+Spolupracovať s IT tímami na zvyšovaní bezpečnostnej odolnosti infraštruktúry a služieb
+Čo od vás čakáme
+Nástup: dohodou
+Prax mnimálne 4 roky v oblasti IT bezpečnosti
+Znalosť správy identít a prístupov: Active Directory, Azure AD, IAM, PAM, MFA, SSO
+Znalosť bezpečnostných protokolov: TLS, LDAP(S), Kerberos, SAML, OAuth2, OpenID Connect
+Skúsenosť s end-point security riešeniami (napr. Defender for Endpoint, CrowdStrike, EDR/XDR riešenia)
+Skúsenosť s OS hardeningom (Windows, Linux), DLP, patch management, BitLocker, disk encryption
+Znalosť cloudovej bezpečnosti: zabezpečenie prostredí Microsoft 365, Azure, AWS alebo GCP
+Skúsenosť so SIEM/SOAR nástrojmi, bezpečnostným monitoringom a reakciou na incidenty
+Znalosť bezpečnostných rámcov: NIS-2, ISO/IEC 27001, CIS Controls
+Schopnosť riešiť komplexné bezpečnostné výzvy, analytické myslenie
+Dobre rozvinuté komunikačné a organizačné schopnosti
+Anglický jazyk - technická angličtina
+Oceníme, ak navyše prinesiete:
+Certifikácie ako CISSP, CISM, AZ-500, SC-300, CEH alebo ekvivalent
+Znalosti mobility a integrácie s telco prostredím (napr. integrácia IAM s BSS/OSS, CRM, portály)
+Znalosti konceptov Zero Trust Architecture
+Skúsenosť s bezpečnostným testovaním (napr. vulnerability scanning, penetračné testy)
+Čo vám ponúkame
+Základná hrubá mesačná mzda od 3000€/ brutto
+Okrem mzdy môžete získať aj výkonnostný bonus v celkovej výške 15% ročnej základnej mzdy (podľa splnených cieľov)
+Vaša mzda však nemôže byť jednostranným rozhodnutím, ale bude určená na základe vašich znalostí a skúseností a preto sa s vami radi porozprávame na pohovore
+U nás navyše:
+Formality idú bokom, komunikácia bez okolkov a otvorenosť je samozrejmosťou
+Nepoužívame tituly, všetci si tykáme a to, že o sebe hovoríme, že sme priateľskí, nie je iba fráza – presvedčíte sa sami, keď sa stanete súčasťou našej kultúry, na ktorú sme právom hrdí
+Flexibilný pracovný čas a model spolupráce umožňujúci prácu v office aj z domu
+Podporujeme záľuby našich kolegov prostredníctvom rôznych aktivít a projektov – u nás si na svoje prídu cyklisti, bežci, chodci, jogíni, kolobežkári, rodičia s deťmi, dobrovoľníci vo všetkých oblastiach, ale i záhradkári, amatérski cukrári či pekári, influenceri a blogeri a vlastne všetci ľudia s dobrým nápadom
+Telefón až do výšky 1200€
+Zamestnanecký paušál
+Zľavové promokódy na paušál pre blízkych a známych
+O2 Prázdniny – vieme, že niekedy sa pracuje nad 100% a preto ponúkame aj voľno navyše
+20 dní plateného voľna za každých 5 odpracovaných rokov
+Keď je človek chorý, má ostať doma - pomôže tým sebe aj kolegom a my mu PN-ku doplatíme
+Príspevok na stravné máme aj za dni neprítomnosti v práci
+Bude sa s vami rozprávať
+Katarína Šmindáková
+O2 Slovakia, s.r.o.
+Katarína Šmindáková
+O2 Slovakia, s.r.o.
+Zaujali sme vás?
+Poďme sa porozprávať
+© O2 Slovakia, s.r.o. Všetky práva vyhradené
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5185871
+Dátum zverejnenia:
+3.11.2025
+2025-11-03
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+,
+IT projektový manažér
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+O2 Slovakia, s.r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

@@ -1,0 +1,92 @@
+DevOps Engineer
+Finax, o.c.p., a. s.
+Miesto práce
+ROSUM, Bajkalská, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 600 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Na čom sa budeš podieľať, ak sa pridáš do Finaxu?
+Vo Finaxe veríme, že finančné sebavedomie pristane každému.
+Zvyšujeme finančnú gramotnosť ľudí prostredníctvom vzdelávania a meníme spôsob, akým vnímajú financie vďaka našim férovým, transparentným a inovatívnym produktom.
+Prečo si myslíme, že by ťa mohla baviť práca na tejto pozícii?
+Budeš súčasťou procesu migrácie našej webovej infraštruktúry do Kubernetes a taktiež nastavenia moderných CI/CD procesov.
+Medzi tvoje kľúčové aktivity by patrili:
+Realizácia migrácie existujúcej webovej aplikácie do Kubernetes klastra;
+Návrh a implementácia CI/CD pipeline pre automatizované nasadenia;
+Konfigurácia a správa Zabbix monitoringu pre novú infraštruktúru;
+Správa a optimalizácia databázových systémov;
+Nasadenie a konfigurácia message brokerov v kontajnerizovanom prostredí;
+Optimalizácia kontajnerov a Kubernetes manifestov;
+Zabezpečenie vysokej dostupnosti a škálovateľnosti služieb;
+Dokumentácia procesov a best practices;
+Spolupráca s vývojovým tímom na zlepšení deployment procesov.
+Informácie o výberovom konaní
+Ozveme sa ti do 7 pracovných dní od reakcie, či už telefonicky alebo mailom.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Expert (C2)
+Ostatné znalosti
+Kubernetes - Pokročilý
+Docker - Pokročilý
+Zabbix - Pokročilý
+SQL - Pokročilý
+Python - Pokročilý
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Veríme, že naša spolupráca bude úspešná, ak:
+máš minimálne 2-3 roky praktických skúseností v DevOps/SRE pozícii
+vyznáš sa v Kubernetes(deployment, services, ingress, configmaps, secrets)
+máš znalosť Docker a kontajnerizácie aplikácií
+máš praktické skúsenosti so Zabbix monitoringom (konfigurácia, triggers, dashboards) a toolmi ako Kibana a Grafana
+vieš pracovať s databázami: MS SQL, MySQL, MongoDB, Redis
+máš skúsenosti s message brokermi: RabbitMQ, Apache Kafka
+máš skúsenosti s CI/CD nástrojmi (GitLab CI, Jenkins, GitHub Actions alebo podobné)
+ovládaš skriptovacie jazyky (Bash, Python)
+máš skúsenosti s Infrastructure as Code (Terraform, Helm charts)
+prakticky ovládaš Unix
+máš znalosť GitOps princípov (ArgoCD, Flux)
+ovládaš AJ na B2 úrovni
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme obchodník s cennými papiermi licencovaný Národnou bankou Slovenska. Prinášame férovosť do sveta financií a vytvárame lepšiu budúcnosť pre finančne zabezpečený život bez stresu.
+Misiou Finaxu je sprevádzať ľudí na ich finančnej ceste prostredníctvom férových, jednoduchých a inovatívnych riešení. Programom finančného vzdelávania sa snažíme zvyšovať finančnú gramotnosť občanov a rovnako ich inšpirovať v tom, ako správne investovať, ako zvýšiť príjmy z úspor, finančne plánovať či neplatiť dane tam, kde nemusia.
+Ako prv‎ý sme priniesli tzv. robo-advisor platformu, (automatizované online finančné poradenstvo), nielen na Slovensko a Poľsko, ale aj na ďalšie trhy v strednej Európe a približujeme investovanie ľuďom.
+Sme prvá finančná inštitúcia v EÚ, ktorá získala licenciu na poskytovania celoeurópskeho investičného produktu PEPP.
+Aktuálne spravujeme majetok v hodnote viac ako 1 mld. eur pre viac ako 90 000 klientov v piatich krajinách a plánujeme expanziu aj na ďalšie trhy.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Daniela Raffajová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5201189
+Dátum zverejnenia:
+3.12.2025
+2025-12-03
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Finax, o.c.p., a. s.
+Základná zložka mzdy (brutto):
+3 600 EUR/mesiac

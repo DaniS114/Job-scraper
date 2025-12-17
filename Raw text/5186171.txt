@@ -1,0 +1,110 @@
+DevOps Engineer
+IT-Impulse s. r. o.
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+From 2 500 EUR/month
++ Bonus up to 10%. The final offer for the selected candidate will depend on the degree of responsibility, skill and previous work experience.
+Information about the position
+Job description, responsibilities and duties
+We are looking for a DevOps Engineer to join our team focused on IT infrastructures supporting customers in a multinational environment.
+You will be responsible for:
+•	Consulting of development projects during the transition from development/project to operation mode;
+•	Advising on the integration of standard solutions for authentication, data exchange, messaging and/or inter-service communication;
+•	Collaboration in the team for the operation of private cloud and hybrid cloud infrastructures/services based on RedHat Openshift incl. ElasticSearch, Fluentd/Logstash, Kibana, Grafana, Prometheus, GitLab, JFrog Artifactory, JFrog X
+•	Coordination and execution of release changes or installation of updates for the responsible systems
+•	Consulting on the integration of standard solutions for authentication (identity & access management), data exchange, messaging or inter-service communication such as Keycloak/RH SSO, Kafka/Eventstream, API Gateway kong;
+•	Coordination with international users of DevOps solution portfolio consisting of software development staff, solution management as well as partners and internal/external solution portfolio customers
+Employee perks, benefits
+​General:
+​​• Long-term and stable work place, employment contract for an indefinite period
+​​• Familiarity of a small sized firm and security and possibilities of a large company
+​​• +5 extra days of vacation
+​​• 3 sick days per month
+​​• Contribution to 3rd pillar (individual pension savings): 1 - 2,5%
+​​• Cafeteria bonus
+​​• Employee referral program (up to 5.000 EUR per referral)
+​​• Yearly performance and salary review
+​​• Jubilee gifts
+​​• Flexible working hours
+​​• Remote work possibility
+​​• Free language courses
+​​Benefits available on-site:
+​​• Comfortable and healthy work environment in a newly built, air-conditioned office space (5-7 workstations per office)
+​​• Free bicycle garage
+​​• Free parking space
+​​• Free kindergarten during school holidays at the workplace
+​​• Fruit days
+​​• Stocked kitchen with free drinks (freshly roasted coffee)
+​​• Free massages
+​​• Monthly breakfast club​​
+Information about the selection process
+Please send us a curriculum vitae in English by e-mail and state the name of the position you are applying for.
+We reserve the right to contact only those candidates who meet the requirements.
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Europe's leading provider of digital solutions for social housing industry.
+Requirements for the employee
+Candidates with education suit the position
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+UNIX/Linux - Advanced
+DevOps - Advanced
+Kubernetes - Advanced
+Experience in the position/sector
+4
+Personality requirements and skills
+• Experience in container orchestration technologies (OpenShift/Docker/Kubernetes).
+• Experience with Fluentd/Logstash, Kibana, Grafana, Prometheus, Loki, GitLab, JFrog, Artifactory, Keycloak/RH SSO, Kafka/Eventstream, API Gateway kong.
+• Experience in automation and CI/CD (GitLab CI/CD, Ansible, ArgoCD).
+• Experience with Unix/Linux platforms.
+• Experience with the technical operation of Unix/Linux-based systems or DB management systems (e.g. Oracle, MySQL, MariaDB, PostgreSQL).
+•	Experience in the administration of data center production environments and collaboration with solution designers.
+• Strong analytical and conceptual skills.
+•	Experience in the development of basic process flows.
+•	Independent and structured way of working, customer and service orientation.
+Advertiser
+Brief description of the company
+IT-Impulse is the Software Engineering division of the international company JobImpulse GmbH with more than 9000 employees in 51 locations in 12 countries and acts as an intermediary between the IT software development department and highly qualified IT specialists on the job market.
+The Slovak branch in Košice in its new headquarters with over 60 employees is looking for new colleagues for existing as well as newly created customer-dedicated teams.
+http://www.it-impulse.net
+https://www.facebook.com/ITImpulseSlovakia/
+https://www.instagram.com/it_impulse/
+https://www.linkedin.com/company/it-impulse/
+The company is a holder of a licence to offer recruitment services.
+Number of employees
+50-99 employees
+Contact
+Contact person: Mgr.  Jana Suchá
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5186171
+Dátum zverejnenia:
+3.11.2025
+2025-11-03
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+IT-Impulse s. r. o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

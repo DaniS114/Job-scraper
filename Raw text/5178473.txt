@@ -1,0 +1,98 @@
+Senior Backend Developer (Node.JS)
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+3 000 - 5 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do klientovho tímu hľadáme skúseného Backend developera so zameraním na frontend, ktorý dokáže spojiť cit pre používateľský zážitok s technickou precíznosťou. Budeš sa podieľať na tvorbe používateľského rozhrania moderného softvérového riešenia, ktorého cieľom je nielen dobre fungovať, ale aj dobre vyzerať a jednoducho sa používať. Pracujú na prepojení ich systému s externými službami klientov a budeme radi, ak sa pridáš k nám.
+- Vývoj a aktualizácia nášho existujúceho SW riešenia so zameraním na robustnosť, výkonnosť a škálovateľnosť
+- Návrh a realizácia integrácií s externými systémami a databázami klientov
+- Tvorba a správa backend komponentov v prostredí Node.js (JavaScript, TypeScript)
+- Spolupráca pri návrhu a optimalizácii systémovej architektúry (workflow, messaging, modularita)
+- Práca s CI/CD pipeline, cloudovým nasadením a kontajnerizáciou (Docker, Kubernetes)
+- Zapojenie do technických rozhodnutí, code reviews, návrhov riešení a troubleshootingových aktivít
+Zamestnanecké výhody, benefity
+práca v modernej spoločnosti, ktorá začínala ako rodinná firma a aj napriek neustálemu rastu sa stále drží tejto filozofie
+možnosť kariérneho rozvoja
+až 90% povýšení pochádza z interných radov
+podpora odborného rastu (posúvať sa vpred je naša filozofia)
+vernostný program s mnohými výhodami
+rozsiahly benefitný program, ktorý si sami nastavujete
+Informácie o výberovom konaní
+Pošlite svoj životopis na:
+jakub.halajcik@sourcefirstinternational.com
+Vždy máme viacero voľných pozícií pre IT špecialistov nielen na Slovensku a v Českej republike, ale aj na medzinárodných projektoch.
+Predpokladaný termín ukončenia výberového konania
+31.12.2025
+(ostáva ešte 58 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Náš klient je stredoeurópskym integrátorom, ktorý pôsobí na IT trhu už viac ako 30 rokov a svojim klientom ponúka produkty a služby v oblasti robotizácie a automatizácie procesov, internetu vecí (IoT), IT infraštruktúry, komunikačných a cloudových riešení, IT bezpečnosti, služieb a outsourcingu, či IT poradenstva a aplikácií.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+- Minimálne 5 rokov skúseností s vývojom SW (preferované v prostredí Node.js)Výborná znalosť JavaScript/TypeScript a dobré softvérové inžinierstvo v malíčku
+- Skúsenosti so softvérovými a hardvérovými integráciami
+- Skúsenosti s databázami ako PostgreSQL, Elastic alebo iné
+- Znalosť architektonických princípov (napr. messaging, workflow, modulárne služby)
+- Porozumenie SDLC (životný cyklus vývoja softvéru)
+- Skúsenosti so skriptovacími jazykmi ako Python či Bash
+- Práca s CI/CD nástrojmi (Jenkins, GitLab CI, Azure DevOps)
+- Znalosť cloudových platforiem (AWS, Azure, GCP)
+- Skúsenosť s kontajnerizačnými technológiami (Docker, Kubernetes)
+- Analytické myslenie, zodpovednosť a tímový duch
+- Nutnosť ovládať aktívne slovenský (C1) a anglický jazyk (B1)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Jakub Halajcik
+Tel.:
++421902528675
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5178473
+Dátum zverejnenia:
+21.10.2025
+2025-10-21
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Javascript programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

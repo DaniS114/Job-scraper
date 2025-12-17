@@ -1,0 +1,135 @@
+Senior lead developer
+VNET a.s.
+Miesto práce
+Černyševského 48, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou/ASAP
+Mzdové podmienky (brutto)
+3 300 EUR/mesiac
+od 3300 € mesačne brutto (balík odmeňovania závisí od Tvojich skúseností a znalostí)
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Si developer/ka, ktorý/á sa chce posunúť ďalej – do roly, kde budeš môcť neustále rozvíjať svoje technické zručnosti a zároveň odovzdávať svoje skúsenosti tímu? Ak ťa baví technológie aj práca s ľuďmi, u nás nájdeš ideálnu kombináciu oboch svetov.
+V tejto pozícii budeš viesť tím, určovať priority a pomáhať formovať smerovanie našich projektov. Hľadáme človeka, ktorý má chuť prevziať zodpovednosť, rozvíjať sa a byť prirodzeným lídrom – nielen z príkazového riadku, ale aj svojím prístupom a energiou.
+Ak sa v tom vidíš, ozvi sa nám – radi sa s tebou porozprávame.
+Vo VNET-e riešime omnoho viac ako len plnenie klientskych požiadaviek, tvoríme svoje VLASTNÉ systémy. Naši programátori majú možnosť spravovať, tvoriť a vyvíjať systémy, priamo pre nás na našej firemnej pôde.  Takýmto prístupom si budujeme konkurenčnú výhodu a TY môžeš byť práve ten, kto priloží svoju ruku k systémovým dielam a spoločne určí priority v nasadzovaní nových riešení.
+A okrem bežných technológií, ako sú Git, webové Python frameworky a relačné databázy, Ti u nás otvoríme dvere aj do sveta pokročilejších:
+• NoSQL databázy (ElasticSearch, Swift Object Storage, RRD, Graphite)
+• Message queueing systémy (RabbitMQ)
+• Docker a Kubernetes, OpenStack
+• a mnohé ďalšie...
+Pozícia, ktorú obsadzujeme, kombinuje odbornú zodpovednosť (50 %) za technické riešenia s manažérskou zodpovednosťou (50 %) za koordináciu a rozvoj tímu, plánovanie projektov a dohľad nad dosahovaním stanovených cieľov.
+Ako budú vyzerať Tvoje pracovné dni v roli tímlídra/tímlíderky?
+budeš koordinovať
+menší tím (Python developeri, FrontEnd developer a procesný špecialista), čo znamená zabezpečiť rovnomerné rozdelenie práce, efektívnu spoluprácu v tíme aj naprieč celou firmou.
+budeš plánovať a prioritizovať
+zdroje s ohľadom na termíny a potreby projektov.
+budeš rozvíjať a mentorovať
+svoj tím – technicky aj osobnostne – prostredníctvom pravidelnej spätnej väzby, one-on-one stretnutí a koučingu.
+budeš zodpovedný za zlepšovanie procesov
+, teda za hľadanie príležitostí na zefektívnenie práce, automatizáciu a lepšiu spoluprácu medzi tímami.
+Ako budú vyzerať Tvoje pracovné dni v roli technického lídra?
+dostaneš      voľný priestor na nové nápady
+a my ti dáme šancu ich realizovať - u nás sa      inováciám a kreativite otvárajú dvere
+tvoje       technické schopnosti budú uplatnené pri tvorbe web aplikácií a      automatizácii firemných postupov
+neobíde ťa ani oblasť
+nasadzovania, prevádzky a monitorovania
+vyvíjaných aplikácií a služieb
+zažiješ      rozmanité výzvy v rôznych oblastiach organizácie
+- od fakturácie cez      spracovanie dát po automatizáciu firemných procesov
+získaš      bohaté vedomosti a skúsenosti v dynamickom pracovnom prostredí.
+budeš si rozširovať znalosti NoSQL databáz
+(ElasticSearch, Swift Object Storage, ClickHouse, Graphite)
+a message queueing systémov
+(RabbitMQ, NSQ)
+Zamestnanecké výhody, benefity
+Vo VNETe veríme, že dobrý tím a príjemné prostredie robia z práce viac než len tzv. “povinnosť “. Našim cieľom je, aby si sa u nás cítil/a dobre a mal/a chuť byť súčasťou toho, čo spolu vo VNET-e ako tím tvoríme.
+A prečo práve my?
+Dostaneš výnimočný priestor na svoju kreativitu vďaka rozmanitým pracovným úlohám.
+Aktívne sa zapojíš do zaujímavých projektov.
+Budeš mať neustálu príležitosť vzdelávať sa a rásť.
+Sme silný tím nielen profesne, ale aj ľudsky, a hľadáme niekoho, kto bude naším kolegom a parťákom.
+V našej oddychovej zóne so stolným futbalom si môžeš oddýchnuť a pochutnať si na skvelých raňajkách.
+Oddychovú zónu si môžeš zarezervovať aj po práci a zorganizovať si posedenie s kolegami.
+V našej budove máme aj vlastný gym, kde budeš mať prístup 24/7.​
+Sa môžeš tešiť na naše firemné akcie, ktorých máme počas roka neúrekom.​
+Aj Tvojimi nápadmi a prácou môžeš ovplyvniť dianie vo firme a vytvárať niečo nové.
+Záleží na Tebe!
+Informácie o výberovom konaní
+Teraz už nás poznáš a vieš, koho hľadáme a čo od práce v našom tíme očakávame. Teraz je ťah na Tebe. Pošli nám svoje CV na cv@vnet.eu a poteší nás aj krátky, no výstižný motivačný list.
+Ďakujeme za Tvoj čas a tešíme sa na Teba v Tvojom životopise...
+...a potom možno aj osobne...
+VNET HR tím.
+Zaslaním životopisu dáva uchádzač výslovný súhlas spoločnosti VNET a.s. na spracovanie jeho osobných údajov uvedených v životopise, a to pre účely zaradenia do databázy uchádzačov o zamestnanie v spoločnosti VNET a.s. a prípadné kontaktovanie za účelom osobného pohovoru. Tento súhlas udeľuje uchádzač spoločnosti VNET a.s. ako prevádzkovateľovi v zmysle príslušných ustanovení zákona č. 18/2018 Z.z. o ochrane osobných údajov, v znení neskorších predpisov (ďalej len “Zákon”) a Nariadení “GDPR” č. 2016/679. Súhlas môže uchádzač kedykoľvek odvolať, a to aj emailom na emailovú adresu: osobneudaje@vnet.sk. Ako dotknutá osoba má uchádzač práva uvedené v § 19 a nasl. Zákona (t.j. požadovať prístup k osobných údajom, právo na ich opravu, vymazanie, obmedzenie spracúvania, namietať spracúvanie, právo na ich prenosnosť, alebo podať návrh podľa § 100 Zákona). Osobné údaje nebude VNET a.s. odovzdávať žiadnej tretej osobe, nebude ich profilovať ani prenášať do tretej krajiny a bude ich uchovávať maximálne po dobu šiestich mesiacov od prijatia životopisu.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+informačné technológie
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+a
+Slovenský jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+Vedenie tímu - Pokročilý
+Python - Pokročilý
+PostgreSQL - Pokročilý
+Riadenie IT projektov - Mierne pokročilý
+Administrácia UNIX/Linux - Základy
+Docker - Pokročilý
+GIT - Pokročilý
+HTML - Základy
+CSS - Základy
+Prax na pozícii/v oblasti
+prax s vedením tímu
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Do VNETu hľadáme ľudí, ktorí sú zanietení pre nové technológie a neustále učenie sa. Bolo by skvelé, ak máš:
+skúsenosti      s vedením menšieho technického tímu,
+silné      analytické a komunikačné schopnosti a vieš viesť technické diskusie,
+schopnosť      inšpirovať a motivovať členov tímu, rozvahu a komunikačnú zdatnosť,
+schopnosť      riešiť problémy a prevziať zodpovednosť za rozhodnutia aj samotné      riešenia,
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme spoločnosť, ktorá vznikla pred viac ako dvadsiatimi rokmi s cieľom poskytovať cenovo dostupný a výkonný internet. Dnes patríme medzi významných hráčov v oblasti biznis internetového pripojenia, disponujeme stovkami kilometrov vlastnej optickej siete a svoje portfólio služieb neustále rozširujeme. Rozvíjame sa ako systémový integrátor a poskytovateľ manažovaných služieb, sústreďujeme sa na poskytovanie cloudových služieb, kyberbezpečnosti a aktívne sa podieľame na výskume a vývoji, najmä v oblasti umelej inteligencie. Najväčšou devízou VNETu sú však naši ľudia, ktorí spojili svoje sily na vytváranie riešení s hlbokým pochopením potrieb zákazníka, individuálnym prístupom a špičkovou podporou vo všetkých smeroch. Spoločne ťaháme za jeden povraz a prinášame na trh inovatívne a zákazníkmi cenené riešenia.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Zuzana Začková
+Tel.:
++421902930051
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5154916
+Dátum zverejnenia:
+16.10.2025
+2025-10-16
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+IT manager
+,
+Programátor
+,
+Python programátor
+,
+Softvérový inžinier
+Spoločnosť:
+VNET a.s.
+Základná zložka mzdy (brutto):
+3 300 EUR/mesiac

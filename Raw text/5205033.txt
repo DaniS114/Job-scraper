@@ -1,0 +1,90 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior System Engineer in SOC
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+DT Technik team is good at task planning and resource coordination, providing fast response, clear and professional information that explains the essence of technical matters. We are willing to help solve problems, we have pleasant and friendly atmosphere at work.
+Purpose
+The Senior Security Engineer will play a critical role in the Security Operation Center (SOC) by providing advanced support and fine-tuning of SOC sub-systems. This position focuses on specialized areas of SOC system administration, beyond standard hardware and software support provided by other teams within DT Technik. The Engineer will be responsible for maintaining and optimizing various components, including Spark environments, Kafka and Logstash architectures, RAID configurations, and backing up SIEM configurations. Infrastructure configuration implementation will be managed through a CI/CD environment, requiring expertise in IT automation tools such as Ansible and Puppet.
+What will you do?
+Administer and maintain SOC sub-systems, including Spark environment updates and optimizations.
+Optimize Kafka and Logstash architecture for enhanced performance and security.
+Configure RAID systems and manage backups of SIEM configurations.
+Implement infrastructure configurations using CI/CD tools and methodologies.
+Collaborate with cross-functional teams to ensure seamless integration of SOC systems.
+Conduct regular system audits and provide recommendations for improvements.
+Troubleshoot and resolve system issues promptly to maintain operational efficiency.
+You will succeed if you:
+Have a knowledge in:
+Network configuration
+Knowledge in Windows and Linux Administration (Solid understanding of NFS and GNU )
+Experience with Elastic Stack, specifically Logstash configuration and TLS certificates.
+Experience with CI/CD methodologies and tools.
+Expertise in RAID configuration using StorCLI.
+Knowledge of Kafka including Apache Zeppelin
+Experience in IT automation tools such as Ansible and Puppet.
+Language:
+English - Upper intermediate (B2)
+Other criteria or requirements
+Good communication, influencing, and interpersonal skills
+Ability to work across various cultures and across organizations and company boundaries.
+Good presentation skills
+Both a self-starter and team player, who can work without direct supervision
+Creative thinker, ability to see the bigger picture in a pragmatic, sensible way
+Good analytical skills, ability to make concise, well documented decisions, in agreement with the strategy and vision of the team.
+Ability to present solution designs to customers and colleagues
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Dana Dráčová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5205033
+Dátum zverejnenia:
+12.12.2025
+2025-12-12
+lokalita:
+Remote work
+Pozícia:
+Service Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 500 EUR/month

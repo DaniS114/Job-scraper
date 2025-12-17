@@ -1,0 +1,105 @@
+Pokročilý medior Backend Developer
+JUMP soft a.s.
+Miesto práce
+Landererova 12, Staré Mesto, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 700 EUR/mesiac
+Ponúkaný plat je od 2700,- eur brutto. Pri ponúkanom plate zvážime na pohovore Tvoju senioritu, skúsenosti a schopnosti. Chceme odmeňovať spravodlivo, podľa Tvojho prínosu pre našu firmu. Ponúkané minimum je pre uchádzačov s minimálnymi skúsenosťami v danej seniorite. Pri kandidátoch s väčším množstvom skúseností a s väčšou praxou ponúkame aj vyššiu základnú zložku platu.  Pri živnostníkoch je odmena fakturovaná na základe dodanej práce.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného medior Backend Developera s minimálne 4-ročnými skúsenosťami s programovaním v rôznych technológiach (Spring, Java, JavaScript,MongoDB, Scala, C,PL/pgSQL procedúry, a ďalšie), ktorý sa pripojí k nášmu tímu a pomôže nám pri udržiavaní a ďalšom vývoji našich projektov. Budeš zodpovedný za návrh, ich vývoj.
+očakávame písanie čistého, efektívneho a dobre zdokumentovaného kódu
+budeš pracovať s modernými technológiami
+budeš spolupracovať pri návrhu a analýze vyvíjaných aplikácií a informačných systémov
+budeš pracovať v menšom tíme so skúsenými developermi, analytikmi a projektovým manažérom
+budeš spolutvorcom produktu​​
+Požadované zručnosti a skúsenosti:
+Spring, Java, JavaScript, MongoDB, Scala, C,PL/pgSQL procedúry
+SQL
+JPA/Hibernate
+QueryDSL
+Docker
+Agile vývoj, Scrum, Jira
+Výhodou je ak máš skúsenosti s:
+Kafka alebo RabbitMQ
+Akákoľvek FE technológia (Angular, React, Vue)
+Zamestnanecké výhody, benefity
+Snažíme sa aby sa u nás všetci cítili komfortne a mali k dispozícii všetko, čo potrebujú. Našim cieľom je pripraviť každému moderné a inšpiratívne pracovné miesto, kde sa dobre pracuje. Pracujeme v malých agilných tímoch zameraných na výsledky. Sloboda v práci je pre nás samozrejmosťou. Čo sú benefity, ktoré ti ponúkame?
+​
+​profesionálne pracovné prostredie so vzájomnou dôverou
+prácu na rôznych typoch IT projektov
+flexibilný pracovný čas
+internú vzdelávaciu akadémiu, kde pravidelne diskutujeme o nových IT trendoch
+kvalitnú analytickú, programátorskú a manažérsku podporu
+možnosť dodatočného vzdelávania v danom obore (školenia, certifikáty)
+športovú kartu Multisport
+sickdays, narodeninové voľno
+moderné priestory v Starom meste
+pravidelné teambuildingy a firemné raňajky
+dobrá káva, super kolegov :-)​
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Slovenský jazyk - Pokročilý (C1)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+programovania
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+Najdôležitejšie je vedieť rozmýšľať ako tvoriť počítačový kód a poznať pozadie webových aplikácií -  databázy, Backend, API... Mal by si ovládať aj anglický jazyk, minimálne v technickej rovine. Od ľudí, ktorí k nám prídu očakávame:
+​algoritmické myslenie
+kultúru písania kódu
+skúsenosti s programovaním  (aspoň 4 roky)
+skúsenosti s verzionovacími systémami - git-om
+skúsenosti s SQL
+záujem o programovanie a chuť učiť sa nové veci
+skúsenosti so Spring frameworkom
+prehľad vo frontendových technológiách (HTML, CSS/Sass, JavaScript, jQuery, Bootstrap, React...)
+prehľad v programovacích technológiách
+skúsenosti s agilným vývojom
+skúsenosti s relačnými databázami ako napríklad MySQL, Postgre SQL, Oracle, MS SQL
+samostatnosť, ale aj schopnosť pracovať v tíme
+Okrem schopností je pre nás dôležitá aj tvoja osobnosť. Sme skvelý kolektív a preto hľadáme ďalších príjemných, pozitívne naladených ľudí, ktorí sú schopní pracovať zodpovedne, ale vedia sa s nami aj zabaviť, keď je príležitosť.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Vznikli sme v roku 2010 ako nekonvenčný technologický start-up, vyvíjajúci softvér na mieru. Vďaka tímu nadšencov sa nám za niekoľko rokov podarilo vybudovať úspešný softvérový dom, kde nás spolupracuje viac ako 50. Zameriavame sa na databázové, transakčné a business intelligence riešenia v cloude. JUMP soft budujeme ako firmu s priateľskou a otvorenou kultúrou, na princípoch profesionality, slobody a zodpovednosti.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Michaela Čipkárová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5133969
+Dátum zverejnenia:
+27.10.2025
+2025-10-27
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Programátor
+Spoločnosť:
+JUMP soft a.s.
+Základná zložka mzdy (brutto):
+2 700 EUR/mesiac

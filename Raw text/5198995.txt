@@ -1,0 +1,93 @@
+Deutsche Telekom Services Europe Slovakia
+O nás
+Voľné pozície
+Firemná kultúra
+Benefity
+Kontakt
+Technical
+AI SERVICES - Senior Staff Python Engineer for LLM  /KE/
+Deutsche Telekom Services Europe is an internal services provider of Deutsche Telekom, one of the world's leading integrated telecommunications companies. Our shared mission is to put priority on customer satisfaction, quality and innovations in areas of finance and procurement services. We are on our way to become industry's top service company and we want you to be a part of the success story!
+Apply now and design with us the world of tomorrow.
+Contract type
+full-time
+Place of work
+Košice, Slovak Republic
+Start date
+ASAP
+Wage (gross)
+From 3 500 EUR/month
+About
+the position
+Which challenges are expecting you:
+You will be responsible to improve our backends for LLM-backed agent applications such as our Chatbots in Python.
+You will foster the customer experience by stabilizing and improving the existing solution (better visualization, automated validations, enable function calling and agent actions.)
+You will be responsible for identification and implementing upcoming, new business requirements
+Cooperate with the business side including your active contribution in customer workshops, meetings, and calls so the ability to explain technical points to business colleagues is a crucial part of this job, as is a consultant’s mindset
+Participate in team brainstorming sessions, code reviews, and pair programming sessions
+You will have the chance to identify possible use cases for automation and data science, innovative ideas are welcome
+We work in a HYBRID STYLE of working with the possibility of working from home , but twice a week we meet in the office in Košice or Bratislava for meetings.
+The published salary is the minimum possible offer.
+The starting salary may be higher depending on the extent of fulfillment of the employee's requirements (education, language skills, required practice, personality assumptions and skills).
+What
+we expect
+Candidates with education suit the position
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+Your skills:
+At least 8 years profound experience in building and operating production-grade software using Python programming language, preferably including the use of frameworks like FastAPI, pydantic and data science libraries
+Furthermore, knowledge in LLM frameworks such as LangChain, LLamaIndex and the client APIs of Azure and OpenAI completes your profile. Ideally, you have already built a production-ready solution involving those APIs.
+Practical experience in working with relational database systems like Postgres, in-memory databases like Redis and as well as document-based databases like Elasticsearch & MongoDB is more than welcome
+You can provide references for RESTful APIs and web service applications you have built and operated on a production level
+Cloud DevOps Skills: Familiarity with containerization (Docker), CI/CD tools (GitHub Actions, GitLab CI), and deployment to cloud platforms (Azure, AWS, GCP) to ensure scalability and production-readiness.
+You are flexible and comfortable with changing work patterns and demands and you prefer working agile (e.g. following methodologies like XP, Scrum, Lean)
+Collaboration with our customers is key, so you master the challenge to explain complex architectures and technologies in a language easy to understand and you know how to demonstrate solution approaches and results
+Actively mentoring more junior personell and sharing your knowledge on software development lifecycle and best practices with them
+fluent written and spoken English.
+Nice to have:
+German language skills
+Prompt Engineering: Understanding how to optimize prompts for LLM models
+Familarity with MLOps or AI Workflow Orchestration Tools such as MLflow or Dagster
+Domain-Specific Experience in Telco or Finance industries
+Benefits
+that make you happy
+Annual bonus
+Fully paid meal vouchers
+Mobile phone also for private use
+Discounts for selected Telekom products
+Supplementary pension saving contribution
+Cafeteria system of benefits/Multisport card
+Sick days
+Sports club & Health days
+Teambuildings, summer & Christmas party
+Opportunities for career growth
+Referral program
+Flexible working time
+About
+the selection process
+We are dedicated to constantly promoting equal employment opportunities and are ready to make reasonable adjustments for applicants with disabilities. If you are interested in our job opportunity and meet our job requirements for this position, we encourage you to confidentially notify us if you need specific accommodations to ensure your full participation in our recruitment process at recruitment@telekom.com.
+Snažíme sa neustále podporovať rovnaké príležitosti v zamestnaní a sme pripravení urobiť primerané úpravy pre uchádzačov so zdravotným postihnutím. Ak máte záujem o túto pracovnú príležitosť a spĺňate požiadavky inzerovaného pracovného miesta, odporúčame vám, aby ste nám dôverne oznámili, ak potrebujete osobitné úpravy, ktoré vám zabezpečia plnohodnotnú účasť na našom náborovom procese na recruitment@telekom.com.
+Send CV
+Deutsche Telekom Services Europe Slovakia
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5198995
+Dátum zverejnenia:
+28.11.2025
+2025-11-28
+lokalita:
+Košice
+Pozícia:
+Database Analyst
+,
+Programmer
+Spoločnosť:
+Deutsche Telekom Services Europe Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

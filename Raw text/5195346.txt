@@ -1,0 +1,112 @@
+PHP programátor
+MAURIT s.r.o
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 000 - 4 000 EUR/mesiac
+poskytujeme finančné príspevky na letnú dovolenku i vianočné darčeky
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do tímu hľadáme šikovného a odvážneho backend developera alebo developerku na čiastočný alebo plný úväzok na dlhodobú spoluprácu na rozsiahlych databázových stabilných projektoch z "education" oblasti napísaných v PHP. Pomôžeš nám písať technicky vyladený kód a optimalizovať aplikácie.
+Programovať a pracovať budeš hlavne s :
+● PHP spojený s frameworkami Nette (Symfony) a ich nadstavbami bežiacich na Ubuntu/Debiane
+● máme síce "frontendaka", ale sem tam sa aj HTML & CSS (bootstrap) popr. nejaký ten JS občas objaví
+● na ukladanie dát používame relačné, ale aj nerelačné databázy (MySQL, Elasticsearch, ClickHouse,..)
+● projekty máme cez Gitlab a na každodennú komunikáciu Slack a ticketing system v intranete
+V našom tíme máme skúsených vývojárov a testerov, ktorí si píšu automatizované testy a radi ti pomôžu a naučia. Používame nástroje na kontrolu kvality kódu a zavádzame si postupne CI/CD do procesov vrátane dokumentácie pomocou AI.
+Nerobte si starosti s tým, či sa prihlásite ako php guru prípadne starší alebo mladší študent. Svet nie je čiernobiely. Na prvom online stretnutí spoločne prediskutujeme naše a tvoje očakávania.
+Zamestnanecké výhody, benefity
+Nebudeme ťa lákať na kávičku zadarmo (určite máme najkvalitnejšiu v meste), či pravidelné masáže (možnosť mať každý mesiac) ale na naozaj skvelú firemnú kultúru i útulné pracovné priestory v rodinnom domčeku so záhradkou. Raz ročne si spolu
+vyrazíme na firemnú dovolenku niekam do sveta
+(máme za sebou Nórsko, Island, Portugalsko, Kanárske ostrovy,...). Často spoločne na záhrade grilujeme a jeden z firemných benefitov je naša vlastná super
+drevenica v Terchovej
+, kde môžeš stráviť príjemné dni s rodinou a najnovším firemným prírastkom medzi benefitmi je neobmedzená sloboda na štyroch kolesách - firemná
+VW California
+(úžitkové vozidlo s kuchyňkou a s nocľahom).
+● flexibilná pracovná doba a možnosť práce z domu
+● dlhodobá spolupráca
+● utužovanie kolektívu napríklad na spoločnej turistike alebo bicykloch
+● voľno nad rámec dovolenky
+● široké možnosti vzdelávania (konferencie, kurzy, školenia, literatúra,...)
+● možnosť realizácie vlastných nápadov a projektov
+● poskytujeme finančné príspevky na letnú dovolenku i vianočné darčeky
+● mesačný príspevok na športové aktivity podľa výberu (posilňovňa, plávanie,...)
+● možnosť ukázať schopnosti aj na veľkých projektoch
+● možnosť realizovať projekty už od ich začiatku s vlastným návrhom
+Samozrejmosťou sú aj ďalšie benefity ako hracia konzola, dobrovoľné hodiny angličtiny, čí prezentácie zaujímavých technológií atď - skrátka kvalitné zázemie považujeme za základ ! Nehráme sa na šéfov, náš boss nemá ani vlastnú kanceláriu v dome a sem tam sa aj o servery, databázy alebo zdrojové kódy postará :)
+PS: väčšina z nás sme nadšenci do AI alebo bitcoinu, takže ostatných kolegov aj vzdelávame...
+Informácie o výberovom konaní
+Okrem informácií o sebe (kto si, čomu sa venuješ/si sa venoval), nám môžeš poslať aj ukážky svojich prác (zdrojového kódu), alebo odkaz na tvoje portfólio, aby sme si mohli spraviť predbežný odhad o tvojich skúsenostiach. Ak nemáš ukážkový kód, nevadí, pošleme zadanie na vypracovanie.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Úplný začiatočník (A1)
+Ostatné znalosti
+PHP - Pokročilý
+PHP framework - Expert
+JavaScript - Mierne pokročilý
+MySQL - Pokročilý
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Čo očakávame na tejto pozícii?
+- praktické skúsenosti s tvorbou webových aplikácií sú nevyhnutné
+- pokročilé znalosti PHP (OOP) a MySQL
+- skúsenosti s niektorým z MVC frameworkov (Nette, Symfony, Laravel,... atď.)
+- znalosť HTML (XML), CSS, JavaScript
+- praktické skúsenosti s webovými službami API
+- ideálne minimálne 2-3 roky skúseností s vývojom backendu
+- skúsenosti s realizáciou veľkých databázových projektov sú výhodou
+- pre skúseného vývojára ponúkame možnosť viesť technickú stránku projektu, technické riešenia netriviálnych požiadaviek na funkčnosť projektu, vytváranie architektúry nových projektov
+A z tých netechnických požiadaviek ?
+- samostatnosť a prevziať zodpovednosť za riešenie
+- analytické myslenie a systémový prístup k práci
+- flexibilita a kreativita
+- schopnosť určovať priority
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Navrhujeme, realizujeme a prevádzkujeme internetové projekty. Naše znalosti a kreativitu využívame na analýzy, tvorbu a administráciu internet a intranet aplikácií.
+Sme menší tím cca 15-tich ľudí, takže všetci sme kolegovia aj kamaráti zároveň a preto vládne u nás otvorená a priama komunikácia.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Ľuboš Magát
+Tel.:
+0905 929 406
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5195346
+Dátum zverejnenia:
+20.11.2025
+2025-11-20
+lokalita:
+Práca z domu
+Pozícia:
+Backend programátor
+,
+PHP programátor
+,
+Programátor
+Spoločnosť:
+MAURIT s.r.o
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

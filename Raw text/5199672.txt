@@ -1,0 +1,139 @@
+Senior DevOps Engineer
+RecruLab s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 2 600 EUR/month
++ annual bonus, + attractive benefits
+Information about the position
+Job description, responsibilities and duties
+We are seeking an experienced
+Senior DevOps Engineer
+to participate in the design, development and operation of a modern
+Kubernetes-based Platform-as-a-Service
+for a new Open Sovereign Cloud product. The focus is on high-sovereignty cloud environments for regulated sectors such as healthcare, security, and public administration.
+You will take part in the implementation of sovereignty controls—encryption, identity management, platform security—and contribute to shaping the architecture and automation of a cloud platform fully operated within the EU.
+The role covers the entire lifecycle of
+CI/CD pipelines
+,
+Infrastructure as Code
+, automated deployment, configuration management, observability, and continuous improvement.
+Key Responsibilities
+Design, develop, test, and implement
+infrastructure for CI/CD pipelines and IaC.
+Manage
+source code, configuration management, release processes, build and deployment activities.
+Set up and maintain
+integrations with partner applications.
+Conduct
+performance analysis
+, tuning, troubleshooting, and incident resolution.
+Evaluate and implement
+innovative technologies aligned with the platform strategy.
+Create concepts for
+automation of services, processes, and operating models
+.
+Support development and QA teams in planning and implementing releases.
+Continuously
+optimize cloud and system infrastructure
+.
+Provide expert consulting, prototypes, and Proof-of-Concept solutions.
+Research new technologies, propose improvements, and support their implementation.
+Employee perks, benefits
+A modern, flexible work environment with a comprehensive package of employee benefits, typically including:
+Competitive financial benefits
+Learning & development support
+Health & sports benefits
+Family and work–life programs
+Various additional corporate benefits
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+International IT company
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Experience in the position/sector
+ICT systems
+Number of years of experience
+4
+Personality requirements and skills
+Technical Skills
+Scripting:
+Bash, Python –
+Expert
+Linux OS:
+Expert
+Cloud Platforms:
+OTC / AWS / Azure –
+Intermediate
+Containerization:
+Docker –
+Expert
+Kubernetes:
+Advanced (CKA, CKAD or CKS certifications are an advantage)
+Git:
+Expert
+CI/CD:
+Jenkins, GitLab –
+Advanced
+Build Tools:
+Maven, Gradle –
+Intermediate
+IaC / Automation:
+Ansible, Terraform, Puppet –
+Advanced
+Monitoring & Observability:
+ELK, Prometheus, Icinga, Jaeger, Grafana –
+Advanced
+Networking:
+Expert
+Security:
+Advanced
+Soft Skills
+Strong communication and teamwork abilities
+Analytical mindset
+Training and presentation skills
+Ability to work in Agile environments
+Agile Methods
+Agile methodology
+Scrum
+SAFe
+Advertiser
+Brief description of the company
+Recruitment consultancy
+Contact
+Contact person: Ing.  Pavol Derco
+Tel.:
++421917991200
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5199672
+Dátum zverejnenia:
+1.12.2025
+2025-12-01
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+,
+IT Architect
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+RecruLab s.r.o.
+Základná zložka mzdy (brutto):
+2 600 EUR/month

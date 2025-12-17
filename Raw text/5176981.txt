@@ -1,0 +1,98 @@
+Systémový a sieťový administrátor (m,ž,d)
+TEG Slovakia s. r. o.
+Miesto práce
+0221, Podzávoz 995, Čadca, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 2 400 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Chceli by ste pracovať v rozvíjajúcej sa spoločnosti s rozmanitými a širokými zodpovednosťami?
+Ako systémový a sieťový administrátor (m/ž/d) vo Fischer Holding môžete očakávať tradičnú systémovú administráciu aj moderný vývoj softvéru a webové technológie.
+TEG a Fischer Automation sú dve sesterské spoločnosti, ktoré ponúkajú vzrušujúce kariérne príležitosti. Spoločne formujeme textilný priemysel trvalým spôsobom a pokrývame široké spektrum oblastí.
+Spoločnosť TEG vo svojom sídle v Reichenbach im Vogtland (Sasko), ako aj v Plauene (Nemecko) a v Čadci (Slovensko) vyrába ročne viac ako 20 miliónov komponentov pre automobilový priemysel, medicínu a priemyselné aplikácie. Spoločnosť Fischer Automation vyvíja a vyrába systémy a riešenia na mieru v oblastiach šijacích strojov/šijacej techniky, baliacej, montážnej a automatizačnej techniky pre zákazníkov v Nemecku, Európe, Severnej Amerike a Ázii.
+Ako úspešná skupina spoločností ponúkame vzrušujúce pracovné miesto, rozmanité výzvy a sľubné vyhliadky do budúcnosti.
+Využite svoju príležitosť a staňte sa súčasťou nášho tímu!
+Tieto aktivity na Vás čakajú:
+Výhradne zodpovedný za správu, ďalší rozvoj a údržbu serverovej infraštruktúry (Linux a Windows).
+Správca Active Directory, Entra ID a Exchange spoločností Fischer Holding, TEG Germany, TEG Slovakia a Fischer Automation.
+V spolupráci s poskytovateľmi služieb (Sophos firewall) udržiavate a optimalizujete sieťovú infraštruktúru.
+Vyvíjať a spravovať komplexné Python aplikácie, najmä webové aplikácie s Flaskom.
+Prispôsobovať a rozširovať existujúce aplikácie (napr. systémy na zaznamenávanie času, kioskové systémy).
+Navrhujete a spravujete webové rozhrania (HTML, CSS, JavaScript).
+Spravujete a zavádzate kioskové systémy založené na platforme Electron.
+Zodpovednosť za skriptovanie a automatizáciu opakujúcich sa úloh (napr. zálohovanie, monitorovanie, nasadzovanie).
+Vytvárate technickú dokumentáciu a poskytujete podporu druhej úrovne.
+Zamestnanecké výhody, benefity
+Flexibilný pracovný čas s možnosťou práce na diaľku (2 dni/týždeň).
+Plochá hierarchia, krátke rozhodovacie procesy a kreatívne príležitosti.
+Príjemná pracovná kultúra v motivovanom a globálne orientovanom tíme.
+Moderné pracovné prostredie a technické vybavenie, ako aj medzirezortné digitálne procesy.
+Atraktívne platové ohodnotenie s dlhodobými kariérnymi vyhliadkami.
+Trvalé pracovné miesto v rodinnom podniku riadenom majiteľom.
+Firemné večierky a iné výhody.
+Informácie o výberovom konaní
+Pošlite nám svoj životopis v angličtine alebo nemčine. Vopred ďakujeme všetkým uchádzačom za ich záujem o prácu v našej spoločnosti. Proces starostlivého hodnotenia všetkých prijatých žiadostí a životopisov môže byť časovo náročný, preto prosíme o trpezlivosť.
+S informáciami o ďalšom postupe vo výberovom konaní budeme kontaktovať iba tých uchádzačov, ktorí spĺňajú predpoklady a požiadavky.
+Predpokladaný termín ukončenia výberového konania
+16.11.2025
+(ostáva ešte 13 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informatika, informačné technológie
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+alebo
+Nemecký jazyk - Pokročilý (C1)
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Máte nezávislý a štruktúrovaný spôsob práce, ako aj tímovú prácu a zmysel pre zodpovednosť.
+Ovládate Python a ideálne máš skúsenosti s Flask, SQLAlchemy a webovým vývojom.
+Ovládate Linux a Windows servery a máte dobré znalosti HTML, CSS a JavaScriptu, ako aj AD / Entra ID a Exchange (on-premise alebo cloudové).
+Máte skúsenosti so sieťami a firewallmi (Sophos je výhodou) a základné znalosti systému Electron a desktopových aplikácií.
+Máte už 5 alebo viac rokov odborných skúseností v tejto oblasti a radi si rozvíjate svoje profesionálne zručnosti.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Fisher Holding s viac ako 80 zamestnancami v Reichenbachu (DE), Plauen (DE) a Čadci (SK) sa zaoberá výrobou pre automobilový, medicínsky a veľký priemysel.
+Do Holdingovej spoločnosti patria "TEG Germany" ktorá bola založená v roku 2013 ako rodinný podnik a je inovatívnym zmluvným výrobcom technických textílií a netkaných textílií.
+"Fischer Automation", spoločnosť riadená majiteľom ktorá pôsobí na trhu už viac ako 70 rokov.
+"TEG Slovakia s.r.o." výrobný závod založený v roku 2021. Závod v Čadci je zameraný na výrobu textilných výrobkov ako je šitie koženkových zostrihov (palubové poťahy, opierky, výplne dverí), šitie upínacích pásov a vysekávanie filtrov.
+Spoliehame sa na inovatívne automatizačné technológie, ale aj na šikovné ruky našich krajčírok. Táto jedinečná kombinácia technickej inovácie a klasického remeselného spracovania robí z TEG jedinečného zmluvného výrobcu technických textílií. Podrobnejšie informácie môžete získať na webovej stránke spoločnosti www.teg-tex.com.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Monika Balážková
+Tel.:
++421910750775
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5176981
+Dátum zverejnenia:
+16.10.2025
+2025-10-16
+lokalita:
+Čadca
+Pozícia:
+Systémový administrátor
+Spoločnosť:
+TEG Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+2 400 EUR/mesiac

@@ -1,0 +1,91 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Lead Architect for Data&Analytics (Linux)
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+Lead Architect is a senior lead technical expert responsible for design and implementation of an assigned technology. Considers and defines design to enable automated configuration management, release management, build, test and deployment activities. This is a customer facing role/ tailor made solutions and implementations for the customer including consultancy.
+Teams works on Data&Analytics solutions from Cloud Native Databrics to bare metal Cloudera, MAPR, and Hadoop for dedicated client solutions as well as development of new Data&Analytics use cases for new offerings.
+What will you do?
+Design, develop, test, implement and support ICT components and applications in order to deliver quality standard product portfolio on D&A Platform (RHEL Linux)
+Build and develop concepts, processes and methods for automation, optimization, and standardization to satisfy efficiency and automation requirements.
+Provide advice or information at request or at own initiative to all relevant employees or customers regarding technical aspects of products.
+Provide project deliverables to fulfil the project scope.
+Consult and implement new innovative technologies to satisfy innovation strategy. Provide overall solutions and principles in planning, developing, and implementing new products to satisfy business requirements.
+Design, develop, and implement architecture of services based on Nvidia Omniverse platform requirements.
+Mentor and train co-workers to spread knowledge level and develop their skills.
+Act as key technical lead and solve and coordinate activities across related technologies/outside own team. Provide consulting services to project teams on areas of expertise.
+Research and development in assigned technology, determine business requirements, propose changes and develop implementation plans.
+You will succeed if you:
+Have a Master`s degree in Information technologies
+Have 2+ years of experience in designing and delivering systems based on IaaS, PaaS, and SaaS
+Have hands-on experience with CI/CD pipelines, serverless architectures, and tools for data engineering, data transformation, and data migration
+Have experience with GenAI technologies, LLM models, and their secure and automated deployment in Kubernetes environments
+Possess solid knowledge of Kubernetes (or similar container-based technologies)
+Have experience with VMware environments (e.g., VMware Tanzu Kubernetes)
+Have experience with scripting languages (Go/Python/Bash)
+Have experience with automation tools (Ansible, SaltStack, Terraform, Helm) and automation deployments
+Are experienced with CI/CD in Kubernetes environments and repository management
+Are an expert in automation with Git (GitHub, GitLab) and CI/CD tools such as GitHub Actions or GitLab CI/CD
+Have experience with Linux operating systems (RHEL, Ubuntu)
+Have experience with Software Defined Networking (SDN) and monitoring/visualization tools (e.g., Grafana, Prometheus)
+Have expert knowledge of operating systems, networking, and field-specific applications
+Have advanced knowledge of security, programming languages and virtualization
+Are communicative, a strong team player, and demonstrate analytical thinking, mentoring abilities, presentation, and negotiation skills
+Possess financial literacy and experience with project and quality management
+Speak English at least at C1 level (German is an advantage)
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lenka Možná
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5202953
+Dátum zverejnenia:
+8.12.2025
+2025-12-08
+lokalita:
+Košice region
+Pozícia:
+IT Architect
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 500 EUR/month

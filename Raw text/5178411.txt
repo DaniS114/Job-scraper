@@ -1,0 +1,95 @@
+Senior JavaScript Software Engineer
+Ciklum
+Place of work
+Obchodná, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 400 EUR/month
+The salary starts from 3400 Eur gross. The final salary depends on the previous experience and professional knowledge of the candidate.
+Information about the position
+Job description, responsibilities and duties
+Ciklum
+is looking for a
+Senior JavaScript (Vue.js) Software Engineer
+to join our team full-time in Slovakia.
+We are a custom product engineering company that supports both multinational organizations and scaling startups to solve their most complex business challenges. With a global team of over 4,000 highly skilled developers, consultants, analysts and product owners, we engineer technology
+that redefines industries and shapes the way people live.
+About the role:
+As a Senior JavaScript Software Engineer, become a part of a cross-functional development team engineering experiences of tomorrow. As part of a cross-functional development team, your work will directly impact scaling the platform to handle heavy loads and achieve global reach. Collaborating closely with our talented tech team, you'll bring fresh ideas—whether inspired by user feedback or market trends—and help us make smart, lasting decisions that drive success.
+The challenge: 1 million users rely on our platform, and we aim to scale to 50 million. Stability and scalability are critical as we enhance the framework, improve robustness, and optimize key features like authorization, routing, and component interaction. It’s a demanding role, but the reward is immense—you’ll shape our frontend approach and elevate the experience for millions of users worldwide.
+Responsibilities:
+Refactor legacy code step by step to enhance performance and resilience.
+Help our full-stack developers improve their frontend expertise through mentoring and training.
+Develop and maintain the component library.
+Collaborate with multiple product teams and our innovation lab to drive frontend advancements.
+Requirements:
+Proven track record of 5+ years working with JavaScript and Vue.js
+A proactive approach to challenges - you know how to identify problems, propose solutions, and contribute to the team’s growth
+Experience in improving scalability, performance & maintainability of code
+You know how to build things - from scratch
+Your English is solid—because clear communication keeps the team in sync!
+Tech stack:
+The frontend makes use of Vue.js 3 (must have) , Pinia, Vite, JS
+Front-end UI component libraries (Vue, Vuetify, Quaser , JavaScript, Vue, Css/SCSS, Vite, Vue CLI, Webpack
+For our mobile app: Ionic and Capacitor combined with Cordova
+The code is hosted in a monorepo in GitLab and deployed with GitLab CI/CD
+We use Docker for containerization purposes
+We deploy in the cloud, using Scaleway as our cloud provider
+What`s in it for you?
+Strong community: Work alongside top professionals in a friendly, open-door culture that values initiative and empowers its people to succeed
+Fast-paced & agile environment: Be part of a dynamic, fast-moving organization that champions efficiency and innovation
+Global exposure: Collaborate with international, cross-functional teams and contribute to large-scale initiatives
+Tailored learning: Boost your skills with internal events (meetups, conferences, workshops), Udemy access, language courses, and company-paid certifications
+Flexibility: Balance office and remote work to fit your rhythm
+Care: Take advantage of our extensive benefits offering, aligned with the best market standards
+The salary starts from 3400 Eur gross. The final salary depends on the previous experience and professional knowledge of the candidate.
+About us:
+At Ciklum, we are always exploring innovations, empowering each other to achieve more, and engineering solutions that matter. With us, you’ll work with cutting-edge technologies, contribute to impactful projects, and be part of a One Team culture that values collaboration and progress.
+Our Slovakia hub brings together passionate professionals working on global initiatives. Be part of a close-knit team that’s driving digital transformation and creating lasting impact.
+Want to learn more about us? Follow us on
+Instagram
+,
+Facebook
+,
+LinkedIn
+.
+Explore, empower, engineer with Ciklum!
+Interested already? We would love to get to know you! Submit your application. We can’t wait to see you at Ciklum.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Advertiser
+Brief description of the company
+Ciklum is a global Experience Engineering firm that stands at the forefront of innovation, blending next-generation product engineering, exceptional customer experiences, and cutting-edge AI.
+For over 20 years, Ciklum has been a trusted partner to global enterprises and digital disruptors, spearheading the creation of digital solutions that tackle complex corporate challenges while propelling businesses toward accelerated growth and success.
+Its global team of over 4,000 highly skilled engineers, experienced design specialists and consultants joins forces to engineer technology that paves the way for the future of your business.
+If you are looking for an interesting job opportunity and developing technologies that reimagine, reshape, and redefine the future, take a look at the vacancies at Ciklum here:
+https://jobs.ciklum.com/offices/slovakia/
+Number of employees
+1000 and more employees
+Contact
+Contact person: Yaroslav Klivak
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5178411
+Dátum zverejnenia:
+20.10.2025
+2025-10-20
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+Spoločnosť:
+Ciklum
+Základná zložka mzdy (brutto):
+3 400 EUR/month

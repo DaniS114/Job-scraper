@@ -1,0 +1,165 @@
+Frontend Developer
+Kistler Bratislava, s.r.o.
+Place of work
+: Bratislava, Slovak Republic
+Wage (gross)
+:
+2 500 EUR/month
+The salary in the job add is a minimal guaranteed base salary and can be higher - depending on the skills, level, education, professional experience, technological know-how.
+Contract type
+: full-time
+Information about the position
+Job description, responsibilities and duties
+Place of work:
+Bratislava
+Start date:
+Upon agreement
+Basic wage component (gross) and other rewards:
+from €2,500.00 gross
+Contract type:
+Fulltime
+The Kistler Group is a Swiss high-tech company and the global market leader in dynamic measurement technology.
+We develop and supply sensors, electronics and software backed up by a full range of services. In Bratislava we develop software for the next generation of IoT devices. Our software helps customers to manufacture higher quality products, to develop cleaner cars and to reduce congestions on the highways. Behind our success stand our passion for technology, our focus on innovation and a work environment that promotes teamwork. You can help us develop vehicles that people can trust and create measurement systems that save lives. Come shape a better future with us.
+Design and maintain the frontend architecture and technology stack to meet both functional and non-functional requirements.
+Evaluate and advise on the feasibility of non-functional requirements (e.g., performance, scalability, maintainability).
+Estimate effort for backlog items and ensure estimates remain accurate and up to date.
+Implement and test features according to the Definition of Done.
+Debug and resolve issues in existing functionality.
+Ensure continuous integration and maintain build quality within the frontend ecosystem.
+Collaborate closely with other technical roles to improve development infrastructure and automation.
+Contribute to quality assurance activities to ensure products meet design and usability expectations.
+Identify and communicate technical debt, ensuring it is visible and properly prioritized in collaboration with the Product Owner.
+Promote and apply frontend best practices and coding standards across the team.
+Validate that the implemented solution is technically ready for production.
+Support and manage the technical transition of the solution into live operation.
+Drive the data visualisation, doing thourough research, choosing the best library based on the project requirements.
+Must have
+Bachelor or Master degree in Computer Engineering, Computer Science or Electrical Engineering
+2+ years of experience as a software developer focused on web UI development (React, Sass, SignalR, D3.js for data visualization or other web graphical technologies such as Canvas or SVG, or other modern JavaScript libraries and frameworks)
+Knowledge of Software modeling tools and technologies (UML, …)
+Analytical and systematic working style
+Affinity to work in an international environment
+Commitment to deliver outstanding quality
+Experience in data visualisation, working with various 3rd party libraries, understanding the advantages of each of them
+Strong English communication skills, including the ability to present and explain technical concepts clearly in English
+Nice to have
+Experience in backend development (C#)
+Experience working with database systems (knowledge of PostgreSQL is a plus)
+Experience with CI/CD (Jenkins)
+Experience with agile development methods
+Basic understanding of WebSocket technologies (SignalR or similar)
+The way we work
+Hybrid working model – based on the agreement with your team lead. We trust that you know how to organize your time to stay productive
+Regular performance review and career growth possibilities
+A dynamic and challenging role in a global company
+Collaborative and supportive team culture
+Close collaboration with business drivers and key users
+Support for ongoing professional development to expand your technical and professional knowledge
+Health & Well-being
+Electric stand-up desk and ergonomic chair
+100% salary reimbursement for 10 days of sick leave
+25 days of vacation for everybody
+Recognition
+Compensation of overtimes
+Compensation of travelling time in case of business trip (extra allowance)
+Flexible Benefit System - starting from 1000€ per year in the Benefit Plus portal - platform with thousands of suppliers of your choice, including Kistler specific offerings
+Attractive referral bonus
+Extra contribution in significant life events – weddings and childbirths, rehousing
+Relocation bonus for employees who are moving because of Kistler (over 100 km)
+Career & Development
+Online English & German language courses
+Library, Online Educational Portals: Pluralsight, Safari books, LeanPub, Egghead
+Social life
+Team-buildings, Company breakfast, Christmas Party, Grill Party, etc.
+Football table and board games in the office
+Extra benefits
+Special offers and discounts (Metro cards, SND, Curaprox etc.)
+Lunch tickets in amount of 8,00 EUR
+Great coffee, tea, fresh fruit
+Do you like it so far? Let us know, send us your CV. After receiving and reviewing your CV we will contact you for short telephone pre-screen. Following this, if successful, we will set up meeting with your future team leader and one of our technical specialist for more detailed discussion about your experience and motivation and to answer your questions about company and project itself. The final stage of the hiring process is meeting with head of Kistler Bratislava to get to know you better and align on the personal and position expectations. Our HR colleagues will be informing and guiding you through every step of this process. Good luck. We are looking forward to meeting you.
+Employee perks, benefits
+The way we work
+Hybrid working model – based on the agreement with your team lead. We trust that you know how to organize your time to stay productive
+Regular performance review and career growth possibilities
+A dynamic and challenging role in a global company
+Collaborative and supportive team culture
+Close collaboration with business drivers and key users
+Support for ongoing professional development to expand your technical and professional knowledge
+Health & Well-being
+Electric stand-up desk and ergonomic chair
+100% salary reimbursement for 10 days of sick leave
+25 days of vacation for everybody
+Recognition
+Compensation of overtimes
+Compensation of travelling time in case of business trip (extra allowance)
+Flexible Benefit System - starting from 1000€ per year in the Benefit Plus portal - platform with thousands of suppliers of your choice, including Kistler specific offerings
+Attractive referral bonus
+Extra contribution in significant life events – weddings and childbirths, rehousing
+Relocation bonus for employees who are moving because of Kistler (over 100 km)
+Career & Development
+Online English & German language courses
+Library, Online Educational Portals: Pluralsight, Safari books, LeanPub, Egghead
+Social life
+Team-buildings, Company breakfast, Christmas Party, Grill Party, etc.
+Football table and board games in the office
+Extra benefits
+Special offers and discounts (Metro cards, SND, Curaprox etc.)
+Lunch tickets in amount of 8,00 EUR
+Great coffee, tea, fresh fruit
+Information about the selection process
+Do you like it so far? Let us know, send us your CV. After receiving and reviewing your CV we will contact you for short telephone pre-screen. Following this, if successful, we will set up meeting with your future team leader and one of our technical specialist for more detailed discussion about your experience and motivation and to answer your questions about company and project itself. The final stage of the hiring process is meeting with head of Kistler Bratislava to get to know you better and align on the personal and position expectations. Our HR colleagues will be informing and guiding you through every step of this process. Good luck. We are looking forward to meeting you.
+Expected date of completion of the selection process
+14.12.2025
+(there are still 27 more days)
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Number of years of experience
+2
+Personality requirements and skills
+Must have
+Bachelor or Master degree in Computer Engineering, Computer Science or Electrical Engineering
+2+ years of experience as a software developer focused on web UI development (React, Sass, SignalR, D3.js for data visualization or other web graphical technologies such as Canvas or SVG, or other modern JavaScript libraries and frameworks)
+Knowledge of Software modeling tools and technologies (UML, …)
+Analytical and systematic working style
+Affinity to work in an international environment
+Commitment to deliver outstanding quality
+Experience in data visualisation, working with various 3rd party libraries, understanding the advantages of each of them
+Strong English communication skills, including the ability to present and explain technical concepts clearly in English
+Nice to have
+Experience in backend development (C#)
+Experience working with database systems (knowledge of PostgreSQL is a plus)
+Experience with CI/CD (Jenkins)
+Experience with agile development methods
+Basic understanding of WebSocket technologies (SignalR or similar)
+Kistler Bratislava, s.r.o.
+Einsteinova 33
+851 01 Bratislava, Slovakia
++421 948 377 105
+, Natália Shalanová, HR Generalist
+Kistler Holding AG
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5192597
+Dátum zverejnenia:
+14.11.2025
+2025-11-14
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+Spoločnosť:
+Kistler Bratislava, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

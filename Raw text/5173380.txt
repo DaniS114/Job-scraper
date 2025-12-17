@@ -1,0 +1,94 @@
+Senior DevOps/platform Engineer - network/sys admin emphasis
+N I K É , spol. s r.o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+* nástupná mzda je závislá od skúsenosti kandidáta a je predmetom diskusie počas výberového konania. Minimálna nástupná mzda začína od 2500,- EUR/mesačne.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+- V Niké vyznávame DevOps a naše developerské tímy sa starajú o celý životný cyklus ich aplikácii od vývoja, cez ich buildovanie, testovanie, až po nasadzovanie a beh v produkcii, ich monitorovanie a operations
+- Pritom využívame celú radu nástrojov a spoločného middleware, ako napr. GitLab, Prometheus, Grafana, Saltstack, Terraform, ElasticSearch, OTEL či Kafka
+- Sme si ale vedomí, že donekonečna pridávať ďalšie zodpovednosti developerom a vyžadovať po každom, aby vedel používať, konfigurovať a spravovať túto infraštruktúru, nie je možné - a preto máme samostatný tím, ktorý sa o ňu stará, zabezpečuje jej prevádzku a stabilitu, a postupne ju rozvíja s cieľom vytvoriť internú (developerskú) platformu
+- Hľadáme teda skúseného kandidáta s predchádzajúcimi skúsenosťami s nasadzovaním, konfiguráciou a  prevádzkou CI/CD, monitorovacej infraštruktúry, centralizovaného logovania a kontajnerizovaných aplikácií, provisioningom a správou Kubernetes
+- Ako člen tímu sa budeš podieľať na prevádzke CI/CD toolsetu, automatizačnej a orchestračnej platformy, monitorovacieho a logovacieho stacku
+- Budeš súčasťou kontinuálneho zlepšovania a rozširovania týchto systémov
+- Budeš mať priestor analyzovať a zapojiť svoje skúsenosti a kreativitu do riešenia našich "DevOps výziev", konzultovať, pomáhať vytvárať a nastavovať štandardy v oblasti kontajnerizácie a automatizácie, IaC, monitoringu a logovania
+​
+Ak si náš ideálny kandidát, tak máš praktické skúsenosti s nasledovnými technológiami a oblasťami:
+na dostatočnej úrovni rozumieš networkingu a si schopný navrhnúť sieťovú topológiu, nakonfigurovať sieťové prvky a následne aj diagnostikovať a opravovať prípadné sieťové problémy
+rozumieš storage technológiam, protokolom a API (napr. OpenEBS, NFS, MinIO), dokážeš navrhnúť ich použitie, nasadiť ich do prevádzky a spravovať
+máš skúsenosti s virtualizáciou (momentálne používame VMWare a KVM) - budeš spolupracovať s tímom systémových administrátorov
+máš skúsenosti s konfiguráciou a správou Linuxu - v našej novej IaC buildujeme image cez Packer, konfigurujeme s využitím cloud-init a SaltStack-u, a do virtualiácie nasadzujeme cez Terraform
+používaním, inštaláciou a konfiguráciou git repository a CI/CD toolingu - my používame prevažne GitLab a jeho pipelines
+IaC nástrojmi SaltStack a Terraform (respektíve alternativy: Ansible, Chef, Pulumi...)
+manažmentom infraštruktúry pre centralizované logovanie, ideálne FluentD alebo fluent-bit, opentelemetry, ElasticSearch a Kibana
+infraštruktúrou pre distribuovaný tracing, v našom prípade ho staviame na OTEL
+monitorovacou infraštruktúrou ako je Prometheus + Grafana + Alertmanger
+kontajnerizačnými technológiami ako Docker, containerd, Cloud Native Buildpacks
+správou repozitárov pre softvérové artefakty: Nexus a Harbor (respektíve ich alternatívy)
+prevádzkou messaging middleware - Kafka, Zookeeper, Schema Registry
+vieš rozbehať on-premise Kubernetes v produkčnej kvalite vrátane CNI, CSI, service mesh, RBAC, atď.
+máš skúsenosti s produkčnou správou on-premise Kubernetes a s platformou postavenou na nej, definovaním best-practices a policies, day-2 operations a podporou pre developerské tímy
+navrhoval si, nasadzoval a spravoval on-premise cloud infraštruktúru ako OpenStack alebo CloudStack
+programovacími jazykmi ako Go a Python, a vieš debugovať v nich bežne implementovaný DevOps toolset; v prípade potreby ich dokážeš modifikovať alebo implementovať nový custom tooling
+Informácie o výberovom konaní
+Niké je líder inovácií vo svete tipovania. V Niké sa opierame o špičkový vývojársky tím, ktorý posúva náš business do nových dynamických dimenzií najnovších IT trendov. Vlastné sú nám voľnosť, fullstack vývoj a DevOps. Aj preto je Niké jednotkou tipovania na Slovensku.
+Vyvíjame riešenia pre stávkovanie cez všetky online kanály – web, mobile web, aplikácie pre Android a iOS.
+V Niké nájdeš dynamické a tvorivé prostredie otvorené akýmkoľvek novým nápadom, výborný tím pracujúci na vývoji jedinečných aplikácií.
+Našich viac ako 120 IT špecialistov, z celkového počtu 250 zamestnancov pracujúcich na centrále, už sídli v novej Niké IT budove na Starých Gruntoch v Mlynskej doline.
+Viac info zistíš na:
+https://kariera.nike.sk/
+Ďakujeme Vám za každú reakciu na túto pracovnú ponuku, ceníme si váš záujem. Kontaktovať budeme kandidátov, ktorých pozveme na osobné stretnutie.
+O zásadách ochrany osobných údajov sa dozviete na:
+https://www.nike.sk/info/zasady-ochrany-osobnych-udajov
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+Hľadáme niekoho, kto má skúsenosti, rozhľad a prinesie k nám nové názory, takže budeš mať bonusové body, ak máš skúsenosti napr.:
+s produkčnou prevádzkou kritických systémov bežiacich 24-7-365
+prácou systémového administrátora
+programovaním biznisových aplikácii (čiže si bol v minulosti programátor)
+SRE
+tvorbou internal developer platform
+správou platformových služieb ako napr. secret management (napr. Vault),  OIDC/OAuth (napr. Keycloak), certificate management (napr. certbot)
+infraštruktúrnou architektúrou, replikáciou, backupovaním, fault-tolerance a HA
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Niké, s.r.o. prvá slovenská stávková spoločnosť.
+Kontakt
+Kontaktná osoba: Radovan Mihina
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5173380
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+N I K É , spol. s r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

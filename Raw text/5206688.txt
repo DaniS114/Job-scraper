@@ -1,0 +1,76 @@
+About us
+Our benefits
+Open positions
+Junior DevSecOps Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 1 800 EUR/month
+For Slovakia the base salary range for this position is between EUR 1,800 and EUR 2,900 per month (for a full-time role). The specific salary offered considers: 
+- the requirements, scope, complexity and responsibilities of the role,
+- the applicant’s own profile including education/qualifications, expertise, specialization, skills and experience.
+
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognize your achievements. Further you will enjoy a variety of global and location specific benefits.
+Information about the position
+Job description, responsibilities and duties
+Our MS Data Services Team of Swiss Re is looking for an enthusiastic Junior DevSecOps Engineer who is ready for an exciting career with us.
+We build and maintain shared platform services and do Infrastructure as Code and also AI Ops. Our focus is on self-service multi cloud & amp; self-healing infrastructure, but we also enjoy data engineering. We are a highly skilled team in Bratislava that solves infrastructure and data pipeline problems from around the globe.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+The position is suitable for a fresh graduate
+Yes
+Personality requirements and skills
+Nobody is perfect and meets 100% of requirements. If, however, you meet some of the criteria below and are genuinely curious about the world of multi cloud and data pipelines, we will be happy to meet you.
+To be successful in the role, you need to have these technical skills and knowledge:
+-	Aware how to interact with API and CLI interfaces
+-	Experience in with Microsoft SQL databases
+-	Scripting with PowerShell
+-	Had exposure to or want to learn of programming languages Java, Golang or Python
+If you have any of the following experience and interests, it is a huge plus but not required:
+-	Deploying code with CI/CD pipelines
+-	Background in software engineering or database design
+-	Understnading basic TSQL queries
+-	Experience with data transformation, data cleansing or data wrangling
+-	Experience with Azure Cloud
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Denisa Bastos
+Apply here
+ID:
+5206688
+Dátum zverejnenia:
+17.12.2025
+2025-12-17
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+1 800 EUR/month

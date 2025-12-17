@@ -1,0 +1,105 @@
+DevOps Specialist (CI/CD, Networkig, GitOps, Monitoring)
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 2 200 EUR/mesiac
+Atraktívny benefirný systém klienta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme kolegu na pozíciu DevOps Špecialistu so zameraním na sieťové technológie (LAN, WAN) a podporu CI/CD prostredí. Kandidát bude úzko spolupracovať s vývojármi a senior DevOps špecialistami na tvorbe a prevádzke moderných informačných systémov.
+Čaká ťa práca s najnovšími technológiami v oblasti cloudu, CI/CD a monitoringu, mentoring od skúsených DevOps a Network špecialistov, ako aj možnosť rozvíjať sa v oblasti DevOps a sieťových technológií.
+Ak ťa láka svet automatizácie, infraštruktúry a sieťových riešení, radi ťa spoznáme.
+Tvoje zodpovednosti by boli nasledujúce:
+- podpora prevádzky a konfigurácie informačných systémov bežiacich na platformách Kubernetes
+- podpora LAN/WAN infraštruktúry, troubleshooting a optimalizácia sieťových prvkov
+- deployment systémov cez GitLab/Jenkins (GitOps princípy)
+- tvorba, správa a optimalizácia CI/CD pipelines
+- návrh a dokumentácia sieťovej architektúry pre interné aj cloudové riešenia
+- správa a optimalizácia sieťovej bezpečnosti (firewally, VPN, ACL)
+- aktívna spolupráca s tímom pri riešení incidentov a zlepšovaní infraštruktúry
+Zamestnanecké výhody, benefity
+- flexibilný pracovný čas, hybridný spôsob čerpania HO
+- sick days a dni voľna navyše pri špeciálnych príležitostiach – svadba, pôrod, sťahovanie, sprievod prváčika v 1. školský deň
+-bonus pri narodení/osvojení dieťaťa
+- odmeny – Referral program, odmeny pre jubilantov, zodpovedajúca variabilná zložka platu
+- doplnkové dôchodkové sporenie
+- ovocie, pitný režim, káva
+- inšpiratívne workshopy a aktivity na témy technology, enviro, diversity, well being
+- teambuildingy, spoločenské podujatia
+- vzdelávanie a osobný rozvoj - interná akadémia
+- poradenstvo v oblasti duševného zdravia
+- multisport karta,
+- CSR aktivity
+Informácie o výberovom konaní
+Prosím pošlite svoj životopis na email stanislav.vrabel@sourcefirstinternational.com
+Máme vždy viacero pozícií pre IT špecialistov nielen na Slovensku a v Čechách, ale aj na zahraničných projektoch.
+Predpokladaný termín ukončenia výberového konania
+1.2.2026
+(ostáva ešte 90 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Klientom je popredná spoločnosť poskytujúca komplexné IT riešenia na mieru.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+- znalosť administrácie LAN/WAN sietí (routing, switching, VLAN, VPN, ACL, DNS, DHCP)
+- znalosti cloud a Docker networkingu
+- praktické skúsenosti s kontajnerovými technológiami (Docker, Kubernetes)
+- skúsenosti so správou a inštaláciou Linux systémov
+- skúsenosti s konfiguráciou CI/CD nástrojov (GitLab, Argo CD)
+-  výhdodou znalosť nástrojov pre monitoring a logovanie (Prometheus, Grafana, ELK stack)
+- výhodou orientácia v databázach (SQL, PostgreSQL)
+- výhodou sú znalosti Helm, Keycloak, Kong, Longhorn
+- výhodou znalosť bash alebo Python skriptovania
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Stanislav Vrabel
+Tel.:
++421903857296
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5183909
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT konzultant
+,
+Správca informačného systému
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

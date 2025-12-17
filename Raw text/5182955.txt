@@ -1,0 +1,96 @@
+React Native Developer (Turborepo, Zustand, SQLite)
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 000 - 4 000 EUR/mesiac
+Hľadáme mediora/seniora.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Budujeme modernú aplikáciu pre verejný sektor, ktorá spája mobilné a webové prostredie do jedného celku. Využívame React Native, Expo a React Native Web, aby sme priniesli konzistentný používateľský zážitok na všetkých platformách. Na dlhodobú udržateľnosť a škálovanie používame Turborepo monorepo, architektúru staviame na Zustand pre správu stavu a React Query pre efektívnu prácu s dátami. Aplikácia je pripravená fungovať aj offline – vďaka SQLite databáze.
+Zodpovednosti:
+Navrhovať a vyvíjať funkcie v React Native + Expo.
+Riešiť architektonické otázky pri práci s React Navigation, React Query, Zustand, SQLite.
+Vykonávať code review, mentorovať juniorov a dohliadať na kvalitu kódu.
+Podieľať sa na implementácii offline-first prístupu a práce s lokálnou databázou.
+Zamestnanecké výhody, benefity
+- Variabilná zložka odmeňovania v podobe kvartálnych bonusov
+- Vzdelávanie prostredníctvom internej akadémie a externých školení
+- Jazykové kurzy
+- Voľné vstupy na športoviská
+- Voľné vstupy na vybrané kultúrne podujatia
+- Partnerské zľavy
+- Dni voľna pri špeciálnych príležitostiach nad rámec zákona
+- Príspevok do doplnkového dôchodkového sporenia a iné zaujímavé benefity
+Informácie o výberovom konaní
+Prosím, zašlite svoj životopis na e-mailovú adresu pavel.stojka@sourcefirstinternational.com. Vždy máme otvorené viacero pozícií pre IT špecialistov nielen na Slovensku a v Česku, ale aj na zahraničných projektoch.
+Predpokladaný termín ukončenia výberového konania
+31.1.2026
+(ostáva ešte 89 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Náš klient je inovatívna spoločnosť s dlhodobou tradícou, kde v samostatných divíziách vyvíja vlastné riešenia.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+Dôležité mať:
+Skúsenosti s React Native (nie len React + wrapper).
+Znalosť monorepo architektúry (ideálne Turborepo).
+Praktické skúsenosti so state managementom Zustand a React Query.
+Je plus ak máš:
+Skúsenosť s implementáciou offline riešení (SQLite alebo podobné).
+Schopnosť optimalizovať výkon a riešiť komplexné technické výzvy.
+Skúsenosti s bezpečnosťou a autentifikáciou (Biometrics, AppAuth, Keychain).
+Práca s mapami a vizualizáciou vrstiev.
+Predchádzajúca skúsenosť s aplikáciami s veľkým počtom používateľov.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Pavel Stojka
+Tel.:
++421902235479
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5182955
+Dátum zverejnenia:
+31.10.2025
+2025-10-31
+lokalita:
+Bratislava
+Pozícia:
+Frontend programátor
+,
+IT konzultant
+,
+Javascript programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

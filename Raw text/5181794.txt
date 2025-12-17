@@ -1,0 +1,104 @@
+Senior Angular/.Net SW Developer
+ComAp Slovakia s.r.o.
+Miesto práce
+Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 600 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pre náš R&D tím v Košiciach hľadáme Senior Angular/.NET vývojára, ktorý sa bude podieľať na vývoji graficky bohatej webovej aplikácie s názvom InteliSCADA. Je to robustný a zároveň veľmi intuitívny SCADA systém pre monitoring a riadenie hybridných energetických systémov. Beží aj v prehliadači. Táto aplikácia je z dielne nášho R&D oddelenia, kde pri vývoji prepájame SW a HW riešenia. Slúži používateľom ComAp riadiacich jednotiek na monitorovanie a ovládanie procesov v ich energetickom zázemí. Konkrétnejšie, na
+vizualizáciu a ovládanie hybridných mikrogridov
+bezpečné pripojenie k zariadeniam cez Ethernet, AirGate, Modbus a ďalšie protokoly
+zber a analýzu historických dát
+jednoduché vytváranie SCADA schém pomocou drag-and-drop nástrojov
+Ako pracujeme?
+S agilnou metodikou SCRUM
+V tíme aj cross-teamovo. Tím pozostáva z full-stack vývojárov, testerov.
+Aktuálne používané technológie a SW - .Net 8 (backend), Angular a TypeScript (frontend), SignalR, PostgreSQL, Visual Studio, Electron, Git, RESTAPI, Cypress.io
+Aký technický skillset je nevyhnutný?
+Skúsenosť s vývojom v C# a .NET
+Skúsenosť s Angular a moderným frontend vývojom
+Základy práce s databázami (PostgreSQL)
+Výhodou je skúsenosť s vývojom mobilných aplikácií
+Výhodou je znalosť Linux OS (Yocto)
+Záujem o technológie SCADA, IoT, energetiku alebo embedded systémy
+Angličtina na mierne pokročilej úrovni (B1-B2)
+Slovenčina B2
+Ponúkaná mzda
+Minimálna mzda pre senior level skúsenosť od 2600€ brutto/mesiac a zodpovedá minimálne 5-ročnej relevantnej pracovnej skúsenosti
+Náš odmeňovací systém počíta aj s variabilnou zložkou pre zamestnancov, podľa splnenia individuálnych performance a celofiremných cieľov.
+Okrem toho ponúkame:
+Možnosť spolupracovať na zaujímavých projektoch v rámci R&D tímu
+Príležitostne cestujeme do ComAp headquarters v Prahe
+Neformálnu firemnú kultúru
+Home office, flexibilná pracovná doba
+Komplexný adaptačný proces pre nových kolegov
+Vzdelávanie na zvýšenie odbornej kvalifikácie a podpora leadership potenciálu
+Jazykové vzdelávanie
+Príležitostné raňajky v kancelárii a podujatia pre tímy
+Relax zóny v našich priestoroch
+25 dní dovolenky + 3 Me Days na kalendárny rok
+Darčekové Edenred poukážky - štvrťročne 150 EUR (600 EUR /rok)
+Finančný príspevok na stravné v hodnote 4,71 EUR/deň
+Na čom nám záleží?
+Aby ComAp ostal spoločensky zodpovednou spoločnosťou
+Aby vývoj ComAp produktov smeroval k znižovaniu CO2 a trvalej udržateľnosti
+Aby sme podporovali nápady a inovácie v rámci nášho R&D vývoja
+Aby zamestnanci videli zmysel svojej práce a cítili sa zapojení do diania v ComApe
+Aby sa zamestnanci vzdelávali a radi chodili do práce
+Zamestnanecké výhody, benefity
+Vzdelávacie kurzy, školenia
+Stravné lístky/príspevok na stravovanie
+Dovolenka 5 týždňov
+Zdravotné voľno
+Možnosť home office
+Občerstvenie na pracovisku
+Príspevok na šport/kultúru/voľný čas
+Možnosť dlhšieho neplateného voľna
+Firemné akcie
+Bonusy/prémia
+Flexibilný začiatok/koniec pracovnej doby
+Notebook
+Vlastna organizácia práce
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+ComAp je medzinárodná spoločnosť so sídlom v Prahe a v ďalších 12 pobočkách po celom svete. Poskytujeme inovatívne riešenia v oblasti vývoja a výroby riadiacich systémov pre plynové a dieselové motory, záložné generátory a kogeneračné jednotky, sieťové ochrany, dvojpalivové systémy. Zabezpečujeme dodávky od samotných kontrolérov až po kompletné riešenie zložitých systémov podľa požiadaviek klientov.
+Viac informácií o našej spoločnosti nájdete na webových stránkach: www.comap-control.com
+Kontakt
+Kontaktná osoba: Lenka Mrázová
+E-mail:
+poslať životopis
+Na to, aby ste reagovali na túto ponuku,
+nepotrebujete životopis
+. Stačí len, keď vyplníte formulár.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5181794
+Dátum zverejnenia:
+26.10.2025
+2025-10-26
+lokalita:
+Košice
+Pozícia:
+Backend programátor
+,
+C# programátor
+,
+Frontend programátor
+,
+Programátor
+Spoločnosť:
+ComAp Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 600 EUR/mesiac

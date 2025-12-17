@@ -1,0 +1,133 @@
+Microsoft 365 Application & Automation Developer
+ST. NICOLAUS Group a.s.
+Miesto práce
+Trnavská cesta 100, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP / dohodou
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme
+proaktívneho a technicky zdatného vývojára
+, ktorý dokáže kombinovať moderné Microsoft 365 technológie (SharePoint Online, Power Automate, Power Apps, Copilot AI) s pokročilými AI riešeniami postavenými na LLM modeloch a integráciách.
+Nový kolega/kolegyňa bude zodpovedný/á  za
+návrh, vývoj a údržbu menších aplikácií a procesných automatizácií v prostredí Microsoft 365
+s možnosťou integrácie na Dynamics 365, ktoré zlepšujú interné procesy, zefektívňujú prácu tímov a prinášajú biznisovú hodnotu.
+Výhodou sú znalosti staršieho informačného systému Microsoft Dynamics NAV (on-prem) a schopnosť rozšíriť riešenia aj pomocou Python skriptovania. Cieľom pozície je rýchlo a efektívne transformovať biznis požiadavky na funkčné riešenia, ktoré zvyšujú produktivitu a zlepšujú používateľskú skúsenosť.
+Microsoft 365 / Power Platform:
+Vývoj a údržba riešení na platforme SharePoint Online (zoznamy, knižnice, moderné stránky, webparts).
+Automatizácia procesov cez Power Automate (cloud & desktop flows).
+Vývoj Power Apps (Canvas & Model-driven) pre interné aplikácie.
+Integrácia riešení s Dynamics 365 (Sales, Customer Service, Field Service) a inými systémami.
+Nasadzovanie Copilot AI do pracovných tokov.
+AI a automatizácia:
+Analýza, návrh a implementácia AI workflowov nad LLM modelmi (OpenAI, Azure OpenAI).
+Tvorba promptingových štruktúr a optimalizácia chain-of-thought mechanizmov a memory mechanizmov.
+Integrácia AI do SharePoint a M365 prostredia (vyhľadávanie, sumarizácia, odpovedanie na otázky).
+Práca s embeddingmi, vektorovými databázami a retrieval mechanizmami.
+Výhodou znalosť a využitie Python skriptovania pre API integrácie, dátové spracovanie a rozšírenie Power Platform riešení.
+Výhodou znalosti pri návrhu a implementácii agentických workflowov postavených na LLM (LangChain, SemanticKernel, vlastné riešenia).
+Dokumentácia architektúry a návrh bezpečnostných opatrení pre AI riešenia.
+Biznis a inovačná rovina
+Analýza interných procesov a identifikácia oblastí, kde AI prinesie pridanú hodnotu (úspora času, zvýšenie kvality, efektívnejší workflow).
+Návrh, testovanie a nasadzovanie AI riešení v rôznych oblastiach – od kreatívneho využitia generatívnej AI po optimalizáciu pracovných tokov.
+Sledovanie AI trendov a prenos relevantných inovácií do praxe.
+Spolupráca s manažmentom na tvorbe dlhodobej AI stratégie.
+Edukácia a adopcia AI
+Prezentácia možností AI kolegom – od praktických ukážok práce s Copilot AI/ChatGPT po tvorbu vizuálov v Midjourney.
+Vysvetľovanie AI princípov a limitácií (napr. prečo model nie vždy “rozumie” vlastným výstupom).
+Zamestnanecké výhody, benefity
+Prácu na projektoch digitálnej transformácii firmy spájajúcich Microsoft cloud technológie a AI inovácie,
+Hybridný model práce,
+Prístup k Microsoft certifikáciám a AI školeniam,
+Možnosť formovať internú AI stratégiu a adopciu,
+Stabilnú prácu pre spoločnosť s dlhoročnou tradíciou,
+Zvýhodnené ceny vlastných výrobkov,
+Pravidelné športové aktivity prostredníctvom programu Multisport,
+Využitie palivovej zľavy vo vybraných čerpacích staniciach,
+Pravidelný kurz cudzieho jazyka v pracovnej dobe,
+Firemné spoločenské a športové teambuildingové akcie,
+Jednoducho viaceré zamestnanecké benefity, ktoré potešia ...
+Informácie o výberovom konaní
+Ak prejavíte záujem na obsadzovanú pracovnú pozíciu v našej spoločnosti zverejnenú na stránke www.profesia.sk, a prostredníctvom zdroja www.profesia.sk sprístupníte Vaše osobné údaje spoločnosti v rozsahu údajov, ktoré ste uviedli do životopisu a do žiadosti o prijatie do zamestnania, spoločnosť bude o Vás spracúvať Vaše osobné údaje na účel: výberu uchádzačov o zamestnanie na obsadzované pracovné miesto. Právnym základom spracúvania osobných údajov je čl. 6 ods. 1 písm. b) nariadenia GDPR: realizovanie predzmluvných vzťahov, na ktorý spoločnosť nepotrebuje Váš súhlas. Poskytnutie osobných údajov je Vašou slobodnou voľbou, ak údaje spoločnosti neposkytnete, spoločnosť nebude môcť posúdiť Vašu vhodnosť na obsadzované pracovné miesto a nebude Vás môcť pozvať na pohovor.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT, matematika, technické odbory
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+Microsoft Power Automate - Pokročilý
+Power apps (Canvas, Model-driven) - Pokročilý
+Microsoft SharePoint - Pokročilý
+Prax na pozícii/v oblasti
+2
+Osobnostné predpoklady a zručnosti
+Skúsenosti s vývojom alebo konfiguráciou riešení v prostredí Microsoft 365.
+Pokročilé znalosti SharePoint Online – knižnice, zoznamy, práva, modern pages.
+Skúsenosť s integráciou Microsoft 365 aplikácií navzájom a s externými systémami (REST API, JSON, webhooks, konektory).
+Prax s návrhom promptov a promptingových stratégií.
+Skúsenosti s vývojom riešení postavených na LLM / generatívnej AI.
+Schopnosť využiť Copilot AI a AI-based funkcie M365 na zlepšenie procesov.
+Znalosť architektúry agentických systémov a orchestrácie agentov.
+Analytické myslenie a schopnosť transformovať požiadavky na technické riešenia.
+Skúsenosti s integráciou aplikácií tretích strán a implementáciou biznis požiadaviek.
+Schopnosť pracovať v tíme aj samostatne viesť architektonické workshopy alebo technické diskusie.
+Výhodou
+Skúsenosť vo výrobnom alebo finančnom sektore.
+Znalosť z oblasti systémov na správu dokumentov (DMS).
+Skúsenosť s Microsoft Dynamics NAV, D365 Business Central, Power BI a dátovej analytiky
+Prax s cloud infraštruktúrami a kontajnerizáciou (Docker, Kubernetes).
+Znalosť Pythonu (dátové transformácie, API integrácie, skriptovanie)
+Osobnostné predpoklady
+Zodpovednosť a orientácia na výsledok.
+Vysoká úroveň komunikatívnosti.
+Schopnosť vysvetliť komplexné koncepty zrozumiteľne.
+Kreatívne a inovatívne myslenie.
+Proaktívny prístup a tímová spolupráca.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Naša história sa začala písať v roku 1867 – v časoch, keď sa po cestách ozýval klopot koní a listy sa písali perom. Už vtedy sme pristupovali k rafinácii liehu s maximálnou starostlivosťou a rešpektom. Roky plynuli, no naše odhodlanie vyrábať kvalitné nápoje zostalo rovnaké. Dnes sme najväčší výrobca a distribútor alkoholických nápojov na Slovensku a významný hráč v strednej Európe. Staviame na moderných technológiách, odbornom tíme a poctivosti v každom kroku – veríme, že len tak môžeme poskytnúť to najlepšie.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Monika Nogová
+Tel.:
++421915848043
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5140011
+Dátum zverejnenia:
+28.11.2025
+2025-11-28
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT analytik
+,
+IT architekt
+,
+IT/Technical Support Specialist
+,
+Správca počítačovej siete
+Spoločnosť:
+ST. NICOLAUS Group a.s.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

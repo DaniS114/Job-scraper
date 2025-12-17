@@ -1,0 +1,100 @@
+Full-Stack Java Developer (Spring Boot + React)
+citadelo s. r. o.
+Place of work
+Bottova 2, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+From 3 800 EUR/month
+The overall height depends on the level of experience with the required technologies.
+Information about the position
+Job description, responsibilities and duties
+At Citadelo, we’re dedicated to safeguarding the digital world through cutting-edge cybersecurity solutions. As we expand our team, we're seeking a skilled Full Stack
+Developer
+who is passionate about security and building resilient, scalable systems. Our offices are in Prague and Bratislava.
+About the Project
+Modern SaaS platform built for penetration testing management and security reporting. It combines scalable backend architecture with a clean, modular React frontend. You’ll join a small, high-performing engineering team focused on quality, automation, and developer experience.
+Design and develop full-stack features (React + Spring Boot)
+Implement REST APIs, data models, and business logic
+Integrate frontend components with backend endpoints
+Write clean, maintainable, and well-tested code (JUnit 5)
+Participate in code reviews, architecture discussions, and CI/CD improvements
+Collaborate closely with product designers and security experts
+Tech Stack
+Backend: Java (latest LTS or higher), Spring Boot / Spring Framework, Hibernate, Flyway, MapStruct
+Database: PostgreSQL, Redis (caching and session management)
+Frontend: TypeScript, React (latest), PrimeReact, TailwindCSS / PrimeFlex
+Testing: JUnit 5, Testcontainers, WireMock
+DevOps & Tooling: Gradle, Docker, Kubernetes (K8s), GitLab CI/CD
+Integrations: Google OAuth2 / Cloud Identity, Kong Gateway, Prometheus
+Reporting: Jasper Reports
+Employee perks, benefits
+Sharing everything we know
+Training and certifications
+Flexible working hours
+Wellbeing contribution
+Teambuilding events
+Hacker conferences
+Flat hierarchy
+Transparent communication
+A modern & pet-friendly office in the center of Bratislava
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+IT development
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Strong experience with Java and Spring Boot
+Hands-on experience with React and modern JavaScript/TypeScript
+Solid understanding of SQL and ORM frameworks (Hibernate/JPA)
+Familiarity with RESTful APIs and frontend–backend integration
+Experience writing unit/integration tests (JUnit 5)
+Basic understanding of containerization (Docker); Kubernetes is a plus
+Strong sense of code quality, clean architecture, and Git workflows
+Good communication skills and ability to work in an agile team
+Nice to Have
+Experience with Redis, Flyway, or MapStruct
+Familiarity with Google Cloud Platform
+Understanding of security, authentication, or SSO
+Prior experience with SaaS or enterprise systems
+Why Join?
+Work on a greenfield security product with a modern tech stack
+Small, skilled team — your ideas matter
+Emphasis on code quality, automation, and developer happiness
+Flexible work setup and opportunity to shape technical direction
+Advertiser
+Brief description of the company
+Do you know how to think like a hacker? We do. We think like hackers, but we don’t abuse it. On the contrary, our main goal is to reveal vulnerabilities without causing damage. Being a leader is a matter of course for us, an ethical approach an essential requirement, and a safer IT world our mission.
+Citadelo, was founded in 2006 by ethical hackers to help Fortune 500 companies identify vulnerabilities through simulated attacks. By engaging in cloud security testing, application testing, and more, the cybersecurity firm helps businesses achieve a higher level of security. Backed by a team of 30 professionals, the company is a market leader in Slovakia and the Czech Republic and has offices in Zug (Switzerland), Prague and Bratislava.
+Number of employees
+50-99 employees
+Contact
+Contact person: Mgr.  Lucia Komiňáková
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5176613
+Dátum zverejnenia:
+16.10.2025
+2025-10-16
+lokalita:
+Bratislava
+Pozícia:
+Java Programmer
+,
+Programmer
+Spoločnosť:
+citadelo s. r. o.
+Základná zložka mzdy (brutto):
+3 800 EUR/month

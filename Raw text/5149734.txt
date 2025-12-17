@@ -1,0 +1,83 @@
+Senior backend engineer / Javascript, Node.js
+Galeon
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+živnosť
+Mzdové podmienky (brutto)
+4 500 - 6 000 EUR/mesiac
+odmena na faktúru. 
++13. plat: 4000€
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného softvérového inžiniera, ktorý posilní náš vývojársky tým vo firme Galeon
+Náplň práce je vývoj nemocničného softwaru a súvisiacich modulov
+Firma je etablovaná od roku 2016 a aktuálne spolupracujeme s 20 nemocnicami vo Francúzsku
+Vývojársky team sa nachádza na Slovensku
+Hlavný komunikačný jazyk je angličtina
+Hľadáme človeka, ktorý má skúsenosti s programovaním aplikácií a vie pracovať samostatne, analyzovať požiadavky a proaktívne pristupovať k výzvam, navrhovať riešenia. Schopnosť budovať nový projekt od začiatku, aj rozširovať existujúci projekt s využitím existujúcich princípov. Netvoríme statické stránky, ale komplexné webové aplikácie.
+Vhodný kandidát:
+10+ rokov dev experience
+posledné 3 roky backend pozícia (bez full-stack)
+rád pracuje aj v JavaScript (nie len v TypeScript)
+má rád analytickú prácu
+Technológie:
+Dev stack: Nodejs, Javascript, Express.js, MongoDB
+Test stack: Mocha, Chai, Supertest
+Infra: Gitlab, Jira, HL7
+Sústreďujeme sa na efektívne UI a dobre štrukturované dáta, na základe ktorých vieme pomáhať doktorom v každodennej práci, vylepšovať procesy v nemocniciach a tiež podporovať medicínske výskumy. S cieľom zlepšiť zdravotníctvo a zdravotný stav celých populácií.
+Na backende tvoríme najmä REST/json API, často tvoríme prepojenia medzi rôznymi systémami
+https://www.galeon.care/info-healthcare
+https://www.linkedin.com/company/galeon-care
+​
+Zamestnanecké výhody, benefity
+• full-remote
+• 25 dní do roka platenej dovolenky aj na IČO
+• 10 sick days
+• Extra voľné dni v prípade špeciálnych príležitostí: svadba, narodenie dieťaťa.
+Informácie o výberovom konaní
+Priebeh pohovoru:
+1. kolo – úvodné predstavenie
+2. kolo – technický test na cca 8 hod
+3. kolo – vzájomná kompatibilita
+4. kolo – finálny pohovor so CEO & CTO
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+Osobnostné predpoklady a zručnosti
+"We are builders, we are creating the next generation of hospital sofware, we want to amaze users and improve the world"
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Franczúsko-slovenská firma, ktorá od roku 2016 buduje software pre zdravotníctvo.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Peter Bartos
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5149734
+Dátum zverejnenia:
+7.10.2025
+2025-10-07
+lokalita:
+Práca z domu
+Pozícia:
+Javascript programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Galeon
+Základná zložka mzdy (brutto):
+4 500 EUR/mesiac
