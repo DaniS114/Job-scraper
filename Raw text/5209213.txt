@@ -1,0 +1,105 @@
+IT Administrator / Hosting engineer in the data center in Bratislava
+BBI Int., a. s.
+Place of work
+Petržalka, Slovakia, Bratislava (Job with occasional home office)
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+2 000 EUR/month
+The salary starts from 2000 EUR monthly, higher salary is agreed individually based on the proved experience and seniority.
+Information about the position
+Job description, responsibilities and duties
+Position itself is a lot of about technology: hardware, virtualization, operating systems, databases, servers patching, backups, regular maintenance, not many changes daily, but some changes in infrastructure on a weekly / monthly basis.
+Deploying and installing new technologies or decommission of old technology is expected once per year - first year servers, second year storages, next year backup technology, etc.
+Cooperation together with network team and applications team. Majority of the stakeholders are Europe time zone, some of the stakeholders are in USA and in Asia.
+For patching and maintenance it is required to perform the activities during off hours and weekends.
+Employee perks, benefits
+project-oriented work, projects for our customers from the automotive, banking and telecomunication industry, work with modern technologies, international team of colleagues,
+permanent employment contract / business contract,
+1 month probationary period,
+rewards beyond salary (for recommending a colleague, for winning a new project - reward in the amount of several salaries, ...),
+regular teambuildings with colleagues from BBI
+Information about the selection process
+2 rounds of interviews
+Detailed resume with projects experience required
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Intermediate (B1)
+Other knowledge
+UNIX/Linux administration - Skillful
+Windows server administration - Skillful
+Backup Management - Skillful
+Storage Area Network (SAN) - Skillful
+Server virtualization - Skillful
+Database management - Skillful
+Experience in the position/sector
+3
+Number of years of experience
+3
+The position is suitable for a fresh graduate
+Yes
+Personality requirements and skills
+Proficient in server, storage and backup hardware management
+Have a deep understanding of server storage and backup equipment
+Have the knowledge, skills, and experience for common hardware installation, setup and maintenance, be able to conduct inspection, maintenance, and troubleshooting.
+Proficient in common virtualization solutions, such as VMware and OpenStack, be capable of installation, configuration, inspection, maintenance and troubleshooting.
+Proficient in common operating systems, such as Windows Server, Linux, be capable of installation, configuration, inspection, maintenance and troubleshooting.
+Proficient in common backup systems, especially Commvault, etc., be capable of installation, configuration, inspection, maintenance and troubleshooting.
+Proficient in public IaaS usage and management (e.g. AWS, GCP, Oracle cloud, Ali cloud), be capable of add/cancel public IaaS resource, account, permission, cost management, compliance management and so on;
+Have wide knowledge in other central computing services, including datacentre, bastion server, monitoring, security and so on. Understand the logical relationships, dependencies and interactive interfaces between central computing technology and the related areas, be able to coordinate the delivery of all services.
+Knowable with database technology such as MsSQL, MySQL and Redis is a desired value added.
+Can work in oncall in non-working hour and apply overtime per business demand.
+Certified from HP, Dell, Microsoft, Red Hat, Suse, ITIL, etc. are preferred.
+Minimum of 3 years’ experience supporting hosting service delivery which focuses on service stability, security, and customer satisfaction.
+Experience with ITIL methodology aligned service setup and operations as well as service catalogue management.
+Excellent communication skills, proficient in English.
+Cooperation and leading activities from teams across all time zones / regions
+To be able to build up a vsan/vsphere cluster from scratch.
+To be able to setup a backup environment with hardware (e.g. Dell storage)/software(e.g. Commvault) from scratch.
+​
+Advertiser
+Brief description of the company
+BBI stands for Beyond Business Intelligence and already expresses in the company name its core philosophy. We offer our customers more than just the implementation of software solutions. We support our customers throughout the entire process – from problem analysis to performance measurement. Our aim and added value of services is to bridge the gap between conventional management consultancy and IT software providers.
+BBI is currently running projects in automotive, financial, telecomunication and public sectors.
+Number of employees
+25-49 employees
+Contact
+Contact person: Ing.  Dalibor Samek
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5209213
+Dátum zverejnenia:
+29.12.2025
+2025-12-29
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+IT System Administrator
+,
+Service Engineer
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+BBI Int., a. s.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

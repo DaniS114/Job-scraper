@@ -1,0 +1,121 @@
+Senior Support Specialist
+NetCore j.s.a.
+Place of work
+CASSOVAR, Košice
+Contract type
+full-time, part-time
+Start date
+upon agreement
+Wage (gross)
+From 2 500 EUR/month
+Final salary depends on experience and type of contract.
+Information about the position
+Job description, responsibilities and duties
+Who we are
+We’re a Slovak software company developing our own network automation and configuration management platform — Unimus. The entire product is built in-house, and currently deployed in over 3000 networks worldwide. Our software runs in production across a broad range of environments — from small business networks, through enterprise data centers, regional ISPs, to national-scale telcos and carriers.
+Unimus automates backup, change tracking, configuration auditing, and other essential network operations tasks across over a million devices. Every support case we solve improves not just our customer’s infrastructure, but also the product itself.
+We're not building software for someone else. We own the roadmap, the code, and the support. And we’re hiring someone to help us take our support to the next level.
+What you’ll do
+We’re looking for someone with a solid technical background who enjoys helping customers solve interesting challenges. This role involves working closely with our software and network technologies, and you’ll work with technical customers. You’ll take ownership of the entire support ticket lifecycle, from intake to resolution, including collaboration with developers when bugs or feature feedback come up.​
+Solve technical support cases — involving routers, switches, the Linux and Windows ecosystems, or issues in our own software stack
+Handle the support lifecycle end-to-end: ticket intake, triage, resolution, and follow-up with dev when necessary
+Participate in troubleshooting calls and live chat with customers (typically network admins or sysadmins)
+Ensure that the ticket queue flows, and nothing critical gets missed
+Contribute to improving our internal tools, workflows, and documentation — and help make our support even smoother
+Provide clear, courteous responses to customers and actively work to find solutions, even if it requires additional communication or research
+Focus on customer satisfaction: your goal is to resolve issues in a way that meets the customer’s needs
+Work independently in support, with guidance from the team on highly technical issues
+This role benefits from organization, and calm problem-solving — but also empathy and curiosity. Behind every ticket is a person who just wants their infrastructure to work.
+Who you’ll be talking to
+We don’t do end-user support. All our users are technical — network administrators, sysadmins, DevOps engineers, etc. You’ll talk to people who know their way around routers, Linux and shells, and appreciate working with someone who can speak their language.
+What you should know already
+You should have practical experience in either networking or Linux and Windows system administration, enough to troubleshoot and help customers effectively. Ideally, you've worked in environments where you’ve had to diagnose and resolve real-world issues across network infrastructure and operating systems.
+​
+Core knowledge:
+​
+Networking (Layer 2–4): configuring and managing routers, switches, VLANs, routing protocols
+Linux: command-line utilities, service management, logging, troubleshooting, deployment, iptables
+Bash, basic scripting, file permissions, system security
+Web stack basics: Apache/Nginx, databases, firewalls
+Nice to know:
+Troubleshooting tools: tcpdump, Wireshark
+Docker, Git, GitHub
+PKI, Linux hardening, firewalling
+If you don’t know every one of these tools, that’s fine — but you should be comfortable diving in and learning quickly. We're here to support your growth.
+How we work
+Core hours are 10:00–16:00. US timezone support (12:00–20:00) is shared within a team rotation, so you won’t cover it every week.
+We don’t play titles. Everyone knows their role, and when something doesn’t work, we talk openly — informal but professional.
+No support chatbots — just real engineers solving real problems.
+The people who built the product sit right next to us — just turn around and get things solved without unnecessary writing, scrolling, or waiting.
+What you won’t deal with
+Support for non-technical users
+Ignored issues — when something breaks, we fix it promptly
+Being on call during your vacation (or being on call at all)
+Unclear pay or avoiding conversations about your growth
+Benefits that truly matter
+Employee stock options
+- a share in the company you are helping to grow
+Flexible cooperation model
+- internal or external engagement based on your preference
+Extra time off
+- additional days of vacation between Christmas and New Year’s
+Professional development
+- we’ll support the learning method you prefer (courses, books, trainings, etc.)
+Burrito Fridays
+- yes, burritos every Friday, covered by the company
+Team-building events
+- at least four times a year, enjoyable for the whole team and their families
+VR, darts, and calcetto
+- we play daily, and occasionally organize friendly tournaments
+In-office massages
+- because eight hours at a desk can take its toll
+Shower and locker room
+- ideal if you bike to work or run in the mornings
+Pet-friendly office
+- if your dog watches over the ticket queue, feel free to bring them along
+Sabbatical after 3 years
+- take time off to recharge without guilt
+and on top of all that, you’ll have access to parking, too.
+What to expect in the process
+A brief introductory phone call
+Technical interview — focused on your support experience and Linux/networking knowledge
+Final round — meet the team and discuss how we’d work together
+We’ll make an offer if it clicks. No drawn-out process, no ghosting.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Language skills
+Slovak - Advanced (C1)
+and
+English - Advanced (C1)
+Advertiser
+Brief description of the company
+We are a Slovakian-founded software company dedicated to developing our own network automation and management software suite (https://unimus.net). Fully independent, we create solutions that impact the world of network management on a global scale - from small local networks to national telecom carriers.
+Currently, we’re enhancing our software suite by developing a new product.
+Number of employees
+25-49 employees
+Contact
+Contact person: Alexandra Kuhajdíková
+Tel.:
++421905329467
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5168415
+Dátum zverejnenia:
+19.12.2025
+2025-12-19
+lokalita:
+Košice
+Pozícia:
+IT/Technical Support Specialist
+Spoločnosť:
+NetCore j.s.a.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

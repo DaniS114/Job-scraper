@@ -1,0 +1,115 @@
+Identity Management Business Analyst
+Inalogy, a.s.
+Miesto práce
+Digital Park II, Einsteinova, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok
+Termín nástupu
+1.2.2026
+Mzdové podmienky (brutto)
+2 750 EUR/mesiac
+Koncoročné odmeny
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Analýza a návrh riešení
+Vedenie workshopov so zákazníkmi na zber a analýzu biznis požiadaviek v oblasti správy identít a prístupov
+Mapovanie existujúcich procesov správy identít a identifikácia priestoru na zlepšenie
+Návrh cieľového stavu IAM riešenia v súlade s bezpečnostnými štandardami a best practices
+Vypracovanie gap analýz a roadmap implementácie
+Dokumentácia a špecifikácia
+Tvorba funkčných špecifikácií a biznis požiadaviek pre implementačný tím
+Príprava procesných diagramov a dokumentácie životného cyklu identít
+Definovanie rolí, oprávnení a prístupových politík (RBAC model)
+Komunikácia a konzultácie
+Komunikácia so stakeholdermi na strane zákazníka – od IT oddelení po manažment
+Prezentácia návrhov a riešení pre technické aj netechnické publikum
+Konzultačná podpora zákazníkov počas implementácie aj po nasadení
+Spolupráca s tímom
+Úzka spolupráca s implementačnými konzultantmi a vývojármi
+Účasť na projektových stretnutiach a reportovanie stavu projektu
+Práca na medzinárodných projektoch s možnosťou cestovania
+Zamestnanecké výhody, benefity
+Tím a kultúra
+Zohratý tím šikovných ľudí, ktorí sa navzájom podporujú a radi zdieľajú know-how
+Priateľská atmosféra bez zbytočnej korporátnej byrokracie
+Priama komunikácia a rýchle rozhodovanie
+Rast a rozvoj
+Mentoring od seniorných kolegov s dlhoročnými skúsenosťami v IAM
+Práca na reálnych projektoch pre banky, univerzity a štátnu správu – nie cvičné úlohy
+Podpora certifikácií a odborného vzdelávania
+Príležitosť pracovať na zahraničných projektoch
+Work-life balance
+5 dní navyše nad zákonný rámec
+Flexibilný pracovný čas
+Možnosť home office
+Dôraz na udržateľné tempo práce, nie na preťažovanie
+Odmena a vybavenie
+Motivujúce ohodnotenie rastúce s tvojimi skúsenosťami a prínosom
+Nadštandardné technické vybavenie
+Moderná kancelária v dobrej lokalite v Bratislave s možnosťou parkovania
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Identity Management
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+alebo
+Nemecký jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+3
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Nevyhnutné
+Silné analytické myslenie a schopnosť riešiť komplexné problémy
+Skúsenosti s analýzou biznis procesov a tvorbou funkčných špecifikácií
+Schopnosť zrozumiteľne prezentovať technické koncepty netechnickému publiku
+Vynikajúce komunikačné a konzultačné zručnosti
+Angličtina na úrovni umožňujúcej samostatnú prácu so zahraničnými klientmi (min. B2)
+Technické znalosti (výhodou, nie podmienkou)
+Skúsenosti v doméne Identity and Access Management (IAM)
+Znalosť RBAC, životného cyklu identít a prístupových politík
+Orientácia v autentifikačných protokoloch (SAML, OIDC, Kerberos)
+Základná znalosť adresárových služieb (LDAP, Active Directory)
+Skúsenosti s platformami midPoint, Keycloak alebo podobnými IAM riešeniami
+Výhodou
+Skúsenosti s Azure AD / Entra ID, MS365
+Znalosť 2FA/MFA riešení (OTP, autentifikačné aplikácie)
+Skúsenosti s IT auditom alebo bezpečnostnými štandardami
+Certifikácie v oblasti IAM alebo IT bezpečnosti
+Znalosť nemčiny
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť Inalogy sa špecializuje na návrh a realizáciu Identity manažment systémov postavených primárne na open-source produktoch. Uvedomujeme si vysokú špecificitu nášho biznisu a preto máme pre nových zamestnancov pripravený learning program, po ktorom sa budú schopní aktívne podieľať na projektoch a rásť v oblasti počítačovej bezpečnosti.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Miriama Danková
+Tel.:
++421902603842
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5208194
+Dátum zverejnenia:
+22.12.2025
+2025-12-22
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+,
+IT konzultant
+Spoločnosť:
+Inalogy, a.s.
+Základná zložka mzdy (brutto):
+2 750 EUR/mesiac

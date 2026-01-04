@@ -1,0 +1,97 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Experienced Python Software Engineer
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 3 200 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. 
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+ESET is a global leader in cybersecurity solutions, protecting millions of users and organizations worldwide. Join our Automated Systems and Solutions department, contributing to innovative security tools, AI-driven solutions, and cloud-based infrastructure.
+As a Experienced Python Software Engineer, you will design, develop, and maintain microservice backend systems, optimize DevOps pipelines, and contribute to data collection, AI/ML initiatives, and the development of large language models (LLM) and AI assistants. You will work with modern cloud infrastructure and collaborate across teams to deliver secure, scalable solutions.
+Key Responsibilities
+Develop backend services and APIs using Python and gRPC
+Collaborate on DevOps processes: CI/CD pipelines, Docker, Kubernetes
+Monitor cloud infrastructure in Microsoft Azure
+Contribute to AI/ML initiatives, including LLM and AI assistant development
+Participate in system architecture and code review discussions
+Required Skills & Experience
+Strong Python programming skills and software engineering fundamentals
+Experience with Linux, CI/CD tools (Jenkins or similar), and containerization (Docker, Kubernetes)
+Knowledge of relational and/or NoSQL databases
+Experience with gRPC for building scalable service-to-service APIs
+Ability to write clean, maintainable code and troubleshoot issues
+Preferred / Nice-to-Have
+Background in cybersecurity, network security, or reverse engineering
+Experience with Kafka, cloud storage (S3), or monitoring tools
+Familiarity with AI/ML workflows and data pipelines
+Education
+Bachelor’s or Master’s degree in Computer Science, Cybersecurity, or equivalent experience
+What We Offer
+Flexible work arrangements: hybrid (on-site in Bratislava with partial remote work)
+Career development and continuous learning opportunities
+Participation in innovative cybersecurity projects
+Competitive salary with performance-based bonuses
+Health and wellness benefits, team-building events, and international work culture
+Why Join Us
+Work with a global team on projects that directly impact cybersecurity worldwide. Gain experience with modern Python ecosystems, gRPC-based backend systems, cloud infrastructure, and AI/ML integration including large language models and AI assistant development.
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207833
+Dátum zverejnenia:
+19.12.2025
+2025-12-19
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Programmer
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 200 EUR/month

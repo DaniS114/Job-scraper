@@ -1,0 +1,89 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Experienced Mobile SW Engineer
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 700 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. * Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are looking for an experienced Mobile Software Engineer to join our agile development team. The team develops ESET mobile solutions for both consumer market and business customers. We can also consider less experienced candidates than we required, so feel free to send your CV.
+Position is directly located in Bratislava without the option to work remotely. We require be onsite 2 days per week in average.
+Responsibilities:
+design and implement modular object-oriented software for Android and iOS
+participate in Code Reviews as a member of an agile team
+write clean, maintainable code following industry standards and best practices
+participate in code quality improvements, keeping in mind future code maintenance and performance
+work closely with other R&D teams
+cooperate with representatives from Sales, Product Management and Technical Support
+Minimum qualifications:
+Bachelor’s degree in Computer Science, Computer Engineering or similar technical field of study
+3+ years of professional experience in software development for Android and/or iOS (not necessarily both)
+Idiomatic Kotlin programming with expertise in Coroutines and Flow
+Proficiency in modern Mobile frameworks
+Experience with Git versioning system
+Good organizational and communication skills
+English language (written - intermediate, spoken - basic)
+Nice to have skills:
+Experience with iOS development (Swift)
+Experience Kotlin Multiplatform (KMP) for cross-platform development
+Experience with Jetpack Compose Multiplatform/Compose, Hilt, Koin, Navigation or SPM, CocoaPods, SwiftUI, UIKit frameworks
+Knowledge of C/C++ is an advantage
+Experience with automated testing
+Experience with Jenkins/Jira/Confluence
+Experience with Agile Development
+Kontaktná osoba
+Jakub Kunik
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207345
+Dátum zverejnenia:
+18.12.2025
+2025-12-18
+lokalita:
+Bratislava
+Pozícia:
+Android Developer
+,
+iOS Developer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

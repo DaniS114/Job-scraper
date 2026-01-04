@@ -1,0 +1,86 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Full-Stack Developer - Eset Protect
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 400 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are looking for a talented developer to join our team and work on ESET Protect, a product trusted by over 100,000 companies worldwide. ESET Protect manages more than 5 million devices, handling tens of thousands of device connections per second. Our ecosystem includes numerous microservices, web applications, endpoint agents and CI/CD pipelines.
+Join us to deliver end-to-end features that support system and network administrators globally.
+What does working as a full-stack developer on ESET Protect entail?
+Collaborating with the team to design, implement, and maintain new features and services.
+Discussing potential changes and optimizations to the project's cloud architecture, utilizing cutting-edge cloud concepts and components.
+Ensuring code quality by working closely with Senior Developers and our QA Test Engineer.
+What do we expect?
+Experience with high-level OOP languages and frameworks (we use primarily C# with .NET Core).
+Knowledge of version control systems (we use GIT).
+Familiarity with cloud concepts and technologies: Azure, Kubernetes, Kafka, Terraform, and Helm.
+Experience with databases (we use MS SQL, PostgreSQL (Citus), and Azure Cosmos NoSQL).
+Willingness to learn new concepts and technologies.
+Willingness to work in Agile environment.
+Nice To Have (but not really needed)
+Some knowledge of front end frameworks like React.js
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207804
+Dátum zverejnenia:
+19.12.2025
+2025-12-19
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+C# Programmer
+,
+Frontend developer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 400 EUR/month

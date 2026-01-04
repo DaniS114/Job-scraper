@@ -1,0 +1,107 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+DevOps Engineer Professional for Open Sovereign Cloud
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 3 800 EUR/month.
+Sovereign Cloud is T-Systems' cloud offering for clients with high sovereignty needs. Clients in regulated sectors such as healthcare and the public sector are put in complete charge of their data – on an open-source platform, hosted in Europe. Our focus is to build new product – Sovereign Cloud within T-systems international cloud portfolio. DevOps engineer is participates design and implementation of Kubernetes based Platform as a Service offering to Sovereign Cloud.
+As the DevOps Engineer Professional for Sovereign Cloud you will co-creating next-generation cloud solutions, with the focus on EU healthcare, security and public sector area. Design and implement a set of sovereignty controls and measures, including encryption and identity management and control function over relevant parts of the Sovereign Cloud. DevOps Engineer is responsible for entire lifecycle of Continuous Integration/Continuous Deployment pipelines and platform as Code approaches. Takes account and defines automated configuration management, release management, build, test and deployment activities. Provides prototypes and concepts for further automation of assigned technology.
+What will you do?
+Consulting complex delivery organization in order to get effective value delivery for the business
+Consulting  IT architecture and IT solution of SW projects including design and development of concepts
+Designing, developing and continuously optimizing Continuous Integration and delivery processes according project needs
+Depending on delivery organization needs taking over responsibility for maintenance & support of enhancement of the pipeline with further levels of value chain, connecting pipeline to different platforms and infrastructures, integration of different platforms and infrastructures into the pipeline, root-cause analysis of pipeline runtime errors
+Development of continuous automation tasks within SW Lifecycle Phases to improve process efficiency
+Transfer and foster of DevOps knowledge and culture to team and project members
+Evaluation, integration & operation of new technologies & tools in order to innovate topics and concepts
+Design and integration of IT security and safety concepts and techniques
+Consulting of infrastructure compliance, requirements and best practices
+You will succeed if you:
+Education
+Master’s degree in Information Technologies
+Experience
+5 years of relevant professional experience
+IT Technical Skills
+Kubernetes – Expert (CKA/CKAD/CKS certified)
+Programming in Golang – Expert
+Scripting (Bash, Python) – Expert
+Networking – Expert
+ELK / Prometheus / Grafana – Expert
+Linux Operating System – Expert
+Experience in cloud environments / cloud technologies (Azure, AWS, GCP, or comparable Private Cloud)
+Familiarity with other open-source, cloud-native technologies/concepts (Secret Management, Container Repositories, Ingress/Egress, Service Mesh)
+Ansible / Terraform / Puppet – Expert
+Jenkins / GitLab – Advanced
+Security – Advanced
+Soft Skills
+Strong communication skills
+Analytical thinking
+Team cooperation
+Presentation skills
+Other Skills
+Agile Methodology
+Scrum
+SAFe
+Languages
+English – Advanced (C1)
+German – Advantage (B2)
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+3 800 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 3 800 EUR/month.
+Contact
+Contact person: Anna Heveryová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5197632
+Dátum zverejnenia:
+23.12.2025
+2025-12-23
+lokalita:
+Košice
+Pozícia:
+Programmer
+,
+Python Programmer
+,
+Software Engineer
+,
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 800 EUR/month

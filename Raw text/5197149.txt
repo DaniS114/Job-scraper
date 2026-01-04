@@ -1,0 +1,83 @@
+Linux Web application Support s NJ, práca z domu
+NEEDLE RECRUITMENT s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiac
+v záležitostí od skúseností  +13. plat
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného špecialistu na podporu webových aplikácií. Táto pozícia je kľúčová pre zabezpečenie plynulej prevádzky systémov, riešenie incidentov a poskytovanie technickej podpory. Ak ste Linuxák s dobrými skriptovacími schopnosťami a ovládate nemecký jazyk, ste pre nás ten pravý!
+Hlavné zodpovednosti:
+Incident      & Ticket Management:
+Aktívne       prijímanie a promptné spracovanie tiketov v zmysle SLA.
+Zaznamenávanie       všetkých zistení, analýz a komunikácie s odbornými tímami priamo do       tiketov alebo chatu.
+Riešenie       problémov pomocou predchádzajúcich tiketov, e-mailovej komunikácie a       dostupnej dokumentácie (napr. OneNote).
+Samostatná       technická analýza, práca s logmi a hľadanie riešení bez zbytočného       eskalovania.
+Analýza       plniacich sa diskov – identifikácia zdrojov zvýšeného využitia, trendov       rastu a návrh potrebných krokov.
+Handling      Prio 1 incidentov (výpadky aplikácií):
+Overenie,       či ide o reálny výpadok aplikácie.
+Zaznamenávanie       a ukončovanie výpadkových/obnovovacích hlásení v ServiceNow.
+Vykonanie       základnej Root Cause Analýzy (RCA) a zdieľanie zistení v skupinovom chate       a v PRIO 1 kanáli.
+Prevádzka      & interná komunikácia:
+Aktívna       účasť na support aktivitách – napr. plánovanie a príprava outage okien,       prevzatie úloh diskutovaných na stand-upoch.
+Prevzatie       pohotovostí (on-call), podľa možností a dohody (jeden týždeň v mesiaci).
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Spoločnosť poskytujúca IT služby v bankovníctve.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+a
+Nemecký jazyk - Stredne pokročilý (B2)
+Vodičský preukaz
+B
+Osobnostné predpoklady a zručnosti
+Silné      znalosti Linuxu:
+Nevyhnutné pre prácu v našich prostrediach.
+Skúsenosti      so skriptovacími jazykmi:
+Znalosť Bash, Perl, Python, PowerShell      alebo Java je kľúčová, keďže mnohé "aplikácie" sú postavené na      skriptoch.
+Znalosť      webových aplikácií:
+Ideálne s dôrazom na Java-based riešenia.
+Skúsenosti      s monitorovacími systémami.
+Praktické      skúsenosti s tiketovacími systémami:
+Používateľská úroveň      ServiceNow a Jira.
+Základné      znalosti Windows
+sú výhodou.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Robíme špecializovaný na mieru šitý recruitment. Nájdeme aj ihlu v kope sena. Sme súčasťou globálnej recruitment platformy, čo nám umožňuje poskytovať služby na vysokej úrovni know-how a referencií.
+Kontakt
+Kontaktná osoba: Recruitment Consultant
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5197149
+Dátum zverejnenia:
+31.12.2025
+2025-12-31
+lokalita:
+Práca z domu
+Pozícia:
+Databázový administrátor
+,
+Systémový administrátor
+,
+Webmaster
+Spoločnosť:
+NEEDLE RECRUITMENT s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

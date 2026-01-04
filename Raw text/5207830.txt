@@ -1,0 +1,84 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Java Developer on OpenXDR platform
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 3 000 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are developing a cutting-edge XDR solution that can provide comprehensive and proactive security across multiple domains, such as endpoint, cloud, email, identity and network.
+We are looking for JAVA Developer for new OpenXDR solution that store and process data in form of low-level events from various sources of security data on AWS platform.
+Required Skills & Experience
+At least 3 years of professional experience developing applications in Java
+Strong understanding of cloud-native application development on AWS
+Experience working with monitoring, logging, and analytics platforms
+Hands-on experience with CI/CD pipelines (e.g., GitLab CI) to build, test, and deploy Java applications
+Solid knowledge of containerized application development using Docker
+Experience deploying and running applications on Kubernetes-based platforms
+Familiarity with SQL and NoSQL databases, event-driven architectures, and messaging systems (e.g., Kafka)
+Ability to write automation or support scripts (e.g., Python or shell) to support development and operations workflows
+Nice-to-Have Skills
+Experience with AWS services such as  MSK, EKS, and Apache Flink
+Experience building scalable, secure, and observable Java services in the cloud
+Familiarity with infrastructure-as-code concepts (e.g., Terraform) from an application developer’s perspective and open to learn new concepts
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207830
+Dátum zverejnenia:
+19.12.2025
+2025-12-19
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Java Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

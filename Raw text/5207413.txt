@@ -1,0 +1,85 @@
+Junior DevOps Engineer
+Asseco Central Europe, a.s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+od 2000€ brutto v závislosti od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme kolegu na pozíciu DevOps Junior so zameraním na sieťové technológie (LAN, WAN) a podporu CI/CD prostredí. Kandidát bude úzko spolupracovať s vývojármi a senior DevOps špecialistami na tvorbe a prevádzke moderných informačných systémov.
+Čaká ťa práca s najnovšími technológiami v oblasti cloudu, CI/CD a monitoringu, mentoring od skúsených DevOps a Network špecialistov, ako aj možnosť rozvíjať sa v oblasti DevOps a sieťových technológií.
+Ak ťa láka svet automatizácie, infraštruktúry a sieťových riešení, radi ťa spoznáme.
+Súčasťou práce je:
+podpora prevádzky a konfigurácie informačných systémov bežiacich na platformách Kubernetes
+podpora LAN/WAN infraštruktúry, troubleshooting a optimalizácia sieťových prvkov
+deployment systémov cez GitLab/Jenkins (GitOps princípy)
+tvorba, správa a optimalizácia CI/CD pipelines
+návrh a dokumentácia sieťovej architektúry pre interné aj cloudové riešenia
+správa a optimalizácia sieťovej bezpečnosti (firewally, VPN, ACL)
+aktívna spolupráca s tímom pri riešení incidentov a zlepšovaní infraštruktúry
+Zamestnanecké výhody, benefity
+flexibilný pracovný čas, hybridný spôsob čerpania HO
+sick days a dni voľna navyše pri špeciálnych príležitostiach – svadba, pôrod, sťahovanie, sprievod prváčika v 1. školský deň
+bonus pri narodení/osvojení dieťaťa
+odmeny – Referral program, odmeny pre jubilantov, zodpovedajúca variabilná zložka platu
+doplnkové dôchodkové sporenie
+ovocie, pitný režim, káva
+inšpiratívne workshopy a aktivity na témy technology, enviro, diversity, well being
+teambuildingy, spoločenské podujatia
+vzdelávanie a osobný rozvoj - ACE akadémia
+poradenstvo v oblasti duševného zdravia
+multisport karta, klub TJ Asseco
+CSR aktivity
+a iné
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Osobnostné predpoklady a zručnosti
+Technické znalosti:
+základy administrácie LAN/WAN sietí (routing, switching, VLAN, VPN, ACL, DNS, DHCP)
+základné znalosti cloud a Docker networkingu
+praktické skúsenosti s kontajnerovými technológiami (Docker, Kubernetes)
+skúsenosti so správou a inštaláciou Linux systémov
+skúsenosti s konfiguráciou CI/CD nástrojov (GitLab, Argo CD)
+výhdodou znalosť nástrojov pre monitoring a logovanie (Prometheus, Grafana, ELK stack)
+výhodou orientácia v databázach (SQL, PostgreSQL)
+výhodou sú znalosti Helm, Keycloak, Kong, Longhorn
+výhodou znalosť bash alebo Python skriptovania
+Osobnostné predpoklady:
+schopnosť analytického myslenia
+samostatnosť, zodpovednosť a ochota učiť sa
+ústretovosť, komunikatívnosť a tímový duch
+angličtina na komunikatívnej úrovni
+Inzerujúca spoločnosť
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Barbora Irecká
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207413
+Dátum zverejnenia:
+19.12.2025
+2025-12-19
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Asseco Central Europe, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

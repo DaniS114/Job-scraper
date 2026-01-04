@@ -1,0 +1,81 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+DevOps Engineer on OpenXDR platform
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 3 000 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. 
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are developing a cutting-edge XDR solution that can provide comprehensive and proactive security across multiple domains, such as endpoint, cloud, email, identity and network.
+We are looking for DevOps Engineer for new OpenXDR solution that store and process data in form of low-level events from various sources of security data on AWS platform.
+Requirements:
+At least 3 years of hands-on experience with Terraform for managing infrastructure as code
+Solid experience in DevOps and cloud automation practices on AWS
+Experience working with monitoring and analytics tools like OpenSearch or Elasticsearch
+Experience in CI/CD pipeline development and maintenance (e. g. Gilab)
+Programming/scripting skills in Python
+Solid experience with container orchestration (e.g., Kubernetes)
+Experience with NoSQL databases, event processing, and messaging systems (e.g., Kafka)
+Proficiency in Linux-based environments, containerization (e.g., Docker)
+Nice-to-Have Skills:
+Experience with AWS services such as EMR, S3, Glue, Flink, MSK, EKS, Keyspaces, Java
+Experience in building secure, scalable, and observable infrastructure
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207832
+Dátum zverejnenia:
+19.12.2025
+2025-12-19
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Software Engineer
+,
+Systems Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

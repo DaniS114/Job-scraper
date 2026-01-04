@@ -1,0 +1,115 @@
+Product manager pre Gryphon
+IstroSec s.r.o.
+Miesto práce
+Vajnorská 100, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+01.02.2026, dohodou
+Mzdové podmienky (brutto)
+3 600 EUR/mesiac
+Od 3600 eur. Výsledné ohodnotenie ovplyvňuje seniorita a skúsenosti uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho tímu hľadáme
+Produktového manažéra pre náš interne vyvíjaný EDR produkt.
+Produktový manažér je zodpovedný za celý životný cyklus produktu – od nápadu, cez vývoj, až po uvedenie na trh a jeho ďalší rozvoj. Predstavuje spojovací článok medzi zákazníkmi, biznisom, vývojovým tímom, marketingom a vedením spoločnosti.
+Čo budeš robiť?
+Nastavenie produktového manažmentu.
+Zodpovednosť za produktovú víziu a roadmapu (spolupráca s tech leadom = CTO)
+Aktuálne projektová pozícia pre nadstavbu Gryphonu – Early warning system, ale budú aj ďalšie projekty na ďalší rozvoj Gryphonu
+Definovanie a správa produktového backlogu pre Gryphon
+Vedenie product tímu (analytici + UX)
+Zber a prioritizácia požiadaviek od:
+- interných stakeholderov – primárne od tech leada, dev leada a nášho SOCu (ktorý je MSSP)
+- externých stakeholderov – spätná väzba od klientov
+Analýza / spolupráca na analýze požiadaviek.
+Tvorba / spolupráca na tvorbe akceptačných kritérií user stories funkčnej a nefunkčnej špecifikácie.
+UX pohľad na high level úrovni (pre SOC tímy – v spolupráci s naším SOCom).
+Spolupráca s vývojovým tímom v rámci vývoja.
+Spolupráca s test manažérom v rámci testovania.
+Spolupráca s HelpDeskom (po vybudovaní).
+Spolupráca s komunikačným tímom počas projektu, prípadne aj po projekte
+Zabezpečenie, že dodané funkcionality spĺňajú požiadavky na kvalitu a biznis hodnotu.
+Zamestnanecké výhody, benefity
+Prácu, ktorá môže byť aj Tvojím hobby a je zaujímavo platovo ohodnotená
+Teleprácu
+Dôležitý je výkon, nie je najpodstatnejšie či robíš 9-17, všetko si zariaď tak, aby bola Tvoja práca hotová včas a kvalitne,
+Home Office dva krát do týždňa, aj keď zo začiatku by sme Ťa chceli mať v office častejšie
+Možnosť využiť sickday 5x ročne
+Kvalitné pracovné vybavenie - výškovo nastaviteľné stoly, výkonný notebook + štandardne 27” monitory
+Pracovný mobil s neobmedzeným paušálom aj na súkromné účely
+Mentálnu aj finančnú podporu vo vzdelávaní a certifikácii podľa Tvojho plánu vzdelávania
+Úzku spoluprácu so špičkou v odbore
+Multisport kartu s 50% príspevkom od firmy
+Príspevok do III. piliéra po skončení skúšobnej doby
+Pekný výhľad na Kuchajdu
+Kávu, čajíky, maté, sladké/slané pochutiny, nanuky a každý týždeň ovocný deň
+Mladý a motivovaný kolektív, otvorenú komunikáciu a dobrú náladu v práci
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+technické zameranie, informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Vysokoškolské vzdelanie (ekonomické, technické alebo IT výhodou).
+Prax na pozícii produktového manažéra alebo v príbuznej role.
+Skúsenosti s riadením produktov alebo projektov.
+Odborné znalosti:
+Znalosť princípov produktového manažmentu.
+Skúsenosti s tvorbou produktovej stratégie a roadmapy.
+Znalosť analýzy trhu a konkurencie.
+Základná orientácia v IT / technológiách.
+Skúsenosti s agilnými metodikami (Scrum, Kanban výhodou).
+Zručnosti a schopnosti:
+Strategické a analytické myslenie.
+Schopnosť určovať priority a robiť rozhodnutia.
+Orientácia na zákazníka a obchodné ciele.
+Výborné komunikačné a prezentačné schopnosti.
+Schopnosť spolupracovať s rôznymi tímami.
+Samostatnosť a zodpovednosť.
+Osobnostné predpoklady:
+Proaktivita a iniciatíva.
+Schopnosť riešiť problémy.
+Odolnosť voči stresu.
+Flexibilita a ochota učiť sa nové veci.
+Jazykové a technické požiadavky (podľa potreby).
+Anglický jazyk na komunikatívnej úrovni
+Práca s analytickými nástrojmi a dátami.
+Skúsenosti s nástrojmi na správu produktov.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+IstroSec je dôveryhodný poskytovateľ prvotriednych pokročilých služieb v oblasti kybernetickej bezpečnosti a dodávateľ špičkových nástrojov na zabezpečenie komplexnej odolnosti. Má inovatívny, multidisciplinárny tím viac ako 50-tich expertov svetovej úrovne. Odbornosť tímu je postavená na vysoko kvalifikovaných etických hackeroch, incident responderoch a konzultantoch s desiatkami rokov skúseností, ktorí svojimi vedomosťami pokrývajú široký záber tém z oblasti kybernetickej bezpečnosti. Zároveň neustále rozvíjame vlastné bezpečnostné nástroje a EDR technológie, ktoré vychádzajú z našich praktických skúseností z reálnych projektov.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Veronika Frankova
+Tel.:
++421911778543
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207926
+Dátum zverejnenia:
+19.12.2025
+2025-12-19
+lokalita:
+Bratislava
+Pozícia:
+Produktový manažér v IT
+Spoločnosť:
+IstroSec s.r.o.
+Základná zložka mzdy (brutto):
+3 600 EUR/mesiac

@@ -1,0 +1,90 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Experienced Cloud Software Engineer - Eset Protect
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 3 500 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are looking for an experienced Cloud Software engineer to join our team and help shape the future of ESET Protect, a product trusted by over 100,000 companies worldwide. ESET Protect manages more than 5 million devices and handles tens of thousands of device connections per second. Our ecosystem includes numerous microservices, web applications, endpoint agents, and CI/CD pipelines.
+As a experienced software engineer, you will play a key role in designing scalable solutions, improving cloud architecture, and mentoring other developers.
+Join us to deliver end-to-end features that support system and network administrators globally.
+What does working as a software engineer on ESET Protect entail?
+Leading the design and implementation of complex features and services.
+Driving architectural discussions and optimizations for our cloud-based ecosystem.
+Ensuring best practices in code quality, testing, and deployment.
+Collaborating with cross-functional teams to deliver high-quality solutions.
+What do we expect?
+Proven experience in software development.
+Proficiency in C# with .NET Core and experience with C++ for performance-critical components.
+Understanding of cloud platforms (Azure preferred) and cloud-native development.
+Hands-on experience with Kubernetes, Kafka/EventHub, Terraform, and Helm.
+Strong knowledge of databases (MS SQL, PostgreSQL (Citus), Azure Cosmos NoSQL).
+Experience with microservices architecture, containerization, and CI/CD pipelines.
+Excellent problem-solving skills and ability to make architectural decisions.
+Willingness to work in an Agile environment.
+Nice to have
+Knowledge of front-end frameworks like React.js - to be able to deliver end to end feature.
+Experience with distributed systems, concurrency, and performance optimization.
+Familiarity with DevOps practices and Infrastructure as Code
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207801
+Dátum zverejnenia:
+19.12.2025
+2025-12-19
+lokalita:
+Bratislava
+Pozícia:
+.NET Programmer
+,
+Backend developer
+,
+C# Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

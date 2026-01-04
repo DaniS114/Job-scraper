@@ -1,0 +1,112 @@
+Deutsche Telekom Services Europe Slovakia
+O nás
+Voľné pozície
+Firemná kultúra
+Benefity
+Kontakt
+Technical
+Data engineer for process mining
+Supervision of the design, development, and maintenance of data pipelines and system infrastructure required for process mining activities.
+Contract type
+full-time
+Place of work
+Bratislava, Slovak Republic
+Start date
+ASAP
+Wage (gross)
+From 2 700 EUR/month
+About
+the position
+Data Engineering Leadership:
+Assuming responsibility for developing/improving, operation and maintenance of specific system modules (E2E technical system owner)
+Assist in the design and implementation of robust ETL processes to ingest and transform data from various sources into process mining platforms.
+Architect scalable data solutions that ensure data accuracy, integrity, and performance.
+Collaborate with IT and business stakeholders to understand data requirements and develop appropriate data models and pipelines.
+Manage defined IT applications and systems.
+Testing and initiating the introduction of technical innovations and improvements (state-of-the-art)
+Mentor junior data engineers and provide technical guidance to the team.
+Process Mining Enablement:
+Integrate and configure process mining tools (e.g., Celonis) with enterprise data systems.
+Develop and maintain data models and schemas that support process mining activities.
+Ensure the seamless flow of data into process mining tools, enabling real-time and historical analysis.
+Work closely with data scientists and analysts to understand their needs and provide the necessary data infrastructure.
+Managing projects for improvements or new development.
+Data Quality and Governance:
+Carrying out system analyses and initiating necessary measures to ensure the production stability, availability, and security of the application.
+Implement and enforce data quality standards and best practices.
+Conduct data audits and continuously monitor data pipelines to ensure data accuracy and reliability.
+Develop and maintain documentation for data architecture, processes, and workflows.
+Collaboration and Communication:
+Steering internal or external IT service providers for programming and hosting (operations)
+Partner with business analysts, process owners, and other stakeholders to identify key metrics and KPIs for process mining.
+Providing support to functional units and key users on all issues related to the managed applications.
+Communicate technical concepts to non-technical stakeholders clearly and effectively.
+What
+we expect
+Candidates with education suit the position
+University education (Bachelor's degree)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+Education: University degree (Bachelor or Master) in Computer Science, Data Engineering, Information Systems, or a related field.
+Experience:
+3+ years of experience in IT or in data engineering, with a focus on ETL processes and data integration.
+Proven experience as a data scientist, with a track record of successful projects and implementations.
+Strong proficiency in programming languages such as Python, R, or SQL.
+Experience with cloud platform (e.g., AWS, Azure, Google Cloud) and/or big data technologies (e.g., Hadoop, Spark).
+Familiarity with ERP systems (e.g., SAP, Oracle) and their data structures.
+IT skills:
+Experience with some IT management tool (JIRA, CAPE, JIRA@BR)
+Other requirements:
+Strong communication and moderation skills
+Technology understanding
+Proactive, high reliability, self-organized and solution-oriented working
+Ability to understand end to end business process
+Ability to understand end to end business process
+Corporate attitude and strong service behavior
+Cross-functional collaboration
+Benefits
+that make you happy
+Annual bonus
+Fully paid meal vouchers
+Mobile phone also for private use
+Discounts for selected Telekom products
+Supplementary pension saving contribution
+Cafeteria system of benefits/Multisport card
+Sick days
+Sports club & Health days
+Teambuildings, summer & Christmas party
+Opportunities for career growth
+Referral program
+Flexible working time
+About
+the selection process
+We are dedicated to constantly promoting equal employment opportunities and are ready to make reasonable adjustments for applicants with disabilities. If you are interested in our job opportunity and meet our job requirements for this position, we encourage you to confidentially notify us if you need specific accommodations to ensure your full participation in our recruitment process at recruitment@telekom.com.
+Snažíme sa neustále podporovať rovnaké príležitosti v zamestnaní a sme pripravení urobiť primerané úpravy pre uchádzačov so zdravotným postihnutím. Ak máte záujem o túto pracovnú príležitosť a spĺňate požiadavky inzerovaného pracovného miesta, odporúčame vám, aby ste nám dôverne oznámili, ak potrebujete osobitné úpravy, ktoré vám zabezpečia plnohodnotnú účasť na našom náborovom procese na recruitment@telekom.com.
+Send CV
+Deutsche Telekom Services Europe Slovakia
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5208654
+Dátum zverejnenia:
+23.12.2025
+2025-12-23
+lokalita:
+Bratislava
+Pozícia:
+IT Architect
+,
+Programmer
+,
+Software Engineer
+,
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom Services Europe Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

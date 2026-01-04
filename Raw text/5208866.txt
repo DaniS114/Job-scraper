@@ -1,0 +1,89 @@
+SLSP.sk
+IT Analytik/ Analytička Senior pre LAB Firemné financovanie
+Reagovať na ponuku
+Miesto práce
+Tomášikova 3271/48, Nové Mesto
+Druh pracovného pomeru
+plný úväzok
+Platové podmienky
+2 800 EUR/mesiac
+*
+*
+Uvedená výška mzdy predstavuje minimálnu garantovanú sumu základnej zložky mzdy vzťahujúcej sa na uvedenú pracovnú pozíciu.
+Skutočná suma základnej zložky mzdy bude upravená v súlade s vašimi odbornými znalosťami a schopnosťami.
+Pracovná náplň:
+Vitaj v našom ITčku
+Do nášho vyše 20-členného agilného tímu hľadáme skúseného a samostatného IT analytika alebo skúsenú a samostatnú IT analytičku, ktorý/ktorá sa vie nebojácne pohybovať v IT džungli a hovorí rečou digITálneho kmeňa.
+#ordinaryday
+Pred stand-upom si pokecáš s Product Ownerom o novom improvemente, na desiatu si dáš stretko s Architektom, doladíte pár detailov a do obeda si popíšeš v Confluence špeckách nové volania pre našich backendistov a biznis logiku pre frontenďákov. Po handover meetingu s testermi a vývojármi posunieš request v JIRA, odpíšeš OPS-ákom kvôli padnutému ZABBIX monitoringu zo včera, hodíš ešte očko na zopár produkčných incidentov a môžeš ísť domov.. Áno, aj takto môže vyzerať obyčajný deň na našom ITčku.
+#mašnato?
+Pozri si nasledovný select a prejdi si jednotlivé podmienky. Každej z nich daj jednoznačnú odpoveď (YES=1, NO=0). Takto ti vznikne binárne číslo (reťazec), preveď ho do desiatkovej sústavy a pošli nám ho v sekcii „Čím Vás naša ponuka zaujala?“. A potom už len čakaj na našu odpoveď. :)
+SELECT Analytical_Ace
+FROM All_IT_Analysts
+WHERE Mám skúsenosť s písaním IT špeciek pre vývojárov
+AND Stretol/la som sa s agilnými prvkami IN (stand-up, backlog refinement, kanban, scrum, retrospektíva, šprint, plánovanie šprintu)
+AND (
+Používam JIRA na rôzne typy procesov IN (change management, incident management, effort tracking)
+OR Mám analytickú skúsenosť s úverovými/hypotekárnymi procesmi
+OR Mám analytickú skúsenosť s procesmi pre korporátnych klientov (B2B)
+OR Často stláčam F12
+OR Nemám problém sa "zašpiniť" -- zašpiniť sa = hrabanie sa v kóde a databázach, snorenie v logoch
+OR Vždy čítam návody
+OR Mám rád hlavolamy
+OR Dokázal by som sa zbaliť a presťahovať do 4 dní
+OR Nevadí mi odpovedať na otázky typu "Prečo"
+OR Keď vysvetľujem niečo kolegom, ich tváre často hádžu 200-vky
+OR Viem zorganizovať dobrú párty
+OR Viem dať stand-up do 90 sekúnd
+OR Dovolenku si plánujem celkom detailne
+)
+ORDER BY CV_Sent_Date ASC;
+Táto pozícia je šITá presne na vašu mieru, ak máš:
+Skúsenosti s Camunda frameworkom ti pomôžu zvládnuť procesné workflow na jednotku
+Praktické skúsenosti s nástrojmi ako JIRA a Confluence, aby bola tímová spolupráca hračkou
+Základné znalosti SOAP/REST, XML, JSON a Kibany, tiež práca s relačnými či nerelačnými databázami vrátane SQL ti u nás určite prídu vhod
+Viac ako 2 ročnú skúsenosť na pozícii IT analytika/analytičky
+Na čo sa môžeš tešiť, keď vstúpiš do nášho sveta:
+Slušný plat. Aj ten trinásty, a k tomu ročný bonus.
+Extra effort = extra odmena.
+Na jedlo ti prispejeme až 8 € denne. Aj počas dovolenky. Lebo hladný analytik je nahnevaný analytik.
+Príspevok do 3. piliera 840 € ročne.
+5 dní dovolenky navyše.
+Lucky time, keď potrebuješ viac než dovolenku.
+Voľno aj na výročie Nežnej revolúcie, pretože si myslíme, že tento deň treba sláviť.
+Ďalšie voľné dni pri špeciálnych príležitostiach, ako napríklad narodenie dieťaťa.
+Spoločný úspech znamená zisk aj pre teba, pretože si akcionár alebo akcionárka ERSTE.
+Multisport alebo UpBalansea karta.
+Ideš do toho?
+Pošli nám životopis a prípadne aj motivačný list. Ozve sa ti Dominika z People & Culture oddelenia, prebehne krátky telefonický rozhovor s doplňujúcimi otázkami, potom nasleduje online technické kolo s tvojou IT analytickou dvojičkou z tímu a nakoniec osobné stretnutie s ďalšími členmi tímu.
+Hotovo, máš notebook a snažíš sa zapamätať si mená kolegov. Dobré CV sa u nás nestratia - aj z pôvodne neúspešného kandidáta sa môže stať náš úspešný kolega či kolegyňa. Preto nám daj o sebe vedieť! :)
+Budúcnosť je tvoja v Slovenskej sporiteľni!
+Kontaktné údaje:
+Mgr.  Dominika Majerčáková
+Slovenská sporiteľňa, a.s.
+Tomášikova 48, 832 37 Bratislava, Slovensko
+www.slsp.sk
+Všetky ponuky
+•
+www.slsp.sk
+Copyright © 2002 - 2014 Slovenská sporiteľňa, a.s.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5208866
+Dátum zverejnenia:
+26.12.2025
+2025-12-26
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+Spoločnosť:
+Slovenská sporiteľňa, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

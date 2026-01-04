@@ -1,0 +1,122 @@
+The SAP Operations Lead and IT Support
+META SYSTEM Slovakia s. r. o.
+Miesto práce
+Trnava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+Od 2 800 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+The SAP Operations Lead and IT Support is a senior technical role responsible for managing SAP systems operations and providing comprehensive IT infrastructure support for the Trnava manufacturing plant. This position serves as the bridge between business operations and IT systems, ensuring seamless integration of SAP modules with plant operations while leading IT support activities and team coordination.
+SAP OPERATIONS MANAGEMENT (
+70%)
+System Administration & Optimization
+Manage daily SAP operations ensuring 99.5%+ system availability for production environment
+Administer SAP modules with focus on MM (Materials Management), PP (Production Planning), QM (Quality Management), and WM (Warehouse Management)
+Perform system monitoring, performance tuning, and preventive maintenance activities
+Coordinate SAP upgrades, patches, and enhancement implementations with headquarters IT
+Manage SAP user accounts, authorizations, and security profiles in compliance with automotive industry standards
+Business Process Support
+Support production planning, inventory management, and quality control processes through SAP
+Collaborate with Production, Quality, Logistics, and Procurement departments to optimize SAP workflows
+Design and implement custom reports and dashboards for operational KPIs monitoring
+Troubleshoot SAP functional issues and coordinate resolution with SAP functional consultants
+Train end-users on SAP best practices and new functionalities
+Integration & Data Management
+Ensure seamless integration between SAP and MES (Manufacturing Execution System)
+Manage interfaces between SAP and third-party systems (EDI, quality systems, warehouse automation)
+Monitor data quality, consistency, and integrity across integrated systems
+Support digitalization initiatives and Industry 4.0 projects involving SAP connectivity
+IT INFRASTRUCTURE & SUPPORT (
+25%)
+IT Systems Management
+Oversee plant IT infrastructure including servers, networks, workstations, and mobile devices
+Manage IT service desk operations and coordinate resolution of technical issues
+Ensure cybersecurity compliance following IATF 16949 and ISO 27001 guidelines
+Maintain IT documentation including network diagrams, procedures, and asset inventory
+Coordinate with headquarters IT for infrastructure projects and standardization initiatives
+Technical Support & Problem Resolution
+Provide Tier 2/3 technical support for complex IT and SAP issues
+Manage incident and problem management processes using ITIL framework
+Coordinate with external vendors and service providers for specialized support
+Implement backup and disaster recovery procedures for critical systems
+Support production equipment connectivity and industrial automation systems
+IT Security & Compliance
+Implement and monitor IT security policies and access controls
+Conduct regular security audits and vulnerability assessments
+Ensure compliance with automotive industry cybersecurity standards (ISO/SAE 21434) Manage antivirus, firewall, and network security systems
+Train employees on IT security awareness and best practices
+TEAM
+SUPPORT & COORDINATION (5%)
+Team Management
+Foster collaborative culture between IT and operational departments
+Lead by example demonstrating technical expertise and problem-solvingcapabilities
+Project Coordination
+Lead IT projects including system implementations, upgrades, and infrastructure improvements Prepare project plans, timelines, and resource requirements
+Coordinate stakeholder communication and change management activities
+Track project progress and report status to Plant Manager and headquarters IT
+Identify opportunities for process improvements and cost optimization
+Strategic Planning
+Participate in plant IT strategy development aligned with business objectives
+Evaluate new technologies and propose IT investments supporting manufacturing excellence
+Contribute to IT budget planning and cost control activities
+Active involvement in strategic initiatives
+Zamestnanecké výhody, benefity
+•13sty plat
+Spoločnosť s viac než 50-ročnou históriou, ktorá na Slovensku rozbieha novú etapu svojho pôsobenia, ponúka
+neobmedzené možnosti kariérneho rastu.
+Pridajte sa k nám a pracujte v novootvorenom závode na Slovensku, kde v spolupráci s prémiovou automobilkou BMW vyrábame komponenty pre vozidlá budúcnosti. Ponúkame moderné pracovné prostredie, stabilné zamestnanie a možnosť rásť s nami.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Computer Science, Information Technology, Engineering, or related field
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+Osobnostné predpoklady a zručnosti
+PREFERRED QUALIFICATIONS
+Master's degree in Computer Science, Information Systems, or IT Management ITIL Foundation or higher certification
+Project Management certification (PMP, Prince2, or Agile)
+Experience with SAP S/4HANA migration projects
+Knowledge of additional SAP modules (SD, FI/CO, PM)
+Experience with SAP integration technologies (IDocs, RFCs, APIs)
+Programming/scripting skills (ABAP, Python, PowerShell)
+Previous experience in greenfield plant IT setup or ramp-up phase
+Familiarity with BMW or other premium OEM IT standards and requirements
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+About the company
+Founded in 1973 in Reggio Emilia, Italy, our company is a leader in the development of advanced electronic systems for the automotive industry. With over 250 registered patents and 300 R&D professionals, we cooperate with the world’s most renowned car manufacturers.
+We are now writing a new chapter – establishing a new production site in Slovakia, where we will manufacture components for the vehicles of the future.
+Join us and be part of a team that turns innovation into reality.
+Kontakt
+Kontaktná osoba: Ing.  Miroslava Babnicova
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207069
+Dátum zverejnenia:
+18.12.2025
+2025-12-18
+lokalita:
+Trnava
+Pozícia:
+IT/Technical Support Specialist
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+Spoločnosť:
+META SYSTEM Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

@@ -1,0 +1,95 @@
+CTO / Principal architect (fintech industry)
+Liberum s. r. o.
+Place of work
+Bratislava
+Contract type
+full-time, trade licence
+Wage (gross)
+6 500 - 8 000 EUR/month
+month fix salary depends on your experience
+Information about the position
+Job description, responsibilities and duties
+Our client is a globally focused fintech company based in Bratislava that aims to transform the way people understand and manage their finances.
+Role summary
+Own the technology strategy and architecture end‑to‑end. You’ll set the technical vision, lead the engineering org, and remain hands‑on where it matters—scaling systems, shipping product, and building a high‑performing culture.
+What you’ll do
+Technology      strategy:
+Define 12–24-36-month tech roadmap aligned to business goals; make      build/buy/partner decisions.
+Architecture:
+Design and      evolve a secure, scalable, observable platform (APIs, data, cloud, AI/ML).
+Execution:
+Establish      SDLC, CI/CD, testing, and incident management; drive delivery      predictability.
+Team:
+Hire, mentor,      and structure engineering (frontend, backend, data/ML, DevOps/SRE).
+Security &      compliance:
+Implement best practices (e.g., least privilege, encryption, key management);      prepare for SOC 2/ISO 27001 as needed.
+Data & AI:
+Set up the      data platform and MLOps; govern AI usage (privacy, safety, cost).
+Cost &      reliability:
+Optimize cloud spend; set SLOs and capacity plans.
+Stakeholder management:
+Partner with      Product, GTM, Finance on prioritization and trade‑offs.
+Employee perks, benefits
+Opportunity to be at the very beginning of a new international fintech project
+Key role in building and leading the technology team from scratch
+Direct influence on strategic and technical decisions
+Collaboration with experienced professionals from the global finance and AI sectors
+Modern work environment in Bratislava
+Information about the selection process
+We will carefully review every application. Only candidates who meet the requirements and qualifications for the position will be contacted.
+Expected date of completion of the selection process
+4.2.2026
+(there are still 31 more days)
+Company on whose behalf the position is being filled
+Banking, finance
+The company focuses on developing innovative digital solutions that make financial analysis and trading more intuitive, data-driven, and accessible to a wider audience.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+10+ years in engineering (3–5+ at director/VP/CTO level) building and running production systems at scale.
+Ideally with start-up experience (building foundation from scratch), fintech company experience is a big advantage
+Deep architectural expertise (e.g., microservices/event‑driven, streaming, caching, distributed systems).
+Hands‑on with one major cloud (AWS/GCP/Azure), IaC (Terraform), containers/K8s, observability (metrics/traces/logs).
+Track record hiring and scaling teams; strong coaching and performance management.
+Practical security mindset and experience with audits/compliance.
+Bonus: domain expertise in FinTech; experience shipping AI‑powered features or data products.
+Advertiser
+Brief description of the company
+The company holds a valid license for employment mediation.
+The company is a holder of a licence to offer recruitment services.
+Number of employees
+1 employee
+Contact
+Contact person: Mgr.  Marianna Zálesňáková
+Tel.:
++421905555600
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5210625
+Dátum zverejnenia:
+4.1.2026
+2026-01-04
+lokalita:
+Bratislava
+Pozícia:
+Head of Technical Department
+,
+IT Architect
+,
+IT Director
+Spoločnosť:
+Liberum s. r. o.
+Základná zložka mzdy (brutto):
+6 500 EUR/month

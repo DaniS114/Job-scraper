@@ -1,0 +1,84 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Experienced Machine Learning Researcher
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 3 000 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are looking for a passionate and experienced Machine Learning Researcher to join our Technology Division, preferably someone with a strong foundation in machine learning, whether built through academic research, personal projects, or industry experience.
+While this role is intended for highly skilled researchers, we also welcome exceptionally talented individuals who may not have extensive work experience but demonstrate deep understanding, curiosity, and a strong drive to advance the field.
+To be clear from the start: we are not just another company jumping on the current machine learning/artificial intelligence hype. Our experts have been working with machine learning for more than 20 years, with neural networks making their first appearance in our products back in 1998.
+What does working as a Machine Learning Researcher entail?
+A Machine Learning Researcher is responsible for exploring and proposing novel approaches to leverage data for threat detection. The role involves designing and executing experiments, analyzing results, and determining the next steps in the development of advanced machine learning models.
+The main project builds on heuristic correlations of behavioral data, which are subsequently evaluated using cutting-edge machine learning models. The position requires a strong experimental mindset, adaptability to evolving data, and a focus on delivering robust and effective solutions.
+While the primary focus is on research, the position also includes aspects of ML-Ops, such as deploying, monitoring, and refining models in production, which can be expanded depending on the candidate’s interests and expertise.
+Where does the Machine Learning Researcher work?
+The position is part of the Technology Division located in Bratislava. The team works extensively with behavioral data stored in a large-scale big data infrastructure. There are multiple specialized groups within the team: some focus on heuristic modeling to correlate behavioral signals, others are dedicated to threat simulation and synthetic data generation.
+The group for which this position is open is responsible for developing and improving machine learning models and solutions.
+These groups collaborate closely, sharing expertise and findings across domains to achieve common goals. In addition to internal collaboration, the team works closely with other departments involved in data collection, manual incident evaluation and handling, as well as with software development teams. This cross-functional cooperation ensures that research efforts are grounded in real-world needs and can be effectively translated into impactful, production-ready solutions.
+Technologies used in the job
+Python, Scikit, PyTorch, TensorFlow, Hadoop, Scylla, Spark, Flink, Hive, Impala, Kafka, (My)SQL, JIRA, Confluence, Git, MLflow, Airflow, Jenkins, Docker, K8s
+The advantages
+You will be creating something that truly helps protect millions of users worldwide. You will also have the opportunity to learn new things and apply machine learning approaches in the cybersecurity field—an area mastered by only a handful of people.
+Are you cut out for the job?
+Since this is a dedicated research (or applied research) position, we are primarily looking for candidates with a university education, Master’s or higher degree, in a machine learning-related field. Candidates with backgrounds in Data Science, Computer Science, Data Mining, or Statistics are welcome, ideally with previous work in the field.
+The candidate should be proficient enough in programming to create prototypes in Python. Experience with Big Data technologies and at least a basic understanding of computer/network security are considered advantages. And last but not least, to keep pace with the bad guys, a healthy appetite for continuous learning is essential.
+The appetite for drinks, beers, food, and a great time will be satisfied at several off-site teambuilding activities, our annual Christmas party, and the big company event known as Zranica.
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207871
+Dátum zverejnenia:
+19.12.2025
+2025-12-19
+lokalita:
+Bratislava
+Pozícia:
+Research Worker, Scientific Worker
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

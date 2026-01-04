@@ -1,0 +1,79 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Python Software Engineer
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 700 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. 
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+You will be responsible for the design, analysis and implementation of our automated malware detection technologies, machine learning based technologies and infrastructure used for detection of malicious threats. The position involves process automations and an optimization of the system architecture. It also includes contributions to code review sessions.
+A successful candidate will be dedicated to development and continuous improvements of classifiers built on top of the cutting-edge technologies leveraging multiple data sources and different kinds of information.
+Although we've got space for people who want to contribute more in research field, at the moment we are primarily looking for people who want to work more on the software engineering part.
+Technologies used in the job
+Python, Impala, Kafka, C/C++, (My)SQL, Hadoop/Hbase, Spark, Hive, Jenkins, Docker, JIRA, Confluence, Git, Scikit, TensorFlow
+Are you cut out for the job?
+Position is suitable for experienced software engineers that have at least some experience with machine learning or data science (school, home experiments, etc.).
+Advanced python is required and it would be nice to have some C/C++ knowledge.
+Advantage is to have experiences with CI/CD, so called Big Data technologies and at least basic understanding of computer/network security.
+And last but not least, to keep pace with the bad guys you should have a healthy appetite for continuing to learn new things. The appetite for drinks, beers, food and great time will be saturated on several off-site teambuilding activities and annual Christmas party and big company party with cover name 'Zranica'.
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207835
+Dátum zverejnenia:
+19.12.2025
+2025-12-19
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Programmer
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

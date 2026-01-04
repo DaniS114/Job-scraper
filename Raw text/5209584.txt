@@ -1,0 +1,114 @@
+Java Software Engineer
+NATEK SLOVAKIA, s.r.o.
+Place of work
+Košice
+Contract type
+full-time, trade licence
+Start date
+1.2.2026
+Wage (gross)
+2 400 EUR/month
+The exact salary will be adjusted according to experience and seniority level.
+
+full-time employment: from 2000 EUR gross per month
+freelance contract: from 150 EUR MD rate
+Information about the position
+Job description, responsibilities and duties
+We are looking for a
+Software Engineer with a DevOps mindset
+to join our client’s team and contribute to the development and operation of a modern Manufacturing Execution System (MES).
+You will take
+full end-to-end ownership
+of selected local business applications — from development and deployment to operational stability and incident/problem resolution
+(80% - local application support, 20% - global development).​
+This role offers an exciting opportunity to be part of a greenfield project, building digital solutions that support the transition to sustainable and smart manufacturing.
+Working model: 100 % on-site in Kosice (offering significant flexibility)​
+Key responsibilities:
+Analyse user requirements and translate them into digital functionalities and technical specifications.
+Develop, maintain, and continuously improve software solutions, including UAT testing, rollout, and deployment.
+Monitor and operate applications (logs, middleware, database statistics, system health).
+Handle incidents, problems, and change requests, driving tickets to resolution.
+Update operational documentation and ensure proper handover to factory support teams.
+Follow up on and track pending technology issues to ensure operational stability.
+Investigate new technologies and support DevOps automation (CI/CD where applicable).
+Employee perks, benefits
+Internal Mobility Program – enjoy many opportunities for career growth, job rotations, diversity of projects & technologies
+International, diverse, and inclusive working environment – get experience in global projects for worldwide leaders and enjoy multinational teams
+Referral Program – enjoy cooperation with your colleagues and get the bonus
+5/10 years NATEK club – we offer long-term cooperation and celebrate each fifth-year cooperation anniversary with gifts
+NATEK CSR Events & team buildings – enjoy our values: accountability, partnership and expertise and #workITwithus
+Education – benefit from our know-how, learning courses and certificates and IT events – be part of community of leaders of the industry and take part as a speaker or a visitor
+Bonuses for Personal Events – we congratulate you on important events of your life: giving birth to children, university graduation, etc.
+Benefit Plus (Cafeteria) – use our e-shop with corporate benefits like travel, theatre tickets, books etc.
+Multisport Club Card
+Technical and Personal training – we are investing in your skills growth
+Language courses
+1 paid day off for volunteering – we are supportive of all charity ideas
+Meal contribution directly to your account
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+Java - Advanced
+Application monitoring & troubleshooting - Advanced
+Relational Databases (Oracle) - Skillful
+DevOps Tooling (Azure DevOps & Git) - Skillful
+Messaging - Skillful
+Experience in the position/sector
+3
+Number of years of experience
+3
+Personality requirements and skills
+Technical Requirements
+Java backend development and maintenance
+REST & SOAP APIs and web fundamentals (HTTP, HTML)
+Application monitoring (log files, configurations, database statistics)
+CI/CD pipelines (Azure DevOps)
+Deploying and supporting applications on OpenShift
+Basic understanding of containers, pods, logs, and troubleshooting
+Nice to Have
+Experience with Kafka
+Knowledge of Angular or Node.js
+Experience in manufacturing, MES, or industrial environments
+Soft Skills
+Strong problem-solving and analytical skills
+Ownership mindset and accountability for production systems
+Good communication skills in Slovak & English (B2)
+Ability to work effectively in multinational teams
+Advertiser
+Brief description of the company
+Join one of the most sought-after companies that specialize in IT outsourcing business.
+Building on our shared company values – accountability, expertise and partnership - NATEK's mission is to deliver high quality IT outsourcing and consulting services in the CEE region. Since 2004, our employees have been participating projects for our partners from all over the world   in the most important sectors, including finance and insurance, telecommunications, and IT infrastructure. NATEK has offices in Poland, Bulgaria, the Czech Republic and Slovakia, and thanks to a team of over 700 experts, including project managers, programmers and administrators, we are able to effectively support our partners.
+Number of employees
+500-999 employees
+Contact
+Contact person: Michaela Kovacova
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5209584
+Dátum zverejnenia:
+30.12.2025
+2025-12-30
+lokalita:
+Košice
+Pozícia:
+Java Programmer
+,
+Software Engineer
+Spoločnosť:
+NATEK SLOVAKIA, s.r.o.
+Základná zložka mzdy (brutto):
+2 400 EUR/month

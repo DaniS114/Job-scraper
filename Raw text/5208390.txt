@@ -1,0 +1,138 @@
+CTO / Lead Architect (Java 21 + Spring Boot 3) to innovate Energy & Mobility
+Wattiva a.s.
+Miesto práce
+Námestie slobody 18, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Január 2026/Dohodou
+Mzdové podmienky (brutto)
+5 000 EUR/mesiac
+Finálna ponuka závisí od seniority kandidáta + podiel na firme cez zamestnanecké podiely ESOP
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Máš dosť udržiavania legacy Java 8 spaghetti kódu a nekonečných schvaľovacích procesov v korporáte? Vo Wattive staviame platformu pre modernú energetiku, ktorá agreguje elektrické vozidlá do virtuálnej elektrárne a dynamicky optimalizuje nabíjanie tisícov EVs.
+Hľadáme Hands-on CTO, ktorý vedie príkladom. Nie niekoho, kto len posúva úlohy, ale technického lídra, ktorý navrhne architektúru, napíše kód v Java 21 a zastreší nasadenie cez Docker.
+O čo naozaj ide (The Mission)
+Premeň elektromobily z obyčajného dopravného prostriedku na inteligentné energetické aktíva.
+Vo Wattive hľadáme CTO, ktorý povedie vývoj našej smart-charging platformy. Tvoj kód nebude len bežať na serveri – bude priamo revolučne meniť spôsob, akým elektromobily interagujú s elektrickou sieťou.
+Tvoj reálny dopad:
+Šetrenie nákladov:
+Pomôžeš tisíckam majiteľov EV znížiť náklady na nabíjanie o 30 %.
+Virtuálna elektráreň:
+Vybuduješ systém, ktorý stabilizuje elektrickú sieť pomocou obnoviteľných zdrojov.
+Líder na trhu:
+Dostaneš na mapu lídrov v emerging technológii. Nebudeš zamestnanec číslo 500. Budeš technickou dušou firmy.
+Tvoja misia:
+Architektúra & Vývoj:
+Navrhneš a implementuješ robustnú microservice architektúru od nuly (Java 21, Spring Boot 3.x). Žiadny legacy kód, žiadne bolestivé migrácie.
+Leadership:
+Budeš mentorovať a viesť technický tím. Tvoje technické rozhodnutia sú finálne.
+Product Ownership:
+Preložíš biznisovú víziu do technických taskov a budeš spravovať backlog.
+Release Captain:
+Vlastníš proces od commitu až po produkciu. Nastavíš CI/CD pipeline, Docker kontajnery a cloudovú infraštruktúru.
+Inovácie:
+Budeš mať priestor experimentovať – či už ide o integráciu Kotlinu alebo python + AI / ML
+Náš Tech Stack (ktorý budeš vlastniť):
+Backend:
+Java 21, Spring Boot 3.x
+Dáta:
+MongoDB, NoSQL
+Infraštruktúra:
+Linux, Docker, Docker Compose, CI/CD (GitHub Actions)
+Budúcnosť:
+Kotlin / python + AI / ML výhodou (podľa tvojho uváženia pre špecifické moduly)
+Nebudeš udržiavať legacy systémy bánk. Budeš riešiť komplexné problémy:
+Real-time Architektúra:
+Navrhneš škálovateľný systém pre účasť na energetickom trhu v reálnom čase.
+Integrácia IoT:
+Prepojíš našu platformu s API výrobcov vozidiel pre seamless user experience.
+AI & Optimalizácia:
+Postavíš algoritmy pre predikciu spotreby a optimalizáciu nabíjacích cyklov.
+Bezpečnosť:
+Implementuješ bezpečné systémy pre grid services a trading s energiou.
+Zamestnanecké výhody, benefity
+Projekt:
+Práca s Java 21, ​prevzatie systému a implementácia nových features​
+Reálny vplyv:
+Ako CTO, nie senior developer vo veľkom tíme. Rozhodnutia sa robia v hodinách, nie v kvartáloch.
+​
+ESOP (Podiel vo firme):
+Možnosť získať zamestnanecké akcie  a podieľať sa na raste firmy.
+High-performance kultúra:
+Budujeme silný core tím v Bratislave.
+​
+Technologická sloboda:
+Ty vyberáš nástroje, ktoré dávajú zmysel.
+​
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Java - Expert
+Spring Boot - Expert
+Microservices - Pokročilý
+Docker - Pokročilý
+MongoDB - Pokročilý
+Prax na pozícii/v oblasti
+Software Development / Architecture
+Počet rokov praxe
+7
+Osobnostné predpoklady a zručnosti
+​Minimálne 7 rokov praxe
+v softvérovom vývoji (z toho recentná skúsenosť s Java 7+).
+Minimálne 3 roky skúsenosti
+na pozícii Team Lead, Architekt alebo CTO.
+Hlboká znalosť
+Spring Boot 3 ekosystému
+a návrhu
+Microservices
+.
+Skúsenosti s
+DevOps
+(Linux, Docker, CI/CD) – musíš vedieť, ako tvoj kód beží na serveri.
+Product Owner mindset
+– chápeš, že kód je nástroj na riešenie biznis problémov.
+Schopnosť prioritizovať
+a robiť pragmatické rozhodnutia ("Done is better than perfect").
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Wattiva je inovatívna technologická spoločnosť zameraná na moderné softvérové riešenia pre energetický sektor a elektromobilitu. Naším cieľom je vytvárať robustné a škálovateľné systémy s využitím najnovších technológií, ktoré pomáhajú firmám efektívne riadiť energiu. Hľadáme lídrov, ktorí chcú formovať budúcnosť udržateľnej energie.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Martin Gonda
+Tel.:
++421915614488
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5208390
+Dátum zverejnenia:
+22.12.2025
+2025-12-22
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+,
+Java programátor
+Spoločnosť:
+Wattiva a.s.
+Základná zložka mzdy (brutto):
+5 000 EUR/mesiac

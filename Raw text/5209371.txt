@@ -1,0 +1,138 @@
+Voľné pozície
+O nás
+Zamestnanecké výhody
+Kontakt
+Cloud Monitoring DevOps - m/ž
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 800 EUR/mesiac
+Základná nástupná brutto mzda 2 800€. Tvoja konkrétna mzda bude závisieť od rozsahu Tvojich znalostí a praktických skúseností.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho tímu hľadáme skúseného Cloud Monitoring DevOps Inžiniera, ktorý bude zodpovedný za návrh, implementáciu a údržbu monitorovacieho riešenia pre cloudové služby postavené na Kubernetes. Hlavným nástrojom bude ELK stack (Elasticsearch, Logstash, Kibana), prípadne jeho rozšírenia.
+O projekte:
+Budeš      pracovať na cloudovej platforme pre koncern Volkswagen a jeho značky.
+Platforma      zabezpečuje komunikáciu medzi internetovo pripojenými vozidlami      („connected cars“) a backend systémami koncernu.
+Pracujeme      s najmodernejšími open-source technológiami v cloude a Kubernetes      ekosystéme.
+Čaká      ťa medzinárodné prostredie, moderný tech stack a príležitosť ovplyvňovať      architektúru monitoringu od základov.
+Budeš pracovať s najnovšími technológiami, procesmi a metodikami ako sú:
+AWS
+Návrh      a poskytovanie IT infraštruktúry na základe princípov „Infrastructure      as a code“.
+Deployment      služieb - Terraform, CloudFormation
+CI/CD      - Concourse CI
+Kontajnerizácia      - Kubernetes, Docker
+Vizualizácia      dát a reporting - ELK Stack
+Tvojou úlohou bude najmä:
+Zabezpečovať      monitorovanie cloudových služieb (logovanie, metriky, alertovanie) pre      aplikácie bežiace v Kubernetes.
+Vyvíjať,      spravovať a optimalizovať monitoring infraštruktúry a aplikácií pomocou      ELK stacku.
+Spolupracovať      s vývojovými a infraštruktúrnymi tímami pri implementácii observability      best practices.
+Podieľať      sa na návrhu a prevádzke monitorovacích dashboardov a notifikačných      systémov.
+Automatizovať      deployment a konfiguráciu monitorovacích komponentov pomocou CI/CD      nástrojov.
+Riešenie      požiadaviek, incidentov a výpadkov na službách.
+Implementácia      opatrení na zaistenie bezpečnosti služieb v súlade      s bezpečnostnými štandardami koncernu Volkswagen.
+Udržiavanie      a aktualizácia dokumentácie služieb.
+Aktívne      zapojenie sa do projektov návrhu a implementácie nových služieb      a zlepšovania existujúcich služieb.
+Zamestnanecké výhody, benefity
+Možnosť      ďalšieho odborného rastu podľa tvojho výberu (užšia špecializácia, alebo      získavanie ďalších profesionálnych zručností, hierarchický rast)
+Možnosť      práce z domu
+Flexibilná      pracovná doba
+Ročná      odmena v závislosti od splnenia cieľov do výšky mzdy
+Školenia      a jazykové kurzy zdarma
+Príspevok      na doplnkové dôchodkové sporenie
+Ročný      príspevok na individuálny výber benefitov z Cafetérie + narodeninový bonus
+Zvýhodnené      celoročné cestovné poistenie pre zamestnancov
+Príspevok      darcom krvi
+Príspevok      pri narodení dieťaťa
+Jubilejné      pracovné odmeny
+Odmena      za odporúčanie kolegu
+Možnosť      využívania MultiSport karty
+Zvýhodnené      ponuky vo vybraných bankách a obchodoch
+Zľavy      na nákup koncernových vozidiel Volkswagen
+Parkovanie      zdarma
+Informácie o výberovom konaní
+Na pracovnom pohovore budú preskúšané jazykové znalosti uchádzača.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Vzdelanie v odbore
+IT, MAT-FYZ
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+IT, CLOUD
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Požadované:
+Skusenosti s monitoringovymi toolmi – 2+ rokov
+Kubernetes, Docker - 3+ rokov skúseností
+CI/CD Pipelines - 2+ rokov skúseností
+Cloudové služby - AWS (preferované)/GCP/Azure -  3+ rokov skúseností
+Helm – základy
+Administrácia UNIX/Linux - základy
+Git - základy
+Vítané:
+Terraform, Python, Concourse
+Osobnostné predpoklady:
+Máš
+analytické      schopnosti
+Si
+tímový/-á      hráč/-ka
+, ale úlohy dokážeš riešiť
+aj samostatne
+Nehľadáš      prekážky,
+hľadáš riešenia
+Si
+zodpovedný
+a
+proaktívny
+Rád riešiš      problémy
+, zlepšuješ veci okolo seba, zefektívňuješ procesy
+Rád      sa učíš nové veci
+nielen v oblasti informačných      technológií
+Máš      dobré
+komunikačné schopnosti      a prezentačné zručnosti
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť VOLKSWAGEN GROUP SERVICES, s.r.o. s 85-percentným podielom spoločnosti Volkswagen Group Services GmbH a 15-percentným podielom spoločnosti Volkswagen Slovakia, a.s. poskytuje pre Volkswagen Slovakia, ako aj koncern Volkswagen komplexné a odborné personálne riešenia v procesoch automobilového priemyslu.
+Zameriavame sa na administratívne, technicko-podporné i výrobné procesy, predovšetkým o oblasť zabezpečenia kvality, plánovacích činností, procesnej podpory nákupu, rôznych inžinierskych a administratívnych služieb. Ponúkame preto veľa atraktívnych pracovných miest v rôznych oblastiach. Navštívte naše pracovné ponuky a využite šancu rozvíjať s nami svoju kariéru.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Tereza Michová
+Tel.:
++421902471611
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5209371
+Dátum zverejnenia:
+29.12.2025
+2025-12-29
+lokalita:
+Práca z domu
+Pozícia:
+Backend programátor
+,
+DevOps Engineer
+,
+Frontend programátor
+,
+Programátor
+Spoločnosť:
+VOLKSWAGEN GROUP SERVICES, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

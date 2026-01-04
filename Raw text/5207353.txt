@@ -1,0 +1,87 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Medior C# Developer
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 700 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. * Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are looking for a new colleague who will work on a project broadly used by our partners and customers worldwide. The web application is based on ASP.NET Core, React and MS Azure Cloud technologies. We prefer programmers who has experience in backend (C#/.NET). Bellow you can find more info.
+Position is directly located in Bratislava without the option to work remotely. We require be onsite 2 days per week in average.
+Responsibilities
+Collaborating with the team on designing, implementing, and maintaining new features and services
+Working with the team to improve DevOps concepts used in the project - continuous integration and delivery, infrastructure as a code and cloud concept (IaaS, PaaS, SaaS, FaaS)
+Participating in all parts of the high-performing agile team ceremonies like daily stand-ups, planning meetings, reviews, and retrospectives
+Discussing possible changes and optimizations to cloud architecture of the project utilizing cutting-edge cloud concepts and cloud components
+Ensuring the code quality by working closely with our QA team and by creating automated tests
+What do we expect
+2+ years of experience with C#, .NET Core, ASP.NET Core
+Experience with SQL and MS SQL
+Cloud Knowledge – preferably Azure (KeyVault, CosmosDB, Functions, AppService, Storage, Service Bus, …)
+Willingness to constantly learn
+Communication, analytical and problem-solving skills
+English - Intermediate (B1)
+Nice to have
+Knowledge of tools such as webpack, redux, and flux
+Experience with CI/CD
+Experience with DevOps
+Experience with an agile methodology
+Achieved Microsoft certifications for developers
+Kontaktná osoba
+Jakub Kunik
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5207353
+Dátum zverejnenia:
+18.12.2025
+2025-12-18
+lokalita:
+Bratislava
+Pozícia:
+.NET Programmer
+,
+C# Programmer
+,
+Programmer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

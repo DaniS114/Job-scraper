@@ -1,0 +1,125 @@
+Join Brightpick – Where Real-World AI and Robotics Comes to Life
+At Brightpick, we build intelligent robots that solve complex logistics challenges using advanced AI, computer vision, and autonomous mobility. Our flagship robot, the Brightpick Autopicker, is truly unique: a robotic platform in place of feet, a robotic arm instead of a hand, a 3D scanner for vision, and AI algorithms as its brain — all seamlessly integrated to enable autonomous movement and intelligent decision-making.
+Why Brightpick?
+Fully in-house tech: from hardware to AI & algorithms. Also design and manufacturing!
+Rapid rollout and proven results in the EU and US
+A place where you can thrive and accelerate your career growth
+Headquartered in Bratislava, but delivering our solutions all around the world, we’re a tight-knit team of 200+ engineers, builders, and problem-solvers. We move fast, think bold, build technology that matters.
+Pridaj sa k Brightpick - Kde ožívajú robotické aplikácie spolu s AI
+V Brightpicku vytvárame inteligentné roboty, ktoré riešia komplexné logistické výzvy pomocou pokročilej umelej inteligencie, počítačového videnia a autonómnej mobility. Náš vlajkový robot, Brightpick Autopicker, je skutočne jedinečný. Robotická platforma namiesto nôh, robotické rameno namiesto ruky, 3D skener ako oči a AI algoritmy ako rozum. Všetko dokonale integrované pre autonómny pohyb a inteligentné rozhodovanie.
+Prečo Brightpick?
+Naše vlastné technológie: od hardvéru až po AI a algoritmy. A tiež samotné dizajnovanie a výroba robotov!
+Rýchla implementácia a preukázateľné výsledky v EÚ a USA
+Miesto, kde môžeš napredovať a urýchliť svoj kariérny rast
+Naše sídlo je v Bratislave, no naše riešenia dodávame po celom svete. Sme zohratý tím viac ako 200 inžinierov, vývojárov a riešiteľov problémov. Vďaka nášmu nasadeniu a práci, ktorá nás napĺňa, budujeme technológie, na ktorých záleží.
+C++ Programmer for Robotic Systems
+Place of work
+Plynárenská 4937/6, Ružinov
+Contract type
+full-time
+Wage (gross)
+2 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+We're looking for a skilled C++ Programmer to join our team and help us build the future of mobile robotics. In this role, you’ll connect the worlds of software and hardware, developing and maintaining the core software that drives our Autonomous Guided Vehicles (AGVs). If you're a hands-on programmer who enjoys seeing your code bring physical systems to life, this is the perfect opportunity.
+Location
+Bratislava
+Type of employment
+Full-time
+Salary (brutto)
+From € 2000/month based on seniority and experience
+Core responsibilities:
+Program and maintain software for our fleet of mobile robots.
+Work closely with the hardware team to ensure seamless integration between software and robotics.
+Write automated tests to guarantee system reliability and performance.
+Contribute to the full lifecycle of our products, from proposing new features to implementing improvements based on research and testing.
+Collaborate effectively with the Mechatronics team and other departments.
+Manage multiple projects simultaneously, helping the team meet important deadlines.
+Requirements:
+At least 2 years of professional experience as a C++ programmer with a strong focus on object-oriented programming.
+Advanced skills in repository management (e.g., GitHub).
+Experience using Jira tool for project management.
+Comfortable working in a Linux environment and using BASH.
+Experience with debugging.
+Basic knowledge of Python is a plus.
+Basic knowledge of VS Code IDE is a plus.
+Knowledge of embedded and real-time systems.
+Experience with the TCP/UDP stack or ROS (Robot Operating System).
+Familiarity with AGV components or PLCs (Programmable Logic Controllers).
+Experience working with robotic systems or other automated hardware.
+Strong problem-solving
+Analytical, and communication skills
+The ability to work independently
+Manage multiple tasks, and be a great team player is essential.
+English Proficiency: B2 level or higher, fluent in Slovak language
+Benefits:
+Daily breakfast in the office
+Option of working from home/hybrid work (in case the position allows it)
+Flexible work schedule (in case the position allows it)
+Sick days
+Parking for everyone, bike storage with showers and changing rooms on site at our HQ
+Rooftop terrace with nice view of Bratislava
+Dog friendly office
+Multisport Card
+Referral program
+Additional benefits you can choose from after 1st year:
+Multisport Card (with company contribution)
+Contribution to a recreation stay
+Year-round healthcare access at ProCare
+Supplementary pension contribution (III pilier)
+Brain boost - budget for professional development
+Annual public transportation pass
+E-Shop voucher to buy anything you might need
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+Language skills
+English - Upper intermediate (B2)
+and
+Slovak - Proficiency (C2)
+Advertiser
+Brief description of the company
+The journey of our company started in 2013 when 4 friends came up with the idea to provide eyes for robots worldwide so that they could see and understand it. This idea led to a series of patents and awards. Shortly thereafter, the four-man company grew fast, becoming a technological sanctuary for machine vision, smart automation enthusiasts & innovators.
+In 2021 Photoneo launched its new Business Unit BRIGHTPICK, the first fully automated fulfillment solution for warehouses and grocers and added to its broad competences and industries served. In early 2025 the sensor/3D vision part of the company (‘’Photoneo’’) was acquired by Zebra Technologies, marking a significant and celebrated tech acquisition in Slovak history.
+We, the remaining part of the company, were rebranded as Brightpick, with hubs in the USA and EU (with main HQ in Slovakia), dedicated to providing global automation solutions for e-commerce and grocery fulfillment.
+Being a part of Brightpick means being a part of a team that continuously pushes the boundaries further and creates space for solutions of the future. Join us and experience the journey with us!
+Address
+Brightpick s. r. o.
+Plynárenská 6
+84105 Bratislava
+Number of employees
+200-249 employees
+Contact
+Contact person: Lucia Matlovičová
+E-mail:
+send CV
+<<< Back to the list of jobs
+You can react to this job
+without sending your CV
+. It is sufficient to fill in a form.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5208278
+Dátum zverejnenia:
+22.12.2025
+2025-12-22
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+C++ Programmer
+,
+PLC Programmer
+,
+Programmer
+Spoločnosť:
+Brightpick s. r. o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

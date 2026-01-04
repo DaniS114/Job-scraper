@@ -1,0 +1,92 @@
+Part time C++ programátor / engineer so zameraním na finančné trhy
+KA Group s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+skrátený úväzok, na dohodu (brigády), živnosť
+Mzdové podmienky (brutto)
+Od 2 800 EUR/mesiac
+Plat: 1200 - 2300 Eur v čistom, mesačne za polovičný úväzkok.
+
+- Výška mzdy závisí od Vašich individuálnych schopností, skúseností, odbornej praxe a bude predmetom vzájomnej dohody
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme part time programátora ktorého úlohou bude podieľať sa na vývoji algoritmov určených pre obchodovanie na finančných trhoch. Jedná sa najmä o tvorbu a optimalizáciu kódov na obchodovanie pri čo najnižšej latency a doplnkovo sa podieľať na kódoch súvisiacich s backtestom stratégí navrhnutých portfolio managerom.
+Forma spolupráce je zo začiatku part time, home office.Práca je výsledkovo orientovaná a je možné ju robiť v akomkoľvek čase počas dňa/týždňa.V prípade ak sa spolupráca osvedčí predpokladá sa možnosť postupného prechodu na full time.
+Práca zahŕňa najmä:
+- vývoj kódu na obchodnavnie (C++)
+- vývoj backtestov na historických dátach (Python alebo iné) (prototyping&testing trading strategies)
+- technický support pre sieťové riešenia (implementácia a dohľad nad VPS/dedicated/colocation a pod.)
+- code reviews v prípade externých spoluprác
+Všetky kódy sú zameraná najmä na back end, s postačujúcim jednoduchým textovým výstupom pre užívateľa.
+Pracovná doba:
+Flexibilná, výsledkovo orientovaná, polovičný úväzok formou home office. (práca cca 70-100 hod/mesiac)
+Zamestnanecké výhody, benefity
+Ponúkame:
+- Práca formou home office
+- Flexibilná pracovná doba
+- Dlhodobá stabilná spolupráca
+- Rekreácia v ubytovacích zariadeniach spoločnosti, workstation aj na súkromné účely a ostatné bežné benefity.
+- Práca v stabilnej a rastúcej spoločnosti.
+- Jedná sa o nové oddelenie v rámci skupiny, členovia tímu majú možnosť rýchleho kariérneho rastu v tejto oblasti v prípade šikovnosti.
+Plat: 1200 - 2300 Eur v čistom, mesačne.
+- Výška mzdy závisí od Vašich individuálnych schopností, skúseností, odbornej praxe a bude predmetom vzájomnej dohody
+Informácie o výberovom konaní
+Životopis a popis predošlých pracovných skúseností poslať na: alex.kreze@gmail.com, predmet emailu: Programátor BB.  Na pohovore je preferovaná osobná účasť, vo vybraných prípadoch je možné absolvovať prvé kolo on line.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Ostatné znalosti
+Python - Mierne pokročilý
+C++ - Pokročilý
+Osobnostné predpoklady a zručnosti
+Nutné požiadavky:
+- C++ - pokročilý,
+- Python – intermediate, prípade znalosť alternatívneho jazkya na rýchle otestovanie hypotéz,
+- základy v oblasti nastavenia sieťových riešení,
+- Anglický jazyk – písanie a čítanie,
+- min. 3 ročná prax – aktívne programovanie v C# / C++ s doložením výsledkov,
+- schopnosť písať script bez použitia AI – nutné poznať na čo slúžia jednotlivé pokyny a ako spolu navzájom fungujú
+Výhodu je znalosť v oblastiach:
+- skúsenosti s REST a FIX API, nastavenia konektorov
+- skúsenosti so zabezpečením čo najnižších latency (či už programovo, sieťovo alebo inak)
+- základné znalosti finančných trhov
+- prípadne znalosť alternatívneho jazyka s použitím pre low latency (napr. Golang, optimalizovaná Java)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť poskytuje komplexné služby v oblasti nehnuteľností, ako správu nehnuteľností, inžiniersku činnosť, vedenie akvizičných procesov, cash flow analýzy a ďalšie služby v oblasti developmentu nehnuteľností.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Alexander Kreze
+Tel.:
++421948559128
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5208097
+Dátum zverejnenia:
+21.12.2025
+2025-12-21
+lokalita:
+Práca z domu
+Pozícia:
+Backend programátor
+,
+C++ programátor
+,
+DevOps Engineer
+,
+Programátor
+,
+Python programátor
+Spoločnosť:
+KA Group s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

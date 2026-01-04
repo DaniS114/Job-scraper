@@ -1,0 +1,86 @@
+O nás
+Benefity
+Kariéra
+SK
+|
+EN
+Softvérový inžinier – Java/Spring Boot
+Prihlás sa teraz a staň sa súčasťou rýchlo sa rozvíjajúcej spoločnosti. GoHealth Slovakia hľadá práve teba.
+O GoHealth: V GoHealth pracujeme na plne integrovanej platforme v oblasti sprostredkovania zdravotného poistenia v USA s misiou zlepšiť dostupnosť zdravotnej starostlivosti. Výber zdravotného poistenia môže byť náročný – aj malé rozdiely môžu viesť k vyšším nákladom alebo obmedzenému prístupu k liekom a poskytovateľom. Vďaka našej technológii, dátovej analytike a odborným agentom pomáhame zákazníkom zorientovať sa a vybrať plán s vhodnými benefitmi.
+Prečo sa k nám pridať: V GoHealth budujeme prostredie, kde sa zamestnanci cítia podporovaní, zapojení a motivovaní. Hľadáme ľudí, ktorí chcú aktívne formovať dlhodobý úspech našej spoločnosti.
+Forma spolupráce: Úvodné obdobie vyžaduje pravidelnú osobnú prítomnosť v našej kancelárii v Bratislave alebo Košiciach. Následne je možná práca na diaľku v rámci Slovenska. Ponúkame iba pracovný pomer (TPP), nie formu kontraktu. Práca na diaľku je možná len zo Slovenska (z dôvodu VPN smerníc). Pozícia vyžaduje oprávnenie pracovať na území SR.
+Mzdové podmienky
+Od 2 600 EUR/mesiac
+Uvedená mzda predstavuje zákonom stanovené minimálne mesačné ohodnotenie v súlade s legislatívou Slovenskej republiky. Ponúkaný plat sa odvíja od relevantných skúseností a zručností kandidáta.
+Okrem toho ponúkame ročný mzdový bonus založený na individuálnom výkone a celkových výsledkoch spoločnosti.
+Tvoja úloha
+Hľadáme softvérového inžiniera s 3+ rokmi skúseností, ktorý bude vyvíjať a udržiavať systémy používané pri procese uzatvárania zdravotného poistenia v USA.
+Budeš pracovať najmä s Java a Spring Boot, podieľať sa na návrhu a vývoji backendových služieb a zlepšovať ich výkon, škálovateľnosť a bezpečnosť. Budeš súčasťou multifunkčných tímov, ktoré spolupracujú na riešeniach pre zákaznícke akvizície, telekomunikačné integrácie a interné nástroje. Reportovať budeš nášmu technickému lídrovi.
+Náplň práce
+Vývoj a údržba backendových systémov pre získavanie zákazníkov a telekomunikačné integrácie.
+Návrh a vývoj škálovateľných a udržateľných riešení v Java/Spring Boot.
+Spolupráca s vývojármi, QA a architektmi na dodaní funkčných riešení.
+Práca s Git a správa repozitárov (pull requests, code reviews, branching).
+Automatizované testovanie, CI/CD a priebežné zlepšovanie kvality kódu.
+Riešenie incidentov, bugfixing, optimalizácia výkonu a bezpečnostné úpravy.
+Sledovanie trendov a návrh modernizácie existujúcich služieb a nástrojov.
+Dedičstvo líderstva
+Sme jedným z lídrov v technických riešeniach pre oblasť zdravotného poistenia a stojí za nami digitálna platforma, ktorá pokrýva celý životný cyklus zákazníka. Pomáha miliónom ľudí v USA vybrať si to najvhodnejšie zdravotné poistenie.
+Technológie zohrávajú v našom raste kľúčovú úlohu a náš tech stack neustále modernizujeme. Chceme budovať tím všestranných inžinierov, ktorí rozumejú softvéru od vývoja až po prevádzku a vytvárajú riešenia, ktoré sa dajú ľahko udržiavať a ďalej rozvíjať. A presne tu vidíme tvoje miesto.
+Požadované zručnosti
+Nutné:
+minimálne 3 roky skúseností v oblasti vývoja softvéru (prax v insurance/healthcare/finance je výhodou)
+silná znalosť Java a Spring Boot
+skúsenosti s vývojom webových aplikácií; mikroservisná alebo serverless architektúra je výhodou
+schopnosť písať bezpečný a udržateľný kód
+skúsenosť s test-driven development a domain-driven design
+práca s Git (code reviews, pull requests, branching)
+znalosť relačných aj nerelačných databáz (napr. MySQL, Couchbase)
+základná znalosť streaming systémov (Kafka)
+anglický jazyk na úrovni B2 a vyššie
+ochota a motivácia neustále sa učiť a rozvíjať svoje zručnosti
+Výhodou:
+skúsenosť s Python
+základná znalosť Terraform, Docker, AWS/ECS, Jenkins (alebo iných CI/CD nástrojov)
+skúsenosť s Databricks
+základná znalosť AWS
+Snažíme sa budovať inkluzívne pracovné prostredie a poskytovať každému rovnaké príležitosti. Vieme, že mnohí kandidáti – najmä ženy a menej zastúpené skupiny – posielajú životopis často len vtedy, keď spĺňajú všetky požiadavky. Chceme ťa povzbudiť, aby si sa prihlásil/la aj vtedy, ak nespĺňaš 100 %. Nikto nespĺňa úplne všetko — dôležitá je motivácia a ochota rásť.
+Tešíme sa na tvoj životopis.
+Pridaj sa k nám
+Ak chceš byť súčasťou inovatívnej product development firmy, u nás môžeš využiť svoje silné stránky a zároveň ďalej rásť a rozvíjať svoje schopnosti.
+Pridaj sa k nám
+Sleduj nás
+na sociálnych sieťach
+Bratislava
+Nivy Tower
+Mlynské Nivy 5
+821 09 Bratislava
+Košice
+Hviezdoslavova 6,
+040 01 Košice
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5137147
+Dátum zverejnenia:
+4.1.2026
+2026-01-04
+lokalita:
+Práca z domu
+Pozícia:
+IT konzultant
+,
+Java programátor
+,
+Javascript programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+GoHealth, s. r. o.
+Základná zložka mzdy (brutto):
+2 600 EUR/mesiac
