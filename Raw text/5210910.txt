@@ -1,0 +1,74 @@
+About us & contact
+Career
+Benefits
+Linux System Administrator (Mid-Level)
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+asap
+Wage (gross)
+From 2 100 EUR/month
+basic salary from 2100 gross depends on candidate's experience + Q bonuses
+Job description, responsibilities and duties
+We are looking for experienced experienced Linux System Administrator with hands-on experience in managing, maintaining, and optimizing Linux-based server environments. Skilled in supporting production systems, ensuring stability, performance, and availability across on-premise and hybrid infrastructures.
+If you are comfortable working with common Linux distributions and performing day-to-day administration tasks, troubleshooting, and automation and familiar with security best practices and compliance-oriented environments, you are the right one for us.
+We are a part of international agile team which supports our customers within Raiffeisen group.
+We have our offices in Presov and Nitra, but you can work from home/remotely as well.
+Core Responsibilities & Skills:
+• Administration of Linux servers (RHEL 7, 8, 9 installation, configuration, maintenance)
+• System monitoring, performance tuning, and capacity management (Zabbix, Wazuh, Splunk)
+• Patch management and system updates (RHEL sat)
+• Troubleshooting OS, service, and application issues
+• User, group, and permission management
+• Backup and recovery operations (TSM)
+• Basic to intermediate scripting and automation (Bash, Shell) / (Python, Salt, terraform)
+• Documentation of system configurations and operational procedures
+Personality requirements and skills
+Security & Compliance (Nice to Have):
+• Understanding of Linux security hardening and best practices (CIS)
+• Familiarity with PCI DSS requirements and compliance principles
+• Support of vulnerability remediation and audit activities
+• Access control and secure system configuration
+Professional Profile:
+• Mid-level (mediator) experience with strong Linux fundamentals
+• Proactive, reliable, and detail-oriented
+• Ability to work independently and within a team
+• Continuous learner with interest in security and automation
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+Linux server administration - Advanced
+RHEL 7, 8, 9 - Advanced
+System monitoring - Advanced
+Bash Scripting - Skillful
+Shell Scripting - Skillful
+Send CV to the company
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Vaše osobné údaje sú spracovávané a likvidované v súlade s Nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 a zákona o ochrane osobných údajov 18/2018. Zásady a smernicu o ochrane osobných údajov nájdete na:
+GDPR
+Your personal data is processed and disposed of in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council and the Data Protection Act 18/2018. The privacy policy and directive can be found at:
+GDPR
+Follow us on
+ID:
+5210910
+Dátum zverejnenia:
+5.1.2026
+2026-01-05
+lokalita:
+Remote work
+Pozícia:
+IT Security Specialist
+,
+IT/Technical Support Specialist
+,
+Systems Administrator
+Spoločnosť:
+Raiffeisen Informatik SK s.r.o.
+Základná zložka mzdy (brutto):
+2 100 EUR/month

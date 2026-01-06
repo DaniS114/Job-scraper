@@ -1,0 +1,88 @@
+About us & contact
+Career
+Benefits
+IT WEB Application Support/ RedHat with DE
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiac
+Minimálne od 2000 brutto + Q odmeny + preplatené pohotovosti, finálna mzda záleží od skúseností kandidáta
+Náplň práce, právomoci a zodpovednosti
+Hľadáme zodpovedného a proaktívneho IT Application Support Specialistu, ktorý bude zabezpečovať stabilnú prevádzku kľúčových aplikácií, efektívne riešiť incidenty a aktívne spolupracovať s internými tímami na prevencii výpadkov. Ide o pozíciu, ktorá vyžaduje technické myslenie, schopnosť samostatne analyzovať problémy a ochotu prevziať plnú zodpovednosť za pridelené úlohy.
+Máš rád nové výzvy a projekty v oblasti bankového sektora ?
+Tvoj čas venuješ tomu, čo ťa baví:
+Incident & Ticket Management
+•	Aktívne prijímanie a promptné spracovanie tiketov v zmysle SLA, aby nezostávali neprimerane dlho nevybavené.
+•	Komplexné spracovanie Dynatrace tiketov – nielen ich prijatie, ale aj dôsledné preverenie a riešenie.
+•	Zaznamenávanie všetkých zistení, analýz a komunikácie s odbornými tímami priamo do tiketov alebo chatu.
+•	Riešenie problémov pomocou predchádzajúcich tiketov, e-mailovej komunikácie a dostupnej dokumentácie (napr. OneNote).
+•	Samostatná technická analýza, práca s logmi a hľadanie riešení bez zbytočného eskalovania na ďalšie oddelenia.
+•	Analýza plniacich sa diskov – identifikácia zdrojov zvýšeného využitia, trendov rastu a návrh potrebných krokov (napr. rozšírenie kapacity).
+Handling prio 1 incidentov (výpadky aplikácií)
+•	Overenie, či ide o reálny výpadok aplikácie.
+•	Zaznamenávanie a ukončovanie výpadkových/obnovovacích hlásení v ServiceNow.
+•	Vykonanie základnej Root Cause Analýzy (RCA) a zdieľanie zistení v skupinovom chate a v PRIO 1 kanáli.
+•	Aktívne doplnenie informácií, ak príčina nie je jasná – komunikácia a dotazovanie kolegov.
+•	V prípade incidentov vyriešených inými kolegami – dodatočné zistenie vykonaných krokov pre lepšie pochopenie a budúce samostatné riešenie.
+Prevádzka & interná komunikácia
+•	Aktívna účasť na support aktivitách – napr. plánovanie a príprava outage okien, prevzatie úloh diskutovaných na stand-upoch.
+•	Prevzatie pohotovostí (on-call), podľa možností a dohody.
+•	Transparentná komunikácia o dostupnosti v tímovej komunikácii (príchod, prestávky, stretnutia, odchod).
+•	Konzultovanie plánovaných krokov, overenie správnych postupov (napr. e-mailová komunikácia s konkrétnymi osobami, a pod).
+Osobnostné predpoklady a zručnosti
+Požiadavky:
+•	Výborná znalosť systému Linux (Redhat)
+•	Ovládanie skriptovacích jazykov Bash, Perl a JavaScript
+•	Znalosť monitorovacích systémov (BSM/Splunk/Dynatrace/Zabbix)
+•	Základné znalosti operačných systémov Windows
+•	Základné znalosti sieťových technológií (TCP/IP, router, switch)
+•	Základné znalosti firewallových a loadbalancingových systémov (Netscaler)
+•	Znalosti webových aplikácií založených na technológiách Java EE
+•	Znalosti systémov riadenia IT služieb (ServiceNow)
+•	Dobrá znalosť angličtiny a nemčiny
+Ostatné znalosti:
+- znalosť DE a AJ na komunikatívnej úrovni (každodenná komunikácia v DE a AJ)
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Nemecký jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Linux Server - Mierne pokročilý
+Redhat - Základy
+Windows Server - Mierne pokročilý
+Send CV to the company
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+Vaše osobné údaje sú spracovávané a likvidované v súlade s Nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 a zákona o ochrane osobných údajov 18/2018. Zásady a smernicu o ochrane osobných údajov nájdete na:
+GDPR
+Your personal data is processed and disposed of in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council and the Data Protection Act 18/2018. The privacy policy and directive can be found at:
+GDPR
+Follow us on
+ID:
+5197744
+Dátum zverejnenia:
+5.1.2026
+2026-01-05
+lokalita:
+Práca z domu
+Pozícia:
+IT/Technical Support Specialist
+,
+Softvérový inžinier
+,
+Správca informačného systému
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Raiffeisen Informatik SK s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

@@ -1,0 +1,76 @@
+Senior Cloud Engineer
+RecruLab s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 000 - 3 500 EUR/month
++ 13th Sallary + Annual Bonus
+Information about the position
+Job description, responsibilities and duties
+As a
+Senior Cloud Infrastructure Engineer
+, you will play a key role in designing, deploying, and enhancing a hybrid IT infrastructure that bridges on-premises systems with cloud-based services. You will oversee enterprise-level architecture, manage virtualization platforms, cloud environments, identity solutions, and automation tools essential to the company’s daily operations. This position demands deep expertise in Microsoft technologies, Azure services, and modern infrastructure automation practices.
+Key Duties and Responsibilities:
+• Design and oversee hybrid cloud architectures that integrate on-prem infrastructure with Azure cloud solutions
+• Build and deploy virtualization systems using Hyper-V, VMware, or other enterprise platforms
+• Create and maintain automation tools leveraging PowerShell, Azure Automation, and Infrastructure as Code (IaC) principles
+• Manage and enhance Active Directory and Entra ID (Azure AD) environments
+• Configure and administer Microsoft 365 services such as Exchange Online, SharePoint, and Teams
+• Enforce and maintain security best practices throughout all layers of hybrid infrastructure
+• Maintain and optimize Microsoft SQL Server platforms and related database systems
+• Develop disaster recovery and business continuity strategies that cover both cloud and on-prem environments
+• Lead and coordinate complex infrastructure initiatives, offering technical leadership to junior staff
+• Establish and document infrastructure standards, architectural patterns, and technical guidelines
+• Monitor infrastructure performance and support capacity planning activities
+• Provide advanced troubleshooting and resolution for critical infrastructure challenges
+Company on whose behalf the position is being filled
+Waste management
+Global company
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Experience in the position/sector
+3
+Personality requirements and skills
+Advanced knowledge of Microsoft server technologies and cloud services
+Strong expertise in virtualization technologies (Hyper-V, VMware)
+Proven experience with Azure cloud architecture and services
+Advertiser
+Brief description of the company
+Recruitment consultancy
+Contact
+Contact person: Mgr.  Martin Horváth
+Tel.:
++421902084646
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5084996
+Dátum zverejnenia:
+5.1.2026
+2026-01-05
+lokalita:
+Bratislava
+Pozícia:
+IT Architect
+,
+IT Consultant
+,
+IT/Technical Support Specialist
+,
+Systems Administrator
+Spoločnosť:
+RecruLab s.r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

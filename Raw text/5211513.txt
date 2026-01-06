@@ -1,0 +1,120 @@
+Medior .NET Developer - SIVI Team
+Visma Labs s.r.o.
+Place of work
+Štúrova 27, Old Town, Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 500 EUR/month
+Gross salary starts from 2500 EUR. We are open to discussing your salary based on your specific competence and experience.
+Information about the position
+Job description, responsibilities and duties
+At
+Visma Idella
+, we are the backbone of the financial and pension sectors in the Netherlands. Our
+SIVI Team
+is at the heart of this mission, focusing on the seamless integration and standardization of financial data exchange.
+The
+SIVI team
+works on the "Experience" layer of our architecture, ensuring that complex pension and financial data are not just processed, but transformed into intuitive, high-performance services. By joining SIVI, you aren't just writing code, you are building the modern bridges that connect financial institutions with the people they serve, all within a high-security, high-availability Azure microservices ecosystem.
+What You’ll Work On
+Cloud-Native Development:
+Build robust, scalable, and maintainable .NET microservices using the latest versions of the .NET framework
+.
+Azure Ecosystem:
+Utilize a modern stack including Container Apps, Key Vault, Service Bus, and Event Grid.
+Distributed Systems:
+Implement highly scalable and fault-tolerant systems designed for the Azure cloud.
+Architecture & Security:
+Support security-driven architecture principles and help address technical debt through smart refactoring and system design improvements.
+Your Role
+As a Medior Developer
+you’ll:
+Develop & Implement:
+Create features for .NET-based microservices and Azure cloud infrastructure.
+Collaborate:
+Work with senior team members to translate technical designs into high-quality code and participate in meaningful code reviews.
+Problem Solve:
+Identify and resolve technical challenges while ensuring adherence to coding standards.
+Partner with Product:
+Work closely with the Product team to understand business requirements and contribute to technical solutions during sprint grooming and estimation.
+Support the Lifecycle:
+Provide technical support through development, testing, and deployment phases.
+What We’re Looking For
+3+ years of experience in software development, with a strong focus on C# and the .NET framework.
+Proven experience in building microservices-based applications, preferably in Azure.
+Functional knowledge of Azure services (Container Apps/App Services, Service Bus, or Event Grid).
+Proficient in distributed systems and a solid understanding of software architecture patterns and design principles.
+Good problem-solving skills and a proactive, critical-thinking mindset.
+Excellent English communication skills to effectively collaborate with cross-functional teams.
+Preferred Qualifications
+Experience with Agile methodologies (Scrum or Kanban).
+Knowledge of containerization (Docker) and orchestration (Kubernetes).
+Familiarity with DevOps (CI/CD pipelines and Infrastructure as Code).
+Azure or .NET certifications (e.g., Azure Developer Associate).
+Employee perks, benefits
+At Visma, work is more than just a paycheck, it’s an experience. Our standout benefit is our culture, and we can't wait for you to feel it firsthand!
+Flexibility is fundamental:
+We offer flexible working hours and remote work options. ️ Work from home, a café, or the office—wherever you’re most productive.
+3 Sick Days per year:
+Sometimes you just need a day to recover. Take three days a year to recharge guilt-free, no explanations needed.
+3 Extra Vacation Days:
+Bonus time to unwind or take that spontaneous trip you've been dreaming about. ️
+Fully Paid Sick Leave:
+If you're unable to work for more than a few days, your full salary is covered starting from the 15th day.
+Regular Salary Adjustments:
+Your growth is recognized. We ensure your compensation reflects your ongoing contributions.
+Commute Your Way:
+Free parking spaces  and electric scooters  available at the office for a greener commute.
+YDD (Your Development Day):
+Once a month, a full day dedicated entirely to your growth. No tasks, no deadlines—just learning.
+Learning & Development:
+Access to Pluralsight, Udemy, and the Visma Tech learning zone.
+Stay Active:
+We support your wellness with a MultiSport card for the gym, tennis, or sauna.
+24/7 Office Access:
+Our chill-out zones are always open for both early risers and night owls.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT
+Language skills
+English - Upper intermediate (B2)
+Advertiser
+Brief description of the company
+Visma is shaking up the world of business software! We're all about boosting efficiency and resilience for companies of every size. Our goal? Empower people and help businesses grow with our innovative tech. But we're not just a software company. We're a whole ecosystem of companies, cultures, and folks who love tech. Bound by shared values, we're on a quest to shape the future with our tech wizardry. From HRM and Talent Management to Healthcare and Payroll.
+And right at the heart of all this fun is Visma Labs, where over 200 tech maestros in Kosice are busy developing, testing, and supporting a whopping 20+ products. Our crew is part of an international family, using a mix of tech magic to push the boundaries of innovation.
+Curious to learn more? Check out our website and dive deeper into our world. https://www.visma.sk/visma-slovensko
+Number of employees
+150-199 employees
+Contact
+Contact person: Nikola Jarošová
+E-mail:
+send CV
+You can react to this job
+without sending your CV
+. It is sufficient to fill in a form.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5211513
+Dátum zverejnenia:
+5.1.2026
+2026-01-05
+lokalita:
+Košice
+Pozícia:
+C# Programmer
+Spoločnosť:
+Visma Labs s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

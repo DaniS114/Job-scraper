@@ -1,0 +1,126 @@
+Back-end Tech Team Lead (m/ž)
+DATALAN, a.s.
+Miesto práce
+Krasovského 14, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+3 500 EUR/mesiac
+Základná mzda v závislosti od skúseností a seniority kandidáta. Okrem základnej mzdy tvorí ročný príjem zamestnanca aj variabilná zložka mzdy.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme Back-end Tech Team Leada, ktorý bude technickou autoritou backendu produktu METIS a zároveň prirodzeným lídrom pre BE tím. Nehľadáme „len manažéra“ – hľadáme technicky silného lídra, ktorý sa bude aktívne podieľať na návrhu, zlepšovaní a dlhodobom smerovaní udržateľných backendových systémov.
+Vedenie BE tímu po technickej aj ľudskej stránke (mentoring, rozvoj, plánovanie, technický dohľad).
+Nastavovanie technických štandardov, code quality a best practices v spolupráci s Head of Engineering.
+Aktívna spolupráca na návrhu a zlepšovaní BE riešení produktu.
+Spoluvytváranie technickej vízie backendu (architektúra, kvalita, výkon, bezpečnosť).
+Úzka spolupráca s produktovým manažmentom.
+Spolurozhodovanie o strategickom smerovaní produktu, návrh technickej vízie a participácia na tvorbe cenových ponúk a odhadoch náročnosti riešení.
+Sledovanie technologických trendov a ich zmysluplná aplikácia v praxi.
+Práca v agilnom prostredí (SCRUM / Kanban).
+Zamestnanecké výhody, benefity
+Kľúčová rola v
+produktovom tíme
+s reálnym vplyvom na technické smerovanie
+Kombinácia
+technickej práce a vedenia ľudí
+Priestor pre
+vlastné návrhy a zlepšovanie
+backendových systémov
+Stabilné
+produktové prostredie a
+dlhodobá
+spolupráca
+Práca u stabilného lídra slovenského IT trhu
+Príležitosť rozvíjať svoje schopnosti pri realizácii zaujímavých projektov
+Podpora samostatnosti, kreativity a dobrých nápadov
+Práca v príjemnom a dynamickom kolektíve
+Pružný pracovný čas
+Možnosť odborného vzdelávania
+Nadštandardný príspevok na stravovanie
+Dovolenka nad zákonný rámec v závislosti od počtu odpracovaných rokov
+Finančný príspevok na podporu rodiny (svadba, dieťa) a pri dlhodobej PN zamestnanca
+Príspevok na doplnkové dôchodkové sporenie
+Firemné a tímové stretnutia
+Informácie o výberovom konaní
+V prípade, že máš záujem o túto pozíciu, klikni na „Poslať spoločnosti životopis", vyplň prihlasovací formulár a pripoj svoj životopis.
+Vopred ďakujeme všetkým uchádzačom za prejavený záujem.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Technologický stack & očakávania
+Skúsenosti s
+agilnými metodikami SCRUM / Kanban
+Skúsenosti s
+mentoringom, people managementom a plánovaním tímu
+Java/Kotlin na seniorskej úrovni
+(frameworky ako Spring Boot, Exposed, a pod.)
+Skúsenosti s návrhom a vývojom
+backendových služieb / API
+Praktická znalosť
+relačných aj NoSQL databáz
+Znalosť princípov
+Kubernetes
+(koncepty, deployment, scaling – hands-on výhodou, nie nutnosťou)
+Skúsenosti s
+CI/CD pipeline
+a automatizáciou
+Skúsenosti s prácou v
+Linux prostrediach
+Skúsenosti s
+DevSecOps a GitOps metodológiami
+Schopnosť
+technického rozhodovania
+a obhájenia riešení
+Sledovanie technologických trendov a ich
+kritické zhodnotenie
+(nie hype-driven vývoj)
+Analytické myslenie
+a systémový pohľad na backend ako celok
+Schopnosť prepájať
+biznis potreby s technickými riešeniami
+Prirodzenú autoritu
+vychádzajúcu z technickej expertízy
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť DATALAN na slovenskom trhu pôsobí už viac ako 30 rokov a je popredným slovenským poskytovateľom inovatívnych biznis riešení a IT služieb. Vieme, že informačné technológie sú prínosom v každej oblasti ľudského života. Našim zákazníkom prinášame široké portfólio kvalitných služieb a inteligentných produktov, ktoré nielen napĺňajú ich potreby, ale sú zdrojom inšpirácie a posúvajú firmy aj spoločnosť o krok vpred. Vďaka našim riešeniam a skúsenostiam môžete mať aj vy k dispozícii najmodernejšie IT služby, a fungovať efektívnejšie a ekologickejšie.
+Počet zamestnancov
+150-199 zamestnancov
+Kontakt
+Kontaktná osoba: Kristína Lauková
+Tel.:
++421250257777
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5209748
+Dátum zverejnenia:
+5.1.2026
+2026-01-05
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Java programátor
+,
+Team leader
+Spoločnosť:
+DATALAN, a.s.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac
