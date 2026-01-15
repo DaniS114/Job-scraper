@@ -1,0 +1,80 @@
+EMBEDDED C Developer (55 - 110.000,Kč)
+Advantage Consulting, s.r.o.
+Místo práce
+Brno, Česko
+Druh pracovního poměru
+plný úvazek
+Mzdové podmínky (brutto)
+55 000 - 110 000 Kč/měsíc
+Informace o pracovním místě
+Náplň práce, pravomoci a zodpovědnosti
+U nás dlouhodobě proměňujeme data ze smart energetických sítí v chytrá rozhodnutí. Teď posouváme laťku: nasazujeme strojové učení přímo do zařízení – elektroměrů, domácích zásuvek i nabíjecích stanic pro elektromobily. Stavíme embedded AI, která běží autonomně, s minimální spotřebou výpočetního výkonu i nákladů. To vše v rámci významné evropské iniciativy, kde spolupracujeme s předními technologickými hráči z oblasti čipů a senzoriky.
+Náplň práce
+Vývoj a optimalizace firmware v C pro chytré senzory a energetická zařízení.
+Implementace prediktivních algoritmů a práce s knihovnou strojového učení.
+Návrh a údržba API a softwarových rozhraní.
+Optimalizace výkonu a paměťové náročnosti na embedded platformách.
+Spolupráce s týmem na dlouhodobě udržitelné a přenositelné architektuře kódu.
+Zaměstnanecké výhody, benefity
+Účast na evropském projektu s reálným dopadem
+Hybridní režim, pružná pracovní doba
+25 dní dovolené + 3 sick days
+Příspěvek na stravování, penzijní spoření, mobilní tarif i pro rodinu
+Multisportka + Hedepy wellbeing program (terapie, koučing, soft-skills)
+Konference, kurzy a vzdělávání na míru
+Firemní snídaně, akce a kanceláře v brněnském Cyber Security Hubu
+Společnost, pro kterou je pozice obsazována
+Informační technologie, počítačové programování, webové portály
+U nás dlouhodobě proměňujeme data ze smart energetických sítí v chytrá rozhodnutí. Teď posouváme laťku: nasazujeme strojové učení přímo do zařízení – elektroměrů, domácích zásuvek i nabíjecích stanic pro elektromobily. Stavíme embedded AI, která běží autonomně, s minimální spotřebou výpočetního výkonu i nákladů. To vše v rámci významné evropské iniciativy, kde spolupracujeme s předními technologickými hráči z oblasti čipů a senzoriky.
+Požadavky na zaměstnance
+Pozici vyhovují uchazeči se vzděláním
+nástavbové/vyšší odborné vzdělání
+vysokoškolské I. stupně
+vysokoškolské II. stupně
+postgraduální
+Jazykové znalosti
+Anglický jazyk - Mírně pokročilý (B1)
+Osobnostní předpoklady a dovednosti
+VŠ vzdělání IT směru.
+3+ let zkušeností s jazykem C (embedded).
+Schopnost psát čistý, přehledný a přenositelný kód.
+Linux, Git, Python/Bash – běžné pracovní nástroje.
+Angličtina na úrovni technické dokumentace.
+Inzerující společnost
+Stručná charakteristika společnosti
+Od roku 2002 pomáháme uchazečům o zaměstnání s jejich uplatněním na trhu práce. Vytváříme společnost, které si váží nejen klienti, zaměstnanci, ale i veřejnost.
+Zakládáme si na tom, že naši konzultanti jsou odborní partneři, kteří dokáží pomoci v oblasti kariérního života.
+Naše odborné divize se specializují na tyto obory: ICT, Engineering, Electro & Energo, Sales & Logistics, Finance, Chemistry a Manufacturing.
+Více než 1700 otevřených pracovních pozic v rámci celé České republiky naleznete na našich stránkách www.acjobs.cz.
+Těšíme se na případnou konzultaci s Vámi.
+Počet zaměstnanců
+50-99 zaměstnanců
+Kontakt
+Kontaktní osoba: Ing.  Eva Blatná
+Tel.:
++420778434003
+E-mail:
+poslat životopis
+Odpovědět na nabídku
+Doporučit nabídku známému
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5215730
+Dátum zverejnenia:
+12.1.2026
+2026-01-12
+lokalita:
+Brno
+Pozícia:
+Programátor
+,
+Programátor C
+,
+Softwarový inženýr
+Spoločnosť:
+Advantage Consulting, s.r.o.
+Základná zložka mzdy (brutto):
+55 000 Kč/měsíc

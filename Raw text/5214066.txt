@@ -1,0 +1,92 @@
+Dátový analytik (m/ž)
+Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky
+Miesto práce
+Pribinova 25, Bratislava, Bratislavský kraj
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 400 EUR/mesiac
+Výsledná suma bude predmetom pohovoru.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Baví ťa práca s dátami a rád by si naučil niečo nové a podieľal na reálnej dátovej transformácii Slovenska?
+MIRRI SR – Centrálna dátová kancelária verejnej správy hľadá do svojho tímu šikovného dátového analytika, ktorý sa nebojí výziev a zaujímavej, kreatívnej často nevšednej práce zasadenej do kontextu dát verejnej správy (Zdieľanie dát verejnej správy, Analytické dáta, Opendata a AI).
+Medzi hlavné požiadavky, ktoré by si mal/mala spĺňať, patrí výborné komplexné myslenie a byť schopný detailne analyzovať zložité problémy v oblasti dátového manažmentu a identifikovať najlepšie možné riešenia, ktoré zahŕňajú tvorbu a správu dátových modelov, návrh a implementáciu dátových skladov, riešenie integračných problémov, a definíciu a presadzovanie dátových štandardov a politík.
+Dobrá znalosť GDPR a IT legislatívy (zák. č. 305/2013 Z. z. o eGovernment, zák. č. 95/2019 Z. z. o ITVS, zák. č. 69/2018 Z. z. o KB, zák. č. 177/2018 Z. z.) je veľkou výhodou, avšak nie nevyhnutnou podmienkou – časom ťa do veci zasvätíme, vôbec netreba mať obavy. Určite by si však mal/mala mať záujem učiť sa novým veciam v oblasti IT (nielen tým dátovým) a byť schopný/schopná myslieť v širších súvislostiach.
+Za to všetko získaš nadštandardné platové ohodnotenie, príjemné pracovné prostredie a kolektív, pracovný čas nastavený na work- life balance, intelektuálne a spoločensky významnú prácu.
+Analyzuje dátové zdroje verejnej správy, technickú i obsahovú dátovú kvalitu údajov evidovaných v registroch verejnej správy a v iných agendových systémoch jednotlivých OVM, pozná dátové zdroje, technickú i obsahovú dátovú kvalitu údajov v nich evidovaných, navrhuje spôsoby integrácie jednotlivých objektov evidencie a ich ďalšie využitie v podobe referenčných údajov, analytických, mojich, či otvorených údajov, pre koncept stop byrokracii, pri realizácii životných situácií, a lepších služieb pre občana.
+Analyzuje a navrhuje ETL procesy, Open/Rest API, vytváranie a testovanie rôznych integračných scenárov, vytváranie automatizovaných aj ad-hoc reportov a analýz s použitím SQL dotazov. Definuje metodiky pre vytváranie dátových analýz a modelov s cieľom realizovať životné situácie, ktoré sú v gescii sekcie. Spravuje centrálny model údajov verejnej správy spolu s povinnými vlastnosťami údajov vrátane definovania súvisiacich štandardov, najmä ontológií, taxonómií a tezaurov, a koordinuje rozvojové aktivity vzťahujúcich sa k predmetnému modelu údajov.
+Zastrešovanie dátovej stránky realizácie národných IT projektov (členov projektového tímu), spolupráca na vypracovaní dátových analýz, podieľanie sa na príprave koncepčných materiálov, tvorba a pripomienkovanie projektovej dokumentácie dopytovo  orientovaných a národných IT projektov. Koordinuje dátové štandardy, štruktúry údajov ostatných ISVS z iných rezortov. Analyzuje možnosti a navrhuje spôsoby integrácie jednotlivých objektov evidencie a ich ďalšie využitie v podobe referenčných údajov (aj pre koncept stop byrokracii), analytických údajov, mojich údajov, či otvorených údajov, pri realizácii životných situácií, a lepších služieb pre fyzické/právnické osoby, usmerňuje aj dátových analytikov a dátových kurátorov na strane participujúcich orgánov verejnej moci v prípade medzirezortnej spolupráce pri realizácii životných  situácií, a lepších služieb pre  fyzické/právnické osoby.
+Zamestnanecké výhody, benefity
+patríme k stabilným zamestnávateľom poskytneme Vám možnosť práce z domu v rozsahu max. 5 dní v mesiaci
+oddýchnite si s týždňom dovolenky navyše
+užite si pružný pracovný čas (7- 9 hod. a 15 - 19 hod)
+dostanete motivačné finančné ohodnotenie
+získate príspevok 80 € od zamestnávateľa do DDS
+prispejeme Vám na stravovanie a na cestu do práce
+využite MultiSport kartu a s ňou prístup k športoviskám a rekreačným zariadeniam po celom Slovensku a ČR
+podporíme Vaše ďalšie vzdelávanie prostredníctvom prepracovaného systému
+máme príjemné a moderné pracovné prostredie v Tower 115, s fitness centrom a kantínou v budove
+Informácie o výberovom konaní
+V prípade, že Vás naša ponuka zaujala a spĺňate požiadavky, pošlite nám, prosím, svoje CV spolu s motivačným listom. Na osobný pohovor budú pozvaní iba vybraní kandidáti. Ďakujeme za pochopenie.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+Dátový analytik
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+analytické, koncepčné a strategické myslenie
+flexibilita, zmysel pre time-management
+vysoké pracovné nasadenie
+komunikatívnosť a proaktívny prístup
+zodpovednosť a precíznosť
+samostatnosť ako aj tímová spolupráca v odborne rozmanitom tíme
+priateľské vystupovanie
+Vítané:
+skúsenosť s dátovými analýzami, biznis analýzami, dátovou architektúrou
+znalosť nástroja pre modelovanie a vizualizáciu dátových a business procesov
+znalosť architektonických princípov a konceptov, ako je napríklad tvorba dátových modelov, integrácia dát, správa metadát a štandardy dátových štruktúr
+Programovacie jazyky (napríklad SQL, Python, R, Java)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky je ústredným orgánom štátnej správy pre:
+• riadenie, koordináciu a dohľad nad využívaním finančných prostriedkov z fondov Európskej únie,
+• oblasť informatizácie spoločnosti,
+• oblasť investícií,
+• oblasť regionálneho rozvoja.
+V oblasti informatizácie spoločnosti MIRRI SR zabezpečuje centrálne riadenie informatizácie spoločnosti a tvorbu politiky jednotného digitálneho trhu, rozhodovanie o využívaní finančných zdrojov vo verejnej správe pre informačné technológie, centrálnu architektúru integrovaného informačného systému verejnej správy a koordináciu plnenia úloh v oblasti informatizácie spoločnosti.
+V oblasti investícií MIRRI SR zabezpečuje strategické plánovanie a strategické projektové riadenie vrátane vypracovania národného strategického investičného rámca, ako aj koordináciu investičných projektov určených vládou SR.
+V oblasti riadenia, koordinácie a dohľadu nad využívaním finančných prostriedkov z eurofondov MIRRI SR koordinuje dodržiavanie Partnerskej dohody na roky 2021 až 2027, rozhoduje o záväzných plánoch a krízovom riadení Programu Slovensko a zabezpečuje presadzovanie strategických cieľov Slovenska v oblasti poskytovania financií z eurofondov.
+V oblasti regionálneho rozvoja MIRRI SR podporuje činnosť okresných rozvojových centier, schvaľuje a poskytuje vládou schválené dotácie a regionálne príspevky na projekty samospráv v najmenej rozvinutých okresoch a vyhodnocuje plnenie akčných plánov v spolupráci s miestnymi úradmi.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: JUDr.  Zuzana Švendová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214066
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Bratislavský kraj
+Pozícia:
+IT analytik
+Spoločnosť:
+Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 400 EUR/mesiac

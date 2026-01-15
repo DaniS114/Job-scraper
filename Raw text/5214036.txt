@@ -1,0 +1,121 @@
+Frontend Software Engineer
+Elisa Polystar Slovakia s. r. o.
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+From 2 500 EUR/month
+The final offer depends on candidate's skills and experience.
+Information about the position
+Job description, responsibilities and duties
+Frontend Software Engineer – Join Our Development Team!
+At Polystar | Elisa Industriq we are seeking a Frontend Software Engineer to join our DataOps team and who is ready to take ownership - not just of their tasks but also to contribute to the development team as a whole.
+What you'll do
+As our Frontend Software Engineer, you'll play a pivotal role in developing and enhancing user interfaces for our data processing and data-rich applications in the telecom industry. Your key responsibilities will include:
+Develop and maintain UI
+: Build and enhance user interfaces using React and functional programming paradigms
+Data flow implementation
+: Work with fluture-js and sanctuary-js to manage complex data flows and asynchronous operations
+API Integration
+: Implement GraphQL and REST API integrations, including WebSocket Subscriptions and Server Sent Events
+Component development
+: Create and maintain reusable components using our custom library with Tailwind CSS
+Collaborate with designers
+: Transform Figma designs into functional, performant user interfaces
+Code quality
+: Write tests using Jest and React Testing Library, participate in code reviews
+Build configuration
+: Configure and optimize Webpack builds, including module federation setup
+What we’re looking for
+Must-have skills:
+React
+: Expert-level knowledge of React and its ecosystem
+Functional programming
+: Strong understanding of functional programming concepts with experience in libraries like fluture-js and sanctuary-js (or similar libraries)
+Tailwind CSS
+: Solid experience working with Tailwind CSS
+API development
+: Faimiliarity with REST and GraphQL concepts
+Experience
+: 3+ years in UI development
+Language skills
+: English proficiency (B2)
+Nice-to-have skills:
+Technologies and libraries
+: Experience with Storybook, Esbuild, Vite, Highcharts, Redux, Webpack configuration
+Database Knowledge
+: Experience with document-based database systems and database systems like ClickHouse or PostgreSQL
+Containerization
+: Experience with Docker and Kubernetes
+What you can expect
+Engaging technical challenges:
+Work with software that handles massive amounts of data for 100+ live telecom customers.
+Collaborative team environment:
+Supportive team culture where everyone helps each other.
+Opportunities to learn:
+Plenty of chances to learn from your teammates.
+Mastering our technical scope:
+Our team excels at helping new members get up to speed.
+Employee perks, benefits
+Hybrid and Flexible working time
+5 days of fully paid sick leave
+(beyond the statutory entitlement)
+Extra vacation days
+– after each year worked +1 day (max. 5 days) on top of the statutory
+Special day
+Contribution to pension savings (III. pillar)
+RBI bonus
+paid twice a year (up to 10% of half yearly gross salary)
+"Stay healthy" bonus
+€100
+Referral bonus
+(half of monthly gross salary)
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Advertiser
+Brief description of the company
+Who we are
+We are a team of dedicated software developers, data scientists, telecom experts and business professionals. It is a workplace where you can influence important decisions, affecting international operators directly. Our Polystar team is growing quickly, and seek team members who want to grow with us. With an innovation mindset, we are working with novel tools, to create automation and analytics that give insight and solve customer, service, and network issues.
+What we do
+Polystar is a growing international software business that delivers automation, AI and analytics for network operators globally. Our vision is to provide Communication Service Providers (CSPs) with solutions that enable them to run completely self-driving networks. With the background of being Finland’s largest CSP, Polystar’s solutions are developed in a live network, with the benefits for network operators in mind.
+Number of employees
+25-49 employees
+Contact
+Contact person: Career Elisa Polystar
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214036
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Remote work
+Pozícia:
+Frontend developer
+,
+Javascript Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+Elisa Polystar Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

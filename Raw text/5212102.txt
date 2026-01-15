@@ -1,0 +1,111 @@
+DevOps inžinier
+Národná agentúra pre sieťové a elektronické služby (agentúra NASES)
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+V zmysle 553/2003 Zákon o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme. Výsledný plat bude predmetom osobného pohovoru a bude sa odvíjať od skúseností a odborných znalostí uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného DevOps inžiniera, ktorý bude hrať kľúčovú úlohu pri nasadzovaní a prevádzke aplikácií určených pre verejný sektor. Ideálny kandidát uplatní moderné DevOps princípy a postupy so zameraním na efektivitu, spoľahlivosť a bezpečnosť.
+Čo budete robiť:
+Nasadzovanie      a prevádzka aplikácií s využitím moderných DevOps procesov a nástrojov
+Správa      CI/CD pipeline, monitoringu a bezpečnostných opatrení
+Požadované zručnosti:
+Skúsenosti      s DevOps nástrojmi a procesmi (CI/CD, automatizácia, monitoring)
+Skúsenosti      s kontajnerizačnými technológiami (Docker, Kubernetes, Helm)
+GitOps,      GitLab CI pipeline
+Skúsenosti      s OpenTelemetry a monitoringom (Loki & Grafana stack / ELK)
+Správa      cloudovej infraštruktúry
+Linux
+Výhodou sú skúsenosti s:
+Terraform,      OpenShift
+Keycloak,      Vault, Argo CD
+Prometheus,      Tempo, Grafana
+Messaging      systémy ako
+Kafka
+,
+RabbitMQ
+End-to-End      testovanie
+Zamestnanecké výhody, benefity
+práca na inovatívnych projektoch pre verejný sektor
+moderné      DevOps postupy a cloudové technológie
+dynamické      tímové prostredie s možnosťami rastu a rozvoja
+práca v mimoriadnej zaujímavej oblasti IT s celonárodným dosahom
+flexibilná      pracovná doba
+príspevok zamestnávateľa do III. pilier
+multisport      karta
+​
+​​​​
+Informácie o výberovom konaní
+Životopis prosím zasielať v slovenskom jazyku.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+Minimálne 3 ročná prax v IT odbore
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+- 2+ roky skúseností ako Správca systému, Automation Developer, DevOps Engineer, Linux a aplikačný administrátor
+- skúsenosti so skriptovaním pomocou Bash alebo Python
+- orchestrácia, kontajnerizácia a riadenie zdrojov: OpenShift, Kubernetes, Docker
+- znalosti o systémoch založených na Linuxe; RedHat, Oracle Linux
+- znalosť cloudových riešení -  networking, microservices
+- CI/CD, vytvorenie pipelines, znalosť version control system (git,...)
+Výhodou sú skúsenosti s:
+Terraform,      OpenShift
+Keycloak,      Vault, Argo CD
+Prometheus,      Tempo, Grafana
+Messaging      systémy ako
+Kafka
+,
+RabbitMQ
+End-to-End      testovanie
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Národná agentúra pre sieťové a elektronické služby (agentúra NASES) je príspevková organizácia Ministerstva investícii, regionálneho rozvoja a informatizácie.
+Medzi hlavné úlohy agentúry patrí najmä:
+Rozvoj a prevádzka centrálnej komunikačnej infraštruktúry Slovenskej republiky.
+Rozvoj a prevádzka služieb Ústredného portálu verejnej správy - slovensko.sk.
+Rozvoj a prevádzka mnohých ďalších informačných systémov verejnej správy.
+Rozvoj a prevádzka systémov informačnej bezpečnosti a systémov na ochranu kybernetického priestoru.
+Počet zamestnancov
+150-199 zamestnancov
+Kontakt
+Kontaktná osoba: Ivana Blažeková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5212102
+Dátum zverejnenia:
+7.1.2026
+2026-01-07
+lokalita:
+Bratislava
+Pozícia:
+IT/Technical Support Specialist
+Spoločnosť:
+Národná agentúra pre sieťové a elektronické služby (agentúra NASES)
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

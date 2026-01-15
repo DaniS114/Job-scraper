@@ -1,0 +1,135 @@
+System Administrator / DevOps (Linux, automatizácia, infra)
+BIOMETRIC, spol. s r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+ihned
+Mzdové podmienky (brutto)
+2 200 EUR/mesiac
+od 2200€ v závislosti na seniorite uchádzača
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​Hľadáme
+samostatného System Administrátora / DevOps
+, ktorý sa postará o našu infraštruktúru, automatizáciu a stabilitu systémov.
+Nejde o helpdesk ani klikanie tlačiarní – hľadáme človeka, ktorý
+rozumie serverom, vie veci zjednodušovať a má rád poriadok v systémoch
+.
+Náplň práceServerová infraštruktúra
+Správa a údržba Linux serverov (Ubuntu / Debian)
+Pravidelné aktualizácie, patchovanie a základné hardening opatrenia
+Riešenie výkonnostných a prevádzkových problémov
+Práca s logmi a reakcia na incidenty
+Monitoring & bezpečnosť
+Monitoring infraštruktúry a služieb (Zabbix – HTTP/HTTPS, dostupnosť, výkon)
+Správa SIEM nástrojov (Wazuh, Sysmon)
+Základné bezpečnostné politiky, alerty a notifikácie
+Spolupráca pri riešení bezpečnostných incidentov
+Zálohovanie & kontinuita
+Správa a kontrola zálohovania (Veeam)
+Testovanie obnovy dát (restore testy)
+Dokumentácia DRP / backup postupov
+Sieť & infra architektúra
+Segmentácia sietí (VLAN, firewall pravidlá)
+Prehľad a dokumentácia VM, serverov a ich komunikácie
+Monitoring ďalších infra komponentov (OpenSearch, NVR, sieťové prvky)
+Klientské stanice (Windows)
+Príprava a nasadzovanie nových PC / NTB
+Správa aktualizácií (WSUS, Windows 10/11)
+Základná správa bezpečnosti (ESET, YubiKey)
+Technický onboarding a offboarding používateľov
+Automatizácia
+Automatizácia rutinných úloh (bash, Python výhodou)
+Skripty na monitoring, backupy, údržbu
+Využívanie AI nástrojov na zrýchlenie práce a tvorbu skriptov
+Spolupráca
+Úzka spolupráca s vývojármi pri nasadzovaní aplikácií
+Technická dokumentácia a pracovné inštrukcie (WI)
+Návrhy zlepšení infraštruktúry a procesov​
+Výhodou
+Skúsenosť so Zabbix, Wazuh, Veeam
+Skriptovanie (bash / Python)
+Základy DevOps mindsetu
+Skúsenosť s bezpečnostnými nástrojmi (SIEM, Sysmon, YubiKey)
+Skúsenosti so správou Linux serverov
+Znalosť základov sieťovania (VLAN, firewall, routing)
+Skúsenosť s monitoringom a backupmi
+Zodpovedný a samostatný prístup
+Chuť automatizovať a zlepšovať existujúce riešenia
+Schopnosť komunikovať s vývojármi (nie si dev, ale rozumieš im)
+​
+Zamestnanecké výhody, benefity
+Ponúkame
+Prácu na zaujímavých projektoch v oblasti dochádzkových      a prístupových systémov
+Možnosť sebarealizácie, návrhov a zlepšení v rámci      procesov QA/testovania
+Príležitosť vyskúšať si automatizované aj manuálne      testovanie v praxi
+Priateľský a neformálny tím, flexibilná pracovná doba,      možnosť home office
+Odborný rast, kurzy, školenia, účasť na konferenciách
+Motivujúce finančné ohodnotenie podľa skúseností      a výsledkov
+Multisport karta
+Čo u nás nájdeš
+Reálny vplyv na infraštruktúru a technické rozhodnutia
+Priestor na automatizáciu a zmysluplné zlepšenia
+Podporu moderných nástrojov vrátane AI
+Normálnu komunikáciu, žiadny korporátny bullshit
+Prácu, kde sa veci
+riešia
+, nie len odkladajú
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Ostatné znalosti
+Ubuntu - Mierne pokročilý
+Microsoft Windows - Mierne pokročilý
+AI - Umelá inteligencia - Mierne pokročilý
+Zabbix - Mierne pokročilý
+Zabezpečenie siete - Mierne pokročilý
+Python - Základy
+ESET - Mierne pokročilý
+IT bezpečnosť - Mierne pokročilý
+Prax na pozícii/v oblasti
+1
+Počet rokov praxe
+1
+Osobnostné predpoklady a zručnosti
+Ak máš chuť podieľať sa na vývoji produktov, ktoré používajú tisíce ľudí denne, rád/ráda analyzuješ, skúšaš, rozbíjaš a zlepšuješ veci, určite nám pošli svoj životopis!
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť BIOMETRIC, sa zaoberá inštaláciou a predajom, popredajným supportom k dochádzkovým systémom, prístupovým systémov, kamerovým a zabezpečovacím systémom.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Vladimir Galajda
+Tel.:
++421903013557
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214603
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Bratislava
+Pozícia:
+Správca informačného systému
+,
+Systémový administrátor
+Spoločnosť:
+BIOMETRIC, spol. s r. o.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

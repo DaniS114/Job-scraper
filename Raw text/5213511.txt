@@ -1,0 +1,146 @@
+SOC Operations Lead Specialist
+SOITRON, s.r.o.
+Miesto práce
+Plynárenská 5, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+od 3000€ / mesiac + variabilná zložka + benefity *Mzda je uvedená minimálna. Finálna ponuka sa odvíja od znalostí a skúseností kandidáta
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+SOC Operations Lead Specialist
+je zodpovedný za každodenný manažment služieb
+Security Monitoring
+,
+Threat Intelligence
+a
+Vulnerability Management
+poskytovaných z nášho strediska SOC, a zároveň sa priamo podieľa na ich výkone z pozície experta/špecialistu.  Zabezpečuje koordináciu a bezproblémovú prevádzku procesov detekcie, analýzy, hlásenia hrozieb a skenovania zraniteľností, pričom udržiava ich vysokú kvalitu spoluprácou s internými aj externými tímami.
+1. Koordinácia SOC úloh
+Koordinovať úlohy
+L1 a L2 SOC analytikov
+.
+Organizovať rozdelenie úloh a zabezpečiť požadovanú kvalitu služieb.
+2. Dohľad nad službou Security Monitoring
+Dohliadať na procesy analýzy udalostí, ich verifikáciu a eskaláciu.
+Zabezpečiť včasné a presné vypracovanie a distribúciu incident reportov.
+Overovať a zlepšovať komunikačné workflowy so zákazníkmi počas incidentov.
+3. Riadenie služby Threat Intelligence
+Dohliadať na
+CTI monitoring
+a zabezpečiť, aby boli informácie efektívne integrované do SOC procesov.
+Schvaľovať a upravovať
+CTI reporty
+, vrátane ad-hoc správ a prepisov.
+Koordinovať distribúciu informácií interne aj externe.
+4. Riadenie služby Vulnerability Management
+Riadiť proces
+vulnerability scanningu
+, od prípravy až po reporting.
+Zabezpečiť včasné plánovanie skenov, aktualizácie nástrojov a ad-hoc skeny.
+Dohliadať na generovanie výsledných
+reportov
+, ich distribúciu a integráciu do SOC incident managementu.
+5. Optimalizácia procesov a kontrola kvality
+Neustále zlepšovať operačné postupy a procesy.
+Zabezpečiť súlad s priemyselnými štandardmi a best-practices
+Monitorovať
+SLA
+,
+KPI
+a výkonnosť pri riešení incidentov.
+6. Medziodborová spolupráca
+Spolupracovať s ostatnými oddeleniami, aby boli
+služby, procesy a nástroje
+v súlade s potrebami SOC stakeholderov.
+Komunikovať s
+project managementom
+a
+sales
+tímom s cieľom zosúladiť očakávania zákazníkov s operačnými kapacitami.
+Zúčastňovať sa
+pravidelných stretnutí
+so SOC zákazníkmi.
+7. Reporting
+Navrhovať, pripravovať a prezentovať reporty interným aj externým stakeholderom.
+Eskalovať problémy, incidenty a riziká relevantným stranám.
+Zamestnanecké výhody, benefity
+práca v modernej spoločnosti, ktorá začínala ako rodinná firma a aj napriek neustálemu rastu sa stále drží tejto filozofie
+možnosť kariérneho rozvoja
+až 90% povýšení pochádza z interných radov
+podpora odborného rastu (posúvať sa vpred je naša filozofia)
+vernostný program s mnohými výhodami
+rozsiahly benefitný program, ktorý si sami nastavujete
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Preukázateľné skúsenosti v prostredí
+SOC
+, ideálne na vedúcej alebo koordinačnej pozícii.
+Hlboké pochopenie
+SOC služieb a nástrojov
+, vrátane
+SIEM
+,
+CTI
+a
+VM
+workflowov.
+Silné znalosti detekčných metodológií, spracovania incidentov a reportingu.
+Skúsenosti s nástrojmi ako
+SIEM
+,
+EDR, XDR, skenermi zraniteľností, CTI platformami
+.
+Vynikajúce komunikačné schopnosti pri práci s internými aj externými partnermi.
+Plynulá znalosť
+anglického jazyka.
+Preferované zručnosti
+Certifikácie ako
+GCIA, GCIH, ECIH, CISM
+alebo podobné sú výhodou.
+Skúsenosti s
+riadením projektov
+a
+automatizáciou procesov
+.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť Soitron je stredoeurópskym integrátorom, ktorý pôsobí na IT trhu už viac ako 30 rokov. Svojim klientom ponúka produkty a služby v oblasti robotizácie a automatizácie procesov, internetu vecí (IoT), IT infraštruktúry, komunikačných a cloudových riešení, IT bezpečnosti, služieb a outsourcingu, či IT poradenstva a aplikácií. Soitron, s.r.o. je členom skupiny Soitron Group, v ktorej pracuje viac ako 800 medzinárodných odborníkov a združuje profesionálne tímy na Slovensku, v Českej republike, Rumunsku, Turecku, Bulharsku, Poľsku a Veľkej Británii. Ponúka jedinečné skúsenosti v oblasti IT a možnosť profesionálneho rastu v medzinárodnom prostredí.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Barbora Kormančíková
+Tel.:
++421905381798
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5213511
+Dátum zverejnenia:
+8.1.2026
+2026-01-08
+lokalita:
+Bratislava
+Pozícia:
+Špecialista IT bezpečnosti
+Spoločnosť:
+SOITRON, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

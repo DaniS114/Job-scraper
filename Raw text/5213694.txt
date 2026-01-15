@@ -1,0 +1,116 @@
+Naše produkty
+Práca za rohom
+Najzamestnávateľ
+Profesia
+Platy.sk
+Edujobs
+Teamio
+Seduo
+Profesia days
+O nás
+Náš príbeh
+Náš tím
+Práca u nás
+Kontakt
+Kontaktujte nás
+SK
+EN
+Naše produkty
+O nás
+Práca u nás
+Kontakt
+Kariéra v Alma Career Slovakia
+Site Reliability Engineer
+Site Reliability Engineer
+Odpovedať na pozíciu
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 3 200 EUR/month
+Currently, we are looking for reinforcements for our international Site Reliability Engineering team, so if we`ve caught your interest, please keep reading…
+You are skilled in the craft of development, but have the heart of a systems engineer?
+Then you’re just in the right place, because that is exactly who we are in our emerging SRE team – formerly a bunch of systems engineers, now AWS enthusiasts determined to build the best DevOps the world has ever seen!
+More about us…
+As mentioned, we`re an SRE team that brings together DevOps activities for migrating and launching new products in the AWS Cloud.
+Our current priority is the migration to AWS from other solutions and moving the company toward a modern YBIYRI approach. If you join our team, you’ll have the opportunity to be part of something new and help us do it right from the start.
+Our near-term goals include defining a unified approach to observability, setting error budgets, and establishing service level objectives. In short, there’s a lot to do, and we need your sharp mind to help us make it happen!
+What will be your job?
+Your main task will be to bring technological know-how to up to three product teams and collaborate with them on designing, developing, and monitoring their applications and infrastructure, as well as defining and tracking infrastructure costs and service level objectives (SLOs).
+How do we imagine you?
+You’re a master of native AWS technologies, and if you have hands-on experience with configuring CloudFront, Route 53, EC2, ECS, RDS, ECR, ELB, SNS, SQS, Lambda, and CloudWatch, that will help you a lot for an easier start
+You`re not afraid of infrastructure as Code (IaC). We use AWS CDK, write in TypeScript, and build on our own CDK Framework: https://github.com/alma-cdk/project.
+We develop several CDK constructs that product teams use to build the infrastructure for their own products.
+You have experience with CI/CD in GitHub Actions.
+You’re comfortable in a Linux environment and can work with Docker without issues.
+You’re eager to dive into any technology, even if you haven’t encountered it before, and can effectively explore and propose AWS-based alternatives.
+You have a customer-oriented mindset and are ready for a high degree of independence when working with product teams. You’ll help with infrastructure design, roadmap planning for new features, optimization, or AWS migration.
+You’re well-versed in DevOps methodologies. We version control, review code, and automate wherever possible.
+The entire company works in agile development, which helps us plan our collaboration. So planning, retrospectives, and daily stand-ups shouldn’t surprise you.
+At Alma Career, we’re gradually moving toward the “You build it, you run it” model, and we strongly emphasize mutual support – but not in the sense of “I’ll do it for you.”
+Want to impress us? Get familiar with:
+DevSecOps: https://www.atlassian.com/devops/devops-tools/devsecops-tools
+AWS Well-Architected Framework: https://aws.amazon.com/architecture/well-architected
+DORA metrics: https://dora.dev/guides/dora-metrics-four-keys/
+What will earn you extra points?
+Experience with SQL and NoSQL databases
+Experience with configuration management tools (SaltStack, Puppet, Ansible)
+AWS certifications like Certified Developer, SysOps Administrator, or any higher certification
+What would your work day look like?
+The day starts with a morning stand-up with the SRE team. During the day, you’ll collaborate with the product team on designing, developing, and monitoring assigned applications and infrastructure. You’ll also contribute quality code to shared SRE repositories and perform thorough code reviews.
+What do we expect after 1-3 months?
+After one month, we expect you to be familiar with the shared repositories and the current infrastructure of the assigned applications. You should also be proactively involved with the product team and understand their needs and workflows.
+After three months, we expect you to be familiar with a simpler vision and help us define and implement it.
+What Will Make You Happy with Us?
+Room for mistakes, time for experimentation, and opportunities to participate in decision-making and product direction.
+An open team atmosphere. You won't have strict deadlines from external clients.
+Education and development - domestic and international conferences, internal technology workshops (SOLID, DDD, JavaScript, OOP, etc.), and online courses.
+You'll get a computer and OS of your choice (Linux or MacOS).
+3 extra vacation days.
+Happy Days: unlimited time off for any reason (help out on a volunteer day, enjoy your birthday, or go on a one-day hike :-).
+Various internal and external lectures/courses/conferences. Plus, you'll have unlimited access to our educational platform Seduo.
+Hedepy: an online mental health care program to help you in your life situations and personal development.
+Multisport card partially covered by the employer.
+A great office in the center of Bratislava. We'd love to see you occasionally in our modern offices at Pribinova 19.
+The possibility to work from home, so you can finally balance your work-life.
+Our development team works remotely and meets once a week in Prague. We also have several other offices where you can work if needed, specifically in Brno, Ostrava, and Bratislava.
+A friendly team you can always rely on.
+We all use first names, participate in non-work activities, team-building events, etc.
+Volunteer activities as part of work (participation in CSR projects).
+Besides, working with us also means:
+A friendly culture where you can be yourself, because Friendly culture grows together
+Job with purpose and impact because, Meaningfulness of work grows together and
+Opportunities for professional learning and growth, because Our people grow together.
+Courage grows together.
+Ready to shape the future with us?
+Send us your CV or LinkedIn profile and let's have an online meeting with our Head of Site Reliability Engineering Honza Habrman.
+Kontaktná osoba
+Zuzana Kaňuchová
+Odpovedať na pozíciu
+Späť na voľné pracovné miesta
+We are a member of
+Alma Career
+family.
+ID:
+5213694
+Dátum zverejnenia:
+8.1.2026
+2026-01-08
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+,
+IT Network Administrator
+,
+IT System Administrator
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+Alma Career Slovakia s. r. o.   (pôvodne Profesia, spol. s r.o.)
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 200 EUR/month

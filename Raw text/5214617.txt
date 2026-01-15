@@ -1,0 +1,91 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Python Developer – Backend & Automated Testing Focus
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose:
+We are seeking a highly skilled and experienced
+Senior Python Developer
+to join our dynamic team in Kosice.
+Our tools support essential projects such as MBfD and FTTH self-build, facilitating individual customer connections and outdoor collocations. Our diverse tool portfolio includes front-end assistants, add-ins, back-end services, and workflow systems, all operated on virtual machines.
+In this role, you will contribute to the development and maintenance of robust software solutions that drive accurate cost calculations and streamline business processes. You will also be responsible for designing and maintaining thorough unit tests and end-to-end system tests, ensuring high-quality software delivery, however this position is
+not focused on testing or test engineering alone
+—we expect deep expertise in Python development combined with ownership of code quality through writing effective automated tests.
+Additionally, you will help migrate libraries into a separate, globally accessible code repository, promoting reuse and consistency across projects.
+What will you do?
+Design, develop, and maintain new API endpoints and backend functionalities using Python 3 and associated libraries such as requests and json.
+Build high-quality code with a
+developer’s commitment to automated testing
+, writing robust unit and end-to-end tests using the pytest framework—testing is integral but part of your development workflow, not a standalone testing role.
+Drive enhancements and new features for our Mercury plugin and geo-server supporting geo-based planning.
+Manage code repositories and continuous integration/deployment processes via GitLab CI/CD.
+Collaborate with frontend developers and contribute where necessary to the client side.
+You will succeed if you:
+Must-have skills:
+Extensive experience as a
+Python developer
+(Python 3), authoring backend services and APIs, with solid programming fundamentals including Object-Oriented Programming.
+Strong knowledge and hands-on application of test-driven development and automated testing frameworks such as pytest.
+Proficiency with modern frontend technologies (HTML, JavaScript, TypeScript, Vue.js, etc.) to support full-stack understanding.
+Experience with geospatial data processing using PyQGIS.
+Familiarity with development tools including Jira and GitLab for project and source code management.
+Database skills (desired):
+Experience with PL/SQL (Oracle), PostgreSQL, or MariaDB is a plus.
+Language skills:
+English language proficiency at upper-intermediate level (B2 or higher).
+German language skills are advantageous but not mandatory.
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lenka Možná
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214617
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Remote work
+Pozícia:
+Python Programmer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 100 EUR/month

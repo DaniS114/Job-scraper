@@ -1,0 +1,101 @@
+Medior DevOps Engineer
+Visma Labs s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+Dohodou
+Wage (gross)
+From 2 700 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Role Overview
+As a DevOps Engineer on our team, you will play a critical role in driving our DevOps practices and infrastructure automation. You will be responsible for implementing and maintaining our Azure-based cloud architecture and deployment pipelines to support our rapidly growing application portfolio.
+Your expertise in Azure, Azure DevOps/GitHub Actions, Bash scripting, networking, and Infrastructure-as-Code (IaC) tools like Terraform will be instrumental in improving our operational efficiency, reducing manual effort, and ensuring the reliability and scalability of our systems.
+Additionally, experience with Kubernetes will be highly valued as we work towards adopting a containerised microservices architecture.
+Key Responsibilities
+Implement and maintain robust Azure infrastructure, including virtual networks, Azure Functions, and other PaaS offerings
+Automate the provisioning, configuration, and deployment of infrastructure and applications using Terraform, Azure DevOps, GitHub Actions and Bash scripting
+Develop and optimise CI/CD pipelines to streamline the software delivery process
+Implement monitoring, logging, and alerting solutions to ensure the health and performance of our Azure-hosted applications (Azure Monitor, Grafana)
+Collaborate with development teams to embed DevOps practices and principles, fostering a culture of automation and continuous improvement
+Stay up-to-date with the latest Azure services, features, and best practices, and recommend/implement relevant updates
+Provide technical leadership and mentorship to junior team members
+Continually evaluate and recommend improvements to our DevOps toolchain and processes
+Required Skills and Experience
+2+ years of experience in a DevOps environment
+Proficient in Azure cloud services, including virtual networks, Azure Functions, and other PaaS offerings. Extensive experience with Infrastructure-as-Code (IaC) tools, such as Terraform ( state handling, plans, outputs, modules, Bicep, nice to have)
+Monitoring - Alerts, Dynamic Thresholds, Application Insights, Log Workspace analytics, Grafana
+Other - git, certificates (generation, handling), bash, high availability, deployment strategies, scaling strategies
+Experience with  scripting in Bash/PowerShell
+Familiarity with containerization technologies, such as Docker/Podman/OCI and Kubernetes (experience with Kubernetes is a plus)
+Solid understanding of networking concepts, including load balancing, DNS, and security
+Experience with CI/CD tools, such as Azure DevOps/GitHub Actions ( yaml, approval gates, permissions setup, policies setup)
+Excellent problem-solving and analytical skills, with the ability to identify and resolve complex issues
+Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams
+Employee perks, benefits
+At Visma, work is more than just a paycheck, it’s an experience. Our standout benefit is our culture, and we can't wait for you to feel it firsthand!
+Flexibility is fundamental:
+We offer flexible working hours and remote work options. ️ Work from home, a café, or the office—wherever you’re most productive.
+3 Sick Days per year:
+Sometimes you just need a day to recover. Take three days a year to recharge guilt-free, no explanations needed.
+3 Extra Vacation Days:
+Bonus time to unwind or take that spontaneous trip you've been dreaming about. ️
+Fully Paid Sick Leave:
+If you're unable to work for more than a few days, your full salary is covered starting from the 15th day.
+Regular Salary Adjustments:
+Your growth is recognized. We ensure your compensation reflects your ongoing contributions.
+Commute Your Way:
+Free parking spaces and electric scooters available at the office for a greener commute.
+YDD (Your Development Day):
+Once a month, a full day dedicated entirely to your growth. No tasks, no deadlines—just learning.
+Learning & Development:
+Access to Pluralsight, Udemy, and the Visma Tech learning zone.
+Stay Active:
+We support your wellness with a MultiSport card for the gym, tennis, or sauna.
+24/7 Office Access:
+Our chill-out zones are always open for both early risers and night owls.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT
+Language skills
+English - Upper intermediate (B2)
+Advertiser
+Brief description of the company
+Visma is shaking up the world of business software! We're all about boosting efficiency and resilience for companies of every size. Our goal? Empower people and help businesses grow with our innovative tech. But we're not just a software company. We're a whole ecosystem of companies, cultures, and folks who love tech. Bound by shared values, we're on a quest to shape the future with our tech wizardry. From HRM and Talent Management to Healthcare and Payroll.
+And right at the heart of all this fun is Visma Labs, where over 200 tech maestros in Kosice are busy developing, testing, and supporting a whopping 20+ products. Our crew is part of an international family, using a mix of tech magic to push the boundaries of innovation.
+Curious to learn more? Check out our website and dive deeper into our world. https://www.visma.sk/visma-slovensko
+Number of employees
+150-199 employees
+Contact
+Contact person: Samuel Bodiš
+Tel.:
++421915567527
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5212286
+Dátum zverejnenia:
+7.1.2026
+2026-01-07
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Visma Labs s.r.o.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

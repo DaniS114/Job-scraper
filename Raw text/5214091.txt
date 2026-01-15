@@ -1,0 +1,92 @@
+We harness the power of tech to increase sustainability.
+How do you want to use technology?
+Experienced Test Automation Engineer
+Place of work
+Remote work
+Contract type
+full-time
+POSITION
+DESCRIPTION
+Join our delivery team to build reliable, scalable test automation that accelerates releases and raises product quality. You’ll design BDD scenarios, engineer robust automation frameworks, and integrate tests into CI/CD so our teams ship confidently and fast.
+WHAT WILL
+YOU DO
+•	Design and implement automated tests for web and service layers using Java, Selenium WebDriver, and Cucumber (BDD/Gherkin)
+•	Develop test utilities and libraries (Java/Python) to improve reliability, data setup, and diagnostics
+•	Integrate automation into CI/CD (e.g., Jenkins/GitHub Actions), track results, and surface actionable insights
+•	Collaborate in agile ceremonies; translate user stories into executable BDD scenarios
+•	Review PRs for testability, coach developers/testers on BDD, and help set pragmatic quality gates
+•	Mentor junior team members and contribute to continuous improvement of testing practices
+•	Troubleshoot issues in automated test scripts and continuously evaluate testing processes for efficiency
+WHAT WE
+EXPECT
+•	2-5 years of  hands-on experience in building UI and API automation using Java + Selenium and Cucumber/BDD
+•	Working knowledge of Python for utilities, data generation, or API checks
+•	Solid grasp of testing fundamentals (test design, mocking/stubs, reliability, flakiness control)
+•	Experience with version control (Git/GitHub) and CI/CD pipelines (e.g., Jenkins)
+•	Comfort operating in agile teams; clear communication with engineers, analysts, and product stakeholders
+•	Use test management tools (JIRA, HP ALM, TestRail) to plan, track, and report testing activities
+•	Experience with ancillary tools (REST clients, SQL, reporting dashboards) and test data management
+•	University degree in a Technology or Information Systems field
+•	German language skills (spoken/written/B2+) – beneficial for client collaboration
+•	Advanced English language (B2+)
+WHAT WE
+OFFER
+Salary
+2 000 EUR/month
+Accenture offers a competitive compensation package. As required by the Slovak law we state that the legal monthly minimum gross base pay starting from 2 000€ depending on your professional and personal qualifications in the required areas.
+Flexibility:
+• Flexible working arrangements (time & place of work)
+Recognition:
+• Guaranteed paid overtime or overtime vacation
+• German language bonus up to 400€ monthly/gross depending on language proficiency and level of seniority
+• Flexible Benefit System - budget to be spent on services of your choice
+• Competitive bonus structure
+• Refer-a-Friend – get a bonus in the employee referral program
+• Loyalty rewards
+Future:
+• Wide range of trainings and expert lectures
+• Regular performance review and career growth possibilities
+• Ongoing career guidance and mentoring (Global Mentoring Program, Lean In)
+• Employee share purchase plan
+Family & Health:
+• 3 extra days off
+• Sick leave salary compensation (up to 100%)
+• Home-office equipment
+• Family oriented benefits (Wedding, Parental and Baby days-off and bonuses)
+• Employee assistance services (professional psychological, financial and legal help)
+• Multisport card
+• Contribution to special vision correction appliances
+• Life and disability group insurance
+• Sport vouchers for children’s sport activities and children camps
+Interested?
+Apply for this job
+Similar career opportunities at Accenture
+Tosca Test Automation Lead
+© 2020 Accenture. All Rights Reserved.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214091
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Remote work
+Pozícia:
+C# Programmer
+,
+IT Tester
+,
+Java Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+Accenture, s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

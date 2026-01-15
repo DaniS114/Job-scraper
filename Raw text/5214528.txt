@@ -1,0 +1,97 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Software Engineer - Golang/Java/C#
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 3 300 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. * Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+Our platform is built on a modern microservices architecture, leveraging Go, gRPC, and Kubernetes. You will work with high-throughput security data and contribute to orchestrating advanced protection mechanisms across hybrid cloud environments.
+As a Software Engineer, you will be responsible for designing and implementing scalable backend services, integrating with public cloud APIs, and ensuring the reliability, performance, and security of our platform.
+What does working as a Software Engineer entail?
+Designing and developing high-performance microservices in Go
+Integrating with cloud provider APIs (AWS, Azure, GCP) to discover and protect workloads
+Building and maintaining Kubernetes controllers and operators for runtime security
+Collaborating with cross-functional teams to deliver end-to-end security features
+Optimizing system performance and scalability to handle growing customer loads
+Mentoring junior engineers and contributing to code reviews and architectural discussions
+Ensuring code quality through comprehensive testing and adherence to best practices
+What do we expect?
+Proficiency in Go (Golang) OR strong background in another backend language (e.g., C++, Java, C#) with a willingness to learn Go
+Experience with Microservices Architecture, gRPC, and Protobuf
+Familiarity with Kubernetes
+Knowledge of containerization (Docker) and orchestration
+Familiarity with message queues such as RabbitMQ, Kafka, or Azure Event Hubs
+Experience with databases such as MongoDB, Azure Cosmos DB, or PostgreSQL
+Understanding of CI/CD pipelines and version control (Git)
+Strong problem-solving skills and ability to work independently
+Experience with Linux-based operating systems
+Nice to have
+Deep understanding of cloud platforms (Azure, AWS, or GCP) and their SDKs
+Experience with C++ (especially C++17) for performance-critical components or agents
+Knowledge of Linux system internals and eBPF
+Experience with Terraform or other Infrastructure as Code tools
+Background in cybersecurity or cloud security
+Familiarity with monitoring tools such as Prometheus or OpenTelemetry
+Kontaktná osoba
+Jakub Kunik
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214528
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Bratislava
+Pozícia:
+.NET Programmer
+,
+C# Programmer
+,
+Java Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 300 EUR/month

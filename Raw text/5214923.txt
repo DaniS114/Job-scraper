@@ -1,0 +1,122 @@
+Embedded developer/ka C/C++ pre kamery strojového videnia
+XIMEA s.r.o.
+Miesto práce
+Lesná 52, Marianka
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 000 - 3 000 EUR/mesiac
+Finálna mzda sa odvíja od zručností a skúsenosti kandidáta
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pri prenose dát rozhoduje každá nanosekunda! Staň sa súčasťou vývoja špičkových priemyselných kamier.
+Hľadáme šikovného inžiniera/inžinierku (mid) so skúsenosťami s programovaním embedded systémov alebo microcontrollerov s architektúrou ARM, napríklad AVR, STM, Raspberry Pi. Pridaj sa k nám a podieľaj sa na vývoji priemyselných kamier, ktoré využívajú stovky klientov od svetových univerzít až po Google či NASA.
+Čo ťa čaká?
+Vývoj
+bare-metal
+a
+RTOS
+firmvéru pre kamery a ďalšie embedded zariadenia.
+Každodenná práca s
+ARM
+mikrokontrolérmi (STM, Infineon) a
+USB
+protokolom.
+Testovanie, debuggovanie a optimalizácia funkcií kamier.
+Spolupráca so špičkovými inžiniermi v celom vývojovom a výrobnom cykle (NPI, R&D Software, Hardware a Support).
+V rámci vývoja využiješ
+C
+alebo
+C++.
+Tvoj čas vyplní aj občasná práca s osciloskopom, spájkovanie a ponorenie sa do dokumentácie.
+Prečo sa k nám pridať?
+Sme
+slovenská firma s vlastným R&D
+, výrobou a distribúciou. Budeš môcť stáť pri prvej myšlienke vzniku ďalšieho produktu, ale aj sledovať a prispievať k vzniku sériovej produkcie.
+Pracujeme v malých projektových tímoch –
+tvoju prácu bude vidieť.
+Vyvíjame unikátne
+kamery používané po celom svete
+, pre vedu, výskum a priemysel.
+Máš možnosť
+učiť sa od top odborníkov v oblasti hardvéru
+a optoelektroniky.
+Zamestnanecké výhody, benefity
+Byť súčasťou stabilnej spoločnosti, ktorá je medzinárodne uznávaná za svoje inovatívne technologické produkty a služby
+​Možnosť sebarozvoja a práce s najnovšími technológiami​
+Hodiny s fitness trénerom v súkromnej telocvični
+Hodiny angličtiny
+5 Sick days (dní voľna na regeneráciu)
+Teambuildingové aktivity
+Informácie o výberovom konaní
+Ak chceš pracovať na technológiách, ktoré ukazujú svet v  tom najlepšom svetle, pošli nám svoj životopis a napíš nám v pár riadkoch čo ťa na práci s elektronikou najviac baví.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+elektrotechnika, strojné inžinierstvo, informačné technológie - výhodou
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+C - Mierne pokročilý
+C++ - Mierne pokročilý
+Embedded software - Mierne pokročilý
+Embedded C++ - Mierne pokročilý
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Koho hľadáme?
+Človeka, ktorého fascinuje elektronika. Možno si celé detstvo skladal/a LEGO, rozoberal/a spotrebiče alebo máš skúsenosti s experimentovaním napr. s Arduinom či Raspberry Pi. Proste si Inžinier/ka so srdcom kutila.
+Človeka so zmyslom pre detail a precíznosť, ktorý sa túži stať expertom vo svojom odbore.
+Bežca/bežkyňu na dlhé trate, nakoľko kým sa staneš majstrom v elektronike a optike, nejaký ten rôčik ubehne.
+Človeka, ktorý predvída a nevzdá sa, keď sa prvé riešenie problému neukáže ako to správne.
+Človeka, ktorý sa flexibilne ponorí do rôznych zdrojových kódov a prostredí
+Človeka, ktorý sa rád učí, rýchlo si osvojuje nové technológie či programovacie jazyky a na pamäti má zásady "clean code".
+Človeka so skúsenosťami s programovaním embedded systémov alebo microcontrollerov aspoň 2 roky
+Človeka, ktorý sa nebojí angličtiny (aspoň úroveň B1). Rozprávame síce menej, no naša dokumentácia či interná wiki sú v angličtine
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+XIMEA je medzinárodne úspešná a technologicky uznávaná firma s výskumno-návrhovým tímom a výrobnou prevádzkou na Slovensku: https://www.youtube.com/watch?v=876axbKXSw8
+Navrhuje, vyvíja a vyrába širokú škálu vysoko technologických priemyselných, vedeckých a špeciálnych kamier, ktoré sa uplatňujú v najrôznejších špičkových aplikáciách. Sú výnimočné svojou rýchlosťou, kompaktnosťou a kvalitou spracovania.
+Sme pravidelným držiteľom ocenenia Forbes Diamanty Slovenska, ktoré oceňuje zdravo rastúce spoločnosti. Viac o nás sa dozviete tu:
+https://www.youtube.com/watch?v=TaP4x9f4CvI
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Andrea Košutová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214923
+Dátum zverejnenia:
+11.1.2026
+2026-01-11
+lokalita:
+Marianka
+Pozícia:
+C programátor
+,
+C++ programátor
+,
+Elektromechanik
+,
+Programátor
+,
+Programátor priemyselných robotov
+Spoločnosť:
+XIMEA s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

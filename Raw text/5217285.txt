@@ -1,0 +1,88 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Junior C# Developer
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 1 900 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. * Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are looking for a new colleague to join our team for the position of Junior C#/.NET Developer. We develop solutions which are part of a broader security ecosystem where our focus is on identity protection, which for example includes, but is not limited to multi-factor authentication.
+We are an agile, technically well-backed-up, and well-played team. The product is mainly Windows and cloud based but has also on-premises parts and mobile apps as well. However, nearly all the code is in C#. By developing the product, you will come across several technologies, thus we are looking for an open-minded candidate who is willing to learn.
+The main task of our work is the design and implementation of functionality and its integration into existing products. The work covers also the maintenance of existing product instances.
+We also have experienced senior colleagues on the team who will be happy to guide you if you need help.
+Personality requirements and skills:
+The basic requirement is C #/.NET knowledge; however, other technical skills might be an advantage for the applicant. Meeting all the requirements is not a necessity; however, you might come across these technologies when working on this position.
+Technical skills:
+C#/.NET - .NET Framework, .NET Core, ASP.NET (Framework, Core)
+Microsoft Azure (App Service, Function App,  Storage Account, Key Vault, Event Hub, ...)
+TypeScript/JavaScript/React
+C++
+.NET MAUI for Android and iOS
+SQL Databases (Entity Framework, MS SQL, Postgre, Azure SQL Database...)
+CI/CD, DevOps, Agile methodology
+Other prerequisites:
+Analytical thinking
+English language - at least B1
+Ability to analyze and resolve problems
+Team spirit and ability to cooperate
+Conceptual and creative approach
+Kontaktná osoba
+Jakub Kunik
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5217285
+Dátum zverejnenia:
+14.1.2026
+2026-01-14
+lokalita:
+Bratislava
+Pozícia:
+.NET Programmer
+,
+Backend developer
+,
+C# Programmer
+,
+Programmer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+1 900 EUR/month

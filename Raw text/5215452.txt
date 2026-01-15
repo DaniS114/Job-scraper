@@ -1,0 +1,102 @@
+We harness the power of tech to increase sustainability.
+How do you want to use technology?
+Tosca Test Automation Lead
+Place of work
+Remote work
+Contract type
+full-time
+POSITION
+DESCRIPTION
+We’re looking for a hands-on Test Automation Lead with deep Tricentis Tosca expertise to drive the design, implementation, and continuous improvement of our test automation strategy. You will own Tosca framework architecture, integrate automated tests into CI/CD pipelines, and partner closely with cross functional teams to assure quality across the SDLC.
+WHAT WILL
+YOU DO
+•	Define and own the Tosca test automation strategy, standards, and governance for products and programs.
+•	Build and lead a small team of automation engineers, coach and mentor on Tosca best practices and test management discipline.
+•	Establish automation KPIs (coverage, stability, execution time) and report progress to stakeholders.
+•	Design, implement, and maintain Tosca-based automation frameworks (modules, business components, test data, recovery scenarios).
+•	Create scalable, maintainable automated test suites for functional, regression, and smoke testing.
+•	Optimize test assets for reliability and speed; perform root cause analysis of flaky tests and environment issues.
+•	Integrate Tosca suites with CI/CD pipelines (e.g., Azure DevOps/GitHub/GitLab) to enable continuous testing, gated releases, and quality gates.
+•	Automate test execution, reporting, and artifact publishing from pipelines.
+•	Use test management tools (JIRA, HP ALM, TestRail) to plan, track, and report testing activities.
+•	Manage test cases, data, and environments; ensure traceability from requirements to test results.
+•	Coordinate defect triage and quality risk mitigation with product owners and engineering leads.
+•	Drive “shift left” testing and in sprint automation, aligning with our internal RACI and role definitions.
+•	Produce clear test plans, automation design docs, and execution reports; communicate status and risks to stakeholders.
+WHAT WE
+EXPECT
+•	At least 5 years of experience in Test Automation engineering
+•	Proficiency in Tricentis Tosca Testsuite: expert in test design, module creation, test data management, and execution.
+•	Proven experience designing Tosca automation frameworks and maintaining large automation suites.
+•	Hands on CI/CD integration of automated tests; experience with build pipelines and artifact/report publishing.
+•	Strong command of test management tools (JIRA, HP ALM, TestRail) and test assets lifecycle management.
+•	Solid understanding of SDLC and Agile/DevOps practices; ability to identify and mitigate testing risks.
+•	Analytical and problem-solving skills: debugging test scripts, environment issues, and optimizing performance/stability.
+•	Communication & collaboration skills: effective with developers, BAs, PMs; concise documentation and stakeholder reporting.
+•	Experience training/mentoring teams on Tosca and testing standards.
+•	Professional working proficiency in English (B2+), German is nice to have.
+•	Bachelor’s or master’s degree in computer science, information technology, or related field
+Nice to have
+•	ISTQB or Tricentis Tosca certifications.
+•	Experience with API/non web automation in Tosca; familiarity with test data virtualization.
+WHAT WE
+OFFER
+Salary
+2 000 EUR/month
+Accenture offers a competitive compensation package. As required by the Slovak law we state that the legal monthly minimum gross base pay starting from 2 000€-3000€ depending on your professional and personal qualifications in the required areas.
+Flexibility:
+• Flexible working arrangements (time & place of work)
+Recognition:
+• Guaranteed paid overtime or overtime vacation
+• German language bonus up to 400€ monthly/gross depending on language proficiency and level of seniority
+• Flexible Benefit System - budget to be spent on services of your choice
+• Competitive bonus structure
+• Refer-a-Friend – get a bonus in the employee referral program
+• Loyalty rewards
+Future:
+• Wide range of trainings and expert lectures
+• Regular performance review and career growth possibilities
+• Ongoing career guidance and mentoring (Global Mentoring Program, Lean In)
+• Employee share purchase plan
+Family & Health:
+• 3 extra days off
+• Sick leave salary compensation (up to 100%)
+• Home-office equipment
+• Family oriented benefits (Wedding, Parental and Baby days-off and bonuses)
+• Employee assistance services (professional psychological, financial and legal help)
+• Multisport card
+• Contribution to special vision correction appliances
+• Life and disability group insurance
+• Sport vouchers for children’s sport activities and children camps
+Interested?
+Apply for this job
+Similar career opportunities at Accenture
+Experienced Test Automation Engineer
+© 2020 Accenture. All Rights Reserved.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5215452
+Dátum zverejnenia:
+12.1.2026
+2026-01-12
+lokalita:
+Remote work
+Pozícia:
+IT Analyst
+,
+IT Consultant
+,
+IT Tester
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+Accenture, s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

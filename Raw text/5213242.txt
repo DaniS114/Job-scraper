@@ -1,0 +1,88 @@
+Voľné
+pozície
+Eviden
+Benefity
+Kontakt
+Senior Data Architect DWH/BI
+Miesto práce
+Pribinova 19, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+1.3.2026
+Mzdové podmienky (brutto)
+Od 3 500 EUR/mesiac
+Finálna výška mzdy závisí od preukázaných vedomostí a skúseností uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho tímu hľadáme skúseného a strategicky zmýšľajúceho senior DWH-dátového architekta, ktorý posunie dátové prostredie na vyššiu úroveň. Ak máte vášeň pre navrhovanie komplexných dátových štruktúr dátového skladu a chcete zohrávať kľúčovú úlohu pri formovaní dátovej stratégie na projekte, ste na správnom mieste.
+Ako senior dátový architekt budete zodpovedný za návrh, vývoj, údržbu a optimalizáciu celej dátovej infraštruktúry. Medzi vaše hlavné zodpovednosti bude patriť:
+- Strategická dátová architektúra: Preklad obchodných požiadaviek do technických dátových modelov (koncepčných, logických a fyzických) špecificky pre dátový sklad a systémy BI.
+- Definovať a dohliadať na štandardy dátového modelovania (ERD, SCD2, star/snowflake schema),
+- Správa údajov a zabezpečenie kvality: Definovanie a presadzovanie politík pre správu údajov, bezpečnosť, integritu a súlad v prostredí DWH.
+- Návrh systému: Navrhovanie a implementácia robustných a škálovateľných databázových systémov, dátových skladov (DWH) a dátových kanálov.
+- Navrhovať a implementovať ETL/ELT procesy v Apache NiFi, vrátane monitorovania a optimalizácie výkonu.
+- Výber technológie: Hodnotenie a odporúčanie nových technológií a nástrojov na ukladanie, spracovanie a analýzu údajov.
+- Mentorstvo a vedenie: Poskytovanie technického mentoringu juniorným dátovým expertom a úzka spolupráca s multifunkčnými tímami, najmä s vývojármi BI.
+Zamestnanecké výhody, benefity
+viď sekciu Benefity
+Informácie o výberovom konaní
+Vopred ďakujeme za Vaše CV.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Expert (C2)
+Osobnostné predpoklady a zručnosti
+- Minimálne 5 rokov relevantných odborných skúseností v oblasti architektúry dátových skladov alebo na podobnej vedúcej pozícii v oblasti dát.
+- Silné analytické schopnosti, vynikajúce komunikačné zručnosti a schopnosť viesť iniciatívy.
+- Komplexná znalosť databázových technológií (SQL/NoSQL) a modelovania dát
+- Pokročilá znalosť PostgreSQL a SQL optimalizácie.
+- Skúsenosti s Apache NiFi alebo inými ETL/ELT nástrojmi.
+- Znalosť Power BI a pochopenie princípov návrhu dátových modelov pre reporting.
+- Skúsenosť s riadením menšieho tímu analytikov a inžinierov.
+- Prehľad o konceptoch Data Governance, Data Quality, Master Data Management.
+- Skúsenosti s verziovaním a CI/CD pre dátové pipelines (napr. GitLab)- výhodou.
+- Prax s monitoringom a automatizáciou testovania dát- výhodou.
+- Znalosť cloudových DWH platforiem- výhodou.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Eviden poskytuje služby v oblasti digitálnych služieb, cloudu, dát, vysokovýkonnej výpočtovej techniky a kybernetickej bezpečnosti.
+Ako digitálny podnik novej generácie, prinášame hĺbkové odborné znalosti pre všetky odvetvia vo viac ako 53 krajinách.
+Rozširujeme možnosti technológií pre podniky aj verejné orgány a pomáhame im budovať ich digitálnu budúcnosť spojením jedinečných špičkových technológií a viac ako 57-tisíc svetových talentov.
+V rámci skupiny Atos dosahujeme ročný obrat vo výške približne 5 miliárd eur.
+Počet zamestnancov
+200-249 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Nina Hladíková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5213242
+Dátum zverejnenia:
+8.1.2026
+2026-01-08
+lokalita:
+Bratislava
+Pozícia:
+Databázový analytik
+,
+IT analytik
+,
+IT konzultant
+,
+IT/Technical Support Specialist
+Spoločnosť:
+Eviden Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

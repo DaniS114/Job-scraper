@@ -1,0 +1,91 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+C#NET developer pre Business Systems
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto)
+Od 2 400 EUR/mesiac
+Bonus: Výkonnostná prémia 2x ročne až do výšky 10% zo zákl. mzdy vyplatenej za hodnotené obdobie (spravidla 6 mesiacov)
+*Finálna suma základnej zložky mzdy môže byť upravená v závislosti od individuálnych znalostí a skúseností vybraného kandidáta.
+Druh pracovného pomeru
+plný úväzok
+Do vývojového tímu na oddelení Business Systems hľadáme C#/.NET vývojára.
+Náš tím sa zaoberá vývojom a údržbou licenčného systému, ktorý pozostáva z viacerých webových a backendovych služieb. Tie sú vybudované prevažne na Microsoft/.NET platforme. Popri rozvíjaní existújucích apliká cií sa venujeme aj budovaniu nových systémových komponentov, u ktorých používame microservices architektúru, DDD, cloud patterny, Azure services a pod.
+Príď k nám a budeš:
+vyvíjať rôzne časti systémov
+pracovať so širokou paletou technológií (vrátane, avšak nielen nasledovných: Microsoft .NET Core/Framework, ASP.NET MVC & WebAPI, REST, WCF, Microsoft Azure, Microsoft SQL Server.)
+spolupracovať v rámci Tvojho tímu a aj s inými oddeleniami
+realizovať sa - pri vývoji našich riešení vedieme otvorenú diskusiu, pri ktorej vzniká priestor prinášať nové myšlienky, postupy a technológie.
+Hľadáme predovšetkým nového kolegu so zdravým úsudkom a so zameraním sa na spoločné ciele. V spoločnosti ESET sme hrdí na náš otvorený štýl komunikácie, takže sa Tvoje názory nemusíš báť vyjadriť.
+Prečo sa pridať k nám?
+chceš sa zamerať na funkcionalitu, byť odborník v doméne a podporovať rozvoj biznisu?
+chceš optimalizovať a refaktorovať aplikačnú vrstvu, užívaš si dobre navrhnuté rozhrania, máš rád nepriestrelný kód, chceš priložiť ruku ku kvalitnému CI/CD procesu?
+alebo sa zaujímaš, prečo je databáza pomalšia a jedným okom už pozeráš na query plan?
+Je mnoho okruhov, ktorými sa zaoberáme. Budeš mať možnosť špecializovať sa v oblasti, ktorá Ťa zaujíma.
+Čo očakávame od nášho nového kolegu/novej kolegyne?
+znalosť objektovo-orientovaného programovania v C# a .NET platformách
+skúsenosti s prácou s databázami (Microsoft SQL Server), znalosť SQL/TSQL
+skúsenosti s vývojom webových aplikácií, výhodou aj webových služieb (ASP.NET MVC / WebAPI, Rest)
+samostatnosť, kreativita, záujem o programovanie a vývoj systémov
+výhodou sú skúsenosti s vývojom na platforme Microsoft Azure
+skúsenosti s DevOps, automatizáciou CI/CD procesu, manažmentom cloud infraštruktúry sú vítané
+anglický jazyk: minimálne na úrovni schopnosti čítať technickú dokumentáciu
+vysokoškolské vzdelanie môže byť výhodou, podstatné sú však schopnosti a šikovnosť
+Kontaktná osoba
+Maria Kukla
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214541
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Bratislava
+Pozícia:
+.NET programátor
+,
+C# programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 400 EUR/mesiac

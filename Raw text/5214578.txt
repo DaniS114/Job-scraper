@@ -1,0 +1,104 @@
+Deutsche Telekom Services Europe Slovakia
+O nás
+Voľné pozície
+Firemná kultúra
+Benefity
+Kontakt
+Technical
+AI SERVICES-Senior Data Scientist for Time Series Forecasting KE
+We are a small team in a big company, adopting agile methodology. We provide Data Science solutions for internal customers inside Deutsche Telekom and our skills and solutions are continually in high demand. Therefore, we want to increase the size of our team with additional technical people that know how to process and analyze data so we can serve and satisfy the needs of even more customers.
+We are looking for somebody who can work independently, create working solutions quickly, creatively come up with new ideas, but also knows how to use and where to look for existing solutions. Our project members are also situated in Germany, Slovakia, Romania or India so video conferencing is the daily standard.
+Apply and find out more about us and our Digi department and join our team in Košice or Bratislava!
+Contract type
+full-time
+Place of work
+Košice, Slovak Republic
+Start date
+ASAP
+Wage (gross)
+From 2 700 EUR/month
+About
+the position
+Daily Tasks:
+You take the end-to-end responsibility for strategically aligned data science projects, from taking stock of requirements and advising through to putting the solution into production
+You will be applying machine learning approaches to provide business insights for internal customers of the Deutsche Telekom group
+You will be responsible for driving the discussions within the team for selecting the most appropriate modelling strategies
+You will prepare training & evaluation pipelines and apply state of the art Machine Learning approaches to improve processes in Finance (Controlling, Treasury, Accounting), Procurement, HR, and others
+You will take part in upskilling fellow Data Scientists
+You will be driving innovation by staying up to date with the latest advancements in time series research (e.g., forecasting, clustering, anomaly detection) and identifying their potential applications within our products and projects
+We create data-driven business solutions for our customers. You will be the one creating them and possibly deploying them to production, explaining your customers how to use them, and providing support/maintenance
+You will be responsible for the technical part in your time series projects designing & implementing prototypes of innovative applications in Python
+You will cooperate with the business side including your active contribution in customer workshops, meetings, and calls so the ability to explain technical points to business colleagues is a crucial part of this job, as is a consultant’s mindset
+You will participate in team brainstorming sessions, code reviews, or pair programming sessions
+Depending on the use case, you will have the opportunity to work with a variety of tools and technologies such as Dagster, Kubernetes, Docker, FastAPI, Redis, Celery and ML frameworks like SKTime, Scikit-learn, Nixtla, Tensorflow or other relevant libraries.
+You will have the chance to identify use cases for automation and application of data science
+We work in a HYBRID STYLE of working with an unlimited home office, but twice a week we meet in the office (Bratislava or Košice) for meetings.
+The published salary is the minimum possible offer. The starting salary may be higher depending on the extent of fulfillment of the employee's requirements (education, language skills, required practice, personality assumptions and skills).
+What
+we expect
+Candidates with education suit the position
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+More than 5 years of working experience with Data Science projects, preferably with Time Series forecasting
+Profound expertise in time series modelling including areas such as anomaly detection, multivariate forecasting, causal inference and others
+Additionally, you have been advising junior Data Scientists in projects
+You write clean, comprehensive, and efficient Python code and are an expert in developing machine learning solutions in Python. Additionally, you are familiar with OOP principles, PEP8 guidelines, testing methodologies and API integrations. You are aware of and willing to apply Agile methodology (Scrum, Kanban, etc.)
+You have at least basic understanding of SQL that allows you to interact with relational databases and fetch the data from / insert data into them
+You are proactive. You do not wait for others to specify what needs to be done, but you take the initiative to identify bottlenecks and areas for possible improvements and you are able to make those work with minimal supervision
+You are not afraid to ask questions when something is not clear or point out when something seems inefficient to you
+You are an analytical thinker, have an affinity for structure, grasp things fast and work systematically
+You can develop working solutions quickly and you get things done
+Experience with the basics of DevOps and deployment in cloud environments such as GCP is a plus
+Language: Fluent written and spoken English, German skills would be an advantage
+Education in the IT field would be beneficial
+Interpersonal Skills
+Proactivity towards customer service is essential
+Flexible and responsive to changing work patterns and demands
+A thorough and methodical approach to work
+Highly developed interpersonal communication skills including storytelling and presentation skills
+Knowledge sharing – active contributor
+Benefits
+that make you happy
+Annual bonus
+Fully paid meal vouchers
+Phone also for private use
+Discounts for selected Telekom products
+Supplementary pension saving contribution
+Cafeteria system of benefits/Multisport card
+Sick days
+Sports club & Health days
+Teambuildings, summer & Christmas party
+Opportunities for career growth
+Referral program
+Flexible working time
+About
+the selection process
+We are dedicated to constantly promoting equal employment opportunities and are ready to make reasonable adjustments for applicants with disabilities. If you are interested in our job opportunity and meet our job requirements for this position, we encourage you to confidentially notify us if you need specific accommodations to ensure your full participation in our recruitment process at recruitment@telekom.com.
+Snažíme sa neustále podporovať rovnaké príležitosti v zamestnaní a sme pripravení urobiť primerané úpravy pre uchádzačov so zdravotným postihnutím. Ak máte záujem o túto pracovnú príležitosť a spĺňate požiadavky inzerovaného pracovného miesta, odporúčame vám, aby ste nám dôverne oznámili, ak potrebujete osobitné úpravy, ktoré vám zabezpečia plnohodnotnú účasť na našom náborovom procese na recruitment@telekom.com.
+Send CV
+Deutsche Telekom Services Europe Slovakia
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214578
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Košice
+Pozícia:
+Javascript Programmer
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+Deutsche Telekom Services Europe Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

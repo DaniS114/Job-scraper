@@ -1,0 +1,111 @@
+Devops špecialista
+Offer experts s. r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+3 000 - 4 500 EUR/mesiac
++bonusy
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Budovanie, nasadenie a správa odolných
+CI/CD pipeline
+pre automatizované buildy, testovanie a deployment (Jenkins, GitLab, Nexus).
+Spolupráca pri návrhu riešenia –
+konzultácie k architektúre
+a nastaveniu runtime prostredí pre aplikácie.
+Prevádzka a ladeniu
+kontajnerovej/orchestrátorskej vrstvy
+vrátane optimalizácie (Kubernetes, Docker).
+Dohľad nad
+dostupnosťou, škálovaním a observabilitou
+produkčných aj neprodukčných prostredí.
+Zavádzanie a rozvoj
+IaC
+prístupu (Terraform, Ansible) pre konzistentné a opakovateľné zmeny.
+Úzka koordinácia s vývojármi a testermi – zlepšovanie procesov, odstraňovanie blokérov a skracovanie release cyklu.
+Dodržiavanie bezpečnostných princípov a integrácia bezpečnostných kontrol v rámci
+DevSecOps
+.
+Zamestnanecké výhody, benefity
+Flexibilný pracovný čas
+Home Office
+Príspevok pri uzavretí manželstva
+Referral bonus
+Finančný bonus po 10 rokoch
+Multisport karta
+Teambuildingy (celofiremné, divízne, vianočná večera)
+Podpora športových aktivít (korčuľovanie, bowling, …)
+Bez dress codu
+Mobil a notebook aj na súkromné účely
+Vianočný a mikulášsky darček
+Zľavy u partnerských tretích strán
+Odborné vzdelávanie, školenia a certifikácie
+Ovocie, čaj, káva
+Moderné priestory
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+IT súkromná firma pracujúca pre štát
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Osobnostné predpoklady a zručnosti
+Minimálne
+5 rokov praxe
+na pozícii DevOps / Cloud / Systémový inžinier.
+Cloud (primárne Azure):
+praktická skúsenosť s Azure DevOps, AKS, IaaS/PaaS.
+Kontajnery a orchestrace:
+Kubernetes, Docker.
+Reálna skúsenosť s
+OpenShift
+.
+CI/CD nástroje:
+GitLab CI/CD, Jenkins, Nexus.
+Infrastructure as Code (IaC):
+Terraform, Ansible.
+Monitoring & logging:
+Prometheus, Grafana, Loki, Zabbix, ELK stack.
+Konfigurácia a používanie nástrojov ako
+HashiCorp Vault, Keycloak, Argo CD, Helm
+.
+Scripting:
+silné znalosti
+Bash/Shell
+a
+Python
+.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+recruitment services/IT delivery
+Kontakt
+Kontaktná osoba: Mgr.  Peter Kluknavsky
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5215448
+Dátum zverejnenia:
+12.1.2026
+2026-01-12
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Offer experts s. r. o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

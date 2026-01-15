@@ -1,0 +1,88 @@
+DevOps Engineer with Python
+GoodWill Recruitment, s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+2 300 - 3 000 EUR/month
+The salary amount depends on the candidate's experience and seniority. Each candidate is assessed individually.
+Information about the position
+Job description, responsibilities and duties
+We are looking for a Engineer with strong Python and DevOps experience to join a development team. The role focuses on building, operating, and maintaining monitoring, logging, and cloud-native infrastructure with an emphasis on reliability, automation, and observability.
+Develop and maintain automation and tooling using Python and Bash
+Operate and optimize monitoring and observability platforms (Prometheus, Grafana, CheckMK, Elastic stack)
+Manage and support containerized environments using Kubernetes and Helm
+Work with identity and access management solutions (CloudIDP)
+Troubleshoot and maintain Linux-based systems
+Collaborate with development and operations teams to ensure high availability and performance
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+An international software development company.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+Information Technology
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Must-have skills:
+Experience with Python and Linux
+Knowledge of Kubernetes and Helm
+Hands-on experience with monitoring and logging tools:
+Elastic Stack
+CheckMK
+Prometheus
+Grafana
+Experience with Cloud Identity Providers (CloudIDP)
+Scripting with Bash
+Understanding of DevOps principles and CI/CD workflows
+Nice-to-have:
+Experience with Elasticsearch Index Lifecycle Management (ILM)
+Knowledge of index mapping and performance tuning
+Experience with Kibana and Logstash
+Familiarity with OpenShift
+Experience with large-scale enterprise environments and high-availability systems
+Advertiser
+Brief description of the company
+Sme GoodWill Recruitment - Vaši kariérni inovátori. Ak chcete zmenu a máte chuť napredovať, pozrieme sa s vami na to, aké možnosti máte vo svojom segmente a zistíme, akú výzvu vám vieme ponúknuť. Vyhľadávame špecialistov v oblasti výroby, vývoja, logistiky, elektrotechniky, informačných technológií, financií či ľudských zdrojov. Môžeme sľúbiť osobný prístup, férovosť a čestnosť. Sme Goodwill Recruitment - spájame správnych ľudí so správnymi firmami.
+Vážime si váš prejavený záujem a ďakujeme za zaslanie životopisu. Kontaktovať budeme kandidátov, ktorí spĺňajú požiadavky na danú pozíciu.
+Contact
+Contact person: Ján Hajnik
+Tel.:
++421948614486
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5215878
+Dátum zverejnenia:
+12.1.2026
+2026-01-12
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+,
+Programmer
+,
+Python Programmer
+,
+Software Engineer
+,
+Systems Administrator
+Spoločnosť:
+GoodWill Recruitment, s.r.o.
+Základná zložka mzdy (brutto):
+2 300 EUR/month

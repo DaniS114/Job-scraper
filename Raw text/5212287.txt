@@ -1,0 +1,97 @@
+About us
+Our benefits
+Open positions
+Senior Java Application Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3,800 and EUR 6,300 per month (for a full-time role). The specific salary offered considers:​
+
+-the requirements, scope, complexity and responsibilities of the role, ​
+-the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.​
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.​
+
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Are you passionate about building robust, scalable applications that power critical business functions with global impact? Join our international team as a Senior Java Application Engineer and help shape the future of our core costing platform at Swiss Re. This is your opportunity to work with cutting-edge technologies while solving complex challenges that affect markets worldwide in a collaborative, innovative environment.
+About the Role
+As a Senior Java Application Engineer, you'll be at the forefront of developing and enhancing our core costing platform used across global markets. You'll leverage your expertise in Java and modern frameworks to design, implement, and maintain high-performance applications that meet business requirements and exceed user expectations for our worldwide operations.
+Key Responsibilities:
+-Design and develop robust, scalable Java applications using Spring Boot and related technologies
+-Collaborate with cross-functional teams to translate business requirements into technical solutions
+-Implement and maintain RESTful APIs and microservices architecture
+-Optimize application performance and ensure high availability of critical systems
+-Troubleshoot complex issues across the application stack and provide timely resolutions
+-Participate in code reviews, ensuring high code quality and adherence to best practices
+-Mentor junior developers and contribute to knowledge sharing within the team
+-Drive continuous improvement initiatives for development processes and tools
+-Ensure application security through proper implementation of security standards
+About the Team
+You'll be joining the Costing Hub Team, responsible for building and operating the Costing Hub – Swiss Re's core solution for P&C treaty costing. Our team works with Java, Spring Boot, PostgreSQL, and cloud-native technologies to deliver scalable, high-performance solutions. Collaboration is key – you'll work closely with colleagues across multiple worldwide offices in an agile, innovative environment.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a problem-solver at heart with a passion for creating elegant solutions to complex challenges. You thrive in collaborative environments and enjoy sharing knowledge with colleagues. Your technical expertise is complemented by strong communication skills and a customer-focused mindset.
+We are looking for candidates who meet these requirements:
+-5+ years of experience in Java development with proficiency in Java 11+ and Spring Boot
+-Strong understanding of object-oriented design principles and design patterns
+-Experience with relational databases (particularly PostgreSQL)
+-Proven track record of delivering high-quality, maintainable code in a team environment
+-Experience with RESTful API design and implementation
+These are additional nice to haves:
+-Experience with cloud platforms (AWS, Azure, or GCP)
+-Knowledge of containerization technologies (Docker, Kubernetes)
+-Familiarity with CI/CD pipelines and DevOps practices
+-Experience with reactive programming (e.g., Project Reactor, RxJava)
+-Knowledge of insurance or financial industry domain
+-Experience with front-end technologies (JavaScript, Angular, React)
+-Agile methodology experience (Scrum, Kanban)
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5212287
+Dátum zverejnenia:
+7.1.2026
+2026-01-07
+lokalita:
+Bratislava
+Pozícia:
+Java Programmer
+,
+Software Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

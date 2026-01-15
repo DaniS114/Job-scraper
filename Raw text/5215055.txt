@@ -1,0 +1,106 @@
+About us
+Our benefits
+Open positions
+IT Application Architect
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3,800 and EUR 6,300 per month (for a full-time role). The specific salary offered considers: • the requirements, scope, complexity and responsibilities of the role, • the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience. In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits. Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the Team and our Scope
+At L&H Claims Solutions, we build and commercialize cloud-native SaaS offerings for Swiss Re Life & Health insurance clients. We offer a portfolio of about three products, in the L&H claims domain offered to clients worldwide. We are a software house within Swiss Re.
+Our team consists of more than 50+ technical professionals with multidisciplinary skills, located in multiple countries, working on these multi-regional, highly available software solutions.
+About the Role
+We are looking for a highly skilled Senior Solution Architect to lead the design and development of scalable, secure, and high-performance enterprise solutions.
+You will work closely with product leaders, business stakeholders, and engineering teams to build secure, high-performance applications based on modern architectural principles.
+You should have deep expertise in modern Java-based service-based architectures, full-stack development, and cloud-native design, with a strong emphasis on Microsoft Azure and enterprise-scale solution development.
+Your responsibilities will be:
+•	Define and evolve application architecture aligned with enterprise standards like scalability, maintainability and cost effectiveness.
+•	Design mission critical solutions using 12-factor App development principles with Spring and Spring Boot
+•	Design and develop secure authentication (e.g., Okta, Azure AD) and robust authorization mechanisms
+•	Design and document scalable cloud-native infrastructure on Microsoft Azure
+•	Establish and enforce coding standards, design patterns, and architecture best practices
+•	Evaluate and integrate third-party solutions, open-source tools, and cloud-managed services
+•	Translate complex business requirements into scalable and maintainable solution designs
+•	Lead and mentor engineering teams on architecture, design, coding, and deployment
+•	Perform architecture and code reviews to ensure adherence to quality and security standards
+•	Collaborate with DevOps teams to streamline CI/CD pipelines and automated deployment processes
+•	Oversee vulnerability assessments, open-source license usage, and secure coding practices
+•	Ensure compliance with governance, data privacy, and industry regulations
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+If you possess traits and experience that match most of the below, we’d love to hear from you:
+•	Overall 12+ years' hands on experience in java/J2EE based enterprise software
+•	5+ years' experience in application/solution architecture roles with hands-on involvement
+•	Experience in agile environments.
+•	Proactive and Collaborative, with a strong sense of ownership and a willingness to go the extra mile to deliver quality solutions.
+•	Top notch team player with the ambition and skill to bring the entire team to the next level.
+Must have excellent technical proficiency in…
+o	Technical leadership capable of designing, motivating and driving a vision
+o	Technical coaching willing of inspiring, coaching and driving technical colleagues
+o	Expert-level proficiency in Java/J2EE, Spring Framework, Spring Boot, Spring Security
+o	Extensive experience designing and building scalable architectures and solutions
+o	Experience with authentication and authorization using Okta, Azure AD, and OAuth2/OpenID Connect
+o	Proficient in REST APIs, Multithreading, Hibernate ORM/JPA, SQL, RDBMS (PostgreSQL, MS SQL)
+o	Strong integration experience (REST, SOAP, ESB, Kafka, RabbitMQ)
+o	Experience using IDEs such as IntelliJ IDEA
+o	Experience in SaaS product development and multi-tenant architecture
+o	Solid grasp of secure coding standards, governance frameworks, and regulatory and compliance practices
+o	Knowledge of profiling and debugging tools like JMeter, App Insights
+Preferable (nice to have, not mandatory) knowledge also about…
+o	Hands-on experience with Microsoft Azure Cloud (including services like AKS, Key Vault, Storage Accounts, etc.)
+o	Knowledge of containerization and orchestration tools – Docker, Kubernetes (AKS)
+o	Expertise in CI/CD and Maven/Gradle
+o	Bonus: Familiarity with UML and tools like Enterprise Architect, Microsoft Visio
+o	Bonus: Previous experience with modern Java Script front end frameworks
+o	Bonus: Knowledge in Insurance Underwriting, Quartz Scheduler, distributed caching (e.g. Redis, Hazelcast)
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Livia Pasztorova
+Apply here
+ID:
+5215055
+Dátum zverejnenia:
+12.1.2026
+2026-01-12
+lokalita:
+Bratislava
+Pozícia:
+IT Architect
+,
+Java Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

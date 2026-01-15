@@ -1,0 +1,87 @@
+Medior Python Programátor
+ARTIN Slovakia s. r. o.
+Miesto práce
+ARTIN Solutions, s.r.o., Dúbravská cesta, Karlova Ves, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Ihneď
+Mzdové podmienky (brutto)
+2 400 - 3 100 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Sme ARTIN, tím skúsených softvérových vývojárov a IT špecialistov, ktorých spája ľudský prístup, otvorenosť a chuť neustále rásť. Budujeme riešenia, ktoré dávajú zmysel a dlhodobo pomáhajú našim klientom.
+Aktuálne rozširujeme tím a hľadáme
+Python Data Developera
+.
+Túto pozíciu je možné vykonávať na TPP ako aj na živnosť, podľa vašej preferencie.
+Čo bude tvojou náplňou práce
+Vývoj backendových služieb v Pythone.
+Budovanie dátového skladu a dátových pipeline.
+Práca s relačnými databázami a modelovaním dát (PostgreSQL, SQLAlchemy).
+Návrh, implementácia a optimalizácia dátových riešení.
+Podieľanie sa na architektúre a technických rozhodnutiach projektu.
+Tvorba reportov, ktoré majú reálny dopad pre našich zákazníkov.
+Nasadzovanie aplikácií a práca s CI/CD.
+Spolupráca s analytikmi, dátovými inžiniermi a ďalšími vývojármi.
+Práca s technológiami ako Docker, Kubernetes, Streamlit či Pandas.
+Čo od teba očakávame
+Must-have
+Silná znalosť Pythonu.
+Skúsenosti so SQLAlchemy.
+Znalosť PostgreSQL.
+Analytické myslenie a orientácia v dátových štruktúrach.
+Skúsenosť s DevOps princípmi a CI/CD.
+Nice-to-have
+FastAPI.
+gRPC, Protobuf.
+Alembic.
+Pokročilejšia práca so SQL.
+Airflow alebo iný orchestrátor.
+Čo nájdeš v ARTINe
+Dôveru a slobodu.
+Veríme ti, nekontrolujeme každý tvoj krok. Máš priestor robiť veci po svojom.
+Otvorenosť.
+Hovoríme spolu na rovinu a spätná väzba je súčasťou každodennej práce.
+Spoľahlivosť.
+Čo sľúbime, to platí. To isté očakávame aj my.
+Jednoduchosť.
+Veci robíme jednoducho, zmysluplne a efektívne.
+Podporu rastu.
+Ak máš chuť sa posúvať ďalej, ARTIN ťa v tom podporí.
+Odvahu meniť veci.
+Keď niečo nefunguje, neignorujeme to. Hľadáme šikovné riešenia a nebojíme sa zmien
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+ARTIN je globálna spoločnosť poskytujúca profesionálne IT služby. Vyvíjame, integrujeme a testujeme softvér, aby sme našim zákazníkom pomohli posunúť ich podnikanie požadovaným smerom. Poskytujeme výnimočnú hodnotu prostredníctvom overených a moderných technológií.
+Je nás už viac ako 200 a nájdeš nás v Bratislave, v Brne a v Prahe. Pridaj sa k nám do priateľského a odborného IT tímu. :)
+Počet zamestnancov
+200-249 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Gabriela Bako
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5215788
+Dátum zverejnenia:
+12.1.2026
+2026-01-12
+lokalita:
+Bratislava
+Pozícia:
+Python programátor
+Spoločnosť:
+ARTIN Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+2 400 EUR/mesiac

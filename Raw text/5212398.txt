@@ -1,0 +1,96 @@
+Senior CRM Developer
+Insignia Lifestyle Services s. r. o.
+Place of work
+Digital Park, Einsteinova, Petržalka
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+4 000 EUR/month
+Final salary depends on the experience.
+Information about the position
+Job description, responsibilities and duties
+Insignia Group of Companies is one of the most bespoke high-end lifestyle management and payment service groups in the world. We are looking for a
+Senior Dynamics CRM Developer
+to join our Insinet team.
+We are looking for a
+Senior Dynamics CRM Developer
+with strong expertise in Dynamics CRM on-premise (8.2 or higher) and the .NET ecosystem.
+You will be responsible for designing and implementing business-critical solutions, integrating CRM with other systems, and driving technical decisions within the team. This role is ideal for someone who is comfortable taking ownership, working closely with business stakeholders, and mentoring other developer
+Key Responsibilities:
+Design, develop and maintain      solutions on Microsoft Dynamics CRM (on-premise)
+Implement server-side logic      using .NET / .NET Core (plugins, custom workflows, integrations, backend      services)
+Design and develop web services      / APIs (REST, SOAP or both) to integrate CRM with internal and external      systems
+Work with databases (RDBMS and      NoSQL): schema design, queries, performance tuning
+Participate in technical design      and architecture discussions, propose and implement best practices
+Ensure code quality through code      reviews, unit testing and adherence to coding standards
+Collaborate with BA/PO and other      teams to translate business requirements into technical solutions
+Troubleshoot production issues,      analyze root causes, and implement fixes and improvements
+Document solutions, integrations      and key technical decisions
+Employee perks, benefits
+Working for one of the best international lifestyle management companies.
+Career growth.
+Exclusive discounts for flight tickets/ hotel deals when booking a personal vacation.
+Working in family environment.
+We love dogs in our office, if you'd like to bring yours in :)
+Fun teambuildings.
+Other company benefits.
+Information about the selection process
+Please send you CV in English only.
+Requirements for the employee
+Candidates with education suit the position
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Other knowledge
+Microsoft Dynamics CRM - Advanced
+.NET - Advanced
+Number of years of experience
+5
+Personality requirements and skills
+5+ years of professional      experience with .NET and Microsoft Dynamics CRM
+Hands-on experience with      Dynamics CRM on-premise 8.2 or higher is mandatory
+Strong experience with .NET Core
+Solid experience in designing      and implementing web services / APIs
+Strong knowledge of relational      databases (e.g. MS SQL Server, MySQL, etc.)
+Solid understanding of:
+- OOP principles
+- Common design patterns
+- SOLID, KISS, DRY principles in everyday work
+Experience working with message      brokers (e.g. RabbitMQ, Kafka, Azure Service Bus, etc.)
+English: Intermediate or higher      (ability to participate in calls, discuss requirements, read/write      documentation)
+Experience with Domain-Driven      Design(DDD), full-stack development experience and experience with ReactJS      would be considered an asset
+Advertiser
+Brief description of the company
+With 30 years of excellence, Insignia has long been a trusted partner to the world’s most elite, ultra-high-net-worth individuals. Renowned for our unrivaled expertise, we cater to the most discerning clients, providing an exceptional standard of service that anticipates their every need and exceeds their highest expectations.
+We are more than a service provider; we are curators of extraordinary experiences and stewards of wealth and lifestyle. Our philosophy is rooted in bespoke service, granting our clients exclusive access to the finest in luxury, emerging trends, and a global network of distinguished partners and industry specialists.
+Headquartered in London, with a growing presence across the Globe our reach enables us to offer unparalleled solutions across all aspects of luxury and financial management. Innovation is at our core, and our clients’ satisfaction is the driving force behind everything we do.
+At Insignia, we foster a culture of independent thinking, assertiveness, and collaboration, where each team member is empowered to contribute to our continued success and the delivery of extraordinary results.
+Number of employees
+50-99 employees
+Contact
+Contact person: Mgr.  Sandra Merklová
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5212398
+Dátum zverejnenia:
+7.1.2026
+2026-01-07
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+Spoločnosť:
+Insignia Lifestyle Services s. r. o.
+Základná zložka mzdy (brutto):
+4 000 EUR/month

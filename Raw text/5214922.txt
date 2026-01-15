@@ -1,0 +1,93 @@
+Data Analytics Engineer
+Baarco & Tish s.r.o.
+Place of work
+Bratislava
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+From 3 500 EUR/month
+Final salary limit will depend on your professional background and our criteria match.
+Information about the position
+Job description, responsibilities and duties
+We are looking for an experienced data professional who will play a key role in building and evolving a centralized analytics environment. The position focuses on transforming large volumes of data from diverse source systems into reliable, well-structured datasets that support reporting, analytics, and decision-making across the organization. You will work at the intersection of data engineering, analytics, and business intelligence, contributing both to backend data pipelines and to the analytical layer consumed by end users.
+PRIMARY
+ROLE & JOB ESSENTIALS
+Develop, operate, and optimize robust ETL/ELT pipelines for large-scale data processing using distributed computing technologies (Apache Spark).
+Consolidate data from multiple operational and transactional systems into a unified analytical data platform.
+Perform data cleansing, normalization, and enrichment to ensure accuracy,consistency, and usability of datasets.
+Design analytical data models that enable efficient querying and downstream reporting.
+Partner with business and technical stakeholders to translate information needs into meaningful dashboards and analytical outputs.
+Build and maintain interactive reports and visualizations using modern BI tools.
+Monitor data workflows, proactively identify data quality issues, and investigate root causes of data anomalies.
+Maintain clear documentation of data structures, transformations, and dependencies to support governance and transparency.
+Contribute to continuous improvement of analytics standards, self-service reporting capabilities, and overall data architecture.
+Employee perks, benefits
+3+ years of experience in similar role
+Hands-on experience with Apache Spark (PySpark or Scala) for data transformation and processing is an advantage.
+Strong experience with Power BI, including DAX, data modeling, and report development.
+Expertise in writing complex SQL queries and working with relational databases (e.g., SQL Server, PostgreSQL, or Oracle).
+Familiarity with cloud-based data platforms and technologies such as Databricks or Delta Lake.
+Experience with version control systems and basic CI/CD concepts for data workflows.
+Exposure to data governance, metadata management, or performance optimization techniques.
+Comfortable working with both structured and semi-structured data sources.
+Company on whose behalf the position is being filled
+Other unlisted areas
+Our client is a well-established organization operating in a highly regulated environment, managing large volumes of complex operational and analytical data. The company is undergoing continuous digital transformation, with a strong focus on data integration, analytics, and modern technology platforms to support informed decision - making and long-term strategic initiatives.
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+3
+Personality requirements and skills
+Comprehensive benefits available throughout the year.
+Opportunity to work with modern, industry-leading technologies on diverse and engaging projects.
+Support for work-life balance and personal well-being.
+Opportunities for professional growth and skill development.
+Collaborative work environment with a strong data-driven mindset.
+Team events and company-wide social activities.
+Advertiser
+Brief description of the company
+Creative HR Group with strong focus on INNOVATIVE solutions.
+Founded in 2012, WE act as an interface between HR and PERSONAL MARKETING, EVACUATING STEREOTYPES by designing a new local BENCHMARK SPOT.
+Together with OPINION LEADERS in our NETWORK we shape their vision and identify KEY TALENTS - the most important company assets within BRANDED CONTENT and owned CHANNELS.
+For more info, feel free track our web or FOLLOW OUR COMPANY:
+http://www.linkedin.com/company/baarco-&-tish-s-r-o-?trk=hb_tab_compy_id_3019154
+Baarco & Tish Team
+The company is a holder of a licence to offer recruitment services.
+Contact
+Contact person: Ing.  Fatima Kavčiaková
+Tel.:
++421908903414
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214922
+Dátum zverejnenia:
+11.1.2026
+2026-01-11
+lokalita:
+Bratislava
+Pozícia:
+Database Analyst
+,
+IT Analyst
+,
+IT Architect
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+Baarco & Tish s.r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

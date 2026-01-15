@@ -1,0 +1,69 @@
+Systems Engineer for Infrastructure Operations with a focus on Database Administration
+Enitech s. r. o.
+Place of work
+Vienna, Austria (Job with occasional home office)
+Contract type
+full-time
+Start date
+asap
+Wage (gross)
+From 4 500 EUR/month
+Information about the position
+Job description, responsibilities and duties
+- Joint responsibility for the smooth operation and further development of highly available systems in a comprehensive and modern IT landscape.
+- Support of multiple infrastructures (primarily Windows Server domains) with highly available database systems (Microsoft SQL Server). This includes provisioning, updating, and maintaining infrastructures, as well as being the first point of contact in case of errors and handling the analysis, prioritization, and resolution of the problem.
+- Continuous improvement of the infrastructures with regard to monitoring (e.g., checkMK), automation (e.g., PowerShell, C#), and standardization.
+- Regular contact with storage, virtualization, and security topics related to Windows
+- Testing and implementing state-of-the-art technologies enables further development in these areas.
+Company on whose behalf the position is being filled
+Machinery industry
+Machinery industry
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+German - Upper intermediate (B2)
+Personality requirements and skills
+- Operation, installation, configuration, and monitoring of servers and highly available MSSQL instances according to specifications and best practices
+- Configuration and monitoring of Always-On Availability Groups, MSSQL maintenance jobs, backup & restore, reindexing, etc.
+- Monitoring and optimization of performance in conjunction with application operation and development
+- Operation of Windows domains and their components: Active Directory, DNS, GPO, various failover clusters, RDS, PKI, etc.
+- Virtualization using VMware
+- Scripting/Programming: PowerShell, C#, or similar
+- Benefit: Monitoring using checkMK, experience with Jira/Confluence, project management
+- Team player
+- Professional communication
+- Strong analytical skills
+- Independent work ethic and commitment
+Advertiser
+Brief description of the company
+Enitech s.r.o., a member of the Dupres Group, was founded in 2010. We are an engineering firm providing services in the field of engineering and information technology.
+The main activities of the company are IT consulting, outsourcing, information technology development and design services, targeting customers in the most dynamically developing sectors of the economy, such as automotive and aerospace, engineering, banking and telecommunications.
+Number of employees
+50-99 employees
+Contact
+Contact person: Ing.  Lucia Hollá
+Tel.:
+00421 905 540 764
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5213876
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Austria
+Pozícia:
+Systems Engineer
+Spoločnosť:
+Enitech s. r. o.
+Základná zložka mzdy (brutto):
+4 500 EUR/month

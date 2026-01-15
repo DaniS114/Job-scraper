@@ -1,0 +1,106 @@
+SLSP.sk
+Junior Server Specialist - Linux/VMware
+Reagovať na ponuku
+Miesto práce
+Tomášikova 3271/48, Nové Mesto
+Druh pracovného pomeru
+plný úväzok
+Platové podmienky
+2 000 EUR/mesiac
+*
+*
+Uvedená výška mzdy predstavuje minimálnu garantovanú sumu základnej zložky mzdy vzťahujúcej sa na uvedenú pracovnú pozíciu.
+Skutočná suma základnej zložky mzdy bude upravená v súlade s vašimi odbornými znalosťami a schopnosťami.
+Pracovná náplň:
+Zaujíma ťa správa Linux serverov, virtualizácia a infraštruktúra na enterprise úrovni? Chceš sa podieľať na vývoji moderných riešení, učiť sa nové technológie a byť súčasťou tímu, ktorý drží krok s najnovšími trendmi? Pridaj sa k nám a pomôž nám posunúť IT infraštruktúru na vyšší level!
+Čo bude tvojou hlavnou úlohou?
+Administrácia Linux OS (RHEL), VMware vSphere 8+ infraštruktúry.
+Riešenie komplexných problémov v multi-technologickom enterprise prostredí Linux/VMware
+Inštalacia, konfiguracia a aktualizácie Operačných systémov
+Riešenie servisných incidentov, požiadaviek a zmien
+Príprava príslušnej technologickej a prevádzkovej dokumentácie, jej správa a aktualizácia
+Podpora backupov vo virtualizovanom prostredí
+Poskytovanie technických konzultácií a know-how vo zverených oblastiach
+Podpora pri migrácii aplikačných riešení na novu infraštruktúru
+Úpravy a optimalizácia puppet scriptov
+Návrh, optimalizácia a ladenie podporných skriptov na správu prostredí
+Implementácia PaaS
+Ak si čerstvý absolvent s chuťou učiť sa a máš za sebou prvé skúsenosti z praxe popri štúdiu, si u nás vítaný – ak spĺňaš tieto požiadavky:
+SŠ s maturitou alebo VŠ v odbore Informačné technológie (I. alebo II. stupeň)
+Angličtina minimálne na úrovni B2 (intermediate)
+Základy v administrácii RedHat / CentOS v enterprise prostredí
+Znalosť HA riešení pre Linux
+Skúsenosti s: NFS, Samba, DNS, Apache, Sendmail/Postfix
+Shell scripting – bash, Python/Perl, PowerCLI...
+Znalosť security konceptov v podnikových prostrediach
+Skúsenosti navyše, ktoré ti dajú náskok:
+Skúsenosti s DevOps nástrojmi: Puppet, Ansible, GitLab
+Povedomie o virtualizačných technológiách: VMware vSphere, KVM, Hyper-V
+Znalosti zo sieťovej oblasti: TCP/IP Networking
+Skúsenosti s úložiskami: SAN, NAS
+Znalosť PaaS platforiem: OpenShift, Kubernetes, CloudFoundry
+Praktické skúsenosti s Terraformom v cloudovom prostredí AWS a Azure
+Skúsenosti s IaaS/PaaS riešeniami
+Monitoring systémov: Zabbix
+Práca s RedHat Satellite
+Paralelné filesystemy ako GPFS
+Nástroje vRealize Orchestrator a vRealize Operations Manager
+Zálohovanie vo virtualizovanom prostredí
+Znalosť ITIL metodiky
+Čo si u teba vážime okrem technických zručností:
+Silná motivácia učiť sa nové technológie a rásť
+Zodpovedný prístup, spoľahlivosť a chuť spolupracovať
+Dobre zvládnutý time management
+Schopnosť efektívne fungovať v tím
+Niečo navyše pre tvoju pohodu:
+Tvoju prácu u nás si vážime. Odmeníme ťa 13. platom a ročným bonusom.
+Extra money za úsilie navyše.
+Na kvalitné jedlo ti prispejeme 8€. Stravné hradíme v plnom rozsahu, a to aj v dňoch keď dovolenkuješ.
+Participuj aj na úspechoch banky, cez zamestnanecký program sa staň akcionárom, akcionárkou skupiny ERSTE.
+Chceme spolupracovať s ľuďmi, s ktorými radi tráviš čas. Odporuč nám nových kolegov a kolegyne, a my ťa odmeníme sumou až do 1000€.
+Urob si radosť, prispejeme ti na ňu 264€ ročne.
+Na to, aby si bol, bola na dôchodku finančne fit ti prispejeme do III. piliera až 840€ ročne.
+Pre lepšie vyváženie práce a súkromia alebo, aby si stihol dokončiť načaté aj doma:
+Dovolenkuj s nami až o 5 dní navyše.
+Voľný deň - pre rodiča budúceho prváčika pri jeho/jej prvom školskom dni, pri darovaní krvi, pri nadštandardnej zdravotnej prehliadke.
+Ťažkosti súkromné aj pracovné môžeš riešiť cez psychologickú podporu, prostredníctvom linky pomoci pre našich zamestnancov.
+Veríme, že v zdravom tele je zdravý duch, športuj s Multisport aj UpBalansea kartou.
+Tvoj zdravotný stav a stav tvojich blízkych ťa vďaka nám nezaskočí – využiť môžeš našu digitálnu ordináciu, ktorá ti je k dispozícií doma aj v zahraničí
+Vzdelávaj sa a dokončuj svoje štúdia, veríme, že ti v tom pomôžu workshopy, ktoré pripravujeme spolu s platformou SEDUO.
+Oddychovať môžeš aj vďaka „Lucky“ time.
+Nečakané výdavky nepočkajú do výplaty, máme pre teba PALM APP
+V Sporke sa všetci poznáme aj vďaka spoločným eventom, ktoré organizujeme
+Budúcnosť je Tvoja v Slovenskej sporiteľni!
+Kontaktné údaje:
+Mgr.  Dominika Majerčáková
+Slovenská sporiteľňa, a.s.
+Tomášikova 48, 832 37 Bratislava, Slovensko
+www.slsp.sk
+Všetky ponuky
+•
+www.slsp.sk
+Copyright © 2002 - 2014 Slovenská sporiteľňa, a.s.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214483
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Bratislava
+Pozícia:
+Softvérový inžinier
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Slovenská sporiteľňa, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

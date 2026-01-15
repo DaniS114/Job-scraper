@@ -1,0 +1,87 @@
+Pracovné ponuky
+O nás
+Kontakt
+UNIQA Data Platform Senior System Engineer - Azure & Databricks
+Remote work
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+dohodou
+Popis pracovnej pozície
+The position is based in Slovak Republic. Applicants must have a place of work in Slovakia.
+We want YOU! We are looking for a UNIQA Data Platform Senior System Engineer and Administrator for Azure and Databricks in our “EDM Customer and Platform” Group.
+We are set to innovate and grow UNIQA & Raiffeisen business with high quality and high value Data services. UITS data services are enablers of our business data use cases. The Data Team in UITS collaborates with business partners in Group Data and Analytics and Business Units in Austria and UNIQA International. Our services are manifold, consisting of governance of the Data platforms at our on-premises and at cloud datacenter providers, building and enhancing the UNIQA Enterprise Data Platform and ingesting a wide range of business data from AT and UI, building and sustaining Data Marts and providing a state-of-the-art tool stack for all disciplines in data.
+Purpose of this function:
+Installation, configuration and maintenance of the UDP Databricks Workspaces and its components on the Azure Cloud Platform.
+Managing the lifecycle and monitoring of cluster performance, resource utilization, and troubleshoot issues to ensure optimal performance and stable daily operations.
+Member of the platform operations team, providing technical support to Databricks users, including troubleshooting and issue resolution on Azure and Databricks.
+Determination to the requirements for operating and running systems, which process large data volumes from a variety of data sources.
+Supporting the solution architect and covering also some solution architect’s task, interface btw. the platform team and solution architects
+Applying the DevOps methodology and improvement of the routines and procedures
+Contributing to an agile team, which is committed to the fast delivery of high-quality results using technology stacks for Big Data development and operations in an international environment.
+Collaborating closely with delivery teams, you will grasp customer inquiries and requirements, ensuring solutions are tailored to meet both functional and technical needs.
+Čo ti ponúkame
+2 800 EUR/month
+Salary from 2800 EUR, 13th and 14th salary.
+Salary depends on the candidate's experience.
+Thanks to flexible working hours, at UNIQA GSC, you can arrange your day to suit your needs.
+For new colleagues, we have prepared a comprehensive welcome package.
+Every employee receives a daily meal allowance of € 9,30.
+We offer language courses in German and English , along with a diverse range of vocational training opportunities.
+A 13th and 14th salary is guaranteed for all UNIQA GSC employees.
+We contribute to the third pillar of the supplementary pension savings and also provide accident insurance coverage for our employees.
+We regularly organize events for employees such as Christmas parties, summer celebrations, sports days and more.
+Si ten správny kandidát?
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+5
+Personality requirements and skills
+We expect:
+• Minimum 3-5 years of experience in Azure Cloud platform technologies (networking, storage configuration, security, user management, service provisioning, troubleshooting)
+• Databricks Know-How and Databricks Platform admin experience, covering setup and ongoing administration of Databricks (on Azure preferred)
+• Proficiency in scripting (bash, Databricks CLI, Python, or similar) and shell commands (UNIX Shell, PowerShell, Azure commands)
+• Experience in the configuration of CICD and IaC (e.g. Azure DevOps, Terraform, Maven, GitHub Enterprise, Jenkins), Know-How in Networking & IT Security area as well as for Web-Service Interfaces (REST, SOAP)
+• Know-How in Job Scheduling & Job Automation (e.g. Automic, Airflow, or similar)
+• Excellent team player, able to work in a problem-solving agile environment
+• Good communication skills, self-organization and result orientation
+• Personal commitment, be motivated and willing to perform
+O UNIQA GSC
+UNIQA Group Service Center Slovakia, spol. s r.o.
+UNIQA Group Service Center Slovakia, spol. s r.o.,  je dcérskou spoločnosťou rakúskeho poisťovacieho koncernu UNIQA Group Austria. Firma sa člení na úseky Software Service (SWS), Cross-Border Service (CBS) a Back Office Service (BOS) a Nearshoring (NES).
+Prioritnou činnosťou úseku SWS je vývoj a údržba softvéru pre komerčné poisťovne patriace do skupiny UNIQA. Koncentruje sa najmä na systém INAS, ktorý je určený pre správu portfólia poistných produktov, poistných zmlúv a poistných udalostí, klientských, partnerských a účtovných údajov. V posledných rokoch sa dostáva do popredia vývoj moderných webových aplikácií nadväzujúcich na systém INAS.
+Úsek CBS, ktorý vznikol v roku 2006, sa zaoberá správou poistných zmlúv a likvidáciou poistných udalostí klientov rakúskeho poisťovacieho koncernu.
+Number of employees
+500-999 employees
+Contact
+Contact person: Ing.  Ingrid Vagačová
+Tel.:
++421904933679
+E-mail:
+send CV
+Poslať životopis
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5216281
+Dátum zverejnenia:
+13.1.2026
+2026-01-13
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+,
+Programmer
+Spoločnosť:
+UNIQA Group Service Center Slovakia, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/month

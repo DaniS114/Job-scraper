@@ -1,0 +1,84 @@
+We harness the power of tech to increase sustainability.
+How do you want to use technology?
+Android Developer
+Place of work
+Remote work
+Contract type
+full-time
+POSITION
+DESCRIPTION
+We’re looking for a Mobile Developer who will build secure, user-friendly wallet applications for Verifiable Credentials. You’ll collaborate closely with UX/UI designers, a Mobile Architect, and the back-end team, and you’ll work in an Agile setup (Scrum) with regular ceremonies.
+WHAT WILL
+YOU DO
+•	Implement mobile applications—specifically wallets for Verifiable Credentials.
+•	Work with UX/UI designers to bring high quality designs into production.
+•	Collaborate with the back end team to integrate and leverage backend services and APIs.
+•	Partner with the Mobile Architect to correctly implement and/or re use the Wallet SDK built in KMM.
+•	Participate in Sprint Planning and provide reliable estimates; attend daily stand ups and cooperate with the Scrum Master.
+•	Support QA throughout the testing cycle and fix defects promptly.
+WHAT WE
+EXPECT
+•	5+ years of experience in Mobile applications development
+•	Kotlin Multiplatform (KMM)—strong hands on experience; ability to share business logic across platforms and structure modules for reusability
+•	Android (Kotlin) development expertise (architecture patterns, coroutines/Flow, Jetpack libraries).
+•	Experience integrating SDKs and working with REST/GraphQL APIs; strong attention to reliability and security.
+•	Solid understanding of Agile practices (Scrum), estimation, and iterative delivery.
+•	Flutter experience (optional) for rapid prototyping or cross platform UI when appropriate.
+•	Knowledge of identity/wallet standards (DID, VC), cryptography basics, secure storage, and app hardening techniques.
+•	Experience collaborating with UX research and design systems.
+•	University degree in a Technology or Information Systems field
+•	Advanced English language (B2+)
+WHAT WE
+OFFER
+Salary
+2 800 EUR/month
+Accenture offers a competitive compensation package. As required by the Slovak law we state that the legal monthly minimum gross base pay starting from 2800EUR depending on your professional and personal qualifications in the required areas.
+Flexibility:
+• Flexible working arrangements (time & place of work)
+Recognition:
+• Guaranteed paid overtime or overtime vacation
+• German language bonus up to 400€ monthly/gross depending on language proficiency and level of seniority
+• Flexible Benefit System - budget to be spent on services of your choice
+• Competitive bonus structure
+• Refer-a-Friend – get a bonus in the employee referral program
+• Loyalty rewards
+Future:
+• Wide range of trainings and expert lectures
+• Regular performance review and career growth possibilities
+• Ongoing career guidance and mentoring (Global Mentoring Program, Lean In)
+• Employee share purchase plan
+Family & Health:
+• 3 extra days off
+• Sick leave salary compensation (up to 100%)
+• Home-office equipment
+• Family oriented benefits (Wedding, Parental and Baby days-off and bonuses)
+• Employee assistance services (professional psychological, financial and legal help)
+• Multisport card
+• Contribution to special vision correction appliances
+• Life and disability group insurance
+• Sport vouchers for children’s sport activities and children camps
+Interested?
+Apply for this job
+Similar career opportunities at Accenture
+NodeJS Developer
+ServiceNow Developer
+© 2020 Accenture. All Rights Reserved.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5213994
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Remote work
+Pozícia:
+Android Developer
+Spoločnosť:
+Accenture, s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/month

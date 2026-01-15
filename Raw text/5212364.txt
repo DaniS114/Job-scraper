@@ -1,0 +1,98 @@
+Home
+O Solar Turbines
+Kariéra
+Kontakt
+Voľné pozície
+EN
+SK
+Software Test Engineer (Cypress, MochaJS)
+Place of work
+Poštová 18, Košice, Slovensko (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 480 EUR/month
+Information about the position
+Join Solar Turbines!
+As a Software Test Engineer, you will contribute to quality assurance of software systems and/or applications.
+What will be your tasks?
+Responsibilities of the incumbents are to provide manual and/or automation testing of features and capabilities of platform and/or applications. These will be your tasks:
+Perform all testing, defect and test case management, and quality assurance assignments without close supervision – able to manage standard complex aspects of the work.
+Conduct all testing activities of new and existing software products.
+Capable to read and understand existing systems, regression, integration, performance, and user acceptance tests.
+Work directly on application/technical problem identification and resolution.
+Work independently on systems or infrastructure components that may be used by one or more applications or systems.
+Analyze business requirements to develop and execute manual and mainly automation test cases.
+Document software issues and defects in bug tracking software and monitor for the resolution.
+Coordinate with product owner to resolve open issues/enhancements/upgrades and understand the use of a specific functionality as needed.
+Communicate with end users and internal customers to help direct development, debugging, and testing of application software for accuracy, integrity, interoperability, and completeness.
+Perform integration testing and customer acceptance testing of components that requires careful planning and execution to ensure timely, quality results.
+Prepare test plans with clear scope, objectives, deliverables and risks identification.
+Track and report of quantitative and qualitative test result/metrics.
+Ensure testing is carried out in a timely, repeatable, and effective manner.
+Take over responsible for performing other job duties as assigned by your team leader.
+Who are we looking for?
+Basic qualifications:
+Position requires a four-year degree from an accredited college or university or applicable commensurate industry experience
+4 years or more of software testing experience (automation) or a master’s degree in computer science or related field.
+4 years or more of test automation framework design and development experience
+4 years or more of prior either functional or object-oriented coding experience in modern programming languages like JavaScript/TypeScript
+Development skills in of the following technologies: Cypress, MochaJS, Playwright
+Good command of English
+Top candidates will also have:
+Experience in planning, designing, developing, and maintaining API test automation framework that facilitates automation scripting, execution, and analysis of results
+Experience in test automation code for Continuous Integration (CI), Continuous Delivery (CD), of systems, infrastructure, and test framework
+End-to-end, system, and integration testing experience for software platforms
+Proven experience developing test scripts, test cases, and test data
+Strong experience in testing Webservices (REST APIs)
+The ability to write queries in SQL or other relational databases
+Experience testing full stack and integration testing with 3rd parties
+Experience in TDD, continuous integration, code review practice is strongly desired
+Experience with DevOps concepts and tools (e.g., CI/CD, Azure DevOps, Jenkins, Git)
+At least 4 years working on an Agile team with a solid understanding of Agile/Lean practices.
+Understanding of a micro service Architecture
+Experience load and performance testing
+Strong documentation skills
+Ability to adapt quickly to a complex environment
+Pro-active, flexible and creative
+Very strong communication skills and the ability to collaborate with developers and business users
+Ability to work independently and in a team environment
+ISTQB certified
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+Cypress - Advanced
+MochaJS - Advanced
+Software testing - Advanced
+Advertiser
+Brief description of the company
+Solar Digital as Customer Service group of Solar Turbines is the global organization responsible for InSight Platform technology and the relentless innovation of the entire ecosystem, capabilities, and customer user experience. Solar Digital is obsessively customer-centric with a passion for cutting edge technology. With deep expertise in cyber-security, machine data acquisition, software development, product knowledge, analytics, and regional teams around the world, it is dedicated to deliver digital solutions for Customer success.
+Main Mission is to provide world-class secure digital solutions for asset lifecycle management to ensure our customers success. Solar Digital is building better, smarter world through technology partnerships with its customers. Highest priority is to satisfy the customer through early and continuous delivery of valuable software and services.
+Contact
+Contact person: Victoria Petrenko
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5212364
+Dátum zverejnenia:
+7.1.2026
+2026-01-07
+lokalita:
+Košice
+Pozícia:
+IT Tester
+,
+Software Engineer
+Spoločnosť:
+Solar Turbines Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+3 480 EUR/month

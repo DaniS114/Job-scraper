@@ -1,0 +1,97 @@
+Prečo Alanata
+Otvorené pozície
+Benefity
+Naše riešenia
+Život v Alanata
+DevOps Engineer (M/Ž)
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac *
+* Uvedená mzda predstavuje minimálne platové ohodnotenie. Finálna mzda bude závisieť od tvojich platových očakávaní a skúseností.
+Popis pracovného miesta
+Hľadáme samostatného a technicky zdatného DevOps inžiniera, ktorý rozumie moderným prístupom k vývoju softvéru, vie prepojiť svet vývojárov, testerov aj infraštruktúry, aktívne sa zapája do tvorby procesov a prispieva k ich zlepšovaniu – od návrhu až po dokumentáciu a komunikáciu releasov.
+Čo bude tvojou úlohou?
+Budovanie a vývoj CI/CD platforiem s cieľom zrýchliť a zefektívniť nasadzovanie zmien do produkčného prostredia.
+Spolupráca pri návrhu releasovacieho procesu a jeho neustále zlepšovanie.
+Zodpovednosť za releasovanie na jednotlivé prostredia (vývojové, testovacie, produkčné).
+Tvorba a údržba dokumentácie – technickej aj používateľskej (napr. postupy nasadzovania, architektúra, konfigurácia).
+Príprava a publikácia release notes.
+Spolupráca s bezpečnostným tímom na podpore kultúry DevSecOps.
+Podpora vývojových tímov pri nastavovaní CI/CD pipeline-ov a riešení deployment problémov.
+Zabezpečenie stability a škálovateľnosti prostredia (kontajnery, orchestrácia, monitoring).
+Čo od teba očakávame my?
+Minimálne 3 roky skúseností ako Automation Developer alebo DevOps Engineer.
+Skúsenosti so skriptovaním (Bash alebo Python).
+Orchestrácia, kontajnery a resource management: OpenShift, Kubernetes, Docker.
+Znalosť nástrojov CI/CD (napr. Bamboo, Jenkins) a verzovacích systémov (Git, Bitbucket).
+Znalosť technológií ako: Kafka, Nginx, Nexus, JBoss
+Máš výhodu, ak máš:
+Skúsenosti s configuration management nástrojmi: Ansible, Chef, Puppet, Salt, Terraform.
+Znalosť agilného vývoja, DevOps princípov, code reviews, coding standards.
+Skúsenosti so správou monitorovacích systémov: Prometheus, Zabbix, Grafana, Elastic, Splunk.
+Čo ti ponúkame?
+Našim zamestnancom sa snažíme spríjemňovať spoluprácu s nami v štyroch oblastiach:
+WELL - BEING
+Multisport karta
+Dovolenka navyše
+Možnosť dochádzania do práce na bicykli – priestor na uloženie bicyklov a sprchy
+Online webináre v oblasti work-life-balance
+Flexibilný pracovný čas
+Možnosť práce z domu
+Podpora zdravého zraku
+Zabezpečenie pitného režimu na pracovisku
+FINAČNÉ BENEFITY
+ALANATA REFERRAL - odporuč kamoša/kamošku za finančnú odmenu
+Finančný príspevok na stravu v hodnote 6 EUR
+Darčekové kupóny v hodnote 120 EUR ročne
+Finančný príspevok pri pracovných výročiach
+Príspevok na doplnkové dôchodkové poistenie
+Pôžičky pre zamestnancov
+Zvýhodnený predaj tovaru partnerských firiem
+RODINA
+Príspevok pri narodení dieťaťa
+Príspevok pri uzavretí manželstva
+EVENTY & ZÁBAVA
+Mikulášske prekvapenie a vianočný darček
+Vianočná párty s koncertom
+Teambuildingy a papanice
+Športové aktivity
+Letné nanukové dni
+Mám záujem
+Staviame na ľuďoch
+Každé obdobie prináša nové výzvy, ale aj nové príležitosti. Veríme, že vďaka silnému tímu, skúsenostiam, profesionalite a spolupráci, dokážeme prekonávať všetky výzvy a pomáhať klientom, čo najlepšie využiť každú príležitosť.
+Zamestnávame najlepších odborníkov a náš tím neustále rozvíjame a posilňujeme o ďalších talentovaných ľudí, ktorí zdieľajú naše hodnoty a víziu.
+My sme Alanata – miesto, kde sa technológie spájajú s biznisom.
+Otvorené pozície
+Ak ťa žiadna pozícia nezaujala, ale chceš sa stať súčasťou nášho tímu alebo máš nejaké otázky, napíš nám na
+kariera@alanata.sk
+.
+Linked in
+Facebook
+Instagram
+Youtube
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5212782
+Dátum zverejnenia:
+7.1.2026
+2026-01-07
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Alanata a. s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

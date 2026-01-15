@@ -1,0 +1,90 @@
+Experienced QA engineer (automated testing)
+Excalibur s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+2 400 EUR/month
++ možná dohoda v závislosti od skúseností
+Information about the position
+Job description, responsibilities and duties
+This is a full-time work-from-home (inside of Slovakia) role for an experienced Automation Tester.
+Sub-contractors / working on invoice / agencies / free-lancers will not be considered.
+We are on the hunt for an experienced Software Tester, with at least 3 years of experience in the field of automated testing.
+If you are a cybersecurity enthusiast, at least know what MFA, PAM, IDM stands for and you are familiar with NodeJS, TypeScript, gRPC, React, Docker, k8s, MySQL, Micro-service architecture, then you are a perfect fit for us.
+As a player in our organisation, you will marry technical knowledge with automation and quality assurance skills to drive our cybersecurity solutions into the heart of our clients' operations.
+Fluency in English is a must.  TypeScript experience is also a must as our whole stack is written in it.
+Responsibilities
+Leading the creation of automated tests utilizing existing frameworks and best practices.
+Key contributor to the development process.
+Independent specialist in a scrum team.
+Review designs and documentation to provide timely feedback.
+Ensure product quality by focusing on user interface ease of use, accessibility, functionality, and performance.
+Qualifications
+Strong analytical and problem solving skills.
+Experience in development of test automation scripts.
+Experience working in agile environments.
+Experience with GitHub CI.
+Knowledge of test automation tools, e.g. PostMan, Selenium / Puppeteer / Playwright etc.
+ISTQB certification is nice to have.
+​
+Employee perks, benefits
+We offer
+A dynamic and international work environment with a team of experts passionate about protecting digital assets.
+Competitive salary package, in line with the critical nature of the role within our organization. (Better than market rate compensation)
+Continuous professional development opportunities to keep you at the forefront of cybersecurity advancements.
+Work from home / flexible working arrangements.
+Chance to grow to senior / management roles.
+Chance to work on a revolutionary product and make history!
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+computer science
+Language skills
+English - Intermediate (B1)
+Other knowledge
+TypeScript - Advanced
+NODE.JS - Advanced
+GitHub - Expert
+Test Driven Development (TDD) - Expert
+Unit Testing - Expert
+User Acceptance Testing (UAT) - Expert
+ReactJS - Skillful
+CI/CD pipeline - Expert
+Experience in the position/sector
+3
+Number of years of experience
+3
+Advertiser
+Brief description of the company
+Excalibur is a Slovak cybersecurity vendor of Privileged Access Management (PAM) solutions with integrated password-less mobile phone based Multi-Factor Authentication (MFA) currently branching out into the Web Application Firewall (WAF) and Remote Browser Isolation (RBI) segments. We utilizes the user’s smartphone to act as a secure hardware token for any and all authentication and authorization needs. The ultimate goal is to move all forms of authentication and authorization away from passwords, replace them seamlessly with smartphone-based strong but user friendly multi-factor authentication. Excalibur's unique value is in providing backward compatibility with all the applications, Operating Systems (OS) and services used today thus creating a bridge between the password-based present and password-free future.
+We are now aggressively expanding our team and looking to grow both in Slovakia and internationally. This is your chance to join our unicorn-in-the-making! :)
+For more info visit our homepage at https://getexcalibur.com or our LinkedIn page: https://www.linkedin.com/company/excalibur-s-r-o/
+Number of employees
+25-49 employees
+Contact
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+4882892
+Dátum zverejnenia:
+12.1.2026
+2026-01-12
+lokalita:
+Remote work
+Pozícia:
+IT Tester
+Spoločnosť:
+Excalibur s.r.o.
+Základná zložka mzdy (brutto):
+2 400 EUR/month

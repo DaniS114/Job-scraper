@@ -1,0 +1,107 @@
+Security Engineer
+Advantage Consulting, s.r.o.
+Místo práce
+Brno, Česko
+Druh pracovního poměru
+plný úvazek
+Mzdové podmínky (brutto)
+Od 40 000 Kč/měsíc
+Informace o pracovním místě
+Náplň práce, pravomoci a zodpovědnosti
+Hledáme
+Security / DevSecOps Engineera
+, který se bude podílet na budování bezpečného cloudového a aplikačního prostředí v rámci nového projektu evropského formátu. Pokud tě baví kombinace bezpečnosti, cloudu a automatizace, tahle role ti dá prostor mít skutečný dopad.
+Náplň práce:
+* Posilování bezpečnosti celého SDLC.
+* Integrace a správa security nástrojů v CI/CD (SAST, SCA, DAST, IaC scanning, container scanning)
+* Nastavování bezpečnostních baselines a automatizovaných kontrolních pravidel v pipeline.
+* Provádění security code review a poskytování konkrétních doporučení developerům.
+* Vedení threat modelingu nad novými službami a architekturami
+* Spolupráce s produktovými týmy na identifikaci rizik v rané fázi vývoje.
+* Přenos požadavků KII / NIS2 do technického designu.
+* Budování, správa a zlepšování zabezpečených IaC modulů (Terraform/Bicep).
+* Hardening Linuxu, kontejnerů a služeb (Docker, Kubernetes).
+* Implementace a provoz security služeb (secrets management, vulnerability scanning, audit/logging).
+* Podpora auditů a compliance (ISO 27001, NIS2, požadavky KII).
+* Příprava výstupů pro audity a technické vysvětlování bezpečnostních opatření.
+* Spolupráce na řešení bezpečnostních incidentů (Incident Response L2/L3).
+* Nastavování detekcí a logování bezpečnostních událostí
+Zaměstnanecké výhody, benefity
+Nabízíme
+* Podíl na novém projektu evropského formátu.
+* Pružnou pracovní dobu s možností home office.
+* 25 dnů dovolené.
+* 3 sick days.
+* Příspěvek na penzijní spoření.
+* Příspěvek na stravování (stravenkový paušál).
+* Účast na konferencích a podpora dalšího vzdělávání.
+* Firemní tarif zdarma a výhodné mobilní tarify pro rodinu.
+* Příspěvek na kartu MultiSport.
+* Wellbeingovou platformu Hedepy (hrazené terapie, koučink, rozvoj soft skills).
+* Drobné občerstvení a teplé nápoje na pracovišti.
+* Placené volno na dobrovolnictví.
+* Každý měsíc firemní snídaně.
+* Firemní akce, výjezdy a teambuildingy.
+* Zázemí moderních kanceláří v Brně – Cyber Security Hub na Šumavské
+Společnost, pro kterou je pozice obsazována
+Informační technologie, počítačové programování, webové portály
+Hledáme Security / DevSecOps Engineera, který se bude podílet na budování bezpečného cloudového a aplikačního prostředí v rámci nového projektu evropského formátu. Pokud tě baví kombinace bezpečnosti, cloudu a automatizace, tahle role ti dá prostor mít skutečný dopad.
+Požadavky na zaměstnance
+Pozici vyhovují uchazeči se vzděláním
+nástavbové/vyšší odborné vzdělání
+vysokoškolské I. stupně
+vysokoškolské II. stupně
+postgraduální
+Jazykové znalosti
+Anglický jazyk - Mírně pokročilý (B1)
+Osobnostní předpoklady a dovednosti
+Požadujeme:
+* 2–4 roky zkušeností v roli DevOps / Cloud / Security Engineer.
+* Výbornou orientaci v bezpečnosti cloudových platforem (Azure / AWS / GCP).
+* Zkušenost s CI/CD nástroji (GitHub Actions, GitLab CI).
+* Praktické zkušenosti s IaC (Terraform, Bicep).
+* Dobrou znalost Linuxu a kontejnerových technologií (Docker, Kubernetes).
+* Schopnost psát skripty (Python výhodou).
+* Cit pro bezpečný software i infrastrukturu.
+* Ochotu převzít ownership technických security oblastí
+Výhodou
+:
+* Zkušenost z prostředí KII, energetiky nebo jiného regulovaného prostředí.
+* Znalost bezpečnostních standardů (OWASP ASVS, CIS Benchmarks).
+* Zkušenost se SIEM, audit loggingem a detekčními pravidly
+Inzerující společnost
+Stručná charakteristika společnosti
+Od roku 2002 pomáháme uchazečům o zaměstnání s jejich uplatněním na trhu práce. Vytváříme společnost, které si váží nejen klienti, zaměstnanci, ale i veřejnost.
+Zakládáme si na tom, že naši konzultanti jsou odborní partneři, kteří dokáží pomoci v oblasti kariérního života.
+Naše odborné divize se specializují na tyto obory: ICT, Engineering, Electro & Energo, Sales & Logistics, Finance, Chemistry a Manufacturing.
+Více než 1700 otevřených pracovních pozic v rámci celé České republiky naleznete na našich stránkách www.acjobs.cz.
+Těšíme se na případnou konzultaci s Vámi.
+Počet zaměstnanců
+50-99 zaměstnanců
+Kontakt
+Kontaktní osoba: Ing.  Eva Blatná
+Tel.:
++420778434003
+E-mail:
+poslat životopis
+Odpovědět na nabídku
+Doporučit nabídku známému
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5215744
+Dátum zverejnenia:
+12.1.2026
+2026-01-12
+lokalita:
+Brno
+Pozícia:
+DevOps Engineer
+,
+Programátor Python
+Spoločnosť:
+Advantage Consulting, s.r.o.
+Základná zložka mzdy (brutto):
+40 000 Kč/měsíc

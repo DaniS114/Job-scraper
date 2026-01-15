@@ -1,0 +1,148 @@
+DevSecOps Engineer
+CODERAMA s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 500 - 6 000 EUR/mesiac
+Základná mzda pri TPP je 3 500,- EUR. Pri kontrakte sa mzda pohybuje od 4 000,- do 6 000,- EUR.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ahoj,
+​som Marcel z CODERAMA a aktuálne hľadám skúseného
+DevSecOps Engineera
+, ktorý sa pridá k nášmu tímu a bude sa podieľať na projektoch zameraných na
+DevSecOps, Data Streaming a Open API
+.
+​Ak ťa baví automatizácia, bezpečnosť, cloudové a infraštruktúrne riešenia a chceš pracovať v agilnom prostredí s dôrazom na bezpečný SDLC, čítaj ďalej. ​
+Čo ťa čaká:
+práca na projektoch zameraných na
+DevSecOps, Data Streaming a Open API
+s uplatnením
+Agile a DevOps princípov
+naprieč celým SDL
+budovanie, údržba a optimalizácia
+CI/CD pipeline-ov
+pre rôzne prostredia (development, test, production) v úzkej spolupráci so softvérovými inžiniermi
+správa
+aplikačných a serverových certifikátov (TLS/SSL)
+vrátane nastavenia spoľahlivých procesov ich obnovy
+vývoj skriptov a
+automatizačných riešení
+na zlepšenie deploymentov, prevádzky infraštruktúry a správy kontajnerových platforiem
+podpora a realizácia iniciatív v oblasti
+DevOps a platform engineeringu
+neustále zlepšovanie a automatizácia
+SDLC procesov
+so silným dôrazom na bezpečnosť a compliance, poskytovanie technickej podpory
+interným používateľom a externým zákazníkom
+platformy
+návrh a implementácia
+security konceptov a kontrol
+(šifrovanie, autentifikácia, firewall pravidlá)
+spolupráca s vývojármi, analytikmi a architektmi v agilnom prostredí
+Čo od teba očakávame:
+skúsenosti s
+DevSecOps / DevOps
+rolou
+znalosť
+ELK stacku
+(Elasticsearch, Logstash, Kibana)
+skúsenosti s
+Git
+(ideálne GitLab) a so správou
+TLS/SSL certifikátov
+znalosť
+Kafka ekosystému
+prax so skriptovacími jazykmi (
+Bash, Python
+)
+dobrú znalosť
+Linux
+operačného systému
+skúsenosti s nástrojmi ako
+Nexus, SonarQube, Ansible, GitLab Runner
+(výhodou)
+orientáciu na automatizáciu, bezpečnosť a stabilitu systémov, schopnosť spolupracovať v agilnom tíme a samostatne riešiť úlohy
+Popri práci ťa čaká skvelý tím ľudí, ktorých môžeš stretnúť naživo v našich officoch v Bratislave, Žiline, Martine, a Banskej Bystrici. Ak však preferuješ online stretká úplne tomu rozumieme.
+V CODERAMA sa o teba dobre postaráme, tak ak chceš vedieť viac, napíš nám a my sa ti ozveme späť :)​
+Zamestnanecké výhody, benefity
+• Nadštandardné platové ohodnotenie
+• Možnosť kariérneho rastu a sebarealizácie
+• Možnosť rotácie medzi projektami
+• Práca v úspešnej spoločnosti a v priateľskom kolektíve
+• Podpora vzdelávania a sebarozvoja
+• Flexibilná pracovná doba
+• Možnosť pracovať odkiaľkoľvek
+• Žiadna byrokracia
+• Firemný hardware
+• Stabilita, takmer žiadna fluktuácia - ak už raz do CODERAMA prídeš, nebudeš chcieť odísť
+• Event kalendár plný športových a kultúrnych akcií, teambuildingov a iných aktivít
+• Práca spojená s cestovaním, tzv. Work & Travel
+• Pet friendly office
+• Psychologické poradenstvo, coaching a mentoring program
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+a
+Slovenský jazyk - Expert (C2)
+Ostatné znalosti
+DevOps - Pokročilý
+Linux - Pokročilý
+GitLab - Pokročilý
+CI/CD pipeline - Pokročilý
+TLS/SSL certificates - Pokročilý
+Prax na pozícii/v oblasti
+4
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+• Znalosť agilného vývoja
+• Chuť pracovať
+• Záujem učiť sa nové technológie a neustále sa odborne vzdelávať
+• Zodpovednosť za pridelené úlohy
+• Samostatnosť, ale zároveň aj tímovosť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+CODERAMA, s.r.o. je progresívny a inovatívny SOFTWARE HOUSE zaoberajúci sa vývojom komplexných enterprise riešení pre zákazníkov zo Slovenska a zahraničia ako sú ŠKODA AUTO, NOTINO, CRIF, KONICA MINOLTA, MOROSYSTEMS, MONET+, KISTLER, KOMIX, BRAVIDA, ČSOB, MEGAUBYTOVANIE.SK, DXC TECHNOLOGY, TELEKOM, INTERWAY, KROS, UNIQA, AVILOO, UNILABS SK a ďalších.
+Zákazníci na nás najviac oceňujú našu proaktivitu a poctivosť. Okrem vývoja zákazníckych riešení sme sa s nadšením pustili aj do vlastných projektov a už teraz sa nevieme dočkať ako ich uvedieme na trh.
+V CODERAMA je nás 170+ a neustále rastieme.
+Okrem Žiliny pôsobíme aj v Bratislave, Martine a Banskej Bystrici. Mnohí z nás pracujú aj REMOTE. Každý z nás je jedinečný a navzájom sa perfektne dopĺňame. Vieme tvrdo zamakať ale aj sa poriadne zabaviť.
+V CODERAMA si zakladáme na kamarátskom prístupe, tímovosti, poctivej práci, transparentnosti a slobode. Problémy riešime spoločne a aj úspechy oslavujeme spoločne. Ak sa chceš presvedčiť, že pracovať u nás je naozaj zážitok, príď nás kedykoľvek navštíviť.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Marcel Figura
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5213228
+Dátum zverejnenia:
+8.1.2026
+2026-01-08
+lokalita:
+Práca z domu
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+CODERAMA s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

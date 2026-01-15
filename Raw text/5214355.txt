@@ -1,0 +1,96 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Python Software Engineer - Automated Systems and Solutions
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 700 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+The Automated Systems and Solutions Department is seeking a talented individual to join our team in either Brno or Bratislava.
+As a member of the department, you will collaborate closely with malware researchers and analysts to develop cutting-edge solutions for handling massive volumes of incoming files. Your responsibilities will encompass designing systems for efficient file classification, building robust scanning services, and contributing to the development of ESET's threat intelligence product. In addition, you will have the opportunity to take ownership of new projects from inception to completion, based on specific requirements.
+This role offers a unique opportunity to work on a variety of projects, from enhancing existing products to creating innovative new solutions. You will be surrounded by experienced professionals who are passionate about their work, providing a stimulating and supportive environment for professional growth.
+The successful candidate will be part of a dynamic team working on challenging problems at the forefront of cybersecurity. You will have the chance to make a significant impact on the development of automated systems.
+Key Responsibilities
+Develop and continuously improve internal tools for researchers and detection techniques.
+Contribute to code review sessions and system architecture optimization.
+Engage in process automation to enhance efficiency and performance.
+Technologies
+Primary: Python, Kafka, MySQL or PostgreSQL, Redis, Jenkins, Docker, JIRA, Git
+Secondary: C#, ECS object storage, Kubernetes
+Candidate Profile
+We’re looking for middle-experienced software engineers with:
+Proficiency in Python and data processing.
+Experience with relational databases and Redis.
+Knowledge of C# is advantageous but not mandatory.
+Qualifications
+At least bachelor's degree or equivalent in Computer Science or Cybersecurity.
+At least 2 years of professional experience as a Python Developer.
+Basic proficiency in Linux, CI/CD (Jenkins), and container technologies (Docker, Kubernetes).
+Insights into computer security, network security, or reverse engineering are desirable.
+Why ESET?
+Impact millions of users globally with your work.
+Continuous learning and experimentation with cutting-edge technologies.
+Encouragement to innovate, share new ideas, and attend technical conferences.
+Join Our Mission
+At ESET, your expertise will not only drive technological progress but also uphold our commitment to secure advancement. If you’re eager to make a meaningful contribution in a role that fosters innovation and security, apply now and become part of our journey.
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5214355
+Dátum zverejnenia:
+9.1.2026
+2026-01-09
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Programmer
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

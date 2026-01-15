@@ -1,0 +1,85 @@
+Pracovné ponuky
+Pre uchádzačov
+O nás
+SK
+EN
+Full-Stack Developer
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 2 200 EUR/mesiac
+Reagovať
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+Všetky ponuky
+Náplň práce:
+- Vývoj profesionálnych webových aplikácií určených pre meteorológov a operatívnych predpovedárov
+- Implementácia backendovej časti aplikácií pomocou Node.js / NestJS
+- Vývoj vysoko interaktívnych frontendových komponentov v Angulari (TypeScript)
+- Spolupráca na vizualizácii a analýze meteorologických a klimatických dát
+- Údržba a rozvoj existujúcich aplikácií vrátane refaktoringu kódu
+- Riešenie chýb a incidentov v produkčnom prostredí v spolupráci so zákazníckou podporou
+- Aktívna účasť na návrhu technických riešení - dôraz na kvalitu, výkon a udržateľnosť kódu
+- Práca v medzinárodnom tíme na dlhodobých projektoch (nie „quick fixes“, ale skutočné riešenia)
+Požadujeme:
+Požiadavky na kandidáta:
+- Minimálne 3 roky profesionálnych skúseností s vývojom webových single-page aplikácií (frontend aj backend)
+- Pokročilé skúsenosti s backendovými frameworkami:NestJS, Express, Next.js
+- Práca s knižnicami ako Socket.io, Apollo/GraphQL, Passport
+- Skúsenosti s modernými frontendovými frameworkami a knižnicami:Angular (výhodou), React alebo Vue RxJS, NgRx, Leaflet alebo ochota sa ich naučiť
+Veľmi dobrá znalosť:
+- TypeScript / ES6+
+- Znalosť vývojárskych nástrojov a workflow:Git, NPM/Yarn, Angular CLI, NX, Webpack SASS / SCSS
+- Analytické myslenie a schopnosť riešiť komplexné problémy
+- Otvorená myseľ a ochota učiť sa nové technológie a doménu (meteorológia)
+- Schopnosť plynule komunikovať v anglickom jazyku (písomne aj ústne)
+Dalšie informácie:
+Benefity:
+- Priestor na odborný rast, certifikácie a učenie sa nových technológií
+- Komplexná zdravotná starostlivosť v súkromnej klinike
+- Masáže na pracovisku a cvičenie s trénermi
+- 1to1 hodiny angličtiny na pracovisku
+Zašlite nám svoj životopis v slovenskom jazyku a ak máte aj v anglickom jazyku. Viac podobných pozícií nájdete na https://www.grafton.sk/sk/job-search
+Reagovať
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+Všetky ponuky
+Na to, aby ste reagovali na túto ponuku,
+nepotrebujete životopis
+. Stačí len, keď vyplníte formulár.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5212384
+Dátum zverejnenia:
+7.1.2026
+2026-01-07
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT analytik
+,
+IT konzultant
+,
+IT tester
+,
+IT/Technical Support Specialist
+Spoločnosť:
+Grafton Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

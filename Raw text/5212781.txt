@@ -1,0 +1,133 @@
+Data Engineer
+CODERAMA s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 500 - 6 000 EUR/mesiac
+Základná mzda pri TPP je 3 500,- EUR. Pri kontrakte sa mzda pohybuje od 4 000,- do 6 000,- EUR.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ahoj,
+som Marcel z CODERAMA a do tímu hľadáme skúseného
+Data Engineera
+, ktorý sa pridá k nášmu tímu a bude sa podieľať na návrhu, implementácii a automatizácii
+end-to-end dátových riešení
+– od zberu a spracovania dát až po ich vizualizáciu a sprístupnenie biznisu.
+Ak ťa baví práca s dátovou infraštruktúrou, koordinácia technických riešení a spolupráca s analytickými aj biznis tímami, čítaj ďalej
+Čo ťa čaká:
+návrh, implementácia a automatizácia
+dátových tokov (ETL/ELT)
+– extrakcia, čistenie, transformácia a spracovanie dát
+tvorba a správa
+dátovej infraštruktúry
+(on-premise alebo cloud) pre dátové produkty
+analýza požiadaviek používateľov a návrh
+end-to-end dátových riešení
+(datasety, BI reporty, API, vizualizácie)
+návrh, implementácia a monitoring
+orchestrácie a automatizácie dátových procesov
+zabezpečenie
+kvality dát, dokumentácie a bezpečnosti
+pri práci s citlivými údajmi
+spolupráca s
+data analytikmi, data science a biznis tímami
+pri identifikácii dátových zdrojov
+v rámci vybraných projektov
+solution engineering a end-to-end IT dodávka
+spolupráca s ďalšími vývojármi, analytikmi a architektmi v agilnom prostredí
+Čo od teba očakávame:
+min.
+3–4 roky skúseností v oblasti data engineeringu
+skúsenosti s návrhom, implementáciou a správou
+dátových tokov (ETL/ELT)
+pokročilú znalosť
+SQL a relačných databáz
+( Oracle, PL/SQL veľkou výhodou)
+skúsenosti s
+batch aj realtime (streaming) spracovaním dát
+prax s
+BI nástrojmi
+(Power BI, Qlik, Tableau), znalosť
+CI/CD princípov
+skúsenosti s
+Unixom a skriptovaním
+skúsenosti v
+IT/Telco prostredí
+(znalosť OSK prostredia výhodou)
+Popri práci ťa čaká skvelý tím ľudí, ktorých môžeš stretnúť naživo v našich officoch v Bratislave, Žiline, Martine, a Banskej Bystrici. Ak však preferuješ online stretká úplne tomu rozumieme.
+V CODERAMA sa o teba dobre postaráme, tak ak chceš vedieť viac, napíš nám a my sa ti ozveme späť :)​
+Zamestnanecké výhody, benefity
+• Nadštandardné platové ohodnotenie
+• Možnosť kariérneho rastu a sebarealizácie
+• Možnosť rotácie medzi projektami
+• Práca v úspešnej spoločnosti a v priateľskom kolektíve
+• Podpora vzdelávania a sebarozvoja
+• Flexibilná pracovná doba
+• Možnosť pracovať odkiaľkoľvek
+• Žiadna byrokracia
+• Firemný hardware
+• Stabilita, takmer žiadna fluktuácia - ak už raz do CODERAMA prídeš, nebudeš chcieť odísť
+• Event kalendár plný športových a kultúrnych akcií, teambuildingov a iných aktivít
+• Práca spojená s cestovaním, tzv. Work & Travel
+• Pet friendly office
+• Psychologické poradenstvo, coaching a mentoring program
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+a
+Slovenský jazyk - Expert (C2)
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+• Znalosť agilného vývoja
+• Chuť pracovať
+• Záujem učiť sa nové technológie a neustále sa odborne vzdelávať
+• Zodpovednosť za pridelené úlohy
+• Samostatnosť, ale zároveň aj tímovosť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+CODERAMA, s.r.o. je progresívny a inovatívny SOFTWARE HOUSE zaoberajúci sa vývojom komplexných enterprise riešení pre zákazníkov zo Slovenska a zahraničia ako sú ŠKODA AUTO, NOTINO, CRIF, KONICA MINOLTA, MOROSYSTEMS, MONET+, KISTLER, KOMIX, BRAVIDA, ČSOB, MEGAUBYTOVANIE.SK, DXC TECHNOLOGY, TELEKOM, INTERWAY, KROS, UNIQA, AVILOO, UNILABS SK a ďalších.
+Zákazníci na nás najviac oceňujú našu proaktivitu a poctivosť. Okrem vývoja zákazníckych riešení sme sa s nadšením pustili aj do vlastných projektov a už teraz sa nevieme dočkať ako ich uvedieme na trh.
+V CODERAMA je nás 170+ a neustále rastieme.
+Okrem Žiliny pôsobíme aj v Bratislave, Martine a Banskej Bystrici. Mnohí z nás pracujú aj REMOTE. Každý z nás je jedinečný a navzájom sa perfektne dopĺňame. Vieme tvrdo zamakať ale aj sa poriadne zabaviť.
+V CODERAMA si zakladáme na kamarátskom prístupe, tímovosti, poctivej práci, transparentnosti a slobode. Problémy riešime spoločne a aj úspechy oslavujeme spoločne. Ak sa chceš presvedčiť, že pracovať u nás je naozaj zážitok, príď nás kedykoľvek navštíviť.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Marcel Figura
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5212781
+Dátum zverejnenia:
+7.1.2026
+2026-01-07
+lokalita:
+Práca z domu
+Pozícia:
+Softvérový inžinier
+Spoločnosť:
+CODERAMA s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

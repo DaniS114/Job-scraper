@@ -1,0 +1,60 @@
+Founding Engineer / Scientist
+MediSearch
+Place of work
+SKY PARK Offices, Bottova, Bratislava
+Contract type
+full-time
+Wage (gross)
+4 500 - 6 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+We are hiring for a founding member of the team at MediSearch. This is an exciting opportunity to work on improving a state-of-the-art medical question-answering system.
+We will also consider people with no job experience. We require that you work at least 50% of your time in-person in Bratislava, Slovakia.
+Company Description
+MediSearch (YC S23) is a search engine for medical information. We provide direct answers to medical questions based on trustworthy sources using LLMs.
+Role Description
+This is a full-time role for a Python developer at MediSearch. The role includes working on the cutting edge of medical question-answering. The main responsibility will be improving the core capabilities of MediSearch on various benchmarks and based on user data.
+The role will also include work on the MediSearch API. In particular, implementing new features for the MediSearch API and managing API deployments for various customers.
+This is an in-person role, based in Bratislava, Slovakia, with some flexibility for remote work, but will require significant on-site involvement.
+Qualifications
+Proficiency in Python
+Proficiency with ML frameworks, LLMs, embeddings, vector databases
+Experience with evaluating ML systems on benchmarks
+Strong motivation for working on challenging problems and in high-paced environments
+Experience in training and finetuning LLMs is a plus, but not a requirement
+Basic frontend experience is a plus but not a requirement. Preferably in Typescript + NextJS.
+Requirements for the employee
+Candidates with education suit the position
+Primary education
+Advertiser
+Brief description of the company
+MediSearch is an AI search engine for medical information. We provide direct answers to medical questions based on trustworthy sources using LLMs. See https://medisearch.io.
+Contact
+Contact person: Eduard Oravkin
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5215971
+Dátum zverejnenia:
+12.1.2026
+2026-01-12
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Programmer
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+MediSearch
+Základná zložka mzdy (brutto):
+4 500 EUR/month
