@@ -1,0 +1,85 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior DevOPS Engineer- Cloud Automation Engineering
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Our brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services.
+What will you do?
+PURPOSE:
+We are seeking an experienced and highly skilled
+Senior DevOps Engineer
+to join our innovative team.
+You will play a key role in operating and automating deployments within Telekom’s cloud infrastructures, including the Open Telekom Cloud (OTC) and Telekom Private Cloud (TPC/FCI). Your expertise will enable scalable, reliable, and efficient cloud operations that support our strategic digital initiatives.
+If you have a solution-oriented mindset and thrive on optimizing systems through automation, this role offers the challenge and impact you’re looking for.
+WHAT WILL YOU DO:
+Operate and automate deployments in cloud environments such as OTC and TPC/FCI.
+Leverage your knowledge of cloud technologies including Docker and Kubernetes to build and maintain scalable infrastructure.
+Develop and maintain CI/CD pipelines using GitLab CI to streamline software delivery.
+Automate scalable, repeatable processes through scripting in Shell, Python, or similar languages.
+Implement and manage monitoring solutions using tools such as Grafana, Prometheus, and the ELK Stack to ensure system reliability.
+Proactively identify optimization possibilities and implement improvements for cloud operations.
+Administer and troubleshoot Linux environments with a focus on performance and stability.
+You will succeed if you:
+Have hands-on experience working with the Open Telekom Cloud (OTC) or Telekom Private Cloud (TPC/FCI).
+Possess solid knowledge of cloud technologies like Docker containers and Kubernetes orchestration.
+Are proficient in operating and automating cloud deployments, especially with CI/CD tools such as GitLab CI.
+Have strong scripting skills for automation with Shell, Python, or equivalent languages.
+Have expertise in monitoring tools including Grafana, Prometheus, and the ELK Stack.
+Display a solution-oriented mindset and proactive approach to system improvements.
+Have very good knowledge of Linux environments, including administration, troubleshooting, and optimization.
+Communicate effectively in English, with German skills considered an advantage.
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Dana Dráčová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5217788
+Dátum zverejnenia:
+15.1.2026
+2026-01-15
+lokalita:
+Košice region
+Pozícia:
+Software Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 600 EUR/month

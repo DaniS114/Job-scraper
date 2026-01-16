@@ -1,0 +1,75 @@
+Senior QA Automation Engineer
+Moxymind s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Moxymind's vision is to create the best place to work for smart and talented people. We founded Moxymind in 2014 with the goal of making software testing better. We believe in innovation and progress. Better software, better world.
+We are looking for a skilled Senior QA Engineer to join our team on a long-term project in energy industry. Your main responsibility will be designing, developing, and maintaining automated tests with a strong focus on Cypress and TypeScript. You will work across both frontend and backend layers of the system and actively contribute to overall product quality, from REST APIs to the user interface. We are looking for someone who can think critically about test strategy and effectively
+translate manual test cases into meaningful automated coverage.
+As a Senior QA Automation Engineer with us you will:
+Design, implement, and maintain automated tests using Cypress (TypeScript).
+Perform frontend and backend testing.
+Develop and maintain REST API tests, including their use for mocking.
+Analyze existing manual test cases and convert them into effective automated tests, identifying key test objectives.
+Independently maintain and improve multiple test automation repositories.
+Develop, extend, and maintain a custom Cypress testing library.
+Identify, analyze, and troubleshoot bugs, including false-positive test results.
+Collaborate closely with developers through pull requests, code reviews, and feature branch workflows.
+Work with the JavaScript ecosystem and modern development tooling.
+Contribute to the stability, reliability, and continuous improvement of the test automation framework.
+You should have:
+Hands-on experience with test automation, ideally using Cypress and TypeScript.
+Experience with REST API testing.
+Knowledge of both frontend and backend testing approaches.
+Ability to sensibly transform manual test cases into automated tests and identify critical test scenarios.
+Solid understanding of the JavaScript ecosystem.
+Practical experience with Git (feature branches, pull requests, code reviews).
+Ability to work independently and take ownership of test automation solutions.
+Nice to have:
+Experience with Azure DevOps.
+Experience maintaining custom test libraries or automation frameworks.
+Background in working with complex test automation architectures.
+Zamestnanecké výhody, benefity
+Yearly budget for education
+Yearly budget for tech appliances
+Multisport card
+Flexible working hours
+Opportunity to work from home
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Moxymind's vision is to create the best place to work for smart and talented people. We founded Moxymind in 2014 with the goal of making software testing better. We believe in innovation and progress. Better software, better world.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Zuzana Skotnická
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5218266
+Dátum zverejnenia:
+15.1.2026
+2026-01-15
+lokalita:
+Práca z domu
+Pozícia:
+IT tester
+Spoločnosť:
+Moxymind s. r. o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

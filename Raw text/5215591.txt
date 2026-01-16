@@ -1,0 +1,114 @@
+PRACOVNÉ PONUKY
+O NÁS
+Senior Software Developer / Team Lead (ERP Systems)
+This position is being filled for the sister company Muehlbauer Automation s.r.o.
+Place of work
+Nitra
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+From 3 500 EUR/month
+Your final salary will be based on your experience
+Job description, responsibilities and duties
+Position Overview
+We are seeking an experienced Senior Software Developer with Team Lead responsibilities to join our engineering team focused on developing and enhancing our ERP (Enterprise Resource Planning) solutions. This role combines hands on Java development with leadership responsibilities, guiding a small team of developers and contributing to architectural decisions that shape our core business systems.
+Key Responsibilities
+Technical Development
+Design, develop, and maintain ERP modules using Java as the primary programming language.
+Implement high quality, scalable, and maintainable code following best practices and coding standards.
+Integrate ERP systems with internal and external applications (APIs, databases, industrial systems).
+Participate in system architecture design, code reviews, and technical decision making.
+Troubleshoot and resolve complex technical issues across the full software stack.
+Team Leadership
+Lead and mentor a team of software developers (2–6 people depending on project).
+Coordinate development tasks, manage workload distribution, and ensure timely delivery.
+Support team members through technical guidance, coaching, and performance feedback.
+Collaborate closely with Product Owners, Project Managers, QA, and stakeholders.
+Promote a culture of continuous improvement, knowledge sharing, and engineering excellence.
+Project & Process Responsibilities
+Participate in requirement analysis and translate business needs into technical solutions.
+Contribute to sprint planning, estimation, and agile ceremonies.
+Ensure documentation of system architecture, modules, and development processes.
+Work with QA to ensure high-quality releases and stable production environments.
+Support deployment, monitoring, and maintenance of ERP applications.
+Employee perks, benefits
+Attractive additional financial benefits such as holiday allowances and health bonus (1 extra salary)
+Flexible working times depending on the respective workplace
+Language courses payed by company (150 € / semester)
+Regular employee interviews for individual career advancement
+Multisport card
+Social benefits (weddings, births, work, life anniversaries)
+Employee events
+Meal vouchers valued at € 7.00 / day with the option of boarding in the company
+Private parking in front of the company
+Multisport card at discounted rate
+Meal vouchers valued at €7/day
+Possibility of workplace meals
+Teambuildings
+Travel bonus
+13th Salary
+Private parking
+Vitamins
+Social benefits: childbirth, wedding, life anniversary, work anniversary
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+Computer Science or Software Engineering
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+Jasmine (JavaScript testing framework) - Advanced
+Personality requirements and skills
+Required Technical Skills
+Strong proficiency in Java (Java 5+), including frameworks such as Spring, Spring Boot, Hibernate/JPA or other
+Experience with ERP or MES systems (development, customization, or integration).
+Solid understanding of relational databases (e.g., PostgreSQL, Oracle, MySQL).
+Experience with REST APIs, microservices, and distributed systems.
+Familiarity with CI/CD pipelines, version control (Git), and DevOps practices.
+Knowledge of manufacturing processes or industrial automation.
+Leadership & Soft Skills
+Proven experience as a Team Lead, Senior Developer, or Technical Lead.
+Strong communication skills and ability to collaborate with cross functional teams.
+Ability to mentor junior developers and support their growth.
+Strong problem solving mindset and ownership of deliverables.
+Ability to balance hands on coding with leadership responsibilities.
+Preferred Qualifications
+Experience with ERP platforms (e.g., OpenZ, or custom ERP solutions).
+Knowledge of message brokers (Kafka, RabbitMQ) or event driven architectures.
+Experience with containerization (Docker, Kubernetes).
+Background in Agile/Scrum environments.
+Bachelor’s or Master’s degree in Computer Science, Software Engineering, or related field.
+Muehlbauer Group Slovakia
+Novozámocká 233
+949 05 Nitra
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5215591
+Dátum zverejnenia:
+15.1.2026
+2026-01-15
+lokalita:
+Nitra
+Pozícia:
+Java Programmer
+,
+Personnel Manager
+,
+Process Engineer
+,
+Software Engineer
+,
+Team leader
+Spoločnosť:
+Muehlbauer Technologies s.r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

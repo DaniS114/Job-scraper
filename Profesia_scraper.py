@@ -115,7 +115,7 @@ while True:
     page_num += 1
     time.sleep(0.2)
 
-#Inaktiválás: amit most nem talált meg
+#Inaktiválás amit most nem talált meg
 if found_ids:
     df.loc[~df["job_id"].astype(str).isin(found_ids), ["active", "status"]] = [False, "inactive"]
 else:

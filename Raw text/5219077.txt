@@ -1,0 +1,92 @@
+O nás
+Benefity
+Aktivity siete
+Voľné
+pracovné
+pozície
+Kontakt
+Senior BackEnd Developer
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+Mzda pri TPP od 3000 EUR/mes. Brutto - v závislosti od profilu kandidáta. 
+V prípade živnosti od 200 EUR/MD v závislosti od seniority.
+V sieti Penta Hospitals vytvárame modernejšie medicínske prostredie nemocníc a polikliník. Spájajú nás spoločné hodnoty ako rešpekt, zodpovednosť a tímová práca. Pre nás je každý pacient priorita.
+Staňte sa našou súčasťou a prispievajte k zlepšovaniu kvality zdravotníctva na Slovensku.
+Náplň práce a zodpovednosť
+Do nášho agilného tímu v centrále Penta Hospitals International, najväčšej súkromnej siete zdravotníckych zariadení v strednej Európe (vyše 150 zdravotníckych zariadení, 20 000+ kolegov v 3 krajinách, www.pentahospitals.com) hľadáme skúseného samostatného BackEnd Developera, ktorý sa zaujíma o rozvoj digitálnych služieb určených pre zdravotníctvo.
+Spoločne sa sústreďujeme na plnenie biznis cieľov a tvorbu nástrojov, ktoré skutočne pomáhajú koncovým používateľom. Naše prinášajú "banking-like" zážitok s medicínskymi dátami, ako je objednávanie či recepty, a umožňujú rodinám zostať v spojení so svojimi ťažko chorými blízkymi v zdravotníckych zariadeniach. Pôsobíme na trhoch na Slovensku, v Česku a Poľsku, a našim cieľom je prinášať inovatívne riešenia všade, kde sme prítomní.
+Čo bude Vašou náplňou práce:
+návrh a vývoj serverových aplikácií a API v Node.js pomocou frameworku Nest.js,
+implementácia logiky a procesov podľa funkčných a technických požiadaviek (REST),
+práca s databázovými technológiami (PostgreSQL) a tvorba modelov / entity v TypeScripte,
+optimalizácia výkonnosti, ladenie kódu a riešenie vzniknutých incidentov v produkčnom prostredí,
+spolupráca na integračných scenároch s internými a externými systémami (napr. systém na autentifikáciu, platobné brány),
+kontinuálna údržba, refaktoring a zlepšovanie existujúcich riešení,
+účasť na agilných ceremóniách (daily stand-up, planning, review, retrospektíva) a aktívna komunikácia s front-end tímom a biznisom.
+Čo od Vás očakávame:
+pokročilú znalosť TypeScriptu a skúsenosti s Node.js (Nest.js),
+skúsenosť s navrhovaním a tvorbou RESTful API, vrátane správy autentifikácie a autorizácie,
+základnú orientáciu v SQL databázach a schopnosť navrhnúť databázové schémy
+výhodou je znalosť Angular Material, Capacitor JS alebo praktické skúsenosti s front-endom (aby ste vedeli lepšie spolupracovať s FE tímom),
+skúsenosti s verzovacím systémom Git a CI/CD nástrojmi,
+orientáciu v princípoch čistej architektúry, testovaní a písaní udržiavateľného kódu,
+schopnosť samostatne riešiť problémy, analytické myslenie a proaktívny prístup,
+tímového ducha, chuť učiť sa nové technológie a prispievať k zlepšovaniu procesov v tíme.
+Čo Vám ponúkame
+Svoju identitu nespájame len s prácou. Ponúkame Vám prácu v tíme digitálnych expertov na zdravotnícku oblasť, s ktorými môžete spoločne pracovať na skutočne zaujímavých projektoch, ktoré majú ozajstný presah a zmysel. Prácu v zohranom a priateľskom tíme dopĺňa flexibilita pracovného času, možnosť pracovať z domu ako aj možnosť práce na TPP či živnosť.
+Okrem toho sa môžete tešiť na:
+možnosť profesionálneho uplatnenia a kariérneho rastu
+odborné školenia a osobnostný rozvoj
+benefity zamerané na zdravie, rodinu, voľný čas a kultúru
+Benefity
+Kandidát by mal mať
+Vzdelanie
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT smer výhodou
+Hlavná oblasť pôsobenia spoločnosti
+Nemocnice, ambulantná lekárska činnosť, ostatná zdravotná starostlivosť
+Informácie o výberovom konaní
+Ďakujeme všetkým kandidátom za zaslanie životopisu. Kontaktovať budeme len vybraných kandidátov. Ďakujeme za porozumenie.
+Kontaktovať Vás bude
+Jana Palenčárová
+Tel.:
++421917152220
+E-mail:
+poslať životopis
+MÁM ZÁUJEM
+Našou víziou je stať sa prvou voľbou pre pacientov a inšpirovať ostatných, aby zlepšili zdravotníctvo v strednej a východnej Európe.
+www.procare.sk
+www.pentahospitals.sk/volne-pozicie
+Facebook
+LinkedIn
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5219077
+Dátum zverejnenia:
+16.1.2026
+2026-01-16
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Programátor
+Spoločnosť:
+Penta Hospitals SK, a. s.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

@@ -1,0 +1,95 @@
+Senior Automation Tester
+SYNOT Games SK s. r. o.
+Place of work
+Kalinčiakova 33, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+3 200 EUR/month
+Information about the position
+Job description, responsibilities and duties
+We are looking for a skilled Senior Automation Engineer to join our Bratislava-based team! As a Senior Automation Engineer, you will be responsible for designing and implementing comprehensive test automation strategies, creating and maintaining automated tests, and ensuring quality across our backend services and gaming products. You will work closely with developers, QA teams, and fellow testers to improve testing efficiency, establish best practices and experiment with AI testing tools. You will have the opportunity to drive the quality of our games, contributing to game design, providing useful feedback throughout the game development lifecycle and maintaining excellence of our products.
+Your daily tasks will include:
+Design and develop automated test scripts using Python, Robot Framework
+Execute automated tests and validate results in Azure DevOps CI/CD pipelines
+Test complex backend applications and microservices
+Work with MS SQL databases to prepare test data and validate test scenarios
+Identify, report, and track bugs and defects through Azure DevOps
+Close collaboration with developers, creative team, and fellow testers
+Lead and mentor junior/medior automation testers
+Continuously improve and optimize automated testing processes
+Employee perks, benefits
+Flexible working hours
+Hybrid work setup
+2 additional vacation days
+Fruit days
+Informal working atmosphere
+Multisport Card
+Referral program
+Bike storage with showers
+Expected date of completion of the selection process
+1.2.2026
+(there are still 16 more days)
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+Slovak - Proficiency (C2)
+and
+English - Upper intermediate (B2)
+Other knowledge
+Robot Framework - Skillful
+Experience in the position/sector
+5
+Number of years of experience
+5
+Personality requirements and skills
+Ability to design and write clear, maintainable manual test cases and automated test scripts
+Experience in testing complex software systems
+Good understanding of software development processes and lifecycle
+Ability to create and maintain detailed test documentation and procedures
+Strong logical thinking and analytical skills
+High attention to technical detail and edge cases
+Skills:
+SQL, Databases - Intermediate
+Any Programming Language - Python, C#, Java, JavaScript on
+Intermediate level for testing purposes
+API - Advanced
+TFS/Azure DevOps or Jira - Intermediate
+Git / Azure Repos - Advanced
+Postman or alternative - Intermediate
+Experience with automation frameworks such as RobotFramework, Tosca, Cypress, Selenium (hands-on experience required on some of them)
+Docker, Kubernetes- Basic understanding
+CI/CD Pipelines - Basic
+Advertiser
+Brief description of the company
+SYNOT Games SK is a Bratislava-based team of gaming enthusiasts, constantly keeping in touch with innovation and striving for perfection. With more than 30 years of previous experience in gaming, we create exciting new casino slots with remarkable visuals and state-of-the-art technological attributes. We are striving to always provide top-level quality to keep the players thrilled and entertained.
+As part of SYNOT Group we blend the tradition and experience with fresh and innovative approaches, together providing a full portfolio for both online and land-based operations. Our games are easy to integrate, infinitely engaging and available on multiple devices, platforms or languages.
+Contact
+Contact person: Mgr.  Nina Tašká
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5218087
+Dátum zverejnenia:
+15.1.2026
+2026-01-15
+lokalita:
+Bratislava
+Pozícia:
+IT Tester
+Spoločnosť:
+SYNOT Games SK s. r. o.
+Základná zložka mzdy (brutto):
+3 200 EUR/month

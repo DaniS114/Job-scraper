@@ -1,0 +1,92 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+DevOps Engineer
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 700 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are looking for a DevOps Engineer with at least 2 years of experience in DevOps practices to join our team.
+You will help us build, maintain, and optimize CI/CD pipelines and Kubernetes infrastructure. This role is perfect for someone who already has hands-on experience and is eager to grow their skills in automation, containerization, and deployment processes while collaborating closely with development and IT teams.
+Key Responsibilities
+CI/CD Pipelines: Assist in designing, maintaining, and improving CI/CD pipelines for internal projects.
+Kubernetes & Containerization: Deploy, configure, and manage Kubernetes cluster; maintain Docker images and registries.
+Infrastructure as Code: Work with IaC tools for automated infrastructure provisioning.
+Monitoring & Observability: Help integrate and manage monitoring tools (Grafana, Prometheus) to ensure system reliability and performance.
+System Administration: Administer Linux systems and support internal services.
+Security & Compliance: Collaborate on applying security policies and best practices.
+Collaboration: Work closely with development teams to streamline deployments and improve delivery processes.
+Required Experience
+2+ years of experience in DevOps or a similar role.
+Hands-on experience with CI/CD tools (GitLab CI, Jenkins, or similar).
+Basic to intermediate knowledge of Kubernetes administration and deployment.
+Proficiency in Linux system administration.
+Experience with Docker and containerization technologies.
+Scripting skills (Bash, Python) for automation.
+Understanding of security standards and best practices.
+Preferred Experience
+Familiarity with IaC tools (Terraform, Ansible).
+Experience with monitoring tools (Grafana, Prometheus, Zabbix).
+Knowledge of AAA systems (AD, freeIPA).
+Familiarity with Atlassian products (Jira, Confluence).
+Soft Skills
+Strong communication and ability to present ideas assertively.
+English proficiency (B1 or higher) for technical communication.
+Willingness to learn new technologies and methodologies
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5218534
+Dátum zverejnenia:
+16.1.2026
+2026-01-16
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Systems Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

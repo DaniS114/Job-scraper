@@ -1,0 +1,126 @@
+Automatizovaný tester
+Asseco Solutions, a.s.
+Miesto práce
+Galvaniho 19, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+Mzda môže byť dohodnutá aj vyššia, a to v závislosti od profesijnej kvalifikácie a skúseností.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme Automatizovaného testera – pridaj sa k nášmu tímu!
+Máš rád poriadok v kóde, automatizáciu radšej než manuálne klikanie a vieš, že dobrý test dokáže zachrániť deň (a niekedy aj release)?
+Staň sa
+kľúčovým členom tímu
+, ktorého cieľom je skrátiť čas testovania, zvýšiť testovacie pokrytie a zabezpečiť, aby sa chyby dostali von… ešte skôr než produkcia.
+Tvoja misia (ak ju prijmeš):
+Navrhovať, písať a udržiavať
+automatizované testy pre UI, API a E2E scenáre
+.
+Integrovať automatizované testy do
+CI/CD pipeline
+, aby testy bežali rýchlo, spoľahlivo a bez výhovoriek.
+Analyzovať výsledky testov, odhaľovať zlyhania a
+nahlasovať chyby skôr, než si ich všimne používateľ
+.
+Pripravovať
+prehľadné reporty o stave testovania
+(žiadne detektívne pátranie).
+Pripraviť a spravovať
+testovacie dáta
+, pre automatizované testy v spolupráci s DevOps, aby testy mali z čoho čerpať.
+Pravidelne udržiavať existujúce automatizované testy, aby nezostali v minulom release.
+Spolupracovať s vývojármi na
+zlepšovaní testovateľnosti kódu
+(lebo testovanie je tímový šport).
+Manuálne testovanie priebežne podľa projektového plánu
+KOHO HĽADÁME?
+Ideálne niekoho, kto:
+Má aspoň
+2 roky skúseností s automatizovaným testovaním
+.
+Vie si poradiť s programovacím jazykom ako
+C#, Java.
+Má praktické skúsenosti s nástrojmi a frameworkami ako
+Playwright, Postman, K6, Ranorex
+(alebo podobnými).
+Rozumie
+CI/CD konceptom a nástrojom
+(napr. Azure DevOps, Jenkins, GitLab).
+Pozná
+best practices a patterns
+v automatizovanom testovaní.
+Má
+analytické myslenie, zmysel pre detail, potrebný drive
+a chuť veci zlepšovať.
+Zamestnanecké výhody, benefity
+Dobre odvedenú prácu radi oceníme, preto okrem férového finančného ohodnotenia Ti ponúkame aj množstvo zaujímavých benefitov.
+Finančný príspevok na stravné nad rámec zákona
+Parkovacie miesto s príspevkom od zamestnávateľa
+Možnosť home office
+Flexibilný pracovný čas
+Multisport karta
+Dni voľna navyše na dobrovoľnícke akcie a okrúhle jubileá
+Preplatenie štartovného
+Odmena pri pracovnom jubileu
+Bonus za odporučenie nového kolegu
+Kids friendly office
+Dog friendly office
+Chillout zóna
+Moderné pracovné prostredie a priateľský kolektív
+Firemné akcie a teambuildingy, darčeky...
+Finančná výpomoc v prípade vážnej životnej udalosti
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+technické, IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Prax na pozícii/v oblasti
+2
+Počet rokov praxe
+2
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme Asseco Solutions.[:Soft}férová spoločnosť, ktorá vyvíja a dodáva špičkové informačné systémy. Na Slovensku a v Česku sme najväčším domácim producentom podnikových riešení a lídrom v inováciách v segmente HORECA.
+Naše riešenia denne využíva viac ako 20 000 používateľov a 4 200 firemných zákazníkov. Neustále sledujeme trendy, vedieme dialóg s partnermi a prinášame inovatívne produkty, ktoré pomáhajú firmám rásť. Sme súčasťou nadnárodnej skupiny Asseco Group, ktorá pôsobí vo viac ako 60 krajinách sveta a zamestnáva viac ako 33 000 ľudí. Sme tu už 35 rokov. A budeme tu ešte dlho.
+Počet zamestnancov
+150-199 zamestnancov
+Kontakt
+Kontaktná osoba: HR Asseco Solutions
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5218712
+Dátum zverejnenia:
+16.1.2026
+2026-01-16
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Frontend programátor
+,
+IT tester
+,
+Java programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Asseco Solutions, a.s.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

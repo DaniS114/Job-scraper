@@ -1,0 +1,79 @@
+Pracovné ponuky
+Pre uchádzačov
+O nás
+SK
+EN
+Full-Stack vývojár do projektov, ktoré sleduje celý svet
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 200 EUR/mesiac
+Reagovať
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+Všetky ponuky
+Pre nášho klienta - svetového lídra v oblasti meteorológie hľadáme skúseného Full-Stack developera, ktorý bude vyvíjať profesionálne webové aplikácie.
+Náplň práce:
+- Implementácia backendovej časti aplikácií pomocou Node.js / NestJS
+- Vývoj vysoko interaktívnych frontendových komponentov v Angulari (TypeScript)
+- Spolupráca na vizualizácii a analýze meteorologických a klimatických dát
+- Údržba a rozvoj existujúcich aplikácií vrátane refaktoringu kódu
+- Riešenie chýb a incidentov v produkčnom prostredí v spolupráci so zákazníckou podporou
+- Aktívna účasť na návrhu technických riešení - dôraz na kvalitu, výkon a udržateľnosť kódu
+- Práca v medzinárodnom tíme na dlhodobých projektoch (nie „quick fixes“, ale skutočné riešenia)
+Požadujeme:
+- Minimálne 3 roky profesionálnych skúseností s vývojom webových single-page aplikácií (frontend aj backend)
+- Pokročilé skúsenosti s backendovými frameworkami: NestJS, Express, Next.js a práca s knižnicami ako Socket.io, Apollo/GraphQL, Passport
+- Skúsenosti s frontendovými frameworkami a knižnicami: Angular, React alebo Vue RxJS, NgRx, Leaflet, alebo ochota sa ich naučiť
+- Veľmi dobrá znalosť programovania v TypeScript / ES6+
+- Znalosť vývojárskych nástrojov a workflow: Git, NPM/Yarn, Angular CLI, NX, Webpack SASS / SCSS
+- Analytické myslenie a schopnosť riešiť komplexné problémy
+- Otvorená myseľ a ochota učiť sa nové technológie a doménu
+- Angličtina minimálne B2
+- Znalosť geopriestorových modelov a protokolov (GIS) výhodou
+Dalšie informácie:
+Benefity:
+- Mesačné odmeny do 20 % základnej mzdy
+- Možnosť hybridného režimu – 2 dni v kancelárii, 3 dni práca z domu
+- Priestor na odborný rast, certifikácie a učenie sa nových technológií
+- Komplexná zdravotná starostlivosť v súkromnej klinike
+- Masáže na pracovisku a cvičenie s trénermi
+- 1to1 hodiny angličtiny na pracovisku
+Zašlite nám svoj životopis v slovenskom jazyku a ak máte aj v anglickom jazyku. Viac podobných pozícií nájdete na https://www.grafton.sk/sk/job-search
+Reagovať
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+Všetky ponuky
+Na to, aby ste reagovali na túto ponuku,
+nepotrebujete životopis
+. Stačí len, keď vyplníte formulár.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5218681
+Dátum zverejnenia:
+16.1.2026
+2026-01-16
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+Spoločnosť:
+Grafton Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

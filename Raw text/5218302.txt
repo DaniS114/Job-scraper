@@ -1,0 +1,87 @@
+Správca informačných systémov
+Ministerstvo vnútra SR
+Miesto práce
+Timravy 17, Banská Bystrica
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+1 626 EUR/mesiac
+PT 9 – generálny štátny radca - Tarifný plat + osobný príplatok, ktorý môže byť priznaný
+až do výšky 100 % platovej tarify v závislosti od kvality plnenia služobných úloh +
+percentá za prax v štátnej službe. Bližšie informácie na ústnom pohovore výberového
+konania.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pracovná náplň zahŕňa správu, inštaláciu a konfiguráciu databázových systémov, vrátane PostgreSQL, MariaDB, MongoDB a prípadne MS SQL, pričom je zabezpečovaná plynulá prevádzka a dostupnosť databáz. Súčasťou činnosti je monitoring, ladenie a optimalizácia výkonu databáz, správa databázových štruktúr, indexov a schém, ako aj tvorba a údržba dátových modelov a pravidiel integrity dát.
+Okrem databázovej správy sa pracovník podieľa na správe a údržbe informačných systémov a serverovej infraštruktúry, vrátane orchestrácie kontajnerových prostredí (Docker, Kubernetes), riešení technických problémov a zabezpečenia bezproblémového chodu systémov a kontajnerizovaných aplikácií. Zodpovedá za správu virtualizačných prostredí a operačných systémov, vrátane MS Windows, Linux a Unix, a dohliada na implementáciu a dodržiavanie bezpečnostných opatrení v rámci serverového prostredia a prevádzkovaných aplikácií.
+Pracovník ďalej zabezpečuje prevádzku sieťovej infraštruktúry dátových centier v pôsobnosti Ministerstva vnútra SR, s dôrazom na vysokú dostupnosť poskytovaných služieb, a koordinuje spoluprácu s celoštátnymi a medzištátnymi systémami. Súčasťou činnosti je aj prevádzka MPLS siete MV SR a dohľad nad jej stabilitou a bezpečnosťou, vrátane koordinácie s ďalšími relevantnými subjektmi pre zabezpečenie spoľahlivého a bezpečného fungovania siete.
+Zamestnanecké výhody, benefity
+5 dní dovolenky navyše,
+príspevok na doplnkové dôchodkové sporenie,
+pružný pracovný čas - ustanovený pracovný čas je 37,5 hod/týždeň,
+vzdelávanie a osobný rozvoj v danej oblasti –
+spolupráca s odborníkmi z celého svetaa navštevovanie/spolupráca s agentúrami a inštitúciami EÚ,
+možnosť absolvovať rekreácie v rezortných zariadeniach,školenia a vzdelávanie.
+Informácie o výberovom konaní
+CV v slovenskom jazyku prosíme zasielať na kontaktnú adresu uvedenú nižšie. Budú oslovení len tí uchádzači, ktorí spĺňajú požadované kritéria
+Miesto výkonu práce sa nachádza v Banskej Bystrici, Partizánska cesta 129.
+Predpokladaný termín ukončenia výberového konania
+15.3.2026
+(ostáva ešte 58 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Technické alebo IT.
+Jazykové znalosti
+Anglický jazyk - Začiatočník (A2)
+Ostatné znalosti
+Microsoft Word - Pokročilý
+Microsoft Excel - Pokročilý
+Vodičský preukaz
+B
+Osobnostné predpoklady a zručnosti
+analytické,
+koncepčné a strategické myslenie
+samostatnosť
+komunikačné zručnosti
+adaptabilita a flexibilita
+schopnosť a vôľa ďalej sa vzdelávať
+schopnosť zvládať stres a záťaž
+​PM IT výhodou (PRINCE2, PMP, CCNA), taktiež výhodou ovládanie backend prog.jazykov (Java, Python, C++) a nástrojov (Jenkins, GitLab, Docker, Kubernetes).​
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Ústredný orgán štátnej správy
+Kontakt
+Kontaktná osoba: JUDr.  Lenka Kmeťová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5218302
+Dátum zverejnenia:
+15.1.2026
+2026-01-15
+lokalita:
+Banská Bystrica
+Pozícia:
+DevOps Engineer
+,
+IT analytik
+,
+IT projektový manažér
+,
+IT tester
+,
+Softvérový inžinier
+Spoločnosť:
+Ministerstvo vnútra SR
+Základná zložka mzdy (brutto):
+1 626 EUR/mesiac
