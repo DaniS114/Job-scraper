@@ -1,0 +1,77 @@
+Senior Java Developer
+Multitude IT Labs (as part of Multitude Group)
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+3 500 EUR/month
+The stated salary represents the minimum level; the final amount will be adjusted based on the candidate’s individual skills and experience.
+Information about the position
+Job description, responsibilities and duties
+Responsibilities:
+Together with experienced team of Solution Architects and Tech Leadsdevelop financial productson latest technologies,
+Create high performance production solutions through code reviews via pull requests, high test coverage, static code analysis usingSonarQube, performance monitoring and analysis using Kibana and Elastic APM,
+Go extra mile, stay up to date with the latest trends in technologies,sharingknowledge with your team and not being afraidinsuggesting technical improvements.
+Employee perks, benefits
+We offer:
+At Multitude, we believe in empowering our employees to thrive personally and professionally. Here's what you can look forward to:
+A Truly Global Workplace – work with professionals from 40+ nationalities, bringing diverse expertise, perspectives, and a collaborative international culture,
+Hybrid & Flexible Work – we support work-life balance with remote work options and modern office spaces across Europe,
+A Culture of Growth – we invest in your future, offering LinkedIn Learning, mentorship, and professional development programs, including HiPo and leadership development initiatives to support career advancement,
+Financial Growth Opportunities – benefit from our share purchase matching program, allowing you to invest in your future with matched contributions and long-term financial rewards,
+Workation Program – work remotely from different countries for up to 2 months per year, experiencing new cultures while staying connected and productive,
+Extra Time to Recharge – enjoy 4 paid sick days per year to rest and recover when you need it,
+Stay Active – access to the MultiSport card to support your fitness and wellness goals,
+Company-provided laptop – for both professional and personal use, available for you to keep after 5 years,
+Up Benefia – choose the perks that suit you best with our flexible benefits system, giving you a set budget to spend on categories like fashion, wellness, dining, education, entertainment, and more...
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Expected skills and experience:
+Previous experience with development production systems using Java 11 and Spring ecosystem (Boot, REST, JPA, Data, Integration, Cloud, Security),
+Efficient coding, aware of patterns and anti-patterns, properly structured, testable, maintainable, easily comprehensible and well documented clean code,
+Knowledge of integrations, REST APIs, refactoring, secure coding, application performance monitoring and troubleshooting,
+Hands‑on experience designing and implementing asynchronous communication using message queues (e.g., JMS, RabbitMQ, ActiveMQ, or Kafka),
+Analytical and problem-solving skills needed to break down complex issues and visualize solutions,
+Being great teamplayer as well as working independently with solid English reading and writing skills.
+We will appreciate if you have:
+Familiarity with Microservice architecture, event sourcing, distributed systems and asynchronous communication, authentication,
+Basic knowledge of Kafka, Docker, Kubernetes, Camunda BPM, Kotlin, Liquibase, Kibana, Elastic APM, MySQL, PostgreSQL, MongoDB,ElasticSearch, Prometheus, Grafana,
+Hands on experience with development tools: IntellijIdea,Gitflow, SonarQube, Maven, Swagger, JIRA, GitHub.
+Advertiser
+Brief description of the company
+At Multitude, we’re more than just a listed European FinTech company—we’re a team driving financial innovation. We provide digital lending and online banking services that empower consumers, SMEs, and FinTechs to grow and succeed.
+Powered by our Growth Platform, we operate through three business units: Ferratum, offering seamless mobile banking for consumers; CapitalBox, providing flexible financing for SMEs; and Multitude Bank, supporting non-bank lenders and FinTechs.
+In 2024, we achieved €263.7 million in revenue and €20.2 million in net profit, reflecting strong financial growth. With 700+ employees across 25 countries, we’re shaping the future of finance in 17 markets. Founded in 2005 in Finland, Multitude is listed on the Frankfurt Stock Exchange (MULT).
+Number of employees
+500-999 employees
+Contact
+Contact person: Ladislav Kilian
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5221123
+Dátum zverejnenia:
+20.1.2026
+2026-01-20
+lokalita:
+Remote work
+Pozícia:
+Backend developer
+,
+Java Programmer
+Spoločnosť:
+Multitude IT Labs (as part of Multitude Group)
+Základná zložka mzdy (brutto):
+3 500 EUR/month

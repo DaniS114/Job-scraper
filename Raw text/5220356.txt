@@ -1,0 +1,112 @@
+O nás
+Voľné pozície
+Pre študentov
+Senior Data Scientist (m/ž)
+Miesto práce
+Bratislava
+Pracovný pomer
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky
+Od 2 900 EUR/mesiac (brutto)*
+Nástupná mzda závisí od individuálnych schopností a skúseností a je predmetom vzájomnej dohody.
+• Minimálna základná mesačná mzda vo výške
+2 900 EUR
+.
+• Ročná odmena do výšky
+20% z ročnej základnej mzdy
+za prvý rok a do
+30 % z ročnej základnej mzdy
+po prvom roku. Odmena sa odvíja od splnenia firemných a osobných cieľov, ktoré sú dohodnuté medzi zamestnancom a jeho nadriadeným.
+• Za prvý rok môžete získať ročnú odmenu do výšky
+6 960 EUR
+, po prvom roku do výšky
+10 440 EUR
+.
+•
+13. a 14. plat
+, spolu do výšky vašej základnej mesačnej mzdy, na základe podmienok kolektívnej zmluvy.
+Poďte s nami tvoriť digitálnu budúcnosť energetiky. Pracujeme na jedinečných projektoch, ktoré menia spôsob, akým fungujú jadrové a vodné elektrárne. Máte skúsenosti s dátovou analytikou, strojovým učením, programovaním algoritmov alebo AI riešeniami? Pracovali ste s Pythonom, GPT, Azure, Databricks alebo Copilotom? Radi vás privítame v našom tíme, kde budete mať príležitosť podieľať sa na zavádzaní umelej inteligencie do našich systémov nielen v jadrových elektrárňach.
+Naše projekty:
+· Predikcia koncentrácie solí: Využívame historické dáta a predpovede počasia na presné predikcie množstva odluhov pre optimálne koncentrácie minerálov v chladiacich vežiach, čo pomáha ekologickejšiemu fungovaniu elektrární s použitím menej vody.
+· Interný chatbot: Interne sme vyvinuli a implementovali AI riešenie s využitím najnovších jazykových modelov na vyhľadávanie v interných dokumentoch a manuáloch, ktoré zamestnancom umožňuje rýchlo nájsť potrebné informácie.
+· AI klasifikácia pre údržbu: Automatické prideľovanie trendovacích kódov pre včasnú identifikáciu preventívnej údržby s využitím vlastných neurónových sietí.
+· Predikcia degradácie tepelných výmenníkov: Merania teploty a tlaku nám umožňujú predikovať degradáciu tepelných výmenníkov a plánovať údržbu podľa aktuálneho stavu zariadení, v roku 2025 sme tak vyrobili o 4,8GWh elektriny viac, čo je okolo 500 000 €.
+· Optimalizácia vlastnej spotreby: Na základe predpovede počasia a aktuálneho stavu elektrárne optimalizujeme nastavenie čerpadiel s vysokou vlastnou spotrebou, v roku 2025 sme tak ušetrili cez 300 000 €.
+Pracovná náplň
+· Architektúra, vývoj, monitorovanie a zabezpečenie prevádzky Machine Learning a AI riešení.
+· Spracovanie, analýza, vizualizácia a interpretácia údajov v oblastiach výroby elektriny, nákladov, nasadzovania zdrojov, údržby zariadení a prevádzkových procesov.
+· Tvorba analyticky podporených odporúčaní pre jednotlivé tímy a spracovanie návrhov procesných zlepšení na základe spracovaných údajov.
+· Poradenstvo a konzultácie ohľadom spracovania dát a dátovej vedy interným zákazníkom a konzumentom analytických údajov.
+· Definovanie návrhov dátových tokov a prevádzkového modelu dátových riešení s dátovými analytikmi a ICT architektmi.
+· Inovácie výrobných procesov a používanie moderných modelov na identifikáciu príležitostí na zlepšenie.
+Čo ponúkame
+Odmeníme vás
+13. a 14. platom
+, spolu do výšky vašej základnej mesačnej mzdy.
+Každý rok garantujeme
+zvýšenie mzdy až do výšky inflácie.
+Doprajte si
+týždeň dovolenky navyše
+na oddych a regeneráciu.
+Pracujte len 37,5 hodiny týždenne a získajte viac voľného času každý deň.
+Flexibilný pracovný čas.
+Prispievame až do
+600 EUR ročne
+na váš III. pilier DDS.
+1. október je u nás sviatok – užite si voľno alebo mzdové zvýhodnenie ako za prácu vo sviatok.
+Zabezpečíme vám príspevok na stravovanie aj počas dočasnej pracovnej neschopnosti.
+Oceňujeme vašu vernosť a dlhodobú spoluprácu finančnými odmenami.
+Poskytujeme finančnú pomoc v prípade dlhodobej práceneschopnosti.
+Investujeme do vášho vzdelávania a tréningov, aby ste mohli rásť a rozvíjať sa.
+Vítame inovácie a nové nápady, pričom o profit z nich sa delíme so zamestnancami, ktorí ich prinášajú.
+Finančná odmena za odporučenie nového kolegu alebo kolegyne.
+Podporujeme pravidelných darcov krvi a krvnej plazmy finančným príspevkom.
+Firemné akcie a teambuildingy.
+Sme Bike Friendly firma – máme k dispozícii sprchu a chránený priestor na bicykle.
+Poskytujeme odchodné pri odchode do dôchodku nad rámec zákona.
+Multisport karta a ďalšie zaujímavé výhody od našich externých partnerov.
+Koho hľadáme
+- Vysokoškolské vzdelanie II stupňa, najlepšie z odborov zameraných na informačné technológie a matematiku (FIIT STU, FEI STU, FMFI UK, FHI EUBA) .
+- Minimálne 5 rokov praxe na podobnej pozícií.
+- Počítačové znalosti:
+o Znalosť SQL a relačných databáz, Python – podmienkou.
+o Znalosť spracovania a transformácie dát z rôznych zdrojov – podmienkou.
+o Samostatné používanie prediktívnych a analytických štatistických metód – podmienkou.
+o Skúsenosti s Machine Learningom, vizualizačnými metódami a nástrojmi.
+o Skúsenosti s Data Mining, Data Collection a Data Validation – výhodou.
+o Skúsenosti s Power BI, MS Azure, GPT – výhodou.
+o Znalosť SAP – výhodou.
+o Skúsenosť s procesmi vo výrobe, prevádzke a údržbe – výhodou.
+- Skúsenosti s hĺbkovou analýzou, vizualizáciou a biznisovou interpretáciou, schopnosť pracovať na viacerých analytických projektoch dát.
+- Anglický jazyk na úrovni B2 slovom aj písmom.
+- Vodičský preukaz sk. B.
+- Bezúhonnosť.
+Túto pozíciu má na starosti
+Lenka Hornáčková
+Špecialista pre nábor a výber zamestnancov
++421 910 804 218
+Reagovať na ponuku
+ID:
+5220356
+Dátum zverejnenia:
+19.1.2026
+2026-01-19
+lokalita:
+Bratislava
+Pozícia:
+Business Intelligence Specialist
+,
+Databázový analytik
+,
+IT analytik
+,
+IT konzultant
+,
+Programátor
+Spoločnosť:
+Slovenské elektrárne, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 900 EUR/mesiac

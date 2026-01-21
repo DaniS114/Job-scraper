@@ -1,0 +1,113 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Senior Softvérový Inžinier (TypeScript + Node.js)
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto):
+Od 3 800 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+•	Senior individuálny programátor – očakáva sa technické líderstvo bez líniového manažmentu.
+•	Spolupracuje s ďalšími technickými kolagami  ( architekti, principal inžinieri) a musí obstáť v diskusiách o dizajne, architektúre a dodávke riešení.
+•	Pôsobí ako produktovo-technický expert (SME) pre danú doménu
+•	Návrh, vývoj a implementácia komplexných, backendovo orientovaných funkcií a služieb, ktoré sú jadrom produktu.
+•	Preklad biznisových a komerčných požiadaviek do kvalitných technických riešení, vývoj systémov a návrh implementačných plánov.
+•	Definovanie a presadzovanie inžinierskych best practices (kvalita kódu, dizajnové princípy, testovanie, observabilita, výkon).
+•	Formovanie a rozvoj end-to-end technickej architektúry naprieč viacerými doménami s API-first a multi-tenant prístupom.
+Technologický stack je všeobecne jazykovo agnostický, no aktuálna a plánovaná práca zahŕňa:
+o	aktuálne / budúce: najmä TypeScript + Node.js,
+o	existujúce / legacy systémy: PHP, Go.
+Silné očakávania v oblasti:
+o	API-first dizajnu a multi-tenant platformového myslenia,
+o	integrácie aplikácií a dát naprieč viacerými službami,
+o	používania moderných dizajnových princípov a vzorov (SOLID, GRASP, bežné dizajnové patterny).
+Skúsenosť s AWS / cloudom je veľkou výhodou – pochopenie toho, ako systémy bežia v produkcii, nielen ako sú naprogramované.
+Zamestnanecké výhody, benefity
+- podpora v oblasti školenia a vzdelávania
+- podpora športových a kultúrnych aktivít
+- stabilné prostredie a dobré medziľudské vzťahy
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: anna.spasova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná IT spoločnosť.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+programátor
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+-	stredoškolské vzdelanie s maturitou alebo univerzitné vzdelanie (technické, IT, ekonomické,..)
+-	znalosť anglického jazyka aktívnej úrovni
+Skúsenosti s dodávaním rozsiahlych, zákaznícky orientovaných softvérových systémov so silným dôrazom na backend/služby.
+Must have:
+•	skúsenosti s backend vývojom (preferované TypeScript/Node.js alebo podobný moderný backend jazyk ako Java, .NET/C#, Kotlin, Python, Go).
+•	Preukázateľné skúsenosti s dodávaním komplexných, zákaznícky orientovaných systémov vo veľkom meradle.
+•	Skúsenosť s API-first, multi-tenant a servisne orientovanou architektúrou.
+•	Schopnosť technicky viesť : vplyv na dizajn, roadmapy, mentoring a aktívne kódovanie.
+•	Dôkaz produktového myslenia – nielen implementácia podľa zadania, ale aktívne formovanie riešení s produktovými a obchodnými tímami.
+Nice to have:
+•	Skúsenosť s návrhom riešení v AWS/cloude a pochopenie infraštruktúrnych dopadov.
+•	Skúsenosť v prostredí, high-traffic spotrebiteľských platformách alebo podobne komplexných komerčných doménach.
+•	Predchádzajúca skúsenosť so zdieľanými/platformovými tímami obsluhujúcimi viacero produktových squadov.
+•	výhoda skúsenosť s LLM alebo modernými AI nástrojmi.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Anna Spasová
+Tel.:
++421 2 6241 3438, +421 911 525 022
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5219238
+Dátum zverejnenia:
+16.1.2026
+2026-01-16
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+IT architekt
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 800 EUR/mesiac

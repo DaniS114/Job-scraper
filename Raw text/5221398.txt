@@ -1,0 +1,99 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Azure Local Senior ICT Engineer for OS GmbH
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 1 850 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+We are looking for a senior technical expert responsible for the design, implementation, and operation of Azure local / on-premises and hybrid cloud solutions. The candidate will play a key role in supporting and optimizing on-premises and hybrid Azure environments, ensuring high availability, security, and performance of services.
+Team description
+Join the team at operational services GmbH within Deutsche Telekom IT Solutions Slovakia, offering opportunities for German- and English-speaking talents in Slovakia. OS is one of the leading ICT service providers in the German market and is considered the backbone of digitalization for medium-sized companies. With nearly 1,300 highly qualified employees, OS develops and operates state-of-the-art IT systems, ensures long-term system support, and maintains the availability of critical business processes.
+What will you do?
+Operate, maintain, and troubleshoot Azure local/on-premises infrastructure (2nd / 3rd level support).
+Ensure smooth operations and security of on-prem and hybrid cloud services in line with enterprise standards.
+Handle incident, change, and problem management tickets related to Azure local environments.
+Continuously improve the reliability, performance, and security of on-prem and hybrid Azure solutions.
+Collaborate with customers, vendors, and internal teams on local/hybrid cloud implementation projects.
+Support onboarding, training, and documentation for new Azure technologies.
+Participate in solution design, automation, and optimization initiatives.
+Work independently or as part of the team to implement and maintain secure Azure local/hybrid solutions.
+Deploy and manage Azure Stack, Virtual Networks, Storage Accounts, VMs, Azure Active Directory, and RBAC in on-prem or hybrid environments.
+Perform on-premises and hybrid cloud infrastructure configuration, management, and optimization.
+Conduct manufacturer/vendor training to maintain up-to-date expertise.
+Provide support and consultation for hybrid or multi-cloud deployments.
+You will succeed if you:
+Have at least 2–3 years of experience in cloud and infrastructure operations, including:
+2nd / 3rd Level Support knowledge in Azure local / hybrid environments
+Experience with Azure Storage, VMs, Networking, Active Directory, RBAC, and security governance
+Hands-on experience with scripting / automation (PowerShell, Azure CLI, Terraform) – advantage
+ITIL knowledge for incident/change/problem management
+Understanding of hybrid infrastructure and on-prem/cloud integration
+Strong analytical and troubleshooting skills
+Desired Certifications:
+• Microsoft Certified: Azure Administrator Associate (AZ-104)
+Microsoft Certified: Azure Solutions Architect (AZ-305) – advantage
+ITIL Foundation – advantage
+Languages:
+• English – Upper Intermediate (B2)
+German – Advantage (Nice to have)
+Other Criteria / Requirements:
+• Strong hands-on mentality, structured in planning and execution
+Experience in implementing Azure local/hybrid solutions in critical environments
+Strong team player with the ability to work independently
+Willingness to continuously learn and develop Azure and hybrid cloud competencies
+Possible specialisation
+Participation on on-call duties , independent solving and troubleshooting of incidents and errors within defined expertise
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 1 850 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lívia Tomečková
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5221398
+Dátum zverejnenia:
+21.1.2026
+2026-01-21
+lokalita:
+Remote work
+Pozícia:
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+1 850 EUR/month

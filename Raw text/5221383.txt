@@ -1,0 +1,140 @@
+Senior Backend Developer/ DevOps Engineer (Node.js / AWS)
+HOPIN, s. r. o.
+Place of work
+Nové záhrady I, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Start date
+now
+Wage (gross)
+3 500 EUR/month
+upper salary is depending on experience
+Information about the position
+Job description, responsibilities and duties
+We are looking for a
+Senior Backend Developer
+to help us develop, maintain, and
+own the backend and infrastructure
+of our applications for international clients. The ideal candidate is proactive, not afraid to bring new ideas, and actively shapes both the application
+and the underlying cloud infrastructure
+to deliver a best-in-class white-label solution for the transportation industry.
+Main Responsibilities
+Backend development and maintenance
+Ownership and management of cloud infrastructure (AWS)
+DevOps responsibilities and infrastructure administration
+Technical Skills
+Node.js – Expert
+Deep proficiency in Node.js, including asynchronous programming and event-driven architecture
+Strong experience with frameworks/libraries such as Express.js
+Solid understanding of error handling, logging, debugging, and performance optimization
+MySQL – Expert
+Strong understanding of MySQL database design, optimization, and management
+Proficient in writing efficient SQL queries, stored procedures, and database indexing
+Knowledge of database optimization techniques, normalization, and migration strategies
+Experience in setting up replication, backups, and disaster recovery is a plus
+Git – Expert
+Proficiency in Git for version control (GitHub, GitLab)
+Experience with CI/CD pipelines using tools (e.g., GitLab CI)
+Amazon Web Services (AWS) – Expert
+Ownership and responsibility for the entire AWS infrastructure
+Hands-on experience with EC2, Lambda, S3, RDS (MySQL), VPC, IAM roles, security groups, networking, and access policies
+Understanding of scalability, high availability, and monitoring (Auto Scaling, Load Balancers, CloudWatch)
+Experience operating and troubleshooting production AWS environments
+Infrastructure as Code & Containers – Expert
+Experience with Terraform for infrastructure provisioning and management
+Strong experience with Docker (containerizing applications, local & production usage)
+Familiarity with container-based deployment strategies
+Linux & Server Administration – Expert
+Solid Linux administration skills
+Experience managing servers, processes, logs, security updates, and performance
+Bash scripting experience is a plus
+Experience with pm2 or similar process managers is a plus
+Other Experience – Nice to Have
+Experience with unit testing, integration testing, and test automation strategies
+Profiling and optimizing Node.js applications and MySQL queries
+Understanding of caching strategies (Redis) and scaling Node.js apps on AWS
+Designing and developing RESTful or GraphQL APIs
+Integrating third-party APIs and authentication methods (OAuth, JWT, API tokens)
+Knowledge of best practices for clean code, API security, versioning, and documentation
+Soft Skills
+Problem Solving:
+Ability to analyze and resolve complex backend and infrastructure issues
+Communication:
+Clear communication with both technical and non-technical stakeholders
+Collaboration:
+Experience working in Agile/Scrum teams
+Adaptability:
+Comfortable working in a fast-changing cloud environment
+Attention to Detail:
+High standards for code quality, testing, and reviews
+Additional Nice-to-Haves
+Experience working on large-scale applications with high traffic
+Knowledge of Microservices Architecture
+Experience with event-driven systems (SQS, Kafka, etc.)
+Strong understanding of security best practices, encryption, and secure storage
+AWS Certifications (Associate or Professional level) are a strong plus
+Experience Level
+4+ years of backend development experience, ideally with Node.js
+Proven experience working with cloud-hosted environments and AWS infrastructure
+Employee perks, benefits
+We offer very competitive compensation and benefits package:
+• Education, Conferences, etc. - highly supported
+• Flexible work time
+• Home-office
+• Teambuildings
+• Laptop, Free taxi, Multi Sport Card, Cinema tickets
+• Offices in Bratislava
+Information about the selection process
+If you are interested in our offer send us your CV by e-mail.
+We will contact candidates who meet the requirements of the position.
+Expected date of completion of the selection process
+31.3.2026
+(there are still 68 more days)
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT
+Language skills
+English - Intermediate (B1)
+Other knowledge
+NODE.JS - Expert
+MySQL - Expert
+GIT - Expert
+Amazon Web Services (AWS) - Expert
+Linux - Expert
+Advertiser
+Brief description of the company
+HOPIN app was released in 2012 as the most popular taxi app in Slovakia. Today, HOPIN app is the easiest way of getting around in the city. Use HOPIN app and order a taxi without dispatch call, drive with luxury limousine, track public transport vehicles real time or see useful timetables. You also can buy a parking ticket and order a courier through the HOPIN app.
+Favourite transport app useful mainly in the city, downloaded by 900 000+ users, is available for smartphones running Android, iOS, older version of app is available also for WinPhone and BlackBerry smartphones.
+Number of employees
+10-19 employees
+Contact
+Contact person: Richard Lőrincz
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5221383
+Dátum zverejnenia:
+21.1.2026
+2026-01-21
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Programmer
+Spoločnosť:
+HOPIN, s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

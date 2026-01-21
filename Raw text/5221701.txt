@@ -1,0 +1,90 @@
+About us
+Our benefits
+Open positions
+Data Integration & BI Platform Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia, the base salary range for this position is between 3 800€ and 6 300€ for a full-time role.
+The specific salary offered considers:
+• the requirements, scope, complexity and responsibilities of the role
+• the applicant's own profile including education/qualifications, expertise, specialisation, skills and experience
+In the situation where you do not meet all the requirements or you significantly exceed these, the offered salary may be below or above the advertised range. In addition to your base salary, you may be eligible for additional rewards and benefits including an attractive performance-based annual bonus.
+Information about the position
+Job description, responsibilities and duties
+Are you interested in building and running the data integration and reporting platforms that support analytics across Swiss Re? Join our team and help evolve critical Azure Data Factory (Self-Hosted Integration Runtime) and Microsoft BI services so they stay reliable, secure, and easy to operate.
+About the role
+As a Data Integration & BI Platform Engineer, you’ll be a key technical contributor for SHIR and the MSBI stack (SSIS/SSRS/PBIRS) running on Windows. You’ll help keep the platform stable day-to-day while also improving how we monitor, change, and scale it.
+What you’ll do
+•	Own and evolve parts of the SHIR/MSBI platform architecture, standards, and roadmap
+•	Improve reliability through monitoring, SLO/SLI-style metrics, and continuous platform enhancements
+•	Support major incidents when they happen, helping with technical coordination and communication
+•	Manage changes and releases with clear validation and rollback practices
+•	Maintain practical documentation (runbooks, decisions, support guides) and share knowledge with support teams
+•	Prioritize technical work balancing stability, compliance, scale, and cost
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+What you bring
+•	Strong hands-on experience with Azure Data Factory SHIR (HA/scale-out, patching/versioning)
+•	Good experience with MSBI (SSIS/SSRS/PBIRS) including operations, security, and performance topics
+•	Solid Windows Server administration knowledge (services, patching, troubleshooting, access controls, certificates)
+•	Solid security fundamentals (RBAC, secrets, certificates/TLS, auditability)
+•	Automation skills (PowerShell and/or Python) and familiarity with CI/CD (e.g., Azure DevOps)
+•	Several years in platform/infrastructure/operations roles, with meaningful ownership of similar services
+Nice to have
+•	T-SQL troubleshooting and performance basics
+•	SSAS Tabular exposure, IaC (Bicep/Terraform), and/or Azure certifications
+•	Experience working with vendors and SLAs
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Denisa Bastos
+Apply here
+ID:
+5221701
+Dátum zverejnenia:
+21.1.2026
+2026-01-21
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+Database Analyst
+,
+IT Analyst
+,
+Systems Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

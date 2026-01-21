@@ -1,0 +1,164 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Lead Architect for Google Cloud (GCP)
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Our brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services.
+What will you do?
+Purpose
+As a Lead Cloud Architect, you are responsible for designing, governing, and evolving the enterprise-grade cloud architecture of the One Data Ecosystem (ODE) on Google Cloud Platform (GCP). You ensure platform stability, scalability, security, and compliance while enabling advanced data, analytics, and AI workloads.
+You act as a technical authority and strategic leader, working closely with Data & Analytics teams, business stakeholders, and international engineering teams to deliver a future-proof, secure, and highly available cloud platform.
+This role is critical to maintaining the stability and availability of the ODE_S environment and driving the successful migration from legacy architectures to GCP.
+About team and project
+You will be part of the Finance & B2B domain within the DATA TRIBE, contributing to the transformation of the enterprise data and cloud landscape within the One Data Ecosystem (ODE).
+Our mission is to:
+Migrate and modernize existing data and platform architectures to GCP
+Establish standardized, secure, and scalable cloud landing zones
+Enable data engineering, analytics, and AI teams with robust cloud foundations
+You will work in a future-oriented, agile, and international environment, collaborating across domains and geographies.
+WHAT WILL YOU DO?
+Cloud Architecture & Strategy
+Analyze the current (“As-Is”) cloud and data platform architecture, identifying risks, gaps, and optimization opportunities
+Design enterprise-scale GCP architectures that are scalable, resilient, secure, and cost-efficient
+Define cloud strategy, target architecture, and migration roadmaps for ODE workloads
+Establish cloud landing zones, VPC design, networking, and identity architecture
+Platform & Infrastructure Design
+Architect and govern GCP infrastructure using services such as:
+o    Compute: GKE, Cloud Run, Cloud Functions
+o    Data & Storage: BigQuery, Dataplex, Cloud Storage, Cloud SQL
+o    Messaging & Streaming: Pub/Sub
+o    AI/ML: Vertex AI
+Design and manage data platforms, data lakes, and analytics architectures
+Implement Infrastructure as Code (IaC) using Terraform for compliant, repeatable deployments
+Define standards for CI/CD pipelines and GitOps practices
+Security, Governance & Compliance
+Design and enforce cloud security architecture, including:
+o    IAM, VPCs, firewalls, VPNs, Cloud KMS
+Ensure compliance with GDPR and enterprise security standards
+Apply data protection concepts such as data classification, pseudonymization, and anonymization
+Define governance models for cloud resources, cost management, and access control
+Operations & Reliability
+Ensure platform stability, availability, and performance of the ODE_S environment
+Architect monitoring, logging, and observability solutions (Cloud Monitoring, Logging, Prometheus)
+Identify and resolve complex platform and infrastructure issues
+Prevent availability risks and operational bottlenecks
+Leadership & Collaboration
+Lead international and cross-functional teams of architects, engineers, and data experts
+Translate business and technical requirements into clear architectural designs and specifications
+Support presales, solution design, and strategic decision-making
+Mentor junior architects and engineers; establish architecture best practices and standards
+Document architecture decisions, patterns, and technical solutions thoroughly
+Required Qualifications
+10+ years of enterprise IT and cloud architecture experience
+5+ years of hands-on experience designing and implementing GCP solutions at enterprise scale
+Deep expertise in:
+o    GCP core services (BigQuery, Dataplex, GKE, Cloud Run, Pub/Sub, Cloud Storage, Vertex AI)
+o    Infrastructure as Code (Terraform, Cloud Deployment Manager)
+o    Cloud networking, IAM, and security architecture
+Proven experience architecting:
+o    Cloud platforms
+o    Data lakes, data warehouses, and analytics solutions
+Strong Kubernetes and container orchestration experience (GKE)
+Experience with CI/CD pipelines and Git-based workflows
+Proficiency in Python and/or shell scripting
+Strong stakeholder management and communication skills
+Fluent English
+Bachelor’s degree in Computer Science, Engineering, or equivalent experience
+Preferred Qualifications
+Google Cloud certifications (Professional Cloud Architect, Security Engineer, Network Engineer)
+Experience with AWS or multi-cloud architectures
+Experience with AI/ML platforms and Generative AI integrations
+Knowledge of Model Context Protocol (MCP) server implementations
+Experience in regulated industries (Finance, Healthcare, Manufacturing, Telecommunications)
+Proven experience leading and mentoring architecture teams
+You will succeed if you:
+Hold a Master’s degree in Information Technology, Computer Science, or a related field
+Have extensive experience in ICT analysis, architecture, and solution design
+Bring a strong background as a senior data professional or data architect in enterprise environments
+Possess deep knowledge of data architecture, data modeling (conceptual, logical, physical), and ETL / ELT patterns
+Have strong hands-on or design-level experience with SQL, Python, UNIX, GIT, and UML
+Are skilled in analyzing existing enterprise data landscapes and identifying architectural gaps, risks, and optimization opportunities
+Design scalable, stable, and maintainable data architectures aligned with business strategy and enterprise standards
+Define and maintain target data architectures, reference architectures, and architectural principles
+Translate business and technical requirements into clear architectural designs, standards, and technical specifications
+Establish and enforce data architecture guidelines, best practices, and design patterns
+Drive alignment with data governance frameworks, including data quality, metadata, and ownership models
+Lead and plan data migration strategies, especially on-premise or legacy systems to GCP
+Design cloud-native data platforms on GCP using services such as BigQuery, Dataplex, and Cloud Storage
+Ensure architectural consistency across hybrid and cloud environments
+Define and oversee testing strategies for data pipelines, integrations, and platforms
+Ensure non-functional requirements such as performance, scalability, reliability, and cost efficiency
+Guide teams in resolving complex data issues through structured root-cause analysis
+Collaborate closely with international and cross-functional teams, including data engineers, cloud architects, analytics teams, and business stakeholders
+Act as a technical lead and trusted advisor, supporting presales activities and architectural decision-making
+Mentor data engineers and junior architects, strengthening architectural maturity across teams
+Work effectively in agile environments, managing architectural requirements across the full project lifecycle
+Contribute to structured and transparent decision-making processes
+Prepare and maintain high-quality architecture documentation, including diagrams, standards, and architecture decision records
+Communicate clearly and confidently in German and English
+Apply data protection and privacy principles, including attribute classification, pseudonymization, and anonymization
+Ensure alignment with regulatory and enterprise compliance requirements (e.g. GDPR)
+OPTIONAL / NICE-TO-HAVE
+:
+Experience with enterprise-wide cloud data migrations, especially on Google Cloud Platform
+Expertise in end-to-end data platform and pipeline architecture
+Strong background in enterprise data modeling frameworks (e.g. dimensional modeling, Data Vault, domain-oriented models)
+Experience working closely with cloud platform, security, and infrastructure architects
+Exposure to multi-cloud or hybrid data architectures
+Experience in regulated industries such as Finance, Telecommunications, Healthcare, or Manufacturing
+Previous responsibility for architecture governance boards or design authorities
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Dana Dráčová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5220248
+Dátum zverejnenia:
+19.1.2026
+2026-01-19
+lokalita:
+Košice region
+Pozícia:
+IT Architect
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 500 EUR/month

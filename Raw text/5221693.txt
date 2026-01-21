@@ -1,0 +1,88 @@
+Dátový Analytik
+BILLDU LTD, organizačná zložka
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 2 200 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do Billdu hľadáme dátového analytika, ktorý vie z dát spraviť jasný príbeh a z príbehu konkrétne rozhodnutie. Niekoho, kto sa nebude len pozerať na grafy, ale bude sa pýtať „prečo sa to deje?”, „čo to znamená pre produkt a marketing?” a „čo spravíme ďalej?”.
+Máme základ, ktorý funguje. Teraz potrebujeme posun: lepší zber dát, lepší event design, konzistentné metriky, automatizované insights a reporting, ktorý je zrozumiteľný pre celý tím. Ak ťa baví nastavovať best practices a zároveň mať reálny dopad, toto je rola pre teba.
+​
+Čo budeš robiť?
+Produktová analytika a rozhodovanie
+- Budeš analyzovať správanie používateľov v aplikácii, funnel, activation, retenciu a hodnotu funkcií. Pomôžeš nám rozhodovať o prioritách a overovať, či zmeny reálne zlepšujú produkt.
+Marketingová a growth analytika
+- Budeš vyhodnocovať kanály a kampane, prepájať ich s produktovým správaním, sledovať CAC, payback, ROAS tam, kde to dáva zmysel, a prinášať praktické odporúčania, ktoré vieme rýchlo otestovať.
+Dátová infra a kvalita
+- Pomôžeš nám nastaviť zber dát a eventy tak, aby boli konzistentné, interpretovateľné a použiteľné naprieč tímami. Budeš strážiť kvalitu dát, definície metrík a dokumentáciu, aby sa každý pozeral na “tú istú pravdu”.
+Dashboardy, ad hoc analýzy a “weekly insights"
+- Budeš tvoriť prehľadné dashboardy a ad hoc analýzy pre produkt, marketing aj leadership. Chceme, aby si postupne zaviedol automatizovaný reporting a pravidelné weekly insights (kľudne aj s využitím AI workflows).
+Čo je na tejto roli atraktívne?
+Viditeľný dopad: tvoje odporúčania idú priamo do produktových a marketingových rozhodnutí. Nebudeš “reportovací servis”, ale analytický partner pre tímy.
+Široký záber: produkt, growth, event tracking, reporting, best practices
+Priestor veci nastaviť: máme funkčný základ, ale chceme systém, ktorý je robustný a škálovateľný
+Zamestnanecké výhody, benefity
+Pridáš sa k tímu, ktorý stojí za globálnym produktom a jednou z najúspešnejších success story zo Slovenska
+Ponúkame ti stabilné pracovné miesto s možnosťou čiastočnej práce z domu.
+Spravodlivé odmeny, príspevok na hardvér a vzdelávanie.
+Máme prostredie, kde môžeš naplno využívať svoj potenciál, s podporou na ďalšie vzdelávanie a neustály rozvoj.
+Dostaneš Multisport kartičku na športové aktivity a relax.
+Budeš mať k dispozícii Game room, silent room, relax zone a mnoho ďalších vychytávok pre tvoje pohodlie.
+Budeš mať prístup k platforme s 500+kurzmi a Blinkist premium account.
+A veľa teambuildingových aktivít :)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+Nepotrebujeme presný počet rokov praxe. Dôležitejšie je, že vieš pracovať samostatne, vieš si vyžiadať správne vstupy, a výsledok vieš odkomunikovať tak, aby bol pre tím použiteľný.
+Must-have skúsenosti s:
+Amplitude + event design
+RudderStack
+AppsFlyer a GA4
+SQL (MariaDB)
+BI nástroje: Metabase / Looker Studio / Power BI (aspoň jeden z nich veľmi dobre)
+AI workflow: automatizácia analýz a reportingu, weekly insights, dokumentácia
+Nice to have:
+Firebase
+Python
+Skúsenosť s migráciou na data warehouse / návrhom warehouse vrstvy
+Skúsenosť s mobilným vývojom
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Ak si sa dostal/a až sem, určite si si nás už vygooglil/a, ale v skratke sme aplikácia pre malých podnikateľov, ktorá im pomáha rýchlo a jednoducho vystavovať faktúry, sledovať výdavky, komunikovať so zákazníkmi a mať prehľad o svojom podnikaní kedykoľvek a odkiaľkoľvek. Nie sme korporát - veci testujeme, zlepšujeme a hýbeme dopredu rýchlym tempom. Hľadáme ľudí, ktorí sú „makers“ - chcú sa učiť, navrhovať a robiť zmysluplné veci.
+Chceš vedieť viac? Stiahni si našu appku a vyskúšaj si ju na vlastnej koži.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: HR
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5221693
+Dátum zverejnenia:
+21.1.2026
+2026-01-21
+lokalita:
+Bratislava
+Pozícia:
+Databázový analytik
+,
+IT analytik
+Spoločnosť:
+BILLDU LTD, organizačná zložka
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

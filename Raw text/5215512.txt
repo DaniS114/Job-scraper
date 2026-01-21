@@ -1,0 +1,93 @@
+Spoločnosť
+Tlačové
+centrum
+Spoločenská zodpovednosť
+Sponzoring
+Kariéra
+Kontakt
+O spoločnosti
+Kariéra
+Aktuálne pozície
+Centrála (Bratislava)
+Junior Data Engineer (m/ž)
+Junior Data Engineer (m/ž)
+Miesto výkonu práce:
+Pribinova 40, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Aká bude vaša rola v tíme
+Staňte sa súčasťou tímu CETIN Networks (sesterská spoločnosť O2 Slovakia), ktorá je vlastníkom a prevádzkovateľom telekomunikačnej siete O2.
+Aktuálne hľadáme novú posilu na pozíciu Junior Data Engineer, ktorá sa bude podieľať na návrhu, implementácii a prevádzke data pipeline a dataset využívaných pre analytiku, reporting a strojové učenie v oblasti sieťových dát (telemetria, KPI, alarmy, logy).
+Na tejto pozícii budete mať možnosť pracovať pod vedením skúsených kolegov a vaša práca bude mať priamy dopad na zlepšovanie kvality siete a používateľskej skúsenosti miliónov zákazníkov.
+Popis práce:
+Spolupráca na návrhu, implementácii a údržbe data pipeline pre štruktúrované aj neštruktúrované dáta (napr. logy, telemetria, KPI)
+Zber, transformácia a spracovanie dát z rôznych zdrojov pre potreby analytiky a strojového učenia
+Podpora vývoja a údržby kurátorovaných dataset (data mart) v rámci vrstvenej / medailónovej architektúry (raw, enriched, curated)
+Spolupráca na optimalizácii dátového spracovania z pohľadu spoľahlivosti, škálovateľnosti a výkonu
+Implementácia základných kontrol kvality dát a monitoringu data pipeline
+Úzka spolupráca s dátovými vedcami, analytikmi a senior data inžiniermi pri zbere požiadaviek a návrhu dátových riešení
+Tvorba a údržba prehľadnej technickej dokumentácie k data pipeline, dataset a súvisiacim procesom
+Čo od vás čakáme
+Vysokoškolské vzdelanie (ideálne v oblasti informatiky, matematiky, dátovej vedy alebo pod.)
+Prax s prácou s dátami (skúsenosti s nástrojmi na spracovanie, prenos a štruktúrovanie dát - študentské projekty, stáže alebo pracovné skúsenosti)
+Znalosť jazyka Python
+Základná znalosť SQL a práca s relačnými databázami
+Základné porozumenie konceptom dátového inžinierstva (ETL/ELT procesy, dátové pipeline)
+Základné porozumenie rozdielom medzi batch a stream spracovaním dát
+Skúsenosť s používaním Git (verziovanie kódu)
+Anglický jazyk – mierne pokročilý (B2)
+Analytické, technické a logické myslenie, dobré komunikačné zručnosti
+Výhodou je:
+Základná znalosť technológií ako Apache Kafka alebo Elasticsearch
+Skúsenosť s cloudovými platformami (Azure, AWS alebo GCP)
+Základné porozumenie sieťovým technológiám a telco oblasti (napr. sieťové KPI, logy, monitorovacie a observability nástroje)
+Čo vám ponúkame
+Základná hrubá mesačná mzda od: 2000€
+Okrem základnej mzdy môžete získať aj výkonnostný bonus v celkovej výške 10% ročnej základnej mzdy (podľa splnených cieľov)
+Vaša mzda však nemôže byť jednostranným rozhodnutím, ale bude určená na základe vašich znalostí a skúseností a preto sa s vami radi porozprávame na pohovore
+U nás navyše:
+Je lepšie raz vidieť ako 100-krát čítať. Našu atmosféru vám predstavia tie najpovolanejšie:
+https://www.youtube.com/watch?v=zH5bdpw7bd4
+Formality idú bokom. Komunikácia bez okolkov a otvorenosť je samozrejmosťou. Nepoužívame tituly, všetci si tu tykáme a to, že o sebe hovoríme, že sme priateľskí, nie je iba fráza – presvedčíte sa sami, keď sa stanete súčasťou našej kultúry, na ktorú sme právom hrdí.
+Flexibilný pracovný čas a model spolupráce umožňujúci prácu v office a čiastočne aj z domu
+Podporujeme záľuby našich kolegov prostredníctvom rôznych aktivít a projektov – u nás si na svoje prídu cyklisti, bežci, chodci, jogíni, kolobežkári, rodičia s deťmi, dobrovoľníci vo všetkých oblastiach, ale i záhradkári, amatérski cukrári či pekári, influenceri a blogeri a vlastne všetci ľudia s dobrým nápadom
+Telefón podľa vlastného výberu až do výšky 1200€
+Zamestnanecký paušál
+Zľavové promokódy na paušál pre blízkych a známych
+O2 Prázdniny – vieme, že niekedy sa pracuje nad 100% a preto ponúkame aj voľno navyše
+20 dní plateného voľna za každých 5 odpracovaných rokov
+Keď je človek chorý, má ostať doma - pomôže tým sebe aj kolegom a my mu PN-ku doplatíme
+Príspevok na stravné máme aj za dni neprítomnosti v práci
+Bude sa s vami rozprávať
+Katarína Šmindáková
+O2 Slovakia, s.r.o.
+Katarína Šmindáková
+O2 Slovakia, s.r.o.
+Zaujali sme vás?
+Poďme sa porozprávať
+© O2 Slovakia, s.r.o. Všetky práva vyhradené
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5215512
+Dátum zverejnenia:
+21.1.2026
+2026-01-21
+lokalita:
+Bratislava
+Pozícia:
+Databázový analytik
+,
+DevOps Engineer
+,
+IT analytik
+,
+Špecialista analýz a rozvoja prenosových sietí
+,
+Špecialista stratégie siete
+Spoločnosť:
+O2 Slovakia, s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

@@ -1,0 +1,92 @@
+Full Stack PHP vývojár
+Stengl a.s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+25 EUR/hod.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho interného tímu hľadáme skúseného Full stack PHP vývojára
+Tvojou úlohou bude najmä:
+programovať v natívnom PHP 8.4 ale aj vo frameworku v Laravel
+písať testy
+robiť codereview
+implementovať novú funkcionalitu a postupne prepisovať existujúcu do frameworku Laravel
+programovať frontend (html, css, js) responzívne s pomocou Boostrap framework
+pracovať s git a docker kontainermi
+Zamestnanecké výhody, benefity
+kurzy nemeckého a anglického jazyka,
+rôzne športové a relaxačno-regeneračné aktivity,
+200 eur na vlastne športové a relaxačno – regeneračné aktivity (len pri TPP),
+plne preplácané stravné (len pri TPP),
+príspevok na DDS (po 12. mesiacoch) (len pri TPP),
+bonusy pri jubileách vo firme (len pri TPP),
+bonusy pri narodení dieťaťa (len pri TPP),
+firemné akcie,
+2dni sick day ročne (len pri TPP),
+multisport karta.
+Ponúkame tiež:
+atraktívnu, rôznorodú prácu na zaujímavých projektoch,
+kvalitné technické vybavenie, vyspelú IT infraštruktúru,
+možnosť profesionálneho rastu,
+motivujúce finančné ohodnotenie s možnosťou pravidelného prehodnotenia,
+možnosť vzdelávania a výberu rôznych školení (hard skill / soft skill).
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+technické zameranie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Laravel (PHP framework) - Pokročilý
+SQL - Mierne pokročilý
+Docker - Základy
+GIT - Mierne pokročilý
+SVN - Mierne pokročilý
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+znalosť PHP,
+znalosť frameworku Laravel,
+znalosť princípov programovania,
+znalosť nástrojov na správu verzií, ako sú Git alebo SVN,
+znalosť databáz a SQL dotazov,
+skúsenosť s HTML, CSS, JS frameworkom Bootstrap
+aspoň základná znalosť Docker a kontajnerizácie
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+STENGL je IT konzultačná spoločnosť a súčasne softvérový dom, ktorý realizuje vlastné interné projekty ako aj projekty u zákazníkov, prostredníctvom skúsených IT expertov a odborníkov z rôznych doménových oblastí.
+STENGL je spoločnosť, ktorá má viac ako 25 ročné skúsenosti na slovenskom a českom trhu, ako aj v nemecky hovoriacich krajinách. Máme za sebou desiatky tisíc konzultačných a vývojových hodín pre našich klientov naprieč všetkými sektormi národného hospodárstva. Na Slovensku sme historicky jeden z najväčších poskytovateľov IT služieb pre klientov z nemecky hovoriacich krajín.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: HR
+Tel.:
++421903252331
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5220722
+Dátum zverejnenia:
+20.1.2026
+2026-01-20
+lokalita:
+Bratislava
+Pozícia:
+PHP programátor
+Spoločnosť:
+Stengl a.s.
+Základná zložka mzdy (brutto):
+25 EUR/hod.

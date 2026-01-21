@@ -1,0 +1,86 @@
+Senior Database Administrator
+Greentube Slovakia s.r.o.
+Place of work
+Laurinská 18, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+By agreement
+Wage (gross)
+From 3 900 EUR/month
+The salary will depend on the candidate’s experience and will be discussed during the recruitment process.
+Information about the position
+Job description, responsibilities and duties
+As a Senior Database Administrator, you play a
+crucial role
+in ensuring that our business-critical data is always available, secure, and reliable. From designing resilient architectures to troubleshooting performance issues, you’ll help keep our systems running smoothly, enabling the business to thrive with confidence in its data foundation.
+Your tasks
+Ensure database system availability in a 24×7 environment, including out-of-hours on-call support
+Design, implement, and maintain sound backup, recovery, and disaster recovery (DR) procedures
+Monitor and troubleshoot performance and concurrency issues to optimize database efficiency
+Install, configure, upgrade, and maintain multiple SQL environments following company standards and best practices
+Implement and maintain database security in line with corporate IT security guidelines
+Design and enhance database architecture and maintenance tasks, ensuring scalability and resilience
+Provide guidance on SQL Server internals to development teams and support application code releases
+Proactively identify potential issues and raise business awareness before they impact operations
+Employee perks, benefits
+We believe great work happens when people feel supported, inspired, and balanced. By supporting our employees, we create an environment where everyone thrives and reaches their full potential. That’s why we provide:​
+​​Possibility of regular home-office
+Flexible working hours
+Team-buildings
+Language courses
+Meal vouchers (fully paid by employer)
+Fruit, coffee, tea available in the office
+Informal and relaxed work environment
+Supporting your personal and professional development - the opportunities to attend in various trainings, courses, conferences or meetups
+"Refer a friend" benefit - the opportunity to receive a financial bonus when referring a friend for an open vacancy​​
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+5
+Personality requirements and skills
+Higher technical education (or equivalent experience)
+5+ years of experience as a SQL Server Database Administrator
+Solid expertise with SQL Server 2016/2019/2022 and Azure SQL
+Experience managing multi-terabyte databases and highly concurrent OLTP transactions
+Strong background in SQL Server administration: performance tuning & monitoring, backup strategies, capacity planning, user access & security, business continuity, and disaster recovery
+Familiarity with SAN storage, Windows, or PowerShell scripting is an advantage
+Experience with version control tools is a plus
+Passion for SQL Server internals and a continuous improvement mindset
+Advertiser
+Brief description of the company
+Greentube Slovakia is Greentube’s mobile branch and the industry’s first choice in providing B2B companies with casino games that run seamlessly on all platforms (desktop and mobile). Strong HTML5 competencies are the hallmark of this company: Greentube Slovakia is among the best of the best when it comes to transforming the famous games of the NOVOMATIC Group into high-quality mobile solutions. Players are eager to take their games with them wherever they might go, from the daily commute to a night out with friends, and Greentube Slovakia continuously delivers!
+Number of employees
+50-99 employees
+Contact
+Contact person: Jana Stankovičová
+Tel.:
++421904613943
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5221109
+Dátum zverejnenia:
+20.1.2026
+2026-01-20
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+Database Analyst
+Spoločnosť:
+Greentube Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+3 900 EUR/month

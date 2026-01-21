@@ -1,0 +1,97 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Security Monitoring Analyst
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 3 000 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. 
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are looking for a motivated and curious individual to join our Threat Defense R&D team as a Security Monitoring Analyst.
+In this role, you’ll help shape and evolve ESET’s security services and technologies, especially in the areas of threat hunting, incident response and EDR/XDR detection capabilities. You’ll work with cutting-edge tools and collaborate with some of the best minds in the field.
+As our team evolves, this role may expand to include leadership responsibilities, with the opportunity to lead and mentor a team of Security Monitoring Analysts.
+This position is also open for location: Prague, Brno or Košice.
+Functional Responsibilities and Duties
+Monitor and analyze global security threats and identify relevant events requiring attention.
+Formulate hypotheses and conduct threat hunting activities across assigned environments or on a global scale.
+Investigate security incidents, map attack paths and identify root causes.
+Participate in global incident response cases (e.g. MDR customers, research-related cases).
+Communicate findings and recommendations to internal teams and customers.
+Contribute to the enhancement of methodologies, processes and infrastructure supporting the delivery of security services.
+Prepare guidance and methodologies for MDR teams.
+Participate in research of real-world attack techniques and help design detection logic for global EDR/XDR platforms.
+Collaborate with Threat Research and Malware Analysis teams.
+Continuously learn and share knowledge with the team.
+Perform conceptual, systemic, creative and methodological activities.
+Carry out other tasks according to the instructions of the direct manager in accordance with the activities of the department and the company.
+Experience & Knowledge
+Experience with EDR/XDR and/or SIEM platforms.
+Background in threat hunting and incident response.
+Experience as a SOC security analyst (or in a similar role outside of a SOC) where the primary responsibility involved operating and evaluating outputs from security monitoring systems to identify and report potential threats is a strong advantage.
+Familiarity with forensic analysis, penetration testing or red teaming is an advantage.
+Solid understanding of the inner workings of Windows and Linux operating systems (processes, registry, file systems, services, etc.).
+Good understanding of networking technologies and principles (IP, ports, protocols, etc.).
+Basic scripting knowledge (PowerShell, Bash, Python, etc.) is a plus.
+Awareness of current trends and techniques in cybersecurity.
+English language on B2 level or higher (written & spoken)
+Soft Skills
+Strong analytical and problem-solving mindset.
+Proactive, curious and eager to innovate.
+Ability to communicate clearly and work collaboratively.
+Education & Certifications
+Degree in IT or cybersecurity-related field is an advantage.
+Certifications such as CEH, GCIH or similar are considered an advantage.
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5219144
+Dátum zverejnenia:
+16.1.2026
+2026-01-16
+lokalita:
+Bratislava
+Pozícia:
+IT Security Specialist
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

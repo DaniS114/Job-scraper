@@ -1,0 +1,77 @@
+OpenShift Administrátor, práca z domu
+NEEDLE RECRUITMENT s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 2 800 EUR/mesiac
+v záležitostí od skúseností +13. plat
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme talentovaných profesionálov, ktorí sa pridajú k nášmu tímu a pomôžu spravovať a rozvíjať platformy. Ak ste skúsený odborník v oblasti Kubernetes alebo OpenShift a hľadáte komplexnú rolu, kde budete mať na starosti celý životný cyklus riešení, ste na správnom mieste!
+Vaše úlohy:
+Inštalácia,      konfigurácia a prevádzka lokálne nasadených OpenShift prostredí.
+Správa      a údržba podkladovej hardvérovej infraštruktúry.
+Vývoj      a implementácia automatizačných riešení na optimalizáciu prevádzkových      procesov.
+Implementácia      a podpora monitorovacích a logovacích riešení pre klastre a aplikácie      (napr. Prometheus, Dynatrace, Splunk).
+Nastavenie      a údržba GitOps procesov pre kontinuálnu dodávku a správu infraštruktúry      (napr. ArgoCD).
+Riešenie      problémov a incidentov počas prevádzky.
+Účasť      na 24/7 podpore pre zabezpečenie plynulej prevádzky platformy.
+Spolupráca      s aplikačnými tímami pre stabilnú a vysokovýkonnú platformu.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Spoločnosť poskytujúca IT služby v bankovníctve.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+alebo
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+Kubernetes - Pokročilý
+Linux - Pokročilý
+Osobnostné predpoklady a zručnosti
+Hlboké      skúsenosti s administráciou Kubernetes, ideálne OpenShift.
+Skúsenosti      s inštaláciou a prevádzkou kontajnerových platforiem.
+Silné      znalosti Linux administrácie a správy hardvéru.
+Skúsenosti      s GitOps nástrojmi a procesmi (napr. ArgoCD).
+Znalosti      monitorovacích riešení (napr. Prometheus).
+Ochota      podieľať sa na 24/7 pohotovostnej službe.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Robíme špecializovaný na mieru šitý recruitment. Nájdeme aj ihlu v kope sena. Sme súčasťou globálnej recruitment platformy, čo nám umožňuje poskytovať služby na vysokej úrovni know-how a referencií.
+Kontakt
+Kontaktná osoba: Recruitment Consultant
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5219405
+Dátum zverejnenia:
+18.1.2026
+2026-01-18
+lokalita:
+Práca z domu
+Pozícia:
+DevOps Engineer
+,
+Správca informačného systému
+,
+Systémový administrátor
+Spoločnosť:
+NEEDLE RECRUITMENT s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

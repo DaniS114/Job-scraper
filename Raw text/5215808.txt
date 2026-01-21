@@ -1,0 +1,93 @@
+Spoločnosť
+Tlačové
+centrum
+Spoločenská zodpovednosť
+Sponzoring
+Kariéra
+Kontakt
+O spoločnosti
+Kariéra
+Aktuálne pozície
+Centrála (Bratislava)
+Junior Data Scientist (m/ž)
+Junior Data Scientist (m/ž)
+Miesto výkonu práce:
+Einsteinova, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Aká bude vaša rola v tíme
+Staňte sa súčasťou tímu CETIN Networks (sesterská spoločnosť O2 Slovakia), ktorá je vlastníkom a prevádzkovateľom telekomunikačnej siete O2.
+Ako Junior Data Scientist sa budete podieľať na vývoji a vyhodnocovaní riešení založených na strojovom učení a pokročilej analytike nad sieťovými dátami (telemetria, KPI, alarmy, logy, časové rady).
+Na tejto pozícii budete mať možnosť pracovať pod vedením skúsených kolegov a vaša práca bude priamo ovplyvňovať kvalitu siete a skúsenosť miliónov zákazníkov.
+Na tejto pozícii budete:
+Skúmať dátové zdroje, vykonávať základnú exploratívnu analýzu dát a pripravovať feature, so zameraním na časové rady a sieťové metriky
+Tvoriť a vyhodnocovať prediktívne a deskriptívne modely pomocou bežných ML techník pod vedením seniorných kolegov
+Spolupracovať na návrhu experimentov a jednoduchých A/B testov na overenie prínosu modelov a analytických riešení
+Podieľať sa na end-to-end ML workflow: príprava dát, tréning modelov, evaluácia, dokumentácia a odovzdanie riešení na nasadenie
+Podporovať uplatňovanie základných MLOps princípov, ako je verziovanie modelov, reprodukovateľnosť a základný monitoring
+Vytvárať prehľadné vizualizácie, notebooky a reporty na komunikáciu výstupov aj pre netechnických stakeholderov
+Monitorovať výkonnosť modelov a pomáhať pri identifikácii problémov, ako je data drift alebo concept drift
+Úzko spolupracovať s data inžiniermi, sieťovými expertmi a analytikmi pri pochopení problémov a ich preklade do data science úloh
+Čo od vás čakáme
+Vysokoškolské vzdelanie (ideálne v odbore informatiky, matematiky, dátovej vedy a pod.)
+Prax s prácou s dátami  (študentské projekty, stáže alebo pracovné skúsenosti v oblasti data science alebo strojového učenia)
+Znalosť jazyka Python a skúsenosti s bežnými data/ML knižnicami (napr. pandas, scikit-learn; základná skúsenosť s časovými radmi je výhodou)
+Porozumenie základným konceptom v oblastiach štatistiky, pravdepodobnosti a vyhodnocovanie modelov (train/validation/test split, cross-validation, základné metriky)
+Základná skúsenosť s feature engineeringom a predspracovaním dát
+Skúsenosti s vizualizačnými knižnicami (matplotlib, seaborn, Plotly) alebo BI nástrojmi (napr. Power BI, Tableau) sú výhodou
+Základná orientácia vo verziovaní kódu (Git) a notebookoch (Jupyter) a konceptoch nasadzovania ML riešení (API, kontajnery)
+Anglický jazyk – mierne pokročilý (B2)
+Analytické, technické a logické myslenie, dobré komunikačné zručnosti
+Výhodou je:
+Skúsenosť alebo záujem o časové rady, predikciu, detekciu anomálií alebo optimalizačné úlohy
+Skúsenosti s dátami zo sieťového / telco prostredia (KPI, alarmy, logy) alebo monitorovacími nástrojmi
+Znalosť základných princípov experimentálneho dizajnu a A/B testovania
+Základná skúsenosť s nástrojmi pre ML lifecycle (MLflow, Weights & Biases, DVC a pod.) alebo cloudovými ML službami (Azure, AWS, GCP).
+Čo vám ponúkame
+Základná hrubá mesačná mzda od: 2000€
+Okrem základnej mzdy môžete získať aj výkonnostný bonus v celkovej výške 10% ročnej základnej mzdy (podľa splnených cieľov)
+Vaša mzda však nemôže byť jednostranným rozhodnutím, ale bude určená na základe vašich znalostí a skúseností a preto sa s vami radi porozprávame na pohovore
+U nás navyše:
+Je lepšie raz vidieť ako 100-krát čítať. Našu atmosféru vám predstavia tie najpovolanejšie:
+https://www.youtube.com/watch?v=zH5bdpw7bd4
+Formality idú bokom. Komunikácia bez okolkov a otvorenosť je samozrejmosťou. Nepoužívame tituly, všetci si tu tykáme a to, že o sebe hovoríme, že sme priateľskí, nie je iba fráza – presvedčíte sa sami, keď sa stanete súčasťou našej kultúry, na ktorú sme právom hrdí.
+Flexibilný pracovný čas a model spolupráce umožňujúci prácu v office a čiastočne aj z domu
+Podporujeme záľuby našich kolegov prostredníctvom rôznych aktivít a projektov – u nás si na svoje prídu cyklisti, bežci, chodci, jogíni, kolobežkári, rodičia s deťmi, dobrovoľníci vo všetkých oblastiach, ale i záhradkári, amatérski cukrári či pekári, influenceri a blogeri a vlastne všetci ľudia s dobrým nápadom
+Telefón podľa vlastného výberu až do výšky 1200€
+Zamestnanecký paušál
+Zľavové promokódy na paušál pre blízkych a známych
+O2 Prázdniny – vieme, že niekedy sa pracuje nad 100% a preto ponúkame aj voľno navyše
+20 dní plateného voľna za každých 5 odpracovaných rokov
+Keď je človek chorý, má ostať doma - pomôže tým sebe aj kolegom a my mu PN-ku doplatíme
+Príspevok na stravné máme aj za dni neprítomnosti v práci
+Bude sa s vami rozprávať
+Katarína Šmindáková
+O2 Slovakia, s.r.o.
+Katarína Šmindáková
+O2 Slovakia, s.r.o.
+Zaujali sme vás?
+Poďme sa porozprávať
+© O2 Slovakia, s.r.o. Všetky práva vyhradené
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5215808
+Dátum zverejnenia:
+21.1.2026
+2026-01-21
+lokalita:
+Bratislava
+Pozícia:
+Databázový analytik
+,
+IT analytik
+,
+Špecialista analýz a rozvoja prenosových sietí
+,
+Špecialista stratégie siete
+Spoločnosť:
+O2 Slovakia, s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

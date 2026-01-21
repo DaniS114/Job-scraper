@@ -1,0 +1,99 @@
+O nás
+Benefity
+Aktivity siete
+Voľné
+pracovné
+pozície
+Kontakt
+DWH Administrátor
+Miesto práce
+Digital Park II, Einsteinova, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+Výška mzdy závisí od skúseností a súladu s našimi požiadavkami na pozíciu.
+V sieti Penta Hospitals vytvárame modernejšie medicínske prostredie nemocníc a polikliník. Spájajú nás spoločné hodnoty ako rešpekt, zodpovednosť a tímová práca. Pre nás je každý pacient priorita.
+Staňte sa našou súčasťou a prispievajte k zlepšovaniu kvality zdravotníctva na Slovensku.
+Náplň práce a zodpovednosť
+Penta Hospitals International je centrála najväčšej medzinárodnej siete nemocníc, polikliník a zariadení pre starostlivosť o seniorov v strednej a východnej Európe. Sieť pozostáva z 47 nemocníc a 57 polikliník, ako aj 54 zariadení pre starostlivosť o seniorov v Českej republike, Poľsku a na Slovensku. Zamestnávame 20 000 zamestnancov a naďalej rastieme.
+Ako DWH Administrátor budete zodpovedný za správu a optimalizáciu dátového skladu (Data Warehouse) založeného na Azure Synapse Analytics v prostredí reťazca nemocníc a polikliník. Vaša rola zahŕňa zabezpečenie spoľahlivej integrácie dát z viacerých zdrojov, monitorovanie výkonu, implementáciu bezpečnostných opatrení a podporu analytických tímov. Budete spolupracovať s DWH analytikmi, IT špecialistami a manažmentom na zabezpečení dátovej integrity v súlade s reguláciami ako GDPR a NIS2.
+Hlavné zodpovednosti
+•	Administrácia Synapse prostredia: Správa Azure Synapse Analytics vrátane Dedicated SQL Pools, Serverless SQL Pools a integrácie s Azure službami (napr. Azure Data Lake, Azure AD).
+•	Správa Synapse Pipelines: Návrh, vývoj a údržba ETL/ELT pipelines na integráciu dát z systémov ako HIS (Hospital Information System), CIS (Clinical Information System), ERP (Enterprise Resource Planning) a HRMS (Human Resources Management System). Riešenie problémov ako schema drift, zlyhania pipelines a optimalizácia výkonu.
+•	Optimalizácia výkonu a škálovateľnosti: Monitorovanie a tuning queries, distribúcia tabuliek (HASH, ROUND_ROBIN, REPLICATE), implementácia materialized views, workload management a auto-scaling DWU.
+•	Zabezpečenie a compliance: Implementácia security features ako dynamic data masking, row-level security (RLS), encryption (TDE), RBAC a data classification. Zabezpečenie súladu s GDPR, MDR a štatistickými požiadavkami ÚVZ SR a MZ SR.
+•	CI/CD a release management: Správa kontinuálneho vývoja a integrácie (CI/CD) cez Azure DevOps, Git a ARM templates. Pôsobenie ako release manager pre nasadenie zmien (blue-green deployments, rollback plány) bez výpadkov.
+•	Monitorovanie a troubleshooting: Používanie Azure Monitor, Synapse Studio a Security Center na detekciu problémov, nastavenie alertov a prevenciu incidentov.
+•	Spolupráca a podpora: Podpora analytických tímov pri integrácii nových zdrojov (napr. LIS), audit dátovej kvality a školiace aktivity pre tím.
+Čo Vám ponúkame
+Čo ponúkame:
+• možnosť rozvíjať kariéru v silnej súkromnej spoločnosti, ktorá je lídrom vo svojom odbore v CEE regióne,
+• reálny dopad na fungovanie spoločnosti,
+• stabilné zamestnanie,
+• príjemné pracovné prostredie,
+• zdravotnú starostlivosť aj pre rodinných príslušníkov,
+• odborné školenia a možnosť profesionálneho rastu,
+• zamestnanecké aktivity,
+• zľavy v sieti lekární a na predplatné časopisov.
+Benefity
+Kandidát by mal mať
+Čo od Vás očakávame
+Skúsenosti: Minimálne 3 roky v administrácii dátových skladov, ideálne s Azure Synapse Analytics alebo podobnými cloudovými platformami (napr. Azure Data Factory, Snowflake). Skúsenosti s healthcare dátami (HIS, CIS) výhodou.
+Technické zručnosti:
+o	Expertná znalosť SQL, T-SQL a Synapse Pipelines (ETL/ELT).
+o	Práca s Azure službami: Azure DevOps, Azure Monitor, Azure AD.
+o	Znalosť optimalizácie výkonu (DMV queries, indexy, partitioning).
+o	Znalosť DevOps praktík (CI/CD, Git, ARM templates).
+o	Znalosť bezpečnostných štandardov (GDPR, RBAC, encryption).
+Soft skills: Silné analytické myslenie, schopnosť riešiť problémy pod tlakom, komunikačné zručnosti a tímová spolupráca.
+Jazykové znalosti: Slovenčina na natívnej úrovni, angličtina na úrovni minimálne B2.
+Výhoda: Certifikáty ako Microsoft Certified: Azure Data Engineer Associate alebo Azure Database Administrator Associate. Skúsenosti s dátovou kvalitou v zdravotníctve (napr. ICD-10, DRG).
+Vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Vysokoškolské vzdelanie v oblasti informatiky, dátovej analýzy alebo príbuzného odboru (bakalárske/magisterské/inžinierske).
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Hlavná oblasť pôsobenia spoločnosti
+Nemocnice, ambulantná lekárska činnosť, ostatná zdravotná starostlivosť
+Informácie o výberovom konaní
+Ďakujeme vopred za všetkým kandidátom za prejavenie záujmu. Kontaktovať budeme iba vybraných kandidátov.
+Kontaktovať Vás bude
+Jana Palenčárová
+Tel.:
++421917152220
+E-mail:
+poslať životopis
+MÁM ZÁUJEM
+Našou víziou je stať sa prvou voľbou pre pacientov a inšpirovať ostatných, aby zlepšili zdravotníctvo v strednej a východnej Európe.
+www.procare.sk
+www.pentahospitals.sk/volne-pozicie
+Facebook
+LinkedIn
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5219804
+Dátum zverejnenia:
+19.1.2026
+2026-01-19
+lokalita:
+Bratislava
+Pozícia:
+Databázový administrátor
+,
+Databázový analytik
+,
+IT analytik
+Spoločnosť:
+Penta Hospitals SK, a. s.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

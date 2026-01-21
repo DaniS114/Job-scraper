@@ -1,0 +1,130 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior DevOps Engineer- IAM
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2 600 EUR/month.
+Senior DevOps Engineer is responsible for entire lifecycle of Continuous Integration/Continuous Deployment pipelines and Infrastructure as Code approaches. Takes account and defines automated configuration management, release management, build, test and deployment activities. Provides prototypes and concepts for further automation of assigned technology.
+Project Introduction
+Join our International Team and help us to create greenfield software for one of the biggest and most important project in Deutsche Telekom Group.  Being part of our team, you will have an impact on our 30 million Customers, who will use our product to request Fiber network to their homes and to track our progress of installation.
+Our product is a set of applications and websites to support end-to-end processes covering areas: Fiber pre-ordering, ordering, installation, service management & customer support.
+Your role as IAM DevOps engineer
+Your role will be to develop and operate Keycloak/RHSSO-based IAM capabilities on Kubernetes, enabling secure SSO and machine-to-machine access for internal products.
+You will support team development by standardizing deployment, configuration, and troubleshooting practices, continuously improving reliability, security, and automation around the IAM platform.
+Your profile
+At least 3 years of work experience as DevOps / Platform Engineer (or SRE) with hands-on Kubernetes operations in production environments.
+Solid understanding of OAuth 2.0 and OpenID Connect concepts for modern IAM integrations and SSO flows.​
+Practical experience with GitOps delivery using Argo CD (Git-driven continuous delivery for Kubernetes).​
+Experience working with containers (Docker) and CI/CD pipelines (e.g. GitLab) from commit to production.
+Comfortable scripting in Python and Bash for automation and troubleshooting tasks.
+IAM, Keycloak & troubleshooting
+IAM fundamentals: authentication vs authorization, identity lifecycle and provisioning flows, role/permission model design, user types, and machine-to-machine concepts.
+Keycloak/RHSSO: hands-on experience with realms, clients, roles, scopes, identity providers, and themes, including troubleshooting authentication and authorization flows end-to-end.
+Configuration-as-code mindset for Keycloak: managing realms/clients/roles via versioned configuration and promoting changes across environments.
+Operability: diagnose and resolve platform issues (CPU/memory pressure, pod health, configuration errors), contribute to incident response, and support upgrades and migrations.
+Cloud, DevOps & Containerization
+Kubernetes & networking: experience with deployments, services, ingress, environment-specific configuration, and secure handling of secrets/config maps.
+Packaging & delivery: Helm charts and Argo CD application management, including using Helm-based deployments through Argo CD for GitOps workflows.
+Experience in CI/CD using GitLab, including building, testing, and deploying containerized workloads.
+Infrastructure as Code (IaC) approach for managing environments and application infrastructure.
+Observability: experience with Grafana/Prometheus, ELK stack, and basic Dynatrace usage for monitoring, alerting, and troubleshooting.
+Database & Persisitence Layer
+Experience with PostgreSQL in operational contexts (backups and restore, basic performance indicators, connection troubleshooting).
+General understanding of how Keycloak and IAM components rely on Postgres and what typical failure modes look like.
+Security & Performance
+Experience with OAuth 2.0, OpenID Connect, and JWT-based authentication for Keycloak integrations.​
+Understanding of TLS/certificates and secure exposure of IAM endpoints.
+Experience using monitoring and load-testing tools (e.g. Prometheus/Grafana, JMeter) to observe performance, capacity, and stability of IAM services.
+What will you do?
+Designs, develops, tests and implements infrastructure for CI/CD pipelines and IaC.
+Manages source code, configuration management, release management, build and deployment activities.
+Setups and manages integration with partner applications.
+Conducts of performance analyses and tunings as well as error analyses and troubleshooting.
+Consults and implements new innovative technologies to satisfy innovation strategy.
+Creates concepts for further automation of services, processes and/or operating models.
+Directly support the project teams in the development, quality assurance accompanying development as well as planning and implementation of product releases.
+Continuously optimizes the development and system infrastructure.
+Provides consulting to project teams on areas of expertise also Prototypes/Proof of Concept solutions.
+Researches and develops in assigned technology, determines business requirements, proposes changes and prepares implementation plans.
+You will succeed if you:
+Technology stack:
+Keycloak / RHSSO / RHBK, OAuth2, OpenID Connect, JWT.​
+Kubernetes, Docker, Ingress, Helm, Argo CD.​
+Git, CI/CD (GitLab), GitOps.​
+Python, Bash (plus Go/Java as a plus for automation and extensions).
+Grafana, Prometheus, ELK, Dynatrace.
+PostgreSQL.
+AWS and other cloud platforms (as a plus).
+have secondary education of Information technologies – Master
+have experiences with ICT System – 4 years
+have experience with Scripting (Bash, Python) – Expert
+have experience with Linux Operating System – Expert
+have experience with OTC / AWS / Azure – Intermediate
+have experience with Docker – Expert
+have experience with Kubernetes / OpenShift – Advanced
+have experience with Git – Expert
+have experience with Jenkins / GitLab – Advanced
+have experience with Maven / Gradle – Intermediate
+have experience with Ansible / Terraform / Puppet – Advanced
+have experience with ELK / Prometheus / Icinga /  Jaeger / Grafana – Advanced
+have experience with Networking - Expert
+have experience with Security - Advanced
+are communicative, team player and have analytical thinking, training skills and presentation skills
+speak English – Upper intermediate (B2)
+have experiences with Agile Methodology, Scrum and SAFe
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2 600 EUR/month.
+Contact
+Contact person: Anna Heveryová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5220244
+Dátum zverejnenia:
+19.1.2026
+2026-01-19
+lokalita:
+Košice
+Pozícia:
+Programmer
+,
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 600 EUR/month
