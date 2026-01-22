@@ -7,7 +7,7 @@ The projects plan is to scrape IT job advertisements from Slovak/Hungarian sites
 ## Features
 
 - **Web Scraper**  
-  - Scrapes all IT job listings from multiple pages (Currently `Profesia.sk` only.)
+  - Scrapes all IT job listings from multiple pages (Currently `Profesia.sk` and `allas.jofogas.hu`.)
   - Saves full job descriptions in individual `.txt` files (for backup)
   - Tracks job availability with `active` and `status` fields and updates `last_seen` date.
 
@@ -18,7 +18,8 @@ The projects plan is to scrape IT job advertisements from Slovak/Hungarian sites
 
 ## Usage
 
-- **V1.0**  
+- **Scrapers**  
  Run `Profesia_scraper.py` then `Profesia_false_check.py`. Output is in `CSV` folder.
+ For `allas.jofogas.hu` run `jofogas.py`. Output is in `CSV` folder `jofogas_jobs.csv`
 
 ---
