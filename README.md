@@ -19,7 +19,7 @@ The projects plan is to scrape IT job advertisements from Slovak/Hungarian sites
 ## Usage
 
 - **Scrapers**  
- Run `Profesia_scraper.py` then `Profesia_false_check.py`. Output is in `CSV` folder.
- For `allas.jofogas.hu` run `jofogas.py`. Output is in `CSV` folder `jofogas_jobs.csv`
+ - Run `Profesia_scraper.py` then `Profesia_false_check.py`. Output is in `CSV` folder.
+ - For `allas.jofogas.hu` run `jofogas.py`. Output is in `CSV` folder `jofogas_jobs.csv`
 
 ---
