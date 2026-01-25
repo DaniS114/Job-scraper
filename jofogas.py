@@ -5,7 +5,7 @@ import time
 import pandas as pd
 from datetime import date
 
-# --- Beállítások ---
+#Beállítások
 text_folder = "Raw text"
 csv_folder = "CSV"
 os.makedirs(text_folder, exist_ok=True)
