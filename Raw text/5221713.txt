@@ -1,0 +1,112 @@
+Software Reverse Engineer
+SOZA
+Miesto práce
+Rastislavova 3, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+28 EUR/hod.
+Mzda od 230 EUR/deň/8 hodín v závislosti od skúseností, alebo  Mzda od 28 EUR/hodinu
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+SOZA hľadá skúseného externého odborníka, ktorý pomôže s reverzným inžinieringom staršej desktopovej aplikácie v Delphi (Lazarus).
+Hľadáme odborníka, ktorý      si vie dať čas na pochopenie systému do hĺbky, vie čítať cudzí kód,      rozmýšľať v súvislostiach a vytvárať výstupy, ktoré majú reálnu hodnotu      pre ďalší vývoj. Nepotrebujeme stovky strán textu, ale niekoho, kto vie      presne pomenovať, ako systém funguje.
+V SOZA pracujeme s      obrovským množstvom údajov – o hudobných dielach, autoroch aj honorároch.      Máme viacero interných systémov, o ktoré sa treba starať a ktoré chceme      ďalej rozvíjať. Sme malý IT tím v rámci organizácie s viac ako 70      zamestnancami.
+Aktuálne pripravujeme nový      projekt, na ktorý potrebujeme teba – skúseného reverzného inžiniera alebo      senior programátora Delphi. Projekt zahŕňa analýzu pôvodného ekonomického      softvéru, ktorý rieši procesy záloh a výplat honorárov.
+Cieľom projektu je získať      dostatočne podrobný technický prehľad o existujúcom diele, ktorý bude      slúžiť ako vstup pre budúcich vývojárov. Tí budú aplikáciu reimplementovať      v modernom technologickom stacku na webovom frameworku.
+Čo bude tvojou úlohou?
+Detailná technická analýza      architektúry a modulov
+Identifikácia a      dokumentácia kľúčovej biznis logiky a výpočtov
+Podrobný popis biznis      logiky a výpočtových algoritmov
+Dokumentácia závislostí,      komponentov, dátových tokov a kľúčových procesov
+Zber a analýza      požiadaviek interného zákazníka
+Výstupy, ktoré umožnia      vytvoriť plnohodnotnú kópiu systému
+​
+Zamestnanecké výhody, benefity
+Jedná sa o jednorazový projekt - po podpísaní NDA je možné doručenie zdrojových kódov a príručky používateľa pre prvotnú analýzu na odhad prácnosti a zložitosti projektu.
+Model spolupráce:
+Min. 50% alokácia
+aspoň 1 deň v týždni on-site
+on-site školenie a demo aplikácie
+on-site konzultácie s používateľmi aplikácie
+Informácie o výberovom konaní
+V prípade, že Vás naša ponuka zaujala, zašlite nám, prosím, Váš životopis a motivačný list, v ktorom maximálne na A4 uvediete Vašu motiváciu pracovať na pozícii Software Reverse Engineer.
+Následne posúdime doručené žiadosti a pozveme vybraných uchádzačov na osobný pohovor.
+Pohovory budú prebiehať v 2 výberových kolách.
+Nástup je možný okamžite, ale ak máš správnu motiváciu a presvedčíš nás o vzájomnej kompatibilite, sme ochotní na teba počkať.
+Vopred ďakujeme všetkým uchádzačom za prejavený záujem. Doručené žiadosti starostlivo posúdime a budeme Vás kontaktovať. SOZA sa zaväzuje spracúvať Vaše osobné údaje v súlade so zák. č. 12/2018 Z. z. o ochrane osobných údajov.
+Predpokladaný termín ukončenia výberového konania
+20.2.2026
+(ostáva ešte 27 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+informatika
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+Prax na pozícii/v oblasti
+min. 10 rokov
+Počet rokov praxe
+10
+Osobnostné predpoklady a zručnosti
+Anglický jazyk požadovaný na úrovni porozumenia technickej dokumentácie
+Osobnostné predpoklady a zručnosti
+preukázateľná      mnohoročná prax na pozícii vývojára Delphi
+silné analytické myslenie      a schopnosť pracovať s nezdokumentovaným kódom
+preukázateľná skúsenosť s      analýzou software a tvorbou technickej dokumentácie
+silný prehľad v objektovom      programovaní, architektúre aplikácií a dátových modeloch
+schopnosť doručiť      precíznu, ale nie zbytočne objemnú dokumentáciu
+samostatnosť      a zodpovedný prístup
+možnosť zapojenia AI na      optimalizáciu času aj nákladov
+komunikatívnosť,      otvorenosť a proaktivita
+Výhodou
+preukázateľná skúsenosť s reverzným inžinierstvom alebo analýzou legacy systémov
+skúsenosť s ekonomickými alebo finančnými systémami
+skúsenosť s návrhom integračných rozhraní (API)
+znalosť SQL na pokročilej úrovni
+znalosť a tvorba UML diagramov
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Slovenský ochranný zväz autorský pre práva k hudobným dielam (SOZA) je právnická osoba, občianske združenie autorov a vydavateľov hudobných diel. Predstavuje záujmovú samosprávu, ktorou si nositelia majetkových práv cestou zvolených orgánov spravujú majetkové záujmy spoločenstva ako celku. V súlade s oprávnením Ministerstva kultúry SR spravuje na území Slovenska majetkové autorské práva k hudbe z celého sveta, vykonáva kolektívnu správu práv podľa Autorského zákona už viac ako 100 rokov. SOZA je členom medzinárodných konfederácií GESAC, CISAC a BIEM.
+Hlavná oblasť pôsobenia spoločnosti.
+Ochrana a výkon majetkových práv svojich členov. Poskytovanie licencií používateľom hudobných diel, ako napr. televíznym a rozhlasovým vysielateľom, prevádzkovateľom káblovej retransmisie, prevádzkovateľom online služieb, usporiadateľom kultúrnych podujatí a podobne.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Eva Suchá
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5221713
+Dátum zverejnenia:
+21.1.2026
+2026-01-21
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+,
+IT manager
+,
+IT projektový manažér
+,
+IT tester
+,
+IT/Technical Support Specialist
+Spoločnosť:
+SOZA
+Základná zložka mzdy (brutto):
+28 EUR/hod.

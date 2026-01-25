@@ -1,0 +1,111 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+DevOps Engineer  (MS Azure)
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava
+Mzdové podmienky (brutto):
+Od 3 200 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+- Vývoj, testovanie, nasadenie nových riešení na platforme Windows
+- Tvorba skriptov pre účely distribúcie a inštalácie softvérových riešení (Powershell, VBscript...)
+- Troubleshooting, optimalizácia a migrácia existujúcich riešení na novú platformu pomocou nástroja MS System Center Configuration Manage
+- Integrácia nových riešení a spolupráca na analýze požiadaviek užívateľov
+- Skúsenosti s  AWS/Azure cloudom
+- Zabezpečovanie CI/CD, Deployment, Microsoft TSF, Azure DevOps, git. Gitlab
+- Príprava technickej dokumentácie
+- Spolupráca s interným ICT tímom na riešení technických problémov
+- Monitorovanie a analýza problémov, ich následné odstránenie
+Zamestnanecké výhody, benefity
+- Zázemie poprednej medzinárodnej spoločnosti
+- Výborná firemná kultúra
+- Motivujúce finančné ohodnotenie
+- Možnosť cestovať do zahraničia
+- Podpora v oblasti školenia a vzdelávania
+- Sociálny program spoločnosti
+- Úrazové poistenie, preplácanie PN...
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: ivana.jurikova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná medzinárodná spoločnosť.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+technické,IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Administrácia Windows serverov - Pokročilý
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+System Developer
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+- Znalosti a skúsenosti s administráciou MS Windows prostredia, Office 365, VMware vSphere
+-  Skúsenosti s Microsoft nástrojmi  Windows Installer, SCCM , IIS, scripting
+- Deployment SCCM, buildovanie, MS Build, komunikácia s developermi,  Azure DevOps, TFS určite vyžadované skúsenosti
+- Skúsenosti s cloudovými riešeniami AWS a Azure
+- Skúsenosti s relačnými/nerelačnými databázami
+- Schopnosť riešiť a analyzovať technické problémy užívateľov
+- Znalosť skriptovacích jazykov Powershell, VBscript, C#
+- Znalosť QA tools
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Ivana Juríková
+Tel.:
++421 911 189 261
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+4940107
+Dátum zverejnenia:
+23.1.2026
+2026-01-23
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Programátor
+,
+Softvérový inžinier
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 200 EUR/mesiac

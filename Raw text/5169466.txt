@@ -1,0 +1,111 @@
+Java Developer
+Fiserv Slovakia, s.r.o.
+Place of work
+Digital Park II, Einsteinova, Petržalka
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+3 200 EUR/month
+Final salary will be decided based on previous experience.
+Information about the position
+Job description, responsibilities and duties
+CALLING ALL INNOVATORS - FIND YOUR FUTURE AT FISERV
+We’re Fiserv, a global leader in Fintech and payments, and we move money and information in a way that moves the world. We connect financial institutions, corporations, merchants, and consumers to one another millions of times a day – quickly, reliably, and securely. Any time you swipe your credit card, pay through a mobile app, or withdraw money from the bank, we’re involved. If you want to make an impact on a global scale, come make a difference at Fiserv.
+WHAT DOES A SUCCESSFUL JAVA DEVELOPER AT FISERV DO
+As a Java Developer, you are a seasoned professional who is responsible for designing, developing, and maintaining complex Java based applications in our financial systems.
+You will work on a key project providing real-time information to our clients all over Europe which empowers their business and helps them with critical business decision making.
+You are a key player in ensuring the successful delivery of tasks, solutions and goals, combining technical expertise and strategic thinking.
+WHAT YOU WILL DO:
+Implement new features and functionality, as well as optimize and refactor existing code.
+Write clean, efficient and well documented code.
+Work with appropriate frameworks, libraries and tools (e.g. Spring Boot, Quarkus, Maven, Gradle).
+Stay updated on the latest trends and technologies in the Java ecosystem.
+Automate development processes, such as continuous integration / continuous deployment (CI/CD) pipelines.
+Resolve complex technical issues, whether in the development stage or in production environment.
+Analyze logs and error reports to trace problems and apply fixes.
+Contribute to innovation initiatives, proposing new technologies or approaches.
+IMPORTANT INFORMATION ABOUT THIS POSITION:
+Salary starts from 3200€/m gross based on previous experience.
+This role is meant for employment only. B2B (SZČO/s.r.o.) is not possible.
+We’re better together. This role is fully on-site.
+TECH STACK
+Java 17+
+Spring Boot 3, Quarkus
+REST API (Open API 3)
+Apache Kafka, Amazon MSK
+Hibernate, JPA
+Maven, GitLab CI/CD, ArgoCD, Nexus
+Junit, Mockito
+Sonatype Lifecycle, Fortify, WebInspect, SonarQube
+Dynatrace, Splunk
+AWS, Kubernetes, Docker
+Jira, Confluence
+IntelliJ IDEA Ultimate
+Employee perks, benefits
+PERKS AT WORK:
+Personal and professional development opportunities
+Networking activities, team buildings, volunteer and charity events
+Premium healthcare via ProCare
+25 days of fully paid sickness leave (including 5 sick days)
+Life and Accident insurance
+Contribution to pension plan
+10 paid days of parental leave for fathers
+Flexible working time
+Modern offices, international environment
+Multisport card
+Anniversary bonuses, Yearly bonuses
+Discounts with various partner merchants & stores
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+Java - Advanced
+Personality requirements and skills
+WHAT YOU WILL NEED TO HAVE:
+In-depth knowledge of Java: This includes understanding the latest versions of Java, core concepts like object-oriented programming, multithreading, exception handling, collections framework, and Java memory management (garbage collection, etc.).
+Professional Experience: 5+ years of hands-on experience in Java development.
+Spring Framework: Experience with Spring Boot, Spring Security, and Spring Data.
+Build Tools: Knowledge of build automation tools like Maven or Gradle.
+Web Services: Proficiency with RESTful services and related technologies like JSON, XML.
+Version Control: Knowledge of Git or other version control systems.
+Unit Testing: Familiarity with testing tools like Junit and Mockito.
+WHAT WOULD BE GREAT TO HAVE:
+Leadership and Mentorship: Ability to guide and mentor junior developers, conduct code reviews, and lead technical discussions.
+Team Collaboration: Experience working in agile teams, contributing to sprint planning, standups, and retrospectives.
+Adaptability: Ability to quickly learn new technologies and adapt to changing project requirements.
+Advertiser
+Brief description of the company
+Life moves fast. And as it does, we know most people aren’t thinking about “financial services” But we are. We help people and businesses move money and information every minute of every day. Our solutions connect financial institutions, corporations, merchants and consumers to one another, millions of times a day, behind the scenes, reliably and securely. We’re Fiserv, a global leader in Fintech and payments enabling innovative financial services experiences that are in step with the way people live and work today. The company’s approximately 40,000 associates proudly serve clients in more than 100 countries, so their customers, members and consumers can move money when and where they need it, at the point of thought. Our Aspiration is to move money and information in a way that moves the world. As a FORTUNE™ 500 company and one of FORTUNE Magazine World’s Most Admired Companies for the sixth consecutive year, we are committed to excellence and purposeful innovation. Explore the possibilities of a career with Fiserv and Find Your Forward with us.
+Fiserv is an Equal Employment Opportunity Employer, and it is the Company’s policy to make all employment decisions without regard to race, color, religion, creed, age, sex, national origin, veteran status, disability (as long as the individual is able to perform the essential functions of the job with or without reasonable accommodation), and any other characteristic protected by Law.
+Number of employees
+250-499 employees
+Contact
+Contact person: Mgr.  Lukas Eremias
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5169466
+Dátum zverejnenia:
+21.1.2026
+2026-01-21
+lokalita:
+Bratislava
+Pozícia:
+Java Programmer
+Spoločnosť:
+Fiserv Slovakia, s.r.o.
+Základná zložka mzdy (brutto):
+3 200 EUR/month

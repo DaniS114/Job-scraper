@@ -1,0 +1,158 @@
+Senior CBS IT analytik / vývojár pre kartovú doménu – Acquirer
+CODERAMA s. r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+možný ihneď resp. dohodou
+Mzdové podmienky (brutto)
+3 500 - 6 000 EUR/mesiac
+Základná mzda pri TPP je 3 500,- EUR. Pri kontrakte sa mzda pohybuje od 4 000,- do 6 000,- EUR.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ahoj,
+som Marcel z CODERAMA a do nášho tímu aktuálne hľadám skúseného
+CBS IT analytika / vývojára
+pre
+kartovú doménu v bankovom prostredí
+, ktorý sa zapojí do analýzy, návrhu a rozvoja riešení v
+Acquirer oblasti
+.
+Ide o dlhodobý projekt, v rámci ktorého je v prípade kvalitnej spolupráce, jeho garantované trvanie minimálne
+do konca roka 2026
+a vysokým potenciálom pokračovania.
+Ak máš skúsenosti s
+IBM i (AS400)
+, orientuješ sa v kartovom svete a vieš čítať (ideálne aj vyvíjať)
+RPG kód
+, čítaj ďalej.
+Čo ťa čaká:
+analýza požiadaviek na zmeny a rozvoj aplikácií v
+kartovej (Acquirer) oblasti
+technický návrh riešení
+a ich detailný popis primárne na platforme
+IBM i (AS400)
+orientácia a práca s existujúcou a
+rozsiahlou codebase v RPG
+návrh a dokumentácia
+integrácií
+medzi systémami
+spolupráca na vývoji a úpravách existujúcich riešení (programovanie je
+výhodou, nie striktne povinné
+)
+tvorba a údržba technickej a analytickej
+dokumentácie
+spolupráca s existujúcim tímom (mentoring zabezpečený), ktorý je primárne zameraný na
+Issuer oblasť
+aktívna komunikácia s IT a biznis partnermi v bankovom prostredí
+Čo od teba očakávame:
+seniornú úroveň skúseností
+v oblasti IT analýzy / vývoja
+formu spolupráce onsite / offsite (50 / 50) v office v Bratislave
+znalosť platformy
+IBM i (AS400)
+schopnosť
+čítať a analyzovať RPG kód
+(vývoj v RPG je výrazný benefit)
+orientáciu v
+DB2
+, CL a základnú znalosť
+COBOL-u
+(aspoň pre čítanie kódu)
+znalosť kartových produktov –
+primárne Acquirer oblasť
+všeobecné porozumenie fungovania kartového ekosystému (
+banky, VISA, MasterCard
+)
+skúsenosti s návrhom integrácií a znalosť technológií
+XML, SOAP, SQL, MQ
+​analytické myslenie a schopnosť prepájať biznis požiadavky s technickým riešením​
+Popri práci ťa čaká skvelý tím ľudí, ktorých môžeš stretnúť naživo v našich officoch v Bratislave, Žiline, Martine, a Banskej Bystrici. Ak však preferuješ online stretká úplne tomu rozumieme.
+V CODERAMA sa o teba dobre postaráme, tak ak chceš vedieť viac, napíš nám a my sa ti ozveme späť :)​
+Zamestnanecké výhody, benefity
+• Nadštandardné platové ohodnotenie
+• Možnosť kariérneho rastu a sebarealizácie
+• Možnosť rotácie medzi projektami
+• Práca v úspešnej spoločnosti a v priateľskom kolektíve
+• Podpora vzdelávania a sebarozvoja
+• Flexibilná pracovná doba
+• Možnosť pracovať odkiaľkoľvek
+• Žiadna byrokracia
+• Firemný hardware
+• Stabilita, takmer žiadna fluktuácia - ak už raz do CODERAMA prídeš, nebudeš chcieť odísť
+• Event kalendár plný športových a kultúrnych akcií, teambuildingov a iných aktivít
+• Práca spojená s cestovaním, tzv. Work & Travel
+• Pet friendly office
+• Psychologické poradenstvo, coaching a mentoring program
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Expert (C2)
+Ostatné znalosti
+IBM i (AS400) - Pokročilý
+RPG - Pokročilý
+DB2 - Pokročilý
+CL - Pokročilý
+COBOL – aspoň orientácia v existujúcom kóde - Pokročilý
+Card Acquiring (kľúčové) - Pokročilý
+XML - Pokročilý
+SOAP - Pokročilý
+SQL - Pokročilý
+MQ / messaging - Pokročilý
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+• Znalosť agilného vývoja
+• Chuť pracovať
+• Záujem učiť sa nové technológie a neustále sa odborne vzdelávať
+• Zodpovednosť za pridelené úlohy
+• Samostatnosť, ale zároveň aj tímovosť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+CODERAMA, s.r.o. je progresívny a inovatívny SOFTWARE HOUSE zaoberajúci sa vývojom komplexných enterprise riešení pre zákazníkov zo Slovenska a zahraničia ako sú ŠKODA AUTO, NOTINO, CRIF, KONICA MINOLTA, MOROSYSTEMS, MONET+, KISTLER, KOMIX, BRAVIDA, ČSOB, MEGAUBYTOVANIE.SK, DXC TECHNOLOGY, TELEKOM, INTERWAY, KROS, UNIQA, AVILOO, UNILABS SK a ďalších.
+Zákazníci na nás najviac oceňujú našu proaktivitu a poctivosť. Okrem vývoja zákazníckych riešení sme sa s nadšením pustili aj do vlastných projektov a už teraz sa nevieme dočkať ako ich uvedieme na trh.
+V CODERAMA je nás 170+ a neustále rastieme.
+Okrem Žiliny pôsobíme aj v Bratislave, Martine a Banskej Bystrici. Mnohí z nás pracujú aj REMOTE. Každý z nás je jedinečný a navzájom sa perfektne dopĺňame. Vieme tvrdo zamakať ale aj sa poriadne zabaviť.
+V CODERAMA si zakladáme na kamarátskom prístupe, tímovosti, poctivej práci, transparentnosti a slobode. Problémy riešime spoločne a aj úspechy oslavujeme spoločne. Ak sa chceš presvedčiť, že pracovať u nás je naozaj zážitok, príď nás kedykoľvek navštíviť.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Marcel Figura
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5222901
+Dátum zverejnenia:
+23.1.2026
+2026-01-23
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+,
+IT konzultant
+,
+Systémový inžinier
+Spoločnosť:
+CODERAMA s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

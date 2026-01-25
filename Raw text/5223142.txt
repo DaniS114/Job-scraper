@@ -1,0 +1,86 @@
+About us
+Our benefits
+Open positions
+Full stack Developer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 800 - 4 600 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,800 and EUR 4,600 per month (for a full-time role). The specific salary offered considers: • the requirements, scope, complexity and responsibilities of the role, • the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience. In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits. Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the Role
+As a Full Stack Developer in our IT Tax Team, you'll collaborate closely with our Technical Lead to maintain business-critical applications while designing and developing new components. You'll play an instrumental role in our quarterly closing process, combining architectural design, business software development, and third-level operational support to ensure our tax reporting systems operate flawlessly.
+Key Responsibilities
+•	Design, develop and maintain code in our Group Tax environment
+•	Actively contribute to project delivery activities, focusing on engineering excellence to meet project timelines and objectives
+•	Provide essential technical support during financial closing activities, ensuring all technical requirements are met efficiently
+•	Conduct comprehensive code reviews to uphold code quality, consistency with coding standards, and maintainability across the project
+•	Utilize your extensive experience and technical expertise to identify and resolve critical issues promptly, preventing recurrence and ensuring system stability
+•	Continuously identify and implement process improvements in engineering support to enhance efficiency and effectiveness
+About the Team
+You'll be joining our international Digital and Technology team, Tax Solutions that partners closely with our Group Tax colleagues based in various countries globally. Our team plays a crucial role in supporting tax professionals by developing and maintaining the solutions they need to fulfil their obligations with regard to Group IFRS reporting, Local Statutory reporting and many other indirect tax reporting requirements. We bridge the gap between complex tax requirements and efficient technical implementations, while supporting strategic projects and crucially, ensuring stability during our critical financial closing activities.
+We value a curious and continuous improvement mindset, appreciate pro-activity and applicants that also provide a critical eye on existing solutions and challenge the status quo.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You thrive in challenging environments where you can influence and shape solutions, not merely implement them. Your natural curiosity drives you to understand the intrinsic value of our portfolio, and you're passionate about mastering the domain to foster technical excellence. With a collaborative spirit, you readily contribute your knowledge and perspectives, while remaining open to learning from others.
+We are looking for candidates who meet these requirements:
+•	Proven expertise in software development, with a strong foundation in Java and Spring Boot, proficiency in NodeJS
+•	Proven expertise in UI frameworks like Angular
+•	Skilled in database management systems (DBMS) such as PostgreSQL, with experience deploying applications on cloud platforms like Microsoft Azure
+•	Proficient in relational database management, including data manipulation language (DML), data definition language (DDL), database modelling, and performance tuning
+•	Skilled in designing and implementing RESTful APIs, with a focus on best practices and industry standards
+•	Proficient in utilizing Azure DevOps for project management, code versioning, and continuous integration/continuous deployment (CI/CD) practices
+•	Experienced in modern software architecture principles, leveraging both synchronous and asynchronous integration technologies to build scalable and efficient systems
+These are additional nice to haves:
+•	Strong analytical skills, address problems in a structured way, joining your own creative ideas and those of others
+•	Extensive professional experience in developing and supporting Java applications, gained within large-scale corporate environments and through collaboration with globally distributed teams
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Livia Pasztorova
+Apply here
+ID:
+5223142
+Dátum zverejnenia:
+23.1.2026
+2026-01-23
+lokalita:
+Bratislava
+Pozícia:
+Java Programmer
+,
+Javascript Programmer
+,
+Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 800 EUR/month

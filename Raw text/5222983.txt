@@ -1,0 +1,138 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Software Solution Designer
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Our brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services.
+What will you do?
+Project Introduction
+We are looking for an experienced Solution Designer to join our International Team and help us to create greenfield software for one of the biggest and most important project in Deutsche Telekom Group.
+Being part of our team, you will have an impact on our 30 million Customers, who will use our product to request Fiber network to their homes and to track our progress of installation.
+Our product is a set of applications and websites to support end-to-end processes covering areas: Fiber pre-ordering, ordering, installation, service management & customer support.
+WHAT WILL YOU DO:
+Create and validate the business requirements  (User Stories). Clear focus on customer requirements, business value creation and securing that the backlog is understood and development ready from team’s perspective.
+Decompose business requirements into development ready User Stories with functional requirements focusing on the solution created on the Gigabit project.
+Create detailed, low level business analysis and enable the Continuous Delivery Pipeline through appropriate User Stories.
+Describe processes in  User Stories.
+Experience with low level business analysis and enable the Continuous Delivery Pipeline through appropriate User Stories.
+Collaborate with Product Owner, ART's Product Management, System Engineering to align User Story designs.
+Evaluate business models or requirements and integrate them into technology solutions as well as technological implementation opportunities (business / technology bridge).
+Collect software from internal developers and care about quality of manufactured products from business point of view.
+Understand business and technical objectives of a project and work closely with Product Owner and system designers and DevOps team.
+Identify the interface partners (systems and teams), which are involved in the implementation of feature requirements.
+Identify critical NFRs (non-functional requirements) for the Features being designed.
+Analyze and align REST APIs using mappings tables.
+Your profile:
+Knowledge and ability to visualize analysis into readable diagrams using UML notation (Activity Diagrams, Sequence Diagrams, Use Cases).
+Experience with software development in the Agile methodology - Scrum framework.
+Confident use of written and spoken English (at least B2) - Gigabit is an international project; English is a common language for both spoken collaboration and written requirements.
+Experience with tools like Enterprise Architect, Confluence and Jira.
+Knowledge of the Structured Query Language - SQL.
+Knowledge and ability to make designs using BPMN notation.
+Experience and ability to design business applications and make system analysis and cross-systems analysis.
+Experience with analyzing microservices and basic understanding of microservice architecture.
+Knowledge of relational databases and PostgreSQL.
+Knowledge of the telco sector.
+Self-motivation
+At least 5 years of experience as Business Analyst or Solution designer in international projects.
+You will succeed if you:
+YOU WILL SUCCEED IF YOU:
+Have knowledge of the German language,
+Have knowledge about using tools like Postman or Swagger,
+Have experience with Scaled Agile Framework (SAFe)
+Have programming experience for example in Java or JavaScript (Angular) is an advantage.
+Qualifications
+Education
+Information technologies – Master
+IT Technical Skills
+MS Office – Expert
+ITIL – Advanced
+Solution proposal – Expert
+Scrum - Expert
+Jira – Advanced
+SAFe – Advanced
+Product Expert – Expert
+Soft skills
+Communication
+Presentation
+Analytical thinking
+Result orientation
+Able to develop colleagues
+Conflict management
+Other Skills
+Organisational skills
+Diplomacy
+Project management
+Languages
+English – Upper Intermediate (B2)
+German/Advantage – Upper Intermediate (B2)
+Other criteria or requirements
+Work collaboratively with others to achieve goals
+Be a persistent, creative problem ­solver
+Remain cool and effective in a crisis
+Stay on the leading edge of development practices
+Passionate about great technologies, especially open source
+Understand business needs and know how to create the tools to manage them
+Extensive knowledge of business environment and IT, business process, organization, implications of changes
+Experience in business analysis, business process design and end-to-end IT solution design
+Experience in introducing comprehensive IT solutions in a complex IT application landscape, analyzing and preparing a new solution, testing, participation in roll outs
+Experience in creating topic-specific IT guidelines and blueprints and communicating/consulting this content with system users
+Clear focus on performance, results and strong communication skills
+Analytical abilities and capacity for joined-up thinking
+Ability to simplify complex procedures with regard to the customer
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Dana Dráčová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5222983
+Dátum zverejnenia:
+23.1.2026
+2026-01-23
+lokalita:
+Košice region
+Pozícia:
+Software Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 500 EUR/month
