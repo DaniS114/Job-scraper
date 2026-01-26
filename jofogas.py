@@ -128,11 +128,11 @@ while True:
     page_num += 1
     time.sleep(0.3)
 
-# --- Inaktiválás ---
+#Inaktiválás
 if found_ids:
     df.loc[~df["job_id"].astype(str).isin(found_ids),
            ["active", "status"]] = [False, "inactive"]
 
-# --- CSV mentés ---
+#CSV mentés
 df.to_csv(csv_path, index=False, encoding="utf-8-sig")
 print("\nKÉSZ! CSV és TXT fájlok frissítve!")
