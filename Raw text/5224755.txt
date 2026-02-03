@@ -1,0 +1,89 @@
+DevOps Engineer (Docker, Kubernetes, Linux)
+SourceFirst International s.r.o.
+Place of work
+Žilina, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+By agreement
+Wage (gross)
+From 2 300 EUR/month
+Finálna ponuka bude závisieť od schopností a skúseností samotného kandidáta.
+Information about the position
+Job description, responsibilities and duties
+Náplň práce:
+Ako člen marketového (servisného) tímu udržiavať a podporovať systém Account-based Ticketing v živej prevádzke.
+Integrácia a podpora softvérových komponentov (servisy Java EE, Web portály a iné) vyvíjaných viacerými scrum tímami a externými dodávateľmi.
+Nasadenie softvéru do testovacieho prostredia.
+Kontajnerizácia služieb, automatizácia nasadenia - Docker, Helm, Harbor.
+Podpora, monitorovanie a optimalizácia existujúcich systémov a služieb – Grafana, Prometheus, Centreon.
+Tvorba, realizácia a spustenie automatizovaných testov - Python, Robot framework.
+Zaistenie funkčnosti softvéru - ak nefunguje, zistiť prečo a ak je to možné opraviť alebo zaznamenať vzniknutý problém.
+Preskúmanie a objasnenie nájdených chýb.
+Employee perks, benefits
+- práca v stabilnej spoločnosti
+- osobný a technický rast
+- flexibilný pracovný čas
+- home office
+Expected date of completion of the selection process
+30.5.2026
+(there are still 120 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a leading international tech company and provides a wide range of products and services.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+Orientácia na cieľ, ochota skúmať a riešiť problémy vzniknuté v softvérovom systéme.
+Ochota učiť sa nové veci.
+Skúsenosť s testovaním softvéru a automatizovaným testovaním.
+Skúsenosť s kontajnerizáciou (Kubernetes, Docker, Helm, Harbor)
+Skúsenosť s analýzou a riešením problémov (reverzné inžinierstvo, schopnosť čítať a analyzovať logy).
+Skúsenosť s OS Linux minimálne na používateľskej úrovni, scripting výhodou.
+Znalosť anglického jazyka slovom aj písmom, znalosť nemeckého jazyka výhodou.
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: Tomas Simander
+Tel.:
++421909114115
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224755
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Žilina
+Pozícia:
+DevOps Engineer
+,
+IT Consultant
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 300 EUR/month

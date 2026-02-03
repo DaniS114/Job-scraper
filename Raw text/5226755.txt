@@ -1,0 +1,101 @@
+Platform Technical Operations Engineer
+Greentube Slovakia s.r.o.
+Place of work
+Laurinská, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+By agreement
+Wage (gross)
+From 2 300 EUR/month
+The salary will depend on the candidate’s experience and will be discussed during the recruitment process.
+Information about the position
+Job description, responsibilities and duties
+​Are you passionate about troubleshooting complex systems and ensuring seamless operations? Do you enjoy working in a dynamic, fast-paced environment where most work is driven by Jira tickets and ownership really matters? Join our Technical Operations team and play a key role in maintaining and improving our online gaming platform, used across multiple countries.
+Your Responsibilities will be:
+Jira Issue, Ticket & Incident Ownership:
+Own day-to-day Jira issues and operational tickets — investigate, communicate, and drive them to full resolution and closure. Most work is ticket-driven; as experience grows, progressively participate in incident troubleshooting and resolution with the same ownership mindset.
+Platform Operations & Reliability:
+Contribute to the stability, availability, and operability of the platform by identifying systemic issues, recurring patterns, and cross-service risks.
+Stakeholder & Brand Ownership:
+Be the technical operations partner for assigned brand(s): build relationships with brand stakeholders, learn brand-specific needs, and propose improvements both technically and in process. More broadly, collaborate effectively with internal teams (engineering, product, platform) to ensure smooth operations, clear communication, and effective issue resolution.
+Operational Excellence & Improvement:
+Proactively identify gaps in monitoring, alerting, documentation, and processes, and work with the wider Nova organization to improve operational efficiency and platform resilience.
+Brand Compliance & Policy Adherence:
+Ensure that operational activities for assigned brand(s)comply with regulatory requirements and company policies, while collaborating with internal teams (e.g. compliance, IT, developers, etc.) tomaintainaudit-ready processes across the wider platform.
+Support and collaborate with development teams during deployments and operational changes, ensuring smooth execution and rapid issue resolution.
+Documentation & Knowledge Sharing:
+Maintain and improve operational documentation and procedures, and actively share knowledge across the team.
+SLA & Operational Commitments:
+Work towards SLA targets for incidents and operational requests, balancing timely response with durable fixes and platform stability.
+Continuously Enhance Skills and Knowledge:
+Engage in ongoing learning and development activities
+Employee perks, benefits
+Possibility of regular home-office
+Flexible working hours
+Team-buildings
+Language courses
+Meal vouchers (fully paid by employer)
+Fruit, coffee, tea available in the office
+Informal and relaxed work environment
+Supporting your personal and professional development - the opportunities to attend in various trainings, courses, conferences or meetups
+"Refer a friend" benefit - the opportunity to receive a financial bonus when referring a friend for an open vacancy​​
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+​
+Experience:
+Hands-on experience in a technical operations, production support, or platform support role, ideally within a complex, distributed system environment (e.g. microservices-based architecture).​
+Analytical and Detail-Oriented:
+Your strong analytical skills enable you to dissect and comprehend complex problems.
+Problem-Solving Attitude:
+With a reliable and proactive approach, you thrive in finding creative solutions to challenges.
+Database and Querying:
+Experience with databases, specifically MSSQL, and proficient in writing queries and inspecting stored procedures.
+API and Message Brokers:
+Familiarity with API technologies and message brokers, such as ActiveMQ Artemis.
+OS and Network:
+Knowledge of operating systems, specifically Windows Server and Linux, as well as network infrastructure.
+Cloud Technologies and Containerization:
+Basic understanding and knowledge of cloud technologies, particularly Azure Cloud, and fundamental concepts of containerization and orchestration tools like Kubernetes and Docker
+Service Management Tools:
+Experience with ServiceNow, Jira, or similar ticketing tools
+Customer-Oriented Communicator:
+With a strong focus on customer satisfaction, you possess excellent communication skills, both verbal and written.
+Fluent in English:
+Proficient verbal and written communication skills in English
+Advertiser
+Brief description of the company
+Greentube Slovakia is Greentube’s mobile branch and the industry’s first choice in providing B2B companies with casino games that run seamlessly on all platforms (desktop and mobile). Strong HTML5 competencies are the hallmark of this company: Greentube Slovakia is among the best of the best when it comes to transforming the famous games of the NOVOMATIC Group into high-quality mobile solutions. Players are eager to take their games with them wherever they might go, from the daily commute to a night out with friends, and Greentube Slovakia continuously delivers!
+Number of employees
+50-99 employees
+Contact
+Contact person: Jana Stankovičová
+Tel.:
++421904613943
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5226755
+Dátum zverejnenia:
+30.1.2026
+2026-01-30
+lokalita:
+Bratislava
+Pozícia:
+IT/Technical Support Specialist
+Spoločnosť:
+Greentube Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+2 300 EUR/month

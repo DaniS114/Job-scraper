@@ -1,0 +1,77 @@
+AI / Python Developer
+Raiffeisen Conversational AI Lab s. r. o.
+Place of work
+Bratislava
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+From 3 500 EUR/month
+Salary will be based on your experience and skills.
+Information about the position
+Job description, responsibilities and duties
+We’re looking for an AI / Python Developer to work on a production-grade agentic AI assistant built in Python, using RAG and modern LLMs.
+What You’ll Do:
+Develop and maintain an agentic AI system in Python
+Design and optimize RAG pipelines (ingestion, chunking, embeddings, retrieval)
+Implement agent behaviors (tools, planning, memory, reasoning)
+Improve reliability via prompting, guardrails, and fallbacks
+Reduce hallucinations, latency, and cost in production
+Employee perks, benefits
+Work in a startup-like environment within one of the leading banking groups in CEE
+Collaboration with top professionals in the field of AI and the use of cutting-edge tools
+Modern opportunities for education and development, with the option to choose various conferences and training sessions
+Diverse tasks with strategic significance for our clients
+Work in an innovative environment, collaborating with interesting startups
+Flexible working hours
+Possibility to work from the office or from home
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+Python - Skillful
+AI - artificial intelligence - Skillful
+Personality requirements and skills
+Strong Python skills (production code, async patterns)
+Hands-on experience with LLMs in production
+Solid understanding of RAG architectures and vector search
+Experience building agentic workflows
+Deep understanding of embeddings and retrieval trade-offs
+Ability to debug and mitigate hallucinations and retrieval issues
+Experience with document preprocessing and chunking
+Familiarity with Docker, APIs, and CI/CD
+Advertiser
+Brief description of the company
+RBI Retail Innovation SK s.r.o. is a member of Raiffeisen Bank International Group. Our goal is to identify and introduce modern, innovative technologies with focus for the retail banking across the value chain.
+We are a team of professionals with fintech background and start-up culture, who strive to change the way customers interact with financial services.
+We are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ethnicity, race or colour, national origin, religion, political or other opinion, sex, sexual orientation or disability. We are based in Bratislava.
+Contact
+Contact person: Bc.  Linda Trancikova
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224686
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Bratislava
+Pozícia:
+Python Programmer
+,
+Service Engineer
+Spoločnosť:
+Raiffeisen Conversational AI Lab s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

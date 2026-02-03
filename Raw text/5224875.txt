@@ -1,0 +1,119 @@
+Senior WEB Fullstack Programátor/Tech Lead
+TITANS freelancers, s.r.o.
+Miesto práce
+Pribinova 40, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+4 500 - 6 000 EUR/mesiac
+Možnosť práce na faktúru
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Stať sa súčasťou armády TITANov nikdy nebolo jednoduché. A ani nebude. Veríme v kvalitu, zodpovednosť a chuť posúvať sa ďalej.
+Hľadáme ľudí, ktorým nie sú cudzie výzvy ani nové technológie. Takých, ktorí majú radosť z riešenia problémov, z učenia sa a z práce, ktorá má zmysel. Ľudí, ktorí sa neboja vystúpiť zo zaužívaných koľají a chcú sa rozvíjať odborne aj ľudsky.
+V TITANS veríme v otvorenú komunikáciu, férovosť a spoluprácu. Spoliehame sa jeden na druhého, rešpektujeme odbornosť, ale aj charakter.
+Hľadáme
+seniorného
+web fullstack programátora / programátorku
+, pre ktorého sú moderné technológie prirodzenou súčasťou práce. Niekoho, kto sa zaujíma o IT trendy, premýšľa v súvislostiach a hľadá riešenia a nie skratky.
+Nehľadáme bezchybných ľudí. Hľadáme tých, ktorí vedia prevziať zodpovednosť, poučiť sa z chýb a chcú sa v tom, čo robia, zlepšovať.
+Čakajú ťa výzvy, zaujímavé projekty aj situácie, ktoré preveria tvoje schopnosti. Zároveň však ľudia, ktorí dokážu podržať a prostredie, kde má názor váhu.
+POPIS POZÍCIE
+Spolupráca na vývoji custom ATS / CRM SW riešenia;
+vývoj front-end a back-end časti aplikácie podľa zadanej špecifikácie;
+analýza existujúcich komponentov a návrh zlepšení a zmien;
+refactoring;
+implementácia aplikačných funkcií a zmenových požiadaviek;
+testovanie vytvorených funkcií a nasadenie do produkcie;
+code reviews, nastavovanie vývojových štandardov;
+návrh a zlepšovanie CI/CD procesov;
+zodpovednosť za technickú kvalitu riešenia (výkon, bezpečnosť, škálovateľnosť);
+leadership / vedenie malého tímu vývojárov, mentoring a podpora spolupráce naprieč tímom.
+Počítačové znalosti:
+Min. 6-8 ročná (aktívna) skúsenosť s vývojom a návrhom riešení väčších web aplikácií;
+min. 5-ročná (aktívna) skúsenosť s PHP vývojom (znalosť Yii2 a Symfony a/alebo Laravel);
+výborná znalosť OOP, SOLID princípov a návrhových vzorov;
+výborná znalosť MySQL;
+výborná znalosť ORM princípov;
+praktické skúsenosti s GIT;
+pokročilé skúsenosti s REST API návrhom a implementáciou;
+praktické skúsenosti s HTML5, AJAX, JavaScript, jQuery, XML, CSS3, Bootstrap;
+znalosť niektorého z JS frameworkov (Vue, React, Angular);
+skúsenosti s implementáciou cross-browser kompatibility;
+praktické skúsenosti s konceptom responzívneho designu;
+znalosť základov bezpečnosti webových aplikácii;
+skúsenosti s CI/CD *(Jenkins, GitHub Actions, GitLab CI a pod.);
+skúsenosti s automatizovaným buildom a deployom;
+znalosť Docker / kontajnerizácie;
+skúsenosti s refaktoringom starších systémov.
+Predpokladaný termín ukončenia výberového konania
+28.2.2026
+(ostáva ešte 30 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Osobnostné vlastnosti:
+Komunikatívnosť, chuť kooperovať, diskutovať, hľadať a navrhovať riešenia/postupy;
+proaktívny prístup - iniciatívnosť;
+flexibilita;
+schopnosť technicky argumentovať a obhájiť riešenie;
+zodpovednosť;
+samostatné a tvorivé myslenie.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Chceš sa stať Titanom či Titankou?
+Ak túžiš po práci, prostredníctvom ktorej budeš podporovať inovatívne projekty, nezávislosť odborníkov, férové spolupráce a priamu komunikáciu, možno hľadáme práve teba!
+Sme TITANS freelancers a od roku 2013 poskytujeme služby v oblasti outsourcingu IT špecialistov. Posilňujeme IT projekty, na ktorých chýbajú tí správni ľudia, a freelancerom ponúkame špičkové projekty, ktoré vylepšia ich portfóliá.
+Toto sú čísla, ktoré hovoria za nás:
+30 000+ IT špecialistov v našej databáze
+650+ spokojných klientov na Slovensku a v zahraničí
+1 000+ alokovaných freelancerov
+Veríme, že pravý hrdina či hrdinka má viac než len skúsenosti a túžbu rásť - do práce vkladá aj svoje srdce, sebareflexiu a odvahu. Ak chceš s nami meniť svet freelancingu a outsourcingu IT špecialistov k lepšiemu, ozvi sa nám a prezradíme ti viac.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Michaela Tretiníková, MSc.
+Tel.:
++421918784827
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224875
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+IT architekt
+,
+IT manager
+,
+PHP programátor
+,
+Programátor
+Spoločnosť:
+TITANS freelancers, s.r.o.
+Základná zložka mzdy (brutto):
+4 500 EUR/mesiac

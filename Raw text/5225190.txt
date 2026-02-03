@@ -1,0 +1,109 @@
+Identity Management Engineer
+We Know Identity s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť, internship, stáž
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+uvádzaná mzda je orientačná a záleží najmä od skúseností uchádzača
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+implementácia a konfigurácia IAM riešení
+(hlavne opensource midPoint ale aj iné),
+integrácia systémov (HR, LDAP, AD, rôzne aplikácie, databázy) cez štandardizované konektory,
+návrh a správa rolí, politík, workflow a oprávnení,
+aplikovanie ABAC/RBAC/PBAC v každodenných úlohách,
+konfigurácia synchronizácie dát (onboarding, offboarding, zmeny oprávnení, zero trust),
+troubleshooting, monitoring a spolupráca na projektoch s architektami, konzultantmi a analytikmi
+automatizácia procesov
+Zamestnanecké výhody, benefity
+prácu na zaujímavých projektoch s reálnym vplyvom pre domácich aj zahraničných zákazníkov,
+možnosť stať sa jedným z prvých interných expertov a rásť spolu s firmou,
+flexibilný remote režim - pracuj odkiaľ chceš,
+priestor na odborný rast a certifikácie, účasť na konferenciách
+sme otvorení 4 dňovému pracovnému týždňu
+koncoročné odmeny
+Informácie o výberovom konaní
+Kontaktujte nás cez profesiu alebo priamo na info@weknowidentity.com. CV alebo linky na relevantné projekty sú vítané. Pohovor sa skladá pravidelne z jedného kola a následne z vypracovania zadania.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Stredne pokročilý (B2)
+a
+Český jazyk - Stredne pokročilý (B2)
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Hľadáme:
+skúsenosť alebo silný záujem o
+Identity & Access Management (IdM/IAM)
+,
+orientácia v Jave/Groovy a XML/JSON/YAML,
+skúsenosť s produkčným deploymentom aplikácie,
+skúsenosť s integrovaním systémov,
+základy práce s
+REST API, DB, LDAP alebo Active Directory
+,
+základná orientácia v
+Linux/Docker/Kubernetes
+prostredí a
+CI/CD deploymentoch
+,
+komunikácia v
+slovenčine
+a technická angličtina,
+skúsenosť s Gitom,
+samostatnosť a chuť učiť sa rýchlo nové veci
+Výhodou je:
+skúsenosti s IdM riešením,
+základná znalosť autentizačných protokolov
+OAuth2/OIDC/SAML
+,
+základná prax so skriptovaním (
+Python, Groovy
+),
+všeobecný záujem o
+cybersecurity
+,
+skúsenosti s cloudom
+Hľadáme ľudí so silnou chuťou učiť sa a rýchlo rásť v oblasti identity managementu a kybernetickej bezpečnosti. Očakávame analytické uvažovanie, základnú schopnosť riešiť problémy algoritmicky, samostatnosť a proaktívny prístup.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+We Know Identity pomáha firmám dostať pod kontrolu digitálne identity od návrhu IAM architektúry cez integrácie systémov až po automatizáciu onboarding a offboarding, synchronizácie, rolí, politík, až po audit a governance. Staviame na midPointe a moderných API prístupoch, pričom rozsah a implementácia sú vždy konfigurovateľné podľa prostredia a potrieb zákazníka.
+Kontakt
+Kontaktná osoba: Ján Minárčiný
+E-mail:
+poslať životopis
+Na to, aby ste reagovali na túto ponuku,
+nepotrebujete životopis
+. Stačí len, keď vyplníte formulár.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5225190
+Dátum zverejnenia:
+28.1.2026
+2026-01-28
+lokalita:
+Práca z domu
+Pozícia:
+Špecialista IT bezpečnosti
+Spoločnosť:
+We Know Identity s. r. o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

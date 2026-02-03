@@ -1,0 +1,92 @@
+Embedded Developer (C/C+ IoT)
+KROMBERG & Schubert s.r.o.
+Place of work
+Kolárovo
+Contract type
+full-time
+Start date
+asap
+Wage (gross)
+From 2 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+​We are looking for a skilled Embedded Developer with a passion for IoT and wireless technologies to join us in Kolárovo. You will be a key part of our product development cycle, from circuit design to implementing complex firmware on modern microcontrollers.
+Key Responsibilities:
+•	Develop, test, and maintain firmware for embedded systems using C and C++.
+•	Work extensively with Espressif ESP32-C3/C6, STM32 ARM microcontrollers.
+•	Utilize the Espressif IDF framework and STM32CubeIDE for firmware development.
+•	Implement and debug wireless technologies such as Zigbee and OpenThread.
+•	Design and review electronic circuits and schematics using KiCad.
+•	Read and interpret component datasheets and technical documentation.
+Employee perks, benefits
+•	Flexible working hours
+•	Half-year bonuses depending on results, seniority and attendance
+•	Regular salary increase
+•	Support for professional growth
+•	Trainings (English language course during working hours, soft and hard skills trainings)
+•	Mentoring
+•	Friendly environment, work-life balance
+•	Allowance for recreation after 2 years of work in the company
+•	Strong and stable background of a successful international company with support for continuous improvement
+•	Meal tickets worth 7,00 EUR
+Requirements for the employee
+Candidates with education suit the position
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+IT
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+C - Advanced
+C++ - Advanced
+GitHub - Skillful
+Number of years of experience
+3
+Personality requirements and skills
+•	A minimum of 3 years of professional experience in embedded systems development.
+•	Proficiency with version control using Git and mandatory knowledge of collaboration platforms like GitHub.
+•	Demonstrable experience with Espressif ESP32 and STM32 microcontrollers.
+•	Hands-on experience with development frameworks like Espressif IDF and IDEs like STM32CubeIDE.
+•	Experience with wireless protocols like Zigbee or OpenThread.
+•	Understanding of network stacks and protocols relevant to IoT (TCP/IP, UDP, MQTT).
+•	Understanding of industrial communication protocols (CAN, RS485)
+•	Understanding of communication protocols (I2C, USART, 1Wire, SPI)
+•	Solid knowledge of electronics and experience with KiCad.
+•	Knowledge of the ARM architecture is a great advantage.
+•	Experience with the Ubuntu development environment is also a plus.
+Advertiser
+Brief description of the company
+We are Kromberg & Schubert – a global technology group with a medium-sized background and a company history of over 120 years. Our engagement, flexibility and constant drive for innovation enable us to be a specialist for complex wiring systems for the automotive industry.
+Our key to success? Over 50.000 employees in over 40 locations worldwide are connected through optimism, fun at work and the quest for continuous improvement.
+Number of employees
+1000 and more employees
+Contact
+Contact person: Adriana Balkó
+Tel.:
++421357846711
+E-mail:
+send CV
+You can react to this job
+without sending your CV
+. It is sufficient to fill in a form.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5122285
+Dátum zverejnenia:
+26.1.2026
+2026-01-26
+lokalita:
+Kolárovo
+Pozícia:
+Programmer
+Spoločnosť:
+KROMBERG & Schubert s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

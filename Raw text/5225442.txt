@@ -1,0 +1,76 @@
+Senior Automation Tester
+Moxymind s. r. o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 3 000 EUR/month
+Final salary depends on candidates experience and skills.
+Information about the position
+Job description, responsibilities and duties
+We are looking for a Senior Automation Tester to join our team. The role focuses on complex test automation with a strong emphasis on API testing in a cloud-native, DevSecOps environment.
+You will become part of an established project team and work on a large-scale system integrating multiple external and internal information systems. The position requires a high level of seniority, independence, and responsibility for overall test quality.
+As an Automation Tester with us you will:
+Design, implement, and maintain automated tests (API, E2E, UI).
+Focus heavily on complex API automation testing.
+Integrate automated tests into CI/CD pipelines within a DevSecOps environment.
+Apply BDD principles using Gherkin-based test scenarios.
+Perform integration testing across multiple interconnected information systems.
+Test cloud-native applications running in Kubernetes environments.
+Collaborate closely with developers, architects, and QA team members.
+Ensure high quality, stability, performance, and security of delivered solutions.
+Employee perks, benefits
+Yearly budget for education
+Yearly budget for tech appliances
+Multisport card
+Flexible working hours
+Opportunity to work from home
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Personality requirements and skills
+You should have:
+5+ years of experience in test automation.
+Strong experience with API test automation using tools such as RestAssured and Postman.
+Hands-on experience with Java-based automation frameworks and modern UI automation
+tools (e.g. Playwright).
+Experience with BDD tools and approaches (Cucumber, Gherkin).
+Knowledge of performance and load testing tools (e.g. JMeter).
+Experience with CI/CD pipelines (Jenkins, GitLab CI/CD) in DevSecOps environments.
+Hands-on experience with containerized and cloud-native systems (Docker, Kubernetes).
+Understanding of Agile methodologies (Scrum), BDD, and TDD principles.
+Knowledge of security testing principles, GDPR, and security-related methodologies.
+Ability to work independently, take ownership, and contribute at senior level.
+Strong analytical thinking and communication skills.
+English level B2 or higher (written and spoken).
+Advertiser
+Brief description of the company
+Moxymind's vision is to create the best place to work for smart and talented people. We founded Moxymind in 2014 with the goal of making software testing better. We believe in innovation and progress. Better software, better world.
+https://www.moxymind.eu/
+Number of employees
+25-49 employees
+Contact
+Contact person: Zuzana Skotnická
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5225442
+Dátum zverejnenia:
+28.1.2026
+2026-01-28
+lokalita:
+Bratislava
+Pozícia:
+IT Tester
+Spoločnosť:
+Moxymind s. r. o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

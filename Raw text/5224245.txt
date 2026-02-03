@@ -1,0 +1,119 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Cloud Architect - Data (Azure)
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 200 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2 200 EUR/month.
+We are looking for a Senior Data Analytics & Data Engineering Architect to join our Common Data Intelligence (CDI) Hub. In this key role, you will design, evolve, and govern T‑Systems' central Azure Lakehouse architecture. Your work will focus on transforming traditional data warehouse environments into modern, cloud-native data platforms, enabling enterprise-scale analytics, advanced data use cases, and governed self-service BI across the organization.
+About the Team
+The Common Data Intelligence (CDI) Hub is the central data and analytics organization defining and operating enterprise-wide data platforms and standards. Our team collaborates with business domains and international engineering units to deliver scalable, secure, and future-ready analytics solutions on Microsoft Azure.
+What will you do?
+Design and evolve the enterprise Azure Lakehouse architecture, ensuring scalability, performance, and long-term sustainability.
+Lead the transformation of classic Data Warehouse environments into modern Lakehouse and Delta Lake-based architectures.
+Take architectural ownership from concept through implementation, production rollout, and continuous optimization.
+Define and implement architecture principles, standards, patterns, and best practices for data engineering and analytics platforms.
+Design and oversee data ingestion, processing, and streaming pipelines using Azure Databricks, Azure Data Factory, Event Hub, and Azure Logic Apps.
+Build and optimize data processing solutions using Delta Lake, Spark, Spark Structured Streaming, SQL, and Python.
+Define data modeling strategies across data lake and warehouse layers, applying Kimball, Inmon, and Data Vault methodologies.
+Collaborate with engineering teams to implement reference architectures, prototypes, and proof-of-concepts.
+Enable and coach data engineering teams toward autonomous, high-quality solution development.
+Ensure platform designs comply with enterprise security, data protection, and regulatory requirements.
+Support advanced analytics, self-service BI, and reporting use cases across the organization.
+Work closely with product owners, architects, governance, and business stakeholders in agile delivery environments.
+Contribute to continuous improvement of platform architecture, development processes, and operating models.
+You will succeed if you:
+have a degree in (Business) Informatics, Business Administration, or equivalent practical experience
+have
+senior-level experience in Data Platform / Lakehouse Architecture
+–
+Expert
+have 5+ years of hands-on experience in data engineering or data architecture roles
+have proven experience transforming traditional Data Warehouse landscapes into
+Lakehouse / Delta Lake architectures
+have strong architectural ownership mindset, covering design, implementation, and production readiness
+have deep hands-on experience with
+Azure Lakehouse technologies
+–
+Advanced to Expert
+have strong expertise in Azure Databricks, Azure Data Factory, Azure Data Lake Storage, Event Hub, Azure Synapse, and Azure Logic Apps
+have advanced skills in
+Delta Lake, Spark, Spark Structured Streaming, SQL, and Python
+have deep understanding of data lake storage architectures and modern data processing paradigms
+have solid knowledge of relational and multidimensional databases
+have strong experience with data warehouse modeling approaches (Kimball, Inmon, Data Vault)
+have experience designing scalable IT platforms, processes, and operating models
+have the ability to define architecture principles, standards, and best practices at enterprise level
+have experience implementing prototypes, evaluations, and reference solutions
+have strong security and compliance awareness, including handling business-critical and personal data in regulated environments
+are comfortable working in agile environments using Scrum or Kanban
+have an open, communicative working style and enjoy cross-functional collaboration
+demonstrate a solution-oriented, analytical, and structured mindset
+POSSIBLE SPECIALIZATION
+Experience with Reporting, Analytics, and Dashboarding solutions
+Hands-on experience with
+Power BI
+development
+Exposure to
+Microsoft Power Platform
+(Power Automate, Power Apps)
+Azure certifications such as:
+DP-203 (Data Engineering on Microsoft Azure)
+DP-900 (Azure Data Fundamentals)
+AZ-900 (Azure Fundamentals)
+AI-900 (Azure AI Fundamentals)
+DP-100 / DP-300 / DP-420
+Experience working in large, international enterprise data & analytics organizations
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+2 200 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2 200 EUR/month.
+Contact
+Contact person: Anna Heveryová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224245
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Košice
+Pozícia:
+IT Architect
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 200 EUR/month

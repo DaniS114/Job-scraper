@@ -1,0 +1,99 @@
+About us
+Our benefits
+Open positions
+Senior Database Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3,800 and EUR 6,300 per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the role
+You will work as part of a trusted and experienced team to drive innovation across on-prem, private cloud, and public cloud environments, with a strong focus on automation, stability, security, and cost efficiency. The team builds and operates self-service database platforms for Swiss Re business units, enabling reliable and scalable database services at enterprise scale.
+The Database as a Service (DBaaS) squad is looking for a Database Engineer who can take technical ownership of database platforms and actively shape their long-term evolution. The role combines engineering, operations, and platform responsibility, working on backlog items within an agile setup to deliver predictable and sustainable outcomes.
+Operational on-call coverage is limited (approximately once every two months and decreasing as the team grows) and applies only to high-priority incidents. The team follows a “you build it, you run it” philosophy and actively strives to automate operational activities wherever possible.
+In this role, you will
+•	Take technical ownership of enterprise and mission-critical database platforms
+•	Influence architecture, HA/DR strategies, and operational standards
+•	Act as a technical point of contact for complex database topics and escalations
+•	Support and guide other engineers through technical challenges
+•	Work closely with international and geographically distributed teams
+•	Share knowledge, ideas, and best practices across the team
+•	Maintain a strong customer orientation and understanding of business requirements
+•	Proactively identify risks, issues, and opportunities during backlog refinement
+•	Coordinate with your team to support hybrid working arrangements
+•	Operate with integrity and strong ethical standards
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Nobody meets 100% of the requirements — and that’s perfectly fine. If you meet the core qualifications below and are genuinely interested in enterprise database platforms, multi-cloud environments, and automation, we would be happy to meet you.
+You will join a highly skilled, dedicated, and cross-functional database team located between Bratislava and Zürich, within the Global Technology Services department.
+Minimum qualifications
+•	Experience designing and operating complex database environments in cloud or private cloud settings, preferably on Oracle Cloud Infrastructure
+•	Strong understanding of Oracle databases in RAC environments, preferably on Exadata
+•	Good understanding of PostgreSQL database internals
+•	Deep understanding of SQL performance tuning and optimization in Oracle and PostgreSQL
+•	Experience supporting mission-critical database platforms, including high availability, replication, backup and recovery, and operational readiness
+•	Experience with scripting and automation (Shell/Bash, PL/SQL, Python)
+•	Experience taking technical ownership of database platforms, including design decisions, operational trade-offs, and long-term sustainability
+•	Experience developing automation and Infrastructure as Code (IaC) for database platforms
+•	Strong attention to detail, quality-oriented mindset, and solution-focused approach
+•	Hands-on attitude with a willingness to continuously learn and improve
+•	Proficiency in English, both written and spoken
+Nice to have qualifications
+•	One or more Oracle certifications
+•	One or more Microsoft Azure certifications
+•	Exposure to CI/CD pipelines for database-related changes
+•	Knowledge of or interest in AIOps, machine learning, or statistical modeling
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Denisa Bastos
+Apply here
+ID:
+5224547
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+Database Analyst
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

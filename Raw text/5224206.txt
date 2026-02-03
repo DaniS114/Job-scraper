@@ -1,0 +1,130 @@
+Aplikační špecialisti informačného systému
+STAPRO SLOVENSKO s.r.o.
+Miesto práce
+Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+1 200 - 1 400 EUR/mesiac
+výška mzdy závisí od pracovných skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+1.    Aplikačný junior špecialista nemocničného informačného systému (NIS) v zdravotníckych zariadeniach :
+- zber a analýza technických a procesných požiadaviek zákazníka v zdravotníckych zariadeniach
+- tvorba realizačných plánov na základe vykonaných analýz
+- participácia na príprave projektovej dokumentácie
+- implementácia a konfigurácia nemocničného informačného systému (NIS)
+- školenia používateľov
+- podpora používateľov počas rozbehu prevádzky a po ukončení implementácie (helpdesk, hotline)
+- testovanie a implementácia nových alebo upravených funkcionalít
+- komunikácia so zákazníkom na diaľku, v niektorých prípadoch vycestovanie k zákazníkovi (služobná cesta)
+Výhodou je:
+- prax v pozícii konzultanta iných informačných systémov
+- orientácia v dátovom modeli a jednoduchá práca s SQL
+- vôľa učiť sa nový informačný systém
+- aktívny šofér
+- služobné cesty v rámci celej SR, príp. ČR (v rozsahu cca 2 týždne 3x za rok)
+- pracovisko Košice alebo Žilina
+- možnosť kariérneho rastu (medior konzultant, odborný konzultant, senior konzultant, konzultant - expert, analytik)
+2.     Aplikačný junior špecialista laboratórneho informačného systému (LIS) v zdravotníckych zariadeniach :
+- implementácia a konfigurácia laboratórneho informačného systému (LIS)
+- školenie používateľov
+- podpora používateľov počas rozbehu prevádzky a pri riešení individuálnych problémov
+- konzultácie a analýza potrieb zákazníka
+- spolupráca pri vývoji
+- sledovanie legislatívnych zmien
+- analýza, implementácia a testovanie nových alebo upravených funkcionalít
+- riešenie problémov zákazníka na diaľku, v niektorých prípadoch vycestovanie k zákazníkovi (služobná cesta)
+Výhodou je:
+- prax na pozícii konzultant iných informačných systémov
+- prax v laboratóriách
+- znalosť zdravotníckeho prostredia
+- znalosť zdravotníckej informatiky
+- orientácia v dátovom modeli a jednoduchá práca s SQL
+- vôľa učiť sa nový informačný systém
+- aktívny šofér
+- pracovisko Košice alebo Žilina
+- možnosť kariérneho rastu (medior konzultant, odborný konzultant, senior konzultant, konzultant - expert, analytik)
+Zamestnanecké výhody, benefity
+- mimoriadna dovolenka nad rámec ZP (5 dní)
+- pružný pracovný čas
+- MultiSport karta
+- príspevok na stravovanie nad rámec ZP
+- firemný teambuilding 1-2x ročne
+- príspevok pri narodení dieťaťa
+- príspevok pri sobáši
+- oddychová zóna
+Informácie o výberovom konaní
+O termíne pohovoru budeme informovať telefonicky alebo mailom.
+Kontaktovať a viesť v databáze budeme len vybraných uchádzačov, ktorí spĺňajú požiadavky danej pracovnej pozície.
+V prípade, že máte záujem byť vedený v databáze uchádzačov o zamestnanie v našej spoločnosti, uveďte vo svojej žiadosti aj súhlas s archiváciou Vašich osobných údajov podľa z. č. 18/2018 v nasledovnom znení:
+"V súlade so zákonom č. 18/2018 Z. z. o ochrane osobných údajov v platnom znení súhlasím, aby moje osobné údaje obsiahnuté v poskytnutých úradných dokladoch a priložených listinách boli kopírované, skenované alebo ináč zaznamenané v databáze uchádzačov o zamestnanie vedenej spoločnosťou STAPRO SLOVENSKO s.r.o., za účelom a v rozsahu potrebnom k spracúvaniu údajov prevádzkovateľom v súvislosti s výberovým procesom. Prehlasujem, že mnou poskytnuté osobné údaje sú pravdivé."
+Predpokladaný termín ukončenia výberového konania
+28.2.2026
+(ostáva ešte 30 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT a príbuzné odbory, Zdravotníctvo a príbuzné odbory, Účtovníctvo, Skladová evidencia
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+alebo
+Slovenský jazyk - Expert (C2)
+Ostatné znalosti
+SQL - Základy
+Microsoft Office - Pokročilý
+Vodičský preukaz
+B
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Hľadáme šikovného kolegu do nášho tímu konzultantov, ktorý nemá rád stereotyp v práci, má analytické myslenie, je zodpovedný pri plnení zadaných úloh a aktívne pristupuje k ich riešeniu či už samostatne alebo v tíme.
+Implementujeme nemocničný softvér, preto znalosť základných odborných pojmov (ŠÚKL, NCZI, SOOL ...) je výhodou, ale ak ich neovládaš, nevadí, sme tu pre teba.
+Náš systém zastrešuje všetky procesy v zdravotníckych zariadeniach ako sú starostlivosť o pacienta na lôžku, ambulancii, spracovanie laboratórnych vyšetrení, evidencia vykazovania výkonov do poisťovní, evidencia liekov a zdravotníckych pomôcok (skladové hospodárstvo), komunikácia s ekonomickými systémami, manažérsky informačný systém a nakoniec aj podpora všetkých týchto procesov.
+Máš skúsenosti v niektorej z vymenovaných oblastí? Alebo si absolvent, ktorý by tieto skúsenosti rád získal? Potom si vhodný kandidát na pozíciu konzultanta do nášho tímu.
+V prípade, že Vás naša ponuka zaujala, neváhajte a pošlite nám svoj životopis v slovenskom jazyku.​
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Informačné systémy pre zdravotníctvo, systémová integrácia, dodávky IS na kľúč, HW, predaj ŠZM
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Zuzana Verešpejová
+Tel.:
++421915790501
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224206
+Dátum zverejnenia:
+28.1.2026
+2026-01-28
+lokalita:
+Košice
+Pozícia:
+Ekonóm
+,
+Finančný analytik
+,
+IT konzultant
+,
+Konzultant
+,
+Zdravotnícky laborant
+Spoločnosť:
+STAPRO SLOVENSKO s.r.o.
+Základná zložka mzdy (brutto):
+1 200 EUR/mesiac

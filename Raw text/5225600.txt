@@ -1,0 +1,103 @@
+Expert C++ Engineer
+Ciklum
+Place of work
+Obchodná, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 600 EUR/month
+The salary starts from 3600 Euro gross. The final salary depends on the previous experience and professional knowledge of the candidate.
+Information about the position
+Job description, responsibilities and duties
+Ciklum
+is looking for an
+Expert C++ Engineer
+to join our team full-time in Slovakia.
+We are a custom product engineering company that supports both multinational organizations and scaling startups to solve their most complex business challenges. With a global team of over 4,000 highly skilled developers, consultants, analysts and product owners, we engineer technology that redefines industries and shapes the way people live.
+About the role:
+As an Expert C++ Engineer, become a part of a cross-functional development team engineering experiences of tomorrow.
+We're seeking an experienced C++ engineer to join our Platform Payments team, working on Client's mission-critical legacy payment processing system. This system processes millions of transactions monthly across multiple payment methods and gateway providers, requiring the highest standards of reliability, security, and performance.
+You'll be working with a mature, complex C++ codebase that handles real-world financial transactions including credit card processing, gift cards, chip and PIN, and integrations with 15+ payment gateway providers.
+Responsibilities:
+Maintain and enhance a high-throughput, multi-provider payment processing platform handling real financial transactions
+Develop robust payment integrations with third-party gateways (Braintree, Adyen, Klarna, Shift4, MPGS, and others)
+Implement security-critical features involving encryption, PCI compliance, and sensitive payment data handling
+Optimize performance of transaction processing pipelines for scale and reliability
+Design and implement comprehensive testing including unit tests, integration tests, and fuzz testing for security-critical components
+Debug and resolve production issues in a legacy system with complex interdependencies
+Collaborate with payment operations teams to onboard new payment methods and gateway providers
+Ensure compliance with PCI-DSS and other financial industry standards
+Participate in on-call rotation for production payment system support
+Requirements:
+7+ years of professional C++ development experience in production environments
+Strong understanding of systems programming, including memory management, concurrency, and performance optimization
+Experience with payment processing or financial transaction systems
+Deep knowledge of security best practices, including cryptography, secure data handling, and common vulnerabilities
+Proficiency with build systems (Bazel experience highly valued)
+Experience working with legacy codebases - ability to understand, modify, and refactor existing systems
+Strong debugging skills for complex, multi-layered systems
+Understanding of HTTP/HTTPS protocols and RESTful API design
+Experience with Linux/Unix environments and Apache web server
+Desirable:
+Payment gateway integration experience (Stripe, Braintree, Adyen, or similar)
+PCI-DSS compliance knowledge and implementation experience
+Apache module development experience
+Kafka or other event streaming platforms experience
+Modern C++ standards (C++11/14/17) in addition to legacy C++ knowledge
+Financial services industry experience
+OpenSSL/cryptographic libraries hands-on experience
+Bazel build system expertise
+Experience with gradual modernization of legacy systems
+What`s in it for you?
+Strong community: Work alongside top professionals in a friendly, open-door culture that values initiative and empowers its people to succeed
+Fast-paced & agile environment: Be part of a dynamic, fast-moving organization that champions efficiency and innovation
+Global exposure: Collaborate with international, cross-functional teams and contribute to large-scale initiatives
+Tailored learning: Boost your skills with internal events (meetups, conferences, workshops), Udemy access, language courses, and company-paid certifications
+Flexibility: Balance office and remote work to fit your rhythm
+Care: Take advantage of our extensive benefits offering, aligned with the best market standards
+About us:
+At Ciklum, we are always exploring innovations, empowering each other to achieve more, and engineering solutions that matter. With us, you’ll work with cutting-edge technologies, contribute to impactful projects, and be part of a One Team culture that values collaboration and progress.
+Our Slovakia hub brings together passionate professionals working on global initiatives. Be part of a close-knit team that’s driving digital transformation and creating lasting impact.
+Want to learn more about us?
+Follow us on Instagram, Facebook, LinkedIn, stop by one of our IT meetups Nalejvárna.
+Explore, empower, engineer with Ciklum!
+Interested already? We would love to get to know you! Submit your application. We can’t wait to see you at Ciklum.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Advertiser
+Brief description of the company
+Ciklum is a global Experience Engineering firm that stands at the forefront of innovation, blending next-generation product engineering, exceptional customer experiences, and cutting-edge AI.
+For over 20 years, Ciklum has been a trusted partner to global enterprises and digital disruptors, spearheading the creation of digital solutions that tackle complex corporate challenges while propelling businesses toward accelerated growth and success.
+Its global team of over 4,000 highly skilled engineers, experienced design specialists and consultants joins forces to engineer technology that paves the way for the future of your business.
+If you are looking for an interesting job opportunity and developing technologies that reimagine, reshape, and redefine the future, take a look at the vacancies at Ciklum here:
+https://jobs.ciklum.com/offices/slovakia/
+Number of employees
+1000 and more employees
+Contact
+Contact person: Yaroslav Klivak
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5225600
+Dátum zverejnenia:
+29.1.2026
+2026-01-29
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+C++ Programmer
+Spoločnosť:
+Ciklum
+Základná zložka mzdy (brutto):
+3 600 EUR/month

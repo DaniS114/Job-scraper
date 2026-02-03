@@ -1,0 +1,124 @@
+React Native Engineer
+Cassovia Code a. s.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+trade licence
+Start date
+ASAP
+Wage (gross)
+From 2 800 EUR/month
+Information about the position
+Job description, responsibilities and duties
+As a React Native Engineer, you will join
+our core team
+working on a long-term mobile product initiative. The role focuses on building a native mobile client with offline data synchronization, authentication, push notifications, and backend API integration for iOS and Android.
+What We Are Looking For
+Strong experience with
+JavaScript / TypeScript
+Practical experience with
+React Native
+Familiarity with
+Expo
+and mobile development workflows
+Experience working with
+REST APIs
+and
+application data
+Understanding of
+asynchronous behaviour
+in mobile apps
+Experience with
+forms
+and
+basic validation
+Experience with
+Unit
+and
+Integration testing
+with
+Jest
+Comfortable with
+Git
+and
+team collaboration
+Tech stack:
+React Native (Expo), TypeScript, React Navigation, Zustand, fetch / axios, SQLite, NativeWind (Tailwind CSS), Jest
+Nice-to-Have
+Experience with
+offline
+or
+data-heavy mobile applications
+Familiarity with
+local storage
+on mobile
+Experience with
+authentication
+or
+push notifications
+Knowledge of modern
+state management
+approaches
+Experience with
+React, Next.js, Node.js
+​
+Experience with mobile
+CI/CD
+or
+app publishing
+​
+​The collaboration is offered on a
+contractor basis
+(freelance or company-to-company).​
+The compensation is based on a
+monthly rate starting from €2,800
+, depending on the candidate’s experience and seniority.
+The role includes
+occasional in-person meetings at our coworking space
+for project coordination, planning, and key milestones.
+Employee perks, benefits
+Why come to us:
+Long-term product, not short-term outsourcing
+Real opportunity to
+influence
+architecture, technical decisions, and the future direction of the app
+A place where input and expertise are valued:
+we’re looking for a partner, not just task execution
+Local connection with purpose:
+Košice-based team and coworking space for coordination, workshops, and alignment
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Language skills
+English - Upper intermediate (B2)
+Advertiser
+Brief description of the company
+We’re a Košice-based software house delivering high-quality web and mobile apps, custom digital products, AI-enhanced solutions, and high-performance e-commerce development. With a modern tech stack and flexible top talent, we combine tech and business to build only what clients truly need. Efficiently and with impact.
+Number of employees
+25-49 employees
+Contact
+Contact person: Cassovia Code
+E-mail:
+send CV
+You can react to this job
+without sending your CV
+. It is sufficient to fill in a form.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5225151
+Dátum zverejnenia:
+28.1.2026
+2026-01-28
+lokalita:
+Košice
+Pozícia:
+Software Engineer
+Spoločnosť:
+Cassovia Code a. s.
+Základná zložka mzdy (brutto):
+2 800 EUR/month

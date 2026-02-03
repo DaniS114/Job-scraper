@@ -1,0 +1,91 @@
+Junior/Medior systémový administrátor/ka
+Mestská časť Bratislava-Petržalka
+Miesto práce
+Petržalka
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ihneď/dohodou
+Mzdové podmienky (brutto)
+2 000 - 2 500 EUR/mesiac
+plat je dohodnutý vždy individuálne na základe kvalifikácie a skúseností. Priemerný plat na pozícii sa vrátane kvartálnych odmien môže pohybovať okolo sumy 2500 EUR.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+S tvojou vysnívanou prácou budeš spokojný/á, ak na čo najviac z otázok nižšie odpovieš ÁNO:
+Chcel/a by si sa podieľať na našich už existujúcich projektoch ako napr. Smart pitné fontánky, automatizácia ovládania športovísk, vlastný prístupový systém?
+Máš záujem podieľať sa na modernizácií verejnej správy pomocou automatizácie s IoT zariadeniami alebo vývoji vlastných projektov pomocou CI/CD a Docker?
+Zaujímaš sa o IT bezpečnosť?
+Chceš prispieť k lepšiemu fungovaniu samosprávy v Petržalke?
+Činnosti, ktorými ťa budeme u nás v Petržalke zamestnávať:
+aktualizácia serverov, sieťových prvkov a hardening operačných systémov,
+inštalácia, konfigurácia a údržba serverov na báze Linux (Ubuntu/Debian),
+monitorovanie fyzických strojov, operačných systémov a aplikácií (Zabbix, Log360),
+konfigurácia zálohovacích systémov a kontrola obnovy,
+tvorba a udržiavanie technickej dokumentácie.
+Tvoj bežný pracovný deň si môžeš predstaviť aj takto:
+Budeš zodpovedný/á za bezproblémový chod našich systémov. Máme vlastnú infraštruktúru, na ktorých nám bežia interné systémy a prevažne webové služby pre verejnosť. Budeš môcť pracovať s nasledujúcimi technológiami (nemusíš mať skúsenosti so všetkými): nginx, apache, haproxy, mariadb, php-fpm, Zabbix, docker, ansible, vmware, log360, dokploy, gitlab, syslog, veeam, homeassistant , thingsboard.
+Radi vymýšľame nové technologické veci a preto časť tvojej pracovnej doby budeš skúšať nové technológie alebo testovať nové systémy.
+Zamestnanecké výhody, benefity
+Výhody a benefity spojené s tvojou novou prácou pre Petržalku:
+5 dní dovolenky navyše,
+mobilný telefón s neobmedzenými volaniami,
+príspevok do 3. piliera dôchodkového sporenia (po 1. odpracovanom roku),
+možnosť využívania MultiSport karty,
+500 EUR ročne prostredníctvom „cafeterie systému“,
+bezplatná účasť na vybraných behoch v rámci mesta Bratislava,
+možnosť využiť zvýhodnené vstupné vo vybraných športových zariadeniach v správe mestskej časti,
+preplatenie 50% ceny z ročného cestovného lístku v Zónach 100 + 101 (po 1. odpracovanom roku),
+práca v stabilnom prostredí verejnej správy,
+potrebné školenia a kurzy,
+samozrejme príspevok na stravovanie,
+a ďalšie benefity vyplývajúce z práce vo verejnej správe či kolektívnej zmluvy.
+Informácie o výberovom konaní
+Ak ťa táto ponuka zaujala, nezabudni nám poslať:
+Štruktúrovaný profesijný životopis
+certifikáty o relevantných kurzoch a školeniach,
+doklad o najvyššom dosiahnutom vzdelaní.
+Informácie o výberovom konaní:
+Tvoju žiadosť o prácu pre Petržalku spolu s uvedenými dokumentmi môžeš posielať do 13. februára 2026 (vrátane) cez portál Profesia i na e-mail praca@petrzalka.sk. Vopred všetkým ĎAKUJEME za prejavený záujem, no do ďalšieho kola výberového konania budú pozvaní len vybraní uchádzači. V prípade úspechu túto informáciu dostanete najneskôr do 14 dní od uvedeného termínu. Uchádzačov, ktorí neboli vybraní na osobný pohovor, nebudeme z kapacitných dôvodov kontaktovať. Ďakujeme za pochopenie a držíme palce.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Vodičský preukaz
+B
+Osobnostné predpoklady a zručnosti
+K tvojej novej práci pre Petržalku budeš potrebovať:
+skúsenosti s linuxom - inštalácia a správa,
+skúsenosti s virtualizáciou - Vmware, Proxmox (výhodou),
+dokážeš konfigurovať switch alebo firewall,
+prehľad v sieťovej oblasti (TCP/IP, DNS, DHCP),
+vodičský preukaz typu B.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Mestská časť Bratislava-Petržalka je jednou z najväčších slovenských samospráv s viac ako 120-tisíc obyvateľmi. Naše kolegyne a kolegov z miestneho úradu, údržby, kultúrnych a športových zariadení, knižnice, trhoviska, sociálnej výdajne alebo materských a základných škôl spája zmysel pre službu obyvateľom a návštevníkom Petržalky, záujem o okolie, v ktorom žijeme a v neposlednom rade aj pomoc a podpora všetkým, ktorí ich potrebujú. Ak sa vám naše poslanie páči, radi vás medzi sebou privítame. Neváhajte sa prihlásiť do výberového konania a pomôžte nám tak z Petržalky robiť lepšie miesto pre život nás všetkých. ĎAKUJEME a tešíme sa na spoluprácu.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Jana Holúbková
+Tel.:
++421947487231
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5226626
+Dátum zverejnenia:
+30.1.2026
+2026-01-30
+lokalita:
+Bratislava
+Pozícia:
+Systémový administrátor
+Spoločnosť:
+Mestská časť Bratislava-Petržalka
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

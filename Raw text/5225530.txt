@@ -1,0 +1,110 @@
+SAP BTP Platform Developer (Junior/Medior) so silným záujmom o AI
+Axians Slovakia s.r.o.
+Miesto práce
+Plátennícka 2, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+1.3.2026
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Chceš byť pri zrode nového tímu, ktorý bude na
+SAP BTP
+vyvíjať nové riešenia a zároveň skúšať reálne využitie
+AI
+v praxi? Hľadáme vývojára/vývojárku (junior až medior), ktorého baví tvoriť, nie robiť support.
+Čo bude Vašou náplňou práce
+Analýza požiadaviek a návrh nových funkcionalít
+Vývoj nových riešení a rozšírení na
+SAP BTP
+(aplikácie, integrácie, moduly)
+Implementácia podľa potrieb zákazníka a
+SAP best practices
+Spolupodieľanie sa na návrhu a správe architektúry riešení na SAP BTP
+Testovanie pred nasadením, debugging, analýza kódu
+Integrácia a nasadzovanie do produkcie (spolupráca na CI/CD)
+Riešenie chýb a zmien v rámci vývoja (bugfix / change request) –
+nie support/incidenty (L2/L3)
+Tvorba a údržba technickej dokumentácie (interné aj zákaznícke účely)
+Aktívne návrhy zlepšení a optimalizácií (iniciatíva, vylepšovanie modulov)
+AI fokus:
+návrh AI use-casov, prototypovanie (PoC) a integrácia AI služieb do BTP riešení
+Čo od Vás očakávame
+SŠ vzdelanie s maturitou
+(IT výhodou, nie podmienkou)
+Záujem o vývoj a chuť učiť sa Z
+SAP BTP
+a cloudové technológie
+Nadšenie pre
+AI
+(napr. práca s AI nástrojmi/službami, promptovanie, jednoduché prototypy alebo vlastné mini projekty)
+Základná orientácia v modernom vývoji (API/REST, autentifikácia, Git)
+Zodpovedný prístup k práci (kvalita, testovanie, dokumentácia)
+Tímovosť, samostatnosť a dobré komunikačné schopnosti
+Angličtina na úrovni, aby ste zvládli technickú komunikáciu a dokumentáciu
+Výhodou bude, keď budete mať
+Skúsenosť so
+SAP BTP
+(napr. Cloud Foundry/Kyma, Integration Suite, XSUAA, Destinations/Connectivity, Launchpad)
+Základy programovania v
+JavaScript/TypeScript, Java alebo Python
+Skúsenosť s vývojom integrácií a prácou s API (OAuth2 a pod.)
+Základné povedomie o CI/CD a nasadzovaní do produkcie
+Znalosť prostredia SAP (S/4HANA, Fiori/SAPUI5, CAP) – výhodou, nie podmienkou
+Zamestnanecké výhody, benefity
+Flexibilný pracovný čas a hybridný režim
+5 dní voľna navyše (po vyčerpaní zákonného nároku)
+Voľno pri mimoriadnych životných udalostiach
+Príspevok na stravovanie nad rámec zákonného limitu
+Bonus za odporúčanie nového zamestnanca (referral program)
+Príspevok pri nástupe na materskú/otcovskú dovolenku
+Možnosť nákupu firemných akcií cez sporiaci systém CASTOR
+Notebook a príspevok na telefón (aj na súkromné účely)
+Rekreačný príspevok od začiatku pracovného pomeru
+Prednostné vyšetrenie magnetickou rezonanciou vo vybraných centrách
+Firemné a tímové podujatia
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Vzdelanie v odbore
+Informačné technológie – vývoj softvéru (SAP BTP, cloud, AI)
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+alebo
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Axians Slovakia je súčasťou globálnej siete značiek VINCI Energies, ktorá sa špecializuje na ICT riešenia. Podporujeme firmy zo súkromného aj verejného sektora, operátorov a poskytovateľov služieb pri budovaní ich digitálnej infraštruktúry a rozvoji moderných technológií.
+Naše portfólio zahŕňa podnikové aplikácie, dátovú analytiku, podnikové siete, digitálne pracoviská, dátové centrá, cloudové riešenia, telekomunikačnú infraštruktúru a kybernetickú bezpečnosť.
+Naše konzultačné, návrhárske, integračné a servisné tímy vytvárajú riešenia na mieru, ktoré pomáhajú našim zákazníkom dosahovať konkrétne obchodné výsledky. Aj keď rastieme, zachovávame si neformálne pracovné prostredie, kde sa tímová spolupráca a vzájomná podpora dějú každý deň.
+www.axians.sk ǀ www.axians.com
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Oľga Fajkusová
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5225530
+Dátum zverejnenia:
+28.1.2026
+2026-01-28
+lokalita:
+Bratislava
+Pozícia:
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Axians Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

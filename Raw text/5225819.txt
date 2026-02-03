@@ -1,0 +1,115 @@
+QA Engineer (Mobile)
+Profinit Slovakia, s.r.o. (člen skupiny Profinit)
+Miesto práce
+Kukuričná 163, Nové Mesto, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+1 500 EUR/mesiac
+Vzhľadom aj na zákonnú požiadavku je zverejnené rozpätie výšky mzdy, pričom spodná hranica tohto rozpätia predstavuje minimálnu garantovanú sumu základnej zložky mzdy vzťahujúcej sa na uvedenú pracovnú pozíciu. Finálna výška ponúkanej mzdy bude predmetom diskusie, pričom závisí tiež od schopností, odborných znalostí a skúseností vybraného kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Si detailista, myslíš analyticky a kvalita je pre teba osobná vec? Záleží ti na používateľoch a chceš, aby veci fungovali presne tak, ako majú? Baví ťa testovanie a rád by si pracoval na medzinárodných projektoch, napríklad aj v bankovníctve? Toto je tvoja šanca.
+Ak chceš pracovať na produkte, ktorý používa celá Európa a zároveň byť súčasťou silného tímu, ktorý posúva hranice digitálneho bankovníctva, radi ťa spoznáme. Ako spoločnosť podporujeme rast a vzdelávanie a budeme radi, pokiaľ vyrastieš s nami.
+Ako
+QA Engineer (Mobile)
+budeš zodpovedať za kvalitu mobilných aplikácií pre iOS aj Android. Budeš pracovať v agilnom tíme a aktívne sa podieľať na celom procese vývoja – od technických diskusií až po finálne testovanie.
+Tvoja náplň práce bude:
+- Spolupracovať s vývojármi a product ownermi pri tvorbe a realizácii user stories.
+- Pripravovať, vykonávať a aktualizovať
+manuálne testy
+pre mobilné platformy.
+- Testovať funkčnosť, regresiu a hľadať neočakávané správanie aplikácie.
+- Overovať správanie front-endu a API komunikácie pomocou
+Browser DevTools
+.
+- Testovať backend a API cez
+Postman
+, kontrolovať návratové dáta a edge cases.
+- Evidovať a prioritizovať nájdené chyby v
+Jira
+, udržiavať zrozumiteľnú testovaciu dokumentáciu.
+- Zapájať sa do Agile rituálov a prispievať k zlepšovaniu tímových procesov.
+Zamestnanecké výhody, benefity
+- Hybridný režim s možnosťou home office
+- 25 dní dovolenky pre každého
+- možnosť ďalšieho čerpania voľna v rámci programu „
+Pracovné voľno bez obmedzení
+“
+- Prístup k odborným školeniam a certifikátom v oblasti vývoja a  softwarového inžinierstva
+- Možnosť štúdia cudzích jazykov
+- Mobilná tarifa s neobmedzeným volaním a SMS po SK a 16 GB dát aj na súkromné účely
+Čo ďalšie ponúkame:
+- Prácu na rozmanitých projektoch s moderným tech stackom a v medzinárodnej spoločnosti
+- Práca v tíme skúsených ľudí s dlhoročnou praxou
+- Priestor pre tvoje vlastné inovácie a nápady
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+Vzdelanie v odbore
+Informačné technológie, Financie, Ekonomika
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Jira - Pokročilý
+Browser DevTools - Mierne pokročilý
+Postman - Mierne pokročilý
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Aké zručnosti by si mal mať:
+- praktické skúsenosti s
+manuálnym testovaním
+, ideálne v mobile,
+- orientáciu v prostredí
+iOS
+a
+Android
+,
+- znalosť QA postupov, spôsobov navrhovania testov a práce s defektami,
+- skúsenosť s DevTools a Postmanom,
+- schopnosť písať jasné a systematické testovacie scenáre,
+- dôraz na detail a chuť preberať zodpovednosť za svoju prácu,
+- plynulú angličtinu
+,
+- ochotu učiť sa z chýb a neustále rásť.
+Výhodou
+je skúsenosť s automatizáciou testov pre mobilné aplikácie.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Za viac ako 25 rokov sme získali dôveru viac ako 50 zákazníkov v oblasti financií, telekomunikácií a štátnej správy v ČR a úspešne sa rozrastáme aj do zahraničia. Pre našich zákazníkov pracujeme na projektoch v oblasti vývoja softvéru na mieru, data managementu, data science a AI v 8 európskych krajinách. Zákazníci o nás hovoria ako o spoľahlivom dodávateľovi, ktorý drží slovo a robí softvér poriadne. Naši zamestnanci zase oceňujú otvorenú a priateľskú atmosféru.
+Profinit je významným hráčom na poli application outsourcingu a information managementu. Máme za sebou mnoho úspešných projektov pre najväčšie finančné a telco spoločnosti, letiská, poisťovne, bitcoinovú burzu a ďalších významných klientov v ČR a EÚ.
+Od roku 2024 sme súčasťou globálnej technologickej skupiny Amdocs, ktorá pôsobí vo viac než 90 krajinách sveta a spolupracuje s lídrami v oblasti telekomunikácií a médií. Vďaka tomu sa nám otvárajú nové možnosti pre technologický rast, inovácie a medzinárodné projekty – pričom si zachovávame našu vlastnú firemnú kultúru.
+Za naše výsledky hovorí aj ocenenie za jednu z 5 najlepších firiem v oblasti vývoja softvéru na zákazku v ČR.
+Spoznajte nás lepšie a pridajte sa k tímu Profinit – jsmeprofinit.eu
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Martina Fusková
+Tel.:
++421903654659
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5225819
+Dátum zverejnenia:
+29.1.2026
+2026-01-29
+lokalita:
+Bratislava
+Pozícia:
+IT konzultant
+,
+IT tester
+Spoločnosť:
+Profinit Slovakia, s.r.o. (člen skupiny Profinit)
+Základná zložka mzdy (brutto):
+1 500 EUR/mesiac

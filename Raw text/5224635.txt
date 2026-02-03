@@ -1,0 +1,111 @@
+QA Tester/Testerka
+bart.sk s.r.o.
+Miesto práce
+DUETT Business Residence, Námestie osloboditeľov, Juh, Slovensko, Košice (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+1. marec 2026
+Mzdové podmienky (brutto)
+Od 1 700 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Máš skúsenosti s testovaním kvality a hľadáš novú výzvu?
+Pridaj sa k tímu Crossuite a podieľaj sa na vývoji inovatívneho eHealth riešenia používaného viac ako 10 miliónmi pacientov a 10 000+ zdravotníckych pracovníkov po celom svete.
+Tvoja práca bude mať priamy dopad na každodennú spokojnosť a efektivitu pacientov aj zdravotníckych pracovníkov, ktorí našu platformu používajú. Budeš aktívne prispievať k zlepšovaniu produktov a procesov, odhaľovať chyby skôr, než ovplyvnia používateľov, a pomáhať tímu dodávať spoľahlivé a kvalitné riešenia.
+Čo ťa čaká?
+Práca na
+medzinárodnom
+projekte
+v oblasti zdravotníctva
+Návrh, tvorba a údržba
+automatizovaných E2E testov
+Spolupráca na tvorbe
+user stories
+Testovanie aplikáci
+í a overovanie funkčných požiadaviek zákazníka
+Vyhodnocovanie chýb
+, identifikácia príčin a spolupráca na ich riešení
+Práca s nástrojmi
+na riadenie vývoja a testovania (napr. JIRA)
+Aktívna účasť na
+Scrum
+ceremóniách
+Kľúčové zručnosti a schopnosti pre úspešné zvládnutie práce:
+Skúsenosť s
+testovaním webových aplikácií
+(manuálne aj automatizované)
+Znalosť
+písania testov
+v JavaScripte/TypeScripte
+Skúsenosť s frameworkami
+WebdriverIO
+a
+Jest
+veľkou výhodou
+Výhodou je skúsenosť s využívaním AI nástrojov / AI agentov počas vývoja a testovania
+Základná znalosť
+DB/SQL
+a testovania API (Postman)
+Skúsenosť s prácou v
+DevTools
+Základná znalosť
+CI/CD princípov
+a
+GIT flow
+(práca s vetvami, merge procesy)
+Informácie o výberovom konaní
+Vybraných uchádzačov/uchádzačky budeme kontaktovať emailom s navrhovaným termínom stretnutia.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+JavaScript, TypeScript - Mierne pokročilý
+SQL - Základy
+Postman - Základy
+CI/CD pipeline - Základy
+WebdriverIO, Jest - Základy
+Počet rokov praxe
+1
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Zmysel pre detail
+Schopnosť systematicky a analyticky myslieť
+Samostatnosť a spoľahlivosť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Už viac než 27 rokov vytvárame digitálne produkty, ktoré umožňujú firmám napredovať a prinášajú hodnotu miliónom používateľov.
+Vďaka širokému portfóliu služieb pokrývame oblasti ako digitálna transformácia, automatizácia, zlepšenie zákazníckej skúsenosti, dátová analytika či podpora udržateľného rastu podnikania. Dôraz pritom kladieme na inovácie, moderné technológie a strategické partnerstvá.
+Neustále zdokonaľujeme naše služby a implementujeme najnovšie technologické trendy. Spájame robustné systémy a sofistikovaný dizajn, aby sme vytvorili riešenia, ktoré sú efektívne, škálovateľné a zamerané na skutočné potreby používateľov.
+Tento prístup nám umožňuje vytvárať produkty, ktoré nielen spĺňajú súčasné požiadavky, ale aj poskytujú konkurenčnú výhodu do budúcnosti.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Monika Micanová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224635
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Košice
+Pozícia:
+IT tester
+Spoločnosť:
+bart.sk s.r.o.
+Základná zložka mzdy (brutto):
+1 700 EUR/mesiac

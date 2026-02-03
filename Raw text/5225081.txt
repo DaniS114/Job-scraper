@@ -1,0 +1,84 @@
+T-SQL a Low-code programátor
+KODYS SLOVENSKO, s r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Ihneď
+Mzdové podmienky (brutto)
+1 800 - 2 000 EUR/mesiac
+Mzda pozostáva z 3 zložiek: 1. Základná 1800-2000 + 2. kvartálne prémie - % zo mzdy + 3. individuálne odmeny/prémie. Zložky 2 a 3 majú výrazný potenciál rastu.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme do tímu nového kolegu/kolegyňu na pozíciu programátora procesov pre skladový systém Körber K.Motion Warehouse Advantage. Procesy sa modelujú/programujú ako kombinácia T-SQL kódu v MSSQL databáze a Low-code programovania v proprietárnych nástrojoch vendora.
+WMS systém Warehouse Advantage nasadzujeme do skladov našich najvýznamnejších zákazníkov z rôznych odvetví.
+Tvojou úlohou bude:
+na základe požiadaviek zákazníka alebo business analýzy, ktorú dodá kolega analytik, samostatne navrhnúť technické riešenie
+vytvoriť alebo upraviť proces v systéme podľa návrhu
+otestovať vymodelovaný proces pred nasadením k zákazníkovi
+zdokumentovať úpravy
+odprezentovať hotové riešenie projektovému tímu
+optimalizovať existujúce procesy a performance MSSQL databázy
+Očakávame, že ovládaš T-SQL a MSSQL server na pokročilej úrovni, dokážeš čítať procesné diagramy a okrem práce s dátami budeš tvoriť aj samotné procesy, a to v nástrojoch, na ktoré sa zaškolíš. Ak si tvoril(a) funkcie a procedúry v T-SQL a chápeš logiku kódu, nebude to pre teba problém. Precíznosť pri práci je nevyhnutnosťou, rovnako ako dôsledné dodržiavanie zadania. Akiste však oceníme aj vlastné myšlienky a vylepšenia.
+Zaujala ťa ponuka, chcel(a) by si to robiť, ale bojíš sa, že nemáš dostatok skúseností? Ak si ochotný/ochotná na sebe makať, ozvi sa mi a napíš, prečo práve tebe máme dať šancu.
+Zamestnanecké výhody, benefity
+zázemie serióznej a úspešnej spoločnosti s dlhoročnou tradíciou a neustálym rastom, leader na trhu vo svojom odvetví
+sme stabilná spoločnosť, ale nie korporát
+individuálny prístup k zamestnancom
+flexibilný pracovný čas
+dlhodobá spolupráca v pohodovom kolektíve
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+a
+Slovenský jazyk - Expert (C2)
+Ostatné znalosti
+Transact-SQL (T-SQL) - Pokročilý
+Objektové programovanie - Základy
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Od budúceho kolegu očakávame:
+odbornú zdatnosť, vedomosti a praktické skúsenosti s MSSQL databázami
+veľkú mieru samostatnosti pri tvorení riešenia a programovaní
+precíznosť pri práci
+výhodou je znalosť princípov procedurálneho programovania i objektového programovania
+bonusom je aj znalosť skladových procesov
+nevyhnutnosťou je znalosť anglického jazyka
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+KODYS Slovensko je jedna z najvýznamnejších spoločností na trhu IT riešení v oblasti automatickej identifikácie a spracovania dát pôsobiaca na Slovensku už viac ako 30 rokov. Poskytujeme riešenia pre mobilitu podnikových dát, automatickú identifikáciu (čiarové kódy, RFID, Voice), mobilné riešenia pre logistiku, distribúciu a i., WLAN & LAN siete, tlačiarne čiarových kódov a plastových kariet. Tieto riešenia naším zákazníkom prinášajú výraznú úsporu nákladov a zvyšovanie efektivity, vďaka čomu sú stále žiadané a dopyt po našich riešeniach neustále rastie. Našimi partnermi sú špičkoví výrobcovia AutoID technológií ZEBRA, HONEYWELL, DATALOGIC ako aj sieťových technológií Extreme Networks, CISCO a MDM systémov (Wavelink, SOTI) a iní. Okrem tradičných technológií prinášame na trh stále nové riešenia, vďaka čomu sa naši zamestnanci môžu neustále vzdelávať a zdokonaľujú svoje znalosti vo svojom obore.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Sandra Rezeková
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5225081
+Dátum zverejnenia:
+29.1.2026
+2026-01-29
+lokalita:
+Bratislava
+Pozícia:
+Programátor
+Spoločnosť:
+KODYS SLOVENSKO, s r.o.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

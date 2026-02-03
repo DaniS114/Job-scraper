@@ -1,0 +1,116 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Power Platform Cloud Developer (Cloud Data & Analytics)
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 2 000 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+The Senior Power Platform & Analytics Enablement Engineer is responsible for the engineering, governance, and enablement of Microsoft Power Platform solutions within a Cloud Data & Analytics ecosystem based on Azure Lakehouse architecture. This role acts as a bridge between Self-Service BI teams and the governed Azure backend, ensuring analytics solutions are reliable, secure, scalable, and compliant while supporting enterprise data-driven decision-making.
+Team / Project Description
+The Cloud Data & Analytics team is responsible for delivering a scalable Azure Lakehouse platform and enabling enterprise-wide self-service analytics through the Microsoft Power Platform. The team collaborates closely with business, governance, and engineering stakeholders to ensure secure, compliant, and high-quality data products across international teams.
+What will you do?
+Design, implement, and operate Microsoft Power Platform solutions including Power BI, Power Apps, Power Automate, and SharePoint Online in alignment with enterprise standards.
+Act as the technical bridge between Self-Service BI teams and governed Azure Lakehouse backends, enabling secure and reliable analytics solutions.
+Configure and manage Power BI Service and Desktop environments, including workspaces, datasets, gateways, refresh schedules, and capacity planning.
+Establish and enforce governance, security, and lifecycle management standards across Power Platform solutions, covering access control, privacy, and compliance requirements.
+Integrate Power Platform solutions with Cloud Data & Analytics services such as Azure Data Factory, Databricks, dbt, and CDC frameworks.
+Manage identity and access using Azure AD / Entra ID, RBAC, service principals, and secure data connections.
+Monitor platform usage, performance, cost efficiency, and data reliability, proactively identifying optimization opportunities.
+Diagnose and resolve platform incidents in collaboration with engineering, governance, and operations teams.
+Manage and optimize data refresh cycles to ensure trusted and consistent analytics outputs.
+Develop and maintain platform documentation, operational playbooks, and governance guidelines.
+Coach and enable self-service BI teams, translating complex technical concepts into clear, actionable guidance for non-technical stakeholders.
+Collaborate in agile, international environments (SAFe, Scrum) with cross-functional teams.
+Support audits, governance reviews, and enterprise BI compliance initiatives.
+Drive continuous improvement, automation, and operational excellence across the analytics platform.
+You will succeed if you:
+have a degree in Information Technology, Computer Science, Data Engineering, or a related field (Bachelor’s or Master’s degree preferred)
+have strong hands-on experience with Microsoft Power Platform –
+Expert level
+have experience with Power BI Service & Desktop (workspaces, datasets, gateways, refresh management) –
+Expert
+have experience with Power Apps (low-code application development) –
+Advanced
+have experience with Power Automate (workflow automation and integrations) –
+Advanced
+have experience with SharePoint Online, including permissions and integrations –
+Advanced
+have solid experience with Cloud Data & Analytics platforms on Azure –
+Advanced
+have strong understanding of Azure governance, identity, and security concepts –
+Advanced
+have hands-on experience with Azure AD / Entra ID, RBAC, service principals, and access control –
+Advanced
+have experience integrating analytics solutions with Azure Data Factory, Databricks, dbt, and CDC frameworks –
+Intermediate to Advanced
+have experience operating and supporting analytics platforms, including monitoring, incident management, and performance optimization –
+Advanced
+have strong knowledge of data refresh cycles, data reliability, and cost-efficient platform operations
+have a strong governance and compliance mindset, including security, privacy, lifecycle management, and audit support
+have excellent analytical thinking, structured problem-solving skills, proactive ownership, and continuous improvement mindset
+have strong communication and consulting skills with the ability to explain complex technical topics to non-technical stakeholders
+have experience working in agile, international environments (SAFe, Scrum) and cross-functional teams
+speak
+English – Upper-Intermediate (B2) mandatory
+;
+German – basic knowledge is an advantage
+POSSIBLE SPECIALIZATION
+Experience with DevOps / CI/CD practices (e.g. GitLab) for automation, deployment, or documentation
+Experience with Azure Monitor and Log Analytics for platform observability
+Familiarity with ServiceNow (DoItNow) or enterprise ITSM processes
+Knowledge of enterprise BI governance frameworks and operating models
+Experience with advanced BI scenarios, predictive analytics, or large-scale enterprise data platforms
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 000 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lucia Gbúrová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224883
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Remote work
+Pozícia:
+Programmer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 000 EUR/month

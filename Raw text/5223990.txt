@@ -1,0 +1,133 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior QA Automation Engineer
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2 600 EUR/month.
+We are hiring a Senior QA Automation Engineer, who will act as a technical lead within QA and test teams and oversee all aspects of software and product testing as well as overall development quality across the company. The role includes developing test strategies, preparing test documentation, identifying defects, and reviewing QA reports. The Senior QA Automation Engineer leads the evaluation of test automation tools and technologies, choosing those most appropriate for each project, and drives the transition from manual to automated testing to minimize manual effort.
+The role also includes leading the team, building test automation frameworks, and supporting QA teams with expert QA knowledge. The Senior QA Automation Engineer is responsible for defining and updating company quality standards to ensure high customer satisfaction, implementing test frameworks and test architecture, and setting up continuous integration within CI/CD pipelines. The role leads the entire QA process across one or multiple projects—from pre‑testing analysis, through software testing and test automation, to post‑testing evaluation. The Senior QA Automation Engineer ensures that all released products meet both company and industry quality standards, stays up to date with modern processes, established tools, techniques, and technologies, and ensures a consistently high degree of product quality. The role requires a good overview of DevOps methodology and frameworks such as the Scaled Agile Framework (SAFe) or similar.
+About the project
+This role focuses on automation testing within the Dedicated Connectivity & Infrastructure (DCI) Hub, specifically on regression testing of highly complex BSS releases prior to customer rollout. It supports enterprise‑grade network products and applications, ensuring quality, stability, and legal compliance across large‑scale, business‑critical systems.
+What will you do?
+Bring senior-level Test Automation expertise
+Have a strong focus on BSS regression testing for complex enterprise releases
+Can design and implement automated test cases for highly complex business requirements (Business Epics / Initiatives level)
+Master Test Automation Tools & Languages
+Provide expert-level experience with UFT (current platform)
+Have expert-level Java automation skills
+Work confidently with modern tools such as Selenium, Selenide, or Playwright
+Are ready for migration toward Calypso (future target platform)
+Understand Enterprise Network & B2B domains
+Possess deep knowledge of Enterprise Network business processes
+Have detailed understanding of B2B connectivity products
+Understand legally compliant contract and settlement processes
+Bring strong Technical & System Knowledge
+Understand Enterprise Network technologies (e.g., BNG, Access 4.0, Remote Devices)
+Know common IT/NT testing procedures
+Have strong understanding of the Software Development Lifecycle (SDLC)
+Excel in Quality Assurance & Defect Management
+Perform defect analysis, bug reporting, and root cause analysis
+Produce high quality test documentation
+Collaborate effectively across multiple test levels and business units (BUT, WBV)
+Work confidently in Agile environments
+Have experience in SAFe® and Kanban teams
+Demonstrate strong cross-functional collaboration in large enterprises
+Build very good internal networks within Deutsche Telekom
+Use modern tooling effectively
+Jira (Atlassian), Git, SQL, XML
+Strong troubleshooting and analytical skills
+Support AI & Innovation initiatives
+Bring hands-on experience with LLMs (e.g., ChatGPT)
+Have experience with AI-supported migrations (e.g., UFT → Playwright)
+Communicate effectively
+English: very good (mandatory)
+German: good knowledge is a plus
+You will succeed if you:
+Have Master’s degree in Information Technologies
+Bring strong Professional Experience
+5+ years in Software Development
+ISTQB certification
+Demonstrate advanced IT Technical Skills
+ICT Overview – Advanced
+Software QA & Testing – Expert
+Programming – Advanced
+Software Test Engineering – Expert
+Quality Assurance – Expert
+Agile Tools – Advanced
+Agile Methods – Advanced
+DevOps – Intermediate
+Defect Analysis – Expert
+Test Automation – Expert
+Test Case Design – Expert
+Requirements Analysis – Expert
+Test Implementation – Expert
+Documentation – Advanced
+Agile Development – Advanced
+Project Management – Advanced
+Automation Systems – Advanced
+Excel in key Soft Skills
+Strong cross-functional collaboration
+Effective knowledge transfer
+Analytical thinking
+Continuous learning mindset
+Problem solving orientation
+Customer focus
+High accuracy and attention to detail
+Awareness of industry automation trends
+Communicate effectively in multiple languages
+English – Upper Intermediate (B2)
+German – Intermediate (B1), advantage
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2 600 EUR/month.
+Contact
+Contact person: Anna Heveryová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5223990
+Dátum zverejnenia:
+26.1.2026
+2026-01-26
+lokalita:
+Košice
+Pozícia:
+IT Tester
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 600 EUR/month

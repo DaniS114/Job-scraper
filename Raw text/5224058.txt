@@ -1,0 +1,101 @@
+Cloud .Net Developer
+ComAp Slovakia s.r.o.
+Miesto práce
+Business Centrum Košice, Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Si pripravená/pripravený ovplyvniť budúcnosť ComAp cloudových systémov? Našou tímovou výzvou je in-house vývoj nového cloudového systému. Tento systém (online aplikácia) slúži na monitorovanie, analýzu dát a správu zariadení ComAp a využívajú ho naši zákazníci po celom svete.
+Hľadáme vývojárku/vývojára, ktorá/ktorý primárne programuje v .NET a ovláda aj Angular. Nevyhnutná je skúsenosť s vývojom cloudových služieb. Staneš sa súčasťou novovznikajúceho 6‑členného tímu v Košiciach. S pražským cloud teamom budete spolupracovať agilne a vyvíjať aplikáciu postavenú na mikroslužbách. Čaká ťa nový projekt, ktorý stojí na stabilných základoch.
+Znie to ako výzva a spĺňaš podstatné požiadavky? Neváhaj sa ozvať, radi sa s tebou stretneme a porozprávame sa o tvojich očakávaniach!
+Aké znalosti potrebuješ pre túto pozíciu?
+.NET a Angular
+S akým tech stackom sa na pozícii stretneš?
+Nemusíš ovládať všetky technológie, dôležitá je chuť sa ich doučiť.
+MS Azure
+Microservices
+Docker
+PostgreSQL
+REST API
+Azure Event Hub / Kafka
+CI/CD (GitHub)
+Azure Data Explorer
+Microsoft Entra ID (B2B, B2C)
+Azure Application Insights
+Log Analytics a Azure Monitor
+Na čo sa u nás môžeš tešiť?
+Dlhodobú spoluprácu, najnovšie technológie a možnosť budovať projekt od základov
+Možnosť byť súčasťou českej spoločnosti, ktorá úspešne predáva svoje produkty do viac ako 100 krajín sveta
+Možnosť spolupracovať na zaujímavých projektoch v rámci tímu RnD
+Neformálnu firemnú kultúru a priateľskú atmosféru
+Home office 2–3 dni v týždni a flexibilný pracovný čas
+25 dní dovolenky + 3 „me days“
+Stravné nad rámec zákona, Edenred kredity 600 € / rok
+Komplexný adaptačný plán pre nových kolegov
+Vzdelávanie na zvýšenie odbornej kvalifikácie – kurzy, konferencie, školenia
+Podporu tvojho profesného rozvoja cez interné akadémie
+Jazykové vzdelávanie
+Firemné teambuildingy
+Relaxačné zóny v našich priestoroch na príjemné pracovné prestávky
+Je táto pozícia presne taká, akú hľadáš? Stačí nám poslať životopis a kontaktné údaje a čoskoro sa ti ozveme.
+Zamestnanecké výhody, benefity
+Vzdelávacie kurzy, školenia
+Stravné lístky/príspevok na stravovanie
+Dovolenka 5 týždňov
+Zdravotné voľno
+Možnosť home office
+Príspevok na vzdelanie
+Občerstvenie na pracovisku
+Kafetéria
+Mobilný telefón
+Firemné akcie
+Bonusy/prémia
+Individuálný rozpočet na osobnostný rast
+Flexibilný začiatok/koniec pracovnej doby
+Účasť na zahraničných konferenciách
+Notebook
+Children-friendly office
+Dog-friendly office
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+ComAp je medzinárodná spoločnosť so sídlom v Prahe a v ďalších 12 pobočkách po celom svete. Poskytujeme inovatívne riešenia v oblasti vývoja a výroby riadiacich systémov pre plynové a dieselové motory, záložné generátory a kogeneračné jednotky, sieťové ochrany, dvojpalivové systémy. Zabezpečujeme dodávky od samotných kontrolérov až po kompletné riešenie zložitých systémov podľa požiadaviek klientov.
+Viac informácií o našej spoločnosti nájdete na webových stránkach: www.comap-control.com
+Kontakt
+Kontaktná osoba: Lenka Mrázová
+E-mail:
+poslať životopis
+Na to, aby ste reagovali na túto ponuku,
+nepotrebujete životopis
+. Stačí len, keď vyplníte formulár.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224058
+Dátum zverejnenia:
+26.1.2026
+2026-01-26
+lokalita:
+Košice
+Pozícia:
+Backend programátor
+,
+C# programátor
+,
+Javascript programátor
+,
+Programátor
+Spoločnosť:
+ComAp Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

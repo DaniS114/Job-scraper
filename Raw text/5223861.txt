@@ -1,0 +1,96 @@
+IT Application Manager Treasury / Market Data Hub, Integration Specialist
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Salary
+From 2 800 EUR/month
+From 2800 + VAR*
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions.
+Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+Job description, responsibilities and duties
+As  IT application manager you will support our new Treasury Market Data Hub in respect to ITIL processes, compliance and quality. This includes support, operations, security, testing and similar activities. This role also includes a significant part in developing and maintaining interfaces to distribute market and other types of data. These interfaces will be based on our strategic platform Snaplogic.
+This position is part of a team which is in our Global Delivery Center (GDC) in Bratislava and oversees on our operational processes and support for all Treasury IT services and interfaces.
+Task and Responsibilities
+Support the ITIL based application management in terms of Incident, Change and further processes
+1^st and 2^nd level support of our global Market Data Hub
+Responsible for compliance and quality assurance for the ICFR relevant application, incl. internal and external audit
+Setup and maintain the Market Data hub configuration
+Access Management, Support and perform system tests to validate new versions and fixes of the Market Data Hub
+Functional monitoring, manage and solve incorrect execution/processing of files incl. maintenance of treasury reporting, building of dashboards
+Requirements engineering regarding integration needs / interfaces to and from new Treasury Management Application
+Functional and technical Integration Design
+Alignment with Source / Target application owner on start- and endpoints
+Implementation of interfaces in SnapLogic
+Prepare, plan, execute system test, support UAT for the integrations
+Required Education, Experience and Knowledge / Skills
+Education:
+Bachelor or master’s degree in Business Administration, or Computer science, Math or Engineering with relevant industry experience
+Understanding of the business needs in the above-mentioned business services areas
+Experience:
+Deep understanding and proven track record of around 2-5 years in Application and Service Management under ITIL framework
+Experience in IT compliance and quality processes (preferably ICFR relevant applications)
+3-5 years of experience in software development and integration architecture (SAP and non-SAP applications)
+Proven solid experience and understanding of common software development methods, tools, concepts (DevOps)
+Experience in ETL / ELT technologies
+Common understanding of transfer and authentication methods
+Strong analytical and conceptional skills to analyze and design interfaces
+Understanding of Treasury and Accounting related processes is an advantage
+Personality requirements and skills:
+Structured way of working to ensure strong audit and quality requirements
+Good problem solving and organizational skills
+Very good in communication and excellent team player
+Business fluent in the English language, German language not mandatory, but helpful
+Basic wage component (gross) and other rewards
+: starting from 2800 EUR brutto /month + VAR*
+How we work:
+When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Check our Careers Site at
+https://www.siemens-healthineers.com/sk
+As an equal opportunity employer, we welcome applications from individuals with disabilities.
+Required education, skills and personality requirements
+Required education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+We offer
+Variable and Christmas bonus
+Hybrid type of work – combination of work from home & work from office(telework / homeoffice)
+Flexible Working Hours
+Bridge days – free extra paid leave 6 days per year
+3 sick days per year (no doctor’s permit needed)
+In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of family care
+Additional pension plan
+300 EUR for regeneration of work force via cafeteria system
+Multisport Card – employer's contribution of 10 EUR
+Recognition and Reward program
+Wellbeing program – Psychological, Legal and Financial Councelling
+Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps)
+Retention program (work anniversary, life anniversary, employee loans)
+Training and development program (business and product trainings, e-learning, language courses, soft skills trainings,…)
+Adjustable standing desk as a standard
+Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial Intelligence, Healthcare IT services, …)
+Participation on world famous IT conferences like Microsoft IGNITE for best employees
+Send CV
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Join us!
+Send CV
+Click for more information
+ID:
+5223861
+Dátum zverejnenia:
+26.1.2026
+2026-01-26
+lokalita:
+Košice
+Pozícia:
+IT Project Manager
+Spoločnosť:
+Siemens Slovensko
+Základná zložka mzdy (brutto):
+2 800 EUR/month

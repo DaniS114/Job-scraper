@@ -1,0 +1,123 @@
+System Engineer (Microsoft / Universal Infrastructure)
+SOITRON, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+od 2500€ / mesiac + variabilná zložka + benefity *Mzda je uvedená minimálna. Finálna ponuka sa odvíja od znalostí a skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného System Engineera, ktorý sa špecializuje na komplexný návrh, implementáciu a transformáciu
+Microsoft infraštruktúr.
+Hľadáme experta, ktorý sa suverénne orientuje v prostredí
+Active Directory
+a má praktické skúsenosti s nasadzovaním a migráciou on-premise
+Exchange serverov
+.
+Vašou úlohou bude prepájať tradičné on-premise riešenia
+s modernými cloudovými štandardmi
+(Entra ID, M365), dbať na vysoký stupeň zabezpečenia (hardening) a prinášať
+inovácie
+prostredníctvom pokročilej automatizácie. Ponúkame priestor, kde vaše hlboké technické znalosti priamo ovplyvnia stabilitu a bezpečnosť kritických biznisových systémov našich zákazníkov.
+Náplň práce:
+Návrh, implementácia, migrácia alebo upgrade Microsoft infraštruktúr (Windows Server, Active Directory, CA, Exchange Server, SCCM, Microsoft 365 služieb, Entra ID).
+Automatizácia rutinných úloh (PowerShell, skriptovanie).
+Troubleshooting infraštruktúry (MS, VMware, zálohovanie, storage, networking).
+Technická podpora pre klientov v rámci 3rd level supportu.
+Dokumentácia systémov, procesov a konfiguračných štandardov.
+Spolupráca s kolegami na technologických roadmapách a školeniach.
+Čo ponúkame:
+Práca na moderných technológiách (Microsoft, Azure, hybridné riešenia).
+Možnosť profesionálneho rastu a certifikácií.
+Spolupráca v tíme skúsených inžinierov.
+Stabilné prostredie a zaujímavé projekty s regionálnym presahom.
+Zamestnanecké výhody, benefity
+Soitron poskytuje širokú škálu benefitov, ktoré ťa veľmi potešia a určite si ich užiješ. Toto je zopár z nich:
+-
+Služobné auto
+- Služobný notebook + telefón
+- Multisport karta
+- Finančné príspevky pri narodení dieťaťa či svadbe
+- Firemné akcie, teambuildingy, športové akcie...
+- Príspevok od zamestnávateľa v rámci DDS
+- Príspevok na kúpu hardware/software
+- Jazyková výučba
+- Možnosť rozvoja a prehlbovania kvalifikácie
+- Dni voľna navyše
+- V NEPOSLEDNOM RADE práca pre IT firmu ktorá stále napreduje
+- Možnosť kariérneho rastu
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+a
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+Administrácia Windows serverov - Mierne pokročilý
+Osobnostné predpoklady a zručnosti
+TECHNICKĚ ZRUČNOSTI
+Microsoft stack:
+Windows Server Administration (AD, DNS, DHCP, GPO, CA)
+Microsoft 365 (Exchange Online, Teams, Intune, Entra ID)
+Microsoft Exchange Server onpremise
+SCCM / Endpoint Configuration Manager
+PowerShell – pokročilé skriptovanie
+Ďalšie technológie (výhodou):
+Networking (TCP/IP, VLANs, Routing, Firewalls)
+Microsoft Azure – VM management, migration, networking, identity
+Backup & Storage systémy (Veeam, NetApp, Dell)
+Security – identity management, hardening, patch management
+Cloud hybrid integrácie (Azure, AWS)
+Linux – min. základná orientácia
+Ostatné požiadavky:
+5+ rokov praxe v oblasti systémovej administrácie.
+Preukázateľné skúsenosti s Microsoft infraštruktúrou (on-premise + cloud).
+Praktické skúsenosti s nasadzovaním a správou onpremise Exchange
+Znalosť enterprise prostredí a troubleshooting postupov.
+Certifikácie ako MCSA / MCSE / AZ-104 / AZ-305 sú výhodou.
+Skúsenosti s návrhom a implementáciou komplexných riešení (projekty, migrácie, integrácie).
+Aktívna znalosť slovenského a anglického jazyka
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť Soitron je stredoeurópskym integrátorom, ktorý pôsobí na IT trhu už viac ako 30 rokov. Svojim klientom ponúka produkty a služby v oblasti robotizácie a automatizácie procesov, internetu vecí (IoT), IT infraštruktúry, komunikačných a cloudových riešení, IT bezpečnosti, služieb a outsourcingu, či IT poradenstva a aplikácií. Soitron, s.r.o. je členom skupiny Soitron Group, v ktorej pracuje viac ako 800 medzinárodných odborníkov a združuje profesionálne tímy na Slovensku, v Českej republike, Rumunsku, Turecku, Bulharsku, Poľsku a Veľkej Británii. Ponúka jedinečné skúsenosti v oblasti IT a možnosť profesionálneho rastu v medzinárodnom prostredí.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Anna Leskovjanská
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5225399
+Dátum zverejnenia:
+28.1.2026
+2026-01-28
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT/Technical Support Specialist
+,
+Správca informačného systému
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+SOITRON, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

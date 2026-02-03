@@ -1,0 +1,93 @@
+System Administrator for Linux Servers, Oracle Administrator
+Porsche Finance Slovakia s. r. o.
+Miesto práce
+Digital Park II, Einsteinova, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+Freelancer / Contractor
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​Department:IT Operations
+Reports to:Head of IT
+Location:Hybrid (onsite/offsite) – Bratislava
+Employment Type:Freelancer / Contractor
+Contract Duration:2years
+Work Schedule:Average 20 days per month; some tasks outside regular working hours
+Compensation:daily rateupon negotiation
+​Core Competencies & Requirements
+Objective:
+Ensure stable, secure, and efficient operation of the company’s Linux server infrastructure and Oracle database systems across all environments (production, test, management). Focus on administration, monitoring, and continuous optimization of Linux-based systems, ensuring high availability, performance, and compliance with internal IT and security standards.
+In addition, the position contributes to the reliable operation of the wider IT infrastructure through cooperation with other infrastructure and application teams and by providing backup support and cross-coverage for selected platforms and services when required.
+Primary Responsibilities:
+Administer,operate, andoptimizeLinux servers (Red Hat Enterprise Linux) in production, test, and management environments.
+Administer,maintain, and support Oracle database systems, including performance monitoring, troubleshooting, and lifecycle management.
+Ensure stability, availability, security, and compliance of Linux and Oracle platforms according to internal IT and security policies.
+Decision Scope:
+Operational responsibility for assigned systems
+Approval of technical changes within infrastructure scope
+Escalation handling and vendor coordination
+Ensuring compliance with internal IT and security policies
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Informatika
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Required Education & Experience:
+University degree in Information Technology, Computer Science, or related technical field, or equivalent practical experience.
+Experience administering Linux server systems (preferably Red Hat Enterprise Linux) in enterprise environments.
+Practical experience with Oracle database administration and operations, including monitoring, performance tuning, backup/recovery, and incident troubleshooting.
+Experience inproductionIT environments, understanding availability, stability, and security requirements.
+Knowledge of IT service management processes (incident, change, problem management).
+Ability to work independently while following procedures and documentation standards.
+Good communicationskills and ability to cooperate with application teams, IT security, and external vendors.
+Basic understanding of storage technologies and infrastructure components.
+Awareness of IT security principles, hardening, access management, and compliance requirements.
+Desirable:
+Knowledge of storage technologies and supporting infrastructure (SAN/NAS, tape libraries, UPS, PDU, hardware management interfaces like HPEiLO/Dell iDRAC), including troubleshooting and vendor coordination.
+Experience with administration and secure operation of supporting infrastructure services (proxy servers, DNS, VPN, document management systems like Alfresco).
+Ability to activelymonitorsystem health using enterprise monitoring tools, interpret alerts, and proactively address issues.
+Strong troubleshooting skills: incident resolution, root-cause analysis, and implementation of preventive/corrective measures.
+Experience with virtualization platforms, especially VMwareESXiand vCenter.
+Knowledge of backup and replication solutions, preferably Veeam Backup & Replication.
+Recommended Certifications (Optional):
+Red Hat certifications (RHCSA, RHCE).
+Oracle Database certifications (Oracle DBA or equivalent).
+VMware certifications (VCP or equivalent).
+IT service management training (ITIL Foundation).
+Security awareness or infrastructure security training.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Ako dcérska spoločnosť  Porsche Bank AG má spoločnosť Porsche Finance Slovakia s.r.o. vedúce postavenie v oblasti financovania osobných a úžitkových automobilov na Slovensku.
+https://www.porschefinance.sk/o-nas/oou-zamestnanci/
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Katarína Máliková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5225162
+Dátum zverejnenia:
+28.1.2026
+2026-01-28
+lokalita:
+Bratislava
+Pozícia:
+Správca informačného systému
+Spoločnosť:
+Porsche Finance Slovakia s. r. o.

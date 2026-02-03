@@ -1,0 +1,109 @@
+Python Backend Developer
+Raiffeisen Conversational AI Lab s. r. o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+4 000 EUR/mesiac
+Finálna ponuka podľa skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného
+Python Backend Developera
+(min. 5 rokov praxe na viacerých projektoch), ktorý nám pomôže rozvíjať a udržiavať integrácie a interné nástroje v našom
+RAG systéme
+.
+Náš ideálny kandidát má skúsenosti s modernými distribuovanými backend systémami, rozumie architektúre a vie sa orientovať v celom ekosystéme backendového vývoja.
+Ak ťa baví stavať kvalitné backend služby, pracovať s modernými technológiami a mať reálny dopad na produkt, čítaj ďalej!
+Náplň práce
+Vývoj nových integrácií s internými a externými API
+Návrh, vývoj a údržba interných nástrojov
+Príprava buildov a releaseov pre naše prostredia
+Údržba a rozširovanie existujúcich služieb a nástrojov
+Účasť na code review a zdieľanie know-how v tíme
+Zamestnanecké výhody, benefity
+Práca v prostredí podobnom startupu v jednej z popredných bankových skupín v CEE
+Spolupráca s najlepšími ľuďmi v oblasti AI a využívanie najmodernejších nástrojov
+Moderné možnosti vzdelávania a rozvoja, možnosť výberu rôznych konferencií a školení
+Rôznorodosť úloh so strategickým významom pre našich klientov
+Práca v inovatívnom prostredí, spolupráca so zaujímavými startupmi
+Flexibilný pracovný čas
+Moznost pracovať z officu alebo z domu
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Python - Pokročilý
+Rest API - Pokročilý
+Linux - Pokročilý
+Amazon Web Services (AWS) - Mierne pokročilý
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Pokročilá znalosť
+Pythonu
+a skúsenosti s vývojom produkčných backend systémov
+Skúsenosti s vývojom
+REST API
+a Python web frameworkami
+(primárne
+FastAPI
+, prípadne Django/DRF, Flask alebo Litestar)
+Dobrá orientácia v
+asynchrónnom programovaní v Pythone
+Skúsenosti s integráciou
+externých a interných API
+a prácou s API dokumentáciou (OpenAPI/Swagger)
+Pochopenie backend architektúry a kľúčových konceptov:
+autentifikácia (OAuth/JWT), HTTP, WebSockets, async workeri, fronty, ORM/SQL, validácia a serializácia dát, caching a škálovanie služieb
+Skúsenosti s vývojom a údržbou
+interných nástrojov a služieb
+Praktická znalosť
+Gitu
+, GitHubu a CI/CD pipeline (GitHub Actions)
+Skúsenosti s
+Dockerom
+a kontajnerizáciou aplikácií
+Znalosť
+Linuxu
+ako hlavného vývojového prostredia
+Skúsenosti s
+AWS
+(S3, EC2, RDS, CloudWatch) alebo ekvivalentnými cloudovými službami
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+RBI Retail Innovation SK s.r.o. is a member of Raiffeisen Bank International Group. Our goal is to identify and introduce modern, innovative technologies with focus for the retail banking across the value chain.
+We are a team of professionals with fintech background and start-up culture, who strive to change the way customers interact with financial services.
+We are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ethnicity, race or colour, national origin, religion, political or other opinion, sex, sexual orientation or disability. We are based in Bratislava.
+Kontakt
+Kontaktná osoba: Bc.  Linda Trancikova
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224708
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Bratislava
+Pozícia:
+Python programátor
+,
+Správca informačného systému
+Spoločnosť:
+Raiffeisen Conversational AI Lab s. r. o.
+Základná zložka mzdy (brutto):
+4 000 EUR/mesiac

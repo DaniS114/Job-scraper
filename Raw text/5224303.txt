@@ -1,0 +1,106 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Linux Engineer (DevOps)
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto):
+Od 3 200 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+Hľadáme šikovného Linux administrátora, ktorý sa chce posunúť viac k smerom DevOps-u a Cloud-u.
+- Administrácia, troubleshooting Linux/UX servrov a AWS infraštruktúry
+- Riešenie komplexných problémov v multi-technologickom enterprise prostredí Linux/AWS
+- Správa cloudových prostredí, buildovanie a príprava prostredí, využívanie automatizovaných scriptov - Python/Perl/Java, Bash...
+- Deployment/buildovanie a následná orchestrácia/kontajnerizácia
+(Docker, Kubernetes, Podman, Terraform, Ansible)
+- Inštalácia, konfigurácia a aktualizácie systémov, správa SQL databáz a aplikácií
+- Návrh, optimalizácia a ladenie podporných skriptov na správu prostredí
+- Riešenie operatívnych požiadaviek a zmien
+- Príprava príslušnej technologickej a prevádzkovej dokumentácie, jej správa a aktualizácia
+Zamestnanecké výhody, benefity
+- nové projekty
+- zázemie silnej spoločnosti
+- žiadne pohotovosti/zmeny
+- podpora vzdelávania a školení
+- zaujímavý benefitný systém
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: ivana.jurikova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná medzinárodná spoločnosť.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT, Telco, elektrotechnický smer
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Linux - Pokročilý
+Počet rokov praxe
+1
+Osobnostné predpoklady a zručnosti
+- Požadovaná prax na pozícii minimálne 1 rok (vítané sú samozrejme aj viacročné skúsenosti): System Admin, Cloud Admin, Virtualizačný špecialista/inžinier, DevOps Engineer
+- SŠ s maturitou/ VŠ (Informačné technológie) I./II. stupeň
+- Skúsenosti s správou Linux servrov - ideálne skúsenosť s RedHat/Suse distribúciou (nemusí byť)
+- HA riešenia pre Linux platformu - výhoda
+- Scripting - (napr. bash, python)
+- Prehľad v správe SQL databáz a webových/aplikačných servroch
+- Znalosť DevOps nástrojov/configuration management tooloch: Terraform, Podman, alebo Ansible, SaltStack, Docker - výhoda
+- Koncepty virtualizácie - VMware vSphere, KVM, Hyper-V
+- ITIL
+- Motivácia učiť sa nové produkty a technológie, Self-Starter, communication, time managment, responsibility, teamwork
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Ivana Juríková
+Tel.:
++421 911 189 261
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224303
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT/Technical Support Specialist
+,
+Správca informačného systému
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 200 EUR/mesiac

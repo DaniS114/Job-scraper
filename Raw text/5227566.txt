@@ -1,0 +1,65 @@
+Senior Frontend Engineer (SvelteKit / WebGL / NATS) pre medicínsky projekt
+TechDaC s.r.o.
+Miesto práce
+Modra, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Možnosť práce na živnosť alebo s.r.o.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Rozvoj a údržba SvelteKit aplikácie (routing, SSR, layouty, data loading)
+Údržba a optimalizácia EEG grafov (PixiJS / uPlot / WebGL renderovanie)
+Údržba integračnej vrstvy medzi frontendom a backendom cez NATS
+Spolupráca s C++ tímom (backend) na message kontraktoch a dátových štruktúrach
+Debugging produkčných problémov v reťazci: Browser ↔ NATS ↔ C++ ↔ SQLite
+Optimalizácia výkonu (pamäť, veľké payloady, downsampling, rendering)
+Zamestnanecké výhody, benefity
+Flexibilná pracovná doba
+Možnosť home-office
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Nemecký jazyk - Pokročilý (C1)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Must-have skúsenosti
+Pokročilý TypeScript (typed APIs, asynchrónne toky, práca s binárnymi dátami)
+Produkčná skúsenosť so Svelte/SvelteKit (SSR, routing, load funkcie)
+Skúsenosť s canvas/WebGL grafmi (PixiJS, Three.js, uPlot, Deck.gl, …)
+Skúsenosť s realtime messagingom (NATS, MQTT, Kafka-like, WebSocket RPC)
+Debugging performance v browseri (memory, veľké datasety, rendering)
+Práca v monorepo (pnpm/yarn workspaces)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Malá firma špecializujúca sa na IT consulting v oblasti vývoja medicínskeho softvéru
+Kontakt
+Kontaktná osoba: Peter Kadlecik
+Tel.:
++421948594255
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5227566
+Dátum zverejnenia:
+2.2.2026
+2026-02-02
+lokalita:
+Modra
+Pozícia:
+Frontend programátor
+Spoločnosť:
+TechDaC s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

@@ -1,0 +1,104 @@
+About us
+Our benefits
+Open positions
+Lead Specialty Architect - Property & Casualty IT
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3,800 and EUR 6,300 per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and ex-perience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation com-ponent, designed to recognise your achievements. Further you will enjoy a variety of global and location spe-cific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the role
+At Swiss Re, our mission is to make the world more resilient by helping society understand, manage, and transfer risk. In the Specialty reinsurance business, this mission takes a very concrete form: Swiss Re supports the coverage of complex, high-severity risks such as aviation, marine, energy, cyber, and political risk – expo-sures that are essential to global trade, infrastructure, and economic stability, yet difficult or impossible to carry without reinsurance.
+As Lead Specialty Architect, you play a key role in enabling this business through technology. By shaping, evolving, and safeguarding the application landscape that supports Specialty underwriting and client engage-ment, you help ensure that these risks can be assessed, managed, and transferred reliably and at scale. In doing so, your work contributes directly to the stability and effectiveness of Swiss Re’s Specialty business and, ultimately, to the resilience of the systems and industries it supports.
+Key responsibilities
+As Lead Specialty Architect, you are the architectural owner of the Specialty application landscape within P&C Re, with end-to-end accountability across all the architectural disciplines:
+•	Own the application and technical architecture for all Specialty business applications, covering their full lifecycle from design to operations.
+•	Oversee the development, maintenance, and evolution of both internal underwriting applications and externally facing solutions used by Swiss Re’s Specialty reinsurance clients.
+•	Shape the Specialty business application landscape in close collaboration with Business Architecture, ensuring clear domain alignment and long-term sustainability.
+•	Design and evolve the Specialty data architecture together with P&C Re Data Architecture, including data models, integration patterns, and analytical foundations.
+•	Define and govern cloud-native architectures on Microsoft Azure, ensuring scalability, security, cost efficiency, and operational robustness.
+•	Ensure operational stability and resilience of the application portfolio by working closely with the central Level-2 support team and the Reliability & Resilience Architecture function.
+•	Actively contribute to the P&C Re Architecture chapter, helping define standards, reference architec-tures, and application blueprints.
+•	Own and lead one or two cross-cutting architectural topics relevant across all P&C Re IT product are-as.
+•	Foster strong, trust-based collaboration between application development teams and the Architec-ture function.
+Why this role matters
+This is a role for someone who wants real impact. The decisions you make will influence how Specialty reinsur-ance is underwritten, managed, and scaled at Swiss Re – and, by extension, how complex global risks are ab-sorbed and mitigated.
+If you are looking for an architect role with genuine ownership, strategic relevance, and a direct connection to Swiss Re’s purpose, we would be pleased to hear from you.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+We are looking for a candidate with a balanced profile of deep technical expertise and strong leadership capa-bilities.
+Professional & Technical Skills
+A successful candidate will bring most of the following:
+•	Extensive experience in application development and operating an application landscape at scale.
+•	Strong, hands-on background in designing and building applications using .NET.
+•	Deep experience with cloud-native infrastructure architectures for Azure-based applications.
+•	Solid hands-on experience in data modeling and data structure design, with exposure to formal Data Architecture practices.
+•	Experience with Angular is a strong plus.
+•	Practical experience with Databricks and/or Palantir Foundry is highly beneficial.
+•	A university degree in Computer Science, Software Engineering, or a comparable engineering disci-pline.
+•	Experience in the insurance or reinsurance industry is strongly desirable.
+•	A solid understanding of Specialty reinsurance (or the willingness and ability to acquire it quickly) is a clear differentiator.
+Personal & Leadership Skills
+Equally important are your personal strengths:
+•	Strong thought leadership and influencing skills; ability to challenge the status quo and advocate for meaningful change.
+•	Architectural mindset, with a structured approach to problem-solving and strong planning and design capabilities.
+•	Proven ability to break down complex problems into manageable components and design coherent solutions.
+•	Exceptional ability to explain architectural decisions clearly and logically to both technical and non-technical audiences.
+•	High personal integrity, accountability, and a proactive approach to ownership and decision-making.
+•	Excellent collaboration and communication skills, able to build trusted relationships across teams, functions, and geographies.
+•	Fluency in spoken and written English.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5223873
+Dátum zverejnenia:
+26.1.2026
+2026-01-26
+lokalita:
+Bratislava
+Pozícia:
+.NET Programmer
+,
+IT Architect
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

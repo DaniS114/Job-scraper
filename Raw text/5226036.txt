@@ -1,0 +1,114 @@
+Senior Infrastructure & App Security Engineer
+SOITRON, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+od 2500€ / mesiac + variabilná zložka + benefity *Mzda je uvedená minimálna. Finálna ponuka sa odvíja od znalostí a skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Máš za sebou roky správy serverov, domén alebo webových aplikácií a bezpečnosť je pre teba prirodzenou súčasťou každého dizajnu? Do nášho Security tímu hľadáme skúseného kolegu/kolegyňu, ktorý/á chce svoje znalosti z oblasti infraštruktúry a aplikácií pretaviť do komplexných bezpečnostných riešení. Ak ťa láka prechod od čistého adminovania k architektúre a implementácii nástrojov ako PAM, IAM či WAF, táto rola je pre teba ako stvorená.
+Náplň práce:
+Dizajn a implementácia bezpečnosti:
+Návrh, konfigurácia a správa bezpečnostných architektúr so zameraním na ochranu infraštruktúry a aplikačnej vrstvy.
+Riadenie identít a prístupov (IAM/PAM):
+Implementácia a správa riešení pre kontrolu prístupov (Privileged Access Management) a správu digitálnych identít.
+Aplikačná ochrana (WAF):
+Konfigurácia a monitoring Web Application Firewallov na zabezpečenie webových služieb a aplikácií pred modernými hrozbami.
+Security Hardening:
+Zabezpečovanie serverových platforiem (Linux/Windows), virtualizačných vrstiev a databáz.
+Monitoring a SIEM:
+Spolupráca na integrácii systémových logov do SIEM riešení a analýza bezpečnostných udalostí.
+SLA a incident management:
+Zodpovednosť za dostupnosť bezpečnostných systémov a riešenie incidentov v rámci on-duty režimu.
+Konzultačná činnosť:
+Odborné poradenstvo pre zákazníkov a úzka spolupráca s ostatnými technickými tímami v rámci Soitron Group.
+Zamestnanecké výhody, benefity
+Soitron poskytuje širokú škálu benefitov, ktoré ťa veľmi potešia a určite si ich užiješ. Toto je zopár z nich:
+-
+Služobné auto
+- Služobný notebook + telefón
+- Multisport karta
+- Finančné príspevky pri narodení dieťaťa či svadbe
+- Firemné akcie, teambuildingy, športové akcie...
+- Príspevok od zamestnávateľa v rámci DDS
+- Príspevok na kúpu hardware/software
+- Jazyková výučba
+- Možnosť rozvoja a prehlbovania kvalifikácie
+- Dni voľna navyše
+- V NEPOSLEDNOM RADE práca pre IT firmu ktorá stále napreduje
+- Možnosť kariérneho rastu
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+a
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+Administrácia Windows serverov - Mierne pokročilý
+Osobnostné predpoklady a zručnosti
+Min. 5 rokov praxe
+v oblasti IT infraštruktúry (Systems/Server Administrator) alebo Application Managementu.
+Pokročilá znalosť OS:
+Hlboká expertíza v správe Windows Server (Active Directory/Group Policy) alebo Linux distribúcií (RHEL, Debian).
+Skúsenosť s virtualizáciou:
+Praktická znalosť VMware vSphere/ESXi (znalosť kontajnerizácie Docker/Kubernetes je výhodou).
+Záujem o Security technológie:
+Praktická skúsenosť alebo silná teoretická orientácia v riešeniach typu WAF, PAM, IAM či SIEM.
+Sieťové minimum:
+Základný prehľad v sieťových protokoloch (TCP/IP, HTTP/S, SSL/TLS certifikáty).
+Certifikácie:
+Výhodou sú certifikácie typu CISSP, CEH, prípadne vendor-špecifické certifikáty (Microsoft, RedHat, VMware, Palo Alto).
+Ostatné požiadavky
+Analytický prístup:
+Schopnosť diagnostikovať komplexné problémy naprieč rôznymi vrstvami IT stacku.
+Komunikačná úroveň:
+Profesionálne vystupovanie a schopnosť vysvetľovať technické riešenia zákazníkovi.
+Anglický jazyk:
+Úroveň B2 (stredne pokročilý) pre prácu v medzinárodných tímoch.
+Vodičský preukaz:
+Skupina B.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť Soitron je stredoeurópskym integrátorom, ktorý pôsobí na IT trhu už viac ako 30 rokov. Svojim klientom ponúka produkty a služby v oblasti robotizácie a automatizácie procesov, internetu vecí (IoT), IT infraštruktúry, komunikačných a cloudových riešení, IT bezpečnosti, služieb a outsourcingu, či IT poradenstva a aplikácií. Soitron, s.r.o. je členom skupiny Soitron Group, v ktorej pracuje viac ako 800 medzinárodných odborníkov a združuje profesionálne tímy na Slovensku, v Českej republike, Rumunsku, Turecku, Bulharsku, Poľsku a Veľkej Británii. Ponúka jedinečné skúsenosti v oblasti IT a možnosť profesionálneho rastu v medzinárodnom prostredí.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Anna Leskovjanská
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5226036
+Dátum zverejnenia:
+29.1.2026
+2026-01-29
+lokalita:
+Bratislava
+Pozícia:
+IT/Technical Support Specialist
+,
+Správca informačného systému
+,
+Systémový administrátor
+,
+Systémový inžinier
+,
+Špecialista IT bezpečnosti
+Spoločnosť:
+SOITRON, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

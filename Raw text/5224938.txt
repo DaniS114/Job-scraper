@@ -1,0 +1,113 @@
+Junior Systémový Administrátor IT
+iServices s.r.o.
+Miesto práce
+Strojnícka 34, Ružinov
+Druh pracovného pomeru
+plný úväzok, na dohodu (brigády)
+Termín nástupu
+po dohode
+Mzdové podmienky (brutto)
+Od 1 500 EUR/mesiac
+Výkonnostné bonusy vyplácané 2x ročne. Uvedená mzda predstavuje minimálne platové ohodnotenie. Konečná výška mzdy závisí od odborných znalostí, preukázateľných zručností, predchádzajúcich skúseností kandidáta a bude predmetom jednania na osobnom pohovore.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Helpdesk a používateľská podpora:
+Prijímanie, evidencia a základné riešenie IT požiadaviek a incidentov používateľov prostredníctvom Service Desk nástroja.
+Prerozdeľovanie zložitejších požiadaviek na seniorných IT špecialistov a spolupráca pri ich riešení.
+Sledovanie stavu a termínov riešenia tiketov, komunikácia so zákazníkmi a používateľmi.
+Poskytovanie technickej podpory pre koncových používateľov (pracovné stanice, základné sieťové a aplikačné problémy).
+Základná diagnostika problémov a eskalácia podľa interných postupov.
+Systémová a infraštruktúrna podpora:
+Základná správa a podpora serverových systémov na platforme Windows a Linux (pod dohľadom seniorného administrátora).
+Asistencia pri administrácii sieťových prvkov (napr. Fortinet, Zyxel, Sophos).
+Spolupráca na údržbe, aktualizáciách a monitorovaní systémov a infraštruktúry.
+Základná analýza incidentov, pomoc pri prevencii a odstraňovaní bežných problémov.
+Podpora pri správe zálohovania, obnove dát a monitorovaní diskových kapacít.
+Vedenie a aktualizácia technickej dokumentácie.
+Projektová a rozvojová činnosť:
+Účasť na implementačných projektoch u zákazníkov ako podpora tímu.
+Spolupráca pri návrhoch jednoduchších infraštruktúrnych riešení.
+Testovanie nových softvérových a hardvérových riešení v rámci interného prostredia.
+Postupné rozširovanie znalostí v oblasti serverov, sietí a bezpečnosti.
+Typický deň na pracovnej pozícii:
+Riešenie helpdesk tiketov a komunikácia s používateľmi.
+Základná administrácia a monitoring serverov, sietí a pracovných staníc.
+Spolupráca s tímom na riešení incidentov a úloh.
+Účasť na tímových poradách, plánovaní úloh a konzultáciách so zákazníkmi.
+Zamestnanecké výhody, benefity
+Vzdelávacie kurzy, školenia a certifikácie v oblasti kybernetickej bezpečnosti.
+Zaujímavá práca v dobrom kolektíve.
+Priestor pre odborný rast a profesionálny rozvoj.
+Motivujúce finančné ohodnotenie.
+Flexibilná pracovná doba.
+Káva a čaj neobmedzene k dispozícii.
+Firemné akcie.
+Informácie o výberovom konaní
+V prípade záujmu o túto pozíciu pošlite prosím na uvedený email Váš životopis v slovenskom a anglickom jazyku. Názov pozície uveďte do predmetu správy.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Vodičský preukaz
+B
+Počet rokov praxe
+3
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Základná znalosť nasadzovania a prevádzky Microsoft riešení, inštalácie, konfigurácie, upgrade, patchovanie.
+Základná znalosť prostredia Microsoft Windows Server, Active Directory, doménových služieb, konfigurácia systémových a sieťových služieb (DNS, WINS, DHCP, Terminal Services...).
+Základná skúsenosť s prevádzkou a správou virtualizačnej platformy VMware.
+Základná skúsenosť s prevádzkou a správou zálohovacieho riešenia VEEAM.
+Základná skúsenosť s MS Office 365 a cloudovou platformou Windows Azure.
+Znalosť v oblasti networkingu (protokoly, routing, IP adresácia), potrebná pre prácu so servermi a konfigurovaní firewall zariadení (VPN, VLAN).
+Základná znalosť niektorého z MS produktov (technológií): MS Exchange, MS SQL Server.
+Základná znalosť IT security.
+Prezentačné schopnosti a skúsenosti.
+Zodpovednosť a dôslednosť pri práci.
+Vyššie vzdelanie v oblasti IT.
+Hard skills: základné skúsenosti s návrhom a implementáciou IT riešení, pokročilá znalosť operačných systémov, virtualizácia, sieťové technológie, databázové technológie.
+Soft skills: vynikajúce komunikačné a tímové schopnosti, samostatnosť, flexibilita, riešenie problémov.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť iServices s.r.o. má za sebou viac ako 17 rokov aktívneho pôsobenia v oblasti technológií zameraných na kybernetickú bezpečnosť. Naša spoločnosť je stabilným distribútorom technológie DLP Safetica a má status Platinového a certifikovaného partnera ESET pre implementáciu XDR platformy. Jednou z našich hlavných oblastí, v ktorých sme dosiahli významný úspech, je prevencia a detekcia pokročilých kybernetických hrozieb, ako sú cielené útoky, ransomware, phishing a zero-day exploity.
+Na trhu sa prezentujeme aj ako poskytovateľ komplexných outsourcingových služieb pre malé a stredné spoločnosti. Našou strategickou prioritou je ponúkať vysokokvalitné riešenia a služby, ktoré zvyšujú konkurencieschopnosť našich klientov vďaka efektívnemu využitiu informačných technológií.
+Viac sa o nás dozviete na našej stránke.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Pavol Šimák
+Tel.:
++421 2 6224 4226
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224938
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+Spoločnosť:
+iServices s.r.o.
+Základná zložka mzdy (brutto):
+1 500 EUR/mesiac

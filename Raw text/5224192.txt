@@ -1,0 +1,130 @@
+Senior Java Tech Lead
+CODERAMA s. r. o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 4 500 EUR/mesiac
+Základná mzda pri TPP je 3 000,- EUR.
+Pri kontrakte sa mzda pohybuje od 4 500,- do 6 400,- EUR.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ahoj,
+som Marta z CODERAMA a momentálne hľadám skúseného technického lídra, ktorý chce svojimi kódmi reálne ovplyvniť budúcnosť planéty. Ak ťa láka oblasť elektromobility a chceš stáť pri zrode inteligentnej platformy pre nabíjanie vozidiel, čítaj ďalej.
+Čo ťa počas dňa čaká?
+Vedenie tímu ako Tech Lead
+a úzka spolupráca s Product Ownermi pri preklade biznis požiadaviek do technického riešenia,
+navrhovanie a implementácia
+robustnej microservice architektúry na najnovšej
+Jave 21 a Spring Boot 3.x
+,
+ownership celého procesu
+– od správy backlogu až po zodpovednosť za releasy,
+vývoj REST API
+a komplexných integrácií (aktuálne 3 mikroservisy komunikujúce s mobilnou aplikáciou),
+nastavovanie CI/CD pipelín
+a správa cloudovej infraštruktúry (Docker, GitHub Actions),
+práca na systéme, ktorý vďaka inteligentnému nabíjaniu šetrí klientom peniaze (cashback) a pomáha životnému prostrediu.
+Čo od teba očakávame?
+Hlboké skúsenosti s vývojom v Jave 21
+a frameworkom
+Spring Boot 3.x
+,
+prax s návrhom
+microservice architektúry
+(ideálne od nuly),
+skúsenosti s
+NoSQL databázami (MongoDB)
+a prácou v Linux prostredí,
+znalosť kontajnerizácie (
+Docker, Docker Compose
+) a automatizácie (GitHub Actions),
+schopnosť
+viesť tím
+a brať zodpovednosť za technické smerovanie projektu,
+otvorenosť k novým technológiám – do budúcna nás čaká
+Kotlin, Python a AI/ML
+,
+aktívny prístup k riešeniu problémov v dynamickom startupovom prostredí.
+V CODERAMA sa o teba dobre postaráme, pošli svoje CV a ozveme sa ti späť :).
+Zamestnanecké výhody, benefity
+• Nadštandardné platové ohodnotenie
+• Možnosť kariérneho rastu a sebarealizácie
+• Možnosť rotácie medzi projektami
+• Práca v úspešnej spoločnosti a v priateľskom kolektíve
+• Podpora vzdelávania a sebarozvoja
+• Flexibilná pracovná doba
+• Možnosť pracovať odkiaľkoľvek
+• Žiadna byrokracia
+• Firemný hardware
+• Stabilita, takmer žiadna fluktuácia - ak už raz do CODERAMA prídeš, nebudeš chcieť odísť
+• Event kalendár plný športových a kultúrnych akcií, teambuildingov a iných aktivít
+• Práca spojená s cestovaním, tzv. Work & Travel
+• Pet friendly office
+• Psychologické poradenstvo, coaching a mentoring program
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+Java - Pokročilý
+Spring Boot 3.x - Pokročilý
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+• Znalosť agilného vývoja
+• Chuť pracovať
+• Záujem učiť sa nové technológie
+• Zodpovednosť za pridelené úlohy
+• Samostatnosť, ale zároveň aj tímovosť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+CODERAMA, s.r.o. je progresívny a inovatívny SOFTWARE HOUSE zaoberajúci sa vývojom komplexných enterprise riešení pre zákazníkov zo Slovenska a zahraničia ako sú ŠKODA AUTO, NOTINO, CRIF, KONICA MINOLTA, MOROSYSTEMS, MONET+, KISTLER, KOMIX, BRAVIDA, ČSOB, MEGAUBYTOVANIE.SK, DXC TECHNOLOGY, TELEKOM, INTERWAY, KROS, UNIQA, AVILOO, UNILABS SK a ďalších.
+Zákazníci na nás najviac oceňujú našu proaktivitu a poctivosť. Okrem vývoja zákazníckych riešení sme sa s nadšením pustili aj do vlastných projektov a už teraz sa nevieme dočkať ako ich uvedieme na trh.
+V CODERAMA je nás 170+ a neustále rastieme.
+Okrem Žiliny pôsobíme aj v Bratislave, Martine a Banskej Bystrici. Mnohí z nás pracujú aj REMOTE. Každý z nás je jedinečný a navzájom sa perfektne dopĺňame. Vieme tvrdo zamakať ale aj sa poriadne zabaviť.
+V CODERAMA si zakladáme na kamarátskom prístupe, tímovosti, poctivej práci, transparentnosti a slobode. Problémy riešime spoločne a aj úspechy oslavujeme spoločne. Ak sa chceš presvedčiť, že pracovať u nás je naozaj zážitok, príď nás kedykoľvek navštíviť.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: HR Tím
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224192
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+DevOps Engineer
+,
+Java programátor
+,
+Programátor
+Spoločnosť:
+CODERAMA s. r. o.
+Základná zložka mzdy (brutto):
+4 500 EUR/mesiac

@@ -1,0 +1,114 @@
+Senior Test Engineer (Air Traffic Management)
+FREQUENTIS Solutions & Services s. r. o.
+Miesto práce
+Karadžičova 8, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+2 600 EUR/mesiac
+Freelancer's hourly rate to be agreed individually. The final offer may vary based on the experience and qualifications of the selected candidate.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​
+FREQUENTIS Solutions & Services (FSS)
+as a member of the Austrian Group FREQUENTIS AG, is focused on software development, system engineering and delivery of safety-critical voice communication and information systems. Our solutions are developed and distributed in the following business segments:
+Air Traffic Management & Defence
+(civil and military air traffic control, aeronautical information management),
+Public Safety
+(police, fire and rescue services, emergency medical services) and
+Public Transport & Maritime
+(railway and urban transport solutions, vessel traffic management).​
+Voice and data communication is crucial for any air traffic control service. Our
+Independent Verification & Validation Team
+is responsible for the evaluation of the developed product and project solutions. Its primary task is the technical quality assurance of our systems, using various methods of verification and validation (Acceptance, Use Cases, Operational Scenarios…).
+Within the
+Independent Verification & Validation Team
+, the customer is at the center of attention — ensuring that the required solutions in the safety‑critical field of air traffic management are evaluated in the best possible way, assessed independently, and that the release process on the part of product development and project execution is supported to the highest standard.
+We are currently expanding our team of
+Test Engineers
+, who are responsible for testing our mission-critical software solutions to ensure reliability, performance, and compliance with industry standards.
+Join our team and help us make our solutions even more reliable. Work for an international technological leader and enjoy the benefits of flexible working arrangements and our focus on a good work-life balance.
+Main tasks
+Take part in daily work of the Scrum team
+: Attend daily stand-ups, sprint planning,      reviews, and retrospectives. Collaborate closely with developers, product      owners, and other team members to ensure quality is built into the product      from the start
+Test management
+: Design, review and refine test strategies,      test plans and test specifications based on project and product      requirements as well as system design and architecture
+Test execution and Defect management:
+Execute system tests in complex environments      (incl. Acceptance Verification, Use Case Validation). Document defects      with lifecycle tools such as JIRA, JAMA and automation frameworks to      ensure efficient testing processes
+Documentation:
+Document and communicate test progress      clearly, from requirements through execution to final results and problem      reports, create independent quality reports
+Reviews:
+Review system and user requirements and contribute your technical      perspective to ensure clarity and quality
+Technical skills & Competencies
+Experience in      software/hardware/network testing (Test Environment      management)
+Experience with test phase processes      (preparation, execution, evaluation) and documentation (Test Data      management)
+Experience with a BUG reporting (Defect management)
+Experience with agile      software/system development process is an advantage
+Microsoft Office,      Computer literacy and general overview of IT technologies
+Key Qualifications
+VOIP domain
+: telecommunications,       networking, RFC 3261 standard;
+software application experience
+-        audio (voice), video, multimedia and metadata over IP networks,        transformation of analog signals into data packets and ensuring        efficient, secure, and high-quality delivery;
+legacy interfaces for voice communication
+Linux domain
+: CLI navigation, file viewers       & editors, permissions and ownership, package management, system       administration & networking basics
+Programming:
+Java, Groovy, SQL, Spring,       HTML5, XML, RESP API, Selenium, VoIP
+Databases:
+SQL Server, Postgres
+Tools/Platforms:
+Wireshark, Postman, Github,       Maven, Git, Jira, Jama, Confluence
+Several years of experience in testing,      verification and validation of complex projects or product developments      using various test tools
+Experience with integration projects in IT and      telecommunications environments (VoIP)
+Zamestnanecké výhody, benefity
+Training and development program (business and product trainings, language course)
+Employee referral program (financial reward for recommending a successful candidate)
+Employee assistance program (legal, financial and psychological counselling)
+Meal contribution fully paid by the company
+Multisport card/Pension scheme contribution (DDS)
+Flexible working hours, home office
+Refreshments, company & team events
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Completed technical education (University)
+Strong social and communication skills, collaborative, connecting, and a reliable team player
+Very good English skills (written and spoken) are required
+Willingness to travel up to approx. 10%
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Our Bratislava-based company FREQUENTIS Solutions & Services is part of the Austrian FREQUENTIS group (www.frequentis.com). We are a leading global supplier of communication and information solutions for safety-critical applications, such as for air traffic control towers, public safety control rooms (112) or air defense forces. Our mission-critical solutions cover diverse areas, such as telephony and radio communication, Geographical Information Systems (GIS), incident and resource management, video surveillance and automatic video analytics.
+FREQUENTIS Solutions & Services is specialized in software development and project delivery. Together with our parent company we are developing FREQUENTIS’ next generation control room solutions, using state-of-the-art technologies and processes. Our delivery teams then deploy those solutions at our customers around the globe, with responsibility for commercial and technical project management, engineering and quality assurance.
+To grow our team, we are constantly looking for talents in all these fields. Our company offers an interesting and challenging technical environment, a people-focused culture with the emphasis on a good work-life-balance and, if desired, a long-term development and career opportunities.
+For our customers, lives may be at stake and seconds count. Our solutions thus need to be developed to the highest standards when it comes to usability and reliability. Safety is what guides us from the first designs till the final tests of any of our solutions. If those are the kinds of challenges that excite you, then you have come to the right place!
+Počet zamestnancov
+150-199 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Eva Lajchová
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5225186
+Dátum zverejnenia:
+28.1.2026
+2026-01-28
+lokalita:
+Bratislava
+Pozícia:
+IT tester
+Spoločnosť:
+FREQUENTIS Solutions & Services s. r. o.
+Základná zložka mzdy (brutto):
+2 600 EUR/mesiac

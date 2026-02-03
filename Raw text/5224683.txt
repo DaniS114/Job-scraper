@@ -1,0 +1,106 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Fullstack Developer Java and JavaScript
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+The Software Engineer (Agile) is responsible for the continuous development and enhancement of the internal Telekom application VIS-Tool (Vertragsbestands-Informations-System). The role focuses on modular expansion and automation of order request processes within the CVS/CPS environment, replacing manual Excel-based workflows with a modern, web-server-based architecture to enable faster, more efficient, and error-free contract and product processing.
+Team / Project Description
+The VIS-Tool is a business-critical internal application supporting multiple Telekom business units in managing framework contracts and product orders. The development team works in an agile, cross-functional setup, collaborating closely with business stakeholders, system interfaces, and internal microservices to deliver reliable and scalable process automation solutions.
+What will you do?
+Continuously develop and enhance the VIS-Tool application in an agile environment.
+Design and implement modular extensions to automate order request processes (Abrufaufträge) in the CVS/CPS landscape.
+Replace manual, Excel-based workflows with scalable, web-based solutions.
+Implement functional changes across multiple application modules.
+Develop backend and frontend components using Java, JavaScript, and SQL with Oracle databases.
+Design technical solutions at module and component level within existing system architectures.
+Integrate VIS-Tool with internal microservices, contract systems, and master data sources.
+Provide technical consulting and advisory support to business stakeholders.
+Collaborate closely with developers, analysts, and business teams in cross-functional agile setups.
+Contribute to technical documentation and overall system transparency.
+Support the stability, maintainability, and continuous improvement of the application.
+You will succeed if you:
+have strong software engineering experience in enterprise application environments
+have hands-on development experience with
+Java, JavaScript, and SQL / Oracle DB
+–
+Advanced
+have experience working in
+agile development environments
+have a solid understanding of
+business process automation
+and software modularization
+have the ability to analyze, design, and implement solutions within existing architectures
+are comfortable implementing small to medium functional changes across multiple modules
+have a structured, solution-oriented, and analytical working style
+communicate clearly with both technical and business stakeholders
+enjoy working in cross-functional teams and collaborative environments
+POSSIBLE SPECIALIZATION
+Experience with
+telecom systems
+or contract-based process environments
+Exposure to
+project management methods
+or coordination roles
+Experience with
+workflow-driven applications
+integrating multiple interfaces
+Business-facing
+consulting or advisory experience
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lucia Gbúrová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224683
+Dátum zverejnenia:
+27.1.2026
+2026-01-27
+lokalita:
+Remote work
+Pozícia:
+Java Programmer
+,
+Javascript Programmer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 100 EUR/month
