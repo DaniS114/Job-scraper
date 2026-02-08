@@ -1,0 +1,129 @@
+Mobile App developer - Kotlin
+Rayzon Technologies AG
+Miesto práce
+City Business Center III., Karadžičova, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Mzdové podmienky (brutto)
+Od 5 000 EUR/mesiac
+It all depends on your skills, performance and your attitude.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Our development team is growing and we are looking for a new colleague, senior with knowledge of Mobile App development using Kotlin / Kotlin Multiplatform. Would it be you ?
+Job description:
+Development and long-term maintenance of the product, developed fully in-house, with focus on development of Mobile Apps (iOS and Android) using
+Kotlin Multiplatform
+Work in a small solution team, FE, BE, QA, PO, SM, BA, UI/UX
+Daily collaboration with colleagues and customers
+Required Skills:
+Core technologies
+Hands-on experience with
+Kotlin Multiplatform - senior level
+Solid understanding of
+Kotlin Coroutines
+and
+Flow
+Experience with
+Compose Multiplatform
+/
+Jetpack Compose
+Architecture & Backend communication
+Experience working with
+RESTful APIs
+Practical knowledge of
+dependency injection
+principles and patterns
+Proper English language in speaking & writing
+Strong problem-solving / debugging skills
+Teamwork - communication & collaboration skills
+Nice to have skills:
+Mapbox
+or similar custom maps service
+Experience with
+Swift
+and iOS development
+Experience with
+WebSockets
+(e.g.
+STOMP
+)
+Experience using
+Ktor
+Experience working with
+GitLab
+and
+Jenkins
+(including CI/CD pipelines)
+Ability to use
+profiling and performance analysis tools
+to identify and resolve performance issues
+Personality:
+Pro-active and dynamic person with ability to deliver & learn fast.
+Responsible, willing to take ownership of the product
+Creative person, able to think out of the box
+Customer and goal oriented
+Tech stack:
+Kotlin Multiplatform
+Online maps (Mapbox)
+Bleeding edge libraries & technologies
+Zamestnanecké výhody, benefity
+Long- term collaboration on well established product with 13+ years of history
+Work on interesting special-purpose software
+Small team with very friendly atmosphere, seniors only
+Private office with your own table in Bratislava, fully equipped, including parking
+Working hardware will be provided to you (MacBook)
+On-site / hybrid / full remote work is possible
+Attractive salary
+Informácie o výberovom konaní
+If you want to be our new colleague then don't hesitate and show an interest.
+Please email us your CV and contact details, we will get back to you soon.
+Thank you
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+RAYZON TECHNOLOGIES
+Swiss based company develops and manufactures leading and innovative solutions for tracking, mobile communication and intelligence applications.
+Our customers include law enforcement organizations, special units & security services.
+Our passion for technology drives everything we do. By truly listening to our customers and understanding how they work—their challenges, their goals, and the obstacles they face—we transform insight into innovation. We are committed to delivering cutting‑edge solutions that empower professionals around the world, without requiring specialized expertise or extensive training.
+Our mission is simple: make advanced technology intuitive, easy to use and yet powerful.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Tomas Sasala
+Tel.:
++421917341745
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5229496
+Dátum zverejnenia:
+5.2.2026
+2026-02-05
+lokalita:
+Bratislava
+Pozícia:
+Android programátor
+,
+Frontend programátor
+,
+iOS programátor
+Spoločnosť:
+Rayzon Technologies AG
+Základná zložka mzdy (brutto):
+5 000 EUR/mesiac

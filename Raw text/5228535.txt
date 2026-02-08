@@ -1,0 +1,90 @@
+Full Stack Engineer – Metering (Python/Angular/PostgreSQL)
+GIS Services, s.r.o.
+Miesto práce
+V. P. Tótha 17, Zvolen, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+v priobehu Q2 2026
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+Konkrétna mzda sa odvíja od seniority, skúseností a rozsahu zodpovednosti v oblasti meteringu.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ako
+Full Stack Engineer
+budete v našom tíme niesť technickú zodpovednosť za oblasť správy meradiel, meraní a odpočtov: budete sa starať o backendovú, frontendovú a dátovú vrstvu sa zreteľom na robustnosť a škálovateľnosť riešenia. Vašou úlohou bude proaktívne navrhovať, obhajovať a zavádzať dôležité technické rozhodnutia (napr. smerovanie architektúry a integračný prístup) v úzkej spolupráci s manažmentom a ďalšími členmi tímu tablano.
+Pozícia je určená pre tých ktorí premýšľajú v súvislostiach a pozerajú sa na systém ako celok.
+Vaše zodpovednosti
+- Zodpovednosť za dlhodobý rozvoj oblasti meteringu
+- Navrhovanie a obhajovanie architektonických a technických riešení. Tvorba a realizácia plánov na ich implementáciu.
+- Návrh a implementácia backendových komponentov a API v oblasti meteringu (vrátane integračných rozhraní a komponentov na spracovanie dát)
+- Tvorba a údržba interných aj zákazníckych softvérových nástrojov, dashboardov a špecializovaných portálov súvisiacich s meraním
+- Definícia a vývoj dátových modelov, integrácií a transformácií naprieč systémami
+- Implementácia a údržba automatizovaných nástrojov na spracovanie a agregáciu dát (na báze Pythonu)
+- Uplatňovanie best practices vo vašej oblasti (prehľadný kód, prehľadná dokumentácia, udržateľnosť)
+- Zlepšovanie kvality v rámci oblasti (testovanie, vylepšenia CI/CD, v prípadoch kde toto prináša jasnú pridanú hodnotu)
+- Včasná identifikácia rizík, technických nedostatkov a obmedzení škálovateľnosti
+- Úzka spolupráca s vedením a ďalšími členmi tímu tablano s cieľom zosúladiť technický smer s obchodnými potrebami
+Váš profil (požiadavky)
+- Viac ako 3 roky profesionálnych skúseností ako Full Stack Engineer produkčných systémov
+- Strong Python skills so skúsenosťami v oblasti transformácie/spracovania dát a heterogénnych dát
+- Strong frontend skills v Angular + TypeScript/JavaScript, HTML/CSS; schopnosť vytvárať udržiavateľné UI a dashboardy
+- Solídne znalosti v oblasti návrhu API, integračných architektúr a data processing patterns
+- Silné znalosti PostgreSQL a modelovania relačných dát
+- Skúsenosti s väčšími dátovými sadami alebo časovými dátami, vrátane návrhov zameraných na výkonnosť (dotazy, indexovanie, koncepty uchovávania/opätovného spracovania)
+- Chápanie konceptov autentifikácie a autorizácie (OAuth2, JWT, systémy založené na tokenoch)
+- Skúsenosti s CI/CD pipeline, automatizovaným testovaním a procesmi smerujúcimi na zabezpečenie kvality
+- Myslenie zamerané na architektúru a schopnosť zvažovať kompromisy a dlhodobý vplyv
+- Výborné komunikačné zručnosti a ochota pracovať s netechnickými zainteresovanými stranami
+- Plynulá znalosť angličtiny
+Výhodou sú
+- Skúsenosti s databázami časových radov (napr. TimescaleDB alebo podobné)
+- Skúsenosti s IoT / telemetriou / smartmetering
+- Skúsenosti s návrhom multi-tenant systémami a stratégiami izolácie dát
+- Skúsenosti s modernými cloudovými prostredím (AWS, Azure, GCP) alebo porovnateľnými platformami
+Zamestnanecké výhody, benefity
+Čo ponúkame
+- Zodpovednosť za strategicky dôležitú oblasť s reálnym vplyvom na produkciu
+- Vysoká miera samostatnosti a vplyvu na technické smerovanie v oblasti meteringu
+- Praktický prístup k vývoju s krátkymi rozhodovacími procesmi
+- Hybridný model práce
+- Dlhodobá perspektíva v rastúcej technologickej spoločnosti
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+alebo
+Nemecký jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť GIS Services so sídlom vo Zvolene je dcérskou spoločnosťou nemeckej firmy PTW GmbH. Aj keď sme na slovenskom trhu už viac ako 20 rokov, stále sa považujeme za mladú a progresívnu firmu – a túto energiu vkladáme najmä do nášho hlavného produktu tablano.
+tablano je flexibilná platforma na digitálne riadenie prevádzkových procesov a dát – spája ľudí, úlohy a informácie do jedného systému od plánovania a realizácie práce až po vyhodnocovanie, reporting, dashboardy a integrácie do nadväzujúcich systémov. Vďaka konfigurovateľným workflowom a napojeniam dokáže prepájať údaje z rôznych zdrojov a premieňať ich na použiteľné výstupy pre každodennú prevádzku aj rozhodovanie.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Martin Herich
+Tel.:
++421905638366
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5228535
+Dátum zverejnenia:
+3.2.2026
+2026-02-03
+lokalita:
+Zvolen
+Pozícia:
+Programátor
+Spoločnosť:
+GIS Services, s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

@@ -1,0 +1,116 @@
+Softvérový inžinier – poruchový systém verejného osvetlenia (Java / Angular)
+IS - Industry Solutions, a.s.
+Miesto práce
+Žilina
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 100 EUR/mesiac
+podľa schopností a skúseností.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Chceš pracovať na projekte, ktorý má reálny dopad na mestá a ich infraštruktúru?
+Do nášho tímu hľadáme vývojára, ktorý nám pomôže rozvíjať poruchový systém pre verejné osvetlenie.
+Vyvíjame systém, ktorý eviduje zariadenia verejného osvetlenia, sleduje poruchy a hlásenia a prehľadne ich zobrazuje používateľom. Cieľom je spoľahlivé, rýchle a bezpečné riešenie, ktoré zjednoduší správu celej infraštruktúry.
+Používame
+Java + Spring Boot
+na backende a
+Angular
+na fronte. Ak máš rád full-stack vývoj – ideálne. Ak si silnejší v jednej oblasti a v druhej sa chceš zlepšiť – tiež úplne v poriadku.
+Čo budeš robiť
+Vyvíjať backend aj frontend aplikácie
+Navrhovať a implementovať backendové služby
+Pracovať na frontendovom rozhraní v Angulari
+Spolupracovať s tímom v agilnom prostredí
+Refaktorovať, robiť code review a zlepšovať kvalitu kódu
+Riešiť bugy, incidenty a optimalizovať výkon
+Pomáhať s modernizáciou a bezpečnostnými úpravami systému
+Zamestnanecké výhody, benefity
+Čo u nás získaš:
+200 € ročne
+na spoločenské, športové či kultúrne akcie – nech sa bavíš aj mimo práce
+3% príspevok do III. piliera
+od nás – mysli na budúcnosť
+stravný lístok 7 €
+– bez doplatkov, len si uži obed
+400 € príspevok pri narodení dieťaťa
+– malý bonus pre veľkú radosť
+mobil aj na súkromné účely
+– môžeš volať aj cez víkend
+teambuildingy
+– pretože tím je sila
+flexibilná pracovná doba
+– vieme, že život nie je 9–17
+možnosť rastu
+– chceme, aby si rástol spolu s nami
+Informácie o výberovom konaní
+V prípade, že Vás nezaujala táto ponuka, prosím pozrite si aj naše ďalšie zverejnené ponuky, či Vás niektorá z uverejnených pozícií  osloví.
+Svoje žiadosti zasielajte spolu s motivačným listom na uvedený e-mail.
+Vzhľadom na veľké množstvo žiadostí budeme kontaktovať len vybraných uchádzačov, ktorí splnili zadané požiadavky. Ďakujeme za pochopenie.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT, elektrotechnické
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Vodičský preukaz
+B
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Čo by si mal ovládať
+Java a Spring Boot
+Webové aplikácie a API
+Git a tímovú spoluprácu
+Databázy (relačné alebo nerelačné)
+Chuť učiť sa a posúvať sa ďalej
+Nemusíš spĺňať všetko.
+Nehľadáme dokonalý checklist – ak ťa projekt zaujal a vidíš sa v ňom, daj nám o sebe vedieť.
+Plusové body za:
+Angular
+Tailwind CSS
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+- priemyselná automatizácia a dodávka elektro zariadení pre priemysel,
+- technologický rozvod elektrickej energie,
+- meranie a regulácia,
+- výroba rozvádzačov,
+- riadenie pohonov
+- VVN/VN/NN distribúcia,
+- infraštruktúra priemyselných objektov
+- dopravné projekty
+- smart pojekty
+- vlastný výskum a vývoj
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: PhDr.  Stanislav Nemčík
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224392
+Dátum zverejnenia:
+4.2.2026
+2026-02-04
+lokalita:
+Žilina
+Pozícia:
+Java programátor
+Spoločnosť:
+IS - Industry Solutions, a.s.
+Základná zložka mzdy (brutto):
+2 100 EUR/mesiac

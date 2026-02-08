@@ -1,0 +1,122 @@
+Špecialista (v odbore digitálnych inovácií) - muž/žena
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+15.03.2026
+Mzdové podmienky (brutto)
+2 400 EUR/mesiac
+od  2.400 EUR/mesiac + variabilná zložka mzdy vo výške 25% po splnení všetkých kľúčových ukazovateľov výkonnosti a ďalšie odmeny / benefity v zmysle platnej Kolektívnej zmluvy:
+•	stravovanie,
+•	príspevok na dopravu do zamestnania a späť,
+•	príspevok na regeneráciu pracovnej sily,
+•	príspevok na dovolenku,
+•	príspevok na zdravotnú starostlivosť,
+•	príspevok na rekreáciu detí zamestnancov,
+•	príspevok na sociálnu výpomoc,
+•	príspevok na podporu rodičovstva,
+•	príspevok na energie.
++ príspevok na III. pilier DDS
++ 5 dní dovolenky naviac
++ stravné lístky aj počas PN a dovolenky
++ 1.október „Deň energetiky“ - sviatok (deň voľna alebo mzdové zvýhodnenie ako za prácu vo sviatok).
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+•	spolupráca na tvorbe a implementácie stratégie digitálnej transformácie v súlade s cieľmi spoločnosti a európskymi politikami,
+•	identifikácia a hodnotenie príležitostí na implementáciu digitálnych inovácií v prostredí prenosovej sústavy, s dôrazom na projekty využívajúce umelú inteligenciu, strojové učenie a ďalšie pokročilé technologické riešenia s cieľom zefektívniť prevádzku, plánovanie a údržbu infraštruktúry,
+•	zber a analýza požiadaviek jednotlivých organizačných celkov spoločnosti na digitálne inovácie v oblasti informačných a komunikačných technológií alebo zmeny v existujúcich systémoch,
+•	sledovanie trendov v oblasti automatizácie a robotizácie spolu s hľadaním ich využitia v procesoch spoločnosti,
+•	návrh nových projektov pre oblasť digitalizáciu a inováciu pre zabezpečenie bezpečnej a efektívnej prepojenosti informačných systémov,
+•	príprava plánov projektov a programov, vrátane rozsahu, harmonogramu, rozpočtu, zabezpečenia kvality a komunikácie so zainteresovanými stranami,
+•	analýza možností grantového financovania a alokácia ľudských, materiálnych a finančných zdrojov,
+•	vypracovanie podkladov pre technickú špecifikáciu zákazky, PNI a PNO v spolupráci s manažérmi procesov, gestorov a zainteresovaných používateľov spoločnosti,
+•	koordinácia projektových tímov a zabezpečenie efektívnej spolupráce medzi organizačnými celkami spoločnosti,
+•	spolupráca na návrhoch rámcov pre inovačné projekty zamerané na digitalizáciu na platformách RDIC v rámci ENTSO-E,
+•	riadenie zmien v rámci projektov a hodnotenie rizík spojených s ich realizáciou,
+•	monitorovanie výkonnosti projektov oproti plánom a prijímanie opatrení na odstránenie odchýlok,
+•	formálne uzatváranie a vyhodnotenie projektov, vrátane vyhodnocovania výsledkov a získaných skúseností,
+•	prioritizácia požiadaviek a ich komunikácia smerom na riešiteľa, dodávateľa,
+•	aktívne sledovanie a vyhodnocovanie stavu riešenia požiadaviek riešiteľom, dodávateľom a ich eskalácia v prípade pretrvávajúcich problémov pri príprave a nasadení riešení na produkčné prostredie,
+•	udržiavanie štandardov kvality a kybernetickej bezpečnosti v súlade s dokumentáciou spoločnosti a príslušnými medzinárodnými normami,
+•	udržiavanie pravidelnej a efektívnej komunikácie s vedením spoločnosti, projektovými tímami a externými partnermi,
+•	zabezpečenie transparentnosti cieľov a priorít projektov voči všetkým zainteresovaným stranám,
+•	zabezpečenie zvyšovania povedomia o digitalizácii a inováciách v rámci spoločnosti,
+•	vytváranie dopytov v jazyku SQL,
+•	vytváranie a údržba dátových modelov,
+•	inštalácia knižníc a komponentov,
+•	vytváranie a zmeny SW kódu,
+•	plní ďalšie úlohy podľa pokynov nadriadeného.
+Zamestnanecké výhody, benefity
+Zázemie silnej, stabilnej a vyspelej elektrizačnej spoločnosti.
+Informácie o výberovom konaní
+V prípade, že Vás naša ponuka zaujala, zašlite svoj životopis v slovenskom jazyku, obsahujúci súhlas so spracovaním osobných údajov v súlade so Zákonom č. 18/2018 Z.z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov a žiadosť o prijatie do pracovného pomeru s uvedením názvu pracovnej pozície v predmete pošty na adresu vyberove.konania@sepsas.sk do  19.02.2026.
+Vopred ďakujeme záujemcom o prácu, kontaktovať budeme iba tých uchádzačov, ktorí budú zaradení do užšieho výberu.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+informatika
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+5
+Osobnostné predpoklady a zručnosti
+Požadované vzdelanie uchádzača:	VŠ (vysokoškolské II. stupňa) v odbore informatika,
+Odborná prax:	5 rokov
+Počítačové zručnosti:	MS Office (Word, Excel, PowerPoint, Outlook) - pokročilý
+MS Windows - pokročilý
+Počítačové zručnosti - špecifické:
+•	Javascript a/alebo Python na úrovni aspoň Junior (prípadne iného jazyka na úrovni Medior)
+•	poznanie nejakého web frameworku aspoň na úrovni Junior
+•	poznanie dátových štruktúr a algoritmov aspoň na úrovni Junior
+•	znalosť nejakého ORM a package managera aspoň na úrovni Junior
+•	SQL aspoň na úrovni Junior
+•	znalosť git a operačných systémov (Linux) aspoň na úrovni Junior
+•	zručnosť v písaní promptov pre LLM
+•	všeobecný prehľad v SW technológiách (json, Excel, REST, CSV, unit testing a pod.)
+•	dobrá schopnosť pracovať s IDE
+Jazykové zručnosti:	anglický jazyk ‐ B1 - mierne pokročilý
+Odborné zručnosti:
+•	znalosť ICT technológií
+•	digitálna transformácia a inovácie
+Osobnostné predpoklady: 	analytické a systémové myslenie, organizačné schopnosti a samostatnosť, proaktívny prístup k inováciám, výborné komunikačné schopnosti, tímovosť a schopnosť spolupracovať naprieč útvarmi, odolnosť voči stresu a flexibilita, orientácia na výsledok a kvalitu
+Vodičský preukaz:	skupina B
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Slovenská elektrizačná prenosová sústava, a.s. vykonáva činnosť prevádzkovateľa prenosovej sústavy SR a dispečerské riadenie elektrizačnej sústavy.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Odbor zamestnaneckých záležitostí a vzdelávania
+Tel.:
+02/5069 2340, 02/5069 2486
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5229627
+Dátum zverejnenia:
+5.2.2026
+2026-02-05
+lokalita:
+Bratislava
+Pozícia:
+ICT špecialista
+,
+IT analytik
+,
+Servisný technik
+,
+Správca informačného systému
+Spoločnosť:
+Slovenská elektrizačná prenosová sústava, a.s.
+Základná zložka mzdy (brutto):
+2 400 EUR/mesiac

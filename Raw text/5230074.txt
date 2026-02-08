@@ -1,0 +1,103 @@
+Flutter Developer
+Aston ITM, s.r.o.
+Miesto práce
+Aston ITM, spol. s r.o., Račianska, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+od 2500€ brutto. Základ mzdy je kalkulovaný na TPP. Finálna výška mzdy závisí od tvojich skúseností.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do menšieho, zabehnutého tímu hľadáme Flutter developera / developerku, ktorý/á má inžiniersky prístup k vývoju mobilných aplikácií a záleží mu/jej na kvalite, architektúre a používateľskom zážitku.
+Vyvíjame mobilné aplikácie pre dlhodobých klientov a nehľadáme niekoho, kto len „odkódi task“, ale kolegu/kolegyňu, ktorý/á chce rozumieť celému riešeniu a podieľať sa na jeho rozvoji.
+Ako bude vyzerať Tvoja práca u nás:
+- návrh a vývoj mobilných aplikácií
+- implementácia UI a biznis logiky
+- testovanie, publikovanie a ďalší rozvoj aplikácií
+- aktívna tímová spolupráca a ownership
+Zamestnanecké výhody, benefity
+- firma, ktorá funguje ako komunita
+- pravidelné firemné raňajky, kde si otvorene zdielame všetky informácie
+- pípa s pivkom z kvalitných remeselných pivovarov a pákový kávovar
+- podpora interných StartUp-ov a inovátorov
+- hackatony a prototypovanie inhouse
+- angličtina pre tých, čo ju ocenia a chcú sa zlepšiť
+- interné workshopy, prístupy ku kurzom a podpora kvalitných rozvojových aktivít
+- teambuildingy
+- možnosť pracovať z domu aj z kancelárie
+- príspevok do 3.piliera
+- referral bonus
+- gallup konzultácie
+- v Astone nám záleží aj na duševnom zdraví našich zamestnancov, preto je tu možnosť využívať online terapie
+Informácie o výberovom konaní
+Ak Ťa naša pozícia oslovila a myslíš, že hľadáme práve Teba, určite nám pošli svoje CV. Už teraz sa tešíme na pokec s tebou.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+Flutter - Pokročilý
+Dart (programming language) - Pokročilý
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Aké technológie by si mal zvládať:
+- Flutter, Dart
+- REST API
+- Git, CI/CD pipeline
+- Agile prístup, code review
+S čím by si mal mať skúsenosť:
+- spolupráca s backendom, dizajnom a produktom
+- 1–2 preukázateľné roky skúseností s vývojom mobilných aplikácií
+- Flutter v produkčných projektoch
+- agilná práca v tíme
+- skúsenosti s vývojom mobilných aplikácií vo Fluttery od dizajnu až po nasadenie do storov
+- znalosť architektúry mobilných aplikácií
+- práca s API a asynchrónnym programovaním
+- práca s Figmou
+- testovanie (unit / widget / integračné)
+- State management (BLoC, Riverpod, Provider)
+- Skúsenosti s Clean Architecture/MVVM
+- riešenie offline režimu a výkonu
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Na princípoch otvorenej firmy spájame ľudí, ktorých baví tvoriť a nielen robiť. Na trhu sme už skoro 30 rokov. Vieme, ako vyvíjať a prevádzkovať rýchlo sa vyvíjajúce webové aplikácie v náročnom firemnom prostredí, v ktorom sa kladie veľký dôraz na časté a rýchle zmeny. Spoľahlivosť a bezpečnosť je pre našich klientov kľúčová.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Veronika Janštová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5230074
+Dátum zverejnenia:
+6.2.2026
+2026-02-06
+lokalita:
+Bratislava
+Pozícia:
+Android programátor
+,
+iOS programátor
+,
+Programátor
+Spoločnosť:
+Aston ITM, s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

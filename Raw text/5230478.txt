@@ -1,0 +1,107 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Application Developer - Microsoft Dynamics
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+Develops new and maintain existing source code of  based applications in programming language like Java, ASP.Net or C#  based on requirements of  internal or external customers. These applications support usually automation of business processes.
+Works independently or in project team on developing  and building  application for customer usage.
+Does not necessarily require senior developer’s support , can handle all phases of  software development  lifecycle by himself, especially for small or midsize applications. For junior developers serves as basic mentor.
+Your project:
+The Digital Hub supports the "Broadband" tribe in the Deployment Classic cluster in all aspects of the wholesale business in the dimensions "Define, Build, Test and Run" and is based on SAFe.
+The Digital Hub covers the following wholesale value streams, including regulatory requirements: Provision for Broadband Classic and Fiber Assurance for Broadband Classic and Fiber The Digital Hub is made up of employees of the Telekom IT organizational units and the associated specialist sites.
+What will you do?
+Gather and analyze requirements with internal and external stakeholders
+Design midsize application architecture, interfaces, and databases
+Estimate effort, timelines, testing, and bug-fixing for budget planning
+Develop secure, maintainable applications using Java, ASP.NET, or C#
+Test functionality to ensure quality before deployment
+Apply security standards in line with PSA and DTAG policies
+Create and maintain technical and system documentation
+Communicate project status, risks, and deliverables to stakeholders
+Provide 2nd and 3rd level support, bug fixes, and feature updates
+Handle deployment, releases, backups, and restores
+Track time transparently for invoicing and controlling
+Manage assigned project tasks and timelines
+Mentor junior developers and deliver technical training when needed
+You will succeed if you:
+have experiences with ICT System - 2 years
+have experiences with programming – Intermediate
+have experiences with HW/SW Overview – Advanced
+have experiences with General IT Overview – Advanced
+are communicative, team player and have analytical thinking
+speak English – Upper intermediate (B2)
+have advanced knowledge of  software development methodology (e.g. Agile, Waterfall), versioning tools, build tools, development environment, bug tracking tools, LDAP protocol, experienced in UML  and overview about application servers and databases.
+For the further development of our CRM system DigiPro, based on MS Dynamics 365, we are looking for.
+Technical Capabilities:
+C# and . NET Framework
+JavaScript/TypeScript
+HTML/CSS SQL,
+SSIS (SQL Server Integration Services)
+Gitlab CI/CD Pipelines, Runner
+Kubernetes, Docker (CaaS)
+REST
+Tardis
+Visual Studio/ Visual Studio Code
+SonarQube
+It is desirable to have a basic knowledge of Azure and experience with the integration of Microsoft Dynamics 365 with Azure services (e.g. Azure Active Directory, Azure Application Gateway, Logic Apps and Azure Functions)
+Optional:
+Microsoft Power Platform:
+Power Apps
+Power Automate
+Power BI
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lenka Kiššová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5230478
+Dátum zverejnenia:
+6.2.2026
+2026-02-06
+lokalita:
+Remote work
+Pozícia:
+Programmer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 100 EUR/month

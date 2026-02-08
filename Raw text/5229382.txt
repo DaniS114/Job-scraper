@@ -1,0 +1,96 @@
+Python Developer
+Roman Berešík
+Miesto práce
+Bottova 2a, 811 09 Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Mzdové podmienky (brutto)
+3 000 - 6 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hey you
+Want to be
+part of something big
+? We are a small, lean team shooting big at aiapply.co, and
+we are looking for a Python developer
+to join us. We build AI tools that help people find the right jobs, apply faster, and actually land interviews instead of getting lost in the system. We stay hands on, move fast, and focus on building things that truly work. If you love coding and want to build products that genuinely change people’s careers, you will feel right at home here.
+Your work will include:
+ATS integrations and browser automation
+Building and maintaining automated application flows for 15+ ATS platforms. Using
+Playwright
+to handle form submissions, file uploads, reCAPTCHA challenges, and human like interactions with a focus on reliability. Experience with web scraping and handling anti automation measures is a nice to have.
+Job matching and queue management
+Developing LLM based job matching using embeddings and
+LLM prompt engineering
+, leveraging
+Meilisearch
+for fast job search and filtering, and building queue logic to manage job states, retries, and application attempts.
+FastAPI services and database work
+Creating REST APIs for users, job queues, notifications, and credits. Designing MySQL schemas, writing optimized queries, and integrating Stripe for payments and subscriptions.
+Core platform systems and reliability
+Designing and maintaining the backend systems that keep the platform running at scale. This includes performance optimization, debugging, background job processing, search and job discovery, LLM driven workflows, and cloud based resume storage. You will own reliability, data flow, and long term system quality across critical components.
+Zamestnanecké výhody, benefity
+Work at a fast growing technology company based in the UK with a global user base
+Office in
+Bratislava – The Spot Cowork Bratislava
+Stable environment as a profitable company with a real product and sustainable growth
+Strong professional growth driven by technical challenges, autonomy, and real ownership
+Small, high performing team with no corporate bureaucracy or unnecessary processes
+Direct communication with the team and founders with fast decision making
+Flexible remote work within Europe
+Regular team meetups several times a year in England, Slovakia, or other European cities
+Opportunity to influence the technical direction of the product and bring your own ideas to life
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informatika
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+alebo
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+Python - Pokročilý
+Playwright - Mierne pokročilý
+FastAPI - Pokročilý
+MySQL - Pokročilý
+Browser automation - Mierne pokročilý
+Bot detection - Mierne pokročilý
+LLM prompt engineering - Mierne pokročilý
+Embeddings - Mierne pokročilý
+Počet rokov praxe
+5
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+AI Apply is on a mission to make job applications effortless using the power of AI and automation. We help candidates stand out and get hired faster by streamlining the application process—from CVs to cover letters to full job submissions—in just a few clicks.
+Backed by real user growth and built by a fast-moving team, we’re one of the fastest-growing startups in the region. With a lean, hands-on approach and a strong focus on data, we’re redefining how people get hired.
+We’re remote-friendly, Europe-based, and building a team of smart, kind people who want to create something meaningful—together.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Roman Berešík
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5229382
+Dátum zverejnenia:
+4.2.2026
+2026-02-04
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Python programátor
+Spoločnosť:
+Roman Berešík
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

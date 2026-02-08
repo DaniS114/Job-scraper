@@ -1,0 +1,97 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior DevOps Engineer - Credit & Collection
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2 600 EUR/month.
+Our team (Sysle) is a dedicated DevOps unit specializing in streamlining deployments, executing maintenance tasks, applying security patches, and managing operational responsibilities for various applications within the Credit & Collection Hub. As custodians of both the German and Czech RMC (Risk Management Center) environments, the team ensures seamless integration and performance across key business processes, including RMC-RMC, RMC-RIBS, RMC-NCL, RMC-Reporting, RMC-CZ, RMC-HU, RMC-ACid, IWS and more. By using automation and agile practices, Sysle improves efficiency, reduces risks, and ensures reliable system management to support the organization's goals.
+What will you do?
+Maintenance, monitoring, and optimization of the application
+Configuration and release management (applications and interfaces)
+Planning installation and release dates (including versions and scope of changes)
+Receiving software from sprints and deploying it into test environments using existing pipelines
+Supporting deployment processes of our operational partners/platforms
+Supporting and implementing monitoring and alerting rules using tools: Kibana, Grafana, Prometheus, Uptrends
+Incorporating operational partner requirements into the backlog process
+Collaborating on application issues/log analysis (technical and 3rd Level Support)
+Interface to PSA processes, particularly the creation of SDSKs
+Maintenance of Cape, Darwin, PSA Portal
+Actively proposing suggestions for the further development and optimization of applications
+Creating specifications for system changes (System Design Specifications or User Stories)
+Providing project support as needed during the integration phase and E2E tests
+Infrastructure responsibility: building + maintenance + patching
+Certificates management
+On call duty, occasional out of business hour deployments
+You will succeed if you:
+CI/CD - Pipeline Engineering:
+Ability to create, analyze and understand existing pipeline architectures and workflows.
+Containerization Expertise:
+Proficiency in Docker for creating, deploying, and managing containers. Strong knowledge of Kubernetes for orchestrating containerized applications. Experience with Helm for managing Kubernetes applications, utilizing tools such as Kibana, Grafana, and Prometheus for monitoring, logging, and visualizing Kubernetes environments.
+IaaC:
+Experience with Terraform, creation, maintenance and troubleshooting
+AWS:
+Experience with building/deploying, maintaining and troubleshooting cloud environments in AWS
+Agile collaboration and DevOps mindset
+English: Upper intermediate (B2)
+Used to collaborate within Scrum / SAFe frameworks, Jira, GitLab, etc.
+Enthusiasm for working within the DevOps philosophy, focusing on collaboration, automation, and continuous improvement.
+Willingness to work in an international team setting, embracing diverse perspectives and practices.
+Being transparent and proactive in identifying and preventing potential problems.
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2 600 EUR/month.
+Contact
+Contact person: Anna Heveryová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5228961
+Dátum zverejnenia:
+4.2.2026
+2026-02-04
+lokalita:
+Košice
+Pozícia:
+IT System Administrator
+,
+Programmer
+,
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 600 EUR/month

@@ -1,0 +1,130 @@
+Backend Developer (Java, Kotlin, Spring Boot)
+Cassovia Code a. s.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+trade licence
+Start date
+ASAP
+Wage (gross)
+From 2 500 EUR/month
+The compensation is based on a monthly rate starting from €2,500, depending on the candidate’s experience and seniority.
+Information about the position
+Job description, responsibilities and duties
+As a Backend Developer, you will be part of the
+Cassovia Code engineering team
+working on backend services for an international client. The project focuses on building
+cloud-native, scalable,
+and
+secure backend applications
+in a multi-tenant SaaS environment. You will work hands-on with
+Kotlin, Java,
+and
+Spring Boot
+, contributing to the design, development, and delivery of production-ready services with high quality and reliability standards.
+You will collaborate closely with other developers and teams to ensure clean, testable, and maintainable code. The role is strongly engineering-focused, with emphasis on API design, security, testing, and cloud-native deployment practices.
+ASAP start.
+What We Are Looking For:
+Experience with
+backend development
+, preferably using
+Kotlin
+or
+Java
+Hands-on experience with
+Spring Boot
+Use of
+Kotlin coroutines
+and asynchronous/reactive programming
+Experience designing and implementing
+REST APIs
+Familiarity with
+OpenAPI
+(API-first approach)
+Experience with
+JWT-based authentication
+and
+security concepts
+Experience with
+PostgreSQL
+Writing
+unit tests
+and
+integration tests
+(Testcontainers)
+Understanding of
+cloud-native
+principles
+Experience working with
+Git
+and in an
+Agile
+environment
+Nice-to-Have:
+Experience with
+reactive database access
+(Spring R2DBC)
+Experience building
+multi-tenant
+applications
+Experience with
+Docker
+and
+Kubernetes
+Experience creating
+Helm charts
+Familiarity with feature flags and production-ready
+CI/CD practices
+Previous experience working on SaaS or large-scale platforms
+The collaboration is offered on a
+contractor basis
+(freelance or company-to-company).
+The role includes
+occasional in-person meetings at our coworking space
+for project coordination, planning, and key milestones.
+Employee perks, benefits
+Why come to us:
+Long-term product, not short-term outsourcing
+Real opportunity to
+influence
+architecture, technical decisions, and the future direction of the app
+A place where input and expertise are valued:
+we’re looking for a partner, not just task execution
+Local connection with purpose:
+Košice-based team and coworking space for coordination, workshops, and alignment
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Language skills
+English - Upper intermediate (B2)
+Advertiser
+Brief description of the company
+We’re a Košice-based software house delivering high-quality web and mobile apps, custom digital products, AI-enhanced solutions, and high-performance e-commerce development. With a modern tech stack and flexible top talent, we combine tech and business to build only what clients truly need. Efficiently and with impact.
+Number of employees
+25-49 employees
+Contact
+Contact person: Cassovia Code
+E-mail:
+send CV
+You can react to this job
+without sending your CV
+. It is sufficient to fill in a form.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5230041
+Dátum zverejnenia:
+5.2.2026
+2026-02-05
+lokalita:
+Košice
+Pozícia:
+Software Engineer
+Spoločnosť:
+Cassovia Code a. s.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

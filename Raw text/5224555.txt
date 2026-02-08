@@ -1,0 +1,188 @@
+PHP developer/ka (junior/senior)
+ActivIT,s.r.o.
+Miesto práce
+Banská Bystrica, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+asap/marec
+Mzdové podmienky (brutto)
+1 600 EUR/mesiac
+od/v závislosti od formy spolupráce a skúsenosti, plus odmeny projektové a ročné
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​Hľadáme
+frontendového, alebo backendového developera
+, ideálne full-stack mindset, na vývoj a dlhodobú starostlivosť o webové aplikácie a systémy, ktoré
+reálne používajú klienti
+(nie hračky do šuflíka).​
+Budeš pracovať na:
+webových aplikáciách napojených na
+e-shopy, interné systémy, výrobné a rezervačné riešenia
+úpravách a rozširovaní existujúcich projektov (žiadne „greenfield-only ego“)
+návrhoch riešení –
+nechceme len vykonávača ticketov
+Technológie, s ktorými pracujeme
+Core (musíš zvládať):
+PHP
++ SQL
+PostgreSQL
+/ MySQL / MariaDB
+JavaScript (AJAX, jQuery), Bootstrap
+Git
+, ticketovací systém (Redmine / Mantis)
+výhoda nie podmienka
+Drupal
+(kódovanie, nie len admin)
+malé plus je WordPress vývoj
+(témy, pluginy – nie klikanie)
+AI & moderný mindset,
+skúsenosť alebo chuť pracovať s nástrojmi ako
+Claude AI, ChatGPT
+a pod.
+Zamestnanecké výhody, benefity
+Koho hľadáme?
+Nezaujíma nás titul, zaujíma nás tvoj
+postoj
+.
+Hľadáme človeka, ktorý:
+chce
+makať a zlepšovať sa
+, nie len „mať pokoj“
+vie sa pýtať, keď niečo nevie – ale
+nečaká, že ho budeme vodiť za ruku
+rozmýšľa nad riešením, nie len nad úlohou
+zapadne do menšieho tímu, kde
+zodpovednosť nie je rozmazaná
+Ak čakáš korporát, 10 levelov manažmentu a presnú pracovnú dobu –
+toto nie je pre teba
+.
+Čo ponúkame
+flexibilný pracovný čas
+hybrid / office v Banskej Bystrici / remote
+(podľa dohody)
+dlhodobú spoluprácu na zaujímavých projektoch (nie agentúrny chaos)
+veľmi dobré finančné ohodnotenie podľa skúseností
+polročné a koncoročné odmeny
+reálny priestor na odborný rast (technický aj mentálny)
+neformálne prostredie, normálni ľudia, žiadna politika
+zamestnanecké výhody v kaviarňi
+BLACK COFFEE BB
+Výberové konanie
+Pošli nám:
+životopis
+krátky popis projektov, na ktorých si robil(a)
+prípadne GitHub / ukážku práce (výhoda, nie povinnosť, ale plus)
+Do predmetu uveď:
+PHP Developer – Junior / Medior / Senior
+Kontaktovať budeme len vybraných kandidátov.
+Informácie o výberovom konaní
+Žiadosti spolu s profesijným životopisom vrátane podrobných referencií zasielajte e-mailom na uvedenú adresu s referenčným označením: PHP developer JUNIOR, MEDIOR alebo SENIOR.
+Ďakujeme všetkým kandidátom za prejavený záujem pracovať v našej spoločnosti.
+Len vybraní kandidáti budú kontaktovaný a pozvaní na osobný pohovor.
+Zaslaním svojej žiadosti nám dávate súhlas ku spracovaniu Vašich osobných údajov.
+Predpokladaný termín ukončenia výberového konania
+10.3.2026
+(ostáva ešte 31 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské bez maturity
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+PHP - Pokročilý
+SQL - Pokročilý
+HTML - Pokročilý
+CSS - Pokročilý
+JavaScript - Základy
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Technické zručnosti (základ)
+praktická znalosť
+PHP a SQL
+(MySQL / PostgreSQL / MariaDB)
+dobrá orientácia v
+HTML, CSS, JavaScript
+skúsenosť s
+Bootstrapom, jQuery, AJAX
+schopnosť čítať a upravovať existujúci kód (nie len písať nový)
+Výhodou (nie podmienkou)
+skúsenosť s
+Drupalom
+(vývoj, nie len administrácia)
+prípadne znalosť
+WordPressu na úrovni vývoja
+(témy, pluginy – nie klikanie)
+práca s
+XML / API integráciami
+AI a moderný prístup k vývoju
+aktívny záujem o využívanie
+AI nástrojov v programovaní
+skúsenosť alebo chuť pracovať s nástrojmi ako
+Claude AI, ChatGPT, GitHub Copilot
+a pod.
+schopnosť používať AI ako
+pomoc pri analýze, návrhu riešení, refactoringu a dokumentácii
+(nie slepé kopírovanie)
+Osobnostné predpoklady
+chuť učiť sa a zlepšovať
+, technicky aj mentálne
+samostatnosť, ale schopnosť pýtať sa, keď to má zmysel
+zodpovedný prístup k úlohám a dodržiavaniu dohôd
+schopnosť pracovať v menšom tíme bez potreby neustáleho dohľadu
+prirodzený záujem pochopiť
+prečo
+sa veci robia, nie len
+čo
+sa má spraviť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme softvérová spoločnosť ActivIT, s.r.o. s viac než 26-ročnými skúsenosťami v IT. Zameriavame sa na vývoj webových, portálových a mobilných riešení, ktoré majú reálne využitie v biznise – nie na jednorazové experimenty.
+Pôsobíme v Bratislave a Banskej Bystrici, našich zákazníkov máme na Slovensku aj v zahraničí (EÚ, USA, Švajčiarsko, Švédsko, Írsko, Austrália).
+Naše referencie nájdeš na www.activit.sk/referencie.
+Sme menší tím bez zbytočnej hierarchie.
+Nemáme armádu projektových manažérov ani nekonečné porady.
+Hľadáme ľudí, ktorí:
+vedia samostatne rozmýšľať
+zorganizovať si svoju prácu
+a prevziať zodpovednosť za výsledok
+Dlhodobo veríme v kvalitu práce, rozumné procesy a zdravý sedliacky rozum – nie v korporátne divadlo.
+V Banskej Bystrici sme prepojili firmu s vlastným kaviarenským konceptom BLACK COFFEE priamo pri centremesta. V tíme máme ľudí so vzťahom k športu, horám, pohybu aj dobrému vínu či pivu. Ale to podstatné je iné: rozumní ľudia, ktorí chcú robiť dobrú prácu a posúvať sa ďalej.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Peter Lovič
+Tel.:
++421 48 4133 871
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5224555
+Dátum zverejnenia:
+3.2.2026
+2026-02-03
+lokalita:
+Banská Bystrica
+Pozícia:
+PHP programátor
+,
+Programátor
+,
+Web dizajnér
+Spoločnosť:
+ActivIT,s.r.o.
+Základná zložka mzdy (brutto):
+1 600 EUR/mesiac

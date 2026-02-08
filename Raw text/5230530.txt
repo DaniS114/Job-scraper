@@ -1,0 +1,113 @@
+AI Špecialista
+Sociálna poisťovňa, ústredie
+Miesto práce
+Ul. 29. augusta, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 500 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Chcete sa podieľať na vývoji a implementácii riešení umelej inteligencie, ktoré zefektívnia procesy a zlepšia služby Sociálnej poisťovne? Hľadáme skúseného
+AI špecialistu
+, ktorý bude tvoriť AI riešenia. Staňte sa súčasťou nášho tímu odborníkov v Centre digitálnej a organizačnej transformácie SP.
+Vašou úlohou bude navrhovať a vytvárať inteligentné algoritmy a AI riešenia, ktoré automatizujú procesy, zlepšujú služby a prinášajú inovácie do verejnej správy
+Náplň práce :
+Vývoj a implementácia AI riešení
+– návrh, testovanie a nasadenie modelov umelej inteligencie a strojového učenia (prediktívne modely, počítačové videnie, odporúčacie systémy) na zlepšenie služieb a procesov Sociálnej poisťovne.
+Analýza a spracovanie dát
+– zber, čistenie a analýza dát z interných a externých zdrojov za účelom ich využitia pre návrh AI riešení, návrh dátových modelov, výber algoritmov a tvorba prediktívnych riešení.
+Automatizácia procesov
+– využitie AI na automatizáciu procesov, napr. spracovania dokumentov, žiadostí, rozhodovacích procesov, detekciu anomálií a podvodov.
+Integrácia AI riešení
+– nasadzovanie prototypov do testovacieho a produkčného prostredia, integrácia s existujúcimi informačnými systémami.
+Optimalizácia a údržba modelov
+– monitorovanie výkonnosti, ladenie hyperparametrov, validácia výsledkov, pravidelná aktualizácia modelov, správa životného cyklu modelov (MLOps).
+Tvorba AI stratégie a metodík
+– príprava strategických a koncepčných dokumentov, metodické usmerňovanie zamestnancov, vzdelávanie interných tímov v oblasti AI/ML.
+Spolupráca na strategických projektoch
+– konzultácie s IT, dátovými analytikmi, kybernetickou bezpečnosťou a manažmentom pri definovaní požiadaviek na AI riešenia.
+Sledovanie trendov a inovácií
+– testovanie nových nástrojov, frameworkov (TensorFlow, PyTorch, OpenAI API), sledovanie technologických noviniek a ich aplikácia v praxi.
+Zodpovednosť za bezpečnosť a etiku AI
+– dodržiavanie GDPR, ochrana osobných údajov, etické a transparentné používanie algoritmov.
+Zamestnanecké výhody, benefity
+Poskytujeme 1 týždeň dovolenky navyše.
+Na oddych môže zamestnanec a jeho rodinní príslušníci využívať naše doškoľovacie a rekreačné zariadenia v Pavčinej Lehote, alebo na Starých Horách.
+U nás je 7,5 hodinový pracovný úväzok, pričom poskytujeme pružný pracovný čas.
+Byť chorý nie je nikomu príjemné. Svojim zamestnancom poskytujeme už od prvého dňa „péenky“, zvýšenú náhradu príjmu, ktorá je vo výške 70% denného vymeriavacieho základu.
+Pri zjavnom ochorení môžete využiť 2 dni voľna navyše.
+Obed z domu, alebo menučko? Zamestnancom prispievame na stravovanie takmer 75% z celkovej výšky stravovacej poukážky 7€.
+Do III. piliera prispievame 3% až 6%, podľa dĺžky pracovného pomeru.
+Vážime si solidárnosť, a preto každému darcovi krvi ktorý získa niektorú z Jánskeho plakiet, poskytujeme finančnú odmenu vo výške od 70€ do 350€.
+Ak sa zamestnanec ocitne vo finančnej tiesni, nemusí chodiť do banky, či iných finančných inštitúcií, ale môže požiadať o nenávratnú finančnú výpomoc, alebo návratnú bezúročnú pôžičku za zvýhodnených podmienok priamo Sociálnu poisťovňu.
+Byť verný a spoľahlivý sa oplatí. Každý zamestnanec pri pracovnom, alebo životnom výročí získa peňažnú odmenu
+Informácie o výberovom konaní
+Prosíme uchádzačov, aby svoje CV posielali len v slovenskom jazyku. O výsledku výberového konania budeme informovať každého uchádzača.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+VŠ vzdelanie II. stupňa v odbore informatika, matematika, aplikovaná informatika, dátová veda alebo príbuzný odbor.
+Ostatné znalosti
+Python - Pokročilý
+Java - Pokročilý
+R - Pokročilý
+SQL - Pokročilý
+NoSQL - Pokročilý
+Amazon Web Services (AWS) - Pokročilý
+Google Cloud Platform - Pokročilý
+OpenAPI - Pokročilý
+Prax na pozícii/v oblasti
+min. 2 roky v oblasti analýzy dát, vývoja algoritmov alebo informačných systémov alebo skúsenosti s návrhom a vývojom AI/ML riešení výhodou.
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Znalosti:
+Algoritmy strojového učenia, štatistická analýza, dátové modelovanie.
+Programovanie v jazykoch Python, R, Java.
+Znalosť knižníc a nástrojov pre AI / ML ako napríklad OpenAI API, PyTorch, TensorFLow a pod.
+Znalosť práce s databázami (SQL, NoSQL) a cloud prostrediami (AWS, Azure, GCP)
+Znalosť princípov bezpečnosti dát a etiky AI.
+Orientácia v prostredí verejnej správy a v oblasti digitalizácie verejných služieb.
+Osobnostné predpoklady
+:
+Analytické a logické myslenie.
+Zmysel pre presnosť, zodpovednosť a systematickosť.
+Schopnosť riešiť komplexné problémy a komplexné technické úlohy, navrhovať efektívne riešenia.
+Schopnosť pracovať samostatne aj v tíme.
+Dobré komunikačné schopnosti a schopnosť zrozumiteľne prezentovať technické riešenia.
+Otvorenosť inováciám a neustálemu učeniu sa.
+Ochota priebežne sa vzdelávať v oblasti AI a dátových technológií.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sociálna poisťovňa vykonáva v zmysle zákona č. 461/2003 Z. z. sociálne poistenie, t.j. nemocenské poistenie, dôchodkové poistenie - starobné a invalidné, ďalej úrazové poistenie, poistenie v nezamestnanosti a garančné poistenie  a lekársku posudkovú činnosť.
+Počet zamestnancov
+1000 a viac zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Silvia Eľková
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5230530
+Dátum zverejnenia:
+6.2.2026
+2026-02-06
+lokalita:
+Bratislava
+Pozícia:
+IT konzultant
+Spoločnosť:
+Sociálna poisťovňa, ústredie
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

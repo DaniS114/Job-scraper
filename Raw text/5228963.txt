@@ -1,0 +1,89 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+PHP Developer (Laravel)
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto)
+Od 2 700 EUR/mesiac
+Bonus: Výkonnostná prémia 2x ročne až do výšky 10% zo zákl. mzdy vyplatenej za hodnotené obdobie (spravidla 6 mesiacov)
+*Finálna suma základnej zložky mzdy môže byť upravená v závislosti od individuálnych znalostí a skúseností vybraného kandidáta.
+Druh pracovného pomeru
+plný úväzok
+Hľadáme PHP vývojára/ku (Laravel), ktorý/á sa pridá k tímu Web Solutions a bude pracovať na produktoch používaných internými aj externými zákazníkmi - od Threat Intelligence, cez interný resource management, systém na releasovanie produktov, až po aplikácie na reporty a štatistiky, backend pre spracovanie support ticketov a ďalšie.
+Pomoc AI asistentov je samozrejmosťou, ale výsledný návrh a kód sú vždy na tebe. Frontend (JS/React/Livewire) je výhodou, nie podmienkou.
+Čo budeš robiť:
+Navrhovať, vyvíjať a rozvíjať backendové služby, interné systémy a API v PHP (8.3 - 8.5) a Laravel (11 - 12)
+Zapájať sa do frontend častí – React/Livewire, Tailwind/Bootstrap
+Podieľať sa na refaktoringu, modernizácii a optimalizácii existujúcich aplikácií
+Písať a udržiavať automatizované testy (unit/integration) a prispievať ku kvalite kódu cez code reviews
+Čo očakávame:
+Minimálne 3 roky skúseností na podobnej pozícii
+Skúsenosti s PHP 8.x a Laravelom
+Znalosť SQL (MariaDB), Git (Bitbucket), práca v Docker a Linux prostredí
+Angličtinu na úrovni čítania odbornej dokumentácie
+Analytické myslenie, proaktívny prístup, zvedavosť a ochotu  zdieľať knowhow
+Výhodou (nie podmienkou):
+Frontend: JavaScript/TypeScript, React, Livewire, Tailwind, Bootstrap
+Skúsenosti s gRPC, GraphQL, Elasticsearch,Redis, Kafka, Jenkins, Deployer
+Prečo k nám:
+Aplikácie s reálnym dopadom - používajú ich tímy v ESETe aj klienti po celom svete
+Moderný PHP ekosystém a kompletná automatizácia od setupu projektu cez testy po deployment
+Skúsený a stabilný tím - otvorená komunikácie, ochota pomôcť a dobrá nálada
+Kontaktná osoba
+Maria Kukla
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Neustále hľadáme nové kolegyne alebo nových kolegov, ktorí chcú byť súčasťou úspešného slovenského príbehu s globálnym dopadom. V ESET neustále dokazujeme, že špičková expertíza a inovácie vytvorené na Slovensku majú silu konkurovať najväčším hráčom v oblasti kyberbezpečnosti po celom svete. Ak chceš pracovať pre firmu, ktorá stavia na kvalite, odbornostiach a reálnom dopade svojej práce vo svete, hľadáme práve
+TEBA.
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5228963
+Dátum zverejnenia:
+4.2.2026
+2026-02-04
+lokalita:
+Bratislava
+Pozícia:
+PHP programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 700 EUR/mesiac

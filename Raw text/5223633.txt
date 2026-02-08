@@ -1,0 +1,113 @@
+System Administrator
+Inalogy, a.s.
+Place of work
+Digital Park II, Einsteinova, Petržalka, Slovakia, Bratislava (Job with occasional home office)
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+2 200 EUR/month
+Salary determined by seniority and experiences
+Information about the position
+Job description, responsibilities and duties
+Inalogy
+provides managed IAM services, and you will be part of our Infrastructure Team. Your main responsibilities will include managing, deploying, monitoring, and evaluating our solutions in a cloud-based infrastructure.
+We are looking for an experienced System Administrator with a proactive mindset, who is eager to continuously improve our systems and motivated to learn and gain new skills.
+What would be your competences:
+Monitor system performance, troubleshoot issues, and implement solutions to prevent recurrence (Grafana)​
+​Diagnose and resolve technical issues related to software, hardware, or network problems​
+Escalate complex issues to appropriate engineering teams with detailed information
+Monitor system health and proactively identify potential issues (Wazuh)
+Controll and automate deployment processes and configuration management with tools Jenkins, FreeIPA, Terraform, Ansible
+​Ensure security best practices across all infrastructure and deployment processes
+Collaborate with development teams to improve application reliability and deployment speed​
+Document all customer interactions, solutions, and known issues in the knowledge base
+​Automate deployment processes and configuration management with tools like Terraform
+Participate in 24/7 on-call rotation, providing incident response and customer support
+Provide first-line technical support via email, chat, phone, and ticketing system
+Employee perks, benefits
+Team & Culture
+Work with a tight-knit team of skilled people who genuinely support each other and love sharing their knowledge
+Friendly, down-to-earth atmosphere without unnecessary corporate red tape
+We believe in direct communication and making decisions quickly
+​
+Growth & Development
+Work on meaningful projects for banks, universities, and government organizations
+We'll support your certifications and professional development
+Get the chance to work on international projects
+Work-Life Balance
+5 extra vacation days on top of what's legally required
+Home office options available
+We care about sustainable pace – no one benefits from burnout
+Compensation & Equipment
+Competitive salary that grows as you gain experience and make an impact
+Top-quality work equipment
+Modern office in a great Bratislava location with parking included
+Expected date of completion of the selection process
+28.2.2026
+(there are still 21 more days)
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+Information technology
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+Linux (RedHat based) - Advanced
+LAN/WAN administration - Skillful
+Windows server administration - Skillful
+Jenkins - Basic
+Bash Scripting - Basic
+Ansible - Basic
+Grafana - Basic
+Terraform - Basic
+Experience in the position/sector
+System administration
+Number of years of experience
+2
+Personality requirements and skills
+Strong problem-solving and analytical abilities
+Willingness to learn technical knowledge of relevant systems, applications, or platforms
+Hardware knowledge (CPU, RAM, IOPS, etc.)
+Familiarity with monitoring tools like Prometheus, Grafana, or similar (optional)
+Kubernetes (optional, but advantage)
+Willingness to participate in on-call duty rotation for critical incident response
+Advertiser
+Brief description of the company
+Inalogy leads in delivering innovative Identity Governance and Access Management (IGA/IAM) solutions. Our mission is to bolster security and simplify access for businesses through scalable, on-premise, or cloud-based SaaS applications. We are dedicated to addressing the digital transformation needs of our clients with cutting-edge technology solutions.
+Number of employees
+25-49 employees
+Contact
+Contact person: Ing.  Miriama Danková
+Tel.:
++421902603842
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5223633
+Dátum zverejnenia:
+4.2.2026
+2026-02-04
+lokalita:
+Bratislava
+Pozícia:
+IT System Administrator
+,
+IT/Technical Support Specialist
+,
+Service Engineer
+,
+Systems Administrator
+Spoločnosť:
+Inalogy, a.s.
+Základná zložka mzdy (brutto):
+2 200 EUR/month

@@ -1,0 +1,115 @@
+Test Developer
+Kistler Bratislava, s.r.o.
+Place of work
+: Bratislava, Slovak Republic
+Wage (gross)
+:
+2 400 EUR/month
+The salary in the job add is a minimal guaranteed base salary and can be higher - depending on the skills, level, education, professional experience, technological know-how.
+Contract type
+: full-time
+Information about the position
+Job description, responsibilities and duties
+Test developer is part of SW Testing team and is responsible for testing of software for applications monitoring and controlling industrial processes - ComoDataCenter and akvisIO.
+Ensure the effective implementation of tests and testing strategies in collaboration with Product Owner and other technical roles (e.g. test developers, software developers, product managers etc.)
+Design test cases based on requirements and use cases
+Create and perform automated and manual tests
+Establish and maintain the test environment
+Maintain traceability of tests to requirements
+Report defects and retest the bug fixes
+Ensure the project adheres to non‑functional requirements by executing tests focused on stability, performance, error handling, etc.
+Create documentation required by Corporate Guidelines for testing (test plan, test report, etc.)
+Report test results to the Test Manager, including depth and coverage of testing
+Provide feedback on quality and consistency of requirements and specifications (testability, UI usability, effort estimation accuracy, etc.)
+Assist the Product Owner to solve business issues related to testing
+Create Robot Framework & Python libraries for testing automation
+Employee perks, benefits
+The way we work
+Hybrid working model – based on the agreement with your team lead. We trust that you know how to organize your time to stay productive
+Regular performance review and career growth possibilities
+A dynamic and challenging role in a global company
+Collaborative and supportive team culture
+Close collaboration with business drivers and key users
+Support for ongoing professional development to expand your technical and professional knowledge
+Health & Well-being
+Electric stand-up desk and ergonomic chair
+100% salary reimbursement for 10 days of sick leave
+25 days of vacation for everybody
+Recognition
+Compensation of overtimes
+Compensation of travelling time in case of business trip (extra allowance)
+Flexible Benefit System - starting from 1000€ per year in the Benefit Plus portal - platform with thousands of suppliers of your choice, including Kistler specific offerings
+Attractive referral bonus
+Extra contribution in significant life events – weddings and childbirths, rehousing
+Relocation bonus for employees who are moving because of Kistler (over 100 km)
+Career & Development
+Online English & German language courses
+Library, Online Educational Portals: Pluralsight, Safari books, LeanPub, Egghead
+Social life
+Team-buildings, Company breakfast, Christmas Party, Grill Party, etc.
+Football table and board games in the office
+Extra benefits
+Special offers and discounts (Metro cards, SND, Curaprox etc.)
+Lunch tickets in amount of 8,00 EUR
+Great coffee, tea, fresh fruit
+Information about the selection process
+Do you like it so far? Let us know, send us your CV. After receiving and reviewing your CV we will contact you for short telephone pre-screen. Following this, if successful, we will set up meeting with your future team leader and one of our technical specialist for more detailed discussion about your experience and motivation and to answer your questions about company and project itself. The final stage of the hiring process is meeting with head of Kistler Bratislava to get to know you better and align on the personal and position expectations. Our HR colleagues will be informing and guiding you through every step of this process. Good luck. We are looking forward to meeting you.
+Expected date of completion of the selection process
+8.3.2026
+(there are still 29 more days)
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+2
+Personality requirements and skills
+Must Have
+Bachelor or Master degree in Electrical Engineering, Computer Engineering, or Computer Science
+3+ years of experience in a relevant field
+Knowledge of test methods, strategies, and processes
+Familiarity with testing and test automation tools (Robot Framework preferred, PyTest)
+Experience with scripting languages (Python, Bash)
+Experience with test management
+Good English communication skills (written and spoken)
+Experience with Agile development (Scrum, Kanban)
+Affinity for working in an international environment
+Nice to Have
+ISTQB certification or similar
+Experience with data acquisition equipment
+Experience testing user interfaces
+Experience with Git
+Experience with Jira
+Experience with CI tools
+Analytical and systematic working style
+Service‑ and customer‑oriented mindset
+Kistler Bratislava, s.r.o.
+Einsteinova 33
+851 01 Bratislava, Slovakia
++421 948 377 105
+, Natália Shalanová, HR Generalist
+Kistler Holding AG
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5230958
+Dátum zverejnenia:
+7.2.2026
+2026-02-07
+lokalita:
+Bratislava
+Pozícia:
+IT Tester
+Spoločnosť:
+Kistler Bratislava, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 400 EUR/month

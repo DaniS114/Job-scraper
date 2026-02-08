@@ -1,0 +1,119 @@
+Head of Engineering
+CulturePulse, s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+01.03.2026
+Wage (gross)
+4 000 EUR/month
+Final monthly salary is based on candidate´s professional experience, skills and knowledge.
+Information about the position
+Job description, responsibilities and duties
+​We are looking for a Head of Engineering to lead CulturePulse’s engineering organisation across multiple products and high-trust, mission-critical platforms operating in regulated and security-sensitive environments.
+This role is responsible for technical leadership, delivery execution, platform reliability, and people management across frontend, backend, data, ML/LLM systems, and cloud infrastructure. The Head of Engineering owns the engineering system as a whole - ensuring that teams are aligned, delivery is predictable, platforms are reliable, and technical decisions support long-term business and mission goals.
+This is a senior leadership role working closely with the VP, CEO, Product, Sales, Data Science, and external stakeholders (including public-sector and international partners). While technical credibility is essential, the role is not about being the primary implementer, but about enabling teams to deliver high-quality systems with confidence, clarity, and accountability.
+What will you do?
+Provide strategic technical leadership
+Define and own the technical direction and architecture across CulturePulse platforms.
+Ensure engineering strategy aligns with company priorities, including B2G and B2B products.
+Make high-impact technical decisions around architecture, scalability, reliability, and cost efficiency.
+Evaluate trade-offs, risks, and long-term implications of technical choices.
+Guide build vs buy vs partner decisions across infrastructure, AI tooling, and platforms.
+Own platform reliability, operations, and risk
+Be accountable for system reliability, availability, and operational resilience.
+Ensure monitoring, alerting, incident response, and post-incident learning are in place and effective.
+Oversee maintenance cycles, technical debt management, and system upgrades.
+Ensure platforms meet expectations for stability and predictability in real-world operational use.
+Proactively identify technical and operational risks and ensure mitigation plans exist.
+Security, privacy, and compliance leadership
+Own engineering-level security practices across systems and teams.
+Ensure platforms meet security, privacy, and compliance expectations for regulated and high-trust environments.
+Oversee secure architecture, access control, and data-sensitivity considerations.
+Partner with leadership on audits, governance, and client-facing security or compliance requirements.
+Ensure engineering teams understand and apply security and privacy principles in day-to-day work.
+Delivery, prioritisation, and execution
+Own engineering delivery planning, prioritisation, and execution across teams.
+Balance feature development, platform maintenance, innovation, and operational work.
+Establish predictable delivery cycles and realistic commitments.
+Surface delivery risks early and communicate clearly with stakeholders.
+Ensure engineering work is transparent, trackable, and aligned with product and business goals.
+Lead and grow the engineering organisation
+Lead a multi-disciplinary engineering team (frontend, backend, data, ML/AI, infrastructure).
+Own hiring, onboarding, mentoring, and performance development.
+Establish and uphold engineering standards, best practices, and healthy team processes.
+Foster a culture of ownership, accountability, collaboration, and continuous improvement.
+Ensure knowledge sharing, documentation, and continuity across the organisation.
+Collaborate with product, data and leadership
+Work closely with Product leadership to translate goals into executable technical plans.
+Provide clear technical input on feasibility, trade-offs, timelines, and constraints.
+Act as the primary technical counterpart for executive leadership and key external stakeholders.
+Support cross-functional alignment between engineering, data science, design, and operations.
+Must - have requirements
+Senior experience in engineering leadership (Head of Engineering, Engineering Manager, or equivalent).
+Strong technical background in modern backend systems, cloud platforms, and distributed architectures.
+Proven experience owning production systems with reliability, security, and operational accountability.
+Ability to lead and mentor engineers while maintaining technical credibility.
+Experience working closely with Product and Executive stakeholders.
+Strong communication skills and ability to explain complex technical topics clearly.
+Comfort operating in fast-moving, ambiguous environments with evolving priorities.
+Nice to have
+Experience in public-sector, defence, or other regulated environments.
+Familiarity with AI/ML platforms, data pipelines, or analytics-driven products.
+Experience with security, privacy, and compliance frameworks (e.g. GDPR, ISO-aligned practices).
+Background in scaling engineering teams or platforms in early-stage or growth-stage companies.
+Why this role matters?
+The Head of Engineering plays a critical role in ensuring that CulturePulse’s platforms are trusted, reliable, and operationally sound - especially in high-stakes environments where decisions rely on system outputs.
+This role ensures that engineering is not only building powerful technology, but doing so in a way that is predictable, secure, and aligned with real-world operational needs. The Head of Engineering shapes how teams work, how risks are managed, and how technical decisions support both immediate delivery and long-term mission success.
+Engineering delivery is predictable, transparent, and aligned with business priorities.
+Platforms are stable, secure, and trusted by government and enterprise partners.
+Technical debt and operational risk are actively managed, not deferred.
+The engineering team is motivated, supported, and continuously improving.
+Leadership has clear visibility into technical risks, trade-offs, and opportunities.
+Employee perks, benefits
+• Not a typical, boring 9 - 5. Flexible work with an emphasis on measurable results rather than needless processes.
+• Real ownership where you can take initiative, test ideas quickly, and bring them into production.
+• Direct opportunity to shape the product’s technical direction and build your own solutions.
+• Close collaboration with domain experts and hands-on mentorship from experienced leaders.
+• Small, high-performing team with no corporate bureaucracy, fast decisions, and strong support for new ideas.
+• Work on projects with real impact, including cooperation with the UN, NATO, and the EU.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+Degree in Computer Science, Engineering, or equivalent practical experience.
+Language skills
+English - Advanced (C1)
+Advertiser
+Brief description of the company
+An AI company specializing in social listening and text analysis.
+Number of employees
+10-19 employees
+Contact
+Contact person: Kristína Blatnická
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5230525
+Dátum zverejnenia:
+6.2.2026
+2026-02-06
+lokalita:
+Bratislava
+Pozícia:
+Head of Technical Department
+,
+Software Engineer
+Spoločnosť:
+CulturePulse, s.r.o.
+Základná zložka mzdy (brutto):
+4 000 EUR/month

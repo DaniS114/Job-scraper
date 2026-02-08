@@ -1,0 +1,95 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Frontend Developer (Medior/Senior)
+Place of work
+Žilina, Slovakia (Job with occasional home office)
+Wage (gross)
+From 3 000 EUR/month
+* The final basic wage component can be adjusted according to the individual skills and experience of the selected candidate. 
+* Financial bonus based on performance paid twice a year up to 10% from the base salary paid during the evaluation period (normally 6 months)
+Contract type
+full-time
+Our team is seeking a skilled/experienced Frontend Developer to champion the development of our internal component library. This library is core to multiple products, ensuring efficiency and a unified user experience across our offerings.
+Position is located in Žilina where is required to be onsite 2 days per week. Full remote is not possible.
+On this position you'll also contribute to our cutting-edge remote computer management application. We embrace agile practices, self-organization, and encourage our team to drive innovation through experimentation with new approaches and technologies.
+Your key responsibilities will be to:
+architect and develop robust, reusable React components in TypeScript
+take ownership of component quality, ensuring scalability and cross-product compatibility
+collaborate within an agile team environment
+participate in sprints, code reviews, and knowledge-sharing to advance our frontend ecosystem
+champion best practices and design patterns
+drive frontend innovation
+research, propose, and integrate new technologies to elevate our user experiences
+Our requirements:
+experience in professional frontend development
+demonstrable experience in React and TypeScript
+solid understanding of core JavaScript concepts, HTML, and CSS
+deep knowledge of building JavaScript modules and understanding of bundler configuration (webpack, vite.js)
+familiarity with Git version control
+a relentless drive to learn and adapt
+a portfolio showcasing strong architectural decisions would be a plus
+It is awesome, but not required, if you have:
+experience with CI/CD systems (e.g., Bitbucket, TeamCity)
+experience with CLI tools and UNIX shell scripting
+working knowledge of Docker or other cloud technologies
+proficiency with IntelliJ IDE and Bootstrap
+Kontaktná osoba
+Jakub Kunik
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Neustále hľadáme nové kolegyne alebo nových kolegov, ktorí chcú byť súčasťou úspešného slovenského príbehu s globálnym dopadom. V ESET neustále dokazujeme, že špičková expertíza a inovácie vytvorené na Slovensku majú silu konkurovať najväčším hráčom v oblasti kyberbezpečnosti po celom svete. Ak chceš pracovať pre firmu, ktorá stavia na kvalite, odbornostiach a reálnom dopade svojej práce vo svete, hľadáme práve
+TEBA.
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5230012
+Dátum zverejnenia:
+5.2.2026
+2026-02-05
+lokalita:
+Žilina
+Pozícia:
+Frontend developer
+,
+Javascript Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

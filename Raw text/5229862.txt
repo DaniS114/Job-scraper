@@ -1,0 +1,102 @@
+MID-LEVEL Java Developer
+Ardaco, a.s.
+Miesto práce
+Business Center Polianky 5, Polianky, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Finálna výška mzdy sa môže prehodnotiť v závislosti od kvality uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​Pridaj sa k nám ako Java vývojár a budeš pracovať na aplikáciách pre kvalifikované elektronické podpisy (QES).
+Si Java nadšenec s vášňou pre tvorbu bezpečných a inovatívnych softvérových riešení?
+Chceš sa podieľať na formovaní budúcnosti digitálnych transakcií a elektronických podpisov?
+Chceš pracovať pre zvučnú slovenskú firmu, ktorá je lídrom informačnej a komunikačnej bezpečnosti?
+Ak je tvoja odpoveď na tieto otázky „áno“, pridaj sa k nám a neváhaj nám poslať svoj životopis.
+Koho hľadáme?
+Do nášho tímu hľadáme šikovného a zodpovedného kolegu, ktorý už má niečo za sebou. Ideálne minimálne 3 roky praxe v Jave.
+Budeš zohrávať dôležitú úlohu pri implementácii desktopových a webových aplikácií zameraných na kvalifikované elektronické podpisy. Budeš mať možnosť ovplyvniť budúcnosť digitálnych transakcií a zlepšovať svoje zručnosti v oblasti vývoja v Jave.
+S čím budeš pracovať?
+PostgreSQL, Keycloak, Docker, Spring Boot, iOS, Android
+REST/SOAP webové služby
+Git, Gitlab a build nástroje Maven
+Výhody pre úspešné zvládnutie pohovoru:
+Znalosť európskej regulatívy eIDAS a eIDAS 2
+Skúsenosti v oblasti elektronického podpisu
+Aké budú tvoje zodpovednosti?
+Spolupráca v rámci tímu na návrhu a implementácii desktopových a webových aplikácií pre kvalifikované elektronické podpisy
+Vývoj robustných a škálovateľných riešení, ktoré budú vyhovovať potrebám našich klientov
+Účasť na všetkých fázach vývoja softvéru, od zberu požiadaviek až po nasadenie a údržbu
+Kontakt s novými technológiami a trendmi v odvetví s cieľom podporiť inovácie a neustále zlepšenie
+Kto sme?
+Sme súčasťou revolúcie, ktorou sú elektronické podpisy využívané v modernom podnikaní. Naša spoločnosť sa zaoberá poskytovaním riešení s najvyšším stupňom bezpečnosti a súladu. Ako člen nášho tímu budeš mať príležitosť formovať budúcnosť elektronických podpisov a spolu umožníme organizáciám zjednodušiť ich procesy.
+Zamestnanecké výhody, benefity
+Čo ti ponúkame?
+Zázemie v spoločnosti, ktorá má takmer 25-ročnú históriu, a stabilnú prácu v tíme priateľských ľudí
+Pohyblivý pracovný čas
+Hybridný model dochádzky umožňujúci prácu v kancelárii aj doma
+Prácu s modernými technológiami
+Možnosť výberu firemného mobilného telefónu podľa vlastných preferencií a jeho používanie aj na súkromné účely
+Školenia a certifikované kurzy pre tvoj kariérny i osobný rast
+​
+Teambuildingy a firemné akcie ako napr. spoločná bajkovačka, turistika, skupinová fyzioterapia, laser arena
+Finančný príspevok na stravovanie
+Občerstvenie na recepcii – ovocie a snacky
+Ďalšie benefity:
+Tichá lokalita v blízkosti Sitinského lesa
+Bike-friendly prostredie a cyklotrasy v okolí
+Sprcha v office
+Bezplatné parkovanie v areáli firmy
+Úložisko na bicykle
+Maloobchodné reťazce v okolí
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Prax na pozícii/v oblasti
+3
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Znalosť návrhových vzorov, integračných štandardov a bezpečnostných princípov
+Dobrá schopnosť riešenia problémov a zmysel pre detail
+Schopnosť rýchlo sa učiť a adaptovať sa meniacim sa požiadavkám
+Silné komunikačné a tímové schopnosti – pozícia s možnosťou dorásť na team leadera
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť Ardaco, a.s, založená v roku 2001 je inovatívnym lídrom v oblasti informačno-komunikačných technológií a informačnej bezpečnosti. Ardaco ponúka vlastný plne škálovateľný Silentel systém pre bezpečnú komunikáciu, poskytujúci prenos hlasu, videa, dátovej komunikácie a správ.
+Okrem toho Ardaco ponúka široké spektrum vlastných produktov v oblasti elektronického a kvalifikovaného elektronického podpisu QSign, z ktorých sú všetky určené pre bezpečné a nákladovo efektívne spracovanie elektronických dokumentov.
+Jednotlivci, spoločnosti a štátne organizácie vo vyše 50 krajinách si môžu spoľahlivo ochrániť a zabezpečiť svoju komunikáciu a informácie pomocou širokej škály Silentel a QSign produktov.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Petra Holčíková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5229862
+Dátum zverejnenia:
+5.2.2026
+2026-02-05
+lokalita:
+Bratislava
+Pozícia:
+Java programátor
+Spoločnosť:
+Ardaco, a.s.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

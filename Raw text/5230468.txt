@@ -1,0 +1,101 @@
+Kafka Developer- rozvíjaj sa pri projektoch, ktoré majú zmysel
+Poslať CV
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiac
+*
+*Uvedená mzda predstavuje minimálne platové ohodnotenie.
+Finálna mzda bude závisieť od tvojich platových očakávaní a skúseností.
+Náplň práce, právomoci a zodpovednosti
+Dáta sú hnacím motorom digitalizácie a dátový streaming je to, čo im dáva rýchlosť a zmysel. V SOFTECu sa už roky venujeme real-time spracovaniu dát a pomáhame bankám, poisťovniam a telco firmám zvládať komplexné integračné výzvy. Do nášho tímu hľadáme posilu - Kafka Developera, ktorý má chuť ísť do hĺbky a preberať zodpovednosť za riešenia, nie len za úlohy.
+Čo bude u nás tvojou zodpovednosťou?
+návrh, vývoj a údržba riešení na báze Apache Kafka
+práca s event-driven architektúrou a real-time dátovými tokmi
+integrácia dát medzi systémami v komplexných IT ekosystémoch
+spolupráca s analytikmi, architektmi a ďalšími vývojármi
+riešenie výkonu, spoľahlivosti a stability streamovacích riešení
+podieľanie sa na technických rozhodnutiach a zlepšovaní riešení
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Osobnostné predpoklady a zručnosti
+praktická
+skúsenosť s
+Apache Kafka
+(vývoj, konfigurácia alebo podpora v prevádzke)
+porozumenie princípom distribuovaných systémov a asynchrónnej komunikácie
+skúsenosť s integráciou systémov alebo real-time dátovými tokmi
+samostatnosť, zodpovednosť a chuť posúvať riešenia dopredu
+výhodou je skúsenosť s vývojom producerov a consumerov pre Apache Kafka, tiež s Kafka Streams, Kafka Connect, Schema Registry a tiež Docker / Kubernetes
+vítaná je aj orientácia v microservices, event-driven architektúre a znalosť domén banky / poisťovne / telco
+Zamestnanecké výhody, benefity
+Flexibilita a rovnováha medzi prácou a životom
+Flexibilný pracovný čas (od 10:00 do 15:00 je potrebné byť zastihnuteľný, no zvyšok je na tvojej preferencii)
+Hybridný režim s možnosťou home-office (2 dni v týždni)
+Extra dni dovolenky nad rámec zákona
+Sabbatical
+Personalizované finančné výhody
+Benefitný systém Kafetéria - štedrý finančný balíček, ktorý využiješ podľa seba: od wellnessu a masáží, cez kultúrne zážitky až po lekárske vyšetrenia
+Príspevok na 3. dôchodkový pilier
+Veľkorysý finančný príspevok na technologickú vychytávku (kancelárske zariadenie podľa tvojich preferencií, ktoré môžeš využiť v rámci home-office)
+Notebook, prípadne mobilný telefón
+Referral program - pozvi parťáka do tímu a získaj štedrú finančnú odmenu
+Rast a rozvoj, ktorý má zmysel
+Spolupráca s TOP lídrami vo finančnom, telekomunikačnom a poisťovacom sektore na zmysluplných projektoch
+Soft-skills aj hard-skills školenia, workshopy, konferencie
+Príspevok na jazykové vzdelávanie
+Zaujímavé webináre a prednášky aj priamo v kancelárii
+️ Zdravie a životný štýl
+Multisport karta pre fanúšikov pohybu aj relaxu
+Ranné cvičenia jógy v kancelárii či v lete na streche, a to vždy s profi inštruktormi
+Podpora skupinových aktivít - bežecký klub, futbal, florbal, maratóny a výzvy, ktoré spájajú
+Tematické týždne (zdravý, ovocný, nanukový…)
+Prostredie, kde sa dobre dýcha
+Priestory najzelenšej kancelárskej budovy na Slovensku so strešnou terasou, oddychovou zónou a cyklomiestnosťou
+Legendárne firemné akcie a skvelé teambuildingy s pohodovými kolegami
+Možnosť parkovania zadarmo
+Zaujala ŤA táto pracovná pozícia?
+Pošli nám svoj životopis a naša HR špecialistka ťa bude kontaktovať.
+Poslať CV
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+Petra Burianová
+AKO TO U NÁS VYZERÁ?
+Chceš byť súčasťou nášho tímu,
+ale nenašiel/nenašla si vhodnú pozíciu pre teba?
+Budeme radi, ak nám napíšeš.
+Kontaktuj nás
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5230468
+Dátum zverejnenia:
+6.2.2026
+2026-02-06
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Programátor
+Spoločnosť:
+SOFTEC
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac
