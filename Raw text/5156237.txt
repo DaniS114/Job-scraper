@@ -1,0 +1,88 @@
+Senior Spring Boot Developer with DevOps & UI experience
+Think Ahead - Unternehmergesellschaft (haftungsbeschränkt) für innovative Software-Projekte
+Arbeitsort
+Heimarbeit
+Art des Arbeitsverhältnisses
+Gewerbeschein
+Einstellungstermin
+01.04.2026
+Gehalt (brutto)
+Ab 35 EUR/Stunde
+We are able to offer very flexible options for billing fees.
+Informationen über die Arbeitstelle
+Arbeitsinhalt, Befugnisse und Verantwortlichkeiten
+We are involved with a large and stable customer in the financial industry, modernising and consolidating its various customer systems. We were commissioned to put together an agile Scrum team to manage and further develop existing components of these customer systems during the modernisation process.
+The tech stack consists of Java EE with Spring Boot on Kubernetes/OpenShift, CI/CD stack consists of Maven & Jenkins, Frontend is realized with vue.js.
+The tasks are varied and do not consist solely of backend development. Frontend work in vue.js may also be required, as well as adjustments to the build and deploy pipeline. We are seeking several candidates and aim to create the right mix of skills within the team.
+This project is a long term assignment, starting in Q2 and targeted at least until the end of the year.
+Zusätzliche Leistungen, Vorteile
+The work takes place at your home. Laptops are provided, and an initial visit to Germany may be necessary for onboarding (Dusseldorf/Cologne area - travel expenses will be reimbursed).
+You can choose between Windows-based laptops or Macbooks. Please ensure, that you are familiar with the chosen operating system.
+Informationen über das Auswahlverfahren
+We will check your qualifications given in your provided profile. The start of the project is end of Q1 / beginning of Q2.
+Many thanks.
+Anforderungen an den Mitarbeiter
+Für die Stelle sind Bewerber mit der Ausbildung geeignet
+Weiterbildung/höhere fachliche Ausbildung
+Universitätsausbildung (z. B. Bc., ...)
+Universitätsausbildung (z.B. Dipl. Ing., ...)
+Sprachkenntnisse
+Englische Sprache - Fortgeschrittene (C1)
+oder
+Deutsche Sprache - Fortgeschrittene (C1)
+Andere Kenntnisse
+Spring Boot - Experte
+Docker - Fortgeschrittene
+Kubernetes - Fortgeschrittene
+Maven - Fortgeschrittene
+Jenkins - Fortgeschrittene
+RabbitMQ - mittlere Kenntnisse
+Vue.js - mittlere Kenntnisse
+Java EE - Experte
+Rest API - Fortgeschrittene
+User Acceptance Testing (UAT) - mittlere Kenntnisse
+Relational Database Management System (RDBMS) - Fortgeschrittene
+Anzahl der Jahre der Berufspraxis
+5
+Charaktervoraussetzungen und Fähigkeiten
+You are self-motivated and flexible, communicative, eager to learn and not afraid of taking responsibility.
+Inserierende Gesellschaft
+Kurze Charakteristik der Gesellschaft
+For more than 25 years, we have been successfully supporting companies in the planning, implementation, and optimization of IT projects. With our extensive experience and strong commitment to quality, we help our clients turn complex challenges into sustainable solutions.
+Core Services
+* Project Management: Structured coordination and successful execution of IT projects – on time, transparent, and efficient.
+* Application Development: Tailor-made software solutions that perfectly support business processes and create real value.
+* Business Analysis: In-depth analysis of business processes to identify potential and develop future-oriented strategies.
+* Requirements Management: Precise capture, documentation, and management of requirements as the foundation for project success.
+Our Strength
+We combine technological expertise with methodological competence and place great emphasis on collaborative partnerships. Our goal is to deliver sustainable IT solutions that drive our clients forward in the long term.
+Anzahl der Mitarbeiter
+3-4 Mitarbeiter
+Kontakt
+Kontaktperson: Jan de Vries
+E-mail:
+Lebenslauf senden
+Um auf dieses Angebot zu reagieren,
+brauchen Sie keinen Lebenslauf
+. Es genügt, ein Formular auszufüllen.
+Auf ein Stellenangebot reagieren
+Angebot einem Bekannten weiterempfehlen
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5156237
+Dátum zverejnenia:
+9.2.2026
+2026-02-09
+lokalita:
+Heimarbeit
+Pozícia:
+Backend Entwickler
+,
+DevOps Engineer
+Spoločnosť:
+Think Ahead - Unternehmergesellschaft (haftungsbeschränkt) für innovative Software-Projekte
+Základná zložka mzdy (brutto):
+35 EUR/Stunde

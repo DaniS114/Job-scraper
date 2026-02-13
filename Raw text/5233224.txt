@@ -1,0 +1,103 @@
+Senior DevOps Engineer (AWS)
+Famalo, s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+ihneď/dohodou
+Mzdové podmienky (brutto)
+3 500 - 6 000 EUR/mesiac
+Uvedená mzda závisí od skúseností kandidáta na kontrakt: Živnosť, s.r.o,.... Vítame spoluprácu aj na TPP full-time, part-time.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme senior DevOps špecialistu na AWS do medzinárodného IT tímu sídliaceho na Slovensku, ktorý prevezme zodpovednosť za infra a delivery pipeline od A po Z. Hľadáme človeka, ktorý vie veci navrhovať, automatizovať, udržiavať a riešiť problémy v prípade incidentov.
+Náplň práce
+výborná znalosť AWS služieb
+návrh, výstavba a prevádzka infraštruktúry na AWS (produkcia aj non-prod)
+CI/CD: návrh a správa pipeline (build/test/deploy), automatizácia release procesov
+správa a zlepšovanie GitLab CI
+observabilita: monitoring, alerting, logy, metriky, incident response, CloudWatch
+hardening a security best practices (IAM, least privilege, auditability)
+práca v shell-konzole (Bash/Linux CLI) – automatizácia, troubleshooting a rýchla diagnostika v teréne (procesy, služby, logy, sieťovanie, permissions, performance)
+schopnosť riešiť výkonnostné problémy databáz – diagnostika a optimalizácia (indexy, query plán, connection pooling, konfigurácia, monitoring, spolupráca s dev tímom pri ladení dotazov) pre PostgreSQL a MySQL (Aurora)
+dobrý prehľad v správe DNS (záznamy, routing, TTL, debug)
+praktická znalosť VPN, OVPN (site-to-site aj client VPN, riešenie výpadkov a latencie)
+optimalizácia nákladov (FinOps mindset)
+ústretová spolupráca s dev tímom: nastavenie štandardov, automatizácia
+Zamestnanecké výhody, benefity
+prácu na mimoriadne zaujímavom projekte v zladenom tíme odborníkov
+zmysluplnú zodpovednosť a priestor robiť veci poriadne
+remote režim bez micromanagementu
+výborné finančné podmienky podľa skúseností
+moderný tech-stack
+druh pracovného pomeru TPP alebo kontrakt
+Informácie o výberovom konaní
+Je potrebné poslať:
+CV a motivačný list, popis reálnych doterajších pracovných DevOps skúseností s AWS a zoznamu zodpovedností, ideálne aj ukážku – popis pipeline, infra prístupu, prípadne repo (ak sa dá)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+5
+Osobnostné predpoklady a zručnosti
+aspoň 5-ročná silná prax so AWS v produkcii (nie hobby projekty)
+skúsenosť s CI/CD a reálnou prevádzkou pipeline
+suverénne ovládanie GitLab (repo + CI), práce s Dockermi
+Amazon ECS
+vysoká miera porozumenia sieťam, bezpečnosti, dostupnosti, backupom
+praktická znalosť HTTP/HTTPS (hlavičky, status kódy, TLS handshake, cache, reverse proxy)
+práca s SSL/TLS a certifikátmi (vydanie, nasadenie, rotácia, reťazce, SNI, riešenie expirácií a chýb)
+skúsenosť s konfiguráciou bezpečnostných pravidiel a ochrany – WAF/rate limiting, bot/spam protection, hardening endpointov, základná mitigácia DDoS a incidentné ladenie (blokácie, allowlist/denylist, audit logy)
+skúsenosť s vysokou dostupnosťou (HA), multi-AZ/multi-region návrhmi
+znalosť Apache
+samostatné fungovanie: identifikácia problému → navrhnútie riešenia → dotiahnutie
+vecná komunikácia v angličtine, úroveň B2
+Bonus (výhoda)
+infra ako kód (IaC) ideálneTerraform, CloudFormation(výhoda, nie nutnosť – ale ochota sa doučiť)
+znalosť Nginx
+znalosť Python
+skúsenosti so škálovateľnosťou
+Kubernetes
+messaging system: SQS / RMQ
+Spolupráca a dostupnosť
+100% full remote (home office)
+možnosť stretnúť sa raz mesačne v Ružomberku
+potrebujeme vysokú dostupnosť – rýchla reakcia na produkčné veci do 15 min počas pracovnej doby
+rozumné platené on-call podľa dohody (fix + hodinovka za zásah)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Famalo is a global real estate startup. We connect exceptional properties with international clients. We do it through curated selection, personal care, and a discreet approach.
+The project was founded by investors from Confer s.r.o. and GreMi KLIMA, s.r.o. .
+We are built on trust, quality, and innovation. This is not a mass-market catalogue. It is a platform for carefully selected listings, clear communication, and private-advisory-level support.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Monika Uhrinová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233224
+Dátum zverejnenia:
+12.2.2026
+2026-02-12
+lokalita:
+Práca z domu
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Famalo, s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

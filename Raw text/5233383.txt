@@ -1,0 +1,99 @@
+DevOps špecialista
+ESMO s. r. o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+01.03.2026
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+od 2500 brutto
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+DevOps špecialista zodpovedá za návrh, konfiguráciu a administráciu technologických prostredí v ktorých sú prevádzkované projekty softvérových produktov. Okrem toho má na starosti aj tvorbu Pipelines DevOps, vývoj a zavedenie CI/CD, správu procesov a DevOps Developer nástrojov pri automatizácii, testovaní a zavádzaní softvérových produktov. Súčasťou práce je analýza požiadaviek vývojového tímu a následné návrh a realizácia technickej implementácie.
+Hlavný rozsah zodpovednosti:
+Zefektívňovanie a automatizácia procesu dodávania softvéru, aby sa zabezpečili rýchlejšie, spoľahlivejšie a bezpečnejšie „releases“ softvéru s vyššou kvalitou
+Budovanie, udržiavanie a zlepšovanie architektúry systému spôsobom „Infrastructure as a Code“
+Príprava a správa kontajnerového / cloudového Kubernetes prostredia
+Zodpovedá za vytváranie a implementáciu systémových vylepšení, ktoré zlepšujú výkon a spoľahlivosť systému
+Budovanie a vývoj platforiem CI/CD s cieľom rýchlejšieho a bezpečnejšieho presunu zmien do produkcie
+Vývoj nástrojov a procesov na lepšie využitie základných zdrojov infraštruktúry prostredia pre nasadzovanie riešení
+Vytváranie dokumentácietýkajúcej sa navrhovaných riešení a technológií a usmerňovanie tímov.
+Špecifické zodpovednosti:
+Inštalácia a konfigurácia:
+DevOps pracovník má zručnosti a skúsenosti s konfiguráciou komplexných softvérovo definovaných riešení, vrátane riešení na vzdialených platformách, v prostredí privátneho, verejného či hybridného cloudu. Zároveň dokáže využívať vhodné nástroje pre podporu riadenia konfigurácií
+Systémová integrácia rôznych aplikácií (systémov) do jedného celku:
+Pracovník dokáže používať a využívať rôzne metódy a postupy pre integráciu vyvíjaných a spravovaných prvkov a modulov do väčších, často dynamických celkov. Pre DevOps špecialistu je primárnym fokusom podpora tzv. kontinuálneho vývoja a kontinuálnej integrácie vyvíjanej aplikácie (CI/CD).
+Priebežná kontrola funkčnosti navrhovaného riešenia a priebežné testovania navrhovaného riešenia:
+Pracovník DevOps je schopný vo svojej práci využívať širokú škálu nástrojov, platforiem a techník pre testovanie a kontrolu kvality vyvíjaného a spravovaného softvérového riešenia, a to najmä v kontexte kontinuálnej integrácie (CI/CD).
+Zamestnanecké výhody, benefity
+Zvýšený príspevok na stravné
+Odmeny na základe finančných ukazovateľov spoločnosti a ekonomiky projektov
+Flexibilný pracovný čas
+​Pozícia umožňuje občasnú prácu z domu​
+Predpokladaný termín ukončenia výberového konania
+15.3.2026
+(ostáva ešte 31 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Expert (C2)
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+DevOps
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Predchádzajúca prax:
+Nevyhnutná predchádzajúca prax min 3 roky v oblasti:
+Inštalácie a administrácie Kubernetes/Docker prostredí
+Konfiguráce CI/CD DevOps v Gitlab
+Zručnosti potrebné k výkonu práce:
+Inštalácia a konfigurácia Kubernetes prípadne Docker
+Návrh a konfigurácia CI/CD DevOps procesov (Build, Deployment, Pipelines, Gates, Správa prístupov a pod.)
+Znalosť verziovacích nástrojov a systémov správy zdrojového kódu (najmä Git)
+Skúsenosti s vytváraním skriptov (najmä Bash, Python)
+Pokročilá správa a administrácia Linuxových systémov (primárne distribúcie založené na Debiane, najmä Ubuntu)
+Základné znalosti o osvedčených postupoch softvéru, ako je agilný vývoj, vývojový program DevOps, pokyny pre kódovanie, preskúmania kódu atď.
+Pokročilé znalosti o systémoch založených na Linuxe: Ubuntu/Debian
+Znalosť sieťovej infraštruktúry a princípov mikroservisnej architektúry
+Výhodou sú ďalšie zručnosti:
+Predchádzajúca prax v oblasti konfigurácie a administrácie OS Redhat
+Predchádzajúca prax v oblasti konfigurácie a administrácie OpenShift
+Skúsenosti s configuration management nástrojmi (Ansible prípadne Tarraform)
+Skúsenosti s konfiguráciou a administráciou Azure cloud prostredia a Azure DevOps CI/CD konfiguráciou
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme softvérová spoločnosť ponúkajúca IT riešenia postavené na dlhoročných skúsenostiach odborníkov. Náš tím stojí na pevných základoch lojálnosti, priateľských vzťahoch a rešpekte. Prostredníctvom našich špecialistov detailne analyzujeme potreby zákazníka, ponúkame podporu pri výbere najvhodnejších riešení a ich implementáciou zefektívňujeme vnútorné firemné procesy. Zaoberáme sa hromadným inteligentným spracovaním papierových dát a ich ďalším automatizovaným spracovaním v elektronickej podobe. Uvedomujeme si hodnotu a silu informácií, a tak venujeme maximálnu pozornosť ich ochrane nielen z pohľadu bezpečnosti, ale taktiež z pohľadu ochrany osobných údajov.
+Individuálny prístup ku klientovi a rešpektovanie jeho požiadaviek sú pre nás na prvom mieste.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233383
+Dátum zverejnenia:
+11.2.2026
+2026-02-11
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+ESMO s. r. o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

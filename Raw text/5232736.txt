@@ -1,0 +1,84 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Storage Architect
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 050 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+Architect responsible for design and implementation of an assigned technology.
+What will you do?
+Design, develop, test, implement and support ICT components and applications in order to deliver  quality standard  product portfolio.
+Build and develop concepts, processes and methods for automation, optimization and standardization to satisfy  efficiency and automation requirements.
+Provide advice or information at request or at own initiative to all relevant employees or customers regarding technical aspects of  products.
+Provide project deliverables in order to fulfil the project scope.
+Consult and implement new innovative  technologies to satisfy  innovation strategy.
+Provide overall solutions and principles in planning, developing and implementing new  products to satisfy business requirements.
+Design, develop, and implement architecture of  services based on  platform requirements.
+Mentor and train co-workers to spread knowledge level  and develop their skills.
+Act as key technical lead and solve and coordinate activities across related technologies/outside own team.
+Provide consulting services to project teams on areas of expertise.
+Research and development in assigned technology, determine business requirements, propose changes and develop implementation plans.
+You will succeed if you:
+have knowledge and experience with Storage Architecture & Design ( Expertise in designing high-availability, scalable storage solutions with NetApp ONTAP, Huawei OceanStor, and Brocade SAN )
+have knowledge and experience with Backup & Disaster Recovery (DR) ( Experience with backup strategies, SnapMirror, SnapVault, Commvault, Veeam, and DR planning )
+have knowledge and experience with Scripting & Automation ( Skills in PowerShell, Python, Ansible for automating storage provisioning and monitoring )
+have knowledge and experience with SAN & NAS Management ( Deep understanding of Brocade Fibre Channel SANs, zoning, multipathing, and NAS protocols (NFS, CIFS, SMB))
+have knowledge and experience with Performance Tuning & Optimization ( Ability to analyze IOPS, latency, deduplication, compression, and optimize storage performance )
+speak English - Advanced (C1)
+NICE TO HAVE SKILLS:
+Networking & Security –( Knowledge of iSCSI, FC, NVMe, encryption, RBAC, and storage security best practices )
+Project Management & Troubleshooting ( Experience in leading storage migrations, upgrades, and RCA for complex storage issues )
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 050 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lenka Kiššová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5232736
+Dátum zverejnenia:
+10.2.2026
+2026-02-10
+lokalita:
+Košice region
+Pozícia:
+IT Architect
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 050 EUR/month

@@ -1,0 +1,87 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Consultant Cloud AI Sovereignty (ICT Consultant)
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 1 900 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+We are seeking an AI Consultant with strong expertise in AI sovereignty, data sovereignty, and regulatory compliance to support customers in highly regulated environments (e.g., public sector, finance, healthcare). The role focuses on advising on and designing sovereign AI solutions that meet legal, security, and operational requirements—ensuring that data usage, model governance, and AI landscapes are compliant, auditable, and resilient. The position requires implementation experience to enable pragmatic advisory and direct customer engagement, translating complex regulatory and technical requirements into target architectures, controls, and operating models.
+Act as a trusted advisor and mediator between delivery teams and customers to address AI sovereignty, data sovereignty, and compliance requirements during AI solution design and rollout
+Assess customer environments (cloud/hybrid/on-prem) and define sovereignty requirements for AI workloads (data residency, access controls, encryption, key management, segregation, logging, auditability)
+Design and implement AI governance frameworks (model lifecycle governance, risk classification, documentation, approval workflows, accountability, audit readiness)
+Support customers in building compliant AI architectures (secure-by-design, privacy-by-design), including data pipelines, model hosting concepts, and AI operational models (MLOps/LLMOps)
+Translate regulatory needs into implementable controls aligned with frameworks such as EU AI Act, Define and advise on the implementation of control sets for AI systems: monitoring, incident response for AI, model change management, drift detection, explainability/traceability, data lineage, retention policies
+Develop and present customer-specific concepts, roadmaps, and target operating models (people/process/technology) for sovereign AI adoption
+Educational Background: Bachelor’s degree (or higher) in Computer Science, Information Systems, Cybersecurity, or related field.
+What will you do?
+Act as a trusted advisor and mediator between delivery teams and customers to address AI sovereignty, data sovereignty, and compliance requirements during AI solution design and rollout
+Assess customer environments (cloud/hybrid/on-prem) and define sovereignty requirements for AI workloads (data residency, access controls, encryption, key management, segregation, logging, auditability)
+Design and implement AI governance frameworks (model lifecycle governance, risk classification, documentation, approval workflows, accountability, audit readiness)
+Support customers in building compliant AI architectures (secure-by-design, privacy-by-design), including data pipelines, model hosting concepts, and AI operational models (MLOps/LLMOps)
+Translate regulatory needs into implementable controls aligned with frameworks such as EU AI Act, Define and advise on the implementation of control sets for AI systems: monitoring, incident response for AI, model change management, drift detection, explainability/traceability, data lineage, retention policies
+Develop and present customer-specific concepts, roadmaps, and target operating models (people/process/technology) for sovereign AI adoption
+You will succeed if you:
+3–6 years experience in consulting / architecture / security & compliance roles with customer-facing responsibility.
+Proven hands-on implementation experience delivering AI/data platforms or governance/security controls in real environments.
+I Sovereignty & Compliance Knowledge:
+Strong understanding of data sovereignty principles (residency, access governance, encryption, KMS/HSM, audit logging, third-country transfer risk).
+Familiarity with EU regulatory environment (GDPR, NIS2, DORA; EU AI Act readiness is a strong plus).
+Technical & Platform Skills:
+Solid knowledge of cloud and hybrid architectures for AI workloads (Azure/AWS/GCP or sovereign/private cloud alternatives).
+Practical experience with data governance concepts (data classification, lineage, retention, DLP) and AI operationalitation (MLOps/LLMOps).
+Communication & Consulting Skills:
+Strong stakeholder management and ability to lead workshops, produce governance documentation, and present to technical + executive audiences.
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 1 900 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lenka Kiššová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5234183
+Dátum zverejnenia:
+13.2.2026
+2026-02-13
+lokalita:
+Remote work
+Pozícia:
+IT Consultant
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+1 900 EUR/month

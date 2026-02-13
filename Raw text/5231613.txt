@@ -1,0 +1,97 @@
+Tech Lead / Senior Full‑Stack Developer
+DORPS s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+marec-apríl 2026
+Mzdové podmienky (brutto)
+Od 4 000 EUR/mesiac
+(v závislosti od schopností a skúseností + osobné ohodnotenie.)
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme
+skúseného technického kolegu, ktorý sa stane pravou rukou CTO. Ide o rolu na pomedzí technického lídra, senior-vývojára a architekta. Budete priamo spolupracovať s CTO na vedení projektov, návrhu architektúry, rozvoji vývojového tímu a realizácii rôznorodých technických riešení - odenterpriseaplikácií cez e‑commerceaž po procesné poradenstvo a projekty v oblasti mixovanej reality.
+Náplň práce, právomoci a zodpovednosti
+Prevziať technický dohľad nad projektmi (.NET,Angular,WordPress, e-commercea iné).
+Viesť a mentorovať vývojárov, zabezpečovať kvalitu kódu, robiť codereview.
+Aktívne programovať na backendovej aj frontendovej časti projektov.
+Spolupracovať s CTO na technickej špecifikácii a návrhu riešení.
+Komunikovať so stakeholdermi a prekladať biznis požiadavky do technických krokov.
+Navrhovať architektúru aplikácií, databáz a integračných väzieb.
+Dohliadať na nasadzovanie aplikácií, DevOpsa CI/CD procesy.
+Pracovať aj na projektoch postavených na Microsoft 365 a SharePointe.
+Zamestnanecké výhody, benefity
+Priestor pre nové technológie a vlastné návrhy.
+Veľmi pestrú škálu projektov – nebude to žiadny stereotyp.
+Stabilné a priateľské prostredie.
+Flexibilnú pracovnú dobu, možnosť práce z domu.
+Event kalendár plný športových a kultúrnych akcií, teambuildingov a iných aktivít.
+Možnosť kariérneho rastu.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+4
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+Technológie a oblasti, s ktorými budete pracovať:
+Backend: .NET, EntityFramework
+Frontend: Angular(TypeScript)
+CMS: WordPress
+Databázy: MS SQL, MySQL, skúsenosti s nerelačnými DB (MongoDB,Firestore,CosmosDB…)
+Microsoft ekosystém: SharePoint, Microsoft 365,PowerPlatform
+Cloud&infra: Azure, IIS, Docker
+Nástroje: Git, CI/CD pipelines, Azure DevOps / Jira
+Čo od vás očakávame:
+​
+Minimálne 4+ rokov skúseností s vývojom softvéru.
+Skúsenosť s vedením menšieho tímu alebo technickým koordinovaním projektu.
+Silnýfull‑stack základ (backend+frontend).
+Schopnosť technicky uvažovať, navrhovať riešenia, odhadovať náročnosť a riziká.
+Ochotu rozširovať si záber (projekty máme rozmanité).
+Spoľahlivosť, zmysel pre detail, úprimnú komunikáciu a proaktívny prístup.
+Výhodou sú skúsenosti s automatizáciou procesov, prácou s API, integráciami, modernými technológiami (MR/AR,IoT,cloud).
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme tím dynamických a inovatívnych profesionálov v oblasti informačných technológií. Navrhujeme a vytvárame multiplatformové aplikácie mixovanej reality na zobrazenie virtuálnych 3D objektov v reálnom prostredí, čo prináša veľa inovatívnych možností. Našim klientom pomáhame zefektívniť existujúce informačné systémy. Štandardizovať, optimalizovať a digitalizovať ich kľúčové procesy. V technologickej oblasti spolupracujeme s overenými partnermi a profesionálmi, ktorí spĺňajú náročné požiadavky na kvalitu dodávaných riešení a plnenie požiadaviek našich klientov.
+Ak máte záujem o túto pozíciu a spĺňate uvedené požiadavky, pošlite nám svoj životopis a motivačný list.
+Viac informácií na www.dorps.eu
+Kontakt
+Kontaktná osoba: Dušan Okleštek
+Tel.:
++421905410302
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5231613
+Dátum zverejnenia:
+9.2.2026
+2026-02-09
+lokalita:
+Práca z domu
+Pozícia:
+IT architekt
+,
+Programátor
+,
+Technický manažér
+Spoločnosť:
+DORPS s.r.o.
+Základná zložka mzdy (brutto):
+4 000 EUR/mesiac

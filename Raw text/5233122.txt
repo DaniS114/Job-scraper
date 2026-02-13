@@ -1,0 +1,105 @@
+Software Engineer DevOps
+Software AG Development Center Slovakia, s.r.o.
+Miesto práce
+Južná trieda, Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+Od 3 200 EUR/mesiac
+depending on skills and experience salary might be higher
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+We are looking for a Software Engineer with a strong DevOps mindset to join our Developer Platform team in Košice.
+This is a development-focused role in a small, highly technical team. You will design and build internal services, automation, and developer tooling in a modern, cloud-native, GitOps-driven environment. Your mission is not classic operations, but to improve developer experience and productivity by owning and evolving internal platform components.
+What you will doSoftware Engineering & Platform Development
+Design, implement, and maintain backend services for internal platforms and developer tooling
+Build and evolve internal developer platform components and development-related services
+Develop automation and self-service solutions that improve developer productivity and delivery speed
+Take end-to-end ownership of internal services (design, implementation, documentation, maintenance)
+DevOps & Cloud Enablement
+Implement GitOps-based deployments using Argo CD and Helm
+Manage platform infrastructure and components using Infrastructure as Code (Terraform / OpenTofu)
+Drive the architectural design and evolution of CI/CD, deployment, and QA pipelines, including performance and reliability improvements.
+Define, evolve, and implement branching models and repository structures that support efficient development and delivery.
+Work with containerized applications using Docker and Kubernetes
+Collaboration & Continuous Improvement
+Collaborate closely with Cloud Operations and build/process teams
+Improve repository structures, workflows, and delivery processes
+Proactively identify improvement opportunities and drive them forward
+Share knowledge and ensure backup coverage within a small, efficient team
+Zamestnanecké výhody, benefity
+Employee perks, benefit
+Earn competitive total compensation and receive comprehensive country-specific medical and other benefits.
+Annual financial bonus up to 200% of the monthly salary.
+​Enjoy time and location flexibility with our Hybrid Working Model. Work anywhere in your country or abroad for up to 10 days per year.
+​Set yourself up for success in your new role by upgrading your home office space using your one-time hybrid work payment.
+​Meditate using your premium Headspace subscription.
+​Work-life balance policy: you get Extra Vacation days & Sickness days.
+​Lean on the Employee Assistance Program for support during some of life’s most common but difficult challenges.​
+Informácie o výberovom konaní
+We will contact only chosen candidates.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Computer Science
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Must-Have
+Several years of hands-on software development experience
+Strongly preferred: Java / Spring Boot
+Experience building backend services and REST APIs
+Experience working in cloud-native environments, ideally AWS
+Solid understanding of containerized applications (Docker, Kubernetes)
+Experience with Git-based workflows
+Strong sense of ownership, self-motivation, and responsibility
+Good communication skills in English and a collaborative mindset
+Nice-to-Have
+Experience with JS/TS and React
+GitOps tooling (Argo CD, Helm)
+Infrastructure as Code (Terraform / OpenTofu)
+CI/CD tooling (GitHub Actions)
+Experience with Kafka, MongoDB, or Redis
+Curiosity about AI-driven automation and modern productivity tooling
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Software AG Development Center Slovakia was founded in 2005 as a subsidiary of Software AG (now SAG ARIS GmbH) and operates in Kosice. Fifty employees are mainly focused on the development of ARIS. ARIS offers a truly collaborative process improvement environment. It makes processes transparent, controlled, manageable and agile. Business and IT get the tools they need to collaborate for true end-to-end business and IT improvement, guided by governance. ARIS also enables enterprises to confidently meet internal and external legal requirements and standards while efficiently managing risks.
+We are looking for experts to join one of our development teams. The development teams consist of highly experienced software engineers following SCRUM/AGILE principles. The successful candidates will take part in the overall Software Development process and will work in close collaboration with all international teams.
+ARIS, the Process Intelligence leader helps organizations turn their processes into value. By managing the entire process lifecycle with a single, integrated suite, ARIS enables companies to define, analyze, simulate, optimize and control their processes.
+ARIS is consistently recognized by Gartner and Forrester as a leader in Process Intelligence and Process Mining and is trusted by thousands of businesses across finance, healthcare, manufacturing, retail and others to improve and reinvent their business. For more information, visit www.ARIS.com and follow ARIS on LinkedIn.
+We are committed to providing an environment of mutual respect and fairness where equal employment opportunities are available to all applicants and employees without regard to race, colour, religion, gender, pregnancy, national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, and any other characteristic protected by applicable law.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Andrea Zárembová
+Tel.:
++421905628571
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233122
+Dátum zverejnenia:
+11.2.2026
+2026-02-11
+lokalita:
+Košice
+Pozícia:
+Javascript programátor
+,
+Programátor
+,
+Python programátor
+Spoločnosť:
+Software AG Development Center Slovakia, s.r.o.
+Základná zložka mzdy (brutto):
+3 200 EUR/mesiac

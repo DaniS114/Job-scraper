@@ -1,0 +1,83 @@
+Junior/Medior Fullstack Developer (Kotlin + Angular)
+ARTIN Slovakia s. r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+15.3.2026
+Mzdové podmienky (brutto)
+Od 1 600 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+We are working on a sales portal for a successful insurance company, which we built entirely from scratch. We engage with customers from eight different countries, both within Europe and beyond.
+Currently we are expanding our Bratislava team and that’s the reason why we are searching for a Fullstack Developer.
+What can you expect in this role?
+You will work on web illustration system used for creation of the insurance.
+Our team consists of 28 members (Developers, Testers/QA Engineers, Scrum Masters, Project Manager, ….). We are divided into four smaller independent teams, but we are used to meet at least twice a week in the office to make it easier to discuss things and share our knowledge and experience.
+You’ll operate in an agile environment surrounded by other Fullstack Developer who are always ready to assist or advise.
+Techstack:
+The application is divided into several different modules/microservices.
+You willl use technologies such as Kotlin, Java 11, Spring, REST API + DB technologies - Hibernate, QueryDsl, Liquibase, MS SQL.
+Frontend is written in Angular 16. Some parts of the application still use the “old” frontend written in AngularJS, but we are currently migrating those to Angular 16.
+Our role requires:
+Working history using Kotlin/Java on commercial projects.
+A solid grasp of other technologies mentioned above.
+Experience with frontend technologies such as Angular, React, or TypeScript.
+Coming to the office in Bratislava at least twice a week.
+Ability to communicate in English.
+Zamestnanecké výhody, benefity
+What we offer:
+Flexibility and work-life balance
+: We respect you have a life outside of work. We encourage open communication to find a pace that works for both the project and your personal needs.
+Professional growth:
+As an Artinian, you will be supported to excel in your field. We organize technical and soft skills training, language courses, and tech meetups. Is there a conference, workshop, or course you are interested in? We encourage those too.
+Great culture:
+Enjoy supportive team, and fun team-building activities.
+Cool benefits:
+Unlimited vacation, Multisport card, sick days, refreshment in the office, parking and some others :).
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+ARTIN je globálna spoločnosť poskytujúca profesionálne IT služby. Vyvíjame, integrujeme a testujeme softvér, aby sme našim zákazníkom pomohli posunúť ich podnikanie požadovaným smerom. Poskytujeme výnimočnú hodnotu prostredníctvom overených a moderných technológií.
+Je nás už viac ako 150 a nájdeš nás v Bratislave, v Brne a v Prahe. Pridaj sa k nám do priateľského a odborného IT tímu. :)
+Počet zamestnancov
+200-249 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Lenka Stříteská
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233657
+Dátum zverejnenia:
+12.2.2026
+2026-02-12
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Java programátor
+,
+Javascript programátor
+Spoločnosť:
+ARTIN Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+1 600 EUR/mesiac

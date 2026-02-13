@@ -1,0 +1,148 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Lead AI integration / Software Engineer (kontrakt /home-office/5000 - 8100 €
+Information about the position
+Place of work:
+Remote work
+Wage (gross):
+From 5 000 EUR/month
+(final monthly basic salary is based on candidate´s professional experience, skills and knowledge)*
+Start date:
+according the agreement
+Contract type:
+trade licence
+Job description, responsibilities and duties
+We are seeking an experienced leader to manage to manage a Scrum team of 4-6 developers/testers. The ideal candidate will serve as the primary liaison with client representatives, ensuring effective communication and timely delivery of high-quality software solutions.
+Lead a Scrum team of 4-6 developers/testers, fostering a collaborative and productive work environment.
+1. Research and Development
+- Assess current technology maturity and readiness for AI integration.
+- Develop and refine technical foundations, including AI chat applications and scalable architectures.
+2. Build Proof of Concepts (PoCs)
+- Design, construct, and pilot PoCs for selected use cases, focusing on AI integration and success measurement.
+- Collaborate on testing and refining automation frameworks for effective project deployment.
+3. AI Agent Development:
+- Build AI-driven solutions for streamlining repetitive engineering tasks.
+- Implement agile methodologies to drive iterative development and continuous improvement.
+Additional Focus Areas:
+- Collaborate with partners to bolster AI capabilities and close tooling gaps.
+- Ensure effective communication and documentation processes within the team.
+Become a key player in revolutionizing engineering approach by leveraging cutting-edge AI technologies.
+Responsibilities:
+Act as the central point of contact for client representatives, maintaining open lines of communication and addressing any concerns or feedback.
+Coordinate with project managers and stakeholders to define project scope, priorities, and timelines.
+Ensure the quality and timely delivery of software development projects, overseeing all aspects of the development lifecycle.
+Support team members and promote their professional growth and well-being.
+Keep project documentation updated and provide light reporting on project progress.
+Demonstrate proficiency as a hands-on developer, producing high-quality code at a rapid pace.
+Conduct thorough code reviews and promote software development best practices within the team.
+Utilize design patterns effectively, explaining their value and implementing them as needed.
+Analyze solutions to ensure they meet scalability and efficiency requirements
+Communicate effectively with team members, advocating for improvements in software development processes and introducing new tools or techniques when appropriate.
+Provide assistance to team members and facilitate collaboration to achieve project goals.
+Demonstrate a strong sense of responsibility and commitment to project success.
+Proactively identify and propose improvements to enhance project efficiency and quality.
+Ensure that developed solutions comply with data privacy and security regulations
+- NET framework/ C#/ Web API
+- SQL/ queries/ views/ stored procedures
+- React
+- Microservices
+- Docker, Kubernetes
+- Entity Framework Core, Unit of work, Repository pattern
+- Websockets/ messaging/ communications protocols
+- Source control system(-s)
+- Software testing principles, test automation
+- Continuous integration
+- Software development patterns and best practices
+Employee perks, benefits
+- Company benefits,
+- Opportunity to learn new technologies, skills, training
+- Possibility to work on various international projects
+Information about the selection process
+If you are interested in our offer, send your CV in Slovak or English to anna.spasova@prohr.sk
+* We are required by law to disclose basic wage component (minimum salary) for the advertised positions. Your actual final salary is based on your professional competencies, skills, qualifications and experience matching the position.
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+International company
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+or
+Slovak - Upper intermediate (B2)
+Experience in the position/sector
+IT
+Number of years of experience
+1
+Personality requirements and skills
+•	University education (Master's degree) - technical, IT
+•	Language skills: English language - advanced
+•       Over 7 years of experience in software development.
+Proficiency in performance monitoring and analysis tools such as Azure App Insights.
+Knowledge of DevOps practices and CI/CD pipelines.
+•	Technicall skills :
+-	experience with web development and web frameworks
+-       development & deployment and configuring
+.NET Core, C#
+React
+ASP.NET MVC Core
+WebAPI
+HTML, CSS, JavaScript
+Microservices
+Docker, Kubernetes
+Entity Framework Core, Unit of work, Repository pattern
+MS SQL, NoSql, Redis
+- Mindset of consultant - propose innovations, explain reasons for change, guide non-technical people
+- Soft Skills:
+Strong analytical and problem-solving skills with the ability to diagnose and resolve complex issues under pressure.
+Excellent communication and interpersonal skills to effectively collaborate with cross-functional teams and communicate technical concepts to both technical and non-technical stakeholders.
+Strong sense of ownership, self-motivation, and the ability to work independently as well as in a team environment.
+Focus on results and a proactive approach to problem-solving.
+Ability to identify and escalate issues early, and to remain calm and de-escalate situations when necessary.
+Accountability, problem-solving, leadership, integrity, adaptability, decision-making, conflict resolution, and maintaining a positive mindset are essential traits for this role.
+Advertiser
+Brief description of the company
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+The company is a holder of a licence to offer recruitment services.
+Number of employees
+10-19 employees
+Contact
+Contact person: Mgr.  Anna Spasová
+Tel.:
++421 2 6241 3438, +421 911 525 022
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5231833
+Dátum zverejnenia:
+9.2.2026
+2026-02-09
+lokalita:
+Remote work
+Pozícia:
+.NET Programmer
+,
+C# Programmer
+,
+Frontend developer
+,
+Programmer
+,
+Scrum Master
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+5 000 EUR/month

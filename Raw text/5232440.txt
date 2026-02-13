@@ -1,0 +1,84 @@
+Fullstack Developer (Node.js + React)
+Everlution s. r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+Od 1 700 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Máš rád vývoj, ale rovnako dôležití sú pre teba aj ľudia, s ktorými pracuješ? V Everlution veríme, že tie najlepšie aplikácie vznikajú v uvoľnenej atmosfére a pri vzájomnom zdieľaní know-how. Do nášho tímu hľadáme novú posilu, ktorá nám pomôže posúvať naše projekty na novú úroveň.
+Čo u nás budeš robiť?
+Vyvíjať moderné webové aplikácie s dôrazom na kvalitu a škálovateľnosť.
+Pracovať na komplexnom tech-stacku od frontendu (React) až po backend (Node.js).
+Aktívne sa podieľať na návrhoch architektúry a riešení v rámci agilného tímu.
+Pravidelne „chit-chatovať“ s naším Scrum Mastrom z Londýna (v angličtine).
+Tech Stack:
+Frontend:
+React, TypeScript, JavaScript
+Backend:
+Node.js, GraphQL
+Databázy:
+MySQL, PostgreSQL
+Infraštruktúra:
+AWS, Docker, Prisma
+Čo od teba očakávame?
+Skúsenosti:
+prax s vývojom v Node.js a React.js.
+Základy:
+Ovládaš TypeScript/JavaScript a princípy SOLID sú pre teba samozrejmosťou.
+Data:
+Vieš pracovať s relačnými databázami a rozumieš GraphQL.
+Jazyk:
+Tvoja angličtina je minimálne na úrovni B2 – nebojíš sa komunikovať v medzinárodnom prostredí.
+Bonusy:
+Ak máš skúsenosti s Dockerom, AWS alebo Prismou, máš u nás plus!
+Prečo práve Everlution?
+Flexibilita:
+Pracujeme hybridnou formou (2-3 krát do týždňa v office). Je len na tebe, či si vyberieš náš office v Bratislave alebo v Prešove.
+Everlution University:
+Náš koncept interného vzdelávania. Stretávame pri pizze, počúvame prednášky kolegov a rozoberáme technické novinky.
+Rast a projekty:
+Budeš súčasťou rastúcej technologickej spoločnosti a pracovať na zaujímavých projektoch.
+Kultúra:
+Sme tím, ktorý ťa podrží, priateľská atmosféra.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Everlution vytvára, spravuje a neustále inovuje technologické vybavenie spoločnosti, pre ktoré tvorí technólogia kritickú súčasť ich biznisu. Hlavným zameraním pre Everlution sú robustné, bezpečné a vysoko-škálovateľné aplikácie postavené na najnovších technológiách a podľa najnovších metodológií postavené primárne na platforme AWS, Azure, Google Cloud, prípadne s prepojením na fyzické servery spoločnosti. Napriek množstvu inovácií sa spoločnosť Everlution opiera o veľmi šikovný, medzinárodný tím odborníkov a 20+ rokov skúseností v oblasti fintech, insuracnetech a mediálnych projektov primárne určených pre UK trh. Našim cieľom je vybudovať prosperujúcu firmu s jasnými hodnotami, slobodnou a priateľskou firemnou kultúrou so zachovaním vysokého štandardu kvality našich projektov.
+Pre viac informácií o spoločnosti a kultúre navštívte: https://jobs.everlution.sk
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Natalia Mazepa
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5232440
+Dátum zverejnenia:
+10.2.2026
+2026-02-10
+lokalita:
+Bratislava
+Pozícia:
+Javascript programátor
+Spoločnosť:
+Everlution s. r. o.
+Základná zložka mzdy (brutto):
+1 700 EUR/mesiac

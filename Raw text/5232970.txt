@@ -1,0 +1,103 @@
+Naše produkty
+Práca za rohom
+Najzamestnávateľ
+Profesia
+Platy.sk
+Edujobs
+Teamio
+Seduo
+Profesia days
+O nás
+Náš príbeh
+Náš tím
+Práca u nás
+Kontakt
+Kontaktujte nás
+SK
+EN
+Naše produkty
+O nás
+Práca u nás
+Kontakt
+Kariéra v Alma Career Slovakia
+Cloud Solution Architect, Alma Media
+Cloud Solution Architect, Alma Media
+Odpovedať na pozíciu
+Place of work
+Pribinova 19, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+5 000 EUR/month
+About the Role
+We are looking for a Cloud Solution Architect to strengthen Alma Media’s group-level Cloud team and help evolve our cloud platforms in a secure, cost-efficient, and scalable direction. In this role, you will work hands-on with cloud infrastructure and platform solutions while collaborating closely with product development teams, security, and operations. You will be part of a small, highly specialized team that owns Alma Media’s cloud foundations and enables others to build on top of them safely and efficiently.
+You will report to the Head of Cloud and operate at group level, with a primary focus on AWS-based environments while supporting a growing footprint on Google Cloud Platform.
+Key Responsibilities
+Build and maintain infrastructure as code, with a strong emphasis on AWS-based solutions and modern automation practices.
+Contribute to the development of cloud standards, guardrails, and shared patterns that improve security, reliability, and developer experience.
+Support cloud account provisioning, access management, and platform hardening as part of the team’s operational responsibilities.
+Participate in operational readiness and incident response practices, ensuring platforms are resilient and well understood.
+Collaborate with product development teams to advise on cloud architecture choices and help remove structural bottlenecks.
+Continuously improve cost visibility and efficiency through technical solutions, automation, and informed architectural decisions.
+Develop and maintain the group-level GitHub Enterprise setup, including access models, security controls, and integrations that support secure and efficient software development.
+Develop and evolve CloudHealth usage, automation, and data quality to support cloud cost visibility and optimization across Alma Media.
+Actively contribute to the evolution of the Cloud team from primarily operational work toward more reusable, platform-oriented solutions over time.
+You will succeed in this role if you have:
+Strong hands-on experience designing and implementing cloud solutions, especially on AWS.
+Solid experience with infrastructure as code and automation, such as AWS CDK (TypeScript), CloudFormation, Terraform and CI/CD pipelines (for example GitHub Actions).
+Ability to work productively in a cloud environment where AWS is dominant, while being comfortable operating across multiple cloud platforms as GCP usage grows.
+Understanding of cloud security fundamentals, including IAM, access control models, and platform hardening.
+Experience with operational cloud environments, including supporting reliability, availability, and day-to-day platform needs.
+Willingness to adopt and actively use AI-assisted development tools as part of daily engineering work.
+Good collaboration and communication skills, with the ability to work across teams and explain technical topics clearly.
+Relevant higher education degree or equivalent practical experience.
+Alma as an employer
+At Alma, we foster a culture of collaboration and teamwork, where everyone is accepted as who they are. In our constantly changing business environment, it takes courage to try new things, push boundaries, and drive innovation.
+For us, courage is not only big heroic actions, but those small things that occur in our daily work: when you dare to say your opinion, speak a foreign language, try something new, and fail. Joining Alma means becoming part of a friendly, supportive community of professionals, where teamwork and courage will take us to the next level. To create new growth, we need courage.
+And courage grows best together.
+We Offer
+A meaningful role in shaping Alma Media’s group-level cloud foundations and future platform direction.
+The opportunity to work hands-on with modern cloud technologies in a complex, real-world environment.
+A team with deep cloud expertise and strong support from technology leadership.
+Best AI tools
+Flexible working hours and remote work opportunities.
+The Cloud team works as a geographically distributed group, with current team members located in Helsinki and Prague. We are open to candidates based in Helsinki, Tampere, Prague, or Bratislava. The team’s official working language is English.
+Our promise to you
+Friendly culture where you can be yourself:
+We trust each other and give autonomy
+Job with purpose and impact:
+Our brands are well-known and used by millions of people daily, and trusted when making the most important decisions of their lives.
+Opportunities for professional learning and growth:
+You are encouraged to take time for learning.
+We value the power of internal collaboration and learning from one another.
+Location and how to apply
+We work in a multi-location and flexible manner, and in this role, you can work from any of our offices located in Finland, Czechia or Slovakia.
+Got Interested?
+Apply and become part of our growth story! Apply for the position by 28.2.2026. We start interviews already during the application period. We will fill the position as soon as a suitable candidate is found.
+Kontaktná osoba
+Jana Polednová
+Odpovedať na pozíciu
+Späť na voľné pracovné miesta
+We are a member of
+Alma Career
+family.
+ID:
+5232970
+Dátum zverejnenia:
+11.2.2026
+2026-02-11
+lokalita:
+Bratislava
+Pozícia:
+IT Analyst
+,
+IT Architect
+,
+IT Manager
+,
+IT Security Specialist
+Spoločnosť:
+Alma Career Slovakia s. r. o.   (pôvodne Profesia, spol. s r.o.)
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+5 000 EUR/month

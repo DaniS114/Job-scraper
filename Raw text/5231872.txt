@@ -1,0 +1,168 @@
+Systems Engineer – Voice & Linux Systems (On-site & Customer-Facing)
+FREQUENTIS Solutions & Services s. r. o.
+Place of work
+Karadžičova 8, Ružinov, Slovakia, Bratislava (Job with occasional home office)
+Contract type
+full-time, trade licence
+Wage (gross)
+3 500 EUR/month
+Freelancer's hourly rate to be agreed individually. The final offer may vary based on the experience and qualifications of the selected candidate.
+Information about the position
+Job description, responsibilities and duties
+FREQUENTIS Solutions & Services (FSS)
+as a member of the Austrian Group FREQUENTIS AG, is focused on software development, system engineering and delivery of safety-critical voice communication and information systems. Our solutions are developed and distributed in the following business segments:
+Air Traffic Management & Defence
+(civil and military air traffic control, aeronautical information management),
+Public Safety
+(police, fire and rescue services, emergency medical services) and
+Public Transport & Maritime
+(railway and urban transport solutions, vessel traffic management).
+Frequentis portfolio of market-leading products is designed to
+provide comprehensive solutions for the aviation industry
+. From automation to tower systems, voice communication to traffic optimisation, information management to surveillance, networks to UTM and recording, we offer a broad range of solutions that cater to all ATM operational needs.
+We are looking for a
+Systems Engineer
+who will be responsible for the
+technical implementation, deployment, and quality assurance of our systems
+throughout their full lifecycle in the Air Traffic Management domain.
+This is a
+hands-on system engineering role
+, involving
+on-site installations, system upgrades, and direct interaction with customers
+, covering activities from
+system design and integration
+to
+acceptance, commissioning, and operational support
+.
+Main responsibilities:
+On-site
+installation, integration, and system upgrades at customer locations (airports, ATM centers);
+Active participation in
+system design phases
+, including architecture discussions and technical reviews;
+Involvement in
+Critical Design Review (CDR)
+,
+Factory Acceptance Tests (FAT)
+, and
+Site Acceptance Tests (SAT)
+with customers;
+Direct customer interaction
+during commissioning, acceptance, and operational phases, including support of incident and problem resolution within agreed service levels;
+Close cooperation with
+Customer Service and Support teams
+during in-house and on-site system activities;
+Documentation and analysis of reported
+incidents
+and problems;
+Coordinating and carrying out
+root cause analyses
+and remedies;
+Designing, planning and technically executing
+changes and extensions
+to existing systems (change requests);
+Integrating systems and system components into existing system environments;
+Performing system
+audits
+;
+Collaborating with
+Product Management
+by providing technical and operational input for continuous product improvements and extensions, based on system lifecycle experience and customer feedback;
+Supporting the
+transition
+from delivery projects to the support phase, including building up the required know-how for operating and maintaining handed-over solutions;
+Drafting/updating t
+echnical documentation
+on systems and their interfaces;
+Coordinating with product and development teams on
+error analysis and troubleshooting.
+Technical Skills & Competencies:
+Install, configure, and maintain
+Linux
+servers (particularly RHEL), including updates, upgrades & troubleshooting issues;
+Bash
+scripting;
+Solid experience with
+virtualization
+platforms (VMware preferred);
+Experience with
+SBC
+&
+PABX;
+Experience with various
+storage technologies;
+Good understanding of basic
+networking;
+Understanding of
+clustering
+concepts;
+Ability to create
+technical documentation
+, including step-by-step instructions, specifications, and requirements;
+Able to quickly adapt to
+frequent software releases.
+​
+Skills considered as an advantage:
+Experience      with ATM Voice Communication Systems or safety-critical environments;
+Knowledge      of VoIP and SIP protocols;
+Experience      with analogue and digital voice interfaces;
+Basic      understanding of telecom signaling and voice networking;
+Prior      exposure to customer-facing system engineering roles.
+Employee perks, benefits
+• Training and development program (business and product trainings, language course)
+• Employee referral program (financial reward for recommending a successful candidate)
+• Employee assistance program (legal, financial and psychological counselling)
+• Meal contribution fully paid by the company
+• Multisport card/Pension scheme contribution (DDS)
+• Flexible working hours, home office
+• Refreshments, company & team events
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+Information Technology, Telecommunications
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Comfortable working both on-site with customers and in the office (Vienna and Bratislava), balancing technical work with communication and coordination);
+Willingness to travel to customer sites for installations, upgrades, and acceptance activities (typically planned, not ad-hoc);
+You are flexible, self-driven, goal-oriented and structured in how you approach your work;
+You can integrate yourself into a larger cooperation, follow corporate processes.​
+Advertiser
+Brief description of the company
+Our Bratislava-based company FREQUENTIS Solutions & Services is part of the Austrian FREQUENTIS group (www.frequentis.com). We are a leading global supplier of communication and information solutions for safety-critical applications, such as for air traffic control towers, public safety control rooms (112) or air defense forces. Our mission-critical solutions cover diverse areas, such as telephony and radio communication, Geographical Information Systems (GIS), incident and resource management, video surveillance and automatic video analytics.
+FREQUENTIS Solutions & Services is specialized in software development and project delivery. Together with our parent company we are developing FREQUENTIS’ next generation control room solutions, using state-of-the-art technologies and processes. Our delivery teams then deploy those solutions at our customers around the globe, with responsibility for commercial and technical project management, engineering and quality assurance.
+To grow our team, we are constantly looking for talents in all these fields. Our company offers an interesting and challenging technical environment, a people-focused culture with emphasis on a good work-life-balance and, if desired, a long-term development and career opportunities.
+For our customers, lives may be at stake and seconds count. Our solutions thus need to be developed to the highest standards when it comes to usability and reliability. Safety is what guides us from the first designs till the final tests of any of our solutions. If those are the kinds of challenges that excite you, then you have come to the right place!
+Number of employees
+150-199 employees
+Contact
+Contact person: Ing.  Eva Lajchová
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5231872
+Dátum zverejnenia:
+11.2.2026
+2026-02-11
+lokalita:
+Bratislava
+Pozícia:
+IT System Administrator
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+FREQUENTIS Solutions & Services s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

@@ -1,0 +1,109 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+Software Engineer  node.js
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto):
+Od 3 200 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+Spolupráca na projektoch pre vývoj nového interného web systému
+- analýza a návrh nových systémov/aplikácií a rozširovanie funkcionality existujúcich
+-  vývoj interného systému
+• Návrh a implementácia nových funkcionalít pre web aplikacie
+• Údržba a bugfixing existujúceho projektu
+• Spolupráca pri navrhovaní dátovej logiky, štruktúry a prepojenia dát na zdrojové systémy aplikácie
+- programovanie systému  (backend - Node.js, Next.js)
+(frontend - TypeScript, React alebo Angular alebo Vue )
+databazy:  MariaDB, MySQL,
+• Redis, Docker, Composer
+• využívanie frameworkov
+• GIT (používame bitbucket)
+• Používanie zásad DRY, KISS
+• Písanie unit testov a akceptačných testov
+• Dobre analytické myslenie , proaktívny prístup, aktívne vzdelávajúci sa vo svojom odbore
+• REST API, alebo SOAP (písanie aj implementácia)
+• deployment aplikácie
+• tvorba technickej dokumentácie
+Zamestnanecké výhody, benefity
+flexibilita
+práca s novými technológiami
+benefity (konzultuje sa s klientom)
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: anna.spasova@prohr.sk
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Vývoj vlastných produktov a inovatívnych riešení.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+development
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+•	stredoškolské vzdelanie s maturitou alebo univerzitné vzdelanie (zameranie technické, IT,..)
+•	minimálne  3 roky skúseností s programovaním  aplikácií
+•	skúsenosti s technológiami:
+-	Node.js, Next.js
+-       Znalosť Redis, Docker, Composer
+-	znalosť VUEjs, React, Angular výhodou
+-       databázy My SQL, Maria DB
+- 	znalosť GIT , REST API
+•	komunikačné zručnosti, schopnosť práce v tíme i samostatnosť, flexibilita, analytické myslenie, kreativita
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Anna Spasová
+Tel.:
++421 2 6241 3438, +421 911 525 022
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233669
+Dátum zverejnenia:
+12.2.2026
+2026-02-12
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Javascript programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 200 EUR/mesiac

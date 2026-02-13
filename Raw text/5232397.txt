@@ -1,0 +1,92 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+DevOps Engineer
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 1 650 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+DevOps Engineer is responsible for smooth operation, maintenance and extension of whole infrastructure, supports developers and adds to customer satisfaction. They always look for ways how to improve our tech stack and can support other team members during emergencies.
+Helps Telekom manage state sponsored projects in extending highspeed internet in Germany.
+The platform is essential in entering project details and following with evaluation, managing entire lifecycle.
+Are you familiar with cloud-native technologies and do you deploy modern software using GitOps principles? Are you interested in not just automating infrastructure, but also are interested in software development? Then become one of us!
+What will you do?
+Build a Docker image and develop a Kubernetes deployment from it.
+Define infrastructure as code – instead of clicking it together in a UI. You are familiar with tools like Terraform or Helm.
+Automate stuff using BASH, or sometimes Go
+Support during software development lifecycle and can set up, operate, and extend common CI/CD processes.
+Work with OTC Cloud platform.
+Set up Kubernetes clusters and manage them using GitOps tools such as ArgoCD or Flux.
+Debugging network issues in distributed systems.
+Communicate your changes, teach and educate developers and users
+You will succeed if you:
+have experiences with ICT System – 4 years
+have experience with Terraform / Terragrunt – Intermediate
+have experience with Kubernetes – Intermediate
+have experience with GitOps - Basic
+have experience with HELM - Basic
+CKA is huge benefit
+have experience with Scripting (Bash) – Intermediate
+have experience with Linux Operating System – Basic
+have experience with any of cloud providers, such as OTC / AWS / Azure – Intermediate
+have experience with Docker – Intermediate
+have experience with Git – Intermediate
+have experience with Jenkins / GitLab or similar CI/CD tools – Intermediate
+have experience with ELK / Prometheus / Icinga /  Jaeger / Grafana – Basic
+have experience with Networking – Basic
+have experience with Security - Intermediate
+are communicative, team player and have analytical thinking, training skills and presentation skills
+speak English – Upper intermediate (B2)
+have experiences with Agile Methodology
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 1 650 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Dana Dráčová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5232397
+Dátum zverejnenia:
+10.2.2026
+2026-02-10
+lokalita:
+Košice region
+Pozícia:
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+1 650 EUR/month

@@ -1,0 +1,98 @@
+Programátor C++ - vývoj softvéru pre špičkové CNC stroje
+MicroStep, spol. s r.o.
+Miesto práce
+Vajnorská 158, Bratislava
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+1 800 EUR/mesiac
+Mzda v závislosti od skúseností kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáš vývojársku prácu, ktorá ťa naozaj baví?
+Chceš programovať niečo, čo má skutočný zmysel a uvidíš to fungovať v praxi? U nás budeš tvoriť vlastný softvér, ktorý riadi CNC stroje v 58 krajinách sveta. Celý vývoj prebieha in-house v Bratislave. Máš príležitosť tvoj výsledok vidieť, testovať a ladiť na reálnych strojoch.
+Čo budeš u nás robiť?
+- vyvíjať desktopové GUI aplikácie
+- navrhovať logiku riadenia CNC strojov
+- optimalizovať a testovať softvér priamo na strojoch
+- podieľať sa na architektúre systémov a nových funkcií
+- spolupracovať s konštruktérmi a technológmi
+Náš tech stack:
+- C++23
+- Windows, Visual Studio (vývojové prostredie)
+Zamestnanecké výhody, benefity
+Čo ti ponúkame:
+- skutočné inžinierske výzvy (nielen klikanie GUI formulárov)
+- slobodu, samostatnosť a dôveru pri návrhu riešení
+- 2 dni dovolenky naviac
+- čiastočný homeoffice a flexibilný pracovný čas
+- ročné odmeny a pravidelné prehodnocovanie mzdy
+-príspevky na vzdelávanie, šport, kultúru, DDS
+- mimoriadne skúsený a priateľský tím, ktorý si pomáha
+- vývojové zázemie v Bratislave s vlastným testovacím laboratóriom
+Informácie o výberovom konaní
+Ceníme si všetky reakcie na pozíciu. Budeme kontaktovať kandidátov, ktorí najviac spĺňajú kritériá výberu, a to do 2 týždňov od zverejnenia pozície.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+a
+Slovenský jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+C++ - Mierne pokročilý
+Počet rokov praxe
+1
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Si pre nás vhodný, ak:
+- vieš programovať (C++ – ideálne, ale vieme pomôcť s prechodom aj z iných jazykov)
+- rozumieš objektovo-orientovanému programovaniu
+- vieš sa zamyslieť, nielen chatbotovať hotové riešenia
+- nezľakneš sa priamej zodpovednosti za to, čo tvoj softvér naozaj robí
+- ovládaš angličtinu min. B1
+- máš prax: 1+ rok je fajn, ale dôležitejšia je motivácia
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Prečo MicroStep?
+Sme slovenská technologická firma s vlastnými produktami, ktoré sú špičkou v priemysle. Náš softvér rezal diely pre lanovky, lode, ponorky, reaktory a iný priemysel. A tvoj kód môže byť jeho súčasťou.
+Zaujalo ťa to? Pošli nám CV. Radi sa ti ozveme!
+Informácie o aktuálnych otvorených pozíciach v MicroStepe nájdeš aj tu: https://www.microstep.sk/kariéra
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Jana Hykšová, Odd. ľudských zdrojov
+Tel.:
++421917617466
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5232389
+Dátum zverejnenia:
+10.2.2026
+2026-02-10
+lokalita:
+Bratislava
+Pozícia:
+C++ programátor
+,
+Programátor
+Spoločnosť:
+MicroStep, spol. s r.o.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

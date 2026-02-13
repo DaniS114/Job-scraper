@@ -1,0 +1,66 @@
+Lead .NET developer
+Webperfection s. r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 500 - 5 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+MarketClue je greenfield projekt podporovaný finančnými veteránmi. Staviame na „zelenej lúke“ priamo s CTO, CEO a PM, ... Momentálne vyberáme technologický stack, navrhujeme architektúru, budujeme produkt a validujeme nápady. Ak ťa baví tvoriť veci od základov a nielen udržiavať legacy kód, toto je ponuka pre teba...
+Tech stack (for now):
+.NET/C#
+Cloudflare Workers → neskôr Vercel Fluid alebo Railway
+AWS
+Convex + Redis, neskôr PlanetScale
+Docker, GitLab CI/CD, Graphite, Depot, CodeRabbit, and the usuals...
+About MarketClue
+MarketClue is an AI-driven financial helper that helps investors gain clarity and build adaptive understanding (backed by fintech veteran).
+FYI: práca je 2-3 dni on-site (BA-Rača)
+Informácie o výberovom konaní
+Phone call/CV review, a potom Ty a CTO, jedno kolo – ideálne donesieš notebook, kde ukážeš, ako používaš 'the latest shit...' (tvoj efektívny workflow), a potom sa pobavíte, ako postaviť SaaS fin. platformu a všetko, čo k tomu patrí...
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Prax na pozícii/v oblasti
+.net dev
+Počet rokov praxe
+7
+Osobnostné predpoklady a zručnosti
+Chuť stále programovať - rozumieš, že DEV je first-class citizen
+Byť nadšený pre svoju prácu
+Chcieť byť každý deň o krok lepší ako včera
+Ideálne skúsenosti so startupom a/alebo tradingom
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+MarketClue is an AI-driven financial helper that helps investors gain clarity and build adaptive understanding (backed by fintech veteran).
+Kontakt
+Kontaktná osoba: Juraj Jaňák, MSc.
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5231848
+Dátum zverejnenia:
+10.2.2026
+2026-02-10
+lokalita:
+Bratislava
+Pozícia:
+.NET programátor
+,
+C# programátor
+Spoločnosť:
+Webperfection s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

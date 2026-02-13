@@ -1,0 +1,107 @@
+Data Scientist
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+As soon as possible
+Wage (gross)
+2 500 EUR/month
+euro brutto (the final salary depends on candidate´s experience)
+Information about the position
+Job description, responsibilities and duties
+Artificial intelligence (AI) and data science are a one of major pillars of Arval's strategy. You will contribute to Arval's growth by identifying use cases that bring value to different functions (sales, marketing, operations, finance, risks, etc.) and implementing them with AI methodology.
+What will be Your responsibilities ?
+Understand business needs and identify opportunities for analytics, automation, and machine‑learning solutions
+Analyze, prepare, and explore data using Data Hub and approved data sources
+Extract meaningful insights from internal and external datasets to support operational and strategic decision‑making
+Build predictive models (classification, regression, forecasting) and pattern‑detection models (clustering, dimensionality reduction)
+Develop clean, well‑documented, production‑ready Python code with focus on quality, interpretability, and maintainability
+Ensure model interpretability, monitor performance, detect bias, and validate alignment with business needs
+Collaborate with IT, business stakeholders, and data experts to continuously improve analytical solutions
+Solve business issues using advanced analytics and machine learning techniques
+Contribute to Arval’s data‑driven strategy and follow best practices in data management, data protection, and AI governance
+Stay up to date with emerging Data Science methods and tools
+Technical Requirements
+Python (advanced) – model development, data processing, production‑grade code
+ETL processing in Dataiku – design and build data pipelines
+Domino – model development, experimentation, and model management
+GitLab – version control, documentation, CI/CD workflows
+MS Office (especially Excel) and BI tools – visualization and presentation of insights
+Compliance with internal standards – AI governance, data protection, model‑risk management
+We are looking for candidates with:
+Engineering degree or an equivalent university degree (Master's level) with a specialization in Data Science, Artificial Intelligence, Mathematics, Applied Statistics
+Expertise in Machine Learning
+Proficiency in Python Data/ML libraries focused on data analysis and machine learning
+Strong analytical skills and attention to details
+Good communication and presentation skills
+Fluent English
+Employee perks, benefits
+Bonus salary /can reach 100% of average monthly salary
+Cafeteria.sk benefit program
+Meal contribution 8 euro netto of credit for every working day
+Multisport Card for active free time - you pay only 14 euro/month
+Referral Bonus - 15OO euro
+Sick leave compensation 80% from the first day
+Bonus holiday
+2 sick days per year
+Fruit Days – fresh fruits everyday delivered to the office
+Life insurance
+Possibility to work from home
+Team-buildings, Family day celebrations, Christmas party, Health Awareness day and other social occasions to celebrate the teamwork and Arval company culture
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+robotics, informatics, applied informatics
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+Python - Advanced
+Dataiku DSS - Advanced
+Microsoft Power Bi - Advanced
+Experience in the position/sector
+Data Scientist, Data analyst, AI
+Number of years of experience
+1
+Personality requirements and skills
+You   hold an engineering degree or an equivalent university degree (Master's   level) with a specialization in Data Science, Artificial Intelligence,   Mathematics, Applied Statistics.
+You   have at least 2 years of experience as a Data Scientist
+You   are comfortable with experimentation and prototyping, and you place as much   importance on the 'why' as on the 'how'. You know how to share your   achievements.
+You   have strong expertise in Machine Learning. You are proficient in Python   , ETL (Dataiku)
+You   have a very good level of English as we work closely with countries, and you   will contribute to our international data scientist community.
+Advertiser
+Brief description of the company
+We belong to the multinational bank group BNP Paribas and in Slovakia we operate as anorganizational unit of Arval Slovakia since 2015. Our main task is to provide support to ArvalBNP Paribas group entities. Arval BNP Paribas is a provider of operating leasing in 30 countries worldwide. The support we provide is associated with technical and financial support as well as with expertise, consulting, and outsourcing services. Moreover, we are present in all fields that are linked to operating leasing such as customer contact center, controlling, warranty, insured accidents, or back office. One unit of the company is composed of Department of Operations – call center, communication with drivers and technical department. The other one covers financial field such as complex accounting advisory.
+Number of employees
+250-499 employees
+Contact
+Contact person: Michaela Koleňová
+E-mail:
+send CV
+For the many journeys in life
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5228118
+Dátum zverejnenia:
+9.2.2026
+2026-02-09
+lokalita:
+Bratislava
+Pozícia:
+IT Analyst
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+ARVAL COMPETENCE CENTER
+Základná zložka mzdy (brutto):
+2 500 EUR/month

@@ -1,0 +1,112 @@
+Senior Game Developer
+VisionLake, s.r.o.
+Miesto práce
+Na vrátkach 1b-3, Dúbravka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+4 000 EUR/mesiac
+Salary range starts at 4000 EUR, final amount will be adjusted according to your level of expertise and experience.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+We are looking for an experienced Senior Game Developer to join our online slot game development team. In this role, you will be writing code, architecting high-performance games, helping to shape technical direction of our internal game SDK, and setting the standard for quality and stability. You will act as the main responsible for delivery of specific game titles, taking them from concept to deployment independently, while also contributing to the core libraries that power our entire portfolio.
+​
+Key Responsibilities
+•
+End-to-End Ownership:
+Be able to independently lead the development of high-quality online slot games using TypeScript, handling everything from state management to complex animations and UI.
+•
+Architecture & SDK Evolution:
+actively contribute to and improve our shared game client SDK.
+•
+Performance Optimization:
+Ensure games run smoothly across all devices (desktop and mobile).
+•
+Technical Leadership:
+Make architectural decisions, select appropriate design patterns, and ensure maintainability and scalability.
+​
+Must-Have Skills
+•
+5+ years of professional software development experience
+, with a significant focus on Game Development.
+•
+TypeScript Mastery
+•
+Rendering Engine Expertise
+: Deep experience with 2D rendering libraries such as PixiJS or CreateJS (preferred) or Phaser.
+•
+Independence
+: Proven ability to take a feature or a full project from specification to release with minimal supervision.
+•
+Asset Pipelines
+: Experience with texture packing, audio sprites, and optimizing assets for web delivery.
+​
+Nice-to-Have
+•
+Backend Knowledge
+: Experience with Node.js to be able to support some of our internal tools
+•
+Slot Domain Knowledge:
+Understanding of specific slot mechanics (Reels, Paylines, Free Spins)
+English on an intermediate level is also essential.
+Zamestnanecké výhody, benefity
+opportunity to work on engaging projects in a nice, inclusive and relaxed environment where your ideas are valued - a good team vibe and atmosphere is crucial for us
+dynamic and agile game development - working on new and exciting games multiple times throughout the year
+our working schedule is
+very flexible, home-office
+is of course possible as well
+3 sick days / year
+MultiSport card
+- One free entry per day to the network of partner facilities in SK and CZ. More than 1,000 facilities and 230 activities.
+we totally support you in developing your expertise and domain knowledge - do you have an idea for an additional
+course
+that might help you? Do you fancy visiting a
+conference
+? Come to us with your ideas and we will support them
+when it comes to
+team-buildings
+we opt for a good dinner and beer
+free parking
+on our private parking lot behind the office building
+last but not least - very good specialty coffee
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+VisionLake provides information services, custom application development and solutions to various clients across industries. We are focused on information processing, multimedia and web technologies.
+Kontakt
+Kontaktná osoba: Katarína Mišáková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5231944
+Dátum zverejnenia:
+9.2.2026
+2026-02-09
+lokalita:
+Bratislava
+Pozícia:
+Frontend programátor
+,
+Javascript programátor
+,
+Programátor
+Spoločnosť:
+VisionLake, s.r.o.
+Základná zložka mzdy (brutto):
+4 000 EUR/mesiac

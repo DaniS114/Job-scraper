@@ -1,0 +1,100 @@
+Senior DevOps s nemčinou
+Stengl a.s.
+Miesto práce
+Nemecko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+2.3.2026
+Mzdové podmienky (brutto)
+Od 42 EUR/hod.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pre nášho koncového klienta hľadáme skúseného devOps Admina:
+zameranie hlavne na
+Docker
+, ideálne
+Docker Compose
+rovnako aj práca ako Admin pre
+GitLab
+ide o klient-server aplikáciu v oblasti
+digitalizácie nemeckého zdravotníctva
+(zubné ambulancie),
+práca s e-receptom, kartou pacienta, potvrdením PN, e-podpisom
+práca v
+Continuous Delivery
+, ktorá funguje na báze Docker Cointainerov (on-premises).
+Systémové prostredie SW vývoja:
+Windows a MacOS
+Hexagonálna architektúra
+Zamestnanecké výhody, benefity
+kurzy nemeckého a anglického jazyka,
+rôzne športové a relaxačno-regeneračné aktivity,
+200 eur na vlastne športové a relaxačno – regeneračné aktivity (len pri TPP),
+plne preplácané stravné (len pri TPP),
+príspevok na DDS (po 12. mesiacoch) (len pri TPP),
+bonusy pri jubileách vo firme (len pri TPP),
+bonusy pri narodení dieťaťa (len pri TPP),
+firemné akcie,
+2dni sick day ročne (len pri TPP),
+multisport karta.
+Ponúkame tiež:
+atraktívnu, rôznorodú prácu na zaujímavých projektoch,
+kvalitné technické vybavenie, vyspelú IT infraštruktúru,
+možnosť profesionálneho rastu,
+motivujúce finančné ohodnotenie s možnosťou pravidelného prehodnotenia,
+možnosť vzdelávania a výberu rôznych školení (hard skill / soft skill).
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Nemecký jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Docker - Pokročilý
+Docker Compose - Pokročilý
+Java - Základy
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Must-have
+Skúsenosti a znalosti v oblasti:
+Docker administrácia, Docker Compose
+GitLab / monitoring, sys. nastavenia, CI-CD, registre
+Linux, MacOS virtualizácia
+Shell scripting, Batch scripting
+Nice-to-have znalosti:
+Vývoj SW aplikácii
+Java
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+STENGL je IT konzultačná spoločnosť a súčasne softvérový dom, ktorý realizuje vlastné interné projekty ako aj projekty u zákazníkov, prostredníctvom skúsených IT expertov a odborníkov z rôznych doménových oblastí.
+STENGL je spoločnosť, ktorá má viac ako 25 ročné skúsenosti na slovenskom a českom trhu, ako aj v nemecky hovoriacich krajinách. Máme za sebou desiatky tisíc konzultačných a vývojových hodín pre našich klientov naprieč všetkými sektormi národného hospodárstva. Na Slovensku sme historicky jeden z najväčších poskytovateľov IT služieb pre klientov z nemecky hovoriacich krajín.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: HR
+Tel.:
++421903252331
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233314
+Dátum zverejnenia:
+11.2.2026
+2026-02-11
+lokalita:
+Nemecko
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+Stengl a.s.
+Základná zložka mzdy (brutto):
+42 EUR/hod.

@@ -1,0 +1,110 @@
+Medior/Senior Full-Stack Developer (Laravel & Next.js)
+Sympatia Group ®
+Miesto práce
+Vajnorská 21, Bratislava
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac
+Konečná výška odmeny bude dojednaná na osobnom pohovore v závislosti od skúseností, odborných znalostí a zručností kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného vývojára, ktorý nám pomôže posunúť naše digitálne produkty na vyššiu úroveň. Nebudeš len „kódiť“ do zásuvky – tvoja práca bude mať priamy dopad na fungovanie celej Sympatie aj na skúsenosť našich klientov. Pracujeme na mixe dlhodobých interných nástrojov a zaujímavých klientskych (rezidenčných) projektoch.
+Hľadáme parťáka, ktorý sa nebojí prevziať zodpovednosť, či už hľadáš stabilný full-time alebo flexibilný part-time popri inom projekte.
+Na čom budeš pracovať?
+Tvojou úlohou bude vývoj a údržba kľúčových systémov:
+• Interný systém: rozvoj nástroja, ktorý poháňa naše procesy.
+• Web a Onboarding: tvorba a optimalizácia webovej stánky a digitálneho onboardingu pre nových klientov.
+• Rezidenčné projekty: vývoj špecifických riešení pre oblasť nehnuteľností/rezidenčného bývania.
+• Návrh architektúry nových funkcií a API prepojení.
+• Optimalizácia databáz a query (PostgreSQL, MariaDB).
+Zamestnanecké výhody, benefity
+• Rôznorodosť: Práca na viacerých typoch projektov (interné vs. klientske), takže stereotyp nehrozí.
+• Technologický rozvoj: Priestor na skúšanie nových technológií a postupov.
+• zaujímavá a stabilná práca v etablovanej investičnej skupine
+• strategická a autonómna pozícia s možnosťou ovplyvniť fungovanie skupiny
+• veľmi dobrý a priateľský kolektív, príjemné pracovné prostredie
+•nové a moderné kancelárie vo veľmi dobrej lokalite, dostupné MHD ako aj na bicykli
+• firemné akcie, oslavy a teambuildingové podujatia
+Informácie o výberovom konaní
+Ak Vás naša ponuka zaujala a máte záujem byť zaradený/-á do výberového konania, zašlite prosím:
+1.	Váš profesijný životopis s fotkou
+2.     Informácie o projektoch/referencie
+3.	Súhlas so spracovaním osobných údajov
+a to prostredníctvom portálu ww.profesia.sk alebo elektronicky na adresu profesia@sympatia.sk.
+Všetkým uchádzačom vopred ďakujeme za prejavený záujem. Životopisy starostlivo posúdime a v prípade splnenia požiadaviek Vás budeme kontaktovať s informáciami o ďalšom postupe vo výberovom konaní. Súčasťou pohovoru bude aj praktické preverenie úrovne požadovaných odborných znalostí.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Expert (C2)
+Ostatné znalosti
+PHP 8+ - Pokročilý
+Framework Laravel - Pokročilý
+JavaScript (ES6+) - Pokročilý
+Next.js (React) - Pokročilý
+PostgreSQL - Pokročilý
+MariaDB - Pokročilý
+GIT - Pokročilý
+Rest API - Pokročilý
+Docker - Pokročilý
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Čo od teba očakávame?
+• Skúsenosti: min. 3 roky praxe na pozícii PHP/Full-stack developera.
+• Znalosť Laravelu: dobrá znalosť frameworku, ekosystému a best practices.
+• Frontend skill: Schopnosť vytvoriť moderné a reaktívne UI v Next.js.
+• Samostatnosť: Schopnosť uchopiť zadanie od A po Z a navrhnúť a implementovať riešenie.
+• Analytické myslenie: Schopnosť navrhovať databázové štruktúry v PostgreSQL.
+• Skúsenosti s verziovacím systémom (Git).
+Technologický stack:
+• Backend: PHP 8+, Framework Laravel (Must have)
+• Frontend: JavaScript (ES6+), Next.js (React)
+• Databáza: PostgreSQL, MariaDB
+• Ostatné: Git, REST API, Docker
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sympatia je investičná skupina pôsobiaca na trhu už vyše 20 rokov. Špecializujeme sa na správu finančného majetku bonitných klientov a na poskytovanie investičných riešení na finančných trhoch ako aj na investície v oblasti real estate a private equity. V našom portfóliu sa aktuálne nachádza viac ako dvadsať realitných projektov v rôznom štádiu realizácie. Všetky oblasti investičného cyklu každej investície a projektu rieši náš tím skúsených odborníkov. Naším cieľom je vytvárať nadčasové a trvalo udržateľné riešenia. Pre viac informácií navštívte prosím našu webstránku: https://www.sympatia.sk/.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Karin Rákoci
+Tel.:
++421232630700
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5232157
+Dátum zverejnenia:
+10.2.2026
+2026-02-10
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+,
+IT architekt
+,
+IT konzultant
+,
+IT manager
+,
+IT projektový manažér
+Spoločnosť:
+Sympatia Group ®
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

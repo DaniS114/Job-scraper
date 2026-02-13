@@ -1,0 +1,130 @@
+Cloud konzultant (AWS, Kubernetes & AI)
+DevOpsGroup s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+1.3.2026
+Mzdové podmienky (brutto)
+5 000 EUR/mesiac
+podľa dohody a seniority
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do
+DevOpsGroup
+hľadáme skúseného cloudového konzultanta so zameraním primárne na
+AWS
+, ktorý sa nebojí zodpovednosti, zákazníkov ani nových technológií vrátane
+AI
+.
+AWS je základ, Kubernetes je realita (cloud aj on-prem), AI je príležitosť.
+Nehľadáme človeka, ktorý čaká na zadania, hľadáme niekoho, kto dokáže prevziať zákazníka, rozvíjať ho a dlhodobo s ním budovať partnerstvo.
+Čo budeš robiť:
+• Mať na starosti
+viacerých zákazníkov
+– technicky aj konzultačne
+• Navrhovať a zlepšovať ich architektúry v:
+• AWS
+• Kubernetes (EKS aj on-premise Kubernetes/RKE/VM prostredie)
+• Pomáhať zákazníkom s:
+• Migráciou do cloudu
+• Modernizáciou infraštruktúry
+• Kontajnerizáciou aplikácií
+• Automatizáciou a CI/CD
+• Bezpečnosťou
+• Aktívne identifikovať
+nové use cases a príležitosti
+• Navrhovať riešenia v oblasti AI (LLM, automatizácia procesov, integrácie AI služieb)
+• Chodiť k zákazníkom (online aj onsite) a vystupovať ako ich partner
+• Spolupracovať s naším tímom pri realizácii projektov
+Tvoja rola nie je „spravovať cluster”. Tvoja rola je
+rozvíjať zákazníka a jeho infraštruktúru strategicky.
+Zamestnanecké výhody, benefity
+Priestor budovať vlastné portfólio zákazníkov
+Reálny vplyv na smerovanie riešení
+Slobodu a dôveru
+Prácu na zmysluplných projektoch (nie „cool veci len kvôli trendu”)
+Férové finančné ohodnotenie + bonusy viazané na rozvoj zákazníkov
+Možnosť podieľať sa na rozvoji AI služieb vo firme
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Cloud, Platform engineering, DevOps
+Jazykové znalosti
+Slovenský jazyk - Pokročilý (C1)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Amazon Web Services (AWS) - Expert
+Kubernetes - Expert
+CI/CD pipeline - Expert
+DevOps - Expert
+Cloud computing - Expert
+Prax na pozícii/v oblasti
+IT Architecture, DevOps, Consultant
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+Máš skúsenosti s
+AWS (architektúra, networking, security, IAM, compute, storage…)
+Máš skúsenosti s
+Kubernetes
+– ideálne aj s on-premise prostredím
+Rozumieš DevOps princípom a Infrastructure as Code (Terraform výhodou)
+Vieš komunikovať s CTO, IT manažérom aj developerom
+Nebojíš sa prezentovať návrh riešenia
+Premýšľaš biznisovo, nielen technicky
+AI nevnímaš ako buzzword, ale ako reálny nástroj
+Výhodou:
+AWS certifikácie
+Skúsenosti s migráciami z virtualizácie do Kubernetes
+Skúsenosti s hybrid cloud architektúrou
+Skúsenosti s AI projektmi alebo dátovými riešeniami
+Aký by si mal byť?
+Samostatný
+Zodpovedný
+Proaktívny
+Zrozumiteľný (žiadny blackbox prístup)
+Orientovaný na dlhodobý vzťah so zákazníkom
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme DevOpsGroup – tím, ktorý spája cloud, infraštruktúru, Kubernetes a umelú inteligenciu do zrozumiteľných riešení, ktoré dávajú zmysel.Pomáhame firmám modernizovať ich systémy, automatizovať procesy a zlepšovať výkonnosť tímov. Okrem klientskych projektov rozvíjame aj vlastné produkty, ako napríklad openprime.io – open-source nástroj na generovanie IaC kódu a CI/CD pipeline-ov.
+Naša kultúra stojí na zrozumiteľnosti, bezpečnosti, automatizácii a dlhodobých vzťahoch. Nie sme korporát. Robíme poctivé riešenia, ktoré reálne fungujú.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Pavol Krajkovic
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233679
+Dátum zverejnenia:
+13.2.2026
+2026-02-13
+lokalita:
+Práca z domu
+Pozícia:
+Databázový administrátor
+,
+DevOps Engineer
+,
+IT architekt
+,
+IT konzultant
+,
+IT/Technical Support Specialist
+Spoločnosť:
+DevOpsGroup s. r. o.
+Základná zložka mzdy (brutto):
+5 000 EUR/mesiac

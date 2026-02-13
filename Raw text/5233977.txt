@@ -1,0 +1,70 @@
+MLOps&Network Infrastructure Architect
+Edgar Baker s. r. o.
+Place of work
+Bratislava
+Contract type
+trade licence
+Start date
+April/May 2026
+Wage (gross)
+5 000 EUR/month
+from 5000€/month
+Information about the position
+Job description, responsibilities and duties
+We're seeking a senior-level architect with strong expertise in MLOps, DevSecOps, deep learning pipelines, and high-performance networking to design and maintain our GPUaaS platform's backbone. This role emphasizes low-latency, high-bandwidth networks for GPU clusters (e.g., RDMA over InfiniBand/Ethernet), cloud integrations, security, and automation. Ideal for someone with experience architecting ML systems in enterprise environments.
+Architect and deploy high-performance networking for GPU      clusters, including RDMA fabrics, InfiniBand/Ethernet switches, VPC      peering, low-latency interconnects, and traffic optimization for      distributed AI workloads.
+Design and implement MLOps pipelines for deep learning: data      ingestion, model training/distribution on GPUs, deployment (e.g.,      Kubernetes-based), monitoring, and CI/CD integration.
+Apply DevSecOps principles: embed security in infrastructure      code, automate compliance, vulnerability scanning, and secure      cloud/on-prem environments.
+Optimize AWS (or multi-cloud) setups for GPUaaS scalability,      cost control, high availability, and fault tolerance in AI-centric      systems.
+Diagnose and resolve network/performance issues in      high-throughput GPU environments, including latency reduction and      bandwidth maximization.
+Automate infrastructure using tools like Puppet for      configuration management, Terraform for IaC, and orchestration platforms.
+Collaborate with cross-functional teams on integrations with      data platforms, BI tools, and monitoring solutions (e.g.,      Prometheus/Grafana).
+Employee perks, benefits
+​
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is an AI infrastructure provider.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+IT
+Language skills
+English - Advanced (C1)
+Number of years of experience
+5
+Personality requirements and skills
+Master's degree in Computer Science,      Electrical/Computer Engineering, IT, or related field.
+5+ years in MLOps, DevOps/DevSecOps, cloud architecture, or HPC      networking, ideally with GPU/ML workloads.
+Proven experience designing networks for data-intensive/AI      applications: cloud VPCs, subnets, security groups, on-prem data centers,      and high-speed interconnects.
+Hands-on expertise with deep learning pipelines, model      optimization, and GPU resource management.
+Strong English proficiency (professional working level);      additional languages (e.g., Chinese) are a plus for international      collaboration.
+Advertiser
+Brief description of the company
+Edgar Baker is young and dynamic Slovak company. We are HR proffesionals focusing on services as Executive Search, Expert recruitment, International Recruitment and HR Consulting. Members of our team have a longterm experience with selection of candidates precisely for production, logisitics, construction, financial, retail and technological companies. Our strongest values are 100 % quality service, guaranteed feedback and personal approach from our consultants
+Contact
+Contact person: Peter Kovács
+Tel.:
++421917167985
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233977
+Dátum zverejnenia:
+12.2.2026
+2026-02-12
+lokalita:
+Bratislava
+Pozícia:
+IT Architect
+Spoločnosť:
+Edgar Baker s. r. o.
+Základná zložka mzdy (brutto):
+5 000 EUR/month

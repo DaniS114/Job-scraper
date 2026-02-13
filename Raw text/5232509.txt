@@ -1,0 +1,102 @@
+Automatizačný tester [Nemčina], 240 až 300€ / MD
+TITANS freelancers, s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP alebo dohodou
+Mzdové podmienky (brutto)
+4 800 - 6 000 EUR/mesiac
+Práca na kontrakt podľa počtu odpracovaných hodín.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Spolupráca v 100 % REMOTE režime.
+Príprava testovacích plánov, testovacích scenárov a prípadov pre funkčné aj nefunkčné testovanie;
+vykonávanie manuálnych a automatizovaných testov
+pomocou nástrojov na podporu testovania, so zameraním na zabezpečenie kvality v každej fáze vývoja softvéru;
+vývoj, údržba a rozširovanie testovacej dokumentácie
+a automatizovaných testovacích skriptov, starostlivosť o testovaciu infraštruktúru a jej pripravenosť, vrátane aktualizácie modulov a konfigurácie testovacích prostredí;
+reportovanie chýb a sledovanie ich nápravy, zabezpečenie konzistentnej kvality softvérových produktov;
+pravidelné informovanie zainteresovaných strán o priebehu funkčných, nefunkčných a integračných testov;
+aktívne budovanie knowledge base o testovanom produkte a jeho biznis doméne.
+Informácie o výberovom konaní
+V prípade záujmu nám pošlite životopis v anglickom jazyku s upresnením Vašej časovej dostupnosti.
+Kontaktovať ohľadom ďalšieho postupu výberového konania budeme všetkých záujemcov. Ďakujeme vopred všetkým za prejavený záujem.
+Osobné údaje záujemcov o spoluprácu na projekte, ktorí nám zašlú svoj profesijný životopis prostredníctvom internetovej stránky www.profesia.sk, budeme spracúvať na účely výberového konania. Poskytnutie údajov záujemcu je nevyhnutné na účasť vo výberovom konaní, ktorého sa zúčastňuje ako záujemca o účasť na projekte, ktorý bude realizovaný pre nášho zákazníka. Osobné údaje záujemcov o spoluprácu (fyzických osôb – podnikateľov resp. konateľov spoločnosti, ktorí majú záujem byť našim obchodným partnerom) v rozsahu údajov uvedených v životopise, motivačnom liste, iných zaslaných prílohách a ďalších údajov získaných na uvedený účel v priebehu výberového konania (napr. pri osobnom pohovore) budeme spracúvať na tento účel po dobu do skončenia výberového konania. Spracúvanie údajov záujemcov na tento účel je nevyhnutné, aby sa na základe žiadosti dotknutej osoby vykonali opatrenia pred uzatvorením zmluvy (predzmluvné vzťahy). Osobné údaje budeme na tento účel uchovávať po dobu do ukončenia výberového konania. Bližšie informácie o podmienkach spracúvania Vašich osobných údajov na tento účel nájdete v sekcii Pravidlá ochrany osobných údajov na našej webovej stránke.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Nemecký jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+3 roky
+Osobnostné predpoklady a zručnosti
+skúsenosti s:
+prípravou a realizáciou automatizovaných testov
+na základe pridelených testovacích scenárov za pomoci Java based nástrojov (
+Appium, Java, Selenium, TestNG
+);
+testovaním
+API backend
+častí aplikácií (
+SoapUI,
+Bruno);
+nástrojmi na testovanie performance
+(napr.
+JMeter
+);
+bug-tracking toolmi (
+Jira
+, Xray);
+Jenkins;
+oblasti kryptografie – protokoly a štandardy ako
+AES, RSA, TLS;
+mobile client attestation (Android DVS, SafetyNet alebo Play Integrity API, Apple Device Attestation, Secure Enclave, Warden Supreme);
+bezpečnosťou a identity managementom
+(Security & IAM);
+kontajnerizačnými technológiami (
+Docker, Kubernetes
+);
+výhodou:
+ISTQB certifikácia.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Chceš sa stať Titanom či Titankou?
+Ak túžiš po práci, prostredníctvom ktorej budeš podporovať inovatívne projekty, nezávislosť odborníkov, férové spolupráce a priamu komunikáciu, možno hľadáme práve teba!
+Sme TITANS freelancers a od roku 2013 poskytujeme služby v oblasti outsourcingu IT špecialistov. Posilňujeme IT projekty, na ktorých chýbajú tí správni ľudia, a freelancerom ponúkame špičkové projekty, ktoré vylepšia ich portfóliá.
+Toto sú čísla, ktoré hovoria za nás:
+30 000+ IT špecialistov v našej databáze
+650+ spokojných klientov na Slovensku a v zahraničí
+1 000+ alokovaných freelancerov
+Veríme, že pravý hrdina či hrdinka má viac než len skúsenosti a túžbu rásť - do práce vkladá aj svoje srdce, sebareflexiu a odvahu. Ak chceš s nami meniť svet freelancingu a outsourcingu IT špecialistov k lepšiemu, ozvi sa nám a prezradíme ti viac.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Recruitment
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5232509
+Dátum zverejnenia:
+10.2.2026
+2026-02-10
+lokalita:
+Práca z domu
+Pozícia:
+IT tester
+Spoločnosť:
+TITANS freelancers, s.r.o.
+Základná zložka mzdy (brutto):
+4 800 EUR/mesiac

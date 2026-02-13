@@ -1,0 +1,132 @@
+DevOps Engineer
+RecruLab s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+2 600 - 3 800 EUR/month
++ annual bonus
+Information about the position
+Job description, responsibilities and duties
+We are looking for a
+DevOps Engineer
+to join a dynamic team focused on delivering and maintaining highly reliable, secure, and automated cloud-native systems. In this role, you will take ownership of tooling and processes that enable continuous delivery, infrastructure automation, and operational excellence. You’ll collaborate with development teams to enhance delivery speed, system stability, monitoring, and automation across the software lifecycle.
+Key Responsibilities
+Design, build, and maintain
+CI/CD pipelines
+for automated, reliable software delivery.
+Implement and manage
+Infrastructure as Code (IaC)
+using modern tooling.
+Operate and automate deployments in cloud and container environments.
+Collaborate with development teams to improve deployment processes and tooling.
+Maintain and improve
+container orchestration
+platforms, including Kubernetes.
+Implement monitoring, alerting, and observability solutions.
+Support incident response, performance tuning, and troubleshooting in production environments.
+Continuously evaluate and integrate tools to streamline operations and improve efficiency.
+Employee perks, benefits
+Competitive compensation package (negotiable).
+Flexible work arrangements (remote/hybrid).
+Professional development support.
+Health & well-being benefits.
+Work-life balance initiatives.
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+International IT company.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+3
+Personality requirements and skills
+Cloud Platforms:
+Experience with at least one major public cloud (e.g., AWS, GCP, Azure) or private cloud stack.
+Containers & Orchestration:
+Docker and
+Kubernetes
+(deployment, maintenance, Helm).
+CI/CD:
+Expertise with CI/CD tools such as
+GitLab CI/CD
+,
+Jenkins
+, or similar.
+Infrastructure as Code:
+Practical experience with
+Terraform
+,
+Ansible
+,
+Puppet
+, or equivalent IaC tools.
+Version Control:
+Strong experience with
+Git
+workflows.
+Scripting & Automation:
+Proficiency in scripting languages such as
+Bash
+and
+Python
+(others like Go are a plus).
+Operating Systems:
+Solid Linux system administration skills.
+Monitoring & Observability:
+Experience with tools such as
+Grafana
+,
+Prometheus
+,
+ELK
+, or similar.
+Networking & Security:
+Fundamental understanding of network concepts and security best practices.​
+Certifications in
+Kubernetes (CKA/CKAD)
+or cloud platforms (AWS/Azure/GCP) are beneficial.
+Experience with GitOps tools such as
+ArgoCD
+.
+Familiarity with Agile methodologies (Scrum, SAFe).
+Advertiser
+Brief description of the company
+Recruitment consultancy
+Contact
+Contact person: Ing.  Pavol Derco
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5231515
+Dátum zverejnenia:
+9.2.2026
+2026-02-09
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+,
+IT Architect
+,
+Programmer
+,
+Software Engineer
+,
+Systems Engineer
+Spoločnosť:
+RecruLab s.r.o.
+Základná zložka mzdy (brutto):
+2 600 EUR/month

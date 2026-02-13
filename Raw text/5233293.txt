@@ -1,0 +1,90 @@
+Senior Backend Engineer – Banking, slovenčina (m/ž/d)
+viable Gmbh
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+skrátený úväzok
+Mzdové podmienky (brutto)
+5 000 EUR/mesiac
+Ponúkame ročný hrubý plat medzi 70 000–80 000 EUR (možnosť vyššieho ohodnotenia podľa kvalifikácie a skúseností), lístok na verejnú dopravu, príspevok na stravu, čerstvé ovocie, chladené nápoje, tímové eventy a mnoho ďalšieho.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Čo hľadáme
+Máš skúsenosti s vývojom škálovateľných, komplexných aplikácií v bankovom sektore na senior úrovni, ktoré pokrývajú customer journeys a biznis procesy a integrujú existujúce systémy (napr. SSO, ERP, CRM…).
+Máš 4+ rokov praxe ako softvérový vývojár a ovládaš niektoré z týchto technológií a systémov: Java, Angular/Typescript, Camunda Workflow Engine, Kubernetes (Rancher/OpenShift).
+Hovoríš plynule po slovensky a po anglicky. Znalosť nemčiny je výhodou.
+Pri práci myslíš na potreby používateľov, pričom sleduješ technologickú realizovateľnosť aj produktové ciele.
+Rád pracuješ v agilných, cross-funkčných tímoch a s nadšením a otvorenosťou sa zapájaš do vývoja produktov.
+Si flexibilný a ochotný pracovať aj priamo u klienta.
+Máš profesionálne vystupovanie a teší ťa priama komunikácia s klientmi a rôznymi stakeholdermi.
+Si komunikatívny, rozmýšľaš interdisciplinárne a vieš sa zrozumiteľne vyjadriť k technickým aj netechnickým témam.
+Vyznáš sa v moderných procesoch a nástrojoch agilného vývojového tímu (napr. build automatizácia, CI/CD nástroje, kontajnerizácia, Git, JIRA).
+Pošli svoj životopis na
+careers@viable.at
+s predmetom „Senior Backend Engineer - Banking“.
+Uvítame aj referencie, odkazy na projekty a všetko, čo považuješ za dôležité pre svoju žiadosť. Hneď ako dostaneme tvoje kompletné podklady, pozveme ťa na krátky 30-minútový úvodný rozhovor (cez Teams). V druhom kole budeš mať možnosť spoznať vývojársky tím a vyriešiť technickú úlohu, ktorá komplexne pokrýva koncepciu, implementáciu a prevádzku softvéru. Po druhom kole si už zvyčajne vieme byť veľmi istí a môžeme ti dať konečné rozhodnutie.
+Tešíme sa, že ťa spoznáme!
+Zamestnanecké výhody, benefity
+Sme viable, interdisciplinárny tím dizajnérov, stratégov a vývojárov so sídlom vo Viedni, Rakúsko, ktorý sa špecializuje na používateľsky orientovaný vývoj riešení a digitálnych produktov.
+Navrhujeme a vyvíjame digitálne aplikácie na mieru, ktoré sú zmysluplné, zrozumiteľné a udržateľné. Sprevádzame firmy na ich ceste k digitálnej zrelosti – od prvých insightov, cez prototypovú fázu až po škálovateľný produkt.
+Spolupráca
+Hľadáme angažovanú a skúsenú osobu, ktorá bude pracovať na rozmanitom, časovo ohraničenom projekte u nášho slovenského klienta v bankovom sektore (1–2 dni/týždeň priamo na mieste v Bratislave). Budeš pracovať v motivovanom tíme kolegýň a kolegov z našej firmy aj od klienta a spoločne formovať úspech projektu. Po dokončení projektu sa tešíme na tvoju integráciu do nášho interného tímu a ďalšiu spoluprácu.
+viable ako zamestnávateľ
+Pracujeme na množstve rozmanitých a zaujímavých projektov v rôznych odvetviach. Ponúkame pestrú náplň práce, malé tímy, plochú hierarchiu, rýchle rozhodovacie procesy a flexibilitu v spôsobe práce.
+Ponúkame ročný hrubý plat medzi 70 000–80 000 EUR (možnosť vyššieho ohodnotenia podľa kvalifikácie a skúseností), lístok na verejnú dopravu, príspevok na stravu, čerstvé ovocie, chladené nápoje, tímové eventy a mnoho ďalšieho.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Software Development / Software Engineering
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Máš skúsenosti s vývojom škálovateľných, komplexných aplikácií v bankovom sektore na senior úrovni, ktoré pokrývajú customer journeys a biznis procesy a integrujú existujúce systémy (napr. SSO, ERP, CRM…).
+Máš 4+ rokov praxe ako softvérový vývojár a ovládaš niektoré z týchto technológií a systémov: Java, Angular/Typescript, Camunda Workflow Engine, Kubernetes (Rancher/OpenShift).
+Hovoríš plynule po slovensky a po anglicky. Znalosť nemčiny je výhodou.
+Pri práci myslíš na potreby používateľov, pričom sleduješ technologickú realizovateľnosť aj produktové ciele.
+Rád pracuješ v agilných, cross-funkčných tímoch a s nadšením a otvorenosťou sa zapájaš do vývoja produktov.
+Si flexibilný a ochotný pracovať aj priamo u klienta.
+Máš profesionálne vystupovanie a teší ťa priama komunikácia s klientmi a rôznymi stakeholdermi.
+Si komunikatívny, rozmýšľaš interdisciplinárne a vieš sa zrozumiteľne vyjadriť k technickým aj netechnickým témam.
+Vyznáš sa v moderných procesoch a nástrojoch agilného vývojového tímu (napr. build automatizácia, CI/CD nástroje, kontajnerizácia, Git, JIRA).
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme viable, interdisciplinárny tím dizajnérov, stratégov a vývojárov so sídlom vo Viedni, Rakúsko, ktorý sa špecializuje na používateľsky orientovaný vývoj riešení a digitálnych produktov.
+Navrhujeme a vyvíjame digitálne aplikácie na mieru, ktoré sú zmysluplné, zrozumiteľné a udržateľné. Sprevádzame firmy na ich ceste k digitálnej zrelosti – od prvých insightov, cez prototypovú fázu až po škálovateľný produkt.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Marie-Luise Valerio
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233293
+Dátum zverejnenia:
+11.2.2026
+2026-02-11
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+Spoločnosť:
+viable Gmbh
+Základná zložka mzdy (brutto):
+5 000 EUR/mesiac

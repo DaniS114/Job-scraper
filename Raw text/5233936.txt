@@ -1,0 +1,84 @@
+DevOps Engineer for globally developed medical imaging products
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Salary
+From 2 700 EUR/month
++ VAR*
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions.
+Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team
+Job description, responsibilities and duties
+Join an expert DevOps team supporting multiple medical imaging products by designing, implementing, and operating highly reliable infrastructure.
+As a strategic
+DevOps engineer
+, you will evolve the infrastructure behind mission-critical healthcare products used at scale. You’ll work closely with global integration and deployment teams to modernize development environments, bring in state-of-the-art DevOps practices, incorporating location-specific technical insights and continuously improve how software is built and delivered.
+You’ll have real room to learn, experiment, and grow-testing new DevOps principles and frameworks before applying proven solutions in production.
+Key Responsibilities
+Build pipelines and deployment activities, maintain test and production environments using scripting, improving and maintaining build and test infrastructure.
+Managing a highly reliable CI/CD ecosystem for a large-scale product, Infrastructure administration, access control management.
+Performing root cause analysis of production incidents, investigating and resolving technical issues across platforms and environments, supporting HW and network setup and maintenance.
+Solid understanding of PKI (Public Key Infrastructure) concepts, automated certificate lifecycle management
+Expected Qualifications & Experience
+2–3+ years of experience in DevOps, CI/CD, environment configuration, cloud technologies, or infrastructure management.
+Experience with automation/configuration management tools.
+Experience with scripting languages (PowerShell preferred; Python, Bash also beneficial).
+Experience with Azure DevOps, Git, Jenkins
+Fluent written and spoken English.
+Soft Skills & Competencies
+Experimenting, prototyping, and validating ideas before scaling them to production.
+Strong communication skills and teamwork orientation in an intercultural environment.
+Basic wage component (gross) and other rewards:
+starting from 2700 EUR brutto /month + VAR*
+Required education, skills and personality requirements
+Required education
+University education (Bachelor's degree)
+Language skills
+English - Upper intermediate (B2)
+We offer
+Hybrid type of work – combination of telework and work from office
+Flexible Working Hours
+Bridge days – free extra paid leave 6 days per year
+3 sick days per year (no doctor’s permit needed)
+In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of family care
+Additional pension plan
+300 EUR for regeneration of work force via cafeteria system
+Wellbeing program – Psychological, Legal and Financial Councelling
+Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps)
+Retention program (work anniversary, life anniversary, employee loans)
+Training and development program (business and product trainings, e-learning, language courses, soft skills trainings,…)
+Adjustable standing desk as a standard
+Participation on world famous IT conferences like Microsoft IGNITE for best employees
+Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial Intelligence, Healthcare IT services, …)
+Who we are:
+We are a team of more than 71,000 highly dedicated Healthineers in more than 70 countries. As a leader in medical technology, we constantly push the boundaries to create better outcomes and experiences for patients, no matter where they live or what health issues they are facing. Our portfolio is crucial for clinical decision-making and treatment pathways.
+How we work:
+When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably.
+Check our Careers Site at
+https://www.siemens-healthineers.com/sk
+We care about your data privacy and take compliance with GDPR as well as other data protection legislation seriously. For this reason, we ask you not to send us your CV or resume by email. Please create a profile within our talent community and subscribe to personalized job alert that will keep you posted about new opportunities.
+To all recruitment agencies:
+Siemens Healthineers' recruitment is internally managed, with external support permitted only when a qualified supplier has established a formal contract with us. Unsolicited candidate submissions and referrals, absent a current supplier contract, do not establish consent and are ineligible for fees. We delete and destroy unsolicited information, thus, would recommend you refrain from any such practices. Your adherence to our policies is appreciated.
+Send CV
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Join us!
+Send CV
+Click for more information
+ID:
+5233936
+Dátum zverejnenia:
+12.2.2026
+2026-02-12
+lokalita:
+Košice
+Pozícia:
+Systems Engineer
+Spoločnosť:
+Siemens Slovensko
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

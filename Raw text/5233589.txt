@@ -1,0 +1,120 @@
+TB Developer
+AUMOVIO SE
+Miesto práce
+Cesta ku Continentalu, Zvolen-Tepličky
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+1 855 EUR/mesiac
+Plat od 1855 € v závislosti od vedomostí a skúseností kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​Pozícia TB Developer je kľúčovou technickou rolou v R&D oddelení zameranom na vývoj a realizáciu komplexných testovacích zariadení. Ide o end-to-end zodpovednosť – od analýzy zákazníckych požiadaviek cez návrh architektúry stroja, ako systému až po funkčné odovzdanie testovacieho stroja zákazníkovi s prípadným zaškolením.
+​
+Hlavné zodpovednosti
+· Analýza zákazníckych požiadaviek a technické zhodnotenie realizovateľnosti testovacieho zariadenia v súlade s internými štandardmi a procesmi RASI matice.
+· Návrh architektúry testovacieho zariadenia (mechanika, elektrika, senzory a software)
+· Špecifikácia komponentov, komunikácia s dodávateľmi a objednávanie dielov
+· Kontrola dodaných komponentov a ich zhody so špecifikáciou
+· Technická podpora tímu počas výstavby, spúšťania a overovania testovacieho zariadenia
+· Vývoj, úprava a integrácia testovacieho softvéru (LabVIEW / PLC / iné)
+· Implementácia testovacích scenárov podľa zákazníckych špecifikácií
+· Implementáciu nových testovacích metód a optimalizáciu existujúcich pre maximálnu efektívnosť a spoľahlivosť zariadenia.
+· Proaktívne riešenie technických problémov počas vývoja testovacieho zariadenia, ako aj po jeho nasadení do prevádzky.
+· Technická komunikácia so zákazníkmi počas projektu
+· Monitorovanie trendov v testovacích metodikách a konceptualizáciu inovatívnych komponentov pre testovacie zariadenia
+· Zdieľanie znalostí a odbornosti v rámci globálnej organizácie AUMOVIO, vrátane vedenia formálnych školení a vzdelávacích seminárov
+· Zabezpečenie optimálnej prevádzky, údržby a funkčnosti testovacích zariadení (hardvérová a softvérová časť)
+· Udržiavanie komplexnej technickej dokumentácie vrátane softvéru.
+Táto pozícia vyžaduje vysokú úroveň technickej zdatnosti, analytického a logického myslenia a precíznosti.
+Zamestnanecké výhody, benefity
+Príspevok na dôchodkové sporenie vo výške 2 % zo mzdy pre zamestnancov na rizikových pozíciách – myslíme na vašu budúcnosť.
+Penzijný program s mesačným príspevkom 6,5 % zo mzdy – investujte do svojej pohodlnej staroby.
+Ročné odmeny za splnené ciele a výnimočné výkony – odmeňujeme vašu snahu!
+Bonusová dovolenka navyše – 3 dni, ktoré môžete stráviť podľa svojich predstáv.
+Stravovanie priamo v závode za skvelých 0,34 € – chutné a cenovo dostupné jedlo.
+Možnosť pripojiť sa do firemného športového klubu AUMOVIO Sport Club Zvolen – udržujte sa vo forme s kolegami!
+Finančné príspevky pri životných udalostiach ako svadba alebo narodenie dieťaťa – sme tu pre vás aj v dôležitých momentoch.
+Moderné pracovné prostredie s ergonomickým vybavením – vaša pohoda je pre nás prioritou.
+Úrazové poistenie pre vašu istotu – vaše zdravie je pre nás dôležité.
+Bezproblémové parkovanie v areáli závodu – žiadne stresy s hľadaním miesta.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+elektrotechnika/mechatronika/strojné inžinierstvo
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+LabVIEW - Pokročilý
+PLC Siemens - Pokročilý
+C++ - Pokročilý
+Python - Pokročilý
+Osobnostné predpoklady a zručnosti
+Vzdelanie :
+Vysokoškolské vzdelanie v oblasti: Elektrotechniky a/alebo mechatroniky a/alebo strojného inžinierstva
+Technické znalosti :
+Pokročilé znalosti testovacieho softvéru (LabVIEW, PLC – Siemens / Beckhoff výhodou), resp programovacieho jazyka C++, C# alebo Phyton
+Praktická orientácia v:
+o pneumatike
+o hydraulike
+o mechanike
+o elektrických zapojeniach
+Skúsenosti s meracími zariadeniami, senzormi a
+· Schopnosť čítať a vytvárať technickú dokumentáciu (elektrické schémy, výktresy, 3D modely a koncepty)
+· Preukázateľné skúsenosti v riadení a údržbe testovacích zariadení
+· Znalosť bezpečnostných noriem pre stroje a zariadenia (napr. EN ISO, CE, oddiel 23)
+Jazykové znalosti :
+Anglický jazyk – B2 (denná komunikácia slovom aj písmom)
+· Nemecký jazyk – výhodou
+Osobnostné predpoklady :
+· Schopnosť pracovať samostatne a systematicky
+· Technické a analytické myslenie
+· Schopnosť komunikovať:
+s dodávateľmi
+s internými tímami
+so zákazníkmi
+· Ochota prebrať plnú technickú zodpovednosť za riešenie
+Požadované / výhodné certifikáty
+LabVIEW Core 1 & 2
+Certifikácia podľa strojnej bezpečnosti (oddiel 23)
+SolidWorks Electrical alebo podobné nástroje
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Od svojho oddelenia v septembri 2025 spoločnosť AUMOVIO pokračuje v činnosti bývalého sektora Automotive skupiny Continental ako nezávislý podnik. Ako technologická a elektronická spoločnosť prináša široké portfólio riešení, ktoré zabezpečujú mobilitu novej generácie – bezpečnú, atraktívnu, prepojenú a autonómnu. Súčasťou portfólia sú senzorové technológie, displeje, brzdové a komfortné systémy, ako aj rozsiahle know-how v oblasti softvéru, architektonických platforiem a asistenčných systémov pre vozidlá definované softvérom. V účtovnom roku 2024 dosiahli obchodné oblasti, ktoré sú dnes súčasťou AUMOVIO, tržby 19,6 miliardy EUR. Sídlo spoločnosti sa nachádza vo Frankfurte nad Mohanom v Nemecku a firma zamestnáva približne 87 000 ľudí vo viac ako 100 lokalitách po celom svete.
+Počet zamestnancov
+1000 a viac zamestnancov
+Kontakt
+Kontaktná osoba: Katarína Adamčiaková
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233589
+Dátum zverejnenia:
+12.2.2026
+2026-02-12
+lokalita:
+Zvolen
+Pozícia:
+Konštruktér
+,
+Programátor
+,
+Programátor priemyselných robotov
+,
+Softvérový inžinier
+Spoločnosť:
+AUMOVIO SE
+Základná zložka mzdy (brutto):
+1 855 EUR/mesiac

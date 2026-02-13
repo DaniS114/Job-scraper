@@ -1,0 +1,93 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Infrastructure & Integration Engineer
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. * Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Druh pracovného pomeru
+plný úväzok
+Hľadáme technicky orientovaného špecialistu na pozíciu Infrastructure & Integration Engineera na tvorbu a prevádzku testovacích prostredí, inštaláciu riešení tretích strán a analýzu ich integračných možností. Okrem toho bude zodpovedný za návrh systémových prostredí a zabezpečenie efektívnych dátových tokov medzi platformami.
+Tím, v ktorom budete pracovať zabezpečuje vývojové a testovacie prostredie pre integrácie s tretími stranami (napr. Palo Alto, Fortinet, Okta) pomocou syslogu a REST API. Cieľom je overiť, aké dáta je možné získať, ako ich ingestovať (spracovať), prípadne vykonávať remediačné akcie a vytvoriť technickú špecifikáciu integrácie pre ďalšie využitie v produkte.
+Hlavné zodpovednosti:
+Návrh a nasadzovanie virtuálnej infraštruktúry (on-premise aj cloud).
+Deployment a konfigurácia softvérových riešení tretích strán.
+Nastavenie a správa komunikácie cez Syslog a REST API.
+Generovanie testovacích scenárov a simulácia eventov.
+Zber dát a ich následná technická analýza.
+Spolupráca s analytikmi a produktovými tímami pri hľadaní optimálnych riešení.
+Komunikácia s internými expertmi pri riešení špecifických doménových otázok.
+Požiadavky:
+Linux: Pokročilá administrácia a troubleshooting.
+Sieťové základy: TCP/IP, firewally, NAT, DNS.
+Logovanie: Princípy syslogu, formáty a forwarding.
+Integrácie: Skúsenosť s REST API (HTTP, JSON, autentifikácia).
+Infraštruktúra: Skúsenosť s virtualizáciou alebo cloudom.
+Schopnosť samostatne študovať a aplikovať technickú dokumentáciu.
+Výhodou:
+Skúsenosť s bezpečnosťou (Palo Alto, Fortinet, Okta, SIEM/SOC).
+Znalosť kontajnerizácie (Docker, Kubernetes).
+Základy skriptovania (Python, Bash).
+Kontaktná osoba
+Jakub Kunik
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Neustále hľadáme nové kolegyne alebo nových kolegov, ktorí chcú byť súčasťou úspešného slovenského príbehu s globálnym dopadom. V ESET neustále dokazujeme, že špičková expertíza a inovácie vytvorené na Slovensku majú silu konkurovať najväčším hráčom v oblasti kyberbezpečnosti po celom svete. Ak chceš pracovať pre firmu, ktorá stavia na kvalite, odbornostiach a reálnom dopade svojej práce vo svete, hľadáme práve
+TEBA.
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5234464
+Dátum zverejnenia:
+13.2.2026
+2026-02-13
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

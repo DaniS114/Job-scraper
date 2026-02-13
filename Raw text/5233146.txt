@@ -1,0 +1,91 @@
+Linux Medior Administrátor/ka (Hosting, E-mails, DNS...)
+Websupport, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+1 900 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Chcel/-a by si sa mať pod palcom tri datacentrá, stovky serverov a
+stovky
+tis
+íc
+hostingov
+? Poď s nami rozvíjať (nielen) slovenský online svet. Hľadáme ostrieľaného systémového admina / ostrieľanú systémovú
+adminku
+, na ktorého/ktorú sa dá spoľahnúť.
+Ako bude vyzerať tvoj týždeň v práci?
+Budeš zodpovedný/zodpovedná za bezproblémový chod našich systémov. Máme veľkú webovú a  mailovú infraštruktúru, ktorá sa fyzicky nachádza v troch datacentrách, v dvoch krajinách Európy. Taktiež sa stretneš s Openstackom, centrálnym ELK, AI a Kubernetes clustrom, spolu s petabajtami zákazníckych dát.
+Budeš sa podieľať na vylepšovaní a automatizovaní existujúcich riešení, spolu s pravidelnými upgradmi. Infraštruktúru máme postavenú aj na nasledujúcich technológiách (neboj, neočakávame, že budeš poznať všetky): Ubuntu, Nginx, Apache, PHP-FPM, ZFS, MariaDB, LXD, Postfix, Dovecot, Rspamd, Docker, Kubernetes, Knot, Powerdns, Bird, Galera cluster, Sentry, Gitlab a plno ďalších. Je to skvelá príležitosť priučiť sa širokému spektru technológií. Infraštruktúru spravujeme pomocou config managementu SaltStack.
+3 až 4-krát do mesiaca máš celodenný dohľad nad celou infraštruktúrou. V tento deň je primárna náplň tvojej práce riešenie problémov, ktoré reportuje náš monitoring Zabbix alebo ti nahlásia kolegovia ako on-duty človeku Monitoring ťa pri závažných problémoch upozorní priamo na mobil, ty zasiahneš a vyriešiš problém, najlepšie tak, aby sa už neopakoval. Nemusíš sa báť, v prípade potreby sme ti v celom tíme pripravení pomôcť ťahať hoc aj nočný výpadok.
+Občas sa ocitneš aj v  datacentre, buď pri HW probléme, alebo keď príde várka nových serverov. Tie je potrebné zarackovať, ideálne aj pekne pozapájať, nastaviť network a potom späť do officu ich nainštalovať. Samozrejme, za odmenu, so zastávkou na snack.
+Očakávame od teba
+Máš už za sebou skúsenosti so správou Linuxu, z práce, alebo aj školských a	domácich projektov.
+Hovoria ti niečo pojmy ako TCP/IP stack, UDP/TCP, DNS, SQL, ZFS, Raidy, Git, Firewall, VPN alebo kontajnerizácia.
+Zvládaš konfiguráciu LEMP stacku, reverznej proxy, firewallu.
+Už si sa stretol/stretla so skriptovaním v shell alebo python.
+Máš drive, nebojíš sa výziev, rád/rada sa vŕtaš v tom ako systémy fungujú.
+Nemáš problém na standupe odprezentovať svoju prácu v Angličtine.
+Plusové bodíky
+Setupoval/a si vlastné servery, či už vpnku na raspberry-čku, alebo web na VPSku? Pochváľ sa s nimi.
+Máš niektoré z tvojich projektov na gite? Radi sa na ne pozrieme.
+Máš skúsenosti s konfiguráciou switchov a routerov.
+Očakávaj od nás
+Priestor pre seba:
+Rozumieme, že každý funguje inak. Preto sa radi pobavíme o tom, kedy a ako sa ti pracuje najlepšie. Flexibilný pracovný čas, možnosť pracovať na diaľku a 7 dní voľna navyše… vďaka tomu si ľahšie zladíš prácu a osobný život.
+Well-being:
+V zdravom tele zdravý duch – a platí to aj naopak. Príspevok 50 % na Multisport kartu pomôže k lepšej kondičke a online terapie cez Hedepy podporia duševnú pohodu. K tomu ešte príspevok na stravu 5 € aj počas voľna alebo návštevy lekára.
+Príležitosť rásť:
+Zaleží nám na tom, aby ľudia u nás rástli. Budeš môcť chodiť na prednášky, konferencie, zlepšovať si angličtinu, či vzdelávať sa interne. Organizujeme aj Health Day a workshopy na rôzne témy, nech môžeš napredovať po všetkých stránkach.
+Podpora skúseného tímu:
+Budeš v spoločnosti kolegýň a kolegov, ktorí ti radi pomôžu v oblastiach, kde sa necítiš komfortne a podporia ťa, nech môžeš rozvíjať svoje najlepšie “ja”. Vždy sa budeš mať na koho obrátiť.
+Dôvera v tvoje schopnosti:
+Tvoj názor nás zaujíma. Kedykoľvek môžeš prísť s vlastným pohľadom, zapojiť sa do debaty o riešeniach a podieľať sa na tom, čo budujeme. Vieme, že dobrý nápad môže prísť z nečakaného smeru.
+Cooltúra:
+Hackathony, raňajky, vianočný žúr, letná párty, Kids Day, afterky či vítanie nových kolegov. To všetko si spolu užijeme v našich priestranných kanceláriách pri Nivách (s parkovaním, občerstvením, terasou, masážami a výbornou kávou).
+Projektové dni:
+Experimentuj, skúšaj čo ťa baví, radi privítame akékoľvek nápady na zlepšenie infry.
+MacBook a iPhone s dátami. Primárne fungujeme na zariadeniach od Apple.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské bez maturity
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské
+vysokoškolské II. stupňa
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Firma, ktorá to zo študentského internátu dotiahla až na jednotku na trhu. Je povestná svojou uvoľnenou firemnou kultúrou, podporou komunity a zodpovedným spoločenským prístupom. Snom každého/-ej talentovaného/-ej (ale aj úplne začínajúceho/-ej) “ítéčkára/ítečkárky” je pracovať práve tu.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Dominika Valo Šabíková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233146
+Dátum zverejnenia:
+11.2.2026
+2026-02-11
+lokalita:
+Bratislava
+Pozícia:
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+Spoločnosť:
+Websupport, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+1 900 EUR/mesiac

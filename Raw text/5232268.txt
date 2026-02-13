@@ -1,0 +1,97 @@
+Deutsche Telekom Services Europe Slovakia
+O nás
+Voľné pozície
+Firemná kultúra
+Benefity
+Kontakt
+Technical
+Python / Automation Developer Intern (Part-time)
+We are looking for a motivated Master’s student in IT, Computer Science, Software Engineering, or a related field with a strong focus on Python development. This internship is ideal for someone passionate about backend development, automation, and modern engineering practices.
+You will work closely with experienced developers, automation engineers, and a dedicated onsite buddy who will guide you throughout your internship. You will gain hands on experience with Python backend development, Linux environments, PostgreSQL, Git workflows, automation tools, and digitalization initiatives across the organization.
+This internship offers a long term professional growth path, with the potential to become a Junior Python Developer, Data Engineer, or Data Scientist after graduation.
+Contract type
+part-time, agreement-based (Temporary jobs)
+Place of work
+Bratislava, Slovak Republic
+Start date
+ASAP
+Wage (gross)
+7 EUR/hour
+About
+the position
+Develop and maintain Python-based backend components for data science, automation, integration, and digitalization tasks.
+Build and enhance internal tools, scripts, and micro services used across business and IT teams.
+Work with PostgreSQL databases: querying, data modeling support, and basic performance tuning.
+Deploy and operate scripts on Linux server environments, including scheduling through cron jobs.
+Build and support automations using tools like Power Automate, n8n, or similar orchestrators.
+Work with webhooks, REST APIs, and integration endpoints to connect internal systems and external services.
+Use Git for version control, branching, code reviews, and collaborative development.
+Support senior engineers with backend development, automation improvements, and data processing tasks.
+Take ownership of small development or automation modules as you grow.
+Continuously learn new technologies and engineering practices.
+What
+we expect
+Candidates with education suit the position
+University education (Bachelor's degree)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Master’s student in IT, Computer Science, Software Engineering, or a similar field.
+Strong foundation in Python programming (backend scripting, automation, API development, or data handling).
+Interest in backend development with an appetite to write clean, scalable, maintainable code.
+Analytical mindset, structured problem solving, and eagerness to learn.
+Ability to communicate clearly and collaborate within a team.
+English at a working proficiency level.
+Curiosity or basic understanding of:
+Linux servers, command line operations, cron scheduling
+PostgreSQL or relational databases
+Webhooks, APIs, and integration concepts
+Git and version control workflows
+Automation tools (Power Automate, n8n, etc.)
+Nice to Have
+Deeper experience with SQL (joins, optimization, stored procedures).
+Familiarity with Python frameworks such as FastAPI, Flask, or Django.
+Experience with automation or workflow tools (Power Automate, n8n, Blue Prism, Airflow).
+Understanding of CI/CD, Docker, or cloud basics.
+Exposure to data pipelines or exploratory data analysis.
+Benefits
+that make you happy
+Mobile phone also for private use
+Discounts for selected Telekom products
+Cafeteria system of benefits/Multisport card
+Sports club & Health days
+Teambuildings, summer & Christmas party
+Opportunities for career growth
+Referral program
+Flexible working time
+About
+the selection process
+We are dedicated to constantly promoting equal employment opportunities and are ready to make reasonable adjustments for applicants with disabilities. If you are interested in our job opportunity and meet our job requirements for this position, we encourage you to confidentially notify us if you need specific accommodations to ensure your full participation in our recruitment process at recruitment@telekom.com.
+Snažíme sa neustále podporovať rovnaké príležitosti v zamestnaní a sme pripravení urobiť primerané úpravy pre uchádzačov so zdravotným postihnutím. Ak máte záujem o túto pracovnú príležitosť a spĺňate požiadavky inzerovaného pracovného miesta, odporúčame vám, aby ste nám dôverne oznámili, ak potrebujete osobitné úpravy, ktoré vám zabezpečia plnohodnotnú účasť na našom náborovom procese na recruitment@telekom.com.
+Send CV
+Deutsche Telekom Services Europe Slovakia
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5232268
+Dátum zverejnenia:
+10.2.2026
+2026-02-10
+lokalita:
+Bratislava
+Pozícia:
+Database Analyst
+,
+Programmer
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+Deutsche Telekom Services Europe Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+7 EUR/hour

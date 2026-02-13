@@ -1,0 +1,104 @@
+Senior .Net Developer
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+4 000 EUR/mesiac
+Konečná výška odmeny závisí od schopností a skúseností kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ak ťa baví vývoj v .NETe, máš rád čistý kód a moderné technológie a chceš sa podieľať na vývoji softvéru od prvého návrhu až po nasadenie, radi ťa privítame v našom tíme na pozícii .NET Developer.
+Čo bude tvojou úlohou:
+vývoj a tvorba softvérových aplikácií
+programovanie a prototypovanie riešení
+rozvoj, údržba a podpora existujúcich aplikácií
+identifikácia a oprava chýb
+návrh aplikačnej architektúry a technických riešení
+testovanie softvéru a písanie technickej dokumentácie
+nasadzovanie aplikácií do produkcie
+sledovanie technologických trendov a ich využitie v praxi
+Zamestnanecké výhody, benefity
+Úspešnému kandidátovi ponúkame možnosť sebarealizácie a profesionálny rozvoj.
+Zdravie a pohoda na prvom mieste
+Zľava a príspevok na ročné balíky zdravotnej starostlivosti v ProCare
+Prednostné vyšetrenia u špecialistov
+MultiSport karta s príspevkom 15 € mesačne
+Psychologická pomoc formou linky podpory – anonymne, bezplatne, aj pre rodinu
+Dni zdravia, športové dni a ďalšie aktivity zamerané na well-being
+Bicykláreň priamo v budove so sprchami a uzamykateľnými skrinkami
+Podporujeme aj tvoj rozvoj
+Vzdelávacie programy na mieru – soft aj hard skills
+Kurz anglického jazyka priamo na pracovisku
+Možnosť školení a konferencií
+Interné zdieľanie know-how od odborníkov z médií
+A navyše
+Predplatné našich titulov so zľavou až 50 %
+Dostupné časopisy v relax zónach
+Firemné teambuildingy a akcie ako Do práce na bicykli, Naše mesto alebo Koľko lásky sa zmestí do krabice od topánok
+Odmena za odporučenie nového kolegu
+Zľavy u partnerov (napr. Dr. Max a ďalší)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Ostatné znalosti
+.NET - Expert
+Entity Framework - Pokročilý
+MySQL - Pokročilý
+ElasticSearch - Pokročilý
+MongoDB - Pokročilý
+PostgreSQL - Pokročilý
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Čo od teba očakávame:
+skúsenosti s .NET 9 a C# 13
+znalosť Entity Frameworku a LINQ
+prácu s relačnými databázami (MySQL, PostgreSQL)
+skúsenosti s dokumentovými databázami (ElasticSearch, MongoDB)
+znalosť MVC architektúry
+orientáciu v API štandardoch (REST, gRPC)
+skúsenosti s Dockerom (CI/CD výhodou)
+prácu s GITom
+skúsenosti s unit testovaním (nUnit, xUnit)
+znalosť asynchrónneho programovania
+orientáciu v návrhových vzoroch
+znalosť SOLID princípov
+skúsenosti so Semantic Kernel vítané
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+News and Media Holding je najväčšou slovenskou multimediálnou spoločnosťou.
+Naše nadšenie pre tvorbu atraktívneho a rozmanitého obsahu, odvaha prinášať inovatívne riešenia a úspech našich značiek, ktorý je osobným úspechom každého z nás, nás spájajú a posúvajú dopredu. V našom pracovnom prostredí podporujeme tvorivý prístup a spoluprácu. Ak sa chcete stať súčasťou tímu, ktorý má vplyv na slovenský mediálny svet, pridajte sa k nám.
+Tvoríme širokú škálu printových a online produktov, ktoré sa vyznačujú rôznorodosťou a kvalitou obsahu. Realizujeme viaceré formáty eventov zamerané na rozličné cieľové skupiny, najznámejšími sú odborné konferencie pod značkou TREND. Pod značkou News and Media Holding vychádzajú spoločenské, odborné, lifestylové a hobby tituly, ktoré oslovujú široké vrstvy čitateľov. U nás si každý príde na svoje. Naše portfólio zahŕňa týždenník Plus 7 dní, denníky Plus JEDEN DEŇ a Nový Čas, ekonomický týždenník TREND či mesačník Medicína určený pre odbornú verejnosť. Vydávame lifestylové magazíny EMMA, EVA, MADAM EVA, Život, Báječná žena, Nový Čas pre ženy, Šarm a hobby tituly ako Záhradkár, Dobré jedlo, Zdravie, Lepšie Bývanie, AutoBild, GEO, Poľovníctvo a rybárstvo.
+Publikujeme denník Új Szó, jediný tlačený denník v maďarskom jazyku vydávaný na Slovensku a týždenník Vasárnap, najdlhšie vychádzajúci týždenník v maďarčine na Slovensku.
+Používame náš vlastný, interne vyvinutý publikačný ekosystém v mikroservisnej architektúre, využívame najmodernejšie technológie a pracujeme na inovatívnych projektoch. Prevádzkujeme obsahové weby, ktoré sú dvojičkami našich novín a magazínov, samostatné webové značky wanda.sk, magazin.sk, Sport24.sk a 3 freemailové weby centrum.sk, atlas.sk a pobox.sk. Neustále sa vzdelávame v téme AI a využívame nástroje, ktoré nám všetkým zjednodušujú prácu. Sme odhodlaní inovovať a dosahovať to, čo sa iným môže zdať nemožné.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Klaudia Töröková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5230690
+Dátum zverejnenia:
+9.2.2026
+2026-02-09
+lokalita:
+Práca z domu
+Pozícia:
+.NET programátor
+Spoločnosť:
+News and Media Holding a.s.
+Základná zložka mzdy (brutto):
+4 000 EUR/mesiac

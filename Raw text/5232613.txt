@@ -1,0 +1,87 @@
+IAM Engineer
+teamative a. s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Depends on skills. + yearly bonuses
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do you like solving real-world security and access challenges — but don’t want the “you must know everything on day 1” vibe?
+Join Passnod, an Identity & Access Management (IAM) platform that helps organizations ensure the right identities have the right access at the right time — with strong focus on automation, governance, and auditability.
+You’ll work with partners, systems engineers, developers, HR, application owners, and auditors to build functional,scalable, and secure IAM operations.
+​
+Responsibilities
+​
+Develop, test, implement, and maintain new application connectors
+Create, maintain, and improverules and workflows(identity lifecycle)-    Support and maintain the IAM environment (tickets, incidents, troubleshooting)
+Build and customize UI elements, certification campaigns, forms, and reports
+Lead complex investigations and drive improvements to prevent recurrence (process / procedure / technology)
+Document design and configuration management of developed features and customizations
+Support audits and risk assessments by providing evidence (manually or via automation)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+We provide complex IT solutions
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Technical requirements
+1+ year in a similar role or as part of an IAM team
+Experience with IAM tools and IAM processes (Lifecycle Management, Provisioning, Certifications/Access Reviews
+Working knowledge of scripting:PowerShell, Bash, JavaScript- Experience with Web Services and APIs:REST / SOAP(JSON / XML / RPC / HTTP)
+Understanding of identity & authentication standards: SAML, OAuth2, OIDC, FIDO2
+Experience with Active DirectoryandLDAP
+Team-player mindset, collaborative communication, and the drive to move things forward
+​
+Nice to have
+​
+Experience with platforms around authentication and access: SSO, MFA, Azure AD, PAM/PIM
+Understanding of IAM governance principles like audit trails and access control best practices
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+teamative pomáha zákazníkom digitalizovať ich podnikanie s jedinečnou koncepciou: preberá plnú zodpovednosť za inovatívne IT &  SAP projekty a zároveň vzdoruje „vojne o talenty“ s prispôsobenými a škálovateľnými personálnymi službami pre holistický IT sourcing a dokáže sa škálovať na akúkoľvek veľkosť v akejkoľvek technológii prostredníctvom globálneho a flexibilného rozširovania tímu.
+S tímom viac ako 350 konzultantov, softvérových vývojárov a architektov na 10 miestach a ďalšími 400 špecializovanými  partnermi pomáhame našim klientom maximálne využiť ich digitálny potenciál. Teamative ako partner pre inovácie v každej situácii spája odborné znalosti poskytovateľa IT služieb s flexibilitou personálneho špecialistu. Kombinujeme jedinečné, škálovateľné služby IT a SAP riešenia a inteligentné modely obstarávania všetkých druhov.
+-> S/4 a SAP
+-> Digitálne inovácie
+-> Infraštruktúra, Bezpečnosť a Cloud
+-> ServiceNow
+O zaujímavostiach zo života teamative a jej kolegov sa dozviete na našej Facebook stránke: https://www.facebook.com/teamativesk
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Mikuláš Sviatko
+Tel.:
++421948297811
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5232613
+Dátum zverejnenia:
+10.2.2026
+2026-02-10
+lokalita:
+Bratislava
+Pozícia:
+IT/Technical Support Specialist
+,
+Systémový administrátor
+Spoločnosť:
+teamative a. s.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

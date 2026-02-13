@@ -1,0 +1,120 @@
+Skúsený Python Developer
+SmartBase s. r. o.
+Miesto práce
+Prešovská 16940/40A, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Mzdové podmienky (brutto)
+Od 2 700 EUR/mesiac
+(plat podľa skúseností uchádzača)
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného developera na dlhodobú spoluprácu.
+Do SmartBase hľadáme skúseného a samostatného Python developera, ktorý sa chce podieľať na vývoji komplexných aplikácií na mieru s dôrazom na rýchlosť, kvalitu a udržiavateľnosť kódu.
+Pracujeme v menších tímoch, kde si spoločne diskutujeme návrhy riešení, rozumieme biznisovému zadaniu a navrhujeme architektúru, ktorá dáva zmysel nielen dnes, ale aj o rok. Čakajú ťa domáce aj medzinárodné projekty, na ktorých máš reálny vplyv na výsledok.
+Ak máš rád čistý kód, vieš sa zorientovať v existujúcom projekte a baví ťa prepájať technické riešenia s biznisom, radi si s tebou sadneme na úvodný pokec.
+Čo bude tvojou úlohou
+návrh, vývoj, testovanie a údržba riešení podľa definovaných biznisových požiadaviek
+orientácia v existujúcom kóde a jeho ďalší rozvoj
+integrácie so systémami tretích strán (platobné brány, dopravcovia, externé služby)
+optimalizácia výkonu, prehľadnosti a udržiavateľnosti kódu
+aktívna účasť na tímových diskusiách, návrhu architektúry a code reviews
+mentoring a podpora menej skúsených kolegov
+spolupráca s projektovým manažérom, UX/UI dizajnérom a zástupcom biznisu
+sledovanie nových technológií a trendov vo vývoji a ich zmysluplné využitie v praxi
+Zamestnanecké výhody, benefity
+flexibilný pracovný čas
+možnosť homeoffice
+káva, čaj, ovocie, občerstvenie
+šípky, xbox, stolný futbal, stolný mini tenis
+podpora športových aktivít
+podpora rekreácie v Tatrách
+firemné akcie a teambuildingy
+zľavy u zmluvných partnerov
+firemná knižnica s odbornou literatúrou
+účasť na odborných konferenciách a fórach
+sick days
+poradenstvo v oblasti wellbeing
+Informácie o výberovom konaní
+Veľmi pekne ďakujeme za každý poslaný životopis a záujem o nás. Každý si dôkladne prejdeme a kontaktovať budeme len vybraných uchádzačov. Ďakujeme za pochopenie.
+Zaslaním životopisu dáva uchádzač svoj súhlas spoločnosti SmartBase, s.r.o. so spracovaním jeho osobných údajov pre účely databázy uchádzačov o zamestnanie v zmysle Zák. č. 122/2013 Zb. o ochrane osobných údajov.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+a
+Slovenský jazyk - Expert (C2)
+Ostatné znalosti
+Python - Pokročilý
+Django - Mierne pokročilý
+Prax na pozícii/v oblasti
+4
+Osobnostné predpoklady a zručnosti
+máš reálne skúsenosti s vývojom v Pythone
+vieš pracovať samostatne, ale zároveň si tímový hráč
+rozumieš tomu, že dobrý kód musí podporovať biznis, nie ho brzdiť
+máš cit pre detail a zodpovednosť za výsledok svojej práce
+nebojíš sa diskutovať riešenia a prinášať vlastné návrhy
+​
+Technológie, ktoré potrebuješ minimálne vedieť:
+Python - Pokročilý
+Django - výhodou
+CSS, HTML, JavaScript- základy
+Python Debugger - základy
+GIT - základy
+Technológie, ktoré používame a ich znalosť bude výhodou:
+LLM modely: Opus
+Cursor
+LangGraph
+Elasticsearch
+Docker
+PostgreSQL, MariaDB
+Redis
+Celery
+RabbitMQ
+Nginx
+​
+Ak hľadáš dlhodobé, stabilné zamestnanie a zaujali ťa technológie s ktorými pracujeme a chceš sa dozvedieť viac, určite nám napíš. Prosím pošli nám svoje CV a radi si s tebou dohodneme rozhovor.
+​
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme kreatívny tím zameraný na vývoj softwérových aplikácií. Už vyše vyše 10 rokov posúvame hranice elektronického obchodu a riadime sa heslom - No limit eCommerce. A práve tu je naša výnimočnosť. Pomáhame firmám v ich online biznise na najvyššej možnej úrovni. Preto vyvíjame online obchody a aplikácie, ktoré sú zamerané na maximálny výkon, špičkový dizajn a neobmedzené možnosti rastu.
+Neustále sa posúvame v pred a držíme krok s najnovšími trendami a technológiami. Aj vďaka tomu to väčšina kolegov s nami ťahá takmer od začiatku.
+Pracujeme na rôznych domácich ale aj medzinárodných projektoch a naše najdôležitejšie spolupráce pretrvávajú aj roky. Našou vizitkou sú e-shopy a aplikácie, ktoré fungujú hladko v mnohých krajinách, takmer všetkých európskych menách, so státisícami produktov a miliónmi cien v jednotlivých cenníkoch a v napojení na rôzne externé aplikácie.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Petra Šajbenová
+Tel.:
++421944572060
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5232424
+Dátum zverejnenia:
+10.2.2026
+2026-02-10
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Programátor
+,
+Python programátor
+,
+Softvérový inžinier
+Spoločnosť:
+SmartBase s. r. o.
+Základná zložka mzdy (brutto):
+2 700 EUR/mesiac

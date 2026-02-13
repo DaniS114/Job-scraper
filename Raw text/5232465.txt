@@ -1,0 +1,153 @@
+Java programátor, 260 až 320€ / MD
+TITANS freelancers, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP alebo dohodou
+Mzdové podmienky (brutto)
+5 200 - 6 400 EUR/mesiac
+Práca na kontrakt podľa počtu odpracovaných hodín.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Po úvodnom zaškolení kombinovanom bude spolupráca, v závislosti od preferencií freelancera, možná i v
+prevažnom REMOTE
+režime.
+Kooperácia pri vývoji
+back-end častí
+inovatívnych cloud-ready
+aplikácií
+v oblasti bankovníctva;
+participácia na návrhu, vývoji, testovaní, nasadzovaní, údržbe a zlepšovaní systémov;
+spolupráca s ICT a business analytikmi;
+spolupráca v agilnom tíme (SCRUM);
+spolupráca pri CI/CD procesoch vrátane code reviews.
+Informácie o výberovom konaní
+V prípade záujmu nám pošlite životopis v anglickom jazyku s upresnením Vašej časovej dostupnosti.
+Kontaktovať ohľadom ďalšieho postupu výberového konania budeme všetkých záujemcov. Ďakujeme vopred všetkým za prejavený záujem.
+Osobné údaje záujemcov o spoluprácu na projekte, ktorí nám zašlú svoj profesijný životopis prostredníctvom internetovej stránky www.profesia.sk, budeme spracúvať na účely výberového konania. Poskytnutie údajov záujemcu je nevyhnutné na účasť vo výberovom konaní, ktorého sa zúčastňuje ako záujemca o účasť na projekte, ktorý bude realizovaný pre nášho zákazníka. Osobné údaje záujemcov o spoluprácu (fyzických osôb – podnikateľov resp. konateľov spoločnosti, ktorí majú záujem byť našim obchodným partnerom) v rozsahu údajov uvedených v životopise, motivačnom liste, iných zaslaných prílohách a ďalších údajov získaných na uvedený účel v priebehu výberového konania (napr. pri osobnom pohovore) budeme spracúvať na tento účel po dobu do skončenia výberového konania. Spracúvanie údajov záujemcov na tento účel je nevyhnutné, aby sa na základe žiadosti dotknutej osoby vykonali opatrenia pred uzatvorením zmluvy (predzmluvné vzťahy). Osobné údaje budeme na tento účel uchovávať po dobu do ukončenia výberového konania. Bližšie informácie o podmienkach spracúvania Vašich osobných údajov na tento účel nájdete v sekcii Pravidlá ochrany osobných údajov na našej webovej stránke.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Prax na pozícii/v oblasti
+4 roky
+Osobnostné predpoklady a zručnosti
+Minimálne 4-ročné aktívne skúsenosti s programovaním v JAVA
+(ideálne
+J2EE 21+
+v kombinácii s
+Quarkus/Spring Boot
+);
+výborná znalosť princípov objektovo orientovaného programovania (
+OOP
+);
+pokročilé skúsenosti s
+:
+frameworkom
+Quarkus
+a/alebo
+SpringBoot;
+Java 2 Platform, Enterprise Edition (ideálne
+J2EE 21+
+);
+používaním Web Service-ov (
+REST
+,
+SOAP
+);
+SQL databázami (
+PostgreSQL, OracleDB
+);
+skúsenosti s:
+mikroservismi (
+Docker
+a/alebo Kubernetes);
+repository systémami (
+Git
+, Bitbucket...);
+CI/CD nástrojmi (
+GitHub Actions
+,
+Jenkins, TeamCity
+, ...);
+veľkou výhodou:
+skúsenosti s
+cloudovými službami (
+AWS
+, Azure, GCP, ...);
+skúsenosti v oblasti
+vývoja bankových aplikácií
+(so zameraním na bežné,; termínované a/alebo sporiace účty, platobný styk a transakcie);
+výhodou skúsenosti s
+:
+Enterprise messaging systémami (
+JMS
+,
+KafkaMQ
+, RabbitMQ, IBM MQ...);
+nástrojmi na automatizované buildovanie (
+Maven,
+Gradle);
+nástrojom
+KeyCloak;
+vývojom na strane front-endu (
+ReactJS, Angular
+);
+niektorou z agilných metód software-ového vývoja (
+SCRUM
+, LEAN a/alebo; KANBAN);
+znalosť
+(princípov)
+moderných core banking systémov
+(cloud native, API first, headless…);
+testovacími toolmi
+(
+JUnit, Mockito,
+...);
+prácou v bankovom prostredí;
+vykonávaním efektívnych code reviews a dodržiavaním coding standards.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Chceš sa stať Titanom či Titankou?
+Ak túžiš po práci, prostredníctvom ktorej budeš podporovať inovatívne projekty, nezávislosť odborníkov, férové spolupráce a priamu komunikáciu, možno hľadáme práve teba!
+Sme TITANS freelancers a od roku 2013 poskytujeme služby v oblasti outsourcingu IT špecialistov. Posilňujeme IT projekty, na ktorých chýbajú tí správni ľudia, a freelancerom ponúkame špičkové projekty, ktoré vylepšia ich portfóliá.
+Toto sú čísla, ktoré hovoria za nás:
+30 000+ IT špecialistov v našej databáze
+650+ spokojných klientov na Slovensku a v zahraničí
+1 000+ alokovaných freelancerov
+Veríme, že pravý hrdina či hrdinka má viac než len skúsenosti a túžbu rásť - do práce vkladá aj svoje srdce, sebareflexiu a odvahu. Ak chceš s nami meniť svet freelancingu a outsourcingu IT špecialistov k lepšiemu, ozvi sa nám a prezradíme ti viac.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Recruitment
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5232465
+Dátum zverejnenia:
+10.2.2026
+2026-02-10
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Java programátor
+Spoločnosť:
+TITANS freelancers, s.r.o.
+Základná zložka mzdy (brutto):
+5 200 EUR/mesiac

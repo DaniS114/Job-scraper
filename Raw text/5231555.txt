@@ -1,0 +1,101 @@
+Senior DevOps / Platform Engineer (hybrid/remote)
+DevelGuru s. r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+konečná suma záleží od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Zaujíma Ťa DevOps a platformové riešenia v stabilnom a dlhodobo fungujúcom IT prostredí? Hľadáme skúseného
+Senior DevOps / Platform Engineera
+, ktorý sa chce podieľať na prevádzke a rozvoji moderných systémov s vysokou dostupnosťou a reálnym dosahom na koncových používateľov viacerých projektov.
+Čaká Ťa práca na interných projektoch, možnosť ovplyvňovať technologické rozhodnutia a spolupráca s tímami, ktoré dbajú na kvalitu, stabilitu a neustále zlepšovanie.
+Čo Ťa u nás čaká:
+Správa a rozvoj infraštruktúry
+v produkčnom prostredí.
+Návrh, konfigurácia a prevádzka systémov s dôrazom na stabilitu a bezpečnosť.
+Práca s modernými DevOps
+nástrojmi a platformami.
+Automatizácia infraštruktúry
+pomocou Infrastructure as Code.
+Prevádzka a rozvoj on-premise Kubernetes prostredia.
+Spolupráca s vývojovými tímami
+na CI/CD procesoch.
+Monitoring, logovanie a zvyšovanie observability systémov.
+Zamestnanecké výhody, benefity
+Hybridný model práce
+(kombinácia kancelárie a práce z domu).
+Flexibilný pracovný čas
+.
+Stabilné projekty a dlhodobú spoluprácu.
+Moderné technológie a priestor na vlastné technologické návrhy.
+Možnosť odborného rastu a rozvoja v skúsenom tíme.
+Prácu na systémoch s vysokým dosahom a reálnym využitím.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Skúsenosti s networkingom
+(návrh topológie, konfigurácia, troubleshooting).
+Pokročilú znalosť
+Linux administrácie
+v produkčnom prostredí.
+Praktické skúsenosti s Infrastructure as Code (napr. Terraform, SaltStack).
+Skúsenosti s virtualizačnými technológiami
+(VMware, KVM).
+Produkčnú správu Kubernetes (ideálne on-premise).
+Znalosť CI/CD procesov a práce s Gitom.
+Skúsenosti s monitoringom a logovaním (napr. Prometheus, Grafana).
+Nice-to-have:
+Skúsenosti so storage technológiami.
+Znalosť messaging systémov (napr. Kafka).
+Skúsenosti s pokročilými Kubernetes komponentmi (CNI, CSI, RBAC, service mesh).
+Skúsenosti s on-prem cloud riešeniami (OpenStack, CloudStack).
+Základy programovania (Go, Pythone a iné).
+Praktická skúsenosť s cloudovým prostredím Microsoft Azure
+(compute, networking, storage, IAM).
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+V DevelGuru dlhodobo pomáhame našim partnerom budovať tímy, hľadať talentovaných ľudí a zastrešovať kompletný výberový proces. Máme silné zázemie v IT a zameriavame sa na moderné projekty, najmä v AI oblasti.
+Kontakt
+Kontaktná osoba: Milan Palou
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5231555
+Dátum zverejnenia:
+9.2.2026
+2026-02-09
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Programátor
+,
+Servisný inžinier
+,
+Správca informačného systému
+,
+Systémový administrátor
+Spoločnosť:
+DevelGuru s. r. o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac
