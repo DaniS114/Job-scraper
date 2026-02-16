@@ -21,6 +21,11 @@ def process_description(job_text):
     - If a value is not mentioned, use null.
     - Salary: amount + currency + gross/net (e.g., "3000 EUR gross")
     - Language Requirements: Language + level as a list.
+    -"Job Type" Full-time/Short-term/Half-Time
+    -"Work Arrangement" On-site/Home-Office/Hybrid/On-site with home office.
+    -"Education Requirements" Basic/University + degree+ field.
+    -"Language Requirements" Language+level
+    -"Location" City Name
     """
 
     try:
@@ -37,14 +42,14 @@ def process_description(job_text):
         return {}
 
 def main():
-    input_file = 'profesia_jobs.csv'
+    input_file = 'professia_jobs.csv'
     output_file = 'structured_jobs.csv'
 
     # CSV beolvasása
-    df = pd.read_csv(input_file).head(5)
+    df = pd.read_csv(input_file).head(100)
     
     # Csak azokat a mezőket tartjuk meg, amiket kértél + a description az LLM-nek
-    keep_columns = ['job_id', 'url', 'first_seen', 'last_seen', 'description']
+    keep_columns = ['job_id', 'url', 'first_seen', 'last_seen','active', 'description']
     df = df[keep_columns]
 
     structured_data = []
@@ -61,6 +66,7 @@ def main():
             'url': row['url'],
             'first_seen': row['first_seen'],
             'last_seen': row['last_seen'],
+            'active': row['active'],
             **extracted # Ez kibontja a JSON kulcsokat oszlopokká
         }
         structured_data.append(combined_row)
