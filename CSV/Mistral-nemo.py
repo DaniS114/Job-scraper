@@ -1,7 +1,7 @@
 import ollama
 import json
 import pandas as pd
-from tqdm import tqdm # Progress barhoz: pip install tqdm
+from tqdm import tqdm
 
 def process_description(job_text):
     model_name = "mistral-nemo" 
@@ -48,7 +48,6 @@ def main():
     # CSV beolvasása
     df = pd.read_csv(input_file).head(100)
     
-    # Csak azokat a mezőket tartjuk meg, amiket kértél + a description az LLM-nek
     keep_columns = ['job_id', 'url', 'first_seen', 'last_seen','active', 'description']
     df = df[keep_columns]
 
@@ -67,14 +66,14 @@ def main():
             'first_seen': row['first_seen'],
             'last_seen': row['last_seen'],
             'active': row['active'],
-            **extracted # Ez kibontja a JSON kulcsokat oszlopokká
+            **extracted
         }
         structured_data.append(combined_row)
 
     # Új DataFrame létrehozása és mentése
     output_df = pd.DataFrame(structured_data)
     
-    # A listákat (pl. Programming Languages) alakítsuk stringgé, hogy a CSV ne törjön meg
+    # A listákat alakítsuk stringgé, hogy a CSV ne törjön meg
     for col in output_df.columns:
         if output_df[col].apply(lambda x: isinstance(x, list)).any():
             output_df[col] = output_df[col].apply(lambda x: ", ".join(x) if isinstance(x, list) else x)
