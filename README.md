@@ -11,8 +11,6 @@ The projects plan is to scrape IT job advertisements from Slovak/Hungarian sites
   - Saves full job descriptions in individual `.txt` files (for backup)
   - Tracks job availability with `active` and `status` fields and updates `last_seen` date.
 
-- **Gemini AI Analyzer**  
-  - Uses Google Gemini AI (`gemini-2.5-flash-lite`) to extract structured job information
 
 ---
 
