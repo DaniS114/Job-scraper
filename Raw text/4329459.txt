@@ -1,0 +1,86 @@
+DevOps Engineer for Automotive | 100% Remote
+Augmentd s.r.o.
+Place of work
+Remote work
+Contract type
+agreement-based (Temporary jobs), trade licence
+Start date
+04/2026
+Wage (gross)
+20 - 40 EUR/hour
+This is an agreement based job offer Trade license
+Information about the position
+Job description, responsibilities and duties
+We are looking for Linux enthusiasts to join an exciting automotive project in Stuttgart, Germany. As part of a specialized team of DevOps engineers, you will be responsible for maintaining the customer’s global R&D Linux infrastructure.
+Approximately 98% of the systems run on Ubuntu LTS, followed by AlmaLinux.
+Your main responsibilities will include:
+• Managing client and backend systems using SaltStack, GHE, Jira, and Jenkins, while adhering to Infrastructure as Code (IaC) methodologies and best practices
+• Collaborating with our offshore support team to oversee day-to-day operations using Prometheus, InfluxDB, Grafana, and ServiceNow-based reporting
+• Planning and implementing infrastructure-related maintenance, updates, and upgrade tasks
+• Supporting the rollout of new solutions
+• Onboarding new internal RD and non-RD/global clients
+Employee perks, benefits
+100% Work from home
+Linux-based R&D customer environment with a strong FOSS culture; you will meet core developers of many popular open-source projects
+We work on implementation tasks planned into 2 week sprints - what counts is that you deliver on time, nobody cares if you do so surrounded by polar bears in Lapland or lying on a beach in the Caribbeans.
+Design of the infrastructure is our responsibility - you'll get plenty of room to experiment and work on new solutions or improvements(Terraform based testing pipelines on top of proxmox-ve, atomic desktops, rocky linux support, migration from jenkins runners to github actions, opensearch data analytics etc)
+Very interesting career growth opportunities
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+German - Intermediate (B1)
+or
+English - Upper intermediate (B2)
+Other knowledge
+Linux - Skillful
+Experience in the position/sector
+3
+Number of years of experience
+3
+Personality requirements and skills
+Must have:
+• You are a Linux/FOSS enthusiast, not merely a corporate operations guy working with Linux
+• Shell scripting
+• Basic networking knowledge
+Optional/Good to have:
+• Exposure to configuration management systems (Ansible, SaltStack, Puppet, Terraform)
+• Python scripting experience
+• Experience implementing any linux based solutions in production end-to-end
+Advertiser
+Brief description of the company
+We are a small consulting company providing services to a variety of customers from startups to financial sector and automotive
+Number of employees
+5-9 employees
+Contact
+Contact person: Jozef Melich
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+4329459
+Dátum zverejnenia:
+15.2.2026
+2026-02-15
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+,
+IT System Administrator
+,
+Systems Administrator
+Spoločnosť:
+Augmentd s.r.o.
+Základná zložka mzdy (brutto):
+20 EUR/hour
