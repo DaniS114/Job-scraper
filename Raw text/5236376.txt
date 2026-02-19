@@ -1,0 +1,132 @@
+CGI Slovensko
+Tvoríme digitálnu budúcnosť
+Sme popredná globálna firma v oblasti IT konzultácií.
+E2E Solution Architect / Technical Design Authority
+Place of work
+Budapest, Hungexpo, Albertirsai Way, Hungary (Job with occasional home office)
+Contract type
+full-time
+Start date
+By agreement
+Wage (gross)
+From 3 500 EUR/month
+Salary conditions (gross) starts from 3500 EUR / month
+The final salary will depend on the knowledge and experience of the candidate and the number of shifts worked.
+Information about the position
+Job description, responsibilities and duties
+CGI is a dynamic and growing company focused on providing IT solutions for our clients around the world.
+Currently, we are looking for a person for a strategic retail transformation program delivering a country-specific carve-out of ERP landscape and transition from the current service provider. We are looking for a senior E2E Solution Architect / Technical Design Authority (TDA) who will take architectural ownership across the carve-out, it technical and application architecture and design, integration, data migration, testing streams.
+This is a client-facing role.
+Role Overview:
+•	Act as the Solution Architect and Technical Design Authority within the program.
+•	Own end-to-end solution architecture across business, application, integration and data layers
+•	Work on solution designs and enforce architectural governance
+•	Ensure successful transition from incumbent provider
+•	Drive integration consistency and transitional architecture during carve-out
+•	Be the primary architectural interface toward the client
+Employee perks, benefits
+What do we offer?
+•	An excellent combination of friendly working  atmosphere and a stable background of one of the largest IT companies in the world.
+•	Support of your professional growth.
+•	Many opportunities for your development and education through various certified programs and through sharing of corporate knowledge.
+•	Employment contract for an indefinite period.
+•	Participation in the company’s profit (the so-called Profit Participation Plan).
+•	Company share program (the so-called Share purchase Plan) – the possibility of purchasing employee shares.
+•	25 days of leave for regeneration for everyone.
+•	3 sick-days for recovery.
+•	30 days of fully paid sick leave.
+•	Meal allowance for each day of working.
+•	Benefit Plus Program for leisure activities in the field of sports, culture, travel, health or education.
+•	Referral bonus for referring a new colleague.
+•	The possibility of obtaining an interest-free loan for an employee.
+•	Language training for employees.
+•	Multisport card for sports and wellness facilities and others.
+•	Vaccination against influenza and tick-borne encephalitis.
+•	Possibility of using the advisory services of experts (psychological and legal) for health, work or other serious life events (the so-called Member Assistance Program).
+Expected date of completion of the selection process
+30.3.2026
+(there are still 38 more days)
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+and
+Hungarian - Upper intermediate (B2)
+Driving licence
+B
+Number of years of experience
+8
+Personality requirements and skills
+Key Responsibilities
+Architecture & Governance
+•	Define and maintain the target architecture
+•	Design and validate E2E solution architecture (HLD, LDL)
+•	Review and approve solution designs of technical teams
+Carve-Out & Transition
+•	Architect separation from the incumbent provider
+•	Define System boundaries, integration decoupling strategy, data separation and migration approach, Cutover architecture
+•	Identify risks, dependencies and mitigation strategies
+•	Support transition and hypercare phases
+Integration
+o	Lead integration of ERP system with the existing ecosystem
+o	Define: API and integration patterns, Data flows, Interfaces, event and batch integration models
+o	Ensure alignment between retail business processes and technical solution
+Stakeholder Engagement
+o	Act as primary architectural contact for the client
+o	Present solution concepts to client stakeholders and steering committees
+o	Collaborate with: Project Managers, Business analysts, Infrastructure & security teams, External vendors
+Required Experience
+o	8–10+ years in IT architecture roles
+o	Proven experience as Solution Architect / Lead Architect / TDA
+Strong experience in:
+o	Complex integration programs
+o	Carve-out or transition initiatives
+o	Multi-vendor environment
+o	Client-facing experience
+o	Retail IT experience preferred
+Technical competencies
+o	Application architecture design
+o	Integration architecture (REST, APIs, ESB, messaging)
+o	Data modeling and migration strategies
+o	System decoupling and transitional architectures
+Soft Skills
+o	Ownership mindset
+o	Excellent communication and presentation skills
+o	Structured and strategic thinking
+o	Proactive
+o	Fluent English (mandatory)
+o	Fluent Hungarian
+Advertiser
+Brief description of the company
+At CGI, we call our employees members because all who join CGI are building their own company - one that has grown to 91,500 professionals located in more than 40 countries. Founded in 1976, CGI is a leading IT and business process services company committed to help clients succeed. We have the expertise, stability and dedicated professionals, all needed to achieve results for our clients and for our members. Learn more at www.cgi.com.
+Number of employees
+150-199 employees
+Contact
+Contact person: Mgr.  Barbora Mohrová
+Tel.:
++421911825744
+E-mail:
+send CV
+Follow CGI
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5236376
+Dátum zverejnenia:
+17.2.2026
+2026-02-17
+lokalita:
+Budapest
+Pozícia:
+IT Architect
+Spoločnosť:
+CGI Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

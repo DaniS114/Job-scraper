@@ -1,0 +1,98 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Cloud Backend Developer
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 300 EUR/month
+Contract type
+full-time
+ESET PROTECT teams are building the next generation of a cloud-based security management console, enabling businesses to remotely monitor and orchestrate security settings across thousands of computers and mobile devices.
+Why join us?
+You will be part of an agile and collaborative team, working with a modern technology stack. We value a friendly and open atmosphere where team members can take ownership and contribute to decisions. If you’re passionate about building impactful products and want to see your work used globally, this is the place for you.
+Our Tech Stack
+C#, .NET, gRPC, Docker, Kubernetes, Terraform, SQL/NoSQL databases, Azure Cloud, Git/Bitbucket, Jenkins, JIRA.
+Your role
+As a Cloud Backend Developer, you will:
+Develop and maintain backend services for our cloud-based security management console.
+Collaborate closely with backend and frontend developers, QA engineers, and product owners to deliver high‑quality features.-
+Participate in design discussions and contribute to improving system performance, reliability, and scalability.
+Work in an agile, self‑organizing team environment with opportunities to learn and grow through experimentation and peer feedback.
+What We’re Looking For
+Practical experience (at least 1 year) with C#/.NET.
+Knowledge of common software engineering principles: OOP, design patterns, unit testing.
+Familiarity with version control tools (Git, Bitbucket).
+Slovak language at least B2 level, English language minimum B1
+Analytical thinking and a systematic approach to problem‑solving.
+Willingness to collaborate, ask questions, and learn from others.
+Motivation to grow as a cloud/backend developer.
+This position is suitable for less experienced but driven candidates.
+Nice to Have
+It’s great (but not required) if you bring:
+Understanding of server-side and multithreaded programming.
+Awareness of SaaS/PaaS/IaaS concepts and hands-on experience with Azure or other cloud platforms.
+Understanding microservices architecture and technologies such as Docker, Kubernetes, Helm, Terraform.
+Practical knowledge of SQL and experience with relational databases.
+Experience with NoSQL databases.
+Experience with C++ programming.
+Familiarity with agile methodologies (Scrum).
+Kontaktná osoba
+Maria Kukla
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Neustále hľadáme nové kolegyne alebo nových kolegov, ktorí chcú byť súčasťou úspešného slovenského príbehu s globálnym dopadom. V ESET neustále dokazujeme, že špičková expertíza a inovácie vytvorené na Slovensku majú silu konkurovať najväčším hráčom v oblasti kyberbezpečnosti po celom svete. Ak chceš pracovať pre firmu, ktorá stavia na kvalite, odbornostiach a reálnom dopade svojej práce vo svete, hľadáme práve
+TEBA.
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5235108
+Dátum zverejnenia:
+16.2.2026
+2026-02-16
+lokalita:
+Bratislava
+Pozícia:
+.NET Programmer
+,
+C# Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 300 EUR/month

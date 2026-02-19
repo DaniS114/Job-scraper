@@ -1,0 +1,99 @@
+About us
+Our benefits
+Open positions
+IT Business Analyst & Application Owner
+Place of work
+Twin City B, Mlynské nivy, Bratislava
+Contract type
+full-time
+Wage (gross)
+2 200 - 3 700 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,200 and EUR 3,700 per month (for a full-time role). 
+The specific salary offered considers:
+ • the requirements, scope, complexity and responsibilities of the role, 
+• the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience. 
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits. Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Become part of the team that is closely involved with some the most important IT solutions and processes for Swiss Re Asset Management.
+This is a dual role where you will be responsible for IT tasks related to the technical onboarding of new external fund managers. Swiss Re Asset Management has an investment framework which outsources some mandates to specialist external managers and our team is responsible for building and maintaining interfaces and data delivery. Some of these mandates can include new financial products which may require a full End to End testing process (E2E).
+The second part of the role is to manage a portfolio of mainly SaaS applications to ensure they are fully compliant with our high IT security standards.
+About the Role
+New manager onboardings and E2E testing for new financial products:
+• Work closely with the business when we onboard a new manager
+• Onboardings can also include a new Clearinghouse, Custodian or data provider
+• Set up the sftp connection, create internal folders, directories
+• Define the interfaces, files and attributes that will be used with the new manager. Design, build and testing tasks
+• Build the data contracts (Information Broker / Message broker tasks for data transfer)
+• Work closely with various Swiss Re teams during the onboarding process which can include Front Office, Middle Office, Legal, Finance, Risk and operational teams like Data Operations, Trade Processing, Reconciliations and Reporting
+• Introducing new financial products into Swiss Re is treated as a mini project and you will be expected to coordinate the IT architecture E2E testing. These exciting initiatives offer you the opportunity to learn new products and to develop a deep understanding of our E2E processes
+As an Application Owner, you will be responsible for:
+• IT ownership of mostly SaaS applications. You will need to understand the purpose of these applications, the IT setup, Infrastructure, Access Roles etc.
+• Work closely with various internal IT security teams to ensure your applications fulfil all security requirements (e.g. disaster recovery, MFA /SSO, IAM, re-certification etc.)
+• Onboarding of new applications into our IT Landscape which includes owning the Digital Governance Framework process which is a formal set of steps to introduce new software into Swiss Re
+• Complete various IT security initiatives which could include Configuration Reviews, coordinate penetration tests, IT audits
+About the Team
+We are a small, focused technology team, part of Group Digital & Technology (GDTO) serving the Asset Management domain within Swiss Re. The team is located in Bratislava, collaborating with business and IT teams in numerous locations worldwide including New York, London and Zurich.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+About You
+Your passion is IT, business analysis and it would be beneficial if you also have an interest in financial products. You have strong interpersonal and technical skills and are eager to broaden your knowledge and expertise. You are an energetic and diligent person who is interested to understand how the technology team operates within the asset management business.
+Essentials:
+• Bachelor or master's degree in computer science, business informatics, informatics, or economics
+• 2+ years of working experience
+• A proven record of strong business/ IT analysis
+• Experience with IT governance, cyber security and basic understanding of Disaster Recovery procedures and penetration testing
+• Eager to try out new technologies (e.g. Palantir Foundry)
+• Analytical & conceptual skills to understand key business needs and design tailored solutions
+• Enjoy working in a cross-functional and multi-cultural environment
+Nice to Have:
+• Ideally you have experience with IT application ownership
+• Vendor management knowledge
+• DevSecOps practices knowledge, change management and release management
+• Experience with Cloud platforms such as Microsoft Azure, AWS
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5235176
+Dátum zverejnenia:
+16.2.2026
+2026-02-16
+lokalita:
+Bratislava
+Pozícia:
+IT Analyst
+,
+IT Consultant
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 200 EUR/month

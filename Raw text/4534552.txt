@@ -1,0 +1,78 @@
+Administrátor systému Linux - Opensource
+Gratex International, a.s.
+Miesto práce
+Galvaniho, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+1 600 EUR/mesiac
+Finančné ohodnotenie od 1600,- EUR brutto v závislosti od vzdelania a skúseností uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Spoločnosť Gratex International hľadá šikovných špecialistov na pozíciu Správca systému Linux.
+Hlavná pracovná náplň
+- inštalácie, konfigurácia a údržba serverov na báze Linux - Opensource,
+- nasadenie interne vyvíjaných aplikácií v zákazníckom ako aj v internom prostredí ( administrácia vývojových, testovacích a produkčných prostredí ),
+- nasadenie buildov, optimalizácia výkonnosti aplikácie,
+- hardening operačných systémov za účelom zvyšovania bezpečnosti,
+- monitorovanie operačných systémov a na nich bežiacich aplikácií, analýza výstupu z monitoringu a následne ladenie systémov,
+- vytváranie reportov z monitoringu pre potreby zákazníka.
+Práca je na pracovisku, home-office režim nie je vzhľadom na charakter projektov možný.
+Zamestnanecké výhody, benefity
+Pozícia vhodná aj pre absolventa. Práca na zaujímavých projektoch (aj zahraničných) s využitím najnovších technológií. Zaručený profesionálny rast vyplývajúci z práce v tíme na reálnych projektoch. Možnosť presadiť osobnú iniciatívu. Zaujímavé platové ohodnotenie. Možnosť absolvovať odborné školenia a získať celosvetovo platné certifikáty.
+Informácie o výberovom konaní
+Ak Vás ponúkaná pozícia zaujala, motivačný list spolu so štruktúrovaným životopisom v slovenskom alebo anglickom jazyku zašlite e-mailom na adresu hr@gratex.com. Do predmetu správy uveďte názov pozície. Údaje, ktoré nám poskytnete, starostlivo posúdime a spracujeme v súlade so zákonom č. 18/2018 Z. z. v znení neskorších predpisov o ochrane osobných údajov. Vopred ďakujeme všetkým za prejavený záujem. Kontaktovať budeme len uchádzačov, ktorí spĺňajú uvedené požiadavky.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+technické, IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Expert (C2)
+Ostatné znalosti
+Administrácia Linux Opensource systémov - Pokročilý
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Vítané skúsenosti (aj čiastočne):
+- z oblasti kontajnerizácie
+- základy sietí a sieťových technológií
+- práca s monitorovacími nástrojmi (Zabbix, Prometheus, Grafana a pod.)
+- prehľad nástrojov (git, ansible a pod.)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Gratex International, a.s. sa zaoberá návrhom, vývojom, nasadzovaním a údržbou softvérových aplikácií, resp. komplexných informačných systémov a poskytovaním služieb v oblasti systémovej integrácie IT. Svoje služby poskytuje zákazníkom na Slovensku aj v zahraničí.
+Počet zamestnancov
+200-249 zamestnancov
+Kontakt
+Tel.:
++421253411441
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+4534552
+Dátum zverejnenia:
+16.2.2026
+2026-02-16
+lokalita:
+Bratislava
+Pozícia:
+Systémový administrátor
+Spoločnosť:
+Gratex International, a.s.
+Základná zložka mzdy (brutto):
+1 600 EUR/mesiac

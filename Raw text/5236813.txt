@@ -1,0 +1,82 @@
+Robotics Engineer – Digital Twin & Simulation
+CertiCon a.s.
+Místo práce
+Práce z domu
+Druh pracovního poměru
+plný úvazek
+Mzdové podmínky (brutto)
+3 000 EUR/měsíc
+Informace o pracovním místě
+Náplň práce, pravomoci a zodpovědnosti
+Are you hyped about digital twins and robotics? At HTEC, we are building the future of intelligent machines. As a Robotics – Digital Twin & Simulation Engineer, you will be at the forefront of this transformation, working with cutting-edge tools like NVIDIA Omniverse, Isaac Sim, and Isaac Lab to create high-fidelity, scalable simulation environments. These environments will power the development, testing, and deployment of next-generation robotic systems across industries.
+The goal is to create a digital warehouse/factory where robots and humans collaborate, using digital twins for operations and simulations.
+You will collaborate with a multidisciplinary team of engineers, researchers, and designers to simulate real-world conditions and accelerate the development of robotic intelligence. If you are passionate about simulation, robotics, and AI—and want to work on projects that make a real-world impact—this is the role for you.
+Key Responsibilities
+Build and maintain simulation environments using NVIDIA Omniverse and Isaac Sim for robotic perception, manipulation, and navigation.
+Develop and integrate robotic behaviors and learning pipelines using Isaac Lab for reinforcement learning and motion planning.
+Create and manage OpenUSD-based digital twins and simulation assets.
+Collaborate with cross-functional teams to validate robotic algorithms in simulated environments.
+Optimize simulation performance for large-scale training and testing, including cloud-based deployments.
+Contribute to the development of custom Omniverse extensions and simulation tools.
+What We’re Looking For
+Bachelor’s or Master’s degree in Robotics, Computer Science, Mechanical Engineering, or a related field.
+Hands-on experience with NVIDIA Omniverse, Isaac Sim, and Isaac Lab.
+Proficiency in Python and C++.
+Solid understanding of robotic systems, including kinematics, dynamics, and control.
+Experience in creating digital twins and simulation.
+Experience with ROS2
+Familiarity with simulation-based testing and validation of robotic algorithms.
+Nice to Have
+Experience with OpenUSD (Universal Scene Description) and Omniverse extension development.
+Hands on experience with industrial robots [Universal Robots / KUKA / Denso / others...]
+Background in reinforcement learning or machine learning for robotics. Example libraries Pytorch / TensorFlow / Keras etc.
+Experience with CI/CD pipelines and simulation automation.
+Familiarity with cloud platforms (e.g., AWS, Azure) for distributed simulation.
+What we can offer
+Remote work with flexible working hours
+Work on real projects for major customers who create long-term solutions supporting their products – solutions with real-world usage and impact
+Benefits overview:
+https://htec.com/careers/benefits/
+Zaměstnanecké výhody, benefity
+Vzdělávací kurzy, školení
+Stravenky/příspěvek na stravování
+Dovolená 5 týdnů
+Zdravotní volno/sickdays
+Příspěvek na vzdělání
+Zvýhodněné půjčky zaměstnancům
+Příspěvek na sport/kulturu/volný čas
+Mobilní telefon
+Práce převážně z domova
+Firemní akce
+Flexibilní začátek/konec pracovní doby
+Notebook
+Příspěvek na penzijní/životní připojištění
+Možnost studijního volna
+Požadavky na zaměstnance
+Pozici vyhovují uchazeči se vzděláním
+vysokoškolské II. stupně
+Inzerující společnost
+Kontakt
+Kontaktní osoba: Jiří Polena
+E-mail:
+poslat životopis
+Odpovědět na nabídku
+Doporučit nabídku známému
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5236813
+Dátum zverejnenia:
+18.2.2026
+2026-02-18
+lokalita:
+Práce z domu
+Pozícia:
+Softwarový inženýr
+Spoločnosť:
+CertiCon a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/měsíc

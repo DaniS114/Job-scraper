@@ -1,0 +1,93 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Medior C# Developer
+Place of work
+Žilina, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 500 EUR/month
+*Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+*The final basic wage component can be higher accordingly to individual skills and experience of selected candidate.
+Contract type
+full-time
+We are looking for a Backend Developer to strengthen the ESET PROTECT platform, focusing on backend services for our Cloud Workload Protection (CWP) and Cloud Security Posture Management (CSPM) capabilities. The role is primarily backend-focused, with close collaboration across teams to ensure smooth end-to-end functionality.
+ESET PROTECT operates in five data centers across regions and supports thousands of deployed instances globally, with additional scale through Managed Security Service Providers (MMSP). You will work on backend services running in a multi-region cloud environment with production-grade reliability requirements.
+Product demo: https://www.eset.com/sk/firemna-it-bezpecnost/demo/#platform-showcase
+What You’ll Do
+Design and implement scalable backend services and APIs supporting CWP and CSPM features.
+Work with event-driven components and microservices architecture in a multi-region environment.
+Participate in technical design discussions and contribute to architectural decisions within the team.
+Collaborate with system architects and other teams when defining cross-service integrations and contributing to design decisions.
+Own the full lifecycle of the services you build — development, CI/CD, infrastructure configuration, deployment, and maintenance.
+Work in an Agile setup (SAFe), actively participating in planning and team collaboration.
+Requirements
+Strong hands-on experience with backend development (.NET, C#, or similar).
+Experience designing and implementing REST APIs and microservices.
+Understanding of asynchronous communication and messaging systems.
+Familiarity with relational or NoSQL databases.
+Experience with C++, or willingness and ability to learn and work with it where needed (parts of the platform are written in C++).
+Nice to Have
+Experience with Kubernetes and containerized deployments.
+Knowledge of cloud platforms such as Microsoft Azure or others.
+Experience with messaging systems (e.g., Event Hubs, or others).
+Familiarity with Helm, CI/CD pipelines, or infrastructure-as-code tools.
+Experience working in SAFe or a similar Agile framework.
+Kontaktná osoba
+Jakub Kunik
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Neustále hľadáme nové kolegyne alebo nových kolegov, ktorí chcú byť súčasťou úspešného slovenského príbehu s globálnym dopadom. V ESET neustále dokazujeme, že špičková expertíza a inovácie vytvorené na Slovensku majú silu konkurovať najväčším hráčom v oblasti kyberbezpečnosti po celom svete. Ak chceš pracovať pre firmu, ktorá stavia na kvalite, odbornostiach a reálnom dopade svojej práce vo svete, hľadáme práve
+TEBA.
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5236290
+Dátum zverejnenia:
+17.2.2026
+2026-02-17
+lokalita:
+Žilina
+Pozícia:
+.NET Programmer
+,
+Backend developer
+,
+C# Programmer
+,
+Programmer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

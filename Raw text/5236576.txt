@@ -1,0 +1,104 @@
+Software Developer in Test (SDET)
+Fiserv Slovakia, s.r.o.
+Place of work
+Digital Park II, Einsteinova, Petržalka
+Contract type
+full-time
+Start date
+ASAP
+Wage (gross)
+3 200 EUR/month
+Final salary will be decided based on previous experience.
+Information about the position
+Job description, responsibilities and duties
+CALLING ALL INNOVATORS - FIND YOUR FUTURE AT FISERV
+We’re Fiserv, a global leader in Fintech and payments, and we move money and information in a way that moves the world. We connect financial institutions, corporations, merchants, and consumers to one another millions of times a day – quickly, reliably, and securely. Any time you swipe your credit card, pay through a mobile app, or withdraw money from the bank, we’re involved. If you want to make an impact on a global scale, come make a difference at Fiserv.
+WHAT DOES A SUCCESSFUL SDET AT FISERV DO
+We’re looking for a Senior Software Developer in Test to play a key role in shaping the future of our testing ecosystem. In this role, you’ll own and evolve our AWS/Kubernetes‑based test infrastructure, build and optimize automation frameworks, support functional and performance testing across our platforms. You’ll develop internal QA tools, improve testing practices, and collaborate closely with engineering teams to drive high‑quality delivery at scale. You will also contribute to our long‑term QA strategy, including the adoption of AI‑powered testing capabilities.
+WHAT YOU WILL DO:
+​
+Own and maintain the test infrastructure and tooling ecosystem,      including AWS‑based resources, Kubernetes environments, and CI/CD test      executors.
+Design, build, and optimize test automation frameworks and CI/CD      pipelines in GitLab.
+Lead and support functional and performance automation initiatives      in collaboration with QA and development teams.
+Administer and maintain core QA systems, including Selenium Grid,      reporting platforms, and monitoring dashboards (Dynatrace, Grafana, etc.).
+Ensure security, compliance, and timely patching across all      components of the test infrastructure.
+Diagnose and resolve infrastructure, pipeline, and automation      issues in collaboration with development and QA teams.
+Drive the development and enhancement of internal QA tooling,      including the QES portal, simulators, and custom test utilities.
+Participate in shaping QA strategy by integrating AI tools and      capabilities into QA processes, infrastructure, and internal testing      platforms.
+IMPORTANT INFORMATION ABOUT THIS POSITION:
+Salary starts from 3200€/m gross based on previous experience.
+This role is meant for employment only. B2B (SZČO/s.r.o.) is not possible.
+We’re better together. This role is fully on-site.
+Employee perks, benefits
+PERKS AT WORK:
+Personal and professional development opportunities
+Networking activities, team buildings, volunteer and charity events
+Premium healthcare via ProCare
+25 days of fully paid sickness leave (including 5 sick days)
+Life and Accident insurance
+Contribution to pension plan
+10 paid days of parental leave for fathers
+Flexible working time
+10 days of remote work from (almost) anywhere in the world
+Modern offices, international environment
+Multisport card
+Anniversary bonuses, Yearly bonuses
+Discounts with various partner merchants & stores
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+WHAT YOU WILL NEED TO HAVE:
+5+ years in QA/SDET      roles with hands‑on ownership of test infrastructure and automation in      cloud environments.
+Proven experience with      AWS, Kubernetes, and Docker for building and operating scalable test      platforms.
+Strong track record      designing and maintaining test automation frameworks and CI/CD pipelines      using Gitlab.
+Strong experience with      test automation tools such as Playwright and Selenium, and tools for      performance testing , like K6 / JMeter.
+Proficiency in Java plus      at least one of JavaScript/TypeScript/Python for test tooling and      frameworks.
+Solid Unix/Linux      administration and shell scripting for environment management and      troubleshooting.
+Demonstrated ability to      debug complex pipeline/infrastructure issues and enforce security,      compliance, and patching standards.
+​
+WHAT WOULD BE GREAT TO HAVE:
+Experience with AI/ML tools and their integration into      QA workflows (test generation, failure analysis, anomaly detection).
+Background in performance engineering and      observability.
+Knowledge of security testing concepts and DevSecOps      practices.
+Certifications (e.g. AWS).
+Strong mentoring, communication, and influence skills      in cross‑functional environments.
+Advertiser
+Brief description of the company
+Life moves fast. And as it does, we know most people aren’t thinking about “financial services” But we are. We help people and businesses move money and information every minute of every day. Our solutions connect financial institutions, corporations, merchants and consumers to one another, millions of times a day, behind the scenes, reliably and securely. We’re Fiserv, a global leader in Fintech and payments enabling innovative financial services experiences that are in step with the way people live and work today. The company’s approximately 40,000 associates proudly serve clients in more than 100 countries, so their customers, members and consumers can move money when and where they need it, at the point of thought. Our Aspiration is to move money and information in a way that moves the world. As a FORTUNE™ 500 company and one of FORTUNE Magazine World’s Most Admired Companies for the sixth consecutive year, we are committed to excellence and purposeful innovation. Explore the possibilities of a career with Fiserv and Find Your Forward with us.
+Fiserv is an Equal Employment Opportunity Employer, and it is the Company’s policy to make all employment decisions without regard to race, color, religion, creed, age, sex, national origin, veteran status, disability (as long as the individual is able to perform the essential functions of the job with or without reasonable accommodation), and any other characteristic protected by Law.
+Number of employees
+250-499 employees
+Contact
+Contact person: Mgr.  Lukas Eremias
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5236576
+Dátum zverejnenia:
+17.2.2026
+2026-02-17
+lokalita:
+Bratislava
+Pozícia:
+IT Tester
+,
+Java Programmer
+,
+Programmer
+Spoločnosť:
+Fiserv Slovakia, s.r.o.
+Základná zložka mzdy (brutto):
+3 200 EUR/month

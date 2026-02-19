@@ -1,0 +1,134 @@
+Naše produkty
+Práca za rohom
+Najzamestnávateľ
+Profesia
+Platy.sk
+Edujobs
+Teamio
+Seduo
+Profesia days
+O nás
+Náš príbeh
+Náš tím
+Práca u nás
+Kontakt
+Kontaktujte nás
+SK
+EN
+Naše produkty
+O nás
+Práca u nás
+Kontakt
+Kariéra v Alma Career Slovakia
+Platform Framework Engineer (JS, Next.js, React)
+Platform Framework Engineer (JS, Next.js, React)
+Odpovedať na pozíciu
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 2 500 EUR/month
+Imagine joining a team where your work doesn’t just support digital products — it defines
+how all of them are built.
+At Alma Career, we are developing
+Cyborg
+, our internal backend‑for‑frontend framework that will power job portals used by millions across Europe. And now, we’re looking for someone who doesn’t just want to write code, but wants to
+design how the framework itself should function
+: shape its architecture, define its future, and make it a reliable foundation for teams across the company.
+If you enjoy combining development with system‑level thinking — and you want your work to have a real, long‑term impact — this is an opportunity you won’t often find.
+What will be your job?
+our main responsibility will be working on the
+development and optimization
+of the Cyborg framework, continuously improving its performance, scalability, and overall architecture to support the evolving needs of the job board platform.
+Our “users” are
+developers
+from other teams. We rarely work on visual components, or deal with business logic. We are here to provide them functionalities they need and use to build our job boards. Our focus is more on building stuff like router, service container, libraries and tools to make job boards modular. We are also responsible for preparing GitHub workflows and AWS infrastructure.
+We work in a
+Scrum-based environment
+with two-week sprints, starting with planning and ending with a retrospective. We sync daily in morning stand-ups to share updates and align on next steps. Writing tests is integral part of each task and our code is subject for an inter-team code review.
+On a quarterly basis, we define team goals together and distribute ownership across developers. As a developer with goal ownership, your role is not to deliver a goal alone, but to drive a topic forward, coordinate with others, and ensure the goal is successfully achieved.
+How do we imagine you?
+We’re searching for an engineer with h
+ands‑on experience across multiple frameworks
+and a strong foundation in modern web development. You should be comfortable thinking in systems, understanding how components fit together, and designing solutions that can scale across many products.
+You’ll be a great match if you have:
+Solid experience with
+React
+Strong skills in
+JavaScript
+Experience with
+TypeScript
+Good working knowledge of
+Next.js
+(ideally at a mid‑level or higher)
+Some experience with other framework than just Next.js. Does not need to be a JavaScript framework, other language frameworks with service container are also fine (eg. Symfony)
+Previous experience with AWS is a plus
+We’re looking for someone who naturally gravitates toward architecture, framework design, and platform thinking.
+Because you’ll work closely with teams who rely on Cyborg, we value people who can:
+communicate clearly and openly,
+bring well‑reasoned arguments to technical discussions,
+actively listen and accept arguments from others,
+collaborate effectively and seek solutions as a team,
+contribute to a positive, constructive engineering culture.
+You’ll also need
+communicative English
+, as you’ll use it regularly in our international environment.
+Getting Started: What Awaits You
+During first few weeks with us, you will be introduced to our architecture, processes and culture. We will try to gradually involve you in the development, starting with smaller and easier tasks.
+Our plan for next months is to work on a routing system overhaul. Framework plugins can define their routes in configuration files inside their own NPM package, but Next.js has file system based routing. We need to create more flexible layer between those two.
+We also want to bring more logging and debugging possibilities. And introduce better options regarding dependency injection of services registered in our service container.
+At the same time, we would need to listen to other teams building another job board on our framework, help them with questions and provide occasional code review of their code.
+Our team is small, less than 10 people. We are from different countries, so we work mostly remote. Once per three months, we meet in person in Bratislava, Prague, or Zagreb to define team goals for the next quarter. It usually takes two days and two to three nights.
+What will make you happy with us?
+Room for mistakes, time for experimentation, and opportunities to participate in decision-making and product direction.
+An open team atmosphere. You won't have strict deadlines from external clients.
+Education and development - domestic and international conferences, internal technology workshops (SOLID, DDD, JavaScript, OOP, etc.), and online courses.
+You'll get a computer and OS of your choice (Linux or MacOS).
+3 extra vacation days.
+Happy Days: unlimited time off for any reason (help out on a volunteer day, enjoy your birthday, or go on a one-day hike :-).
+Various internal and external lectures/courses/conferences. Plus, you'll have unlimited access to our educational platform Seduo.
+Hedepy: an online mental health care program to help you in your life situations and personal development.
+Multisport card partially covered by the employer.
+A great office in the center of Bratislava. We'd love to see you occasionally in our modern offices at Pribinova 19.
+The possibility to work from home, so you can finally balance your work-life.
+Our development team works remotely and Slovak members try to meet once a week in Bratislava offices.
+A friendly team you can always rely on.
+We all use first names, participate in non-work activities, team-building events, etc.
+Volunteer activities as part of work (participation in CSR projects).
+Besides, working with us also means:
+A friendly culture where you can be yourself, because Friendly culture grows together
+Job with purpose and impact because, Meaningfulness of work grows together and
+Opportunities for professional learning and growth, because Our people grow together.
+Courage grows together.
+Ready to shape the future with us?
+Send us your CV or LinkedIn profile and let's have an online meeting with our Lead Engineer Milan Herda.
+Kontaktná osoba
+Zuzana Kaňuchová
+Odpovedať na pozíciu
+Späť na voľné pracovné miesta
+We are a member of
+Alma Career
+family.
+ID:
+5236458
+Dátum zverejnenia:
+17.2.2026
+2026-02-17
+lokalita:
+Remote work
+Pozícia:
+Backend developer
+,
+DevOps Engineer
+,
+Frontend developer
+,
+Javascript Programmer
+,
+Programmer
+Spoločnosť:
+Alma Career Slovakia s. r. o.   (pôvodne Profesia, spol. s r.o.)
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

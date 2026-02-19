@@ -1,0 +1,117 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+FrontEnd Softvérový Inžinier (JavaScript / Vue.js)
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto):
+Od 3 800 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+Hľadáme frontendovo zameraného inžiniera, ktorý dokáže:
+o	vlastniť komplexnú UI prácu,
+o	pomáhať určovať smerovanie a štandardy frontendu v rámci produktu
+o	zároveň komfortne spolupracovať s backend inžiniermi a pracovať aj na niektorých fullstack projektoch.
+Náplň práce:
+•	Vývoj nových funkcií a UI na zvýšenie dostupnosti a hodnoty produktu pre biznisových používateľov.
+•	Významná práca na redizajne používateľského rozhrania s bohatšími vizualizáciami, novými metrikami (napr. skóre interakcie používateľov) a detailnejšími dátami.
+•	Neustále zlepšovanie a optimalizácia biznisovo kritickej aplikácie založenej na službách.
+Technické prostredie :
+•	Frontend: moderný JavaScript (ES6+) a Vue.js (Vue je silne preferované, no React/Angular skúsenosti sú akceptované pri ochote učiť sa Vue).
+•	(čiastočná kooperácia) s Backend primárne v Pythone, s mikroservisnou / API architektúrou – výhodou.
+•	Intenzívne používanie REST API a verzionovania kódu (Git).
+Testovanie:
+o	Unit testy pomocou Vitest (alebo podobného nástroja),
+o	End-to-end testovanie s nástrojmi ako Cypress alebo Playwright.
+používame:
+o	Docker a kontajnerizáciou,
+o	dátovo náročné riešenia (data warehousing, analytické nástroje, Pandas a pod.), najmä interné nástroje alebo analytické platformy.
+Team:
+6-členný tím vrátane manažéra, úzko spolupracuje s:
+o	Product Managerom (potreby používateľov, prioritizácia, hodnota),
+o	Dizajnérmi (UX, UI, použiteľnosť),
+o	Senior inžiniermi v tíme (technické dopady, architektúra).
+Zamestnanecké výhody, benefity
+- podpora v oblasti školenia a vzdelávania
+- podpora športových a kultúrnych aktivít
+- stabilné prostredie a dobré medziľudské vzťahy
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: anna.spasova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná IT spoločnosť.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+programátor FE
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+-	stredoškolské vzdelanie s maturitou alebo univerzitné vzdelanie (technické, IT, ekonomické,..)
+-	znalosť anglického jazyka aktívnej úrovni
+•	Frontendovo orientovaný softvérový inžinier, pravdepodobne na úrovni stredne pokročilý až senior (cca 6+ rokov skúseností, no dôležitejší je prístup, zodpovednosť a komplexnosť predchádzajúcej práce).
+•	Silné znalosti moderného JavaScriptu a skúsenosť aspoň s jedným moderným frameworkom (Vue, React alebo Angular).
+•	Pevné skúsenosti s vývojom a údržbou komplexných používateľských rozhraní (nielen jednoduché marketingové stránky).
+•	Komfortná práca s REST API a verzionovaním kódu (Git).
+•	Silné produktové myslenie: dôraz na UX, pochopenie potrieb stakeholderov a vnímanie interných používateľov ako „zákazníkov“.
+•	Silné zameranie na dáta, ktoré stoja za frontendom.
+•	Komfort pri práci s komplexnými UI, veľkými dátovými sadami v prehliadači a pri budovaní škálovateľnej a udržiavateľnej frontend architektúry.
+•	Schopnosť viesť konštruktívne, riešeniami orientované diskusie s PM a dizajnérom.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Anna Spasová
+Tel.:
++421 2 6241 3438, +421 911 525 022
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5235820
+Dátum zverejnenia:
+16.2.2026
+2026-02-16
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Javascript programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 800 EUR/mesiac

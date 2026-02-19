@@ -1,0 +1,223 @@
+O nás
+Tímy
+Benefity
+Kultúra
+Technológie
+AI/ML Engineer - Customer Growth & Recommendations (ž/m)
+Čiastočný home office
+plný úväzok
+Bajkalská 28, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Od 3 200 EUR/mesiac
++ 15% ročný bonus (finálnu výšku ponúkanej mzdy si dohodneme spoločne na základe Vašich zručností a skúseností)
+Rob AI, ktorá má dopad. A rob ju po svojom.
+Pripoj sa k nám do
+Household Tribu
+– jedného z najdôležitejších útvarov v Slovak Telekome. Obsluhujeme veľkú časť slovenského trhu, rozumieme správaniu zákazníkov a neustále zlepšujeme produkty pomocou dát a AI.
+Náš cieľ je jasný:
+upgradnúť biznis cez AI inovácie
+– od personalizácie a automatizácie až po prediktívne modely, ktoré priamo ovplyvňujú tržby, spokojnosť zákazníkov a efektivitu tímov.
+Náš denný chleba:
+analýza správania zákazníkov, hľadanie nových dátových features a stavanie modelov, ktoré menia rozhodovanie v praxi.
+Hľadáme človeka, ktorý chce vidieť
+výsledky svojej práce v produktoch, kampaniach a zákazníckej skúsenosti
+– nie len v reporte alebo v notebooku.
+Čo bude tvoja realita
+Priamy
+vplyv na to, ako vyzerajú naše produkty
+, ponuky a zákaznícka skúsenosť.
+ML/LLM riešenia
+, ktoré idú do produkcie a používajú ich biznis tímy každý deň.
+NLP/LLM projekty
+: analýza interakcií, automatizácia procesov.
+Generatívna AI
+pre personalizáciu, interné nástroje a podporu rozhodovania.
+Modely
+pre
+churn
+,
+segmentáciu
+,
+odporúčania
+,
+detekciu anomálií
+a
+predikcie správania
+.
+Neustále objavovanie nových features, ktoré zlepšujú presnosť a biznis metriky.
+Tech stack:
+SparkML, PyTorch, XGBoost, MLflow, Prefect, Kubernetes
+.
+Hybridné prostredie
+: privátny Kubernetes + Google Cloud.
+Sloboda vo výbere riešení a prístupov – dôležitý je dopad, nie forma.
+Koho radi spoznáme
+Senior / Expert Data Scientist alebo AI/ML Engineer (3+ rokov)
+.
+Skúsenosti s
+NLP, transformermi a LLM
+v reálnych projektoch.
+Schopnosť
+prepojiť dáta
+,
+modely
+a
+biznis
+ciele.
+Výbornú znalosť
+Pythonu, SQL
+a open-source
+ML stacku
+.
+Skúsenosť s
+nasadzovaním modelov do produkcie
+a ich zlepšovaním na základe dopadu.
+Angličtinu
+minimálne na úrovni B2.
+Bonus
+: ML/LLM Ops, cloud, škálovanie riešení.
+Čo ti dáme my
+Slobodu robiť veci po svojom
+, pokiaľ prinášajú výsledky.
+Priestor na experimenty
+s jasným prepojením na biznis dopad.
+Projekty, ktoré
+ovplyvňujú milióny zákazníkov
+a reálne KPI.
+Moderný stack a
+spoluprácu s AI komunitou
+v rámci SK a CZ.
+Prostredie, kde sa AI riešenia rýchlo dostávajú z nápadu do praxe.
+Ak chceš robiť AI, ktorá sa počíta v číslach, nie len v demo ukážkach – poď k nám.
+Našim ponúkame to najlepšie
+Smartphone:
+Vyber si telefón a získaj naňho kompenzáciu každé 3 roky až do 900 €.
+Zamestnanecký paušál:
+Dátuj
+, telefonuj a SMSkuj
+neobmedzene
+za zvýhodnenú cenu na súkromné či pracovné účely.
+Ročný bonus: Každý rok môžeš získať
+bonus do výšky 15 %
+tvojej ročnej fixnej mzdy, a to na základe výsledkov firmy.
+Telekom zľavy: Využi
+znížené ceny
+našich produktov a služieb pre rodinu a blízkych.
+Zľavy u partnerov:
+Uži si zľavy
+na nákup produktov a služieb u našich partnerov.
+Flexibilná pracovná doba:
+Prispôsob si prácu svojim potrebám
+vďaka možnosti home-office (po dohode s manažérom).
+Akciový program Shares2You:
+Staň sa akcionárom
+skupiny Deutsche Telekom a čerpaj výhody s tým spojené.
+Dovolenka a oddych: Relaxuj s
+5 dňami dovolenky navyše
+.
+MultiSport:
+Športuj alebo relaxuj
+so svojimi najbližšími zadarmo či so zľavami vďaka zvýhodnenej karte MultiSport.
+Náhrada príjmu počas PN
+: Pri dočasnej PNke trvajúcej max. 10 dní ti nahradíme príjem vo výške 80 % denného vymeriavacieho základu.
+uLekára.sk: Využi
+bezplatnú online prevenciu
+a
+konzultáciu so špecialistami
+pre seba aj celú svoju rodinu.
+Zdravotná starostlivosť: Dbaj o svoje
+zdravie
+za zvýhodnenú cenu s
+nadštandardnou starostlivosťou
+v našom zmluvnom zariadení.
+Vzdelávanie a rozvoj: Rozšír svoje obzory s internou
+T-Univerzitou
+, ktorá ponúka bohatý výber kurzov.
+Cafeteria: Vyber si zo širokej škály benefitov v hodnote až
+500 € ročne
+– služby z oblasti športu a kultúry, zdravia a krásy, dovolenky či jazykové kurzy.
+Pomoc pri životnej situácii: Skúša ťa život? Podporíme ťa
+jednorazovou finančnou pomocou
+pri nepriaznivej životnej situácii.
+Psychologická poradňa:
+Čelíš ťažkostiam v súkromnom alebo v pracovnom živote? Zdôver sa odborníkovi anonymne cez telefón alebo online.
+Príspevok na stravovanie:
+Pochutnaj si na skvelom obede s príspevkom 7 € na každý pracovný deň.
+Sabbatical:
+Každý občas potrebuje vypnúť. Preto môžeš po odpracovaní 2 rokov a po dohode s manažérom využiť 1 mesiac na čokoľvek podľa vlastných potrieb.
+Rekreačný príspevok: Budeš s nami 2 roky?
+Príspevok na rekreáciu
+máš vo vrecku.
+Dôchodkové sporenie: Priprav sa na jeseň života s
+príspevkom na sporenie
+už po prvých 3 mesiacoch u nás.
+Každý je u nás vítaný
+Naši zamestnanci cítia, že majú u nás rovnaké príležitosti týkajúce sa zamestnania a kariérneho rozvoja,
+bez ohľadu na vek, pohlavie a gendrovú identitu, sexuálnu orientáciu, telesné a duševné schopnosti, národnosť, sociálny a etnický pôvod, politické názory, náboženstvo a svetový názor. Z toho máme obrovskú radosť. Sme odhodlaní sa neustále zlepšovať a
+vytvárať bezpečné pracovné prostredie pre všetkých.
+Čo ťa čaká
+Zaujala ťa pracovná ponuka? Vyplň
+prihlasovací formulár
+a daj nám o sebe vedieť.
+Informácie, ktoré nám o sebe zašleš posúdime a
+ozveme sa
+ti
+za každých okolností
+.
+S vybranými uchádzačmi sa spojíme a
+upresníme si detaily
+.
+Pohovor je pre nás obojstrannou príležitosťou, aby sme sa mohli
+lepšie spoznať
+.
+O výsledku pohovoru ťa budeme čo najskôr informovať. Úspešní kandidáti dostanú
+pracovnú ponuku
+.
+V našej spoločnosti budeš podľa našej job architektúry vykonávať pozíciu „Data Scientist, Expert“.
+Ako to u nás vyzerá
+a kde budete pracovať
+Kontakt
+Michaela Klaudíniová
+Recruiter
+michaela.klaudiniova@telekom.sk
+Zdieľajte pozíciu
+Facebook
+Linkedin
+Twitter
+Preposlať odkaz
+Zaujala ťa pracovná pozícia?
+Ozvi sa nám!
+Mám záujem
+Podobné pozície
+Všetky voľné pozície
+Linkedin
+Instagram
+TikTok
+Facebook
+Youtube
+Zostaňme v kontakte
+aj na sociálnych sieťach
+Sledovať všetky ponuky emailom
+© 2022 Slovak Telekom
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5235266
+Dátum zverejnenia:
+16.2.2026
+2026-02-16
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+,
+Python programátor
+,
+Technical writer
+Spoločnosť:
+Slovak Telekom, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 200 EUR/mesiac

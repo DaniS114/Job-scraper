@@ -1,0 +1,111 @@
+DevOps Engineer
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Po vzájomnej dohode.
+Mzdové podmienky (brutto)
+2 500 - 3 500 EUR/mesiac
+(+atraktívny finančný benefitný systém)
+Plat sa mení od seniority kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadá sa skúsený a proaktívny DevOps špecialista pre návrh, implementíciu a údržbu moderných a odolných CI/CD riešení, kontajnerizačných platforiem a hybridných infraštruktúrnych prostredí, ktoré podporujú mikroservisnú architektúru a Java aplikácie.
+Zodpovednosť za:
+- Návrh, implementácia a správa robustných CI/CD pipelines pre automatické nasadzovanie a testovanie softvéru (Jenkins, Gitlab, Nexus).
+- Konzultácie k architektúre a nastaveniu prostredí pre beh aplikácií.
+- Správa a optimalizácia kontajnerovej a orchestrálnej infraštruktúry (Kubernetes, Docker).
+- Zodpovednosť za dostupnosť, škálovateľnosť a monitorovanie produkčných a neprodukčných prostredí.
+- Implementácia infraštruktúry ako kódu (IaC) pomocou nástrojov ako Terraform alebo Ansible.
+- Spolupráca s developermi a testermi pri optimalizácii procesov, odstraňovaní prekážok a zrýchľovaní release cyklu.
+- Zabezpečenie bezpečnostných štandardov a integrácia bezpečnostných nástrojov -DevSecOps
+Zamestnanecké výhody, benefity
+flexibilná pracovná doba
+Po zaškolení možnosť dohodnúť sa na dňoch home-officu
+príspevok pri uzavretí manželstva
+Referral príspevok
+finančný bonus po odpracovaní 10 rokov
+Multisport karta
+teambuildingy (celofiremné, divízne, vianočná večera)
+podpora športových aktivít (korčuľovanie, bowling, ...)
+No dresscode
+Mobil a notebook aj na osobné použitie
+zľavy u tretích strán
+možnosť odborného vzdelávania, certifikácií a školení
+čerstvé ovocie, čaj, káva
+moderné priestory
+Informácie o výberovom konaní
+Životopis pošlite na adresu:
+jakub.halajcik@sourcefirstinternational.com
+Vždy mám viacero pozícií pre IT špecialistov nielen na Slovensku a v Českej republike, ale aj na zahraničných projektoch.
+Predpokladaný termín ukončenia výberového konania
+28.6.2026
+(ostáva ešte 128 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Náš klient je uznávaným expertom v oblasti IKT a softvérového vývoja dodávajúcim sofistikované a jedinečné technologické riešenia prispôsobené potrebám klientov. Divízia IKT systémov sa zameriava na integráciu bezpečnej IKT infraštruktúry s vysokou pridanou hodnotou, ako sú dátové centrá, komunikačné systémy a siete.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+- Skúsenosti minimálne 5 rokov na pozícii DevOps/Cloud/Systémový Inžinier.
+- Cloudová Platforma: Znalosť a praktické skúsenosti s cloudovou platformou (primárne Azure - Azure DevOps, AKS, IaaS/PaaS).
+- Kontajnerizácia/Orchestrácia: Kubernetes, Docker.
+- Praktická skúsenosť s technológiou OpenShift.
+- CI/CD Nástroje: Skúsenosti s GitLab CI/CD, Jenkins, Nexus.
+- Infraštruktúra ako Kód (IaC): Terraform, Ansible.
+- Monitorovanie a Logovanie: Skúsenosti s nástrojmi ako Prometheus, Grafana, Loki , Zabbisx a ELK stack.
+- Skúsenosť s konfiguráciou nástrojov ako Hashicorp Vault, Keycloak, Argo CD, Helm.
+Nice to Have Skills
+Kubernetes - Pokročilý
+Docker - Pokročilý
+Azure DevOps Server - Pokročilý
+Red Hat Open Shift - Pokročilý
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Jakub Halajcik
+Tel.:
++421902528675
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5235289
+Dátum zverejnenia:
+16.2.2026
+2026-02-16
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT architekt
+,
+Programátor
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

@@ -1,0 +1,111 @@
+Senior System Architect
+Stengl a.s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+42,5 - 47,5 EUR/hod.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pre nášho klienta hľadáme skúseného
+System Architekta
+na návrh a dohľad nad architektúrou kritického a vysoko dostupného informačného systému.
+Náplň práce
+Architektonický návrh a governance
+:
+tvorba a aktualizácia cieľovej architektúry (aplikačná, integračná, infra, bezpečnostná vrstva),
+definícia architektonických princípov, štandardov a technologickej stratégie,
+návrh vysoko dostupných a odolných modelov (HA, DR, failover),
+príprava architektonických rozhodnutí (ADR) a podpora strategických technologických volieb.
+Integrácia a systémová konzistencia
+:
+návrh a koordinácia integrácií so všetkými internými a externými systémami,
+zabezpečenie interoperability, štandardizácie dátových rozhraní a kompatibility infraštruktúry,
+dohľad nad návrhom API, dátových tokov, bezpečnostných protokolov a komunikačných kanálov.
+Technický dohľad a podpora dodávky
+:
+technické vedenie tímov vývoja, testovania, infraštruktúry a prevádzky,
+posudzovanie riešení dodávateľov a schvaľovanie technickej dokumentácie,
+podpora projektového manažmentu pri plánovaní, odhadoch a mitigácii rizík.
+Bezpečnosť a compliance
+:
+zohľadnenie bezpečnostných štandardov (ISMS, NIS2, MDR, GDPR) priamo v architektúre,
+návrh bezpečnostných kontrol, auditov a logovacích štandardov,
+spolupráca so security tímom pri hrozbách, incidentoch a risk analýzach.
+Prevádzková pripravenosť
+:
+príprava architektúry pre monitoring, observabilitu a SLA/SLO,
+nastavenie predpokladov pre vysokú dostupnosť a failover,
+posúdenie infra kapacít, optimalizácia výkonu a škálovania systému.
+Zamestnanecké výhody, benefity
+kurzy nemeckého a anglického jazyka na pracovisku,
+rôzne športové a relaxačno-regeneračné aktivity,
+multisport karta(len pri TPP),
+200 eur na vlastné športové a relaxačno-regeneračné aktivity (len pri TPP),
+plne preplácané stravné (len pri TPP),
+príspevok na DDS (po 12. mesiacoch) (len pri TPP),
+bonusy pri jubileách vo firme (len pri TPP),
+dar pri narodení dieťaťa,
+firemné akcie,
+2 dni sick day ročne (len pri TPP).
+Ponúkame tiež:
+atraktívnu, rôznorodú prácu na zaujímavých projektoch,
+možnosť profesionálneho rastu,
+možnosť vzdelávania a výberu rôznych školení (hardskill/ softskill).
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+7
+Osobnostné predpoklady a zručnosti
+Odborné znalosti
+:
+min. 7+ rokov praxe v enterprise alebo solution architektúre,
+skúsenosti s kritickými, vysoko dostupnými a celonárodnými systémami,
+znalosť architektonických štýlov (SOA, microservices, event-driven, layered) a integračných patternov (ESB, API gateway, IAM, messaging),
+skúsenosti s cloud/hybrid infraštruktúrou, kontajnermi a orchestráciou (Kubernetes, Docker),
+znalosť bezpečnostných štandardov, návrhu dátovej architektúry a lifecycle procesov podľa ITIL, TOGAF (certifikácie výhodou).
+Soft skills
+:
+analytické myslenie a riešenie komplexných technických problémov,
+schopnosť komunikovať architektonické rozhodnutia technickému aj netechnickému publiku,
+zodpovednosť, systematickosť, dôraz na kvalitu a bezpečnosť,
+schopnosť viesť technické tímy a presadzovať architektonický smer.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+STENGL je IT konzultačná spoločnosť a súčasne softvérový dom, ktorý realizuje vlastné interné projekty ako aj projekty u zákazníkov, prostredníctvom skúsených IT expertov a odborníkov z rôznych doménových oblastí.
+STENGL je spoločnosť, ktorá má viac ako 25 ročné skúsenosti na slovenskom a českom trhu, ako aj v nemecky hovoriacich krajinách. Máme za sebou desiatky tisíc konzultačných a vývojových hodín pre našich klientov naprieč všetkými sektormi národného hospodárstva. Na Slovensku sme historicky jeden z najväčších poskytovateľov IT služieb pre klientov z nemecky hovoriacich krajín.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: HR
+Tel.:
++421903252331
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5237147
+Dátum zverejnenia:
+18.2.2026
+2026-02-18
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+Spoločnosť:
+Stengl a.s.
+Základná zložka mzdy (brutto):
+42,5 EUR/hod.

@@ -1,0 +1,118 @@
+Application Support Engineer (3rd line) pre zákazníkov využívajúcich naše špičkové priemyselné a vedecké kamery
+XIMEA s.r.o.
+Miesto práce
+Vydrica, Žižkova, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+1 850 - 2 200 EUR/mesiac
+Finálna mzda sa odvíja od zručností a skúsenosti
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme generalistu/generalistku so silným technickým myslením a chuťou pustiť sa do komplexných výziev, ktoré práca so softvérom a hardvérom prináša.
+Každý tvoj deň  bude iný. Niekedy napíšeš testovací skript v Pythone alebo C či C++, inokedy budeš simulovať zákaznické prostredie, aby si zistil, čo to v tej vesmírnej agentúre robia, že im to nefunguje podľa očakávaní. Budeš sa pohybovať medzi úlohami od našich R&D tímov aj ako 3rd line podpora zákazníkov.
+Príklady úloh, ktoré ťa čakajú:
+Analyzovanie reálnych problémov zákazníkov.
+Prečo kamera na robote posiela len 5 obrázkov za sekundu pri 200 ms expozícii? Prečo trenažér vrtuľníka po spustení nezdetekoval všetky pripojené kamery? Pri podobných situáciách diagnostikuješ problém pomocou logov z nášho xiCopu, skontroluješ zapojenie a následne hľadáš vinníka — je to softvér, hardvér alebo niečo úplne iné?
+Komunikácia so zákazníkmi.
+Neboj sa, nebudeme ťa nútiť dávať odpovede typu „skúste reštart“. Náš zákazník skôr potrebuje poradiť, či naše kamery zvládnu sledovať pohyb častíc v kvapaline (mimochodom, áno, volá sa to PIV), alebo ako správne nastaviť synchronizáciu, lebo chce laserom trafiť parazita na plávajúcej rybe v mori (fakt, toto reálne funguje).
+Tvorba odborného obsahu a zlepšovanie knowledge base pre zákazníkov
+. Budeš stáť za tvorbou white papers a use case materiálov, v ktorých zákazníkom aj potenciálnym klientom zrozumiteľne vysvetlíš, ako naše produkty efektívne využívať, správne nastaviť a naplno využiť ich funkcionality. Zároveň sa pozrieš na našu verejnú knowledge base, ktorú obsahovo upraceš, zjednodušíš a aktualizuješ tak, aby v nej zákazníci našli jednoducho a rýchlo všetky potrebné informácie.
+Automatizované testovanie nových produktov
+. Celu výšku si sa pýtal/a, načo ti bude ten Matlab? U nás zistíš, že na dobré veci. Rovnako aj C či Python, pretože presne to používame na naše Image Quality testy, vďaka čomu vieme garantovať, že naše kamery spĺňajú špecifikácie.
+Úzka komunikácia naprieč R&D tímami a reportovanie buggov
+. Ak nájdeš chybu, presne ju popíšeš, zadáš ticket NPI, HW alebo SW vývojárom a dohliadneš na jej opravu. Na konci máš tú česť overiť funkčnosť fixu, aby mohol ísť do sveta.
+S rutinnejšími úlohami ti pomôže naše interná AI, aby si mal dosť času na rozlúsknutie skutočných technických orieškov
+Pracovné priestory sú v Marianke (Lesná 52) a v Bratislave (Vydrica). Treba rátať s oboma lokalitami.
+Zamestnanecké výhody, benefity
+Byť súčasťou stabilnej spoločnosti, ktorá je medzinárodne uznávaná za svoje inovatívne technologické produkty a služby
+​Možnosť sebarozvoja a práce s najnovšími technológiami​
+Hodiny s fitness trénerom v súkromnej telocvični
+Hodiny angličtiny
+5 Sick days (dní voľna na regeneráciu)
+Teambuildingové aktivity
+Informácie o výberovom konaní
+Ak chceš pracovať na technológiách, ktoré ukazujú svet v  tom najlepšom svetle, pošli nám svoj životopis a napíš nám v pár riadkoch čo ťa na práci (s elektronikou) najviac baví.
+Vybraných kandidátov budeme kontaktovať telefonicky na úvodný približne 15 min rozhovor.
+Následne nás bude čakať spoločné stretnutie.
+Predpokladaný termín ukončenia výberového konania
+31.3.2026
+(ostáva ešte 39 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+elektrotechnika, strojné inžinierstvo, informačné technológie - výhodou
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Python - Základy
+C - Základy
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Kedy ti táto rola sadne?
+Máš generalistické technické znalost
+i - vieš z každého rožku trošku. Nebojíš sa zapojiť/oživiť alebo rozobrať hardvér (napr. PC), pochopíš rôzne kódy a scripty, nestratíš sa ani v loggoch a v malíčku máš aspoň
+základy programovania v
+C, C++, Python. Matlab
+Máš systémové myslenie -
+vieš prepájať informácie
+a chápať problémy v širšom kontexte.
+Máš predchádzajúcu
+skúsenosť s písaním testovacích skriptov.
+Baví ťa písať nie len kód, ale aj odborné texty.
+Si puntičkár/ka a baví ťa systematizovať a sprehľadňovať dokumentáciu.
+Nebojíš sa (písomnej) komunikácie v angličtine (B2)
+Máš
+troubleshooting skills
+– vieš sa pýtať správne otázky a postupne sa dopracovať k riešeniu.
+Proaktívne riešiš problémy
+- pýtaš sa, hľadáš riešenia, dozeráš, aby sa tickety hýbali a uzatvárali.
+Výhodou je
+:
+Predchádzajúca skúsenosť na pozíciách ako Field Application Engineer, QA Engineer, 2nd/3rd Line Technical Support, Programátor alebo Technický Sale
+Vzdelanie z oblasti elektrotechniky, informatiky
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+XIMEA je medzinárodne úspešná a technologicky uznávaná firma s výskumno-návrhovým tímom a výrobnou prevádzkou na Slovensku: https://www.youtube.com/watch?v=876axbKXSw8
+Navrhuje, vyvíja a vyrába širokú škálu vysoko technologických priemyselných, vedeckých a špeciálnych kamier, ktoré sa uplatňujú v najrôznejších špičkových aplikáciách. Sú výnimočné svojou rýchlosťou, kompaktnosťou a kvalitou spracovania.
+Sme pravidelným držiteľom ocenenia Forbes Diamanty Slovenska, ktoré oceňuje zdravo rastúce spoločnosti. Viac o nás sa dozviete tu:
+https://www.youtube.com/watch?v=TaP4x9f4CvI
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Andrea Košutová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5237139
+Dátum zverejnenia:
+18.2.2026
+2026-02-18
+lokalita:
+Bratislava
+Pozícia:
+Elektrotechnický inžinier
+,
+IT tester
+,
+IT/Technical Support Specialist
+,
+Servisný technik
+,
+Technical writer
+Spoločnosť:
+XIMEA s.r.o.
+Základná zložka mzdy (brutto):
+1 850 EUR/mesiac

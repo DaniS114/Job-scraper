@@ -1,0 +1,98 @@
+Systémový administrátor
+ESMO s. r. o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+od 2000 EUR brutto
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Systémový špecialista je zodpovedný za spoľahlivú, bezpečnú a efektívnu prevádzku serverovej a sieťovej infraštruktúry, ako aj pracovných staníc používateľov. Zodpovedá za návrh, správu, optimalizáciu a rozvoj IT prostredia tak, aby podporovalo biznisové ciele spoločnosti. Zároveň vystupuje ako interný konzultant pre oblasť infraštruktúry a IT, podieľa sa na projektoch, navrhuje riešenia a zabezpečuje aktivity na ich bezproblémovej implementácii.
+​
+Hlavný rozsah zodpovednosti:
+​
+Správa, dohľad a monitorovanie prevádzky a administrácie serverovej infraštruktúry, aplikačných serverov a mailových riešení, pracovných staníc
+Monitorovanie výkonu, ladenie a optimalizácia serverového prostredia
+Činnosť súvisiaca s údržbou a podporou IT prostriedkov a telekomunikačnej techniky vo firme,
+Konfigurácia a administrácia sieťových komponentov (základný routing, zabezpečenie, firewall, traffic management a pod.
+Riešenie problémov v rámci firemnej siete a pripojenia na internet,
+Správa a nastavovanie sieťových a bezpečnostných prestupov a služieb
+Inštalácia, konfigurácia, aktualizácia a prevádzka IT infraštruktúry v On premise aj Cloud prostredí
+Administrácia kontainerizovaných a virtualizovaných prostredí (Docker, Kubernetes)
+Správa databázových systémov napr. MySQL, PostgreSQL, MongoDB, Maria DB
+Zálohovanie a obnova komponentov a dát infraštruktúry
+Podpora a riešenie incidentov a problémov prevádzky infraštruktúrnych komponentov
+Aktívna spolupráca pri návrhu a inštalácii IT infraštruktúry,
+Aktualizácia a koordinovanie zmien SW komponentov počas ich životného cyklu
+Príprava a aktualizácia technickej dokumentácie
+Špecifické zodpovednosti:
+Navrhovať vylepšenia, testovať a udržiavať internú IT infraštruktúru prostredia pre vývoj zákazníckych SW riešení
+Spolupracovať na zabezpečení optimálneho využitia a potrebného výkonu infraštruktúry
+Zamestnanecké výhody, benefity
+Zvýšený príspevok na stravné
+Odmeny na základe finančných ukazovateľov spoločnosti a ekonomiky projektov
+Flexibilný pracovný čas
+​Pozícia umožňuje občasnú prácu z domu​
+Predpokladaný termín ukončenia výberového konania
+15.3.2026
+(ostáva ešte 24 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+2
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Hľadáme niekoho, kto vie pracovať samostatne, zodpovedne, aktívne komunikovať s našim tímom, byť jeho dobrým členom, rýchlo vytvárať fungujúce riešenia, kreatívne prichádzať s novými nápadmi, ale vie aj využiť existujúce riešenia, skúmať nové možnosti technológií a prichádzať s riešeniami ako zlepšiť procesy prevádzky a nasadzovania IT riešení.
+skúsenosti so správou OS Linux, OS Windows - pokročilý
+skúsenosti s tvorbou „shell“ skriptov - pokročilý
+správa O365
+znalosť TCP/IP protokolu - pokročilý
+znalosť monitorovacích nástrojov - pokročilý
+znalosť bezpečnostných štandardov - pokročilý
+skúsenosti s virtualizáciou (guest aj hypervisor) - VMware, OracleKVM , Proxmox, OpenShift
+znalosť jazykov Perl a Python výhodou
+znalosť CISCO výhodou
+znalosť CI/CD pipelines výhodou
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme softvérová spoločnosť ponúkajúca IT riešenia postavené na dlhoročných skúsenostiach odborníkov. Náš tím stojí na pevných základoch lojálnosti, priateľských vzťahoch a rešpekte. Prostredníctvom našich špecialistov detailne analyzujeme potreby zákazníka, ponúkame podporu pri výbere najvhodnejších riešení a ich implementáciou zefektívňujeme vnútorné firemné procesy. Zaoberáme sa hromadným inteligentným spracovaním papierových dát a ich ďalším automatizovaným spracovaním v elektronickej podobe. Uvedomujeme si hodnotu a silu informácií, a tak venujeme maximálnu pozornosť ich ochrane nielen z pohľadu bezpečnosti, ale taktiež z pohľadu ochrany osobných údajov.
+Individuálny prístup ku klientovi a rešpektovanie jeho požiadaviek sú pre nás na prvom mieste.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5236771
+Dátum zverejnenia:
+18.2.2026
+2026-02-18
+lokalita:
+Bratislava
+Pozícia:
+Systémový administrátor
+Spoločnosť:
+ESMO s. r. o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

@@ -1,0 +1,110 @@
+Back to open positions
+About PwC
+Students and graduates
+Experienced candidates
+Mothers
+Benefits
+Place of work
+PricewaterhouseCoopers Slovakia, Ltd., Twin City Business Centre, Karadžičova, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+By agreement
+Wage (gross)
+2 300 EUR/month
+(For candidates with demonstrated experience the salary is negotiable based on experience and proven seniority.)
+Azure Cloud Solutions Developer (m/f)
+Job description, responsibilities and duties
+Team:
+Advanced Technology Solutions (ATS) - AI Security Consulting at PwC
+Join our innovative team as an
+Azure Cloud Developer,
+where your expertise will revolutionize cloud-based solutions. Utilize your deep knowledge of Microsoft Azure and Python to develop robust and scalable applications. Collaborate with forward-thinking teams to create impactful enterprise-level microservices and APIs.
+Key Responsibilities:
+Azure Development:
+Harness your expertise in Microsoft Azure to develop robust and scalable enterprise applications.
+Microservices & APIs:
+Design and manage containerized microservices using
+Python
+, working with workflow tools such as Temporal or Argo.
+Systems & Security:
+Utilize your understanding of networking, systems administration, and security concepts to optimize performance.
+CI/CD Integration:
+Implement CI/CD best practices for seamless deployment and infrastructure management.
+Infrastructure as Code (IaC):
+Build and manage infrastructure using tools like
+ARM templates, Bicep, Azure CLI, or Terraform.
+Skills & Qualifications:
+3-5+ years of experience working with
+Microsoft Azure and developing in Python.
+Ability to construct infrastructure from scratch, integrating containers and cloud functionality.
+Deep understanding of networking and security concepts in large-scale Azure environments.
+Experience with log collection, analysis, and infrastructure performance optimization.
+Preferred Qualifications:
+One or more
+Azure cloud certifications
+are highly preferred.
+DevOps and Cloud Proficiency:
+Experience with various DevOps or cloud platforms is a plus.
+Why Join Us?
+Innovation and Impact:
+Be part of a forward-thinking team dedicated to transforming cloud technology.
+Flexible Working Hours:
+Enjoy a work-life balance with adaptable schedules.
+Be a pivotal contributor to technological innovation and excellence in cloud solutions at PwC and collaborate with a visionary team dedicated to advancing cloud technologies.
+Employee perks, benefits
+Benefits you can enjoy while working at PwC
+Financial Rewards:
+Benefit from regular salary reviews and special life events/bonuses. Enjoy meal contributions and a cafeteria benefit system offering personalized choices.
+Flexibility & Work-Life Balance:
+Enjoy our hybrid working policy, flexible working hours, 2 extra days off during Christmas along with Sick-days. Every minute of your extra work is valued and compensated.
+Career Development:
+Engage in tailored internal and external training programs as well as structured career development plan.
+Health & Well-being:
+Access premium benefits such as Multisport card or a medical center membership. Take advantage of our Well-being and Work-Life Coaching program.
+Supportive Culture:
+Participate in teambuilding activities and social events and join our employee referral program. Experience a culture with regular feedback and a supportive environment.
+Global Opportunities
+: Seize the opportunity for international assignments and work on diverse projects with international clients. Explore the world while working with the possibility of working from abroad.
+Extra perks:
+Use various discounts at partner companies such as cars, health care, beauty, culture or others. Transfer up to 4 telephone numbers at discounted rates.
+At PwC, we believe in nurturing your career, supporting your health and wellness, and recognizing your dedication. Join our team and experience a workplace that values you beyond your work hours.
+Information about the selection process
+If you'd like to apply for this position, please click on the "Apply Now" button on our website and apply through our system.
+You can find the data privacy announcement here: https://pwc.to/2s8n2tn
+If the current position is not right for you but you have friends or acquaintances in your area who could be interested in working with us, feel free to direct them to us. If we establish cooperation with a candidate recommended by you, you can receive a reward from 300 to 1000 EUR, depending on the seniority of the candidate: https://www.pwc.com/sk/en/careers/get-rewarded-for-recommending-candidate.html
+We seek to hire people who are great at what they do and bring our behaviours to life in how they do it. Our PwC Professional framework guides us to work together to create a better tomorrow. Together, Trusted Leadership and Distinctive Outcomes are how we deliver on our purpose and strategy, serving our clients and living our values in every interaction, everyday. The PwC Professional framework defines the behaviours we’re all expected to demonstrate at PwC and what we look for in our future talent.
+Are you ready to be a PwC Professional?
+Contact
+Contact person: Vanessa Barthová
+E-mail:
+send CV
+Send CV
+Back to open positions
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5237050
+Dátum zverejnenia:
+18.2.2026
+2026-02-18
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+DevOps Engineer
+,
+Frontend developer
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+PwC
+Základná zložka mzdy (brutto):
+2 300 EUR/month

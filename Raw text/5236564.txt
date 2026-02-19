@@ -1,0 +1,94 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Software Developer (Camunda)
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+Senior Camunda Developer holds a lead role within a SCRUM team and is responsible for designing, developing, and implementing workflow-based solutions using Camunda. The focus is on automation and orchestration of business processes across distributed systems.
+The role covers end-to-end process lifecycle: BPMN modeling, DMN decision design, REST integrations, job worker implementation, error handling, versioning, and deployment governance.
+The developer provides independent technical expertise, ensures high-quality and resilient process solutions, mentors team members in workflow best practices, contributes to architectural decisions, and continuously drives innovation in business process automation.
+What will you do?
+Design and development of complex workflow-based IT solutions using Camunda
+Analysis of business requirements and translation into BPMN/DMN process models
+Implementation of automation solutions using Camunda and related technologies
+Development in Agile (SCRUM) environment
+Creation of technical and process documentation
+Designing scalable and resilient process architectures
+Participation in workflow automation R&D initiatives
+Close collaboration with developers, analysts, and business stakeholders during implementation and testing
+Training users on process-driven solutions
+Mentoring junior developers and supporting onboarding activities
+You will succeed if you:
+Have several years of experience in enterprise IT, preferably in workflow and business process automation
+Are advanced experience in process-driven design using BPMN, DMN, and service orchestration
+Have strong SQL knowledge and understanding of workflow persistence and data modeling
+Have experience integrating distributed systems via REST APIs and job worker patterns
+Have experience with Git and Maven
+Have understanding of Cloud-native architectures, DevOps, containers, and CI/CD
+Have good knowledge of IT infrastructure relevant to workflow engines
+Have solid communication skills and experience collaborating directly with business stakeholders and customers
+Are able to work independently and in Agile (SCRUM) teams
+Are self-motivated with strong ownership and communication skills
+Possible specialization:
+Advanced experience in Camunda 8 (Zeebe, Operate, Tasklist, Optimize)
+Advanced experience in BPMN 2.0 modeling
+Advanced experience in DMN / FEEL
+Advanced experience in REST API integration
+Advanced experience in Job Worker implementation
+Advanced experience in process resilience and error handling
+Advanced experience in process versioning and deployment governance
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lenka Kiššová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5236564
+Dátum zverejnenia:
+17.2.2026
+2026-02-17
+lokalita:
+Remote work
+Pozícia:
+Programmer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 100 EUR/month

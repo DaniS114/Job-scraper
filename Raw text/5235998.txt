@@ -1,0 +1,117 @@
+M365 administrátor
+teamative a. s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+min. 2500 EUR/mesiac
+Výsledná nástupná mzda bude dohodnutá na pohovore a odvíja sa od skúseností a seniority kandidáta a typu spolupráce (TPP, kontrakt)
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme skúseného M365 administrátora, ideálne s nemeckým jazykom, ale nie je to podmienkou.
+Práca je na báze práce z officu ale aj s možnosťami home-office, ideálne však je ak Ti vyhovuje viac spoločenský život a kancelária, pretože máme pre teba pripravené nové moderné priestory so špičkovým technickým vybavením a oddychovými zónami a hlavne hľadáme dobrého parťáka do tímu, s ktorým si budeme rozumieť aj mimo kancelárie.
+Implementácia a správa/ IT prevádzka Microsoft Windows Server (2012-2022)/ Azure Infrastructure Services File, Print, Terminal, Cluster Services, Active Directory, DNS, DHCP, WVD, Azure AD atď.
+Implementácia a správa/IT prevádzka technológií Microsoft 365 (Azure Active Directory, Exchange Online, SharePoint Online, OneDrive, Teams vrátane telefónneho systému, Intune, Defender for Endpoint, Office 365 ATP, Conditional Access, Universal Print, Data Loss Prevention, Multi -Factor Authentication, Privileged Identity Management, Windows Virtual Desktop atď.)
+Automatizácia a štandardizácia pracovných postupov pomocou vhodných skriptov (PowerShell)
+Optimalizácia existujúcich procesov a nástrojov na správu prostredí s viacerými nájomcami
+Integrácia nových zákazníkov do existujúcich obchodných procesov
+Účasť na tvorbe rozhodovacích šablón a konceptov
+Vývoj a plánovanie konceptov služieb
+Projektové plánovanie a realizácia uvedenia do prevádzky a prevádzky
+Analýza problémov a chýb, riešenie problémov, dokonca aj zložitých
+Systémy alebo systémové krajiny Tvorba rozhodovacích šablón a konceptov
+Návrh/zavedenie podporných nástrojov a pracovných postupov
+Koncepcia, iniciácia a monitorovanie opatrení na zabezpečenie úrovne služieb a spokojnosti zákazníkov
+Tvorba strategických koncepcií územnej organizácie
+Účasť na ďalšom rozvoji portfólia
+Zamestnanecké výhody, benefity
+- práca na atraktívnych medzinárodných i lokálnych projektoch
+interné a externé vzdelávanie v oblasti SAP (certifikáty, školenia)
+služobný telefón podľa vlastného výberu
+služobný notebook podľa vlastného výberu
+využívanie anglického alebo nemeckého jazyka
+podpora vzdelávania v nemeckom a anglickom jazyku
+príjemný profesionálny kolektív s jednoduchou organizačnou štruktúrou
+work-life balance
+pravidelné teambuildingové aktivity v zahraničí a na Slovensku
+možnosť vykonávať prácu mixom remote alebo z officu v BA, PK či KE
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Sme poskytovateľom komplexných IT riešení
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Ostatné znalosti
+Microsoft Office 365 - Pokročilý
+Active Directory (Windows) - Pokročilý
+Microsoft Exchange - Pokročilý
+Microsoft SharePoint - Pokročilý
+Microsoft Azure - Pokročilý
+Administrácia Windows serverov - Pokročilý
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+- Minimálne päť rokov odbornej praxe v oblasti správy IT a skúsenosti s riešeniami spolupráce od spoločnosti Microsoft v oblasti Office 365 a v lokálnych riešeniach (AD, Exchange, Sharepoint atď.)
+Veľmi dobré praktické skúsenosti so službami Microsoft Azure a Windows Server Infrastructure Services, Intune MDM
+Rozsiahle skúsenosti s IT operáciami a migráciou prostredí Exchange, Sharepoint, AD, súborových serverov atď. v Office365
+Skúsenosti s plánovaním, implementáciou a prevádzkou hybridných riešení (AD, Exchange Hybrid)
+Technické certifikáty: Microsoft 365 Certified Associate / Azure Administrator Associate / MCSA / MCSE
+Veľmi dobrá zákaznícka orientácia, podnikateľské myslenie a konanie aj na manažérskej úrovni
+Vysoko systematický a štruktúrovaný spôsob práce
+Vysoká flexibilita, odolnosť a ochota podávať výkon
+Veľmi dobré prezentačné a moderátorské schopnosti
+Odborné znalosti v požadovanej oblasti zodpovednosti a veľmi dobrá znalosť súvisiacich technológií
+Schopnosť spolupracovať, pracovať v tíme a riešiť konflikty
+Nemecký jazyk aktívne (minimálne na úrovni B2 – C1)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+teamative pomáha zákazníkom digitalizovať ich podnikanie s jedinečnou koncepciou: preberá plnú zodpovednosť za inovatívne IT &  SAP projekty a zároveň vzdoruje „vojne o talenty“ s prispôsobenými a škálovateľnými personálnymi službami pre holistický IT sourcing a dokáže sa škálovať na akúkoľvek veľkosť v akejkoľvek technológii prostredníctvom globálneho a flexibilného rozširovania tímu.
+S tímom viac ako 350 konzultantov, softvérových vývojárov a architektov na 10 miestach a ďalšími 400 špecializovanými  partnermi pomáhame našim klientom maximálne využiť ich digitálny potenciál. Teamative ako partner pre inovácie v každej situácii spája odborné znalosti poskytovateľa IT služieb s flexibilitou personálneho špecialistu. Kombinujeme jedinečné, škálovateľné služby IT a SAP riešenia a inteligentné modely obstarávania všetkých druhov.
+-> S/4 a SAP
+-> Digitálne inovácie
+-> Infraštruktúra, Bezpečnosť a Cloud
+-> ServiceNow
+O zaujímavostiach zo života teamative a jej kolegov sa dozviete na našej Facebook stránke: https://www.facebook.com/teamativesk
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Mikuláš Sviatko
+Tel.:
++421948297811
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5235998
+Dátum zverejnenia:
+17.2.2026
+2026-02-17
+lokalita:
+Bratislava
+Pozícia:
+IT/Technical Support Specialist
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+teamative a. s.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

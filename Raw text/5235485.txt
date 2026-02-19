@@ -1,0 +1,100 @@
+Computer vision and AI specialist
+Micro-Epsilon Inspection s.r.o.
+Miesto práce
+Drobného 25A, Dúbravka
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Podľa dohody
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+Výška mzdy sa individuálne dohodne s uchádzačom na pohovore. Výška mzdy bude určená na základe skúseností uchádzača. V inzeráte je uvedená len minimálna výška mzdy pre juniorskú pozíciu.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Náplň práce, právomoci a zodpovednosti:
+Návrh a vývoj algoritmov pre computer vision aplikácie      2D / 3D s využitím umelej inteligencie a paralelizácie      výpočtov na CUDA platforme
+Návrh a vývoj algoritmov pre smart 2D / 3D senzory
+Návrh a trénovanie modelov umelej intelgencie v oblasti      computer vision
+Optimalizácia a zlepšovanie existujúcich algoritmov
+Spolupráca na projektoch s AI tímom skupiny      Micro-Epsilon a univerzitami
+Spolupráca pri definovaní a rozvíjaní prostredia      pre vývoj a údržbu systémov využívajúcich umelú inteligenciu
+Riešenie praktických úloh s priamym nasadením do      produktov
+Práca s kódovacími agentami
+Nástroje a technológie:
+Python, C++20
+Microsoft Visual Studio 2026, Microsoft Visual Studio      Code
+PyTorch, Torch, TorchVision, OpenCv, CUDA13, ONNX
+Jupyter Notebook
+Gitlab
+Zamestnanecké výhody, benefity
+13. plat (jeho výška závisí od obchodných výsledkov spoločnosti a osobného ohodnotenia)​​mimoriadne odmeny za výkon
+bonus za odporučenie nového zamestnanca​
+​výborná káva na pracovisku
+automat s občerstvením pre zamestnancov za zvýhodnené ceny
+ovocné stredy
+bonus pri pracovnom výročí
+bonus pri svadbe
+bonus pri narodení dieťaťa
+príspevok na cestovanie do práce
+Predpokladaný termín ukončenia výberového konania
+31.3.2026
+(ostáva ešte 39 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Computer vision, AI, SW vývoj
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+C++ - Pokročilý
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+zdolávať na prvý pohľad neprekonateľné výzvy
+trpezlivosť
+flexibilita / kreatívnosť
+samostatnosť
+schopnosť pracovať v tíme
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Micro-Epsilon Inspection  is a leading provider of highly precise measurement and inspection systems world-wide for the tire and automotive industry.  Patented technologies, high-tech automation, robotics, cutting edge measurement and testing technologies based on artificial intelligence, micro world in 3D vision, the reliability and stability of the provided systems with predictive maintenance and excellent worldwide services are the core drivers for further company development and the long-term high satisfaction of our customers.
+The technologies and systems provided by Micro-Epsilon Inspection  reduce defects in production and increase the quality and safety of products.
+Based on the high trust of customers in the systems provided by Micro-Epsilon Inspection, our customers are able to set up production processes to a very high level of efficiency, reduce production process costs, reduce the environmental burden and provide key information for the digital transformation of production.
+Main customers:
+Continental, Goodyear, Pirelli, Michelin, Bridgestone, MRF, Toyo Tires, BMW a ďalší.
+Customers awards:
+Continental AG: rating "A-Supplier"  2012, 2013, 2014, 2015,2016, 2017,2018, 2019,2020, 2021, 2022, 2023, 2024
+Continental AG: supplier of the year 2019, 2020, 2021, 2022, 2023, 2024
+www.micro-epsilon.com
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Marián Šrámek
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5235485
+Dátum zverejnenia:
+16.2.2026
+2026-02-16
+lokalita:
+Bratislava
+Pozícia:
+C++ programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Micro-Epsilon Inspection s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

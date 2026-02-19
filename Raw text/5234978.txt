@@ -1,0 +1,104 @@
+Frontend developer/ka (Vue.js / Nuxt / TypeScript)
+accute s. r. o.
+Miesto práce
+Dvořákovo nábrežie 4, Staré Mesto
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho tímu hľadáme frontend developera, ktorý má skúsenosti s vývojom komplexných webových aplikácií a chce pracovať na projektoch s reálnym biznis dopadom.
+Vyvíjame robustné systémy pre investičné spoločnosti a finančné inštitúcie, ako aj procesné a interné platformy pre malé a stredné firmy v rôznych sektoroch. Ide o produkčné aplikácie s vysokými nárokmi na bezpečnosť, výkon, správnosť dát a dlhodobú udržateľnosť architektúry.
+Tvojou úlohou bude návrh a implementácia frontend architektúry a používateľských rozhraní v prostredí Vue.js 3 a Nuxt 3+ s využitím TypeScriptu.
+Čo budeš robiť?
+Návrh a implementácia frontend architektúry v Vue.js 3 (Composition API) a Nuxt 3+.
+Vývoj škálovateľných SPA/SSR aplikácií v TypeScripte.
+Tvorba modulárnych, znovupoužiteľných a dobre testovateľných komponentov.
+Implementácia komplexných dátových tabuliek, pokročilých filtrov, formulárov a workflow obrazoviek.
+Integrácia REST API a práca s dátovými vrstvami (TanStack Query a pod.).
+Optimalizácia výkonu aplikácií (SSR, lazy loading, code splitting, optimalizácia renderingu).
+Implementácia a údržba E2E testov (Playwright).
+Spolupráca na návrhu UI architektúry a konzistentného dizajnového systému (Tailwind, PrimeVue).
+Code review, refaktoring a udržiavanie vysokej kvality kódu.
+Podpora nasadzovania aplikácií v CI/CD pipeline (GitLab, Docker).
+Čo od teba očakávame?
+Praktické skúsenosti s JavaScriptom a TypeScriptom.
+Skúsenosti s Vue.js 3 (Composition API) alebo React (výhodou).
+Skúsenosti s Nuxt.js alebo iným FE frameworkom.
+Výhodou sú znalosti s React Native (prípadne iným frameworkom na mobile development).
+Znalosť práce s modernými CSS nástrojmi (Tailwind CSS, SCSS).
+Skúsenosť s písaním E2E testov (Playwright alebo Cypress výhodou).
+Skúsenosti s Git/GitLab a prácou v tímovom vývojovom procese (code review, merge requesty).
+Schopnosť pracovať s API špecifikáciou a efektívne komunikovať s backend tímom.
+Zodpovedný prístup k bezpečnosti, kvalite kódu a dlhodobej udržateľnosti riešenia.
+Zamestnanecké výhody, benefity
+Sme technologicky orientovaný tím, ktorý vyvíja produkčné systémy s vysokými nárokmi na spoľahlivosť a výkon. Dlhodobo sa zameriavame na finančný sektor, kde budujeme platformy pre správu investícií, reporting a procesné riadenie. Paralelne realizujeme projekty pre malé a stredné firmy, kde navrhujeme interné workflow systémy a špecializované aplikácie na mieru.
+Sídlo máme v Riverparku v Bratislave. Preferujeme osobnú spoluprácu v kancelárii (homeoffice max. 1 deň v týždni po dohode), pretože veríme, že kvalitná architektúra vzniká diskusiou a úzkou tímovou spoluprácou.
+K dispozícii máš:
+kvalitné pracovné vybavenie podľa vlastnej preferencie (macOS / Linux / Windows),
+ovocie a kávu v kancelárii,
+firemné raňajky a teambuildingy,
+možnosť Multisport karty,
+profesionálne prostredie s dôrazom na kvalitu, nie kvantitu.
+Čo ponúkame?
+prácu na komplexných produkčných systémoch s reálnym dopadom,
+možnosť podieľať sa na architektonických rozhodnutiach,
+stabilné dlhodobé projekty,
+pravidelné prehodnotenie platu,
+koncoročné odmeny v závislosti od prístupu a výkonu.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie. elektrotechnika, programovanie
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+alebo
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+Vue.js - Mierne pokročilý
+JavaScript - Pokročilý
+TypeScript - Pokročilý
+Nuxt.js - Mierne pokročilý
+GIT - Pokročilý
+Docker - Základy
+React Native - Základy
+Počet rokov praxe
+2
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme technologická spoločnosť zameraná na vývoj komplexných softvérových riešení na mieru. Špecializujeme sa na návrh a implementáciu robustných systémov pre finančný sektor, najmä pre investičné spoločnosti, správcov fondov a ďalšie regulované subjekty.
+Vyvíjame korporátne aplikácie s vysokými nárokmi na bezpečnosť, výkon a spoľahlivosť – od transakčných systémov a investičného reportingu až po interné workflow platformy a klientské zóny.
+Dlhodobo sa zameriavame na kvalitu architektúry, optimalizáciu výkonu a súlad s bezpečnostnými a regulačnými štandardmi (ISO/IEC 27001, GDPR, DORA). Okrem finančného sektora realizujeme projekty aj pre malé a stredné firmy v rôznych odvetviach.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Norbert Gálik
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5234978
+Dátum zverejnenia:
+16.2.2026
+2026-02-16
+lokalita:
+Bratislava
+Pozícia:
+Frontend programátor
+,
+Javascript programátor
+,
+Programátor
+Spoločnosť:
+accute s. r. o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

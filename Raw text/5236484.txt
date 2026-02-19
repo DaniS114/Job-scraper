@@ -1,0 +1,107 @@
+IT Lead Solution Architect for Graph Database Platforms
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Salary
+3 500 EUR/month
+From 3500€
++VAR*
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions.
+Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+Job description, responsibilities and duties
+Do you want to help create the future of healthcare? Our name, Siemens Healthineers, was selected to honor our people who dedicate their energy and passion to this cause.
+It reflects their pioneering spirit combined with our long history of engineering in the ever-evolving healthcare industry. We offer you a flexible and dynamic environment with opportunities to go beyond your comfort zone to grow personally and professionally. Sounds interesting?
+Then join our “Graph & Ontology Platforms" team as a Lead Solution Architect!
+The “Graph & Ontology Platform" is a central IT service within Siemens Healthineers that provides a platform for data and non-data scientists in our Business Units to analyze and learn from their data utilizing the power of graphs and semantic engineering.
+Our goal is to enable diverse use cases across all of Siemens Healthineers regardless of whether they utilize graphs for visualization, analytics, backends or as input for AI Systems.
+As part of the Center of Excellence for Data and AI, you will design and drive the implementation of the solution architecture for the Ontology platform, an upcoming extension to the Graph Ecosystem at Siemens Healthineers.
+Your tasks and responsibilities:
+Design and build up the solution architecture of the new Ontology Platform within Siemens Healthineers
+Improve and extend the solution architecture of the existing Graph Platform based on Neo4
+Design and document comprehensive solution architectures, including context diagrams, data flows, interface specifications, and deployment views in alignment with system requirements
+Define and oversee the implementation of API specifications, data integration, and federation concept
+Create and align implementation roadmaps, ensuring the timely and effective realization of architecture plans and milestones
+Establish and enforce architectural frameworks for data access, materialization versus virtualization, user roles, automation, logging, monitoring, and compliance with regulatory requirements
+Lead cross-system integration efforts, coordinating with tool-specific experts and use case teams to ensure seamless collaboration and technical consistency
+Support service architecture planning and operational concepts, working closely with service owners, domain experts, managers and vendors
+Guide and support development teams in building system components, such as data connectors and integration solutions for various enterprise platforms (e.g., Teamcenter, Polarion, Snowflake, SAP)
+Conduct proof-of-concepts, performance tests, scalability assessments, and data migration activities
+Define governance structures and support organizational setup, enabling effective use case implementation
+Support in the creation of solution architectures for graph use cases distributed over different business areas and domains
+Ensure and extend platform capability to implement above mentioned use case architecture
+Your qualifications and experience:
+You hold a bachelor's or master's degree in computer science, information technology, or a related field.
+You do not have a degree? Applications with vocational training in combination with additional qualifications and many years of professional experience in this field are also welcome
+You have many years of relevant experience as an IT Solution Architect
+You have experience with platforms such as Neo4j, Metaphactory, or Cambridge Semantics
+You have experience working with RDF and/or Property Graph Databases
+You are familiar with security standards, compliance frameworks, and data privacy regulations
+You can design scalable, high-performance graph-based solutions
+You are knowledgeable about data integration pipeline tools, including SnapLogic
+You have experience creating comprehensive and well-reasoned Architecture Decision Records (ADR)
+You have experience in designing and implementing data federation across distributed data sources
+You have experience designing and implementing platform architecture in the Azure Ecosystem, including Microsoft Entra ID
+You have experience with Snowflake (preferred)
+You have worked with cross-functional teams, including data scientists and business stakeholders and vendors
+You have experience of integrating AI systems into existing architecture (Agentic Systems, RAG Systems)
+You communicate status, progress, and risks clearly and effectively
+Your attributes and skills:
+You enjoy working in an international team with colleagues from Europe, Americas and Asia and speak fluent English. German and other languages are an advantage
+You are passionate about data and database systems
+You work in a structured and independent manner and have already proven that you can prioritize complex processes
+You ask, ‘Why not?’ instead of ‘Why?’. You contribute with your innovative ideas to question our current status quo and to develop it further
+You have the willingness to learn new topics related to data and adapt quickly to technological changes
+You have excellent problem solving, analysis, communication, coordination and task management skills
+You can manage multiple demands and projects simultaneously, prioritize tasks, and meet deadlines
+You have strong communication and collaboration skills and can communicate effectively with stakeholders, translate technical jargon into plain language, and build consensus around complex technical solutions
+Basic wage component (gross) and other rewards
+: starting from 3 500 EUR brutto /month + VAR*
+Required education, skills and personality requirements
+Required education
+University education (Bachelor's degree)
+We offer
+Variable and Christmas bonus
+Hybrid type of work – combination of telework and work from office
+Flexible Working Hours
+Bridge days – free extra paid leave 6 days per year
+3 sick days per year (no doctor’s permit needed)
+In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of family care
+Additional pension plan
+300 EUR for regeneration of work force via cafeteria system
+Wellbeing program – Psychological, Legal and Financial Councelling
+Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps)
+Retention program (work anniversary, life anniversary, employee loans)
+Training and development program (business and product trainings, e-learning, language courses, soft skills trainings,…)
+Adjustable standing desk as a standard
+Participation on world famous IT conferences like Microsoft IGNITE for best employees
+Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial Intelligence, Healthcare IT services, …)
+Who we are:
+We are a team of more than 71,000 highly dedicated Healthineers in more than 70 countries. As a leader in medical technology, we constantly push the boundaries to create better outcomes and experiences for patients, no matter where they live or what health issues they are facing. Our portfolio is crucial for clinical decision-making and treatment pathways.
+How we work:
+When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Check our Careers Site at
+https://jobs.siemens-healthineers.com/en_US/searchjobs/Home
+To all recruitment agencies:
+Siemens Healthineers' recruitment is internally managed, with external support permitted only when a qualified supplier has established a formal contract with us. Unsolicited candidate submissions and referrals, absent a current supplier contract, do not establish consent and are ineligible for fees. We delete and destroy unsolicited information, thus, would recommend you refrain from any such practices. Your adherence to our policies is appreciated.
+Send CV
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Join us!
+Send CV
+Click for more information
+ID:
+5236484
+Dátum zverejnenia:
+17.2.2026
+2026-02-17
+lokalita:
+Bratislava
+Pozícia:
+IT Architect
+Spoločnosť:
+Siemens Slovensko
+Základná zložka mzdy (brutto):
+3 500 EUR/month

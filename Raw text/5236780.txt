@@ -1,0 +1,134 @@
+DevOps špecialista na AWS
+CODERAMA s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 500 - 6 000 EUR/mesiac
+Základná mzda pri TPP je 3 500,- EUR. Pri kontrakte sa mzda pohybuje od 4 500,- do 6 000,- EUR.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ahoj,
+som
+Marcel z CODERAMA,
+aktuálne do medzinárodného IT tímu hľadáme
+DevOps špecialistu na AWS
+, ktorý bude pracovať na návrhoch, automatizácii a riešení incidentov.
+Čo ťa počas dňa čaká?
+AWS Infraštruktúra:
+Návrh, výstavba a prevádzka (produkcia aj non-prod).
+CI/CD a GitLab CI:
+Návrh a správa pipeline (build/test/deploy), automatizácia release procesov a zlepšovanie GitLab CI.
+Observabilita:
+Monitoring, alerting, logy, metriky (CloudWatch) a incident response.
+Security & Hardening:
+IAM (least privilege), auditability, správa SSL/TLS certifikátov a ochrana (WAF/rate limiting, bot/spam protection, mitigácia DDoS).
+Troubleshooting:
+Diagnostika v shell-konzole (Bash/Linux CLI) a riešenie výkonnostných problémov databáz (PostgreSQL, MySQL/Aurora).
+Networking:
+Správa DNS a praktická znalosť VPN/OVPN (site-to-site, client VPN).
+Optimalizácia:
+FinOps mindset (náklady) a nastavovanie štandardov v spolupráci s dev tímom.
+Čo od teba očakávame my?
+Aspoň 5-ročná silná prax s AWS
+v produkcii a skúsenosti s CI/CD.
+Suverénne ovládanie Amazon ECS
+, Dockeru a GitLabu.
+Vysoká miera porozumenia sieťam a bezpečnosti:
+HTTP/HTTPS, TLS handshake, cache, reverse proxy.
+Skúsenosť s vysokou dostupnosťou (HA):
+Multi-AZ a multi-region návrhy.
+Znalosť Apache
+a schopnosť samostatne fungovať (identifikácia problému → riešenie → dotiahnutie).
+Plynulú znalosť anglického jazyka (B2)
+– ústna aj písomná forma.
+Nice to have (výhodou):
+Infraštruktúra ako kód (Terraform, CloudFormation).
+Znalosť Nginx, Pythonu, Kubernetes alebo messaging systémov (SQS / RMQ).
+Skúsenosti so škálovateľnosťou.
+Detaily spolupráce:
+Trvanie:
+3 mesiace (možnosť predĺženia na 6 mesiacov a viac).
+Nástup:
+Možný
+ASAP resp. dohodou.
+V CODERAMA sa o teba dobre postaráme, tak ak chceš vedieť viac, napíš nám a my sa ti ozveme späť :)
+Zamestnanecké výhody, benefity
+• Nadštandardné platové ohodnotenie
+• Možnosť kariérneho rastu a sebarealizácie
+• Referral program
+• Možnosť rotácie medzi projektami
+• Práca v úspešnej spoločnosti a v priateľskom kolektíve
+• Podpora vzdelávania a sebarozvoja
+• Flexibilná pracovná doba
+• Možnosť pracovať odkiaľkoľvek
+• Žiadna byrokracia
+• Firemný hardware
+• Stabilita, takmer žiadna fluktuácia - ak už raz do CODERAMA prídeš, nebudeš chcieť odísť
+• Event kalendár plný športových a kultúrnych akcií, teambuildingov a iných aktivít
+• Práca spojená s cestovaním, tzv. Work & Travel
+• Pet friendly office
+• Psychologické poradenstvo, coaching a mentoring program
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+DevOps - Pokročilý
+Amazon Web Services (AWS) - Pokročilý
+CI/CD pipeline - Pokročilý
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+• Znalosť agilného vývoja
+• Chuť pracovať
+• Záujem učiť sa nové technológie a neustále sa odborne vzdelávať
+• Zodpovednosť za pridelené úlohy
+• Samostatnosť, ale zároveň aj tímovosť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+CODERAMA, s.r.o. je progresívny a inovatívny SOFTWARE HOUSE zaoberajúci sa vývojom komplexných enterprise riešení pre zákazníkov zo Slovenska a zahraničia ako sú ŠKODA AUTO, NOTINO, CRIF, KONICA MINOLTA, MOROSYSTEMS, MONET+, KISTLER, KOMIX, BRAVIDA, ČSOB, MEGAUBYTOVANIE.SK, DXC TECHNOLOGY, TELEKOM, INTERWAY, KROS, UNIQA, AVILOO, UNILABS SK a ďalších.
+Zákazníci na nás najviac oceňujú našu proaktivitu a poctivosť. Okrem vývoja zákazníckych riešení sme sa s nadšením pustili aj do vlastných projektov a už teraz sa nevieme dočkať ako ich uvedieme na trh.
+V CODERAMA je nás 170+ a neustále rastieme.
+Okrem Žiliny pôsobíme aj v Bratislave, Martine a Banskej Bystrici. Mnohí z nás pracujú aj REMOTE. Každý z nás je jedinečný a navzájom sa perfektne dopĺňame. Vieme tvrdo zamakať ale aj sa poriadne zabaviť.
+V CODERAMA si zakladáme na kamarátskom prístupe, tímovosti, poctivej práci, transparentnosti a slobode. Problémy riešime spoločne a aj úspechy oslavujeme spoločne. Ak sa chceš presvedčiť, že pracovať u nás je naozaj zážitok, príď nás kedykoľvek navštíviť.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Marcel Figura
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5236780
+Dátum zverejnenia:
+18.2.2026
+2026-02-18
+lokalita:
+Práca z domu
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+CODERAMA s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

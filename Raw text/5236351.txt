@@ -1,0 +1,98 @@
+About us
+Our benefits
+Open positions
+IT Business Analyst
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 200 - 3 700 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,200 and EUR 3,700 per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+Do you excel at translating complex business needs into actionable technical solutions? We're seeking a talented IT Business Analyst to join our Finance Data CoE in Bratislava, where you'll play a crucial role in shaping our financial data landscape. This position offers the perfect blend of technical challenge and business impact, allowing you to leverage your analytical expertise to drive strategic initiatives that transform how our organization manages and utilizes financial data.
+About the Role
+In this position, you'll be instrumental in implementing our Finance Target Architecture using Azure Databricks while ensuring seamless data flows across our financial systems. You'll collaborate with cross-functional teams to capture requirements, design solutions, and deliver high-quality implementations that meet evolving business needs. This role requires someone who can navigate complex data models, communicate effectively with diverse stakeholders, and maintain a relentless focus on quality and efficiency.
+Key Responsibilities
+•	Configure the quarterly submission out of the Enhanced Finance Repository
+•	Drive Finance IT business analysis towards the implementation of our Finance Target Architecture (Azure Databricks), enabling end-to-end Finance data flows
+•	Work closely with business counterparts to capture accurate business needs and translate them into implementable work items in Azure DevOps
+•	Team up with software development teams within the Data & Analytics Product Area and collaborate with other Finance IT teams
+•	Analyze, manage, and document the as-is status of business/finance data and provide gap analysis
+•	Specify source system data derivation rules with high quality, including proposing feasible solutions
+•	Model data and integrate with the existing data landscape
+•	Provide test data and execute the testing process in collaboration with implementation developers
+•	Coordinate and support UATs, including creation/enhancement of training documentation
+•	Monitor and update proposed solutions under changing assumptions
+•	Support Go live and the establishment of the BAU process
+•	Provide on-call support during quarterly financial close periods to ensure smooth data processing and reporting
+About the Team
+The Finance Data Center of Excellence (CoE) team is a vital part of the Finance Data Foundation Product Area. We optimize data strategy and technical architecture while minimizing waste through automation and building customer trust. Our team ensures end-to-end product vision coherence, shapes solutions for onboarding applications into the Finance Data Foundation landscape, and enables accurate reporting through reusable data assets. We provide subject matter expertise in Finance Data, manage Finance Data Models, and consult on implementing new data analytics capabilities.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a detail-oriented problem solver with excellent analytical skills and a passion for turning data into insights. You thrive in collaborative environments and can effectively communicate complex technical concepts to non-technical audiences. Your ability to understand both business processes and technical solutions makes you an effective bridge between stakeholders across the organization.
+We are looking for candidates who meet these requirements:
+•	At least 5 years of business analysis experience working on complex projects
+•	High proficiency in English
+•	Strong SQL and data analysis skills
+•	Bachelor's degree in Information Technology, Business Administration, Finance, or related field
+•	Experience in requirements gathering, documentation, and management using industry standard methodologies
+These are additional nice to haves:
+•	Knowledge of financial processes and reporting requirements
+•	Experience with data visualization tools (Tableau, Power BI, etc.)
+•	Familiarity with Agile methodologies and project management tools
+•	Experience with Azure Databricks or similar data processing platforms
+•	Experience with process mapping and business process improvement
+•	Certification in business analysis (CBAP, PMI-PBA) or related fields
+Our company has a hybrid work model where the expectation is that you will be in the office at least three days per week.
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Livia Pasztorova
+Apply here
+ID:
+5236351
+Dátum zverejnenia:
+17.2.2026
+2026-02-17
+lokalita:
+Bratislava
+Pozícia:
+IT Analyst
+,
+IT Consultant
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 200 EUR/month

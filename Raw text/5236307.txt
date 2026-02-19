@@ -1,0 +1,120 @@
+Senior Browser Extension Developer
+Oirat s. r. o.
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+March 2025 +
+Wage (gross)
+From 5 000 EUR/month
+Salary negotiable based on your skills and experience.
+Information about the position
+Job description, responsibilities and duties
+Role Overview
+We are seeking a
+Senior Browser Extension Developer
+to lead the design and development of next-generation browser-based security and automation tools. This role focuses on building
+highly reliable, extensible, and secure browser integrations
+that operate across complex and dynamic web applications.
+You will work on foundational browser technology that observes, understands, and adapts to diverse site behaviors in real time. While this role collaborates closely with backend and AI teams, your primary responsibility is owning the
+browser-side architecture, intelligence gathering, and enforcement mechanisms
+that power our platform.
+What You’ll Do
+Design, build, and maintain
+production-grade browser extensions
+for Chrome, Firefox, and other modern browsers.
+Architect scalable extension frameworks that can adapt to
+highly dynamic, SPA-heavy web applications
+.
+Implement robust systems to
+observe, model, and reason about site structure, DOM changes, and user interaction patterns
+.
+Develop content scripts, background/service workers, and extension APIs that enforce security and automation logic safely and efficiently.
+Ensure secure, performant communication between browser components and backend services.
+Collaborate with backend and AI/LLM teams to integrate dynamically generated rules and configurations into browser behavior.
+Apply strong security principles around permissions, data handling, sandboxing, and user privacy.
+Optimize performance, reliability, and compatibility across evolving browser ecosystems.
+Provide technical leadership through code reviews, architectural input, and mentorship of other engineers.
+Required Skills & Qualifications
+6+ years of professional software engineering experience
+, with
+3+ years focused specifically on browser extensions or advanced web automation
+.
+Deep expertise in
+JavaScript and TypeScript
+, with strong command of HTML5, CSS3, and modern Web APIs.
+Proven experience with
+Chrome Extensions (Manifest V3)
+and
+Firefox WebExtensions
+, including background/service workers, content scripts, and messaging.
+Strong understanding of
+DOM APIs, MutationObservers, event handling, and SPA frameworks
+(React, Angular, Vue, etc.).
+Experience building extensions that operate reliably across
+complex, frequently changing web applications
+.
+Solid knowledge of
+browser security models
+, permissions, CSPs, sandboxing, and data privacy best practices.
+Experience integrating browser extensions with backend APIs (REST, WebSockets, JSON).
+Strong debugging and profiling skills using browser developer tools.
+Ability to own large technical areas end-to-end and make sound architectural decisions.
+Nice-to-Have Skills
+Experience with
+web automation tools
+such as Playwright, Puppeteer, or Selenium.
+Familiarity with
+Chrome DevTools Protocol (CDP)
+or low-level browser instrumentation.
+Experience integrating browser-side logic with
+AI/LLM-driven systems
+(e.g., consuming dynamically generated rules or configurations).
+Background in
+security products, developer tools, or enterprise SaaS platforms
+.
+Exposure to CI/CD pipelines, automated testing for extensions, and release management across browser stores.
+Some backend experience (Node.js, Python, or Go) to support collaboration and debugging — not primary ownership.
+Requirements for the employee
+Candidates with education suit the position
+Follow-up/Higher Professional Education
+Educational Specialization
+IT
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+JavaScript - Advanced
+Number of years of experience
+6
+Advertiser
+Brief description of the company
+Oirat s.r.o. is looking for employee on behalf of Concentric AI.
+Concentric AI is a fast-growing cybersecurity startup redefining data security through AI-powered solutions. We protect sensitive data wherever it resides by using advanced machine learning to detect risks automatically — without requiring rules, regexes, or classifiers.
+Contact
+Contact person: David Vendel
+Tel.:
++421949477322
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5236307
+Dátum zverejnenia:
+17.2.2026
+2026-02-17
+lokalita:
+Remote work
+Pozícia:
+IT Consultant
+,
+Software Engineer
+Spoločnosť:
+Oirat s. r. o.
+Základná zložka mzdy (brutto):
+5 000 EUR/month
