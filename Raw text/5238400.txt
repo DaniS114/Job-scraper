@@ -1,0 +1,90 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior DevOps Engineer + Sign on Bonus 3000 eur
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 2 600 EUR/month
+Final salary is
+negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2600 € /brutto.
+Additional information
+* Please be informed that our
+remote working possibility is only available within Slovakia
+due to European taxation regulation.
+As a Senior DevOps Engineer on the Open Telekom Cloud Marketplace team, you will be the cornerstone of our infrastructure, designing and building the robust, scalable platform that powers our ecosystem.
+You will take full ownership of our cloud infrastructure, leveraging your deep expertise to solve complex challenges in security, automation, and performance. This is a high-impact role where your work will directly influence the success of a key Deutsche Telekom product.
+What will you do?
+WHAT WILL YOU DO?
+Own our IaC Foundation: Architect, implement, and manage our core infrastructure using Terraform and Terragrunt, ensuring it is scalable, reliable, and cost-effective.
+Master CI/CD & Automation: Design, build, and optimize sophisticated CI/CD pipelines in GitLab to enable rapid, safe, and reliable deployments for development teams.
+Champion Kubernetes & Cloud-Native Tech: Design, deploy, and maintain complex Kubernetes workloads, including Helm charts, sidecars, and batch jobs, to support a microservices architecture.
+Drive Security & Reliability: Implement and enhance security controls, replication strategies, and monitoring services to meet strict Deutsche Telekom compliance standards.
+Collaborate & Elevate: Partner directly with development teams to provide expert guidance on building and configuring cloud-native applications, including optimizing Dockerfiles and application runtimes.
+You will succeed if you:
+YOU WILL SUCCEED IF YOU:
+5+ years of professional DevOps or SRE experience in a cloud-native environment.
+Expert-level, hands-on proficiency with Terraform and Terragrunt for managing production-grade infrastructure.
+Deep, practical knowledge of Kubernetes (including its API and object model) and a proven track record of designing and packaging applications with Helm.
+Extensive experience building and maintaining complex CI/CD pipelines, preferably in GitLab CI.
+Strong scripting or programming skills in Python or Go for automation and tooling.
+A solid understanding of software development lifecycles and build processes.
+Proficiency with Git and experience working in a collaborative, agile environment.
+Professional programming/scripting experience in Python or Go.
+In-depth understanding of cloud environments (e.g., AWS, GCP, Azure) and microservices
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 600 EUR/month
+Final salary is
+negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 2600 € /brutto.
+Additional information
+* Please be informed that our
+remote working possibility is only available within Slovakia
+due to European taxation regulation.
+Contact
+Contact person: Ing.  Lucia Gbúrová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5238400
+Dátum zverejnenia:
+20.2.2026
+2026-02-20
+lokalita:
+Remote work
+Pozícia:
+Software Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 600 EUR/month

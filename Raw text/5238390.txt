@@ -1,0 +1,102 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Junior C++ Developer
+Miesto práce
+Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiac
+*finálna suma bude závisieť od konkrétnych znalostí a skúseností kandidáta
+*výkonnostný bonus vyplácaný 2 x ročne do výšky 10% zo základného platu vyplácaného za hodnotiace obdobie (zvyčajne 6 mesiacov)
+Druh pracovného pomeru
+plný úväzok
+ESET rozširuje spektrum svojich bezpečnostných technológií a do tímu Antispam Applied Development hľadá novú posilu na pozíciu C++ Software Engineer. Tím má na starosti integráciu antispamových technológií do jednotlivých produktov ako aj prevádzku serverovej časti antispamovej technológie.
+Budeš súčasťou tímu, ktorý zodpovedá za:
+· návrh a vývoj klientskych, serverových a interných aplikácii /systémov
+· integráciu a prevádzku antispamového riešenia v produktoch spoločnosti ESET
+· vývoj a údržbu rôznych komponentov, ktoré tvoria základ pre produkty potrebné pre prevádzku antispamu a iných technológií
+Ako súčasť tímu budeš mať možnosť zúčastniť sa celého vývojového cyklu produktu a budeš:
+· sa podieľať na štúdiu a výskume nových technológii,
+· implementovať novú funkcionalitu produktu, navrhovať jednotlivé časti systému a ich API,
+· upravovať a vylepšovať už existujúce systémy a komponenty,
+· rozširovať svoje znalosti v oblasti fungovania systému linux,
+· rozširovať svoje skúsenosti s nízkoúrovňovým programovaním,
+· prispievať k zlepšeniu kvality kódu cez code reviews a pravidelný refactoring,
+· udávať smerovanie vývoja cez pravidelné meetingy a brainstormingy,
+· mať možnosť učiť sa od skúsených ľudí a stať sa expertom vo svojom odbore
+Počas prvých troch mesiacov zistíš, že si schopný oveľa viac, než si si doteraz predstavoval a naučíš sa ešte lepšie rozvíjať svoje zručnosti.
+Pracujeme v C++ pod OS Linux a hľadáme programátora, ktorý má skúsenosti s C/C++, tento jazyk ho baví a chce v ňom denne tvoriť nové veci a nabrať nové pracovné skúsenosti.
+Požiadavky:
+vysokoškolské vzdelanie v oblasti informačných technológií
+praktická skúsenosť s jazykom C++, prípadne C
+znalosti v oblasti algoritmov a dátových štruktúr
+ochota a otvorenosť učiť sa novým veciam
+základné znalosti práce s OS Linux
+anglický jazyk minimálne na úrovni B1
+Výhodou sú (s čím sa u nás stretneš):
+· Znalosť:
+nízkoúrovňové programovanie v OS Linux
+fungovanie sieťového stacku v OS Linux
+memory management a optimalizácia kódu
+· Skúsenosti s:
+Git
+Docker
+Python
+Cross kompiláciou
+Kontaktná osoba
+Jakub Kunik
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Neustále hľadáme nové kolegyne alebo nových kolegov, ktorí chcú byť súčasťou úspešného slovenského príbehu s globálnym dopadom. V ESET neustále dokazujeme, že špičková expertíza a inovácie vytvorené na Slovensku majú silu konkurovať najväčším hráčom v oblasti kyberbezpečnosti po celom svete. Ak chceš pracovať pre firmu, ktorá stavia na kvalite, odbornostiach a reálnom dopade svojej práce vo svete, hľadáme práve
+TEBA.
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5238390
+Dátum zverejnenia:
+20.2.2026
+2026-02-20
+lokalita:
+Košice
+Pozícia:
+C programátor
+,
+C++ programátor
+,
+Programátor
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

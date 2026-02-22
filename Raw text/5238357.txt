@@ -1,0 +1,129 @@
+Backend Developer / Web Application Engineer
+Univerzita Mateja Bela v Banskej Bystrici
+Miesto práce
+Cesta na amfiteáter, Banská Bystrica
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Mzdové podmienky (brutto): Platové podmienky sú určené podľa zákona č. 553/2003 Z. z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme v znení neskorších predpisov. 
+Konečný plat bude stanovený podľa dosiahnutého vzdelania, dĺžky odbornej praxe a plnenia pracovných úloh.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Čo budeš robiť
+vyvíjať      a rozvíjať webové aplikácie (primárne
+PHP / Symfony
+),
+zabezpečovať      súlad webových aplikácií s pravidlami webovej prístupnosti (WCAG 2.0),
+podieľať      sa na návrhu architektúry technických riešení,
+analyzovať      požiadavky používateľov a navrhovať úpravy aplikácií,
+pracovať      s kontajnerizovanými aplikáciami (
+Docker
+),
+integrovať      interné a externé systémy cez
+API,
+riešiť      technické problémy v
+Linux
+prostredí súvisiacich s prevádzkou      webových aplikácií,
+spolupracovať      na nasadzovaní aplikácií a zlepšovaní CI/CD procesov.
+Koho hľadáme
+máš      skúsenosti s vývojom backendových alebo webových aplikácií
+(PHP, Java, alebo iný porovnateľný jazyk / framework)
+alebo by si      sa chcel tejto oblasti intenzívne venovať
+máš      základné znalosti technológií používaných na frontende (HTML, Javascript,      CSS)
+rozumieš      princípom moderného vývoja aplikácií (API, autentifikácia, testovanie)
+máš      skúsenosti s
+REST API
+(SOAP výhodou)
+poznáš      základy
+Dockeru
+a
+CI/CD
+vieš      sa orientovať v
+Linux
+prostredí
+si      schopný analyzovať problém a navrhnúť riešenie
+orientuješ      sa v aktuálnych bezpečnostných požiadavkách a štandardoch pre webové      aplikácie a ich prevádzku
+máš      chuť učiť sa nové technológie
+a rozvíjať sa
+Technológie, s ktorými pracujeme
+PHP,      Symfony
+JavaScript,      Stimulus
+Docker
+Git,      CI/CD
+REST      / SOAP API
+Linux
+MySQL,      PostgreSQL
+integrácia      cloudových služieb (napr.
+Microsoft 365 API
+, Oauth2, SAML, LDAP...)
+(Nie je nutné ovládať všetko – dôležité sú dobré základy a ochota učiť sa.)
+Zamestnanecké výhody, benefity
+Čo ponúkame
+zmysluplné      projekty a moderný technologický stack,
+možnosť profesijného a kariérneho rozvoja,
+možnosť štúdia popri zamestnaní
+,
+priestor      na odborný rast a technické rozhodovanie,
+podporu      pri zaučení do nových technológií,
+pružný pracovný čas,
+dovolenka nad rámec zákona,
+príspevok na doplnkové dôchodkové sporenie
+možnosť využívania Multisport karty.
+Informácie o výberovom konaní
+Informácie o výberovom konaní:
+Všetkým záujemcom ďakujeme za prejavený záujem. Kontaktovať budeme len uchádzačov, ktorí spĺňajú požadované kritériá.
+Informácia pre dotknutú osobu podľa čl. 13 GDPR sa nachádza na:https://www.umb.sk/univerzita/kariera-na-umb/volne-pracovne-miesta.html
+Predpokladaný termín ukončenia výberového konania
+20.3.2026
+(ostáva ešte 26 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Osobnostné predpoklady a zručnosti
+min. stredoškolské vzdelanie s maturitou,
+samostatnosť,
+komunikačné zručnosti,
+zodpovednosť.
+Ostatné znalosti:
+Znalosť anglického jazyka na stredne pokročilej úrovni:
+schopnosť pracovať s technickou dokumentáciou, porozumieť hovorenej angličtine v IT oblasti a príležitostne aktívne komunikovať.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Univerzita Mateja Bela v Banskej Bystrici je verejnou vysokou školou a v roku 2010 obhájila status univerzity. Je členom Európskej asociácie univerzít. Poskytuje kvalitné vysokoškolské vzdelávanie a ďalšie vzdelávanie podľa rozvoja vedy a potrieb praxe a rozvíja nové poznanie tvorivým vedeckým a umeleckým bádaním.
+Ponúka klasické univerzitné spektrum možností vzdelávania vo všetkých troch stupňoch a formách štúdia v oblasti pedagogických, sociálnych, ekonomických, právnych, politických, humanitných a prírodných vied, v odboroch medzinárodné vzťahy, v ekonomických odboroch a v matematike realizuje aj anglofónne a čiastočne frankofónne štúdium. UMB rozvíja spoločné študijné programy a kontakty s významnými zahraničnými univerzitami, kde študenti majú možnosť absolvovať časť svojho štúdia. Preto absolventi UMB nachádzajú dobré uplatnenie nielen doma, ale i v zahraničí.
+Okrem pedagogickej, vedeckej a umeleckej činnosti významnú časť tvorivej činnosti UMB predstavuje základný a aplikovaný výskum v kooperácii s domácimi a zahraničnými inštitúciami. Má centrá excelentného výskumu, rieši vedecké i rozvojové projekty z európskych štrukturálnych fondov. Realizuje celoživotné vzdelávanie v rôznych kurzoch a formách od Detskej univerzity až po Univerzitu tretieho veku. Vo voľnom čase vytvára študentom priestor pre rôzne spoločenské aktivity, ktoré im umožňujú športové kluby, umelecké súbory a študentské organizácie pôsobiace na UMB.
+Počet zamestnancov
+1000 a viac zamestnancov
+Kontakt
+Kontaktná osoba: Zuzana Tomášiková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5238357
+Dátum zverejnenia:
+20.2.2026
+2026-02-20
+lokalita:
+Banská Bystrica
+Pozícia:
+Backend programátor
+,
+Systémový inžinier
+,
+Web dizajnér
+,
+Webmaster
+Spoločnosť:
+Univerzita Mateja Bela v Banskej Bystrici

@@ -1,0 +1,120 @@
+Azure DevOps Špecialist(k)a
+UNIQA
+Miesto práce
+Krasovského 15, Petržalka
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 100 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+V súčasnej dobe hľadáme vhodného kandidáta či vhodnú kandidátku na pozíciu:
+Azure DevOps Špecialist(k)a – UNIQA CZ/SK
+O pozícii
+Do nášho CZ/SK technologického tímu hľadáme
+Azure DevOps špecialist(k)u,
+ktorý/á pomôže rozvíjať cloudové riešenia, automatizovať procesy a podporovať naše vývojové a prevádzkové tímy na ceste k modernému, bezpečnému a rýchlo doručovanému softvéru.
+Azure DevOps špecialist(k)a zohráva v našom tíme kľúčovú rolu — spája vývoj, prevádzku, cloudové platformy a bezpečnosť s cieľom zabezpečiť rýchle, stabilné a bezpečné nasadzovanie aplikácií pre viac než 3 milióny klientov UNIQA v ČR a SR.
+Pozícia je ideálna pre skúseného cloudového a DevOps inžiniera, ktorý chce aktívne ovplyvňovať architektúru cloudových riešení, prispieť k modernizácii našich aplikácií a byť súčasťou medzinárodných iniciatív v rámci UNIQA Group.
+Čo bude náplňou vašej práce?
+1.     Budovanie a prevádzka CI/CD v Azure DevOps
+tvorba, správa a optimalizácia CI/CD pipeline (YAML) pre aplikácie .NET, Java, integračné služby, API a interné systémy v Azure DevOps a GitHub
+návrh release stratégie, branching modelov, deployment workflow pre viacero prostredí (Dev/Test/Prod)
+integrácia bezpečnostných kontrol DevSecOps prístup a dodržiavanie štandardov bezpečnosti a compliance, ktoré sú pre finančný sektor kľúčové
+2.     Cloud Engineering & Infra as Code v Azure
+návrh a nasadzovanie infraštruktúry v Azure pomocou
+Terraformu
+správa kľúčových Azure služieb:
+App Services, API Management, Azure Functions
+Azure Kubernetes Service (AKS), Container Registry
+Azure SQL, Storage Accounts, Event Grid, Key Vault
+Data Platform komponenty používané v rámci UNIQA (ADF, AML) — využívané v Data & AI tímoch UNIQA
+3. Prevádzka a monitoring
+nastavenie monitoringu (Azure Monitor, App Insights, Log Analytics)
+proaktívne sledovanie stability služieb
+riešenie incidentov, root‑cause analýza a automatizácia nápravných zásahov
+optimalizácia nákladov (finops mindset), podpora cost governance pri cloudových riešeniach — téma preferovaná v rámci Data & AI tímov UNIQA
+4. Automatizácia a skriptovanie
+tvorba PowerShell/Bash skriptov na automatizáciu prevádzky, bezpečnosti a deploymentov
+integrácia automatizovaných testov, static code analýz, bezpečnostných skenerov
+5. Podpora vývojových tímov a metodika spolupráce
+spolupráca s architektmi, Business Analystami, vývojármi a QA
+účasť na návrhoch softvérových riešení, proof-of-concepts a pilotných projektoch
+práca v agilnom prostredí (SCRUM/Kanban)
+mentoring a šírenie DevOps kultúry v rámci lokálnych aj medzinárodných tímov
+6. Bezpečnosť a compliance
+zabezpečenie riešení podľa štandardov UNIQA Group Security
+práca s identitami, prístupovými politikami a RBAC
+ochrana citlivých údajov v súlade s reguláciami finančného sektora
+Čo od vás očakávame?
+Odborné skúsenosti
+3–5 rokov praxe v DevOps/Cloud Engineering
+praktická skúsenosť s Azure a  GitLab CI, Jenkins prípadne Azure DevOps
+pokročilé znalosti Terraformu
+skúsenosť s kontajnermi a Kubernetes (výhodou skúsenosť s AKS)
+znalosť skriptovania (PowerShell, Bash)
+výhodou: skúsenosť s data/AI workflowmi a MLOps
+Osobnostné predpoklady
+samostatnosť, proaktívnosť, komunikatívnosť
+zorientovanosť v rýchlo meniacom sa prostredí
+schopnosť spolupracovať s medzinárodnými tímami
+ochota učiť sa nové trendy (cloud, AI, infra modernizácia)
+Vítané certifikácie
+Azure AZ‑104, AZ‑204, AZ‑305, AZ‑400
+Terraform Associate
+Kubernetes CKA/CKAD
+Anglický jazyk aspoň úrovne B2
+Čo ponúkame?
+zaujímavú prácu v silnej a stabilnej spoločnosti skupiny UNIQA
+priestor pre sebauplatnenie a realizáciu vlastných nápadov
+príjemné pracovné prostredie a priateľský kolektív
+férový a transparentný prístup
+možnosť získať ročný bonus vo výške až 2násobku mzdy
+skrátený pracovný týždeň na 37,5 hodiny, 5 týždňov dovolenky (aj pre zamestnancov do 33 rokov), 3 dni osobného voľna ročne, pružná pracovná doba, home office
+Employee Life Assistant (ELA) – jedinečná služba pre zamestnanca s možnosťou využívať bezplatne komplexné asistenčné služby v oblasti práva, financií, psychológie a zdravého životného štýlu
+online lekárske služby od Dr. Digital
+skupinové životné poistenie UNIQA plne hradené zamestnávateľom
+Restart Break – príležitosť načerpať nové sily po 5 rokoch zamestnania u nás
+celý rad ďalších atraktívnych firemných benefitov (príspevok na Gastro kartu alebo priamy finančný príspevok na účet zamestnanca; možnosť vybrať si jeden z nasledujúcich benefitov: 1) systém Cafeterie, 2) plne hradená MULTISPORT karta 3) kombinácia Cafeterie + Multisport karta; príspevok na výuku AJ; firemné akcie; pitný režim na pracovisku; zvýhodnené firemné produkty; príspevok na doplnkové dôchodkové sporenie; benefit pre spolurodiča po narodení dieťaťa; odmena za pracovné výročie; deň voľna pre rodiča prváčika v prvý školský deň, príspevok na rekreáciu a príspevok na športovú činnosť dieťaťa a mnoho ďalších)
+možnosť osobného rozvoja a profesijného rastu
+Lokalita: BRATISLAVA
+Zaujala vás naša ponuka? Neváhajte a pošlite nám svoj životopis.
+Zamestnanecké výhody, benefity
+Mobilný telefón
+Individuálne rozvrhnutie pracovného času
+Bonusy/prémia
+Notebook
+Vlastna organizácia práce
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Na Slovensku a v Českej republike nám dôverujú viac ako 3 milióny klientov, o ktorých sa spoločne staráme. Každý z nás je trochu iný – stretávajú sa u nás všetky generácie, v managemente máme 33 % žien a niektorí naši kolegovia a kolegyne majú rôzne zdravotné znevýhodnenia. Na našich odlišnostiach si jednoducho zakladáme. Pretože práve vďaka nim sme každý deň lepší. A to je tiež dôvod, prečo nám tento rok pribudli na imaginárnu poličku ocenení ďalšie úspechy - naše Cestovné poistenie, Poistenie majetku a Povinné ručenie získalo ocenenie Bronzová koruna 2024 a náš produkt Cestovné poistenie pre klientov Raiffeisenbank získal dokonca Striebornú korunou 2024.
+UNIQA - Lepšia práca spoločne.
+Kontakt
+Kontaktná osoba: Andrea Hrdova
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5238353
+Dátum zverejnenia:
+20.2.2026
+2026-02-20
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+UNIQA
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 100 EUR/mesiac

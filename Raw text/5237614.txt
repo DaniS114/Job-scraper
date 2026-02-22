@@ -1,0 +1,153 @@
+Prečo práve Unicorn
+Benefity
+Aktuálne hľadáme
+Data Migration Specialist
+Místo práce
+Praha, Česko (Pozice umožňuje občasnou práci z domu)
+Druh pracovního poměru
+plný úvazek, živnost
+Čeká nás klíčový projekt, a tak hledáme specialistu nebo specialistku na migraci dat! Při přechodu z Informatica PowerCenter/IICS na OpenFlow půjde o to, aby vše proběhlo strukturovaně, bezpečně a bez výkonových kompromisů.
+Pokud víš,
+jak udržet kvalitu dat pod kontrolou
+, máš
+zkušenosti s migracemi
+a rozumíš
+datové analýze
+, možná hledáme právě tebe!
+Budeš v centru dění, spojíš interní týmy, klinické odborníky i externí dodavatele a zajistíš, aby všechna data přešla bezpečně na správná místa. Od startu až po závěrečný report budeš vést, koordinovat a ověřovat každý krok migrace.
+Náplň práce
+analýza současného řešení
+detailně projdeš existující mappingy v Informatica PowerCenter/IICS a jejich workflow včetně závislostí
+zmapuješ logiku transformací, datové toky i riziková místan
+návrh cílové architektury
+navrhneš migrační strategii a cílové řešení v OpenFlow s důrazem na škálovatelnost, čitelnost a výkon
+konverze ETL/ELT logiky
+převedeš existující procesy do OpenFlow pipelines
+starší transformace refaktoruješ do modernějších datových vzorů
+optimalizace výkonu a kvality dat
+postaráš se o performance tuning, validaci datové kvality a konzistenci výsledků
+testovací strategie
+nastavíš a zkoordinuješ unit, integrační i regresní testování
+zajistíš, že migrace projde bez překvapení
+dokumentace a řízení rizik
+vytvoříš jasnou technickou dokumentaci, provedeš impact analýzu
+identifikuješ rizika a navrhneš jejich mitigaci
+spolupráce napříč týmy
+budeš úzce spolupracovat s data architekty, BI týmem, DevOps i business stakeholdery
+staneš se technickým mostem mezi světy
+Go-live & hypercare
+odpora při spuštění a stabilizaci řešení v produkci
+Platové podmienky
+Od 130 000 Kč/měsíc
+Platové podmínky se pohybují od 80 000 Kč brutto. Platové podmínky se odvíjí od zkušeností, znalostí a kvalifikace kandidátů.
+Čo od Teba očakávame
+Pozici vyhovují uchazeči se vzděláním
+středoškolské s maturitou
+nástavbové/vyšší odborné vzdělání
+vysokoškolské I. stupně
+vysokoškolské II. stupně
+Vzdělání v oboru
+informační technologie
+Jazykové znalosti
+Český jazyk - Expert (C2)
+nebo
+Slovenský jazyk - Expert (C2)
+nebo
+Anglický jazyk - Středně pokročilý (B2)
+Ostatní znalosti
+IInformatica PowerCenter/IICS - Pokročilý
+OpenFlow - Pokročilý
+ETL/ELT - Pokročilý
+PostgreSQL - Pokročilý
+SQL Server - Pokročilý
+Oracle - Pokročilý
+Kimball - Pokročilý
+Data Vault - Pokročilý
+cloud DWH - Pokročilý
+API (REST, JSON) - Pokročilý
+Airflow - Pokročilý
+Osobnostní předpoklady a dovednosti
+Technicky:
+máš silnou zkušenost s Informatica
+PowerCenter a/nebo IICS
+pracoval/a jsi s
+OpenFlow
+(ideálně hands-on migrace)
+rozumíš do hloubky
+ETL/ELT principům
+SQL
+máš na pokročilé úrovni
+máš zkušenost s relačními databázemi
+(PostgreSQL, SQL Server, Oracle…)
+orientuješ se v datových skladech
+(Kimball, Data Vault, moderní cloud DWH)
+umíš pracovat s
+API (REST, JSON)
+znáš orchestrace (
+Airflow
+nebo podobné nástroje jsou plus)
+máš zkušenost s
+performance tuningem, data lineage a impact analýzou
+už jsi byl/a součástí
+platformní migrace
+Po lidské stránce:
+přemýšlíš strukturovaně a analyticky
+umíš věci vysvětlit technikům i netechnikům
+jsi samostatný/á a držíš si disciplínu v dokumentaci
+dokážeš řídit očekávání stakeholder
+Výhodou pro tebe bude:
+zkušenost s cloudem (AWS, Azure, GCP)
+CI/CD pro datové pipeline
+DevOps mindset
+zkušenost z regulovaného prostředí
+přehled v oblasti data governance
+Čo Ti ponúkame
+dostaneš se k
+zajímavým a náročným projektům
+, které pro tebe budou technologickou výzvou
+získáš
+prostor pro růst a možnost učit se nové věci
+od moderních technologií až po práci v různých týmech a projektech
+budeš mít opravdovou šanci
+ovlivnit podobu řešení
+nabídneme ti
+flexibilní úvazek
+, který ti padne (např. remote nebo možnost hybridního režimu)
+čeká tě férová a přátelská spolupráce, při které se můžeš spolehnout na podporu zkušených spolupracovníků
+Pokud tě láká výzva a chceš své zkušenosti využít na maximum, dej nám o sobě vědět a staň se součástí našeho týmu!
+Pošli nám svůj profil na
+LinkedIn
+nebo
+CV
+a připoj k tomu informace o tom, jaké zkušenosti už máš za sebou. Rádi se s tebou potkáme!
+Adresa spoločnosti
+Kontakt
+Kontaktní osoba: Petra Teplanová
+E-mail:
+poslat životopis
+Unicorn
+Milujeme svoju prácu. Napriek tomu, že je niekedy veľmi náročná a ťažká, je krásna. Je to práca tvorivá. Vážime si to, že pracujeme v perspektívnom odbore. My v Unicorne už dávno vieme to, čo dnes všetci objavujú a zažívajú - software je všade. Software Everywhere.
+Unicorn je renomovaná európska spoločnosť poskytujúca tie najväčšie informačné systémy a riešenia z oblasti informačných a komunikačných technológií. Dlhodobo sa sústredíme na vysokú pridanú hodnotu a konkurenčnú výhodu v prospech svojich zákazníkov.
+Najvýznamnejšou súčasťou skupiny Unicorn je Unicorn Systems, Unicorn College a Plus4U.
+Naším mottom je pracovať tak, aby nás to bavilo, čo sa snažíme prenášať aj na našich viac ako 2100 spolupracovníkov.
+Odpovědět na nabídku
+Doporučit nabídku známému
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5237614
+Dátum zverejnenia:
+19.2.2026
+2026-02-19
+lokalita:
+Praha
+Pozícia:
+Databázový administrátor
+,
+Databázový analytik
+Spoločnosť:
+Unicorn
+Základná zložka mzdy (brutto):
+130 000 Kč/měsíc

@@ -1,0 +1,92 @@
+Home
+O Solar Turbines
+Kariéra
+Kontakt
+Voľné pozície
+EN
+SK
+Senior Software Test Automation Engineer (TypeScript / Python, AWS & AI)
+Place of work
+Poštová 18, Košice, Slovensko (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+4 100 EUR/month
+Information about the position
+Join Solar Turbines!
+As a Senior Software Test Automation Engineer, you will contribute to quality assurance of software systems and/or applications to deliver information technology components based on client or customer requirements.
+What will be your tasks?
+We are seeking a Senior Software Test Automation Engineer who will lead the design, development, and optimization of our automated testing ecosystem. In this role, you will drive quality strategy with impact to architectural decisions, mentor other test engineers, and ensure our systems meet high standards of reliability, performance, and scalability.
+You will closely cooperate with system architects, cybersecurity, DevOps and agile teams to ensure seamless integration of quality into the development lifecycle process.
+Your daily tasks will include
+designing, and maintaining automated testing frameworks mainly for frontend and backend (REST API, AWS services…) test automation,
+defining coding standards, testing best practices, and automation patterns to ensure consistency across engineering teams,
+introducing and evaluating modern testing technologies, frameworks, including AI‑driven automation tools,
+leading technical investigations and driving improvements for test stability, execution speed, and system quality,
+collaborating with product and development teams to refine acceptance criteria, build test strategies, and risk assessment,
+providing guidance on testing AI/ML-powered application features (e.g., LLM workflows, non‑deterministic outputs),
+contributing to load and scalability testing and tuning,
+collaborating with security engineers on automated security test integrations,
+mentoring and coaching QA engineers, developers, and cross‑functional partners on automation and quality practices,
+conducting code reviews, test plan reviews, and technical workshops,
+responsibility for performing other job duties as assigned by the management from time to time.
+Who are we looking for?
+Basic qualifications:
+5+ years of experience in QA automation, with deep hands-on expertise in modern test automation frameworks.
+Strong coding skills in TypeScript or Python; experience with Playwright, Cypress, or similar frameworks.
+Strong understanding of microservices, REST/GraphQL APIs, and cloud-native architecture.
+Proficiency with version control systems (Git) and understanding branching/versioning strategies, including participation in code reviews and applying coding standards.
+Experience with containerization (Docker) and CI/CD.
+Ability to troubleshoot complex issues across the stack (frontend, backend, network/infrastructure, CI).
+Demonstrated leadership in driving quality initiatives or automation transformation projects.
+Knowledge of performance testing tools (JMeter, k6) or security testing basics.
+Experience with cloud platforms (AWS preferred)
+Understanding of system and infrastructure considerations for effective test design and test plan creation
+Strong communication skills and ability to influence technical and non‑technical stakeholders.
+Leadership mindset with the ability to mentor and guide others.
+Proactive, curious, and passionate about raising the bar for engineering quality.
+Ability to thrive in fast‑paced, collaborative environments.
+Strong understanding of Agile methodology.
+Fluent in English
+Top candidates will also have:
+Experience with mobile testing (Android / iOS, native or hybrid).
+Experience with Apigee or other API gateways.
+Experience with security testing - understanding of OWASP standards or penetration testing methodology usage
+Familiarity with AI-powered testing, self-healing test tools, or GenAI-assisted QA workflows.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+TypeScript - Advanced
+Python - Advanced
+Cypress - Advanced
+API - Advanced
+Advertiser
+Brief description of the company
+Solar Digital as Customer Service group of Solar Turbines is the global organization responsible for InSight Platform technology and the relentless innovation of the entire ecosystem, capabilities, and customer user experience. Solar Digital is obsessively customer-centric with a passion for cutting edge technology. With deep expertise in cyber-security, machine data acquisition, software development, product knowledge, analytics, and regional teams around the world, it is dedicated to deliver digital solutions for Customer success.
+Main Mission is to provide world-class secure digital solutions for asset lifecycle management to ensure our customers success. Solar Digital is building better, smarter world through technology partnerships with its customers. Highest priority is to satisfy the customer through early and continuous delivery of valuable software and services.
+Contact
+Contact person: Victoria Petrenko
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5237825
+Dátum zverejnenia:
+19.2.2026
+2026-02-19
+lokalita:
+Košice
+Pozícia:
+IT Tester
+Spoločnosť:
+Solar Turbines Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+4 100 EUR/month

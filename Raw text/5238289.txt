@@ -1,0 +1,106 @@
+Junior Linux admin (AIX/Solaris)
+Offer experts s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
++ bonusy
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Prevádzková podpora (Shift Operations)
+pre AIX/Solaris prostredia
+Monitoring systémov a batch procesov
+(alerty, health-checky, logy)
+Riešenie incidentov L1
+:
+základná diagnostika problémov (CPU/memory/disk/processy)
+kontrola služieb a bežiacich procesov
+práca s logmi, jednoduché analýzy príčiny
+reset/restart služieb podľa postupov
+Podpora automatizácie (UC4 / Automic)
+:
+sledovanie a kontrola jobov
+re-run/restart jobov podľa pravidiel
+eskalácia pri zlyhaniach a dopĺňanie informácií pre L2/L3
+Eskalácie na L2/L3
+pri zložitejších problémoch (s kvalitnými podkladmi)
+Ticketing a dokumentácia
+:
+práca s incident/servis ticketami
+zápis vykonaných krokov a výsledkov
+Dodržiavanie SLA
+, komunikácia so zákazníkom/prevádzkou podľa šablón
+(voliteľne) jednoduché rutinné úlohy: kontrola kapacity, disk usage, základné reporty
+Pracuje sa na zmeny:
+Prevádzka začína
+v nedeľu 22:00
+a beží nepretržite do
+soboty 06:00
+Týždenne rotujúce smeny:
+Night:
+22:00 – 06:00
+Early:
+06:00 – 14:00
+Evening:
+14:00 – 22:00
+Day:
+09:00 – 17:00
+Weekend On-Call:
+Sobota 06:00 – Nedeľa 22:00
+(on-call služba)
+Zamestnanecké výhody, benefity
+Školenia
+osobný rast v oblasti linux/unix
+90 alebo 100% HO
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+fintech/banking
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Osobnostné predpoklady a zručnosti
+Skúsenosť s Základná orientácia v Linux/UNIX (
+AIX alebo Solaris)
+​
+príkazy typu ls, cd, cp, mv, rm, tail, grep, ps, top, df, du, chmod, chown
+práca s logmi a jednoduché troubleshooting kroky
+Základné chápanie:
+procesy/služby, súborové systémy, práva, sieťové základy (ping/traceroute)
+Ochota pracovať na zmeny (vrátane nocí) a učiť sa nové systémy
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+recruitment services/IT delivery
+Kontakt
+Kontaktná osoba: Mgr.  Peter Kluknavsky
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5238289
+Dátum zverejnenia:
+20.2.2026
+2026-02-20
+lokalita:
+Práca z domu
+Pozícia:
+Správca informačného systému
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Offer experts s. r. o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

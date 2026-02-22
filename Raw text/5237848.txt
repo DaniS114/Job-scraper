@@ -1,0 +1,131 @@
+Fullstack Developer junior
+I.S.D.D. plus, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+1 500 EUR/mesiac
+* Mzda od 1500€, + variabilná zložka mzdy; finálna mzda bude závisieť od skúsenosti daného uchádzača
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Si developer na začiatku svojej kariéry, ktorý je AI-positive a baví ho tvoriť moderné digitálne riešenia end-to-end? Už máš za sebou prvé skúsenosti – či už z komerčného projektu, stáže alebo vlastného projektu – a chceš sa posunúť na vyšší level ako fullstack developer?
+Hľadáme Junior Fullstack Developera (Java + React), ktorý sa nebojí kódu, má reálnu skúsenosť s vývojom a zaujíma sa o to, ako môže umelá inteligencia zefektívniť vývoj aj samotné produkty. U nás budeš pracovať na frontende aj backende moderných aplikácií, ktoré využívajú AI, cloudové prostredie a mikroservisovú architektúru.
+Budeš súčasťou tímu, ktorý stavia moderné aplikácie s využitím React na frontende a Java (Spring / Spring Boot) na backende, komunikuje cez REST API a beží v cloudovom prostredí. Aktuálne pracujeme aj na vývoji novej governance platformy a ďalších inovatívnych riešení pre komerčných klientov.
+Ak si developer, ktorý:
+skúša      nové nástroje,
+zaujíma      sa o AI a jej praktické využitie vo vývoji,
+má      vlastné projekty alebo prvú komerčnú skúsenosť,
+chce      rozumieť tomu, ako funguje frontend aj backend,
+chce      sa rýchlo posúvať,
+potom hľadáme práve Teba.
+Požiadavky na kandidáta
+Must-have (základ, ktorý potrebuješ)
+základná      znalosť Java
+základná      skúsenosť s backend vývojom v Java (ideálne Spring alebo Spring Boot)      alebo silný záujem naučiť sa ho
+základná      skúsenosť s frontend vývojom (React alebo iný moderný framework)
+základná      znalosť práce s Git
+základné      pochopenie práce s REST API
+schopnosť      učiť sa nové technológie a chuť rásť ako fullstack developer
+Nice-to-have (výhodou, nie podmienkou)
+skúsenosť      so Spring Boot (REST controllery, JPA, security)
+skúsenosť      s React
+skúsenosť      s TypeScript
+skúsenosť      s databázami (PostgreSQL, MySQL alebo iné relačné DB)
+skúsenosť      s kontajnerizáciou
+základná      orientácia v cloudovom prostredí
+vlastné      projekty (GitHub, portfolio)
+práca s AI agentami
+Osobnostné predpoklady
+chuť      učiť sa a zlepšovať sa vo fullstack vývoji (Java + React)
+proaktívny      prístup a zodpovednosť
+schopnosť      pracovať v tíme
+analytické      myslenie a schopnosť riešiť problémy
+Čo ponúkame
+prácu      na reálnych projektoch s modernými technológiami
+mentoring      od skúsených developerov
+priestor      na rast a rozvoj kariéry
+priateľský      a podporujúci tím
+možnosť      podieľať sa na inovatívnych riešeniach
+Zamestnanecké výhody, benefity
+Ponúkame širokú škálu benefitov pre zamestnancov, každý si môže vybrať podľa záujmov a preferencií.
+Zdravie a well-being:
++ nadštandardné zdravotné prehliadky
++ príspevok na šport, kultúru, wellness
++ firemný futbal, ping-pong, bowling, badminton, účasť na bežeckých pretekoch (OTKD, Devín-Bratislava, 21km pre deti), cyklistické aktivity (po práci aj do práce:), alternatívne iné športy
++ Daily routine - káva, čaj, ovocie v kanceláriách a firemné raňajky
+Rodina a financie:
++ príspevky pri narodení dieťaťa, či svadbe
++ flexibilný pracovný čas, možnosť práce z domu
+Social&fun:
++ tímové akcie (motokáry, airsoft, pivo na terase)
++ nekorporátne prostredie inovatívnej slovenskej firmy
++ pravidelné firemné turistické akcie (chaty, skialp, lyžovačky, víkendovky)
++ Vianočný večierok, Husacie hody a celofiremný teambuilding pre veľkých, tímový bouldering a bicyklovačky
+Vzdelávanie a odborný rast:
++ pravidelné interné školenia a workshopy
++ firemná Java a React akadémia
++ Tech Buddy pre každého nováčika
++ účasť na rôznych konferenciách a odborných eventoch (OpenSlava, Java Days, certifikované školenia a i.)
++ firemná angličtina s native lektorom
+* Podľa §62 Zákona o službách zamestnanosti 5/2004 Z.z. máme ako Zamestnávateľ pri zverejňovaní pracovnej ponuky povinné uvádzať sumu základnej zložky mzdy. Finálna výška platu je však predmetom dojednania, suma sa bude odvíjať od seniority a skúseností uchádzača.
+Informácie o výberovom konaní
+Všetkým uchádzačom ďakujeme za prejavený záujem. Vaše CV si prejdeme a vybraných uchádzačov budeme kontaktovať telefonicky. Ak by ste mali otázky o stave výberového konania, alebo o danej pozícii, prosím kontaktujte nás na uvedenom mobilnom čísle alebo e-mailom.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Slovenský jazyk - Pokročilý (C1)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+Frontend developer
+Počet rokov praxe
+1
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+chuť učiť sa a zlepšovať sa vo fullstack vývoji (Java + React)
+proaktívny prístup a zodpovednosť
+schopnosť pracovať v tíme
+analytické myslenie a schopnosť riešiť problémy
+vlastné IT projekty prípadne prax alebo IT brigády
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+I.S.D.D. plus je softvérová spoločnosť poskytujúca komplexné služby v oblasti informačných technológií so špecializáciou na sektor telekomunikácií, bankovníctva a verejnej správy ako aj na riešenia pre inteligentné systémy. Budujeme efektívne, škálovatelné a zabezpečené riešenia, podporované najmodernejšími dostupnými technológiami.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Hana Ovari
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5237848
+Dátum zverejnenia:
+19.2.2026
+2026-02-19
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Java programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+I.S.D.D. plus, s.r.o.
+Základná zložka mzdy (brutto):
+1 500 EUR/mesiac

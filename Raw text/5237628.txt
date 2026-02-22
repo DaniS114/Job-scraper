@@ -1,0 +1,81 @@
+O nás
+Voľné pozície
+Pre študentov
+Tvor energetiku budúcnosti cez Data Science – pridaj sa k nám na stáž
+Miesto práce
+Bratislava
+Pracovný pomer
+internship, stáž
+Termín nástupu
+Dohodou
+Mzdové podmienky
+8 EUR/hod. (brutto)
+Študuješ informatiku, MatFyz alebo príbuzný odbor a baví ťa data science, machine learning a jazykové modely? U nás budeš pracovať na projektoch, ktoré majú priamy dopad – od jadrových elektrární až po optimalizáciu spotreby energie.
+Chceš pracovať na zaujímavých projektoch a mať náskok pred svojimi rovesníkmi? K tomu sa, samozrejme, prispôsobíme aj tvojmu rozvrhu v škole. Tak načo ešte čakať? Prihlás sa na stáž ku Najzamestnávateľovi za roky 2025 až 2020 v kategórii výroba a priemysel :-)
+Pracovná náplň
+Čo Ťa u nás čaká?
+Nebudeš robiť “len” analýzy do šuflíka. Zapojíme ťa do rozbehnutých aj úplne nových projektov v oblastiach:
+jazykových modelov (GPT, interný chatbot),
+prediktívnych modelov,
+pokročilých dátových analýz.
+Popri tom pochopíš:
+ako funguje energetický biznis a obchod s elektrinou,
+ako sa vyrába elektrina v jadrových a vodných elektrárňach,
+ako sa riadi výroba elektriny vo veľkej energetickej firme.
+Od prvého dňa budeš riadnym členom Data Science tímu – nie “len stážista”. A áno, rátaj aj so spoločnými obedmi a knowledge-sharingom v tíme.
+ÚLOHY – Čo budeš robiť?
+Spracovanie dát z viacerých zdrojov,
+Analýza údajov,
+Tvorba vizualizácií a reportov,
+Tvorba prediktívnych modelov,
+Práca s jazykovými modelmi,
+Rozvoj interného chatbota.
+Naše projekty
+Predikcia koncentrácie solí: Využívame historické dáta a predpovede počasia na presné predikcie množstva odluhov pre optimálne koncentrácie minerálov v chladiacich vežiach, čo pomáha ekologickejšiemu fungovaniu elektrární s použitím menej vody.
+Interný chatbot: Interne sme vyvinuli a implementovali AI riešenie s využitím najnovších jazykových modelov na vyhľadávanie v interných dokumentoch a manuáloch, ktoré zamestnancom umožňuje rýchlo nájsť potrebné informácie.
+AI klasifikácia pre údržbu: Automatické prideľovanie trendovacích kódov pre včasnú identifikáciu preventívnej údržby s využitím vlastných neurónových sietí.
+Predikcia degradácie tepelných výmenníkov: Merania teploty a tlaku nám umožňujú predikovať degradáciu tepelných výmenníkov a plánovať údržbu podľa aktuálneho stavu zariadení, v roku 2025 sme tak vyrobili o 4,8GWh elektriny viac, čo je okolo 500 000 €.
+Optimalizácia vlastnej spotreby: Na základe predpovede počasia a aktuálneho stavu elektrárne optimalizujeme nastavenie čerpadiel s vysokou vlastnou spotrebou, v roku 2025 sme tak ušetrili cez 300 000 €.
+Aj ty môžeš byť súčasťou takýchto projektov.
+Čo ponúkame
+Svoje úspechy i neúspechy budeš mať vždy s kým konzultovať – aktívny mentoring, budeš mať svojho „buddyho“.
+Flexibilný pracovný čas – vždy sa dá dohodnúť, kedy budeš k nám na stáž chodiť.
+Ak si vyberieš tému diplomovej práce v obore, ako konzultanti ti pomôžeme aj s tvojou diplomovkou.
+Čaká ťa unikátne prostredie v sektore energetiky – v prostredí projektovej kancelárie a digitalizácie procesov.
+Ak si po tvojom štúdiu spoločne povieme „áno“, radi ti ponúkneme pracovné miesto :-)
+V Slovenských elektrárňach si vážime všetky reakcie na naše pracovné ponuky a
+s výsledkom výberového konania kontaktujeme každého uchádzača
+. To tiež znamená, že ak niekoho na pohovor nevyberieme, môžeme sa mu znova ozvať neskôr s ponukou pozície, ktorá oveľa viac vyhovuje jeho skúsenostiam alebo schopnostiam.
+Preto, ak ťa v budúcnosti u nás zaujme iná ponuka, určite neváhaj poslať žiadosť opätovne. My sa jej vždy budeme dôkladne venovať.
+Koho hľadáme
+študuješ na technickej univerzite so zameraním na IT alebo dátovú vedu,
+vieš si nájsť čas 1 až 2 dni v týždni,
+máš skúsenosť s programovaním v Pythone alebo so štatistickými analýzami,
+rýchlo sa učíš, baví ťa IT, programovanie, AI a chceš robiť na reálnych projektoch, nie len cvičeniach do školy :-)
+Túto pozíciu má na starosti
+Roman Hudec
+Špecialista pre spoluprácu so školami, zamestnávateľskú značku a talent management
++421 910 673 076
+Reagovať na ponuku
+ID:
+5237628
+Dátum zverejnenia:
+19.2.2026
+2026-02-19
+lokalita:
+Bratislava
+Pozícia:
+Business Intelligence Specialist
+,
+Databázový analytik
+,
+IT analytik
+,
+Programátor
+,
+Python programátor
+Spoločnosť:
+Slovenské elektrárne, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+8 EUR/hod.

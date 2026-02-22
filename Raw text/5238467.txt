@@ -1,0 +1,127 @@
+Data Analytik/čka medior
+codium, s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiac
+od 2500€ na szčo. Finálna výška mzdy závisí od vzájomnej dohody, Tvojich preferencií a skúseností. Uvedená suma je orientačná.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Kto sme?
+Sme slovenská technologická firma zo Žiliny, ktorá verí, že dobrá práca vzniká v prostredí, kde sa ľudia cítia dobre. Dlhodobo si budujeme otvorenú firemnú kultúru, založenú na spolupráci, dôvere a férových vzťahoch. Práve kvalitný tím a zdravá atmosféra sú pre nás základom úspechu.
+Veríme, že kvalitné dáta a kvalitné vzťahy majú veľa spoločného – oboje potrebuje systematickosť, dôveru a dlhodobú starostlivosť.
+Do nášho tímu hľadáme
+Data Analytika/čku
+, ktorý/á nám pomôže budovať moderné dátové riešenia a premieňať dáta na konkrétne výsledky.
+Čo budeš robiť?
+Navrhovať, vyvíjať a udržiavať dátové riešenia pre analytiku, reporting a základné ML použitia
+Pracovať s relačnými databázami (MS SQL Server, PostgreSQL) – návrh schém, optimalizácia dotazov, práca s veľkými objemami dát
+Zabezpečovať end-to-end Power BI reporting – od dátového modelu cez ETL až po publikovanie a správu datasetov
+Využívať Python na analýzu dát, automatizáciu, prípravu dát a prototypovanie analytických/ML riešení
+Implementovať základné ML modely (klasifikácia, regresia), robiť feature engineering a vyhodnocovať modely
+Spolupracovať na zavádzaní engineering štandardov (verzovanie, reprodukovateľnosť, čitateľnosť kódu)
+Aktívne komunikovať s biznisom – pochopiť potreby a pretaviť ich do funkčných a stabilných riešení
+Podieľať sa na rozvoji dátovej infraštruktúry a moderných prístupov (ML, MLOps, LLM – podľa skúseností)
+Čo od teba očakávame?
+SQL (pokročilé) - MS SQL Server a PostgreSQL
+Power BI (pokročilé) - Skúsenosť s end-to-end reportingom
+Python - Denné používanie na analýzu a prípravu dát
+ML základy - Algoritmy ako logistická regresia, Random Forest, PCA
+Engineering štandardy - Git (branching, PR workflow, code review)
+​
+Zamestnanecké výhody, benefity
+Ak hľadáš prácu pre spoločnosť, v ktorej sa budeš cítiť spokojne a šťastne nielen po finančnej stránke, pridaj sa k nám. Naša firemná komunita je pre nás najväčší benefit.
+Okrem toho ponúkame:
+- Priestor ovplyvniť smerovanie dátovej architektúry vo firme
+- Priateľský tím a otvorenú komunikáciu
+- Reálny dopad tvojej práce na fungovanie firmy
+- Stabilitu a zároveň flexibilitu mladého, rastúceho prostredia
+- Možnosť práce z domu (hybridný režim)
+MOTIVUJÚCE FINANČNÉ OHODNOTENIE:
+super platové ohodnotenie, každoročne prehodnocujeme
+zaujímavé možnosti neustále sa profesionálne zlepšovať
+dlhodobá a stabilná spolupráca
+benefity pri dôležitých životných udalostiach
+spolupráca so skúsenými vývojármi, dizajnérmi a ostatnými členmi tímu
+vidíme za sebou konkrétne výsledky
+referral program za odporúčanie známeho
+kariérne aj platovo rastieme!​
+VYVÁŽENIE PRACOVNÉHO A OSOBNÉHO ŽIVOTA
+flexibilná pracovná doba
+pracujeme v príjemnom priateľskom prostredí
+práca s modernými technológiami
+môžeš pracovať hybridným spôsobom (HO a office)
+kancelária priamo v centre ZA (všade máš blízko)
+STRAVOVANIE
+firemné stravovanie v 4* Hoteli Dubná Skala
+príspevok na stravovanie nad rámec zákona
+zabezpečujeme čerstvé ovocie, pitný režim, kávu​
+AKTIVITY
+ak si športovo založený, môžeš sa tešiť na futbal, hokej a iné
+zúčastňujeme sa konferencií, školení v oblasti IT, ktoré si sami vyberáme
+pravidelné a pestré teambuildingy a každoročné eventy​
+Plat:
+Na živnosť 2500-3500 €
+Na TPP od 2000€/mesačne brutto.
+Mzda na TPP je rozdelená na fixná zložka a 200€ osobné ohodnotenie. Finálna výška mzdy závisí od vzájomnej dohody a Tvojich skúseností. Všetko je vecou vzájomnej dohody.
+Informácie o výberovom konaní
+Ak ťa baví prepájať dáta, technológie a reálny biznis dopad, ozvi sa nám.
+Radi ťa spoznáme – nielen ako odborníka, ale aj ako človeka.
+Predpokladaný termín ukončenia výberového konania
+20.3.2026
+(ostáva ešte 26 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+Vzdelanie v odbore
+technické
+Jazykové znalosti
+Anglický jazyk - Začiatočník (A2)
+Počet rokov praxe
+2
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Silnú motiváciu učiť sa a adaptovať sa na nové technológie (data infra, ML, LLM)
+Proaktivitu – navrhuješ zlepšenia, nielen plníš zadania
+Vieš dotiahnuť riešenia do stabilnej produkčnej podoby
+Analytické myslenie a rozumieš biznisovému dopadu dát
+Záleží ti na kvalite, udržateľnosti a dlhodobej hodnote riešení​
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme codium. V segmente programovania predstavujeme charizmatickú značku. Náš tím prináša programátorské riešenia v oblasti bettingu, platobného styku, gastra a entertainment na Slovensku ale aj v iných krajinách sveta.
+Vďaka skúsenostiam máme odvahu a odhodlanie vytvoriť také riešenia, ktoré budú presne našité na potreby našich náročných klientov. Nie sme typ umelcov, ktorí vytvárajú vizuálne potešenie pre ostatných. Ale keď niečo milujeme, vložíme do toho krásu! Krásu myslenia a eleganciu kódu. Codium je umenie programovať.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Barbara Rigasová
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5238467
+Dátum zverejnenia:
+20.2.2026
+2026-02-20
+lokalita:
+Práca z domu
+Pozícia:
+Business Intelligence Specialist
+,
+Databázový analytik
+,
+IT analytik
+Spoločnosť:
+codium, s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

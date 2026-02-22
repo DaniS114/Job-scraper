@@ -1,0 +1,171 @@
+Tech Lead / Lead .NET Developer – interná enterprise aplikácia (C#, .NET, SQL, IIS)
+UNIQA
+Miesto práce
+Krasovského 15, Petržalka
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 100 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+V súčasnej dobe hľadáme technického lídra pre najväčší interný vývojový tím:
+Tech Lead / Lead .NET Developer – interná enterprise aplikácia (C#, .NET, SQL, IIS)
+O projekte
+Vyvíjame robustnú, dlhodobo budovanú
+enterprise internú aplikáciu
+postavenú na
+.NET / C#, SQL databáze
+a prevádzkovanú
+on‑premise v IIS.
+Aplikácia je
+veľkého rozsahu,
+ktorý pokrýva kľúčové business procesy naprieč organizáciou. Súčasťou riešenia je FE s
+komplexnou biznis logikou
+s rozsiahlymi pravidlami, dynamickými interakciami, validačnými stromami, výpočtovými mechanizmami a množstvom rozhodovacích vetiev.
+Zároveň riešenie disponuje mohutným
+REST API
+riešením pre integráciou externých partnerov poisťovne.
+Tím je jeden z najväčších v rámci internej IT dodávky:
+30+ vývojárov (.NET)
+Systém je vo fáze postupnej modernizácie a organizácia plánuje
+prechod z on‑premise do Azure,
+čiastočnú modularizáciu a celkové zlepšenie maintainability, kvality a rýchlosti dodávok.
+Do tohto prostredia hľadáme
+technického lídra,
+ktorý bude viesť vývoj z technickej stránky, usmerňovať architektonické rozhodnutia a byť technologickou autoritou pre celý vývojový tím.
+Čo budete reálne robiť?
+Toto nie je manažérska pozícia. Toto je
+hands-on technické líderstvo
+v jednom z najväčších interných vývojových tímov.
+1) Technické vedenie dev tímu
+Budete
+technická autorita
+pre celý tím (30+ developerov).
+Nastavíte a ustrážite
+technické štandardy,
+code style, review procesy, branching, refaktoringové pravidlá.
+Pomôžete tímu s návrhom riešení, odstraňovaním prekážok, troubleshootingom a výkonnostnými problémami.
+Budete robiť
+mentoring seniorov aj mediorov,
+koordinovať riešenia, viesť technické diskusie a dohody.
+2) Architektonické smerovanie monolitu
+Prevezmete spoluzodpovednosť za
+technickú architektúru
+aplikácie.
+Navrhnete realistické kroky k postupnej
+modularizácii monolitu
+(DDD boundaries, refactoring, rozdelenie na moduly).
+Budete spolutvoriť dlhodobú architektonickú roadmapu (performance, maintainability, observability).
+Budete pripravovať a udržiavať
+architektonickú dokumentáciu
+— C4 model, deployment diagramy, integračné toky.
+3) Migrácia do Azure – technické smerovanie
+Budete jedným z kľúčových ľudí pri plánovaní a realizácii migrácie z on‑prem do Azure.
+Podieľate sa na rozhodovaní o:
+postupnom presune komponentov do cloudu,
+dekompozícii architektúry,
+využití cloud služieb (App Services, SQL Managed Instance, Storage, API Management, monitorovanie).
+Pripravíte technickú stratégiu pre prechod bez výpadkov a s dlhodobým prínosom.
+4) Hands‑on vývoj (cca 10–20 % času)
+Stále budete písať kód — hlavne kľúčové časti, architektonické komponenty, core moduly, proof‑of‑concepty.
+Budete implementovať kľúčové časti FE aj BE.
+Riešite komplexné REST API sekvencie a návrhy, ktoré sú kritické pre funkčnosť systému.
+C#/.NET
+Návrh DB modelov, optimalizácia SQL dotazov, riešenie problémových miest.
+5) Zodpovednosť za kvalitu, výkon a stabilitu
+Budovanie princípov „operability by design“ – logging, tracing, monitoring, error handling.
+Podpora testovania – integrácia testov, testovateľná architektúra.
+Performance tuning (profiling, DB optimalizácia, caches, async patterny).
+6) Transformácia projektového riadenia smerom k agile a využitie AI
+Nájdeme rovnováhu medzi existujúcim projektovým riadením a cieľom prejsť na agilný prístup.
+Pomôžete nastaviť delivery procesy, sprint/iteration workflow, CI/CD zásady.
+Do SDLC infiltruješ moderné prístupy AI pre zefektívnenie, skvalitnenie a zrýchlenie celého procesu.
+Čo od vás očakávame?
+Must-have
+5+ rokov v .NET/C# vývoji v stredne alebo vysoko komplexných systémoch
+skúsenosť ako
+Tech Lead / Senior Developer s obdobnou mierou zodpovednosti
+výborná znalosť:
+C# / .NET, Dependency Injection, REST API
+SQL Server, optimalizácia dotazov, indexovanie
+IIS, architektúra on‑prem aplikácií
+návrh architektúr (modularita, vrstvy, domain boundaries)
+skúsenosť s refaktoringom
+schopnosť viesť technické diskusie a nastavovať technické štandardy
+Nice-to-have
+skúsenosť s cloudom (Azure) – App Services, pipelines, cloud architektúra
+skúsenosť s CI/CD (Azure DevOps, GitLab, Jenkins)
+skúsenosť s migráciou aplikácií do cloudu
+skúsenosť s performance tuningom (profilery, analyzátory)
+skúsenosť so zavádzaním AI do SDLC
+Aký človek sa k nám hodí?
+technický líder, ktorý
+vie argumentovať, vysvetľovať a presviedčať,
+niekto, kto vie „správať sa k monolitu rozumne“ – postupne, evolučne, nie revolučne,
+niekto, koho baví komplexita veľkého systému a veľkého tímu,
+niekto, kto vie nastaviť poriadok, ale zároveň byť flexibilný,
+a hlavne človek, ktorému záleží na kvalite, čistom kóde, stabilite a dobrej architektúre.
+Čo ponúkame?
+vplyv na architektúru a technické smerovanie systému, ktorý používa celá organizácia
+prácu v tíme s veľkým rozsahom kompetencií (30 devov)
+možnosť formovať architektúru pri prechode do Azure
+prostredie, kde sa očakáva technologické vedenie a máš naň aj priestor
+stabilný dlhodobý interný projekt, nie krátkodobý kontrakt
+modernizačná roadmapa – reálna možnosť „zanechať stopu“
+zmysluplná kombinácia:
+kód + architektúra + líderstvo
+príjemné pracovné prostredie a priateľský kolektív
+férový a transparentný prístup
+možnosť získať ročný bonus vo výške až 2násobku mzdy
+skrátený pracovný týždeň na 37,5 hodiny, 5 týždňov dovolenky (aj pre zamestnancov do 33 rokov), 3 dni osobného voľna ročne, pružná pracovná doba, home office
+Employee Life Assistant (ELA) – jedinečná služba pre zamestnanca s možnosťou využívať bezplatne komplexné asistenčné služby v oblasti práva, financií, psychológie a zdravého životného štýlu
+online lekárske služby od Dr. Digital
+skupinové životné poistenie UNIQA plne hradené zamestnávateľom
+Restart Break – príležitosť načerpať nové sily po 5 rokoch zamestnania u nás
+celý rad ďalších atraktívnych firemných benefitov (príspevok na Gastro kartu alebo priamy finančný príspevok na účet zamestnanca; možnosť vybrať si jeden z nasledujúcich benefitov: 1) systém Cafeterie, 2) plne hradená MULTISPORT karta 3) kombinácia Cafeterie + Multisport karta; príspevok na výuku AJ; firemné akcie; pitný režim na pracovisku; zvýhodnené firemné produkty; príspevok na doplnkové dôchodkové sporenie; benefit pre spolurodiča po narodení dieťaťa; odmena za pracovné výročie; deň voľna pre rodiča prváčika v prvý školský deň, príspevok na rekreáciu a príspevok na športovú činnosť dieťaťa a mnoho ďalších)
+možnosť osobného rozvoja a profesijného rastu
+Lokalita: BRATISLAVA
+Zaujala vás naša ponuka? Neváhajte a pošlite nám svoj životopis.
+Zamestnanecké výhody, benefity
+Mobilný telefón
+Individuálne rozvrhnutie pracovného času
+Bonusy/prémia
+Notebook
+Vlastna organizácia práce
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Na Slovensku a v Českej republike nám dôverujú viac ako 3 milióny klientov, o ktorých sa spoločne staráme. Každý z nás je trochu iný – stretávajú sa u nás všetky generácie, v managemente máme 33 % žien a niektorí naši kolegovia a kolegyne majú rôzne zdravotné znevýhodnenia. Na našich odlišnostiach si jednoducho zakladáme. Pretože práve vďaka nim sme každý deň lepší. A to je tiež dôvod, prečo nám tento rok pribudli na imaginárnu poličku ocenení ďalšie úspechy - naše Cestovné poistenie, Poistenie majetku a Povinné ručenie získalo ocenenie Bronzová koruna 2024 a náš produkt Cestovné poistenie pre klientov Raiffeisenbank získal dokonca Striebornú korunou 2024.
+UNIQA - Lepšia práca spoločne.
+Kontakt
+Kontaktná osoba: Andrea Hrdova
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5238263
+Dátum zverejnenia:
+20.2.2026
+2026-02-20
+lokalita:
+Bratislava
+Pozícia:
+.NET programátor
+,
+C# programátor
+,
+Programátor
+Spoločnosť:
+UNIQA
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 100 EUR/mesiac
