@@ -1,0 +1,82 @@
+FullStack Developer
+BILLDU LTD, organizačná zložka
+Miesto práce
+Karadžičova 12, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do Billdu hľadáme Fullstack Developera so silným frontendovým backgroundom, ktorý sa zároveň nezľakne backendu. Tvoja hlavná zodpovednosť bude postaviť nový frontend od nuly a nastaviť pevné základy. Nejde o “udržiavanie existujúceho UI”. Ide o založenie projektu, architektúru, komponenty, design system, pipeline a kvalitu celého FE základu. Backendové znalosti potrebujeme preto, aby sa z drobností nestávali blokery a aby si vedel veci doručiť end-to-end, keď je to potrebné.
+Náplň práce:
+Založenie a vybudovanie novej frontendovej aplikácie od základov (React/Next.js)
+Návrh a implementácia architektúry frontendu vrátane štruktúry projektu, konvencií a vývojových štandardov
+Tvorba a udržiavanie opakovanie použiteľných komponentov a základného design systému v súlade s návrhmi vo Figme
+Nastavenie procesu, CI/CD pipeline a vývojárského toolingu (linting, formatting, testovanie, quality gates)
+Spolupráca s produktom a dizajnom pri technickom návrhu riešení, vrátane návrhu alternatív a vysvetlenia tradeoffov
+Priebežná podpora backendových úloh podľa potreby, s cieľom zabezpečiť plynulé delivery a minimalizovať blockery
+Zamestnanecké výhody, benefity
+Pridáš sa k tímu, ktorý stojí za globálnym produktom a jednou z najúspešnejších success story zo Slovenska
+Ponúkame ti stabilné pracovné miesto s možnosťou čiastočnej práce z domu.
+Spravodlivé odmeny, príspevok na hardvér a vzdelávanie.
+Máme prostredie, kde môžeš naplno využívať svoj potenciál, s podporou na ďalšie vzdelávanie a neustály rozvoj.
+Dostaneš Multisport kartičku na športové aktivity a relax.
+Budeš mať k dispozícii Game room, silent room, relax zone a mnoho ďalších vychytávok pre tvoje pohodlie.
+Budeš mať prístup k Udemy a dostaneš Blinkist premium account.
+Budeš mať prístup do Hedepy zóny a nárok na jednu terapiu mesačne.
+A veľa teambuildingových aktivít ;)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Osobnostné predpoklady a zručnosti
+Primárne
+React/NextJS, NodeJS (alternativne Bun alebo Deno)
+SCSS/ Tailwind
+Sekundárne
+PHP
+Symfony + Doctrine (LTS verzie)
+MariaDB
+Tooling a workflow
+Git
+Docker
+Figma
+CI/CD, code review
+AI tools: Sme otvorení modernému workflowu a chceme, aby si vedel používať AI nástroje (napr. Cursor, Windsurf, Copilot) ako pomocníka.
+Spolupráca je plánovaná na 1 rok s možnosťou predĺženia podľa potreby a vzájomnej spokojnosti.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Ak si sa dostal/a až sem, určite si si nás už vygooglil/a, ale v skratke sme aplikácia pre malých podnikateľov, ktorá im pomáha rýchlo a jednoducho vystavovať faktúry, sledovať výdavky, komunikovať so zákazníkmi a mať prehľad o svojom podnikaní kedykoľvek a odkiaľkoľvek. Nie sme korporát - veci testujeme, zlepšujeme a hýbeme dopredu rýchlym tempom. Hľadáme ľudí, ktorí sú „makers“ - chcú sa učiť, navrhovať a robiť zmysluplné veci.
+Chceš vedieť viac? Stiahni si našu appku a vyskúšaj si ju na vlastnej koži.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: HR
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5239522
+Dátum zverejnenia:
+23.2.2026
+2026-02-23
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Programátor
+Spoločnosť:
+BILLDU LTD, organizačná zložka
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

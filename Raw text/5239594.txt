@@ -1,0 +1,114 @@
+Java Developer | AI-Driven Core Banking Platform
+Neohunter | Recruitment-as-a-Service
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Wage (gross)
+4 500 - 5 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Join a globally respected technology organization delivering mission-critical digital banking platforms used by leading financial institutions across Europe, Africa, and Asia.
+This is a unique opportunity to contribute to the next generation of cloud-native, AI-powered core banking systems while working in a stable, long-term environment with exceptionally low employee turnover. If you are a Java developer who wants to combine modern microservices architecture with real-world, business-critical impact, this role offers both challenge and long-term growth. Become part of a dynamic, globally connected team operating across Europe and Asia.
+Role Overview:
+We are seeking an experienced
+Java Developer
+to contribute to the evolution of a next-generation core banking platform. The role initially combines development (50%) and production support (50%), gradually shifting toward full development within a modern cloud-native architecture.
+You will collaborate with distributed teams across Europe and Asia, reporting directly to an international manager. This position offers exposure to both legacy enterprise systems and modern microservices-based architecture, including AI-driven banking solutions.
+Key Responsibilities:
+Design, develop, and enhance Java-based applications and APIs
+Contribute to the development of a cloud-native, microservices-based core banking platform
+Maintain and enhance existing enterprise banking components
+Provide 1st and 2nd level technical production support
+Troubleshoot and resolve incidents in mission-critical production systems
+Participate in deployment activities and release management
+Collaborate with distributed international teams across time zones
+Contribute to system modernization and architectural improvements
+Ensure high code quality through adherence to development standards
+Participate in onboarding and structured training for next-generation platform development
+Support database-related development tasks (Oracle and MySQL)
+Assist in technical documentation and knowledge sharing
+Key Technical & Professional Skills:
+Strong hands-on experience with
+Java (Java 8 and Java 21+)
+Experience in
+API development
+Understanding of
+microservices architecture
+Familiarity with
+Kafka, Kubernetes, containerized environments
+Experience with
+Oracle (legacy systems) and/or MySQL
+Knowledge of Unix/Linux environments
+Experience in SDLC processes within distributed teams
+Strong analytical and troubleshooting skills
+Ability to work independently and take ownership
+Continuous learning mindset
+Web stack knowledge (HTML, JavaScript) is an advantage
+Exposure to AI-driven solutions is a strong plus
+Employee perks, benefits
+Flexible cooperation model: Employment (TPP) or Contractor (IČO)
+Remote-first / hybrid work model
+Modern office in Bratislava (CBC4, Karadžičova)
+Stable, long-term career opportunity with extremely low turnover
+Annual salary review
+Exposure to global banking clients and enterprise-scale systems
+Opportunity to work on AI-infused digital banking solutions
+International collaboration (Europe & Asia)
+Structured onboarding including training abroad
+Work-life balance culture (not performance-pressure driven)
+Participation in long-term strategic platform modernization
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a global technology provider of core banking systems and digital financial solutions, serving major banking institutions across Europe, Asia, and Africa. The company focuses on modern cloud-native and AI-driven platforms while maintaining mission-critical systems for international clients. The Bratislava office acts as a key European delivery hub with strong long-term team stability and planned growth.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+Minimum 3+ years of professional experience in Java development (Medior/Senior level)
+Proven experience developing APIs and backend services
+Experience working with enterprise-grade systems
+Strong debugging and production support capabilities
+Familiarity with relational databases (Oracle and/or MySQL)
+Experience working in distributed or international teams
+Ability to adapt between development and support tasks
+Strong communication skills and proactive approach
+Ability to work within European time zone while collaborating globally
+Willingness to travel to Asia during onboarding phase
+Experience in fintech/banking is a strong advantage
+Experience with cloud-native architecture is highly desirable
+Advertiser
+Brief description of the company
+We connect great projects with top specialists.
+Take advantage of our years of experience in international recruitment. We focus on the specific recruitment needs of our clients. We provide comprehensive advisory services to companies in setting up their recruitment strategies. For candidates, we enable precise targeting in their job search and the opportunity to choose projects or positions according to their preferences. Choose from our available positions, or we are happy to advise and assist you. Contact us for a non-binding consultation.
+Contact
+Contact person: Juraj Lovas
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5239594
+Dátum zverejnenia:
+23.2.2026
+2026-02-23
+lokalita:
+Remote work
+Pozícia:
+Backend developer
+,
+Frontend developer
+,
+IT Consultant
+Spoločnosť:
+Neohunter | Recruitment-as-a-Service
+Základná zložka mzdy (brutto):
+4 500 EUR/month

@@ -1,0 +1,137 @@
+Naše produkty
+Práca za rohom
+Najzamestnávateľ
+Profesia
+Platy.sk
+Edujobs
+Teamio
+Seduo
+Profesia days
+O nás
+Náš príbeh
+Náš tím
+Práca u nás
+Kontakt
+Kontaktujte nás
+SK
+EN
+Naše produkty
+O nás
+Práca u nás
+Kontakt
+Kariéra v Alma Career Slovakia
+Senior Engineer - F# powered distributed systems on kubernetes
+Senior Engineer - F# powered distributed systems on kubernetes
+Odpovedať na pozíciu
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 2 500 EUR/month
+A small team, big impact — modern stack, ownership of key systems
+We’re a small, focused engineering team building foundational backend services used across the entire company. You’ll work closely with a tech lead and a product manager, with real ownership, minimal process overhead, and the opportunity to influence key architectural decisions. We’re looking for a skilled engineer who enjoys working across backend, infrastructure, and occasional frontend — and who wants to play a central role in shaping our internal platforms.
+You will participate on technical ownership of our
+core Taxonomy system
+— a structured data layer that organizes code books, professions, and related metadata used across multiple products. Your responsibility will be its data model, consistency, integrations, long‑term evolution, and ensuring it remains reliable and easy to extend.
+Does this sound interesting to you? Keep reading :)
+What will be your job?
+You will help design and implement the core services that define and govern shared taxonomies across the organization.
+Your work will focus on building a unified system for structured classifications and metadata, ensuring consistency, versioning, and reliable data integration across dependent systems.
+The team also contribute to our Privacy components and to event-driven backend systems built on event sourcing, Kafka communication, and clear domain boundaries (DDD, Righting Software). Your work will include internal APIs (JSON:API, JSON-RPC, MCP), developer-focused tooling, internal admin and maintenance UIs, and introducing AI-assisted workflows where it makes sense.
+Our services run on Kubernetes (AWS EKS) with GitOps delivery via Argo CD.
+Tech stack You will Use (or develop expertise in)
+Language:
+F#
+(idiomatic Result/AsyncResult/Option), or experience with
+TypeScript or PHP
+(functional paradigm welcomed)
+Architecture: DDD, event sourcing
+Infrastructure: AWS (CDK), Kubernetes (EKS), Helm
+Delivery: GitOps (Argo CD)
+Messaging: Kafka
+APIs: JSON:API, JSON‑RPC, MCP
+Lightweight frontend: React, TypeScript (composing existing components)
+If you want a clearer picture of our work, feel free to check out our OSS F# library
+https://github.com/alma-oss/?q=&type=all&language=f%23&sort=
+How do we imagine you?
+We’re looking for an engineer who can take ownership of key platform components and contribute across backend, infrastructure, and occasional frontend. You should bring your experience in backend system design and development, along with strong analytical skills for working with data models, taxonomies, hierarchical structures, and metadata systems. You’ll be most successful in this role if you're comfortable operating in complex domains, thinking at a systems level, and continuously learning.
+You’ll thrive here if you have experience with:
+Kubernetes and AWS
+in real production environments
+API design & integrations
+(JSON:API, JSON‑RPC, MCP)
+Frontend basics
+— especially JS/React for internal tools
+Languages:
+F#, TypeScript, or PHP (ideally with a functional mindset)
+Architectural concepts
+: DDD, event sourcing, distributed systems
+Developer experience & internal tooling
+, with interest in improving workflows
+AI‑assisted development
+, or curiosity to adopt it
+We value people who think in terms of systems rather than tasks, enjoy solving complex problems, and bring a sense of humor to the team —
+Red Dwarf references welcome.
+Why you will enjoy working with us?
+Real ownership of a core system that impacts the entire company
+A modern stack and the ability to influence architecture and long‑term direction of taxonomy and Privacy components
+A stable environment within a larger organization, but working in a small, effective team
+Space to learn, experiment, and collaborate directly with product without middle layers
+You’ll interact in English often thanks to our international environment
+What this job is NOT about
+A narrow “frontend only” or “backend only” position
+A place with detailed task breakdowns handed to you every morning
+A startup of 10 people — this is a stable, larger organization
+What will make you happy with us?
+Impact & growth
+Room for mistakes, time for experimentation, and genuine opportunities to influence product direction and decision‑making.
+An open and collaborative team atmosphere — with no strict deadlines dictated by external clients.
+Education & development: domestic and international conferences, internal technology workshops (SOLID, DDD, JavaScript, OOP, etc.), and a wide range of online courses.
+Unlimited access to Seduo, our in‑house learning platform packed with development opportunities.
+Time & flexibility
+3 extra vacation days.
+Happy Days — unlimited time off you can use for any reason (volunteering, your birthday, a spontaneous day trip, or simply because you feel like it).
+Flexibility to work from home so you can maintain a healthy work‑life balance.
+A computer and operating system of your choice (Linux or macOS).
+Health & wellbeing
+Hedepy: online mental health support with psychologists and therapists to help you navigate life's challenges and support your personal growth.
+A partially employer‑covered Multisport card.
+Everyday perks
+A modern office in the center of Bratislava (Pribinova 19) — a great place to work whenever you'd like to come onsite.
+A friendly team you can rely on, where everyone uses first names and enjoys team activities beyond work.
+Opportunities to participate in volunteer activities and CSR projects as part of your work.
+And what truly makes the difference?
+It’s the people.
+At Alma Career, you’ll find a friendly and respectful culture where you can be yourself. We care about meaningful work — what we build helps shape the world of work for millions of people. And we believe growth happens together: by sharing ideas, challenging each other, and supporting one another.
+Does this sound like your kind of challenge?
+Send us your CV or LinkedIn profile and let's have an online meeting with our Lead Engineer Petr Chromec.
+Kontaktná osoba
+Zuzana Kaňuchová
+Odpovedať na pozíciu
+Späť na voľné pracovné miesta
+We are a member of
+Alma Career
+family.
+ID:
+5239579
+Dátum zverejnenia:
+23.2.2026
+2026-02-23
+lokalita:
+Remote work
+Pozícia:
+C# Programmer
+,
+Java Programmer
+,
+Javascript Programmer
+,
+PHP Programmer
+,
+Programmer
+Spoločnosť:
+Alma Career Slovakia s. r. o.   (pôvodne Profesia, spol. s r.o.)
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

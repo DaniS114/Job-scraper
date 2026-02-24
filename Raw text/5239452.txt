@@ -1,0 +1,87 @@
+Fullstack .NET Developer
+Inviton s. r. o.
+Miesto práce
+Chorvátsky Grob, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+2 500 - 4 000 EUR/mesiac
+Mzda sa odvíja od skúseností a schopností uchádzača
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho vývojového tímu hľadáme skúseného fullstack developera pre rozvoj moderného systému na správu a predaj vstupeniek pre kultúrne, firemné aj verejné podujatia.
+Tvojou náplňou práce bude najmä:
+vývoj a údržba backendových služieb v .NET 9
+návrh databázových štruktúr (Azure SQL / MS SQL) a optimalizácia výkonu
+implementácia frontend komponentov (TypeScript, TSX šablóny)
+participácia na návrhu architektúry a vývoji nových funkcionalít
+spolupráca s dev, UX a QA tímom
+Technológie a požiadavky:
+skúsenosti s .NET 9 a Entity Framework Core
+znalosť Azure SQL Database (MS SQL) a návrhu REST API
+znalosť práce s TSX šablónami alebo moderným frontend frameworkom (React, Vue alebo podobné)
+skúsenosti s Githubom
+schopnosť samostatne riešiť úlohy aj pracovať v tíme
+zodpovednosť a cit pre kvalitu kódu
+Zamestnanecké výhody, benefity
+Ponúkame:
+flexibilný pracovný čas a možnosť remote práce
+zmysluplné projekty s reálnym dopadom (desiatky tisíc používateľov mesačne)
+kontrakt na živnosť alebo TPP podľa preferencie
+Informácie o výberovom konaní
+Výberové konanie prebehne formou online pohovoru.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Začiatočník (A2)
+Ostatné znalosti
+.NET - Pokročilý
+TypeScript - Mierne pokročilý
+HTML - Mierne pokročilý
+CSS - Mierne pokročilý
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+schopnosť samostatne navrhovať a realizovať riešenia
+zodpovednosť za kvalitu, čitateľnosť a udržateľnosť kódu
+analytické myslenie a systematický prístup k riešeniu problémov
+schopnosť komunikovať technické riešenia v rámci tímu
+tímová spolupráca a konštruktívny prístup k spätným väzbám
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Vyvíjame komplexný systém pre organizátorov akéhokoľvek typu podujatia – koncerty, konferencie, festivaly či súkromné eventy. Poskytujeme riešenia pre online predaj vstupeniek, registráciu na mieste, kontrolu prístupu, tlač menoviek, správu hostí aj mobilné aplikácie. Našim klientom zároveň ponúkame aj vývoj softvéru na mieru
+Kontakt
+Tel.:
++421911720182
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5239452
+Dátum zverejnenia:
+23.2.2026
+2026-02-23
+lokalita:
+Chorvátsky Grob
+Pozícia:
+.NET programátor
+,
+C# programátor
+,
+Programátor
+Spoločnosť:
+Inviton s. r. o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac
