@@ -1,0 +1,123 @@
+Senior Backend Developer (NET / SQL / Azure)
+TechPath Advisors
+Place of work
+Remote work
+Contract type
+part-time, trade licence
+Start date
+1.3.2026
+Wage (gross)
+30 EUR/hour
+Compensation: Minimum guaranteed 1,500€ per month. 
+Workload: 60–100 hours per month.
+Salary: from 30€ depending on experience.
+Information about the position
+Job description, responsibilities and duties
+We are seeking an experienced and highly skilled .NET engineer to join our technology team. The ideal candidate combines strong backend development expertise with deep knowledge of database architecture, data processing, and system performance optimization.
+This role requires a professional who understands software systems holistically, from application logic through database design to scalable data pipelines, and who is comfortable contributing to architecture discussions and AI-driven initiatives.
+A typical day may include:
+Designing and developing backend services and internal business processes primarily in
+.NET
+Designing clean, efficient, and scalable
+data flows and API communication
+Creating, optimizing, and refactoring
+SQL data structures, queries, and stored procedures
+Improving database performance (indexing strategies, execution plan analysis, query tuning)
+Identifying performance bottlenecks and improving system scalability
+Contributing to architecture decisions and technical direction
+Integrating and leveraging
+AI tools and services
+(ChatGPT, Copilot, Azure OpenAI)
+Collaborating on data and AI-driven projects across industries
+Required Skills & Experience
+Advanced knowledge of
+.NET (C#, ASP.NET      Core, Web API, Entity Framework)
+Advanced SQL expertise (
+T-SQL, MS SQL, Azure      SQL
+)
+Strong understanding of database design      (indexing, normalization, execution plans)
+Experience with ETL processes and data      transformation
+Ability to optimize both application logic and      database performance
+Experience analyzing SQL execution plans
+4+ years of backend development experience
+System-level thinking and architectural mindset
+Independent problem solver with strong      communication skills
+Nice to Have Skills
+Experience with
+Microsoft Fabric and Power BI
+Building and managing
+ETL pipelines and data processing workflows
+(Python / Spark)
+Experience with
+Azure services
+(App Services, Azure SQL, Storage, etc.)
+Experience with
+Azure OpenAI / AI Foundry
+Knowledge of LLM concepts and working with ML models
+Practical experience integrating AI tools into real-world systems
+Docker and containerized deployments
+Experience with cloud-native architectures
+What We Offer
+Flexible cooperation (full-time / contractor /      hybrid)
+Technically ambitious projects in AI, data      analytics, and cloud technology
+Modern technology stack
+Opportunity to work on innovative international      projects (healthcare, IT finance, industry, manufacturing)
+Long-term collaboration with real professional      growth
+Open culture and informal communication
+A team that connects technology with real      business value
+This role is ideal for engineers who:
+Care about performance and clean architecture
+Enjoy working with data as much as code
+Want to integrate AI into real production systems
+Think in systems, not only features
+If you want to build scalable, efficient systems, not just features, we would love to hear from you.
+Information about the selection process
+If the position interests you, send us your CV (in English), your LinkedIn profile, or a work sample (e.g., GitHub). We’d love to meet you and discuss potential collaboration. We’re looking for someone who can bridge the world of code and data.
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+4
+Personality requirements and skills
+Analytical and logical mindset
+Independence and accountability
+Creative and proactive approach
+Openness to new technologies
+Problem-solving skills and ability to see relationships in data
+Advertiser
+Brief description of the company
+TechPath Advisors is a technology partner for modern companies, combining data strategy, internal process optimization, cloud solutions, and artificial intelligence. We act as the bridge between business goals and technical execution, turning client priorities into real outcomes through advanced IT solutions. We help companies use data effectively, automate processes, and deliver innovation through AI. Organizations across Europe and the United States use our solutions.
+WEB: techpathadvisors.com
+Follow us on LinkedIn: linkedin.com/company/techpath-advisors
+Contact
+Contact person: Marek Hlinka
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5239597
+Dátum zverejnenia:
+24.2.2026
+2026-02-24
+lokalita:
+Remote work
+Pozícia:
+.NET Programmer
+,
+Backend developer
+,
+Database Administrator
+,
+Database Analyst
+Spoločnosť:
+TechPath Advisors
+Základná zložka mzdy (brutto):
+30 EUR/hour

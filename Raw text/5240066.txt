@@ -1,0 +1,99 @@
+Senior Automation Tester (Playwright/Cypress) - Bratislava/Žilina - 80% remote
+SourceFirst International s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 500 - 3 500 EUR/mesiac
+Na IČO do 250 EUR/MD.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+- Vývoj a udržiavanie automatizovaných testov v Playwright + TypeScript: UI E2E testy (kritické user flow, regresia, smoke),API testy (smoke, funkčné, integračné scenáre)
+- Príprava a údržba performance/load testov v k6 (TypeScript), ich zapájanie do CI a sledovanie a analýza trendov (latencia, error rate, throughput...)
+- Tvorba a údržba testovacej stratégie a plánu
+- Budovanie test automation „foundation“ (vrátane inicializácie a setupu projektu): architektúra, POM / component-based page objects, fixtures, test data management, mockovanie, stabilita testov (flaky)
+- Integrácia testov do CI/CD, nastavovanie quality gates, reportov a transparentných metrík kvality
+- Kombinácia automatizácie s exploratívnym a funkčným/doménovým testovaním
+- Vyhodnocovanie stavu kvality (bugy, trendy, root-cause) a komunikácia tímu aj stakeholderom
+- Spolupráca s developermi, analytikmi a product ownerom – QA u klienta nie je „posledná zastávka“, ale partner počas celého delivery
+Zamestnanecké výhody, benefity
+- u klienta nebudeš len číslo (zaujíma ich kto si, čo ťa baví a napĺňa)
+- osobnostný a profesný rast v rámci firemnej politiky rozvoja a vzdelávania
+- mentoring (pre mediorov a seniorov)
+- jazykové kurzy angličtiny
+- 96h vzdelávania za rok
+- tímový budget na externé konferencie, workshopy a certifikácie
+- rozvojový program pre tímy
+- pravidelné odborné komunity
+- flexibilný pracovný čas, možnosť práce v home office režime
+- firemné akcie a team buildingové aktivity
+- práca v dynamickej spoločnosti s najnovšími technológiami a skvelými špecialistami
+- široký doménový aj technologický záber - u klienta sa nudiť nebudeš
+Informácie o výberovom konaní
+Prosím, zašlite svoj životopis na e-mailovú adresu pavel.stojka@sourcefirstinternational.com. Vždy máme otvorené viacero pozícií pre IT špecialistov nielen na Slovensku a v Česku, ale aj na zahraničných projektoch.
+Predpokladaný termín ukončenia výberového konania
+30.4.2026
+(ostáva ešte 63 dní)
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Klient je IT spoločnosť s regionálnym pôsobením.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+Požiadavky:
+- Seniorné skúsenosti s automatizovaným testovaním a písaním testov
+- Dobrá znalosť TypeScript/JavaScript a skúsenosť s Playwrightom (alebo veľmi silná prax s podobným moderným frameworkom)
+- Skúsenosť s API testovaním (requesty, autentifikácia, test data, validácie)
+- Chápeš rozdiel medzi „test existuje“ a „test dáva hodnotu“ (stabilita, čitateľnosť, diagnostika, údržba)
+- Analytické myslenie, zodpovednosť, schopnosť ťahať veci dopredu
+Kvalifikácie, ktoré sú plusom:
+- Skúsenosť s návrhom testovacej architektúry (POM, fixtures, test data management)
+-  Skúsenosť s praktickým využitím AI pri QA/automation (prompting, review výstupov)
+-  Znalosť CI optimalizácie (paralelizácia, tagovanie smoke/regression)
+-  Security/performance mindset
+-  Mentoring, code review prístup a chuť zdieľať know-how
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+SourceFirst International s.r.o. portfolio of services:
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+For more information visit www.sourcefirstinternational.com
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Pavel Stojka
+Tel.:
++421902235479
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5240066
+Dátum zverejnenia:
+24.2.2026
+2026-02-24
+lokalita:
+Bratislava
+Pozícia:
+IT konzultant
+,
+IT tester
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

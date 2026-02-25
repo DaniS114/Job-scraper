@@ -1,0 +1,266 @@
+IT Infrastructure Team Lead (BA)
+MOVYS, a.s.
+Miesto práce
+Piesočná 502/7, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+3 500 EUR/mesiac
+Mzdové ohodnotenie bude stanovené na základe posúdenia skúseností a zručností kandidáta, jeho odborných aj osobnostných predpokladov na výkon danej práce, ako aj stupňa seniority. Mesačná mzda tak VZNIKÁ DOHODOU individuálne po osobnom pohovore.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​ČO BUDE TVOJOU ÚLOHOU?
+Komplexná zodpovednosť za oblasť Leadership & Architektúra:
+viesť tím sieťových a systémových inžinierov
+a      udržiavať komplexný prehľad naprieč celým spektrom IT infraštruktúry
+posudzovať zadanie, navrhovať projektové      architektúry
+,
+identifikovať kľúčové technologické oblasti a viesť tím k úspešnému      nasadeniu a prevádzke
+pôsobiť ako
+SME (Subject Matter Expert)
+pre      jednotlivé oblasti,
+aktívne podnecovať odbornú diskusiu, konštruktívne oponovať návrhom
+s cieľom dosiahnuť technicky vyspelé a efektívne riešenia
+prezentovať architektúry a riešenia
+– interne (technické tímy, manažment, cenotvorba) aj externe (zákazníci, technické aj netechnické publikum)
+koordinácia a spolupráca s
+tretími stranami a dodávateľmi
+počas      integrácie riešení.
+Zamestnanecké výhody, benefity
+ČO PONÚKAME?
+stabilitu v prosperujúcej SR spoločnosti pôsobiacej v TELCO oblasti
+skúsený tím ľudí, od ktorých sa môžeš veľa naučiť, ale nás aj obohatiť
+možnosť ďalšieho odborného rastu vo forme školení a certifikácií
+príležitosť pracovať s unikátnymi technológiami
+notebook a telefón aj na súkromné účely
+príspevok do 3.piliera DDS s príspevkom zamestnávateľa
+odmenu za odporučenie nového zamestnanca
+- flexibilný týždenný pružný pracovný čas
+- v závislosti od typu pozície a po dohode s nadriadeným Home Office
+sme nielen kolegovia, ale aj kamaráti, vieme sa navzájom podporiť
+radi sa smejeme a stretneme aj neformálne na tímových akciách, či pri športe :)
+Informácie o výberovom konaní
+AK SI SA V TEJTO POZÍCII NAŠIEL, neváhaj a pošli nám svoje štruktúrované CV s krátkym predstavením sa v tele správy, čo Ťa na danej pozícii zaujalo a prečo by si ju chcel robiť :) Vhodných kandidátov budeme kontaktovať telefonicky.
+Predpokladaný termín ukončenia výberového konania
+31.3.2026
+(ostáva ešte 33 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+informatika - HW a SW podpora, Systémové zabezpečenie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+IT Infrastructure Team Lead - Tech Team Lead
+Počet rokov praxe
+10
+Osobnostné predpoklady a zručnosti
+​ČO OČAKÁVAME?
+Schopnosť
+viesť tím sieťových a systémových inžinierov
+a      udržiavať komplexný prehľad naprieč celým spektrom IT infraštruktúry
+Schopnosť
+posudzovať zadanie, navrhovať projektové      architektúry
+,
+identifikovať kľúčové technologické oblasti a viesť tím k úspešnému      nasadeniu a prevádzke
+Pôsobiť ako
+SME (Subject Matter Expert)
+pre      jednotlivé oblasti,
+aktívne podnecovať odbornú diskusiu, konštruktívne oponovať návrhom
+s cieľom dosiahnuť technicky vyspelé a efektívne riešenia
+Schopnosť
+prezentovať architektúry a riešenia
+– interne (technické tímy, manažment, cenotvorba) aj externe
+(zákazníci, technické aj netechnické publikum)
+Koordinácia a spolupráca s
+tretími stranami a dodávateľmi
+počas      integrácie riešení
+MUST HAVE skills:
+Network:
+​
+Praktické skúsenosti so sieťovými protokolmi a architektúrou na      úrovni
+Cisco CCNP
+(Spanning Tree – RSTP/MSTP, DNS, DHCP, QoS, VRF, segmentácia siete)
+Skúsenosti s
+návrhom, implementáciou a prevádzkou      podnikových sietí
+postavených na technológiách
+Cisco SD-WAN,      Catalyst, Nexus
+, operačné systémy
+IOS XE, IOS XR, NX-OS
+Smerovacie a overlay protokoly:
+BGP, OSPF, OMP, VXLAN
+(vrátane      praktického využitia v DC a WAN)
+Softvérovo definované sieťové riešenia (SDN, SD-WAN, centralizovaná      správa a policy-based networking)
+Zabezpečené prepojenia:
+IPsec, site-to-site VPN, client VPN
+(vrátane      návrhu topológie a riešenia HA)
+Identity & Access Management
+v      sieťovom prostredí
+(RADIUS, TACACS+, autentifikácia zariadení, základná architektúra PKI)
+Skúsenosti s návrhom a prevádzkou bezpečnostných zariadení
+Fortinet
+(FortiGate, FortiManager / FortiAnalyzer / FortiEMS, FortiLog)
+Povedomie o
+bezpečnostných princípoch a ich implementácii
+na      sieťovej aj aplikačnej úrovni (segmentácia, firewalling, IDS/IPS,      zero-trust princípy)
+Praktický prehľad a skúsenosti s
+end-to-end architektúrou      LAN / WAN / DC
+Data Center (DC):
+Virtualizačné technológie a platformy:
+VMware vCenter,      Proxmox
+, zálohovanie cez
+Veeam
+, vrátane
+migrácií      systémov medzi platformami
+Skúsenosti s
+HA riešeniami a vysoko dostupnými DC      architektúrami
+(multihomed DC, stretched cluster, redundancia naprieč lokalitami)
+Návrh, nasadzovanie a prevádzka
+monitoringového prostredia      Zabbix
+(Server, Proxy, optimalizácia výkonu, agenti, LLD, troubleshooting)
+Automatizácia nasadzovania a provisioning:
+Ansible, iPXE
+Skúsenosti so serverovým hardvérom
+HPE DL series
+a      storage platformami
+Dell ME
+Návrh a pripájanie úložísk:
+iSCSI, LUN, NFS, Ceph
+(vrátane výkonových a dostupnostných aspektov).
+Linux:
+Skúsenosti s distribúciami
+Debian, AlmaLinux, CentOS
+a      schopnosť
+posudzovať vhodnosť distribúcie podľa use-case
+(VM, bare-metal, embedded, produkčné prostredia)
+Dobré chápanie interných princípov Linuxu:
+kernel, iptables/nftables, LVM, NetworkManager, rsyslog
+a      ďalšie základné subsystémy
+HA a clusterové technológie:
+etcd, PostgreSQL (HA),      HAProxy, PgBouncer, rsync, Corosync/ORBD
+Nasadzovanie a prevádzka
+Kubernetes
+prostredia
+(Calico, MetalLB, ArgoCD, containerd, Docker)
+Skúsenosti s
+CI/CD ekosystémom
+(GitLab pipelines, GitLab agents), aktívna spolupráca s vývojármi,
+podpora nasadzovania mikroslužieb, optimalizácia a správa ich životného      cyklu.
+Windows a ostatné technológie:
+Správa a koordinácia operačných úloh v
+Microsoft 365
+(Intune, Teams, SharePoint, Outlook, Azure AD / Entra ID)
+Nasadzovanie a správa
+Windows Server 2022
+(Standard      / Datacenter)
+Správa
+Active Directory
+, užívateľského prostredia
+Windows      11
+a mobilných zariadení
+Android / iOS
+– lokálne aj v      hybridnom prostredí.
+NICE TO HAVE skills:
+​
+Skúsenosti s LLM      modelmi a YOLO object detection
+Skúsenosti s
+IoT riešeniami
+, senzormi a rádiovými      prenosovými vrstvami
+Nasadzovanie a správa
+Ubiquiti UniFi
+(Controller,      AP)
+Kamerové systémy a NVR riešenia
+(motion detection, kodeky
+H.264/H.265
+, transkódovanie,      dlhodobé ukladanie záznamov)
+Skúsenosti s nasadzovaním
+odolných (rugged) technológií
+pre prostredia s extrémnymi teplotami, vibráciami alebo outdoor použitím
+Skúsenosti s
+Telco prostredím
+pre lepšiu      integráciu IT systémov do náročných prevádzok.
+SOFT SKILLS:
+- analytické a logické myslenie s primeranou dávkou kritickosti;
+- osobnostná zrelosť a psychická odolnosť;
+- proaktivita a ownership prístup;
+- leadership - byť vzorom pre členov tímu a leadovať ich, podporovať ich motiváciu a ďalší odborný rozvoj;
+- schopnosť prinášať nápady a predkladať návrhy riešení a negociovať o nich;
+- schopnosť prezentovať architektúry a riešenia - interne aj externe;
+- presadzovať TECH novinky a doťahovať ich implementáciu do firemného života;
+- ochota a záujem učiť sa nové veci :)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+KTO SME A ČO ROBÍME?
+Spoločnosť MOVYS, a.s. je TELCO & IT spoločnosť, ktorá vznikla v roku 2000. Sídlo má v Bratislave, ale pobočky nájdete v Banskej Bystrici a Košiciach.
+TELCO & IT NETWORKING / SDN & SW DEVELOPMENT
+• Výstavba a preventívny servis GSM/LTE/5G sietí a rádiokomunikačnej technológie
+a rádiových sietí, FM a DVBT vysielačov.
+• Expertná a poradenská činnosť.
+• Projekčné práce v oblasti telekomunikácií, elektroinštalácií, EZS, kamerových systémov,
+inštalácia, servis a údržba klimatizačných zariadení, revízie elektroinštalácií a
+bleskozvodov bez obmedzenia napätia, meranie pokrytia a kvality VF sietí.
+SOFTVÉROVÉ PRODUKTY MOVYS
+Telemonitor – GPS monitorovanie vozidiel, objektov a osôb.
+Telemonitor – Nástroj operačného riadenia záchranných aj iných zložiek.
+IPSOM – monitorovací nástroj – dohľad nad sieťou a vybranou technológiou a aplikáciami a zber a vyhodnocovanie dát z rádiových sietí kritickej infraštruktúry SR.
+MOVYS INTEGRA – manažment meracích úloh a dohľad nad meracím systémom v špecializovaných meracích vozidlách a integračné rozhrania pre distribúciu dát tretím stranám.
+RIEŠENIA V OBLASTI IT A IKT
+• Návrh, implementácia a prevádzka, monitoring
+a správa sieťovej a serverovej infraštruktúry.
+• Návrh, dodanie a inštalácia enforcement
+riešení pre cestnú dopravu (radary, kamerové
+systémy, kontrolné váhové stanice).
+• Akreditované laboratórium pre zisťovanie
+faktorov životného prostredia a pracovného
+prostredia na účely posudzovania ich možného
+vplyvu na zdravie.
+• MOVYS SmartHome / LOXONE – automatizácia
+budov pre rezidenčné a komerčné objekty.
+KARIÉRA V MOVYS?
+Našim cieľom sú spokojní zákazníci. Vďačíme za to najmä našim zamestnancom a kvalitným produktom, za ktorými stoja. Do nášho MOVYS tímu preto hľadáme motivovaných nadšencov s otvorenou hlavou, so silným záujmom rozvíjať sa a odvahou skúšať nové.
+Uvedomujeme si silu a jedinečnosť osobnosti každého z nás. Individuálne pristupujeme k odbornému aj osobnostnému rastu. Vieme oceniť prácu a každodenné nasadenie. Dbáme o to, aby sme vždy mohli dobiť svoje baterky :)
+Poď s nami tvoriť zaujímavé riešenia, ktoré majú zmysel. Naše systémy nielen spájajú ľudí, ale aj zachraňujú životy. Staň sa súčasťou atmosféry rodinnej firmy a dôveryhodným profesionálom a partnerom našich zákazníkov. Záleží nám na Tvojom rozvoji, preto podpora vzdelávania je u nás samozrejmosťou.
+AKÍ SME?
+Sme gurmáni a kávoholici. Radi ťa zoberieme na obed a okúsiš našu výbornú kávu. Navyše sme vášniví športovci a tímový duch nám tiež nie je cudzí v práci, v kancli, teréne, či na home office ;) Ešte váhaš prihlásiť sa? :))
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Erika Pallayová
+Tel.:
++421915963194
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5240344
+Dátum zverejnenia:
+24.2.2026
+2026-02-24
+lokalita:
+Bratislava
+Pozícia:
+IT manager
+,
+Špecialista IT bezpečnosti
+,
+Správca informačného systému
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+MOVYS, a.s.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

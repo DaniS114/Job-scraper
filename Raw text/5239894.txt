@@ -1,0 +1,89 @@
+Backend Developer – PHP (Hybrid/Remote)
+WESTech, spol. s r.o.
+Miesto práce
+Stará Vajnorská 17, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 3 000 EUR/mesiac
+Uvedená mzda je minimálna hranica nástupnej mzdy. Finálna výška mzdy bude stanovená v závislosti od skúseností a zručností úspešného/nej kandidáta alebo kandidátky.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Spoločnosť WESTech, spol. s r.o. hľadá do svojho developerského tímu nové posily. Budete mať možnosť pracovať na viacerých zaujímavých projektoch, s priamym dosahom na biznis. Väčšina projektov beží práve na najnovších verziách PHP.
+Čo Vás čaká?
+Žiaden projekt nie je zaťažený ťarchou legacy kódu, ktorého sa od strachu bojíme dotknúť. Sledujeme aktuálne trendy, nebojíme sa inovovať a počúvať, ak nám to môže pomôcť a prinesie výhody. Používame primárne Laravel a Symfony, ale náš kód sa snažíme písať bez priamych závislostí. Na organizáciu práce používame Jiru a kód spravujeme v Git. Môžete sa tešiť na projekty ako:
+Zastrešenie vývoja nového a inovatívneho ecommerce riešenia, ktoré je postavené podľa najnovších trendov, na unikátnej architektúre (Kubernetes) a podľa prísnych štandardov.
+Riešenia pre dátovú analýzu, interné aplikácie pre obchodné potreby, ktoré v sebe spájajú rôzne technológie, pokročilú prácu s dátami (ETL, SQL, MSSQL, Snowflake, ...)
+Integrácie dát a implementácie do ďalších systémov.
+Zamestnanecké výhody, benefity
+Čo ponúkame?
+● Práca na zaujímavých projektoch postavených na moderných technológiách
+● Možnosť home office
+● Priestor pre osobný aj profesný rast
+● Seriózna a priama komunikácia
+● Zamestnanecké zľavy na sortiment a služby
+● Teambuildingy a firemné večierky
+... a mnoho ďalších zaujímavých výhod a benefitov, ktoré Vám radi predstavíme na osobnom stretnutí.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské bez maturity
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Čo očakávame my?
+Hľadáme tímového hráča, ktorý sa nebojí vybehnúť zo zabehnutého. Pracujeme s technológiami:
+- PHP (8.3+) (Laravel/Symfony)
+- SOLID principles
+- Návrhové vzory
+- Javascript (ES2016+, Vue.sj/React.js/...)
+- RDBMS (MariaDB, PostgreSQL, SQL, ...)
+- GIT
+- Písanie testov (PHPUnit, Pest...)
+- Unix zaklady
+- Docker
+- Nginx
+Výhodou je ak máte skúsenosti aj s inými technológiami:
+- Python (numpy, pandas, ...)
+- Kubernetes
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+WESTech Group je obchodná spoločnosť, ktorá na trhu Európskej únie pôsobí už 23 rokov. Sme súčasťou nadnárodnej siete ELKO GROUP s celkovým ročným obratom 1,2 miliardy USD. WESTech spolu s dcérskymi spoločnosťami zamestnáva viac ako 600 zamestnancov.
+Ktoré firmy reprezentujú WESTech Group?
+WESTech spol s r.o. – Sme distribučná spoločnosť s klientami po celom svete.
+Sme partnerom viac ako 200 významných svetových značiek na trhu (Dell Technologies, Roborock, Apple, ESET, JBL, Zens, Intel, AMD, HP, WD, Seagate, TCL, OPPO, ASUS, Lenovo, Logitech, Gigabyte, Ubiquiti, MikroTik, 2N, DJI, Zyxel a ďalší). Okrem Slovenska sú naše pobočky v Maďarsku a Českej republike, kde navyše pôsobia ešte spoločnosti Logicworks a WESTech Solutions.
+iStores - Apple Premium Partner - iStores je sieť prémiových predajní výrobkov Apple a príslušenstva. V súčasnosti má na Slovensku a v Českej republike 25 predajní vo veľkých nákupných centrách a dve výkonné online predajne – istores.sk a istores.cz. Predajne s ročným obratom vyše šesťdesiat miliónov € navštívia ročne milióny zákazníkov.
+Swiss spol. s r. o. – Najznámejší autorizovaný servis s viac ako 20-ročnou tradíciou na Slovensku, Slovinsku a v Česku. Servisujeme napríklad produkty značiek ako Apple, Dell, HP, Lenovo a mnohé iné. V rámci SR a ČR máme k dispozícii 6 servisných miest.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Tomáš Zsigó
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5239894
+Dátum zverejnenia:
+24.2.2026
+2026-02-24
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+PHP programátor
+,
+Programátor
+Spoločnosť:
+WESTech, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

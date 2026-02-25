@@ -1,0 +1,102 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+DevOps Engineer
+Informácie o pracovnom mieste
+Miesto práce:
+Bratislava
+Mzdové podmienky (brutto):
+Od 3 500 EUR/mesiac
+finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí kandidáta*
+Termín nástupu:
+dohodou
+Druh pracovného pomeru:
+plný úväzok
+Náplň práce, právomoci a zodpovednosti
+- Budovať, udržiavať a zlepšovať cloudovú infraštruktúru (IaC, optimalizácia výkonu/nákladov atď.)architektúru systému ďalšej generácie spôsobom „Infrastructure as Code“
+- Sledovanie, diagnostika, analýza chýb a nasadzovanie aplikácie a zabezpečovanie následného prechodu do automatizácie deploymentu  a cloudového prostredia.
+- Riešenie príčin problémov pri nasadzovaní s ostatnými tímami
+- Zabezpečuje, aby systémy a infraštruktúra boli bezpečné a zabezpečené proti hrozbám kybernetickej bezpečnosti
+- Zodpovedá za vytváranie a implementáciu systémových vylepšení, ktoré zlepšujú výkon a spoľahlivosť systému
+- Budovanie a vývoj automatizácia CI/CD s cieľom rýchlejšieho a bezpečnejšieho presunu zmien do produkcie
+- Definovať potrebu novej funkcionality riešenia vzhľadom na požiadavky užívateľov
+- Návrh nového riešenia a zohľadnenie vplyvu zmeny na celý systém
+- Testovanie novej funkcionality a jej implementácia do produkčného systému
+- Zodpovednosť za kvalitu kódu, dodržiavanie štandardov spoločnosti
+- Pozícia vyžaduje prácu v medzinárodnom tíme
+Zamestnanecké výhody, benefity
+- práca na odbornej pozícií s možnosťou využívať doterajšie skúsenosti a vlastný osobnostný potenciál.
+- zázemie stabilnej medzinárodnej spoločnosti
+- zaujímavý sociálany a motiváčný program
+- jazykové vzdelávanie a odborné kurzy
+Informácie o výberovom konaní
+* Podľa Zákona o službách zamestnanosti 5/2004 Z. z., § 62 ods. 2, sme povinní uvádzať sumu základnej zložky mzdy. Konečná výška Vašej skutočnej mzdy je odvodená od Vašich odborných skúseností, znalostí, zručností a toho ako zodpovedajú požiadavkám konkrétnej pozície.
+Prosíme kandidátov, ktorí prejavili záujem o pracovnú pozíciu, aby poslali C.V. na E-mail: ivana.jurikova@prohr.sk.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Stabilná spoločnosť pôsobiaca v oblasti informačných technológií.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Python - Pokročilý
+DevOps - Pokročilý
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+- Skúsenosti s celým cyklom vývoja SW riešenia a automatizáciou nasadzovania SW
+- Skúsenosti so scriptovaním v Pythone, bash
+- Skúsenosti s DevOps a CI/CD, configuration management tooly: Ansible/Chef/Puppet/Salt, Terraform, využitie Docker/Kubernetes
+- Skúsenosti s orchestráciou cloudového prostredia AWS/Azure
+- Znalosť monitoring toolov - ELK, Prometheus, Zabbix, Nagios....
+- SQL
+- GIT
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Ivana Juríková
+Tel.:
++421 911 189 261
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5124368
+Dátum zverejnenia:
+24.2.2026
+2026-02-24
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT architekt
+,
+Programátor
+,
+Python programátor
+,
+Systémový administrátor
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

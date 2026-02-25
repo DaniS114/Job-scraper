@@ -1,0 +1,107 @@
+Senior Data Engineer (SQL / MS Fabric / Azure)
+TechPath Advisors
+Place of work
+Remote work
+Contract type
+part-time, trade licence
+Start date
+1.3.2026
+Wage (gross)
+35 EUR/hour
+Compensation: Minimum guaranteed 1,500€ per month. 
+Workload: 60–100 hours per month.
+Salary: from 35€ depending on experience.
+Information about the position
+Job description, responsibilities and duties
+We are looking for an experienced Data Engineer to join our team and contribute to the design, development, and optimization of a modern cloud-based data platform.
+The role focuses on building reliable, scalable, and high-performance data pipelines using the following technologies:
+Microsoft Azure
+Microsoft Fabric
+MS SQL / Azure SQL
+Python / Spark (PySpark)
+You will work on enterprise-grade data solutions supporting analytics, reporting, and further data-driven initiatives.
+Key Responsibilities
+Design and implement ETL/ELT processes
+Develop and optimize data pipelines within Microsoft Fabric
+Work with Spark / PySpark workloads
+Design and optimize SQL databases (MS SQL / Azure SQL)
+Data modeling (Data Warehouse / Lakehouse architecture)
+Integrate data from internal and external systems
+Collaborate with BI and analytics teams
+Monitor performance, data quality, and reliability
+Technical Skills
+Minimum 3 years of experience in Data Engineering
+Advanced SQL knowledge and query optimization skills
+Experience with Azure data services
+Experience with Microsoft Fabric or similar data platforms (Snowflake, Databricks)
+Strong knowledge of Python and Spark (PySpark)
+Experience with data modeling and DWH concepts
+Nice to Have
+CI/CD experience (Azure DevOps)
+Experience with data governance tools
+Experience with Power BI
+Experience in enterprise environments
+What We Offer
+Flexible cooperation (full-time / contractor /      hybrid)
+Technically ambitious projects in AI, data      analytics, and cloud technology
+Modern technology stack
+Opportunity to work on innovative international      projects (healthcare, IT finance, industry, manufacturing)
+Long-term collaboration with real professional      growth
+Open culture and informal communication
+A team that connects technology with real      business value
+This role is ideal for engineers who:
+Care about performance and clean architecture
+Enjoy working with data as much as code
+Want to integrate AI into real production systems
+Think in systems, not only features
+If you want to build scalable, efficient systems, not just features, we would love to hear from you.
+Information about the selection process
+If the position interests you, send us your CV (in English), your LinkedIn profile, or a work sample (e.g., GitHub). We’d love to meet you and discuss potential collaboration. We’re looking for someone who can bridge the world of code and data.
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Advanced (C1)
+Number of years of experience
+3
+Personality requirements and skills
+Strong analytical thinking and logical mindset
+Structured and systematic approach
+Ability to design solutions, not only implement tasks
+Independent and responsible work style
+Creative and proactive approach
+Openness to new technologies
+Problem-solving skills and ability to see relationships in data
+Advertiser
+Brief description of the company
+TechPath Advisors is a technology partner for modern companies, combining data strategy, internal process optimization, cloud solutions, and artificial intelligence. We act as the bridge between business goals and technical execution, turning client priorities into real outcomes through advanced IT solutions. We help companies use data effectively, automate processes, and deliver innovation through AI. Organizations across Europe and the United States use our solutions.
+WEB: techpathadvisors.com
+Follow us on LinkedIn: linkedin.com/company/techpath-advisors
+Contact
+Contact person: Marek Hlinka
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5239600
+Dátum zverejnenia:
+24.2.2026
+2026-02-24
+lokalita:
+Remote work
+Pozícia:
+Database Administrator
+,
+Database Analyst
+,
+Python Programmer
+Spoločnosť:
+TechPath Advisors
+Základná zložka mzdy (brutto):
+35 EUR/hour

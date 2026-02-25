@@ -1,0 +1,114 @@
+Senior Backend Developer
+HOPIN, s. r. o.
+Place of work
+Nové záhrady I, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Start date
+now
+Wage (gross)
+3 000 EUR/month
+upper salary is depending on experience
+Information about the position
+Job description, responsibilities and duties
+We are looking for Senior Backend Developer to help us develop and maintain our application for various clients overseas. The ideal candidate is not afraid to bring new ideas and actively shape the application to make it the best solution for clients seeking white-label solutions in the transportation business. For this role, we are looking for a person with the following skills:
+A) Technical skills
+•	NODE.JS – Expert
+-Proficiency in Node.js, including asynchronous programming and event-driven architecture.
+-	Familiarity with key frameworks/libraries (such as Express.js, etc.)
+-	Understanding of error handling, logging, and debugging
+•	MySQL – Expert
+-	Strong understanding of MySQL database design, optimization, and management
+-	Proficient in writing efficient SQL queries, stored procedures, and database indexing
+-	Knowledge of database optimization techniques, normalization, and migration strategies
+-	Experience in setting up replication, backups, and disaster recovery for MySQL databases is a plus
+•	GIT – Advanced
+-	Proficiency in Git for version control (GitHub, GitLab)
+-	Experience with CI/CD pipelines using tools (GitLab CI)
+o	Amazon Web Services (AWS) – nice to have
+- Hands-on experience with AWS services like EC2, S3, RDS (MySQL), Lambda, CloudFormation, and VPC
+-	Understanding of scaling, load balancing, and monitoring in AWS environments (Elastic Load Balancer, Auto Scaling, CloudWatch)
+-	Familiarity with networking, security groups, IAM roles, and policies in AWS
+•	 Other experiences – nice to have
+-	Experience with unit testing, integration testing and knowledge of test automation frameworks and strategies is a big plus
+-	Skills in profiling and optimizing both Node.js applications and MySQL queries.
+-	Understanding of caching strategies (Redis) and scaling Node.js apps on AWS.
+-	Bash, pm2 experience is a plus
+-	Experience in designing and developing RESTful or GraphQL APIs.
+- Ability to integrate third-party APIs and work with authentication methods such as OAuth, JWT, and API tokens.
+-	Knowledge of best practices for clean code, API security, versioning, and documentation.
+B) Soft skills
+-	Problem Solving: Ability to analyze and solve complex issues, especially in distributed systems and databases
+-	Communication: Clear communication for both technical and non-technical stakeholders, including writing clean documentation
+-	Collaboration: Experience working in a team using Agile or Scrum methodologies
+-	Adaptability: Willingness to adapt to new technologies and a fast-changing cloud environment
+-	Attention to Detail: Precision in code quality, testing, and reviewing others' code.
+C) More Nice-to-Haves
+- Experience with with large scale apps and huge traffic
+- Knowledge of Microservices Architecture: Understanding of how to break down monolithic applications into microservices
+-	Event-Driven Design: Experience with message queues (SQS, Kafka, etc.)
+-	Security Best Practices: Familiarity with security protocols, including encryption, secure storage
+D)Experience level
+- 4 years of experience in backend development, ideally with a focus on Node.js and cloud-hosted environments
+Employee perks, benefits
+We offer very competitive compensation and benefits package:
+• Education, Conferences, etc. - highly supported
+• Flexible work time
+• Home-office
+• Teambuildings
+• Laptop, Free taxi, Multi Sport Card, Cinema tickets
+• Offices in Bratislava
+Information about the selection process
+If you are interested in our offer send us your CV by e-mail.
+We will contact candidates who meet the requirements of the position.
+Expected date of completion of the selection process
+31.3.2026
+(there are still 33 more days)
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT
+Language skills
+English - Intermediate (B1)
+Other knowledge
+NODE.JS - Expert
+MySQL - Expert
+GIT - Advanced
+Number of years of experience
+3
+Advertiser
+Brief description of the company
+HOPIN app was released in 2012 as the most popular taxi app in Slovakia. Today, HOPIN app is the easiest way of getting around in the city. Use HOPIN app and order a taxi without dispatch call, drive with luxury limousine, track public transport vehicles real time or see useful timetables. You also can buy a parking ticket and order a courier through the HOPIN app.
+Favourite transport app useful mainly in the city, downloaded by 900 000+ users, is available for smartphones running Android, iOS, older version of app is available also for WinPhone and BlackBerry smartphones.
+Number of employees
+10-19 employees
+Contact
+Contact person: Richard Lőrincz
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5240173
+Dátum zverejnenia:
+24.2.2026
+2026-02-24
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Programmer
+Spoločnosť:
+HOPIN, s. r. o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

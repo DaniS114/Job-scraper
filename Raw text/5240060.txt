@@ -1,0 +1,104 @@
+Senior DevOps Engineer (Azure, SaaS/PaaS, IaaC, PowerShell, Kubernetes, Terraform, Azure DevOps, Helm)
+SourceFirst International s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+By agreement
+Wage (gross)
+3 800 - 5 200 EUR/month
+The final salary offered will depend on the candidate's experience and knowledge + attractive benefit system of the company. Only possible on permanent employment.
+Information about the position
+Job description, responsibilities and duties
+About the Role
+We develop cloud-native (Azure-based) SaaS/PaaS solutions for global Life & Health insurance clients. Our international team delivers highly available, multi-regional products using modern technologies and innovative approaches.
+Responsibilities
+We are looking for a Senior DevOps Engineer to design and build cloud infrastructure using Infrastructure as Code, while operations are handled by separate teams. You will work with Azure, Kubernetes, Terraform, Azure DevOps, Helm, and PowerShell, applying modern DevOps best practices. In this role, you will mentor other DevOps engineers and collaborate closely with the Engineering Manager, Product Owner, and development teams.
+Design and automate cloud infrastructure deployment, including networking, compute, storage, security, monitoring, and identity.
+Embed applications into secure, high-performance, enterprise-grade cloud environments.
+Implement automated deployments, disaster recovery solutions, and operational documentation.
+Optimize infrastructure performance and cloud costs.
+Ensure compliance, resilience, and security of cloud environments.
+Provide technical leadership and collaborate with architects and stakeholders to deliver roadmap-aligned solutions.
+Employee perks, benefits
+flexible working time
+hybrid type of home-office
+kindergarten - available in our building
+yearly salary re-evaluation
+sick days
+MultiSport card
+mental & medical health support
+public transport donation
+Information about the selection process
+Feel free to send your CV to pavel.stojka@sourcefirstinternational.com
+We always have several positions for IT Specialists not only in Slovakia and the Czech Republic, but also on foreign projects.
+Expected date of completion of the selection process
+30.4.2026
+(there are still 63 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a leading international tech company and provides a wide range of products and services.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+Requirements:
+Usage and administrator of Azure services.
+Strong experience with PowerShell/Bash scripting.
+In-depth knowledge of Kubernetes and containerization.
+Strong skills with Terraform for infrastructure provisioning.
+Knowledge of Azure DevOps for CI/CD pipelines and release management.
+Experience managing teams of DevOps engineers.
+Nice to have:
+Programming background in any OOP language (preferred Java and/or Go).
+Knowledge of security scans, authorization protocols, CloudFlare.
+Understanding of data fundamentals.
+Familiarity with Okta for identity and access management.
+Knowledge of Cloudflare for web performance and security.
+General knowledge of Gitlab and/or Github DevOps practices​​
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: Pavel Stojka
+Tel.:
++421902235479
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5240060
+Dátum zverejnenia:
+24.2.2026
+2026-02-24
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT Architect
+,
+IT Consultant
+,
+Systems Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 800 EUR/month

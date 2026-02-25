@@ -1,0 +1,106 @@
+IT Application Architect (Java background)
+SourceFirst International s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+By agreement
+Wage (gross)
+3 800 - 6 000 EUR/month
+Final salary depends on candidate´s experience
+Information about the position
+Job description, responsibilities and duties
+For our client we are looking for a highly skilled Senior Architect to lead the design and development of scalable, secure, and high-performance enterprise solutions.
+You will work closely with product leaders, business stakeholders, and engineering teams to build secure, high-performance applications based on modern architectural principles.
+You should have deep expertise in modern Java-based service-based architectures, full-stack development, and cloud-native design, with a strong emphasis on Microsoft Azure and enterprise-scale solution development.
+Your responsibilities on this role will be to:
+- Define and evolve application architecture aligned with enterprise standards like scalability, maintainability and cost effectiveness.
+- Design mission critical solutions using 12-factor App development principles with Spring and Spring Boot
+- Design and develop secure authentication (e.g., Okta, Azure AD) and robust authorization mechanisms
+- Design and document scalable cloud-native infrastructure on Microsoft Azure
+- Establish and enforce coding standards, design patterns, and architecture best practices
+- Evaluate and integrate third-party solutions, open-source tools, and cloud-managed services
+- Translate complex business requirements into scalable and maintainable solution designs
+- Lead and mentor engineering teams on architecture, design, coding, and deployment
+- Perform architecture and code reviews to ensure adherence to quality and security standards
+- Collaborate with DevOps teams to streamline CI/CD pipelines and automated deployment processes
+- Oversee vulnerability assessments, open-source license usage, and secure coding practices
+Ensure compliance with governance, data privacy, and industry regulations
+Employee perks, benefits
+- work in a stable company
+- adequate financial compensation
+- potential for personal development
+- rich social program
+- flexible working hours
+Expected date of completion of the selection process
+31.7.2026
+(there are still 155 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a leading international tech company and provides a wide range of products and services.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+- Overall 12+ years of hands on experience in Java based enterprise software
+- 5+ years of experience in application/solution architecture roles with hands-on involvement
+- Experience in agile environments.
+- Proactive and Collaborative, with a strong sense of ownership and a willingness to go the extra mile to deliver quality solutions.
+- Top notch team player with the ambition and skill to bring the entire team to the next level.
+Must have excellent technical proficiency in:
+- Technical leadership capable of designing, motivating and driving a vision
+- Technical coaching willing of inspiring, coaching and driving technical colleagues
+- Expert-level proficiency in Java, Spring Framework, Spring Boot, Spring Security
+- Extensive experience designing and building scalable architectures and solutions
+- Experience with authentication and authorization using Okta, Azure AD, and OAuth2/OpenID Connect
+- Proficient in REST APIs, Multithreading, Hibernate ORM/JPA, SQL, RDBMS (PostgreSQL, MS SQL)
+- Strong integration experience (REST, SOAP, ESB, Kafka, RabbitMQ)
+- Experience using IDEs such as IntelliJ IDEA
+- Experience in SaaS product development and multi-tenant architecture
+- Solid grasp of secure coding standards, governance frameworks, and regulatory and compliance practices
+- Knowledge of profiling and debugging tools like JMeter, App Insights
+Nice to have skills:
+- Hands-on experience with Microsoft Azure Cloud (including services like AKS, Key Vault, Storage Accounts, etc.)
+- Knowledge of containerization and orchestration tools – Docker, Kubernetes (AKS)
+- Expertise in CI/CD and Maven/Gradle
+- Bonus: Familiarity with UML and tools like Enterprise Architect, Microsoft Visio
+- Bonus: Previous experience with modern Java Script front end frameworks
+- Bonus: Knowledge in Insurance Underwriting, Quartz Scheduler, distributed caching (e.g. Redis, Hazelcast)
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: IT Recruitment
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5240076
+Dátum zverejnenia:
+24.2.2026
+2026-02-24
+lokalita:
+Bratislava
+Pozícia:
+IT Architect
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 800 EUR/month

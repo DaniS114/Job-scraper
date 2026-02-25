@@ -1,0 +1,147 @@
+Systémový administrátor - medior/ senior (BA)
+MOVYS, a.s.
+Miesto práce
+Piesočná 502/7, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+Mzdové ohodnotenie bude stanovené na základe posúdenia skúseností a zručností kandidáta, jeho odborných aj osobnostných predpokladov na výkon danej práce, ako aj stupňa seniority. Mesačná mzda tak VZNIKÁ DOHODOU individuálne na osobnom pohovore.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+ČO BUDE TVOJOU ÚLOHOU:
+bezproblémový      chod technickej infraštruktúry spoločnosti, ako aj infraštruktúry      zastrešujúcej existujúce projekty a zákazníkov;
+inštalácia      a konfigurácia HW, SW
+pravidelná      tvorba a udržiavanie podrobnej inštalačnej a prevádzkovej dokumentácie,
+bezpečnosť,      monitorovanie a podporu prevádzky a užívateľov počas pracovnej doby ako aj      držanie pohotovosti pre prípad neočakávaných udalostí,
+vyhodnocovanie      technických požiadaviek spoločnosti a sledovanie trendov a postupov v      tejto oblasti za účelom navrhovania inovácií,
+poskytovanie      podpory projektovým tímom pri získavaní nových projektov a formou analýzy      technických požiadaviek, návrhu riešenia a identifikácie rizík.
+Zamestnanecké výhody, benefity
+ČO PONÚKAME?
+stabilitu v prosperujúcej SR spoločnosti pôsobiacej v TELCO oblasti
+skúsený tím ľudí, od ktorých sa môžeš veľa naučiť, ale nás aj obohatiť
+možnosť ďalšieho odborného rastu vo forme školení a certifikácií
+príležitosť pracovať s unikátnymi technológiami
+notebook a telefón aj na súkromné účely
+príspevok do 3.piliera DDS s príspevkom zamestnávateľa
+odmenu za odporučenie nového zamestnanca
+- flexibilný týždenný pružný pracovný čas
+- v závislosti od typu pozície a po dohode s nadriadeným Home Office
+sme nielen kolegovia, ale aj kamaráti, vieme sa navzájom podporiť
+radi sa smejeme a stretneme aj neformálne na tímových akciách, či pri športe :)
+Informácie o výberovom konaní
+AK SI SA V TEJTO POZÍCII NAŠIEL, neváhaj a pošli nám svoje štruktúrované CV s krátkym predstavením sa v tele správy, čo Ťa na danej pozícii zaujalo a prečo by si ju chcel robiť :) Vhodných kandidátov budeme kontaktovať telefonicky.
+Predpokladaný termín ukončenia výberového konania
+31.3.2026
+(ostáva ešte 33 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+informatika - HW a SW podpora, Systémové zabezpečenie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+Systémový administrátor
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+ČO OČAKÁVAME?
+• Min. 5 rokov skúseností s IT administráciou
+• Expertná znalosť administrácie OS Linux a bash skriptovania
+o SAN a NAS riešenia pod linuxom: iSCSI, NFS, SMB/CIFS, SFTP
+o Zvládanie Linux change managementu – kontinuálny upgrade
+• Znalosť datacenter server hardware a hardware maintenance
+o HP ProLiant DL server family
+o Dell ME Storage family
+o UPS, PSU, PDU, diesel generator, blade chasis atď.
+• Pokročilá znalosť ZABBIX monitoring riešenia
+o inštalácia agentov, custom metriky a triggre, atď.
+• Konfigurácia serverov a virtualizačnej technológie Proxmox, VMWare
+o Skúsenosti s CI/CD deploymentom v prostredí Gitlab, ArgoCD, Kubernetes
+• Chápanie princípov funkcionality sieťových zariadení, ako napríklad switche/routre/firwally
+o Znalosť základných sieťových princípov a protokolov na úrovni L1-L4 (ARP, STP, Ethernet, IP, TCP/UDP)
+o IPv4 adresácia, statické a dynamické smerovacie protokoly (interné a externé), VPN
+o Skúsenosť s konfigurovaním/čítaním konfigurácie Cisco switchov a routrov
+• Znalosť OS Windows a Windows Server na úrovni administrátor – Active Directory
+o Podpora a správa koncových užívateľov, dátových úložísk a e-mailových klientov – napr. MS Outlook. M365
+o Skúsenosti s CI/CD deploymentom v prostredí Gitlab, ArgoCD, Kubernetes
+• Skúsenosti s konfiguráciou a správou LAMP/LEPP stacku
+o Linux, Nginx, PgSQL a PHP
+O Skúsenosti s kontajnerizačnými platformami, containerd/docker/kubernetes
+• Skúsenosti s poskytovaním technickej podpory bežným užívateľom
+o bežná Windows administrácia a update management;
+• Skúsenosti so systémami s vysokou dostupnosťou (high availability systems)
+o postavených hlavne na HAPROXY, DRBD, Keepalived
+OSOBNOSTNÉ PREDPOKLADY:
+- analytické a logické myslenie s primeranou dávkou kritickosti
+- zrelá a komunikatívna osobnosť
+- proaktivita a ownership prístup
+- ochota a záujem učiť sa nové veci :)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+KTO SME A ČO ROBÍME?
+Spoločnosť MOVYS, a.s. je TELCO & IT spoločnosť, ktorá vznikla v roku 2000. Sídlo má v Bratislave, ale pobočky nájdete v Banskej Bystrici a Košiciach.
+TELCO & IT NETWORKING / SDN & SW DEVELOPMENT
+• Výstavba a preventívny servis GSM/LTE/5G sietí a rádiokomunikačnej technológie
+a rádiových sietí, FM a DVBT vysielačov.
+• Expertná a poradenská činnosť.
+• Projekčné práce v oblasti telekomunikácií, elektroinštalácií, EZS, kamerových systémov,
+inštalácia, servis a údržba klimatizačných zariadení, revízie elektroinštalácií a
+bleskozvodov bez obmedzenia napätia, meranie pokrytia a kvality VF sietí.
+SOFTVÉROVÉ PRODUKTY MOVYS
+Telemonitor – GPS monitorovanie vozidiel, objektov a osôb.
+Telemonitor – Nástroj operačného riadenia záchranných aj iných zložiek.
+IPSOM – monitorovací nástroj – dohľad nad sieťou a vybranou technológiou a aplikáciami a zber a vyhodnocovanie dát z rádiových sietí kritickej infraštruktúry SR.
+MOVYS INTEGRA – manažment meracích úloh a dohľad nad meracím systémom v špecializovaných meracích vozidlách a integračné rozhrania pre distribúciu dát tretím stranám.
+RIEŠENIA V OBLASTI IT A IKT
+• Návrh, implementácia a prevádzka, monitoring
+a správa sieťovej a serverovej infraštruktúry.
+• Návrh, dodanie a inštalácia enforcement
+riešení pre cestnú dopravu (radary, kamerové
+systémy, kontrolné váhové stanice).
+• Akreditované laboratórium pre zisťovanie
+faktorov životného prostredia a pracovného
+prostredia na účely posudzovania ich možného
+vplyvu na zdravie.
+• MOVYS SmartHome / LOXONE – automatizácia
+budov pre rezidenčné a komerčné objekty.
+KARIÉRA V MOVYS?
+Našim cieľom sú spokojní zákazníci. Vďačíme za to najmä našim zamestnancom a kvalitným produktom, za ktorými stoja. Do nášho MOVYS tímu preto hľadáme motivovaných nadšencov s otvorenou hlavou, so silným záujmom rozvíjať sa a odvahou skúšať nové.
+Uvedomujeme si silu a jedinečnosť osobnosti každého z nás. Individuálne pristupujeme k odbornému aj osobnostnému rastu. Vieme oceniť prácu a každodenné nasadenie. Dbáme o to, aby sme vždy mohli dobiť svoje baterky :)
+Poď s nami tvoriť zaujímavé riešenia, ktoré majú zmysel. Naše systémy nielen spájajú ľudí, ale aj zachraňujú životy. Staň sa súčasťou atmosféry rodinnej firmy a dôveryhodným profesionálom a partnerom našich zákazníkov. Záleží nám na Tvojom rozvoji, preto podpora vzdelávania je u nás samozrejmosťou.
+AKÍ SME?
+Sme gurmáni a kávoholici. Radi ťa zoberieme na obed a okúsiš našu výbornú kávu. Navyše sme vášniví športovci a tímový duch nám tiež nie je cudzí v práci, v kancli, teréne, či na home office ;) Ešte váhaš prihlásiť sa? :))
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Erika Pallayová
+Tel.:
++421915963194
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5240328
+Dátum zverejnenia:
+24.2.2026
+2026-02-24
+lokalita:
+Bratislava
+Pozícia:
+Systémový administrátor
+Spoločnosť:
+MOVYS, a.s.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac
