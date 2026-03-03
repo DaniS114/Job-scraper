@@ -1,0 +1,105 @@
+Senior Go Developer (Kubernetes, Kafka)
+EuroView s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+3 000 - 5 500 EUR/mesiac
+mzda je určovaná podľa seniority
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme seniorného Go developera, ktorý bude kľúčovou súčasťou tímu vyvíjajúceho škálovateľné cloud-native riešenia postavené na mikroservisnej a event-driven architektúre.
+Pozícia zahŕňa návrh architektúry, vývoj vysoko dostupných backendových služieb, optimalizáciu distribuovaných systémov a úzku spoluprácu s DevOps a architektonickým tímom. Očakávame technické líderstvo a schopnosť robiť architektonické rozhodnutia.
+Návrh a implementácia robustných backendových služieb v
+Go (Golang)
+Architektúra mikroservisov v
+Kubernetes (K8s)
+prostredí
+Implementácia event-driven komunikácie pomocou
+Apache Kafka
+Návrh a optimalizácia distribuovaných systémov (high availability, fault tolerance)
+Performance tuning, profiling a optimalizácia latencie
+Návrh API (REST / gRPC) a kontraktov medzi službami
+Code review, mentoring mid/junior developerov
+Spolupráca na CI/CD, observability a DevOps procesoch
+Incident analysis a production troubleshooting
+Participácia na architektonických rozhodnutiach
+Zamestnanecké výhody, benefity
+... sú rozmanití! Chcete niečo zmeniť? Klient vám ponúka túto príležitosť v našej ekonomicky stabilnej a rastúcej skupine spoločností. Okrem každodenných úloh a zodpovedností získate aj veľké výzvy a možnosť aktívne formovať budúcnosť, prinášať nové nápady a podieľať sa na ich realizácii.
+Budete súčasťou flexibilného, ​​vysoko motivovaného a mladého tímu. Otvorenosť a priateľskosť, ako aj veľmi príjemné a moderné pracovné prostredie vám umožnia jednoduchý štart u nás. Náš klient vyvíja prelomové produkty pre popredných hráčov v rôznych odvetviach. U nás nájdete priamu komunikáciu a rýchle rozhodovanie. Prideľovanie úloh v projektoch a spolupráca s poprednými svetovými technologickými partnermi ponúkajú najlepšie podmienky pre váš ďalší profesionálny rozvoj, ktorý by sme radi podporili. Keďže máme záujem o dlhodobú spoluprácu, po úspešnej skúšobnej dobe hľadáme možnosť podpísať zmluvu na plný úväzok na dobu neurčitú.
+Informácie o výberovom konaní
+Je potrebná plynulá znalosť anglického jazyka.
+Dá sa pracovať aj full remote, alebo hybrid alebo office.
+Je to len na travlý pracovný pomer.
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+Informačné technológie, počítačové programovanie, webové portály
+Spoločnosť zaujíma na trhu poskytovateľov softvéru pre internetovú infraštruktúru osobitné postavenie, pretože ich produktové portfólio umožňuje úzku a efektívnu integráciu obsahu, obchodu a komunitných transakcií. Už viac ako dvadsať rokov spoločnosť pomáha sofistikovaným stredne veľkým spoločnostiam a korporáciám implementovať strategické softvérové ​​projekty.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Golang - Expert
+Kubernetes - Pokročilý
+Apache Kafka - Pokročilý
+Prax na pozícii/v oblasti
+3
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Požiadavky
+5+ rokov skúseností s backend vývojom
+Silná praktická skúsenosť s
+Go
+Produkčná skúsenosť s
+Kubernetes
+Skúsenosť s
+Apache Kafka
+(topics, partitions, consumer groups, delivery semantics)
+Skúsenosť s Docker a kontajnerizáciou
+Znalosť distribuovaných systémov (CAP theorem, consistency modely)
+Skúsenosť s SQL/NoSQL databázami
+Znalosť monitoring stacku (Prometheus, Grafana, ELK…)
+Skúsenosť s CI/CD pipeline
+Angličtina na technickej úrovni
+Výhodou
+Cloud skúsenosť (AWS / GCP / Azure)
+Skúsenosť s Terraform / Infrastructure as Code
+Skúsenosť s high-load systémami
+Skúsenosť s bezpečnostnými štandardmi (OAuth2, OIDC, JWT)
+Skúsenosť s enterprise prostredím
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Personálna a poradenská spoločnosť zameraná na priame vyhľadávanie a výber odborníkov, členov stredného, vyššieho a TOP manažmentu, v oblastiach IT, telco, financie, obchod. Spoločnosť zastrešuje  rozvojové projekty v oblastiach personalistiky, tréningov, assessment a development centier.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Matej Kováč
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5240736
+Dátum zverejnenia:
+25.2.2026
+2026-02-25
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+DevOps Engineer
+Spoločnosť:
+EuroView s.r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

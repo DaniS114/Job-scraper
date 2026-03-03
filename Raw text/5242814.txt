@@ -1,0 +1,103 @@
+Trading Systems / AI Automation Engineer
+Hyperia s.r.o.
+Miesto práce
+Na bráne, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+Kompenzácia od 3.000 EUR
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme senior
+Engineera do Hyperia Group
+, ktorý nečaká na zadanie, ale
+tvorí riešenia sám
+.
+Budeš automatizovať, optimalizovať a stavať produkčné systémy, kde AI a kvantitatívne nástroje zrýchľujú rozhodovanie.  Ak myslíš systémovo, v pravdepodobnostiach a s dôrazom na robustnosť a baví ťa posúvať hranice infra a trading technológií, tu nájdeš priestor na impact.
+Ak ťa popis zaujal a vidíš sa v ňom, ozvi sa! Podmienkou je 2-3 dni on-site v office v centre Žiliny.
+Technical Skills
+Python
+(production-grade engineering)
+CI/CD, Docker, deployment
+(produkčné myslenie)
+Data pipelines & DB
+(Postgres / SQL / prípadne NoSQL)
+Asynchronous / concurrent programming
+Logging, monitoring, robust error handling
+Bonus:
+C++ / Rust
+, performance optimization (real-time systems)
+Quantitative Toolkit
+Základné porozumenie
+finančných nástrojov a market microstructure
+Backtesting & simulácie
+Štatistická validácia modelov (overfitting, bias, OOS testovanie)
+Chápanie
+transakčných nákladov, liquidity, drawdown
+AI / Automation / Builder Layer
+LLM API integrácia do produkčných workflow
+(OpenAI, Anthropic)
+Structured extraction (JSON schema), eval pipeline, hallucination control
+Agentic / AI-augmented coding
+(Copilot, Cursor, Claude Code, atď.)
+Automation orchestration
+(n8n, RAG, webhook/event-driven workflow)
+AI používame na zrýchlenie vývoja, nie ako náhradu myslenia.
+Robustnosť > hype. Risk-aware > model-first.
+Skúsenosť s vlastným trading projektom / automatizáciou je plus.
+Zamestnanecké výhody, benefity
+flexibilný pracovný čas a možnosť pracovať HO
+skvelá káva, čaj, čerstvé ovocie a pravidelné tímové raňajky
+zdravé a moderné pracovné prostredie (ergonomická stolička Herman Miller, green office)
+externé aj interné vzdelávanie, mentoring
+zaujímavé teambuildingy a firemné akcie (viac na našich soc. sieťach)
+Informácie o výberovom konaní
+Pošli svoj životopis, napíš zopár riadkov o svojich doterajších skúsenostiach na hr@hyperia.sk. Tešíme sa na tvoju reakciu!
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Koho hľadáme? Človeka, ktorý:
+dodá riešenie bez detailného zadania
+automatizuje všetko, čo sa dá
+má systémové myslenie
+rozmýšľa v pravdepodobnostiach
+vie (alebo sa chce naučiť) navrhnúť architektúru
+vie (alebo sa chce naučiť) postaviť infra
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Hy! Sme Hyperia! Tvoríme globálne online projekty, ktoré si sami navrhujeme, realizujeme aj financujeme. Naše weby a appky navštívi viac ako pol miliardy používateľov ročne v 40 krajinách sveta a neustále rastieme. Preto hľadáme do tímu šikovných ľudí – profesionálov, ktorých práca baví, a viac než striktným pravidlám dávajú prednosť uvoľnenej atmosfére a vzájomnej dôvere.
+Pod hashtagom #hyperialife zdieľame informácie zo sveta technológií, marketingu, HR, projektového riadenia a fungovania v Hyperii. Prečítaj si náš blog hyperia.sk/hyperialife, vypočuj si Hyperia podcast, pozri si videá na YouTube alebo nám daj follow na Instagram, Facebook či LinkedIn.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Jana Čajková
+Tel.:
++421903137441
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5242814
+Dátum zverejnenia:
+2.3.2026
+2026-03-02
+lokalita:
+Žilina
+Pozícia:
+AI špecialista
+Spoločnosť:
+Hyperia s.r.o.

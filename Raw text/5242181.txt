@@ -1,0 +1,109 @@
+Senior Computer Vision Engineer
+JMC a.s.
+Place of work
+Remote work
+Contract type
+full-time, part-time
+Wage (gross)
+3 700 - 8 200 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Who We Are
+At Rankacy AI, we're not your average tech company - we're the ones training AI models on over 500TB of gaming data while others are still using pre-trained models and calling it innovation. We've built AI systems that analyze millions of Counter-Strike scenarios, serving tens of thousands of users who demand real-time insights. Our secret sauce? PhD researchers who've traded academic comfort for startup adrenaline, working alongside battle-tested engineers who solve problems others won't even attempt.
+Now we're ready for the next frontier: computer vision.
+What You'll Be Doing
+Building Vision Systems
+– Design, train, and deploy computer vision models for game analysis, action recognition, and tactical understanding
+Transformer Mastery
+– Implement and optimize transformer architectures (video-focused and multimodal models) for our specific use cases
+Training at Scale
+– Develop models on massive gaming datasets using our custom training infrastructure. You'll have serious compute and PhD researchers to collaborate with
+Production Engineering
+– Take models from research to production. Optimize inference, handle edge cases, ensure reliability for thousands of concurrent users
+Pushing Boundaries
+– Contribute to technical architecture decisions and help define our computer vision roadmap across gaming and defence applications
+Key Challenges
+Real-Time Performance
+– Processing high-resolution game footage with complex transformer models while maintaining sub-second latency
+Domain Adaptation
+– Making vision transformers work for gaming scenarios that differ significantly from standard datasets
+Scale vs. Speed
+– Balancing model complexity with training time and inference costs when working with millions of scenarios
+Multimodal Fusion
+– Combining visual information with game state data, player actions, and temporal context for intelligent analysis
+What You Need to Bring
+Deep Computer Vision Expertise
+– You've built and shipped production CV systems. You understand CNNs, transformers, attention mechanisms, and when to use each
+Python & ML Frameworks
+– PyTorch or TensorFlow mastery. You can implement architectures from papers and debug training dynamics
+Production Mindset
+– You've deployed models real users depend on. You think about latency, throughput, error handling, and monitoring
+Systems Thinking
+– You understand the full stack from data pipelines to model serving
+Bonus Points
+– Action recognition, 3D computer vision, published research, gaming/esports background
+Our Offer
+Work Setup:
+Full-time/Part-time, onsite in Ostrava or remote
+Team:
+High-talent-density environment with PhD researchers and senior engineers who challenge you to go deeper
+Growth:
+Worldwide conference attendance, exposure to cutting-edge AI, leadership development options
+Technical Freedom:
+Serious compute, our own training infrastructure and deployment systems, autonomy to work on the full vertical
+Compensation:
+Competitive salary based on experience, plus performance bonuses
+Impact: Your models will power products used by tens of thousands of gamers and high-stakes defence applications
+Culture:
+No corporate BS, technical depth over politics, and the satisfaction of bridging gaming and defence - two domains where performance and precision actually matter
+Ready to build computer vision systems that matter? Apply!
+We'll review it within three business days.
+Employee perks, benefits
+Hackathons
+Educational courses
+Attending international conferences worldwide
+Bonuses
+Company-wide team-building retreats twice a year
+Smaller team-building events on a monthly basis
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Advanced (C1)
+Advertiser
+Brief description of the company
+At Rankacy AI, we're not your average tech company - we're the ones training AI models on over 500TB of gaming data while others are still using pre-trained models and calling it innovation. We've built AI systems that analyze millions of Counter-Strike scenarios, serving tens of thousands of users who demand real-time insights. Our secret sauce? PhD researchers who've traded academic comfort for startup adrenaline, working alongside battle-tested engineers who solve problems others won't even attempt.
+Number of employees
+25-49 employees
+Contact
+Contact person: Michal Fogelton
+Tel.:
++421903862011
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5242181
+Dátum zverejnenia:
+27.2.2026
+2026-02-27
+lokalita:
+Remote work
+Pozícia:
+AI Specialist
+,
+C# Programmer
+,
+Data Engineer
+,
+Python Programmer
+Spoločnosť:
+JMC a.s.
+Základná zložka mzdy (brutto):
+3 700 EUR/month

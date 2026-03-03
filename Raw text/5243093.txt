@@ -1,0 +1,101 @@
+Pracovné ponuky
+Pre uchádzačov
+O nás
+SK
+EN
+DevOps Engineer
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 000 - 3 500 EUR/mesiac
+Reagovať
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+Všetky ponuky
+Hľadáme samostatného a všestranného DevOps Engineera, ktorý prevezme zodpovednosť za interný vývojový ekosystém.
+Táto rola je kombináciou klasickej správy infraštruktúry (vrátane fyzických serverov) a správy/build automatizácie v softvérovej firme.
+Budete kľúčovou osobou, ktorá zabezpečí stabilitu build systémov, plynulosť CI procesov a spoľahlivé fungovanie infraštruktúry.
+Náplň práce:
+Infrastructure Management
+- Správa a optimalizácia fyzických serverov (primárne Linux - Debian, čiastočne Windows)
+- Správa on-prem virtualizačného prostredia
+- Správa Docker/Podman prostredí používaných na testovanie
+- Základná správa siete, vzdialený prístup (SSH, RDP)
+CI Control & Management
+- Identifikácia a riešenie problémov v CI procesoch
+- Spolupráca s developermi, testermi a ICT tímom pri odstraňovaní problémov
+- Zodpovednosť za stabilitu buildov a plynulosť pipeline
+CI Development
+- Údržba a úprava CI pipeline a konfigurácií
+- Práca s Atlassian Bamboo a GitLab
+- Príprava a participácia na migrácii na nový CI systém
+Artifact & Version Control Management
+- Správa Sonatype Nexus Repository
+- Správa interných Git serverov
+- Tvorba a údržba custom Git hookov
+- Zabezpečenie integrity kódu a dependency management
+Automation & Scripting
+- Tvorba a údržba skriptov (Python, Bash, PHP, JavaScript/TypeScript, PowerShell)
+- Automatizácia testovacích nasadení, release workflow, generovania dokumentácie
+- Úprava a rozširovanie existujúcich interných systémov
+Požadujeme:
+Technické požiadavky:
+- Skúsenosti so správou Linux systémov (kľúčové - približne 90 % práce)
+- Základná znalosť Windows administrácie
+- Skúsenosti s CI systémami (preferujeme silné CI skúsenosti)
+- Skúsenosti s Docker/Podman, tvorba Dockerfile a Docker Compose
+- Schopnosť čítať a upravovať cudzí kód (Bash, Python, JavaScript/TypeScript)
+- Výhodou je základná schopnosť čítať C++
+- Absencia skúseností s Linuxom je výraznou nevýhodou
+Osobnostné predpoklady
+- Samostatnosť
+- Systematickosť
+- Ochota učiť sa nové veci a pracovať aj s neznámou technológiou
+- Schopnosť rýchlo sa zorientovať v cudzom kóde (aj s využitím dostupných nástrojov)
+- Schopnosť upraviť existujúci kód a rozšíriť ho podľa zadania
+- Detailnosť a dôslednosť
+- Hľadáme stabilného človeka, nie job hoppera
+Dalšie informácie:
+Benefity:
+- Finančné bonusy
+- Flexibilný pracovný čas
+- Home-office (3 HO po skúšobnej dobe)
+Zašlite nám svoj životopis v slovenskom jazyku a ak máte aj v anglickom jazyku. Viac podobných pozícií nájdete na https://www.grafton.sk/sk/job-search
+Benefity
+Možnosť home office
+Reagovať
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+Všetky ponuky
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5243093
+Dátum zverejnenia:
+2.3.2026
+2026-03-02
+lokalita:
+Bratislava
+Pozícia:
+C++ programátor
+,
+DevOps Engineer
+,
+IT tester
+Spoločnosť:
+Grafton Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

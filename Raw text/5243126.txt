@@ -1,0 +1,106 @@
+Notifikačný špecialista
+Sociálna poisťovňa, ústredie
+Miesto práce
+Ul. 29. augusta, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+1 900 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Staňte sa súčasťou tímu, ktorý modernizuje komunikáciu štátu s občanmi.
+Hľadáme
+Notifikačného špecialistu,
+ktorý bude tvoriť a rozvíjať moderné, automatizované notifikačné riešenia napojené na nové procesy a informačné systémy Sociálnej poisťovne.
+Vaša práca bude mať priamy dopad na to, ako rýchlo, presne a spoľahlivo dostávajú občania dôležité informácie od štátu – e‑mailom, SMS alebo inými elektronickými kanálmi.
+Pozícia je súčasťou IT tímu, ktorý buduje novú generáciu IS SP a procesnej automatizácie.
+Čo bude vašou hlavnou úlohou :
+Tvorba a správa notifikačných riešení
+identifikácia udalostí a      procesných bodov, ktoré si vyžadujú automatické notifikácie
+návrh logiky notifikácií podľa      stavu procesov
+definícia typov notifikácií (e‑mail,      SMS, push, interné správy)
+Tvorba šablón a obsahová správa
+príprava a verzionovanie šablón      pre jednotlivé komunikačné kanály
+práca s dynamickými premennými      (meno používateľa, ID žiadosti atď.)
+správa jazykových mutácií a      dokumentácie
+Integrácia s externými službami
+konfigurácia napojenia na SMTP,      SMS brány a ďalšie doručovacie služby
+zabezpečenie spoľahlivosti      doručenia (retry mechanizmy, fallback, logovanie)
+Monitoring a optimalizácia prevádzky
+sledovanie doručiteľnosti a      výkonu, reporting SLA
+analýza chýb, riešenie zlyhaní a      neúspešných pokusov
+audit odoslaných notifikácií
+Testovanie a validácia
+testovanie šablón, jazykových      verzií a dynamických premenných
+simulácia udalostí a overenie      funkčnosti v procesnom prostredí
+Úzka spolupráca v rámci IT tímov
+komunikácia s vývojármi,      analytikmi, DevOps tímom, správcami portálu a bezpečnostným tímom
+prijímanie zmien z biznis      procesov, ktoré ovplyvňujú obsah alebo správanie notifikácií
+Zamestnanecké výhody, benefity
+Poskytujeme 1 týždeň dovolenky navyše.
+Na oddych môže zamestnanec a jeho rodinní príslušníci využívať naše doškoľovacie a rekreačné zariadenia v Pavčinej Lehote, alebo na Starých Horách.
+U nás je 7,5 hodinový pracovný úväzok, pričom poskytujeme pružný pracovný čas.
+Byť chorý nie je nikomu príjemné. Svojim zamestnancom poskytujeme už od prvého dňa „péenky“, zvýšenú náhradu príjmu, ktorá je vo výške 70% denného vymeriavacieho základu.
+Pri zjavnom ochorení môžete využiť 2 dni voľna navyše.
+Obed z domu, alebo menučko? Zamestnancom prispievame na stravovanie takmer 75% z celkovej výšky stravovacej poukážky 7€.
+Do III. piliera prispievame 3% až 6%, podľa dĺžky pracovného pomeru.
+Vážime si solidárnosť, a preto každému darcovi krvi ktorý získa niektorú z Jánskeho plakiet, poskytujeme finančnú odmenu vo výške od 70€ do 350€.
+Ak sa zamestnanec ocitne vo finančnej tiesni, nemusí chodiť do banky, či iných finančných inštitúcií, ale môže požiadať o nenávratnú finančnú výpomoc, alebo návratnú bezúročnú pôžičku za zvýhodnených podmienok priamo Sociálnu poisťovňu.
+Byť verný a spoľahlivý sa oplatí. Každý zamestnanec pri pracovnom, alebo životnom výročí získa peňažnú odmenu
+Informácie o výberovom konaní
+Prosíme uchádzačov, aby svoje CV posielali len v slovenskom jazyku. O výsledku výberového konania budeme informovať každého uchádzača.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT zameranie - vítané
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Microsoft Office - Pokročilý
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+Čo od vás očakávame :
+Požadované vzdelanie a zručnosti
+vysokoškolské vzdelanie v oblasti      IT (I., II. alebo III. stupeň)
+anglický jazyk na úrovni B2
+schopnosť samostatne pracovať s      technickými aj obsahovými podkladmi
+cit pre detail, presnosť a      konzistentnosť
+Výhodou je, ak máte
+skúsenosti s návrhom notifikácií      alebo prácou s notifikačnými modulmi
+znalosť SMTP, SMS brán alebo      iných komunikačných platforiem
+skúsenosť s BPM procesmi alebo      automatizáciou procesov (výhodou, nie podmienkou)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sociálna poisťovňa vykonáva v zmysle zákona č. 461/2003 Z. z. sociálne poistenie, t.j. nemocenské poistenie, dôchodkové poistenie - starobné a invalidné, ďalej úrazové poistenie, poistenie v nezamestnanosti a garančné poistenie  a lekársku posudkovú činnosť.
+Počet zamestnancov
+1000 a viac zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Silvia Eľková
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5243126
+Dátum zverejnenia:
+2.3.2026
+2026-03-02
+lokalita:
+Bratislava
+Pozícia:
+IT/Technical Support Specialist
+Spoločnosť:
+Sociálna poisťovňa, ústredie
+Základná zložka mzdy (brutto):
+1 900 EUR/mesiac

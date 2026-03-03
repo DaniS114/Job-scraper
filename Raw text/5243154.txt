@@ -1,0 +1,91 @@
+Senior System Admin (Linux, K8s, AWS)
+GoodWill Recruitment, s.r.o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Start date
+By agreement
+Wage (gross)
+2 500 - 3 200 EUR/month
+The salary amount depends on the candidate's experience and seniority. Each candidate is assessed individually
+Information about the position
+Job description, responsibilities and duties
+The Senior System Administrator is responsible for operating, configuring, and maintaining Kubernetes-based infrastructure and cloud environments while supporting international customers and internal IT systems.
+Key Responsibilities:
+Administer and configure Kubernetes clusters
+Manage and maintain AWS cloud infrastructure (primarily Kubernetes-related)
+Develop and modify automation scripts using Terraform and Bash
+Deploy new environments and support system deployments
+Troubleshoot hardware, configuration, and infrastructure incidents
+Maintain servers and internal infrastructure
+Apply server and client patches
+Manage VPN, Active Directory, and access control
+Support databases, application servers, and web servers when required
+Deliver customer training and prepare technical documentation
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+An international software company.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+Information Technology
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Strong experience with
+Linux system administration
+Hands-on experience with
+Kubernetes
+and
+AWS
+Scripting and automation skills (Bash, Terraform, PowerShell)
+Knowledge of networking fundamentals (TCP/IP)
+Experience with virtualization (e.g., VMware) is an advantage
+Experience with databases (Oracle, MySQL, PostgreSQL, MongoDB) is beneficial
+Familiarity with web/application servers (Apache, NGINX, Tomcat, WildFly) is a plus
+Ability to write basic SQL queries
+English proficiency (minimum B2 level)
+Advertiser
+Brief description of the company
+Sme GoodWill Recruitment - Vaši kariérni inovátori. Ak chcete zmenu a máte chuť napredovať, pozrieme sa s vami na to, aké možnosti máte vo svojom segmente a zistíme, akú výzvu vám vieme ponúknuť. Vyhľadávame špecialistov v oblasti výroby, vývoja, logistiky, elektrotechniky, informačných technológií, financií či ľudských zdrojov. Môžeme sľúbiť osobný prístup, férovosť a čestnosť. Sme Goodwill Recruitment - spájame správnych ľudí so správnymi firmami.
+Vážime si váš prejavený záujem a ďakujeme za zaslanie životopisu. Kontaktovať budeme kandidátov, ktorí spĺňajú požiadavky na danú pozíciu.
+Contact
+Contact person: Ján Hajnik
+Tel.:
++421948614486
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5243154
+Dátum zverejnenia:
+2.3.2026
+2026-03-02
+lokalita:
+Remote work
+Pozícia:
+DevOps Engineer
+,
+IT System Administrator
+,
+SRE Site Reliability Engineer
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+GoodWill Recruitment, s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

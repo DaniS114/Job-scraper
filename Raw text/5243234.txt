@@ -1,0 +1,141 @@
+O nás
+Pracovné pozície
+Benefity
+IT & Network
+Data Scientist
+Mám záujem
+Mzdové podmienky
+Od 2 200 EUR/mesiac
+Druh pracovného pomeru
+plný úväzok
+Mesto
+Bratislava
+Za tvoju prácu ťa odmeníme:
+Uvedená mzda predstavuje minimálne platové ohodnotenie, na finálnej sume sa dohodneme spoločne a rozhodujúce budú Vaše skúsenosti a seniorita v oblasti LLM/GenAI. Okrem mzdy Vám ponúkame aj atraktívne výkonnostné bonusy (podľa splnených cieľov).
+Späť na pozície
+Aká bude tvoja rola?
+Hľadáme data scientistu, ktorý chce rásť a rozvíjať sa v dynamickom prostredí telekomunikačnej spoločnosti. Budeš súčasťou tímu, ktorý pracuje na najmodernejších projektoch v oblasti umelej inteligencie – od inteligentných RAG vyhľadávačov, cez NLP modely, detekciu anomálií až po analýzu časových radov.
+Nie je to len o čísle a grafoch. Budeš stavať riešenia, ktoré majú reálny dopad na biznis a zákazníkov. A keď budeš pripravený, postupne ťa zapojíme do sveta Generative AI a agentických systémov – najžhavejšej témy v AI svete.
+Čo bude tvojou náplňou práce?
+Analýza a spracovanie dát:
+Pracovať s veľkými objemami dát, identifikovať vzory, trendy a anomálie, ktoré pomôžu firme lepšie rozhodovať.
+Vývoj ML modelov:
+Vyvíjať a aplikovať pokročilé štatistické modely a algoritmy strojového učenia (regresia, klasifikácia, clustering, časové rady).
+NLP a textová analýza:
+Pracovať na spracovaní prirodzeného jazyka, sentiment analýze, chatbotoch a podobných riešeniach.
+Detekcia anomálií:
+Vytvárať modely na identifikáciu neštandardných vzorov v dátach, či už ide o fraud detection alebo technické anomálie.
+RAG systémy:
+Podieľať sa na vývoji inteligentných vyhľadávacích systémov kombinujúcich klasické ML s najnovšími LLM technológiami.
+Tvorba dátových produktov:
+Vytvárať automatizované rozhodovacie systémy a prediktívne modely, ktoré sa nasadia do produkcie.
+Spolupráca s biznisom:
+Byť mostom medzi technológiou a biznisom – rozumieť potrebám a prekladať ich do dátových riešení.
+Koho hľadáme?
+Technické zručnosti: Must-have skills
+Python Master:
+Pokročilá znalosť Pythonu je kľúčová. Ovládaš pandas, numpy na expertnej úrovni – neváhaš písať optimalizovaný a vektorizovaný kód.
+Štatistika & ML:
+Rozumieš štatistickým metódam, vieš navrhnúť a vyhodnotiť ML model (regresia, klasifikácia, clustering). Poznáš princípy validácie a testovania modelov.
+SQL:
+Ovládaš SQL na dobrej úrovni – vieš si vytiahnuť dáta, navrhnúť efektívne query a pracovať s relačnými databázami.
+Data Science mindset:
+Vieš transformovať surové dáta na business insights a máš analytické myslenie.
+Výhodou: Čo ťa dostane na pohovor prednostne :
+Machine Learning frameworky:
+Skúsenosti s scikit-learn, TensorFlow, PyTorch, LangChain alebo podobnými knižnicami.
+NLP skúsenosti:
+Práca s textovými dátami, tokenizácia, embeddings, sentiment analysis.
+Big Data technológie:
+Skúsenosti s Hadoop, Spark alebo inými nástrojmi na spracovanie veľkých objemov dát.
+Cloud platformy (GCP):
+Orientácia v Google Cloud Platform, ideálne Vertex AI, BigQuery, Cloud Storage.
+Git a verzovanie kódu:
+Prax s Git workflow a code review procesmi.
+Časové rady:
+Skúsenosti s analýzou a predikciou časových radov.
+Soft Skills
+Schopnosť spolupráce v tíme a komunikácia s netechnickými stakeholdermi.
+Zvedavosť a chuť učiť sa nové veci (GenAI, LLM, RAG).
+Schopnosť samostatne riadiť svoju prácu a byť zodpovedný za výsledky.
+Kritické myslenie a precíznosť pri práci s dátami.
+Prečo pracovať u nás?
+Flexibilná pracovná doba
+a možnosť čiastočného
+Home Office
+8 dní dovolenky navyše
+10 dní
+kompenzácia PN/OČR
+Deň voľna na dobročinnú aktivitu
+a
+Svadobné voľno
+Holiday Office
+ti umožní pracovať 12 dní na diaľku aj z iných krajín
+Sabbatical
+v prípade potreby väčšieho množstva oddychu
+Parkovanie pre zamestnancov
+350 €
+na
+smartphone
+podľa vlastného výberu každé 2 roky
+900 €
+ročne v
+Benefit Plus
+napr. na dovolenku, elektroniku, knihy alebo ako príspevok na DDS
+MultiSport karta
+Neobmedzený paušál
+na pracovné aj súkromné účely
+Zvýhodnená ponuka
+našich služieb pre teba a tvojich blízkych
+100 % hradené
+stravné (6,60 €/deň)
+Využi
+zamestnanecké zľavy
+na nákup produktov a služieb u našich partnerov
+Odmena
+až do výšky
+2 000 €
+za odporúčanie svojich známych na naše voľné pracovné pozície
+Podpora vzdelávania
+pre kariérny aj osobnostný rast prostredníctvom školení a konferencií
+Psychologické poradenstvo
+pre teba a tvojich blízkych
+Prihlásiť sa na pozíciu
+Benefity
+Zobraziť všetky
+5 dní dovolenky navyše
+Doprajeme ti voľno nad rámec zákona, aby si mal/a viac času na seba a svojich blízkych.
+Narodeninové voľno
+V mesiaci svojich narodenín môžeš u nás čerpať deň voľna bez ohľadu na zostatok dovolenky.
+2 dni voľna na regeneráciu
+Dovolenka minutá, no potrebuješ ešte oddych? K dispozícii dostaneš ďalšie 2 dni voľna na regeneráciu.
+O výberové konanie sa postará
+Zuzana Krześniak
+Recruiter
+recruitment.sk@orange.com
+Objav naše
+atraktívne benefity
+Späť
+na hlavnú stránku
+Spojte sa s nami
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5243234
+Dátum zverejnenia:
+2.3.2026
+2026-03-02
+lokalita:
+Bratislava
+Pozícia:
+Databázový administrátor
+,
+Databázový analytik
+Spoločnosť:
+Orange Slovensko, a.s.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

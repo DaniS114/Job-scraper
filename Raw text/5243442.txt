@@ -1,0 +1,122 @@
+SW Test Engineer for web applications
+ComAp Slovakia s.r.o.
+Miesto práce
+Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 1 800 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pridaj sa k nášmu tímu v Košiciach ako SW Test Engineer a budeš môcť priamo ovplyvniť spoľahlivosť našich SW aplikácií. Vďaka týmto aplikáciám môžu užívatelia po celom svete komfortne používať ComAp riadiace jednotky.
+O InteliSCADA:
+InteliSCADA je SW produkt vyvíjaný v spoločnosti ComAp
+Je to robustný, ale zároveň veľmi intuitívny nástroj, ktorý beží na desktopovej aj webovej platforme
+Slúži užívateľom na monitorovanie a riadenie priemyselných zariadení v energetike, kritickej infraštruktúre či solárnych systémoch
+InteliSCADA dokáže:
+bezpečné pripojenie k zariadeniam cez Ethernet, AirGate, Modbus a ďalšie protokoly,
+sledovanie stavu ComAp zariadení v reálnom čase,
+zber trendov, zber a analýzu historických dát,
+vizualizáciu a ovládanie hybridných mikrogridov,
+jednoduché vytváranie SCADA schém pomocou drag & drop nástrojov.
+Čo budeš u nás robiť:
+Starať sa o celý “bug lifecycle”
+Testovať webové aplikácie a HMI displeje – manuálne aj automatizovane
+Reportovať chyby
+Navrhovať testy, analyzovať požiadavky a spolupracovať s vývojármi, biznis analytikmi a produktovými manažérmi
+Pripravovať a spravovať automatizované testy – Cypress, Playwright
+Pracovať s nástrojmi ako JIRA, Confluence, GIT, AI
+Odhadovať a plánovať nové požiadavky
+Mohlo by sa ti páčiť:
+Práca na inhouse SW produkte, ktorý je prepojený na inhouse HW
+Práca v R&D oddelení
+Vývoj InteliSCADA má v ComApe stabilné miesto v produktovom portfóliu
+Možnosť ovplyvniť technické rozhodnutia cez spoluprácu s SW vývojármi a ďalšími teamami
+Copilot pre každého zamestnanca
+Príležitostné služobné cesty do Prahy
+Očakávame:
+Aspoň 3 roky skúseností s testovaním IT aplikácií
+Skúsenosti s návrhom testov, analýzou požiadaviek a automatizáciou sú veľkou výhodou
+Skúsenosti s Playwright alebo iným nástrojom na automatizáciu testovania sú vítané
+Vzdelanie v oblasti IT alebo elektrotechniky
+Používanie AI nástrojov
+Ochotu učiť sa nové veci
+Angličtina aspoň na úrovni B1
+Slovenčina na úrovni B2
+Ponúkame:
+Zamestnanie najprv na dobu určitú od 1.4.2026 alebo od 1.5.2026
+Home office, flexibilná pracovná doba
+Neformálne pracovné prostredie
+Komplexný adaptačný proces pre nových kolegov
+Interné vzdelávacie platformy
+Podporu leadership potenciálu
+Príspevok na jazykové vzdelávanie
+Príležitostné raňajky v kancelárii
+Teambuildingy, Letná párty, Vianočná večera
+Health Benefit
+Relax zóna v našej kancelárii
+25 dní dovolenky + 3 Me Days na kalendárny rok
+Darčekové Edenred poukážky, štvrťročne 150 EUR (600 EUR /rok)
+Príspevok na stravné v hodnote 4,71 EUR/deň
+Ponúkaná odmena za prácu
+Pre SW Test Engineer minimálne od 1800€ v hrubom (viac podľa relevantných skúseností).
+V našom odmeňovacom systéme má miesto aj variabilná zložka mzdy (hospodárske výsledky spoločnosti a výsledky odbornej práce jednotlivca).
+Výberové konanie
+Prezenčný pohovor I (technické kolo) v košickej kancelárii s Team Leader/ Senior Test Engineer a recruiterom.
+Online pohovor II.
+Počas adaptácie
+• Získavaš prehľad o aplikácii InteliScada cez spoznávanie komunikačných služieb, úložiska, závislostí a knižníc.
+• Pracuješ na pridelených user stories a opravuješ chyby v systéme InteliScada z hľadiska testovania.
+• Zabezpečuješ včasné dodanie úloh s dôrazom na kvalitu testovania a dodržiavanie sprintových termínov.
+• Zúčastňuješ sa Sprint Review, byť pripravený odpovedať na otázky a konštruktívne prijímať spätnú väzbu.
+• Komunikuješ s členmi tímu, zdieľaš poznatky a v prípade potreby požiadaš o podporu.
+• Prispievaš do teamových diskusií, kladením otázok a predkladaním návrhov.
+• Prejavuješ iniciatívu pri navrhovaní zlepšení alebo identifikovaní prekážok.
+• Socializuješ sa s kolegami z R&D a ďalších interných oddelení
+Zamestnanecké výhody, benefity
+Vzdelávacie kurzy, školenia
+Stravné lístky/príspevok na stravovanie
+Dovolenka 5 týždňov
+Zdravotné voľno
+Možnosť home office
+Občerstvenie na pracovisku
+Príspevok na šport/kultúru/voľný čas
+Firemné akcie
+Bonusy/prémia
+Flexibilný začiatok/koniec pracovnej doby
+Firemný tréner/osobnostný kouč
+Notebook
+Vlastna organizácia práce
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+ComAp je medzinárodná spoločnosť so sídlom v Prahe a v ďalších 12 pobočkách po celom svete. Poskytujeme inovatívne riešenia v oblasti vývoja a výroby riadiacich systémov pre plynové a dieselové motory, záložné generátory a kogeneračné jednotky, sieťové ochrany, dvojpalivové systémy. Zabezpečujeme dodávky od samotných kontrolérov až po kompletné riešenie zložitých systémov podľa požiadaviek klientov.
+Viac informácií o našej spoločnosti nájdete na webových stránkach: www.comap-control.com
+Kontakt
+Kontaktná osoba: Lenka Mrázová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5243442
+Dátum zverejnenia:
+2.3.2026
+2026-03-02
+lokalita:
+Košice
+Pozícia:
+Automatizovaný IT tester
+,
+IT tester
+Spoločnosť:
+ComAp Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

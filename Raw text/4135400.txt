@@ -1,0 +1,109 @@
+Java developer (junior/medior/senior)
+Annotation Slovakia, s. r. o.
+Miesto práce
+Vajnorská 100, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+podľa dohody
+Mzdové podmienky (brutto)
+1 750 EUR/mesiac
+Finálna úroveň základnej zložky mzdy závisí od skúseností a znalostí uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho malého, ale šikovného tímu hľadáme nového kolegu, ktorý sa nebojí výziev, má snahu sa učiť a má zmysel pre detail, zodpovednosť a ochotu.
+Nie sme a ani sa nehráme na korporát. U nás môžeš očakávať ľudský prístup, otvorenosť, komunikáciu o akomkoľvek probléme a pochopenie tvojich priorít. Práve naopak nečakaj šéfa za chrbtom alebo cvakanie vymedzeného obedového času a podobne :)
+Ako developer/developerka budeš:
+* súčasťou kompletného životného cyklu softvéru cez analýzu, vývoj, nasadzovanie, testovanie, prevádzka,
+* mať možnosť predstaviť tvoje nápady v rámci architektúry systému na ktorom pracuješ,
+* v kontakte so zákazníkom, s ľuďmi z praxe kde rýchlo spoznáš pocit dobre odvedenej práce alebo priestor na vylepšenie tvojej práce,
+* v jednom tíme so zadávateľom požiadavky, takže komunikácia je veľmi rýchla a efektívna,
+* tvoj kariérny rast podporí priateľský tím a účasť na zvučných projektoch v rôznych oblastiach .
+U nás zaboduješ HLAVNE so:
+* zodpovednosťou, ochotou pracovať a učiť sa, ostatné sa dá pri konkrétnej potrebe zabezpečiť. Takýto prístup je ďaleko nad znalosťou všetkých technológií sveta :D
+Okrem toho ak poznáš a používal si NIEKTORÉ z týchto technológií vyčaríš nám úsmev na tvári:
+* okrem Javy ak poznáš aj Kotlin.
+* SQL ti nerobí problém a prípadne poznáš aj NoSQL databázy,
+* máš znalosť s javascript, prípadne skúsenosť s typescriptom či FE frameworkami ako React, Angular 8+, Vue, CSS, HTML, Node.js,
+* hovoria ti niečo microservices, REST API, WS služby, Spring a kontajnery,
+* nie je ti cudzia automatizácia buildov a deploymentu (CI/CD pipelines),
+* ak si niečo už niekedy robil s Azzure službami je taktiež dobrá správa,
+* trošku z autentifikácie a autorizácie  (SSO, MFA, federácia identít, OIDC/SAML, oAuth, JWT, centralizované prihlásenie)
+* máš analytické a logické myslenie,
+* si agile friendly, plánoval si si alebo niekomu prácu na sprint a vieš čo povedať na stand upe,
+* máš tímového ducha
+A čo môžeš od nás očakávať?
+*
+Priateľský tím kde určite rýchlo zapadneš.
+* Práca z domu nie je problém.
+* Pracovný čas si môžeš prispôsobiť podľa seba, ale ak treba, očakávame, že sa v tíme zamaká.
+* Káva, čaj, voda a iné občerstvenie v kancelárii je na nás.
+* Spoločné aktivity, výlety a akcie v rámci tímu na ktorých sa všetci spolu dohodneme.
+* U nás sa budeš zlepšovať a budeš rásť. Kladieme dôraz na to aby ľudia nestagnovali v tom čo robia.
+* Chceme, aby si si oddýchol keď potrebuješ a ak príde k tomu, že to bude nad rámec tvojej dovolenky, stačí zdvihnúť ruku a niečo vymyslíme.
+Ak hľadáš prostredie kde sa budeš cítiť dobre s otvoreným a normálnym prístupom, máš záujem robiť veci tak aby dávali zmysel a preto, že chceš a nie pretože musíš tak si na správnom mieste.
+Teraz už stačí iba poslať tvoje CV (v slovenčine alebo angličtine) a my sa ti ASAP ozveme.
+----------------------------------------------------------------------------------------------
+1.) Ten tím je úspešný, kde členovia tímu: hovoria viac „my“ ako „ja“, neboja sa priznať svoju chybu či neúspech, robia to čo je potrebné pre dobro tímu a nie to čo chcú.
+2.) Všetko čo stojí zato aby bolo urobené, stojí za to, aby bolo urobené dobre.
+----------------------------------------------------------------------------------------------
+Zamestnanecké výhody, benefity
+U nás sa staneš súčasťou podporujúceho prostredia zameraného na rast, kde na ľuďoch, kvalite práce a rovnováhe skutočne záleží. Investujeme do tvojho rozvoja, vybavíme ťa špičkovými nástrojmi a vytvárame pracovné prostredie, ktoré pôsobí profesionálne a zároveň ľudsky — s flexibilitou a komfortom.
+Benefity v skratke:
+Tím šikovných ľudí, ktorým úprimne záleží na tom, aby robili veci dobre
+Skutočný technický aj osobný rozvoj
+Priateľská, takmer rodinná atmosféra
+Silný dôraz na rovnováhu medzi pracovným a súkromným životom
+Prémiové technické vybavenie
+Bezplatné parkovanie v blízkosti našich kancelárií
+Možnosť práce z domu
+Mzda podľa úrovne vašich schopností + balík benefitov
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+alebo
+Nemecký jazyk - Začiatočník (A2)
+Pozícia je vhodná pre absolventa
+Áno
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Annotation Slovakia, s.r.o. je softvérová spoločnosť poskytujúca komplexné služby v oblasti informačných technológií so špecializáciou na vývoj softvérových riešení pre poisťovníctvo a finančných sprostredkovateľov, železničnú dopravu a energetické spoločnosti.
+Budujeme efektívne, škálovateľné a zabezpečené riešenia, podporované najmodernejšími dostupnými technológiami.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Tomáš Nemčovič
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+4135400
+Dátum zverejnenia:
+26.2.2026
+2026-02-26
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+IT architekt
+,
+Java programátor
+Spoločnosť:
+Annotation Slovakia, s. r. o.
+Základná zložka mzdy (brutto):
+1 750 EUR/mesiac

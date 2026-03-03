@@ -1,0 +1,85 @@
+Mid Full-Stack Engineer (React & .NET)
+Bentley Systems International Limited, organizačná zložka
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 000 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Location:
+Slovakia (Office-Based/Home-Based/Hybrid)
+Position Summary:
+Bentley Systems has exciting opportunities for Software Developers who are passionate about working with cutting-edge technologies and development processes.  You will play an important role in the creation of industry-leading software that will enable users to solve their mission-critical problems with Enterprise Data Federation Service (EDFS). EDFS is Bentley’s next‑generation integration engine that enables seamless, zero‑code connectivity between the iTwin platform and external enterprise systems (such as SAP, IBM Maximo, and Microsoft SharePoint). The team’s mission is to deliver a flexible, ready‑to‑use integration gateway that allows organizations to easily connect their enterprise systems with iTwin solutions without custom coding.
+Responsibilities:
+Build React.Js frontend components that interact with our .NET core API.
+Implement new functionality and business logic in C# and SQL.
+Maintain the current code base written in C# and React.
+Debug support issues and provide root cause analysis, workarounds, and solutions to the issues.
+Design the architecture of new features with regards to usability, feasibility, and security, using proven design patterns and SOLID principles.
+Break down complex work items into manageable, deliverable pieces with accurate estimates.
+Translate complicated technical analysis into language that cross functional teams can understand (Product Owner, Support, Business Analysts, etc.)
+Write end-to-end, unit, and integration tests to cover your work.
+Conduct code reviews and pull requests in GIT.
+Work in Azure DevOps to manage tasks and hours for work items.
+Engage with a global team through email, Microsoft Teams, both through chat and on calls.
+Qualifications:
+Bachelor’s degree in computer science, Software Engineering or equivalent field.
+At least 4 years of experience in web development (UI, Backend, or both).
+Proven work experience with React.JS, SQL, Microservices, Rest APIs, C#, .NET core, .NET Framework.
+Excellent verbal and written communication skills.
+Familiarity with design patterns, SOLID principles, root cause analysis.
+The ability to learn new things quickly without guidance or supervision.
+Strong decision-making skills when weighing the pros and cons of different approaches to problems.
+Employee perks, benefits
+A great Team and culture – please see our colleague video.
+An exciting career as an integral part of a world-leading software company providing solutions for architecture, engineering, and construction - watch this short documentary about how we got our start.
+An attractive salary and benefits package.
+A commitment to inclusion, belonging and colleague wellbeing through global initiatives and resource groups.
+A company committed to making a real difference by advancing the world’s infrastructure for better quality of life, where your contributions help build a more sustainable, connected, and resilient world. Discover our latest user success stories for an insight into our global impact.
+Training and professional development opportunities (certifications programs, conferences etc.).
+Additional annual leave days and extra paid days for different occasions (marriage, moving day, bereavement leave etc.).
+Health insurance package and accidents insurance 24/7.
+Referral program with bonuses.
+Extra paid day for volunteering in the organization of your choice.
+Ability to work from office or fully remote from home.
+Please note if you are employed full-time, the salary for this position ranges from 3000 EUR gross (before taxes-Slovakia) depending on knowledge and experience.
+If you are ready to take your development skills to the next level and be part of a team that is shaping the future of software, we want to hear from you! Apply now and embark on an exciting journey with Bentley!
+Please submit resume in English.
+Requirements for the employee
+Candidates with education suit the position
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Advanced (C1)
+Advertiser
+Brief description of the company
+Around the world, infrastructure professionals rely on software from Bentley Systems to help them design, build, and operate better and more resilient infrastructure for transportation, water, energy, cities, and more. Founded in 1984 by engineers for engineers, Bentley is the partner of choice for engineering firms and owner-operators worldwide, with software that spans engineering disciplines, industry sectors, and all phases of the infrastructure lifecycle. Through our digital twin solutions, we help infrastructure professionals unlock the value of their data to transform project delivery and asset performance. www.bentley.com
+Contact
+Contact person: -  Karolina Tamulynaitė
+Tel.:
++37061107976
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5243083
+Dátum zverejnenia:
+2.3.2026
+2026-03-02
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+Spoločnosť:
+Bentley Systems International Limited, organizačná zložka
+Základná zložka mzdy (brutto):
+3 000 EUR/month

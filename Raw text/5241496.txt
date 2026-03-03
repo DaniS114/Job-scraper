@@ -1,0 +1,136 @@
+Frontend Engineer
+CulturePulse, s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+part-time, trade licence
+Wage (gross)
+2 000 EUR/month
+Final monthly salary is based on candidate´s professional experience, skills and knowledge.
+Information about the position
+Job description, responsibilities and duties
+Build and evolve mission-critical user interfaces
+Design and implement frontend components for analytical dashboards and decision-support tools.
+Translate complex data, simulations, and summaries into
+clear and actionable user interfaces
+.
+Ensure frontend behaviour is predictable, robust, and aligned with operational use cases.
+Contribute to frontend standards, patterns, and long-term maintainability.
+Collaborate across architecture, design, and delivery
+Work closely with the
+backend engineer
+and
+technical leadership
+to align frontend implementation with APIs, data contracts, performance considerations, and overall system architecture and delivery goals.
+Collaborate with
+designers
+to turn design concepts into high-quality, production-ready UI.
+Work with design tools such as
+Figma
+to understand layouts, interaction patterns, and design intent.
+Understand how frontend, backend services, and data pipelines interact as a single system.
+Provide feedback on feasibility, UX implications, and frontend constraints during solution design.
+Work with complex, data-driven systems
+Implement frontend logic for real-time or near-real-time data flows.
+Handle data-heavy views, state management, and interaction patterns common in analytical platforms.
+Understand how frontend applications operate within
+cloud-based architectures
+(e.g. APIs, authentication, deployments).
+Be aware of how frontend decisions impact performance, scalability, and operational reliability in cloud environments.
+Deliver with ownership
+Take ownership of assigned frontend areas from design through implementation and iteration.
+Be comfortable working with a high degree of autonomy in a small, senior-leaning team.
+Identify frontend risks, usability issues, or technical debt and proactively address them.
+Ensure frontend code is maintainable, testable, and production-ready.
+Must-have requirements
+React
+(production experience with modern component-based frontend development).
+TypeScript
+- practical experience using TypeScript in production frontend applications.
+Solid understanding of modern
+JavaScript
+fundamentals.
+Experience building
+data-intensive or dashboard-style applications
+.
+Good understanding of
+API-driven frontend architecture
+.
+Ability to reason about
+performance, state management, and component design
+.
+Collaboration with designers
+and work with
+design tools
+(e.g. Figma).
+Nice-to-have
+Vite
+(modern frontend build tooling).
+Tailwind CSS
+or similar styling approaches.
+Data visualisation libraries
+(e.g. PlotlyJS or similar).
+JavaScript package managers
+(yarn, pnpm, npm).
+Frontend testing tools
+(e.g. Playwright or equivalent).
+GitHub-based workflows
+(version control, code review, collaboration).
+Cloud-based frontend delivery
+(e.g. AWS S3, CloudFront or equivalent).
+Deployment
+and
+runtime
+considerations in
+cloud
+and
+containerised
+environments.
+Frontend observability
+and
+error tracking
+(e.g. Sentry).
+Security and data-sensitivity considerations
+in frontend design.
+Employee perks, benefits
+​• Not a typical, boring 9 - 5. Flexible work with an emphasis on measurable results rather than needless processes.
+​• Direct opportunity to shape the product’s technical direction and build your own solutions.
+​• Close collaboration with domain experts and hands-on mentorship from experienced leaders.
+​• Small, high-performing team with no corporate bureaucracy, fast decisions, and strong support for new ideas.
+​• Work on projects with real impact, including cooperation with the UN, NATO, and the EU.​
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+Degree in Computer Science, Engineering, or equivalent practical experience.
+Language skills
+English - Advanced (C1)
+Advertiser
+Brief description of the company
+An AI company specializing in social listening and text analysis.
+Number of employees
+10-19 employees
+Contact
+Contact person: Kristína Blatnická
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5241496
+Dátum zverejnenia:
+26.2.2026
+2026-02-26
+lokalita:
+Bratislava
+Pozícia:
+Frontend developer
+Spoločnosť:
+CulturePulse, s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

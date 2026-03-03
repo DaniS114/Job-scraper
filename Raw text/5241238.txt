@@ -1,0 +1,84 @@
+Security Infrastructure  Administrator/IT security Administrátor
+ECM MONITORY, spol. s r.o.
+Miesto práce
+Kuzmányho, Košice
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+Od 1 300 EUR/mesiac
+Platové podmienky od: 1300 Eur/mesiac (v prípade skúsenejších kandidátov od 1800,- EUR/mesiac)
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Prevádzka a priebežné zlepšovanie internej IT/OT infraštruktúry. Konfigurácia a správa sieťových komponentov.
+Pravidelná údržba hardvéru a softvéru vrátane patch manažmentu. Zálohovanie a obnova (backup & recovery).
+Inštalácia a štandardizácia OS a aplikácií (Windows/Linux/macOS).
+Správa identity a prístupov (IAM).
+Hardening a bezpečnostná konfigurácia systémov.
+Prevádzkový dohľad a základná bezpečnostná diagnostika.
+Riešenie technických problémov používateľov a infraštruktúry (HW/SW/sieť). Spolupráca na návrhu a implementácii nových IT/OT riešení.
+Technická dokumentácia a štandardy (udržiavanie aktuálnej dokumentácie). Spolupráca naprieč oddeleniami na projektoch a zlepšeniach
+Automatizácia rutinných činností prostredníctvom scriptov.
+Postupné zapojovanie do MDR/Blue team aktivít
+Zamestnanecké výhody, benefity
+možnosť získania
+13. a 14. platu
+podľa výsledkov spoločnosti a individuálneho výkonu,
+príspevok na stravovanie v plnej zákonnej výške,
+príspevok na odborné školenia,
+stabilné pracovné prostredie v technicky orientovanej firme,
+možnosť kariérneho rastu,
+firemné akcie a podpora tímovej kultúry.
+Informácie o výberovom konaní
+Chceš robiť prácu, ktorá má zmysel a reálny dopad na svet okolo nás? U nás sa stretávajú dve „čistoty“ dnešného sveta: ekologická čistota (reálny monitoring kvality prostredia) a kybernetická čistota (reálna bezpečnosť IT/OT systémov). Nie je to náhoda – obe stoja na dátach, dohľade, disciplíne a schopnosti reagovať včas.
+Hľadáme IT Security Administratora (junior až senior – podľa skúseností), ktorý chce robiť prácu s reálnym dopadom. Sme firma, ktorá prirodzene prepája dve oblasti, ktoré sa dnes intenzívne riešia po celom svete: monitoring skutočnej ekologickej čistoty a monitoring skutočnej kybernetickej bezpečnosti v prostredí IT aj OT. Rozumieme, že „čistota“ systémov – či už environmentálna alebo kybernetická – je o dôvere, merateľnosti a kontinuálnom dohľade.
+Tvojou úlohou bude starostlivosť o internú infraštruktúru a bezpečnostnú prevádzku – od bezpečného nastavenia prístupov, hardeningu a základného dohľadu až po spoluprácu na procesoch a nástrojoch. Budeš pracovať s modernými bezpečnostnými technológiami, v prostredí privátneho aj verejného cloudu, a postupne sa dostaneš aj k automatizácii a inteligentným asistenčným mechanizmom (AI agentom) – od ich používania až po spolu návrh v rámci našich workflowov. Zároveň ponúkame jasnú rastovú cestu do tímu, ktorý zabezpečuje prevádzku MDR služieb svetovej triedy (monitoring, detekcia a reakcia na incidenty) pre IT/OT prostredia – a ak budeš mať záujem a chuť sa profilovať, ponúkame aj postupný posun smerom k špecializácii v Blue/Red teame (defenzívne aj ofenzívne bezpečnostné aktivity).
+Poznáš skratky ako AD, DNS, DHCP, IP, TCP/UDP, VPN, VLAN, GPO, TLS, SSH, RDP, UEFI, RAID, NAS, NVMe, Kerberos, KVM? Ak aspoň pri časti z nich vieš, o čo ide a ako sa používajú, pošli CV.
+A čo tieto skratky? AD CS, GPO, OCSP, WMI/CIM, PAM, mTLS, nftables, CGNAT, VXLAN, LUKS, iDRAC/iLO, iPXE, TPM, PIV, QEMU. Ak ti niektoré z nich niečo hovoria, určite pošli CV. A ak nie – ale chceš sa ich naučiť, pracovať s nimi v praxi a máš na to predpoklady – pošli CV tiež.
+kutsHOftTvJ9kuDsHEHtjvVtTu3tlPfYCtNEZMQ2kCDJk8NJYCHuALMfDtRv
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+informatika alebo technické zameranie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+1 rok v oblasti IT administrácie
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Naša spoločnosť sa zaoberá dodávkou a následným servisom systémov pre kontinuálny monitoring plynných emisií, imisií, analýzy vôd a rôznych meracích systémov, pre riadenie výrobných procesov v rôznych priemyselných odvetviach. Pôsobíme na trhu od roku 1993. Realizujeme projekty od návrhu zariadenia, jeho vyhotovenia, projektovej dokumentácie až po ukončenie dodávky a montáže zariadenia a následného servisu u zákazníka.
+Počet zamestnancov
+10-19 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Renáta Sladíková
+Tel.:
++421556228582
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5241238
+Dátum zverejnenia:
+26.2.2026
+2026-02-26
+lokalita:
+Košice
+Pozícia:
+Špecialista IT bezpečnosti
+,
+Systémový administrátor
+Spoločnosť:
+ECM MONITORY, spol. s r.o.
+Základná zložka mzdy (brutto):
+1 300 EUR/mesiac

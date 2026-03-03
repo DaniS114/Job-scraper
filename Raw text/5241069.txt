@@ -1,0 +1,86 @@
+Backend Developer (Python/FastAPI)
+quantify, s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+1 500 - 3 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Nebudeš len slepo plniť tikety. Očakávame od teba kritické myslenie a proaktívny prístup.
+Architektúra a kód: Budeš vyvíjať a optimalizovať moderné backendové riešenia v Pythone (srdcom tvojej práce bude FastAPI).
+Škálovateľné API: Tvojou úlohou bude navrhovať a implementovať rýchle a efektívne API, ktoré zvládnu záťaž.
+Kvalita na prvom mieste (Testovanie): Tvoj kód nekončí len pri tom, že „u teba to funguje“. Súčasťou tvojej bežnej rutiny bude aj písanie testov, aby sme mali istotu, že sa nám produkcia pri novom release nerozpadne.
+CI/CD a automatizácia: Budeš ladiť a udržiavať automatizované procesy (napr. cez GitHub Actions), aby bol náš deployment hladký a bez stresu.
+Servery a monitoring: Kód treba nielen napísať, ale aj nasadiť a udržať pri živote. Budeš pracovať so serverovým prostredím a nastavovať monitoring tak, aby sme o prípadnom probléme vedeli skôr ako naši používatelia.
+AI vo vývoji: Nebránime sa inováciám – naopak! Budeš efektívne využívať AI nástroje na zrýchlenie svojho vývoja a boostnutie produktivity.
+Brainstorming a komunikácia: Veríme, že dobrý softvér vzniká komunikáciou. Budeš aktívne komunikovať s tímom a spoločne budeme hľadať tie najlepšie riešenia problémov.
+Zamestnanecké výhody, benefity
+​
+Férové ohodnotenie: 1500 až 3000 eur mesačne (práca na živnosť/s.r.o.) podľa tvojej seniority a skúseností.
+100% Home Office: Pracuj z gauča, z kaviarne alebo z pláže. Je nám jedno, odkiaľ robíš, dôležité sú výsledky.
+Žiadny korporát, ale startup vibe: Práca na zaujímavých projektoch v malom tíme, kde tvoj hlas reálne zaváži.
+Moderný tech stack: Možnosť využívať moderné technológie a nástroje na zvýšenie efektivity.
+Priestor pre tvoj rast: Podporíme ťa v učení sa nových technológií a posúvaní vlastných hraníc.
+​
+Informácie o výberovom konaní
+Pošli nám svoje CV a ukážku kódu (GitHub) na , alebo nám napíš, na akom najzaujímavejšom projekte si doteraz robil. Tešíme sa na teba!
+Predpokladaný termín ukončenia výberového konania
+10.3.2026
+(ostáva ešte 12 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Slovenský jazyk - Pokročilý (C1)
+Prax na pozícii/v oblasti
+IT
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Máš za sebou aspoň 3 roky praxe a Python máš v malíčku.
+Tykáš si s databázami (či už SQL alebo NoSQL).
+Skúsenosti s písaním testov (unit, integračné) – vieš, že bez nich to z dlhodobého hľadiska nejde.
+Rozumieš princípom CI/CD a máš praktickú skúsenosť s nástrojmi ako GitHub Actions, GitLab CI alebo obdobnými.
+Si OK so servermi (základy Linux administrácie) a vieš nastaviť zmysluplný monitoring aplikácií.
+Máš aspoň základný prehľad vo svete umelej inteligencie a vieš, ako ju prakticky využiť.
+Dorozumieš sa plynule anglicky (B2).
+Si tímový hráč, ale vieš potiahnuť veci aj úplne samostatne.
+Máš zmysel pre detail – zakladáš si na kvalite svojho kódu a dodržiavaní termínov.
+Bonus: VŠ vzdelanie I. stupňa (zameranie na IT) je výhodou, ale tvoje skilly a reálna prax sú pre nás dôležitejšie.
+​
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme menšia, dynamická firma zameraná na vývoj moderných webových riešení pre firmy rôzneho zamerania. Veríme, že budúcnosť je v technológiách a umelej inteligencii, preto kladieme dôraz na využívanie najnovších nástrojov, ktoré nám umožňujú rýchlejšie a efektívnejšie dodávať kvalitné softvérové produkty. Pracujeme na zaujímavých projektoch, kde kombinujeme technické know-how, zmysel pre detail a snahu neustále sa zlepšovať. Hľadáme posilu do tímu, ktorá s nami bude rásť a spoluvytvárať hodnotné riešenia.
+Kontakt
+Kontaktná osoba: Ing.  Martin Kostal
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5241069
+Dátum zverejnenia:
+25.2.2026
+2026-02-25
+lokalita:
+Práca z domu
+Pozícia:
+Python programátor
+Spoločnosť:
+quantify, s. r. o.
+Základná zložka mzdy (brutto):
+1 500 EUR/mesiac

@@ -1,0 +1,103 @@
+Funkčný analytik (m/ž)
+Miesto práce
+Mlynská 837/31, Košice, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 1 550 EUR/mesiac
+základná mzda od 1550 EUR brutto + 20% výkonnostná odmena
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho tímu funkčných analýz a IT testovania hľadáme skúseného funkčného analytika, ktorý dokáže prepájať svet biznisu a IT. Hľadáme kolegu, ktorý bude pracovať na návrhu a implementácii systémových riešení, ktoré majú reálny dopad na efektivitu procesov a spokojnosť používateľov. Ak vás baví hľadať odpovede na otázky „čo zákazník potrebuje“ a „ako to správne nastaviť v systéme“, toto je príležitosť pre vás.
+Čo bude vašou úlohou
+komunikovať s kľúčovými používateľmi a analyzovať ich potreby,
+získavať business požiadavky a pretvárať ich do funkčných dizajnov,
+spolupracovať s IT architektmi, analytikmi a vývojármi pri implementácii,
+nastavovať a udržiavať zverené systémy v súlade s procesmi,
+koordinovať úlohy a testovanie s internými aj externými partnermi,
+dohliadať na dátovú kvalitu a funkčnosť dodaných riešení,
+poskytovať 2. a 3. úroveň IT podpory a zastrešovať riešenie incidentov.
+Zamestnanecké výhody, benefity
+Čo vám ponúkame?
+Benefity alebo ďalšie skvelé dôvody prečo prísť k nám
+Stabilná práca v medzinárodnej spoločnosti
+Fond pracovného času 37,5 hod. týždenne
+5 dní dovolenky nad rámec Zákonníka práce
+Finančný príspevok na stravovanie 7 EUR netto bez doplatku zamestnanca
+Silný sociálny program
+Osobný účet - finančný príspevok 1050 EUR brutto ročne určený na vašu regeneráciu
+Príspevok na doplnkové dôchodkové sporenie
+Finančné príspevky pri pracovnom výročí, či životnom jubileu
+Široká škála interných a externých školení
+Ponuka benefitov v oblasti zdravotnej starostlivosti, športu (MultiSport karta, UpBalansea) a kultúry
+Športové kluby a podujatia pre Vás aj Vašu rodinu
+Nadštandardné lekárske prehliadky
+Bezplatná poradňa pre zamestnancov (psychologická, finančná, právna)
+Zľavy u vybraných dodávateľov tovarov a služieb
+Informácie k výberovému konaniu
+Ak vás ponuka zaujala, neváhajte a pošlite nám svoje CV ešte dnes, najneskôr v termíne do 13.3.2026.
+Predpokladaný termín nástupu: ASAP, dohodou.
+Tešíme sa na vás!
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Osobnostné predpoklady a zručnosti
+Čo od vás očakávame
+skúsenosť s funkčnou/IT analýzou alebo business analýzou,
+schopnosť preložiť biznis požiadavky do IT jazyka,
+zodpovedný prístup a schopnosť koordinovať viacero úloh naraz,
+výhodou je znalosť práce so systémami a skúsenosť s testovaním.
+S čím pracujeme?
+Jira / Confluence
+– na správu požiadaviek, backlogu a dokumentáciu - požadujeme pokročilú úroveň
+Azure DevOps (ADO) – alternatíva k Jira, bežná v korporátnom prostredí – postačí mierne pokročilá úroveň
+Modelovanie procesov a systémov:
+Enterprise Architect – modelovanie a dokumentácia systémov (UML, BPMN) – požadujeme pokročilú úroveň
+Microsoft Visio / Draw.io – na BPMN diagramy, procesné mapy, jednoduché diagramy
+Dizajn riešenia / wireframy
+Figma / Adobe XD – na tvorbu wireframov a návrh UI/UX (táto požiadavka je výhodou)
+Dokumentácia a prezentácia: Microsoft Office (Word, Excel, PowerPoint) – potrebná pokročilá úroveň
+Základné technické nástroje (výhodou - ak niektorý ovládate, určite ho spomeňte v CV):
+SQL (napr. SQL Developer, DBeaver, pgAdmin) – schopnosť analyzovať dáta priamo z databázy
+Postman / SoapUI – testovanie API
+GitHub / GitLab (pre prípady, ak je potrebné komunikovať s vývojármi a poznať verzovanie)
+Ďalšie systémy a platformy, ktoré využívame:
+MS Dynamics 365 – požadujeme mierne pokročilú úroveň
+SAP CRM / ISU – je výhodou
+CISCO Finesse - je výhodou
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť Energetika Slovensko, a.s., je najväčším dodávateľom elektriny a významným dodávateľom plynu na Slovensku. Pod značkami ZSE a VSE svojim zákazníkom poskytuje tiež množstvo nekomoditných služieb, napríklad rôzne typy poistenia, inštaláciu a servis klimatizácií či komplexné riešenia zamerané na využitie obnoviteľných zdrojov (fotovoltika).
+www.esk.sk
+Počet zamestnancov
+547 zamestnancov
+Adresa spoločnosti
+Energetika Slovensko, a.s.
+Kontakt
+Kontaktná osoba: Mgr.  Marta Boršovská
+Tel.:
++421918884706
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5242749
+Dátum zverejnenia:
+2.3.2026
+2026-03-02
+lokalita:
+Košice
+Pozícia:
+IT tester
+,
+User Experience Expert
+Spoločnosť:
+Východoslovenská energetika Holding a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+1 550 EUR/mesiac

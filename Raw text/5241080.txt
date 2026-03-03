@@ -1,0 +1,93 @@
+Prehrať video
+Voľné pozície
+AWS Cloud Architect (m/ž)
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Od 3 000 EUR/mesiac
+plný úväzok
+Aký bude pracovný deň u nás?
+Hľadáme skúseného
+AWS Cloud architekta / AWS Solution architekta
+, ktorý sa zameria na návrh a realizáciu online cloudových dátových riešení postavených na
+API/REST
+a
+asynchrónnom spracovaní dát
+, vrátane integrácie
+LLM
+a
+AI služieb
+. Ak Vás baví
+moderná cloudová architektúra
+, event-driven prístup a prepojenie systémov v reálnom čase, táto rola je pre Vás.
+náplň práce:
+Návrh a implementácia cloudovej architektúry v AWS so zameraním na dátové riešenia,
+tvorba a optimalizácia REST API pre interné aj externé systémy,
+návrh asynchrónneho a event-driven spracovania dát (queues, streams, events),
+integrácia LLM a AI služieb do produkčných systémov,
+spolupráca s developermi, data science analytikmi a produktovými tímami,
+zodpovednosť za škálovateľnosť, dostupnosť a bezpečnosť riešení,
+definovanie štandardov, best practices a architektonických rozhodnutí.
+Poslať životopis
+Koho hľadáme?
+Skúsenosti s návrhom cloudovej architektúry v AWS (min. 3 roky)
+Praktická znalosť AWS služieb ako API Gateway, Lambda, ECS/EKS, SQS, SNS, EventBridge
+Skúsenosti s REST API, verziovaním, autentifikáciou
+Znalosť asynchrónnych architektúr a message-based komunikácie
+Skúsenosti s integráciou LLM / AI API (napr. OpenAI, Bedrock a pod.) sú výhodou
+Skúsenosť s Amazon SageMaker
+Znalosť Infrastructure as Code (Terraform alebo CloudFormation)
+Prehľad v oblasti cloud security (IAM, networking, secrets)
+Schopnosť komunikovať architektúru technickým aj netechnickým partnerom
+Kolegyne a kolegov dokážeme oceniť
+Základná mesačná mzda sa pohybuje
+od 3000 € brutto
+. Finálna mzda je závislá od doterajších skúseností, seniority v hľadanej oblasti a od odborných znalostí.
+V ČSOB dbáme na zabezpečenie príjemného pracovného prostredia pre našich zamestnancov. Príďte k nám pracovať do nových moderných priestorov na nábreží Dunaja, zažite meeting na priestrannej terase alebo v zasadačke s výhľadom na najväčšiu rieku na Slovensku, doprajte si kávu s kolegami v kaviarni priamo v budove a obed v našej Cantíne, alebo si vytlačte kancelárske pomôcky na 3D tlačiarni v našom inovačnom štúdiu. Staňte sa našim kolegom, a pošlite nám Vaše CV!
+Naviac našim zamestnancom ponúkame ďalšie zaujímavé benefity:
+Pracovné benefity:
+Vedenie nášho najvyššieho balíčka bežného účtu s cestovným poistením do celého sveta zdarma + zľavy na produktoch ČSOB Finančnej skupiny
+Ak si prispievate na DDS, prispejeme Vám aj my!
+Ako jeden z mála zamestnávateľov Vám prispejeme na životné poistenie
+Užite si 5 dní voľna naviac už po odpracovaní 1 roka
+8 dní v mesiaci možnosť práce z domu pri vybraných pozíciách
+Môžete sa zapojiť do programu „odporuč svojho kolegu“ a získať finančný bonus!
+K dispozícii Vám bude do budúcna aj kariérny kouč, ktorý Vám pomôže so smerovaním Vašej kariéry u nás
+Pre najmenších členov Vašej rodiny máme k dispozícii detský kútik
+Na podporu „Work Life Balance“ poskytujeme našim zamestnancom:
+Príspevok na MultiSport kartu
+Dni voľna navyše pri životných udalostiach (narodenie dieťaťa, sťahovanie, životné jubileum)
+Možnosť využitia služby čistiarne oblečenia priamo v budove
+Firemné fitness centrum úplne zadarmo
+Zaujímavé prednášky na rôzne témy (od bankových trendov, po oblasti zdravia a zdravého životného štýlu)
+Ďalšie benefity Vám radi predstavíme na osobnom stretnutí.
+V prípade, že máte záujem o túto pozíciu, kliknite na tlačidlo "Poslať životopis", vyplňte svoje osobné údaje a pripojte životopis.
+Uvidíte sa s:
+Kristína Kosecová
+Poslať životopis
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+CSOB.sk
+ID:
+5241080
+Dátum zverejnenia:
+26.2.2026
+2026-02-26
+lokalita:
+Bratislava
+Pozícia:
+Databázový administrátor
+,
+Databázový analytik
+,
+DevOps Engineer
+,
+IT analytik
+,
+IT architekt
+Spoločnosť:
+ČSOB Finančná skupina
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

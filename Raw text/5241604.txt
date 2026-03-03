@@ -1,0 +1,93 @@
+System Administrator / Infrastructure Engineer (On-prem, Azure, Microsoft 365, Entra ID, Cloudflare)
+WORLD BUSINESS PRESS online, a.s.
+Miesto práce
+Slávičie údolie, Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+Výsledná mzda závisí od skúseností kandidáta/kandidátky.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​- Správa a rozvoj on-prem Windows infraštruktúry (AD DS, GPO, DNS, DHCP, File služby)
+- Prevádzka a troubleshooting sieťovej infraštruktúry (L2/L3, routing, firewall, VPN)
+​- Správa domén a DNS:
+- Registrátori domén (obnova, presuny, bezpečnostné nastavenia)  - DNS zóny (verejné aj interné)
+- Integrácia domén s Microsoft 365, Azure a Cloudflare
+- Administrácia Microsoft 365 / Office 365:
+- Microsoft Entra ID (identity, role, MFA, Conditional Access)
+- Exchange Online (mail flow, DNS záznamy, bezpečnosť)
+- SharePoint Online / OneDrive
+- Správa používateľov, skupín a licencií
+- Správa Azure prostredia:
+- Azure Virtual Machines
+- Azure Networking (VNet, NSG, VPN, peering)
+- AKS – základná prevádzka, aktualizácie, monitoring
+- Správa Cloudflare:
+- DNS, WAF, CDN
+- Zero Trust / Access
+- TLS certifikáty a ochrana verejných služieb
+- Riešenie incidentov, root-cause analýza
+- Dokumentácia a štandardizácia infraštruktúry
+​
+Zamestnanecké výhody, benefity
+​- Technicky zaujímavú prácu s reálnou zodpovednosťou
+- Vplyv na architektúru a technické rozhodnutia
+- Priestor na rast v cloude, automatizácii a bezpečnosti
+- Flexibilitu a férové ohodnotenie podľa skúseností​
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+- Praktické skúsenosti so správou Windows serverov (on-prem)
+- Dobrý prehľad v networkingu (TCP/IP, VLAN, routing, firewalling)
+- Skúsenosti so správou domén a DNS
+- Skúsenosti s Microsoft 365 administráciou
+​- Skúsenosti s Microsoft Entra ID
+- Skúsenosti s Microsoft Azure (VMs, networking; AKS výhodou)
+- Skúsenosti s Cloudflare (DNS, WAF alebo Access)
+- Schopnosť riešiť problémy samostatne end-to-end
+- Zodpovedný prístup k produkčnej prevádzke​
+Výhodou:
+-PowerShell (automatizácia AD, Entra ID, M365, Azure)
+- Infrastructure as Code- Monitoring / logging / SIEM
+- Linux administrácia
+- Security-oriented mindset (least privilege, hardening)​
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+WORLD BUSINESS PRESS online, a.s. pôsobí od roku 2010 a ponúka B2B klientom široké spektrum služieb v oblastiach marketingu, IT riešení a web developmentu. Našou prioritou je individuálny prístup a dlhodobé partnerstvá s klientmi, ktorým pomáhame rozvíjať ich podnikanie prostredníctvom inovatívnych digitálnych riešení.
+Počet zamestnancov: 25–49
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: WBPO CV
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5241604
+Dátum zverejnenia:
+26.2.2026
+2026-02-26
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT konzultant
+,
+Systémový administrátor
+Spoločnosť:
+WORLD BUSINESS PRESS online, a.s.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

@@ -1,0 +1,151 @@
+Senior AWS Data Engineer
+CODERAMA s. r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 500 - 6 000 EUR/mesiac
+Základná mzda pri TPP je 3 500,- EUR. Pri kontrakte sa mzda pohybuje od 4 000,- do 6 000,- EUR.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ahoj,
+som Marta z CODERAMA  a do nášho tímu hľadáme šikovného
+AWS Data Inžiniera
+, pre ktorého dáta nie sú len riadky kódu, ale skutočná misia. Ak ťa baví budovať a udržiavať škálovateľné
+S3-based data lakes
+v AWS a hľadáš prostredie, kde práca s dátami nie je len „job“, ale vášeň, čítaj ďalej!
+U nás to nie je len o technologickom stacku, ale o vytváraní spoľahlivého ekosystému, kde tvoje pipeline-y umožňujú data scientistom robiť ich kúzla a hýbať biznisom vpred.
+Čo ťa u nás čaká:
+Data Lake Architecture:
+Budeš navrhovať, vyvíjať a udržiavať dátové pipeline-y a workflowy priamo v prostredí
+AWS
+.
+Denná dávka Pythonu:
+Práca s
+Pythonom
+(Conda environments) a
+PySparkom
+bude tvojím každodenným chlebíkom.
+Orchestrácia:
+Budeš krotiť workflowy pomocou nástroja
+Airflow
+a spravovať verzie v
+Gite
+.
+Vývoj a experimenty:
+Využívanie
+JupyterHub
+na efektívnu prácu a testovanie riešení.
+Kolaborácia:
+Úzka spolupráca s tímami data scientistov a inžinierov na zabezpečení efektívneho a škálovateľného spracovania dát.
+Čo od teba očakávame:
+Python & PySpark Expertíza:
+Silné pochopenie a praktická skúsenosť s Pythonom a PySparkom na veľkých projektoch (rozumieš, ako tieto nástroje fungujú "under the hood").
+Technický základ:
+Skúsenosť s
+Git
+,
+Airflow
+a
+Conda
+prostrediami sú pre túto rolu kľúčové a nevyhnutné.
+AWS Knowledge:
+Skúsenosť s prácou v cloude, najmä so zameraním na
+S3
+.
+Tvojou veľkou výhodou bude:
+Ak sa orientuješ v
+CI/CD
+nástrojoch (Bitbucket, Jenkins, Nexus, GitLab CI/CD alebo podobné).
+Ak ti nie je cudzia práca s knižnicami
+Panda s
+alebo
+Polars
+.
+Ak máš základný prehľad v technológiách ako
+Docker, Kubernetes, CloudWatch
+alebo
+AWS Lambda
+(ak v nich nie si expert, radi ťa v nich u nás posunieme ďalej).
+Prečo do toho ísť s nami?
+Okrem zaujímavých cloudových projektov ťa čaká skvelý tím, ktorý sa rád stretne v našich officoch v Bratislave, Žiline, Martine alebo Banskej Bystrici. Ak však preferuješ online spoluprácu a prácu z domu, plne ti rozumieme.
+V CODERAMA sa o teba dobre postaráme, tak nám napíš, pošli CV a my sa ti ozveme späť! :)
+Zamestnanecké výhody, benefity
+• Nadštandardné platové ohodnotenie
+• Možnosť kariérneho rastu a sebarealizácie
+• Možnosť rotácie medzi projektami
+• Práca v úspešnej spoločnosti a v priateľskom kolektíve
+• Podpora vzdelávania a sebarozvoja
+• Flexibilná pracovná doba
+• Možnosť pracovať odkiaľkoľvek
+• Žiadna byrokracia
+• Firemný hardware
+• Stabilita, takmer žiadna fluktuácia - ak už raz do CODERAMA prídeš, nebudeš chcieť odísť
+• Event kalendár plný športových a kultúrnych akcií, teambuildingov a iných aktivít
+• Práca spojená s cestovaním, tzv. Work & Travel
+• Pet friendly office
+• Psychologické poradenstvo, coaching a mentoring program
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+a
+Slovenský jazyk - Expert (C2)
+Ostatné znalosti
+Amazon Web Services (AWS) - Pokročilý
+Python - Pokročilý
+PySpark - Pokročilý
+Apache Airflow - Pokročilý
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+• Znalosť agilného vývoja
+• Chuť pracovať
+• Záujem učiť sa nové technológie a neustále sa odborne vzdelávať
+• Zodpovednosť za pridelené úlohy
+• Samostatnosť, ale zároveň aj tímovosť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+CODERAMA, s.r.o. je progresívny a inovatívny SOFTWARE HOUSE zaoberajúci sa vývojom komplexných enterprise riešení pre zákazníkov zo Slovenska a zahraničia ako sú ŠKODA AUTO, NOTINO, CRIF, KONICA MINOLTA, MOROSYSTEMS, MONET+, KISTLER, KOMIX, BRAVIDA, ČSOB, MEGAUBYTOVANIE.SK, DXC TECHNOLOGY, TELEKOM, INTERWAY, KROS, UNIQA, AVILOO, UNILABS SK a ďalších.
+Zákazníci na nás najviac oceňujú našu proaktivitu a poctivosť. Okrem vývoja zákazníckych riešení sme sa s nadšením pustili aj do vlastných projektov a už teraz sa nevieme dočkať ako ich uvedieme na trh.
+V CODERAMA je nás 170+ a neustále rastieme.
+Okrem Žiliny pôsobíme aj v Bratislave, Martine a Banskej Bystrici. Mnohí z nás pracujú aj REMOTE. Každý z nás je jedinečný a navzájom sa perfektne dopĺňame. Vieme tvrdo zamakať ale aj sa poriadne zabaviť.
+V CODERAMA si zakladáme na kamarátskom prístupe, tímovosti, poctivej práci, transparentnosti a slobode. Problémy riešime spoločne a aj úspechy oslavujeme spoločne. Ak sa chceš presvedčiť, že pracovať u nás je naozaj zážitok, príď nás kedykoľvek navštíviť.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Marta Pavlovič
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5242350
+Dátum zverejnenia:
+27.2.2026
+2026-02-27
+lokalita:
+Bratislava
+Pozícia:
+Softvérový inžinier
+Spoločnosť:
+CODERAMA s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

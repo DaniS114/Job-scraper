@@ -1,0 +1,140 @@
+Senior IT Tester
+CODERAMA s. r. o.
+Miesto práce
+Martin, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+Od 2 000 EUR/mesiac
+Základná mzda pri TPP je od 2000- EUR. Pri kontrakte sa mzda pohybuje do 4 500,- EUR.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ahoj,
+som
+Marta
+z
+CODERAMA
+a do nášho tímu v
+Martine
+hľadáme parťáka – šikovného
+IT Testera
+, ktorý má oko dravca na chyby a nenechá prejsť žiaden bug bez povšimnutia. Ak ťa baví lúskať softvérové riešenia, hľadať v nich slabé miesta a chceš, aby bol výsledný produkt pre zákazníka dokonalý, si náš človek!
+U nás v CODERAMA to nie je len o mechanickom klikaní, ale o kritickom myslení a úzkej spolupráci s vývojármi, aby sme spoločne doručili kód, na ktorý budeme hrdí.
+Čo ťa u nás čaká:
+Strážca kvality:
+Budeš testovať softvérové riešenia podľa špecifikácií a dávať pozor, aby všetko sedelo do poslednej bodky.
+Scenáre a plány:
+Príprava, vykonávanie a evidencia testovacích scenárov (zatiaľ hlavne manuálne, ale ak ťa láka automatizácia, máš u nás dvere otvorené).
+Lov na bugy:
+Tvojou úlohou bude identifikovať chyby, poriadne ich zdokumentovať a dohliadnuť na to, aby ich chalani z vývoja úspešne opravili.
+Tímová spolupráca:
+Budeš v dennom kontakte s vývojármi a analytikmi – spoločne budete ladiť detaily a pripomienkovať zadania z pohľadu testovateľnosti.
+Dokumentácia:
+Vytváranie a aktualizácia všetkého dôležitého, čo k poriadnemu testovaniu patrí.
+Čo od teba očakávame:
+Zmysel pre detail:
+Si prirodzene zvedavý typ s analytickým myslením a precíznosťou (chyby pred tebou proste neujdú).
+Testovacie základy:
+Máš prehľad v testovacích metodikách a postupoch (ISTQB certifikát je pre nás veľké plus).
+Prax s testovaním:
+Skúsenosť s manuálnym testovaním webových, mobilných alebo desktopových aplikácií.
+Technický background:
+SQL ti nie je cudzie, vieš sa orientovať v logoch a s prehľadom zreprodukovať nájdenú chybu.
+Komunikácia:
+Vieš efektívne komunikovať s tímom a technická angličtina ti nerobí problém pri čítaní dokumentácie.
+Tvojou veľkou výhodou bude:
+Ak už máš skúsenosti s
+automatizovaným testovaním
+(napr. Selenium, Cypress).
+Ak si kamoš s nástrojmi ako
+Azure DevOps, Jira
+alebo
+TestRail
+.
+Ak sa orientuješ v procesoch
+CI/CD
+(Jenkins, Azure DevOps).
+​
+Prečo do toho ísť s nami?
+Okrem zaujímavých projektov na teba čaká skvelá partia, ktorá ťa rada privíta priamo v našom office v
+Martine
+. Zakladáme si na ľudskom prístupe, vzájomnej podpore a prostredí, kde sa môžeš profesijne posúvať.
+V CODERAMA sa o teba dobre postaráme, tak nám napíš, pošli CV a my sa ti ozveme späť! :)
+Zamestnanecké výhody, benefity
+• Nadštandardné platové ohodnotenie
+• Možnosť kariérneho rastu a sebarealizácie
+• Možnosť rotácie medzi projektami
+• Práca v úspešnej spoločnosti a v priateľskom kolektíve
+• Podpora vzdelávania a sebarozvoja
+• Flexibilná pracovná doba
+• Žiadna byrokracia
+• Firemný hardware
+• Stabilita, takmer žiadna fluktuácia - ak už raz do CODERAMA prídeš, nebudeš chcieť odísť
+• Event kalendár plný športových a kultúrnych akcií, teambuildingov a iných aktivít
+• Práca spojená s cestovaním, tzv. Work & Travel
+• Pet friendly office
+• Psychologické poradenstvo, coaching a mentoring program
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Pokročilý (C1)
+Ostatné znalosti
+SQL - Pokročilý
+Jira - Pokročilý
+Selenium - Pokročilý
+Cypress - Pokročilý
+Jenkins - Pokročilý
+Prax na pozícii/v oblasti
+4
+Počet rokov praxe
+4
+Osobnostné predpoklady a zručnosti
+• Znalosť agilného vývoja
+• Chuť pracovať
+• Záujem učiť sa nové technológie a neustále sa odborne vzdelávať
+• Zodpovednosť za pridelené úlohy
+• Samostatnosť, ale zároveň aj tímovosť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+CODERAMA, s.r.o. je progresívny a inovatívny SOFTWARE HOUSE zaoberajúci sa vývojom komplexných enterprise riešení pre zákazníkov zo Slovenska a zahraničia ako sú ŠKODA AUTO, NOTINO, CRIF, KONICA MINOLTA, MOROSYSTEMS, MONET+, KISTLER, KOMIX, BRAVIDA, ČSOB, MEGAUBYTOVANIE.SK, DXC TECHNOLOGY, TELEKOM, INTERWAY, KROS, UNIQA, AVILOO, UNILABS SK a ďalších.
+Zákazníci na nás najviac oceňujú našu proaktivitu a poctivosť. Okrem vývoja zákazníckych riešení sme sa s nadšením pustili aj do vlastných projektov a už teraz sa nevieme dočkať ako ich uvedieme na trh.
+V CODERAMA je nás 170+ a neustále rastieme.
+Okrem Žiliny pôsobíme aj v Bratislave, Martine a Banskej Bystrici. Mnohí z nás pracujú aj REMOTE. Každý z nás je jedinečný a navzájom sa perfektne dopĺňame. Vieme tvrdo zamakať ale aj sa poriadne zabaviť.
+V CODERAMA si zakladáme na kamarátskom prístupe, tímovosti, poctivej práci, transparentnosti a slobode. Problémy riešime spoločne a aj úspechy oslavujeme spoločne. Ak sa chceš presvedčiť, že pracovať u nás je naozaj zážitok, príď nás kedykoľvek navštíviť.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Marta Pavlovič
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5242353
+Dátum zverejnenia:
+27.2.2026
+2026-02-27
+lokalita:
+Martin
+Pozícia:
+IT tester
+Spoločnosť:
+CODERAMA s. r. o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

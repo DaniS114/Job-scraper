@@ -1,0 +1,113 @@
+Seeking Senior Software Test Engineer for Growth
+localhost s.r.o.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+From 3 400 EUR/month
+Final agreement depends on your skill-set and experience. This is the subject of a partnership agreement during the selection process.
+Information about the position
+Job description, responsibilities and duties
+Be part of a well-established international project with significant global impact.
+We are looking for s
+Senior Software Test Engineer
+to strengthen our quality assurance capability within a large-scale enterprise platform used across multiple countries.
+This is a senior-level role with strong ownership, technical depth, and the opportunity to actively mentor and influence the broader engineering team.
+As a Senior Software Test Engineer, you will contribute to the quality assurance of complex software systems and applications, ensuring delivery aligned with client and business requirements.
+You will work in a cross-functional Agile team alongside developers, product owners, designers, and data specialists, directly contributing to product reliability, scalability, and performance.
+Key Responsibilities
+Perform manual and automated testing of new and existing software products
+Design, develop, and maintain robust test automation frameworks
+Execute system, regression, integration, performance, and user acceptance testing
+Analyze business requirements and translate them into effective test scenarios and test cases
+Identify, document, and track defects using bug tracking tools
+Prepare comprehensive test plans (scope, objectives, risks, deliverables)
+Monitor and report qualitative and quantitative test metrics
+Ensure testing is timely, repeatable, and efficient
+Contribute to CI/CD pipelines and automation strategy
+Communicate with internal stakeholders and end users to ensure solution accuracy and completeness
+Independently resolve complex technical and application-level issues
+Mentor junior team members and provide technical guidance
+Employee perks, benefits
+• 6 extra days off: 3x localhost days and 3x sick days
+• Referral bonus
+• Benefit plus budget
+• Financial contribution to Pension plan
+• Multisport Card
+• Education support (certificates, courses, trainings)
+• Bonuses at every smashing life events
+• Flexible working arrangements
+• Transparent approach and communication
+• Supporting your ideas
+Information about the selection process
+If you are a senior QA professional who wants to actively shape quality standards, contribute to automation strategy, and support team growth — we would be excited to connect with you.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+IT
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+8
+Personality requirements and skills
+8+ years in software testing (manual or automated) or Bachelor's Degree or relevant experience in Software engineering
+5+ years of experience of software testing experience (manual and automation) for large scale enterprise web applications.
+5+ years of test automation framework design and development experience
+5+ years of programming experience
+(JavaScript/TypeScript, Java, or Python)
+Strong development skills in the following technologies and tools:
+Cypress, MochaJS
+Strong experience in testing Webservices
+(REST APIs - Selenium, Cucumber, ReadyAPI, etc.)
+Strong understanding of Agile methodology
+You communicate in Slovak and English
+Preferred Experience
+API automation framework design and maintenance
+CI/CD (Azure DevOps, Jenkins, Git)
+Microservices architecture
+SQL and relational databases
+TDD, code reviews, and modern engineering practices
+Load, security, and performance testing
+DevOps tools and concepts
+Experience with Playwright
+API gateways (e.g., Apigee)
+Full-stack and third-party integration testing
+Advertiser
+Brief description of the company
+Join the digital revolution with localhost!
+We're not your average IT company. As a team of passionate tech experts based in Košice, we've spent the last decade empowering global and local brands alike.
+Our 100+ strong team of engineers is committed to your success, constantly learning and adapting to bring you the most innovative solutions and state-of-the-art software. Whether you're a startup or an enterprise, we're your trusted partner.
+Reach out today and let's shape your digital future together: info@localhost.company
+Number of employees
+25-49 employees
+Contact
+Contact person: Ing.  Dana Holub Pospišilová
+Tel.:
++421905811824
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5242631
+Dátum zverejnenia:
+1.3.2026
+2026-03-01
+lokalita:
+Košice
+Pozícia:
+IT Tester
+Spoločnosť:
+localhost s.r.o.
+Základná zložka mzdy (brutto):
+3 400 EUR/month

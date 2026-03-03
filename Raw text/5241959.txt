@@ -1,0 +1,100 @@
+IT Application Management / Integration Development for Market Data Hub (Treasury)
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Salary
+From 2 800 EUR/month
++ VAR*
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional qualifications and experience in our compensation package and/or when offering you other positions.
+Our goal is to pay our employee's fairly, with regard to the market situation and we are ready to welcome high-quality candidates in our team.
+Job description, responsibilities and duties
+Overview
+The role is twofold and requires both the complex maintenance of the new Market Data Hub application and the development and management of its IT‑infrastructure integrations.
+As an
+IT Application Manager
+, you will support the new Treasury Market Data Hub application across the full application lifecycle, ensuring adherence to ITIL processes, compliance standards, and quality requirements. This includes activities such as deployment support, operations, incident management, testing, and other related tasks.
+As an
+Integration Developer
+, you will be part of the development team responsible for building integration pipelines to various Treasury interfaces. Your tasks will include developing and maintaining pipelines that distribute market data and other data types. These interfaces will be implemented using our strategic integration platform, SnapLogic.
+This role is part of the Treasury IT team operating from the Global Delivery Centre (GDC) in Bratislava and supports operational processes for the global Corporate Treasury function.
+Task and Responsibilities
+Support ITIL based application management, including Incident, Change, and related processes
+Provide 1st and 2ndlevel support for the SaaS platform (Market Data Hub)
+Ensure compliance and quality assurance for the ICFR relevant application, including coordination of internal and external audits
+Create, configure, and maintain the functional setup of the Market Data Hub
+Manage access rights, support UAT activities (test suite creation, test execution), and handle release management (validation of new versions and fixes)
+Perform functional monitoring, maintain Treasury reporting, and create operational dashboards
+Conduct requirements engineering for integration needs and interfaces to and from Treasury Management applications
+Prepare technical specifications and integration designs
+Align with source and target application owners regarding integration start and end points
+Develop and maintain interfaces in SnapLogic
+Required education, skills and personality requirements
+Required education
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+Business Administration, or Computer science, Math or Engineering with relevant industry experience
+Understanding of the business needs in the above-mentioned business services areas
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Structured way of working to ensure strong audit and quality requirements
+Good problem solving and organizational skills
+Very good in communication and excellent team player
+Business fluent in the English language, German language not mandatory, but helpful
+Experience
+Deep understanding and proven track record of around 2-5 years in Application and Service Management under ITIL framework
+Experience in IT compliance and quality processes (preferably ICFR relevant applications)
+Proven experience in development of integration architecture
+Experience and understanding of common software development methods, tools, concepts
+Experience in ETL / ELT technologies
+Common understanding of transfer and authentication methods
+Strong analytical and conceptional skills to analyze and design interfaces
+Understanding of Treasury and Accounting related processes is an advantage
+Basic wage component (gross) and other rewards:
+starting from 2800 EUR brutto /month + VAR*
+We offer
+Variable and Christmas bonus
+Hybrid type of work – combination of work from home & work from office(telework / homeoffice)
+Flexible Working Hours
+Bridge days – free extra paid leave 6 days per year
+3 sick days per year (no doctor’s permit needed)
+In case of sickness 100% salary reimbursement 20 days/ year, this includes max. 10 days/ year for of family care
+Additional pension plan
+300 EUR for regeneration of work force via cafeteria system
+Multisport Card – employer's contribution of 10 EUR
+Recognition and Reward program
+Wellbeing program – Psychological, Legal and Financial Councelling
+Family care program (subsidy for newborns, maternity leave, kindergardens, summer camps)
+Retention program (work anniversary, life anniversary, employee loans)
+Training and development program (business and product trainings, e-learning, language courses, soft skills trainings,…)
+Adjustable standing desk as a standard
+Wide project portfolio in healthcare domain and job rotation within company (Cybersecurity, Artificial Intelligence, Healthcare IT services, …)
+Participation on world famous IT conferences like Microsoft IGNITE for best employees
+How we work:
+When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Check our Careers Site at
+https://www.siemens-healthineers.com/sk
+As an equal opportunity employer, we welcome applications from individuals with disabilities.
+Send CV
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+Join us!
+Send CV
+Click for more information
+ID:
+5241959
+Dátum zverejnenia:
+27.2.2026
+2026-02-27
+lokalita:
+Bratislava
+Pozícia:
+IT Project Manager
+Spoločnosť:
+Siemens Slovensko
+Základná zložka mzdy (brutto):
+2 800 EUR/month

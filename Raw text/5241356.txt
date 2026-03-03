@@ -1,0 +1,106 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Lead Solution Architect for RANi IT
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+The main purpose of this role is to take end-to-end ownership of functional solution architecture within the BM RANi (Best Mobile RAN Infrastructure) domain and to translate business vision and requirements into sustainable, scalable, and future-proof architectural solutions.
+This is not a programming or hands-on development role. It is a functional and strategic architecture role operating at the intersection of business and IT.
+As a Lead Solution Architect, you act in the role of HUB Architect. You receive business requirements from the business side and ensure their deep understanding – not only what needs to be delivered, but why it needs to be delivered and what business outcome is expected.
+In iterative steps, you transform these requirements into a coherent functional architecture that goes beyond the boundaries of the HUB itself. You consider cross-domain dependencies, integrations with internal and external partners, and collaboration with other mobile operators (OMC). You ensure that solutions fit into the broader enterprise and telco ecosystem.
+You define architectural direction, set guardrails, and ensure that every solution aligns with strategic architectural principles and long-term vision.
+ABOUT THE PROJECT
+for planning, building, deploying, and optimizing the IT landscape that supports the mobile access network of Deutsche Telekom.
+The domain covers IT systems and solutions for:
+Network planning and rollout (including 5G, Small Cells, and expansion of network structures)
+Inventory, configuration, and optimization of the RAN
+Integration with assurance, workforce control, and related support systems
+Collaboration with internal and external partners as well as other mobile operators
+The business focus of BM RANi is to ensure high network coverage, high quality, capacity, and innovation — enabling Deutsche Telekom to maintain and further strengthen its “Best Network” position.
+Automation, scalability, and architectural modernization are key enablers in handling the growing complexity and explosion in the number of network elements.
+What will you do?
+As a Lead Solution Architect, you will:
+Take ownership of end-to-end functional solution architecture within the HUB
+Translate business requirements into clear architectural concepts and functional designs
+Act as a trusted advisor for business stakeholders and explain architectural principles and solutions in business language
+Define and communicate architectural strategy and direction for the HUB
+Establish and maintain architectural guardrails and design principles
+Document and formalize key decisions through Architecture Decision Records (ADR)
+Ensure that solutions remain within defined architectural boundaries and align with enterprise standards
+Collaborate closely with business stakeholders to refine and clarify requirements
+Work hand-in-hand with process designers, solution designers, cluster architects, and implementation teams
+Facilitate alignment across domains and ensure that cross-domain impacts are understood and addressed
+Drive architectural consistency, sustainability, and long-term value creation
+A key aspect of this role is the ability to make decisions, stand by them, and guide the HUB towards clearly defined architectural goals.
+You will succeed if you:
+Strong experience in Solution Architecture or Domain Architecture within complex IT or telco environments
+Proven ability to connect business capabilities and strategy with functional IT architecture
+Solid understanding of OSS/BSS environments, RAN domain, orchestration, or system integration (advantage)
+Experience with modular architectures, API-based integration, and modern architectural paradigms (from a conceptual and governance perspective)
+Experience in transformation initiatives (modernization, decoupling, platform evolution)
+Experience working in agile environments (Scrum, SAFe) within large organizations
+Strong stakeholder management and facilitation skills
+Ability to communicate complex architectural concepts in a clear and structured way to non-technical audiences
+Confidence in making architectural decisions and taking ownership of them
+Business fluent English; German is a significant advantage
+What makes this role different
+Strong business and strategic impact – you shape how business vision becomes architectural reality
+Architectural leadership instead of hands-on development
+High exposure to business stakeholders and cross-domain collaboration
+Ownership of guardrails, architectural principles, and decision governance (ADR)
+Influence on long-term architectural direction within a highly complex telco ecosystem
+Opportunity to lead and guide a HUB towards modern, scalable, and future-ready architecture
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 500 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Dana Dráčová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5241356
+Dátum zverejnenia:
+26.2.2026
+2026-02-26
+lokalita:
+Košice region
+Pozícia:
+IT Architect
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 500 EUR/month
