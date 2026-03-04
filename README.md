@@ -16,9 +16,9 @@ A Python-based web scraping and data analysis tool designed to archive and analy
 
 ---
 
-## Tech Stack
+## Tools Used
 
-* **Language**: Python 3.x
+* **Language**: Python 3.13.x
 * **Libraries**: `BeautifulSoup4`, `Requests`, `Pandas`
 * **Local AI**: [Ollama](https://ollama.com/)
 * **Model**: `mistral-nemo` (12B parameters, 8-9GB VRAM recommended)

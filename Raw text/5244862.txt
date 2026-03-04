@@ -1,0 +1,115 @@
+Power BI Developer (Mid-Level)
+Synpulse Slovakia s.r.o.
+Place of work
+Bottova 2a, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 200 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Your Growth Unleashed
+Where your journey begins and your potential shines
+​At Synpulse, we don’t just consult – we transform. As a leading global management and technology consultancy with Swiss roots, we empower financial institutions to navigate change and seize new opportunities. Since 1996, we've been shaping the future of financial services by delivering cutting-edge expertise in strategy, operations, and technology to banks and insurers worldwide.
+​
+What sets us apart is our people. At Synpulse, we cultivate a collaborative, high-impact culture where initiative and creativity are valued. With 21 offices across Europe, the Americas, and Asia-Pacific, we bring together diverse perspectives and talents. We believe innovation thrives where everyone feels they belong and can contribute.
+​
+Our core values –
+Embrace, Drive, Achieve
+– shape how we work and evolve. We don’t just offer jobs – we offer the chance to develop, make an impact, and be part of a team that’s redefining the future of financial services.
+We are looking for a data-driven BI Developer with 3+
+years of experience
+to join our team. In this role, you will bridge the gap between raw data and business insights, building robust reporting solutions that empower our stakeholders to make informed decisions. You’ll have the autonomy to own your projects while collaborating closely with senior developers to refine your technical craft.
+Your Key Responsibilities:
+End-to-End Delivery:
+Develop and maintain interactive dashboards and BI solutions using the Power BI service, ensuring a high standard of data visualization and user experience.
+Requirements Gathering:
+Collaborate with business users to translate functional needs into technical specifications and efficient data models.
+Data Modeling:
+Build and optimize Star/Snowflake schemas and manage data transformations using Power Query (M).
+System Maintenance:
+Monitor and improve existing BI reports, ensuring high performance, data accuracy, and security across all reporting layers.
+Stakeholder Support:
+Partner with department leads to define KPIs and provide insights that help track business performance.
+QA & Documentation:
+Perform rigorous unit testing and troubleshooting, while maintaining clear documentation for the analytics platform.
+Requirements:
+Experience:
+3+ years of proven experience in Business Intelligence or Data Analytics.
+Academic Background:
+Bachelor’s or Master’s degree in Computer Science, Informatics, Data Science, or a related quantitative field.
+BI Expertise:
+Strong proficiency in
+Power BI
+. Experience in Tableau or Qlik is also valued if you are ready to transition your skills to the Microsoft stack.
+Language:
+Professional English proficiency (B2 minimum).
+Your Technical Skillset:
+DAX & Power Query:
+Solid experience writing DAX measures and using M for data transformation.
+SQL Skills:
+Proficient in SQL for data extraction, joining tables, and basic performance tuning.
+Data Architecture:
+Understanding of dimensional modeling (Star Schema) and ETL/ELT processes.
+Analytical Thinking:
+Ability to analyze complex datasets and present findings in a clear, narrative format.
+Excel:
+High proficiency in Excel (Power Pivot).
+Nice to Have:
+Cloud Awareness:
+Familiarity with Snowflake or Azure data services.
+Automation:
+Basic knowledge of Power Automate or Python for data processing.
+Agile:
+Experience working in a Scrum or Kanban environment.
+Industry Knowledge:
+Experience in Finance, Fintech, or Accountancy.
+Employee perks, benefits
+Five extra vacation days on top      of regulation
+Sick leave compensation 100%      from day one
+3 sick days per year
+Attractive performance bonus      based on project performance up to 10%
+Cafeteria benefit system with a      flexible allowance of 500 EUR per year for education, health benefits,      shopping, travel, cultural activities, and sports options
+Overtime fully paid or      compensated based on your preference
+A friendly and informal working      environment
+Work-life balance with flexible      working hours and the option to work from home (by agreement)
+Dedicated time for individual      training
+MultiSport card
+& more
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+Advertiser
+Brief description of the company
+Synpulse is an internationally established management consulting company with 29+ years of experience and with offices in the United Kingdom, Switzerland, Germany, Austria, Slovakia, USA, Singapore, Australia, the Philippines and more. We are a valued partner to many of the world’s largest international financial services and insurance firms. We support our clients at all project management stages from the development of strategies and operational frameworks to the technical implementation and handover. Our expertise in business and technology, combined with our methodic approach, enables us to create sustainable added value for our clients’ business. We use home-grown, market-tested project management methodologies to bridge the gap between innovation and business. We work along with leading edge technology partners to bring true business transformation.
+Number of employees
+150-199 employees
+Contact
+Contact person: Renáta Szalai
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5244862
+Dátum zverejnenia:
+4.3.2026
+2026-03-04
+lokalita:
+Bratislava
+Pozícia:
+BI Analyst
+,
+Data Analyst
+Spoločnosť:
+Synpulse Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+2 200 EUR/month

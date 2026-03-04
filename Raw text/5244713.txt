@@ -1,0 +1,99 @@
+Shape the Future with Photoneo, now part of Zebra Technologies
+Research Engineer, Computer Vision & AI
+Location
+Bratislava, Slovak Republic
+Wage
+full-time
+Type of employment
+From 2 700 EUR/month
+About this position
+We are looking for a candidate passionate about solving complex challenges at the intersection of 3D computer vision and artificial intelligence. We are seeking a Research Engineer to be a pivotal part of our team, taking our state-of-the-art Vision Guided Robotics (VGR) solutions to the next level. This is a unique opportunity for a creative and analytical mind to dive deep into research and development, shaping the future of 3D localization and robotics.
+Here, you will immerse yourself in a dynamic research environment, leveraging the latest AI tools and computer vision techniques. You will take ownership of our powerful 3D localization engine, a core component of our technology that determines object pose in 3D data with unparalleled precision. If you are driven by innovation and eager to see your work transition from theory to real-world application, we want to hear from you.
+Location
+Bratislava, Slovakia
+Type of Employment
+Full-time
+Salary (brutto)
+From €2,700/month and up based on your skills, experience and overall qualification
+Reports to
+Software Development Manager
+Key Responsibilities:
+Contribute to and shape all stages of our cutting-edge 3D localization engine's development, spanning research, design, and implementation.
+Design and implement advanced algorithms for 3D data processing (point clouds, meshes, etc.).
+Stay at the forefront of academic and industry research in computer vision and AI.
+Collaborate with our world-class R&D team to integrate your solutions into our product portfolio.
+Develop and maintain high-quality, robust, and efficient code in C++ and Python.
+Contribute to our knowledge base by documenting your research, experiments, and results.
+Requirements:
+Strong background in mathematics, computer science, computer graphics, physics or a related STEM field (M.S. or Ph.D. preferred).
+Proven programming experience in C++ and Python.
+A deep understanding of computer vision and 3D geometry concepts.
+Hands-on experience with libraries such as OpenCV, PCL, and VTK.
+Familiarity with topics like point clouds, meshes, octrees, the ICP algorithm, and feature matching.
+The ability to bridge the gap: Knowing when to use a deep neural network and when a classic geometric approach (or a hybrid of both) is the most robust and efficient solution.
+Experience with optimization libraries like CERES-solver is a significant plus.
+A curious and analytical mindset, with a passion for solving challenging problems.
+Fluency in English.
+If you don’t meet every bullet but the mission resonates, we’d still like to hear from you.
+Benefits
+Core benefits from day one:
+Daily breakfast at the office
+Option to work from home / hybrid work model
+Flexible working hours
+Unlimited sick days
+Parking for everyone, bicycle storage, showers, and lockers available on-site
+Summer terrace with a view of Bratislava
+Pet-friendly office – bring your pet to work
+Professional development support
+Generous referral bonus
+Additional benefits after your first anniversary
+Employees can choose one of the following:
+Annual public transport pass (MHD)
+Annual healthcare package at the private ProCare clinic
+3rd pillar – employer contribution (retirement savings)
+Brain Boost – contribution toward professional development and other educational activities
+Comfy Up – improve your work environment with extra support
+And more...
+Upload your CV now!
+Contact Person:
+Mgr.  Brano Mesaros
+Benefits
+Home / Hybrid Workplace
+Flexible work schedule
+Unlimited sick days
+Parking, bike storage, showers
+Professional development
+Pet friendly office
+Generous referral program
+Rooftop terrace with great view
+and much more...
+Upload your CV now!
+Contact Person:
+Mgr.  Brano Mesaros
+About Photoneo
+Photoneo, now part of Zebra Technologies, is a global leader in robotic 3D vision and intelligence, empowering robots to "see" and understand their surroundings with unmatched precision. Based on patented 3D technology, Photoneo’s solutions are transforming industries such as automotive, logistics, e-commerce, food, and medical. Learn more at
+www.photoneo.com
+.
+< Back to job positions
+Your ideas. Our technology. A smarter future.
+Zebra Technologies Slovakia s.r.o., Plynárenská 6, 821 09 Bratislava, Slovakia
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5244713
+Dátum zverejnenia:
+4.3.2026
+2026-03-04
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+Spoločnosť:
+Zebra Technologies Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

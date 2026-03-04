@@ -1,0 +1,118 @@
+Úrad SAV vyhlasuje výberové konanie na pozíciu  IKT špecialista / IKT špecialistka na Odbore informačných technológií.
+SLOVENSKÁ AKADÉMIA VIED - Úrad SAV
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Možnosť nástupu do pracovného pomeru apríl - máj 2026, príp. podľa dohody.
+Mzdové podmienky (brutto)
+1 400 EUR/mesiac
+Uvedený ponúkaný plat je od 1400 EUR / mesiac. V prípade uchádzača so skúsenosťami v projektovom riadení IT projektov sú platové podmienky od 2000 EUR/ mesiac. Je to funkčný plat podľa zákona č. 553/2003 Z.z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme, ktorý zohľadňuje priznanie príplatkov k tarifnému platu, najmä podľa schopností, výsledkov, rozsahu a kvality plnenia pracovných úloh úspešného uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Slovenská akadémia vied - Úrad SAV hľadá  zamestnanca/zamestnankyňu, na zabezpečovanie činností zameraných najmä na:
+Ttechnickú podporu používateľov:
+riešenie technických problémov        hardvéru a softvéru na 1. a 2. úrovni podpory (PC, NB, periférie,        aplikácie) v tiketovacom systéme úradu,
+podpora VIP používateľov a        vyššieho manažmentu,
+inštalácia, konfigurácia a správa        pracovných staníc, mobilných zariadení IP telefónov a hybridného        pracovného prostredia,
+inštalácia a podpora používaných aplikácií        a systémov.
+Správu IT infraštruktúry a automatizáciu:
+práca v systémoch Entra ID, Actice        directory , Azure,
+remote management nástroje (RDP,        Intune).
+podpora vzdialeného prístupu cez        Citrix,
+automatizácia procesov pomocou        skriptovania (PowerShell, CMD),
+nasadzovanie aktualizácií a        bezpečnostných záplat na systémy a aplikácie.
+Bezpečnosť IT prostredia:
+šifrovanie diskov a dát v súlade s        internými bezpečnostnými štandardmi,
+odinštalácia neaktuálneho        softvéru, dodržiavanie bezpečnostných politík,
+implementácia zmien podľa        požiadaviek IT bezpečnosti,
+presná dokumentácia riešení        incidentov v súlade s internými štandardmi a auditnými požiadavkami.
+Spoluprácu a projekty:
+úzka spolupráca s ostatnými        členmi IT tímu,
+účasť na projektoch rozvoja IKT,
+konzultácie s oddeleniami pri        zavádzaní nových technológií.
+Správu majetku a dokumentácie:
+vedenie protokolov o vydaní a        prijatí techniky (PC, NB, periférie,...),
+evidencia pohybov techniky v        interných tabuľkách a systémoch (Excel, CES),
+zodpovednosť za správne        procesovanie majetku v súlade s internými pravidlami úradu.
+Zamestnanecké výhody, benefity
+flexibilný pracovný čas,
+týždeň dovolenky navyše nad rámec Zákonníka práce,
+zvýšený      príspevok zamestnávateľa na stravovanie,
+príspevok      zamestnávateľa na dôchodkové sporenie,
+príspevok zo sociálneho fondu (napr. na kultúru, šport, regeneráciu),
+možnosť      rekreácií v zariadeniach zamestnávateľa za zvýhodnenú cenu.
+Informácie o výberovom konaní
+Záujemci/Záujemkyne na zverejnenú pracovnú  pozíciu môžu reagovať do 17.03.2026 (vrátane) zaslaním:
+- profesijného životopisu v rozsahu max 2 strany,
+- dokladu o  najvyššom dosiahnutom vzdelaní (kópia dokumentu).
+Kontaktovať budeme len vybraných uchádzačov.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Elektrotechnické zameranie je výhodou.
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+Microsoft Office - Pokročilý
+Administrácia LAN/WAN - Pokročilý
+Windows 10 - Pokročilý
+Windows 11 - Pokročilý
+Adobe balík - Pokročilý
+Antivírus - Pokročilý
+Prax na pozícii/v oblasti
+Prax v odbore 3 roky, skúška samostatného elektrotechnika § 21 sú vítané
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Od nášho budúceho kolegu/kolegyne očakávame najmä nasledovné predpoklady a zručnosti:
+znalosti v oblasti HW koncových        zariadení PC, notebook, mobilné zariadenia, periférne zariadenia –        úroveň administrátor,
+znalosti v oblasti LAN siete,        štruktúrovanej kabeláže - úroveň znalý,
+manuálne zručnosti pre prácu s HW,        rozoberanie, profylaxia, servis, štruktúrovaná kabeláž – podmienkou,
+ovládanie operačných systémov        platforma Windows (W10/W11), inštalácia, konfigurácia, administrátorské        nástroje – úroveň administrátor,
+ovládanie kancelárskeho balíka MS        Office (2019 /O365) – úroveň administrátor,
+znalosti v oblasti všeobecných        aplikácií a SW, inštalácia, konfigurácia, update (internetové        prehliadače, Adobe balík, synchronizácia dát, Antivírus) - úroveň        administrátor,
+logické myslenie, analytické        schopnosti, komunikačné schopnosti pri riešení problémov s interným        klientom,
+ochota a schopnosť rýchlo sa učiť,        schopnosť rozpoznávať priority, tímový hráč,
+samostatnosť v riešení problémov a        aktívny prístup,
+diskrétnosť a dôveryhodnosť –        práca s VIP a citlivými dátami,
+schopnosť komunikovať s        manažmentom – jasné vysvetlenie technických problémov netechnickým        ľuďom,
+riešenie pod tlakom – kritické        incidenty.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Slovenská akadémia vied je štátna vedecká inštitúcia, ktorá vykonáva výskumnú činnosť prostredníctvom svojich organizácií. Úlohy spojené s odborným, organizačným, finančným a technickým zabezpečením činnosti akadémie ako vedeckej inštitúcie zabezpečuje Úrad akadémie. Jednou z týchto úloh je aj podpora internacionalizácie výskumného prostredia v rámci SAV. Jej nevyhnutnou súčasťou je pomoc prichádzajúcim vedcom, aby ich príchod na Slovensko a zaradenie do pracovného procesu bolo čo najjednoduchšie a bezproblémové.
+Kontakt
+Kontaktná osoba: PhDr.  Erika Doubková
+Tel.:
++421904194072
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5242558
+Dátum zverejnenia:
+4.3.2026
+2026-03-04
+lokalita:
+Bratislava
+Pozícia:
+IT analytik
+,
+IT konzultant
+,
+IT projektový manažér
+,
+IT/Technical Support Specialist
+Spoločnosť:
+SLOVENSKÁ AKADÉMIA VIED - Úrad SAV
+Základná zložka mzdy (brutto):
+1 400 EUR/mesiac

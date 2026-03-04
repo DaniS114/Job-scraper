@@ -1,0 +1,143 @@
+Si ANGULAR guru? Hľadáme Senior SW developera (BA)
+MOVYS, a.s.
+Miesto práce
+Piesočná 502/7, Ružinov, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+Reálne mzdové ohodnotenie bude stanovené na základe posúdenia skúseností a zručností kandidáta, jeho odborných aj osobnostných predpokladov na výkon danej práce, ako aj stupňa seniority. Mesačná mzda tak VZNIKÁ DOHODOU individuálne po osobnom pohovore.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+ČO BUDE TVOJOU ÚLOHOU?
+Do nášho 7-členného tímu hľadáme ďalšieho parťáka, vývojára, pre ktorého je programovanie nielen prácou ale aj zábavou.
+Pracovať budeš na vývoji (od návrhu až po nasadenie) nových webových aplikácií (nie prezentačných webov) a údržbe už existujúcich riešení pre interných aj externých zákazníkov.
+V priateľskom kolektíve a neformálnom prostredí dostaneš priestor na vyjadrenie a presadenie svojho názoru.
+Primárne kódime Back-end v PHP, GoLang a Front-end v Angular (Typescripte). Na verziovanie používame Git, code review, CI/CD robíme v Gitlab. Našu prácu trackujeme v Open Project.
+Je pre nás dôležité písať udržateľný kód. Ak ťa nebaví písať testy, nikdy si nepočul o návrhových vzoroch a skratky ako SOLID, SRP, KISS, DRY,... sú pre teba buzzwords, nebudeš u nás spokojný :D
+HĽADÁME "SW NADŠENCA", SI TO TY? Tak neváhaj a prihlás sa :)
+Zamestnanecké výhody, benefity
+ČO PONÚKAME?
+stabilitu      v prosperujúcej SR spoločnosti pôsobiacej v TELCO oblasti
+skúsený      tím ľudí, od ktorých sa môžeš veľa naučiť, ale nás aj obohatiť
+možnosť      ďalšieho odborného rastu vo forme školení a certifikácií
+príležitosť      pracovať s unikátnymi technológiami
+príspevok      do 3.piliera DDS s príspevkom zamestnávateľa
+odmenu za      odporučenie nového zamestnanca
+flexibilný týždenný pružný pracovný čas
+v závislosti od typu pozície a po dohode s nadriadeným Home Office
+sme      nielen kolegovia, ale aj kamaráti, vieme sa navzájom podporiť
+radi sa      smejeme a stretneme aj neformálne na tímových akciách, či pri športe :)
+Informácie o výberovom konaní
+AK SI SA V TEJTO POZÍCII NAŠIEL, neváhaj a pošli nám svoje štruktúrované CV s krátkym predstavením sa v tele správy, čo Ťa na danej pozícii zaujalo a prečo by si ju chcel robiť :) Vhodných kandidátov budeme kontaktovať telefonicky.
+Predpokladaný termín ukončenia výberového konania
+4.4.2026
+(ostáva ešte 30 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+Informatika, SW inžinierstvo, SW vývoj
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+SW vývojár, Front-end developer, Angular developer
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+ČO OČAKÁVAME?
+- skúseného FE programátora v Angular;
+Technológie a jazyky, ktoré používame, nie sú podmienkou ale výhodou určite:
+· Git
+· Docker
+· PHP (PhalconPHP)
+· Javascript (Angular)
+· GoLang
+· SQL (PostgreSql)
+· HTML5 a CSS3
+· znalosti a praktické skúsenosti s PHP alebo GoLang
+· znalosť a praktická skúsenosť s Javascript, Typescript a Angular
+· základná znalosť SQL
+· znalosť OOP
+· skúsenosť s automatizovanými testami (unit, functional)
+OSOBNOSTNÉ PREDPOKLADY:
+· zodpovednosť
+· chuť učiť sa nové technológie a zdokonaľovať sa
+· kreatívny prístup pri riešení problémov
+· analytické myslenie
+· schopnosť odprezentovať a obhájiť si svoj názor
+Potešila by nás:
+· skúsenosť s vývojom a optimalizáciou webových stránok pre mobilné zariadenia
+· znalosť návrhových vzorov, GRASP a SOLID
+· skúsenosť s tvorbou funkčných a technických špecifikácií
+· znalosť linuxového prostredia a bash
+· znalosť Dockeru a skúsenosti s DevOps.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+KTO SME A ČO ROBÍME?
+Spoločnosť MOVYS, a.s. je TELCO & IT spoločnosť, ktorá vznikla v roku 2000. Sídlo má v Bratislave, ale pobočky nájdete v Banskej Bystrici a Košiciach.
+TELCO & IT NETWORKING / SDN & SW DEVELOPMENT
+• Výstavba a preventívny servis GSM/LTE/5G sietí a rádiokomunikačnej technológie
+a rádiových sietí, FM a DVBT vysielačov.
+• Expertná a poradenská činnosť.
+• Projekčné práce v oblasti telekomunikácií, elektroinštalácií, EZS, kamerových systémov,
+inštalácia, servis a údržba klimatizačných zariadení, revízie elektroinštalácií a
+bleskozvodov bez obmedzenia napätia, meranie pokrytia a kvality VF sietí.
+SOFTVÉROVÉ PRODUKTY MOVYS
+Telemonitor – GPS monitorovanie vozidiel, objektov a osôb.
+Telemonitor – Nástroj operačného riadenia záchranných aj iných zložiek.
+IPSOM – monitorovací nástroj – dohľad nad sieťou a vybranou technológiou a aplikáciami a zber a vyhodnocovanie dát z rádiových sietí kritickej infraštruktúry SR.
+MOVYS INTEGRA – manažment meracích úloh a dohľad nad meracím systémom v špecializovaných meracích vozidlách a integračné rozhrania pre distribúciu dát tretím stranám.
+RIEŠENIA V OBLASTI IT A IKT
+• Návrh, implementácia a prevádzka, monitoring
+a správa sieťovej a serverovej infraštruktúry.
+• Návrh, dodanie a inštalácia enforcement
+riešení pre cestnú dopravu (radary, kamerové
+systémy, kontrolné váhové stanice).
+• Akreditované laboratórium pre zisťovanie
+faktorov životného prostredia a pracovného
+prostredia na účely posudzovania ich možného
+vplyvu na zdravie.
+• MOVYS SmartHome / LOXONE – automatizácia
+budov pre rezidenčné a komerčné objekty.
+KARIÉRA V MOVYS?
+Našim cieľom sú spokojní zákazníci. Vďačíme za to najmä našim zamestnancom a kvalitným produktom, za ktorými stoja. Do nášho MOVYS tímu preto hľadáme motivovaných nadšencov s otvorenou hlavou, so silným záujmom rozvíjať sa a odvahou skúšať nové.
+Uvedomujeme si silu a jedinečnosť osobnosti každého z nás. Individuálne pristupujeme k odbornému aj osobnostnému rastu. Vieme oceniť prácu a každodenné nasadenie. Dbáme o to, aby sme vždy mohli dobiť svoje baterky :)
+Poď s nami tvoriť zaujímavé riešenia, ktoré majú zmysel. Naše systémy nielen spájajú ľudí, ale aj zachraňujú životy. Staň sa súčasťou atmosféry rodinnej firmy a dôveryhodným profesionálom a partnerom našich zákazníkov. Záleží nám na Tvojom rozvoji, preto podpora vzdelávania je u nás samozrejmosťou.
+AKÍ SME?
+Sme gurmáni a kávoholici. Radi ťa zoberieme na obed a okúsiš našu výbornú kávu. Navyše sme vášniví športovci a tímový duch nám tiež nie je cudzí v práci, v kancli, teréne, či na home office ;) Ešte váhaš prihlásiť sa? :))
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Erika Pallayová
+Tel.:
++421915963194
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5244782
+Dátum zverejnenia:
+4.3.2026
+2026-03-04
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Frontend programátor
+,
+Programátor
+Spoločnosť:
+MOVYS, a.s.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

@@ -1,0 +1,101 @@
+Tvorme spolu príbehy,
+ktoré majú zmysel.
+Kreativita
+Odvaha
+Nadšenie
+Rešpekt
+Data Scientist / Data Engineer pre Voyo
+CENTRUM B2C SEGMENTU
+plný úväzok
+Bratislavský kraj, Slovensko
+Od 3 000 EUR/mesiac
+Informácie o pracovnom mieste
+⭐ Hľadáme posilu na pozíciu Data Scientist / Data Engineer pre Voyo,  ktorá nám pomôže posunúť personalizáciu a odporúčacie algoritmy Voyo na novú úroveň.
+⭐️ Do tímu Customer Insight & CRM hľadáme niekoho, kto dýcha pre recommendation systems a má chuť riešiť reálne, komplexné problémy streamingovej platformy.
+⭐ Hľadáme kolegu/kolegyňu, ktorý/á vie prepájať technológiu s biznisom a nebojí sa zodpovednosti.
+⭐ Ak si v dátach ako doma, pošli nám svoj životopis a krátky sprievodný text.
+⭐️ Čo bude tvojou úlohou?
+• Budovať a trénovať ML modely – pre recommender systémy, personalizáciu obsahu a predikcie churnu či reaktivácie. A to EndToEnd – od explorácie až po produkciu
+• Spravovať produkčné ML modely a priebežne ich validovať
+• Analyzovať správanie používateľov – pracovať s detailnými dátami o views, engagement metrikami, sezónnymi trendmi, preferenciami žánrov. Hľadať vzory tam, kde ich iní nevidia.
+• Spolupracovať s produktovým a dátovým tímom na integrácii modelov do produkcie – nebudeš izolovaný výskumník, ale súčasť end-to-end procesu.
+• Interpretovať výsledky modelov a prekladať ich do business jazyka – navrhovať nové možnosti využitia v CRM a customer insights.
+• Zber, integrácia a spracovanie dát z interných a externých zdrojov (databázy, API, súbory). Definovanie obsahových aj architektonických požiadaviek na nové dátové štruktúry, spolupráca pri implementácii
+• Návrh a implementácia dátových tokov a implementácia dátových transformácií.
+Zamestnanecké výhody, benefity
+⭐️ Čo ponúkame?
+• Bezplatnú celoročnú zdravotnú starostlivosť v súkromnej klinike
+• 3 dni dovolenky navyše, 3 dni na regeneráciu, 4 dni na vzdelávanie, 4 dni na dobrovoľníctvo, 1 deň narodeninového voľna
+• Ročný výkonnostný bonus
+• Plnú náhradu mzdy počas PN do 14 dní
+• Mesiac voľna po 5 odpracovaných rokoch (benefit Recharge by PPF)
+• Ročný príspevok 240 € (možnosť výberu medzi Benefit Plus alebo DDS)
+• Príspevok na MultiSport kartu (50 % zo strany zamestnávateľa)
+• Príspevok na električenku MHD (90-dňová alebo 365-dňová električenka)
+• Referral Bonus pri odporúčaní kandidáta od 800 € do 1500 €
+• Home office 2× týždenne (podľa charakteru práce)
+• Vzdelávacie programy Akadémia Markíza a Manažérska akadémia
+• Psychologické, právne a finančné poradenstvo
+• Príspevok na stravné (aj počas dovolenky, dní na regeneráciu či návštevy u lekára)
+• Voyo Maximum predplatné pre všetkých zamestnancov zadarmo
+• Súťaže o lístky na koncerty, festivaly a kultúrne podujatia
+• Príspevky pri rôznych životných udalostiach (svadba, registrované partnerstvo, narodenie/adopcia dieťaťa, pracovné/životné jubileum)
+• Možnosť využiť rôzne zľavy u našich partnerov
+• Bezplatné parkovanie priamo pri Markíze
+• Dni zdravia 2x ročne (týždeň venovaný rôznym wellbeing aktivitám)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Jazykové znalosti
+Slovenský jazyk - Pokročilý (C1)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+⭐️ Koho hľadáme?
+• Aspoň 5-ročná skúsenosť s ML – ideálne v oblasti recommendation systems, prediktívneho modelovania alebo personalizácie obsahu.
+• Silné analytické a štatistické myslenie – vieš premeniť dáta na reálne insighty a rozhodnúť, kedy potrebuješ sofistikovaný model a kedy stačí jednoduchšie riešenie.
+• Praktické skúsenosti s Pythonom a ML knižnicami (pandas, scikit-learn, TensorFlow/PyTorch, alebo PySpark).
+• Skúsenosti so spracovaním dát z rôznych zdrojov (API, súbory, databázy) a s automatizáciou spracovania dát
+• Skúsenosť s ETL nástrojmi a s prácou s API
+• Pokročilú znalosť SQL a prácu s modernými dátovými platformami ako Databricks, Azure, Snowflake (máme všetky tieto hot tools a je na tebe, v čom chceš robiť)
+• Znalosť A/B testovania a základov MLOps – vieš, že model v Jupyter notebooku a model v produkcii sú dve veľmi rôzne veci.
+• Schopnosť samostatne pracovať, experimentovať, validovať výsledky a prezentovať závery produktovému tímu aj stakeholderom.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť Markíza je najvýznamnejšou televíznou a mediálnou spoločnosťou pôsobiacou v Slovenskej republike. V súčasnosti ju tvorí šesť celoplošných televíznych staníc, ktoré pokrývajú prakticky všetky žánre a divácke preferencie: TV Markíza, Doma, Dajto, Markíza KRIMI, Markíza KLASIK a Markíza International.
+Medzi najsilnejších hráčov patrí TV Markíza aj v online prostredí, kde taktiež ponúka široké portfólio webových stránok a služieb - prevádzkujeme silné online portfólio: portály ako Markiza.sk, TVNOVINY.sk, platformu TN live a populárnu streamovaciu službu Voyo.
+Televízia Markíza je členom nadnárodnej spoločnosti CME, ktorá prevádzkuje televízne stanice v Bulharsku, Chorvátsku, Českej republike, Rumunsku a Moldavsku, na Slovensku a v Slovinsku a je jednou z vedúcich spoločností vo sfére médií a zábavy v rámci strednej a východnej Európy. CME zastrešuje 45 televíznych kanálov a oslovuje celkovo 49 miliónov divákov. CME je súčasťou portfólia medzinárodnej finančnej a investičnej skupiny PPF.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Lýdia Judičáková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5244839
+Dátum zverejnenia:
+4.3.2026
+2026-03-04
+lokalita:
+Bratislavský kraj
+Pozícia:
+Business Intelligence Specialist
+,
+Databázový administrátor
+,
+Databázový analytik
+,
+IT architekt
+,
+Programátor
+Spoločnosť:
+MARKÍZA - SLOVAKIA, spol. s r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

@@ -98,7 +98,7 @@ while True:
             try:
                 with open(text_path, "r", encoding="utf-8") as f:
                     job_text = f.read()
-                print(f"Már létező TXT hirdetés: {text_path}")
+                print(f"Már létezik: {text_path}")
             except Exception as e:
                 print(f"Nem sikerült beolvasni {text_path}: {e}")
                 job_text = ""
@@ -112,7 +112,6 @@ while True:
                    ["last_seen", "active", "status", "description"]] = [
                        today, True, "active", job_text_csv
                    ]
-            print(f"CSV frissítve: {job_id}")
         else:
             df.loc[len(df)] = [
                 job_id, title, company, job_url,

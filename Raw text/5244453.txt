@@ -1,0 +1,104 @@
+Seniorní Test Manager a QA specialisté pro transformační projekt ve financích (full remote)
+radixal s.r.o.
+Místo práce
+Práce z domu
+Druh pracovního poměru
+plný úvazek, živnost
+Termín nástupu
+ASAP
+Mzdové podmínky (brutto)
+60 000 - 120 000 Kč/měsíc
+Informace o pracovním místě
+Náplň práce, pravomoci a zodpovědnosti
+Aktuálně sestavujeme expertní tým zajišťující kvalitu a hladkou implementaci nového centrálního systému pro významnou finanční instituci. Jedná se o komplexní transformaci jádra systému (Core), jež vyžaduje vysokou míru seniority a schopnost prosadit procesní standardy v náročném korporátním prostředí.
+V rámci této agendy otevíráme dvě klíčové linie:
+1. Test Manager (Governance a metodika)
+Hledáme autoritu disponující zkušenostmi s řízením rozsáhlých projektů v hierarchických strukturách. Vaším úkolem nebude exekutivní testování, nýbrž komplexní manažerské zaštítění celého procesu.
+Definice strategie:
+Nastavení celkové metodiky testování a důsledný dohled nad její realizací; příprava dokumentace, jež definuje standardy kvality pro celý projekt.
+Stakeholder management:
+Komunikace s vedením projektu a prosazování nezbytných parametrů kvality i v časově exponovaných fázích.
+Řízení týmu:
+Delegování úkolů a supervize týmu testerů tak, aby veškeré výstupy splňovaly požadavky na doložitelnost a auditovatelnost.
+2. Seniorní testeři (Quality Assurance)
+Hledáme profesionály s minimálně pětiletou praxí v korporátním sektoru, neboť architektura řešení nesnese metodická pochybení.
+Příprava a exekuce:
+Návrh testovacích scénářů pro manuální ověřování funkčnosti i komplexní API testování.
+Analytická činnost:
+Identifikace rizik v raných fázích vývoje a úzká spolupráce s týmy vývojářů.
+Zajištění integrity:
+Budete součástí pětičlenné skupiny expertů, jejichž posláním je garantovat bezchybný chod systému zajišťujícího kritické byznysové operace.
+Kým byste měli být
+Tento projekt je určen pro osobnosti, jež mají praktickou zkušenost s transformací rozsáhlých informačních systémů.
+Zkušený manažer:
+U role Test Managera preferujeme experty s historií v bankovním či pojišťovacím sektoru; očekáváme profesionální vystupování a značnou míru trpělivosti při jednání se stakeholdery.
+Korporátní zázemí:
+Vaše dosavadní kariéra musí reflektovat prostředí velkých institucí, jelikož porozumění tamním interním procesům je pro úspěch klíčové.
+Kultivovaná komunikace:
+Dokážete prezentovat výsledky věcně a s patřičnou diplomacií, avšak zůstáváte neoblomní v otázkách dodržování schválených metodik.
+Odborná způsobilost:
+Perfektní znalost testovacích metodik doplněná o praktickou zkušenost s testováním API rozhraní.
+Co vám nabízíme
+Vlivný projekt:
+Účast na transformaci, jež svou náročností patří k nejvýznamnějším technologickým akcím na současném trhu.
+Profesionální svoboda:
+Práce v režimu Full remote, neboť spoléháme na vaši vnitřní disciplínu; osobní setkání v kancelářích slouží k operativní synchronizaci týmu.
+Dlouhodobá stabilita:
+Angažmá na projektu s víceletým horizontem a jasně definovaným rozpočtem.
+Motivující ohodnocení:
+Finanční podmínky odpovídající vaší senioritě a náročnosti mise, v níž přímo konkurujeme předním globálním konzultačním domům.
+Zaujala vás tato příležitost?
+Pakliže váš profil odpovídá nárokům tohoto projektu, zašlete nám prosím své CV. Rádi s vámi probereme detaily a způsob, jakým můžete k úspěchu systému Core přispět.
+Požadavky na zaměstnance
+Pozici vyhovují uchazeči se vzděláním
+vysokoškolské I. stupně
+vysokoškolské II. stupně
+postgraduální
+Inzerující společnost
+Stručná charakteristika společnosti
+radixal: Tvořte budoucnost s námi.
+Chcete pracovat na projektech, které skutečně mění svět?
+Radixal je dynamická softwarová společnost, která stojí za inovativními řešeními pro přední české a mezinárodní společnosti jako Srovnejto, ePojištění, DHL, RegioJet, Raiffeisenbank, Globus, Schneider Electric, Global Payments, VEIT Electronics, skupina Agel, SpaceMetric, Schlieger a další. Vyvíjíme špičkové webové aplikace a podílíme se na vývoji futuristických technologií jako jsou samořiditelné vlaky.
+Proč radixal?
+Dopad na svět: Vaše práce bude mít skutečný dopad na životy lidí a fungování významných společností.
+Inovace: Budete pracovat na špičkových technologiích a podílet se na vytváření nových řešení.
+Svoboda a zodpovědnost: U nás máte volnost při práci, ale zároveň nesete zodpovědnost za své úkoly.
+Odborný růst: Nabízíme vám možnost neustále se učit a rozvíjet své dovednosti.
+Přátelské prostředí: Stanete se součástí našeho přátelského týmu, kde se podporujeme navzájem.
+Flexibilita: Pracujeme převážně remote, což vám umožní skloubit práci s osobním životem.
+Co nás odlišuje:
+Ověřená kvalita: Naše práce mluví sama za sebe. Jsme zařazeni mezi 50 nejrychleji rostoucích technologických společností v ČR podle žebříčku Deloitte FAST 50 za rok 2024.
+Zkušenosti s velkými projekty: Máme bohaté zkušenosti s realizací komplexních projektů pro významné klienty jako Swisslife, Wustenrot, Strabag nebo EON.
+Zaměření na člověka: Věříme v sílu týmu a podporujeme osobní rozvoj každého zaměstnance.
+Hledáme:
+Talentované vývojáře: Pokud jste vášniví pro programování a chcete se podílet na tvorbě něčeho opravdu velkého, jsme tu pro vás.
+Kreativní myslitele: Pokud máte rádi výzvy a hledáte nové řešení, rádi vás uvidíme.
+Týmové hráče: Pokud umíte spolupracovat a sdílet znalosti, skvěle se k nám hodíte.
+Pokud hledáte smysluplnou práci, kde můžete uplatnit svůj potenciál a stát se součástí úspěšného týmu, neváhejte nás kontaktovat.
+Počet zaměstnanců
+50-99 zaměstnanců
+Kontakt
+Kontaktní osoba: Monika Berkyová
+E-mail:
+poslat životopis
+Odpovědět na nabídku
+Doporučit nabídku známému
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5244453
+Dátum zverejnenia:
+4.3.2026
+2026-03-04
+lokalita:
+Práce z domu
+Pozícia:
+Automatizovaný IT tester
+,
+IT tester
+Spoločnosť:
+radixal s.r.o.
+Základná zložka mzdy (brutto):
+60 000 Kč/měsíc

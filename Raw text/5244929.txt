@@ -1,0 +1,90 @@
+About us
+Our benefits
+Open positions
+Java Application Engineer (Hybrid set up)
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 800 - 4 600 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,800 and EUR 4,600 per month (for a full-time role). The specific salary offered considers:
+·       the requirements, scope, complexity and responsibilities of the role,
+·       the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, you may be eligible for additional rewards and benefits including an attractive performance-based bonus.
+Information about the position
+Job description, responsibilities and duties
+Are you passionate about creating elegant solutions through code? Join our dynamic team where your Java expertise will directly impact our business success! We're seeking a talented Java Application Engineer who can blend technical excellence with innovative thinking to help shape the future of our insurance platforms.
+About the Role
+You'll be at the heart of developing and maintaining our sophisticated in-house insurance platforms built primarily with Java and Spring Boot. As part of one of our platform teams, you'll create functionality that delivers measurable business impact while collaborating with talented professionals who share your passion for quality code.
+Key Responsibilities
+•	Develop and review code that meets our high standards for quality and maintainability
+•	Collaborate effectively within a cross-functional team including requirements engineers, QA specialists, and other application engineers
+•	Shape architecture by contributing to key decisions and documentation that guide our technical direction
+•	Integrate services and shared platforms including messaging systems, BPMN workflows, logging frameworks, and telemetry solutions
+•	Stay current with emerging technologies and Generative AI developments to continuously improve our solutions
+•	Implement best practices for security, performance, and reliability in all code you produce
+About the Team
+We are a team that believes in engineering excellence and that our leaders should also be engineers themselves. We build applications that are carefully designed, thoughtfully implemented, and surpass the expectations of our users by working hand-in-hand with product owners. Quality and stability are first-class deliverables in everything we do, and we lead by example by embedding high standards into our processes. Our collaborative environment encourages knowledge sharing, innovation, and continuous improvement.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a naturally curious and thoughtful professional who thrives in a high-performance engineering environment. Your passion for coding is matched by your commitment to delivering business value. You believe in continuous learning—whether through self-improvement or by absorbing knowledge from those around you—and you're excited to contribute to a team that values technical excellence.
+We need you to bring in the following :
+•	Proficiency in software development across the entire delivery lifecycle, with strong Java and Spring Boot expertise
+•	Previous public cloud experience, particularly with Microsoft Azure
+•	Comfort working primarily in an IDE environment with large and established codebases
+These are additional nice to haves:
+•	Experience with microservice architecture and API design principles
+•	Knowledge of database design and optimization techniques
+•	Familiarity with DevOps practices and CI/CD pipelines
+•	Experience with agile development methodologies
+•	Interest in emerging technologies including Generative AI applications
+You will be working in a hybrid setup (50:50), perfectly balancing work from home and the office premises (2-3 days per week).
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Hana Krcova
+Apply here
+ID:
+5244929
+Dátum zverejnenia:
+4.3.2026
+2026-03-04
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Java Programmer
+,
+Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 800 EUR/month

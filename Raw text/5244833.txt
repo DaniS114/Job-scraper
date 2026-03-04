@@ -1,0 +1,95 @@
+PHP Fullstack Wizard
+SuperFaktura, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Si naše tajné kúzelnícke eso v oblasti vývoja a technickej podpory SuperFaktúry! Zaistíš, že naša platforma bude fungovať ako dobre premazané zariadenie, pripravené plniť požiadavky našich používateľov.
+Svojím majstrovským umením vykonáš implementáciu špecifických požiadaviek pre zahraničné trhy, aby sme mohli byť flexibilní a reagovať na rôznorodé potreby našich medzinárodných klientov.
+​Nemusíš sa obávať, že by si musel byť právnikom alebo účtovníkom. Ty dostaneš vždy precíznu špecifikáciu, aby si vedel, čo a ako zapracovať.
+Spoločne s tímom budeš vyvíjať nové funkcionality, ktoré rozšíria možnosti našich užívateľov a posunú SuperFaktúru na ďalšiu úroveň.
+Tvoj žiariaci meč v podobe programovacích zručností bude sprostredkovávať refaktorovanie a neustále zlepšovanie nášho súčasného kódu, aby bol nielen efektívnejší, ale aj odolnejší voči výzvam budúcnosti.Pri návrhu riešení sa opieraš o osvedčené princípy ako SOLID a dbáš na to, aby bol kód čitateľný, udržateľný a pripravený na ďalší rast.
+Sleduješ nové nástroje a nebojíš sa ich používať. Vieš zapojiť AI nástroje (Codex, Claude code...) do svojej práce - či už pri hľadaní riešení, návrhu kódu alebo zrýchlení vývoja.
+Tieto zodpovednosti vyžadujú, aby si už mal skúsenosti s rozsiahlejšími webovými projektami. Nemusíš byť korporátny veterán, ale vypracované zadania zo školy alebo kurzu nestačia. Zaujímavé osobné projekty sa ale rozhodne počítajú!​
+Preferované pracovné miesto:
+Máme pre teba miesto v príjemnej bratislavskej kancelárii. Občas však fajn padne zostať pracovať zo svojho domova.​
+Zamestnanecké výhody, benefity
+7 hodinový pracovný čas
+viac na https://hodinanavyse.sk/
+Atmosféra:
+Nie sme korporácia. Je nás málo a preto si musíme spolu “sadnúť” a rozumieť si (s občasnými búrkami, tak ako v každej správnej rodine).
+Voľnosť:
+Nehráme sa na šéfov, každý má právo hovoriť do smerovania projektu. Máš nápad a dokážeš ostatných kolegov presvedčiť, že je bohovský? Začni na ňom robiť hneď!
+Vzdelávanie:
+Podporujeme tvoj rast. Chceš si naživo vyskúšať novú technológiu? Do toho! Našiel si zaujímavé školenie? Ideš tam! Potrebuješ prísun kníh? Kupuj! Veríme, že keď sám budeš nabúchaný, potiahneš tak aj nás.
+Home - office:
+Máme pre teba miesto v našej bratislavskej kancelárii, kde ťa radi uvidíme. Zároveň môžeš využiť
+home office až 5 dní v mesiaci
+.
+Občerstvenie
+: Káva je samozrejmosť. O bublinky sa stará SodaStream a pravidelne dopĺňame aj čipsy či sladkosti, aby bolo pri práci čo zobnúť.
+Firemný život:
+Nežijeme len prácou. Občas si dáme teambuilding, vianočný večierok alebo skočíme spolu na firemné pivo.
+Parťáka hľadáme či už na TPP alebo živnosť, je na tebe čo ti viac vyhovuje!
+​
+Možnosť využívať najlepšiu SuperFaktúru vo vesmíre!
+​
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+PHP - Pokročilý
+MySQL - Pokročilý
+HTML - Základy
+JavaScript - Základy
+AI - Umelá inteligencia - Mierne pokročilý
+SOLID - Mierne pokročilý
+Osobnostné predpoklady a zručnosti
+Nevyhnutné:
+PHP, git, MySQL, HTML + LESS / CSS, JavaScript, SOLID na úrovni praktického využívania, prax na pozícií aspoň 2 roky
+Voliteľné:
+Docker, Symfony, bash/shell, React Native (naši mágovia využívajú Docker pre lokálny vývoj), AI (Codex, Claude a podobné)
+Máš skúsenosti s vývojom komplexných webových aplikácií s využitím MVC frameworku? To je ako čerešnička na torte!
+Automatizácia je pre teba prirodzenou súčasťou tvojho vývojového procesu, rovnako ako kvalitné kódovanie a testovanie.
+Okrem životopisu a infa o sebe (kto si, čomu sa venuješ/si sa venoval), nám, prosím, pošli aj ukážky svojich prác (ukážku PHP zdrojového kódu), alebo odkaz na tvoje projekty so zdrojovými súbormi / Github, aby sme si mohli spraviť predbežný odhad o tvojich skúsenostiach.
+Ak máš nejakú konkrétnu špecializáciu, napríklad frontend, backend, DevOps, čokoľvek, čo sa ti zdá, že by mohlo byť pre projekt zaujímavé, určite nám o tom napíš.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme SuperFaktúra, nástroj, ktorý ľuďom uľahčuje ich podnikanie a namiesto otravnej byrokracie im umožňuje riešiť dôležité veci a robiť to, čo majú radi .
+S intuitívnym rozhraním, cloudovou dostupnosťou a pokročilými funkciami zvládne všetko od vytvárania faktúr, cez správu nákladov až po knihu jázd.
+Nehráme sa na superhrdinov, nezachraňujeme svet . Poskytujeme službu, ktorá podnikateľovi zjednodušuje každý jeden deň - a poviem jedno tajomstvo - ukrutne nás to baví! A to je najdôležitejšie.
+Kontakt
+Kontaktná osoba: Cyntia Balážová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5244833
+Dátum zverejnenia:
+4.3.2026
+2026-03-04
+lokalita:
+Bratislava
+Pozícia:
+PHP programátor
+,
+Programátor
+Spoločnosť:
+SuperFaktura, s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

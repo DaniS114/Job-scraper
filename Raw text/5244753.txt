@@ -1,0 +1,83 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+Machine Learning Researcher
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 200 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+* Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+We are looking for a passionate Machine Learning Researcher to join our Technology Division.
+What does working as a Machine Learning researcher entail?
+Is responsible for the research and development of machine learning based technologies used for detection of malicious threats. The position involves prototyping machine learning based models and really big data analysis. It is dedicated to developing and maintaining executable (binary) code classifiers built on top of the cutting-edge technologies where classifiers leverages multiple data sources and information. We got space for people which want to contribute more in research field as well as for people which want to work more on production part.
+Where does Machine Learning researcher work?
+You will be a part of Core Research and Development Department located in Bratislava, member of Automation and Artificial Intelligence team. Our team works with the large amount of data, hence a part of the team works on diverse automation tasks mostly related to alleviate the work load on Infiltration analysts and Detection Engineers working in Security Research Laboratory, others are leveraging various techniques, including machine learning, to provide users with the maximum degree of protection, it is necessary to continually find improvement for our systems in order to adapt to ever-changing threats.
+Technologies used in the job
+Python, Scikit, TensorFlow, Hadoop/Hbase, Spark, Hive, Impala, Kafka, C/C++, (My)SQL, JIRA, Confluence, Git
+The advantages
+You will be creating something that really helps to protect millions of users worldwide. Also, you will opportunity to learn something new as well as apply machine learning approaches in cyber security field, mastered only by a handful of people.
+Are you cut out for the job?
+Since this is dedicated research (or applied research) position we are looking for people with university education, Master's or higher degree in the machine learning related field - people with Data Scientist, Computer Science, Data Mining or Statistics background are welcome, ideally with previous work in the field.
+Position is also suitable for experienced software engineers that have at least some experience with machine learning or data science.
+Programming level enough to create prototypes in Python or C/C++ but also to work on projects in our production machine learning infrastructure. Advantage is to have experiences with so called Big Data technologies and at least basic understanding of computer/network security.
+And last but not least, to keep pace with the bad guys you should have a healthy appetite for continuing to learn new things. The appetite for drinks, beers, food and great time will be saturated on several off-site teambuilding activities and annual Christmas party and big company party with cover name 'Zranica'.
+Kontaktná osoba
+Marika Fiamínová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Neustále hľadáme nové kolegyne alebo nových kolegov, ktorí chcú byť súčasťou úspešného slovenského príbehu s globálnym dopadom. V ESET neustále dokazujeme, že špičková expertíza a inovácie vytvorené na Slovensku majú silu konkurovať najväčším hráčom v oblasti kyberbezpečnosti po celom svete. Ak chceš pracovať pre firmu, ktorá stavia na kvalite, odbornostiach a reálnom dopade svojej práce vo svete, hľadáme práve
+TEBA.
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5244753
+Dátum zverejnenia:
+4.3.2026
+2026-03-04
+lokalita:
+Bratislava
+Pozícia:
+AI Specialist
+,
+Research Worker, Scientific Worker
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 200 EUR/month
