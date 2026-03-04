@@ -7,7 +7,7 @@ A Python-based web scraping and data analysis tool designed to archive and analy
 ## Features
 
 * **Supported job portals:** 
-    * **Hungary**: [profession.hu](https://www.profession.hu), [jofogas.hu](https://www.jofogas.hu)
+    * **Hungary**: [profession.hu](https://www.profession.hu)
     * **Slovakia**: [profesia.sk](https://www.profesia.sk)
 * **Data Archiving**: Automatically saves every job description into a raw `.txt` file for permanent backup, ensuring you have a record even after the ad expires.
 * **AI-Powered Analysis**: Uses the **Mistral-Nemo** model running locally via **Ollama** to parse requirements, tech stacks, and benefits from unstructured text.
