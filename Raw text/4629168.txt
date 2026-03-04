@@ -1,0 +1,114 @@
+msg life Slovakia
+NAPREDUJ SPOLU S NAMI
+a využi svoj talent
+Analyzujeme, vyvíjame a testujeme inteligentné softvérové produkty v oblasti
+finančných a poistných služieb
+www.msg-life.sk
+Pracovné ponuky
+O nás
+Kontakt
+Project Technical Lead - Home Office/Office
+Reagovať na ponuku
+Miesto práce
+Práca z domu
+Mzdové podmienky (brutto)
+Od 4 000 EUR/mesiac
+*
+Druh pracovného pomeru
+plný úväzok, živnosť
+*Od 4 000 € brutto mesačne. Konkrétna výška mzdy závisí od znalostí a skúseností a je výsledkom vzájomnej dohody. Nástupný bonus vo výške od 4 000 €. Práca z domu alebo v kancelárii v BA, ZA, KE podľa dohody.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+• Technické vedenie projektov - prevezmeš úlohy od plánovania projektov, cez controlling, až po koordináciu zdrojov. Zodpovedáš za odborné, softvérové aj architektonické aspekty, najmä pri stredne veľkých projektoch.
+• Architektúra a návrh riešení - budeš formovať technickú architektúru u našich klientov. Na platforme msg.Insurance Suite zabezpečíš koordináciu zákaznícky špecifických procesov, technických prostredí a systémovej či softvérovej architektúry.
+• Systémová integrácia - navrhneš a zastrešíš integráciu našich riešení do prostredia zákazníka – od architektonického návrhu až po úspešné nasadenie.
+• Workshopy a odborná komunikácia - staneš sa partnerom pre klienta. Povedieš workshopy, pripravíš odborné prezentácie a budeš komunikovať s manažmentom na strednej úrovni.
+Technológie a nástroje, s ktorými sa môžeš stretnúť
+• Programovacie jazyky a frameworky: Java EE, Spring, Maven, Jenkins
+• Aplikačné servery: WildFly, JBoss
+• Integračná architektúra: SOA, ESB
+• Práca s dátami: Oracle, Postgres, DB2
+• Komunikácia a spolupráca: Jira, Confluence, ERP, Microsoft 365 (vrátane Microsoft Teams)
+Zamestnanecké výhody, benefity
+• Atraktívne platové ohodnotenie
+• Motivujúce odmeny a prémie (napr. vianočná prémia až do výšky základnej mesačnej mzdy)
+• Príspevok na stravné nad rámec zákona
+• Príspevok do III. piliera
+• Príspevok na hobby 200€ ročne
+• Pružný pracovný čas
+• 5 dní dovolenky ročne nad zákonný rámec, deň plateného voľna na Silvestra
+• Home Office / Office podľa vlastného výberu
+• Interné aj externé vzdelávanie
+• Bezplatné kurzy nemeckého a anglického jazyka s možnosťou získania prémie
+• Individuálny a priateľský prístup
+• Tímové športové aktivity
+• Zdravé občerstvenie, kvalitná káva aj čaje
+• ...a omnoho viac nájdeš na https://msg-life.sk/benefity/
+Informácie o výberovom konaní
+Zaujala Vás pracovná pozícia v msg life Slovakia? Nečakajte a ozvite sa nám. Pripojte nám Váš životopis, alebo čokoľvek, čo nás presvedčí o tom, že Vás potrebujeme. Prevedieme Vás výberovým procesom, poskytneme Vám spätnú väzbu a zostaneme s Vami v kontakte od začiatku až do konca. Vaše osobné údaje budú u nás v bezpečí keďže sme zladení so zákonom č. 18/2018 Z. z. o ochrane osobných údajov a sním súvisiacich nariadení. Prijatie žiadosti obratom potvrdíme e mailom. Už teraz sa na Vás tešíme!
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Nemecký jazyk - Stredne pokročilý (B2)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Kľúčové znalosti (MUST HAVE):
+•  Relevantné skúsenosti z projektov aplikačného vývoja
+•  Skúsenosti so softvérovým vývojom alebo architektonickým poradenstvom
+•  Prax v technickom vedení alebo čiastočnom vedení projektov
+•  Schopnosť pracovať so stacktrace a identifikovať a trvalo riešiť chyby
+•  Výborná orientácia v IT metodikách, OOP dizajne, programovaní, softvérovej architektúre, dátovom modelovaní a databázach
+• Praktické skúsenosti s JEE, build infraštruktúrami, bezpečnosťou, Load & Performance analýzou, Cloudom a Continuous Delivery
+• Znalosť integračných architektúr (ideálne aj integrácie msg.Insurance Suite do komplexných systémov zákazníkov)
+•  Skúsenosti s návrhom API so zameraním na funkčný a udržateľný dizajn
+•  Aktívna znalosť nemeckého jazyka (minimálne úroveň B2)
+•  Aktívna znalosť anglického jazyka (úroveň B2)
+Oceníme tiež (NICE TO HAVE):
+• Skúsenosti z oblasti poisťovníctva (napr. správa poistných kmeňov)
+• Znalosť Model Driven Architecture
+• Analytické myslenie a schopnosť systematicky hľadať riešenia
+• Organizačné a plánovacie schopnosti
+• Samostatnosť a tímová spolupráca
+• Skúsenosti s klasickými alebo agilnými metodikami
+• Ochota príležitostne pracovať priamo u zákazníka
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť msg life Slovakia je dcérskou spoločnosťou nemeckej skupiny msg life Gruppe. Medzinárodne činná skupina zodpovedá za profesionálne IT a poradenské služby v segmentoch poisťovníctva a finančníctva. Pre viac informácií kliknite  na  webovú stránku: https://msg-life.sk/
+Počet zamestnancov
+250-499 zamestnancov
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+Kontaktné údaje:
+Kontaktná osoba: Personálne oddelenie
+Tel.:
++421232221454
+E-mail:
+poslať životopis
+ID:
+4629168
+Dátum zverejnenia:
+3.3.2026
+2026-03-03
+lokalita:
+Práca z domu
+Pozícia:
+IT projektový manažér
+,
+Projektový manažér
+,
+Team leader
+,
+Technický manažér
+Spoločnosť:
+msg life Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+4 000 EUR/mesiac

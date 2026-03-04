@@ -1,0 +1,121 @@
+FrontEnd React Developer for ABIS Criminal Investigation (Mid Level)
+Innovatrics, s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 500 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Why This Job Is Exciting:
+You’ll be part of a talented team solving real-world challenges in the field of biometrics and identity verification. Our development culture values clean architecture, quality code, strong ownership, and meaningful work.
+You’ll be joining the
+ABIS* for Criminal Investigation
+team, a dedicated group of professionals developing cutting-edge forensic software that supports police departments and law enforcement agencies around the world in solving crimes and enhancing public safety.
+*Automated Biometric Identification System
+Your Journey with Us:
+Within one month, you will…
+Get familiar with our technical infrastructure, architecture, and workflows
+Complete onboarding and set up your development environment
+Start building relationships across teams and functions
+Within three months, you will…
+Actively participate in code reviews and share constructive feedback
+Understand core business logic and collaborate with stakeholders
+Contribute independently to feature development, bug fixes, and improvements
+Within six months, you will…
+Partake in technical discussions and implement complex features
+Take ownership of significant parts of our frontend architecture
+Identify and address performance and scalability challenges
+Mentor junior developers and promote high coding standards
+About You:
+Requirements
+We looking for an experienced FE Developer to help us build, maintain, and scale our modern applications. This is a high-impact role for someone who thrives in a collaborative environment and wants to contribute not only through hands-on development, but also by shaping architecture, mentoring others, and driving best practices.
+Qualifications:
+Proven experience in FE development
+Solid knowledge of React (TypeScript)
+Comprehensive understanding of component-based architecture, React hooks, and state management (e.g., Context API, Redux).
+Familiarity with front-end unit testing (Jest/Vitest)
+Strong CSS skills (e.g., Styled Components, Stitches or similar CSS-in-JS solution), attention to detail in implementing pixel-perfect designs based on Figma prototypes
+Familiarity with GraphQL, REST APIs, and CI/CD pipelines
+Comfortable working in Agile teams and collaborating via tools like GitLab and Jira
+Nice to have
+:
+Experience with Storybook library and managing design-system
+Basic web security practices such as XSS/CSRF protection, CSP setup, and secure token (JWT/OAuth) handling
+Experience with performance profiling
+Knowledge of image transformations using matrices (e.g., scaling, rotating, translating graphics via CSS/SVG and transforms) and Canvas..
+Familiarity with E2e testing (Playwright).
+Background in UX research or design thinking
+Techstack:
+React, TypeScript
+‘redux-toolkit’ for global state management
+‘tanstack-query’ used for fetching data via GraphQL and REST API
+Frontends monorepo orchestrated with Turborepo and pnpm
+All apps are bootstrapped with Vite
+Vitest is used for unit tests
+Playwright for E2E tests
+CSS: Our design system built on top of Stitches and Radix UI components
+Visual tests run in Chromatic
+GitLab CI/CD
+Working Hours & Location:
+Location: Bratislava (Hybrid)
+️ Travel: Minimal travel may be required
+Level:
+This role is Medior level.
+Employee perks, benefits
+At Innovatrics, we offer highly competitive salaries because we value top talent who share our values and goals. Compensation is determined based on your level, skills, experience, qualifications, and location.
+Salary gross range: From €2500, tied to competency and technical evaluation.
+Beyond base pay, we provide an attractive benefits package. You can learn more at.
+Interview Process:
+Here is the typical interview process for this role:
+Introduction Stage
+Recruiter Screen [30 min. ]
+‍ Team Interview Stage
+We have a one single interview round that takes approximately 2 - 2,5  hours and is divided into two stages:
+Stage 1: Technical Interview (60 min)
+An interactive session with our technical team, focusing on your problem-solving approach and technical knowledge relevant to the role.
+Stage 2: Practical Collaboration (60~90 min)
+A hands-on session where you will work directly with our Software Engineers and Hiring Manager on a real-world problem. This is a practical, collaborative exercise designed to see how you approach challenges, communicate your reasoning, and co-create solutions in real time.
+Final Stage
+CARES Interview: Final conversation with our CARES committee to ensure alignment with our core values—Collaboration, Accountability, Respect, Excellence, and Shared Mission.
+Reference checks and background verification
+We encourage candidates to request additional conversations with anyone they would like to meet.
+Learn more about our culture, values, and what it’s like to work at Innovatrics: https://careers.innovatrics.com/
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Proficiency (C2)
+Advertiser
+Brief description of the company
+At Innovatrics, our mission is to make biometric identity accessible, secure, and scalable for everyone.
+We develop world-class biometric solutions used by governments, enterprises, and platforms around the globe. Our technology powers identity verification, access control, criminal investigations, and national ID systems - serving millions of users and making security smarter and more seamless.
+We're trusted by companies and institutions in over 80 countries and ranked among the top vendors in independent NIST evaluations.
+Number of employees
+200-249 employees
+Contact
+Contact person: Julia Sustakova
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5244163
+Dátum zverejnenia:
+3.3.2026
+2026-03-03
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+Spoločnosť:
+Innovatrics, s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/month

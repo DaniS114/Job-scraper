@@ -1,0 +1,92 @@
+About us
+Our benefits
+Open positions
+Java Software Engineer (Mid-Level) – Data Directory (Risk Management)
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 800 - 4 600 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,800 and EUR 4,600 per month (for a full-time role). The specific salary offered considers: • the requirements, scope, complexity and responsibilities of the role, • the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience. In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits. Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the Role
+As a Software Engineer on our Data Directory platform, you'll be at the intersection of data governance, security, and backend development. You'll craft elegant solutions that empower risk professionals to access and manage critical data with confidence, while ensuring the highest standards of security and data integrity.
+Key Responsibilities
+•	Design and develop backend services using Java and Python that power our data governance platform
+•	Create and maintain API-based interfaces that expose metadata and governance information
+•	Engineer database solutions with focus on schema design, data models, and maintaining data integrity
+•	Build and operate cloud services on Microsoft Azure following enterprise standards
+•	Implement security measures when handling sensitive risk-related metadata
+•	Enhance existing code to increase clarity, maintainability, and overall robustness
+•	Collaborate across teams with development, DevOps, and business analytics professionals
+•	Apply secure-by-design principles throughout the development lifecycle
+•	Implement authentication systems using OAuth2 for API security
+•	Develop comprehensive testing including unit and integration tests to ensure quality
+About the Team
+The Risk Management Data Pools application team is responsible for maintaining and evolving Data Directory, the central platform that manages metadata and governance for Risk Management data feeds. Our team ensures that critical risk data is transparent, accessible, and secure across the organization, enabling informed decision-making and regulatory compliance.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a collaborative problem-solver who takes pride in writing clean, maintainable code. You communicate effectively with both technical and business stakeholders and understand the importance of balancing delivery speed with security and long-term maintainability. You're comfortable improving existing solutions, not just building new ones, and you take ownership of your code and its quality.
+We are looking for candidates who meet these requirements:
+•	Solid experience with Java and working knowledge of Python
+•	Experience designing and maintaining RESTful APIs
+•	Strong understanding of database schemas, data modelling, and relational concepts
+•	Experience with Microsoft Azure or a comparable cloud platform
+•	Familiarity with OAuth2 and API security mechanisms
+•	Experience with unit and integration testing
+•	Comfortable working in a globally distributed team
+These are additional nice to haves:
+•	Experience with metadata-driven systems or data governance platforms
+•	Familiarity with AI coding agents and responsible use in software development
+•	Exposure to regulated or risk-related environments
+•	Understanding of CI/CD and DevOps collaboration models
+•	Experience working in financial services or risk management domains
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Livia Pasztorova
+Apply here
+ID:
+5243626
+Dátum zverejnenia:
+3.3.2026
+2026-03-03
+lokalita:
+Bratislava
+Pozícia:
+Java Programmer
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 800 EUR/month

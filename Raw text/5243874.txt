@@ -1,0 +1,96 @@
+Hľadáme IT špecialistu: Príležitosť na rozvoj v dynamickom prostredí s atraktívnym ohodnotením!
+MB SERVIS, s.r.o.
+Miesto práce
+Moravany nad Váhom, , depo, Moravany nad Váhom
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády)
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+1 800 - 2 200 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Správa informačného systému
+- záloha, obnova, testovanie, aktualizácia, prístupy, užívateľské prispôsobenie, úprava výstupov, import/export dát, vykonávanie uzávierok/blokácií, zadávanie a evidencia tiketov, správa číselníkov a dokladov, udržiavanie integrity dát, dohľad nad procesným riadením (audit).
+Evidencia a správa prostriedkov
+(zariadení, aplikácií, užívateľov) – pravidelná aktualizácia inventáru, vytváranie a kontrola záloh, sledovanie miery zabezpečenia a úrovne nasadenia aktualizácií, testovanie nových verzií systémov/systémových súčastí, spravovanie prístupov, diagnostika a profylaktika zariadení.
+Implementácia bezpečnostných opatrení
+- princíp Zero Trust Architecture, viac-úrovňová ochrana: siete (šifrovanie prevádzky, segmentácia siete, content filter), pracovnej stanice (antivírus, firewall,…), aplikácií (APP/OS patch, emailová ochrana), prístupu (PW, MFA, least privilege),…
+Správa M365/Exchange Online
+– užívatelia, licencie a skupiny, mail flow, nastavenie bezpečnostných mechanizmov (Defender for O365) a administrácia Teams/SharePoint/OneDrive.
+Správa počítačovej siete
+- VLAN, WLAN, Firewall, Content filter, SD WAN, VPN, APN, IDS/IPS, DNS (AD DS), kontrola dodržiavania SLA, nahlasovanie porúch.
+Dohľad nad zálohovaním
+- aktívny monitoring/vytvorenie stratégie zálohovania, vrátane disaster recovery a metódy 3-2-1. Kontrola vytvorenia a integrity záloh, skúška obnovy.
+Zabezpečenie prvej línie podpory
+- pomoc pri riešení bežných podnetov od kolegov - problémy s HW, OS, sieťou, aplikáciami.
+Tvorba vedomostnej bázy pre zamestnancov
+- evidencia návodov, pracovných postupov a zaškolenie personálu (macOS, iOS, AbraGen, MS Office,…).
+Proaktívny prístup
+- zjednodušenie, urýchľovanie a zefektívnenie práce zamestnancov. Automatizácia pravidelne vykonávaných úloh.
+Komunikácia s dodávateľmi
+- aktívny prieskum trhu, výber a udržiavanie dobrých vzťahov s dodávateľmi, obstaranie zariadení/licencií/certifikátov/služieb/spotrebného materiálu, zadávanie reklamácií/porúch, príprava podkladov (rámcových) zmlúv a technických špecifikácií.
+Správa webových stránok
+- mb-servis.sk (clickeshop) a eshop remarc.sk (WordPress) - stránky, texty, média, produkty.
+Správa zabezpečovacieho, kamerového a VoIP
+systému
+- správa prístupov, základná údržba systému, sprístupnenie údajov na základe incidentu.
+Zamestnanecké výhody, benefity
+13. a 14. plat
+Informácie o výberovom konaní
+Svoje životopisy zasielajte na zivotopis@mb-servis.sk
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+základné vzdelanie
+študent strednej školy
+stredoškolské bez maturity
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Začiatočník (A2)
+Prax na pozícii/v oblasti
+IT
+Osobnostné predpoklady a zručnosti
+Si tímový hráč a komunikuješ efektívne.
+Ovládaš angličtinu na komunikatívnej úrovni.
+Máš analytické myslenie a riešiš problémy.
+Si otvorený novým technológiam a trendom.
+Schopnosť prispôsobiť sa dynamickému prostrediu.
+Proaktívny prístup a chuť učiť sa.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť MB SERVIS s.r.o. bola založená v roku 2008 ako dcérska bunka spoločnosti Motor-Car Bratislava spol. s r.o. Hlavným podnetom vzniku našej spoločnosti bol stále rastúci dopyt po predajných a kvalitných servisných službách komunálnej techniky a podvozkov Mercedes-Benz UNIMOG.
+Spoločnosť vykonáva kvalifikovaný servis a predaj podvozkov Mercedes-Benz, FUSO, MULTIHOG, RASCO a nadstavieb používaných pri údržbe a opravách ciest, letísk, železníc, mechanizmov používaných v lesnom hospodárstve, energetike, agrosektore, civilnej ochrane a komunále. Servisné zásahy vykonávame podľa želania zákazníka priamo na mieste poruchy, v priestoroch zákazníka, alebo v sofistikovanej dielni spoločnosti. 365 dní v roku, 7 dní v týždni a 24 hodín denne zabezpečujeme svojim zákazníkom 24-hodinovú výjazdovú a poradenskú službu.
+Filozofia spoločnosti spočíva v poskytovaní kvalitných produktov v spojení s kvalitnými službami, pričom najväčší dôraz je kladený na spokojnosť zákazníkov. Pre zabezpečenie firemných cieľov a vysokého štandardu poskytovaných služieb sme zaviedli systém odborného vzdelávania zamestnancov. S cieľom neustáleho zvyšovania kvality bol implementovaný systém riadenia podľa noriem ISO 9001:2000, ISO 14 001:1996 a BSi OHSAS 18 001 a spoločnosť sa stala držiteľom príslušných certifikátov.
+Za krátky čas existencie si naša spoločnosť MB SERVIS vybudovala stabilné miesto na trhu a stala sa spoľahlivým a silným partnerom pre svojich klientov, o čom svedčia aj referencie za ostatné obdobie. MB SERVIS s.r.o. je jedným z najvýznamnejších dodávateľov komunálnej a špeciálnej techniky pre slovenský trh a sme hodnotení ako vysoko spoľahlivý dodávateľ pre štátny sektor.
+Spoločnosť MB SERVIS s.r.o. je výhradným zástupcom firiem MULAG, RASCO, Multihog, a ďalšie pre slovenský trh.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Annamária Benková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5243874
+Dátum zverejnenia:
+3.3.2026
+2026-03-03
+lokalita:
+Moravany nad Váhom
+Pozícia:
+IT manager
+,
+Správca počítačovej siete
+Spoločnosť:
+MB SERVIS, s.r.o.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

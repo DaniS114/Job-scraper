@@ -1,0 +1,89 @@
+Linux Administrátor - Monitoring a Výkon
+Talent Solutions, s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 100 EUR/mesiac
++ štvrťročné bonusy. Finálna výška mzdy záleží od skúseností a znalostí uchádzača a môže byť vyššia ako inzerovaná suma.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Stabilná a samostatná rola pre skúseného Linux administrátora so zameraním na správu, podporu a optimalizáciu serverových prostredí. Pozícia je súčasťou medzinárodného agilného tímu, s možnosťou práce na diaľku.
+Náplň práce
+- Správa Linux serverov (inštalácia, konfigurácia, údržba – RHEL 7/8/9).
+- Monitoring systémov, ladenie výkonu a kapacitné plánovanie (Zabbix, Wazuh, Splunk).
+- Patch management a aktualizácie (RHEL Satellite).
+- Riešenie problémov OS, služieb a aplikácií.
+- Správa používateľov, skupín a oprávnení.
+- Zálohovanie a obnova dát (TSM).
+- Skriptovanie a automatizácia (Bash, Shell; výhodou Python, Salt, Terraform).
+- Tvorba technickej dokumentácie a procesných postupov.
+Zamestnanecké výhody, benefity
+- Štvrťročné bonusy
+- Kompenzácia za nadčasy
+- Referral bonus
+- Home office
+- IT školenia
+- Jazykové kurzy (nemčina, angličtina)
+- Multisport karta
+- Firemné akcie
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Patríme medzi TOP 3 personálne agentúry na Slovensku. Na slovenskom trhu pôsobíme od roku 2002. Pri poskytovaní našich služieb spájame záujmy oboch skupín – uchádzačov a zamestnávateľov. Našou hlavnou úlohou je ľuďom zabezpečiť prácu a spoločnostiam talenty, ktoré sú nevyhnutné pre prosperujúce spoločnosti.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+Osobnostné predpoklady a zručnosti
+- Pokročilé skúsenosti s Linux serverovou administráciou.
+- Znalosť RHEL 7/8/9.
+- Skúsenosti s monitoringom systémov.
+- Praktická znalosť Bash/Shell skriptovania.
+- Anglický jazyk na úrovni B2.
+- Proaktívny, spoľahlivý a detailne orientovaný prístup.
+- Schopnosť samostatnej aj tímovej práce.
+- Záujem o bezpečnosť a automatizáciu.
+Výhodou (Security & Compliance):Znalosť Linux security hardeningu (CIS).
+- Znalosť PCI DSS a compliance princípov.
+- Skúsenosti s remediáciou zraniteľností a auditmi.
+- Skúsenosti s bezpečnou konfiguráciou systémov a kontrolou prístupov.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Patríme medzi TOP 3 personálne agentúry na Slovensku. Na slovenskom trhu pôsobíme od roku 2002.
+Pri poskytovaní našich služieb spájame záujmy oboch skupín – uchádzačov a zamestnávateľov.
+Našou hlavnou úlohou je ľuďom zabezpečiť prácu a spoločnostiam talenty, ktoré sú nevyhnutné pre prosperujúce spoločnosti.
+Riešime potreby našich klientov v oblasti riadenia ľudských zdrojov a zároveň dávame uchádzačom a agentúrnym zamestnancom šancu profesijného aj mimo-profesijného rozvoja.
+Máme širokú sieť pobočiek a kancelárií po celej krajine. Prítomnosť v jednotlivých regiónoch nám umožňuje detailne poznať lokálne špecifiká trhu práce.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Kristián Psotný
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5243726
+Dátum zverejnenia:
+3.3.2026
+2026-03-03
+lokalita:
+Práca z domu
+Pozícia:
+IT konzultant
+,
+Špecialista IT bezpečnosti
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+Spoločnosť:
+Talent Solutions, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 100 EUR/mesiac

@@ -1,0 +1,97 @@
+About us
+Our benefits
+Open positions
+Backend Software Developer - Java Spring Boot
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 800 - 4 600 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,800 and EUR 4,600 per month (for a full-time role). The specific salary offered considers:
+·   the requirements, scope, complexity and responsibilities of the role,
+·   the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+ 
+In addition to your base salary, you may be eligible for additional rewards and benefits including an attractive performance-based bonus.
+Information about the position
+Job description, responsibilities and duties
+Are you passionate about building robust backend systems that power innovative applications? Join Swiss Re's dynamic team in Bratislava where you'll leverage your Java Spring Boot expertise to develop solutions that make the world more resilient. This is your opportunity to work with cutting-edge technologies while solving complex challenges in the reinsurance industry.
+About the Role
+As a backend engineer, you will be part of a team catering for apps for our core contract processes, working side-by-side with our business analysts, data engineers and other technology professionals. You will be fully engaged in a classic agile setup with designers, frontend and backend engineers, cloud engineers as well as product and technical owners.
+Key Responsibilities
+•	Design and develop backend applications using Java Spring Boot and reactive programming paradigms
+•	Create and maintain RESTful APIs that power our digital ecosystem
+•	Collaborate with cross-functional teams to translate business requirements into technical solutions
+•	Impleament microservices architecture principles in new and existing applications
+•	Work with both relational and document-based databases such as PostgreSQL and MongoDB
+•	Contribute to defining and improving best practices for building, testing, and deploying applications
+•	Support continuous improvement and maintenance of existing applications
+•	Participate in solution design discussions and technical decision-making
+About the Team
+Our team stands at the forefront of analytics for Reinsurance. We build analytical products covering diverse areas from Contract Wording to Natural Catastrophes, enabling Swiss Re to accurately manage risks across the global marketplace. Working with us means you'll be immersed in modern data solutions with emphasis on cloud technologies and distributed systems, collaborating with talented colleagues from Swiss Re's international offices in a culture that values innovation and technical excellence.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a problem-solver at heart who thrives in collaborative environments. Your technical expertise is matched by your communication skills and ability to work across teams. You're curious, analytical, and constantly seeking to improve both your skills and the systems you work with. You enjoy the challenge of building scalable, resilient applications and are passionate about quality code.
+We are looking for candidates who meet these requirements:
+•	3+ years of experience with Java and Java Spring Boot, Docker
+•	Experience with relational and document-based database management systems such as PostgreSQL and MongoDB
+•	Knowledge of microservices architecture and its principles
+•	Experience with RESTful APIs
+•	Good communication skills and proficient command of English
+These are additional nice to haves:
+•	Knowledge of German
+•	Experience with reactive programming paradigm
+•	Experience with Python or Kotlin
+•	Experience with Infrastructure as Code (Terraform)
+•	In-depth knowledge of the Azure cloud platform
+•	Strong analytical mindset with eagerness to learn and solve technical challenges
+•	Exceptional teamwork capabilities
+•	Adaptability to handle changes and drive improvements through creativity and innovation
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Lucia Vargova
+Apply here
+ID:
+5244018
+Dátum zverejnenia:
+3.3.2026
+2026-03-03
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Java Programmer
+,
+Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 800 EUR/month

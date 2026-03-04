@@ -1,0 +1,128 @@
+Java/Kotlin Software Engineer
+Innovatrics, s.r.o.
+Place of work
+Bratislava
+Contract type
+full-time
+Wage (gross)
+3 300 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Why This Job Is Exciting
+You’ll be part of a talented team solving real-world challenges in the field of biometrics and identity verification. Our development culture values clean architecture, quality code, strong ownership, and meaningful work.
+You’ll be joining the Biometric platform for ID issuance team, a dedicated group of professionals working on ABIS* software that enables governments to prepare for elections, issue ePassports, and secure borders.
+*Automated Biometric Identification System
+In your first months, you’ll...
+Get hands-on with our technical infrastructure, architecture, and workflows written in Java and Kotlin
+Start building relationships across teams and functions
+Deliver small bug fixes and enhancements to help you become familiar with the system.
+As you settle into the role, you’ll...
+Contribute actively to the development and optimization of our Biometric platform for ID issuance team’s components.
+Participate in the design of new features and API improvements.
+Collaborate with engineers across teams to ensure high performance, scalability, and clean architecture.
+Within your first year, you’ll...
+Lead technical discussions and implement complex features
+Mentor junior engineers and help shape coding standards and best practices.
+Influence long-term technical strategy and continuously improve our stack
+What You’ll Help Build
+At Innovatrics, we build biometric technologies for elections, border control, digital ID, and secure onboarding in 80+ countries. Our algorithms have reached over a billion people.
+Your work here won’t get lost in a backlog; it’ll shape real-world systems that matter.
+We’re a small team, so your ideas ship fast. From day one, you’ll build production features and shape global-scale projects within weeks.
+Working Hours & Location
+Required locations:
+Bratislava office
+Hybrid - 2 days in-office / 3 days remote
+About you
+You are an experienced Java or Kotlin software engineer (prior Kotlin experience is a plus, but not required — we’ll help you get up to speed!). You’re someone who thrives in a culture of ownership, autonomy, and continuous improvement.
+You are:
+Proficient in backend software engineering, ideally with experience in distributed systems, APIs, or gRPC.
+Comfortable working independently and collaboratively on challenging problems.
+A team player who values humor, openness, and thoughtful communication.
+Qualifications
+Strong communication and problem-solving skills, with the ability to understand complex systems and explain technical concepts clearly to both technical and non-technical audiences.
+Proven experience in backend development using Java and/or Kotlin, ideally with knowledge of gRPC, REST API, and distributed systems.
+Understanding of multi-threading and parallel programming, with experience of debugging concurrent systems.
+Collaborative mindset with experience working in cross-functional teams, code reviews, and agile development environments.
+Proactive and independent, with a high sense of ownership and a willingness to mentor others and continuously improve coding standards and team practices.
+Nice-to-have:
+Experience with basic DevOps practices, including CI/CD pipelines, Docker, or Kubernetes
+Familiarity with cloud platforms (e.g., AWS, GCP, Azure) and their services
+Understanding of observability tools (e.g., Prometheus, Grafana, OpenTelemetry)
+Exposure to security best practices for APIs and distributed systems
+Techstack
+You'll be working with a modern backend stack designed for performance, observability, and developer productivity:
+Languages & Frameworks:
+Java, Kotlin, Spring Boot, Ktor
+Communication & APIs:
+REST APIs with OpenAPI, GraphQL, gRPC with Protocol Buffers
+Build Tools:
+Maven, Gradle
+Observability:
+OpenTelemetry, Prometheus, Grafana, Tempo, Loki
+Testing:
+JUnit
+DevOps & Tooling:
+GitLab CI/CD, Docker, Kubernetes
+Team Productivity:
+Jira, Confluence
+Level
+This role is Medior / potentially Senior level.
+Employee perks, benefits
+Compensation
+At Innovatrics, we offer highly competitive salaries because we value top talent who share our values and goals. Compensation is determined based on your level, skills, experience, qualifications, and location.
+Salary gross range: From €3,300- tied to competency and technical evaluation.
+Beyond base pay, we provide an attractive benefits package. You can learn more at.
+Interview Process
+Here is the typical interview process for this role:
+Introduction Stage (~30 min.)
+Recruiter Screen
+‍ Team Interview Stage   (~120 min.)
+We have a one single interview round that takes approximately 2 - 2,5  hours and is divided into two stages:
+Stage 1: Technical Interview (60 min)
+An interactive session with our technical team, focusing on your problem-solving approach and technical knowledge relevant to the role.
+Stage 2: Practical Collaboration (60~90 min)
+A hands-on session where you will work directly with our Software Engineers and Hiring Manager on a real-world problem. This is a practical, collaborative exercise designed to see how you approach challenges, communicate your reasoning, and co-create solutions in real time.
+Final Stage
+CARES Interview:
+Final conversation with our CARES committee to ensure alignment with our core values—Collaboration, Accountability, Respect, Excellence, and Shared Mission.
+Reference checks and background verification
+We encourage candidates to request additional conversations with anyone they would like to meet.
+Learn more about our culture, values, and what it’s like to work at Innovatrics:
+https://careers.innovatrics.com/
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Proficiency (C2)
+Advertiser
+Brief description of the company
+At Innovatrics, our mission is to make biometric identity accessible, secure, and scalable for everyone.
+We develop world-class biometric solutions used by governments, enterprises, and platforms around the globe. Our technology powers identity verification, access control, criminal investigations, and national ID systems - serving millions of users and making security smarter and more seamless.
+We're trusted by companies and institutions in over 80 countries and ranked among the top vendors in independent NIST evaluations.
+Number of employees
+200-249 employees
+Contact
+Contact person: Julia Sustakova
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5244173
+Dátum zverejnenia:
+3.3.2026
+2026-03-03
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+Spoločnosť:
+Innovatrics, s.r.o.
+Základná zložka mzdy (brutto):
+3 300 EUR/month

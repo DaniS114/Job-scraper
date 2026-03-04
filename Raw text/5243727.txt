@@ -1,0 +1,113 @@
+Software Engineer (Java, DevOps mindset)
+SourceFirst International s.r.o.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+By agreement
+Wage (gross)
+3 200 - 3 900 EUR/month
+Information about the position
+Job description, responsibilities and duties
+For our client we are looking for a Software Engineer with a strong DevOps mindset to join Developer Platform team in Košice. This is a development-focused role in a small, highly technical team. You will design and build internal services, automation, and developer tooling in a modern, cloud-native, GitOps-driven environment. Your mission is not classic operations, but to improve developer experience and productivity by owning and evolving internal platform components.
+Responsibilities:
+Software Engineering & Platform Development:
+- Design, implement, and maintain backend services for internal platforms and developer tooling
+- Build and evolve internal developer platform components and development-related services
+- Develop automation and self-service solutions that improve developer productivity and delivery speed
+- Take end-to-end ownership of internal services (design, implementation, documentation, maintenance)
+DevOps & Cloud Enablement:
+- Implement GitOps-based deployments using Argo CD and Helm
+- Manage platform infrastructure and components using Infrastructure as Code (Terraform / OpenTofu)
+- Drive the architectural design and evolution of CI/CD, deployment, and QA pipelines, including performance and reliability improvements.
+- Define, evolve, and implement branching models and repository structures that support efficient development and delivery.
+- Work with containerized applications using Docker and Kubernetes
+Collaboration & Continuous Improvement:
+- Collaborate closely with Cloud Operations and build/process teams
+- Improve repository structures, workflows, and delivery processes
+- Proactively identify improvement opportunities and drive them forward
+- Share knowledge and ensure backup coverage within a small, efficient team
+Employee perks, benefits
+- Hybrid Working – work (partially) from home and from office in Kosice
+- Good work-life balance by flexible working time
+- Opportunity to work on important and challenging products used by large enterprises all over the world
+- Excellent remuneration package with additional social and medical benefits
+- Annual financial bonus up to 200% of the monthly salary
+- Extra Vacation days
+- Sickness days
+- Technical courses and certifications
+- Language courses
+- Career development
+- Comfortable working environment with free coffee and water
+- Open-minded corporate culture with flat hierarchy
+Expected date of completion of the selection process
+31.7.2026
+(there are still 148 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a leading international tech company
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+- Several years of hands-on software development experience (strongly preferred Java / Spring Boot and experience building backend services and REST APIs)
+- Experience working in cloud-native environments, ideally AWS
+- Solid understanding of containerized applications (Docker, Kubernetes)
+- Experience with Git-based workflows
+- Strong sense of ownership, self-motivation, and responsibility
+- Good communication skills in English and a collaborative mindset
+Nice to Have Skills:
+- Experience with JS/TS and React
+- GitOps tooling (Argo CD, Helm)
+- Infrastructure as Code (Terraform / OpenTofu)
+- CI/CD tooling (GitHub Actions)
+- Experience with Kafka, MongoDB, or Redis
+- Curiosity about AI-driven automation and modern productivity tooling
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: Tomas Kerekanic
+Tel.:
++421902333645
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5243727
+Dátum zverejnenia:
+3.3.2026
+2026-03-03
+lokalita:
+Košice
+Pozícia:
+Backend developer
+,
+DevOps Engineer
+,
+Java Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+3 200 EUR/month

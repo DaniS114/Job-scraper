@@ -1,0 +1,91 @@
+About us
+Our benefits
+Open positions
+Angular Engineer (Hybrid)
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 800 - 4 600 EUR/month
+For Slovakia the base salary range for this position is between EUR 2,800 and EUR 4,600 per month (for a full-time role). The specific salary offered considers:
+·   the requirements, scope, complexity and responsibilities of the role,
+·   the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, you may be eligible for additional rewards and benefits including an attractive performance-based bonus.
+Information about the position
+Job description, responsibilities and duties
+Are you curious how high-end frontend technologies can be used beyond consumer apps to make a real difference?
+At Swiss Re, we build modern internal platforms used by underwriters, actuaries, and pricing experts to support critical reinsurance decisions— helping make the world more resilient through high-quality, long-lived systems.
+About the Team
+You will join a cross functional engineering team building a core frontend platform for reinsurance pricing and costing, used across Swiss Re's global organization to support critical business decisions.
+The team delivers high quality, data intensive Angular applications with complex workflows and rich user interactions, working closely with backend engineers, UX designers, and business stakeholders in an agile, international setup.
+About the Role
+As an Angular Engineer, you will be part of a cross functional agile team contributing to the development and evolution of frontend applications supporting core business processes. You will work closely with backend developers, UX designers, and business analysts to implement well-designed, maintainable, and user centric solutions.
+In a modern development environment, you will contribute to both new features and the continuous improvement of existing applications, applying established frontend best practices and gradually taking responsibility for areas of the codebase as your experience grows.
+Key Responsibilities:
+•	Build and maintain complex Angular applications with focus on reusable, maintainable components
+•	Develop data-heavy interfaces with advanced grid functionality and document processing capabilities
+•	Implement robust state management patterns and reactive programming solutions
+•	Integrate with GraphQL and REST APIs through a Backend for Frontend (BFF) architecture
+•	Implement accessible user interfaces following Material Design principles in collaboration with the UX team
+•	Contribute to UI/UX solution design together with dedicated designers
+•	Participate in migration efforts from legacy implementations to modern Angular patterns
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You're a passionate frontend developer who thrives in collaborative environments and enjoys solving complex technical challenges. You have a keen eye for detail, strong problem-solving skills, and a commitment to writing clean, maintainable code. You value user experience and understand how to translate design requirements into functional, intuitive interfaces.
+We are looking for candidates who meet these requirements:
+•	3+ years of Angular development (v16+) with experience upgrading to newer versions, including standalone components, signals, RxJS, TypeScript strict mode, reactive forms, and Angular Material with custom theming
+•	Advanced component development with typed templates, custom directives, complex form controls with dynamic validation, and Material Design patterns (chips, dropdowns, checkboxes, form fields)
+•	State management using NgRx with effects, reducers, and selectors, plus GraphQLbased data access (and REST where applicable) within a Backend for Frontend (BFF) architecture, including error handling and caching strategies
+•	Strong CSS/SCSS skills with modern layouts (Flexbox, Grid), responsive design, accessibility standards, and experience building reusable component libraries
+•	Testing & DevOps experience with unit testing using Jest, CI/CD pipelines (Azure DevOps preferred), ESLint/Prettier, and Git based workflows
+These are additional nice to haves:
+•	Material Design 3 and large-scale Angular/Material upgrade projects
+•	AG Grid or similar data grids with custom cell renderers
+•	Docker containerization and Azure cloud platform knowledge
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Lucia Vargova
+Apply here
+ID:
+5244180
+Dátum zverejnenia:
+3.3.2026
+2026-03-03
+lokalita:
+Bratislava
+Pozícia:
+Frontend developer
+,
+Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 800 EUR/month

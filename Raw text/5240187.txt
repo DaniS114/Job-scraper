@@ -1,0 +1,163 @@
+Hľadáme React + Node.JS + MongoDB developerov na rozvoj našej Low-code platformy s tisíckami používateľov
+AMCEF s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+Od 12 EUR/hod.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Keďže naša low-code platforma
+Modulario
+oslovila veľa firiem, ktoré majú veľa požiadaviek na nové features, tak hľadáme
+zdatných programátorov
+, ktorí budú rozvíjať core features.
+Na Modulariu aktuálne bežia systémy desiatok malých aj veľkých firiem ako aj celé štátne systémy a ďalšie stovky firiem oň prejavujú záujem. Princíp, ako funguje Modulario a čo dokáže si môžeš pozrieť na tomto (rok starom) videu: https://youtu.be/QBtDlsSrT5Y
+Čo budeš robiť:
+​
+Požiadavky:
+​
+Na základe
+videozadaní
+implementovať konkrétne features so silným dôrazom na
+optimalizáciu
+a
+kvalitu kódu
+.
+Pri implementácii budeš
+aktívne využívať AI
+, ale musíš
+ovládať technológie
+tak, aby si vedel aj bez AIčka navrhnúť a implementovať feature.
+Prevezmeš
+zodpovednosť
+za určité
+časti systému
+, kde očakávame, že budeš proaktívne prichádzať za produkťákom s
+návrhmi
+na vylepšenia
+.
+Vyhodnocovať, ako tvoja implementácia
+ovplyvní
+iné časti systému, performance a security.
+Zúčastňovať sa na denných
+standupoch
+, planningoch, groomingoch, ...
+V prípade záujmu a expertízy sa zúčastňovať na pravidelných
+brainstormingoch
+k dôležitým architektonickým rozhodnutiam (obvykle ich je viac týždenne).
+Robiť vzájomné
+code reviews
+.
+Môžeš byť primárne zameraný na
+frontend
+alebo
+backend
+, obrovskou výhodou ale je, keď máš
+full-stack
+presah a vieš dodať celú feature.
+Ak ťa baví DevOps, radi ťa zapojíme aj do
+infraštruktúry
+.
+Aspoň 3-ročné aktívne skúsenosti s kódením v
+React, Node.JS
+a
+MongoDB
+.
+Ak si šikovný
+študent/absolvent
+s menej skúsenosťami a veľmi by si chcel v AMCEFe pracovať, kľudne sa ozvi tiež a môžeš začať ako
+Low-code developer
+a postupne sa vypracovať na Core Developera.
+Musíš si po sebe vedieť veci fakt dôkladne
+otestovať
+.
+Proaktívny prístup k
+vzdelávaniu
+sa a zdieľaniu vedomostí.
+Proaktívny prístup k využívaniu
+AI
+.
+Znalosť Version Control nástroja a procesov -
+Gitlab, Pipelines, CI/CD
+.
+Výhodou sú skúsenosti s
+AWS
+.
+Obrovskou výhodou sú skúsenosti s prácou vo
+väčších tímoch
+(8-12 ľudí) na
+komplexných systémoch
+kriticky dôležitých pre fungovanie firiem, miest, ministerstiev a pod.
+Zamestnanecké výhody, benefity
+​
+TOP produkt
+- záujem o Modulario je fakt obrovský.
+Neobmedzený kariérny rast
+- tvoj potenciál a talent rozvinieme na maximum, u nás sa nudiť veru nebudeš a radi sa ti proaktívne odvďačíme zvýšením hodinovky.
+Úplná flexibilita
+- Ty si stanovíš, koľko času chceš venovať práci, kedy, v akých časoch a odkiaľ budeš pracovať. A čo sa týka dovoleniek, tak tiež sú bez obmedzení.
+Top kolektív
+- máme nos na diamanty medzi ITčkarmi, takže okrem toho, že sme dobrá partia, tak sa radi delíme o svoje know-how a spolu napredujeme.
+Inovácie a vzdelávanie
+- pravidelne organizujeme spoločné diskusie a školenia na nové technológie a nástroje, ktoré následne zavádzame na projektoch.
+Legendárne teambuildingy
+- pravidelne organizujeme rôzne zaujímavé akcie, na ktoré sa veľmi dlho spomína...
+Realizácia vlastných nápadov
+- máš zaujímavé nápady na projekty, ktoré podľa teba stoja za pokus? Poďme ich zrealizovať!
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+Počet rokov praxe
+3
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Fungujeme od roku 2017. Sme mladý, cca 50-členný tím fakt šikovných vývojárov, konzultantov a obchodníkov. Naším špecifikom je, že každý z nás je technologický nadšenec a má blízko k IT.
+Orientujeme sa na moderné technológie a sme veľmi silno orientovaní na AI. To nám dáva možnosť pracovať na rozmanitých a zaujímavých projektoch, vďaka čomu vieme ponúknuť ľuďom možnosť vybrať si projekty na ktorých budú robiť.
+Víziou našej spoločnosti je inovovať a automatizovať. Je pre nás zásadné byť pre klientov aj poradcom, aby ich IT riešenia mali hlavu a pätu, aby ich zamestnanci nemuseli robiť repetitívne úkony, a aby sme my nemuseli pracovať na projektoch, ktoré nedávajú zmysel.
+A sme veľmi vďační, že vďaka vášmu obrovskému záujmu o prácu u nás sme boli nominovaní medzi top 20 firiem v súťaži Najzamestnávateľ roka 2024 a 2025 v kategórii IT a telekomunikácie :)
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Milan Cák
+Tel.:
++421917552947
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5240187
+Dátum zverejnenia:
+25.2.2026
+2026-02-25
+lokalita:
+Práca z domu
+Pozícia:
+Backend programátor
+,
+DevOps Engineer
+,
+Frontend programátor
+,
+Javascript programátor
+,
+Programátor
+Spoločnosť:
+AMCEF s.r.o.
+Základná zložka mzdy (brutto):
+12 EUR/hod.
