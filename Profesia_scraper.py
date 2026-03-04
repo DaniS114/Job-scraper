@@ -113,7 +113,7 @@ while True:
             ]
 
     page_num += 1
-    time.sleep(0.2)
+    time.sleep(0.1)
 
 #Inaktiválás amit most nem talált meg
 if found_ids:
