@@ -1,4 +1,4 @@
-# Job Market Intelligence Scraper
+# Job Scraper and Analyzer
 
 A Python-based web scraping and data analysis tool designed to archive and analyze job advertisements from major Central European job boards. This project leverages **Local LLMs** to extract insights from job descriptions without compromising data privacy.
 
