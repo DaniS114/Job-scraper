@@ -1,0 +1,89 @@
+Cég neve
+SnapSoft Informatikai és Szolgáltató Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AZURE
+PYTHON
+SQL
+AWS
+CLOUD
+PANDAS
+MACHINE LEARNING
+Biztosított eszközök
+MacOS
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+AZURE
+PYTHON
+SQL
+AWS
+CLOUD
+PANDAS
+MACHINE
+LEARNING
+MacOS
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Develop highly scalable services realizing AI/ML functionalities (e.g. NLP, ML and AI models)
+Implement various machine learning solutions addressing computer vision and NLP use cases
+Work with Large Language Models (LLMs), perform prompt engineering tasks
+Design and implement data transformation services for various use cases, such as automatic translation and transcription, Text2SQL, and intent and gesture recognition
+Design, build, and maintain robust and scalable data pipelines for extracting, transforming, and loading (ETL) data from various sources
+Use AWS cloud to implement AI/ML solutions (e.g. Bedrock, Sagemaker, Lambda, Textract)
+Requirements
+Bachelor’s degree in Computer Science, Information Technology, or a related field
+Proven experience as a AI/ML,Data Engineer or a similar role
+Strong proficiency in Python and experience with relevant frameworks and libraries, such as pandas, pyspark, numpy, sklearn, matplotlib, etc.
+Familiarity with SQL
+Knowledge of some cloud platforms (e.g., AWS, Azure, GCP) and their services
+Familiarity with AI/ML technologies (e.g., Computer Vision, NLP, anomaly detection)
+Understanding AI tools and concepts like LLMs, ChatGPT, RAG, etc.
+Excellent problem-solving and communication skills
+Ability to work independently and collaboratively in a fast-paced environment
+Experience with ETL processes and tools are preferred(e.g. Airflow, AWS Glue)
+What we offer
+A company culture based on autonomy and accountability
+Flexible working hours
+Cool office with great location in Budapest, nearby Deak Ferenc Square / Astoria
+Macbook in order to be the most efficient in your daily tasks
+Company-sponsored technical trainings
+Company-sponsored trips to relevant, professional conferences
+Medicover Health Insurance
+English course with native teachers
+AYCM SportPass contribution, yoga at the office, SnapSoft football
+Regular cocktail parties, team buildings, an annual all staff 3-day summer retreat
+Book club & SnapSoft library, Board game club & regular board game evenings
+Company info
+We dream big: we will be the largest AWS Premier Tier Partner in Central and Eastern Europe by 2026.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

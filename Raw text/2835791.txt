@@ -1,0 +1,93 @@
+Cég neve
+Mercedes-Benz AG
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DATABASE
+TESTING
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+DATABASE
+TESTING
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+At Mercedes-Benz Cars Development, we shape the mobility of the future. By this we mean innovative products of the highest quality as well as efficient development methods and processes.In the center MB.OS High Computing ECUs we develop the Zone Controllers with which we put Mercedes-Benz in the driver's seat for software development and software integration. For this we develop innovative technical solutions with new working methods. For our highly motivated development team we are looking for you as an Intern in our team.
+The ZC SWC integration is the key player in creating the final flash-ready ECU SW for the Zone Controllers in the Mercedes-Benz Operating System (MB.OS). The integration includes the continuous implementation of the communication matrices, the integration of more than 50 software applications and the further development of the classic AUTOSAR stacks. During the application integrations, we have many validation errors which we analyze and write Solving Actions to for each of those errors. To make this process more efficient, we would like to utilize ML approach.
+We are seeking a motivated and detail-oriented Intern with AI background to do:
+Model Research: Conduct research on possible AI models for our use case
+Data Preparation: Assist in curating and preparing datasets of from our database of known errors
+Model Training: Training and fine-tuning the AI agent, ensuring it learns how to accurately detect errors and suggest fixes
+Testing & Validation: Test the AI agent's performance on different types of error code, validating the quality of error detection and the relevance of suggested fixes
+Error Analysis: Analyze failed attempts and provide feedback to improve the AI agent's accuracy in understanding and fixing code issues
+Documentation: Help document the training processes, including strategies for data preparation, error detection, and model performance improvements
+The activity can begin from April 2026.
+Requirements
+Currently pursuing a degree in Computer Science, Software Engineering, Data Science, or a related field
+Experience with machine learning frameworks and developing AI agents is preferred (but may not be mandatory if the candidate demonstrates a strong willingness to learn and has a solid foundation in the field of Machine learning and Generative AI )
+Experience with data annotation or similar tasks in AI training
+Basic understanding or experience with Autosar is a plus
+Strong analytical and problem-solving skills along with effective communication and collaboration skills
+What You'll Gain:
+Hands-on experience in training an AI system that will shape the future of software development for Automotive ECUs
+Exposure to cutting-edge AI techniques in natural language processing and machine learning
+Opportunity to collaborate with industry professionals who thrive on tackling complex challenges
+Additional Information:
+We look forward to receiving your online application, including a resume, cover letter, certificates, current certificate of enrollment stating your semester, proof of mandatory internship if applicable, and proof of the standard period of study. Please remember to mark your documents as "relevant for this application" in the online form and observe the maximum file size of 5 MB.
+You can find further information on the hiring criteria
+here
+.
+Severely disabled applicants and applicants with equivalent status are welcome! The representative for severely disabled employees (
+HR Services will be happy to help you with any questions you may have about the application process. You can reach us by email at
+What we offer
+Meal-Discounts
+Mobile Phone for Employees Possible
+Discounts for Employees Possible
+Annual Profit Share Possible
+Events for Employees
+Coaching
+Flextime Possible
+Hybrid Work Possible
+Health Benefits
+Company Retirement
+Mobility Offers
+Near-Site Childcare
+Parking
+Canteen, Café
+Good Public Transport
+Barrier-Free Workplace
+Inhouse Doctor
+Company info
+Life is always about becoming… Becoming means going on a journey to be the best version of our future selves. While we discover new things, we will face challenges, master them and grow beyond our individual limits.
+Apply for a job at Mercedes-Benz and find your individual role and workspace to unleash your talents to the fullest. Empowered by visionary colleagues who share the same pioneering spirit. Joining us means becoming part of a global team that aims to build the most desirable cars in the world. Together for excellence.
+Job-ID: MER0003XTP
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

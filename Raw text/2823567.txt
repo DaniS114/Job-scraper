@@ -1,0 +1,88 @@
+Cég neve
+Getronics Global Service Centre
+Munkavégzés helye
+Hibrid
+•
+1027 Budapest, Henger utca 2b.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Szakmai tréningek
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Szakmai gyakorlat
+Részmunkaidő
+Általános munkarend
+Biztosított eszközök
+Laptop
+Elvárások
+Angol felsőfok
+Pályakezdő/friss diplomás
+Egyetem
+
+Szakmai
+tréningek
+Teljes
+munkaidő
+Szakmai
+gyakorlat
+Részmunkaidő
+Általános
+munkarend
+Laptop
+Angol
+felsőfok
+Pályakezdő/friss
+diplomás
+Egyetem
+
+Állás leírása
+Responsibilities
+Cloud Administration: Learn to configure and manage core Azure services (VMs, Storage, Virtual Networks) under the guidance of senior SMEs.
+Operational Support: Assist the team in maintaining Azure operations, including monitoring alerts, basic troubleshooting, and performing routine configuration tasks
+Automation Basics: Support the creation of simple automation scripts and runbooks using tools like PowerShell, ARM templates, or Terraform to improve efficiency.
+Security & Governance: Assist in identifying security vulnerabilities and patching OS environments. Learn to apply policies for OS hardening and access control.
+DevOps Exposure: Gain hands-on experience with Azure DevOps by assisting with deployment pipelines and repository management.
+Documentation: Help review and update project-specific documentation and knowledge base articles to ensure team efficiency.
+Incident Management: Shadow senior engineers during major incidents to understand resolution workflows and communication protocols.
+Requirements
+Bachelor’s Degree in Computer Science, Information Technology, or a related field (recent graduate or currently enrolled).
+A strong interest in Azure, AWS, or public cloud platforms, with a desire to learn about virtualization and containerization
+Willingness to participate in a 24/7 rotating shift schedule
+Basic understanding of Cloud Computing concepts (IaaS, PaaS, SaaS).
+Fundamental knowledge of networking (IP, DNS, VPNs) and operating systems (Windows or Linux).
+Basic familiarity with databases (SQL) is a plus
+Strong problem-solving mindset and eagerness to learn.
+Good communication skills in English (written and verbal).
+Ability to work well in a team environment.
+Nice-to-have
+Certifications: Familiarity with or completion of Microsoft Azure Fundamentals (AZ-900). (We will support you in achieving advanced certifications like AZ-103/AZ-104.
+Scripting: Basic knowledge of scripting languages such as Python, PowerShell, or Bash.
+Academic Projects: Any academic or personal projects involving cloud hosting, web servers, or simple network setups
+What we offer
+Mentorship from Senior Azure Cloud Architects and SMEs.
+Exposure to enterprise-grade cloud environments and tools.
+Opportunity to transition into a full-time Cloud Specialist role upon successful completion of the internship/probation.
+Workplace extras
+Cafe
+Dog friendly
+Company info
+About Getronics:
+Getronics is a global ICT integrator with a long history that extends over 135 years. With about 4,000 colleagues across Europe, Asia Pacific, and Latin America, Getronics’ vision is to reimagine the digital future, one customer at a time. We do this by leveraging an integrated and secure-by-design portfolio around Digital Workplace, Business Applications, Smart Spaces, Multi-Cloud, Field & Onsite Support, Service Desk, Network Infrastructure, and Security & Compliance to serve our more than 1,400 customers in both public and private sector.
+Getronics is the founder and leading member of the Global Workspace Alliance. This unique model provides customers with consistent IT services across 185 countries, with one single point of contact, contract, and billing entity yet maintaining the local touch with flexibility and cultural fit of a local partner
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Budapest
+Álláshirdetés jelentése

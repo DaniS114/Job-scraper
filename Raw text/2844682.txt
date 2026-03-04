@@ -1,0 +1,105 @@
+Cég neve
+Soft Consulting Hungary Zrt.
+Munkavégzés helye
+1113 Budapest, Karolina út 65.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Étkezési jegy
+Cafeteria
+Szakmai tréningek
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+GIT
+HTML
+CSS
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Főiskola
+
+Étkezési
+jegy
+Cafeteria
+Szakmai
+tréningek
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+GIT
+HTML
+CSS
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Cégünk Full-stack fejlesztőt keres
+Feladat:
+A cég bérszámfejtő programjának .net-ben történő fejlesztése.
+Használt technológiák:
+Adatbázis: MSSQL
+Backend: asp.net MVC, Entity framework
+Kliens oldal: html, css, javascript, jquery, knockout
+Verziókövető rendszer:
+GIT
+Elvárások
+irodai munkavégzés
+fejlesztő és tanácsadó kollégákkal való kommunikáció
+legalább 3 év alkalmazás fejlesztői tapasztalat C# nyelvben (asp.net, MVC)
+gyakorlat MS SQL adatbázisok kezelésében
+Entity Framework vagy Linq2DB ismerete
+kiváló problémamegoldó képesség
+magas szintű önállóság, de csapatmunkára való alkalmasság is
+tapasztalat tesztelésben és hibakeresésben
+valamilyen verziókezelő rendszer ismerete
+Előnyt jelent
+Szakirányú felsőfokú végzettség
+GIT ismerete
+Amit kínálunk
+támogató csapat, fejlődési lehetőség
+szakmai kihívások
+rugalmas munkavégzés a projekt keretein belül
+továbbképzések, tréningek
+versenyképes jövedelem
+juttatások, cafeteria
+Munkahelyi extrák
+Céges rendezvények
+Kerékpártároló
+Játéksarok
+Céginformáció
+Soft Consulting Hungary Zrt.
+egy
+budapesti székhelyű, 2009-ben alapított szoftverfejlesztő és üzleti szolgáltató vállalat
+, amely elsősorban
+bérügyviteli és HR támogatást nyújtó szoftvereket
+és
+outsourcing szolgáltatásokat
+kínál ügyfeleinek. Modern, moduláris rendszereikkel – mint a BaBér bérszámfejtő és munkaügyi program – segítik a vállalatok adminisztratív folyamatait automatizálni és hatékonyan kezelni. A cég stabil pénzügyi háttérrel és több évtizedes tapasztalattal rendelkezik a hazai piacon, változó ügyféligényekhez alkalmazkodó megoldásokat biztosítva.
+Jelentkezés módja
+Jelentkezés gombra kattintva, kérünk, küldd el önéletrajzodat bérigény megjelölésével.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

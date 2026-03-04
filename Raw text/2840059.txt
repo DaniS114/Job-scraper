@@ -1,0 +1,94 @@
+Cég neve
+MAN Truck & Bus Group
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+BACKEND
+ANGULAR
+TESTING
+C
+AWS
+AZURE
+NOSQL
+DATABASES
+SQL
+MYSQL
+DEVOPS
+DOCKER
+TROUBLESHOOTING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+BACKEND
+ANGULAR
+TESTING
+C
+AWS
+AZURE
+NOSQL
+DATABASES
+SQL
+MYSQL
+DEVOPS
+DOCKER
+TROUBLESHOOTING
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Design, develop, and maintain full stack applications within the Workshop Suite, focused on vehicle adjustments and digital consistency checks
+Ensure seamless integration between vehicle-side diagnostic tools and cloud-based services
+Develop scalable and secure backend services supporting real-time vehicle data validation and adjustment handling
+Build responsive, user-friendly front-end components using Angular to support workshop workflows for troubleshooting, maintenance, and rebuilds
+Collaborate closely with system architects, product owners, and other development teams to ensure high-quality, maintainable solutions aligned with TRATON's digital ecosystem
+Implement automated testing, CI/CD pipelines, and cloud deployment practices to maintain reliability and performance
+Requirements
+Bachelor's or Master's degree in Computer Science, Engineering, or related field
+Strong full-stack development experience with C#, .NET Core and Angular
+Experience integrating systems with cloud services (AWS or Azure; knowledge of AWS ECS, Lambda, and S3 is an advantage)
+Proficiency in developing RESTful APIs and working with relational or NoSQL databases (e.g., MS SQL, MySQL)
+Familiarity with DevOps practices - CI/CD, Docker, Terraform, and monitoring tools (e.g., Datadog, CloudWatch
+What we offer
+Flexible working hours with trust-based working hours
+Up to 80% working remotely as well as 20 days/year working from abroad in the EU
+30 leave days + 6-8 additional free days due to conversion option
+Attractive compensation with 5 special payments
+Benefits and employee discounts including VW leasing offers
+Company pension scheme
+Digital learning from everywhere
+Global career opportunities with TRATON brands in Sweden, USA and Brazil
+Company info
+to be filled from:
+now on
+Your working environment
+TRATON Research & Development (R&D) is undergoing a major transformation to establish a strong, global Group R&D organization. Our goal is to deliver a time-critical roadmap, deliver outstanding customer value, and drive innovation across our brands—Scania, MAN, INTERNATIONAL and Volkswagen Truck & Bus. This transformation will strengthen our competitiveness and position Group R&D as a key business partner within TRATON Group. We are now looking for you to be part of this exciting change journey, shaping the future of Group R&D.
+At TRATON R&D, you are an important part of something bigger. Joining us means gaining access to the ins and outs of the entire transportation industry. As part of a global team of industry experts, you get to think bigger, experience more, and reach further. Being bigger also means being stronger. Together with our brands, we have the collective power to transform the transportation.
+We see the individuality of our employees as a strength and welcome diverse applications from people with different backgrounds. If you need support during your application, please contact us.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

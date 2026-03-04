@@ -1,0 +1,59 @@
+Cég neve
+Rohde & Schwarz GmbH & Co. KG
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NETWORK
+VPN
+SECURITY
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+NETWORK
+VPN
+SECURITY
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+- Study current IETF drafts, NIST PQC standards, and prior works integrating Post-quantum cryptography (PQC) into IPsec
+- Propose and test fragmentation mitigation mechanisms for lossy networks
+- Extend a selected IPsec stack using open-source PQC libraries
+- Measure handshake message sizes, fragmentation, and performance under simulated lossy conditions
+Requirements
+- Enrolled student in (technical) computer science, electrical engineering or comparable field of studies
+- Interest in Cryptography, (esp. PQC) and Cryptographic Libraries (OpenSSL, Botan, etc.)
+- Experience with Security Protocols (TLS, IPsec, etc.)
+- Profound understanding of Network Simulation and Secure Programming
+- Good knowledge of written and spoken English and German
+What we offer
+You can expect very good payment, excellent terms and outstanding opportunities for growth and development.
+Company info
+At Rohde & Schwarz, we develop and produce solutions in the fields of Test & Measurement, Technology Systems, and Networks & Cybersecurity – driven by the vision of a safer and connected world. From software to final production, our more than 15,000 employees create products and systems that set global standards and enable technological sovereignty for industrial, regulatory, and government customers worldwide.
+Our headquarters, located in the heart of Munich, also serves as our main development site.
+Join our Application Software Division in Stuttgart (Germany) at the earliest possible date.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Germany
+Álláshirdetés jelentése

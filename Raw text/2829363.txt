@@ -1,0 +1,66 @@
+Cég neve
+Max-Planck-Institut für Geoanthropologie
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+The Head of the Data Center will lead the planning, design, implementation, and ongoing development of the Data Center, a newly established central unit at the Max Planck Institute of Geoanthropology. This facility will support researchers in the collection, integration, and analysis of diverse datasets across disciplines such as geography, anthropology, history, archaeology, ecology, sociology, climatology, and biology. The Head of the Data Center will play a pivotal role in conceptualizing, developing, and executing management workflows. Additionally, the position involves designing, implementing, maintaining, and integrating databases while managing a team of five dedicated staff members.
+The Head of the Data Center will liaise with the Department Directors, independent research group leaders, and other Core Unit heads while developing and implementing efficient data acquisition and compilation from diverse field, lab, archival and published sources. They will also develop management strategies to support in-depth exploration of anthropogenic factors in the evolution of Earth systems including diverse modelling approaches. They will collaborate with researchers across the Institute to support data availability and storage through models, web databases, and scientific publications. Additionally, they will work closely with IT service units to ensure that curated datasets are accessible and meet scientific standards for security, compliance, and usability.
+The successful candidate will represent the MPI-GEA Data Center within the Max Planck Society and at international forums, fostering partnerships for data-sharing, responding to emerging technologies, and guiding interdisciplinary initiatives for geoanthropological research and Anthropocene studies.
+Requirements
+Experience in managing multidisciplinary teams in an international and intercultural environment, including technical and scientific staff
+PhD in Computer Science or a related field, with several years of experience in distributed databases, large-scale data management, and data archiving
+Proven expertise in handling large datasets, particularly in geospatial and diachronic applications
+Strong knowledge of data management processes, leadership, and implementation of large-scale system.
+Experience in planning, designing, and deploying scalable infrastructure for large datasets and databases, including containerization and orchestration technologies such as Docker, Kubernetes, MariaDB, PostgreSQL, Apache Cassandra, Neo4J, etc.
+Proficiency in semantic data modelling, utilizing technologies such as RDF, XML, JSON-LD, and Linked Open Data (LOD), etc.
+Experience with data integration and API technologies such as RESTful API, GraphQL, Apache Camel, etc.
+Experience with data processing & ETL tools such as Apache Hadoop, Apache Spark, Apache NiFi, etc.
+Background in scientific research with a track record of high-quality publications
+Desirable skills:
+Ability to communicate complex technical concepts effectively to both scientific and public audiences
+Knowledge of data protection, security protocols, and compliance standards
+Experience with AI/LLM integration for research applications, including RAG systems and vector databases
+Familiarity with multiple database platforms
+Experience in data archiving and long-term preservation concepts
+Experience in data processing and data visualization
+What we offer
+This full time (39 hours/week) or part-time (at least 30 hours/week) position will start as soon as possible. Remuneration will follow the public service pay scale (TVöD) up to paygroup 14, according to the candidate's qualifications and experience. You are entitled to an annual bonus, 30 days' holiday, and time off on 24th and 31st December. We also offer attractive and family-friendly flexitime and arrangements for remote working. A company pension scheme (VBL), an employer subsidy for a job ticket, the opportunity for further training, as well as language and health courses complete our offer.
+The Max Planck Society is committed to employing more individuals with disabilities and especially encourages them to apply. We are also committed to encouraging diversity and actively challenging biases based on gender, nationality, ethnicity, sexual orientation, religion, and other components of identity. We were honored with the TOTAL E-QUALITY award for the first time in 2023 for our commitment.
+The Max Planck Society supports the compatibility of family and career and is certified according to the "berufundfamilie" ("job and family") audit.
+Company info
+The Max Planck Institute of Geoanthropology (MPI‑GEA) was founded in the summer of 2022; it is a dynamically growing, highly international, and interdisciplinary research institution. The research focuses on modeling and analyzing the interrelationships between biophysical and human-made systems, looking from the deep past to the far future to examine how humanity has driven the emergence of the Anthropocene – the period in which human activities began significantly impacting our planet's climate and ecosystems – and identifying potential intervention points towards a more sustainable future.
+The transdisciplinary research at MPI-GEA combines research areas represented by all three scientific sections of the Max Planck Society (MPG): Biology & Medicine; Chemistry, Physics, and Technology; and Human Sciences. Corresponding inter- and transdisciplinary research projects concern, for example, urbanization, the global food system, Earth-system observation, and global material, energy, and information flows.
+We are looking for a
+Head of Data Center (f/m/d)
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Corporate
+Leadership, Management
+Head
+of IT
+Germany
+Álláshirdetés jelentése

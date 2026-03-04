@@ -1,0 +1,134 @@
+Cég neve
+Abroncs Kereskedőház Kft
+Munkavégzés helye
+1119 Budapest, Fehérvári út 71.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Cafeteria
+Szakmai tréningek
+Munkába járás támogatás
+Beiskolázási támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+SQL
+ERP
+ADATTÁRHÁZ
+DYNAMICS
+EXCEL
+Biztosított eszközök
+Laptop
+Windows
+Mobiltelefon
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Középiskola
+
+Mobiltelefon
+Cafeteria
+Szakmai
+tréningek
+Munkába
+járás támogatás
+Beiskolázási
+támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+SQL
+ERP
+ADATTÁRHÁZ
+DYNAMICS
+EXCEL
+Laptop
+Windows
+Mobiltelefon
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Az Abroncs Kereskedőház csapatába
+programozót
+keres, aki jártas különböző SQL alapú adatbázisok kezelésében és üzleti intelligencia rendszerek fejlesztésében.
+Feladatok
+:
+Komplex SQL-alapú adatbányászati lekérdezések
+készítése üzleti célokra
+Adattárházak, riportok és dashboardok
+adatoldali kiszolgálása, lekérdezések tervezése és optimalizálása
+Firebird és MS SQL adatbázisokhoz kapcsolódó fejlesztési feladatok
+Adatfolyamatok automatizálása
+, ütemezett SQL-jobs, tárolt eljárások (stored procedures), triggerekkel támogatott feldolgozások kialakítása
+ETL folyamatok adatoldali támogatása
+(adatkinyerés, transzformáció és betöltés előkészítése)
+Az
+adattárház programozó
+feladata az üzleti rendszerek adatbázis-oldali fejlesztése és optimalizálása. Munkája során:
+különböző
+adatforrásokból
+adatokat gyűjt és dolgoz fel (adatbázisok, ERP rendszerek, Excel, stb.);
+ETL logikák mentén
+adatokat tisztít, transzformál és betölt;
+adattárházi struktúrákat és adatmodelleket
+hoz létre;
+riportok és elemzések
+adatbázis-oldali kiszolgálását biztosítja;
+folyamatosan
+optimalizálja a lekérdezéseket
+, a teljesítmény és a rendszerstabilitás érdekében.
+Elvárások
+Erős SQL tudás (lekérdezés optimalizálás, adatmodellezés)
+Tapasztalat Firebird és MS SQL adatbázisokkal
+Önálló, precíz munkavégzés és analitikus gondolkodás
+Előnyt jelent
+QlikSense Script / SQL nyelv ismerete (adattárház alapismeretek)
+Microsoft Dynamics Navision ismeret
+Üzleti Intelligencia rendszerekben szerzett korábbi tapasztalat
+ETL folyamatok ismerete
+Excel magas szintű ismerete
+Amit kínálunk
+Teljes munkaidős, hosszú távú munkalehetőség egy stabil hátterű vállalatnál
+Szakmai fejlődési lehetőségek (RPA, AI)
+Változatos, kihívásokkal teli feladatkör
+Rugalmas munkavégzés
+Átlátható és tisztességes juttatási rendszer
+Bruttó 660.000 Ft éves Cafeteria keret
+Dolgozói kedvezmények a vállalat termékeire és szolgáltatásaira
+Jó hangulatú, összetartó csapat és támogató szakmai vezető
+Munkahelyi extrák
+Céges étkező
+Céges rendezvények
+Ingyen kávé, üdítő
+Céginformáció
+„Azért vagyunk, hogy ügyfeleink biztonságban közlekedjenek minden nap.”
+Az 1995-ben alapított Abroncs Kereskedőház Kft. a magyar gumiabroncspiac meghatározó szereplője. Büszkék vagyunk arra, hogy mára már regionálisan több mint négyszáz szakembernek biztosítunk munkát telephelyeinken és logisztikai raktárbázisainkon. Vállalatunk arra törekszik, hogy kiemelkedő szolgáltatást nyújtson az abroncskereskedelem és -szerelés, továbbá a gépjármű javítás területén, a legmodernebb gépek biztosította technológián túl profi szakembereink tudása és elhivatottsága révén.
+Jelentkezés módja
+Ha úgy érzed, hogy illik rád a pozíció és szívesen dolgoznál velünk, küldd el önéletrajzodat, köszönjük!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

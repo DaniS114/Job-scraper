@@ -1,0 +1,65 @@
+Cég neve
+Finders SA
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+TESTING
+DEVOPS
+API
+NOSQL
+AWS
+DOCKER
+FRONTEND
+REACT
+CLEAN CODE
+LEAN
+AGILE
+Elvárások
+Angol középfok és
+Francia középfok
+1-3 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+TESTING
+DEVOPS
+API
+NOSQL
+AWS
+DOCKER
+FRONTEND
+REACT
+CLEAN
+CODE
+LEAN
+AGILE
+Angol
+középfok és Francia középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Lead Back-End Engineer - TypeScript/RustLead Backend Engieneer - Web3 Infrastructure (TypeScript & Rust)Location: Lausanne, Switzerland | Work Setup: Hybrid (2 days remote/week)Type: Permanent | Start Date: Flexible | Workload:%Are you a backend engineer passionate about building performant, scalable systems and eager to explore cutting-edge technologies in the Web3 space? We're looking for a Lead Backend Developer to join a fast-growing DeFi project backed by a highly technical team and a strong crypto-native vision.Lead Back-End Engineer - TypeScript/RustYour Mission- Lead a team of 4 talented Backend Engineers across various web3 backend projects- Architect and implement high-reliability backend services (using TypeScript & Rust) that support core blockchain-enabled products.- Build APIs, data pipelines, and internal tooling to streamline platform scalability and performance.- Lead the full development lifecycle""from system design to testing, deployment, monitoring, and maintenance.- Collaborate cross-functionally with engineering and product teams to ensure consistent, secure, and robust system behavior.- Contribute to CI/CD pipelines and DevOps automation.- Continuously improve code quality, performance benchmarks, and developer experience.Tech Environment- Core Stack: TypeScript (-based microservices), Rust (growing footprint)- Web3 / Smart Contracts: Solidity (EVM), Hardhat, multi-chain deployments (ETH, BSC, Arbitrum, etc.)- API / Data: GraphQL, Apollo, NoSQL, Redis- Infra & DevOps: AWS, Docker/Kubernetes, Terraform, GitHub Actions, CI/CD, monitoring with Prometheus & Grafana- Frontend: React, TailwindCSS- Culture: Clean code, code reviews, test coverage, end-to-end ownership, pragmatic use of new techWhat You Bring- Must-have: Strong experience in backend engineering with TypeScript in production environments.- Solid understanding of system architecture, microservices, containerized infrastructure and Web3 products.- Interest in Rust and motivation to upskill in a Web3/Rust-native ecosystem.- Familiarity with modern DevOps tools and CI/CD practices.- Excellent communication skills in both English and French.- Proven ability to thrive in fast-paced, iterative environments with a high degree of autonomy.Bonus Points- Prior exposure to DeFi or blockchain technologies.- Experience with protocol integrations or backend systems interacting with smart contracts.- Understanding of high-availability systems and performance optimization.Why Join- Work on impactful Web3 infrastructure projects with real-world traction.- Join a lean, collaborative team with deep technical experience and crypto-native culture.- Enjoy flexible work hours, 2 remote days per week, and an agile work environment.- Competitive compensation and benefits aligned with your seniority. jid3e5f3fdpn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Switzerland
+Álláshirdetés jelentése

@@ -1,0 +1,62 @@
+Cég neve
+SMG Swiss Marketplace Group
+Munkavégzés helye
+Távmunka / Remote
+•
+Opcionális iroda
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DATABASES
+AWS
+BACKEND
+BI
+NETWORK
+POSTGRESQL
+WINDOWS
+SCRUM
+Biztosított eszközök
+Laptop
+Windows
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+DATABASES
+AWS
+BACKEND
+BI
+NETWORK
+POSTGRESQL
+WINDOWS
+SCRUM
+Laptop
+Windows
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Senior Backend Engineer | Golang (f/m/d) |% | Hybrid working model | Zurich SwitzerlandCompany DescriptionWelcome to SMG Swiss Marketplace Group!SMG is a pioneering network of online marketplaces and a leading European digital company that simplifies people’s lives with forward-looking products.We operate leading marketplaces across real estate, automotive, general classifieds, and finance & insurance. We’re driven by our values: Better Together, Aim High, and Act Responsibly.Job DescriptionTwo of our online marketplaces, and , are looking for a Senior Backend Engineer to join their team.Meet the team!At SMG, our strength lies in our people. Meet the Manager with whom you could work:Nikola Cvorovic - Engineering Manager - LinkedInThe and Backend Team works in stream-aligned product teams using the SCRUM methodology.Each team includes 2-3 Backend Engineers, a Product Owner, an Engineering Manager, Designers, and Mobile and Web Engineers.Our teams collaborate closely with Platform (infrastructure) and Data (BI) teams, and each product team owns a specific domain.Engineers are responsible for design, implementation, deployment, and monitoring.We run Go-based backend services on AWS with Kubernetes, deploying daily to over 300k users.Code is reviewed and deployed directly from GitHub.Our stack includes PostgreSQL, Elasticsearch, Redis, SendGrid (emails), and Auth0 (authentication).We maintain high test coverage using tools like Testify, with integration tests for databases, Redis, and Kafka.QualificationsWhat you bring to the rideA track record of at least 5 years making high-impact technical decisions and driving project outcomesWhile our software stack is written in Go, we welcome engineers from different programming language backgrounds as long as you’re eager to work with GoProven experience with strongly typed languages in complex settings, including building and delivering web servicesA positive attitude and passion for your craft matter more than checking every boxYou are a pragmatic, empathetic team member who strive to understand others before seeking to be understoodWe value individuality and the unique contributions of every team member. No matter your background or experience, we encourage you to apply, even if you don’t check every box. Together, we embrace growth, celebrate differences, and create lasting impactAdditional InformationWhat do we offer? ?6 weeks of holidays per year (plus option to buy 10 extra)40-hour work week with flextime (capped at 45 hours)A hybrid work setup with flexibility to work remotelyGenerous parental leave: 18 weeks for maternity and 6 weeks for paternity/adoptionSBB Half-Fare Card and first-class travel between SMG offices in SwitzerlandGender-neutral pay and transparent career pathsChoose your gear: Mac or Windows laptop, and iPhone, Samsung, or Pixel mobileAn inclusive and innovative environment where your voice mattersHiring ProcessWe believe hiring is a two-way street, where both parties get to know each other. Here's what you can expect:Initial Screening Call with a recruiterHiring Manager Video-Call: Introduction to the team, role, and responsibilities, followed by a technical screening.Technical Interview: Coding Interview, Architecture & DesignTeam Fit (on-site in Zurich)Apply Now! We are looking forward to getting to know you!To take advantage of this opportunity, please send us your detailed CV in English, and please don't hesitate to include any supporting documents that will help us understand why you are the perfect fit.#LI-HybridAbout UsSMG Swiss Marketplace Group is a pioneering network of online marketplaces and a cutting-edge digital company that simplifies people’s lives with innovative products.SMG Swiss Marketplace Group provides customers with the best tools to meet their life decision needs. The portfolio includes Real Estate (ImmoScout24, Homegate, Flatfox, , , , Publimmo, , CASASOFT, IAZI), Automotive (AutoScout24, MotoScout24), General Marketplaces (, , Ricardo) and Finance & Insurance (FinanceScout24, ).DisclaimerSMG Swiss Marketplace Group primarily engages with candidates directly. We do not accept unsolicited resumes or candidate profiles from recruitment agencies unless we have specifically requested their assistance for particular roles. Any submissions made without a prior request from our Talent Acquisition team will not be acknowledged or considered. We appreciate the understanding and cooperation of recruitment agencies in respecting this policy. jid24b4c66pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Switzerland
+Álláshirdetés jelentése

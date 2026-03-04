@@ -1,0 +1,102 @@
+Cég neve
+SnapSoft Informatikai és Szolgáltató Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+AWS
+AZURE
+SECURITY
+API
+ANSIBLE
+DOCKER
+DNS
+VPN
+ACCESS
+BITBUCKET
+Biztosított eszközök
+MacOS
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+AWS
+AZURE
+SECURITY
+API
+ANSIBLE
+DOCKER
+DNS
+VPN
+ACCESS
+BITBUCKET
+MacOS
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Architecting complex AWS infrastructures and zero-day compliant landing zones
+Understanding customers’ business problems and providing technology consulting to identify the best-fit solution
+Owning the end-to-end solution as a key decision-maker and driving the delivery team
+Describing infrastructures using Terraform (Terragrunt) or AWS CloudFormation
+Migrating customer workloads from on-prem/GCP/Azure/Heroku environments
+Reviewing and remediating customers’ cloud solutions applying AWS Well-Architected Framework’s principles and best practices
+Designing, building and maintaining CI/CD pipelines in multiple integration and test environments
+Staying up-to-date with the AWS innovations and achieving Professional/Specialty level certifications based on personal interest
+Contributing to AWS Competency and Service Delivery Program to support SnapSoft’s AWS Partner journey
+Requirements
+A bachelor's degree in Computer Science, Information Technology, or a related field
+Technical leadership experience for coordinating projects from a technical side
+Client facing skills for driving refinements and planning sessions with the customer
+4+ years of hands-on experience in designing, deploying, and managing cloud infrastructure using AWS
+In-depth knowledge of standard AWS services such as VPC, EC2, S3, RDS, Lambda, ECS, IAM, SNS, SQS, API Gateway, EKS, CloudFront, EFS/EBS, SecurityHUB, Guard Duty, CloudWatch, AWS Application Migration Service, KMS, PCA and similar
+3+ years of experience in at least one Infrastructure as a Code technology like Terraform (preferred), AWS CloudFormation, Ansible, AWS CDK or similar
+3+ years of experience in building and managing CI/CD pipelines (GitHub Actions, GitLab, Bitbucket or similar)
+2+ years of experience in creating and running container-based applications using Docker and Kubernetes/EKS
+Strong understanding of networking concepts (TCP/IP, DNS, load balancers, firewalls, VPN) and related AWS Services (CloudFront, API Gateway, VPC, Route 53, ELB)
+Strong understanding of security concepts (IAM, PoLP, Access Control, Endpoint Security, Data Encryption)
+Excellent problem-solving skills for use-case-specific architecture design and implementation
+Strong communication and collaboration skills with the ability to work effectively in a team environment
+AWS Professional/Specialty Certification is preferred
+What we offer
+A company culture based on autonomy and accountability
+Flexible working hours
+Cool office with great location in Budapest, nearby Deak Ferenc Square / Astoria
+Macbook in order to be the most efficient in your daily tasks
+Company-sponsored technical trainings
+Company-sponsored trips to relevant, professional conferences
+Medicover Health Insurance
+English course with native teachers
+AYCM SportPass contribution, yoga at the office, SnapSoft football
+Regular cocktail parties, team buildings, an annual all staff 3-day summer retreat
+Book club & SnapSoft library, Board game club & regular board game evenings
+Company info
+SnapSoft is a company performing end-to-end delivery from architecture design to implementation, constructing the cloud infrastructure of international companies, mainly in fintech, aviation, telco and edtech industries. With expertise, they help customers achieve and maintain robust availability, resilience and scalability in their cloud-based products while ensuring their infrastructure's security and compliance.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

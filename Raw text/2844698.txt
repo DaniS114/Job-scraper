@@ -1,0 +1,105 @@
+Cég neve
+Pillér Nonprofit Kft
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Cafeteria
+Szakmai tréningek
+Munkába járás támogatás
+Sport támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SQL
+ISTQB
+UML
+API
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Mobiltelefon
+Cafeteria
+Szakmai
+tréningek
+Munkába
+járás támogatás
+Sport
+támogatás
+Teljes
+munkaidő
+Általános
+munkarend
+SQL
+ISTQB
+UML
+API
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+A termékspecifikációk alapján tesztspecifikációk készítése tesztmenedzsment eszköz támogatásával,
+A rendszer újabb verziójával szemben támasztott követelmények módosításainak követése,
+Tesztesetek tervezése, tesztszkriptek írása és azok alapján történő manuális és automata tesztelés,
+A tesztek futtatásához szükséges feltételek előállítása,
+Elvégzett tesztek eredményeinek dokumentálása, riportolása,
+Hibák elemzése, dokumentálása, követése a hibakövető rendszerben,
+Javítási és módosítási javaslatok kommunikációja a szervezők, fejlesztők felé
+Az ügyfél támogatása a tesztelés során,
+Üzleti területtel, szervezőkkel, fejlesztőkkel való napi kapcsolattartás.
+Elvárások
+Szakirányú középfokú végzettség,
+Legalább 5 éves releváns munkatapasztalat tesztelési területen - IT környezetben,
+A munkakör betöltéséhez elvárt viselkedésmód, személyiség típus:
+Gyors tanulási készség, jó kommunikációs képesség,
+Precíz és pontos munkavégzés,
+Tesztautomatizálásban szerzett min. 2 év tapasztalat,
+Rendszerszintű, analitikus gondolkodásmód,
+Monotonitás-tűrőképesség,
+Saját munkájára igényes, pozitív személyiség,
+Proaktív, önálló munkavégzésre és problémamegoldásra való készség,
+Terhelhetőség, együttműködés, rugalmasság.
+Előnyt jelent
+Tesztelési módszertanok & eszközök ismerete,
+ISTQB CTFL minősítés,
+Tesztautomatizáló eszközök ismerete,
+API tesztek tervezésében és végrehajtásában szerzett tapasztalat,
+UML tervezési tapasztalat,
+SQL ismeretek,
+Programozói ismeretek,
+Középfokú angol nyelvtudás.
+Amit kínálunk
+Kiszámítható és versenyképes bérezés, béren kívüli juttatások (premizálási rendszer, cafeteria, képzések támogatása stb.),
+Színvonalas szakmai feladatok és folyamatos tanulási és szakmai fejlődési lehetőség,
+Barátságos és modern munkakörnyezet, támogató munkahelyi légkör és kitűnő megközelíthetőség,
+Magasan kvalifikált szakembergárdába történő beilleszkedés lehetősége,
+Hibrid munkavégzés (heti 2 nap Home Office lehetőség).
+Munkahelyi extrák
+Céges étkező
+Kávézó
+Zuhanyzási lehetőség
+Kerékpártároló
+Ingyen gyümölcs, nasi
+Játéksarok
+Jelentkezés módja
+Jelentkezés
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Tesztelő,
+Tesztmérnök
+Budapest
+Budapest
+Álláshirdetés jelentése

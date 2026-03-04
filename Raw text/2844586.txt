@@ -1,0 +1,76 @@
+Cég neve
+META-INF Szolgáltató Kft.
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+DEVOPS
+AWS
+JIRA
+CONFLUENCE
+SCRUM
+KANBAN
+CLEAN CODE
+JAVA
+TEST AUTOMATION
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+DEVOPS
+AWS
+JIRA
+CONFLUENCE
+SCRUM
+KANBAN
+CLEAN
+CODE
+JAVA
+TEST
+AUTOMATION
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Atlassian-appok fejlesztése Jira-hoz és Confluence-hez termékfejlesztéses környezetben
+Scrum és Kanban módszertanok alkalmazása
+Szoftverfejlesztés clean code, clean architektúra és többszintű automatizált tesztelés alapján
+Pair programming és code reviewk végzése
+Innováció támogatása
+CI/CD és DevOps alapokon fejlesztés Amazon AWS Cloud infrastruktúrán
+Elvárások
+Szenvedély a munkához
+Tanulás iránti éhség
+Ismeretek Java, TypeScript, DevOps, Software Craftsmanship, Test Automation területeken
+Amit kínálunk
+Hibrid munkavégzés
+Teljes munkaidő
+Céginformáció
+Atlassian szakértők vagyunk, szenvedélyesen hiszünk abban, hogy a Jira, Confluence és egyéb termékek minden csapat számára nagy segítséget jelentenek a mindennapokban. A mottónk is ez: Atlassian tudás szívvel-lélekkel. Ennek szellemében Atlassian-appokat fejlesztünk Jira-hoz és Confluence-hez termékfejlesztéses környezetben és attitűddel.
+Az agilis módszertanok jól illeszkednek a munkánkhoz. Sok erőt fordítunk a Scrum és Kanban sikeres alkalmazására, a tudatos szoftverfejlesztés nálunk alapvetés. Törekedünk a szakmai tökéletességre a Software Craftsmanship filozófiája alapján, a clean code, clean architektúra és a többszintű automatizált tesztelés a munkafolyamataink szerves része, ahogyan a pair programming és a code reviewk is. Üdvözöljük, és teret engedünk az innovációnak, az ownership szemléletben és a motiváció fontosságában hiszünk.
+Termékeink cloud és on-premise változatban készülnek, változatos technológiai stacken, erős CI/CD, DevOps alapokra és Amazon AWS Cloud infrastruktúrára építve. Ezen technológiák megismerése és használata minden fejlesztőnk számára lehetőség.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Product
+owner, -manager
+Regionális
+Álláshirdetés jelentése

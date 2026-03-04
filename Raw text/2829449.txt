@@ -1,0 +1,72 @@
+Cég neve
+Accenture Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+TESTING
+DEBUGGING
+REGRESSION TESTING
+TROUBLESHOOTING
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+TESTING
+DEBUGGING
+REGRESSION
+TESTING
+TROUBLESHOOTING
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design and implement agent‑to‑agent communication patterns and multi‑agent collaboration workflows.
+Integrate LLMs, RAG pipelines, and external APIs/tools into end‑to‑end agent systems.
+Develop, test, and iterate on orchestration logic (routing, planning, tool selection, error handling, and structured execution).
+Build prompt templates, memory/state management, and reusable workflow components to improve reliability and consistency.
+Implement and optimize RAG + embedding workflows (retrieval strategy, chunking, evaluation, iteration).
+Own testing & debugging for multi‑agent systems, including tracing, evaluation, and regression testing across workflows.
+Requirements
+Proven experience with detailed descriptions of relevant home or personal projects.
+Hands-on experience building LLM-based applications in Python, including structured prompting and multi-step workflows.
+Practical experience with at least one agent framework or orchestration approach (e.g., LangChain or a comparable framework).
+Working knowledge of prompt templates and basic memory/state concepts (e.g., session memory, conversation state, lightweight persistence).
+RAG fundamentals with some implementation exposure: ability to build a basic retrieval flow (data → chunking → embeddings → retrieval → grounded answer) and iterate on quality.
+Debugging mindset for agentic workflows: comfortable troubleshooting tool-calls, retrieval misses, and prompt/chain issues; familiar with logs/traces or basic observability practices.
+Strong English language knowledge.
+Nice to have LangGraph experience (graph/state-machine orchestration) and/or multi-agent patterns.
+Experience with Langfuse (or similar tracing/evaluation tooling) for prompt/version tracking, traces, and quality monitoring.
+Experience improving RAG quality beyond the basics (evaluation, retrieval strategies, chunking experiments).
+Exposure to testing practices for LLM apps (lightweight evaluation, regression checks, reproducibility habits).
+What we offer
+Work location: Budapest
+Company info
+We work with one shared purpose: to deliver on the promise of technology and human ingenuity. Every day, more than 775,000 of us help our stakeholders continuously reinvent. Together, we drive positive change and deliver value to our clients, partners, shareholders, communities, and each other.
+We believe that delivering value requires innovation, and innovation thrives in an inclusive and diverse environment. We actively foster a workplace free from bias, where everyone feels a sense of belonging and is respected and empowered to do their best work.
+At Accenture, we see well-being holistically, supporting our people’s physical, mental, and financial health. We also provide opportunities to keep skills relevant through certifications, learning, and diverse work experiences. We’re proud to be consistently recognized as one of the World’s Best Workplaces™.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

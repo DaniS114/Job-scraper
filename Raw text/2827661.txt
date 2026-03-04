@@ -1,0 +1,128 @@
+Cég neve
+NRGmap Kft.
+Munkavégzés helye
+Hibrid
+•
+Magyar Telekom Székház - Budapest, Könyves Kálmán krt. 36, 1097
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+BACKEND
+JAVA
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Mobiltelefon
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+BACKEND
+JAVA
+Laptop
+Monitor
+(1 db)
+Mobiltelefon
+Angol
+középfok
+3-5
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Feladatok
+Az
+NRGmap Kft.
+folyamatosan bővülő csapatába akár azonnali kezdéssel keresi új
+Medior Backend Java fejlesztő
+kollégáját!
+Milyen feladatok várnak rád?
+Backend rendszerek tervezése és fejlesztése Java nyelven
+Üzleti és technikai igények alapján backend komponensek megvalósítása
+REST alapú API-k tervezése, implementálása és dokumentálása
+Java Spring / Spring Boot alapú alkalmazások fejlesztése és karbantartása
+Adatbázis-kapcsolatok kezelése, perzisztencia megvalósítása
+Integráció más rendszerekkel (belső és külső szolgáltatások)
+Együttműködés üzleti elemzőkkel, frontend fejlesztőkkel és tesztelőkkel
+Hibajavítás, teljesítményoptimalizálás, kódminőség folyamatos javítása
+Fejlesztési dokumentációk készítése és karbantartása
+Elvárások
+Elvárásaink:
+Minimum 4 év
+releváns backend fejlesztői tapasztalat
+Magabiztos
+Java
+programozási ismeretek
+Spring / Spring Boot keretrendszer
+gyakorlati ismerete
+RESTful webszolgáltatások fejlesztésében szerzett tapasztalat
+Relációs adatbázisok ismerete (pl. PostgreSQL, MySQL, Oracle)
+Verziókezelő rendszerek (pl. Git) magabiztos használata
+Analitikus gondolkodás, strukturált problémamegoldás
+Önálló, felelősségteljes munkavégzés
+Jó kommunikációs készség, csapatmunkára való nyitottság
+Előnyt jelent
+Előnyt jelent:
+Microservice architektúrában szerzett tapasztalat
+Konténerizációs technológiák ismerete (Docker, Kubernetes)
+CI/CD pipeline-okkal kapcsolatos tapasztalat
+Spring Security, OAuth2, JWT ismerete
+NoSQL adatbázisokkal szerzett tapasztalat
+Nagyvállalati környezetben szerzett fejlesztői tapasztalat
+Amit kínálunk
+Miért válassz minket?
+Kiemelten kezeljük a
+munka–magánélet egyensúlyát
+Rugalmas munkavégzés, eredményorientált szemlélet
+Modern iroda Budapest egyik legjobban felszerelt irodaházában, a
+Telekom székházban
+(a Magyar Telekom Csoport stratégiai partnerei vagyunk)
+Home office lehetőség
+, nem elvárás a mindennapos irodai jelenlét
+Versenyképes jövedelem
+Laptop, céges telefon, flottába lépési lehetőség
+Kávé, tea és minden szükséges eszköz a hatékony munkavégzéshez
+Munkahelyi extrák
+Kávézó
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Céginformáció
+Az NRGmap Kft. a We-Know Zrt-ből kivált,
+100%-ban magyar tulajdonban lévő
+, nagyvállalati ügyfélkörrel rendelkező cég. Több évtizedes múlttal rendelkezünk, amely során folyamatosan alkalmazkodtunk az aktuális technológiai kihívásokhoz. Informatikai területen több lábon állunk:
+IT-biztonság
+,
+hálózat- és szoftverüzemeltetés
+, valamint
+egyedi szoftverfejlesztés
+– jelen pozíciónk ez utóbbi területhez kapcsolódik.
+Jelentkezés módja
+Amennyiben szívesen dolgoznál velünk, a „Jelentkezem” gombra kattintás után kérjük csatold fényképes önéletrajzodat!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

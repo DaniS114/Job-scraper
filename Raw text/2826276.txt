@@ -1,0 +1,58 @@
+Cég neve
+Aequor Consulting GmbH
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+AWS
+PYTHON
+AZURE
+CRM
+ERP
+DEVOPS
+DATABASE
+NOSQL
+SQL
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+AWS
+PYTHON
+AZURE
+CRM
+ERP
+DEVOPS
+DATABASE
+NOSQL
+SQL
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+(Senior) Manager –AI Data Architect (m/w/d) Zürich/Basel/GenevaOne of the fastest growing business consultancy firms in Switzerland is looking for talented candidates like you.Is business consultancy your kind of work? Do you strive to achieve excellence in a customer centric environment? Then our client is the right company for you.In this challenging role as a (Senior) Manager –AI Data Architect (m/w/d) in Zurich/Basel/Geneva, you will be accountable for the following exciting responsibilities :ResponsibilitiesAs a Data Architect in AI & Data team, you will help senior people at the clients to make the right architectural choices and lead the design and implementation of innovative enterprise-wide solutions.Lead Enterprise Data Architecture design: help clients modernize complex system landscapes spanning multiple solutions (e.g., MDM, CRM, ERP, Cloud DWH) that need to be integrated. You will work with senior client stakeholders to design enterprise level architecture, pragmatic and enforceable architecture standards, and plan with them the modernization journey.Lead Cloud Data Platform design & implementation: help clients build scalable, high-performance Cloud data platforms that meet the business needs. Your work will cover data modelling, data integration, transformation pipelines, DevOps, and use of AI to build and operate these platforms smartly. You will make key design decisions and lead onshore, near-/offshore engineering teams developing the solution.Architect Integrated Solutions: help clients design and build integrations required to run their business processes and deliver data products. This may include integration between Cloud data platform and AI/Gen AI platform or between MDM or CRM systems and Cloud data platform.Strengthen the market positioning and opportunities funnel: lead a architecture footprint in the market through events, conferences, and discussions with the key clients, internal teams, and alliance partners. Develop a internal know-how and expertise: mentor junior team members within AI & Data and set strategic focus for expertise building within Switzerland and in relation to near- and offshore teams.Your ProfileYou have 4 or more years of relevant professional experience in the role of a Data Architect and have led teams that designed and implemented complex cloud-based ecosystemsYou have engineering background and least one hands-on data platform end-to-end implementation experience as a data engineer in the past (AWS, Azure, Google Cloud, Databricks, Snowflake)You have experience working with evaluating and/or taking data architecture decisions, influencing strategic direction and convincing business and IT stakeholdersYou have experience in guiding data engineers with best practices in coding styles and coding quality and are familiar with industrial coding quality tools such as SonarQube as well as AI coding assistants integrated into IDE. Hands-on experience in designing and implementing solutions on major cloud platformsYou have experience across a range of database types, including structured (relational), semi-structured (NoSQL), and graph-based (knowledge graph) models. Nice to have: you have experience in packaging data platform solutions into Infrastructure as Code using solutions such as Terraform, Familiarity with ETL/ELT such as Informatica or DBT, Ability to review engineering work done in SQL, Python, SparkLanguage Proficiency: Fluent in English; fluency in German and/or French is highly preferredBenefitsInternational work cultureGood Work life balanceGenerous parental leave (16 weeks 100% salary, and 80% for an additional 10 weeks for mothers and 2 weeks paternity leave)Competitive compensation and social benefits jidc0822d4pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Switzerland
+Álláshirdetés jelentése

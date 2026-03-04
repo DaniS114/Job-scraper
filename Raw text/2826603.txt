@@ -1,0 +1,59 @@
+Cég neve
+Profidata AG
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+JAVA
+SPRING
+DOCKER
+SECURITY
+CLOUD
+DEVOPS
+AGILE
+KANBAN
+SCRUM
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+JAVA
+SPRING
+DOCKER
+SECURITY
+CLOUD
+DEVOPS
+AGILE
+KANBAN
+SCRUM
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Backend LeadPROFIDATA offers software solutions for investment and wealth management through its subsidiaries in major European financial centers. This offering is complemented by a rapidly growing, broad range of services in the areas of software as a service, consulting, implementation, training and support. XLab is Profidata’s innovation center based in Zürich, Switzerland. With a small and passionate team, we are developing new cloud-native productivity tools that are good looking as well as fun and easy to use.If you want to build and run a high-quality backend that makes a real impact for clients and are looking forward to leading a motivated cross-site team, then we are looking for you.Your responsibilitiesIn this role you will be responsible for leading an agile team (Kanban/Scrum) across different locations, ensuring continuous delivery of new functionality, efficiency, compliance with engineering standards, and building quality-based development culture.Your tasks will also includeAct as the main point of contact between the technical team and management: translate business needs into technical direction and vice versa.Own the codebase, tech stack and applications throughout the full lifecycle.Backend development with Java and Spring,Boot.Design, build, automate, deploy and maintain robust and secure client-facing wealth management applications.Drive DevOps practices: deployment automation, CI/CD, reliability, monitoring, operational excellence.Your Skills (Must-have)To be successful in this role you offer a strong quality-oriented mindset paired with a deep understanding of “why this matters” for the end user. Moreover, you bring:Proven ability to lead and grow people (coaching, feedback, accountability) in a distributed setup.Excellent stakeholder skills: you can communicate clearly with senior leadership and influence decisions with facts, clarity, and persuasion.Fluency in (Swiss) German and English (required).Deep knowledge of Java and the Java Virtual Machine (JVM).Experience in building microservice-based backends using Java + Spring Boot.Practical experience with Docker and container orchestration—preferably Kubernetes.Nice to HaveExperience in finance / wealth management and knowledge of financial instruments.Experience with Elasticsearch and messaging systems.Experience with reactive programming.Experience building products from scratch in a regulated and security-sensitive context.We offerA great team with flat hierarchies.An open and entrepreneurial working atmosphere that leaves room for creativity and initiative.Greenfield development.A modern tech stack. jid499ba22pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Switzerland
+Álláshirdetés jelentése

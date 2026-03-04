@@ -1,0 +1,88 @@
+Cég neve
+Susonity Production GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+ACCESS
+SECURITY
+SAP
+TROUBLESHOOTING.
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+ACCESS
+SECURITY
+SAP
+TROUBLESHOOTING.
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+We are seeking an experienced SAP Security Consultant with strong expertise in SAP Authorizations and foundational SAP Basis knowledge to support our SAP S/4HANA Private Cloud Edition (PCE) environment. In this role, you will play a central part in designing and managing secure, compliant, and scalable SAP access frameworks across our global systems.
+Working closely with business stakeholders, IT security teams, and external managed service providers, you will ensure that user access, authorization roles, and system configurations adhere to corporate security standards, regulatory requirements, and industry best practices. The ideal candidate brings a deep understanding of SAP security concepts, cross-module authorization design, and technical awareness of SAP PCE operations.
+Key Responsibilities
+Design, implement, and maintain SAP authorization concepts across S/4HANA PCE and related systems.
+Develop and manage user roles, profiles, and authorization objects in alignment with business needs and compliance requirements.
+Collaborate with functional teams to define secure access controls and support role design for new processes and projects.
+Work closely with the Information Security Manager to streamline the processes & governance.
+Conduct periodic access reviews, segregation of duties (SoD) checks, and compliance assessments.
+Coordinate with SAP Basis teams and managed service providers for system administration tasks, transports, and security patches.
+Monitor system security logs, analyze vulnerabilities, and recommend proactive mitigation measures.
+Support audits, ensuring documentation, evidence, and corrective actions meet regulatory standards.
+Troubleshoot user access and authorization issues, ensuring timely resolution and root-cause analysis.
+Contribute to continuous improvement of security frameworks, governance processes, and system hardening activities.
+Requirements
+8+ years of experience in SAP security with strong focus on SAP Authorizations and familiarity with SAP Basis fundamentals.
+Deep understanding of SAP security architecture, authorization concepts, role design, and SoD principles.
+Hands-on experience with S/4HANA, ideally S/4HANA Private Cloud Edition (PCE).
+Knowledge of Identity & Access Management processes and tools is a plus.
+Understanding of Basis administration tasks such as user management, transport management, system monitoring, and patch coordination.
+Strong analytical and problem-solving skills, particularly in security troubleshooting.
+Experience collaborating with managed service providers and cloud-hosted SAP environments.
+Familiarity with IT security frameworks, audit requirements, and regulatory compliance.
+Excellent communication and stakeholder engagement skills.
+Bachelor's degree in Information Technology, Computer Science, Cybersecurity, or related field.
+Proficiency in English; German language skills are an advantage.
+Company info
+Unleash your talent in an exciting environment of brilliance!
+Become part of a visionary team that is redefining the chemical industry with fresh ideas and brilliant, innovative solutions.
+As part of a market-leading global corporation, we radiate the energy and enthusiasm of a start-up.
+With a clear focus on high-quality
+effect pigments
+for the cosmetics, automotive, and construction industries, we offer you the opportunity to develop your skills in an inspiring environment. Our product range includes renowned brands such as
+Iriodin®
+,
+Colorstream®
+and
+Ronastar®
+.
+We respect the
+chemical collective
+agreement with fair compensation, comprehensive social benefits, and targeted personal development. Join us and shape the future of surface solutions – bring color to the world and turn your ideas into action!
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,86 @@
+Cég neve
+Octapharma Biopharmaceuticals GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+R
+TESTING
+CLOUD
+LINUX
+DATA MANAGEMENT
+Elvárások
+Angol felsőfok és
+Német középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+R
+TESTING
+CLOUD
+LINUX
+DATA
+MANAGEMENT
+Angol
+felsőfok és Német középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, development and maintenance of custom data management and scientific analysis solutions, primarily based on script- and workflow-driven approaches
+Development, extension and long-term maintenance of Python-based scripts and codebases for internal use, including testing, documentation and deployment across laboratory and analysis environments
+Acting as an interface between data generation, data processing and scientific interpretation, ensuring reproducibility and traceability of results
+Application, integration and adaptation of bioinformatic and biostatistical tools to support diverse R&D projects
+Development and use of data analysis workflows on a local, state-of-the-art high-performance computing (HPC) infrastructure as well as cloud-based analysis environments; selection of suitable execution environments based on scientific and technical requirements
+Contribution to the further development and maintenance of automation-related infrastructure, including the integration of laboratory automation systems with data management and computing workflows
+Scientific and technical support of project teams through requirements analysis, close coordination and solution-oriented consulting
+Contribution to the further development of internal workflows and good practices in data management and scientific programming
+Requirements
+PhD in Life Sciences or a related field, providing a strong scientific foundation for data-driven research; postdoctoral experience is considered a plus
+Practical experience in scientific programming with Python, applied to biological or biotechnological research questions
+Background in bioinformatics and/or biostatistics, with hands-on experience in applying and adapting relevant tools in a scientific context
+Good understanding of data-driven scientific workflows and reproducible data analysis
+Experience working with Linux-based environments and local HPC or cluster systems; experience with cloud-based analysis environments (e.g. Databricks) is considered a plus
+Independent and structured working style combined with excellent communication skills in an interdisciplinary and service-oriented environment
+Interest in working in a scientifically oriented support role, contributing expertise across multiple R&D projects
+Fluent English skills; good German knowledge is considered a plus
+What we offer
+A permanent position in full-time (40 hrs./week) in a dynamically growing company
+A modern, "state of the art" working environment
+Flexible working hours
+Regular opportunities for further training
+30 days vacation
+Own company restaurant with subsidies
+Free drinks such as coffee, tea and water
+Job ticket or parking space for bicycle or car
+An international team in an international corporate environment
+A collegial environment with many opportunities for activities
+Company info
+Become part of a vital chain and contribute to our common goal of making people's lives better. Octapharma is one of the largest human protein manufacturers in the world, developing and producing medicines sourced from human plasma and human cell lines. We are a privately-owned company, where the warmth of family meets the scale of a global organisation.
+Octapharma Biopharmaceuticals GmbH with more than 200 employees is a subsidiary of the Octapharma group founded in 1997 and successfully expanding. Our core business is the development of recombinant proteins produced in human cell lines for therapeutic use in humans. We strive for effective treatments with an improved tolerability and convenience for our patients.
+Join us in shaping our vision to provide new health solutions advancing human life.
+We are looking for an Expert R&D Automation and Data Management (m/f/d) to join the Automation and Data Management group within the Research and Development Department at Octapharma Biopharmaceuticals.
+The Automation and Data Management group is responsible for the development, evaluation and long-term maintenance of automation- and data-driven solutions across R&D. The group supports scientific projects by combining laboratory automation, data management, bioinformatics and scientific computing, and is thereby involved in the work of multiple research groups and virtually all projects within the department.
+The successful candidate will take on a challenging and versatile role with a strong focus on data management, scientific programming and bioinformatics. In addition to the development and application of data-driven analysis workflows, the position also includes work on the infrastructure side of laboratory automation systems, including the integration of automated data generation with downstream data processing and computing environments. The role requires close collaboration with research teams to translate complex biological research questions into robust, reproducible and scalable computational and automation-supported workflows.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

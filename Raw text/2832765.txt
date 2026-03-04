@@ -1,0 +1,111 @@
+Cég neve
+Clarios Germany GmbH & Co. KG
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+ISO
+HARDWARE
+TESTING
+PROJECT MANAGEMENT
+Elvárások
+Angol felsőfok és
+Német felsőfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+ISO
+HARDWARE
+TESTING
+PROJECT
+MANAGEMENT
+Angol
+felsőfok és Német felsőfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Your contribution:
+As a Process Owner within the Product Cybersecurity Engineering team, you will be responsible for leading and supporting the development and integration of cybersecurity engineering and related processes in alignment with industry standards and internal quality frameworks. This role will focus on embedding cybersecurity engineering processes, methods, and tools into the product engineering lifecycle, ensuring alignment with ASPICE process models and ISO 26262 Functional Safety activities.
+You will work cross-functionally with system architects, software and hardware engineers, and product security and safety experts to ensure robust and compliant processes are integrated into project execution. This role is pivotal in fostering a cybersecurity culture and continuous improvement in the development of embedded control units for the management of automotive low voltage energy storage and power distribution systems.
+Key Responsibilities:
+Process Development and Integration
+Lead the development of our automotive product Cybersecurity Management System aligned with global regulations and industry standards.
+Define and maintain cybersecurity engineering processes aligned with ISO/SAE 21434 across the V-model lifecycle.
+Integrate cybersecurity activities into ASPICE base practices, ensuring traceability and consistency with system, software, and hardware development processes.
+Align cybersecurity lifecycle with Functional Safety (ISO 26262) processes, including hazard analysis, safety goals, and safety requirements.
+Methods & Work Product Management
+Define and maintain templates, work instructions, checklists and guidelines for cybersecurity work products to ensure compliance and audit readiness.
+Establish and maintain standardized methods for:
+Threat Analysis and Risk Assessment (TARA)
+Cybersecurity Goals, Concept and Requirements Engineering
+Cybersecurity Verification and Validation
+Cybersecurity Case and Assurance Documentation
+Tooling & Workflow Integration
+Implement and maintain engineering tools that support cybersecurity engineering activities and work product management (e.g., TARA development, requirements management, fuzz testing, etc…).
+Define and embed process workflows into engineering tools to ensure traceability and consistency.
+Training & Enablement
+Develop and deliver training materials to educate engineering teams on cybersecurity engineering processes, methods, standards and tools.
+Act as a mentor and coach to engineers, promoting process adherence and continuous improvement.
+Establish baseline process implementation in support of development projects.
+Cross-Functional Collaboration
+Align interfaces between cybersecurity engineering processes and adjacent domains (systems, software, hardware, project management, manufacturing, and quality assurance).
+Facilitate cross-functional reviews and technical decision-making processes.
+Governance & Compliance
+Establish and enforce process governance frameworks.
+Conduct and support regular audits and assessments to ensure compliance with internal and external standards.
+Support certification and regulatory efforts in collaboration with quality and compliance teams.
+Drive continuous improvement initiatives based on lessons learned, assessment findings, and industry best practices.
+Stay up to date with industry trends, regulations, and advancements in cyber security and automotive technologies.
+Lead process improvement initiatives.
+Requirements
+Bachelor's or Master's degree in Systems Engineering, Software Engineering, Electrical Engineering, or a related field.
+Minimum 10 years of experience in automotive engineering, with a focus on process development and compliance complemented by proven experience in hands-on engineering development.
+English on a fluent level, German is nice to have
+Experience in defining and deploying engineering processes and methods in a regulated development environment.
+Deep understanding of ISO/SAE 21434, ASPICE, and ISO 26262 standards and their interdependencies
+Familiarity with model-based systems engineering (MBSE), requirements management, and safety/security analysis tools.
+Experience in engineering and/or process development in the field of battery systems at an automotive OEM or tier 1 is a plus.
+Experience with requirements management tools (e.g., DOORS, Jama)
+Experience with process documentation and management tools (e.g., UL Stages).
+Demonstrated ability to lead process improvement initiatives and manage cross-functional collaboration.
+Experience in mentoring and training engineering teams.
+Strong analytical, organizational, and communication skills.
+Familiarity with configuration management and change control processes.
+What we offer
+Your benefits: What we offer you
+As a technology leader with strong brands (i.e. VARTA® and OPTIMA®), Clarios notably lives on the creativity, capability and satisfaction of its employees. Therefore, we offer people with drive and power many good reasons to join us:
+Exciting professional tasks and challenges in a diverse international future-oriented environment with strong commitment to integrity, values, social engagement, and sustainability.
+Arrange your working hours and breaks flexible via our flexible working hours model and combine your professional and private life even better according to our above average number of vacation days, mobile work policy and company kindergarten.
+A competitive remuneration package, including additional payments as well as company pension scheme.
+Your well-being is very important to us: Take advantage of our preventive health care offers such as fitness center, physiotherapist, modern office environment, healthy canteen, team and company events or hobby clubs.
+Stay fit whilst at the same time positively contributing to our environment: Lease your company bike.
+Our well-advanced onboarding process and buddy program supports you to quickly grow into the position and team. By using the offering in our Learning Academy, LinkedIn Learning and EMEA Mentoring Program you will be able to further grow professionally and personally.
+Last, but not least we support you in relocating and finding an apartment in your work location, if applicable and depending on individual factors.
+To all recruitment agencies:
+Clarios does not accept unsolicited agency resumes/CVs. Please do not forward resumes/CVs to our careers email addresses, Clarios employees or any other company location. Clarios is not responsible for any fees related to unsolicited resumes/CVs.Clarios, LLC is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law, EEO is the Law (supplement), and Pay Transparency Non-discrimination. If you are an individual with a disability and you require an accommodation during the application process, please email
+: please be aware of scams being perpetrated through the Internet and social media platforms. Clarios will never require a job applicant to pay money as part of the application or hiring process.
+Company info
+Join the world leader in advanced energy storage solutions and be part of the success story of VARTA®!At Clarios, we're powering today, into tomorrow.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

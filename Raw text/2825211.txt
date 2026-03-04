@@ -1,0 +1,87 @@
+Cég neve
+Indotek Group
+Munkavégzés helye
+Budapest
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DOCKER
+PYTHON
+BACKEND
+POSTGRESQL
+API
+NOSQL
+SQL
+REST
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+DOCKER
+PYTHON
+BACKEND
+POSTGRESQL
+API
+NOSQL
+SQL
+REST
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+AMIT MI BIZTOSÍTUNK SZÁMODRA
+Modern tech stack és izgalmas, változatos AI-projektek
+Claude Code és Chat GPT előfizetés
+Fiatal, lendületes, gyorsan reagáló csapat, valódi startup-energia és hangulat
+Rugalmasság, hybrid munkavégzés, modern eszközök
+Közvetlen, nyitott vezetők, akik mellett gyorsan tanulhatsz is
+Versenyképes fizetés és szakmai fejlődési tér: AI, MLOps és rendszertervezés területén
+TÉGED KERESÜNK, HA
+Legalább 7+ év tapasztalatod van Python fejlesztésben
+Jártas vagy FastAPI vagy Django frameworkökben
+Van tapasztalatod PostgreSQL adatbázisokkal és ORM-ekkel
+Tudsz és szeretsz rendszerben gondolkodni, architektúrákat tervezni
+Önállóan dolgozol, proaktív vagy, és fontos számodra a minőség
+AMIT MI VÁRUNK TŐLED
+AI-alapú termékeink és backend rendszereink fejlesztése, karbantartása
+API-k (FastAPI, Django REST) tervezése és implementálása
+Adatbázis-struktúrák és architektúrák kialakítása (PostgreSQL, ORM-ek)
+Adatbázis-tervezés és optimalizálás (SQL / NoSQL)
+Rendszertervezés, skálázhatósági és biztonsági szempontok figyelembevétele
+Integrációk fejlesztése AI-modellekkel, LLM-ekkel és MLOps-pipeline-okkal
+Együttműködés a data science és AI-fejlesztő csapattal
+Kódreview, CI/CD folyamatok és automatizált tesztelés támogatása
+ELŐNYT JELENT SZÁMODRA
+Előnyt jelent, ha van tapasztalatod az alábbi területeken:
+ML / LLM integrációk
+MLOps
+GCP és Docker
+Jelentkezés módja
+Fényképpel ellátott önéletrajzzal, fizetési igény megjelölésével, a "JELENTKEZEM" gombra kattintva.
+Budapest
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Álláshirdetés jelentése

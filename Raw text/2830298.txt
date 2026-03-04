@@ -1,0 +1,74 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C
+C++
+HARDWARE
+DATABASES
+REST
+ASSEMBLY
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C
+C++
+HARDWARE
+DATABASES
+REST
+ASSEMBLY
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Ensuring the team plans and delivers tasks in a timely and organised fashion
+People management for direct reports
+Facilitating continuous learning for the team
+Analysing and improving large codebases for different performance aspects
+Working with the rest of the company as well as external partners and open-source communities
+Helping design the strategies to understand the bottlenecks and what investigate next
+Documenting the analysis performed, sharing knowledge within the team and wider
+Producing write-ups and presentations to share with the interested parties as well as help the team handle similar problems
+Working with different platforms that include the latest hardware, but also FPGAs and software models of upcoming hardware designs
+Requirements
+Excellent problem solver
+At least 2 years of managerial experience and a track record of timely, high quality delivery
+Passionate about coaching others and growing the team's capabilities
+Excellent communication skills, able to clearly convey complex topics
+Excellent C/C++ skills
+Experience in profiling and tracing large applications to find bottlenecks of performance
+Nice-to-have
+Understanding how sophisticated software (including web servers, databases, mobile applications, and many others) function and what matters for performance is highly valued, Understanding of OS concepts such as processes, threads, locks, virtual memory and how they relate to application performance, Good awareness of the details of System Architecture (pipelines, caches, MMUs, interconnect, timers, multithreading) is highly useful, Understanding of compiler optimizations is very useful, Ability to reason about generated assembly code is highly desired, Familiarity with open-source project development cycles and contribution processes, Understanding of Arm architecture and tools
+What we offer
+Hybrid working environment supporting high performance and personal wellbeing
+Flexibility in hybrid working patterns depending on team needs
+Equal opportunity employer committed to diversity and inclusion
+Benefits including health and wellness, work and life success, financial rewards, development and support
+Company info
+Arm's Userspace Performance team is looking for skilled software performance analysis engineers to lead a small group of engineers working on software performance analysis and optimisation. Successful candidates will help improve the performance of software running on Arm systems used across the world.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

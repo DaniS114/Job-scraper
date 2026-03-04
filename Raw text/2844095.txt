@@ -1,0 +1,56 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Contribute in SystemVerilog RTL verification and debug; formal bring-up of non-trivial IP blocks to achieve required quality levels (SystemVerilog/UVM, Formal, scripting)
+Work closely with engineers across design, performance modelling, validation, and implementation to meet all functional requirements, performance, power and area goals
+Requirements
+Currently enrolled and studying towards a Master's or Bachelor's Degree in Electrical Engineering, Computer Engineering or a related field
+Experience of block level RTL design and verification for non-trivial ASIC (or FPGA) developments; SystemVerilog preferred
+Familiarity with the Arm AMBA specifications or other bus protocols
+Understanding of digital design to include one or more from CPU, GPU and cache concepts, memory, I/O, etc.
+Scripting, e.g. with Perl, Python, etc.
+What we offer
+Internship duration is approximately 6 months (can be full-time or part-time)
+Regular feedback and development opportunities
+Social activities to connect with peers
+End of internship celebration
+Opportunity to be considered for future Graduate positions (subject to performance)
+Competitive salary and rewards package
+On-the-job learning and mentoring/buddy schemes
+Hybrid working environment supporting high performance and personal wellbeing
+Company info
+With offices around the world, Arm is a diverse community of dedicated and innovative engineers. By enabling an inclusive and open workplace where all our people can grow and succeed, we support our people to share their unique contributions to Arm's success in the global marketplace.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Engineer
+Electronic
+Control Engineer
+Budapest
+Álláshirdetés jelentése

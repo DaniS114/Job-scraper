@@ -1,0 +1,87 @@
+Cég neve
+Soloron IT Zrt.
+Munkavégzés helye
+Hibrid
+•
+1117 Budapest, Sopron út 40.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Elvárások
+Angol alapfok
+5-10 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Laptop
+Monitor
+(1 db)
+Angol
+alapfok
+5-10
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Feladatok
+Új, zöldmezős projektek tervezése és fejlesztése modern eszközökkel és technológiákkal
+Meglévő rendszereink továbbfejlesztése, optimalizálása, az üzleti igények megértése és megvalósítása
+Minőségi kód írása, code review-k, mérnöki szemlélet
+Szoros együttműködés a terméktervezéssel, üzleti elemzőkkel, DevOps és QA csapattal
+Hozzájárulás az architekturális döntésekhez, technikai irányvonalak kijelölése
+Elvárások
+Legalább 6 év releváns szoftverfejlesztői tapasztalat
+Backend terület:
+Erős ismeret Java nyelvben, Spring Boot keretrendszerben, és PostgreSQL adatbázis használatában
+Frontend:
+Fullstack szemlélet, ismerj legalább egy modern frontend keretrendszert (pl. Angular vagy React) annyira, hogy ha kell, érdemben hozzá tudj járulni a kliensoldali fejlesztéshez
+Mikroszervizek és konténerizáció (Docker) ismerete
+CI/CD folyamatok ismerete, automatizált build és release pipeline-okkal való munka
+REST és SOAP alapú integrációkban szerzett tapasztalat
+Message broker rendszerek (RabbitMQ, Kafka) és integrációs technológiák (pl. API Gateway, ESB) ismerete, hatékony integrációk kialakítása
+Külső szolgáltatásokkal, partneri rendszerekkel való integráció tapasztalata
+Analitikus, problémamegoldó hozzáállás, üzleti igények megértése és alkalmazása
+Tiszta, strukturált kód írása (clean code, SOLID, DRY, KISS, stb…), a best practice-ek és design pattern-ök ismerete
+Verziókövető és kollaborációs eszközök (Bitbucket, Jira, Confluence) mindennapi használata
+Tesztelés fontosságának felismerése (unit, integration, esetleg E2E tesztek)
+Jó kommunikációs készség, csapatjátékos attitűd
+Nyitottság az új technológiák elsajátítására, folyamatos szakmai fejlődésre való igény
+Előnyt jelent
+MS Azure felhőszolgáltatások ismerete
+Tapasztalat nagyvállalati (banki/logisztikai) projektekben
+Üzleti elemzői szemlélet, komplex üzleti logikák megértése, továbbfejlesztése
+DevOps szemlélet, ismeret Kubernetes, Terraform vagy más IaC eszközök terén
+Agilis módszertanban való jártasság
+Amit kínálunk
+Ha szeretnél egy dinamikus és professzionális csapat tagjaként részt venni nagyvállalati, banki és logisztikai területre szánt, kiemelkedően magas rendelkezésre állású, nagy terhelésű rendszerek fejlesztésében akkor Nálunk a helyed!
+Munkahelyi extrák
+Zuhanyzási lehetőség
+Kerékpártároló
+Parkoló
+Ingyen kávé, üdítő
+Céginformáció
+Vállalatunk, a Soloron IT Zrt. 2016 óta van jelen a hazai informatikai piacon.
+Cégünk fő profilja a szoftverfejlesztés, amelyet üzemeltetési feladatok is kiegészítenek.
+Ha úgy érzed, hogy a pozíció felkeltette érdeklődésedet és szívesen csatlakoznál egy innovatív csapathoz, ahol valóban számít a véleményed, és komoly, szakmai projektekben kamatoztathatod a tudásodat, küldd el jelentkezésedet!
+Reméljük, hamarosan személyesen is üdvözölhetünk a Soloronnál.
+Jelentkezés profillal
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

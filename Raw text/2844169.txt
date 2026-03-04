@@ -1,0 +1,99 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NODE.JS
+NODEJS
+REACT
+API
+SECURITY
+DEVOPS
+GIT
+TESTING
+.C.
+ACCESS
+AGILE
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+NODE.JS
+NODEJS
+REACT
+API
+SECURITY
+DEVOPS
+GIT
+TESTING
+.C.
+ACCESS
+AGILE
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, code, review, and test assigned features and user stories in alignment with Diligent’s agile development methodology, leveraging AI tools where appropriate to enhance development efficiency.
+Produce high-level technical design artifacts for major stories, incorporating insights and optimizations informed.
+Influence the future architecture of the product by defining and refining major components and sub-systems, including the delivery of back-end prototypes—potentially accelerating prototyping with AI-based development tools.
+Collaborate effectively with other development teams, production operations, and cross-functional technology groups to ensure smooth, regular delivery of high-quality software, to streamline communication and task coordination.
+Ensure all work is completed and documented according to required standards, methods, and procedures, while adopting AI tools to enhance knowledge sharing and documentation efficiency.
+Manage personal workflow and task prioritization to meet deadlines, to support time management and productivity tracking.
+Serve as the technical owner of Epics, including complex initiatives that span multiple workstreams, in breaking down and organizing work.
+Lead technical architecture and implementation of platform-level initiatives, exploring AI-driven design tools where beneficial.
+Demonstrate reliability in handling complex tasks with minimal supervision while knowing when to delegate effectively; ensure completion of work with end-to-end ownership, supported by intelligent task management tools.
+Actively participate in continuous process improvement by identifying opportunities and proposing enhancements during retrospectives—encouraging and applying AI-driven insights to refine team workflows.
+Requirements
+Strong experience in a hands-on development role at a commercial software company
+Demonstrable experience of devising and delivering changes to large/complex products
+Excellent understanding one of (or all) our technologies: NodeJS, TypeScript, React
+Experience in API and web development
+Problem-solver attitude - Technology agnostic approach
+Experience of designing and delivering security solutions in an environment that embraces DevOps and IaC concepts and common technologies, with a focus on pipeline security automation (DevSecOps)
+Experience with Microservices architecture
+Commitment to producing well tested and documented code
+Good understanding of RESTFul Services
+Strong code review, mentoring and refactoring skills
+Creative and innovative problem-solving skills
+Experience working on an agile team, providing estimates and reporting progress
+Able to communicate effectively with technical and non-technical teams
+Keen to improve processes and share knowledge across the team
+Familiarity with Source Code Control Systems (esp Git, GitHub) and common branching models such as GitFlow
+Be passionate about delivering value to our customers
+Good mentoring skills
+Experience using AI-powered tools (e.g., for code generation, static analysis, or testing) to enhance development speed and reduce manual effort is a plus.
+What we offer
+Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients
+We care about our people. Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs to name a few
+We have teams all over the world. We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney.
+Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding.
+Hybrid work model with expectation to work onsite at least 50% of the time if within commuting distance to an office location.
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+At Diligent, we're building the future with people who think boldly and move fast. Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. The future belongs to those who keep learning, and we are building it together. At Diligent, you’re not just building the future - you’re an agent of positive change, joining a global community on a mission to make an impact.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,108 @@
+Cég neve
+Szerencsejáték Zrt.
+Munkavégzés helye
+Budapest
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Szakmai tréningek
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Cafeteria
+Szakmai
+tréningek
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+CÉGINFORMÁCIÓ
+A Szerencsejáték Zrt.-nél a játék, a szórakozás és a nyerés izgalmát nyújtjuk játékosainknak. Ez az élmény és szenvedély nem csak játékosainkat, de munkavállalóinkat is áthatja. Legyél Te is nyertes és lépj be velünk érdekes, élményekkel teli, izgalmas világunkba!
+MILYEN FELADATOKBAN SZÁMÍTUNK RÁD?
+általános, JIRA vagy Power Platform rendszerszervezői feladatok,
+felhasználói igények és üzleti folyamatok felmérése, elemzése, dokumentálása,
+rendszerfolyamatok megtervezése, módosítása, optimalizálása,
+egyeztetés az üzleti területtel, a fejlesztési és az üzemeltetési folyamatok érintettjeivel,
+a megvalósítás támogatása az agilis fejlesztési csapatokkal együttműködve,
+JIRA-alapú feladatkezelés és nyomon követés,
+Microsoft Power Platform megoldások fejlesztésének és üzemeltetésének támogatása, követelmények, folyamatok és logikai struktúrák tervezése,
+rendszerek integrációs pontjainak elemzése, adatáramlási logikák megértése és dokumentálása,
+a környezetek és az on‑prem integrációk tervezése, release-kezelés,
+a kialakított megoldások monitorozása és szükség szerinti optimalizálása,
+fejlesztési projektek követése, proaktív szakértői támogatás nyújtása; beszámolók, szakértői és döntéselőkészítő anyagok készítése,
+kapcsolattartás a beszállítóval, fejlesztések átvétele, informatikai tesztelés,
+részvétel licencek és előfizetések optimalizálásában, beszerzési javaslatok készítésében,
+tesztelési forgatókönyvek összeállítása, UAT támogatása,
+felhasználók támogatása és oktatása.
+Milyen eszközöket és technológiákat használunk?
+Atlassian JIRA: Workflow Editor, JIRA Automation, JIRA Query Language (JQL),
+Confluence (oldalstruktúrák, sablonok, diagramok),
+Microsoft O365, M365,
+BPMN eszközök (DrawIO, Visio),
+MsSQL, Oracle SQL,
+Azure DevOps,
+Microsoft Power Platform.
+TÉGED KERESÜNK, AMENNYIBEN:
+rendelkezel tapasztalattal hasonló, rendszerszervezői munkakörben,
+szakmai angol nyelvismerettel bírsz (legalább dokumentációk megértése szintjén),
+felsőfokú végzettséged van,
+rendelkezel alapvető adatbázis‑ (SQL) ismeretekkel,
+készségszinten használod az O365/M365 programokat, a JIRA-t és/vagy a Confluence-t, valamint valamilyen tervezőeszközt (DrawIO, Visio),
+legalább általános Power Platform‑ismerettel rendelkezel.
+ELŐNYNEK SZÁMÍT:
+JIRA gyártói szemlélet ismerete és üzleti folyamatokban való képviselete,
+JIRA-fejlesztői ismeretek (jelenleg on‑prem, később cloud környezetben),
+JIRA és Confluence együttműködésének magas szintű ismerete, evangelizálása,
+Add-onok általános és/vagy fejlesztői ismerete,
+CMDB-tervezési és fejlesztési tapasztalat,
+Gyakorlat JIRA‑folyamatok implementálásában, tesztelésében, továbbfejlesztésében,
+Power Platform bevezetési gyakorlat (biztonsági elvek, környezetek kialakítása, jogosultságkezelés, release management stb.),
+Power Platform megoldások fejlesztési tapasztalata.
+MIÉRT CSATLAKOZZ HOZZÁNK?
+nálunk egyedülállóan magas cafeteria juttatás, alapbéren felüli teljesítménytől függő ösztönző bér, továbbá színvonalas magánegészségügyi ellátás is vár,
+megbízható, stabil nagyvállalati hátteret biztosítunk,
+jól megközelíthető, központi helyen fekvő munkahelyen dolgozhatsz,
+számos lehetőséggel támogatjuk szabadidőd eltöltését:
+AYCM kártyával, különböző kedvezményekkel, és cégen belüli programokkal támogatjuk a sportolási szenvedélyedet,
+közös céges egyesületünkkel változatos kulturális eseményen vehetsz részt,
+Munkavállalói Támogató Programunk keretein belül ingyenes jogi, pszichológiai, pénzügyi vagy szociális támogatást is igénybe vehetsz,
+segítünk szakmai fejlődésedben: képzéseken, tréningeken vehetsz részt,
+közös Élménynappal, ünnepi rendezvényekkel és csapatépítőkkel garantáljuk a munkán kívüli kikapcsolódást.
+A Szerencsejáték Zrt. elkötelezett támogatója a megváltozott munkaképességűek foglalkoztatásának.
+EGYÜTT CSAK NYERHETÜNK!
+MUNKAHELYI EXTRÁK
+Céges rendezvények
+Sportolási lehetőség
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Rendszertervező
+Budapest
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,169 @@
+Cég neve
+Nemzeti Filmintézet Közhasznú Nonprofit Zrt.
+Munkavégzés helye
+1145 Budapest, Róna utca
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Egészségpénztár
+Cafeteria
+Céges üdülés, üdültetés
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Egészségbiztosítás
+Sport támogatás
+Beiskolázási támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+PHP
+JAVASCRIPT
+GIT
+DOCKER
+LARAVEL
+MYSQL
+SQL
+CMS
+WORDPRESS
+API
+MVC
+HTML5
+CSS3
+LINUX
+DEVOPS
+REST
+Biztosított eszközök
+Laptop
+Monitor (2 db)
+Mobiltelefon
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Felsőoktatási szakképzés
+
+Mobiltelefon
+Egészségpénztár
+Cafeteria
+Céges
+üdülés, üdültetés
+Szakmai
+tréningek
+Nyelvtanulás
+támogatása
+Munkába
+járás támogatás
+Egészségbiztosítás
+Sport
+támogatás
+Beiskolázási
+támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+PHP
+JAVASCRIPT
+GIT
+DOCKER
+LARAVEL
+MYSQL
+SQL
+CMS
+WORDPRESS
+API
+MVC
+HTML5
+CSS3
+LINUX
+DEVOPS
+REST
+Laptop
+Monitor
+(2 db)
+Mobiltelefon
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Feladatok
+Egyedi kisebb webes ügyviteli rendszerek, portálok (pl. Intranet) önálló tervezése és fejlesztése az igényfelméréstől az éles indulásig
+Meglévő rendszerek (jellemzően PHP alapú alkalmazások) továbbfejlesztése, optimalizálása, hibajavítása
+Belső szervezeti egységekkel történő közvetlen egyeztetés, igények műszaki specifikálása
+Adatbázis-tervezés, lekérdezések optimalizálása (MariaDB/MySQL)
+Webes ergonómiai és UX szemlélet, átlátható felületek kialakításának gyakorlata
+CMS alapú oldalak (WordPress/Joomla/intranet portálok) fejlesztése, testreszabása
+Dokumentáció készítése, rendszerszemléletű gondolkodás
+REST API-k és integrációk kialakítása
+Verziókezelés, CI/CD folyamatokban való aktív részvétel
+Elvárások
+Magabiztos PHP tudás (2-3 év valós projekt tapasztalat)
+Laravel vagy hasonló modern MVC keretrendszer ismerete
+JavaScript, HTML5, CSS3
+SQL + MariaDB/MySQL adatbázistervezés
+REST API fejlesztés
+Strukturált programozási szemlélet (OOP és procedurális megközelítés egyaránt)
+Git (GitLab/GitHub) napi használata
+Hibakeresés, refaktorálás
+Unit tesztelés / alap tesztelési szemlélet
+Composer, dependency management
+Linux környezetben való magabiztos munkavégzés
+Előnyt jelent
+Modern fejlesztői eszközök (pl. VS Code, Cursor, AI-támogatott kódszerkesztők) magabiztos használata
+Kisebb ügyviteli rendszerek önálló leszállítása
+CMS rendszerek (WordPress, Joomla, SharePoint)
+UX/UI érzék
+Microsoft 365 / Power Platform (Power Apps, Power Automate) ismerete
+Docker / konténeres fejlesztés
+CI/CD pipeline tapasztalat
+Docker / konténeres fejlesztés
+DevOps vagy Kubernetes alapok
+Amit kínálunk
+hibrid munkavégzés
+versenyképes juttatási csomag
+céges laptop, mobiltelefon
+határozatlan idejű munkaszerződés, 3 hónap próbaidővel
+modern munkahelyi környezet
+innovatív környezet, széles körű tapasztalatszerzési lehetőség
+képzési lehetőségek
+fejlődési lehetőség
+szakmai támogatás
+céges rendezvények, filmes élmények
+Munkahelyi extrák
+Céges rendezvények
+Kerékpártároló
+Parkoló
+Sportolási lehetőség
+Kutyabarát
+Ingyen kávé, üdítő
+Céginformáció
+Magyarország meghatározó filmszakmai intézményeként küldetésünk, hogy aktívan formáljuk és fejlesszük a hazai filmipart. Büszkék vagyunk rá, hogy nemcsak a magyar filmgyártás megújulásához járulunk hozzá, hanem stabil, biztonságos és inspiráló munkakörnyezetet is biztosítunk kollégáink számára.
+2024-ben elnyertük a „Szerethető munkahely” minősítést nagyvállalati kategóriában, ami bizonyítja elkötelezettségünket a munkavállalóink iránt.
+Több mint 270 fős csapatunk közös szenvedéllyel és szakértelemmel dolgozik azon, hogy a magyar filmgyártás nemzetközi szinten is meghatározó szereplővé váljon.
+Jelentkezés módja
+A "Jelentkezem" gombra kattintva küldd el szakmai önéletrajzodat!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

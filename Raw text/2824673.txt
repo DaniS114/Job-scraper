@@ -1,0 +1,101 @@
+Cég neve
+Accenture Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CRM
+CLOUD
+DEVOPS
+JAVA
+SQL
+MIDDLEWARE
+C
+HTML
+JAVASCRIPT
+CSS
+JQUERY
+GIT
+TESTING
+TROUBLESHOOTING
+REST
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Cafeteria
+Teljes
+munkaidő
+Általános
+munkarend
+CRM
+CLOUD
+DEVOPS
+JAVA
+SQL
+MIDDLEWARE
+C
+HTML
+JAVASCRIPT
+CSS
+JQUERY
+GIT
+TESTING
+TROUBLESHOOTING
+REST
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, develop, test, document, and deploy high quality Salesforce solutions, leveraging the latest capabilities of the Einstein 1 Platform, Lightning Web Components, and modern Apex patterns
+Analyze client specific requirements and define data model to support the business, reporting and technical requirements
+Develop on demand Salesforce applications using Apex Classes, Triggers, Lightning Web Components (LWC), Flows, and integrations following Salesforce best practices
+Participate in evaluating new CRM technologies, Salesforce product releases, and add ons (e.g., Data Cloud, DevOps Center, Salesforce Functions, Agentforce) and create plans for their adoption in Salesforce orgs
+Proactively monitor new capabilities of Agentforce (AI Agents) with focus to build, extend or automate business workflows using Agent Actions, Prompt Templates, AI driven orchestration, and Einstein Copilot extensions
+Provide ongoing technical support, optimization, troubleshooting, and maintenance for existing Salesforce customizations and configurations
+Share knowledge on Salesforce development best practices (secure Apex, LWC patterns, CI/CD, modular architecture, performant Flows, integration patterns)
+Leverage experience with .NET, Java, web services, and/or SQL Server to understand or build scalable integration points between Salesforce and external systems using REST, SOAP, Platform Events, or middleware
+Requirements
+Advanced Salesforce development experience with strong focus on Apex, Lightning Web Components and modern declarative automation (Flows)
+Experience with Agentforce, including building or enhancing AI Agents, configuring Agent Actions, and using Prompt Builder or Einstein Copilot features is a strong advantage
+Hands on experience with Java or C#, and solid understanding of HTML, JavaScript, CSS, and modern JS frameworks (e.g., ES6+, Node, or similar)
+Experience with jQuery or other JavaScript frameworks is a plus, though modern JS and LWC experience is preferred
+Salesforce Technical or Consultant Certification (e.g., Platform Developer I/II, JavaScript Developer I, AI Specialist, Data Cloud Consultant) is a strong advantage
+Experience with DevOps Center, Git branching strategies, CI/CD, and automated testing is beneficial
+Good communication skills, analytical thinking and the ability to work collaboratively
+Advanced English language skills
+Nice to have: German language skills
+What we offer
+Cafeteria - Budget for benefits based on your choice
+Refer-a-Friend - get a bonus in the employee referral program
+Flexible working arrangements (Flex-work, Home Office)
+Wide range of leading-edge trainings (including language courses)
+AYCM card
+Family oriented benefits
+Company info
+We work with one shared purpose: to deliver on the promise of technology and human ingenuity. Every day, more than 775,000 of us help our stakeholders continuously reinvent. Together, we drive positive change and deliver value to our clients, partners, shareholders, communities, and each other.
+We believe that delivering value requires innovation, and innovation thrives in an inclusive and diverse environment. We actively foster a workplace free from bias, where everyone feels a sense of belonging and is respected and empowered to do their best work.
+At Accenture, we see well-being holistically, supporting our people’s physical, mental, and financial health. We also provide opportunities to keep skills relevant through certifications, learning, and diverse work experiences. We’re proud to be consistently recognized as one of the World’s Best Workplaces™.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

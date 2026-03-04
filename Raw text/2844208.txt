@@ -1,0 +1,77 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+London
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NODE.JS
+SECURITY
+AWS
+PYTHON
+BACKEND
+Elvárások
+Nem kell nyelvtudás
+>10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+NODE.JS
+SECURITY
+AWS
+PYTHON
+BACKEND
+Nem
+kell nyelvtudás
+>10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Set the technical direction for AI-enabled platform: architect secure, scalable, serverless systems on AWS, define patterns and governance practices.
+Mentor senior engineers and lead org-wide design decisions.
+Shape engineering strategy with broad organizational impact across multiple teams and products.
+Drive platform evolution by identifying pain points and leading design of secure, scalable, reusable solutions on AWS and modern serverless and microservice patterns.
+Lead architectural discussions and design reviews making trade-offs around performance, security, reliability, and maintainability.
+Own AI architectural decisions end-to-end with built-in governance, monitoring, and regulatory readiness.
+Act as the organization's AI thought leader, educating teams on model behavior, agentic systems, and responsible AI practices.
+Mentor and stretch senior and staff engineers, building technical leadership depth and holding high engineering standards.
+Requirements
+10+ years of software engineering experience, including at least 3 years at Staff or Principal Engineer level in an organization of 100+ engineers.
+Led large, complex platform or AI initiatives as decision-maker.
+Deep, opinionated AWS platform expertise including multi-account architectures and Infrastructure as Code (Terraform or CDK preferred).
+Experience shipping AI-enabled production systems such as RAG pipelines, agentic frameworks, LLM orchestration.
+Defined and implemented AI governance in production environments including bias and privacy checks, audit-ready monitoring, and AI usage policies.
+Proven track record designing and shipping RESTful APIs and backend platform components using Node.js/TypeScript.
+Strong org-level communication and influence skills, able to align stakeholders and mentor senior technical leaders.
+Nice-to-have
+Experience building platform components or SDKs that multiple product teams depend on., Involvement in architecture forums, tech councils, or similar bodies defining org-wide standards., Experience optimizing cost and performance for data and AI-heavy workloads at scale., Leadership of major modernization efforts such as legacy migration to serverless, multi-region architecture, or platform consolidation., Public technical presence such as conference talks, open-source contributions, or published writing demonstrating thought leadership.
+What we offer
+Flexible work environment.
+Global days of service.
+Comprehensive health benefits.
+Meeting free days.
+Generous time off policy.
+Wellness programs.
+Hybrid work model with expectation to work onsite at least 50% of the time if within commuting distance to an office.
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Regionális
+Álláshirdetés jelentése

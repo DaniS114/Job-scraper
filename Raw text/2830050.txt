@@ -1,0 +1,88 @@
+Cég neve
+E.ON Észak-dunántúli Áramhálózati Zrt.
+Munkavégzés helye
+Budapest
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+SQL
+MACHINE LEARNING
+ADATTÁRHÁZ
+AZURE
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+SQL
+MACHINE
+LEARNING
+ADATTÁRHÁZ
+AZURE
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+A pozíció leírása
+E.ON Észak-dunántúli Áramhálózati Zrt. | Határozatlan idejű | Teljes munkaidős
+A Működés és Adatmenedzsment fő feladata a hálózati adatok menedzsmentje, amellyel lehetővé teszi a kapcsolódó területek számára a hiteles adat alapú döntéshozást. Biztosítjuk az elosztóhálózat számára a kulcs adatkörök minőségét, automatizált rendelkezésre állását, elemzését, illetve a döntésekhez szükséges tanuló algoritmusok fejlesztését.
+Feladatok:
+Az E.ON hálózati területeinek üzleti működésének, üzleti folyamatainak megértése, a társszervezetek által definiált igények elemzési nyelvre történő lefordítására
+Az üzleti igényeknek megfelelő standard adatmodellek fejlesztése a hálózati területek adattárházban
+A hálózati területek üzleti folyamatai során keletkezett és core valamint támogató rendszereiben tárolt adatok komplex elemzése
+A hálózati területek és külső adatbázisok adatvagyonára támaszkodva tanuló algoritmusok fejlesztése python programnyelven, a hosszú távú stabil üzleti működés támogatása céljából
+Adatok közötti összefüggések feltárása és hatásuk azonosítása az üzleti gyakorlat szempontjából prediktív/AI analitikák alkalmazásával
+A fejlesztett eljárások és elemzések minőségbiztosítása
+Az elemzések során feltárt adat- és folyamathibák jelzése, javításának támogatása
+Vizualizáció készítése, mely segíti a fejlesztési munka bemutatását, eredményeinek jobb megértését, az ebből történő üzleti döntéshozatalt
+Igényekhez kapcsolódó újabb adatkörök feltérképezése, megismerése és adattárházba való integrálásának támogatása
+Elvárások:
+Felsőfokú matematikai és/vagy gazdasági és/vagy műszaki képesítés
+3 év szakmai tapasztalat
+Python programnyelv magas szintű ismerete
+SQL nyelv alapfokú ismerete
+Felhő alapú adattárház elemzői környezetek ismerete (pl. Azure ML, Synapse)
+Machine Learning, Deep Learning eljárások és Lineáris programozás, statisztikai összefüggésvizsgálatok magabiztos használata a fejlesztéstől az üzleti folyamatba illesztésig
+Amit kínálunk:
+Teljesítményalapú éves bónusz (elérhető az éves bruttó alapbér 10%-a)
+Egyénre szabható éves bruttó 320.000 Ft-os cafeteria keret
+2026-ban 2 nap extra pihenőnapot biztosítunk előre meghatározott napokon
+Önkéntes nyugdíjpénztári hozzájárulás
+Korlátlan járóbeteg ellátás, célzott szűrővizsgálatok
+Áramdíj kedvezmény
+Korlátlan belföldi mobiltelefon használat
+Munkavégzés helye:
+1117 Budapest, Hengermalom u. 18.
+Pozíció azonosító:
+242641
+Kapcsolat
+El tudod képzelni magad a fenti pozícióban? Várjuk pályázatodat, alakítsuk együtt a jövő energiavilágát! Látogass el karrieroldalunkra is, ahol hasznos információkat találsz a kiválasztási folyamatunkkal kapcsolatban.
+Együtt alakítjuk a jövő energiavilágát!
+Az új E.ON vállalatcsoport az európai energiahálózatok és az energiával kapcsolatos infrastruktúra egyik legerősebb üzemeltetője, és korszerű ügyfélmegoldások szolgáltatója több mint 50 millió ügyfél számára. Összesen több mint 75 000 munkatársunk van 15 országban. Így ideális helyzetből segíthetjük elő az európai energiafordulatot. Két fenntartható növekedési területre összpontosítva, és az innogy felvásárlásával az E.ON teljes mértékben elkötelezi magát az energiavilág alapvető átalakulása mellett. Európa egyik legnagyobb energetikai szolgáltatójaként aktívan vezetjük az energiafordulatot Magyarországon és Európában. A két vállalat szakértelmének egyesítése az E.ON-t úttörővé teszi az új és innovatív energiamegoldások kidolgozásában, és lehetővé teszi, hogy az energiaszektor legtehetségesebb munkatársai dolgozzanak nálunk.
+A kiválasztási eljárás során az E.ON egyenlő esélyeket biztosít minden jelentkező számára nemzetiségre, korra, nemre, fogyatékosságra, illetve megváltozott munkaképességre való tekintet nélkül. A mi feladatunk az egyenlő esélyű részvétel technikai feltételeinek biztosítása. Kérjük, erre vonatkozó igényedet jelezd a pályázatodban.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,110 @@
+Cég neve
+Tata Consultancy Services Limited
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Szakmai tréningek
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Szakmai
+tréningek
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+ABOUT US:
+In the IT Services area, TCS implements the best in class solutions in the Business 4.0 era to enable strong digital foundations for our customers worldwide. We are working with a wide range of technologies and programming languages.
+IF WE BREAK THIS ROLE DOWN INTO KEY TASKS, THIS IS WHAT YOU'LL BE DOING:
+Design, build, and maintain robust data pipelines that are scalable, efficient, and meet business needs
+Collaborate with cross-functional teams to understand and translate business requirements into data solutions
+Ensure data quality, integrity, and governance by implementing best practices in data management
+Develop ETL processes and data flows
+Support and enhance data platforms, databases, and data warehouses to enable advanced analytics
+Implement CI/CD pipelines using GitHub Actions and JFrog for automated deployment and version control
+Troubleshoot data pipelines and address any issues with real-time, batch data processing, and integrations
+EXPERIENCE AND SKILLS YOU POSSESS:
+5+ years of experience in data engineering
+Experience with
+cloud data warehouse
+environments
+Experience with
+AWS Redshift
+Hands-on experience with
+dbt
+for data transformation and model building
+Strong
+SQL
+skills and deep understanding of query performance tuning in Redshift
+Solid understanding of
+data modeling principles
+, including dimensional modeling (Kimball), normalized models, and hybrid strategies
+Experience with monitoring tools (
+CloudWatch
+,
+Redshift Console
+)
+Familiarity with
+data versioning
+,
+CI/CD
+, and collaborative development practices in dbt
+… and we appreciate if you have:
+Experience in Airflow, AWS Glue
+HERE ARE A FEW BENEFITS YOU CAN EXPECT:
+TCS has been delivering services from Hungary since 2001, making us a perfect choice if you’re looking for
+stability.
+We provide a wide range of benefits, including a market-leading
+comprehensive private health care package.
+We offer extensive
+self-development opportunities
+: our colleagues have many training possibilities for personal and professional growth.
+At TCS Hungary there are both vertical and horizontal
+career options
+for those who like to challenge themselves and try out different areas and positions.
+You will be part of a
+global and diverse working environment
+with relaxation areas, terraces, and a friendly atmosphere.
+You can
+seize the day
+with us at our company events, hobby clubs, and sporting initiatives
+An
+attractive compensation package.
+ABOUT YOUR CONTRACT
+Full time, indefinite.
+Working hours: 40 hours/week, office hours (hybrid).
+Legal requirements: You need to be to be currently eligible to work in Hungary.
+Work extras
+Kávézó
+Céges rendezvények
+Kerékpártároló
+Parkoló
+Sportolási lehetőség
+ABOUT YOUR APPLICATION:
+Our data protection policy is available on our website.
+Please only include in your CV information that is relevant for your application to this role.
+Our recruitment team will carefully review all applications and will connect with those applicants that meet our current requirements
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Álláshirdetés jelentése

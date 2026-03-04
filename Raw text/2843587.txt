@@ -1,0 +1,109 @@
+Cég neve
+Fsas Technologies GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+HARDWARE
+NETWORK
+CISCO
+CLOUD
+Elvárások
+Német középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+HARDWARE
+NETWORK
+CISCO
+CLOUD
+Német
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Apply now as
+Senior Networking Consultant for HPC (High Performance Computing) & AI platforms (f/m/d)
+in Germany
+Legal Entity: Fsas Technologies GmbH
+Specifically, the networking consultant will contribute to HPC and AI platform business growth by providing technology support to sales teams located mainly in Germany and also in other European countries and will be responsible for the networking component of the technical HPC and AI proposals. The consultant will collaborate with other presales and commercial areas within Fsas, as well as external Fsas platform partners and alliances, and will play a key role in identifying requirements, designing the most suitable solution, and supporting the entire sales process, including ensuring the proper positioning of the selected networking solution against competitors.
+High proficiency in German and English is required.
+Key Responsibilities
+Partner with sales teams to identify customer needs and propose tailored HPC and AI networking solutions.
+Establish a trusted technical relationship with the customers and partners to position Fsas capabilities and ensure that its added value is properly communicated.
+Maintain a thorough understanding of our proposals and our competitor's strengths and weaknesses.
+Lead the networking design of HPC and AI Infrastructures in a project, including:
+Building the technical solution based on the project requirements.
+Supporting the technical aspects of the projects and providing the required technical documentation (e.g. complete architecture diagrams, BOMs, and cost estimates for HPC/AI networking deployments, etc..)
+Partner with the main technical stakeholders such as other specialized presales teams and third party providers, partners and alliances (e.g. Supermicro, Nvidia/Mellanox, AMD, HPE/Juniper, other storage and software providers…) to define the adequate architectures in each case.
+Partner with the services teams to ensure that the right deployment and delivery needs are included in the proposals.
+Organize technical workshops and demos showcasing performance and scalability benefits.
+Manage PoCs and benchmarking for AI training and HPC networking simulations.
+Requirements
+Desired key core technical Competencies
+HPC Networking design:
+Capability to design complex ultra-low latency and high bandwidth networking for HPC and AI architectures, including hardware and the related management software, in collaboration with a HPC consultant leader and other experts in the different areas.
+HPC Networking Architectures:
+Deep knowledge of Compute networks used in HPC such as InfiniBand, high-speed Ethernet, RDMA, and advanced networking topologies for HPC clusters and servers. Be able to determine the best option and design in each case.
+General Networking architectures:
+Deep knowledge of general-purpose networking architectures, required for the management of storage networks of a HPC or AI cluster.
+Networking Performance optimization:
+Familiarity with network tuning for MPI workloads, and AI environments.
+Networking Ecosystem Management:
+Ability to interact effectively with leading networking vendors vendors (e.g. Nvidia/Mellanox, HPE/Juniper, Cisco, Arista)
+HPC Software:
+Understand the overall HPC and Ia environemts, and the possible impact of MPI, job schedulers (e.g. Slurm), containerization, AI frameworks (TensorFlow, PyTorch) and other systems management tools (such as Open Nebula or similar ones) when designing the networking infrastructure,
+Storage:
+Understand the impact of Parallel file systems (Lustre, GPFS), NVMe, tiered storage, and data lifecycle management when designing the networking infrastructure.
+Presales Engagement:
+Create and maintain a trusted technical relationship with customers and business partners to collaborate and lead the networking solution design. Conduct proof-of-concept (PoC) and demonstrations to validate solutions.
+Communications:
+Provide technical presentations communicated in a proper way considering the audience.
+Cloud & Hybrid HPC:
+Familiarity with the Integration of on-prem HPC networking with cloud-based HPC/AI systems.
+Required Soft Skills
+Strong communication and presentation abilities.
+Ability to translate complex technical concepts into business value.
+Ability to handle multiple client engagements simultaneously and prioritize tasks effectively.
+Customer-centric mindset and cultural awareness.
+Teamwork capabilities with the different project stakeholders.
+Problem-solving mindset and attention to detail.
+What we offer
+We offer an appreciative and flexible work environment that promotes work-life balance and actively supports individual career development. Diversity, equal opportunities, and inclusion are central values of our corporate culture. Together, we have the future in mind – and for that, we need people with foresight.
+Flexible working hours and mobile working allow you to optimally balance family, leisure, and work. We emphasize personal responsibility and trust - without fixed office days.
+Enjoy 30 days of vacation plus special leave for special occasions and use our time value account for your personal projects and longer breaks.
+We invest in your personal and professional development with individualized talent programs, coaching, mentoring, and extensive learning platforms. Together, we will find the career path that perfectly suits you.
+With our excellent health and well-being offerings, we support you in staying fit, healthy, and balanced.
+We reward your contribution with a performance-based and attractive salary.
+Benefit from exclusive perks and employee discounts.
+Plan your future or your next world trip – with our attractive pension plans.
+And much more: Discover additional attractive benefits at Fujitsu!
+Company info
+Transform your world with us!
+Fsas Technologies Europe is a leading provider of advanced data center solutions, empowering its customers and partners in Europe to leverage the performance of their infrastructure for sustainable digital transformation, thanks to its first-class employees and future-proof technologies. As a Fujitsu company, Fsas Technologies applies its expertise to realize the Fujitsu Group's goal of building trust in society through innovation and making the world more sustainable.
+We are significantly enhancing our focus on cutting-edge technologies with the formation of the Quantum & High-Performance Computing Strategic Business Unit, Europe. The SBU's core focus will be to drive revenue growth and scale Fsas Technologies' quantum and HPC business in Germany and across Europe. This central team will lead the effort in defining and executing our forward-thinking Quantum and High-Performance Computing business strategy.
+We are seeking a
+Senior
+Networking Consultant specialized in networking for HPC and AI platforms
+to join the Quantum & High-Performance Computing Strategic Business Unit. This role combines strong technical expertise with commercial, communications and team working skills to design tailored technology solutions that meet our customer's needs in a set of different European countries.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Germany
+Álláshirdetés jelentése

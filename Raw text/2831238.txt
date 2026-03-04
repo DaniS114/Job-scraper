@@ -1,0 +1,111 @@
+Cég neve
+Matrix42 GmbH
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ENTERPRISE ARCHITECT
+C
+SECURITY
+ITIL
+API
+ACCESS
+JAVASCRIPT
+SQL
+TROUBLESHOOTING
+SERVICE MANAGEMENT
+REST
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+ENTERPRISE
+ARCHITECT
+C
+SECURITY
+ITIL
+API
+ACCESS
+JAVASCRIPT
+SQL
+TROUBLESHOOTING
+SERVICE
+MANAGEMENT
+REST
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Own solution architecture & design for Matrix42 ESM implementations, including target architecture, solution blueprint, and decision rationale.
+Lead architectural workshops (requirements, target operating model, integration landscape, security/roles, governance), align stakeholders, and drive configuration, customization, design and implementation decisions.
+Ensure technical excellence across delivery: define standards/guardrails, review implementations, and steer architecture decisions (including complex customization where justified).
+Define, structure, and accept work packages (scope, dependencies, deliverables, DoD), including effort estimations and feasibility assessments.
+Enable and coach delivery teams: act as technical lead, mentor consultants/architects, and actively drive knowledge transfer and training.
+NICE TO HAVE:
+Provide process & tool advisory (incl. ITIL-oriented process design) to align Matrix42 capabilities with customer operating models.
+Implement and configure customer environments in line with the agreed solution design and Matrix42 best practices.
+Conduct complex troubleshooting and root-cause analysis, supporting escalations and guiding teams through non-trivial technical challenges.
+Create audience-adapted presentations (slides) and documentation that make complex architecture decisions understandable for all stakeholder levels.
+Support pre-sales / pre-study activities: high-level solution concepts, estimations, feasibility and risk assessments, and technical positioning.
+Design and review integration architectures (API-based integrations, identity and access, data flows, CMDB/asset landscape, reporting).
+Drive continuous improvement of PSO delivery: reusable patterns, reference architectures, playbooks, and enablement materials.
+Deliver or support tool trainings for customers, partners, and internal teams (including Academy contributions where applicable).
+Requirements
+MUST HAVE:
+Excellent communication and presentation skills in German and English, with the ability to facilitate workshops and steer decision-making across mixed audiences.
+Strong team collaboration and leadership mindset: coaching, mentoring, and enabling others as a technical lead.
+Solid, confident use of productivity tools, producing decision-ready outputs.
+Proven experience in Matrix42 ESM (preferred) or comparable ESM/ITSM platforms, including solution design and implementation governance.
+Strong analytical and structured problem-solving skills, including effort estimation, feasibility evaluation, and architectural trade-off decisions..
+NICE TO HAVE:
+ITIL Foundation (or equivalent service management certification/experience).
+TOGAF (or other enterprise architecture framework experience).
+Technical skills that support architectural depth and reviews, such as:
+JavaScript (customizations / scripting / portal & workflow context)
+MS SQL (data model understanding, analysis, reporting context)
+API-based integrations (REST, auth patterns, integration troubleshooting)
+Willingness to travel occasionally for on-site workshops and key project phases.
+What we offer
+As a Senior Enterprise Architect at Matrix42 Professional Services, you are responsible for the end-to-end architecture and solution design of Matrix42 Enterprise Service Management (ESM) initiatives. You translate customer goals into robust target architectures, lead architectural decision-making, and ensure technical excellence across delivery. You act as a technical leader and coach, enabling consultants and solution architects to deliver consistent, scalable, and supportable solutions.
+As part of the Professional Services Organization (PSO), you operate at the intersection of business advisory, process design, and technical architecture. You lead architectural workshops, drive the solution conception from discovery to implementation blueprint, and provide guidance on complex configurations, integrations, and customizations beyond standard capabilities when required.
+You define and approve work packages, provide effort and feasibility assessments, and de-risk delivery through proactive governance and troubleshooting for complex challenges. You communicate architecture clearly to multiple audiences (C-level to admins), including decision-ready slide decks and documentation. Additionally, you actively contribute to team enablement through coaching, knowledge transfer, and training (e.g., Matrix42 Academy formats or customer-specific enablement).
+Our Benefits
+We could tell you about the 30 vacation days, or that self-managed, flexible hours and remote work are part of the deal. But honestly? That's just standard.
+Here's what makes working with us extra special:
+Work from (almost) anywhere– Take your job with you on a workation and get inspired by new places.
+Time for growth– A career framework to support your professional and personal growth with up to 6 extra days off per year for your development.
+Social Day– One paid day per year to give back: volunteer, support a cause, or attend an environmental event.
+Bike leasing– Stay fit and sustainable.We'll handle the contract and insurance.
+Pick your perk– Choose the benefit that fits your life best: fitness membership, public transport pass, retirement plan, or a monthly bonus.
+Hybrid work is a natural part of how we operate, but we also believe in the power of coming together. That's why we regularly connect in the office - whenever it makes sense.
+And that's just the beginning. Ask us what else is waiting for you!
+Company info
+Our ambition is to be the European choice in service management!
+By using our platform, customers can manage IT and business processes, assets, endpoints, and identities for improved productivity, agility, security, and employee experience. By enabling digital working environments and IT self-service through holistic integration and automated processes, we digitalize and automate our customers' everyday tasks. Join our diverse team of 600 professionals spread across Europe.
+Our high performers culture is built on strong values (We love customers, Make it happen, Better every day, With respect), with customer success as our top priority. We support your personal and professional growth, helping you reach your full potential through personalized goals. Join us on a journey where you can thrive in both your career and life.
+We are committed to building an inclusive and diverse workplace, and we welcome applications from all individuals, regardless of gender, age, disability, ethnic or social origin, religion or belief, sexual orientation, or identity.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

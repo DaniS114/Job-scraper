@@ -1,0 +1,92 @@
+Cég neve
+Accenture Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+BACKEND
+TESTING
+CLOUD
+DATABASE
+SQL
+NOSQL
+API
+FRONTEND
+DEVOPS
+SECURITY
+DOCKER
+ACCESS
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+BACKEND
+TESTING
+CLOUD
+DATABASE
+SQL
+NOSQL
+API
+FRONTEND
+DEVOPS
+SECURITY
+DOCKER
+ACCESS
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Architect, build and maintain backend services and APIs using Python and web frameworks such as Flask or Django (or comparable)
+Design and implement RESTful APIs / microservices, ensuring clean, maintainable, and efficient code, adhering to best practices (coding standards, documentation, testing)
+Work closely with data‑science or ML/AI teams to integrate AI/ML models into production: build services that consume model outputs, manage inference pipelines, and support data‑driven features
+Deploy and maintain AI/ML‑enabled applications and backend services using modern infrastructure: containers, cloud or on-prem environments, CI/CD pipelines, and orchestration tools
+Optimize system performance, reliability, and scalability — including database design/management (SQL or NoSQL), API performance, asynchronous tasks, background jobs, caching or message‑queue integration
+Collaborate with cross-functional teams (frontend, data scientists, product, DevOps) to gather requirements, translate them into technical solutions, and deliver features end‑to‑end
+Ensure code quality, apply testing (unit, integration), participate in code reviews, maintain documentation and enforce best practices for maintainability and security
+Requirements
+Strong professional experience (e.g. 5+ years) developing backend services in Python at a senior level
+Deep expertise with Flask or Django (or comparable) — building and maintaining production‑grade web applications / APIs
+Solid understanding of RESTful API design, microservices architecture, database design (SQL or NoSQL), ORM frameworks or direct SQL, and data‑handling best practices
+Familiarity with deployment practices: containerization (Docker), cloud services or infrastructure‑as‑code, CI/CD pipelines, testing, continuous integration and delivery
+Strong coding practices: writing clean, modular, well‑tested, efficient, and maintainable code (adhering to standards such as PEP8 / SOLID / design patterns)
+What we offer
+Participation in full-cycle and diverse international projects
+Opportunity to work as a specialist or manager/team lead
+Constant career development with internal mentorship
+Access to a whole set of learning platforms, paid certifications
+Flexible working conditions, home working is allowed
+Attractive base salary & Wide range of benefits included cafeteria, bonuses, private health insurance package, life insurance, AYCM sport card, referral bonus, family-oriented benefits, company shares on a discount price
+Company info
+Accenture is a leading global provider of a broad range of professional services in strategy and consulting, interactive marketing, information technology and business operations services, with digital capabilities in all of these areas. With more than 800,000 employees worldwide, we serve clients in more than 120 countries.Accenture globally has ranked 4th on the Great Place to Work® World’s Best Workplaces™.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,73 @@
+Cég neve
+IT Security Schweiz AG
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+As a Senior Data Warehouse Engineer, you will take ownership of our Data Warehouse architecture and SQL cluster environments, including re-engineering initiatives and production rollouts. You will play a key role in ensuring stability, scalability, and performance of our business-critical systems.
+Your Responsibilities
+Design, development, and continuous improvement of the Data Warehouse environment
+Development and optimization of ETL processes
+Administration and operation of complex SQL cluster environments
+Re-engineering and modernization of existing SQL cluster architectures
+Planning and execution of SQL cluster migrations
+Responsibility for go-live planning and production deployment
+Ensuring high availability, performance, and operational stability
+Implementation of backup and disaster recovery strategies
+Implementation of data anonymization concepts in compliance with regulations
+Processing and integration of XML structures and related services
+Close collaboration with business stakeholders to translate business processes into technical data models
+Requirements
+Strong hands-on experience with
+Oracle Database
+Microsoft SQL Server
+Proven experience with SQL Server Clustering (Failover Cluster, Always On Availability Groups)
+Experience in SQL cluster re-engineering and system optimization
+Solid experience in PSQL (PostgreSQL)
+Strong ETL expertise
+Experience with dimensional data modeling (Star Schema, Snowflake)
+Good knowledge of XML technologies (XSD, XSLT, SOAP/REST)
+Experience in data anonymization and regulatory compliance
+What We Expect
+Strong process understanding and analytical thinking
+Experience in complex migration and transformation projects
+Structured and solution-oriented working style
+High ownership and accountability
+Professional communication skills in English
+What we offer
+Opportunity to join a growing Swiss company expanding in Hungary
+Responsibility for business-critical infrastructure
+Modern technical environment
+Long-term career perspective
+Competitive compensation package
+Company info
+A Swiss expanding company with growing operations in Hungary is seeking an experienced and highly skilled Senior Data Warehouse Engineer to strengthen our data and database architecture capabilities.
+We operate in a demanding, high-availability environment where performance, security, and reliability are critical. As part of our continued growth, we are investing in modernizing and optimizing our SQL and Data Warehouse landscape.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

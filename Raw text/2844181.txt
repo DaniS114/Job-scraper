@@ -1,0 +1,74 @@
+Cég neve
+BC.HU Informatikai Kft.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SQL
+POSTGRESQL
+HTML
+CSS
+JAVASCRIPT
+BOOTSTRAP
+PHP
+LINUX
+API
+DOCKER
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+SQL
+POSTGRESQL
+HTML
+CSS
+JAVASCRIPT
+BOOTSTRAP
+PHP
+LINUX
+API
+DOCKER
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Web alapú vállalatirányítási rendszer fejlesztése
+Csak és kizárólag a fejlesztéssel foglalkozni
+Elvárások
+Perl (vagy más hasonló programozási nyelv igen alapos ismerete és nyitottság a tanulásra)
+SQL (preferáltan PostgreSQL)
+HTML + CSS alapszintű ismerete
+Előnyt jelent a következők ismerete: Subversion, Javascript, Bootstrap, PHP (de nem fog kelleni PHP kódot írni), Linux (legalább felhasználói szinten), kereskedelmi és logisztikai folyamatokban való jártasság, angol nyelv ismerete legalább dokumentáció értés szinten
+Nem követelmény a sok éves szakmai tapasztalat valamint a szakirányú végzettség, ezeknél sokkal fontosabb a jó logika és megfelelő hozzáállás
+Előnyt jelent
+Nem egymást keressük, ha a csocsóasztal meg a csapatépítésnek nevezett erőltetett bohóckodás fontosabbak, mint a normális munkahely, a családias, közvetlen légkör, rugalmasság minden tekintetben, Nem keresünk jobhopperekre, munkahely helyett csak rövid projektekben gondolkozókra, Nem keresünk API huszárokat és docker konténer vitézeket, akik akár 10-20 sornyi kódolás helyett a felhőben fellelhető ismeretlen, ámde a Facebookon túlhype-olt hangzatos nevű puzzle darabokból összegányolt valamit alkotnak, amelyek a dependency hell miatt előbb-utóbb irányíthatatlanul összeomlanak, Nincsenek hétvégi munkák és éjszakai túlórázások az észszerűtlen határidők miatt, Nem ugrálunk minden évben az aktuálisan legújabb és istenített legjobbnak kikiáltott keretrendszerekre, hogy aztán állandóan csak a következőre kelljen átállni, ellenben van egy kiforrott, jól használható, saját, objektumorientált millió kódsoros világunk, Emiatt a tanulási görbe nem olyan meredek, de hosszú távon sokkal jobbnak és stabilabbnak tűnik ez az út, Az AI használata jó dolog, de jól kell tudni használni, mert a „vibe-coding” az nem a mi fejlesztéseinkhez való, Kezdő és gyakornok jelentkezését is várjuk, Nem idegen tőlünk az esti- vagy levelező egyetem/főiskola melletti munkavégzés, ilyenkor az elvégzendő feladatok mennyisége fordítottan arányos a vizsgaidőszakok nehézségével és terheltségével
+Amit kínálunk
+Munkavégzés helye: Tetszés szerint vagy Budapest, XV. kerületi légkondicionált iroda, vagy távmunka, vagy akár vegyesen is lehetséges
+Az irodára jellemző a jó tömegközlekedés, saját zárt udvaron levő parkoló, kerékpáros közlekedés esetén zuhanyzási lehetőség
+Főállású alkalmazott, hosszú távra keresünk kollégákat
+Nincsenek hétvégi munkák és éjszakai túlórázások az észszerűtlen határidők miatt
+Nem kell az ügyfelekkel kommunikálni, szervert karbantartani, projekteket menedzselni
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Álláshirdetés jelentése

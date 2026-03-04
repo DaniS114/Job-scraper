@@ -1,0 +1,91 @@
+Cég neve
+Accenture Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DYNAMICS
+C
+AZURE
+CLOUD
+TESTING
+SQL
+CRM
+HTML
+CSS
+JAVASCRIPT
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Cafeteria
+Teljes
+munkaidő
+Általános
+munkarend
+DYNAMICS
+C
+AZURE
+CLOUD
+TESTING
+SQL
+CRM
+HTML
+CSS
+JAVASCRIPT
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Develop and customize Microsoft Dynamics 365 applications using C#/.NET and Power Platform tools
+Build integrations between Dynamics 365 and Azure services (Logic Apps, Functions) as part of a modern cloud architecture
+Support the migration from Salesforce to Dynamics 365 — helping to unify global customer data and business processes
+Work closely with senior developers and solution architects to design clean, scalable solutions aligned with best practices
+Participate in code reviews, testing, and CI/CD pipeline activities to ensure high-quality deliverables
+Troubleshoot and optimize Dynamics plugins and SQL queries to improve system performance
+Requirements
+2–5 years of experience in Microsoft Dynamics 365 development or similar CRM platforms
+Confident with C# /.NET, web development (HTML, CSS, JavaScript) and understand object-oriented principles
+Hands-on experience or strong interest in Azure Functions, Logic Apps, and CI/CD pipelines
+Comfortable communicating in English and working in a multicultural team environment
+Knowledge of data migration tools (SSIS, KingswaySoft, Scribe) is a bonus but not mandatory
+What we offer
+Be part of a global digital transformation — delivering modern Microsoft 365 and Dynamics solutions for international enterprise clients
+Gain real-world exposure to Azure Cloud, Power Platform, and modern integration tech
+Hybrid work setup – join us in the Budapest office and work remotely when you need focus
+Learn directly from senior Dynamics developers and architects through mentoring and certification support
+Long-term project stability combined with the variety of consulting work — each day brings new technical challenges
+Work with friendly, international colleagues who value collaboration and continuous learning
+Cafeteria - Budget for benefits based on your choice
+Refer-a-Friend - get a bonus in the employee referral program
+Flexible working arrangements (Flex-work, Home Office)
+Wide range of leading-edge trainings (including language courses)
+AYCM card
+Family oriented benefits
+Company info
+We work with one shared purpose: to deliver on the promise of technology and human ingenuity. Every day, more than 775,000 of us help our stakeholders continuously reinvent. Together, we drive positive change and deliver value to our clients, partners, shareholders, communities, and each other.
+We believe that delivering value requires innovation, and innovation thrives in an inclusive and diverse environment. We actively foster a workplace free from bias, where everyone feels a sense of belonging and is respected and empowered to do their best work.
+At Accenture, we see well-being holistically, supporting our people’s physical, mental, and financial health. We also provide opportunities to keep skills relevant through certifications, learning, and diverse work experiences. We’re proud to be consistently recognized as one of the World’s Best Workplaces™.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

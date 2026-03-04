@@ -1,0 +1,104 @@
+Cég neve
+High Tech Engineering Center Kft.
+Munkavégzés helye
+1052, Budapest, Szervita tér 8.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C
+JAVA
+API
+TESTING
+SELENIUM
+POSTMAN
+GIT
+CUCUMBER
+JIRA
+DOCKER
+PYTHON
+JAVASCRIPT
+JUNIT
+INTELLIJ
+HTML
+CSS
+VIRTUALIZATION
+CYPRESS
+MAVEN
+JMETER
+JENKINS
+SVN
+TROUBLESHOOTING
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C
+JAVA
+API
+TESTING
+SELENIUM
+POSTMAN
+GIT
+CUCUMBER
+JIRA
+DOCKER
+PYTHON
+JAVASCRIPT
+JUNIT
+INTELLIJ
+HTML
+CSS
+VIRTUALIZATION
+CYPRESS
+MAVEN
+JMETER
+JENKINS
+SVN
+TROUBLESHOOTING
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Write and maintain clean, reusable, high-quality scripts that test product functionality automatically
+Contributing to bug finding and error reporting
+Contributing to the continuous improvement of automation frameworks/tools
+Preparing detailed test reports
+Take part in brainstorming to come up with new ideas and designs that improve existing features
+Requirements
+5+ years minimum of experience in Quality Assurance Automation (JavaScript, Typescript, Python, Java or C#)
+Experience with Selenium, Playwright, Nightwatch, TestNG, RestAssured, Gson, Awaitility, Allure
+Experience with API/UI testing frameworks (RestAssured, Selenium, WebdriverIO, Cucumber, Cypress, Jasmine, Mocha, Jest…)
+Familiar with DB concepts and can write queries
+Proficient in using various tools, such as Maven, JUnit, TestNG, Postman, JMeter
+Experience with Continuous integration tools (Jenkins, GitHub Actions, TeamCity, Bamboo)
+Experience working with JIRA
+Knowledge of SDLC, Quality Standards, Best Practices
+Comfortable with using version control systems like Git, SVN
+Experience with IntelliJ IDE or any IDE for automation scripting
+Basic knowledge of HTML and CSS
+Excellent English verbal and written language skill
+Nice-to-have
+Excellent analytical and troubleshooting skills, Deep understanding of application functions and testing processes, Strong attention to detail, Good time management and organizational skills, BSc degree in Computer Science or similar education (nice to have), Experience in native mobile app testing (nice to have), Experience in setting up test frameworks for enterprise solutions (nice to have), Implementing QA in a CI/CD pipeline (nice to have), Experience in non-functional testing (Load, Stress, Performance, Pen testing) (nice to have), Experience in IoT ecosystems (nice to have), Experience in virtualization tools such as Docker and Kubernetes (nice to have)
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Tester,
+Test Engineer
+Budapest
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,101 @@
+Cég neve
+Supercharge Kft.
+Munkavégzés helye
+Szeged
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+JAVA
+KOTLIN
+SPRING
+SQL
+NOSQL
+DATABASES
+CLOUD
+AWS
+DEVOPS
+ACCESS
+REST
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+JAVA
+KOTLIN
+SPRING
+SQL
+NOSQL
+DATABASES
+CLOUD
+AWS
+DEVOPS
+ACCESS
+REST
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Supporting the development of a stable and scalable Kotlin and Spring Boot back-end from the ground up
+Collaborate closely with our Customer Support (L1) and Infrastructure Support (L2) teams to efficiently manage escalations- helping identify, troubleshoot, and resolve operational issues that keep our clients running smoothly
+Participate in a rotating on-call schedule to ensure reliable 24/7 client support paired with appropriate compensation for your time and expertise
+Crafting code that adheres to the highest industry standards while ensuring seamless integration with our Cl tools
+Collaborating effectively within a dynamic team environment on exciting, cutting-edge tech initiatives while working closely with fellow engineers and supporting Tech Leads and Architects
+Bringing an architectural perspective to the planning process
+Guiding and mentoring junior developers to support their professional growth
+Requirements
+5+ years of experience in Java ecosystem, familiarity with Java 17, 21
+Deep understanding of Spring Boot
+Experience with an observability platform (Grafana / LGTM or ELK stack or NewRelic)
+Proven ability to troubleshoot under pressure, quickly identify root causes, recommend impactful solutions, and ensure thorough follow-through
+Hands-on experience with SQL or NoSQL databases (Postgres, Redis)
+Experience with Kubernetes
+Familiarity with at least one public cloud provider (preferably AWS)
+Familiarity with IaC, such as Terraform, Helm is a plus
+DevOps mindset of continuous improvement by following processes, sharing knowledge, and learning from feedback
+A strong OOP mindset and a commitment to upholding SOLID principles
+A genuine interest in staying up-to-date with the latest industry trends
+A passion for writing clean, maintainable code, adhering to best practices
+Kotlin experience is a huge plus, as this is our choice of language on the JDK
+At least an intermediate level of English language skills since our team operates internationally
+What we offer
+To unleash your full potential, we’re here to help you grow every step of the way with exciting international projects, access to inspiring conferences, in-house soft skill trainings, and online courses
+We’ll even support your English classes, and with our skill matrix, you’ll always have a clear path to learn
+To feel your best, your wellbeing truly matters to us
+That’s why we offer health coverage with Medicare and extra sick days for those moments you just need a little rest
+We celebrate milestones with a fully paid month off after five years, offer extra paternity leave for growing families, and provide support through our Employee Assistance Program
+To have a blast, you’ll join a friendly team of 200+ people, all passionate about building amazing digital products
+Whether it’s our Summercharge festival, a football match, quiz night, or just grabbing a drink with teammates, there’s always something to look forward to
+And with our buddy system, you’ll feel part of the team from day one
+To brighten your day, our dog-friendly office in the heart of Szeged is filled with good vibes, great coffee, tasty snacks (yes, including Túró Rudi!), and cozy corners to relax, connect, or have a little fun when you need a break
+You’ll also have a yearly personal budget and a company library to keep your curiosity growing
+Company info
+Our vision is simple yet powerful: we want to create a place where engineers thrive, taking on exciting projects and using the latest technologies, free from the shackles of legacy solutions.
+Thanks to the diverse range of industries we work with, our days are never boring: from world-class apps to AR solutions or even programming robots, we’ve got it all covered. We don’t just write code for our screens; rather, we develop impactful products used by millions every day: let them be large-scale public transport applications, leading fintech platforms, or storage solutions contributing to a greener future.
+We are a team of 100+ engineers (Java, JavaScript, Android, iOS, NodeJS and dotnet platforms) and QA engineers with our coding fingers at the ready working on the next big thing. We value openness, modesty, hard work, and simple yet great solutions.
+After focusing on our International expansion for years, we felt that it was time to think locally and open a second office in Hungary, in the vibrant city of Szeged. With its bustling tech and social scene, stunning architecture, and laid-back atmosphere, the city has all that a true Supercharger needs. We are here to create a place where IT professionals can thrive, find international challenges, opportunities to grow, and amazing company culture.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Csongrád
+county
+Szeged
+Álláshirdetés jelentése

@@ -1,0 +1,88 @@
+Cég neve
+Oktatási Hivatal
+Munkavégzés helye
+1122 Budapest, Maros utca 19-21.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+A.net (full-stack) vezetőfejlesztő feladata az Oktatási Hivatal belső fejlesztésű szoftvereinek, fejlesztése, dokumentálása, más fejlesztők támogatása. A pozíció felelősségteljes szakmai munkavégzést igényel csapatban, komplex üzleti, infrastruktúra igények mentén.
+Aktív részvétel belső fejlesztésű alkalmazások elkészítésében, továbbfejlesztésében és karbantartásában.
+Fejlesztési igények technikai értelmezése a feladathoz legjobban illeszkedő szoftver struktúra kialakítása, technológia kiválasztása.
+Unit tesztek, integrációs tesztek készítése a kapcsolódó dokumentáció elkészítésével.
+A fejlesztések minőségének, fenntarthatóságának és hosszú távú működésének biztosítása. A fejlesztő kollégák által készített kódok review-zása.
+Részvétel a fejlesztési irányelvek kialakításában, gondozásában, alkalmazásában.
+Együttműködés szoftvertervezőkkel, szoftvertesztelőkkel és az alkalmazás és infrastruktúra üzemeltetési területekkel.
+Fejlesztő kollégák szakmai támogatása, új technológiák követése, napi használatba illesztésének vizsgálata.
+Fejlesztési folyamatok optimalizálása.
+Fejlesztői szintű szakmai támogatás nyújtása.
+Technológiai környezet:
+Frontend: React.
+Backend: .net
+Adatbázis: Microsoft SQL Server, MySQL.
+Verziókezelés: Gitlab.
+CI/CD és DevOps: Gitlab CI/CD alapú folyamatok.
+Kódminőségellenőrzés: SonarQube
+Ticketing rendszer: Atlassian JIRA
+Elvárások
+Legalább 5 év releváns szakmai tapasztalat szoftverfejlesztési területen.
+Magabiztos C# / .NET / React ismeretek.
+SOAP, REST API-k implementációjában szerzett tapasztalat.
+MSSQL / MySQL ismeretek.
+Agilis szemlélet, önálló és felelősségteljes munkavégzés.
+Hatékony együttműködés csapatban.
+büntetlen előélet, cselekvőképesség, magyar állampolgárság.
+Előnyt jelent
+Angular, Blazor, DÁP Design System tapasztalat.
+Kubernetes tapasztalat.
+Amit kínálunk
+megfelelő és stabil fizetés;
+heti 40 órás, teljes munkaidős határozott idejű munka törvénykönyve szerinti alkalmazotti munkaviszony;
+fiatal, családias hangulatú, barátságos csapat;
+szakmai fejlődési lehetőség;
+nyugodt munkakörnyezet;
+jól megközelíthető, színvonalas iroda, modern munkaeszközök;
+AYCM sportpass igényelhető.
+Céginformáció
+Az Oktatási Hivatal egyszerre van jelen a köznevelési és a felsőoktatási intézmények életében, a diákok továbbtanulásánál – működésével a hazai képzés minden területét hatékonyan a hallgatók tanulmányaiban, illetve a nyelvvizsgázók vagy a pedagógiai továbbképzéseken részt vevő tanárok ügyeinek intézésénél fogja össze.
+Jelentkezés módja
+Amennyiben ajánlatunk felkeltette érdeklődését, kérjük, küldje
+magyar
+nyelvű önéletrajzát a bruttó fizetési igény megjelölésével!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

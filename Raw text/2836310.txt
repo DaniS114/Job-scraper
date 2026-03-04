@@ -1,0 +1,107 @@
+Cég neve
+Tech People Hungary Kft.
+Munkavégzés helye
+Budapest, XIII. kerület
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Vállalkozói
+Általános munkarend
+Elvárt technológiák
+FRONTEND
+JAVA
+SPRING
+SQL
+GIT
+MAVEN
+AGILIS
+BACKEND
+DOCKER
+REST
+KOTLIN
+NOSQL
+LINUX
+UNIX
+OpenApi
+Microservice
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Vállalkozói
+Általános
+munkarend
+FRONTEND
+JAVA
+SPRING
+SQL
+GIT
+MAVEN
+AGILIS
+BACKEND
+DOCKER
+REST
+KOTLIN
+NOSQL
+LINUX
+UNIX
+OpenApi
+Microservice
+Angol
+középfok
+5-10
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Feladatok
+Banki alkalmazás fejlesztés csapatban
+Részfeladatok önálló megoldása, csapattal is együttműködés
+Proaktív ötletekkel hozzájárulni az optimális megoldások megtalálására esetleg tervezési feladatokban való részvétel
+Junior kollegák segítése
+Architect feladatokban is esetleges részvétel
+Elvárások
+5+ év JAVA
+Spring boot
+back end fejlesztői tapasztalat, magabiztos önálló munkavégzési képesség
+Java programozói tapasztalat 8+ év (Java 11)
+NoSQL vagy SQL,
+Maven vagy Gradle,
+CI/CD ismerete, GIT
+Microservice
+fejlesztési tapasztalat
+OpenAPI,
+REST ismerete
+Strukturált gondolkodás, önálló problémamegoldó képesség
+Pontos, precíz munkavégzés, csapatmunkára való képesség
+Informatikai angol nyelv ismerete
+Előnyt jelent
+Aszinkron /reaktív
+fejlesztési tapasztalat
+Akka, Cassandra, Gradle
+Kotlin fejlesztési tapasztalat
+Docker, Openshift
+Agilis hozzáállás, fogékonyság az új technológiák, ismeretek iránt
+Tapasztalat olyan csapatban, ahol a backend és frontend fejlesztők együtt szállítottak
+banki szektorismeret
+Linux/Unix operációs rendszer felhasználó szintű ismerete
+Folyékony angol nyelvtudás
+Amit kínálunk
+hibrid munkavégzés
+versenyképes bérezés
+Céginformáció
+A Tech People egy európai munkaerő-közvetítő vállalat, mely magasan képzett erőforrásokat, valamint kiszervezett technológiai szolgáltatásokat nyújt különböző iparágak számára.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

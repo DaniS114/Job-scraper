@@ -1,0 +1,42 @@
+Cég neve
+Ärztekasse Genossenschaft
+Munkavégzés helye
+In der Luberzen 1, 8902 Urdorf
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SQL
+APACHE
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SQL
+APACHE
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Data Engineer – Data Warehouse & Re-porting (w/m)Ärztekasse Genossenschaft develops innovative software solutions for health professionals in close collaboration with its partners and suppliers. Our digital services support medical practices across Switzerland with reliable, secure, and efficient solutions in the healthcare domain.As a Data Engineer, you will play a key role in strengthening our reporting landscape by enhancing client-facing reports and providing reliable, insightful data to support both operational processes and strategic business decisions.Our delivery organization is geographically distributed, offering you the opportunity to work closely with interdisciplinary teams located in Urdorf and Geneva. In this role, you will contribute your expertise to data analysis, internal data quality assurance, and the development of intelligent, high-value reports tailored to our clients’ needs. We are looking for an experienced engineer who enjoys turning complex data into meaningful insights and who thrives in a collaborative, multi-site environment.Data Engineer – Data Warehouse & Reporting (w/m)Pensum:%Start: immediately or by appointmentDuration: unlimitedLocation: Zurich area (Urdorf or Geneva)BackgroundOur data warehouse architecture, tooling, and target reporting platform are already defined. We operate an Inmon-style data warehouse architecture with a core (3NF) layer and dimensional layers, using Apache NiFi for ingestion, dbt for transformation, and JMIX reporting as our target reporting platform.The role is created to accelerate implementation and operationalization by taking ownership of concrete development tasks across ingestion, transformation, and reporting enablement.Scope ClarificationThis is an implementation-focused role. The position does not define the overall data warehouse architecture or reporting strategy but executes development tasks within an already agreed architectural and methodological framework.Purpose of the Role:You will actively contribute to the rollout and scaling of our existing data warehouse and reporting platform by implementing data pipelines, transformation logic, dimensional models, and reporting-ready datasets. Your work will directly increase delivery speed and reduce bottlenecks for the existing team.Your ResponsibilitiesImplement and maintain ELT pipelines using Apache NiFi and dbtDevelop transformation routines for the core (3NF) data warehouse structures according to established standards using dbtBuild dimensional models (facts and dimensions) using dbtApply agreed modeling patterns, naming conventions, and loading strategiesImplement data quality checks using dbt tests and support stable daily operationsPrepare reporting-ready datasets and support report implementation using JMIX reportingDevelop maintainable reporting templatesCollaborate closely with existing DWH and reporting leads, taking ownership of assigned backlog itemsRequired ProfileStrong SQL skills and solid understanding of relational databasesPractical experience implementing data warehousesHands-on experience with dbt and data pipelines (Apache NiFi or comparable tools)Comfortable working within defined architectural guidelines and standardsReporting experience is a plus, especially template-based or Jasper-style reportingStructured, quality-oriented working styleVery good English skills (German or French is a plus)What We OfferA meaningful role in the Swiss healthcare sectorA clearly scoped, hands-on engineering role with real impactModern data tooling and established architectureCollaboration in a professional, supportive, and distributed teamFlexible working conditions and long-term perspective within a stable cooperative organizationWe look forward to receiving your application! jid312e020pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Switzerland
+Álláshirdetés jelentése

@@ -1,0 +1,137 @@
+Cég neve
+Állami Számvevőszék
+Munkavégzés helye
+Állami Számvevőszék - Budapest, Apáczai Csere János u. 10, 1051
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Egészségpénztár
+Cafeteria
+Szakmai tréningek
+Munkába járás támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+SQL
+LINUX
+DOCKER
+TESTING
+PHP
+POSTGRESQL
+MYSQL
+HTML
+CSS
+JAVASCRIPT
+LARAVEL
+ADATTÁRHÁZ
+PANDAS
+R
+GIT
+VUE.
+PYTHON
+ANSIBLE
+LEAN
+AGILE
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Felsőoktatási szakképzés
+
+Egészségpénztár
+Cafeteria
+Szakmai
+tréningek
+Munkába
+járás támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+SQL
+LINUX
+DOCKER
+TESTING
+PHP
+POSTGRESQL
+MYSQL
+HTML
+CSS
+JAVASCRIPT
+LARAVEL
+ADATTÁRHÁZ
+PANDAS
+R
+GIT
+VUE.
+PYTHON
+ANSIBLE
+LEAN
+AGILE
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Feladatok
+az Állami Számvevőszék egyedi, PHP 8.x, Laravel 11.x, Livewire, PostgreSQL alapú modern webes alkalmazásainak fejlesztésében való részvétel;
+„full stack”: adatbázis, front- és back-end fejlesztés;
+a kódbázis színvonalának fenntartása automatizált és integrációs tesztekkel;
+fejlesztői dokumentáció készítés;
+együttműködés a társterületekkel.
+Elvárások
+szoftverfejlesztői munkakörben szerzett legalább kétéves tapasztalat és/vagy szakirányú végzettség;
+SQL, HTML, CSS, JavaScript és GIT ismeret.
+Előnyt jelent
+Laravel PHP keretrendszerben szerzett tapasztalat;
+GitLab gyakorlati ismeret;
+MySQL és PostgreSQL-en kívül más adatbázisokkal szerzett tapasztalat;
+Javascript, különösen Alpine.js, Vue.js tapasztalat;
+Tailwind CSS tapasztalat;
+adattárház rendszerek fejlesztésében szerzett tapasztalat;
+docker/docker-compose felhasználói szintű ismeret;
+python adat-analízis könyvtárak (numpy, pandas, stb) és/vagy R nyelv ismerete;
+Playwright web teszt eszköz ismeret;
+Filament PHP framework ismeret;
+Linux felhasználói vagy adminisztrátori ismeretek;
+Ansible vagy SaltStack tapasztalat.
+Amit kínálunk
+egy lendületes, együttműködő, egymást támogató, innovatív csapat szakmai munkájában való részvétel;
+az Állami Számvevőszék modern technológiákkal (docker, CI/CD, automated testing, infrastructure-as-code) és metodológiákkal (Lean, Agile) megvalósuló fejlesztéseiben való részvétel;
+folyamatos szakmai fejlődési, továbbképzési lehetőségek;
+home office munkavégzés és rugalmas munkaidő;
+munkatársak egészségének megőrzését támogató juttatások;
+versenyképes jövedelem, egyéb béren kívüli juttatási csomag.
+Céginformáció
+Az
+Állami Számvevőszék,
+mint Magyarország legfőbb pénzügyi és gazdasági ellenőrző szerve
+informatikai fejlesztőt
+keres szakmai csapatába.
+Jelentkezés módja
+Pályázóink – akiket az önéletrajza alapján megfelelőnek találunk – többkörös interjúkra számíthatnak, amelyekben a szaktudásra és szakmai tapasztalatra kérdezünk rá. A folyamat részeként online tesztet /szakmai feladatot is meg kell oldani.
+Amennyiben egy hónapon belül nem vesszük fel pályázónkkal a kapcsolatot, abban az esetben nem került kiválasztásra.
+A meghirdetett pozícióhoz kapcsolódó jogviszony a
+Munka törvénykönyve hatálya alá tartozó.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

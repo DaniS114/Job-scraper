@@ -1,0 +1,36 @@
+Cég neve
+RUAG AG
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Intern System Engineer - ACAS X (6-months Internship)Every day, around 3,000 employees of RUAG and RUAG Real Estate make as significant contribution to the security of Switzerland. They ensure that the Swiss Armed Forces and other emergency and security organizations can comprehensibly carry out their tasks at all times.Intern System Engineer - ACAS X (6-months Internship)100%EmmenYou can move itContribute to the finalization of ACAS-Xr and ACAS-Xu implementations within RUAG's simulation environment, with the possibility to explore ACAS-sXuTranslate reference implementations provided in Julia into deployable C or C++ code, creating a robust, testable, and safety-aligned software foundationSupport RUAG's DAA system and collaborations with leading aviation partners, laying the groundwork for future certification and operational useGain exposure to the aviation industry and learn how airborne systems are applied in practice while expanding your professional networkShape your own project, make meaningful decisions, and collaborate with colleagues from diverse backgrounds and expertiseWork in a culture that values open discussion, personal initiative, and innovation in safety-critical applicationsWhat you should bring with youExperience in Python and C/C++, knowledge of Julia is a plusBasic knowledge of Git or similar version control systemsFamiliarity with collision avoidance systems is a plus; prior knowledge of the ACAS-X standards is not requiredCreative and solution-oriented mindset with a passion for innovationHigh technical aptitude and strong willingness to learn, especially in modeling and simulation, system theory and algorithms, control engineering, and system architectureAbility to collaborate effectively with the project teamExcellent analytical and planning skills, combined with a high level of responsibility and perseveranceGood command of English; knowledge of German is an assetDo you not fully meet all the requirements? Apply anyway. We are always looking for talented and motivated people to join our team. We place great emphasis on diversity and equal opportunities and aim to build a versatile team where everyone can fully utilize their personal strengths. In particular, we encourage all people, regardless of gender, who may have concerns about accepting a position in a military-related environment to apply.About the field of activityRUAG AG is at the forefront of advanced Detect and Avoid (DAA) systems, ensuring safe operations in Swiss and European airspace. Building on the successful integration of ACAS-Xa into our simulation framework, we are now advancing to the next generation of airborne collision avoidance systems with ACAS-Xr and ACAS-Xu.Your advantagesSalary and fringe benefitsIt is very important to us that our employees find a healthy balance between their professional and private lives. This is why, among other things, we offer flexible working hours and options for working from home.We offer you a performance-oriented salary in line with the market, 13 months' wages as well as generous premiums and bonuses. Together with additional fringe benefits this makes for an attractive overall package.Flexible workBenefitsAt RUAG, you benefit from discounts on transportation and meals. You can also take advantage of attractive offers on our benefits portal and receive fleet discounts from a number of well-known car brands.Career and development opportunitiesWe are committed to developing and realizing the potential of our employees. For this reason, we support them in continuously expanding their skills through training, courses and further education so they can achieve their professional goals.Leisure activitiesWe care about our employees. That is why we give them a day off for their birthday, offer a wide range of sports activities and the opportunity to take additional days off with a pay deduction in addition to their annual vacation entitlement.Your point of contactVerena MathisTalent Acquisition Specialist jid2eaff67pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Engineer
+Mechatronics
+Engineer
+Switzerland
+Álláshirdetés jelentése

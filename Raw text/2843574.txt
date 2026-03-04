@@ -1,0 +1,64 @@
+Cég neve
+ZEISS
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol felsőfok és
+Német felsőfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+felsőfok és Német felsőfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Seeing beyond - future of medical technology
+For more than 100 years, ZEISS medical technology has been driving progress in ophthalmology and microsurgery. In ophthalmology, our solutions help to maintain and improve people's vision at every stage of their lives. In microsurgery, our solutions enable targeted interventions on diseased tissue so that small and sensitive organs continue to function optimally.
+Medical technology from ZEISS supports medical professionals in improving the lives of patients worldwide. The fact that our actions have a direct impact on people's well-being is what drives us every day.
+You will develop embedded software for innovative medical devices used in ophthalmology applications..
+Your Role
+You will specify, design, realize, and verify modular embedded software solutions for innovative medical devices in the field of ophthalmology, ensuring high performance and reliability
+You will build on and expand our Zephyr-based embedded software platform integrating open-source elements where suitable
+Work closely with hardware engineers and other cross-functional teams to integrate software with hardware components and ensure seamless functionality in an agile way
+Write clean, maintainable, and efficient code while adhering to best practices in software development
+Participate in code reviews and contribute to the continuous improvement of our codebase
+Develop and execute tests to verify embedded software functionality, performance, reliability and compliance with regulatory standards incl. cybersecurity
+Create and maintain comprehensive documentation for software design, implementation, and testing processes to ensure clarity and compliance with industry standards
+Stay updated with the latest trends and technologies in embedded systems and software development and apply this knowledge to continuously enhance our products.
+Requirements
+Educational Background: University degree in software engineering, computer science, electrical engineering, or a comparable field
+Demonstrated several years of professional experience in developing embedded software with a strong understanding of embedded systems architecture and design, ideally within a regulated industry, preferably medical devices
+Proficiency in relevant programming languages (C, Python) as well as modern software development methodologies and CI/CD tools (e.g. GitHub, Azure DevOps, Jira, Axivion) and strong knowledge of Linux-based real-time operating systems (preferably Zephyr) and experience with microcontrollers and communication protocols (CAN, CAN-FD, TLS)
+Understanding relevant standards and regulations, especially IEC 62304
+You have good communication skills, experience in managing a diverse group of stakeholders and enjoy working with international and diverse teams
+Strong analytical and problem-solving abilities, with a focus on delivering high-quality software solutions
+Business fluent in English and German, both written and spoken
+Company info
+Step out of your comfort zone, excel and redefine the limits of what is possible. That's just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Healthcare,
+Pharmaceutical Industry
+Healthcare
+Specialist
+Germany
+Álláshirdetés jelentése

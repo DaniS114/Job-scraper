@@ -1,0 +1,99 @@
+Cég neve
+EF Information Services Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CRM
+SECURITY
+CLOUD
+REST
+TESTING
+API
+ACCESS
+JAVASCRIPT
+HTML
+XML
+JSON
+AWS
+AZURE
+DEVOPS
+TROUBLESHOOTING.
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CRM
+SECURITY
+CLOUD
+REST
+TESTING
+API
+ACCESS
+JAVASCRIPT
+HTML
+XML
+JSON
+AWS
+AZURE
+DEVOPS
+TROUBLESHOOTING.
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Partner with Product Owners, project managers, and stakeholders to translate business needs into well-designed CRM capabilities.
+Build and enhance Salesforce solutions using Apex, Lightning Web Components (LWC), and Flow-first automation.
+Design and implement scalable Salesforce applications across Sales Cloud and Service Cloud (and optionally Experience Cloud).
+Deliver reliable releases using modern Salesforce delivery practices: Salesforce DX, scratch orgs, source-driven development, and CI/CD pipelines.
+Implement integrations with internal services and third-party vendors using APIs (REST/SOAP) and modern event-driven patterns such as Platform Events, Change Data Capture, and the Pub/Sub API.
+Write high-quality, testable code (Apex unit tests, LWC testing practices), troubleshoot defects, and continuously improve performance and stability.
+Maintain strong standards for security, data quality, and operational integrity (including secure integration patterns and least-privilege access).
+Produce clear technical documentation and enablement materials to support admins, support teams, and ongoing platform adoption.
+Requirements
+4+ years of hands-on experience as a Salesforce Developer; 6+ years working with the Salesforce platform overall.
+Strong experience with Apex, SOQL, JavaScript, and Lightning Web Components (LWC).
+Working knowledge of Salesforce platform capabilities across Sales Cloud and/or Service Cloud.
+Experience delivering via Salesforce DX (source control, scratch orgs/sandboxes) and CI/CD.
+Competency with web and integration fundamentals: HTML, XML/JSON, REST/SOAP, and general API troubleshooting.
+Strong communication skills; able to explain technical trade-offs to non-technical stakeholders.
+Familiarity developing on or integrating with other cloud platforms (e.g., AWS or Azure).
+Salesforce Platform Developer I certification (required).
+Nice-to-have
+Preferred (nice-to-have) skills: Experience Cloud, Omni-Channel patterns, or industry solutions; Event-driven integration experience; DevOps Center, Copado/Gearset, quality tooling; Exposure to Data Cloud and/or Agentforce-style AI experiences; Additional Salesforce certifications beyond Platform Developer I (e.g., PDII, Integration Architect, Sales/Service Cloud Consultant).
+What we offer
+Full-Time position
+On-site role in Budapest, Hungary
+Opportunity to work with modern Salesforce technologies and integrations
+Meaningful ownership from day one
+Collaborative delivery team environment
+Travel opportunities to Stockholm, London, Zurich etc.
+Workplace extras
+Canteen
+Corporate events
+Free coffee, soft drinks
+Company info
+EF Education First is a global education company that specializes in language training, educational travel, academic degree programs, and cultural exchange. Founded in 1965, EF operates in over 100 countries and aims to open the world through education by providing innovative learning experiences and fostering global understanding.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

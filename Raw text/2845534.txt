@@ -1,0 +1,87 @@
+Cég neve
+Circonomit GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SQL
+AWS
+CLOUD
+DATABASES
+PYTHON
+DATABASE
+POSTGRESQL
+APACHE
+SPARK
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+SQL
+AWS
+CLOUD
+DATABASES
+PYTHON
+DATABASE
+POSTGRESQL
+APACHE
+SPARK
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+As a Senior Data Engineer, you will partner directly with our CTO to architect the semantic backbone of our platform, taking full ownership of the distributed pipelines and knowledge graph ontologies that bring our mission to life. Join our nerdy, fast-paced team to build the semantic structures that make our mission possible.
+Architect complex data flow solutions, enabling transparent, versioned, and fully auditable computations
+Design the data layer by developing metadata and data lineage models fused by semantic graphs and numerical data
+Develop ontologies to translate abstract domain logic into clear, queryable graph models and vice versa
+Implement robust, scalable processing pipelines for time-, resource-, and cost-based data leveraging distributed systems (e.g., using dbt, dlt, etc.)
+Drive the integration of LLM-driven workflows to automate the transformation of unstructured data into structured knowledge
+Define standards for data integrity, quality, and versioning across various systems and platforms
+Bring extensive practical experience with ELT/ETL processes, data integration platforms, and related tools such as Apache Spark, Apache Flink, Python/Scala
+Drive technical decisions by staying ahead of industry trends in data engineering and language models
+Partner closely with our CTO and product team to identify the highest-ranking product opportunities for leveraging data in decision-making processes
+Requirements
+5+ years of experience building production-grade integrations-heavy data products (e.g., Spark, Flink, Dask, or Ray), preferably in a startup or fast-paced environment
+GitHub or portfolio showcasing your data architecture capabilities, demonstrating work on end-to-end pipelines, semantic models, or complex dependency flows
+Proficiency in programming languages (e.g. Python) for production-grade data systems and expertise in SQL and database modeling (e.g. PostgreSQL)
+A proactive, analytical, and independent working style with a strong sense of ownership and a strong bias for action
+Hands-on experience with cloud infrastructure (AWS, Cloudflare, or similar) and Infrastructure-as-Code tools
+Familiarity with graph databases, ontologies, semantic modeling, and translating abstract domains into structured data models
+Experience with modern data warehousing and data lake concepts, and exposure to LLM-driven data workflows
+English and German proficiency at C1 level or higher
+Already living in or willing to relocate to Cologne, Germany
+What we offer
+You join as part of the core team to shape the technical foundation and story of our company
+We empower you with ownership and decision-making authority to build, test, and lead starting day one
+We ensure you have skin in the game by offering both a competitive salary and a significant equity package
+We fully cover your Urban Sports Club membership because we believe that high performance relies on active recovery
+You have the space to learn and progress quickly, encouraged by the contagious curiosity and ambition of our team
+Can't wait to chat!
+“Hustle the day, analyse at night, reinforce something outstanding” Period.
+Erik & Dana
+Company info
+At Circonomit, we follow the mission to build the strategic twin of organizations. By transforming operational data into clear impact models, we revolutionize how resources are managed.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

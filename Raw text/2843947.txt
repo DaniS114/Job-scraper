@@ -1,0 +1,91 @@
+Cég neve
+SAP SE
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+BACKEND
+PYTHON
+SQL
+CLOUD
+AWS
+AZURE
+ABAP
+@SAP.
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+BACKEND
+PYTHON
+SQL
+CLOUD
+AWS
+AZURE
+ABAP
+@SAP.
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+What you`ll do:
+As an AI Data Engineer for the SAP-RPT model family, you will build and scale the technical foundations that power our AI innovations. You will develop high-quality, end-to-end data pipelines, execute complex data extractions, and engineer the high-value datasets essential for our foundation model research and engineering teams.
+Bridging the technical gap between raw enterprise data and advanced AI research, you will focus on tooling and pipelines for curating and refining data assets to ensure maximum utility and performance. While working hands-on with cutting-edge processing tools, you will ensure every dataset adheres to SAP's unwavering commitment to industry-leading compliance and data integrity. This is the ideal role for a highly technical, detail-oriented individual eager to work at the core of data engineering and contribute to the development of one of the few leading foundation models of European origin.
+The Role:
+Unique opportunity to contribute to the development of the SAP-RPT model family
+Design, develop and manage tools and data pipelines that enable the processing of tabular data at scale
+Extract, clean, enrich and analyze data from various sources, while ensuring its high quality. The data is subsequently processed, enriched, and utilized as training and benchmark data for the Tabular Foundation Model.
+In close partnership with domain experts and application development teams (e.g. from SAP S/4HANA), understand and interpret data, metadata, and other development artifacts.
+Work closely with data scientists to share data insights and specifics, enabling the model to be accurately tailored to enterprise data of SAP's applications.
+Requirements
+Master's degree in Computer Science, Artificial Intelligence, or other relevant disciplines.
+Generic understanding of SAP S/4HANA backend and data model (e.g., VDM, CDS Views, RAP, OData) as well as the Data Dictionary is required.
+Advanced software engineering skills in Python and proficiency in SQL
+Hands-on knowledge in cloud stack (AWS, GCP, or Azure) and handling large-scale data (>1M files; >10TB volume) is a plus
+Experience with data modelling, ABAP, Machine Learning and/or Knowledge Graph technologies (e.g., RDF, SPARQL) is a plus.
+2+ years of professional experience. Strong communication, coordination and collaboration skills, with the ability to work effectively in cross-cultural teams.
+What we offer
+What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+We win with inclusion
+SAP's culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team:
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 448376 | Work Area: Software-Design and Development | Expected Travel: 0 - 10% | Career Status: Professional | Employment Type: Regular Full Time #LI-Hybrid
+Company info
+We help the world run better
+At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong.
+Meet your team:
+SAP is uniquely positioned to lead the next wave of AI by infusing intelligence directly into the business processes that run the world. Our team's mission is to develop Foundation Models for structured data, starting with the launch and continued evolution of SAP-RPT-1. As the first generation of our relational model portfolio, SAP-RPT-1 represents our commitment to pioneering new research in a domain where SAP's expertise in enterprise data structures provides an unmatched competitive edge. We are looking for innovators to join us in this journey to develop next-generation models with even higher impact, bridging the gap between cutting-edge AI research and the complex, structured reality of global enterprise data.
+Bring out your best
+SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

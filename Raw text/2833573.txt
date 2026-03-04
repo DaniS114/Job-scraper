@@ -1,0 +1,60 @@
+Cég neve
+Tech People Hungary Kft.
+Munkavégzés helye
+Budapest, XIII. kerület
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol alapfok
+5-10 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+alapfok
+5-10
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Feladatok
+•    A tesztelési stratégia megvalósítása és folyamatos fejlesztése
+•    Tesztautomatizálási keretrendszer bevezetésének támogatása és működtetése
+•    AI alapú tesztelési megoldások használata (pl. tesztgenerálás, hibadetektálás támogatás, automatizált riporting)
+•    Tesztforgatókönyvek és teszttervek készítése és karbantartása
+•    Szoros együttműködés a fejlesztőkkel, üzleti elemzőkkel, projektmenedzserekkel
+•    Minőségbiztosítási mérőszámok folyamatos monitorozása
+Elvárások
+•    Szakirányú végzettség
+•    Legalább 5 év tapasztalat szoftvertesztelésben, ebből minimum 3 év tesztautomatizálásban szerzett tapasztalat (framework: Cypress / Playwright / Selenium / stb.)
+•    Tesztelési módszertanok ismerete
+•    Agilis fejlesztési környezetben szerzett gyakorlat (Scrum / Kanban)
+•    Kiváló kommunikációs és szervezőkészség
+•    Precizitás, rendszerszemlélet, önállóság
+Előnyt jelent
+•    Korábbi tapasztalat tesztstratégia vagy tesztautomatizálás keretrendszer kialakításában
+•    Tapasztalat AI alapú tesztelési eszközökkel
+•    Jira / Confluence / Xray ismerete
+•    Pénzügyi szektorból származó tapasztalat
+•    ISTQB minősítés
+Céginformáció
+A Tech People egy Európai munkaerő-közvetítő vállalat, mely magasan képzett erőforrásokat valamint kiszervezett IT szolgáltatásokat nyújt különböző iparágak számára.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Tesztelő,
+Tesztmérnök
+Budapest
+Budapest
+Álláshirdetés jelentése

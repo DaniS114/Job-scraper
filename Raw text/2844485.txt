@@ -1,0 +1,85 @@
+Cég neve
+Puppetworks Budapest Produkciós Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+SQL
+JAVA
+SECURITY
+PYTHON
+C++
+C
+GIT
+MVC
+WINDOWS
+LINUX
+AGILE
+Biztosított eszközök
+Windows
+Linux
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+SQL
+JAVA
+SECURITY
+PYTHON
+C++
+C
+GIT
+MVC
+WINDOWS
+LINUX
+AGILE
+Windows
+Linux
+Angol
+középfok
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Writing reusable, testable, and efficient code, mainly in Python
+Mastering the integration of user-facing elements developed by front-end developers with server side logic
+Being a magician of integration of data storage solutions
+Handling security and data protection professionally and precisely
+Tirelessly and collaboratively working to provide technical solutions and for the implementation of new software features
+Requirements
+BA or MA degree in computer science and/or equivalent
+3+ years of programming experience in Python, C++, Java or C#
+Knowledge of Python Programming language
+Knowledge of object-oriented approach and program design patterns
+Knowledge of SQL
+Good understanding of the ORM (Object Relational Mapper) approach
+Solid understanding of server-client communication
+Having experience in using open-source tools
+Interest in computer graphics
+Be able to deliver on schedule, and work calmly and efficiently under pressure
+Good working knowledge of written and spoken English
+Nice-to-have
+Have advanced hands-on knowledge and experience of SQLAlchemy/Django frameworks, Knowledge of Qt Graphic Framework, Agile software development methods, DVCS tools (Git, Mercurial), Experience in MVC desktop GUI development, multi-threaded programs development, cross-platform development (Windows, OSX, Linux), Good working knowledge of written and spoken Hungarian
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

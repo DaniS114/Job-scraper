@@ -1,0 +1,83 @@
+Cég neve
+GITMAX IT Services Zrt.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NETWORK
+API
+MYSQL
+TESTING
+TROUBLESHOOTING
+INCIDENT MANAGEMENT
+REST
+JIRA
+CONFLUENCE
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+NETWORK
+API
+MYSQL
+TESTING
+TROUBLESHOOTING
+INCIDENT
+MANAGEMENT
+REST
+JIRA
+CONFLUENCE
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Administer and configure liquidity hubs (OneZero, PrimeXM, Centroid, FXCubic, etc.) to ensure continuous uptime and performance.
+Manage client onboarding processes, including setup via FIX, MT4/MT5, and give-up (dropcopy) connectors.
+Monitor client operations, route profiles, and configure risk parameters.
+Handle setup, recovery, and escalation procedures during incidents.
+Perform account reconciliation between coverage and margin accounts.
+Resolve compensation cases and support emergency troubleshooting.
+Communicate directly with clients, internal teams, and back-office specialists to provide technical assistance.
+Generate and maintain operational reports (volume, reconciliation, custom).
+Provide real-time monitoring and incident management during night hours.
+Requirements
+2+ years of experience as a System Administrator or L2 Support Engineer.
+Proven experience administering and troubleshooting FIX, MT4/MT5, and give-up (dropcopy) connectors.
+Proven experience troubleshooting network-level issues (TCP/IP, traceroute, telnet).
+Solid understanding of FIX protocol and connectivity troubleshooting.
+Experience handling compensation cases and emergency escalation procedures.
+Strong communication skills in English (written and spoken).
+Ability to work independently during night shifts (17:00–05:00 GMT).
+Experience with monitoring systems (e.g., Zabbix) (Nice to Have).
+Familiarity with REST API, RabbitMQ, and related troubleshooting (Nice to Have).
+Basic knowledge of MySQL for report generation and reconciliation tasks (Nice to Have).
+Experience performing API conformance testing (Maker/Taker for OZ, PrimeXM) (Nice to Have).
+Previous use of Jira, Confluence, and Slack in a support environment (Nice to Have).
+What we offer
+Full-time position
+Remote work
+Night-shift position (17:00–05:00 GMT)
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Regionális
+Álláshirdetés jelentése

@@ -1,0 +1,66 @@
+Cég neve
+Rohde & Schwarz GmbH & Co. KG
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+TESTING
+GIT
+DEBUGGING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+TESTING
+GIT
+DEBUGGING
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+- Design, develop, and maintain software components and automation tools with a strong focus on Python development and object‑oriented programming (OOP) principles.
+- Contribute to building and improving internal applications, scripting solutions, and automation workflows to support engineering and testing activities.
+- Implement clean, maintainable, and well‑structured code following best software development practices.
+- Troubleshoot software issues, perform debugging, and support continuous improvement of existing tools.
+- Collaborate with cross‑functional teams to understand requirements, propose technical solutions, and support integration of developed tools.
+- Participate in research and prototyping of new automation capabilities or software modules.
+- Create and maintain clear technical documentation for developed applications and automation processes.
+Requirements
+- Ongoing Bachelor's or Master's degree in Computer Science, Software Engineering, Information Technology, or a related field.
+- This position is offered exclusively as a mandatory internship according to the study regulations, with a minimum duration of 6 months.
+- Solid understanding of object‑oriented programming concepts and experience applying them in practical projects.
+- Strong programming skills in Python, including familiarity with modules, package structures, and development best practices.
+- Good understanding of software development workflows and version control systems (e.g., Git).
+- Strong analytical and problem‑solving abilities with high attention to detail.
+- Ability to work collaboratively within a team and communicate effectively across technical and non‑technical stakeholders.
+What we offer
+You can expect very good payment, excellent terms and outstanding opportunities for growth and development. We will also be happy to help you find a room. We have a number of favorably priced accommodations at our disposal. A combination of voluntary and mandatory internships is possible.
+Company info
+At Rohde & Schwarz, we develop and produce solutions in the fields of Test & Measurement, Technology Systems, and Networks & Cybersecurity – driven by the vision of a safer and connected world. From software to final production, our more than 15,000 employees create products and systems that set global standards and enable technological sovereignty for industrial, regulatory, and government customers worldwide.
+Our headquarters, located in the heart of Munich, also serves as our main development site.
+Join our Software Development Division in München (Germany) at the earliest possible date.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

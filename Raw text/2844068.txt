@@ -1,0 +1,109 @@
+Cég neve
+Accenture Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+CLOUD
+NODE.JS
+JAVASCRIPT
+AWS
+API
+FRONTEND
+TESTING
+DEVOPS
+SECURITY
+ACCESS
+DOCKER
+REACT.
+AGILE
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+CLOUD
+NODE.JS
+JAVASCRIPT
+AWS
+API
+FRONTEND
+TESTING
+DEVOPS
+SECURITY
+ACCESS
+DOCKER
+REACT.
+AGILE
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, develop, and maintain scalable backend services using Node.js, JavaScript, and TypeScript.
+Build secure and performant RESTful APIs and microservices architecture.
+Contribute to system architecture discussions and lead technical decision-making.
+Apply Test-Driven Development (TDD) and maintain high test coverage across all deliverables.
+Write clean, maintainable, and well-tested code using frameworks such as Jest or Mocha.
+Deploy and manage applications using AWS services (Lambda, API Gateway, DynamoDB, S3, ECS).
+Implement CI/CD pipelines using AWS CodePipeline, CodeBuild, or similar tools.
+Integrate software with monitoring and support tools for operational excellence.
+Collaborate with product managers, QA engineers, and frontend developers to deliver high-quality features.
+Participate in agile planning, pair programming sessions, and retrospectives.
+Troubleshoot and resolve issues in development, testing, and production environments.
+Maintain clear technical documentation and promote engineering best practices.
+Requirements
+5+ years of professional experience in backend development with Node.js and JavaScript/TypeScript.
+Strong experience designing and consuming RESTful APIs and microservices.
+Hands-on experience with AWS cloud services, especially Lambda, API Gateway, DynamoDB, and S3.
+Familiarity with serverless frameworks and Infrastructure as Code (IaC) tools such as AWS CDK or CloudFormation.
+Proficiency with CI/CD pipelines and modern DevOps practices.
+Strong understanding of security, scalability, and performance in backend systems.
+Excellent problem-solving skills, attention to detail, and communication abilities.
+Nice-to-have
+Knowledge of GraphQL, WebSockets, or event-driven architecture., Experience with Identity and Access Management (IAM), OAuth2, and OpenID Connect., Exposure to Docker, Kubernetes, and monitoring tools like CloudWatch, Prometheus, or Datadog., Familiarity with mobile app development lifecycle and front-end frameworks such as React., Background in Agile methodologies and working in cross-functional squads.
+What we offer
+Participation in full-cycle and diverse international projects
+Flexible working conditions, home working is allowed
+Attractive base salary & wide range of benefits including cafeteria, bonuses, private health insurance package, AYCM sport card, family-oriented benefits, company shares on a discount price
+Opportunity to work as a specialist or manager/team lead
+Chance to leading-edge functional and technical trainings
+Access to a whole set of learning platforms
+Constant career development with personalized internal mentorship
+Cafeteria - Budget for benefits based on your choice
+Refer-a-Friend - get a bonus in the employee referral program
+Flexible working arrangements (Flex-work, Home Office)
+AYCM card
+Family oriented benefit
+Company info
+Accenture is a leading global provider of a broad range of professional services in strategy and consulting, interactive marketing, information technology and business operations services, with digital capabilities in all of these areas. With more than 800,000 employees worldwide, we serve clients in more than 120 countries.Accenture globally has ranked 6th on the Great Place to Work® World’s Best Workplaces™.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

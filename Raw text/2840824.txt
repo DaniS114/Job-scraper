@@ -1,0 +1,108 @@
+Cég neve
+MEDIAN Unternehmensgruppe B.V. & Co. KG
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AZURE
+BACKEND
+JAVA
+KOTLIN
+SPRING
+POSTGRESQL
+DATABASES
+FRONTEND
+REACT
+DEVOPS
+CLOUD
+GIT
+ISO
+ACCESS
+AGILE
+GDPR
+Elvárások
+Angol anyanyelvi szint és
+Német felsőfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+AZURE
+BACKEND
+JAVA
+KOTLIN
+SPRING
+POSTGRESQL
+DATABASES
+FRONTEND
+REACT
+DEVOPS
+CLOUD
+GIT
+ISO
+ACCESS
+AGILE
+GDPR
+Angol
+anyanyelvi szint és Német felsőfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Help to build, inspire, lead and coach a team of developers and engineers to develop and maintain digital health solutions for prevention, rehabilitation and aftercare
+Ensure timely delivery of high-quality software products that meet our users‘ needs
+Collaborate closely with product owners, content developers, IT department and external partners to ensure seamless product development
+Support best practices structures and processes for agile product development
+Support in managing the engineering budget and prioritize accordingly
+Stay up-to-date with emerging trends and technologies in digital health
+Requirements
+We run a Kubernetes-based microservice architecture (on-prem and Azure AKS) with GitOps-driven CI/CD and strict secure SDLC practices.
+While we don't expect expert level knowledge in our entire stack, significant (6+ years) experience and interest in several of the following or related areas is essential:
+Backend
+· Rust and Java/Kotlin (Spring Boot)
+· PostgreSQL, time-series databases
+· Kafka, Knative or comparable messaging systems
+· RESTful and WebSocket interfaces
+Frontend & Mobile
+· Next.js / React for web
+· Flutter for mobile apps
+Infrastructure & DevOps:
+· Kubernetes (e.g. AKS, GKE) with Helm & ArgoCD
+· Cloud Platforms / Hyperscalers, ideally Azure
+· Git, GitHub Actions and GitOps
+Apart from that we highly value experience with
+· Developing and scaling customer-, ideally patient-facing software products
+· Startup or scaleup companies, a drive to move fast and iterate without sacrificing quality
+· Data-driven workflows and/or data science
+· Developing an overall product vision and discussing it on management level
+· Onboarding and coaching junior or medior colleagues in an interdisciplinary and diverse environment
+· Latest data privacy standards (e.g., GDPR, ISO 27701 or similar)
+· Managing budgets and resource allocation
+Fluency in German on a C1 or native level and fluency in English on a B2 level or higher is required.
+What we offer
+Opportunity to shape the entire software development and maintenance process for a new digital health solution
+200.000+ own patients per year waiting for our digital health solutions
+Medical doctors, psychologists and therapists in 125+ MEDIAN clinics providing expert input
+Flat hierarchies with direct access to MEDIAN's top management
+A great team working with startup speed and mindset while benefiting from the established structures of one of Germany's largest clinic groups
+Company info
+MEDIAN is part of the MEDIAN Group, one of the leading European providers in the field of medical rehabilitation and mental health. With more than 120 facilities across Germany, MEDIAN offers a dynamic and innovative environment for employees in various treatment areas, with diverse entry and development opportunities. As a specialist in rehabilitation and participation, we support our patients on their journey to recovery and reintegration into society – in line with our guiding principle 'Live life to the fullest.'
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

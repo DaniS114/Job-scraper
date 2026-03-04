@@ -1,0 +1,94 @@
+Cég neve
+Vertigo Technologies Hungary Kft.
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C
+PYTHON
+POWERSHELL
+GIT
+DOCKER
+VISUAL STUDIO
+POSTGRESQL
+CLEAN CODE
+REST
+TEST AUTOMATION
+KANBAN
+AGILE
+CONFLUENCE
+JIRA
+Elvárások
+Angol középfok és
+Magyar középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C
+PYTHON
+POWERSHELL
+GIT
+DOCKER
+VISUAL
+STUDIO
+POSTGRESQL
+CLEAN
+CODE
+REST
+TEST
+AUTOMATION
+KANBAN
+AGILE
+CONFLUENCE
+JIRA
+Angol
+középfok és Magyar középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Work on a green-field project rewriting a proven trading system as new components for an async messaging based highly scalable platform built from scratch in .NET 7 using C#
+Implement tools supporting productivity
+Work independently and in a team
+Write automated unit, integration and performance tests
+Contribute to feature breakdown and estimations
+Write clean, high-quality, high-performance, maintainable and well documented code
+Implement new components and features or improve existing ones based on written specification in English
+Implement unit, integration and performance test coverage
+Implement tools to improve efficiency of daily operation
+Investigate and fix bugs
+Participate in code reviews
+Requirements
+2+ years of experience with .NET Core or .NET 6-7 and with Dependency Injection
+Deep understanding of .NET memory management and how to write efficient code
+Technical skills in OOP
+Writing CLEAN code matching SOLID principles
+Team player
+Fluent written English
+Fluent written and spoken Hungarian
+Nice-to-have
+Domain knowledge in crypto or high frequency trading (nice to have), Hands-on experience with Python and/or Powershell (nice to have), Building CI/CD pipelines (nice to have), REST APIs and WebSockets (nice to have), Test automation (nice to have), Fluent spoken English (nice to have)
+What we offer
+Development done in a Kanban-like agile way
+Average weekly 2-3 days working from home
+Tech stack & tools: GIT, C# .NET, Powershell, Docker, Confluence, Jira, Visual Studio, PostgreSQL, TimescaleDB
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Regionális
+Álláshirdetés jelentése

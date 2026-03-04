@@ -1,0 +1,64 @@
+Cég neve
+Mettler Toledo
+Munkavégzés helye
+Im Langacher 44, 8606 Nänikon-Greifensee
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ACCESS
+SECURITY
+AZURE
+TESTING
+NETWORK
+C
+SQL
+ANALYTICS
+JAVASCRIPT
+VUE
+DOCKER
+DEVOPS.
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+ACCESS
+SECURITY
+AZURE
+TESTING
+NETWORK
+C
+SQL
+ANALYTICS
+JAVASCRIPT
+VUE
+DOCKER
+DEVOPS.
+Angol
+középfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Senior Security Engineer / DevSecOps EngineerAbout Mettler ToledoMETTLER TOLEDO is a global leader in precision instruments and services. We are renowned for innovation and quality across laboratory, process analytics, industrial, product inspection, and retailing applications. Our sales and service network is one of the most extensive in the industry. Our products are sold in more than 140 countries, and we have a direct presence in approximately 40 countries. For more information, please visit .Our Opening and Your ResponsibilitiesOur Software Development Center (SWDC) engages in the research, design, and development of software applications across all divisions. We are looking for a passionate and experienced security expert who thrives in a dynamic environment and enjoys tackling challenging problems. For our global operating headquarters in Zurich, Greifensee, we are looking for a motivated:Senior Security Engineer / DevSecOps Engineer 100% (all genders)In this role, your responsibilities would include:You lead the design, implementation, and maintenance of DevSecOps pipelines and infrastructure.You integrate security practices seamlessly into the CI/CD process, including automated security testing and vulnerability management.You collaborate closely with development, security, and operations teams to promote a culture of shared responsibility for security and quality.You drive the adoption of best practices, tools, and frameworks related to DevSecOps across the organization.You identify risks, provide mitigation strategies, and ensure compliance with industry standards and regulations.You monitor system performance and security incidents while implementing necessary corrective measures.You develop and perform project-specific security risk assessments together with local subject matter experts.You review feature designs to identify potential security flaws in technical designs involving C#, JavaScript (Vue), SQL Server, Kubernetes, Docker, and Azure DevOps.What You Need to SucceedFollowing requirements are necessary for this role:You possess a Master's degree in Computer Science, Information Security, or a related technical field.You have at least 5 years of experience in application security, DevSecOps, or risk management.You have deep expertise in security practices, including threat modeling, vulnerability assessment, and incident response.You possess additional certifications such as CISSP or CISM (or you are highly motivated to obtain them).You have excellent communication skills and a collaborative mindset, enabling you to act as a bridge between technical teams and security stakeholders.You are fluent in English, and German is a significant advantage.Our Offer to YouFlexible working hours (depending on the role), a hybrid work model, and a wide portfolio of training opportunitiesA 40-hour work week with at least 25 vacation days per year, plus 4 to 7 additional days off between bank holidaysFree parking and direct access to public transportHealthy lunches cooked onsite at our own METTLER TOLEDO restaurant, with special prices for employeesA range of additional attractive benefits, including employee discounts at select area businessesYou can expect challenging, interesting, and varied tasks in an innovative and international environment, with the opportunity to network globally and achieve your career goals.Have we raised your interest? Then we look forward to receiving your complete application at our Job portal.Please note that we do not accept any application documents via e-mail, only applications submitted on our job platform due to our data protection guidelines. Furthermore, we do currently not accept applications from recruitment agencies for this role.If you have any question, please do not hesitate to contact our Talent Acquisition Team
+Write an email
+.#MTCHEqual Opportunity EmploymentWe are an equal opportunity employer and value diversity at our company. We give consideration for employment without regard to race, color, religion, sex, age, national origin, disability, sexual orientation, gender identity, genetic information, or any other protected classification. You can find more details in our Equal Employment Opportunity Policy. jida45e3acpn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Switzerland
+Álláshirdetés jelentése

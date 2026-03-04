@@ -1,0 +1,96 @@
+Cég neve
+ParshipMeet Group
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVA
+SPRING
+DEVOPS
+GIT
+FRONTEND
+TESTING
+CLEAN CODE
+AGILE
+KANBAN
+SCRUM
+AUTOMATED TESTS
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+JAVA
+SPRING
+DEVOPS
+GIT
+FRONTEND
+TESTING
+CLEAN
+CODE
+AGILE
+KANBAN
+SCRUM
+AUTOMATED
+TESTS
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design, implement, and operate scalable web applications and services based on Java and Spring – from idea and implementation to deployment, monitoring, and optimisation in production.
+Work in a team to deliver features end-to-end, breaking work into incremental, shippable pieces and aligning with team and business goals.
+Ensure high code quality through practices like Pair Programming, TDD, code reviews, and regular refactoring, documenting decisions and trade-offs where needed.
+Apply DevOps principles: contribute to CI/CD pipelines (GitLab), use container-based deployments, monitor your services in production, and follow up on incidents and issues.
+Share your knowledge with peers and actively reach out for feedback to grow together
+Requirements
+Several years of experience building scalable web applications using Java and Spring
+Solid fundamentals in software engineering (Clean Code, object-oriented design, modern architectures such as microservices or service-oriented systems).
+Hands-on experience in agile development (e.g. Kanban or Scrum), including breaking down tasks, estimating effort with guidance, and iterating based on changing scope and priorities.
+Strong focus on quality and maintainability: automated tests, readable code, and familiarity with Git and CI/CD pipelines in a production environment.
+Very good communication skills in English (spoken and written)
+Preferred Qualifications
+Practical experience with TDD, Pair Programming, and systematic code reviews as part of your daily workflow
+Knowledge Experience in developing interfaces to Apps/Frontend
+Leading small technical initiatives (e.g. refactoring, process or tooling improvements).
+Strong interest in augmenting your daily professional life with AI – for example using AI to improve productivity, testing, and monitoring.
+Good German language skills are a plus to collaborate smoothly with stakeholders and colleagues across the organisation.
+What we offer
+Flexible working style
+Part-time opportunities
+Central office
+Subsidized transportation
+Training & Development plans
+Food and soft drinks
+Health benefits
+Retirement plans
+Shopping discounts
+Volunteer opportunities
+Legendary parties
+Team Building Events
+With revenues of more than 375 million Euros and nine apps, ParshipMeet Group is one of the three leading international Dating and Video companies. Our more than 500 employees help users all over the world to meet others – whether it's like-minded people, an exciting date, or love for life. True to the motto: Meet – Date – Fall in Love.
+Company info
+With revenues of more than 375 million Euros and nine apps, ParshipMeet Group is one of the three leading international Dating and Video companies. Our more than 500 employees help users all over the world to meet others – whether it's like-minded people, an exciting date, or love for life. True to the motto: Meet – Date – Fall in Love.
+As a Java Engineer (all genders) you will work on our matchmaking products Parship, ElitePartner and eharmony. You will be part of a cross-functional engineering team and take responsibility for designing, implementing, and evolving features that our customers use daily. We develop and operate our platforms ourselves, work in an agile Kanban setup, and value ownership, collaboration, and continuous improvement.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

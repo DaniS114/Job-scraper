@@ -1,0 +1,85 @@
+Cég neve
+Grafton Recruitment
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+ABAP
+SERVICENOW
+TESTING
+API
+ACCESS
+AGILE
+JIRA
+Elvárások
+Angol középfok és
+Német középfok
+5-10 év tapasztalat
+Egyetem
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+ABAP
+SERVICENOW
+TESTING
+API
+ACCESS
+AGILE
+JIRA
+Angol
+középfok és Német középfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Your Responsibilities
+Design, implement, and enhance SAP HCM functionalities with a primary focus on Payroll (DE/CH/AT), Time Evaluation, and Pension-related processes.
+Analyze, troubleshoot, and optimize payroll results, time evaluation logic, and cluster data.
+Develop enhancements, user exits, BADIs, and various integration interfaces (RFC, IDoc, proxies, APIs).
+Provide support for Payroll Year-End activities, operational follow-up tasks, and issue resolution.
+Work on integrations with SuccessFactors Employee Central and external systems (experience with CPI is an advantage).
+Handle incidents and change requests using standard ITSM and agile tools (e.g., ServiceNow, JIRA), including effort estimation and implementation.
+Collaborate with technical teams on system maintenance, upgrades, patches, and testing cycles.
+Offer expert guidance to business stakeholders to ensure process reliability, compliance, and continuous improvement.
+Participate in agile ceremonies and contribute to development best practices.
+Requirements
+Your Profile
+At least 5 years of hands-on experience in ABAP/ABAP OO, HR-Forms, and complex SAP HCM development.
+Strong knowledge of Payroll schemas, PCRs, Time Evaluation, and cluster analysis.
+Familiarity with S/4HANA-based HCM solutions (H4S4), HANA DB, Fiori, or modernization initiatives is a plus.
+Solid understanding of integration technologies: CPI, RFC, IDoc, API-based communication.
+Experience with payroll specifics for German-speaking countries (DE/CH/AT) is beneficial.
+Ability to mentor junior colleagues and contribute to coding standards and quality assurance.
+Excellent communication skills, proactive mindset, and solution-oriented approach.
+Fluency in English (German is a huge plus)
+What we offer
+What They Offer
+Hybrid working model with four days per week available for remote work.
+Competitive compensation package with performance-based elements, bonus opportunities, pension options, and employee share programs.
+Broad learning and career development opportunities, including digital training and international mobility.
+Flexible working arrangements, wellbeing and healthcare benefits, parental leave support, and assistance for returning from career breaks.
+Access to a company-wide sports and fitness program offering a variety of activities.
+Support for parking to ensure a smooth daily commute
+Company info
+We are seeking an experienced SAP ABAP Developer with expertise in the HCM domain-particularly Payroll, Time Management, and Pension processes-to support and further evolve our partner's core HR systems.
+How to apply
+Please click the Apply button to send your application.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

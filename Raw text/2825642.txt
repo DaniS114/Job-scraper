@@ -1,0 +1,99 @@
+Cég neve
+Schleich GmbH
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+ANALYTICS
+SQL
+AZURE
+ACCESS
+BI
+POWER BI
+Elvárások
+Angol felsőfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+ANALYTICS
+SQL
+AZURE
+ACCESS
+BI
+POWER
+BI
+Angol
+felsőfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Operate, optimise, and further develop our Microsoft Fabric ecosystem (Lakehouse, Warehouse, Pipelines, Semantic Models).
+Design, build, and maintain Power BI reports and dashboards based on clearly defined business requirements.
+Support and enhance our existing SQL Server and SSAS (Tabular/Multidimensional cubes) landscapes when needed.
+Work closely with business partners to understand reporting demands and translate them into reliable, scalable BI solutions.
+Ensure data quality, performance, governance, and documentation across our analytics platform.
+Requirements
+Professional Experience
+Several years of hands-on experience in Business Intelligence, Analytics Engineering, or Data Engineering.
+Relevant experience in an FMCG environment would be a plus
+Technical Expertise
+Power BI (data modelling, DAX, report creation and optimisation)
+Azure Data Factory / Microsoft Fabric Data Pipelines
+SSAS (Tabular and/or Multidimensional)
+Data & Cloud Skills
+Experience with Microsoft Fabric or related Azure data services, including Lakehouse concepts.
+Solid understanding of dimensional modelling and performance optimisation.
+Experience in hybrid or migration scenarios (on‑premises → cloud) is a strong plus.
+Mindset & Language Skills
+Analytical mindset with a passion for turning data into meaningful business insights.
+Fluent English; good German skills are a plus.
+Nice to have
+Microsoft PL‑300 — Power BI Data Analyst
+Microsoft DP‑500 — Azure Enterprise Data Analyst
+Additional Microsoft Fabric or Data Engineering certifications
+What we offer
+Work in a dynamic, diverse environment that offers individual career and development opportunities. All our employees also have access to numerous online courses via our training platform
+Let's write the Schleich story together. Be part of a motivated team of people who support and inspire each other and celebrate success together
+We aim to please. We offer an attractive, fair salary with additional benefits that are regularly reviewed and updated
+Enjoy the benefits of a hybrid working model: 3 days in the office, 2 days remote
+Appetising. You will receive a food allowance of up to €75.00 net per month
+Every hero must retire one day. That's why we offer a company pension scheme
+You can also enjoy great discounts on our schleich® products – a great bonus for kids and adults alike
+Save even more with corporate benefits and discover a world of exclusive discounts for various brands and activities
+Speaking of savings, we'll also subsidise your bicycle lease to make it easier for you to travel to our beautiful office in Munich
+And what about your adventures outside of Schleich? You can count on 30 days of paid leave per year and a hybrid working model with no core working hours
+Company info
+Want your story to be part of our story?
+When children take charming schleich® figures and playsets into their hands, they embark on adventures into wonderful fantasy worlds. Every dinosaur, every elephant, and every fairy is the beginning of an exciting new story. Our vision: Shaping storytellers for life. And your story starts right here.
+Let's be inspired together by the joy of storytelling, while also continuing to tell the story of Schleich – and its journey from traditional toy manufacturer to a globally loved brand. Be part of our amazing transformation story.
+We will support you, give you ownership, and the opportunity to work internationally and digitally in a dynamic environment. Let's take on and master all the challenges that lie in store for us. Take the opportunity to grow with us and achieve something tangible.
+Working at Schleich. Make your mark.
+BI & Analytics Engineer
+Please note that this position is based in
+Munich
+and follows our hybrid working model. Relocation support is not offered.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

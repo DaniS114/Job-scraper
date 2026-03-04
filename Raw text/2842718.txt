@@ -1,0 +1,101 @@
+Cég neve
+Rathgeber Magyarország Kft.
+Munkavégzés helye
+Rathgeber Magyarország Kft. - Székesfehérvár, Berényi út 100, 8000
+Fizetés
+Br.
+750e - 950e Ft havi bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Biztosított eszközök
+Laptop
+Desktop PC
+Elvárások
+Angol felsőfok
+3-5 év tapasztalat
+Főiskola
+'B' kat. jogosítvány
+
+Cafeteria
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Laptop
+Desktop
+PC
+Angol
+felsőfok
+3-5
+év tapasztalat
+Főiskola
+'B'
+kat. jogosítvány
+
+Állás leírása
+Responsibilities
+Rathgeber Kft.
+, part of
+Isabellenhütte Heusler GmbH & Co. KG
+, is looking for a dedicated
+Databricks Expert / Azure Data Engineering Expert
+to support our team IT Data Office.
+Your Role:
+You actively contribute to the continuous growth and optimization of our data intelligence platform and its architecture, build efficient, scalable data pipelines, and ensure data quality and governance.
+In short: You’re not just a Databricks Expert – You join the journey to a data driven approach.
+How You’ll Make an Impact:
+You develop and maintain all our data pipelines (ETL/ELT pipelines).
+You play an active role in data modeling, particularly in the development and maintenance of Data Lakehouse Architectures.
+You implement role and authorization concepts in Databricks and document pipelines, processes, and data flows.
+You analyze and systematically optimize the performance of Spark and (Spark)-SQL queries and troubleshoot complex data and architecture problems
+In addition: You provide support for reporting and BI projects as well as knowledge transfer, for example by creating understandable documentation and instructions and by providing training
+Requirements
+Your Qualifications:
+Degree in (Business) Informatics, preferably with a focus on Data Management or Analytics (or a similar field)
+Several years of experience as Databricks Expert or a similar position
+Proactive identification of bottlenecks and service-oriented approach
+Strong operative expertise / knowledge / programming skills:
+Databricks Platform, Apache Spark and Delta Lake
+Optimization in Spark, Delta Lake and SQL
+Database Technologies (SQL, Oracle)
+Star-/Snowflake-Scheme, Delta Lake, Unity Catalog.
+Optional Knowledge:
+BI-Tools (e.g. Power BI)
+Apache Nifi or alternative tools
+SAP and its table structure
+Alternative programming skills for DevOps Pipelines (e.g. YAML, Powershell, etc.)
+Fluent in English, both written and spoken, German skills are an advantage
+What we offer
+What We Offer
+Permanent, full-time position
+A variety of tasks and exciting challenges
+Stable international company with long-term career opportunities
+Supportive team and great work environment
+Workplace extras
+Medical assistance
+Shower
+Bicycle storage
+Parking
+How to apply
+Ready to Make a Difference?
+Please send us your complete application documents – we look forward to hearing from you.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Fejér
+county
+Székesfehérvár
+Álláshirdetés jelentése

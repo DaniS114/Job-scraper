@@ -1,0 +1,78 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+DEVOPS
+.C.
+ACCESS
+FRONTEND
+ANGULAR
+BACKEND
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+DEVOPS
+.C.
+ACCESS
+FRONTEND
+ANGULAR
+BACKEND
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Lead the design and evolution of frontend architecture across multiple teams, ensuring consistency, performance, and scalability.
+Influence and define the frontend technology stack, with a focus on Angular, TypeScript, and modern web standards.
+Act as a technical consultant to stakeholders, translating business needs into elegant, user-centric frontend solutions.
+Evaluate and pilot emerging frontend and backend technologies, frameworks, and tooling to improve developer productivity and user experience.
+Own projects end-to-end, from prototyping and implementation to deployment and monitoring, with a focus on frontend excellence.
+Pioneer AI-driven solutions by advising on model capabilities, crafting effective prompt strategies, and embedding governance and monitoring into development workflows.
+Partner with Product, Security, and DevOps to shape technical roadmaps, ensure compliance, and seamlessly integrate AI features that deliver real business value.
+Mentor engineers in best practices and AI-augmented workflows, fostering a culture of experimentation, learning, and ethical AI adoption.
+Stay ahead of emerging AI trends and regulations, proactively adapting designs and practices to meet evolving standards and steer future innovation.
+Requirements
+7–10 years of experience building modern, scalable frontend applications, with deep expertise in TypeScript and Angular.
+Proven track record of technical leadership in frontend architecture, including cross-team influence and mentoring.
+Experience delivering robust applications using both backend infrastructure and modern frontend tooling, with familiarity in DevOps practices such as CI/CD and infrastructure-as-code.
+Integrates security best practices (such as authentication, authorization, secrets management, and privacy/bias checks) into all work, including AI-powered and user-facing features, and embeds these controls in delivery pipelines.
+Deep understanding of AI integration in frontend applications, including prompt engineering, model architectures, bias and safety concerns, and the ability to guide teams on responsible and user-friendly implementations.
+Excellent at communicating technical and AI-related concepts to diverse stakeholders, with a proven ability to lead projects, shape engineering culture, and mentor peers in AI-augmented development workflows.
+Degree in Computer Science, Engineering, Mathematics, or equivalent experience.
+What we offer
+Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients.
+We care about our people. Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs to name a few.
+We have teams all over the world. We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney.
+Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding.
+Hybrid work model with expectation to work onsite at least 50% of the time if within commuting distance to an office location.
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

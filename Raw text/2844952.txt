@@ -1,0 +1,58 @@
+Cég neve
+ITech Consult AG
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANALYTICS
+SECURITY
+PYTHON
+DATABASES
+NOSQL
+MONGODB
+API
+DATABASE
+ACCESS
+ISO
+Elvárások
+Angol anyanyelvi szint
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANALYTICS
+SECURITY
+PYTHON
+DATABASES
+NOSQL
+MONGODB
+API
+DATABASE
+ACCESS
+ISO
+Angol
+anyanyelvi szint
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Data EngineerData Engineer (m/f/d) - Data warehousing / NoSQL/MongoDB / Text Analytics/Mining / ETL orchestration / Python / GraphQL / scientific literature / Biomedical / EnglishProject: For our client, large pharmaceutical company based in Basel, we are looking for a Data Engineer (m/f/d).Background:Within the Computational Science Center of Excellence organization, the Data and Digital Catalyst (DDC) organization drives the modernization of our computational and data ecosystems and integration of digital technologies across Research and Early Development to enable our stakeholders, power data-driven science and accelerate decision-making. The Scientific Content Team, as part of the DDC-Data capability, is responsible for providing the data platforms for compliant and streamlined access to extensive collection of scientific content such as literature text data. These products play a central role in enabling data-driven innovation in research, development, and translational sciences across Client Group. The Scientific Content Data Engineer role is evolving, defined by strategic demands and dynamic compliance requirements around data security, integration, and harmonization.The Perfect Candidate: We are looking for a technically strong data professional with solid experience in data engineering, data warehousing, and database management, including hands-on expertise with NoSQL databases such as MongoDB. Strong Python scripting skills and practical experience with ETL orchestration tools are essential. The ideal candidate has a good understanding of Text Analytics, Text and Data Mining (TDM), and Large Language Models (LLMs), and is familiar with applying FAIR principles in data workflows. Experience with scientific or other text-based data, high-performance computing environments, and API development (eg, GraphQL) is highly desirable. A biomedical background is a plus.Tasks & Responsibilities:• Designing and implementing the ETL pipeline and MongoDB scheme.• Managing the document database, data curation, and FAIRification (cleaning, parsing, disambiguation, deduplication, data harmonization etc.), including ongoing database maintenance.• Integrating new data sources, including the development of robust parsers and text cleaning workflows.• Enhancing the user experience (eg, building a data warehouse and APIs).• User support for utilizing RoMine datasets (documentation, training, use case support).Must Haves:• Data engineering, data warehousing, and database experience.• Experience with NoSQL/MongoDB database.• Good understanding in the area of Text Analytics/Mining, TDM, and LLMs.• Experience or knowledge of ETL orchestration tools, such as Airflow.• Strong proficiency in Python scripting.• Knowledgeable on the FAIR principles and associated methodology.• Familiarity with scientific literature/published content/literature or/and other text-based data• Excellent communication and interpersonal skills in English (fluent), German is nice to have.• Interdisciplinary teamwork, ability to explain technical concepts to non-technical stakeholders• Exposure to high-performance computing environments.• Experience with API development (eg, GraphQL API) is a plus.• Biomedical background/education is a plusReference No.:Role: Data Engineer (m/f/d)Industry: PharmaLocation: BaselWorkload: 100%Start: Asap (latest start date: June 1st, 2026)Duration: 12++ monthsDeadline: March 9th,If this position has piqued your interest, please send us your complete resume. If this position does not quite match your profile and you would like to receive other positions directly, you can also send us your resume via this ad or to jobs[at]itcag[dot]com.Contact us for more information about our company, our positions, or our attractive payroll-only program: About us:ITech Consult is an ISO 9001:2015-certified Swiss company with offices in Germany and Ireland. ITech Consult specializes in placing highly qualified candidates for temporary staffing in the fields of IT, life sciences, and engineering. We offer temporary staffing and payroll services. This is free of charge for our candidates, and we do not charge any additional fees for payroll services. jid37017b7pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Switzerland
+Álláshirdetés jelentése

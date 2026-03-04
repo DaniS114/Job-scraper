@@ -1,0 +1,84 @@
+Cég neve
+Mercedes-Benz AG
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+Elvárások
+Angol felsőfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+Angol
+felsőfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+We are committed to shaping the future of automotive mobility by developing highly automated driving systems for both highway and urban areas. Our development teams work with state-of-the-art technologies to develop innovative and class-leading systems to provide our customers with the best experience possible. To master this challenge, we are looking for energetic and committed students to conduct research within our Scene Reasoning and Prediction Team in Sindelfingen.
+Focus of the Master Thesis
+End-to-end models for autonomous driving aim to jointly optimize perception, motion prediction, and planning, enabling downstream components to exploit rich sensory information while reducing the impact of upstream perception errors. Although such approaches have demonstrated promising performance gains, fully joint training at scale remains prohibitively expensive in terms of computational and memory requirements. In particular, scalability is limited by the combination of large perception architectures and the data-intensive nature of motion prediction and planning, which require substantial scenario diversity to accurately model complex agent interactions. Recent work has shown that scaling data -either through curated, object-level datasets or large-scale simulation - can unlock unprecedented performance and solve challenging driving scenarios. However, how to effectively exploit the knowledge learned by these models in real-world, end-to-end settings remains underexplored problem. The aim of this work is to addresses these limitations by introducing discrete representations, for example via dictionary learning methods, as an interface between perception and motion prediction. The primary motivation is to enable decoupled and scalable pretraining while preserving the adaptability and rich information flow characteristic of end-to-end models.
+Objectives
+Design and implement a discrete, structured interface that compresses and semantically organizes perception outputs while preserving information critical for prediction
+Demonstrate factorized training where perception and prediction can be trained largely independently, reducing computational and memory cost relative to full end-to-end training
+Develop efficient end-to-end alignment strategies (e.g., targeted fine-tuning, distillation) to achieve high overall performance with minimal joint retraining
+Provide a comprehensive evaluation covering robustness to perception noise, scalability, efficiency, and interpretability
+The activity can begin from April 2026.
+The final thesis selection is made in close consultation with you, the university and us.
+Requirements
+Master degree in Computer Science, Robotics, Artificial Intelligence, or a related field
+Fluent English, both written and spoken
+Commitment and ability to work in a team
+Solid programing skills (Python)
+Prior experience in deep learning, computer vision, or autonomous driving
+Additional Information:
+We look forward to receiving your online application, including a resume, cover letter, certificates, current certificate of enrollment stating your semester, and proof of the standard period of study. Please remember to mark your documents as "relevant for this application" in the online form and observe the maximum file size of 5 MB.
+You can find further information on the hiring criteria
+here
+.
+Severely disabled applicants and applicants with equivalent status are welcome! The representative for severely disabled employees (
+HR Services will be happy to help you with any questions you may have about the application process. You can reach us by email at
+What we offer
+Meal-Discounts
+Mobile Phone for Employees Possible
+Discounts for Employees Possible
+Annual Profit Share Possible
+Events for Employees
+Coaching
+Flextime Possible
+Hybrid Work Possible
+Health Benefits
+Company Retirement
+Mobility Offers
+Parking
+Inhouse Doctor
+Good Public Transport
+Barrier-Free Workplace
+Near-Site Childcare
+Canteen, Café
+Company info
+Life is always about becoming… Becoming means going on a journey to be the best version of our future selves. While we discover new things, we will face challenges, master them and grow beyond our individual limits.
+Apply for a job at Mercedes-Benz and find your individual role and workspace to unleash your talents to the fullest. Empowered by visionary colleagues who share the same pioneering spirit. Joining us means becoming part of a global team that aims to build the most desirable cars in the world. Together for excellence.
+Job-ID: MER0003YHT
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

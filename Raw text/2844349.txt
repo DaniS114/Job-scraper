@@ -1,0 +1,86 @@
+Cég neve
+Accenture Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+AZURE
+ACTIVE DIRECTORY
+DEVOPS
+SECURITY
+ANALYTICS
+ACCESS
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Középiskola
+
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+AZURE
+ACTIVE
+DIRECTORY
+DEVOPS
+SECURITY
+ANALYTICS
+ACCESS
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, implement, and manage Azure cloud infrastructure to support Databricks and data platform workloads
+Build and maintain Azure resources including Resource Groups, VNets, Key Vaults, Storage Accounts, and Azure Active Directory (AAD) integrations
+Implement Infrastructure as Code (IaC) using Terraform, Bicep, or ARM templates
+Apply DevOps best practices for automation, deployment, monitoring, and platform reliability
+Ensure cloud environments are secure, scalable, and cost-effective
+Collaborate with data engineers, architects, and security teams to support enterprise-grade data platforms
+Troubleshoot and optimize infrastructure and platform performance
+Contribute to standards, documentation, and continuous improvement initiatives
+Requirements
+Strong experience with Azure Cloud Infrastructure and DevOps
+Minimum 6 months of Databricks experience
+Hands-on expertise with Azure Resource Groups, Virtual Networks (VNets), Azure Key Vault, Azure Storage Accounts, Azure Active Directory (AAD)
+Proven experience implementing Infrastructure as Code (IaC) using Terraform, Bicep, or ARM templates
+Experience operating and supporting Azure Databricks platforms
+Solid understanding of cloud security, networking, and identity management
+Ability to work independently and take ownership in a senior-level role
+Nice-to-have
+CI/CD pipeline experience (Azure DevOps, GitHub Actions, or similar), Experience with monitoring and logging tools in Azure, Knowledge of data engineering or analytics platforms, Azure certifications (e.g., Azure Solutions Architect, DevOps Engineer)
+What we offer
+Participation in full-cycle and diverse international projects
+Opportunity to work as a specialist or manager/team lead
+Constant career development with internal mentorship
+Access to a whole set of learning platforms, paid certifications
+Flexible working conditions, home working is allowed
+Attractive base salary & wide range of benefits including cafeteria, bonuses, private health insurance package, life insurance, AYCM sport card, referral bonus, family-oriented benefits, company shares on a discount price
+Company info
+Accenture is a leading global provider of a broad range of professional services in strategy and consulting, interactive marketing, information technology and business operations services, with digital capabilities in all of these areas. With more than 800,000 employees worldwide, we serve clients in more than 120 countries. Accenture globally has ranked 4th on the Great Place to Work® World’s Best Workplaces™.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

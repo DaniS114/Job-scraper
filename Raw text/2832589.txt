@@ -1,0 +1,91 @@
+Cég neve
+Daiichi Sankyo Europe GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+PROJECT MANAGEMENT
+Elvárások
+Angol felsőfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+PROJECT
+MANAGEMENT
+Angol
+felsőfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Strategy Deployment
+Lead global principles and strategies for CSV, IT governance, and data integrity.
+Collaborate with functional QA teams to develop tailored validation and governance strategies.
+Drive the digital quality roadmap and process automation initiatives aligned with the Quality Management System (QMS) strategy.
+Lead the global validation strategy for Generative AI deployment in GxP environments, working closely with DX-IT and cross-functional teams.
+Governance and Oversight
+Implement and maintain Global QA governance for systems such as ALTOS, eQMS, QualityDocs, VLM, and related QA data systems in accordance with Global Software Development Life Cycle (SDLC).
+Ensure compliance of global Quality IT systems with relevant regulations.
+Oversee IT vendor selection and management, including outsourced and insourced CSV activities.
+Implementation and Support
+Lead the execution of IT quality strategies aligned with business objectives.
+Provide e-Compliance support for global system deployments, ensuring regulatory compliance.
+Support inspections and audit readiness in collaboration with DX-IT and Functional QA teams.
+Team and Talent Development
+Build, lead, and mentor a high-performing global E-Compliance team.
+Foster effective collaboration with DX-IT to meet IT and regulatory requirements.
+Foster effective collaboration with DX-IT to meet IT and regulatory requirements.
+Further Key Responsibilities
+Risk Management
+Ensure quality oversight for third-party vendors and CSV activities in partnership with Functional QA.
+Serve as the primary contact for global RDPV QA CSV activities.
+Identify and mitigate computerized system risks through cross-functional collaboration.
+Represent QA in IT/CSV governance forums and communicate risks to leadership.
+Continuous Improvement
+Lead initiatives to advance organizational technology and quality.
+Ensure timely closure of operational gaps in e-Compliance QA and IT activities.
+Collaborate with QA audit teams to communicate IT-related observations and potential risks.
+Requirements
+Minimum 10 years of experience in GxP roles, including at least 5 years in Global GxP QA or equivalent.
+At least 5 years of experience managing Computerized Systems Validation or quality IT systems on a global scale.
+Strong knowledge of ISPE GAMP 5 (1st edition required; familiarity with 2nd edition preferred).
+Proven leadership capabilities with global project and people management experience.
+Bachelor's degree in a scientific or technical discipline is required; Master's degree preferred.
+Extensive experience in validation and qualification of SAP S/4 HANA.
+Fluent in English with excellent verbal and written communication skills.
+Enterprise mindset with strong project management and organizational skills.
+Deep understanding of quality management systems, GxP regulations, computerized system validation, IT governance, data integrity, and regulatory expectations.
+Exceptional collaboration, conflict resolution, and shared accountability skills.
+What we offer
+Excellent Benefits
+Work-Life Balance
+Growth and Development
+Health and Wellbeing Support
+Company info
+At Daiichi Sankyo, we are united by a single purpose, to improve lives around the world through innovative medicines. With a legacy of innovation since 1899, a presence in more than 30 countries, and more than 19,000 employees, we are advancing breakthrough therapies in oncology, cardiovascular disease, rare diseases, and immune disorders. Guided by our 2030 vision to "be an innovative global healthcare company contributing to the sustainable development of society", we are shaping a healthier, more hopeful future for patients, their families, and society.
+Director (m/w/d) E-Compliance/ IT Governance
+About the Role
+As the Regional/Local E-Compliance Team Leader reporting to the Head of E-Compliance / IT Governance, you will play a pivotal role in IT and Data Governance for Global Quality Assurance (QA) systems at Daiichi Sankyo. You will lead the Regional/Local E-Compliance team, managing the IT QA portfolio and overseeing GxP projects globally. Your key focus will be driving Computerized Systems Validation (CSV) compliance by defining risk-based validation strategies and providing operational oversight of GxP-related IT systems worldwide.
+You will be responsible for the CSV of SAP S/4 HANA and other regulated systems, including platform/infrastructure and tool qualification, as well as change management. Extensive experience in SAP S/4 HANA validation and a comprehensive understanding of various system functions and modules—including GxP, SOX/JSOX, and non-regulated areas—are essential. You will support SAP S/4 HANA deployment across the DSI and DSJ regions and maintain global deployments.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

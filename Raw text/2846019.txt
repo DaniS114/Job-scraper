@@ -1,0 +1,44 @@
+Cég neve
+LHH
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+HARDWARE
+VIRTUALIZATION
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+HARDWARE
+VIRTUALIZATION
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Security Engineer (m/w/d)We're currently partnering with a leading global technology client in Zürich to recruit a highly skilled Security Engineer (m/w/d) for the Privacy, Safety & Security team. This is a temporary 12-month contract with an expected start date at the beginning of MarchIn this role, you will take ownership of microarchitectural (uArch) vulnerability response efforts as part of a structured rotation, working closely with a cross-functional team of world-class engineers. You will drive key initiatives addressing complex microarchitectural vulnerabilities - assessing their impact at large scale, coordinating remediation strategies, and collaborating with internal stakeholders as well as external technology vendors to ensure robust, secure, and resilient systems.As a Software Engineer, you make larger, mostly independent, technical contributions. You deliver on end-to-end tasks towards a larger goal with minimal assistance from more senior team members. You independently plan, prioritize, and execute your work. You may participate in design, though often with guidance. You identify technical problems with the requirements, and fix them.Main responsibilities:Lead uArch vulnerability responses as part of a rotation and with the support of a cross-functional team.Drive key responses to microarchitectural vulnerabilities by assessing their impact at clients scale and coordinating remediation with internal teams and external vendors.Research and develop long-term systematic mitigation, such as robust isolation primitives, to ensure that hardware vulnerabilities never pose a significant risk to the world again.Partner with internal product teams to design applications that are architecturally resilient to modern hardware threats from day one.Collaborate deeply with hardware vendors and research institutions to share knowledge, triage impacts, and inform the design of a secure future.Your ProfileBachelor's degree in Computer Science, Software Engineering, Cybersecurity / Information Security, or a related technical field.5+ years of experience in systems security, specifically identifying and mitigating vulnerabilities at the intersection of hardware and software (e.g., Kernel, Hypervisor, Firmware).Deep understanding of operating system internals, computer architecture, and virtualization technologies (hypervisors).Hands-on experience in security research, vulnerability analysis, or developing secure kernel-level code.A proactive, adaptable, and highly organized professional with exceptional problem-solving skills.Language: English (required).Additional InformationContract Duration: 12 months, starting 9 or 16 MarchWork Setting: Monday to Friday, on-site presence requiredWorking Hours: 09:00-18:00Language Requirements: English#LI-KK1 #LI-Hybrid jidaa83675pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Switzerland
+Álláshirdetés jelentése

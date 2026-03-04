@@ -1,0 +1,97 @@
+Cég neve
+SnapSoft Informatikai és Szolgáltató Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+AWS
+AZURE
+PYTHON
+PANDAS
+MACHINE LEARNING
+SQL.
+Biztosított eszközök
+MacOS
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Egyetem
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+AWS
+AZURE
+PYTHON
+PANDAS
+MACHINE
+LEARNING
+SQL.
+MacOS
+Angol
+középfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Lead a team of 2-3 AI and cloud engineers focused on fast prototyping of AI/ML solutions in AWS cloud.
+Provide mentoring and technical support to junior and medium teammates.
+Act as a trusted advisor to clients.
+Develop highly scalable services realizing AI/ML functionalities (e.g. NLP, ML and AI models).
+Implement various machine learning solutions addressing computer vision and NLP use cases.
+Work with Large Language Models (LLMs), perform prompt engineering tasks.
+Design and implement data transformation services for various use cases, such as automatic translation and transcription, Text2SQL, and intent and gesture recognition.
+Design, build, and maintain robust and scalable data pipelines for extracting, transforming, and loading (ETL) data from various sources.
+Use AWS cloud to implement AI/ML solutions (e.g. Bedrock, Sagemaker, Lambda, Textract).
+Understand customers’ business problems and provide technology consulting to identify the best-fit solution.
+Own the end-to-end solution as a key decision-maker and drive the delivery team.
+Describe infrastructures using Terraform (Terragrunt) or AWS CloudFormation.
+Design, build and maintain CI/CD pipelines in multiple integration and test environments.
+Stay up-to-date with the AWS innovations and achieve Professional/Specialty level certifications based on personal interest.
+Contribute to AWS Competency and Service Delivery Program to support SnapSoft’s AWS Partner journey
+Requirements
+A bachelor's degree in Computer Science, Information Technology, or a related field
+Multiple years of experience developing data or AI solutions preferably in AWS cloud environment.
+Experience with some of the following technologies: SageMaker, Bedrock, Glue, MWAA, EMR, RDS, Aurora, S3, OpenSearch, ElasticSearch.
+Strong proficiency in Python and experience with relevant frameworks and libraries, such as pandas, pyspark, numpy, sklearn, matplotlib, etc.
+Familiarity with SQL.
+Knowledge of some cloud platforms (e.g., AWS, Azure, GCP) and their services.
+Familiarity with AI/ML technologies (e.g., Computer Vision, NLP, anomaly detection).
+Understanding AI tools and concepts like LLMs, ChatGPT, RAG, etc.
+Excellent problem-solving and communication skills.
+Strong communication and collaboration skills with the ability to work effectively in a team environment
+AWS Professional/Specialty Certification is preferred
+What we offer
+A company culture based on autonomy and accountability
+Flexible working hours
+Cool office with great location in Budapest, nearby Deak Ferenc Square / Astoria
+Macbook in order to be the most efficient in your daily tasks
+Company-sponsored technical trainings
+Company-sponsored trips to relevant, professional conferences
+Medicover Health Insurance
+English course with native teachers
+AYCM SportPass contribution, yoga at the office, SnapSoft football
+Regular cocktail parties, team buildings, an annual all staff 3-day summer retreat
+Book club & SnapSoft library, Board game club & regular board game evenings
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

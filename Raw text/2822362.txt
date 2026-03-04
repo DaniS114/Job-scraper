@@ -1,0 +1,149 @@
+Cég neve
+Profession Services
+Munkavégzés helye
+Távmunka / Remote
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Szakmai tréningek
+Sport támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Rugalmas munkaidő
+Elvárt technológiák
+ANALYTICS
+BI
+TESTING
+SQL
+GIT
+SAP
+ORACLE
+ERP
+PYTHON
+DEVOPS
+POWER BI
+AGILE
+Biztosított eszközök
+Laptop
+Workstation
+Elvárások
+Angol felsőfok
+3-5 év tapasztalat
+Felsőoktatási szakképzés
+
+Magyarországon belül bárhonnan végezhető
+Cafeteria
+Szakmai
+tréningek
+Sport
+támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Rugalmas
+munkaidő
+ANALYTICS
+BI
+TESTING
+SQL
+GIT
+SAP
+ORACLE
+ERP
+PYTHON
+DEVOPS
+POWER
+BI
+AGILE
+Laptop
+Workstation
+Angol
+felsőfok
+3-5
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Céginformáció
+This role is for someone who enjoys the craft of data modeling - using Microsoft Fabric, dbt, and Power BI to make data clean, testable, and usable.
+Feladatok
+Design and scale analytics-ready data models
+using dbt in Microsoft Fabric
+Transform
+raw enterprise data into trusted, business-ready datasets
+Build and own
+Power BI semantic models and DAX logic
+(this is a hard requirement)
+Ensure
+data quality, testing, documentation, and governance
+end-to-end
+Optimize performance
+across large-scale datasets
+Collaborate with
+global stakeholders (US-based leadership)
+Help define
+best practices and standards
+in a still-evolving data organization
+Elvárások
+3+
+years of experience in analytics engineering / data engineering
+Fluent English
+(interviews and daily work are fully in English)
+Strong
+SQL skills
+, hands-on dbt data modeling experience
+Practical Microsoft Fabric experience
+(
+Power BI
+, Lakehouse, Warehouse, OneLake)
+Advanced
+Power BI
++ DAX
+knowledge (developer level, not just reporting)
+Git-based version control, CI/CD mindset
+Juttatások
+Fully remote role
+(no office attendance required)
+Motivating compensation
+, aligned with seniority and impact
+Cafeteria
+Long-term,
+globally relevant projects
+on a modern data platform
+US collaboration without night shifts
+Modern tooling
+Strong company culture with
+frequent events, sports support, subsidized meals
+Előnyt jelent
+Experience with
+SAP (ECC / S4HANA), Oracle EBS
+, or enterprise ERP data models
+Exposure to Salesforce, Finance, HR, or manufacturing data domains
+Python or scripting languages
+Data governance, lineage, observability tooling
+Agile / DevOps environments
+Munkahelyi extrák
+Canteen
+Corporate events
+Parking
+Jelentkezés módja
+ENGLISH CV
+A Profession Services mint magán-munkaközvetítő (nyilvántartási szám: BPM/01/15807-3/2015-1003) fogadja a jelentkezéseket.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Álláshirdetés jelentése

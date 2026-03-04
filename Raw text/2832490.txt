@@ -1,0 +1,76 @@
+Cég neve
+Karlsruher Institut für Technologie (KIT) Campus Nord
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+MACHINE LEARNING
+.PHP
+AGILE
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+MACHINE
+LEARNING
+.PHP
+AGILE
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+The Scientific Computing Center (SCC) is the Information Technology Center of KIT. The junior research group
+“Robust and Efficient AI-
+at SCC develops scalable, energy-efficient machine learning methods for data-intensive applications in the natural sciences, such as weather forecasting and medical diagnostics. Our research combines modern AI with high-performance computing (HPC) to enable robust analysis of extremely large datasets.
+We are seeking a
+Postdoctoral Researcher
+to join the BMFTR-funded project MorphoSphere, which focuses on AI-based analysis of ultra-high-resolution 3D imaging data generated at large-scale neutron and synchrotron facilities (e.g. DESY, ESRF). These datasets enable advances in materials science and biomedical research, but they easily reach petabyte scale and cannot be processed with standard deep learning approaches. Within this project, you will develop and implement machine learning approaches that enable processing these large 3D image at full resolution.
+Your contributions will include:
+Developing parallel and distributed algorithms for processing ultra-large 3D images across multiple GPUs
+Designing and adapting scalable deep learning models for segmentation and landmark detection (e.g. U-Net variants, Transformers)
+Extending and optimizing existing approaches within the HeAT software framework
+Implementing solutions using GPU-based HPC systems and modern supercomputing architectures
+Applying and validating methods on real-world synchrotron and neutron imaging data
+Contributing to research software engineering (RSE) best practices, including maintainable, reproducible, and high-quality research code
+Publishing results in peer-reviewed venues and collaborating with domain scientists
+Requirements
+You hold a Degree (Masterlevel) and PhD in computer science, physics, mathematics or equivalent discipline
+Very good programming and software development skills, preferably in Python
+Proven academic track record (publications) in deep learning model development, high-performance computing or parallel algorithms research
+Prior experience in data science applications for the natural sciences and engineering
+Curious about an exciting and versatile role in an agile team? Discover more about SCC as your professional place to be: scc.kit.edu/en/aboutus/working-at-scc.php
+What we offer
+of staff of the only German University of Excellence that conducts large-scale research on the national level. Work under excellent working conditions in an interna-tional environment and be active in research and academic education for our future. Benefit from specific training when starting your job and from a wide range of further qualification offers. Use our flexible working time models (flexitime, work from home), our sports and leisure offers, as well as our child and holiday care services. We also pay a share of EUR 25/month in the Job Ticket Baden-Württemberg. Enjoy a large variety of dishes, snacks, and beverages at our canteens.
+Company info
+Karlsruhe Institute of Technology (KIT) – The University in the Helmholtz Association
+In close partnership with society, KIT develops solutions for urgent challenges – from climate change, energy transition and sustainable use of natural resources to artificial intelligence, sovereignty and an aging population. As The University in the Helmholtz Association, KIT unites scientific excellence from insight to application-driven research under one roof – and is thus in a unique position to drive this transformation. As a University of Excellence, KIT offers its more than 10,000 employees and 22,800 students outstanding opportunities to shape a sustainable and resilient future.
+KIT – Science for Impact
+.
+The Scientific Computing Center (SCC) is offering as soon as possible, limited up to 3 years, a
+PostDoc position (f/m/d)
+Distributed AI algorithms development for 3D synchrotron imaging
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

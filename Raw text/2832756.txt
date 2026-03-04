@@ -1,0 +1,89 @@
+Cég neve
+SAP SE
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+SAP
+AWS
+AZURE
+VIRTUALIZATION
+HARDWARE
+@SAP.
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+SAP
+AWS
+AZURE
+VIRTUALIZATION
+HARDWARE
+@SAP.
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+As a Cloud Architect & Advisor (CAA), you will be responsible for the private cloud technical foundation of RISE with SAP and Business Data Cloud (BDC) engagements. The CAAs' mandate spans the initial sales cycle, subsequent change requests and renewal events for private cloud architecture changes. You will advise customers and internal account teams on SAP's private cloud offerings, assess the technical feasibility of customers' requirements and translate these into technical landscape designs. As a final step, these landscapes are handed over to our delivery
+teams for system provisioning.
+Requirements
+• Customer facing mindset
+• High proficiency in customer communication and presentation
+• You are accustomed to working in smaller teams and groups and supporting them, led by experienced colleagues, while also working independently on topics, setting priorities, and taking sole responsibility for your own project.
+• Demonstrate capability to efficiently execute operational and preparatory activities
+• Strong team player
+• 5+ years of customer facing experience
+• Expertise of the technical operational aspects of SAP solutions in a cloud environment
+• Good understanding of technical capabilities of at least one hyperscaler (AWS, Azure or GCP)
+• Understanding of data center capabilities like high availability or disaster recovery is a benefit
+• Good understanding of the entire platform stack (storage, virtualization, hardware, networks etc.)
+• Good understanding of SAP technologies (releases, platform interdependencies etc.)
+• Cybersecurity & compliance expertise is an advantage
+• Self-sufficient worker and strong team player
+• Affinity to technical topics, willingness to tackle aspects outside the comfort zone and to continuously learn
+• Fluency in German and English is a must, any other language an asset
+What we offer
+What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+We win with inclusionSAP's culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team:
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+SAP believes the value of pay transparency contributes towards an honest and supportive culture and is a significant step toward demonstrating SAP's commitment to pay equity. SAP provides the hourly base salary rate range applicable for the posted role. The targeted range for this position is [[customSalaryListing]] CAD. The actual amount to be offered to the successful candidates will be within that range, dependent upon the key aspects of each case which may include education, skills, experience, scope of the role, location, etc. as determined through the selection process. SAP offers limited benefits for employees hired into hourly or like roles subject to appliable plan/policy terms. A summary of benefits and eligibility requirements can be found by clicking this link:
+.
+Due to the nature of the role, which involves global interactions with SAP entities, as well as with employees and stakeholders in Canada, functional proficiency in English is required for positions based in the Quebec.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 440710 | Work Area: Sales Support | Expected Travel: 0 - 50% | Career Status: Berufserfahren | Employment Type: Part-Time, or Vollzeit, unbefristet | Additional Locations: Any other location in Germany possible #LI-Hybrid
+Company info
+We help the world run better
+At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong.
+Meet your teamCloud Architecture & Advisory is an integral part of the Enterprise Cloud Services (ECS) organization. ECS drives and develops the SAP Private Cloud portfolio to cater to our customers' needs and operates most of the RISE with SAP private cloud landscapes and the BWs for Business Data Cloud operated by ECS.
+The Cloud Architects & Advisors are a group of highly motivated and customer focused people, which validate the technical feasibility of RISE with SAP S/4HANA and BDC Private Cloud deals during the presales phase and are the trusted advisor post signature. This is crucial to ensure all customers get landscapes that match their requirements and to drive the customer adoption of SAP's cloud offering.
+During the application and selection process, candidates will be informed which manager they will be working with upon hiring.
+Bring out your bestSAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Germany
+Álláshirdetés jelentése

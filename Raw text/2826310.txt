@@ -1,0 +1,91 @@
+Cég neve
+4iG Informatikai Zrt.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Szakmai tréningek
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Szakmai
+tréningek
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+CÉGINFORMÁCIÓ
+Mi a 4iG-nél Magyarország első számú IT integrátoraként szeretjük a komplex feladatokat és az elégedett ügyfeleket, ezért célunk az, hogy megrendelőink számára teljeskörű IT megoldásokat kínálhassunk. IT üzemeltetés mellett szoftvert fejlesztünk, hardware-t szállítunk, kibertechnológiával és 3D megoldásokkal is foglalkozunk. Hiszünk abban, hogy céljaink eléréséhez az összetartó és jól képzett csapatunk munkája elengedhetetlen.
+Ha Te is úgy érzed, hogy szívesen része lennél egy jó csapatnak, foglalkoztatnak az innovatív megoldások, mindenképp nálunk a helyed!
+KÖZÖS CÉLJAINK MEGVALÓSÍTÁSÁHOZ AZ ALÁBBIAKBAN SZÁMÍTUNK RÁD
+APEX alapú üzleti alkalmazások tervezése és fejlesztése
+Új funkciók és összetett komponensek kialakítása, architektúrához illesztés, technikai kockázatok és megvalósíthatóság vizsgálata.
+Saját APEX termékek fejlesztése és üzemeltetése
+Modulok továbbfejlesztése, hibajavítás, teljesítményoptimalizálás, működési folyamatok támogatása.
+PL/SQL és JavaScript alapú logikák és komponensek fejlesztése
+Backend üzleti logika megvalósítása, APEX dinamikus elemek és JavaScript-alapú funkciók fejlesztése.
+A fejlesztési életciklus fejlesztői oldalról történő támogatása
+APEX és PL/SQL funkciók implementálása és finomhangolása
+Unit és integrációs tesztek készítése, hibák elemzése és javítása
+Aktív részvétel kódreview-kban és fejlesztési irányelvek alkalmazásában
+Verziókezelési feladatok ellátása (branching, merge, release folyamatok előkészítése)
+Üzembe helyezés támogatása (build, release, migrációk fejlesztői oldalról)
+Csapatok szakmai támogatása
+Fejlesztői csoportok mentorálása, technológiai iránymutatás biztosítása, problémák szakmai kezelése, szükség esetén vezetői szintre továbbítása.
+Módszertani, kódminőségi és biztonsági előírások betartása
+Verziókezelési és security szabályok követése, munkaórák és feladatok adminisztrációja projektekben és üzemeltetési szerződésekben.
+Együttműködés a fejlesztési lánc minden szereplőjével
+Szoros közös munka üzleti elemzőkkel, architektekkel, tesztelőkkel és rendszerszervezőkkel a hatékony fejlesztés érdekében.
+Junior és medior fejlesztők mentorálása
+Tudásmegosztás, technológiai irányelvek átadása, belső szakmai képzések támogatása.
+AMI SZÜKSÉGES LESZ AZ EREDMÉNYES MUNKÁDHOZ
+Min. 5 év szoftverfejlesztési tapasztalat, releváns APEX gyakorlattal
+Oracle APEX fejlesztésben szerzett tapasztalat
+PL/SQL magas szintű tudás
+JavaScript ismerete APEX dinamikus elemek fejlesztéséhez
+Adatbázis-tervezési alapismeretek (Oracle)
+Szoftverfejlesztési módszertanok ismerete
+Programozáshoz szükséges angol nyelvtudás
+AMINEK MÉG ÖRÜLÜNK
+Ügyfélközpontúság
+Rendszerszemlélet
+Felelősségvállalás
+Csapatmunka és együttműködés
+Kiválóságra törekvés
+Megbízhatóság
+Kiemelt kompetenciák:
+Strukturált gondolkodás
+Problémamegoldás
+Hatékony kommunikáció
+AMIVEL VÁRUNK TÉGED
+Modern APEX környezet és változatos projektek
+Saját termékfejlesztésekben való részvétel
+Stabil nagyvállalati háttér
+Szakmai fejlődés, képzések, tudásmegosztás
+Dinamikus, támogató csapat
+Hosszú távú perspektíva
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

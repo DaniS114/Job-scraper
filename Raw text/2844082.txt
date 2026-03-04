@@ -1,0 +1,97 @@
+Cég neve
+SnapSoft Informatikai és Szolgáltató Kft.
+Munkavégzés helye
+1074, Budapest, Dohány street 14., 7th floor
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+VPN
+AWS
+CLOUD
+AZURE
+API
+ANSIBLE
+DOCKER
+DNS
+SECURITY
+ACCESS
+BITBUCKET
+Biztosított eszközök
+MacOS
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+VPN
+AWS
+CLOUD
+AZURE
+API
+ANSIBLE
+DOCKER
+DNS
+SECURITY
+ACCESS
+BITBUCKET
+MacOS
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Drive designing and building AWS infrastructure and landing zones
+Define AWS infrastructure using Terraform or OpenTofu with Terragrunt, or AWS CloudFormation, and build CI/CD pipelines
+Lead migrations of customer workloads from on-premises (on-prem), GCP, Azure, or Heroku to AWS
+Review and remediate customer cloud solutions using AWS Well-Architected Framework principles and best practices
+Participate in technical and business discussions with stakeholders, representing SnapSoft’s technical standards in client conversations, planning, and execution
+Stay up to date with AWS innovations and pursue Associate, Professional, or Specialty certifications to deepen product/domain expertise
+Contribute to the AWS Competency and Service Delivery Programs to support SnapSoft’s AWS Partner journey; participate in internal development work and mentor mid- and junior-level engineers
+Requirements
+A bachelor's degree in Computer Science, Information Technology, or a related field
+Proven technical leadership of projects, architecture reviews, mentoring
+Strong communication and collaboration skills with the ability to work effectively in a team environment
+Strong client-facing skills for driving refinements and planning sessions with the customer
+2+ years of hands-on experience in designing, deploying, and managing cloud infrastructure using AWS
+In-depth knowledge of standard AWS services such as VPC, EC2, S3, RDS, Lambda, ECS, IAM, API Gateway, EKS, CloudFront, EFS/EBS, Guard Duty, CloudWatch, KMS, etc.
+2+ years of experience in at least one Infrastructure as a Code technology like Terraform (preferred), AWS CloudFormation, Ansible, AWS CDK or similar
+2+ years of experience in building and managing CI/CD pipelines (GitHub Actions, GitLab, Bitbucket or similar)
+2+ years of experience in creating and running container-based applications using Docker (Kubernetes/EKS knowledge is a plus)
+Strong understanding of networking concepts (TCP/IP, DNS, load balancers, firewalls, VPN) and related AWS Services (CloudFront, API Gateway, VPC, Route 53, ELB)
+Strong understanding of security concepts (IAM, PoLP, Access Control, Endpoint Security, Data Encryption)
+What we offer
+A company culture based on autonomy and accountability
+Flexible working hours
+Cool office with great location in Budapest, nearby Deak Ferenc Square / Astoria
+Macbook in order to be the most efficient in your daily tasks
+Company-sponsored technical trainings
+Company-sponsored trips to relevant, professional conferences
+Medicover Health Insurance
+English course with native teachers
+AYCM SportPass contribution, yoga at the office, SnapSoft football
+Regular cocktail parties, team buildings, an annual all staff 3-day summer retreat
+Book club & SnapSoft library, Board game club & regular board game evenings
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Budapest
+Budapest
+Álláshirdetés jelentése

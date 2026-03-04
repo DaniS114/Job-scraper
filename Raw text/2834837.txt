@@ -1,0 +1,81 @@
+Cég neve
+Universität Heidelberg
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C++
+C
+PYTHON
+R
+TESTING
+NETWORK
+ACCESS
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+C++
+C
+PYTHON
+R
+TESTING
+NETWORK
+ACCESS
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Development of scientific software for research projects in close consultation with researchers
+Advising researchers on the development and use of research software in terms of software quality and computational efficiency
+Conception and development of software documentation and user tutorials
+Requirements
+Preferably a doctoral degree, but MSc are also encouraged to apply
+Expert knowledge in one or several of the following
+High Performance Computing
+GPU computing
+Array Computing with JAX
+A background in astrophysics is a plus, but not required
+Experience with research software development during university study and/or completion of Master-s / PhD / further academic employment
+Excellent knowledge of at least one programming language relevant to scientific computing, i. e. C++, C, Fortran, Python, R
+Excellent communication skills
+Good working knowledge of software development best practices: version control, documentation, automated testing, CI/CD etc.
+Independent, structured way of working
+Ability to work in teams and communicate progress
+Very good knowledge of English
+What we offer
+Involvement in cutting-edge research projects in an international environment
+Flexible working hours and a good work-life balance, e. g. also through the possibility of part-time employment
+Opportunity for further training and building a professional network by participating in national and international conferences
+A dedicated team that supports each other
+Modern workplace and attractive location in Neuenheimer Feld with good public transport connections
+Job ticket
+Access to our university sports offers and language courses
+Company info
+Heidelberg University is a comprehensive university with a pronounced research orientation and international outlook. With approx. 31,300 students and 8,400 staff members, including numerous top-ranking researchers, it is a renowned institution worldwide and is also of outstanding economic significance for the Rhine-Neckar Metropolitan Region.
+The Scientific Software Center (SSC) at the Interdisciplinary Center for Scientific Computing, Heidelberg University, aims to improve sustainability of research software and professionalization of its development. The SSC develops software solutions for this purpose, advises researchers and promotes the recognition of Research Software Engineers (RSEs) in the scientific community. We are looking to expand our team as soon as possible with a
+Academic Researcher: Research Software Engineer (f/m/d)
+Full-time
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

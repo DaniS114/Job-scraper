@@ -1,0 +1,66 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+HARDWARE
+TESTING
+LINUX
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+HARDWARE
+TESTING
+LINUX
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Leading a high-performing team of 3 to 8 engineers
+Working across the complete software lifecycle, including requirements, planning, development, release and support and maintenance
+Developing Linux device drivers and exposing these to application software
+Requirements
+Experience in the full software lifecycle from requirements to release, including support and maintenance
+Expertise in Linux device driver development, including interrupt handling, memory management, security and interfacing to application software
+Experience in managing and developing other engineers
+Effective communicator and ability to collaborate well within and across teams
+Nice-to-have
+Experience in automation of device driver testing using hardware devices or software emulation, Knowledge of the Arm AArch64 architecture, Awareness of device power management techniques, Experience interfacing with PCIe or UCIe attached devices, Experience with VirtIO drivers
+What we offer
+Hybrid working environment supporting high performance and personal wellbeing
+Competitive salary with benefits beyond salary to reward dedication and contributions
+Professional and personal development opportunities
+Supportive community fostering growth and collaboration
+Equal opportunity employer committed to diversity and inclusion
+Company info
+Working in software engineering at Arm is about shaping a future of technology for which we don't yet have words. Our engineers lead innovation in physical IP, AI and machine learning, cloud architecture, automotive tech, and every aspect of computing that matters.
+Spanning software's full spectrum, from compilers to AI-powered IoT and beyond, your code can enable virtually anything to be produced on silicon. Whether you're developing award-winning VR gaming or life-enhancing medical equipment, you can improve the lives of millions by being your brilliant self at Arm.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Budapest
+Álláshirdetés jelentése

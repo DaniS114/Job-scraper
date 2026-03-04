@@ -1,0 +1,100 @@
+Cég neve
+MŰISZ Iskolaszövetkezet
+Munkavégzés helye
+Hajdú-Bihar megye
+Fizetés
+Br.
+2 145 Ft/óra bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Diákmunka
+Általános munkarend
+Elvárt technológiák
+PYTHON
+SQL
+CLOUD
+MACHINE LEARNING
+ANALYTICS
+REACT
+C++
+TESTING
+API
+DOCKER
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Diákmunka
+Általános
+munkarend
+PYTHON
+SQL
+CLOUD
+MACHINE
+LEARNING
+ANALYTICS
+REACT
+C++
+TESTING
+API
+DOCKER
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Céginformáció
+A JÖVŐT NEM LEHET MEGJÓSOLNI, DE LEHET FEJLESZTENI.
+OSZD MEG A SZENVEDÉLYED!
+Érj el bármit a tehetségeddel és a szenvedélyeddel a BMW Groupnál.
+Ez az a hely, ahol kibontakoztathatod a képességeidet, fejlesztheted a tudásodat és az erősségeidet. Keressük azt a kalandvágyó csapattársat, aki segít felépíteni a BMW Group leginnovatívabb gyárát. Mindenkiből kihozzuk a maximumot. Itt a helyed, ha készen állsz egy karrierre a BMW Groupnál. Aktív hallgatói jogviszonyod van, és egy lenyűgöző állásról álmodozol? Akkor váltsuk valóra ezt az álmot!
+Feladatok
+Mi vár rád?
+• Segítesz felépíteni a QLab-ot – amely a Digitalization & Analytics for Validation, Integration Total Vehicle központja.
+• Az élvonalban dolgozhatsz a legmodernebb elektromos autógyárunkban (cutting-edge electric car production plant).
+• AI agent-eket tervezel, indítasz el (ship) és skálázol (scale) a járműmérésekhez és a járművalidáláshoz (vehicle validation), beleértve a tervezést (planning), az eszközhasználatot (tool-use) és az automatizált munkafolyamatokat (automated workflows).
+• Te felelsz az end-to-end delivery folyamatokért: data pipeline-ok, a gyári rendszerekhez kapcsolódó API-k, orchestration, testing, deployment és monitoring.
+• Meghatározod és nyomon követed a sikerességi mutatókat (reliability, latency, safety, ROI) a human-in-the-loop elv mentén.
+• Kapcsolatot tartasz a szervezet különböző csapataival, a frontvonalban dolgozóktól a senior executive-okig, előmozdítva az AI és az analytics adoption folyamatait, valamint az innovációt.
+• Felelsz a kulcsprojektek eredményeiért (outcomes), mélyrehatóan megértve az ügyfelek igényeit és stratégiát alkotva arra, hogyan oldhatja meg technológiánk a komplex problémákat.
+• Különböző kihívásokba ásod bele magad: a machine learning és a data analytics területeitől kezdve a software development-en át a data engineering-ig.
+• Folyamatosan fejleszted magad (upskill), hogy szükség szerint megbirkózz az új témákkal és technológiákkal.
+Elvárások
+Mit várunk tőled?
+• Csillapíthatatlan kíváncsiság – Tudnod kell, hogyan működik a világ. Te vagy az, aki "forward deploy" szemlélettel dolgozik.
+• Kitartás – A munka nincs kész, amíg nincs teljesen kész. Virágzol a kihívások közepette (thrive with a challenge).
+• Execution – A célod, hogy a termékeket eljuttasd a production fázisig. Légy vezető már az első naptól kezdve!
+• Együttműködés – A csapatod és a partnereid sikerét keresed. Kapcsolatépítő típus vagy.
+• Hands on keyboard tapasztalat (főleg Python, SQL). React/C++ ismerete előny.
+• ML, LLMs és data engineering fundamentals (a PySpark plusz pont).
+• Agentic AI fókusz (vagy hajlandóság a gyors tanulásra): Tapasztalat az AI agents területén (pl. tool use, planning, és orchestration olyan framework-ökön keresztül, mint a LangGraph/LangChain agents/AutoGen/crewAI, vagy ezekkel egyenértékűek), vagy extrém motiváció és képesség a gyors tanulásra, azzal a célkitűzéssel, hogy az agent systems implementálásának abszolút szakértőjévé válj. Ha az AI agents világa új számodra, de erősek az alapjaid (strong fundamentals) és nagy a hajtóerőd (drive), várjuk a jelentkezésed.
+• APIs/microservices, containers (Docker), és CI/CD tapasztalat előny; a streaming (pl. Kafka) és a cloud/on prem deployments ismerete hasznos.
+Amit kínálunk
+Mit kínálunk?
+• A munkád a tiéd marad az elejétől a végéig! Valós, az autóipart érintő problémákon fogsz dolgozni.
+• Segítesz felépíteni egy csapatot. Felépíteni egy gyárat. Felépíteni a legizgalmasabb elektromos BMW-t.
+• Minden nap tanulni fogsz. Folyamatosan fejleszted magad (upskill), hogy a szakmád mesterévé (master in your craft) válj.
+• Lehetőség, hogy hozzájárulj Magyarország növekvő autóipari és tech szektorához.
+• A világ minden tájáról érkező top mérnökökkel és elmékkel dolgozhatsz együtt. A BMW global.
+• Támogató csapatkultúra (collaborative team culture), amely értékeli a személyes kapcsolatokat és a kölcsönös tiszteletet.
+Csatlakozz hozzánk az autóipari technológia jövőjének alakításában, miközben hozzájárulsz Magyarország ipari növekedéséhez!
+Bérezés:
+2145 Ft/ óra
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Hajdú-Bihar
+megye
+Debrecen
+Álláshirdetés jelentése

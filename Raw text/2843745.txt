@@ -1,0 +1,67 @@
+Cég neve
+Randstad Deutschland GmbH & Co. KG
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+HARDWARE
+C
+C++
+PYTHON
+MATLAB
+Elvárások
+Német felsőfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+HARDWARE
+C
+C++
+PYTHON
+MATLAB
+Német
+felsőfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+The jobholder works as a Embedded Software Developer (f/m/d) and the main tasks are:
+Software implementation Implementation of software for new and existing product Implementation according to the software design and coding principles Writing effective and complete unit tests Performing integration activities in target hardware Performing software integration of generated code Software Validation and Verification Responsible for the validation and verification of software from unit tests to flight test Ensure all requirements are verified in accordance to high level needs of the program Produce test reports to contribute to the overall release, qualification and certification of the product Contribute to the overall V&V strategyRelease Management and Planning Produce release planning that is compatible with the overall systems development planning in accordance to the needs of systems engineering and customer's needs Ensuring releases are available to customers according to the planning Follow defined release management processes Software Definition & Design: Lease with systems engineering and customers to capture high level software requirements of the DeckFinder system Produce full and complete Design of the DeckFinder software products Maintain the DeckFinder design to represent the latest developments Contribute to the overall design strategy of DeckFinder Define high level and low level software requirements Overall Team Contribution Contribute to the overall engineering planning Contribute to the overall engineering process definition and refinement Contribute to Technical Sales Support activities globally Be an active member of the trials team, contributing to the safe and effective deployment of DeckFinder and test assets
+Requirements
+Studium Informatik Berufserfahrung IT / Informationssysteme mind. Bachelor-Studiengang
+über 4 Jahre 5+ years experience in software engineering encompassing cross V-Model responsibilities
+Proven track record of developing unit and integration tests is a must Experience in developing unit and integration tests is a must
+Knowledge of CPPUnit framework is a plus Experience in developing software for a airborne systems, particularly in accordance to DO-178B/C is a plus
+Knowledge of CPPUnit framework is a plus
+Englisch German fluent
+Profound knowledge of C is a must
+Detailed knowledge of embedded software development (e.g. scheduler, U-Boot, firmware and I/O)
+Proven track record developing software for a airborne systems, particularlay in accordance to DO-178B/C Experience in developing according to MISRA-C is required Working
+knowledge of the Xilinx ARM cortex SoC is required
+Knowledge of C++, especially QT is a plus
+Knowledge of Python, MATLAB / Simulink is nice to have
+Knowledge of the Lauterbach Embedded Trace and debugger is desired Experience with Atlassian toolchain is nice to have
+What we offer
+-
+Company info
+Team player with a proactive mindset Ability to work in an internationl team Disabled applicants with equal qualifications will be given special consideration.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

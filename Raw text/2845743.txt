@@ -1,0 +1,58 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+>10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Nem
+kell nyelvtudás
+>10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design and develop Arm’s SoC architecture based on Arm product IP and system architecture to meet the requirements of best-in-class compute across our market segments.
+Work proactively across Arm’s architecture and core technology teams to ensure a roadmap of architecture platforms and technology feature development supporting the needs of groundbreaking SoCs
+Collaborate with a team of SoC architects with the expertise to leave no stone unturned in the quest to design world-leading SoCs. Ability to scale across multiple partners and deliver multiple engagements in parallel.
+Collaborate with core, technology and software teams to optimize the end-to-end platform solutions
+Participate in identifying the key use cases and workloads showcasing the best of Arm IP/platform
+Work with engineering teams across Arm to coordinate on-time delivery of Arm IP into SoCs, and work together to ensure that what we learn from SoC development shapes how we develop future IP.
+Drive innovation and continuous improvement in SoC architecture staying up to date on industry trend and new technologies
+Participate and drive partner/customer specific architecture discussions. Bring specifications to a mature stage allowing design and implementation teams to engage actively
+Requirements
+Significant experience in architecting scalable SoCs on groundbreaking nodes across multiple market segments
+Expertise in multiple of the following areas: heterogeneous compute architectures, power management, clocking, coherent and non-coherent interconnect, PCIe/CXL, multi-level caching architecture, functional profiling & debug, security and access control, virtualization, memory hierarchies, sophisticated 2.5D/3D packaging, performance / power modeling & estimation, soft real-time accelerators, DRAM memory technologies.
+Excellent presentation, interpersonal and communication skills. Able to present at executive level inside and outside of Arm.
+Bachelor's or Master’s degrees in Electrical or Computer Engineering and 10 years of experience in a senior development or leadership position within semiconductor industry
+Ability to influence at all levels, across engineering and business organizations internal and external to Arm, in their peer group, across execution, strategy and change.
+Nice-to-have
+Ability to work optimally in a fast-paced environment with changing priorities and requirements, Prepared to challenge the status quo constructively at senior level, Proven track record of timely, to-specification delivery of multiple sophisticated projects in parallel, Accommodations at Arm during recruitment process, Hybrid Working at Arm designed to support high performance and personal wellbeing, Equal opportunity employer committed to mutual respect and diversity
+What we offer
+Join a newly forming Solution Engineering SoC architecture team with significant opportunities to impact the shape, definition, and culture of the team and help build our future success
+Fast paced and exciting environment with opportunities to demonstrate your strategic and innovative thinking while directly chipping in to current projects
+Arm behaviors that reflect culture and guide decisions: Partner and customer focus, Collaboration and communication, Creativity and innovation, Team and personal development, Impact and influence, Deliver on your promises
+Company info
+You know us. With 125 Arm-powered products shipped every second, more than 70% of the world’s population touches Arm technology. Our hardware engineers are a dynamic force driving innovation across various domains. Whether it’s powering your smartphone, delivering award-winning VR gaming, or developing the foundation for the world's fastest supercomputer – our engineers are designing the advanced core processors leading the race toward a connected, autonomous, hyper-performance future.
+From advancing core implementation to developing full custom physical IP, Arm hardware engineering pushes the limits in vital areas, such as memory, IO, and logic, to shape the future of technology.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Engineer
+Electronic
+Control Engineer
+Budapest
+Álláshirdetés jelentése

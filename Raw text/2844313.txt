@@ -1,0 +1,79 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+AWS
+ACCESS
+AGILE
+SECURITY
+TESTING
+.C.
+CLOUD
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+AWS
+ACCESS
+AGILE
+SECURITY
+TESTING
+.C.
+CLOUD
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, develop, deploy, monitor, scale, and troubleshoot ML and LLM-based systems that power services across our platform.
+Build automated AI testing and evaluation frameworks.
+Collaborate with Applied Scientists and Software Engineers to implement and productize AI-based capabilities.
+Shape and develop the teams AI platform infrastructure utilizing already established patterns at the organization.
+Design and develop AI libraries and frameworks to help accelerate value delivery across AI platform services.
+Work on projects involving sensitive customer content used for Diligent customers’ board communications, which requires stringent privacy and security measures.
+Document and communicate your approach, progress, and results to the broader team and to other development teams.
+Requirements
+5+ years of relevant experience.
+Strong ability to develop highly readable and well-tested code that adheres to SOLID principles.
+Proven proficiency in Python and TypeScript.
+Experience with infrastructure-as-code practices preferably in AWS (or experience with other major cloud providers).
+Ability to contribute to a high-performing agile team, and to product innovation.
+Keen to improve processes and share knowledge across the team.
+Nice-to-have
+Hands-on AWS CDK experience, Hands-on experience with LLMs including prompt engineering, fine-tuning, model evaluation, RAG, agentic solutions or MCP servers., Experience with full AI-based solution lifecycle., #LI-Hybrid
+What we offer
+Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients.
+We care about our people. Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs to name a few.
+We have teams all over the world. We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney.
+Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding.
+Hybrid work model with expectation to work onsite at least 50% of the time if within commuting distance to an office location.
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

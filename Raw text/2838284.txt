@@ -1,0 +1,148 @@
+Cég neve
+Nemzeti Fejlesztési Központ
+Munkavégzés helye
+1139 Budapest, Váci út 81-83.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+Lakhatási támogatás
+Munkába járás támogatás
+Sport támogatás
+Beiskolázási támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+PYTHON
+SQL
+AGILIS
+Big Data
+Machine Learning
+Data Visualization / BI
+Cloud technológiák
+Biztosított eszközök
+Laptop
+Mobiltelefon
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Cafeteria
+Szakmai
+tréningek
+Nyelvtanulás
+támogatása
+Lakhatási
+támogatás
+Munkába
+járás támogatás
+Sport
+támogatás
+Beiskolázási
+támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+PYTHON
+SQL
+AGILIS
+Big
+Data
+Machine
+Learning
+Data
+Visualization / BI
+Cloud
+technológiák
+Laptop
+Mobiltelefon
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Feladatok
+Ha szívesen vennél részt fejlett analitikai rendszerek fejlesztésében, prediktív MI modellek építésében és adatvezérelt elemzések végrehajtásában – nálunk a helyed!
+Olyan
+Data Scientist-et keresünk
+, aki magabiztosan eligazodik a statisztikai és gépi tanulási technikák alkalmazásában, örömmel működik együtt különböző szakterületek csapataival, valamint érdekli az analitikai megoldások integritásának és skálázhatóságának biztosítása.
+Számítunk a véleményedre, nálunk a szakmai jártasságot valódi elismerés kíséri – alapbéren felüli juttatásokkal, hosszú távú lehetőséggel.
+Feladatok:
+Modellek fejlesztése és karbantartása:
+új algoritmusok fejlesztése szakmai igények alapján
+prediktív és gépi tanulási algoritmusok betanítása szakmai kérdések megválaszolására
+analitikai modellek rendszeres tesztelése és karbantartása a hatékonyság javítása és a szakmai igények változásához való alkalmazkodás érdekében
+Adatelemzés és betekintések:
+feltáró adatelemzés (EDA) végrehajtása az adatok jellemzőinek vizsgálatára és trendek azonosítására
+ad-hoc elemzések végrehajtása szakmai igények szerint
+Együttműködés és kommunikáció:
+együttműködés szakmai partnerekkel, Data Engineer-ekkel és más érintettekkel az adatkövetelmények és az architektúra összehangolása érdekében
+az analitikai megközelítések és eredmények hatékony kommunikálása szakmai és laikus közönség számára egyaránt
+együttműködés Product Owner-ekkel a technikai problémák megoldásában
+Irányítás és megfelelőség:
+az adatok integritásának biztosítása feldolgozással és tisztítással
+az irányítási folyamatok követése dokumentációk készítésével és a biztonsági szabványok betartásával
+vizualizáció és jelentéskészítés
+dashboard-ok, riportok és teljesítménymérési eszközök fejlesztése a modellek teljesítményének nyomon követésére
+Elvárások
+Mesterfokozat adattudomány, számítástechnika vagy kapcsolódó területen (alapfokozat releváns tapasztalattal elfogadható)
+Tapasztalat:
+1-3 év tapasztalat adattudomány területén
+Felhőtechnológiák és agilis módszertanok ismerete
+Gépi tanulási modellek fejlesztésében és karbantartásában szerzett tapasztalat
+Készségek:
+Jártasság statisztikai gépi tanulásban, prediktív modellezésben és Big Data technológiákban
+Programozási nyelvek (pl. Python) magas szintű ismerete
+Erős ismeretek a jellemzők mérnöki munkájában, lekérdezési nyelvekben és felfedező vizualizációban
+Tapasztalat irányítópult-eszközökkel és optimalizációs könyvtárakkal
+Erős problémamegoldó és analitikai készségek
+Kiváló kommunikációs és együttműködési képességek
+Fókusz az agilis és skálázható megoldások szállítására
+Előnyt jelent
+Haladó analitika vagy gépi tanulás tanúsítványok
+Amit kínálunk
+Stabil munkahely
+Versenyképes jövedelem és egyéb juttatás
+Telekommunikációs eszközök
+Munkába járás támogatása
+Munka-magánélet egyensúlya
+Barátságos, motiváló szakmai csapat
+Gyermeknevelési-, iskolakezdési támogatás
+Sporttámogatás
+Angol nyelvtanulás támogatása
+Saját képzési rendszer
+Széleskörű tapasztalatszerzési lehetőség
+Kézzel fogható sikerek, proaktív csapat
+Változatos feladatok, izgalmas kihívások
+Munkahelyi extrák
+Sportolási lehetőség
+Céginformáció
+A Nemzeti Fejlesztési Központ a nemzeti fejlesztési stratégia mentén koordinálja az európai uniós fejlesztési programok kidolgozását és megvalósítását, és ezáltal támogatja Magyarország gazdasági és társadalmi fejlődését. Célunk, hogy az ország igényei alapján az uniós stratégiai célokkal összhangban hatékonyan és eredményesen használjuk fel az európai uniós forrásokat, és ennek köszönhetően olyan fejlesztési programok valósuljanak meg, amelyeken keresztül ösztönözzük az innovációt, elősegítjük a fenntartható növekedést és támogatjuk az elmaradott területek felzárkózását. Ha ebben a szerteágazó és felelősségteljes munkában Te is részt vennél, csatlakozz csapatunkhoz. Fejlődjünk együtt!
+Jelentkezés módja
+Jelentkezés gombra kattintva önéletrajz feltöltésével.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

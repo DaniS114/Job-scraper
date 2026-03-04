@@ -1,0 +1,96 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANGULAR
+SQL
+GIT
+AWS
+DATABASES
+REACT
+NODE.JS
+POSTGRESQL
+DEVOPS
+DOCKER
+AGILE
+SECURITY
+TESTING
+DEBUGGING
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANGULAR
+SQL
+GIT
+AWS
+DATABASES
+REACT
+NODE.JS
+POSTGRESQL
+DEVOPS
+DOCKER
+AGILE
+SECURITY
+TESTING
+DEBUGGING
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Build secure, scalable, and high-performing serverless microservices using Node.js, TypeScript and React on AWS
+Own and deliver well-defined stories independently, with a clear grasp of team architecture, frameworks, and tools
+Actively contribute to code reviews, testing practices, and maintain service stability
+Support and guide junior engineers (SE-I), fostering collaboration, knowledge sharing, and constructive feedback
+Maintain healthy development flow by adhering to Agile processes and driving iterative enhancements
+Use AI tools to accelerate coding, debugging, testing, research, and code reviews, always validating outputs and applying judgment
+Understand core LLM concepts (e.g., tokens, context length, hallucinations), recognize safe vs. unsafe use cases, and flag ethical, privacy, or cost concerns
+Requirements
+3–5 years of professional software engineering experience in an agile, fast-paced environment
+Familiar with core AI concepts (tokens, context length, embeddings, hallucinations), understands high-level LLM behavior, and recognizes safe vs. unsafe use cases (privacy, security, fairness)
+Uses AI to boost productivity (e.g., test scenarios, architecture drafts, research), skilled in prompt engineering (instruction vs. few-shot), and evaluates AI outputs responsibly (bias, cost, ethics)
+Builds RESTful APIs with Node.js/TypeScript, works with Docker/container workflows, employs Git for version control, and has hands-on experience with SQL databases (e.g., PostgreSQL)
+Experience using React or Angular for modern web interfaces
+Hands-on with AWS services; familiarity with infrastructure as code (CDK, Terraform) is a plus
+Experience or interest in CI/CD pipeline setup and exploring AI-assisted DevOps tooling
+Comfortable discussing architectural decisions, documenting designs (potentially with AI assistance), and presenting technical ideas clearly
+What we offer
+Flexible work environment
+Global days of service
+Comprehensive health benefits
+Meeting free days
+Generous time off policy
+Wellness programs
+Hybrid work model with onsite work at least 50% of the time if within commuting distance to an office
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+At Diligent, we're building the future with people who think boldly and move fast. Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. The future belongs to those who keep learning, and we are building it together. At Diligent, you’re not just building the future - you’re an agent of positive change, joining a global community on a mission to make an impact.
+Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability – to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.
+Headquartered in New York, Diligent has offices in Washington D.C., London, Galway, Budapest, Vancouver, Bengaluru, Munich, Singapore and Sydney.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

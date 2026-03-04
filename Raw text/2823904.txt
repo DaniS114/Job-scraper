@@ -1,0 +1,73 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+LINUX
+PYTHON
+HARDWARE
+SOFTWARE TESTING
+DEBUGGING
+CI
+C
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+LINUX
+PYTHON
+HARDWARE
+SOFTWARE
+TESTING
+DEBUGGING
+CI
+C
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Lead and mentor a distributed team of test engineers
+Design and optimise CI/CD pipelines using GitLab and related tools
+Automate testing and validation for Linux-based embedded platforms
+Collaborate with development teams to diagnose issues and improve software quality
+Requirements
+Experience leading software testing or QA for embedded systems
+Proficient in C programming and common scripting languages such as Python
+Experience with system validation, debugging, and automation frameworks
+Analytical attitude with focus on continuous improvement and quality metrics
+Nice-to-have
+Hands-on experience with embedded Linux internals, boot flow, and system bring-up, Familiarity with integrating hardware or simulators into CI pipelines, Knowledge of embedded build systems such as Yocto, Buildroot, or CMake, Interest or involvement in open-source development
+What we offer
+Opportunity to grow, develop new skills, and build a successful career at a leading technology company
+Hybrid working environment supporting high performance and personal wellbeing
+Comprehensive benefits including health and wellness, work-life success, financial rewards, and development support
+Company info
+Arm is an equal opportunity employer, committed to providing an environment of mutual respect where equal opportunities are available to all applicants and colleagues. We are a diverse organization of dedicated and innovative individuals, and don’t discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

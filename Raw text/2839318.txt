@@ -1,0 +1,91 @@
+Cég neve
+TIGRA Zrt.
+Munkavégzés helye
+Budapest
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+A
+Tigra Zrt.
+30 év szakmai tapasztalattal, több mint 320 főállású munkavállalóval, évi 17 milliárd HUF forgalommal a magyar ICT szektor egyik meghatározó szereplője. Ha szeretnél egy elismert, innovatív és nyitott, fiatalos csapatnak részese lenni, szeretnél tovább fejlődni, akkor csatlakozz hozzánk
+Senior full-stack szoftverfejlesztő
+munkakörbe
+Pontosan milyen feladataid lennének?
+Szoftvermegoldások tervezése üzleti és technikai igények alapján, a meglévő architektúrába illeszkedően.
+Moduláris, jól strukturált Java-alapú kód fejlesztése, a fejlesztési standardok és best practice-ek mentén.
+Relációs adatbázisok tervezése és optimalizálása (pl. Oracle, PostgreSQL, MySQL), valamint a backend logika adatbázishoz való integrálása.
+Adatbázisok és alkalmazásszintek összekapcsolása, ORM technológiák (pl. Hibernate) és adatkezelési rétegek implementálása révén.
+Szoftverhibák feltárása, diagnosztizálása és javítása a működésbeli stabilitás és teljesítmény biztosítása érdekében.
+Részletes és naprakész dokumentáció készítése a szoftver fejlesztési és üzemeltetési folyamatairól.
+Felhasználói támogatás nyújtása a szoftver használatával kapcsolatban, beleértve a technikai konzultációt és a szükség szerinti oktatást.
+Fejlesztői csapat szakmai támogatása vagy koordinálása (senior pozíció esetén), beleértve a tudásmegosztást és a munkaszervezésben való részvételt.
+Kapcsolattartás a projektvezetőkkel, tesztelőkkel és egyéb szereplőkkel, a fejlesztési ciklus hatékony előrehaladása érdekében.
+Adminisztratív feladatok elvégzése, mint például szabadságok és munkaórák rögzítése, illetve feladatok dokumentálása a kijelölt elektronikus rendszerekben.
+A közvetlen vezető utasításai alapján eseti, a pozícióhoz kapcsolódó további szakmai feladatok ellátása, a szervezet belső szabályzatainak megfelelően.
+Szívesen megismerünk, ha
+rendelkezel műszaki/informatikai tárgyú szakirányú felsőfokú végzettséggel;
+elmélyült tudásod van back-end oldalon Java Springboot, ill. front-end oldalon Angular webtechnológiai ismerettel;
+rendelkezel IT specifikációs- és tervezőeszközök, módszerek ismeretével és szoftverfejlesztési metodológiák sem állnak távol Tőled;
+legalább 3-5 éves gyakorlatod van hasonló pozícióban;
+magabiztos angol nyelvtudásod van;
+kiváló elemző- és dokumentációs képességgel rendelkezel;
+megoldás-centrikus szemléleted van kiváló problémamegoldó képességgel kombinálva;
+precizitás jellemző Rád, mert törekszel a teljességre;
+ügyfélorientált szemlélettel és jó kommunikációs készséggel rendelkezel.
+Amit cserébe kínálunk neked a versenyképes fizetésen és intellektuális kihíváson túl:
+Csatlakozás egy olyan szakmai közösséghez, amelynek a munkáját megbecsülik
+Társadalmilag hasznos projektek
+Támogató vállalati kultúra, ami gondoskodik a személyre szabott karrierútról
+Napi 7,5 óra elvárt munkaidő
+Egy csapatot, aki örül az életeseményeidnek, legyen az házasság vagy gyermekáldás, s ezt még anyagilag is segíti
+Cég által biztosított orvosi szűrővizsgálatok
+Évente több csapatépítő rendezvény
+Céges, családtagokra is kiterjeszthető egészségbiztosítás
+Céges életmód program
+Orvosi szoba
+Cég által biztosított rendszeres sportolási lehetőségek
+Születésnapi extra szabadság
+Lehetőség hibrid munkavégzésre
+Ha ajánlatunk elnyerte tetszésedet és alkalmasnak érzed magad a pozíció betöltésére, küldd el fényképes magyar nyelvű önéletrajzodat a "Jelentkezem" gombra kattintva.
+Munkahelyi extrák
+Orvosi felügyelet
+Céges rendezvények
+Sportolási lehetőség
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

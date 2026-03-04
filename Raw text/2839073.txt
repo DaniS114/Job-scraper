@@ -1,0 +1,72 @@
+Cég neve
+Volkswagen Infotainment GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+NETWORK
+PYTHON
+LINUX
+WINDOWS
+SOFTWARE TESTING
+Elvárások
+Német középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+NETWORK
+PYTHON
+LINUX
+WINDOWS
+SOFTWARE
+TESTING
+Német
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+As a student (m/f/d) in the field of networking development, you will support the team in testing the infotainment functions of the vehicle. To do this, you will become the representative of our customers - long before they experience a system for the first time. Your focus will be on network functionalities and the applications of our infotainment systems based on them. In doing so, you will not only acquire basic skills of professional software testing, but also learn how vehicle networks work at the protocol level.
+Requirements
+Possible Tasks within this Role
+Independent execution and documentation of test cases in the functional area
+Collect test logs and create bug and trial reports
+Support of the test environments
+Maintenance and adaptation of existing test cases, development of new test cases if necessary
+Automation of existing test cases with the help of Robotframework and Python
+Qualification requirements
+Personal responsibility and organizational strength
+Good language skills in German and English
+First experience in Python or comparable programming languages
+The command line (Linux and Windows) doesn't scare you
+Basic knowledge of network technologies TCP/IP, Ethernet etc. is an advantage
+Skills
+Teamwork
+Communication Skills
+Taking Initiative
+Creativity
+Self-Confidence
+Company info
+Volkswagen Infotainment GmbH
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Germany
+Álláshirdetés jelentése

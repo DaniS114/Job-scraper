@@ -1,0 +1,68 @@
+Cég neve
+Knorr-Bremse
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ERP
+API
+JAVASCRIPT
+FRONTEND
+REST
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ERP
+API
+JAVASCRIPT
+FRONTEND
+REST
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Céginformáció
+Knorr-Bremse, the global market leader for braking systems and other systems for rail and commercial vehicles
+FŐBB FELADATOK
+* Gyártásfelügyeleti megoldások létrehozásának érdekében a MES alkalmazások fejlesztésében vehetsz részt Tulip platformon
+* MES funkciók fejlesztésében és bővítésében is kipróbálhatod magad a gyártosorokon beleértve a hardverintegrációt, folyamatoptimalizálást és automatizálást
+* Az ERP és PLM rendszerekkel való interfészek kialakítása is a Te feladatod lesz
+* A gyártósori adatok feldolgozására és elemzésére szolgáló megoldások fejlesztése is fontos része lesz a munkádnak
+* Dashboardok tervezésében is részt vehetsz a termelés nyomonkövetésének érdekében, emellett heti KPI-ok összehasonlításában és a trendek vizualizálásában is számítunk rád
+* Továbbá támogatni fogod a munkautasítások és nyomonkövetési rendszerek bevezetését is
+MUNKAKÖR BETÖLTÉSÉNEK FELTÉTELEI
+* MES rendszerek bevezetésében és fejlesztésében szerzett tapasztalat
+* Gyártási folyamatok ismerete
+* Jó rendszerszemlélet és strukturált gondolkodás jellemez
+* Proaktivitással valamint jó kommunikációs és együttműködési készséggel bírsz
+* Adatbázisokkal kapcsolatos jártasság
+* ERP, PLM és MES rendszerek architektúrájának ismerete
+* REST API-k és ipari kommunikációs protokollok ( pl.: Modbus TCP, OPC UA) ismerete
+Még nagyobb esélyed van, ha * Tulip platform vagy hasonló MES/IoT platorm ismerettel rendelkezel
+* JavaScript ismerettel rendelkezel a felhasználói felület testreszabásához vagy beágyazott frontend eszközökhöz
+* IoT megoldásokban, valamint digitalizációs transzformációs projektekben szerzett tapasztalattal rendelkezel
+* Jártas vagy gyártásinformatikai rendszerek fejlesztésében
+JELENTKEZÉS MÓDJA
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,86 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+GIT
+DOCKER
+TESTING
+LINUX
+PYTHON
+HARDWARE
+CI
+TEST MANAGEMENT
+Biztosított eszközök
+Linux
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+GIT
+DOCKER
+TESTING
+LINUX
+PYTHON
+HARDWARE
+CI
+TEST
+MANAGEMENT
+Linux
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Cooperate with software teams and testers to establish easy to maintain automated test pipelines.
+Help develop the development cycle and environment by providing automation and CI friendly design patterns.
+Drive improvement at every step of the process in a CI/CD environment, from the code implementation to the release procedure.
+Facilitate the timely and effective resolution of any issues detected.
+Design and build CI/CD pipelines (GitLab), integrating corporate services like source version control (Git), device farms (LAVA), artifact storage (Artifactory), containerization framework (docker) and test report dashboards.
+Improve tooling and automation and provide guidance to build efficient automated workflows for development, testing and release.
+Join a distributed team that leads validation efforts to enable the delivery of high-quality production software based on our open-source software stack for embedded devices.
+Requirements
+Good understanding of CI/CD principles, preferably in GitLab CI.
+Proficient in Linux usage, basic system administration and networking.
+Well established experience in shell and Python scripting.
+Familiar with software integration, system validation tests and automated testing frameworks.
+Proficient user of version control, test management and issue tracking tools.
+Nice-to-have
+Experience in integrating hardware or simulator into the pipeline., Proficient in working with software build-systems used in embedded, like Yocto and CMake., Experience at the HW/SW interaction layer, with embedded systems, boot loaders, Linux kernel or device drivers., Curious about open-source development practices.
+What we offer
+Join us and make a real impact on the quality of Arm's software!
+Grow, develop new skills, and build a successful career at a leading technology company.
+Arm’s approach to hybrid working designed to support both high performance and personal wellbeing.
+Empowerment to determine own hybrid working patterns depending on team needs.
+Equal opportunity employer committed to mutual respect and diversity.
+Health and Wellness benefits to nurture physical and mental wellbeing.
+Work and Life Success benefits to empower life beyond standard work patterns.
+Financial Rewards beyond competitive salary.
+Development and Support fostering professional and personal development.
+Company info
+Arm has built the world’s most pervasive compute architecture, and we’ve led many of the technology revolutions that impact the day-to-day lives of people everywhere. We work on technology to transform the future of AI and IoT devices.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,113 @@
+Cég neve
+MagNet Bank Zrt.
+Munkavégzés helye
+Hibrid
+•
+1062 Budapest, Andrássy út 98.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Élet- és balesetbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Főiskola
+
+Cafeteria
+Egészségbiztosítás
+Élet-
+és balesetbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+A MagNet Banknál olyan
+Tech Leadet
+keresünk, aki nemcsak kiváló mobilfejlesztő, hanem rendszerszinten gondolkodó technikai irányító is és a Java világa sem áll tőle távol. Olyan szakembert várunk, aki iOS és Android platformon magabiztos, érti a Java backend (Java EE) összefüggéseit, és képes szakmai irányt mutatni a mobil fejlesztési területen.
+Ebben a szerepben elsősorban a mobil technológiai döntések szakmai tulajdonosa leszel. Aktívan részt veszel a komplex fejlesztési feladatokban, irányt mutatsz a csapatnak, és meghatározó szereped lesz a mobil architektúra és integrációs minták kialakításában.
+Feladataid lesznek
+Mobil fejlesztési projektek tervezése, ütemezése és szakmai bemutatása
+Függőségek feltárása, kockázatelemzés és kockázatkezelési megoldások kidolgozása
+Mobil fejlesztési koncepciók kidolgozása és szakmai véleményezése
+Erőforrásbecslések készítése és kapacitástervezés
+Csapattagok koordinálása, mentorálása és szakmai támogatása
+Technológiai döntések előkészítése és szakmai képviselete architektúra és üzleti stakeholderek felé
+Kódminőség és egységesség biztosítása (code review-k vezetése, sztenderdek betartatása)
+Technikai dokumentációk készítése és karbantartása
+CI/CD folyamatokban való aktív részvétel (GitLab, Jenkins vagy más build rendszer), együttműködés a DevOps csapattal
+Szoros együttműködés backend, architektúra, tesztelő és üzleti csapatokkal (PO, BA, QA)
+A fejlesztési folyamatok és minőség folyamatos javítása agilis keretrendszerben
+Technikai adósságok felmérése, kommunikálása, valamint kezelésének priorizálása a PO-val egyetértésben
+Kritikus technikai döntések meghozatala és indoklása
+Elvárások
+Minimum 5+ év mobilfejlesztési tapasztalat
+Erős tapasztalat natív mobilfejlesztésben (iOS és/vagy Android), valamint JEE alapú backend rendszerekkel
+Magabiztos tudás Swift vagy Kotlin/Java területen
+Backend architektúrák, REST API-k, OAuth alapú biztonsági megoldások rendszer szintű ismerete
+SQL ismeret adatbázis-szintű hibakeresés és backend integrációk támogatásához.
+Clean Code, Clean Architecture, SOLID elvek gyakorlati használata
+OOP szemlélet
+Verziókezelés (Git) és CI/CD pipeline ismeret
+Agilis módszertanok (Scrum, Kanban) gyakorlati alkalmazása
+Fejlesztői dokumentáció és release folyamat támogatása
+Rendszerszintű gondolkodás
+Képesség technológiai döntések előkészítésére és szakmai iránymutatásra
+Strukturált és magabiztos kommunikáció technikai és üzleti stakeholder irányába
+Mentorálási és csapatépítési affinitás
+Proaktív együttműködés és döntésképesség
+Amit kínálunk
+A MagNet Bankban hiszünk a tudatos technológiahasználatban és az emberközpontú munkakultúrában. Olyan környezetet biztosítunk, ahol:
+Valós hatással vagy a bank digitális termékeinek fejlődésére
+Stratégiai szintű technikai szerepet tölthetsz be
+Támogató, szakmai közeg vesz körül
+Stabilitást kapsz: határozatlan idejű szerződés, cafeteria
+Rugalmas munkavégzés és home office lehetőség
+Szakmai fejlődési lehetőségek (mentorálás, belső tech fórumok)
+Inspiráló munkakörnyezet a budapesti Andrássy úton
+Munkahelyi extrák
+Céges rendezvények
+Ingyen reggeli
+Masszázs
+Céginformáció
+Mit érdemes tudnod a MagNet Bankról?
+Több mint 30 éve működünk nyereségesen 100%-ig magyar magántulajdonban lévő kereskedelmi bankként.
+A hazai bankpiacon - egyedülálló módon - közösségi bankként vagyunk jelen, a nemzetközi értékalapú bankokhoz (GABV) tartozunk.
+2019-ben elnyertük az Év Társadalmilag Felelős Bankja örökös díjat a Mastercard Év Bankja versenyen.
+2023. évben Üzleti Etikai Díjat kaptunk.
+Jelentkezés módja
+Amennyiben ajánlatunk felkeltette érdeklődésed, és úgy látod, megfelelsz a fent leírt elvárásoknak, küldd el fényképes önéletrajzod,
+bérigény feltüntetésével
+a lenti "Jelentkezem" gombra kattintva.
+Az álláspályázattal kapcsolatos részletes adatkezelési tájékoztatást a MagNet Bank weboldalán megtalálható "Kiegészítő Adatkezelési Tájékoztató álláspályázatot benyújtók részére" elnevezésű adatkezelési tájékoztató tartalmazza.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+IT,
+fejlesztési vezető
+Budapest
+Budapest
+Álláshirdetés jelentése

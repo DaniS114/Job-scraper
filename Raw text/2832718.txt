@@ -1,0 +1,95 @@
+Cég neve
+Rosenxt Group
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+AZURE
+DEVOPS
+CLOUD
+SECURITY
+ANSIBLE
+POWERSHELL
+BASH
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+AZURE
+DEVOPS
+CLOUD
+SECURITY
+ANSIBLE
+POWERSHELL
+BASH
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design scalable and secure cloud solutions on Azure to support data collection and processing
+Understand business and application needs to identify key architectural drivers
+Develop comprehensive solutions considering organizational constraints
+Engage with multiple teams to maintain up-to-date architecture and establish guiding principles
+Lead architectural expansions and ensure cohesive development across teams and projects
+Work closely with data scientists, developers, and stakeholders to align infrastructure with project objectives
+Streamline machine learning workflows and model deployments through MLOps methodologies
+Continuously evaluate and enhance system efficiency, scalability, and cost-effectiveness
+Rapidly diagnose and resolve infrastructure-related issues
+Maintain clear, detailed documentation of architectures, configurations, and operational procedures
+Requirements
+To become part of the Rosenxt family,
+you impress with analytical thinking and a structured approach to work . Moreover you should bring with you:
+End-to-End Architecture: Proven capability to architect comprehensive solutions, from sensor data acquisition to customer insights delivery
+Azure Expertise: Extensive experience with Azure Cloud services (compute, storage, networking, security)
+Azure DevOps: Proficient in managing repositories, CI/CD pipelines, and project tracking with Azure DevOps
+MLOps Knowledge: Familiarity with MLOps practices for efficient deployment and monitoring of machine learning models
+Infrastructure as Code: Experience using IaC tools (Terraform, Ansible) for automated infrastructure deployments
+Data Pipeline Design: Ability to design and implement robust pipelines for sensor data collection and processing
+Scripting Skills: Proficiency in scripting and automation using Python, PowerShell, or Bash
+Security & Compliance: Knowledge of best practices in securing cloud environments and ensuring regulatory compliance
+Communication: Excellent verbal and written communication skills in English (German is a plus) to collaborate effectively within teams.
+What we offer
+Development opportunities and career opportunities in a global, innovative and long-term oriented group of companies with family character
+Flexible working time, working time accounts and Home Office possible
+An open, informal corporate culture, where we celebrate success with social events
+Compatibility of work and family through our company-owned day care center
+Employer funded pension, capital accumulation benefits and discounted insurance offers (occupational disability insurance and other direct insurance policies)
+Company Restaurant and fresh fruit daily
+Various in-house sports activities (EGYM Wellpass and other offers)
+Attractive leasing offers for IT-products and bikes for private use
+Corporate Benefits - employee offers in changing online shops at top conditions
+Company info
+Rosenxt ist eine zukunftsorientierte Technologiegruppe - wir sind visionäre Architekten des Fortschritts mit 45 Jahren Ingenieurs-Exzellenz. Als ein privat geführter globaler Partner mit rund 550 Mitarbeitern schauen wir weit in die Zukunft, setzen auf Langfristigkeit und machen so aus Chancen erfolgreiche Geschäftsfelder. Wir sind technikbegeistert durch und durch und tauchen tief in die neuesten Technologien ein.
+To strengthen our development team located in Wietmarschen-Lohne or Osnabrück , offering flexible working hours and the option for partial home office, we are looking for a
+Software Architect (all genders welcome)
+for cloud based solutions in the field o
+f Water Line Integrity Solutions
+Our Water Line Integrity Solutions business unit focuses on developing advanced technologies for checking and ensuring the integrity of water pipe networks. In doing so, we contribute to the better use of limited water resources, supporting sustainability and environmental protection. Our state-of-the-art inspection devices autonomously move through water pipelines, gathering extensive data, including video and ultrasound data. To evaluate this data, we develop cloud-based software solutions that utilize classic signal processing algorithms and artificial intelligence (AI). In our interdisciplinary, agile, and autonomous teams, we foster innovations that create both business and ecological value.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

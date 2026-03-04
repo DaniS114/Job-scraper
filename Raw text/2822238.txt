@@ -1,0 +1,116 @@
+Cég neve
+X-Chem Zrt.
+Munkavégzés helye
+Hibrid
+•
+Graphisoft Park - Budapest, Záhony u. 7, 1031
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Egészségpénztár
+Cafeteria
+Nyelvtanulás támogatása
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Rugalmas munkaidő
+Elvárt technológiák
+Kubernetes
+AWS
+Java
+C#
+React
+Python
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Egészségpénztár
+Cafeteria
+Nyelvtanulás
+támogatása
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Rugalmas
+munkaidő
+Kubernetes
+AWS
+Java
+C#
+React
+Python
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+We are expanding our Budapest engineering hub and seeking a
+Senior Java Developer with strong AWS experience
+to help integrate three internally built products, each with its own tech stack, into a scalable, modern, cloud-native platform. This role is key to enabling X-Chem to fully leverage our data assets and advanced AI tools in support of next-generation scientific workflows.
+Hybrid role with flexible working hours, based in a modern and inspiring workspace at Graphisoft Park in Budapest’s 3rd district.
+Develop and enhance cloud-native backend services using modern frameworks to support scalable scientific and AI workflows.
+Integrate three existing in-house products built on different technology stacks into a unified, cohesive platform that improves interoperability and data flow.
+Modernize targeted legacy components where appropriate, refactoring or rebuilding selected parts to align with current best practices and cloud standards.
+Design and implement microservices and APIs that connect new and existing systems across chemistry, analytics, production, and logistics workflows.
+Work within event-driven and AWS-native architectures (EKS, S3, Lambda, containers, etc.) to support robust and efficient system interactions.
+Integrate machine learning models and data pipelines into production environments.
+Bridge older and newer technology stacks (Java, Python, C# , JSF, HTML, React), ensuring smooth transitions and consistent user experiences.
+Lead architectural planning and platform strategy discussions, helping determine when to extend, integrate, or modernize components.
+Improve performance, reliability, and maintainability of both existing systems and newly developed services.
+Work closely with cross-functional scientific teams to translate domain requirements into scalable cloud-based solutions.
+Requirements
+Solid professional experience with
+Java development
+and backend engineering.
+Hands-on experience with
+AWS cloud
+, Docker, Kubernetes/EKS, and microservices.
+Familiarity with databases such as
+MongoDB, PostgreSQL, or Oracle
+.
+Experience integrating complex systems in multi-language environments.
+Strong problem-solving mindset and interest in scientific or data-intensive domains.
+Nice-to-have
+Python experience, especially related to AI/ML or data workflows.
+Familiarity with front-end technologies (e.g., React) or an interest in understanding UI integration.
+Knowledge of C# or experience merging diverse tech stacks.
+Exposure to machine learning platforms.
+Experience with CI/CD tools.
+Experience with chemistry, cheminformatics, DEL technology, or drug discovery workflows is a strong bonus.
+What we offer
+Shape a unified, big data-powered platform at the forefront of modern drug discovery.
+Work in a growing, global engineering hub with real influence on architecture and direction.
+Collaborate at the intersection of software engineering, AI/ML, and scientific R&D.
+Enjoy a mission-driven environment where technology directly impacts human health.
+Benefits
+X-Chem offers competitive compensation and benefits programs designed to meet the diverse needs of our global colleagues. Our Pay for Performance philosophy and practices reward colleagues based on the contributions they make to our business.
+Our competitive benefits programs support our colleagues by:
+Promoting health and wellness to help colleagues maintain and improve their physical and mental wellbeing. X-Chem offerings include private health insurance, preventative health programs, and personal wellness benefits.
+Offering flexible and meaningful benefits, including flexible working hours, long-term loyalty rewards, language learning opportunities, and access to experiences that encourage relaxation, recreation, and cultural enrichment.
+Workplace extras
+Corporate events
+Company bus
+Company info
+At X-Chem, we are building the world’s leading AI-enabled drug discovery platform. Our mission is to accelerate pre-clinical drug discovery by unifying chemistry, analytics, production, logistics, and machine learning into one powerful technology ecosystem.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Budapest
+Álláshirdetés jelentése

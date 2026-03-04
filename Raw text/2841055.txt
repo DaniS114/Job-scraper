@@ -1,0 +1,95 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+REACT
+CLOUD
+AGILE
+AWS
+SECURITY
+DEVOPS
+NODE.JS
+AZURE
+JAVASCRIPT
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+REACT
+CLOUD
+AGILE
+AWS
+SECURITY
+DEVOPS
+NODE.JS
+AZURE
+JAVASCRIPT
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Create robust, scalable, and secure microservices that power our SaaS platform for governance
+Leverage AWS (serverless or migrations) with TypeScript
+Own services end-to-end (code, deployment, monitoring)
+Drive architecture discussions
+Regularly demo to the department
+Shape AI strategy by leading design decisions, embedding AI responsibly into systems, and mentoring teams on AI capabilities, safety, and governance
+Champion the design and delivery of secure, high-performance microservices on AWS
+Set technical direction across multiple teams, spotting system pain points and proposing improvements
+Pioneer AI-driven solutions by advising on model capabilities, crafting effective prompt strategies, and embedding governance and monitoring into development workflows
+Partner with Product, Security, and DevOps to shape technical roadmaps, ensure compliance, and integrate AI features
+Continuously evaluate and pilot cutting-edge technologies including AI toolchains
+Own projects end-to-end from ideation to deployment, monitoring, and iteration
+Mentor engineers in best practices and AI-augmented workflows
+Stay ahead of emerging AI trends and regulations, adapting designs and practices accordingly
+Requirements
+7–10 years delivering secure, scalable applications in agile environments
+Understanding of model architectures (e.g., transformer vs. retrieval-augmented), bias and safety concerns, prompt engineering
+Proven experience shaping AI strategy and mentoring teams on responsible AI use
+Ability to architect AI systems with embedded monitoring and governance
+Design and review scalable, high-performance system architectures, APIs, and data models
+Write high-quality, testable code in Node.js, React, and TypeScript/JavaScript
+Lead end-to-end DevOps and platform engineering including CI/CD pipeline design, infrastructure-as-code, cloud observability, incident response, and cost-aware architecture across AWS, Azure, and GCP
+Integrate security best practices (IAM, secrets management) including AI components
+Embed bias/privacy checks in delivery pipelines
+Strong communication skills for technical and AI-related concepts
+Proven ability to lead projects, influence engineering culture, and mentor peers in AI-augmented workflows
+Degree in Computer Science, Engineering, Mathematics, or equivalent experience
+What we offer
+Flexible work environment
+Global days of service
+Comprehensive health benefits
+Meeting free days
+Generous time off policy
+Wellness programs
+Hybrid work model with onsite work at least 50% of the time if within commuting distance
+Diversity and inclusion initiatives including Employee Resource Groups and educational resources
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,54 @@
+Cég neve
+BX Digital AG
+Munkavégzés helye
+Talacker 50, 8001 Zürich
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+DEVOPS
+DOCKER
+SECURITY
+ACCESS
+ANSIBLE.
+NETWORK
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+DEVOPS
+DOCKER
+SECURITY
+ACCESS
+ANSIBLE.
+NETWORK
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+#Pioneers #Disruption #Blockchain #Tokenized Assets #Europe. Are you interested in these terms? Then you've come to the right place. The Stuttgart Stock Exchange Group aims to revolutionize existing capital markets and create an open, unified capital market union in Europe through the use of blockchain technology. With the newly founded fintech Seturion in Stuttgart and BX Digital in Zurich, we are developing an innovative, pan-European and future-proof solution for the capital market. We work at the nexus of traditional financial services and new blockchain technologies.Senior DevOps Engineer 100%BX Digital is the first regulated financial market infrastructure in Switzerland with a trading and settlement system for digital assets on the public blockchain. The platform has a DLT trading facility license, offers the highest security standards and benefits from the many years of experience of the Swiss stock exchange, BX Swiss, in operating regulated trading venues. Trading participants benefit from direct control over digital assets and fast and reliable settlement in Swiss francs thanks to audited DvP mechanism and a connection to the Swiss National Bank's payment system.The Stuttgart Stock Exchange Group is the sixth-largest stock exchange group in Europe and combines capital market, digital, and crypto business under one roof. With locations in Stuttgart, Berlin, Stockholm, Zurich, and Ljubljana and a dedicated team of over 700 employees, we operate international stock exchanges and develop innovative solutions for institutional and private clients in the areas of brokerage, trading, settlement and custody.Your RoleAs a Senior DevOps Engineer, you will be responsible for building and operating a state-of-the-art Infrastructure as Code (IaC) landscape in one of the most challenging and highly regulated environments: financial markets. You will design, automate, and secure modern cloud-native platforms that ensure the highest standards of reliability, compliance, and scalability.In close collaboration with software engineers, architects, and security specialists, you will drive the automation of infrastructure and deployment processes, enforce robust staging concepts across development, test, and production environments, and ensure smooth integration between classic IT, event-driven architectures, and emerging Web3/DLT technologies.This role is ideal for someone who thrives at the intersection of engineering excellence, operational resilience, and regulatory compliance, and who wants to shape the foundations of secure and innovative financial infrastructure.Your TasksEnvironments: Build and maintain development, test, and production environments in cloud environments, applying robust staging concepts.Infrastructure as Code: Design, implement, and optimize Infrastructure as Code (IaC) using tools such as Terraform and Ansible.Containers & Orchestration: Manage container technologies (Docker) and orchestrate them via Kubernetes, integrating with CI/CD pipelines.CI/CD: Develop and maintain CI/CD processes (e.g., GitLab), ensuring secure, automated build, test, and deployment workflows.APIs: Connect, integrate, and manage APIs between back-end and front-end applications.Automation & Reliability: Automate infrastructure processes with a strong focus on reliability, observability, and compliance.DevSecOps: Implement DevSecOps practices, integrating security scanning and monitoring tools into the deployment pipeline.Collaboration: Collaborate closely with cross-functional teams to align infrastructure design with business and regulatory requirements.What You Bring to the TableExperience: At least 5 years of professional experience in platform engineering with strong IaC expertise, ideally in a regulated environment (finance or crypto preferred).Education: University degree in computer science, information security, or a related technical field (or equivalent practical experience).Security & compliance: Strong understanding of security aspects, compliance with regulation and its impact on developmentProject management & communication: Experience managing long-term projects, coordinating with stakeholders, and mitigating risks; strong cross-functional collaboration skills.Languages: Fluency in English (written and spoken) is required; German skills are a strong plus.Strategic mindset: Ability to combine a hands-on, operational approach with a forward-looking view to align security measures with business objectives.Startup drive: Pragmatic, solution-oriented, and willing to go the extra mile in a fast-paced environment where initiative and accountability are valued.What We Offer YouDynamic and Innovative Environment: Work in the midst of a dynamic, fast-growing, and innovative sector of Digital AssetsChallenging Tasks: Engage in exciting activities with opportunities for personal and professional developmentAttractive Compensation: Competitive remuneration that rewards success and performanceModern Hybrid Work Environment: Hybrid work opportunities in Zürich with flexible working hours and six weeks of vacation per yearExcellent Network: Access to a network of leading financial institutions and key players in the financial market.If would like to become part of our team, we look forward to receiving your application! Please send your complete application documents, including a cover letter, to:Claudia Ramondetta, Human Resources (
+Write an email
+) jidec2918cpn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Switzerland
+Álláshirdetés jelentése

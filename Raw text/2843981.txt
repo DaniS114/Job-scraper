@@ -1,0 +1,79 @@
+Cég neve
+Utimaco GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+HARDWARE
+NETWORK
+SECURITY
+PYTHON
+LINUX
+TESTING
+TEST AUTOMATION
+TEST MANAGEMENT
+ISTQB
+Elvárások
+Angol felsőfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+HARDWARE
+NETWORK
+SECURITY
+PYTHON
+LINUX
+TESTING
+TEST
+AUTOMATION
+TEST
+MANAGEMENT
+ISTQB
+Angol
+felsőfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Set up test systems (hardware / virtualized) in complex network structures so that they are ready to perform test cases
+Set up and run tests in line with test specifications and take appropriate actions (i.e. passing the test, raising a defect)
+Create test cases which cover functionality, reliability, usability, efficiency, maintainability, portability, and security of the software to a sufficient degree
+Write manual, preferably automated test cases in line with a specification to test a piece of functionality and check ambiguities in tests with Development
+Contribute to technical risk reviews, analyzing test coverage against functional specifications for component changes
+Requirements
+You have a Bachelor degree or equivelant qualification and several years of working experience in test automation using Python
+You are experienced in Linux operating system (RHEL, RockyOS) and confident in networking (protocols, wireshark, OpenSSL)
+Knowhow in Test Management Tools (i.e. TestLink) is required
+Beneficial:
+ISTQB certification
+UI testing (Squish)
+Fluent English language both written and spoken
+What we offer
+An open and friendly corporate culture characterized by constructive and collaborative interaction.
+We provide you with support for your future plans with a company pension scheme (depending on country-specific circumstances).
+Early risers and night owls - thanks to a flexible working model you can organise your working day yourself.
+We also support you privately 芒聙聯 benefit from special payments or additional vacation days on anniversaries or other special occasions.
+Utimaco is growing and living diversity! Our global team includes colleagues from 42 nationalities and 45 different languages spoken.
+Company info
+Security is becoming increasingly important to industries. Utimaco products have been protecting people from organized crime and terror as well as sensitive data from theft and abuse for over 35 years. To this end, Utimaco has developed hardware security modules and compliance solutions for telecommunications providers in the field of regulation. Utimaco is the global market leader in both segments. Utimaco stands for recognized product quality, userbility, excellent support and a market-driven offer, manufactured in Germany.
+The central goal of protecting people, data and ideas is the commitment of more than 200 people to Utimaco.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

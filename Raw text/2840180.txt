@@ -1,0 +1,94 @@
+Cég neve
+Nova HR
+Munkavégzés helye
+Távmunka / Remote
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Céges üdülés, üdültetés
+Szakmai tréningek
+Munkaidő, foglalkoztatás jellege
+Vállalkozói
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+SQL
+C
+BACKEND
+AZURE
+POSTGRESQL
+MYSQL
+ASP.
+DEVOPS
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Céges
+üdülés, üdültetés
+Szakmai
+tréningek
+Vállalkozói
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+SQL
+C
+BACKEND
+AZURE
+POSTGRESQL
+MYSQL
+ASP.
+DEVOPS
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+Egy amerikai tulajdonban lévő szoftverfejlesztő és IT tanácsadó vállalat számára keresünk munkatársat.
+Feladatok
+Backend fejlesztés és működtetés .NET/C# környezetben
+Modern backend architektúrák (pl. microservices) tervezése és implementációja
+Felhőszolgáltatásokon (elsősorban Azure) történő megoldások építése és telepítése
+Relációs adatbázisokkal való munka (pl. PostgreSQL, SQL Server, MySQL)
+Ügyféloldali technikai egyeztetésekben való részvétel
+Együttműködés a csapat többi tagjával és más funkciókkal
+Elvárások
+Felsőfokú informatikai végzettség
+Magabiztos, aktív angol nyelvtudás (szóban és írásban egyaránt)
+Több éves backend fejlesztői tapasztalat, modern architektúrák (pl. microservices) alapos ismerete
+Legalább 3-4 év C# és .NET (ASP.NET) fejlesztési tapasztalat
+Felhőalapú megoldások fejlesztésében és telepítésében szerzett tapasztalat (elsősorban Azure)
+Tapasztalat relációs adatbázisokkal (Postgres, SQL Server, MySQL stb.)
+Megoldásorientált hozzáállás, jó problémamegoldó készség
+Önállóság, proaktivitás, rugalmasság
+Előnyt jelent
+DevOps koncepciók/folyamatok és CI/CD eszközök alapos ismerete
+Amit kínálunk
+Versenyképes juttatási csomag
+Lehetőség egy globálisan sokszínű, kiemelkedő mérnöki csapattal dolgozni az iparág legösszetettebb mérnöki kihívásain
+Rendkívül rugalmas munkakörülmények – bőkezű irodai eszköztámogatás az otthoni munkavégzéshez, igény esetén munkaállomás biztosítása egy közeli irodában vagy coworking térben, vagy akár mindkettőt. Nincs szükség üzleti utazásra.
+Élvezetes, startup jellegű munkakörnyezet, kiváló szakmai fejlődési és karrierlehetőségekkel
+Rugalmas munkaidő – remote-first vállalatként a hangsúly mindig a minőségi munkavégzésen van, nem azon, hogy mikor vagy hol történik az.
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Álláshirdetés jelentése

@@ -1,0 +1,80 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+TESTING
+JIRA
+SECURITY
+TEST MANAGEMENT
+LINUX
+C
+GIT
+CI
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+TESTING
+JIRA
+SECURITY
+TEST
+MANAGEMENT
+LINUX
+C
+GIT
+CI
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Cooperate with software teams to establish and implement quality processes at every stage of the development cycle
+Develop automated test cases for firmware and Linux-based systems (bootloaders, kernel, device drivers and applications)
+Drive improvement at every step of the process in a CI/CD environment
+Facilitate the timely and effective resolution of any issues detected
+Build automated test solutions to deliver production quality software alongside established teams working on our open-source software stack for embedded devices
+Contribute to improvements in tooling and automation of various types of testing
+Join a distributed team that leads validation efforts to enable the delivery of high-quality software
+Requirements
+Good understanding of testing principles, strategies and techniques
+Experience with integration and system validation tests in an automated environment
+Proficient user of version control, test management and issue tracking tools
+Experience at the HW/SW interaction layer, with embedded systems, boot loaders, Linux kernel or device drivers
+Programming skills to write effective test cases in C and test orchestration in Python
+Nice-to-have
+Proficient working with Git, Jira, Yocto CI, Experience with functional or non-functional security testing, Knowledgeable in computer architecture and microarchitecture concepts - ideally for the Arm architecture and its ecosystem, Curious about open-source development practices
+What we offer
+Hybrid working environment designed to support high performance and personal wellbeing
+Empowerment to determine own hybrid working patterns depending on team needs
+Equal opportunity employer committed to diversity and mutual respect
+Benefits including health and wellness, work and life success, financial rewards, development and support
+Company info
+Arm has built the world’s most pervasive compute architecture, and we’ve led many of the technology revolutions that impact the day-to-day lives of people everywhere. We work on technology to transform the future of AI and IoT devices.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

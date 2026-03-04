@@ -1,0 +1,94 @@
+Cég neve
+Tech People Hungary Kft.
+Munkavégzés helye
+Budapest, IX. kerület
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Vállalkozói
+Általános munkarend
+Elvárt technológiák
+API
+JIRA
+CLEAN CODE
+CI
+ISTQB
+JMETER
+AGILIS
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Vállalkozói
+Általános
+munkarend
+API
+JIRA
+CLEAN
+CODE
+CI
+ISTQB
+JMETER
+AGILIS
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Feladatok
+Üzleti- és rendszerspecifikációk elemzése és felülvizsgálata
+Automatizált tesztek tervezése, írása, futtatása, karbantartása
+A tesztelésekhez és a futtatókörnyezethez kapcsolódó dokumentáció elkészítése
+A tesztelésből kiesett hibák dokumentálása hibajegyekben
+A hibajavítás nyomon követése, szoros együttműködés a fejlesztőkkel és a projektmenedzserekkel
+Aktív részvétel és iránymutatás az automata tesztelésben
+Részvétel és iránymutatás a tesztelői tudásbázis építésében
+Elvárások
+3+ éves tapasztalattal rendelkezel autómata tesztelésben
+Otthonosan mozogsz ticketing rendszerekben és tesztmenedzsment eszközökben - Jira / AIO
+Ismered az E2E, regressziós és funkcionális valamint nem funkcionális tesztelés módszertanát
+Stabil programozási alapokkal rendelkezel
+Magabiztos tudással rendelkezel Playwirght tesztelési keretrendszerben
+Ismered az OOP alapelveket és nem idegen számodra a clean code
+Ismered az Automata Teszteléssel kapcsolatos Design Pattern-eket, legfőképpen a POM-ot
+Nem ismeretlen a CI-ban történő tesztek futtatása és karbantartása
+API tesztelésben jártas vagy
+Analitikus gondolkodásmóddal rendelkezel
+Vidám, barátságos, nyitott személyiség vagy
+Kreatív és proaktív vagy
+Igazi csapatjátékos vagy, de önállóan is megállod a helyed
+Minőségorientált szemlélet jellemez
+Előnyt jelent
+ISTQB vizsga
+BDD/TDD ismeret
+WCAG megfelelés ismerete esetleg Accessibility tesztelési tapasztalat
+Terheléses tesztelésben szerzett tapasztalat (pl. K6, Jmeter)
+Biztonsági tesztelésben szerzett tapasztalat
+Tapasztalat adatbáziskezelésben
+Agilis szoftverfejlesztési módszertan ismeret
+Szakmai angol nyelvismerettel rendelkezel
+Céginformáció
+A Tech People egy Európai munkaerő-közvetítő vállalat, mely magasan képzett erőforrásokat valamint kiszervezett IT szolgáltatásokat nyújt különböző iparágak számára.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Tesztelő,
+Tesztmérnök
+Budapest
+Budapest
+Álláshirdetés jelentése

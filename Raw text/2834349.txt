@@ -1,0 +1,113 @@
+Cég neve
+Pillér Nonprofit Kft
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Cafeteria
+Szakmai tréningek
+Munkába járás támogatás
+Sport támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+POSTGRESQL
+SQL
+PLSQL
+LINUX
+ORACLE
+ANSIBLE
+BASH
+PYTHON
+Elvárások
+Angol alapfok
+1-3 év tapasztalat
+Középiskola
+
+Mobiltelefon
+Cafeteria
+Szakmai
+tréningek
+Munkába
+járás támogatás
+Sport
+támogatás
+Teljes
+munkaidő
+Általános
+munkarend
+POSTGRESQL
+SQL
+PLSQL
+LINUX
+ORACLE
+ANSIBLE
+BASH
+PYTHON
+Angol
+alapfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+ORACLE/PostgreSQL/MariaDB adatbázisok telepítése, konfigurálása, frissítése (legalább egy terület üzemeltetési szintű ismerete)
+Adatbázis kiegészítők telepítése, kezelése,
+Több lábas clusterek építése, üzemeltetése (PATRONI HA / RAC – DATAGUARD / GALERA),
+Adatbázisok közti adatkapcsolatok megvalósítása,
+Adatbázisok biztonsági megfelelősségének folyamatos felülvizsgálata,
+Végrehajtási tervek elemzése, adatbázis hangolás, SQL lekérdezések optimalizálása,
+Fejlesztési és üzemeltetési szakterületekkel való kapcsolattartás, támogatás,
+Monitorozó szoftverek kezelése, használata (pgwatch2, Grafana, Prometheus, Zabbix, Oracle CloudControl).
+Elvárások
+Szakirányú informatikai végzettség,
+Legalább 1-2 éves szakmai tapasztalat adatbázis üzemeltetés terén,
+Legalább alap szintű angol nyelvtudás (szakmai anyagok olvasása, megértése, értelmezése),
+SQL nyelvben gyakorlati ismeret (elsősorban PLSQL, illetve pgSQL),
+Linux alapismeretek,
+Jó szervezőkészség, kapcsolatteremtő- és tárgyalókészség,
+Felelősségteljes, önálló munkavégzésre és csapatmunkára való alkalmasság,
+Kreatív, megoldáskereső személyiség,
+Tanulásra való hajlandóság.
+Előnyt jelent
+bash scriptelés ismeret,
+Python programozási tudás,
+Ansible-el való folyamatautomatizálás ismeret,
+Adatbázis monitorozó szoftverek használatának ismerete,
+PostgreSQL/MariaDB/Oracle adatbázisokban szerzett üzemeltetési tapasztalat.
+Amit kínálunk
+Kiszámítható és versenyképes bérezés, béren kívüli juttatások (premizálási rendszer, cafeteria, képzések támogatása stb.),
+Színvonalas szakmai feladatok és folyamatos tanulási és szakmai fejlődési lehetőség,
+Barátságos és modern munkakörnyezet, támogató munkahelyi légkör és kitűnő megközelíthetőség,
+Magasan kvalifikált szakembergárdába történő beilleszkedés lehetősége,
+Hibrid munkavégzés (heti 2 nap Home Office lehetőség).
+Munkahelyi extrák
+Céges étkező
+Kávézó
+Zuhanyzási lehetőség
+Kerékpártároló
+Ingyen gyümölcs, nasi
+Játéksarok
+Jelentkezés módja
+Jelentkezés
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Álláshirdetés jelentése

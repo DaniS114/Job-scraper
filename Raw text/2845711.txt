@@ -1,0 +1,93 @@
+Cég neve
+GITMAX IT Services Zrt.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DATABASE
+DATABASES
+SQL
+POSTGRESQL
+POWERSHELL
+BASH
+PYTHON
+CLOUD
+AZURE
+AWS
+AGILE
+Elvárások
+Nem kell nyelvtudás
+>10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+DATABASE
+DATABASES
+SQL
+POSTGRESQL
+POWERSHELL
+BASH
+PYTHON
+CLOUD
+AZURE
+AWS
+AGILE
+Nem
+kell nyelvtudás
+>10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Lead the full product lifecycle for compliance applications, from requirements gathering to delivery.
+Ensure systems and databases align with SEC and FINRA regulations (recordkeeping, surveillance, employee trading, disclosures).
+Act as the bridge between Compliance, Legal, Engineering, and external vendors to translate business needs into technical solutions.
+Integrate third-party compliance tools into internal platforms (e.g., surveillance, monitoring, case management).
+Collaborate with data teams to ensure accurate and auditable compliance data for reporting and investigations.
+Manage agile ceremonies, sprint backlogs, and deliverables.
+Evaluate, onboard, and manage vendors for compliance-related technology.
+Support audits and risk assessments with clear documentation and improved workflows.
+Provide hands-on database expertise in performance tuning, query optimization, and scaling extremely large datasets (2B+ records).
+Requirements
+Bachelor’s degree in Computer Science, IT, or related field (required).
+10+ years in Database Administration, including 8+ years with Microsoft SQL Server (2016+).
+Strong proficiency in PostgreSQL administration and optimization.
+Proven experience managing very large datasets (2B+ records).
+Expertise in query optimization, indexing strategies, partitioning, scaling, and archiving.
+Hands-on experience with high availability solutions (Always On, Log Shipping, Replication).
+Scripting proficiency (PowerShell, T-SQL, Bash, Python).
+Experience with cloud database solutions (Azure SQL, AWS RDS, Aurora, managed PostgreSQL).
+Strong communication and leadership skills with ability to manage diverse stakeholders under tight deadlines.
+Regulated industry experience (finance, healthcare, etc.) is a plus.
+Relevant certifications highly preferred (Microsoft Azure DBA Associate, PostgreSQL Certified Professional, Azure Solutions Architect Expert, etc.).
+This is a hybrid role in Los Angeles, 7 days a month.
+What we offer
+Competitive base salary.
+Medical, dental, vision (multiple plan options).
+HSA & FSA options.
+401(k) with company match and profit-sharing.
+Tuition reimbursement up to $5,250/year.
+3 weeks PTO + 2 weeks Sick Time + 10 Paid Holidays.
+Paid parental leave, volunteer time off, jury duty leave, and other leave programs.
+Commuter benefits, employee discounts, and donation matching.
+Opportunity to work on strategic, large-scale data challenges in a regulated financial environment.
+Company info
+Our hiring partner is a leading financial services organization with a strong national presence across wealth management, capital markets, clearing, and prime services. The company is known for its innovative approach, commitment to compliance, and focus on building scalable technology solutions.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Regionális
+Álláshirdetés jelentése

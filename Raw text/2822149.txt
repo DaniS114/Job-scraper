@@ -1,0 +1,85 @@
+Cég neve
+NetHotelBooking Kft.
+Munkavégzés helye
+Hibrid
+•
+8200 Veszprém, Ádám Iván utca
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol alapfok
+3-5 év tapasztalat
+Középiskola
+
+Cafeteria
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+alapfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+RESnWEB online szobafoglalási rendszer dinamikusan fejlődő, fiatalos csapatába cégnél szerzett fejlesztői tapasztalattal rendelkező PHP programozót keresünk.
+Te vagy a mi emberünk, ha nagyon jó vagy a PHP nyelvben és jól ismered a Symfony keretrendszert, feladataid ellátásához használod az angol nyelvet, képes vagy csapatban és önállóan is dolgozni.
+Elvárások
+magabiztos tudás Symfony 7 keretrendszerben
+3+ év tapasztalat PHP programozási nyelvben
+tapasztalat SQL query-k írásában (MariaDB, MySQL)
+munkavégzés csapatban és önállóan egyaránt
+Git ismerete (GitHub)
+napi gyakorlat kód review-zásban (pull request)
+Előnyt jelent
+CI/CD ismeretek (AWS CodePipeline)
+agilis folyamatok ismerete
+feladatkezelő rendszer ismerete (Asana)
+REST API tervezés és implementáció
+integráció 3rd party szolgáltatókhoz
+tapasztalat szoftver architektúra tervezésben
+unit vagy feature tesztek írása
+cloud ismeretek (AWS)
+konténerizáció (Docker)
+Amit kínálunk
+teljes munkaidős munkaviszony
+dolgozhatsz távmunkában vagy veszprémi irodánkban
+havonta szervezett céges masszázs alkalmak az irodában
+kiváló munkakörülmények Nespresso kávéval, Hell és Xixo termékekkel teli hűtővel és jó hangulattal
+Munkahelyi extrák
+Céges rendezvények
+Kutyabarát
+Ingyen kávé, üdítő
+Masszázs
+Céginformáció
+A NetHotelBooking Kft. csapata fejleszti és üzemelteti a RESnWEB online szobafoglalási motort, amely több mint 400 szálláshely honlapján biztosítja a vendégeknek a valós idejű online foglalási lehetőséget Magyarországon, Ausztriában és Romániában. Ügyfeleink között olyan szállodák találhatóak, mint a Mesés Shiraz Hotel, a Varázslatos Bambara Hotel, a Hotel Ózon & Luxury Villas vagy a Thermal Hotel Visegrád.
+A RESnWEB az online szobafoglalás mellett törzsvendég, automatizált ajánlatküldő, pre-arrival email, elégedettségmérő, ajándékutalvány és törzsvendég modullal is rendelkezik, ráadásul több magyar és nemzetközi szállodai szoftverrel van integrációnk. Kifogyhatatlanok vagyunk fejlesztési ötletekből, ezért PHP programozó pozícióba keresünk új munkatársat csapatunkba.
+Jelentkezés módja
+Ha magadra ismertél, a Jelentkezem gombra kattintva küldd el nekünk önéletrajzod.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Veszprém
+megye
+Veszprém
+Álláshirdetés jelentése

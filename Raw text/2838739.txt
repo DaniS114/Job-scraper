@@ -1,0 +1,129 @@
+Cég neve
+BP Party Boat Kft.
+Munkavégzés helye
+Hibrid
+•
+1072 Budapest, Akácfa utca 49.
+Fizetés
+Nettó
+550e - 650e Ft havi bér
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Vállalkozói
+Részmunkaidő
+Kötetlen munkaidő
+Elvárt technológiák
+WORDPRESS
+CMS
+DNS
+SECURITY
+ANALYTICS
+DATABASES
+DEBUGGING
+TROUBLESHOOTING
+Elvárások
+Angol középfok és
+Magyar felsőfok
+5-10 év tapasztalat
+Egyetem
+
+Vállalkozói
+Részmunkaidő
+Kötetlen
+munkaidő
+WORDPRESS
+CMS
+DNS
+SECURITY
+ANALYTICS
+DATABASES
+DEBUGGING
+TROUBLESHOOTING
+Angol
+középfok és Magyar felsőfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Feladatok
+Location: Budapest (Hybrid)
+Commitment: 28 hours/week
+Reports to: Head of IT
+Key Responsibilities
+1. Website Management & Development
+Build, maintain, and update multiple company websites (WordPress and custom built) and CMS platform
+Implement new design features, pages, and content updates in line with marketing and SEO goals.
+Manage hosting, domains, DNS, SSL certificates, and backups.
+Ensure website uptime, speed optimization, and security at all times
+2. Technical Ownership
+Oversee and manage all integrations with booking systems, CRMs, APIs, and payment gateways.
+Ensure websites are mobile-friendly, SEO-optimized, and GDPR-compliant.
+Coordinate with designers, content creators, and marketing for consistent branding.
+3. Analytics & Optimization
+Implement and monitor Google Analytics, Tag Manager, Google Search Console and other conversion tracking tools.
+Troubleshoot performance issues and assist marketing teams running A/B tests, and helping to propose improvements to boost conversions.
+Regularly review SEO performance and work on technical SEO improvements.
+4. Continuous Improvement & Innovation
+Stay up to date on web technologies, trends, and tourism-sector tools.
+Recommend and implement new digital solutions to enhance user experience and efficiency.
+Elvárások
+Ideal Candidate Profile
+Education & Experience
+Degree in Web Development, Computer Science, Digital Media, or equivalent experience.
+5+ years’ experience managing or developing websites, preferably across multiple brands or domains.
+Experience in tourism, hospitality, or event sectors is a plus.
+Technical Skills
+Strong proficiency with API's, specifically REST API's
+Proficiency in Laravel and related technologies e.g. Mail, Composer, Sanctum for API etc.
+Familiarity with Django and Django REST API
+Understanding of relational databases
+Understanding of reactive frameworks, specifically React and Vue.js
+Understanding of component embedding and function - e.g. within Laravel and Django systems
+Understanding of git, bitbucket, CI/CD (e.g. bitbucket pipelines) and SSH/SFTP
+Understanding of reactive frameworks and libraries is an advantage
+Strong understanding of GA4, Google Tag Manager, and event-based tracking
+Hands-on experience with:
+data layer implementation
+conversion tracking setup (purchase, lead, custom events)
+server-side tracking experience
+debugging broken measurements (consent, cookies, missing events)
+Solid knowledge of GDPR & Consent Mode (v2):
+understands how consent affects GA4, Google Ads, Meta, TikTok
+Experience with multi-domain / custom booking flows
+Comfortable working with:
+Looker Studio
+data connectors (e.g. Porter Metrics)
+CRO / heatmap tools (Hotjar, Clarity, etc.)
+Előnyt jelent
+Soft Skills
+Highly organized and proactive - able to manage multiple projects independently.
+Responsive and quick to address emerging issues, keeping the business’s immediate needs at the highest priority
+Analytical mindset with a keen eye for UX and design consistency.
+Strong problem-solving and troubleshooting skills.
+Fluent English; Hungarian is a major advantage.
+Amit kínálunk
+What We Offer
+Competitive salary based on experience.
+Dynamic, international team and creative work environment.
+Office in central Budapest with hybrid flexibility.
+Opportunity to take ownership of multiple brands and grow with the company.
+Discounts at our partner F+B locations
+Free or discounted entry tickets to a range of recreational activities
+Munkahelyi extrák
+Kutyabarát
+Céginformáció
+Amigo Group Budapest is a fast-growing tourism and nightlife enterprise bringing people together through unforgettable experiences. Our brands - Budapest Boat Party, PartyBookers Budapest, Bingo Bar Crawl, Prosecco Boat and Ultimate Budapest - connect locals and travellers alike through tours, events, and authentic adventures across the city.
+We’re looking for a hands-on, creative, and technically skilled Webmaster to take full ownership of our online web-presence whilst developing and maintaining our websites by optimizing performance, UX, and integrations across our brands.
+Jelentkezés módja
+Apply with your CV
+Jelentkezés profillal
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

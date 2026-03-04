@@ -1,0 +1,87 @@
+Cég neve
+Accenture Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NETWORK
+SECURITY
+CLOUD
+AZURE
+ACCESS
+ISO
+GDPR
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+NETWORK
+SECURITY
+CLOUD
+AZURE
+ACCESS
+ISO
+GDPR
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design and implement security architecture for Azure Databricks platforms
+Enforce Role-Based Access Control (RBAC) across Azure and Databricks environments
+Integrate security into DevSecOps pipelines, ensuring automated security controls and policy enforcement
+Manage and secure Azure resources, identities, and permissions
+Partner with platform and data engineering teams to embed security best practices into deployments
+Identify, assess, and remediate security risks and vulnerabilities
+Support audits, compliance, and governance requirements
+Create and maintain security standards, documentation, and runbooks
+Requirements
+Strong hands-on experience with Microsoft Azure security
+Proven experience in DevSecOps practices and security automation
+In-depth knowledge of Azure Databricks security concepts
+Expertise in RBAC, including Azure AD and Databricks access controls
+Solid understanding of cloud identity, access management, and least-privilege principles
+Experience securing cloud-native data platforms at scale
+Ability to operate independently in a senior-level role
+Experience with Azure Key Vault and secrets management (nice to have)
+Knowledge of network security, private endpoints, and secure connectivity in Azure (nice to have)
+Familiarity with compliance frameworks (e.g., ISO, SOC, GDPR) (nice to have)
+Azure security or cloud certifications (nice to have)
+What we offer
+Participation in full-cycle and diverse international projects
+Opportunity to work as a specialist or manager/team lead
+Constant career development with internal mentorship
+Access to a whole set of learning platforms, paid certifications
+Flexible working conditions, home working is allowed
+Attractive base salary & Wide range of benefits included cafeteria, bonuses, private health insurance package, life insurance, AYCM sport card, referral bonus, family-oriented benefits, company shares on a discount price
+Company info
+Accenture is a leading global provider of a broad range of professional services in strategy and consulting, interactive marketing, information technology and business operations services, with digital capabilities in all of these areas. With more than 800,000 employees worldwide, we serve clients in more than 120 countries.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Budapest
+Álláshirdetés jelentése

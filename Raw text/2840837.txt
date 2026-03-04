@@ -1,0 +1,98 @@
+Cég neve
+suena GmbH
+Munkavégzés helye
+Hibrid
+•
+Hamburg
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+SQL
+CLOUD
+AWS
+HARDWARE
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+SQL
+CLOUD
+AWS
+HARDWARE
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Build and refine the forecasting models that directly shape our trading strategies and maximize the value of renewable energy in the market.
+Take end-to-end responsibility for forecasting topics and data workflows—your work will help turn complex time series data into actionable signals for real-time trading.
+Safeguard the quality and reliability of our data foundation, ensuring that every trading decision is based on robust, accurate, and timely information.
+Transform data into insights: deliver analyses and visualizations that empower the team to make smarter, faster, and more profitable decisions.
+Work side-by-side with our Trading team and other stakeholders, making sure your models and insights have direct, visible impact on our business and the energy system.
+Requirements
+4+ years of experience in time series forecasting and machine learning, ideally with a focus on
+pricing and market forecasting
+in production environments (energy, trading, fintech, etc.).
+Strong Python and SQL skills; experience with cloud-based ETL pipelines (preferably AWS).
+Proven track record in developing and maintaining forecasting models for non-stationary time series.
+You bring a proactive, pragmatic mindset; communicating clearly, delivering on commitments and focusing on what drives real results.
+You take genuine responsibility for your topics; from concept to production and ongoing improvement - and enjoy seeing your work make a tangible impact.
+You are reliable, pragmatic and communicate clearly in a collaborative team.
+Strongly preferred:
+Experience in the energy market or trading environment; familiarity with data visualization tools (e.g., Grafana).
+What we offer
+Shape the Future:
+Help drive the energy transition with us! Join a booming market, real startup spirit, and make your mark in sustainability.
+Connecting & Co-Creating:
+Strategy off-sites (like Denmark 2024) and onsite weeks for real collaboration and shared ideas.
+Work Your Way:
+Home office and flexible hours – you know what works best for you and your team.
+Team Spirit:
+Yoga, shared lunches, after-work fun – we support each other and keep the vibe strong, even when it's busy. Barista, DJ, guitarist included – we can't wait to discover your hidden talent!
+Fair & Transparent:
+Clear structures, democratic decisions, and a feedback culture where your voice counts.
+Body & Mind:
+Urban Sports Club membership, wellbeing check-ins, and mental health support – your energy matters.
+New Office Vibes:
+10th-floor office with rooftop terrace, canteen, great views, ergonomic desks, hardware of your choice, and pet-friendly!
+Sustainable Extras:
+Deutschlandticket, FutureBens, and more – supporting your mobility and future.
+Company info
+Hamburg Hybrid | €80.000,00 p.a. | 30 Days Vacation | English B2
+Are you enthusiastic about intelligent and effective software solutions to the energy transition? Join us at suena energy as
+(
+Senior) Data Scientist (f/m/x)
+and become part of the invisible engine room that ensures wind, solar, and battery parks become true powerhouses on the grid.
+suena energy is a green tech startup specializing in algorithmic energy trading for energy storage systems and renewables.
+Our vision:
+a world where clean energy is used reliably, economically, and intelligently. Our AI-powered software maximizes the revenues of large-scale energy storage and renewable assets on European short-term power markets - while minimizing risk.
+We're a team of 43 people, combining a warm, supportive team culture with true startup drive. Following our successful Series A, we're investing in expanding our team – and we're excited to strengthen our team with new talent and continue growing together.
+Our Data Science team brings together a mix of experience levels, from working students to seasoned experts, combining fresh perspectives with deep technical know-how. Together, we focus on building a robust forecasting engine to deliver accurate price and market predictions - empowering our trading platform and supporting the energy transition.
+Our Tech Stack:
+Python, SQL, AWS, relational databases, Grafana, GitLab.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

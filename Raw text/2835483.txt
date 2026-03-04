@@ -1,0 +1,115 @@
+Cég neve
+Smart Solutions Consultancy Kft.
+Munkavégzés helye
+Hibrid
+•
+1056 Budapest, Belgrád rakpart 19.
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Cafeteria
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+IOS
+GIT
+JIRA
+SWIFT
+API
+MVC
+BACKEND
+AGILIS
+Biztosított eszközök
+Laptop
+Headset
+Mobiltelefon
+Elvárások
+Angol alapfok
+3-5 év tapasztalat
+Főiskola
+
+Mobiltelefon
+Cafeteria
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+IOS
+GIT
+JIRA
+SWIFT
+API
+MVC
+BACKEND
+AGILIS
+Laptop
+Headset
+Mobiltelefon
+Angol
+alapfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Modern,
+banki területen
+iOS alkalmazás fejlesztése
+Swift
+nyelven
+SwiftUI
+és
+UIKit
+alapú felhasználói felületek tervezése és implementálása
+Reaktív programozási elvek alkalmazása (
+RxSwift
+,
+Combine
+)
+Architektúrális és UI design patternök használata (pl.
+MVVM, MVP, MVC
+)
+Kódverziózás
+Git
+alapokon, együttműködés a fejlesztői csapattal
+Feladatok kezelése
+Jira
+környezetben
+Részvétel a
+CI/CD folyamatokban
+, build pipeline-ok és automatizált tesztelések integrálása
+Szoros együttműködés a product, design és backend csapatokkal a minőségi szállítás érdekében
+Elvárások
+Minimum 3 év tapasztalat Swift nyelvű iOS alkalmazásfejlesztésben
+banki környezetben szerzett tapasztalat
+SwiftUI és UIKit aktív, gyakorlatban szerzett ismerete
+Reactive programming tapasztalat (pl. RxSwift, Combine)
+Architektúrális és UI design patternek készségszintű ismerete (MVVM, MVP, MVC)
+Git verziókezelő rendszer magabiztos használata
+Jira alapú task management tapasztalat
+CI/CD folyamatok otthonos kezelése (pl. build pipeline-ok, automatizált tesztelések integrálása)
+Előnyt jelent
+Tapasztalat GraphQL API integrációval
+Agilis csapatban szerzett fejlesztési tapasztalat
+Specializált mobile release pipeline eszközök ismerete (CocoaPods, Swift Package Manager)
+Mock framework használatában való jártasság (pl. SwiftyMocky)
+Amit kínálunk
+versenyképes fizetés
+cafeteria
+Jelentkezés módja
+A "Jelentkezem" gombra való kattintás után kérem csatolja angol nyelvű fényképes önéletrajzát.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

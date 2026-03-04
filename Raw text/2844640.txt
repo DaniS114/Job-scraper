@@ -1,0 +1,83 @@
+Cég neve
+META-INF Szolgáltató Kft.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AWS
+CLOUD
+DEVOPS
+PYTHON
+NODE.JS
+DOCKER
+BASH
+JAVA
+MAVEN
+JIRA
+CONFLUENCE
+BITBUCKET
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+AWS
+CLOUD
+DEVOPS
+PYTHON
+NODE.JS
+DOCKER
+BASH
+JAVA
+MAVEN
+JIRA
+CONFLUENCE
+BITBUCKET
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Üzletileg kritikus AWS infrastruktúra üzemeltetése és továbbfejlesztése
+Kapcsolódó alkalmazásfejlesztés támogatása változatos tool stack felhasználásával
+Szakértő csapat vezetése
+AWS architect és szakmai mentor szerep
+Megoldások megtervezése üzleti igényekre
+Csapat felügyelete a megoldásban
+Proaktív szakmaiság biztosítása
+Fenntartható, szerethető munkakörnyezet biztosítása
+Innováció és fejlődés támogatása
+Információ- és üzembiztonság fenntartása
+Elvárások
+Legalább 5 év DevOps mérnöki tapasztalat
+Magabiztos AWS cloud ismeretek éles környezetben
+Mélyreható Kubernetes, Helm és konténerizációs (Docker) tapasztalat
+Erős Terraform (Infrastructure as Code) tudás
+CI/CD pipeline-ok építésében és karbantartásában szerzett jártasság
+Magas szintű scriptelési készség (Bash, Python)
+Monitoring és alerting rendszerek (pl.: Grafana, Datadog) ismerete
+Proaktív, problémamegoldó szemlélet és jó kommunikációs készség
+Magabiztos angol nyelvtudás szóban és írásban
+Előnyt jelent
+ArgoCD vagy más GitOps eszköz (pl. Flux) ismerete, Riasztáskezelő rendszerek (pl. OpsGenie, PagerDuty) használata, AI eszközök használatában szerzett igazolt tapasztalat, Java (Maven) és/vagy Node.js build folyamatok ismerete, Performance tuningban és költségoptimalizálásban (FinOps) szerzett jártasság, Rendszerarchitektúra tervezésében szerzett tapasztalat, Információbiztonsági szabványok ismerete (pl.: ISO27001), Atlassian eszközök (Jira, Confluence, Bitbucket, Bitbucket Pipelines) magabiztos használata, Releváns szakmai certifikációk (pl. AWS, CKA), Csapatvezetői múlt és soft skillek, Erős üzleti szemlélet, Könnyedén fordítja le az üzleti igényeket működő megoldásokra, Nyitott az AI-ra és az új módszerekre, Magabiztos angol kommunikáció, Otthonosan mozog az Atlassian világában
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+IT
+tanácsadó, Elemző, Auditor
+Regionális
+Álláshirdetés jelentése

@@ -1,0 +1,78 @@
+Cég neve
+Ströer Content Group Product & Tech GmbH
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+PYTHON
+FRONTEND
+REACT
+AWS
+NETWORK
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+PYTHON
+FRONTEND
+REACT
+AWS
+NETWORK
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Conceptualize, develop and maintain affiliate marketing software solutions for brands like t-online, GIGA, kino and more
+Explore ideas how to bring even more value to our readers
+Discuss and decide about technical challenges with the other team members and if required across teams and brands
+Ensure the code is efficient, maintainable and scalable
+Stay up-to-date and work with a modern technology stack - we are currently running on: AWS (IaC) while using Astro (SSR) and React (CSR) for our frontend applications and Django on our backend
+Utilize the benefits of a micro-service architecture with full automation of our infrastructure and enjoy the fast pace of independent cross-functional teams
+Requirements
+You have a minimum of 3 years of programming experience
+You are familiar with modern web development
+You know the difference between SSR, SSG, CSR
+You can handle typescript as well as python code and can work with Astro, React and django
+You create positive, constructive conversations using objective statements and data - people value your contributions to a debate
+You are passionate about technology, driving innovation and strive to make a difference with your contributions
+What we offer
+Feelgood: working with a view at our office in Hamburg, recreation rooms in Frankfurt/Main and Munich and a lounge with Playstation in Berlin - each location has a unique charm to offer
+Community: We take responsibility and ensure more sustainability and diversity at our company - get involved in our sustainability workshop or become a member of one of our communities such as LGBTQ+ or our women's network
+Company: You will work in a communicative and respectful environment characterized by an open culture. As a company, we attach particular importance to the professional equality of our employees
+Learn & Grow: The Ströer universe provides space for creativity as well as professional and personal development opportunities, e.g. in our internal talent program
+On top: Profit from our benefits and take advantage of a subsidized lunch, lease a bike and enjoy exclusive discounts in many stores
+Company info
+Tech empowers journalism!
+You want to work with the latest technologies to bring journalism to a new level? We're a strong and experienced team of more than 150 product managers, developers, and UX and design experts at Ströer Content Group Product & Tech.
+We are helping our teams across all our brands - from our news website t-online.de to our special interest portals like Giga.de, kino.de amongst others - to deliver value to our readers.
+To do so, we are not only building tooling for internal usage, but also embeddable widgets, which are enriching the reading experience for hundreds of thousands of users.
+Our team is responsible for everything necessary to generate quality affiliate content - from infrastructure as code to the code, from enabling editors to search for good offers to making sure the reader gets forwarded to the shops correctly.
+We believe in trying new things, challenging ourselves as well as each-other. Are you an out-of-the-box thinker and would like to share your ideas with us and our users?
+We are currently looking for a Full-Stack Developer Affiliate (m/f/d) - who wants to build, run and own our applications, who wants to be a partner throughout the applications lifecycle from the first idea through the sketch, concept and development phase till the moment when it launches.
+Please note that we cannot offer fully remote positions. The position is located in Berlin.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

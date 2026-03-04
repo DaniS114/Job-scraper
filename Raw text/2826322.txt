@@ -1,0 +1,134 @@
+Cég neve
+4iG Informatikai Zrt.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Szakmai tréningek
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol középfok
+>10 év tapasztalat
+Középiskola
+
+Cafeteria
+Szakmai
+tréningek
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+középfok
+>10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Company info
+4iG Information Technology Ltd. is seeking a Solution Architect to join our team and support our esteemed airline client.
+What we are looking for
+Solution Design:
+Architect finance-related solutions aligned with business and technical requirements across platforms such as
+SAP S/4HANA
+,
+Kyriba
+,
+Accelya
+,
+Skymetrix
+,
+Navitaire
+, and
+Dynamics AX
+.
+Platform Development:
+Lead development and integration of applications supporting
+treasury
+,
+revenue accounting
+,
+ERP
+, and
+airline financial systems
+.
+Cloud Architecture:
+Design scalable, secure solutions using
+Microsoft Azure
+services.
+Data Integration:
+Ensure seamless data flow across financial systems, including
+SAP
+,
+Kyriba
+,
+Accelya
+, and others.
+SAP Integration:
+Design and implement integrations with
+SAP S/4HANA Finance and Controlling (FICO)
+modules. Integrate with
+SAP SuccessFactors
+for HR-related processes.
+Database Engineering:
+Develop solutions using
+Azure SQL
+,
+SQL Server
+, and other enterprise-grade databases.
+Collaboration:
+Work closely with business stakeholders, developers, and IT teams to ensure architectural alignment.
+Documentation:
+Maintain comprehensive architectural documentation and technical specifications.
+Innovation:
+Deep understanding of technologies and propose enhancements to improve system capabilities.
+What qualifications you should have
+10+ years experience in IT, with 5+ years in a Solution Architect role within the
+Finance or Banking sector
+.
+Strong experience in
+cloud-native
+and
+custom software development
+.
+Deep understanding of
+Finance domain
+and
+related
+integration.
+Hands-on experience with
+Azure SQL
+,
+SQL Server
+, and enterprise data integration.
+What qualifications would be nice to have
+Microsoft Certified: Azure Solutions Architect Expert certification
+SAP Certified Application Associate (S/4HANA Finance) certification
+What we offer
+You can be part of unique projects in Hungary and join us during an exciting and challenging time.
+We offer you a variety of tasks, along with great opportunities for learning and growing your career.
+You’ll have access to many professional and soft skill trainings to support your daily work.
+Our benefits are growing all the time. Right now we offer a mobile subscription, SZÉP card, health insurance, fruit days, and lots of other discounts.
+We believe in teamwork and community. Expect team-building events, fun competitions, and sports activities.
+Work extras
+Corporate events
+Sports facilities
+Free fruits, snacks
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Budapest
+Álláshirdetés jelentése

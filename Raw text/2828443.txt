@@ -1,0 +1,77 @@
+Cég neve
+DXC Technology Magyarország Kft.
+Munkavégzés helye
+Budapest
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SQL
+C++
+PLSQL
+UNIX
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SQL
+C++
+PLSQL
+UNIX
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Részvétel a szervezet által végzett szoftver vagy egyéb szellemi termék létrehozására irányuló alkalmazásfejlesztési feladatokban a beosztott (tesztelői) szerepkörnek megfelelően
+Alkalmazástesztelés az ügyfelek igényeinek/támogatott rendszerek technológiájának megfelelő eszközökkel (pl. J2EE, C++, PL/SQL stb.)
+Unit tesztek végrehajtása
+Gyártói és integrációs tesztelés támogatása, közreműködés ügyféloldali tesztelés támogatásában
+Élesítést követő időszak támogatása
+Belső szabályozás által meghatározott további tesztelői tevékenységek végrehajtása
+Az ügyfelek rendszereinek tesztelése, ezen tesztek dokumentálása
+Teszttervek, teszt forgatókönyvek összeállítása, majd ezen tesztek végrehajtása
+Az elvégzett tesztek kiértékelése, az esetlegesen felmerülő hibák javításának monitorozása
+Belső szabályozás által meghatározott további tesztelői és technológiai kutatási tevékenységek végrehajtása
+Megbeszéléseken való részvétel, beszámolás vezetőnek, projekt vezetőnek.
+A rendelkezésre álló technikai és egyéb erőforrások, eszközök ésszerű és értékmegóvó használata
+Vállalati folyamatoknak megfelelő általános adminisztrációs tevékenységek végrehajtása
+Elvárások
+Informatikai végzettség vagy folyamatban lévő informatikai tanulmányok
+Alkalmazásfejlesztési és támogatási/üzemeltetési alapismeretek
+Legalább 2 technológia alapszintű ismerete az alábbiak közül: J2EE, C++, PLSQL, Unix operation, Shell scripting, Perl, .net
+jó angol nyelvtudás szóban és írásban, szakmai nyelvismeret
+Problémamegoldó képesség, fejlesztői gondolkodásmód
+Magas szintű együttműködési készség, csapatszellem
+Jó kommunikációs képesség
+Nyitottság az újdonságokra, változáskezelési készség
+Nagyfokú precizitás
+Céginformáció
+A DXC Technology egy globális IT szolgáltató vállalat, amely innovatív megoldásokkal támogatja ügyfeleit a digitális átalakulásban.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Tesztelő,
+Tesztmérnök
+Budapest
+Álláshirdetés jelentése

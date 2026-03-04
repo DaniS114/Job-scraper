@@ -1,0 +1,145 @@
+Cég neve
+KBOSS.hu Kft.
+Munkavégzés helye
+1031 Budapest, Záhony utca 7
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Egészségpénztár
+Cafeteria
+Munkába járás támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+CRM
+API
+BACKEND
+JAVA
+SQL
+POSTGRESQL
+GIT
+SPRING
+ANGULAR
+REACT
+REST
+CLEAN CODE
+AGILE
+SCRUM
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Mobiltelefon
+Egészségpénztár
+Cafeteria
+Munkába
+járás támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+CRM
+API
+BACKEND
+JAVA
+SQL
+POSTGRESQL
+GIT
+SPRING
+ANGULAR
+REACT
+REST
+CLEAN
+CODE
+AGILE
+SCRUM
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+A pozícióról
+Elsődlegesen a HubSpot CRM rendszerünk és a belső alkalmazásunk közötti adatszinkronizálás, illetve ügyfélszolgálati és marketing automatizációs, valamint riport folyamatok fejlesztéséért és karbantartásáért felelsz. A munkád közvetlenül hat az üzleti folyamatainkra és az ügyfélélményre.
+Feladataid lesznek
+HubSpot és belső rendszerek közötti adatszinkronizáció és folyamatok fejlesztése
+API integrációk tervezése és implementálása
+Meglévő szinkronizációs folyamatok optimalizálása
+Együttműködés a backend csapattal az infrastruktúra változások követésében
+CRM rendszerhez kapcsolódó, illetve a társ területektől érkező hibák felderítése és javítása
+Felhasználói igények specifikálása
+Tesztek írása és dokumentáció készítése
+Junior kolléga mentorálása
+Elvárások
+Rád várunk, ha
+Minimum 3 évet fejlesztettél, webes technológiákon alapuló alkalmazásokban is
+Java és/vagy hasonló OOP nyelv ismerete
+SQL adatbázis-kezelési tapasztalat (PostgreSQL előny)
+REST API fejlesztési és integrációs tapasztalat
+Git verziókezelés
+Önálló problémamegoldó képesség, proaktív kommunikáció
+Egyénileg és csapatban is szívesen, hatékonyan dolgozol
+Használtál Gitlab-ot vagy Github-ot
+A hiba és verziókövető eszközöket gördülékenyen használod
+Betartod a clean code elveket ha lelkes vagy az új technológiáktól, amiket egy gigantikus szoftverbe ültethetsz át
+Előnyt jelent
+Előnyt jelent
+HubSpot API vagy más CRM rendszer ismerete
+Spring Boot / Spring Framework tapasztalat
+Webhook-ok, aszinkron folyamatok implementálása
+Agile/Scrum környezetben szerzett tapasztalat (dolgoztál már SCRUM módszertan szerint is)
+Angular/React keretrendszer ismerete
+CI/CD folyamatok a barátaid
+Amit kínálunk
+Hozzánk akkor éri meg eljönnöd dolgozni:
+Ha a magas szintű és önálló munka, a családias, emberközpontú munkakörnyezet érték számodra
+Ha fontos neked, hogy komplex feladataid lesznek, amelyeken együtt kell dolgoznod a CRM csapattal és a társterületekkel
+Kiemelten fontosnak tartjuk, hogy:
+Odafigyelünk egymásra, kellemes, támogató munkakörnyezetet alakítottunk ki
+Nem hagyunk magadra a problémáiddal, bármikor bármit megkérdezhetsz
+Jól érezzük magunkat és szívesen töltsünk együtt időt
+Belülről láthatod egy olyan cég működését, amely már bizonyított valós piaci körülmények között
+Szilícium-völgyi hangulatban dolgozunk a Graphisoft Parkban
+Amit kínálunk
+Versenyképes fizetés és juttatási csomag
+Rugalmas munkavégzés (hybrid/remote lehetőség)
+Szakmai fejlődési lehetőségek (képzések, konferenciák)
+Stabil háttér – Visma csoport tagjaként
+Fiatalos, támogató csapat
+Munkahelyi extrák
+Céges étkező
+Kávézó
+Zuhanyzási lehetőség
+Kerékpártároló
+Parkoló
+Kutyabarát
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Ingyen reggeli
+Masszázs
+Céginformáció
+A Számlázz.hu-val kategóriát teremtettünk, amikor 2005-ben elsőként tettük publikussá az online számlázást Magyarországon. A megállíthatatlan innovációt mára több mint
+800 000 cég
+és több mint
+1 000 000 felhasználó
+használata dicséri, miközben stratégiai partnerként fintech és pénzügyi szolgáltatók szám.
+A Számlázz.hu-nál hiszünk abban, hogy a jó termékek nem véletlenül születnek:
+világos stratégia, bátor döntések és valódi üzleti felelősség kell hozzájuk.
+CRM csapatunk bővül, és olyan tapasztalt fejlesztőt keresünk, aki szeretne egy innovatív, dinamikusan fejlődő környezetben dolgozni.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

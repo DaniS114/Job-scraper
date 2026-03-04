@@ -1,0 +1,90 @@
+Cég neve
+evosoft Hungary Kft
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Rugalmas munkaidő
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Egyetem
+
+Cafeteria
+Szakmai
+tréningek
+Nyelvtanulás
+támogatása
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Rugalmas
+munkaidő
+Angol
+középfok
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+About us
+At evosoft – a trusted partner of Siemens – we don’t just write code, we create solutions that make life better. Our software powers Smart Industries, System Tests, IT Solutions, Digitalization and Medical Innovations, helping industries move forward and shaping the future of technology.
+Our culture is defined by our values: you’ll join a team where innovative thinking, collaboration and continuous learning shape how we develop solutions that improve everyday life across industries.
+If you’re looking for a place where your ideas matter and your work makes a real difference, this is the right opportunity for you.
+Tasks
+Project specific intro:
+Our main activity is testing and developing the Siemens S7-1500 PLC system. The S7-1500 product family, being one of Siemens' most innovative developments. Testing from basic functions to system diagnostics, various industrial bus systems (PROFIBUS, PROFINET, AS-i), and even OPC UA, there are numerous interesting and challenging tasks that await our colleagues every day.
+You’ll make an impact by:
+Take ownership of system‑level testing of Siemens SIMATIC S7 PLC engineering systems, including unreleased products
+Plan, execute, and evaluate manual and automated tests for complex industrial automation scenarios
+Independently design and optimize hardware and system test configurations
+Define, review, and continuously improve test strategies, test plans, and test cases
+Perform in‑depth defect analysis, ensure high‑quality documentation, and actively drive resolution
+Actively contribute to the development of PLC software, test frameworks, and test tools
+Support and improve test automation solutions, CI/CD pipelines, and testing best practices
+Share knowledge and mentor junior colleagues within the team
+Expectations
+University degree in electrical engineering, software engineering, mechatronics, or a related technical field
+Strong hands‑on experience in industrial automation and testing complex systems
+Solid and proven SIMATIC S7 PLC programming experience (STL / SCL / FBD / LAD)
+Good understanding industrial communication standards (OPC UA, TCP/IP, PROFINET)
+Experience with Windows‑based test environments and system configurations
+4+ years of experience in a similar system test / automation role
+Strong analytical, problem‑solving mindset and high level of autonomy and responsibility
+Confident English communication skills (German is an advantage) and proactive attitude toward continuous improvement
+Advantages
+Deep knowledge of TIA Portal and SIMATIC S7‑1200 / 1500 ecosystems
+Experience with test automation, CI/CD pipelines (e.g. Jenkins)
+Programming skills in C# and/or Python
+ISTQB certification or experience with industrial communication analysis (e.g. Wireshark)
+What we can offer
+Cafeteria package
+Private health care service provider
+Hybrid working model (3 days/week home office on average)
+Flexible working hours
+Closed, guarded parking area
+Supportive team and dedicated mentor
+Inspiring work environment and long-term job security
+Opportunities for international collaboration
+250+ training options: language, soft-skill, technical programs, corporate workshops and meetups
+Several internal communities (sport, CSR, Go Green, Toastmasters, etc.)
+Family friendly workplace and The Best Workplace for Women Award
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Tester,
+Test Engineer
+Budapest
+Budapest
+Álláshirdetés jelentése

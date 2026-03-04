@@ -1,0 +1,103 @@
+Cég neve
+Supercharge Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+SPRING
+KOTLIN
+DATABASES
+CLOUD
+ACCESS
+JAVA
+SQL
+NOSQL
+AWS
+DEVOPS
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+SPRING
+KOTLIN
+DATABASES
+CLOUD
+ACCESS
+JAVA
+SQL
+NOSQL
+AWS
+DEVOPS
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Supporting the development of a stable and scalable Kotlin and Spring Boot back-end from the ground up
+Collaborate closely with our Customer Support (L1) and Infrastructure Support (L2) teams to efficiently manage escalations- helping identify, troubleshoot, and resolve operational issues that keep our clients running smoothly
+Participate in a rotating on-call schedule to ensure reliable 24/7 client support paired with appropriate compensation for your time and expertise
+Crafting code that adheres to the highest industry standards while ensuring seamless integration with our Cl tools
+Collaborating effectively within a dynamic team environment on exciting, cutting-edge tech initiatives while working closely with fellow engineers and supporting Tech Leads and Architects
+Bringing an architectural perspective to the planning process
+Guiding and mentoring junior developers to support their professional growth
+Requirements
+5+ years of experience in Java ecosystem, familiarity with Java 17, 21
+Deep understanding of Spring Boot
+Experience with an observability platform (Grafana / LGTM or ELK stack or NewRelic)
+Proven ability to troubleshoot under pressure, quickly identify root causes, recommend impactful solutions, and ensure thorough follow-through
+Hands-on experience with SQL or NoSQL databases (Postgres, Redis)
+Experience with Kubernetes
+Familiarity with at least one public cloud provider (preferably AWS)
+Familiarity with IaC, such as Terraform, Helm is a plus
+DevOps mindset of continuous improvement by following processes, sharing knowledge, and learning from feedback
+A strong OOP mindset and a commitment to upholding SOLID principles
+A genuine interest in staying up-to-date with the latest industry trends
+A passion for writing clean, maintainable code, adhering to best practices
+Kotlin experience is a huge plus
+At least an intermediate level of English language skills
+What we offer
+Exciting international projects
+Access to inspiring conferences, in-house soft skill trainings, and online courses
+Support for English classes
+Skill matrix for clear learning path
+Health coverage with Medicare
+Life1 gym access
+Extra sick days
+Fully paid month off after five years
+Extra paternity leave
+Employee Assistance Program
+Friendly team of 200+ people
+Summercharge festival, football match, quiz night, and social events
+Buddy system
+Dog-friendly office in the heart of Budapest
+Good coffee and tasty snacks including Túró Rudi
+Yearly personal budget
+Company library
+Company info
+Our vision is simple yet powerful: we want to create a place where engineers thrive, taking on exciting projects and using the latest technologies, free from the shackles of legacy solutions.
+Thanks to the diverse range of industries we work with, our days are never boring: from world-class apps to AR solutions or even programming robots, we’ve got it all covered. We don’t just write code for our screens; rather, we develop impactful products used by millions every day: let them be large-scale public transport applications, leading fintech platforms, or storage solutions contributing to a greener future.
+We are a team of 100+ engineers (Java, JavaScript, Android, iOS, NodeJS and dotnet platforms) and QA engineers with our coding fingers at the ready working on the next big thing. We value openness, modesty, hard work, and simple yet great solutions.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

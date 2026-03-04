@@ -1,0 +1,86 @@
+Cég neve
+BlackRock Hungary Kft.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+ANALYTICS
+SQL
+PYTHON
+AZURE
+API
+ACCESS
+NETWORK
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Egyetem
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+ANALYTICS
+SQL
+PYTHON
+AZURE
+API
+ACCESS
+NETWORK
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design and build scalable data pipelines that support AI-enabled digital experiences, personalization, and marketing automation.
+Leverage AI-driven development and testing tools to increase engineering quality, speed, and reliability.
+Contribute to ongoing platform modernization efforts across Martech, content, analytics, and web ecosystems.
+Collaborate with cross-functional stakeholders to ensure data is structured and governed in ways that accelerate downstream personalization and analytics use cases.
+Architect and develop data solutions to bring new datasets into digital ecosystem including Private Markets data and product data.
+Requirements
+3+ years’ experience in SQL and Python, with experience in both RDBMS and Big Data structures.
+Existing experience with Snowflake-specific concepts is desirable.
+Familiarity with using AI-assisted development tools (e.g., code generation, code review, unit test development) to improve quality and delivery efficiency.
+ETL and pipeline development experience with Airflow and DBT.
+CI/CD experience with Azure and understanding of API frameworks is a plus.
+B.S. / M.S. degree in Computer Science, Engineering, or a related discipline.
+Knowledge of Marketing technology platforms is desirable, but not required (e.g., Eloqua/Marketo, web analytics platforms, customer data platforms).
+Relentless desire for understanding how processes work.
+Creativity in solving unconventional problems.
+Adaptability and resiliency when overcoming challenges.
+Nice-to-have
+You have flawless written and verbal communication and ability to gain buy-in on plans from a non-technical audience., You have experience working with a broad set of stakeholders, including non-technical and non-quantitative people., You are comfortable using AI tools to enhance development workflows, such as prototyping, testing, documentation, and data validation., You have a strong desire to develop creatively and promote innovation., You're self-motivated and able to think big while also taking direction and feedback., You have excellent teamwork and collaboration skills.
+What we offer
+Retirement investment and tools designed to help you in building a sound financial future.
+Access to education reimbursement.
+Comprehensive resources to support your physical health and emotional well-being.
+Family support programs.
+Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.
+Hybrid work model with at least 4 days in office per week and 1 day remote work.
+Pay-for-performance philosophy including base salary and discretionary annual bonus.
+Healthcare plans and resources for physical health.
+Employee Assistance Program and network of Mental Health Ambassadors.
+Parental leave and other life management benefits.
+Company info
+At BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are saving for retirement, paying for their children’s educations, buying homes and starting businesses. Their investments also help to strengthen the global economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.
+This mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

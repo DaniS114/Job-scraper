@@ -1,0 +1,110 @@
+Cég neve
+UNIX AUTÓ KFT.
+Munkavégzés helye
+1139 Budapest, Frangepán utca 55.
+Fizetés
+Br.
+1,0M - 1,4M Ft havi bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Sport támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Középiskola
+
+Sport
+támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Céginformáció
+#Angular #TypeScript #Frontend #NETCore #MSSQL
+A 35 éves Unix Autó Magyarország piacvezető és Közép-Európa egyik meghatározó autóalkatrész-kereskedelmi vállalata. 3 országban közel 3000 munkatárssal és mintegy 180 áruházban szolgáljuk ki partnereinket és vásárlóinkat. Büszkék vagyunk rá, hogy eredményes működésünk elismeréseként 2016- ban megkaptuk az „Év Magyar Vállalata” címet, sokszoros Magyar- és Superbrands díjas vállalat vagyunk.
+Felelős munkaadóként anyagi biztonságot és stabil munkahelyet nyújtunk munkavállalóinknak.
+Jelentkezz Te is és csatlakozz hozzánk az alábbi pozícióba:
+ANGULAR FRONTEND FEJLESZTŐ - br. 1.000.000 – 1.400.000 Ft/hó
+Feladatok
+A vállalat saját fejlesztésű ERP rendszerével integrált webes felületek és webshop fejlesztése
+Felhasználói felületek megtervezése és implementálása
+A jelenlegi asztali vállalatirányítási rendszer átültetése modern webes alapokra
+Gyakorlati munka: UI/UX együttműködés, komponens- és adatstruktúrák kialakítása
+Backend szolgáltatásokkal való integráció REST API-kon keresztül
+Már működő rendszereink támogatása, optimalizálása és továbbfejlesztése
+Aktív együttműködés fejlesztőkkel, projektvezetőkkel és más szakmai csapatokkal
+Hibák elemzése, javítása és megelőzése
+Elvárások
+Legalább
+3 év tapasztalat Angular 11+
+fejlesztésben (RxJS, NgRx, Swagger)
+Magabiztos
+JavaScript (ES6+)
+,
+TypeScript
+,
+HTML
+és
+CSS
+ismeretek
+Jártasság frontend fejlesztői környezetben (pl. Visual Studio Code, Git)
+Előnyt jelent
+Gyakorlati tapasztalat
+REST API-k
+integrálásában
+Verziókövető rendszerek magabiztos használata
+Tapasztalat
+komponens-alapú webes architektúrák
+tervezésében és fejlesztésében
+Milyen technológiákkal találkozhatsz nálunk?
+Angular Material
+Git
+HTML
+CSS
+RxJS
+NgRx
+Reactive state
+Webpack
+Electron
+REST API
+Amit kínálunk
+Tapasztalathoz igazodó bruttó 1.000.000 – 1.400.000,- Ft/hó jövedelem
+Prémium konditerem hálózatba havi fitness bérlet
+Hosszútávú fejlődési lehetőség
+Professzionális munkakörülmények, modern fejlesztői környezet
+Tervezhető munkaidő
+Saját étterem, kedvezményes étkezési lehetőség
+Könnyen megközelíthető modern iroda a XIII. kerületben
+Munkavégzés az UNIX Székházban:
+1139 Budapest, Frangepán utca 55-57.
+Munkahelyi extrák
+Parkoló
+Ingyen gyümölcs, nasi
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,120 @@
+Cég neve
+Tata Consultancy Services Limited
+Munkavégzés helye
+Budapest
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Elvárások
+Angol felsőfok
+3-5 év tapasztalat
+Középiskola
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Angol
+felsőfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+IF WE BREAK THIS ROLE DOWN INTO KEY TASKS, THIS IS WHAT YOU'LL BE DOING:
+Ensuring the completion of development tasks to support the new release of projects/solutions.
+Supporting production requests or fixing issues
+Unit testing applications and reporting daily progress
+EXPERIENCE AND SKILLS YOU POSSESS:
+3-5 years of experience with
+.NET 6+ / C#
+for API development.
+Familiarity with
+Clean Architecture principles
+and
+Mediator pattern
+(MediatR or equivalent).
+Experience with
+Azure App Services
+and
+Azure Functions
+.
+Strong skills in
+REST API development
+(OpenAPI/Swagger, validation, error handling, versioning).
+Proficiency in data transformation and mapping (JSON, XML).
+Knowledge of
+Azure API Management
+(policies, subscriptions, security).
+Good understanding of
+integration with Microsoft Dynamics 365 Business Central APIs
+(OData/REST).
+Hands-on experience with
+Git repositories
+(Bitbucket or GitHub).
+...and we appreciate if you have:
+Familiarity with
+Azure Event Grid, Service Bus
+for event-driven patterns.
+Knowledge of
+batch integration
+(CSV, Excel, flat files).
+Awareness of
+CI/CD pipelines in Azure DevOps
+.
+Basic understanding of
+Terraform
+.
+HERE ARE A FEW BENEFITS YOU CAN EXPECT:
+TCS has been delivering services from Hungary since 2001, making us a perfect choice if you’re looking for
+stability.
+We provide a wide range of benefits, including a market-leading
+comprehensive private health care package.
+We offer extensive
+self-development opportunities
+: our colleagues have many training possibilities for personal and professional growth.
+At TCS Hungary there are both vertical and horizontal
+career options
+for those who like to challenge themselves and try out different areas and positions.
+You will be part of a
+global and diverse working environment
+with relaxation areas, terraces, and a friendly atmosphere.
+You can
+seize the day
+with us at our company events, hobby clubs, and sporting initiatives
+An
+attractive compensation package.
+ABOUT YOUR CONTRACT
+Full time, indefinite.
+Working hours: 40 hours/week, office hours (hybrid).
+Legal requirements: You need to be to be currently eligible to work in Hungary.
+Work extras
+Cafe
+Corporate events
+Bicycle storage
+Parking
+Sports facilities
+ABOUT YOUR APPLICATION:
+“Please only include in your CV information that is relevant for your application to this role."
+Our recruitment team will carefully review all applications and will connect with those applicants that meet our current requirements.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Budapest
+Álláshirdetés jelentése

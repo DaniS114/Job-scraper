@@ -1,0 +1,117 @@
+Cég neve
+Accenture Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AZURE
+SQL
+ACCESS
+PYTHON
+ANALYTICS
+TESTING
+BI
+AGILE
+JSON
+XML
+API
+UAT
+REGRESSION TESTING
+REST
+TEST AUTOMATION
+JIRA
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Középiskola
+
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+AZURE
+SQL
+ACCESS
+PYTHON
+ANALYTICS
+TESTING
+BI
+AGILE
+JSON
+XML
+API
+UAT
+REGRESSION
+TESTING
+REST
+TEST
+AUTOMATION
+JIRA
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, write and execute comprehensive test plans, test cases and test scripts to validate ETL/data‑pipeline processes, data transformations, and data integrity (source‑to‑target, cross‑reference, reconciliation).
+Validate data extraction, transformation and loading processes for accuracy, completeness, consistency, schema integrity, referential integrity, deduplication, lineage and schema drift.
+Perform XREF (cross-reference) checks, source-to-target mapping validations, and data reconciliation between systems.
+Work with data lakes / data warehouse platforms — including environments using Databricks, Delta Lake tables, clusters, notebooks, SQL endpoints — to test data pipelines end-to-end.
+Develop and run automated data validation / regression testing scripts using Python or PySpark.
+Integrate testing into CI/CD pipelines and version-control practices using GitHub (branching, pull requests, test script management).
+Perform API testing (e.g. REST / JSON / XML) where data pipelines expose or consume APIs — validate request/response payloads, data integration correctness.
+Participate in System Integration Testing (SIT), support User Acceptance Testing (UAT) with business stakeholders, ensuring delivery meets acceptance criteria.
+Create and maintain test documentation: test plans, test cases, test data sets, traceability matrices, defect logs/reports.
+Collaborate with engineers, architects, data engineers and business users to ensure data quality throughout the delivery lifecycle.
+Report, track and support resolution of defects and data-quality issues.
+Requirements
+4–7 years of hands-on experience in data testing / ETL testing / QA for data platforms or data warehouses.
+Strong proficiency in SQL for data validation, reconciliation, and complex query testing.
+Proven experience testing ETL pipelines built using Databricks, Azure Data Factory, SQL Server or comparable data‑integration tools/environments.
+Deep understanding of data validation concepts: deduplication, referential integrity, completeness, schema drift, data lineage.
+Hands‑on experience with Databricks notebooks, clusters, Delta Lake tables, SQL endpoints.
+Ability to write Python or PySpark scripts for automated data validation or regression testing.
+Familiarity with test automation frameworks or integrating testing into CI/CD pipelines.
+Comfortable using GitHub for version control, branching, pull requests, and test‑script management.
+Experience with API testing (REST/JSON/XML) — ability to validate API integration with data pipelines, request/response structures.
+Experience with System Integration Testing (SIT) and defect management workflows.
+Experience supporting UAT with business stakeholders — defining acceptance criteria, validating against business requirements.
+Skilled at creating test plans, test cases, test data, traceability matrices.
+Ideally: experience working in Financial Services or other regulated industry (compliance, data governance, audit-readiness).
+Strong attention to detail, structured and quality-first mindset.
+Excellent communication skills — able to work and collaborate with engineers, architects, business stakeholders.
+Nice-to-have
+Nice‑to‑Have / Bonus: Familiarity with BI tools / reporting layers (e.g. dashboard testing, data visualization QA) or prior experience in validating BI/analytics output., Previous exposure to working in agile teams / SDLC environments., Experience with test‑management tools (e.g. JIRA, TestRail, X-Ray, or similar)., Understanding of data‑warehouse concepts (star/snowflake schemas, fact & dimension tables).
+What we offer
+Participation in full-cycle and diverse international projects
+Opportunity to work as a specialist or manager/team lead
+Constant career development with internal mentorship
+Access to a whole set of learning platforms, paid certifications
+Flexible working conditions, home working is allowed
+Attractive base salary & Wide range of benefits included cafeteria, bonuses, private health insurance package, life insurance, AYCM sport card, referral bonus, family-oriented benefits, company shares on a discount price
+Locations Budapest
+Company info
+Accenture is a leading global provider of a broad range of professional services in strategy and consulting, interactive marketing, information technology and business operations services, with digital capabilities in all of these areas. With more than 800,000 employees worldwide, we serve clients in more than 120 countries.Accenture globally has ranked 4th on the Great Place to Work® World’s Best Workplaces™.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

@@ -1,23 +1,37 @@
-# Profesia IT Job Scraper & Gemini Analyzer
+# Job Market Intelligence Scraper 🚀
 
-The projects plan is to scrape IT job advertisements from Slovak/Hungarian sites and extract structured information from the job descriptions using Google's Gemini AI.
+A Python-based web scraping and data analysis tool designed to archive and analyze job advertisements from major Central European job boards. This project leverages **Local LLMs** to extract insights from job descriptions without compromising data privacy.
 
----
+
 
 ## Features
 
-- **Web Scraper**  
-  - Scrapes all IT job listings from multiple pages (Currently `Profesia.sk` and `allas.jofogas.hu`.)
-  - Saves full job descriptions in individual `.txt` files (for backup)
-  - Tracks job availability with `active` and `status` fields and updates `last_seen` date.
+* **Supported job portals:** 
+    * **Hungary**: [profession.hu](https://www.profession.hu), [jofogas.hu](https://www.jofogas.hu)
+    * **Slovakia**: [profesia.sk](https://www.profesia.sk)
+* **Data Archiving**: Automatically saves every job description into a raw `.txt` file for permanent backup, ensuring you have a record even after the ad expires.
+* **AI-Powered Analysis**: Uses the **Mistral-Nemo** model running locally via **Ollama** to parse requirements, tech stacks, and benefits from unstructured text.
+* **Structured Output**: Generates a comprehensive CSV database containing metadata (salary, location, company).
+* **Privacy**: No job data is sent to external APIs; all processing happens on your local machine.
 
+---
+
+## Tech Stack
+
+* **Language**: Python 3.x
+* **Libraries**: `BeautifulSoup4`, `Requests`, `Pandas`
+* **Local AI**: [Ollama](https://ollama.com/)
+* **Model**: `mistral-nemo` (12B parameters, 8-9GB VRAM recommended)
 
 ---
 
-## Usage
+## Project Structure
 
-- **Scrapers**  
- - Run `Profesia_scraper.py` then `Profesia_false_check.py`. Output is in `CSV` folder.
- - For `allas.jofogas.hu` run `jofogas.py`. Output is in `CSV` folder `jofogas_jobs.csv`
+```text
+├── CSV/                 # Scraped data in .csv file (profession_jobs.csv)
+├── Raw text/            # Permanent backup of job descriptions (.txt)
+└── scraper.py           # Scraping scripts
 
 ---
+
+##  How to run

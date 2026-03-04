@@ -1,0 +1,42 @@
+Cég neve
+Ärztekasse Genossenschaft
+Munkavégzés helye
+In der Luberzen 1, 8902 Urdorf
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+BACKEND
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+BACKEND
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Senior AI Engineer – Practice Systems & Clinical Intelligence (w/m)Ärztekasse Genossenschaft develops integrated software solutions for healthcare professionals, supporting medical practices with secure, efficient, and intelligent digital services. To scale and mature our AI capabilities within the practice management system, we are looking for a Senior AI Engineer with strong technical leadership and hands-on delivery experience.As a Senior AI Engineer, you will take technical ownership of AI components and services integrated into our practice system. You will drive the design, implementation, and operational excellence of AI-powered features while ensuring reliability, compliance, and seamless integration into clinical and administrative workflows.Senior AI Engineer – Practice Systems & Clinical Intelligence (w/m)Pensum:%Start: immediately or by appointmentDuration: unlimitedLocation: Zurich area (Urdorf or Geneva)Key Responsibilities (Senior / Technical Leadership Focus)Own the end-to-end lifecycle of AI services, from design and implementation to production operation and continuous improvementDesign and implement scalable, production-grade AI architectures integrated into existing backend systemsLead the development of speech-to-text and NLP / LLM-based pipelines for extraction, structuring, summarization, and generation of domain-specific contentDefine and implement prompting strategies, orchestration flows, validation layers, and fallback mechanisms for LLM-based systemsEstablish human-in-the-loop patterns, review workflows, and quality gates for clinically relevant AI outputsDefine and apply model evaluation, monitoring, and observability standards (accuracy, drift, latency, cost)Ensure data privacy, security, and regulatory compliance across all AI solutionsSupport and guide AI-assisted data migration and import workflowsCollaborate closely with product management, software engineering, data teams, and domain expertsProvide technical guidance and mentorship to other engineers in AI-related topicsContribute to AI platform foundations, reusable components, and engineering best practicesScope ClarificationThis is a hands-on senior engineering role with technical ownership. The role does not define overall product or corporate AI strategy but shapes implementation patterns, quality standards, and technical direction within an agreed framework.Required ProfileSeveral years of experience as an AI Engineer, Senior ML Engineer, or Applied AI EngineerDeep hands-on experience with NLP, speech processing, and LLM-based systems in productionStrong software engineering background (APIs, distributed systems, production deployments)Experience designing scalable and reliable AI servicesProven ability to handle model evaluation, monitoring, and lifecycle managementStrong understanding of data privacy, security, and compliance, ideally in regulated environmentsAbility to work autonomously and take technical ownershipVery good English skills (German or French is a plus)Nice to HaveExperience in healthcare or clinical systemsFamiliarity with clinical documentation standards (e.g. SOAP)Knowledge of medical terminologies, billing, or tariff systemsExperience with human-centered or assistive AI systemsExperience mentoring engineers or leading technical initiativesExpected ImpactStable, scalable, and trustworthy AI services in productionReduced documentation and administrative workload for healthcare professionalsHigher quality and consistency of clinical dataFaster delivery and maturation of AI featuresStronger AI engineering practices across the organizationWe look forward to receiving your application! jid03be17fpn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Switzerland
+Álláshirdetés jelentése

@@ -1,0 +1,126 @@
+Cég neve
+Kőröstej kft.
+Munkavégzés helye
+1138 Budapest, Népfürdő utca 22.
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Munkába járás támogatás
+Élet- és balesetbiztosítás
+Beiskolázási támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+BI
+SQL
+ERP
+SAP
+POWER BI
+EXCEL
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Főiskola
+
+Cafeteria
+Munkába
+járás támogatás
+Élet-
+és balesetbiztosítás
+Beiskolázási
+támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+BI
+SQL
+ERP
+SAP
+POWER
+BI
+EXCEL
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Vállalati szintű
+riporting architektúra
+tervezése és fejlesztése
+Komplex, több adatforrásból építkező
+Power BI dashboardok
+kialakítása
+KPI-struktúrák és vezetői riportcsomagok megtervezése
+Adatmodellek kialakítása (star schema, relációk optimalizálása)
+DAX mértékek és kalkulációk fejlesztése
+(időintelligencia, dinamikus mutatók, YTD/MTD, rolling forecast, varianciaelemzés)
+Adattranszformáció
+Power Query
+segítségével
+Automatizált riportfrissítési folyamatok kialakítása
+Terv–tény, forecast, költség- és eredményelemzések vizualizálása
+Adatminőség ellenőrzési mechanizmusok beépítése
+Vezetői prezentációk szakmai támogatása (adatstorytelling)
+Együttműködés IT, controlling és üzleti területekkel az adatstruktúra fejlesztésében
+Elvárások
+Felsőfokú gazdasági vagy informatikai végzettség
+Minimum 5 év releváns BI / reporting / business analyst tapasztalat
+Magabiztos Power BI tudás
+, különösen:
+adatmodell tervezés
+DAX kalkulációk (CALCULATE, FILTER, ALL, RELATED, SUMX, stb.)
+időalapú számítások
+optimalizált measure-logika
+Haladó Excel tudás
+, különösen:
+Power Query
+Power Pivot
+komplex függvénystruktúrák
+riportautomatizálás
+Strukturált adatgondolkodás
+KPI rendszerek kialakításában szerzett tapasztalat
+Önálló, proaktív munkavégzés
+Előnyt jelent
+SQL tapasztalat (adatlekérdezés, view-k építése)
+ERP rendszerismeret (pl. SAP)
+Controlling háttér
+Adatvizualizációs best practice ismeret
+Nagyvállalati riporting környezetben szerzett tapasztalat
+Kommunikációképes angol nyelvtudás
+Amit kínálunk
+Több mint 3 évtizedes vállalati múlt, kiszámítható jövő, stabil vállalati háttér
+Értékteremtő feladatok és kihívások
+Magyarország legnagyobb sajtgyártójánál
+Felelősségteljes pozíció, sokrétű szakmai fejlődési lehetőség és kihívások egy sikeres és gyorsan növekvő vállalatnál
+Versenyképes jövedelem és béren kívüli juttatások
+(SZÉP kártya, munkába járási támogatás, dolgozói biztosítás, dolgozói sajtcsomag, iskolakezdési támogatás, telekommunikációs és banki szolgáltatásokra dolgozói kedvezmények)
+Azonnali munkakezdési lehetőség!
+Céginformáció
+Az 1991-ben alapított
+Kőröstej Csoport
+a magyar és külföldi piacokon egyaránt sikeres,
+országszerte több mint 800 főt foglalkoztató,
+legnagyobb magyar sajtgyártó és sajtexportőr
+.
+4 gyártóüzemünkben egyedi technológiákkal kiváló minőségű sajtok készülnek,
+melyeket 5 kontinens több, mint 60 országába exportálunk.
+Jelentkezés módja
+Amennyiben hirdetésünk felkeltette érdeklődésedet, és szakmai múltad találkozik elképzelésünkkel, örömmel várjuk magyar nyelvű fényképes szakmai önéletrajzodat - bérigényed megjelölésével.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+IT
+tanácsadó, Elemző, Auditor
+Budapest
+Budapest
+Álláshirdetés jelentése

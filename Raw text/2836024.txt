@@ -1,0 +1,109 @@
+Cég neve
+Fürge Diák Iskolaszövetkezet
+Munkavégzés helye
+Hibrid
+•
+IBM Budapest Lab - Budapest, Szigony u. 26, 1083
+Fizetés
+Br.
+2 500 Ft/óra bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Szakmai gyakorlat
+Diákmunka
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+BACKEND
+CLOUD
+API
+JAVA
+PYTHON
+C++
+Biztosított eszközök
+Laptop
+Mobiltelefon
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Szakmai
+gyakorlat
+Diákmunka
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+BACKEND
+CLOUD
+API
+JAVA
+PYTHON
+C++
+Laptop
+Mobiltelefon
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Céginformáció
+Az
+IBM Magyarországi Kft.
+a világ egyik vezető technológiai vállalatának hazai leányvállalata, amely több mint 170 országban nyújt innovatív informatikai és felhőalapú megoldásokat. Az IBM globálisan meghatározó szereplő a hibrid cloud, mesterséges intelligencia és enterprise szoftverfejlesztés területén.
+A budapesti IBM Lab nemzetközi fejlesztői környezetben működik, ahol mérnökök és szoftverfejlesztők dolgoznak világszinten használt cloud platformok és szolgáltatások fejlesztésén. A csapat modern open-source technológiákkal és agilis módszertanokkal épít nagyvállalati megoldásokat.
+Feladatok
+Backend szolgáltatások fejlesztésében való részvétel az IBM Cloud Kubernetes Service csapatában
+Üzleti logika fejlesztése és karbantartása RESTful API-kon keresztül
+Backend orchestration és lifecycle management folyamatok támogatása
+Kubernetes alapú platform-szolgáltatások fejlesztésének támogatása
+Go (Golang) programozási nyelv használata és elsajátítása mentor támogatásával
+Együttműködés nemzetközi fejlesztői csapattal, több időzónán átívelő projektekben
+Kódírás, tesztelés és hibajavítás senior mérnökök szakmai iránymutatásával
+Elvárások
+Folyamatban lévő BSc/MSc/PhD tanulmány mérnöki vagy informatikai területen
+Alap programozási tapasztalat objektumorientált nyelvek valamelyikében (Java / Python / C++)
+Nyitottság a Go (Golang) programozási nyelv megtanulására
+Angol és magyar nyelv kommunikációképes ismerete
+Analitikus gondolkodás és csapatmunkára való képesség
+Heti minimum 20 óra teljesítése
+Angol nyelvű önéletrajz
+Előnyök
+Golang ismerete
+Kubernetes vagy konténerizációs technológiák alapfokú ismerete
+Backend fejlesztési tapasztalat (tanulmányi vagy saját projektekből)
+Amit kínálunk
+Bruttó 2 500 Ft/óra
+Szakmai gyakorlat igazolás
+Rugalmas munkaidő
+Hibrid munkavégzés a Corvin Office irodából (Budapest Lab)
+Nemzetközi vállalati környezet és modern technológiai stack
+Mentorált szakmai fejlődési lehetőség senior fejlesztők mellett
+Valós enterprise cloud fejlesztési projektekben szerzett tapasztalat
+Jelentkezés módja
+A "Jelentkezem" gombra kattintva, angol nyelvű önéletrajzod feltöltésével pályázhatsz.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,115 @@
+Cég neve
+SnapSoft Informatikai és Szolgáltató Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+GIT
+BACKEND
+SQL
+FRONTEND
+DEVOPS
+JAVA
+ANGULAR
+REACT
+NODE.JS
+CLOUD
+POSTGRESQL
+NOSQL
+DATABASES
+SECURITY
+TESTING
+SPRING
+DOCKER
+AWS
+API
+AGILE
+Biztosított eszközök
+MacOS
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+GIT
+BACKEND
+SQL
+FRONTEND
+DEVOPS
+JAVA
+ANGULAR
+REACT
+NODE.JS
+CLOUD
+POSTGRESQL
+NOSQL
+DATABASES
+SECURITY
+TESTING
+SPRING
+DOCKER
+AWS
+API
+AGILE
+MacOS
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Develop and maintain scalable web applications using Angular or React
+Build and optimize RESTful APIs and microservices using Node.js, Java, or .NET
+Define and manage cloud infrastructure using Infrastructure as Code, such as Terraform or OpenTofu
+Work with relational (RDS, PostgreSQL) and NoSQL (DynamoDB) databases, ensuring security and efficiency
+Ensure high-quality code through testing, code reviews, and best practices
+Develop CI/CD pipelines for automated testing and deployment
+Contribute to architecture discussions, ensuring efficient and cost-effective solutions
+Collaborate in an Agile environment, actively participating in sprints and retrospectives
+Requirements
+Proven experience as a Full-Stack Engineer, delivering high-quality applications in production environments
+Strong frontend expertise with Angular or React
+Solid backend development skills with Node.js, Java (Spring Boot), or .NET
+Proficiency with SQL and NoSQL databases, including query optimization
+Familiarity with CI/CD pipelines, DevOps practices, and version control systems like Git
+Experience with containerization (Docker) and orchestration tools (Kubernetes, AWS ECS)
+Strong problem-solving skills, with a focus on performance, scalability, and user experience
+Excellent communication and collaboration skills to work effectively across teams
+Ability to write clear technical documentation and contribute to knowledge sharing
+Experience managing cloud infrastructure using Infrastructure as Code, such as Terraform or OpenTofu, is a plus
+Exposure to AWS services like Lambda, ECS, RDS, DynamoDB, S3, and API Gateway is beneficial
+What we offer
+A company culture based on autonomy and accountability
+Flexible working hours
+Cool office with great location in Budapest, nearby Deak Ferenc Square / Astoria
+Macbook in order to be the most efficient in your daily tasks
+Company-sponsored technical trainings
+Company-sponsored trips to relevant, professional conferences
+Medicover Health Insurance
+English course with native teachers
+AYCM SportPass contribution, yoga at the office, SnapSoft football
+Regular cocktail parties, team buildings, an annual all staff 3-day summer retreat
+Book club & SnapSoft library, Board game club & regular board game evenings
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

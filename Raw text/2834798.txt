@@ -1,0 +1,82 @@
+Cég neve
+Forschungszentrum Jülich GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+MACHINE LEARNING
+NETWORK
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+MACHINE
+LEARNING
+NETWORK
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+The PhD project is methodologically independent and embedded in a multidisciplinary research environment at the interface of artificial intelligence, scientific imaging, and materials research. You will strengthen the data science and machine learning activities of IAS‑9 by developing core AI methods with applications to electron microscopy and materials discovery. You will work in a team of data scientists, software engineers, and experimental researchers on topics including:
+Developing multi-scale and multi-modal representation learning methods for scientific imaging data (e.g., SEM, TEM, EBSD).
+Learning representations that are robust to scale changes, modality shifts, and domain differences across instruments and laboratories.
+Designing active learning and experimental design strategies that use learned representations to guide data acquisition under cost and uncertainty constraints.
+Building surrogate models that connect imaging-derived representations with downstream physical or functional properties.
+Collaborating closely with experimental partners to integrate decision-making algorithms into real scientific workflows.
+Publishing results in high-impact machine learning and interdisciplinary journals and conferences, and contributing to open-source research software.
+The developed methods will be validated using large-scale electron microscopy data from collaborative research projects, including an EU-funded project on sustainable steel development, while maintaining a clear focus on fundamental AI research questions.
+Requirements
+We are looking for a highly motivated candidate with a strong interest in foundational machine learning research and its application to real-world scientific problems. You should bring:
+A completed university degree (Master's or equivalent) in computer science, data science, applied mathematics, physics, materials science, or a related field.
+Solid background in machine learning and/or computer vision.
+Interest in representation learning, active learning, uncertainty modeling, or decision-making under constraints.
+Experience with Python and modern ML frameworks such as PyTorch or TensorFlow.
+Curiosity for interdisciplinary research; prior experience with scientific or microscopy data is welcome but not required.
+Strong analytical skills, scientific creativity, and the ability to work independently while collaborating in a team environment.
+What we offer
+We work on the very latest issues that impact our society and are offering you the chance to actively help in shaping the change! We support you in your work with:
+RESEARCH & INFRASTRUCTURE: The opportunity to conduct exciting research in an international and multidisciplinary environment with outstanding infrastructure and to strengthen your reputation in a dynamic and highly active research field
+ENVIRONMENT: A creative work environment at a leading research facility, located on an attractive research campus at the TZA Aachen
+and the Forschungs­zentrum Jülich
+NETWORKING & EXCHANGE: The opportunity to attend national and international conferences and actively build your scientific network
+KNOWLEDGE & DEVELOPMENT: Your professional development is important to us – we support you specifically and individually, e.g., through training and networking opportunities specifically for doctoral candidates (JuDocS):
+SUPPORT FOR INTERNATIONAL EMPLOYEES: Our International Advisory Service makes it easier for international employees to get started
+FAIR REMUNERATION: Depending on your qualifications and assigned responsibilities, you will be classified according to pay group 13 (80%) of the TVöD Bund. Additionally, you will receive a special payment (“Christmas bonus”) amounting to 60% of one month's salary. All information about the TVöD Bund collective agreement can be found on the BMI website (pay scale table on page 69 and following of the PDF download):
+FIXED-TERM: The position is limited to 3 years
+In addition to exciting tasks and a collegial working environment, we offer you much more:
+To apply, please submit a complete CV, letter of motivation, university degree records and certificates.
+Place of employment: Jülich/Aachen
+We welcome applications from people with diverse backgrounds, e.g. in terms of age, gender, disability, sexual orientation/​identity, and social, ethnic and religious origin. A diverse and inclusive working environment with equal opportunities in which everyone can realize their potential is important to us.
+The following links provide further information on diversity and equal opportunities:
+and on the targeted promotion of women:
+Company info
+Shaping change: this is what drives us at Forschungs­zentrum Jülich. As a member of the Helmholtz Association with some 7,600 employees, we conduct interdisciplinary research into a digitalized society, a climate-friendly energy system, and a sustainable economy. We focus on the natural, life, and engineering sciences in the fields of information, energy, and bioeconomy. We combine this with expertise in high‑performance computing and artificial intelligence using unique scientific infrastructures.
+The Institute for Materials Data Science and Informatics (IAS-9) develops advanced Machine Learning & Artificial Intelligence methods tailored to challenges in the physical sciences and engineering, bridging data‑driven approaches with domain knowledge to push the boundaries of scientific discovery. Our group brings together ML engineers, AI researchers, data scientists, research software engineers, and domain scientists with a shared focus on scientific machine learning. Together, we develop and apply ML methods to tackle key challenges in the physical sciences and engineering: from accelerating simulations with surrogate models to extracting insights from complex imaging data, and building approaches that transfer across domains.
+In addition, we benefit from a strong connection to the Ernst-Ruska-Centre for Electron Microscopy and to the Jülich Supercomputing Center. We are particularly interested in advancing foundational machine learning methods for scientific imaging, with a focus on representation learning and data-efficient decision-making across heterogeneous data sources.
+We are looking to recruit a
+PhD Position – Representation and Active Learning for Multi-Scale Scientific Imaging
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

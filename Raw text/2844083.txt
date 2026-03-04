@@ -1,0 +1,94 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVA
+LINUX
+TESTING
+DEVOPS
+C
+C++
+ASSEMBLY
+ANDROID
+DEBIAN
+MIDDLEWARE
+HARDWARE
+PYTHON
+EXCEL
+Elvárások
+Angol középfok
+Pályakezdő/friss diplomás
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+JAVA
+LINUX
+TESTING
+DEVOPS
+C
+C++
+ASSEMBLY
+ANDROID
+DEBIAN
+MIDDLEWARE
+HARDWARE
+PYTHON
+EXCEL
+Angol
+középfok
+Pályakezdő/friss
+diplomás
+Egyetem
+
+Állás leírása
+Responsibilities
+Work alongside experienced engineers as part of a development team
+Support existing projects
+Explore and prototype ideas for the future
+Investigate the feasibility of ideas
+Extend specific features
+Perform comparative analysis of multiple potential solutions
+Analyze root causes of reported behaviours
+Upstream code into an Open Source project
+Requirements
+Hold or be on track to hold a University degree (Bachelors, Masters or PhD with relevant experience)
+A real passion for computing beyond studies
+A creative and structured approach to problem-solving
+Comfortable communicating within a small team in English
+Excellent C/C++ skills; assembly skills desirable
+Familiarity with performance optimisations and CPU and Systems architecture impact on software performance
+Awareness of CPU architecture details (pipelines, caches, MMUs, Interrupt Controllers, timers)
+Knowledge of at least one CPU architecture
+Nice-to-have
+Open Source project interaction or contribution, Operating system kernel or device drivers, Compilation technology, JIT compilers and Runtime, Android, ChromeOS, RedHat, Debian internals/middleware development, Linux development, Experience with Zephyr, FreeRTOS, other RTOS, Embedded devices and programming beyond microcontroller, Hands on experience with hardware and software debuggers, Knowledge of other languages such as shell, Rust, Python, Java, Any assembly, Any testing and/or verification knowledge, Experience with automation, DevOps and CI/CD tools and frameworks
+What we offer
+Competitive salary and comprehensive rewards package
+Support, autonomy and opportunity to excel in career
+Mid-year and year-end reviews for progression
+Workshops, guest speaker series and social events
+Opportunity to join Graduate Committee
+Invitation to Global Graduate Conference
+Hybrid working environment supporting high performance and personal wellbeing
+Company info
+The Software group is responsible for developing and improving the software ecosystem around Arm's next generation of applications processors. This frequently means working with processors and other hardware technology not yet available to the public. We work on a range of development platforms, software-models, FPGAs and early silicon, sometimes many months/years before the processors are available in real products.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

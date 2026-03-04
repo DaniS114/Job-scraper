@@ -1,0 +1,102 @@
+Cég neve
+Cheppers Szolgáltató Zrt.
+Munkavégzés helye
+Hibrid
+•
+1137, Budapest, Szent István körút 22.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+SECURITY
+TESTING
+AWS
+LINUX
+ANSIBLE
+CLOUD
+DOCKER
+ACCESS
+DEVOPS
+CI
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+SECURITY
+TESTING
+AWS
+LINUX
+ANSIBLE
+CLOUD
+DOCKER
+ACCESS
+DEVOPS
+CI
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, develop, and maintain cloud infrastructure solutions for SaaS/PaaS products using Infrastructure as Code (IaC) principles
+Implement and optimize CI/CD pipelines to enable efficient software delivery
+Create and maintain APIs and automation scripts to streamline infrastructure management
+Deploy and orchestrate containerized applications in production environments
+Implement monitoring, logging, and alerting solutions for high-availability services
+Collaborate with development teams to troubleshoot infrastructure issues
+Participate in on-call rotations to ensure system reliability and uptime
+Contribute to architectural decisions and infrastructure planning discussions
+Stay up to date with cloud technology trends and implement best practices
+Requirements
+2-3 years of hands-on experience working with AWS
+Proficiency with at least one Infrastructure as Code(IaC) tool: Terraform, AWS CloudFormation, or Pulumi
+Strong experience with containerization technologies (Docker, Kubernetes)
+Solid understanding of high-availability patterns and disaster recovery strategies
+Linux system administration skills (shell scripting, package management, networking)
+Experience with CI/CD tools and pipelines (GitLab CI, GitHub Actions etc.)
+Understanding of security best practices for cloud environments
+Strong problem-solving abilities and attention to detail
+Excellent communication skills in English (written and verbal)
+Nice-to-have
+Active AWS certifications (Solutions Architect, DevOps Engineer, SysOps Administrator), Expertise with configuration management tools (Ansible, Chef, Puppet), Programming experience in Python, Go, or similar languages, Experience operating production services in a DevOps capacity, Contributions to relevant open-source projects, Experience with automated testing methodologies, Familiarity with observability tools (CloudWatch, Prometheus, Grafana, ELK stack)
+What we offer
+Participation in interesting, long-term projects
+Opportunities for continuous professional growth and valuable training (including AWS certifications)
+Access to cutting-edge cloud technologies, AI tools, and automation platforms
+Company English lessons with a native teacher
+Flexible working hours, home office options, and a healthy work-life balance
+Dog-friendly downtown office in Budapest
+Opportunities for career advancement and leadership roles
+Company info
+Cheppers was founded in 2012 and today we are the market leaders among the Hungarian Drupal companies, with a strong international reputation. We currently have 40+ colleagues who work on cloud services and consulting (AWS) and Drupal based web solutions.
+We believe in continuous learning and we like to share knowledge with each other through in-house training.
+We are transparent and aim to be as open as possible with each other, and we strongly believe in growing together.
+Most of our colleagues have participated in open source projects.
+We are regular attendees/presenters/organizers/code sprinters/sponsors of professional conferences in Hungary and abroad.
+More than half of our team members have visited our clients in Western Europe and the USA to work on-site or to attend team building events.
+We have an office in Chicago and a constantly growing team in the USA.
+From 2019 we are a member of the AWS Partner Network.
+Lots of our colleagues have acquired AWS and Acquia certifications.
+In 2025, we became the first official GitLab partner in Hungary.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Budapest
+Budapest
+Álláshirdetés jelentése

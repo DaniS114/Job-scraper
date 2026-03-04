@@ -1,0 +1,116 @@
+Cég neve
+AP Sensing GmbH
+Munkavégzés helye
+Hibrid
+•
+Böblingen bei Stuttgart
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANGULAR
+CLOUD
+SECURITY
+C
+API
+Biztosított eszközök
+Laptop
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANGULAR
+CLOUD
+SECURITY
+C
+API
+Laptop
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+You
+design and implement
+a cloud-native, multi-tenant and secure asset monitoring platform for distributed fiber optic sensing solutions
+You
+build
+robust, secure and observable platform components, data models, interfaces and APIs
+You
+evolve
+the application platform architecture, to support building solutions for field applications like fire detection, critical infrastructure monitoring or power grid solutions
+You
+proactively engage
+with application teams to understand their domain and their needs
+You
+provide technical leadership
+by applying your expertise, designing concepts, proposing effective solutions and guiding the decision-making process
+Requirements
+You have a degree in computer science, software engineering or similar
+You have worked as a .Net developer for at least 8 years, 5 of which you designed, built and operated production-grade distributed systems, ideally within IIoT or sensor-based monitoring environments.
+You have excellent programming skills in C# and modern .NET and you write high-quality maintainable code. Knowing further languages is a plus.
+You have strong hands-on experience with K8s and messaging systems (e.g., NATS, MQTT, Kafka). Knowledge of event driven architectures and distributed stream processing is a plus.
+You have good knowledge of web- and mobile technologies, protocols, and frameworks (Angular is a plus) and persistence
+You know common design- and architecture patterns and best practices in API design
+You have a strong hands-on mentality and you have the drive to create
+You speak German and English at C1 level
+What we offer
+half-yearly bonus distribution (depending on company performance)
+annual salary increases
+holiday bonus
+christmas bonus
+AP Sensing Card with 50 Euro credit per month
+permanent employment contract with job security
+company pension scheme
+participation in the Corporate Benefits Program
+meal subsidy for in-house canteen
+free drinks and fresh fruit
+job-bike offer
+career opportunities due to steady, healthy company growth
+flat hierarchies and very collegial relationship with managers
+very positive and appreciative working atmosphere
+international and intercultural team
+flexible working hours and home office options
+company laptop for everyone
+ideal work-life balance
+regular company and team events
+employee training and education
+new and fully equipped kitchen with high-tech coffee machine
+kiosk in the building
+large, bright and air-conditioned offices
+modern office equipment with creative spaces
+height-adjustable desks for ergonomic working
+2 minutes to the S-Bahn and motorway
+free parking spaces
+sports facilities: weekly jogging group and fitness coach
+showers available (for cyclists or "lunch break joggers")
+Company info
+WE ARE AGAIN AWARDED AS
+TOP ARBEITGEBER 2025!
+At AP Sensing, we're building on a success story that began in the garage of Bill Hewlett and Dave Packard. As an independent HP spin-off, we combine over 40 years of technological expertise with a passion for innovation.
+Together we'll continue to enhance infrastructure, protect people, and safeguard our planet. With a commitment to fiber optic sensing, we value every voice and empower growth. Join us in
+thinking ahead
+to create a smarter, safer world.
+YOUR NEW CAREER
+As part of AP Sensing, you will immerse yourself in a fascinating world: Together we take measurement technology to the limits of physics. We use fiber optic cables as sensors and build measuring devices and software that measure temperatures and acoustic signals along the fiber with meter precision.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

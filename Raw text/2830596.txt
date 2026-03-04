@@ -1,0 +1,87 @@
+Cég neve
+Trenkwalder
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DEVOPS
+CLOUD
+DOCKER
+AWS
+AZURE
+POSTGRESQL
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+DEVOPS
+CLOUD
+DOCKER
+AWS
+AZURE
+POSTGRESQL
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Főbb feladatok, munkák
+Részvétel a teljes cloud fejlesztési életciklusban,
+Magas színvonalú script- és kódírás az infrastruktúra automatizálásához,
+CI/CD pipeline-ok létrehozása, karbantartása és optimalizálása (pl. GitHub Actions, Helm),
+Alkalmazások és szolgáltatások megbízhatóságának, skálázhatóságának és biztonságának biztosítása,
+Infrastructure as Code (Terraform) implementálása és karbantartása,
+Kubernetes munkaterhelések és Helm-deploymentek kezelése,
+Rendszerfigyelés és proaktív hibakeresés Prometheus, Grafana, Datadog eszközökkel,
+Együttműködés fejlesztői és üzemeltetési csapatokkal a telepítési és workflow-optimalizáció érdekében,
+Rendszertelepítések végrehajtása, szükség esetén munkaidőn kívüli támogatás biztosítása.
+Az álláshoz tartozó elvárások
+BSc/MSc fokozat Informatika, Informatikai Mérnöki vagy kapcsolódó területen, vagy ezzel egyenértékű tapasztalat,
+3+ év DevOps gyakorlat,
+Erős Docker és Kubernetes ismeretek,
+Shell script kódolási készség,
+AWS vagy Azure cloud szolgáltatások ismerete,
+CI/CD pipeline-ok tervezése, implementálása és optimalizálása,
+Infrastructure as Code (Terraform) használata,
+Observability eszközök ismerete: Prometheus, Grafana, Datadog,
+Adatbázisok ismerete (különösen PostgreSQL),
+RabbitMQ klaszterek kezelése (opcionális),
+Angol és magyar nyelvű kommunikáció,
+Felhőtechnológiák és scripting iránti lelkesedés.
+Amit kínálunk
+Hosszú távú foglalkoztatás,
+Szakmai fejlődési lehetőségek (tréningek, képzések),
+Ingyenes angol nyelvi kurzus,
+10%-os kedvezmény az Intellident fogászati szolgáltatásainál,
+„All you can move” sportolási lehetőségek,
+Home office lehetőség,
+Rendszeres csapatépítők,
+Napi ebéd támogatás, korlátlan kávéfogyasztás,
+Barátságos munkakörnyezet, zöld és csendes környezet.
+Céginfo
+Partnerünk, egy 1992 óta Magyarországon működő, nemzetközi IT szolgáltató cég, olyan
+DevOps mérnök kollégát
+keres, aki szívesen dolgozna stabil, hosszú távú projekteken, és aktívan hozzájárulna a cég különböző termékfejlesztési és üzemeltetési projektjeihez.
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Álláshirdetés jelentése

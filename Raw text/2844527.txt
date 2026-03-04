@@ -1,0 +1,65 @@
+Cég neve
+Phiaro Technologies Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+Nem
+kell tapasztalat
+Egyetem
+
+Állás leírása
+Feladatok
+Kutatás-fejlesztési projektek végigkövetése a tervezéstől az átadásig
+Beágyazott vezérlők programozása C nyelven
+Prototípus berendezések beüzemelése, tesztelése
+Belsős és partner cégek villamos-, programtervező-, gépész-, és mechatronikai mérnökeivel való együttműködés
+Dokumentáció írás
+Szoftvertesztelés
+Elvárások
+Villamosmérnök vagy informatikus végzettség
+C programozási ismeret valós idejű beágyazott környezetben
+Hardverközeli programozáshoz szükséges analóg és digitális hardver ismeretek
+Fejlesztéshez, teszteléshez szükséges mérőműszerek ismerete
+Legalább középfokú angol nyelvtudás szóban és írásban egyaránt
+Eredményorientált gondolkodás
+Jó kommunikációs- és kezdeményezőkészség
+Verziókezelő rendszerek ismerete (GIT)
+Precizitás, igényes munkavégzés
+Humorérzék
+Előnyt jelent
+Járműipari tapasztalat, STM32F4xx és STM32F1xx mikrokontrollercsalád alkalmazása, STM32CubeIDE magas szintű ismerete, Egyéb programozási nyelvek ismerete (C#, C++, Python stb.), Önálló munkavégzés, Tanulási képesség, Csapatjátékosként gondolkodik, Jó problémamegoldó és koncepcióalkotó készség jellemzi, Jó kommunikációs készséggel rendelkezik
+Amit kínálunk
+Érdekes, változatos, modern projektfeladatok
+Stabil, hosszú távú munkalehetőség
+Versenyképes jövedelem
+Támogató csapat
+Részvétel a fejlesztési döntésekben
+Folyamatos szakmai fejlődés
+Céginformáció
+A Phiaro Technologies Kft. (korábban Xtalin Mérnöki Tervező Kft.) alapításakor két szakterületnél tettük le a voksunkat. Az ipari elektronikák fejlesztése mellett idejekorán kezdtünk el foglalkozni elektromos járművek elektronikáinak fejlesztésével, aminek köszönhetően az ország egyik legtapasztaltabb ilyen fejlesztőjévé váltunk, és mára nemzetközi szinten, heti rendszerességgel keresnek fel minket különböző prototípusok fejlesztésével kapcsolatban, például elektromos hajók, vízi autonóm robotok, motorkerékpárok, kisbuszok stb. Ezen a témán belül fő szakterületünk az akkumulátorok, ezek elektronikáinak tervezése, illetve a hajtásrendszer egyéb részegységeinek integrálása. 2020 óta az European Battery Allience tagja vagyunk.
+Figyelemmel követve az EU és a Magyar Állam energetikai/környezetvédelmi terveit, exponenciális fejlődési pályára számíthatunk. Az ipari területen egyre gyakoribbak a komplex, gyárvezérléssel kapcsolatos megkereséseink. Valóban dinamikus fejlődési pályára 2018 során sikerült lépni, amióta folyamatosan dolgozunk olyan partnereknek, mint például a japán Phiaro Corporation, a thyssenkrupp Components Technology Hungary Kft, és még sokan mások. A titoktartás minket is kötelez, több izgalmas projektünkről még nem adhatunk nyilvánosan számot.
+2018 óta egy harmadik komoly lába is van a cégnek, az ErasmusPlus program keretében partnereinkkel közösen szakirányú tananyagokat fejlesztünk a közoktatás számára, így fejlesztői munka mellett egy hosszútávú, magasztos célt is szolgálhatunk, büszkék vagyunk rá, hogy itt is maradandót alkothatunk.
+Relatív kicsi, de fejlődő cégként nálunk előfordulnak a legkülönfélébb méretű/bonyolultságú/igényű projektek, melyeket az árajánlatozástól az átadásig kísérünk, tehát minden fejlesztési lépést láthatsz, a beszürkülés lehetősége kizárt! Munkatársaink terheltségére, fejlődési igényeire nagy figyelmet fordítunk, a projekteket úgy osztjuk fel, hogy mindenki testhezálló feladatokat kapjon. Itt biztosan sokat tanulhatsz, de akkor tennél leginkább boldoggá minket, ha mi is tanulhatnánk Tőled!
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Mérnök
+Elektromérnök
+Budapest
+Álláshirdetés jelentése

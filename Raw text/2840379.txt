@@ -1,0 +1,84 @@
+Cég neve
+Nova HR
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Vállalkozói
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+PYTHON
+AZURE
+MACHINE LEARNING
+AWS
+Elvárások
+Angol felsőfok
+5-10 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Vállalkozói
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+PYTHON
+AZURE
+MACHINE
+LEARNING
+AWS
+Angol
+felsőfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+Egy amerikai tulajdonban lévő szoftverfejlesztő és IT tanácsadó vállalat számára keresünk munkatársat.
+Feladatok
+Skálázható adatpipeline-ok és infrastruktúra tervezése vállalati ML rendszerekhez
+ML modellek és rendszerek éles (production) környezetbe történő implementálása
+Együttműködés data scientist-ekkel és szoftvermérnökökkel
+Skálázható eszközök és szolgáltatások bevezetése gépi tanulási tréninghez és inference-hez
+Új technológiák értékelése az ML rendszerek teljesítményének és megbízhatóságának javítása érdekében
+Szoftvermérnöki best practice-ek alkalmazása, beleértve a CI/CD folyamatokat, az ML fejlesztésben
+ML proof-of-concept megoldások fejlesztésének és bevezetésének támogatása
+ML modellek felülvizsgálata, refaktorálása, optimalizálása, konténerizálása, telepítése, verziókezelése és monitorozása
+Monitoring és riasztási megoldások implementálása az ML rendszerek megbízhatóságának és teljesítményének biztosítása érdekében
+Az ML deployment folyamat optimalizálása és automatizálása a hatékonyság és reprodukálhatóság érdekében
+Együttműködés cross-funkcionális csapatokkal az ML bevezetések során felmerülő problémák megoldásában
+Iparági trendek követése és a megszerzett tudás innovációs célú alkalmazása
+Iparági best practice-ek előmozdítása és a csapat szakmai szintjének fejlesztése
+Elvárások
+Felsőfokú informatikai végzettség
+Magabiztos, aktív angol nyelvtudás (szóban és írásban egyaránt)
+Legalább 4 év tapasztalat az alábbi munkakörök valamelyikében: Software Engineer, Platform Engineer, ML Engineer, Data Scientist, AI Engineer vagy Data Engineer
+Magabiztos Python tudás
+Gépi tanulási algoritmusok, adat-előkészítési módszerek és ML keretrendszerek (pl. PyTorch, TensorFlow, Keras) ismerete
+Konténerek és Kubernetes használatában szerzett tapasztalat felhőkörnyezetben (AWS, Microsoft Azure vagy GCP)
+Adatközpontú workflow-orchestration keretrendszerek ismerete (KubeFlow, Airflow, Argo)
+A szoftvertesztelés, benchmarkolás és folyamatos integráció alapelveinek ismerete
+Megoldásorientált hozzáállás, jó problémamegoldó készség
+Önállóság, proaktivitás, önmotiváltság, rugalmasság
+Előnyt jelent
+Agent keretrendszerek ismerete (pl. Langchain, Langgraph, LlamaIndex)
+RAG (Retrieval-Augmented Generation) rendszerek fejlesztésében szerzett tapasztalat
+Natural Language Processing (NLP) tapasztalat
+Monitoring eszközök ismerete (pl. DataDog vagy Langfuse)
+Bármilyen társult (associate szintű) felhő tanúsítvány (AWS előny)
+Amit kínálunk
+Versenyképes juttatási csomag
+Lehetőség egy globálisan sokszínű, kiemelkedő mérnöki csapattal dolgozni az iparág legösszetettebb mérnöki kihívásain
+Rendkívül rugalmas munkakörülmények – bőkezű irodai eszköztámogatás az otthoni munkavégzéshez, igény esetén munkaállomás biztosítása egy közeli irodában vagy coworking térben, vagy akár mindkettőt. Nincs szükség üzleti utazásra.
+Élvezetes, startup jellegű munkakörnyezet, kiváló szakmai fejlődési és karrierlehetőségekkel Rugalmas munkaidő – remote-first vállalatként a hangsúly mindig a minőségi munkavégzésen van, nem azon, hogy mikor vagy hol történik az.
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Álláshirdetés jelentése

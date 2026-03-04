@@ -1,0 +1,114 @@
+Cég neve
+BECK AND PARTNERS Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest, Pest megye, Budapest, Lechner Ödön fasor 9. (lehetőség van a Baracskai vagy Törökbálinti irodába bejárni)
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+BACKUP
+WINDOWS
+LINUX
+DATABASES
+ITIL
+POWERSHELL
+PYTHON
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+BACKUP
+WINDOWS
+LINUX
+DATABASES
+ITIL
+POWERSHELL
+PYTHON
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Company info
+Would you like to work with modern data center and cloud-based systems (AWS, Azure) as part of an international team?
+Is continuous professional development just as important to you as long-term stability?
+Our partner is an international banking group present in five European countries, where IT is a true business enabler. You will work closely with Hungarian and Belgian colleagues in a modern data center and cloud-based (AWS, Azure) environment, ensuring the secure operation of millions of daily transactions. If you are looking to join a stable, international team where real career growth is available, this could be the right place for you.
+They are expanding their team and are looking for a colleague for the following position:
+BACKUP ADMIN – SYSTEM ENGINEER
+Tasks
+Daily operation of data backup and data protection systems supporting corporate IT applications
+Configuration, monitoring, and maintenance of backup infrastructure in an enterprise environment, including:
+Deduplication backup target systems (e.g. Data Domain)
+Media servers
+Modern software-defined backup solutions (Cohesity)
+Archiving and long-term data retention solutions (e.g. tape infrastructure)
+Participation in the implementation of the Cohesity environment and migration to the new platform
+End-to-end lifecycle management of backup and restore infrastructure (data protection)
+Active involvement in preventing operational incidents
+Communication with internal customers and IT vendors
+Continuous maintenance and updating of system operation documentation
+Supporting reporting obligations
+Expectations
+At least 3–5 years of experience operating storage-side and backup systems
+Confident English language skills
+Hands-on experience with server-side operations (Windows/Linux servers, virtual environments)
+Solid knowledge of databases
+Practical experience working with ITIL methodology
+Willingness to participate in on-call duty, including occasional evening and weekend work
+Fast learner with a team-oriented mindset
+Strong problem-solving and analytical skills
+Benefits
+Competitive salary and attractive benefits package, including:
+Flexible cafeteria benefit
+Annual performance-based bonus
+Company mobile phone with mobile internet for private use
+Employee banking benefits
+Private healthcare services (Medicare)
+Daily use of English in a professional environment
+Flexible working hours, no strict clock-in/clock-out system
+Strong emphasis on teamwork: office presence is encouraged, with the option of 3 days of home office per week
+Open and receptive to your ideas, valuing your insights and contributions
+International environment and friendly workplace culture
+Green office located in Millenniumi Park, offering:
+Bicycle storage and shower facilities
+Panoramic restaurant with views of the Danube and the National Theatre
+Free coffee in the community area, darts, and numerous dining options nearby
+Stable, long-term career opportunities within the company
+Lifelong learning and diverse professional challenges
+Working hours: Flexible schedule with up to 3 days of home office per week
+Location: Budapest, Lechner Ödön fasor 9. (There is also the option to work from the Baracska or Törökbálint offices.)
+Advantages
+Experience with Cohesity or NetBackup systems
+PowerShell or Python scripting experience
+Experience with Infrastructure as Code (IaC) and process automation
+Apply!
+Kérjük, pályázatát a jelentkezés gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Budapest
+Álláshirdetés jelentése

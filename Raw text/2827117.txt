@@ -1,0 +1,122 @@
+Cég neve
+Bruker Physik GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Egyéb juttatások
+Étkezési jegy
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+ABAP
+ERP
+BACKEND
+FRONTEND
+CLOUD
+REST
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Középiskola
+
+Étkezési
+jegy
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+ABAP
+ERP
+BACKEND
+FRONTEND
+CLOUD
+REST
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Join our internal IT team leading the corporation to the next generation SAP ERP system: S/4HANA, running with SAP Fiori launchpad.
+Brief summary of the role: Development and technical consulting in the SAP environment, focusing on both backend (ABAP) and frontend (Fiori/UI5) solutions.
+Design, develop and implement innovative SAP ABAP and Fiori/UI5 solutions, primarily in the
+S/4HANA environment.
+Develop and extend SAP Fiori applications, including custom Fiori apps and Fiori Launchpad
+configurations.
+Create technical concepts and solution proposals based on user requirements and current
+technical trends.
+Perform interface programming (IDoc, BAPI, ALE, SOAP, REST) and maintain interfaces to non-
+SAP systems.
+Support and optimize existing applications and participate in global system operations.
+Analyze, conceptualize, implement, and test SAP development tasks in a hybrid SAP system
+landscape (S/4HANA, BW, BW4, GTS, HCM).
+Transform legacy/custom programs into SAP Fiori-based solutions.
+If applicable: Take on the Fiori Lead role, including:
+Developing and maintaining Fiori guidelines and best practices.
+Evaluating and implementing new Fiori features and innovations.
+Training and mentoring the team on Fiori topics and standards.
+Optional: Practical Training Responsibilities o Responsible for the hands-on training of apprentices in the SAP Development & Technical Integration department.
+Implement training content and learning objectives using appropriate training methods, and conduct regular assessments of learning progress.
+Provide ongoing feedback to apprentices, including evaluation of their performance.
+Ensure compliance with rules and legal requirements throughout the training process.
+Requirements
+3+ years of professional experience in software development with SAP ABAP in an international operating industry
+3+ years of professional experience in software development with SAP Fiori
+Profound knowledge in ABAP OO, ABAP for Hana, Core Data Services, SAP UI5, SAP Fiori, OData
+Knowledge in SAP S/4HANA and SAP S/4HANA Development, SAP Gateway, SAP Cloud Platform is an advantage
+Know-How in the SAP ECC environment
+Ability to visualize complex issues and system landscapes
+Strong social and communication skills
+Excellent English language skills
+German language skills (as a plus)
+Ability to work in a team
+Analytical thinking skills
+Goal-oriented mode of operation
+Independent and autonomous work
+Motivation to be able to change and move things
+Service orientation
+The position can be based in Germany, Ettlingen or in Porto, Portugal and Warsaw, Poland. We are also considering candidates who will work remotely in these locations.
+What we offer
+Christmas bonus + vacation pay
+Annual inflation compensation
+Air-conditioned workplaces + modern equipment
+Flexible working from home (after the probationary period) and in the office
+30 days vacation
+Canteen + Meal Vouchers
+Company pension scheme + capital-forming benefits
+Free employee parking spaces + E-charging stations
+Onboarding + induction program
+Webinars/e-learning + Individual development
+Company health management + Job bike
+SAP trainings
+Company info
+Welcome to Bruker, Your Community to Grow!
+We innovate, shape, and create a better world. Bruker's high-performance scientific instruments and solutions enable scientists to make breakthrough discoveries.
+Join now our #BrukerCommunity!
+SAP ABAP + Fiori Developer Inhouse (m/f/d)
+Location:
+Ettlingen
+Do you want to create solutions that improve the world? Then you belong at Bruker — where you will join a global community of experts driving meaningful impact through science and technology. At Bruker, you will thrive in an agile working culture defined by interdisciplinary collaboration, innovation, and growth. Enjoy the freedom, autonomy, and development opportunities that empower you to shape the future.
+Bruker is enabling scientists to make breakthrough discoveries and develop new applications that improve the quality of human life. Bruker's high-performance scientific instruments and high-value analytical and diagnostic solutions enable scientists to explore life and materials at molecular, cellular, and microscopic levels. In close cooperation with our customers, Bruker is enabling innovation, improved productivity, and customer success in life science molecular and cell biology research, in applied and pharma applications, in microscopy and nanoanalysis, as well as in industrial applications. Today, more than 11 000 employees at over 100 locations are working on this permanent challenge to make the world a better place.
+Bruker offers differentiated, high-value life science and diagnostics systems and solutions in preclinical imaging, clinical phenomics research, proteomics and multiomics, spatial and single-cell biology, functional structural and condensate biology, as well as in clinical microbiology and molecular diagnostics.
+About Bruker
+Bruker is one of the world's leading analytical instrumentation companies. Our technologies enable breakthrough discoveries and innovative applications that improve human health and quality of life.
+Trusted worldwide, Bruker combines scientific excellence with a clear mission:
+Making the world a better place — with over 11,000 employees at more than 100 locations.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

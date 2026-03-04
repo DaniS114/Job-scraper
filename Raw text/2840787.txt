@@ -1,0 +1,89 @@
+Cég neve
+Tech People Hungary Kft.
+Munkavégzés helye
+Budapest
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Vállalkozói
+Általános munkarend
+Elvárt technológiák
+Oracle
+Data analyzing
+PostgreSQL
+SQL
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Vállalkozói
+Általános
+munkarend
+Oracle
+Data
+analyzing
+PostgreSQL
+SQL
+Angol
+középfok
+1-3
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Responsibilities
+Understand and document data models, entities, and relationships across systems
+Analyze data flows and integrations between applications and databases
+Perform data extraction and reporting using SQL (Oracle and PostgreSQL)
+Identify and investigate data quality issues (completeness, consistency, validity, accuracy)
+Conduct root cause analysis of problematic or inconsistent data
+Explain data issues and findings to technical and non-technical stakeholders
+Design, test, and execute data correction scripts in a controlled and auditable way
+Support governance activities and audits by providing data evidence and explanations
+Requirements
+Strong SQL skills (Oracle and PostgreSQL)
+Solid understanding of relational data models
+Experience working with multi-system data flows
+Strong analytical and problem-solving skills
+High attention to detail and data accuracy
+Ability to communicate complex data topics clearly
+Confident English knowledge
+Candidate needs to be currently eligible to work in Hungary
+Nice-to-have
+Experience with data governance or data quality frameworks
+Exposure to MDM / reference data systems
+Experience supporting audit or compliance activities
+Scripting or automation experience (e.g., Python)
+Investigative mindset and structured thinking
+Comfortable working with complex and imperfect data
+Balance between speed, accuracy, and governance controls
+Strong collaboration across IT, governance, and business teams English
+What we offer
+Hybris work
+Competitive salary
+Multinational environment
+Company info
+Tech People is a European provider of technical skills permanent recruitment and temporary contracting services for multiple industries.
+How to apply
+Apply via "Jelentkezem" button underneath!
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Budapest
+Álláshirdetés jelentése

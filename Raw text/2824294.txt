@@ -1,0 +1,137 @@
+Cég neve
+FOTEXNET Kft.
+Munkavégzés helye
+1071 Budapest, Városligeti Fasor 23.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Egészségpénztár
+Cafeteria
+Munkába járás támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+FRONTEND
+BACKEND
+PHP
+LARAVEL
+HTML5
+CSS3
+REACT
+POSTGRESQL
+API‑
+DEVOPS
+AWS‑
+POSTMAN
+GIT
+UNIX
+BASH
+REST
+Biztosított eszközök
+MacOS
+Mobiltelefon
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Egyetem
+
+Egészségpénztár
+Cafeteria
+Munkába
+járás támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+FRONTEND
+BACKEND
+PHP
+LARAVEL
+HTML5
+CSS3
+REACT
+POSTGRESQL
+API‑
+DEVOPS
+AWS‑
+POSTMAN
+GIT
+UNIX
+BASH
+REST
+MacOS
+Mobiltelefon
+Angol
+középfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Feladatok
+Technikai vezetés
+Architektúra‑irányelvek meghatározása és a hosszú távú technológiai stratégia támogatása
+Kódminőség felügyelete strukturált code review‑kon és best practice‑ek alkalmazásán keresztül
+Összetett technikai kihívások megoldása és a csapat támogatása kritikus döntési helyzetekben
+Csapatvezetés és mentorálás
+Fejlesztők mentorálása minden senioritási szinten
+Egy együttműködő, tudásmegosztó kultúra kialakítása
+Új kollégák beilleszkedésének támogatása és folyamatos szakmai fejlődésük elősegítése
+Tervezés
+Napi standupok, sprinttervezés és backlog‑finomítás vezetése vagy aktív támogatása
+Pontos feladatbecslés, priorizálás és munkamegosztás biztosítása
+A fejlesztési folyamat nyomon követése és a magas minőségű szoftver időben történő leszállítása
+Együttműködés a stakeholderekkel
+Üzleti igények lefordítása egyértelmű technikai irányokká
+Kockázatok, függőségek és előrehaladás kommunikálása projektmenedzserek felé
+Technikai döntések összehangolása az üzleti célokkal és ügyféligényekkel
+Minőség és folyamatfejlesztés
+A fejlesztési munkafolyamatok és CI/CD pipeline‑ok folyamatos fejlesztése
+Release‑ek koordinálása és zökkenőmentes élesítési folyamatok biztosítása
+Technikai adósság azonosítása, kezelése és priorizálása
+Elvárások
+Hard skillek
+Nyelvek és keretrendszerek: Erős (5–10 év) tapasztalat frontend és backend fejlesztésben (PHP, Laravel, HTML5, CSS3, TailwindCSS, Typescript, React, NextJS, Node, PostgreSQL)
+API‑k és integrációk: REST API‑k és GraphQL használatában szerzett tapasztalat
+DevOps és infrastruktúra: Gyakorlati tapasztalat Dockerrel, AWS‑sel, Google Clouddal és Rancherrel
+Eszközök és módszertanok: Postman, Git és GitLab pipeline‑ok ismerete; CI/CD folyamatok; Egységtesztek írásában való jártasság (simple, integration, automated E2E); Build eszközök ismerete: NPM, Bun, Composer; Alapszintű Unix shell (Bash) scripting
+Biztonság: Hitelesítési folyamatok ismerete (OpenID, SAML, Web Session Cookies); SSL és általános biztonsági alapelvek ismerete
+Soft skillek
+Kiváló kommunikációs készség technikai és nem technikai szereplőkkel
+Erős vezetői, mentorálási és csapatépítési képességek
+Problémamegoldó gondolkodás stratégiai szemlélettel
+Képesség priorizálni, döntéseket hozni és nyomás alatt is higgadt maradni
+Együttműködő hozzáállás és nyitottság a folyamatos tanulásra
+Amit kínálunk
+Lehetőség kulcsfontosságú projektek technikai irányításának alakítására
+Támogató, innovatív környezet, ahol számítanak az ötleteid
+Szakmai fejlődést projekteken keresztül
+Versenyképes juttatási csomag
+Stabil vállalati háttér hosszú távú vízióval
+Céginformáció
+A Fotexnet Kft. megalakulása óta elkötelezetten fejleszt házon belüli szoftvermegoldásokat, amelyek támogatják működésünket és kiszolgálják ügyfeleink speciális igényeit. Emellett a rendszereinkhez kapcsolódó teljes webes megjelenést is kezeljük, biztosítva a magas minőségű, megbízható digitális szolgáltatásokat.
+Jelenleg
+Full Stack Lead Developer
+pozícióba keresünk új kollégát, aki kulcsszerepet játszik majd technológiai irányvonalunk alakításában, fejlesztői csapatunk mentorálásában és robusztus, skálázható megoldások megvalósításának irányításában.
+Jelentkezés módja
+A "Jelentkezem" gombra kattintás után kérjük csatolja fényképes önéletrajzát, nettó bérigény megjelölésével.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

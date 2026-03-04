@@ -1,0 +1,100 @@
+Cég neve
+INSIRON INFORMATIKA Kft.
+Munkavégzés helye
+Budapest
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Laptop
+Monitor
+(1 db)
+Angol
+középfok
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+Feladatok
+Kedves leendő kollégáink!
+Egyedi szoftverek készítésével foglalkozó cégünk fiatalos, jó hangulatú csapatába keresünk tapasztalt .Net fejlesztőket.
+Feladataid a csapat tagjaként:
+Webalkalmazások és mobil applikációk fejlesztése
+Aktív részvétel a teljes fejlesztési folyamatban (tervezés, implementálás, fejlesztői teszt)
+A fejlesztéshez kapcsolódó dokumentációk elkészítése és karbantartása
+Elvárások
+Kérünk, hogy csak akkor jelentkezz hozzánk, ha:
+.Net backend vagy Angular frontend (esetleg full stack) fejlesztőként dolgozol legalább 3-5 éve
+Jó programozónak tartod magad (tesztelni fogjuk!)
+Angol szakmai kommunikáció nem okoz gondot
+Igényes vagy magaddal és a munkáddal szemben
+Nyitott vagy a fejlődésre, az új technológiák megismerésére
+Szükséges technológiai tudás:
+Backend oldalon alapos C# ismeret, OOP szemlélet, tervezési minták ismerete
+.NET Core, Web API, LINQ, Entity Framework, MSSQL
+Frontend oldalon Angular (18+) ismeret, tapasztalat, HTML 5, CSS, Bootstrap
+Előnyt jelent
+Előnyeid:
+Microservice alapú rendszerekben szerzett tapasztalat
+CQRS minta gyakorlati alkalmazása (pl. MediatR, MassTransit)
+PostgreSQL, MongoDB tapasztalat
+Azure DevOps és CI/CD folyamatok ismerete
+Gyakorlati tapasztalat a fejlesztést segítő AI eszközök használatában
+Amit kínálunk
+Így dolgozunk:
+Projekttől függően 2-10 fős csapatokban, agilis / iteratív módszertanok használatával
+AI használata a napi munkában
+Amire nálunk számíthatsz:
+Rugalmas munkaidő, home office lehetőséggel
+A legújabb technológiák használata
+Támogatjuk a szakmai fejlődésed (képzések, vizsgák, mentori program)
+Ingyenes parkolás az irodaházban, és még az autód is lemosathatod
+Biciklihez ingyen tároló, zuhanyzós öltöző
+Jóga- és fitneszterem, biliárd, csocsó, darts, illetve egyéb játékok
+És ami nálunk rendszeres: közös reggelik, csapatépítő programok, gyümölcs- és csokinapok, társasjáték és moziestek
+Munkahelyi extrák
+Zuhanyzási lehetőség
+Kerékpártároló
+Parkoló
+Sportolási lehetőség
+Ingyen gyümölcs, nasi
+Játéksarok
+Céginformáció
+Cégünk független magyar vállalkozás, mely 2011 óta foglalkozik egyedi informatikai megoldások fejlesztésével, bevezetésével és üzemeltetésével. Számos üzleti területen szolgáltatunk, de amiben a legerősebbek vagyunk: logisztika, energetika és egészségmegőrzés, de jelen vagyunk szinte minden üzleti területen.
+Csapatunk jelenleg 22 fős, csupa segítőkész rutinos fejlesztő és tesztelő - ezt szeretnénk most bővíteni.
+Jelentkezés módja
+Így jelentkezz:
+Fényképes önéletrajzodat a bérigény megjelölésével várjuk!
+Ha Te most épp nem vagy nyitott, de van olyan ismerősöd, akit reálisan el tudsz ide képzelni, kérlek oszd meg vele ezt a lehetőséget!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Álláshirdetés jelentése

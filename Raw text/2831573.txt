@@ -1,0 +1,50 @@
+Cég neve
+Ringier AG
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+PYTHON
+DEVOPS
+CLOUD
+AWS
+REST
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+PYTHON
+DEVOPS
+CLOUD
+AWS
+REST
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Platform Engineer (Palantir Foundry) (a)*This role is central to the stability, security, and evolution of our enterprise Palantir Foundry & AIP platform. It's a hands-on position for a technical expert who combines deep platform administration knowledge with robust coding skills to ensure our platform is reliable, secure, and easy to use. As a Platform Engineer, you will be developing solutions for monitoring, automating governance, and providing crucial support to our users.Platform Engineer (Palantir Foundry) (a)*Your tasksAdminister the Palantir Foundry platform, managing the security model including Spaces, Organizations, User Groups, and MarkingsImplement and oversee data governance practices and ensure complianceDevelop and maintain automated monitoring and alerting solutions using Python and Foundry APIs to ensure platform reliability and performanceProactively identify and resolve platform issues, managing incidents from detection to resolutionServe as the first level of support for platform users, managing and resolving issues through a ticketing system and providing clear communicationLiaise with Palantir support and engineering teams to resolve complex issues and manage platform updatesMonitor platform usage and costs, identifying and implementing opportunities for FinOps and cost optimizationYour profileBachelor's degree in Computer Science, Engineering, or a related field, or equivalent experienceExperience: 3-5+ years of professional experience in platform administration, DevOps, Site Reliability Engineering (SRE), or a similar technical rolePalantir Foundry Expertise: Strong hands-on experience administering Palantir Foundry, with a deep understanding of its security model (Organizations, Spaces, Markings, User Groups) is highly appreciatedFamiliarity with platform governance, resource management, and monitoring tools within FoundryExperience working with Palantir Foundry APIs for automation, monitoring, or integration purposesCore Technical Skills:Solid programming proficiency, particularly in Python, for scripting and automationGood understanding of REST APIs and how to interact with themExperience with cloud platforms (Palantir, AWS are a plus) is beneficialFamiliarity with CI/CD principles and tools.Mindset:A strong DevOps and SRE mindset, focused on automation, reliability, and continuous improvementExcellent problem-solving skills and a customer-centric approach to providing effective user supportStrong communication skills to collaborate effectively with both technical and non-technical stakeholders.Our offer:We value work-life balance and have flexible working hoursA chance to work with a team of experienced engineers committed to continuous learning, with opportunities for growth through knowledge-sharing sessions and webinarsWork with an international team of world-class engineersA modern, sunny, open working place with a positive and fun atmosphereA stimulating work experience that will allow you to grow both professionally and personallyWould you like to work in this diverse environment and join our fantastic team? Then we look forward to receiving your application.We are committed to diversity and believe that it is an opportunity. *Everyone should be able to be themselves. We create a working environment where this is possible.Artificial intelligence is shaping the future. That is why we are looking for people who want to drive digital innovation forward with us.We only consider direct applications for this position.Franziska WildiRecruiting Partner jid398eae6pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Support, Helpdesk
+Switzerland
+Álláshirdetés jelentése

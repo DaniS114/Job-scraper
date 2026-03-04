@@ -1,0 +1,59 @@
+Cég neve
+Fédération Internationale de Gymnastique
+Munkavégzés helye
+Avenue de la Gare 12A, 1003 Lausanne
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SQL
+DATABASES
+DATABASE
+TESTING
+JAVA
+MVC
+POSTGRESQL
+MYSQL.
+TROUBLESHOOTING
+GDPR
+Elvárások
+Angol középfok és
+Francia középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SQL
+DATABASES
+DATABASE
+TESTING
+JAVA
+MVC
+POSTGRESQL
+MYSQL.
+TROUBLESHOOTING
+GDPR
+Angol
+középfok és Francia középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Full Stack Developer & Database SpecialistView PDF versionYour MissionAt World Gymnastics, sport data and digital platforms support daily operations, events delivery, and long-term development across disciplines. Based at the headquarters in Lausanne, this role designs, builds and maintains in-house applications and databases, ensuring reliability, performance and data integrity. You translate operational realities into robust systems, support multiple stakeholders, and strengthen how information flows from planning to competition delivery, reporting, and continuous improvement.Your ResponsibilitiesDevelop and maintain in-house sport-specific digital platforms and applications, with a focus on performance, scalability and usability.Design, optimise and document the underlying database architecture for core systems, including Sports main database.Work with technical and non-technical stakeholders to clarify business processes, data needs and functional requirements, then convert them into deliverable solutions.Ensure accuracy, accessibility and compliance of sport-related data across internal applications, including data protection principles and retention rules.Act as technical focal point for selected discipline tools in coordination with sport teams, supporting evolution and operational continuity.Produce technical documentation and user guides to support adoption, transfer of knowledge and consistent use across teams.Contribute to automation and optimisation of internal workflows through scripting and targeted digital solutions, while supporting troubleshooting and system evolution.About YouUniversity degree in Computer Science, Information Systems or similar, or equivalent experience.7+ years in full-stack development within a data-driven environment, experience in a sportrelated organisation preferred.Strong Java, experience with MVC frameworks and readiness to work with Play Framework in production.Strong SQL with PostgreSQL, plus working exposure to MySQL.Solid database design skills: schemas, query optimisation, data quality across interconnected applications.Good knowledge of GDPR and data protection practices applied in design and operations.Used to collaborative delivery: version control, testing, releases, technical documentation.Strong communication and stakeholder management across technical and non-technical audiences.Fluency in English and French, additional languages are a plus.Valid Swiss work permit. jid2eef672pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Switzerland
+Álláshirdetés jelentése

@@ -1,0 +1,105 @@
+Cég neve
+BECK AND PARTNERS Kft.
+Munkavégzés helye
+Budapest, 2142
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AWS
+JAVA
+SPRING
+SQL
+ANGULAR
+PYTHON
+BACKEND
+FRONTEND
+JUNIT
+API
+DOCKER
+AGILIS
+CLEAN CODE
+REST
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+AWS
+JAVA
+SPRING
+SQL
+ANGULAR
+PYTHON
+BACKEND
+FRONTEND
+JUNIT
+API
+DOCKER
+AGILIS
+CLEAN
+CODE
+REST
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+Egy olyan fejlesztői pozíciót keresel, ahol a kódod nem egy webshop kosarában landol, hanem Európa energiapiacának működését támogatja? Ahol a rendszertervezés valódi üzleti és szabályozási komplexitást jelent, nagy mennyiségű adatokkal, idősoros feldolgozással és skálázható architektúrával – nem pedig CRUD endpointok végtelen sorát?
+Ha Te is azok közé tartozol, akik szeretik érteni a teljes rendszert, backendtől frontendig, akik AWS-ben gondolkodnak, tiszta, tesztelt kódot írnak, és nem adnak ki commitot automatizált tesztek nélkül – akkor ez a lehetőség neked szól.
+Partnerünk budapesti székhelyű, nemzetközi ügyfélkörrel rendelkező informatikai vállalat. Az energiaipar – különösen a liberalizált villamosenergia- és földgázpiac – számára fejlesztenek komplex IT platformokat, amelyek támogatják a kapacitáskereskedelmet, nominálást, allokációt és elszámolást. Rendszereiket Európa több országában használják.
+Most
+FULL STACK JAVA FEJLESZTŐ
+pozícióba keresik új kollégáikat, akik nem csak implementálnak, hanem gondolkodnak, terveznek, és hozzájárulnak a technikai döntésekhez.
+Feladatok
+Energiaipari alkalmazások fejlesztése - Java, Spring, SQL, Angular, AWS, Python alapokon működő rendszerek tervezése és fejlesztése.
+Komplex adatmodellezés és nagy adatmennyiség kezelése - Idősoros adatok, nagy volumenű feldolgozás, teljesítményoptimalizálás.
+Aktív technikai részvétel - Megoldások közös tervezése Architecttel és Tech Leaddel, részvétel code review-kon és technical demókon.
+Agilis működés - 2 hetes sprintek, valódi csapatmunka üzleti elemzőkkel és tesztelőkkel.
+Stabil, skálázható rendszerek építése - Hosszú távon fenntartható, magas rendelkezésre állású megoldások fejlesztése AWS környezetben.
+AMIT ÉRTÉKELNI FOGSZ:
+Valódi szakmai közeg – Architect, Tech Lead és erős fejlesztői csapat mellett dolgozhatsz.
+Komplex, nemzetközi projektek – energiaipari domain, komoly üzleti logika.
+Technológiai mélység – AWS, konténerizáció, messaging, skálázható architektúrák.
+Hatás a rendszer egészére – nem egy részfeladatot kapsz, hanem rendszerszintű felelősséget.
+Elvárások
+Informatikai vagy hasonló területen szerzett BSc diploma.
+Minimum 7 év tapasztalat Java alapú alkalmazásfejlesztésben.
+Magabiztos AWS ismeret (fejlesztés és üzemeltetés).
+Full stack szemlélet – backend mellett Angular frontend tapasztalat.
+Clean Code gondolkodásmód, strukturált és karbantartható kód.
+Automatizált tesztelés iránti elkötelezettség (JUnit, Mockito).
+REST / SOAP API-k és messaging rendszerek (SNS, SQS, Kafka) ismerete.
+Docker, Kubernetes, SQL, Spring / JPA tapasztalat.
+Angol nyelvtudás szóban és írásban (nemzetközi ügyfelek miatt).
+Juttatások
+Alkalmazotti vagy alvállalkozói szerződés lehetősége.
+Éves bónusz teljesítmény alapján elérhető.
+Egészségbiztosítás (Medicare).
+All You Can Move kártya igényelhető.
+Tanulási keret, képzések támogatása.
+Családos céges események (síelés, evezés, csapatépítők).
+Előnyt jelent
+Python ismerete.
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezés gombra kattintva küldje el.
+Munkavégzés helye: Budapest, VIII. kerület, , heti 1 nap vagy sprintenként 1 nap irodai jelenlét.
+Munkaidő: Heti 40 óra.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

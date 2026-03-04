@@ -1,0 +1,119 @@
+Cég neve
+MagNet Bank Zrt.
+Munkavégzés helye
+Hibrid
+•
+1062 Budapest, Andrássy út 98.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Élet- és balesetbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Főiskola
+
+Cafeteria
+Egészségbiztosítás
+Élet-
+és balesetbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Szeretnél olyan Java fejlesztői szerepben dolgozni, ahol valódi hatásod van a banki termékek technológiai fejlődésére? A MagNet Banknál olyan
+Senior Java fejlesztőt
+keresünk, aki nemcsak kódolni tud magas szinten, hanem
+átlát komplex üzleti és technikai feladatokat
+, képes más fejlesztőket támogatni, és a minőségi szoftverfejlesztést tekinti alapértéknek.
+Ha szereted a tiszta architektúrát, a jól strukturált rendszereket, a szakmai párbeszédet és a stabil, átlátható működést, akkor ez a pozíció Neked szól.
+Feladataid lesznek
+Fejlesztési igények, funkcionális és technikai követelmények megértése, tervezése, implementálása.
+Fejlesztői munka koordinálása: technikai feladatok felosztása, nyomon követés, határidők kezelése.
+Code review-k vezetése, javaslattétel refaktorálásra, minőségjavításra.
+Junior fejlesztők mentorálása, onboarding támogatása, technikai edukáció.
+Szoros együttműködés a termékmenedzsmenttel, IT biztonsággal és üzemeltetéssel a teljes fejlesztési életciklusban.
+Dokumentáció készítése (tervezés, kód, architektúra, release).
+Innovációs lehetőségek feltárása, új technológiák és fejlesztési módszertanok alkalmazása.
+CI/CD környezetben (Maven, Jenkins) történő fejlesztés és release támogatása.
+Elvárások
+Szakmai tudás
+Felsőfokú informatikai végzettség (BSc/MSc).
+5+ év releváns Java fejlesztői tapasztalat.
+Java EE technológiák magabiztos ismerete.
+EJB, JMS, JSF (PrimeFaces), alkalmazásszerverek (JBoss/WildFly, Payara) ismerete.
+Maven, Jenkins, IntelliJ IDEA, Git magas szintű használata.
+Adatbázis-kezelési gyakorlat (PostgreSQL).
+Ticketing rendszerek ismerete. (Easy Redmine)
+Agilis (SCRUM) fejlesztési tapasztalat.
+Fejlesztői csapat vezetésében vagy szakmai támogatásában szerzett gyakorlat.
+Módszertani tudás
+Képes vagy komplex feladatokat önállóan végigvinni.
+Biztos kézzel veszel részt sprinttervezésben, becslésben, backlog refinementen.
+CI/CD gondolkodás, strukturált, dokumentált fejlesztési folyamatok követése.
+Soft skillek
+Csapatjátékos hozzáállás, együttműködés PO-val, BA-val, QA-val.
+Kiváló problémamegoldó és analitikus készség.
+Kommunikációs készségek technikai és nem technikai területek felé.
+Mentori attitűd, türelem, szakmai igényesség.
+Előnyt jelent
+Architektúra-tervezési módszertanok ismerete.
+IT stratégiai gondolkodás, irányelvek kialakításában szerzett tapasztalat.
+Banki/pénzügyi szektorban szerzett tapasztalat vagy szabályozói környezet (PSD2, MNB elvárások) ismerete.
+Amit kínálunk
+Barátságos légkör, elkötelezett csapat,
+Lehetőség otthoni munkavégzésre,
+Értékközösség és felelős pénzügyi szemlélet,
+Kellemes, kulturált munkakörnyezet, 1062 Budapest, Andrássy út 98.
+Határozatlan idejű munkaviszony (3 hónapos próbaidő),
+Személyre szabható Cafeteria juttatás a belépés napjától,
+Támogató, szakmai közösséget (tudásmegosztás),
+Céges programok és csapatépítő rendezvények,
+Minden hónapban egyszer közös reggeli,
+Dolgozói ajánlási program,
+Élet- és balesetbiztosítás,
+Munkavállalói résztulajdonosi program.
+Munkahelyi extrák
+Céges rendezvények
+Ingyen reggeli
+Masszázs
+Céginformáció
+Mit érdemes tudnod a MagNet Bankról?
+Több mint 25 éve működünk nyereségesen 100%-ig magyar magántulajdonban lévő kereskedelmi bankként.
+A hazai bankpiacon - egyedülálló módon - közösségi bankként vagyunk jelen, a nemzetközi értékalapú bankokhoz (GABV) tartozunk.
+2019-ben elnyertük az Év Társadalmilag Felelős Bankja örökös díjat a Mastercard Év Bankja versenyen.
+2023. évben Üzleti Etikai Díjat kaptunk.
+Jelentkezés módja
+Amennyiben ajánlatunk felkeltette érdeklődésed, és úgy látod, megfelelsz a fent leírt elvárásoknak, küldd el fényképes önéletrajzod,
+bérigényed feltüntetésével
+a lenti "Jelentkezem" gombra kattintva.
+Az álláspályázattal kapcsolatos részletes adatkezelési tájékoztatást a MagNet Bank weboldalán megtalálható "Kiegészítő Adatkezelési Tájékoztató álláspályázatot benyújtók részére" elnevezésű adatkezelési tájékoztató tartalmazza.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

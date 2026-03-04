@@ -1,0 +1,90 @@
+Cég neve
+Silurus Software Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+1025, Budapest, Szemlőhegy u. 14/a
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+ITIL
+SERVICENOW
+CI
+Biztosított eszközök
+Laptop
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+ITIL
+SERVICENOW
+CI
+Laptop
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Issue resolution támogatása és projekt átadás business-as-usual-ba
+Change recordok teljességének és minőségének validálása (scope, CI/service, risk, testing, backout, approval-ök)
+Kockázat/hatáselemzés koordinálása SME-kkel és service owner-ekkel
+Tervezés, függőségek és implementáció koordinálása resolver csapatok között
+Ütemezés egyeztetése maintenance window-kkal, freeze-ekkel, release naptárakkal, change ütközésekkel
+Státusz, kockázatok és közelgő change-ek kommunikálása az érintettek felé
+Approval-ök, evidence-ek és closure note-ok követése a lifecycle során
+CAB támogatása change summary-kkal
+Post-implementation eredmények és evidence-ek rögzítése
+Projektdokumentáció karbantartása
+Elvárások
+2–5 év tapasztalat ITSM/operations, projektkoordináció vagy change/release területen
+Tapasztalat változáskezeléssel nagyvállalati, komplex környezetben
+ITIL 4 ismerete (Change Enablement, Incident, Problem, Release)
+Tapasztalat ITSM toolokkal és alap reporting dashboard-ökkel (ServiceNow, JSM vagy hasonló)
+CMDB/CI-k, releasenaptárak és maintenance window-k ismerete
+Kockázat/hatás elemzés, dependency mapping
+Több párhuzamos change, prioritás és határidő kezelése
+Erőskommunikációs készség, stakeholder management, eszkalációkezelés
+Szervezett, részletekre figyelő, képes csapatok között feladatokat követni
+Angol nyelvtudás szóban és írásban
+Előnyt jelent
+Nagyvállalati infrastruktúra megoldások alapszintű ismerete
+Amit kínálunk
+Versenyképes juttatások
+Hibrid munkamodell (home office)
+Prémium magán egészségbiztosítás
+IT infrastruktúra biztosítása a távmunkához
+Modern iroda, kiváló közlekedéssel
+Rendszeres társasági események
+Dinamikus munkakörnyezet, ahol értékeljük az új ötleteket
+Nemzetközi csapat egy stabil, folyamatosan növekvő vállalatban
+Nyitott, inkluzív kultúra, támogatja a tanulást és elősegíti az együttműködést
+Számos szakmai és személyes fejlődési lehetőség
+Céginformáció
+Silurus Software: Expert software solutions and consulting. Specializing in tailored software development for clients worldwide.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+IT
+tanácsadó, Elemző, Auditor
+Budapest
+Budapest
+Álláshirdetés jelentése

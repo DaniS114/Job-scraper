@@ -1,0 +1,173 @@
+Cég neve
+I.T.C. Kft.
+Munkavégzés helye
+6726 Szeged, Fő fasor 52.
+Fizetés
+Br.
+490e Ft havi bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Szakmai tréningek
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+PHP
+ANGULAR
+JAVASCRIPT
+CD
+API
+BACKEND
+JAVA
+DOCKER
+ADATBÁZIS KEZELÉS
+MYSQL
+FRONTEND
+HTML
+CSS
+REACT
+VUE
+GIT
+LINUX
+REST
+CI
+AGILIS
+SCRUM
+KANBAN
+Biztosított eszközök
+Laptop
+Monitor (2 db)
+Windows
+Linux
+Mobiltelefon
+Céges autó
+Elvárások
+Angol alapfok
+1-3 év tapasztalat
+Felsőoktatási szakképzés
+
+Mobiltelefon
+Szakmai
+tréningek
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+PHP
+ANGULAR
+JAVASCRIPT
+CD
+API
+BACKEND
+JAVA
+DOCKER
+ADATBÁZIS
+KEZELÉS
+MYSQL
+FRONTEND
+HTML
+CSS
+REACT
+VUE
+GIT
+LINUX
+REST
+CI
+AGILIS
+SCRUM
+KANBAN
+Laptop
+Monitor
+(2 db)
+Windows
+Linux
+Mobiltelefon
+Céges
+autó
+Angol
+alapfok
+1-3
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Feladatok
+Meglévő webes alkalmazások karbantartása és továbbfejlesztése
+Backend fejlesztés
+Symphony (PHP)
+és
+Java
+technológiákkal
+REST API-k tervezése és implementálása
+Adatbázis kezelés és optimalizálás
+MySQL
+használatával
+Frontend funkciók fejlesztése és integrálása a backenddel
+Együttműködés UX/UI tervezőkkel és más fejlesztőkkel
+Új rendszerek (webáruházak-weboldalak) indításában való közreműködés
+Fejlesztések dokumentálása
+Elvárások
+1-3 év szakmai tapasztalat webfejlesztés területén
+Tapasztalat
+Symphony
+keretrendszerrel
+MySQ
+L adatbázisok tervezése és kezelése
+Frontend tapasztalat (HTML, CSS, JavaScript – előny: React / Vue / Angular)
+Verziókezelés ismerete (Git)
+Precíz, önálló munkavégzés
+Jó kommunikációs készség, csapatmunkára való nyitottság
+Előnyt jelent
+Docker / CI-CD pipeline-ok ismerete
+REST vagy GraphQL API-k fejlesztésében szerzett tapasztalat
+Linux szerveres környezetben való jértasság
+Agilis (Scrum / Kanban) munkakörnyezet ismerete
+Magabiztos
+Java backend
+ismeretek
+Amit kínálunk
+Stabil, megbízható háttérrel rendelkező vállalat vagyunk, a hosszú távú együttműködés nálunk az alap.
+A munkavégzés során változatos, szakmailag releváns feladatok várnak Rád, amelyek valódi hozzáadott értéket képviselnek.
+Határozatlan idejű munkalehetőséget kínálunk, kiszámítható feltételekkel és élhető jövedelemmel.
+Az új kollégák gyorsan és gördülékenyen tudnak bekapcsolódni a munkába, azonnali kezdési lehetőséggel.
+Fiatalos, együttműködő csapatban dolgozunk, kulturált, jól szervezett munkakörnyezetben.
+Fontos számunkra a szakmai fejlődés támogatása, ezért kollégáink számára folyamatos tanulási és fejlődési lehetőséget biztosítunk.
+Munkahelyi extrák
+Céges rendezvények
+Kerékpártároló
+Parkoló
+Ingyen kávé, üdítő
+Céginformáció
+Célcsoportunk a hazai KKV-k, a családi vállalkozások és növekedésre vágyó cégek, akiknek nincs saját informatikai csapatuk, mégis szeretnének átlátható, biztonságos és naprakész rendszerben dolgozni. Mi azokhoz szólunk, akik szeretnének több időt fordítani a saját ügyfeleikre, a fejlesztésre és a jövő építésére.
+Irodánkat nem véletlenül a Fő fasor közepén alakítottuk ki: ez a hely egyszerre nyugodt és jól megközelíthető. Könnyen elérhető autóval, biciklivel és tömegközlekedéssel is, a környék pedig tele van árnyat adó fákkal és kényelmes parkolókkal.
+Világos és barátságos - Az irodaterek nagy ablakokkal, természetes fénnyel telnek meg, amit klíma tesz kényelmessé a forróbb napokon is.
+Közösség és nyugalom – Úgy alakítottuk ki a tereket, hogy egyszerre legyen lehetőség az együttműködésre és az elvonulásra: vannak közös, inspiráló helyiségek és külön szobák is a fókuszált munkához.
+Kisbolt a sarkon – Folyamatosan megújuló termékkínálata miatt bármikor fordulhatunk a Maros Party Italdepóhoz - frissen sütött péktermékekkel, zöldséggel-gyümölccsel, meleg napokon fagyival, fáradtságunk esetén kávéval és gazdag csokiválasztékkal állnak rendelkezésünkre. Ideális távolságra az irodától.
+Miért itt vagyunk, és nem máshol? Azért választottuk ezt a helyszínt, mert emberközeli, zöld környezetben van, ugyanakkor minden fontos közlekedési útvonal könnyen elérhető innen. Ez egy olyan hely, ahol szívesen töltjük a mindennapjainkat, és ahová jó érzés vendégeket hívni. A belső udvar nem csak fedett parkolót rejt - ez ad otthont a céges rendezvényeinknek, zavartalanul főzhetünk bográcsban pörköltet, játszhatunk le egy parti pingpong meccset, védett területen bicajozhatnak vagy labdázhatnak a munkatársak gyermekei
+Jelentkezés módja
+A "Jelentkezem" gombra kattintás után kérjük csatolja MAGYAR nyelvű, fényképes önéletrajzát
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Csongrád-Csanád
+megye
+Szeged
+Álláshirdetés jelentése

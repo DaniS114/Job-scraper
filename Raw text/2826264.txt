@@ -1,0 +1,87 @@
+Cég neve
+MVM Next Energiakereskedelmi Zrt.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Egészségpénztár
+Cafeteria
+Nyugdíjpénztár
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ADATTÁRHÁZ
+BI
+SQL
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Főiskola
+
+Egészségpénztár
+Cafeteria
+Nyugdíjpénztár
+Teljes
+munkaidő
+Általános
+munkarend
+ADATTÁRHÁZ
+BI
+SQL
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+A több mint 19 ezer munkavállalót foglalkoztató MVM csoport a hazai energetikai szolgáltatások minden területén jelen van, hogy Magyarország energiaellátása folyamatos és biztonságos legyen.
+Az MVM Next Energiakereskedelmi Zrt. biztosítja a folyamatos és biztonságos földgáz-és áramszolgáltatást Magyarországon 4,2 millió lakossági ügyfelének. Ezen kívül több mint 55 ezer üzleti partnerének szabadpiaci villamosenergia- és földgáz-kiskereskedője.
+Feladatok
+Az adatbázis- és adatfolyam-fejlesztésekhez kapcsolódó üzleti igények és koncepciótervek elkészítésének támogatása
+Az elkészült specifikációk alapján adatmodellek tervezése, üzleti szempontrendszer implementálása
+Adatmodell-töltési folyamatok tervezése és a szinkronizáció biztosítása
+A kialakított adatmodellek alapján adattárházak és adatpiacok fejlesztésének megvalósítása
+Üzleti adattárház-architektúra tervek kialakításának támogatása
+Az adattárházhoz és az adatáttöltési folyamatokhoz kapcsolódó monitoring rendszerek kialakítása és naprakészen tartása
+Kapcsolódó dokumentációk elkészítése és folyamatos karbantartása
+Az adatpiacok kiszolgálásához szükséges adatáttöltési folyamatok tervezése az üzleti igények alapján
+Amit kérünk
+Felsőfokú végzettség
+Minimum 10 év releváns szakmai tapasztalat IT/BI/üzleti fejlesztési területen
+Adattárház és adatpiac kialakításában, valamint üzemeltetésében szerzett tapasztalat
+Adatbázis-kezelő rendszerek (MS SQL) magabiztos használata
+Innovatív szemlélet, kezdeményezőkészség
+Önálló, felelősségteljes munkavégzés
+Miért jó nálunk dolgozni?
+Hosszú távú és biztos munkalehetőség egy stabil állami vállalatnál
+Változatos, szakmai kihívásokat tartalmazó feladatok, folyamatos szakmai fejlődési lehetőségek
+Együttműködő, támogató csapat
+Széles körű, kiemelkedő béren kívüli juttatási csomag (Cafeteria)
+Nyugdíjpénztári hozzájárulás
+Egészségpénztári hozzájárulás
+Kedvezményes céges üdülési lehetőségek
+Kedvezményes sportolási lehetőségek
+Kockázati balesetbiztosítás
+Egészségügyi szolgáltatások biztosítása
+Kiemelkedő teljesítmény jutalmazása
+Munkaeszközök biztosítása
+Vállalati szabadidős és szakmai rendezvények
+Előnyt jelent
+Interfész technológiák ismerete
+ETL folyamatok tervezésében és üzemeltetésében szerzett tapasztalat
+Adattárház-tervezési tapasztalat
+Data Vault 2.0 adatmodell ismerete
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Álláshirdetés jelentése

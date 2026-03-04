@@ -1,0 +1,107 @@
+Cég neve
+Alfa Vienna Insurance Group Biztosító Zrt.
+Munkavégzés helye
+Hibrid
+•
+1091 Budapest, Üllői út 1.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+LINUX
+ORACLE
+ANSIBLE
+DOCKER
+JSON
+FIREWALL
+DEVOPS
+PYTHON
+POSTGRESQL
+AUTOMATIZÁLÁS
+AGILIS
+REST
+JIRA
+CONFLUENCE
+Elvárások
+Angol középfok és
+Magyar felsőfok
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+LINUX
+ORACLE
+ANSIBLE
+DOCKER
+JSON
+FIREWALL
+DEVOPS
+PYTHON
+POSTGRESQL
+AUTOMATIZÁLÁS
+AGILIS
+REST
+JIRA
+CONFLUENCE
+Angol
+középfok és Magyar felsőfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Céginformáció
+Az Alfa Cégcsoportnál tudjuk, hogy a legmagasabb színvonalú szolgáltatást csakis a legjobb kollégákkal lehet garantálni. Felkészülten és együtt, mindig egy lépéssel előrébb járhatunk másoknál és valódi értéket teremthetünk ügyfeleink számára.
+Az Alfa Vienna Insurance Group Biztosító Zrt. Informatika területe teljes munkaidőben, napi 8 órában Kubernetes infrastruktúra rendszerüzemeltető munkatársat keres.
+Jelentkezz, ha Te is küldetésednek érzed, hogy egy felkészült és összetartó, a személyes fejlődésedet folyamatosan támogató közegben teremts értéket mindennapi munkáddal!
+Amiben SZÁMÍTUNK RÁD
+on-premise SuSE Rancher Kubernetes és kapcsolódó rendszerek (infrastruktúra) üzemeltetése
+on-premise SuSE Linux, KVM, Oracle Linux üzemeltetés, beleértve a HW szintet is
+on-premise Nexus, Gitlab, Splunk, Trivy és Aqua scanner infra alkalmazás üzemeltetés
+konténerizációs - mikoservice rendszerek és alkalmazások szakmai koordinálása, támogatása
+automatizálás fejlesztés és üzemeltetés Gitlab CI/CD, Ansible és Terraform segítségével
+közös, szoros együttműködés az Alkalmazás fejlesztőkkel, és Üzemeltetőkkel
+projektek szakmai támogatása, tanácsadás
+hibakeresés és elhárítás (logemezés és monitoring)
+Amit VÁRUNK TŐLED
+legalább 3 év releváns szakmai tapasztalat
+a Kubernetes infrastruktúra és a hozzá tartozó Alpine, Oracle, SuSE Linux, üzemeltetési tapasztalat
+konténerizációs platformok ismerete (docker, containerd, etcd, ingres, pv/pvc, CSI, stb.)
+Ansible, Terraform, IaaC toolok használata
+JSON, Yaml leíró nyelv ismerete
+standard és Kubernetes hálózatok ismerete (ingress, routing, switching, firewall, load-balancer, VLAN, stb.)
+Splunk logelemzés és Zabbix monitoring ismerete
+jó kommunikációs készség
+önálló, precíz, proaktív munkavégzés, agilis, DevOps szemlélet
+középfokú szakmai angol nyelvismeret
+Ami ELŐNY SZÁMODRA
+érvényes Certified Kubernetes Administrator (CKA), vagy Certified Kubernetes Application Developer (CKAD) minősítés
+script nyelv(ek) ismerete – Shell, Python, Go
+Gitlab, Sonatype Nexus, PostgreSql rendszerek ismerete
+microservice, REST interface, és automata tesztelési technológiák ismerete
+JIRA, Confluence gyakorlati ismerete
+erős biztonság-központú szemlélet és tudás (pentest, Kali, hardening)
+nagyvállalati vagy felhő alapú szolgáltatói környezetben szerzett gyakorlat
+rendszerszemlélettel rendelkezel, struktúrában és összefüggésekben tudsz gondolkodni
+nagyvállalati, pénzügyi szektorban szerzett tapasztalat
+Amit mindezért NYÚJTUNK
+szakmai fejlődési lehetőség Magyarország egyik legnagyobb biztosítójánál
+stabil nagyvállalati háttér
+részben otthonról történő (hibrid) munkavégzés
+versenyképes jövedelem
+önálló, kreatív munkavégzés lehetősége
+jó munkahelyi légkör
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,161 @@
+Cég neve
+REMEDIOS Zrt.
+Munkavégzés helye
+1062 Budapest, Teréz körút 55-57.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Egészségbiztosítás
+Sport támogatás
+Élet- és balesetbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+ORACLE
+SQL
+POSTGRESQL
+MONGODB
+LINUX
+UNIX
+ADATTÁRHÁZ
+AZURE
+AWS
+DOCKER
+ANSIBLE
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Mobiltelefon
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Felsőoktatási szakképzés
+
+Mobiltelefon
+Cafeteria
+Szakmai
+tréningek
+Nyelvtanulás
+támogatása
+Munkába
+járás támogatás
+Egészségbiztosítás
+Sport
+támogatás
+Élet-
+és balesetbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+ORACLE
+SQL
+POSTGRESQL
+MONGODB
+LINUX
+UNIX
+ADATTÁRHÁZ
+AZURE
+AWS
+DOCKER
+ANSIBLE
+Laptop
+Monitor
+(1 db)
+Mobiltelefon
+Angol
+középfok
+3-5
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Feladatok
+Olyan Adatbázis szakértő kollégát keresünk, aki elsősorban komplex adatbázis platformok felügyeletével, konfigurálásával és finomhangolásával foglalkozik, emellett aktívan részt vesz migrációs és konszolidációs projektekben is.
+Szakértő kollégáink mellett folyamatosan biztosítjuk számodra a szakmai fejlődést Oracle és MS SQL technológiákban, továbbá valódi nagyvállalati projektekben történő tapasztalatszerzést.
+Főbb feladatok:
+Adatbázis platformot érintő (bevezetés, migrációs-, konszolidációs-, upgrade-, hangolási-, stb.) projektekben történő részvétel.
+Üzemeltetési és támogatási feladatok ellátása.
+Új projektek előkészítése.
+A tapasztalatként hozott (Oracle DB és/vagy MS SQL) technológiákon kívül a PostgreSQL, EnterpriseDB, MongoDB, MariaDB DBA ismereteinek közül minél többnek az elsajátítása.
+Opcionális: oktatások tartása, konzultációs feladatok, készenlét vállalása.
+Képzések elvégzése és folyamatos önképzés.
+Elvárások
+Végzettség
+Felsőfokú végzettség, vagy azzal egyenértékű szakmai múlt
+Személyes kompetenciák:
+Önálló és csapatban történő munkavégzés.
+Precizitás, kreativitás.
+Nyitott, proaktív hozzáállás.
+Rugalmasság, kezdeményezőkészség.
+Szakmai tapasztalat:
+Oracle és/vagy MS SQL adatbázis kezelők alapos ismerete.
+Linux/UNIX felhasználói ismeretek.
+Angol nyelvű szakmai dokumentációk megértése.
+Minimum 3-5 év szakmai tapasztalat.
+Előnyt jelent
+Egyéb adatbáziskezelők mélyebb szintű ismerete (pl. PostgreSQL, EnterpriseDB, MongoDB, MariaDB).
+Releváns minősítések megléte (pl. OCP).
+Exadata, IBM Power környezeteken szerzett DBA ismeretek.
+SQL/PL-SQL fejlesztői ismeretek.
+Adatbázis optimalizálásban és SQL hangolásban szerzett tapasztalat.
+Adattárház üzemeltetői, fejlesztői ismeretek.
+Architekti gondolkodás, széles informatikai látókör.
+Azure, AWS ismerete.
+Alkalmazás szerverek üzemeltetői szintű ismerete.
+Innovatív technológiai ismeretek (Openstack, Docker, Elasticsearch, Ansible, Puppet, Cassandra stb.).
+Tárgyalóképes szakmai angol nyelvtudás írásban és szóban.
+Amit kínálunk
+Azonnali kezdés
+- amint részedről lehetséges.
+Alapfizetés mellé cafetéria és egyéb juttatások.
+Magánegészségügyi ellátás minden év májusi bejelentéssel, teljes évre.
+Life1 Fitness klub havi bérlet, melyben az edzőtermek használata mellett, 30 féle csoportos órán vehetsz részt.
+Éves szabadságkereten felüli +2 nap távollét.
+Modern, belvárosi, könnyen megközelíthető irodaház (Nyugati pályaudvar közelében).
+Hibrid munkavégzési lehetőség megegyezés szerint.
+Vállalati laptop, mobiltelefon és egyéb munkához szükséges eszközök.
+Céges programok, csapatépítő események, kirándulások, valamint kisebb önszerveződő közösségi programok.
+Befogadó, segítőkész és támogató kollégák.
+Szakmai továbbképzések, tanulási és fejlődési lehetőség.
+Munkába járás térítése.
+Lehetőség az önálló, nyugodt munkavégzésre, valamint csapatmunkára, megbeszélésekre.
+Munkahelyi extrák
+Céges étkező
+Céges rendezvények
+Kerékpártároló
+Kutyabarát
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Céginformáció
+Miért válaszd a REMEDIOS-t?
+A REMEDIOS Zrt. 30 éve sikeresen működő vállalat, ahol a legmodernebb IT infrastruktúrákat tervezzük, fejlesztjük és üzemeltetjük! Szakértői és szoftverfejlesztési projekteken, IT biztonság és projekt-, szolgáltatásmenedzsment területén dolgozunk, stabil nagyvállalati ügyfélkörrel és piacvezető technológiákkal. Ügyfeleink között vezető pénzügyi, telekommunikációs és állami szervezetek találhatók, akik számára integrált IT-megoldásokat szállítunk és üzemeltetünk. Fejlődési lehetőséget biztosítunk junior, medior és senior szakemberek számára egy támogató és szakmailag inspiráló környezetben.
+Jelentkezz hozzánk!
+Ha egy több, mint 30 éve stabil, magyar tulajdonú, innovatív IT-cégnél szeretnél dolgozni.
+Ha fontos számodra folyamatos szakmai fejlődésedhez szükséges minden támogatást megkapj munkatársaidtól.
+Ha egy támogató és segítőkész munkakörnyezetben keresel, ahol megbecsülik a szakmai hozzáértésed és hosszú távon számítanak rád.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Álláshirdetés jelentése

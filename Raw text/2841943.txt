@@ -1,0 +1,85 @@
+Cég neve
+JAUSS HR-Consulting GmbH & Co. KG
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PLC
+NETWORK
+SECURITY
+SCADA
+ACCESS
+TIA PORTAL
+TROUBLESHOOTING
+Elvárások
+Angol felsőfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+PLC
+NETWORK
+SECURITY
+SCADA
+ACCESS
+TIA
+PORTAL
+TROUBLESHOOTING
+Angol
+felsőfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Responsible for designing and implementing of OT network architectures for globally located production sites based on Purdue model and ISA/IEC 62443
+Configuration and integration of PLCs (Siemens / Rockwell) into industrial networks and SCADA systems for secure and reliable operation
+Enhancing cyber security standard including e. g.
+Securing automation components (e. g. PLCs, HMIs) by using secure configuration standards, installing access controls and deactivating unused services
+Ensuring secure communication between OT assets by providing and supporting OT firewalls and Layer 2/3 switches
+Field support to validate network connectivity, ensure secure wiring, perform system integration directly at the panel level, etc. and troubleshooting on-site
+Interface to software engineering team, plant IT, group IT, etc.
+Globally travel activity of around 30 % with daily / weekly on-site stays up to max. 3 weeks
+Requirements
+Degree in Computer Science, Automation Engineering, Electrical Engineering or comparable
+Several years of experience in comparable tasks and comprehensive PLC knowledge (TIA Portal); Rockwell Studio 5000 is desireable
+In-depth expertise in OT networks including familiarity with industrial protocols such as PROFINET, EtherNet/IP and OPC UA
+Competence in OT cyber security and knowledge in VLANS, firewalls and the secure configuration of industrial devices
+Fluent in English; German language skills are wellcome
+You are committed, self-motivated, having analytical strength and a structured working style, solution orientated with handson- mentality in problem-solving and having team spirit
+Willingness and short-term readiness to travel globally and to stay on-site for assignments of max. several weeks
+What we offer
+A comprehensive range of tasks and promotion of individual potential as part of further training programmes
+Permanent employment contract in a market-leading and economically secure family business
+A collegial, team-oriented, and constructive work culture at all levels
+Remuneration in line with the market and performance
+30 days of vacation, plus additional special leave for certain occasions
+Job is located at the HQ; alternatively at a plant abroad
+Options for remote work and flexible office hours
+Employee offers relating to sport, health and culture
+Company info
+Our client is a leading global manufacturer of building materials with over 220 production sites and more than 42.500 employees, generating annual sales of over €10 billion. The company sets standards in the industry and cultivates a corporate culture characterised by respect, humanity and innovation.
+The Engineering division at the headquarter in the
+Wuerzburg area / Germany
+manages the planning and construction of plants at global locations. We are creating a new position and seeking a communicative, technically adept, interculturally experienced and hands-on individual for the position
+Engineer / PLC Programmer (m/f/d) - OT Network Architecture & Cyber Security
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Germany
+Álláshirdetés jelentése

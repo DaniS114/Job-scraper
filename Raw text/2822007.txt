@@ -1,0 +1,79 @@
+Cég neve
+High Tech Engineering Center Kft.
+Munkavégzés helye
+1052, Budapest, Szervita tér 8.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C
+C++
+PYTHON
+LINUX
+HARDWARE
+TESTING
+DEBUGGING
+SOFTWARE TESTING
+Biztosított eszközök
+Linux
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C
+C++
+PYTHON
+LINUX
+HARDWARE
+TESTING
+DEBUGGING
+SOFTWARE
+TESTING
+Linux
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Design, develop, and maintain components of the deployment stack and software kernels for AI compute platforms
+Optimize and implement core ML operators (e.g., GEMMs, convolutions, BLAS routines, SIMD kernels)
+Translate computational graphs from ML frameworks onto the underlying hardware
+Contribute to compiler infrastructure together with compiler and hardware teams
+Investigate and resolve issues through system-level debugging and performance analysis
+Deliver scalable software solutions under ambitious development schedules
+Define and apply practices for testing, deployment, and scaling AI systems
+Requirements
+Bachelor’s degree in Computer Science, Engineering, Mathematics, or related discipline
+3+ years of professional software development experience
+Solid knowledge of computer architecture, system software, data structures
+Strong programming skills in C/C++ or Python in Linux environments using common development tools
+Hands-on experience implementing algorithms in high-level languages (C/C++/Python)
+Exposure to specialized hardware (GPUs, FPGAs, DSPs, AI accelerators) and frameworks such as OpenCL or CUDA
+Experience designing or working with high-performance software systems
+Solid knowledge of ML fundamentals
+Motivated team player with a strong sense of responsibility
+Experience in at least one of the following areas: Model serving frameworks (e.g., Triton Inference Server, DeepSpeed Inference, vLLM), Deep learning frameworks (e.g., PyTorch, TensorFlow), ML runtimes (e.g., ONNX Runtime, TVM, IREE, XLA), Distributed collectives (e.g., Gloo, MPI), Software testing and validation methodologies, Deploying ML workloads (LLMs, VLMs, NLP, etc.) across distributed systems, Implementation of ML operators and kernels (e.g., SIMD routines, Activation functions, Pooling layers, Quantization layers), Hardware-aware optimizations and performance tuning
+2+ years of experience developing software targeting AI hardware
+Nice-to-have
+Contribution to open-source projects (e.g., LLVM, PyTorch, TensorFlow, ONNX Runtime, xDSL, IREE) is a big plus.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Budapest
+Álláshirdetés jelentése

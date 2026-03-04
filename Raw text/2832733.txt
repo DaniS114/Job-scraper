@@ -1,0 +1,87 @@
+Cég neve
+Secunet Security Networks AG
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+CLOUD
+ACCESS
+NETWORK
+PYTHON
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+CLOUD
+ACCESS
+NETWORK
+PYTHON
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design and implement security architecture for our Internal Developer Platform
+Drive adoption of Zero Trust principles across platform components, networks, identities, and services
+Embed security and compliance into the SSDLC: from code scanning, SBOM generation, and policy-as-code, to runtime and product hardening
+Develop and enforce security automation, compliance checks, and guardrails as part of CI/CD pipelines and infrastructure-as-code
+Support the implementation of fine-grained IAM, secrets management, and secure service-to-service communication
+Collaborate with developers and platform engineers to design secure golden paths and self-service tooling
+Define, track, and report on key security metrics, risk levels, and compliance posture
+Stay on top of emerging threats, vulnerabilities, and security best practices — and translate them into actionable improvements
+Requirements
+Several years of experience in Security Engineering, Platform Security and Compliance, or DevSecOps
+Strong understanding of cloud-native architectures, container security, and security automation as well as regulatory requirements
+Hands-on experience with CI/CD pipelines, infrastructure-as-code, and Kubernetes security
+Familiarity with Zero Trust Architecture, including identity-based access, service mesh, and network segmentation
+Hands-on experience with tools such as policy-as-code engines (e.g., OPA / Gatekeeper and Conftest)
+Knowledge of modern software supply chain security — e.g., SBOMs, SLSA, Sigstore and SAST / DAST
+Experience with secrets management (Vault, Sealed Secrets and External Secrets), policy engines (OPA / Gatekeeper), and observability tooling
+Coding / scripting ability in Python, Go, or Rust is a plus
+Clear communication skills and a collaborative mindset — you can work across teams and disciplines
+What we offer
+A unique opportunity to shape platform security from the ground up
+Full ownership and real impact in a technically ambitious environment
+A strong focus on automation, reproducibility, and secure-by-default engineering
+Collaboration with experienced platform and product engineers
+Remote work options, flexible hours, and modern tools
+If you are keen to work for a leading company of cyber security in a fair and trusting environment, you should immediately get in touch with us.
+Company info
+Your Mission
+We're building a modern Internal Developer Platform (IDP) to enable secure, scalable, and efficient software delivery — and security & compliance is a first-class concern from day one.
+As Security and Compliance Engineer in our Platform team, you'll be responsible for designing, implementing, and evolving the security architecture of our IDP. Your focus will be on embedding security into the entire Software Development Lifecycle (SSDLC), enabling secure-by-default development practices, and advancing our Zero Trust approach across infrastructure, tooling, and pipelines.
+You'll collaborate closely with platform, infrastructure, compliance, and application teams to ensure that security and regulatory are not a bottleneck — but an enabler for safe, fast, and autonomous development.
+Our Stack and Environment
+We're building a secure, reproducible, and developer-friendly platform based on:
+Nix / NixOS – declarative, reproducible system configuration
+Rust – used for backend tooling
+Terraform – infrastructure-as-code
+GitLab – CI/CD and code lifecycle management
+OpenStack + Kubernetes + GitOps – our runtime and delivery foundation
+OpenTelemetry + Grafana Stack (LGTM) – observability
+Policy-as-code, Secrets Automation, and security-as-code everywhere
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Germany
+Álláshirdetés jelentése

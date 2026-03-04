@@ -1,0 +1,98 @@
+Cég neve
+ZEISS
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+C++
+TESTING
+CLOUD
+ANSIBLE
+GIT
+DOCKER
+HARDWARE
+C
+DEVOPS
+AZURE
+MACHINE LEARNING
+CLEAN CODE
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+C++
+TESTING
+CLOUD
+ANSIBLE
+GIT
+DOCKER
+HARDWARE
+C
+DEVOPS
+AZURE
+MACHINE
+LEARNING
+CLEAN
+CODE
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+At ZEISS Corporate Research & Technology, we work at the frontier of science and technology. Our mission is to innovate and develop intelligent solutions contributing directly to future ZEISS products. We're looking for a Machine Learning Engineer (f/m/x) who enjoys working across disciplines and is eager to develop intelligent systems that make a real difference for our consumers.
+Architect the ML Platform
+: Design, implement, and maintain a robust MLOps infrastructure that enables researchers to move seamlessly from local experimentation to global production.
+Productionalize Research:
+Act as the "Engineering Bridge" by transforming experimental research code into modular, high-performance, and maintainable Python/C++ software packages.
+Automation & CI/CD
+: Build and manage sophisticated automated pipelines for testing, building, and deploying ML models across diverse ZEISS product environments (Cloud, Edge, and On-premise).
+Infrastructure as Code (IaC)
+: Own the provisioning and scaling of our research computing environments using Terraform and Ansible, ensuring high availability and resource efficiency.
+Establish Engineering Standards:
+Define and promote best practices for the entire department, including version control (Git), containerization (Docker), code quality (linting/testing), and documentation.
+Observability & Lifecycle Management:
+Implement advanced monitoring and logging solutions (e.g., MLflow, ELK stack) to track model performance, data drift, and system health in real-world applications.
+Collaborative Consulting:
+Serve as the internal expert and consultant for scientists, helping them optimize their workflows and navigate the complexities of modern cloud and hardware environments.
+Requirements
+Engineering Foundation: You hold an excellent university degree in Computer Science, Software Engineering, or a related technical field. While we value advanced degrees, we prioritize professional experience in building production-grade software systems.
+Python Expert:You have deep proficiency in Python and are an advocate for clean code, design patterns, and modular architecture.
+Experience with C++ or C# is a significant advantage for integrating ML into our high-performance hardware systems.
+DevOps & Orchestration: You have a "DevOps mindset" with hands-on experience in Docker and Kubernetes.
+You are comfortable managing containerized workloads and understand the nuances of scaling services in a corporate environment.
+Infrastructure as Code (IaC): You are skilled in automating infrastructure using tools like Terraform, Ansible, or Bicep, specifically within the Azure ecosystem.
+Automation Specialist: You have a proven track record of designing and maintaining CI/CD pipelines (e.g., Azure DevOps, GitHub Actions) that go beyond simple builds to include automated testing and deployment.
+MLOps Tooling: You are familiar with (or eager to master) the ML lifecycle stack, such as MLflow, Kubeflow, or DVC, and you understand how to apply standard DevOps principles to the unique challenges of machine learning.
+The "Bridge" Mindset: You enjoy the challenge of translating "research-grade" code into stable, scalable products.
+You are a strong communicator who can mentor researchers on engineering best practices without stifling their creativity.
+Project Leadership: You have a structured approach to work, with experience in technical scope definition, backlog management, and coordinating with cross-functional teams This position is not remote
+Company info
+Step out of your comfort zone, excel and redefine the limits of what is possible. That's just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

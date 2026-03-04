@@ -1,0 +1,108 @@
+Cég neve
+Excite Hungary Kft.
+Munkavégzés helye
+Távmunka / Remote
+Fizetés
+Nettó
+1,0M Ft havi bér
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Kisgyermekeseknek
+Rugalmas munkaidő
+Elvárt technológiák
+API
+BACKEND
+SQL
+MYSQL
+GIT
+AWS
+REACT
+DEVOPS
+DOCKER
+MONGODB
+SVN
+GO
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Kisgyermekeseknek
+Rugalmas
+munkaidő
+API
+BACKEND
+SQL
+MYSQL
+GIT
+AWS
+REACT
+DEVOPS
+DOCKER
+MONGODB
+SVN
+GO
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Backend szolgáltatások és API-k fejlesztése Go nyelven
+Online kommunikációs protokollokhoz kapcsolódó szolgáltatások tervezése és implementálása (pl. kapcsolatkezelés, hitelesítés, kulcskezelés)
+Nagy rendelkezésre állású, skálázható hálózati rendszerek fejlesztése és optimalizálása
+Titkosítási megoldások és adatbiztonsági mechanizmusok integrálása
+Kódminőség, biztonság és teljesítmény biztosítása
+Együttműködés DevOps, QA és termékfejlesztő csapatokkal
+Elvárások
+Legalább 2 év Go fejlesztői tapasztalat
+Tapasztalat mikroszervizek, RESTful API-k fejlesztésében
+Hálózati alapok és biztonsági szemlélet (TLS, titkosítási alapelvek)
+Docker, SVN, Git, CI/CD folyamatok ismerete
+SQL vagy NoSQL adatbázis-kezelési ismeretek
+Kommunikációképes angol nyelvtudás
+Előnyt jelent
+Tapasztalat VPN, proxy vagy hálózati biztonsági rendszerek fejlesztésében
+Kubernetes, AWS / GCP ismeret
+Nagy terhelésű, valós idejű rendszerekkel kapcsolatos tapasztalat
+WireGuard, OpenVPN vagy hasonló technológiák ismerete
+Amit kínálunk
+Versenyképes fizetés
+Rugalmas full remot munkavégzés
+Stabil, szakmailag erős csapat
+Modern technológiai környezet és fejlődési lehetőség
+Céginformáció
+Cégünk a
+fintech szektorban
+fejleszt megbízható, nagy teljesítményű
+backend és fizetési rendszereket
+hazai és nemzetközi partnerek számára.
+Csapatunk bővítéséhez olyan
+Go fejlesztőt (Golang Developer)
+keresünk, aki szeret modern technológiákkal dolgozni és részt venni új fintech megoldások fejlesztésében.
+Jelentkezés módja
+Önéletrajzos jelentkezésedet várjuk itt a Profession rendszerében
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Álláshirdetés jelentése

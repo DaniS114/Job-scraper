@@ -1,0 +1,65 @@
+Cég neve
+Tech People Hungary Kft.
+Munkavégzés helye
+Budapest, XI. kerület
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Vállalkozói
+Általános munkarend
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Vállalkozói
+Általános
+munkarend
+Angol
+középfok
+5-10
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Responsibilities
+Manage, maintain, and optimize SAP server landscapes based on Linux (Red Hat / SUSE), ensuring high availability, performance, and system reliability across productive environments.
+Monitor, analyze, and troubleshoot infrastructure-related issues, perform root cause analysis, and implement sustainable technical solutions in complex SAP environments.
+Administer and optimize infrastructure components including networking (TCP/IP, DHCP, routing, DNS), LDAP integration, performance tuning, and system monitoring.
+Support and operate SAP workloads across public cloud platforms such as Amazon Web Services, Google Cloud Platform, and Microsoft Azure, collaborating with customers in multi-hyperscaler environments.
+Automate infrastructure provisioning and configuration management using tools such as Chef, Puppet, and Ansible to ensure standardized and scalable operations.
+Requirements
+Minimum 6+ years managing Linux Redhat/Suse servers.
+Good understanding of Networking concepts like TCP/IP, DHCP, IP Routing and Name Resolution.
+Good technical understanding of the infrastructure components.
+Experience analysing, troubleshooting, and providing solutions for technical issues.
+OS Concepts on Security, Backup and recovery strategies, performance tuning, LDAP, high availability and disaster recovery concepts, Monitoring etc.
+Deep understanding and knowledge on public clouds like AWS or GCP or Azure.
+Willingness to work with customers across hyperscalers.
+Knowledge in configuration management systems such as Chef, Puppet, Ansible.
+Experience in troubleshooting and performing root cause analysis.
+Well organized, willingness to learn and own the topics and share the knowledge with the team.
+Willingness to take on-call duties as required by business.
+Good communication skills.
+Confident English
+Candidateneeds to be to be currently eligible to work in Hungary.
+Nice-to-have
+Good understanding of Networking concepts like TCP/IP, DHCP, IP Routing and Name Resolution.
+What we offer
+Competitive salary
+Hybrid work
+Company info
+Tech People is a European provider of technical skills permanent recruitment and temporary contracting services for multiple industries.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Budapest
+Budapest
+Álláshirdetés jelentése

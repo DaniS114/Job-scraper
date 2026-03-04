@@ -1,0 +1,103 @@
+Cég neve
+Utimaco GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Your tasks
+Responsibilities / Tasks
+Develop and maintain automated tests: automate when it makes sense, think about ROI, don't overengineer solutions.
+Own the testing and quality processes of the team
+Improve the development process
+Lead the QAs of the hardware development unit
+Maintain and improve the testing infrastructure
+Conduct network card and routing testing
+Plan the test activities and provide estimations
+Work close to the Head of Hardware Development providing updates and requirements to ship our products on time and with quality
+Perform production tooling issue evaluations
+Execute TCP/TLS/SM protocol testing
+Testing our products with different OSs
+Participate in automated testing of electronic components (eCheck)
+Support manufacturing workflow testing
+Run audits at hardware suppliers and manufacturing sites
+Assist with root-cause analysis and problem-solving activities
+Conduct code reviews
+Requirements
+We are seeking a Quality Assurance Engineer with strong skills in embedded systems, hardware security modules, network protocols, and automated testing. The role spans hardware, firmware, operating systems, manufacturing workflows, and security-critical validation.
+Programming
+Proficiency in C, C++, Python, Java
+Experience with Linux drivers, services (daemons)
+Operating Systems and Build Systems
+Familiarity with Make, CMake, Git, Jira
+Knowledge of Jenkins and CI/CD workflows
+Experience with Yocto
+Experience with PetaLinux
+Experience with LinuxFromScratch (LFS) OS
+Networking and Protocols
+Knowledge of TCP/IP network protocol (IPv4/6)
+Knowledge of TLS - Experience with TCP/TLS/SM protocol testing
+Hardware & Embedded Systems
+Experience with Xilinx tools (Bootloader, Bitstream)
+Motivation to learn embedded hardware components
+Understanding of manufacturing workflow and tooling for our products
+Experience with hardware protocols such as serial port, USB
+Understanding our products from a user perspective
+Ability to perform automated testing of electronic hardware components (eCheck)
+Security & Cryptographic Technologies
+Experience with Public Key Infrastructure (PKI)
+Experience with Javacard / Smartcard
+Experience with RNG testing (AIS31, NIST SP-800A)
+Testing Expertise
+Experience with black-box and gray-box testing procedures
+Experience with Linux / Windows driver testing
+Network card and routing testing
+Benchmarking HSM PCIe cards and HSM appliances
+JavaCard automating testing
+Random number verification (AIS31 / NISTSP-800A)
+Process & Collaboration Skills
+Ability to support the agile team in implementing and improving development processes
+Ability to assist in root-cause analysis and problem-solving using various tools
+Ability to perform code reviews
+Manufacturing, Quality & Audits
+Ability to run audits at hardware suppliers and manufacturing sites
+Experience evaluating eCheck log information
+Experience with production tooling issue evaluation
+What we offer
+An open and friendly corporate culture characterized by constructive and collaborative interaction
+We provide you with support for your future plans with a company pension scheme (depending on country-specific circumstances)
+Early risers and night owls - thanks to a flexible working model you can organise your working day yourself
+We also support you privately Ã¢ benefit from special payments or additional vacation days on anniversaries or other special occasions
+Utimaco is growing and living diversity! Our global team includes colleagues from 42 nationalities and 45 different languages spoken
+Company info
+Security is becoming increasingly important to industries. Utimaco products have been protecting people from organized crime and terror as well as sensitive data from theft and abuse for over 35 years. To this end, Utimaco has developed hardware security modules and compliance solutions for telecommunications providers in the field of regulation. Utimaco is the global market leader in both segments. Utimaco stands for recognized product quality, userbility, excellent support and a market-driven offer, manufactured in Germany.
+The central goal of protecting people, data and ideas is the commitment of more than 200 people to Utimaco.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Manufacturing,
+Production
+Quality
+Control
+Germany
+Álláshirdetés jelentése

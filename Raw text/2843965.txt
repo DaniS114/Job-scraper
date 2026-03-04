@@ -1,0 +1,80 @@
+Cég neve
+Hertie School gGmbH
+Munkavégzés helye
+Hibrid
+•
+Berlin, Friedrichstraße 180
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+API
+PYTHON
+GIT
+DOCKER
+POSTGRESQL
+SQL
+AUTOMATED TESTS
+TROUBLESHOOTING
+Elvárások
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+API
+PYTHON
+GIT
+DOCKER
+POSTGRESQL
+SQL
+AUTOMATED
+TESTS
+TROUBLESHOOTING
+Német
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Build a platform integrations between Designate and external platforms (e.g., Qualtrics, Bluesky, Mastodon, etc)—including authentication, API calls, and error handling
+Create comprehensive documentation including step-by-step setup guides, code examples, and/or video tutorials that enable other researchers to use the platform
+Design and run experimental prototypes to test the integration, developing automated tests and troubleshooting workflows
+Contribute to open-source codebase with version-controlled, well-documented code
+Collaborate with international research team on software development for social science experimentation
+Requirements
+Enrolled student at a German university
+Python programming skills (experience with FastAPI, async code, and modern Python 3.8+)
+Understanding of API development and RESTful services
+Familiarity with Git/GitHub version control and Docker containerization
+Technical writing ability to create clear documentation for researchers
+Self-motivated and comfortable working independently on software development tasks
+Desirable but not required: PostgreSQL/SQL experience, social media API knowledge, understanding of experimental design methods
+What we offer
+20 days paid leave + workation
+Flexible Working Hours
+Good Traffic Connections
+International and diverse work environment
+Mobile working possible
+Remuneration: € 15.00 hourly wage
+Company info
+We are looking for a
+Student Research Assistant - Open-Source Experimental Design Platform Development (gn)
+part-time (20 hours per week), to start as soon as possible. The contract is for three months.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,105 @@
+Cég neve
+Multi Alarm Zrt.
+Munkavégzés helye
+Távmunka / Remote
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+ANSIBLE
+POSTGRESQL
+DEVOPS
+LINUX
+C
+PYTHON
+BACKUP
+DEBIAN
+Biztosított eszközök
+Laptop
+Elvárások
+Angol alapfok
+5-10 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+ANSIBLE
+POSTGRESQL
+DEVOPS
+LINUX
+C
+PYTHON
+BACKUP
+DEBIAN
+Laptop
+Angol
+alapfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Fejlesztési és üzemeltetési csapatok közötti együttműködés támogatása és javítása
+Automatizációs és konfigurációmenedzsment megoldások bevezetése és fejlesztése, részben legacy rendszerekhez (pl. Ansible)
+Self-hosted GitLab környezethez kapcsolódó CI/CD folyamatok és automatizált build-, tesztelési- és deploy-pipeline-ok kialakítása, fejlesztése és bevezetése meglévő alkalmazásokhoz
+Linux alapú rendszerek napi szintű üzemeltetése és fejlesztése
+Számos alkalmazás, adatbázis és rendszerelem monitorozásának kialakítása és finomhangolása
+Logging és üzemeltetési láthatóság javítása komplex környezetben
+Üzemeltetési problémák elemzése, visszatérő hibák megszüntetése automatizációval
+Incidensek elemzése, root cause szemléletű hibakezelés
+Release és deploy folyamatok egyszerűsítése és megbízhatóbbá tétele
+Biztonsági mentési és helyreállítási (Backup / Disaster Recovery) folyamatok kialakításában, tesztelésében és fejlesztésében való részvétel
+Dokumentáció és belső működési standardok kialakítása
+Meglévő működések elemzése, javítása és automatizálása
+Elvárások
+Mély Linux ismeretekkel rendelkezel, és nem okoz problémát legacy rendszerekkel való munka (pl. régebbi Debian alapú környezetek)
+Magabiztos Python ismeretekkel rendelkezel, elsősorban automatizációs és infrastruktúra-közeli feladatokra
+Van tapasztalatod infrastruktúra-közeli automatizációban és konfigurációmenedzsmentben
+Dolgoztál már CI/CD jellegű folyamatokkal, vagy részt vettél azok kialakításában
+Rendszerszemléletben gondolkodsz, és fontos számodra a stabil, visszaállítható működés
+Előnyt jelent
+PostgreSQL adatbázisok ismerete, beleértve legacy környezeteket is (PostgreSQL 8, 9, 13)
+Programozási tapasztalat infrastruktúra- vagy üzemeltetés-közeli feladatokban
+Zabbix környezet ismerete vagy monitoring megoldásokhoz való integrációs tapasztalat
+Adatbázisokkal és adatkonzisztenciával kapcsolatos üzemeltetési és automatizációs tapasztalat
+C nyelv alapismerete
+Amit kínálunk
+Határozatlan idejű szerződés egy több mint 34 éve folyamatosan fejlődő és bővülő, 100 %-ban magyar tulajdonú piacvezető cégnél
+Szakmai fejlődési lehetőség (folyamatos belső, és külső oktatások)
+Magas műszaki színvonalú technológiák használata
+Folyamatos fejlődés
+Hosszútávú, stabil és mégis változatos munka
+Tapasztalt szakmai háttér
+Cafetéria és egyéb béren kívüli juttatások
+Teljes Home Office lehetőség
+Céginformáció
+Érdekel az automatizáció, a stabil üzemeltetés és az, hogyan lehet egy összetett, legacy elemeket is tartalmazó környezetet lépésről lépésre jobbá tenni? Szeretsz olyan rendszerekkel dolgozni, amelyek már működnek, de komoly lehetőség van bennük egységesítésre, automatizálásra és átláthatóbb működésre?
+100%-ban magyar tulajdonú, piacvezető cég IT fejlesztői csapatába keresünk olyan kollégát, aki kulcsszerepet tölt be a fejlesztés és az üzemeltetés közötti híd szerepében, és aktívan részt vesz legacy rendszerek modernizációjában, automatizálásában és monitorozásában.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Álláshirdetés jelentése

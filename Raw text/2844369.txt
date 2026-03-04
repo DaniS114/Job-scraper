@@ -1,0 +1,97 @@
+Cég neve
+Accenture Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+SQL
+AZURE
+SPARK
+ACCESS
+CLOUD
+ANALYTICS
+DEVOPS
+TROUBLESHOOTING
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Középiskola
+
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+SQL
+AZURE
+SPARK
+ACCESS
+CLOUD
+ANALYTICS
+DEVOPS
+TROUBLESHOOTING
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Implement and maintain large‑scale data pipelines and the Azure/Databricks data platform in close collaboration with the Architect, contributing to design discussions and proposals.
+Build robust, scalable pipelines using Azure Databricks (PySpark / SQL), integrating data ingestion, processing, transformation, and storage.
+Design and enforce data architecture standards: Delta Lake / Lakehouse architecture, data modeling (dimensional models, star/snowflake schemas), data warehousing or lakehouse solutions.
+Manage ingestion and orchestration using Azure Data Services — e.g., Azure Data Factory (ADF), Azure Data Lake Storage (ADLS), Azure Synapse Analytics, and related services for storage, compute, and analytics.
+Establish and enforce CI/CD pipelines for data workflows and infrastructure using Azure DevOps or equivalent tools, ensuring reliable, repeatable deployments and maintainability.
+Implement and uphold data governance, metadata management, and data quality practices — ensuring data integrity, consistency, and compliance across pipelines and systems.
+Monitor, troubleshoot, and optimize performance of data processing jobs (Spark/Databricks) — ensuring efficient, reliable, and performant data workflows even at scale.
+Collaborate with cross-functional teams — data analytics, product, business stakeholders, compliance — to understand requirements, deliver data solutions, and explain complex technical concepts clearly to non-technical audiences.
+Proactively research, evaluate, and adopt new data/cloud technologies and best practices; champion continuous improvement, scalability, and long-term reliability of the data platform.
+Requirements
+2+ years of experience as a data engineer (or similar), with significant exposure to cloud-based data platforms and modern data architectures.
+Proven hands-on experience building and managing data pipelines using Azure Databricks (PySpark + SQL) in real-world production environments.
+Strong understanding and practical experience with data modeling, data warehousing / lakehouse architecture (e.g. dimensional modeling, star/snowflake schemas, Delta Lake / Lakehouse).
+Proven track record in data governance, metadata management, and ensuring data quality at scale.
+Solid experience in performance optimization and troubleshooting of data processing jobs / pipelines (Spark/Databricks).
+Excellent programming and query skills — strong SQL, Python (or another relevant language); ability to write clean, efficient, maintainable code.
+Strong analytical and problem-solving skills; ability to think at both micro (pipeline/job level) and macro (architecture/strategy) levels.
+Excellent communication skills: able to explain complex technical issues to non-technical stakeholders, collaborate across teams, and influence architectural decisions.
+Self-motivated, responsible, and capable of working independently and as a technical leader in a structured data platform environment.
+Preferred / Nice to Have: Prior experience working in regulated domains or sectors with strong compliance requirements (e.g. Finance, Asset Management, Pensions).
+Previous involvement in platform modernization or cloud migration projects.
+Familiarity with additional big data / data-engineering tools and patterns beyond Spark / Databricks — streaming, real-time data ingestion, advanced orchestration, metadata tooling, monitoring & alerting.
+Experience mentoring or leading smaller data engineering teams / peers; championing best practices, code reviews, architecture governance.
+Familiarity with CI/CD for data workflows, preferably with Azure DevOps (or similar), including infrastructure-as-code (Terraform / ARM templates).
+Experience with Azure Data Services such as ADF, ADLS, Synapse (or comparable cloud data services).
+Employ infrastructure-as-code (e.g. Terraform or ARM templates) to provision, manage, and version cloud infrastructure and data platform resources.
+What we offer
+Participation in full-cycle and diverse international projects
+Opportunity to work as a specialist or manager/team lead
+Constant career development with internal mentorship
+Access to a whole set of learning platforms, paid certifications
+Flexible working conditions, home working is allowed
+Attractive base salary & Wide range of benefits included cafeteria, bonuses, private health insurance package, life insurance, AYCM sport card, referral bonus, family-oriented benefits, company shares on a discount price
+Company info
+Accenture is a leading global provider of a broad range of professional services in strategy and consulting, interactive marketing, information technology and business operations services, with digital capabilities in all of these areas. With more than 800,000 employees worldwide, we serve clients in more than 120 countries.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

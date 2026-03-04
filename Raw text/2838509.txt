@@ -1,0 +1,36 @@
+Cég neve
+JK Advisory Sàrl
+Munkavégzés helye
+Chemin des Coquelicots 16, 1214 Vernier
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Quantitative TraderJob Title: Quantitative TraderLocation: Switzerland (Geneva)Job Type: Full-TimeIndustry: Web3 / Artificial IntelligenceExperience Level: Mid-LevelStart Date: ASAPReporting to: AI Technical LeaderAbout JK Advisory SàrlJK Advisory Sàrl ("JKA") is a Geneva-based advisory firm providing legal, regulatory, governance and strategicconsulting services to technology companies operating in the Web3, blockchain and digital assets sectors.Established and headquartered in Geneva, JKA serves a Swiss and international client base that includesblockchain protocol foundations, decentralized finance projects and institutional participants in the digital assetecosystem.JKA is currently undertaking a strategic pivot along two complementary axes. First, JKA is expanding itsadvisory offering into artificial intelligence applied to trading, decentralized finance and institutional digitalasset management. Second, JKA seeks to develop a proprietary agentic Web3 trading technology - AI-poweredsoftware tools that autonomously execute trading strategies in decentralized on-chain environments - which itintends to license and commercialize to clients alongside its advisory services.Role SummaryAs part of the build-out of its proprietary agentic trading technology, JKA is seeking a Quantitative Trader todesign, implement and test delta-neutral market making strategies for JKA's order book and vault-based tradingsystem. This is a foundational role within JKA's new trading technology team in Geneva.The successful candidate will work closely with JKA's AI Technical Leader to develop and refine automatedmarket-making models, calibrate pricing and risk parameters, and prepare the strategies for deployment on high-performance decentralized exchange infrastructure. As JKA's proprietary technology approaches marketreadiness, the role will also involve engaging with early institutional users and liquidity providers to supportproduct adoption.Key responsibilities● Design and test automated market-making strategies that maintain delta-neutral exposure acrossvolatile market conditions, within JKA's proprietary trading technology framework● Define appropriate models for active management of capital allocations and position risk across JKA'sinternal trading vaults● Design proper tools for monitoring and adjustment inventory, exposure and quote behavior based onmarket conditions● Calibrate pricing, spread and inventory management logic to meet target return/risk parameters● Analyze performance data and iterate on models to improve efficiency, reduce adverse selection andmanage slippage● Collaborate with the AI Technical Leader and engineering team to integrate strategy logic with vaultarchitecture and execution infrastructure● Build and maintain robust monitoring and alerting systems to ensure uptime, accuracy and risk controls● Produce internal reports on liquidity provision, risk metrics, and trading outcomesRequired Qualifications● 3+ years of experience in quantitative trading or systematic market making, ideally in crypto or FX● Strong understanding of delta-neutral hedging, inventory risk and capital efficiency in derivativesmarkets● Proficiency in Python and/or Rust for strategy development, back-testing and data analysis● Familiarity with perpetual futures mechanics, CLOB mechanics and AMM vs order book tradeoffs● Experience managing risk in volatile, low-liquidity or early-stage environments● Strong analytical skills and comfort working directly with execution data, tick data and P&Ldecomposition● Self-directed, execution-focused, and aligned with the ethos of decentralized finance● Fluent in English; working knowledge of French is a plusPreferred Qualifications● Experience operating internal trading books or protocol-aligned liquidity programs● Familiarity with LP vault architectures, automated rebalancing or strategy delegation mechanisms● Prior experience in delta-neutral strategies involving both on-chain and centralized execution venues● Exposure to the Monad architecture or other high-performance EVM-compatible blockchains● Comfort with simulation environments and stress-testing liquidity scenarios● Understanding of smart contracts interactions relevant to tradingWhat We Offer● A foundational role in building proprietary trading technology at the intersection of AI anddecentralized finance● Opportunity to design market-making strategies from the ground up for a next-generation on-chaintrading system● Competitive compensation (base + upside)● Fast-paced environment with high ownership and autonomy● On-site, Geneva● Direct collaboration with senior leadership (CEO and AI Technical Leader) jid92b7a16pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Bank,
+Insurance, Brokering
+Analysis
+Switzerland
+Álláshirdetés jelentése

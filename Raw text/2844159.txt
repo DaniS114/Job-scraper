@@ -1,0 +1,79 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TEST AUTOMATION
+HARDWARE
+LINUX
+C
+PYTHON
+CI
+Biztosított eszközök
+Linux
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TEST
+AUTOMATION
+HARDWARE
+LINUX
+C
+PYTHON
+CI
+Linux
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Leading a high-performing QA team of up to 5 engineers
+Working with software teams to establish and implement quality processes in every stage of the development cycle
+Test development for firmware and Linux-based systems (kernel, device drivers and applications)
+Test and workload automation with regular and reliable execution and effective reporting
+Requirements
+Expertise in developing test plans, software validation techniques and designing effective and efficient test cases
+Strong understanding of computer architecture principles and hardware-software interaction
+Proficient in C programming and common scripting languages such as Python
+Experience in managing and developing other engineers
+Effective communicator and ability to collaborate well within and across teams
+Nice-to-have
+Familiar with quality management standards such as ISO9001, Experience with CI systems and test automation involving physical and simulated hardware devices
+What we offer
+Our 10x mindset guides how we engineer, collaborate, and grow
+Accommodations at Arm to support recruitment process needs
+Hybrid working approach designed to support high performance and personal wellbeing
+Equal opportunity employer committed to mutual respect and diversity
+Health and Wellness benefits
+Work and Life Success benefits
+Financial Rewards beyond competitive salary
+Development and Support fostering professional and personal growth
+Company info
+Working in software engineering at Arm is about shaping a future of technology for which we don't yet have words. Our engineers lead innovation in physical IP, AI and machine learning, cloud architecture, automotive tech, and every aspect of computing that matters.
+Spanning software's full spectrum, from compilers to AI-powered IoT and beyond, your code can enable virtually anything to be produced on silicon. Whether you're developing award-winning VR gaming or life-enhancing medical equipment, you can improve the lives of millions by being your brilliant self at Arm.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Tester,
+Test Engineer
+Budapest
+Álláshirdetés jelentése

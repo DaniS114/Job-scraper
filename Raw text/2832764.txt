@@ -1,0 +1,69 @@
+Cég neve
+Clarios Germany GmbH & Co. KG
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Develop and implement generative AI models for design optimization
+Integrate AI algorithms with Finite Element Method (FEM) and other simulation tools
+Analyze simulation results and propose design improvements
+Collaborate with engineers to automate optimization workflows
+Document methodologies and present findings to the team
+Requirements
+Advanced degree in Computer Science, Electrical or Mechanical Engineering
+Strong Python skills (AI/ML libraries like TensorFlow, PyTorch a plus)
+Knowledge of optimization techniques and simulation tools (FEM, CAD)
+Familiarity with generative AI (GANs, diffusion models, etc.)
+Analytical and problem-solving abilities
+Experience with multi-physics or electromagnetic/mechanical simulations
+Understanding of design optimization algorithms (genetic, topology optimization)
+What we offer
+As a powerful market leader, we offer people with drive and power many good reasons to come to us:
+Working in an international environment
+Valuable practical experience and mentorship from experienced engineers
+Responsible tasks
+Free space for your ideas and initiatives
+Flexible working hours and partial home office possibility
+Use of the company's own fitness studio
+Grants for canteen meals
+To all recruitment agencies:
+Clarios does not accept unsolicited agency resumes/CVs. Please do not forward resumes/CVs to our careers email addresses, Clarios employees or any other company location. Clarios is not responsible for any fees related to unsolicited resumes/CVs.Clarios, LLC is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law, EEO is the Law (supplement), and Pay Transparency Non-discrimination. If you are an individual with a disability and you require an accommodation during the application process, please email
+: please be aware of scams being perpetrated through the Internet and social media platforms. Clarios will never require a job applicant to pay money as part of the application or hiring process.
+Company info
+At Clarios, we are producing the world's best batteries, essential for the evolving future of transportation. Our advanced, low-voltage batteries and smart solutions power nearly every type of vehicle and are found in 1 of 3 cars on the road today. Ready to contribute to exciting projects and gain hands-on experience in a global leader's dynamic environment? Then take on the challenge and become a valued member of our team!
+For our location in Hanover we are looking for you with immediate effect as an
+Intern/Working Student (m/f/d) in Generative AI
+to join our engineering team and work on cutting-edge applications of Generative AI for optimizing designs in electrical and mechanical simulations. Expect hands-on experience applying AI-driven optimization techniques to simulation workflows, enhancing product performance and efficiency.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Germany
+Álláshirdetés jelentése

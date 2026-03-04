@@ -1,0 +1,86 @@
+Cég neve
+Drótposta Consulting Informatikai Tanácsadó Kft.
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+TESTING
+DOCKER
+SPRING
+JAVA
+AWS
+REST
+SECURITY
+GIT
+SCRUM
+JSON
+INTELLIJ
+JENKINS
+CUCUMBER
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+TESTING
+DOCKER
+SPRING
+JAVA
+AWS
+REST
+SECURITY
+GIT
+SCRUM
+JSON
+INTELLIJ
+JENKINS
+CUCUMBER
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Backend development for banking/payment systems
+Code review participation
+Platform familiarization
+Working within Scrum + SAFe methodology
+Requirements
+Java
+Spring Framework
+Spring Boot
+Spring Data
+REST APIs
+JSON
+Git
+Nice-to-have
+Nice to Have: Camunda, Kafka, Spring Security, OAuth, Docker, Kubernetes, AWS (developer level), Development Environment: IntelliJ IDEA, Windsurf or other AI assistants, Jenkins (nice to have), Automated testing (Cucumber + Gherkin), Interview Process: CV review, Technical interview (preferably in-person), Take-home assignment, Assignment discussion (online call)
+What we offer
+Long-term/Permanent position
+Employment Type: Employee (preferred) or Contractor
+Join a 10+ person backend development team
+Work on banking platform development
+Company info
+DPC Consulting develops a complete banking/fintech platform. Our current projects involve working as a system integrator, deploying, customizing, enhancing, and developing complete banking solutions for banks, payment providers, and fintechs based on our platform.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Regionális
+Álláshirdetés jelentése

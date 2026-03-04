@@ -1,0 +1,71 @@
+Cég neve
+Solventum GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+LINUX
+BASH
+PYTHON
+JAVA
+Elvárások
+Angol középfok és
+Német középfok és
+Spanyol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+LINUX
+BASH
+PYTHON
+JAVA
+Angol
+középfok és Német középfok és Spanyol középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+As a (Senior) Speech Developer (m/f/x)* you will have the opportunity to tap into your curiosity and collaborate with some of the most innovative and diverse people around the world.
+Here, you will make an impact by:
+Creating products that make a real difference in the lives of patients and doctors
+Developing Acoustic and Language models based on our own state-of-the-art recognition
+Processing our enormous amounts of data for training and speaker adaptation
+Working with an international team of speech researchers and developers
+Requirements
+To set you up for success in this role from day one, Solventum requires (at a minimum) the following qualifications:
+Master in Computer Science, Electrical Engineering, Mathematics or relevant field or profound relevant experience
+Experience with large vocabulary speech recognition, with active involvement in developing such technology
+Knowledge of AI tools like: TensorFlow, PyTorch, fairseq, Kaldi, K2/Icefall, ESPNET, ONNX, kenlm
+Excellent Spanish language skills (spoken and written) as well as good English communication skills
+Strong in Linux environment with Bash, Perl, Python, Java, Jython
+Additional qualifications that could help you succeed even further in this role include:
+Other language skills are a plus
+Work location:
+Onsite:
+Munich/Germany
+Must be legally authorized to work in country of employment without sponsorship for employment visa status.
+What we offer
+Solventum offers many programs to help you live your best life – both physically and financially. To ensure competitive pay and benefits, Solventum regularly benchmarks with other companies that are comparable in size and scope.
+Company info
+At Solventum, we enable better, smarter, safer healthcare to improve lives. As a new company with a long legacy of creating breakthrough solutions for our customers- toughest challenges, we pioneer game-changing innovations at the intersection of health, material and data science that change patients' lives for the better while enabling healthcare professionals to perform at their best. Because people, and their wellbeing, are at the heart of every scientific advancement we pursue.
+We partner closely with the brightest minds in healthcare to ensure that every solution we create melds the latest technology with compassion and empathy. Because at Solventum, we never stop solving for you.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

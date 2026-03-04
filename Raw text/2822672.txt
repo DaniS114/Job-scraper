@@ -1,0 +1,120 @@
+Cég neve
+Multi Alarm Zrt.
+Munkavégzés helye
+Távmunka / Remote
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+MYSQL
+SQL
+NOSQL
+PYTHON
+POSTGRESQL
+LINUX
+MSSQL
+C
+BACKEND
+FRONTEND
+BACKUP
+WINDOWS
+MONGODB
+Biztosított eszközök
+Laptop
+Elvárások
+Angol alapfok
+3-5 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+MYSQL
+SQL
+NOSQL
+PYTHON
+POSTGRESQL
+LINUX
+MSSQL
+C
+BACKEND
+FRONTEND
+BACKUP
+WINDOWS
+MONGODB
+Laptop
+Angol
+alapfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+PostgreSQL alapú legacy (PostgreSQL 8, 9, 13) és modern adatbázisok fejlesztése és karbantartása.
+Adatbázis-szintű backend logika fejlesztése (tárolt eljárások, függvények, trigger-ek, komplex üzleti szabályok implementálása)
+Meglévő legacy adatmodellek és adatbázis-struktúrák megértése, dokumentálása és refaktorálása
+Komplex SQL lekérdezések írása és optimalizálása, teljesítményproblémák elemzése (query tuning)
+Legacy rendszerek modernizációjában való részvétel, adatmodellek átalakítása, verziók közötti migrációk előkészítése és kivitelezése
+Adatbázis-oldali automatizmusok fejlesztése (migrációs scriptek, karbantartási és monitoring megoldások)
+Fejlesztési projektek aktív támogatása, szoros együttműködés backend és frontend fejlesztőkkel, üzemeltetéssel és más társterületekkel
+Biztonsági mentési és helyreállítási (Backup / Disaster Recovery) folyamatok kialakításában, tesztelésében és karbantartásában való részvétel
+3rd level adatbázis support, komplex hibák elemzése, root cause analízis
+Dokumentáció készítése (adatmodellek, legacy megoldások, belső best practice-ek)
+Szakmai támogatás és mentorálás junior kollégák számára
+Elvárások
+Legalább 3-5 év releváns tapasztalat adatbázis-fejlesztésben vagy adatbázis-központú backend fejlesztésben
+Magabiztos SQL és PostgreSQL tudással rendelkezel
+Legacy rendszerekkel szerzett tapasztalat, régi adatmodellek, tárolt eljárások és örökölt megoldások megértése
+Rendszerszemlélet, üzletileg is értelmezhető megoldásokban való gondolkodás
+Igény a karbantartható, dokumentált és stabil rendszerekre
+Aktív részvétel fejlesztési projektekben, nem kizárólag üzemeltetési szemlélet
+Rendelkezel alap infrastruktúra- és Linux/Windows ismeretekkel
+Előnyt jelent
+Tapasztalat adatbázis-verziófrissítésekben és migrációkban
+PostGIS használatában szerzett tapasztalat PostgreSQL alapú környezetben
+CI/CD folyamatok ismerete, különös tekintettel adatbázis- és alkalmazásintegrációkra
+MSSQL és MySQL adatbázisok ismerete
+NoSQL (MongoDB) rendszerek alapszintű ismerete
+Verziókezelési és deployment folyamatok ismerete
+Legacy modernizációs projektekben szerzett tapasztalat
+C nyelv alapismeret
+Python vagy más script nyelv használata automatizálásra
+Amit kínálunk
+Határozatlan idejű szerződés egy több mint 34 éve folyamatosan fejlődő és bővülő, 100 %-ban magyar tulajdonú piacvezető cégnél
+Szakmai fejlődési lehetőség (folyamatos belső, és külső oktatások)
+Magas műszaki színvonalú technológiák használata
+Folyamatos fejlődés
+Hosszútávú, stabil és mégis változatos munka
+Tapasztalt szakmai háttér
+Cafetéria és egyéb béren kívüli juttatások
+Teljes Home Office lehetőség
+Céginformáció
+Érdekelnek a komplex adatmodellek, legacy rendszerek és az adatbázis-szintű üzleti logika? Szeretsz mélyen belemenni meglévő rendszerek működésébe, és rutinosan dolgozol komplex, hosszú ideje működő adatbázis-rendszerekkel?
+Nálunk az üzleti backend logika döntő része adatbázisban él, ezért az adatbázis nem kiszolgáló elem, hanem a rendszer lelke.
+100%-ban magyar tulajdonú, piacvezető cég IT fejlesztési csapatába keresünk olyan kollégát, aki aktívan részt vesz napi fejlesztési projektekben, legacy rendszerek modernizációjában és hosszú távon is gazdája tud lenni kritikus adatbázisainknak
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Álláshirdetés jelentése

@@ -1,0 +1,91 @@
+Cég neve
+BlackRock Hungary Kft.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+PANDAS
+APACHE
+AZURE
+DEVOPS
+GIT
+ACCESS
+MACHINE LEARNING
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+PANDAS
+APACHE
+AZURE
+DEVOPS
+GIT
+ACCESS
+MACHINE
+LEARNING
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Onboard financial risk models to the platform
+Collaborate with modellers on implementation and deployment of financial risk models
+Understand client requirements and translate them into software engineering tasks
+Act as a subject matter expert towards modelling teams and product analysts
+Work with modellers and product analysts to understand business and requirements and implement them using engineering best practices
+Facilitate technical design and code review sessions
+Stay abreast of latest developments in machine learning, quantitative finance, and technology
+Enhance performance of existing models to operate efficiently at scale
+Implement and maintain standard data/technology deployment workflow
+Ensure operational readiness of the product and meet customer incident SLAs
+Requirements
+Strong experience (3+ years) in Python
+Bachelor’s (BSc) or higher degree in Computer Science or related field
+Experience with Pandas, Apache Arrow, Snowflake (Prefect is a plus)
+Good understanding of Object-Oriented Design principles
+Fluency with AI coding tools and use of LLM in everyday development
+Good understanding of fundamental Algorithms and Data Structures
+Knowledge of Azure DevOps and git, CI/CD
+Good understanding of unit tests, integration and regression tests
+Aptitude for designing data models and pipelines is a plus
+Ability to understand advanced mathematical and statistical methods and concepts
+Fluency in reading, writing and speaking English
+Team player
+Problem-solving skills
+Critical and analytical thinking
+Technical curiosity
+Adaptable
+What we offer
+Retirement investment and tools for financial future
+Access to education reimbursement
+Comprehensive resources for physical health and emotional well-being
+Family support programs
+Flexible Time Off (FTO)
+Hybrid work model with at least 4 days in office per week and 1 day remote
+Company info
+BlackRock is one of the world’s preeminent asset management firms and an outstanding provider of global investment management, risk management, and advisory services to institutional, intermediary and individual investors around the world. Besides offering a range of investment solutions — from fundamental and quantitative active management approaches to highly efficient indexing strategies – BlackRock also provides direct access to its market leading analytic models by onboarding clients to its Aladdin Platform, an end-to-end portfolio management software solution.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

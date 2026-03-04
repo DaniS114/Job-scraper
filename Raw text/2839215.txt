@@ -1,0 +1,73 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AWS
+PYTHON
+PANDAS
+CLOUD
+DATABASES
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+AWS
+PYTHON
+PANDAS
+CLOUD
+DATABASES
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, prototype, and refine LLM-based features over large document sets
+Orchestrate multi step, agentic workflows and tool calling (including MCP servers and other integrations) so LLMs can take meaningful actions, not just generate text
+Define evaluation frameworks, experiments, and metrics to measure model quality, relevance, and safety
+Use AWS services (i.e. AWS Bedrock) to deliver reliable, secure, and scalable AI capabilities
+Work closely with domain experts, PMs and software engineers to turn prototypes into reliable, production ready services
+Handle complex, domain specific text (e.g. legal, financial, or regulatory content) with a strong focus on accuracy, robustness, and privacy
+Communicate findings clearly, share best practices, and stay up to date with the latest ML and AI research
+Requirements
+Hands-on experience building LLM powered applications or features (e.g. RAG systems, chatbots, assistants, agentic solutions or document centric workflows)
+Strong Python skills and everyday comfort with the modern data / AI ecosystem (e.g. pandas, NumPy, basic ML libraries, HTTP APIs, and SDKs for cloud AI services)
+Practical experience with LLM powered solution design, evaluation, and iteration
+Familiarity with at least one cloud platform (ideally AWS) and building or contributing to services or pipelines that run in production
+A degree in Computer Science, Data/Applied Science, Mathematics, Statistics, or a related technical field, or equivalent practical experience
+Clear communication skills, collaborative mindset, and a genuine interest in learning, sharing knowledge, and iterating quickly based on feedback
+Nice-to-have
+Experience designing and implementing agentic workflows (multi step reasoning, tool calling, planners) and/or building MCP servers or similar tool integrations, Hands-on experience with AWS Bedrock or comparable platforms (model selection, configuration, guardrails, evaluation, and cost/performance trade-offs), Experience with semantic search, vector databases, and information retrieval techniques in production systems, Familiarity with observability and evaluation for LLM applications (e.g. logging, feedback loops, offline and online evaluation, safety checks), Experience working with complex or regulated content such as legal, risk, compliance, financial, or governance documents
+What we offer
+Flexible work environment
+Global days of service
+Comprehensive health benefits
+Meeting free days
+Generous time off policy
+Wellness programs
+Hybrid work model with expectation to work onsite at least 50% of the time if within commuting distance to an office
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

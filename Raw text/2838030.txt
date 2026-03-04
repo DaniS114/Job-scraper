@@ -1,0 +1,60 @@
+Cég neve
+Deutsches Elektronen-Synchrotron DESY
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Development of firmware for MicroTCA-based motion controller system
+Contributing to system architecture and specifications of firmware modules for scientific data acquisition systems and photon science experiments
+FPGA firmware design using VHDL (for AMD/Xilinx FPGAs)
+Implementation of real-time data paths and control logic
+System integration and testing in the lab and at accelerator facilities
+Collaboration with cross-disciplinary hardware and software teams
+Requirements
+Scientific university degree in Electrical Engineering, Computer Engineering, or a related discipline and professional experience
+Proven experience in FPGA development and prototyping (demonstrable experience with AMD/Xilinx FPGA families, specifically Zynq UltraScale+ MPSoC and Kintex-7.)
+Proficiency in HDL programming, with a strong preference for VHDL
+Experience with programming languages such as C/C++, Python
+Sound knowledge of Linux, and embedded Linux build systems like the Yocto project
+Existing knowledge around EtherCAT is highly desired
+Experience in Mechatronics and Motion Control is an advantage
+Practical knowledge in implementing high-speed interfaces such as PCie, Ethernet, and DDR memory controllers with AMBA AXI Bus is an advantage
+Strong communication skills ensuring clear exchange of complex technical concepts with stakeholders from diverse backgrounds and technical disciplines
+What we offer
+Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work‑life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work (up to 50%). You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.
+Company info
+For our location in Hamburg we are seeking:
+Embedded Systems Engineer with focus on FPGA/SoC firmware development and motion control
+Remuneration Group 13 | Limited: 2 years with the option of permanent employment | Starting date: earliest possible | ID: FSMA009/2026 | Deadline: 19.03.2026 | Full-time/Part-time | Remote work possible
+DESY, with more than 2900 employees at its two locations in Hamburg and Zeuthen, is one of the world's leading research centres. Its research focuses on decoding the structure and function of matter, from the smallest particles of the universe to the building blocks of life. In this way, DESY contributes to solving the major questions and urgent challenges facing science, society and industry. With its ultramodern research infrastructure, its interdisciplinary research platforms and its international networks, DESY offers a highly attractive working environment in the fields of science, technology and administration as well as for the education of highly qualified young scientists.
+The position is affiliated with the DESY Experiment Control group FS‑EC. We are a team of technicians, engineers and scientists that develops and provides hardware and software solutions for photon science experiments at DESY. It is part of our mission to provide next-generation motion control and experiment synchronization solutions for world-leading synchrotron sources. In this project we partner with the MicroTCA Technology Lab under the leadership of DESY to contribute to the open and modular electronics standard MicroTCA.4 that permits high-performance and reliable data processing and control operations to be carried out at large-scale scientific research facilities and in industry.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Engineer
+Mechatronics
+Engineer
+Germany
+Álláshirdetés jelentése

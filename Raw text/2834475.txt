@@ -1,0 +1,106 @@
+Cég neve
+Oktatási Hivatal
+Munkavégzés helye
+1122 Budapest, Maros utca 19-21.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Az Oktatási Hivatal új munkatársakat keres
+senior szoftvertesztelő
+munkakörbe
+AI tesztelői tapasztalattal
+.
+üzletileg kritikus, komplex alkalmazások teljes körű tesztelése;
+Új és meglévő rendszerek frontend és backend oldali manuális tesztelése;
+Tesztesetek tervezése, dokumentálása, karbantartása;
+Tesztek végrehajtása;
+Eredmények rögzítése és kiértékelése szoftvertervezőkkel, szoftverfejlesztőkkel;
+Hibajegyek rögzítése és karbantartása (ticketing alkalmazáson keresztül);
+Kritikus hibák eszkalációja;
+A teszteléshez kapcsolódó dokumentumok készítése és aktualizálása (pl. Teszt terv, teszt jegyzőkönyv);
+Tesztadatok létrehozása szükség esetén felületen és adatbázisban egyaránt;
+Kapcsolattartás a projektben résztvevő kollégákkal;
+Regressziós és élesítés előtti tesztek végrehajtása;
+Megrendelőtől érkező hibák feltárása, reprodukálása éles/teszt környezetben;
+API tesztelések;
+LLM alapú chatbot tesztelése
+Terhelés tesztek tervezése, futtatása;
+Kapott feladat időbeli becslése;
+junior kollégák munkájának támogatása.
+Elvárások
+Legalább középfokú szakirányú végzettség;
+5+ év szakmai tapasztalat manuális tesztelésben;
+Legalább 2 év chatbot tesztelésben szerzett tapasztalat;
+Tapasztalat a következők tesztelésében: prompt injection, jailbreak;
+Prompt engineering tapasztalat
+Ticketing alkalmazás ismerete (pl. JIRA);
+SQL ismeretek (MS SQL, MySQL);
+API és webservice (SOAPUI) tesztelési tapasztalat;
+Terheléstesztelésben, tervezésben szerzett tapasztalat;
+Problémafelismerő és megoldó készség;
+Precizitás, projektszemlélet, önálló munkavégzés;
+Határidők pontos betartása;
+Csapatmunka és jó kommunikációs készség;
+Monotonitás tűrés;
+ISTQB (vagy hasonló) alapszintű vizsga;
+büntetlen előélet
+magyar állampolgárság
+cselekvőképesség
+Előnyt jelent
+Automatizált tesztelésben szerzett tapasztalat;
+Programnyelvek alapszintű ismerete (pl. PHP, .NET, JAVA);
+Adatbázis kezelő alkalmazás(ok) ismerete (pl. Navicat, Aquadata);
+Akadálymentesítési és információbiztonsági ismeretek;
+Agilis módszertanok ismerete;
+Amit kínálunk
+Megfelelő és stabil fizetés;
+Heti 40 órás, teljes munkaidős határozott idejű munka törvénykönyve szerinti alkalmazotti munkaviszony;
+Fiatal, családias hangulatú, barátságos csapat;
+Szakmai fejlődési lehetőség;
+Nyugodt munkakörnyezet;
+Jól megközelíthető, színvonalas iroda, modern munkaeszközök;
+AYCM sportpass igényelhető.
+Céginformáció
+Az Oktatási Hivatal egyszerre van jelen a köznevelési és a felsőoktatási intézmények életében, a diákok továbbtanulásánál – működésével a hazai képzés minden területét hatékonyan a hallgatók tanulmányaiban, illetve a nyelvvizsgázók vagy a pedagógiai továbbképzéseken részt vevő tanárok ügyeinek intézésénél fogja össze.
+Jelentkezés módja
+Amennyiben ajánlatunk felkeltette érdeklődését, kérjük, küldje
+magyar
+nyelvű önéletrajzát a fizetési igény megjelölésével!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Tesztelő,
+Tesztmérnök
+Budapest
+Budapest
+Álláshirdetés jelentése

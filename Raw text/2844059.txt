@@ -1,0 +1,108 @@
+Cég neve
+Supercharge Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AZURE
+SECURITY
+BACKEND
+JAVA
+KOTLIN
+SPRING
+SQL
+NOSQL
+DATABASES
+CLOUD
+AWS
+ACCESS
+CLEAN CODE
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+AZURE
+SECURITY
+BACKEND
+JAVA
+KOTLIN
+SPRING
+SQL
+NOSQL
+DATABASES
+CLOUD
+AWS
+ACCESS
+CLEAN
+CODE
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Guiding the Kotlin backend developers in designing, developing, and maintaining software applications, while setting technical direction and upholding code quality standards
+Collaborating with the software architect to define and evolve system architecture for enhanced scalability, performance, and security
+Actively engaging in coding, code review, and the enforcement of best practices
+Collaborate closely with our Customer Support (L1), Infrastructure Support (L2), and Application Support (L3) teams to efficiently manage escalations- helping identify, troubleshoot, and resolve operational issues that keep our clients running smoothly
+Participate in a rotating on-call schedule to ensure reliable 24/7 client support paired with appropriate compensation for your time and expertise
+Mentoring and coaching team members to promote continuous learning and growth
+Efficiently managing tasks and providing technical insights to ensure on-time and on-scope project delivery
+Maintaining consistent communication with the Project Manager to ensure alignment and shared objectives
+Staying up-to-date with the latest Java, Kotlin, backend technologies, frameworks, and tools, and introducing relevant technologies to enhance development processes
+Requirements
+Proficiency in Java ecosystem, familiarity with Java 17, 21
+Experience with Kotlin
+Familiarity with back-end frameworks such as Spring, Micronaut, or similar technologies
+Experience with AI-powered coding tools/agents
+Strong OOP mindset and commitment to SOLID principles
+Hands-on experience with SQL or NoSQL databases
+Genuine interest in staying up-to-date with the latest industry trends
+Passion for writing clean code
+Expertise in Containerization and Kubernetes (advantage)
+Familiarity with at least one public cloud provider (AWS, GCP, Azure)
+Ability to provide constructive feedback and mentor team members
+Intermediate level of English language skills
+What we offer
+Exciting international projects
+Access to inspiring conferences, in-house soft skill trainings, and online courses
+Support for English classes
+Skill matrix for clear learning path
+Health coverage with Medicare
+Life1 gym access
+Extra sick days
+Fully paid month off after five years
+Extra paternity leave
+Employee Assistance Program
+Friendly team of 200+ people
+Summercharge festival, football match, quiz night, and social events
+Buddy system for onboarding
+Dog-friendly office in the heart of Budapest
+Good coffee and tasty snacks including Túró Rudi
+Yearly personal budget
+Company library
+Company info
+Our vision is simple yet powerful: we want to create a place where engineers thrive, taking on exciting projects and using the latest technologies, free from the shackles of legacy solutions.
+Thanks to the diverse range of industries we work with, our days are never boring: from world-class apps to AR solutions or even programming robots, we’ve got it all covered. We don’t just write code for our screens; rather, we develop impactful products used by millions every day: let them be large-scale public transport applications, leading fintech platforms, or storage solutions contributing to a greener future.
+We are a team of 100+ engineers (Java, JavaScript, Android, iOS, NodeJS and dotnet platforms) and QA engineers with our coding fingers at the ready working on the next big thing. We value openness, modesty, hard work, and simple yet great solutions.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Budapest
+Álláshirdetés jelentése

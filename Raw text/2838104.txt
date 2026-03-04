@@ -1,0 +1,95 @@
+Cég neve
+KROHNE Messtechnik GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+TESTING
+DATABASES
+DEVOPS
+INCIDENT MANAGEMENT
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+TESTING
+DATABASES
+DEVOPS
+INCIDENT
+MANAGEMENT
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+We are building a new Cybersecurity Team to support our development and operations teams in all security-related matters. As part of a motivated team, you will actively contribute to the implementation of security measures while continuously developing your professional and technical skills.
+Your main responsibilities
+As a Cybersecurity Engineer, you will support projects and teams in the field of secure software and system development. Depending on your experience, you will be introduced to the following tasks and will gradually take on more responsibilities:
+Consulting and Support
+Participate in risk analysis, threat modeling and security engineering sessions
+Contribute to the design, review, and testing of secure components
+Testing and DevSecOps
+Support the planning and coordination of penetration tests with the Testing team
+Operate, maintain and improve security tools and systems and help integrate them into CI/CD pipelines
+Vulnerability and Incident Management
+Maintain vulnerability databases and related processes
+Perform initial assessment of vulnerabilities and hand over findings to Product teams
+Contribute to mitigation planning and coordination with product teams
+Secure Development Lifecycle
+Support the implementation and improvement of secure development processes and coding guidelines
+Training and Awareness
+Create training materials and support awareness sessions for developers and operations teams
+Requirements
+You have attained a degree in Computer Science, IT Security, or any related field or equivalent qualifications or work record
+Initial practical experience (internship, working student role or professional experience) in cybersecurity, software development or IT operations
+You have basic knowledge in at least one of the following areas:
+IT security tools and technologies
+Secure software development
+Penetration testing or vulnerability management
+CI/CD and DevOps
+You are interested in learning more and grow in the field of cybersecurity together with your team
+You communicate well in both English and German
+You want to be a responsible part of a growing team
+What we offer
+KROHNE owes its outstanding position primarily to the commitment and competence of KROHNIANS all over the world. That is why we also attach great importance to your development. Although innovative technology is at the center of our daily work, the “human factor” is firmly anchored in our tradition as a family-owned company. This is not only reflected in the numerous professional relationships and strong bonds between our employees – we also like to be measured by what we offer:
+Flexible working and part-time models
+40% mobile work possible
+Long-term employment relationships
+Private supplementary health insurance
+Company pension scheme and social fund
+Health and fitness offers
+Modern, well-equipped workplaces
+Company celebrations and events
+Modern café and company canteen
+Job ticket and bicycle leasing
+Family atmosphere
+Company info
+World leading, based in Duisburg. This is KROHNE. We are a global manufacturer and supplier of process instrumentation, measurement technology solutions, and services for almost all industries. With our global network, local contacts, and international production facilities, we implement instrumentation projects of all sizes in more than 100 countries. Our innovative measurement technology helps to meet the highest quality standards and to conserve natural resources. Whether in the supply and treatment of drinking water, food processing, the loading of raw materials, or the manufacture of chemical products. Founded over 100 years ago, we are still an independent family business today. And keep reinventing ourselves. With us, success becomes measurable – including your personal success.
+Do you want to work with us to find better and better solutions? Learn every day? And see the future as an opportunity? Then become part of our global team of more than 4,000 KROHNIANS.
+We are looking for a (business) computer scientist or similar to start as soon as possible as
+Cybersecurity Engineer (m/f/d)
+Corporate department Research & Development | Duisburg
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Germany
+Álláshirdetés jelentése

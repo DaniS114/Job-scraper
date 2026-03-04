@@ -1,0 +1,98 @@
+Cég neve
+SAP SE
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+ANALYTICS
+SECURITY
+PYTHON
+JAVA
+CLOUD
+JAVASCRIPT
+HTML
+@SAP.
+MACHINE LEARNING
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+ANALYTICS
+SECURITY
+PYTHON
+JAVA
+CLOUD
+JAVASCRIPT
+HTML
+@SAP.
+MACHINE
+LEARNING
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+We are seeking an experienced SAP AI Engineering Architect (f/m/d) to lead the design, development, and implementation of AI-driven solutions within our SAP ecosystem. The ideal candidate will possess deep expertise in SAP technologies, AI frameworks, and SAP Business Technology Platform (BTP), ensuring seamless integration and optimization of AI capabilities to drive business innovation and efficiency.
+Architect and implement AI solutions within SAP systems to enhance business processes and decision-making.
+Design and deploy scalable, secure, and high-performing AI powered applications on SAP BTP.
+Utilize SAP BTP services such as SAP Generative AI Hub, SAP AI Core, SAP AI Business Services, SAP Integration Suite etc. to develop innovative solutions.
+Develop and manage APIs and microservices using SAP BTP tools for seamless integration across SAP and non-SAP systems.
+Leverage SAP BTP capabilities for data orchestration, analytics, and machine learning model deployment.
+Collaborate with cross-functional teams to identify opportunities for AI integration and automation within SAP landscapes.
+Optimize SAP systems for AI-driven analytics, predictive insights, and real-time decision-making.
+Ensure compliance with data governance, security standards, and SAP best practices.
+Provide technical leadership and mentorship to development teams.
+Stay updated on emerging AI technologies and SAP BTP advancements to drive innovation.
+Requirements
+Bachelor's or Master's degree in Computer Science, Engineering, or related field and/or 10 years expertise in various applicable technical roles.
+Proven experience as an SAP Architect with expertise in AI technologies and SAP BTP.
+Proficiency in SAP BTP services, including SAP AI Core, SAP AI Business Services, SAP Integration Suite, and SAP Extension Suite.
+Strong knowledge of machine learning frameworks (e.g., TensorFlow, PyTorch) and programming languages (e.g., Python, Java).
+Excellent problem-solving, communication, and leadership skills.
+Familiarity with SAP HANA Cloud, SAP Data Intelligence, and SAP Analytics Cloud, Vector Engines, Knowledge Graphs, A2A and MCP technologies.
+Experience with SAP S/4HANA integration and extensions using SAP BTP preferred.
+Front End Knowledge in JavaScript, HTML, Fiori Web components (desirable), calling APIs.
+Knowledge of data governance, security best practices, and SAP Fiori application development.
+An AI Powered Mindset and understanding of Generative AI & Prompt Engineering.
+Excellent verbal and written communication skills in English & German.
+Strong business process acumen; ability to understand the challenges you are asked to solve.
+What we offer
+What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+#AI26
+#SAPAICareers
+We win with inclusionSAP's culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team:
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 446680 | Work Area: Consulting and Professional Services | Expected Travel: 0 - 50% | Career Status: Professional | Employment Type: Regular Full Time | #LI-Hybrid
+Company info
+We help the world run better
+At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong.
+SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

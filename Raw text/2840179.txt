@@ -1,0 +1,90 @@
+Cég neve
+Nova HR
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Vállalkozói
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+C
+BACKEND
+API
+CLOUD
+AZURE
+DEVOPS
+SQL
+MYSQL
+REACT.
+Elvárások
+Angol felsőfok
+>10 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Vállalkozói
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+C
+BACKEND
+API
+CLOUD
+AZURE
+DEVOPS
+SQL
+MYSQL
+REACT.
+Angol
+felsőfok
+>10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+Egy amerikai tulajdonban lévő szoftverfejlesztő és IT tanácsadó vállalat számára keresünk munkatársat.
+Feladatok
+Skálázható, elosztott backend rendszerek tervezése és fejlesztése (.NET / C#)
+Microservice-alapú architektúrák és API-k kialakítása
+Cloud-alapú (elsősorban Azure) megoldások implementálása
+CI/CD folyamatok és DevOps együttműködés támogatása
+AI/ML modellek backend integrációjának megvalósítása
+Technikai döntések meghozatala, architektúra irányítása
+Code review-k végzése, fejlesztési standardok kialakítása
+Backend fejlesztő csapat szakmai vezetése és mentorálása
+Ügyféloldali technikai egyeztetésekben való részvétel
+Teljesítményoptimalizálás és technikai kockázatok kezelése
+Elvárások
+Felsőfokú informatikai végzettség
+Magabiztos, aktív angol nyelvtudás (szóban és írásban egyaránt)
+Több éves backend fejlesztői tapasztalat, modern architektúrák (pl. microservices) alapos ismerete
+Jelentős C# és .NET fejlesztési tapasztalat
+Skálázható, elosztott alkalmazások tervezésében, fejlesztésében és bevezetésében szerzett tapasztalat
+Felhőalapú megoldások tervezésében és üzembe helyezésében szerzett tapasztalat (elsősorban Azure)
+Tapasztalat AI/ML-alapú termékek fejlesztésében
+Vezetői tapasztalat
+Proaktív, megoldásorientált hozzáállás, jó problémamegoldó készség
+Önállóság, rugalmasság
+Előnyt jelent
+Tapasztalat relációs adatbázisokkal (Postgres, SQL Server, MySQL stb.)
+DevOps koncepciók/folyamatok és CI/CD eszközök alapos ismerete
+React.js és alapelveinek ismerete
+Amit kínálunk
+Versenyképes juttatási csomag
+Lehetőség egy globálisan sokszínű, kiemelkedő mérnöki csapattal dolgozni az iparág legösszetettebb mérnöki kihívásain
+Rendkívül rugalmas munkakörülmények – bőkezű irodai eszköztámogatás az otthoni munkavégzéshez, igény esetén munkaállomás biztosítása egy közeli irodában vagy coworking térben, vagy akár mindkettőt.Nincs szükség üzleti utazásra.
+Élvezetes, startup jellegű munkakörnyezet, kiváló szakmai fejlődési és karrierlehetőségekkel
+Rugalmas munkaidő – remote-first vállalatként a hangsúly mindig a minőségi munkavégzésen van, nem azon, hogy mikor vagy hol történik az.
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+IT,
+fejlesztési vezető
+Álláshirdetés jelentése

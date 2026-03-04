@@ -1,0 +1,92 @@
+Cég neve
+TIGRA Zrt.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+A
+Tigra Zrt.
+30 év szakmai tapasztalattal, több mint 320 főállású munkavállalóval, évi 17 milliárd HUF forgalommal a magyar ICT szektor egyik meghatározó szereplője. Ha szeretnél egy elismert, innovatív és nyitott, fiatalos csapatnak részese lenni, szeretnél tovább fejlődni, akkor csatlakozz hozzánk
+Release manager
+munkakörbe
+Pontosan milyen feladataid lennének?
+Vállalati szintű release-folyamatok megtervezése, ütemezése és koordinálása;
+Release kalendárium kialakítása és karbantartása, ütközések és erőforrás-konfliktusok kezelése;
+A fejlesztői, tesztelői, üzemeltetési és üzleti csapatok közötti kommunikáció biztosítása;
+Build-, deploy- és verziókezelési folyamatok felügyelete;
+Release-dokumentációk készítése (release notes, changelog);
+Kockázatok, függőségek és visszagörgetési (rollback) tervek kezelése;
+Release-automatizálási folyamatok támogatása, fejlesztése;
+Incidenskezelés és problémakezelés támogatása release-ek során és után;
+CI/CD pipeline-ok működésének felügyelete, optimalizálása;
+Minőségbiztosítási és megfelelőségi követelmények betartatásának támogatása;
+Szívesen megismerünk, ha
+alapos Git ismerettel rendelkezel (branching strategy: GitFlow, Trunk based, Release branch model);
+van tapasztalatod Build- és release-artifaktok verziókezelésében és -követésében (SemVer, date-based versioning);
+rendelkezel Tagelés és release branch-ek kezelésében szerzett tapasztalattal;
+magabiztos ismereted van az alábbi CI/CD rendszereket illetően: Jenkins, GitLab CI, Azure DevOps Pipelines, Argo CD/Flux (GitOps) és megérted a pipeline-ok működését, tapasztalatod van hibaelhárításban és deployment szakaszok felügyeletében;
+ismered a Build és csomagolási folyamatok verziókezelését, mint Maven alapismeretek, Node.js és Angular build folyamatok ismerete, Docker image-ek buildelése és verziókezelése, Artifactory, Nexus vagy GitHub Packages használata;
+alapos ismereteid vannak Deployment technológiák kapcsán az alábbi területeken: Kubernetes (helm chart kezelés, rollout stratégia), Cloud platformok: AWS, Azure, GCP, Deployment minták;
+rendelkezel monitoring és minőségbiztosítási területeken szerzett tapasztalattal, loggyűjtő rendszerek ismeretével (ELK, Splunk, Grafana Loki), monitoring eszközök használatával (Prometheus, Grafana, Datadog, New Relic), ismerettel release utáni after-care folyamatok követésében KPI-ok alapján;
+van tapasztalatod DevOps területen;
+Containerek mélyebb ismerete nem okoz gondot;
+szereztél tapasztalatot nagyvállalati release környezetben;
+ITIL v3/v4 tudással is rendelkezel (Change Management);
+automatizálási toolok (Python, Bash) használatában szereztél tapasztalatot;
+rendelkezel legalább 3-5 éves gyakorlattal hasonló pozícióban;
+kiváló elemző- és dokumentációs képességed van;
+megoldás-centrikus szemléleted van kiváló problémamegoldó képességgel kombinálva;
+precizitás jellemző Rád, mert törekszel a teljességre;
+ügyfélorientált szemlélettel és jó kommunikációs készséggel rendelkezel.
+Amit cserébe kínálunk neked a versenyképes fizetésen és intellektuális kihíváson túl:
+Csatlakozás egy olyan szakmai közösséghez, amelynek a munkáját megbecsülik
+Társadalmilag hasznos projektek
+Támogató vállalati kultúra, ami gondoskodik a személyre szabott karrierútról
+Napi 7,5 óra elvárt munkaidő
+Egy csapatot, aki örül az életeseményeidnek, legyen az házasság vagy gyermekáldás, s ezt még anyagilag is segíti
+Cég által biztosított orvosi szűrővizsgálatok
+Évente több csapatépítő rendezvény
+Céges, családtagokra is kiterjeszthető egészségbiztosítás
+Céges életmód program
+Orvosi szoba
+Cég által biztosított rendszeres sportolási lehetőségek
+Születésnapi extra szabadság
+Lehetőség hibrid munkavégzésre
+Munkahelyi extrák
+Orvosi felügyelet
+Céges rendezvények
+Sportolási lehetőség
+Jelentkezés módja
+Ha ajánlatunk elnyerte tetszésedet és alkalmasnak érzed magad a pozíció betöltésére, küldd el fényképes magyar nyelvű önéletrajzodat a lenti "Jelentkezem" gombra kattintva.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

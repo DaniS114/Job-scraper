@@ -1,0 +1,103 @@
+Cég neve
+commercetools GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+CLOUD
+SECURITY
+TESTING
+API
+DATABASES
+MONGODB
+POSTMAN
+ACCESS
+REST
+AGILE
+Elvárások
+Angol felsőfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+CLOUD
+SECURITY
+TESTING
+API
+DATABASES
+MONGODB
+POSTMAN
+ACCESS
+REST
+AGILE
+Angol
+felsőfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Work closely with Product Management to understand the business needs and find appropriate technical solutions
+Design, own and operate scalable, secure payment systems that handle financial transactions efficiently in a multi‑tenant Cloud/SaaS environment
+Lead architecture reviews, make trade‑off decisions for scalability, security and maintainability, and coach other engineers on design and implementation
+Design, implement and test in-store payment and payment device interactions including credit/debit, gift cards, digital wallets, and more
+Contribute to the definition of the team roadmap
+Lead end to end design, delivery, and reliability of our solutions
+Define and drive platform patterns, CI/CD improvements, SLIs and SLOs, observability and testing strategy for our solutions' flows
+Work with engineers from different teams to ensure technical excellence of the whole platform
+Ensure that functional and non-functional requirements (performance, security) are met
+Take part in on-call rotation (with the worldwide distributed team) for production systems
+Requirements
+You're a creative problem-solver who is wired to find solutions. You confidently dive into complex challenges and have a talent for making them simple for others. Your curiosity drives you to constantly grow and contribute to an environment of trust and teamwork.
+Great ideas come from many paths, and your unique perspective matters more than checking every box. What matters most is the mindset you bring to the work.
+Proven experience as a TypeScript backend engineer building and operating large-scale production systems, including designing CI/CD pipelines, integrating observability tooling, and implementing structured logging, among other platform best practices
+Solid understanding of parallel and asynchronous programming, as well as non-blocking I/O
+Solid grasp of distributed systems fundamentals, including consistency models, replication, and asynchronous processing, with a clear understanding of their practical trade-offs
+Experience in developing REST API's and knowledge of scalable architectures
+Knowledge of document databases (MongoDB) and API interaction tools (such as Postman, or similar)
+Fluent written and verbal English language skills for work in international teams
+The aspiration to constantly improve yourself and learn new technologies and concepts
+A good understanding of Agile methodologies and participation in sprint events
+Ability to work in a hybrid environment
+AI Aptitude : A genuine curiosity for using AI tools to work smarter and more effectively, paired with a drive to learn and put them into practice in your role.
+Nice to Have:
+Experience with MACH principles and solutions composed in MACH environments
+Experience with industry standard API Authentication/Authorization, including OAuth, OpenID Connect, SAML2
+Experience integrating, implementing, and supporting at least one major PSP provider/gift card processor such as Adyen, Stripe, Paypal Braintree, Worldpay, GlobalPay, GiveX, Clutch, Elavon, or Savvy
+What we offer
+This role is hybrid, with three days a week spent in our Berlin office.
+Because work and life are connected, our benefits are too. We've designed them to give you the security, flexibility, and opportunities you need to focus on what matters most.
+???? Comprehensive health benefits for you and your dependents, including access to OpenUp for personalized mental health support
+Learning and development opportunities including an annual learning budget, access to self-paced learning platforms and language training, personalized coaching, mentorship, and leadership programs
+Family Leave Plus gives you additional fully paid weeks of parental leave on top of government-provided leave, so you can spend more time with your new addition
+Our equity participation program allows you to share in our success
+For more information on our benefits, visit this page.
+Come as you are. Build with us.
+Your unique perspective is essential to our success. We are committed to building a team that reflects the world around us because we know it's the only way to build the future. We celebrate our differences and have created a hiring process that's fair, inclusive, and designed to let your talent shine.
+We proudly welcome applicants of every race, color, religion, gender identity, sexual orientation, age, and any other part of your identity that makes you who you are. As an equal opportunity employer, we believe that our strength lies in our diversity, and we invite you to be a part of our global community.
+For more information on our diversity, equity, inclusion, and belonging practices, visit this page.
+Company info
+Real innovation starts with a strong foundation, and at commercetools, that comes from the perfect balance of our product and our people.
+Behind every leap forward is a collective of builders, explorers, doers, makers, and problem-solvers. The kind of people who not only created composable commerce but also shaped the culture of experimentation that idea unlocked. Together they are the engine of commerce innovation today.
+At commercetools, we power the next era of commerce for our customers. Whether it's AI-driven solutions that help enterprises make smarter business decisions, bridging digital and physical shopping experiences, or enabling entirely new ways for industries to connect with their customers, we help the world's most ambitious companies experiment, scale, and grow without limits.
+Here the best idea wins, not the loudest voice. You will have the tools, trust, and space to not only build the future of commerce, but to build your own.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

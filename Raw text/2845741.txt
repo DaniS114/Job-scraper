@@ -1,0 +1,80 @@
+Cég neve
+GITMAX IT Services Zrt.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+PANDAS
+API
+TESTING
+MACHINE LEARNING
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+PANDAS
+API
+TESTING
+MACHINE
+LEARNING
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Work closely with customers to analyze business needs and translate them into technical requirements
+Participate in pre-sales discussions, helping shape tailored technical solutions
+Collaborate with Sales and Customer Success teams to ensure smooth project execution and client satisfaction
+Communicate effectively with clients’ technical teams, using clear and precise technical language
+Design and configure data labeling and processing pipelines using Python-based tools
+Combine multiple data labeling components into automated workflows for ML training purposes
+Conduct experiments and evaluate the quality, accuracy, and efficiency of data outputs
+Provide technical leadership during implementation and ensure best practices are followed
+Monitor system performance and resolve technical issues or incidents as needed
+Analyze data quality and identify improvement areas
+Optimize solutions by adopting new tools, methods, and automation approaches
+Collaborate with internal support and engineering teams to troubleshoot and enhance ongoing projects
+Requirements
+3+ years of experience as a Technical Solutions Engineer, Data/System Analyst, Data Scientist, or Technical Project Manager
+Strong Python skills (pandas, numpy, API integrations, SDKs); experience with Airflow is a plus
+Understanding of software development principles (version control, testing, CI/CD)
+Experience building and maintaining multi-stage data pipelines
+Solid understanding of data quality metrics (accuracy, precision, recall, F1) and basic statistics
+Familiarity with machine learning concepts and LLMs; experience in prompt engineering is an advantage
+Strong analytical and problem-solving skills with the ability to think critically about complex systems
+Excellent communication skills; ability to collaborate with engineers, data scientists, and business stakeholders
+English proficiency at B2+ level
+Ability to work independently and manage multiple projects in a fast-paced environment
+What we offer
+Opportunity to work on innovative AI and data-driven projects with global tech leaders
+Fully remote or hybrid setup with flexible working hours
+Competitive compensation aligned with experience
+Paid vacation and sick leave
+A collaborative, international team of experts passionate about AI and automation
+Company info
+Empowering success through strategic staffing solutions tailored to your unique organizational needs.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Regionális
+Álláshirdetés jelentése

@@ -1,0 +1,88 @@
+Cég neve
+GNX Engineering Kft.
+Munkavégzés helye
+1097 Budapest, Lechner Ödön fasor 10b
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PLC
+SCADA
+VPN
+PYTHON
+Biztosított eszközök
+Laptop
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Mobiltelefon
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+PLC
+SCADA
+VPN
+PYTHON
+Laptop
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Céginformáció
+GNX Engineering Kft. egy dinamikusan fejlődő energetikai mérnöki vállalat, amely elkötelezett amellett, hogy a fenntartható villamosenergia-rendszerek és intelligens energiatárolási megoldások élvonalába tartozzon. Fenntartható technológiai és gazdasági megoldásokra fókuszálva célunk az energiatermelés és -tárolás hatékonyságának növelése, valamint a CO₂-mentes technológiák mindennapi alkalmazásának felgyorsítása.
+Kiemelt erősségünk, hogy a tervezéstől az üzemeltetésig minden lépést átfogó mérnöki szolgáltatást nyújtunk: energetikai koncepciók kidolgozását, műszaki és gazdasági szimulációkat, elektromos tervezést, kivitelezést, üzembe helyezést, karbantartást és teljesítménymenedzsmentet biztosítunk ügyfeleink számára. Folyamataink során a helyi energiafogyasztási profilokat és piaci környezetet is figyelembe véve olyan megoldásokat hozunk létre, amelyek műszakilag megalapozottak és üzletileg is versenyképesek.
+Vállalatunk fókuszában a rendszerszemlélet, az innováció és az energetikai tranzíció támogatása áll – szenvedéllyel dolgozunk azon, hogy az energiagazdálkodás jövője fenntarthatóbb, rugalmasabb és kiszámíthatóbb legyen.
+Jelenleg a GNX Kft. nagy ütemben bővülő csapatába keressük legújabb munkatársunkat SCADA MÉRNÖK pozícióba.
+Miben számítunk rád
+Scada felügyeleti rendszer fejlesztésében és paraméterezésében való aktív közreműködés
+A rendszer új funkcióinak tervezésében, szoftverarchitektúra kialakításában
+Házon belüli és kívüli kapcsolattarásban (pl. külsős tanácsadó, marketing, ügyfél, gyártócégek)
+A szoftver grafikai felületének kialakításában és fejlesztésében, szoros együttműködésben a grafikai/marketing osztállyal
+Terepi kommunikációs szekrények paraméterezésében és konfigurálásában
+Különböző kommunikációs protokollok implementálásában és tesztelésében (IEC 104, IEC 61850, Modbus RTU/ TCP-IP)
+Szolgáltatásokhoz (karbantartás, üzemeltetés) szükséges távoli elérést biztosító szoftver architektúra és IT architektúra kidolgozásában
+Terepi és irodai rendszerek közötti kommunikációs tesztek végrehajtásában
+Részvételedre a SCADA rendszer folyamatos fejlesztésében és karbantartásában
+Szoftverterv készítésében és annak egyeztetésében a vevőinkkel
+Rád építünk, ha...
+Erősáramú SCADA rendszerismerettel rendelkezel
+2-3 éves tapasztalattal rendelkezel
+SCADA programozási tapasztalat
+Ismered ezeket a kommunikációs protokollokat: IEC 104, IEC 61850, Modbus RTU, Modbus TCP/IP
+Magabiztos kiberbiztonsági alapismerettel bírsz
+Az angol nyelvtudásod magabiztos
+Rendelkezel B kategóriás jogosítvánnyal
+Munkádért cserébe
+Fiatalos lendületes cég vagyunk, mely startup jellege ellenére multi standardok alapján építi fel folyamatait, működését és megoldásait
+A mindennapjaidat, modern irodai környezetben töltheted, egy szakmailag képzett csapatban, segítőkész kollégákkal
+Munkádhoz versenyképes fizetést, valamint laptopot és mobiltelefont biztosítunk
+Komplex egészségbiztosítási szolgáltatási csomagunk keretén belül különféle egészségügyi szolgáltatásokat vehetsz igénybe díjmentesen vagy kedvezményes áron
+Kimagasló cafetéria kerettel jutalmazzuk kollégáink munkáját, melynek felhasználására többféle lehetőséged nyílik: SZÉP kártya, bölcsődei, óvodai ellátás, készpénz kifizetés
+Munkakör betöltése során előnyt jelent
+PLC programozási tapasztalat (Schneider Electric Modicon, Siemens)
+Villamosipari berendezések, középfeszültség (KÖF) ismerete
+IP hálózatok alapelveinek ismerete (routing, switching, subnetting, VLAN, VPN, NAT, port forwarding, tűzfal)
+Python programozási nyelv ismerete
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

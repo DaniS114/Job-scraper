@@ -1,0 +1,67 @@
+Cég neve
+Total Felhő Informatikai Szolgáltató és Tanácsadó Kft.
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AWS
+CLOUD
+DOCKER
+PYTHON
+DEVOPS
+NODE.JS
+Elvárások
+Angol középfok és
+Magyar középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+AWS
+CLOUD
+DOCKER
+PYTHON
+DEVOPS
+NODE.JS
+Angol
+középfok és Magyar középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Fejlesztési folyamatok meghatározása és támogatása a projekt teljes életciklusában
+Együttműködés az ügyfelekkel a specifikációk felállításában és vállalható határidők meghatározásában
+Python vagy Node.js programozási nyelv ismerete és alkalmazása a projektek során (főként Python)
+CI/CD-pipeline kiépítése és karbantartása
+IaC kód írása AWS rendszerekhez (CFN/Terraform)
+Konténerek (Docker) és azok AWS-ben történő koordinációja (K8s, EKS)
+AWS serverless megoldások (Lambda) ismerete és alkalmazása
+Elvárások
+Tapasztalat fejlesztési projektekben, preferáltan AWS környezetben
+Kiváló problémamegoldó készség és rugalmasság változó kihívásokra
+Csapatmunka iránti elkötelezettség és kommunikációs készség
+Proaktivitás és folyamatos tanulási hajlandóság a technológiai trendek terén
+Szükséges nyelvtudás: magyar (anyanyelv), English (professional)
+Amit kínálunk
+Munkavégzés: hibrid
+Céginformáció
+A TC2 az AWS Advanced Consulting és Migration Competency partnere. Ügyfeleink informatikai platformjainak tervszerű felhőbe migrálására, modernizálására, üzemeltetésére és a legjobb gyakorlatnak megfelelő optimalizálására összpontosítunk, úgy, hogy ügyfeleink minél jobban kiaknázhassák a felhőalapú számítástechnika üzleti és informatikai előnyeit.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Regionális
+Álláshirdetés jelentése

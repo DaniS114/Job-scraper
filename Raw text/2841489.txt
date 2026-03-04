@@ -1,0 +1,98 @@
+Cég neve
+United Call Centers Kft.
+Munkavégzés helye
+Távmunka / Remote
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+BACKEND
+PHP
+SYMFONY
+GIT
+LINUX
+API
+LARAVEL
+CODEIGNITER
+Biztosított eszközök
+Laptop
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+BACKEND
+PHP
+SYMFONY
+GIT
+LINUX
+API
+LARAVEL
+CODEIGNITER
+Laptop
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Úgy érzed,
+kinőtted a Junior szintet
+, de még nem kaptad meg a lehetőséget a bizonyításra? Szeretnél több felelősséget, komplexebb feladatokat és valódi szakmai előrelépést? Nálunk most megteheted a következő lépést.
+Olyan backend fejlesztőt keresünk, aki már magabiztos alapokkal rendelkezik, önállóan dolgozik, és készen áll arra, hogy
+Medior szintű felelősséget vállaljon
+.
+Elvárások
+Van már releváns backend tapasztalatod, és túl vagy a junior szinten
+Fogékony vagy az új technológiák megismerésére, bevezetésére és támogatására
+Önállóan és precízen dolgozol
+Ismersz legalább 1 PHP alapú keretrendszert (Laravel / Symfony / Yii / CodeIgniter)
+Van Restful API tapasztalatod
+Tisztában vagy a Service Layer Pattern működésével és alkalmazásával
+Használtál már relációs adatbázist
+Rendelkezel Linux szerver alapismeretekkel
+Rendelkezel GIT alapismeretekkel
+Kommunikációképes az angolod
+Előnyt jelent
+Vektoros adatbázis ismerete (ElasticSearch / Weaviate)
+Tapasztalat generatív AI és LLM rendszerek alkalmazásában
+Konténerizációban szerzett tapasztalat
+Websocketben szerzett tapasztalat
+PBX technológiában jártasság
+Amit kínálunk
+Valódi lehetőség a juniorból medior szintlépésre
+Home Office: 100% remote munkavégzés
+Nemzetközi környezetben történő fejlődés
+A UCC modern, teljesértékű technikai eszközparkot biztosít
+Támogató szakmai közeg
+Tényleges karrierlehetőség
+Céginformáció
+A UCC piacvezető az üzleti folyamatokat támogató megoldások terén, több mint 25 év tapasztalattal, nemzetközi Partnerekkel és több száz szakemberrel. Saját fejlesztésű, enterprise szintű szoftverplatformjaink komplex üzleti folyamatokat támogatnak globális ügyfelek számára, saját szervereken futó infrastruktúrával. Fejlesztéseink között megtalálhatók az AI-alapú rendszerek, hangalapú automatizáció, fejlett analitika és integrált platformok, melyek valós üzleti igényekre adnak technológiai válaszokat. Nálunk lehetőséged nyílik egy nemzetközi, innovatív csapat részeként dolgozni, közvetlenül hozzájárulva globális projektjeink sikeréhez, és fejlődni egy stabil, technológia-orientált környezetben.
+Jelentkezés módja
+Ha szeretnél végre nem „junior”-ként működni, hanem bizonyítani, hogy készen állsz a következő szintre — várjuk jelentkezésed, bérigény megjelölésével. Kérjük, a CV tartalmazzon részletes leírást az eddigi tapasztalatokról. Kérjük emeld ki, a legfontosabb fejlesztéseidet, referencia munkáid, azoknak a hozzáadott értékeit.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Álláshirdetés jelentése

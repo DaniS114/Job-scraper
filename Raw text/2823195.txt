@@ -1,0 +1,138 @@
+Cég neve
+PHARMAROAD Zrt.
+Munkavégzés helye
+Hibrid
+•
+1106 Budapest, Kabai utca 1.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Szakmai tréningek
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+C
+GIT
+MSSQL
+ANGULAR
+BACKEND
+API
+CLOUD
+WPF
+AZURE
+AGILIS
+SAP
+DEVOPS
+SQL
+FRONTEND
+REST
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Mobiltelefon
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Cafeteria
+Szakmai
+tréningek
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+C
+GIT
+MSSQL
+ANGULAR
+BACKEND
+API
+CLOUD
+WPF
+AZURE
+AGILIS
+SAP
+DEVOPS
+SQL
+FRONTEND
+REST
+Laptop
+Monitor
+(1 db)
+Mobiltelefon
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+A munkakör célja
+A Senior Full-Stack szoftverfejlesztő feladata a Pharmaroad Zrt. belső fejlesztésű szoftvereinek tervezése, fejlesztése és dokumentálása, valamint aktív részvétel a vállalati szintű digitális és rendszerintegrációs megoldások kialakításában. A pozíció önálló, felelősségteljes szakmai munkavégzést igényel komplex üzleti igények mentén.
+Feladatok
+Fejlesztési igények technikai értelmezése és megvalósítása, a kapcsolódó dokumentáció elkészítésével.
+Aktív részvétel egy belső fejlesztésű portál továbbfejlesztésében.
+Aktív részvétel belső vállalati alkalmazások továbbfejlesztésében és karbantartásában.
+A fejlesztések minőségének, fenntarthatóságának és hosszú távú működésének biztosítása.
+Együttműködés üzleti területekkel és külső partnerekkel.
+Fejlesztői szintű szakmai támogatás nyújtása.
+Technológiai környezet
+Frontend: Angular.
+Backend: .NET Core / .NET 8.
+Architektúra: mikroszolgáltatás-alapú megoldások, REST API-k.
+Adatbázis: Microsoft SQL Server, T-SQL.
+Verziókezelés: Git.
+CI/CD és DevOps: Azure DevOps alapú folyamatok.
+Felhő környezet: Microsoft Azure (App Service, Azure SQL, Functions, Blob Storage).
+Elvárások
+Legalább 5 év releváns szakmai tapasztalat szoftverfejlesztési területen.
+Magabiztos C# / .NET / Angular ismeretek.
+REST API-k tervezésében és implementációjában szerzett tapasztalat.
+MSSQL / T-SQL ismeretek.
+Agilis szemlélet, önálló és felelősségteljes munkavégzés.
+Hatékony együttműködés csapatban és üzleti oldallal.
+Előnyt jelent
+SAP S/4HANA public rendszerhez kapcsolódó integrációs tapasztalat vagy érdeklődés.
+WPF alkalmazásfejlesztési tapasztalat.
+Azure Cloud ismeretek (App Service, Azure SQL, Functions, Blob Storage).
+Azure Data Factory tapasztalat.
+Verziókezelés (Git).
+CI/CD eszközök ismerete (Azure DevOps).
+Amit kínálunk
+Részvétel egy gyógyszeripari logisztikai környezetben működő, szigorúan szabályozott IT rendszerek fejlesztésében, ahol a minőség, a nyomonkövethetőség és a megbízhatóság kiemelt szerepet kap.
+Aktív közreműködés a frissen bevezetett SAP S/4HANA Public környezethez kapcsolódó rendszerintegrációk és egyedi fejlesztések megvalósításában.
+Stabil, hosszú távú munkalehetőség egy jogszabályilag erősen szabályozott, kiszámítható iparágban.
+Önálló, felelősségteljes szakmai munkavégzés, valódi üzleti hatással.
+Valós üzleti problémákra épülő fejlesztési feladatok, ahol a minőség és megbízhatóság elsődleges.
+Modern technológiai környezet és folyamatos szakmai fejlődési lehetőség.
+Együttműködő, támogató csapatkörnyezet.
+Rugalmas munkavégzési keretek, hibrid munkavégzési lehetőséggel.
+Cafeteria juttatás és magán-egészségügyi szolgáltatás 1 év munkaviszonyt követően.
+Munkahelyi extrák
+Céges rendezvények
+Ingyen kávé, üdítő
+Céginformáció
+Kiterjedt hazai- és nemzetközi partnerhálózattal rendelkező, széleskörű szolgáltatási palettát nyújtó, budapesti telephelyekkel rendelkező gyógyszer-nagykereskedelmi vállalat. Ez a pozíció ideális olyan senior fejlesztők számára, akik értékelik a strukturált, szabályozott környezetet, és hosszú távon szeretnének stabil, szakmailag kihívást jelentő rendszereken dolgozni.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

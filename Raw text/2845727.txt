@@ -1,0 +1,84 @@
+Cég neve
+GITMAX IT Services Zrt.
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+PYTHON
+SQL
+POSTGRESQL
+JSON
+TESTING
+ACCESS
+REST
+Biztosított eszközök
+Céges autó
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+PYTHON
+SQL
+POSTGRESQL
+JSON
+TESTING
+ACCESS
+REST
+Céges
+autó
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Build and evolve backend microservices in Go (new features, performance work, reliability improvements)
+Work with production Python-based components when needed across the broader service landscape
+Participate in architecture discussions and cross-team integrations
+Perform code reviews and contribute to engineering standards and quality
+Requirements
+5+ years of professional software engineering experience, including 3+ years commercial Go, with a background in high-load, production-critical systems
+Senior-level Golang expertise
+Strong SQL/PostgreSQL skills (ability to read/understand query plans and optimize performance; solid grasp of indexes and production behavior)
+Practical Kafka experience and understanding of event-driven processing in real systems
+Good understanding of microservices and REST/JSON APIs
+Familiarity with services running in Kubernetes-based environments
+Production-level exposure to Python systems
+Strong ownership mindset
+Engineering maturity: realistic estimates, thoughtful implementation, sufficient testing, and careful releases
+English — Upper-Intermediate or higher
+What we offer
+Full relocation support for you and your family to Limassol, Cyprus including flights, visas, accommodation, legal assistance, and pet transportation
+Temporary housing arranged and covered until you settle in
+Full coverage of school and kindergarten fees for up to three children, priority admission to partner schools, and reimbursement options for others
+Top-tier health & life insurance for you, your spouse, and children including inpatient/outpatient care, dental, optical, vaccinations, preventive medical tests, and mental health support
+Generous parental care: extended paid maternity and paternity leave, childbirth bonuses, and full support for newborn healthcare
+Corporate wellbeing: free membership to company sports club, access to premium local gym, compensation for other physical activities, participation in company sports events
+Comfort & lifestyle perks: company car program with covered fuel, private parking, snacks and lunches in the office, rooftop bar, and corporate doctor on call
+Financial peace of mind: annual performance bonuses (2–3 salaries), share scheme participation, provident fund contributions
+Learning & development: unlimited access to professional courses, certifications, English classes, internal knowledge-sharing programs, and corporate library
+Community and culture: relocation assistance for partners, strong expat community, regular offsites, celebrations, and employee appreciation gifts
+Time off & flexibility: 21 working days annual leave, public holiday allowance, fully paid sick leave, and hybrid flexibility during relocation
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Regionális
+Álláshirdetés jelentése

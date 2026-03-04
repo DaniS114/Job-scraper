@@ -1,0 +1,122 @@
+Cég neve
+Accenture Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NODE.JS
+FRONTEND
+HTML
+CSS
+JAVASCRIPT
+ANGULAR
+BOOTSTRAP
+BACKEND
+GIT
+DOCKER
+POSTGRESQL
+JAVA
+CD
+CLOUD
+TESTING
+SPRING
+JENKINS
+CI
+JUNIT
+APACHE
+DEVOPS
+SCRUM
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Cafeteria
+Teljes
+munkaidő
+Általános
+munkarend
+NODE.JS
+FRONTEND
+HTML
+CSS
+JAVASCRIPT
+ANGULAR
+BOOTSTRAP
+BACKEND
+GIT
+DOCKER
+POSTGRESQL
+JAVA
+CD
+CLOUD
+TESTING
+SPRING
+JENKINS
+CI
+JUNIT
+APACHE
+DEVOPS
+SCRUM
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Develop and maintain a complex Angular application used for regulatory processes in banking
+Collaborate with cross-functional Scrum teams to design, implement, and deliver high-quality features
+Ensure code quality with tools such as Karma, Jasmine, and JUnit (for backend testing)
+Support continuous integration and delivery (CI/CD) via Jenkins
+Engage in system design and improvements with tools like Figma
+Work with backend services and workflows potentially involving Camunda, Drools, Apache Camel, and PostgreSQL
+Requirements
+At least 3+ years of experience with modern frontend framework/libraries (Angular) on large or complex code bases
+Solid understanding of the JavaScript and web application ecosystem
+Experience with Bootstrap, HTML, CSS
+Comfortable with the SPA concepts
+Experience with CI, CD and/or Unit Testing
+Committed to performance, code quality, good practice and delivering high end products
+Proficient with the GIT and its related tooling (branching flow, CLI commands etc.)
+Technical and consumer awareness
+Ability to troubleshoot problems in the team and for users
+Analytical and good at time management
+Great problem-solving skills
+Works well in a team
+Curious about new technologies and excited to find ways to implement them
+Open minded and collaborative attitude
+Strong command of English (both written and spoken)
+Nice-to-have
+Have experience with back end technologies / frameworks, such as node.js or Java and Spring Boot, Have good experience with Cloud service implementations, devops tools (Docker, Kubernetes)
+What we offer
+Cafeteria - Budget for benefits based on your choice
+Refer-a-Friend - get a bonus in the employee referral program
+Flexible working arrangements (Flex-work, Home Office)
+Wide range of leading-edge trainings (including language courses)
+AYCM card
+Family oriented benefits
+Competitive compensation package, paid overtime and insurance
+Company info
+We work with one shared purpose: to deliver on the promise of technology and human ingenuity. Every day, more than 775,000 of us help our stakeholders continuously reinvent. Together, we drive positive change and deliver value to our clients, partners, shareholders, communities, and each other.
+We believe that delivering value requires innovation, and innovation thrives in an inclusive and diverse environment. We actively foster a workplace free from bias, where everyone feels a sense of belonging and is respected and empowered to do their best work.
+At Accenture, we see well-being holistically, supporting our people’s physical, mental, and financial health. We also provide opportunities to keep skills relevant through certifications, learning, and diverse work experiences. We’re proud to be consistently recognized as one of the World’s Best Workplaces™.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

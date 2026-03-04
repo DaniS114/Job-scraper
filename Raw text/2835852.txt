@@ -1,0 +1,92 @@
+Cég neve
+ParshipMeet Group
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+CLOUD
+ANALYTICS
+ACCESS
+SECURITY
+DOCKER
+MONGODB
+POSTGRESQL
+GDPR
+CI
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+CLOUD
+ANALYTICS
+ACCESS
+SECURITY
+DOCKER
+MONGODB
+POSTGRESQL
+GDPR
+CI
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Keep data moving: Build, run, and refine data pipelines and workflows (Python, Airflow/Cloud Composer) so they're reliable, fast, and easy to change
+Shape our data models: Use BigQueryand Cloud Spanner to design wellstructured, highperformance datasets for analytics and machinelearning use cases
+Privacy by design: Apply leastprivilege access, encryption, audit logging, and dataquality checks to meet GDPR/CCPA.
+Make things observable: Create clear dashboards and alerts, take part in an international oncall rotation, and run calm, constructive postmortems.
+Requirements
+Several years of experience as a Data Engineer (all genders) working with productiongrade, distributed data systems
+Handson GCP experience: BigQuery, Cloud Storage, Airflow/Cloud Composer, and identity & access management
+Strong Python (tested, readable code), experience with Athena and advanced SQLskills
+A careful approach to data security and privacy, especially with personal data
+A practical mindset, clear communication, and a strong sense of ownership
+Comfortable working asynchronously with colleagues from the US Eastcoast
+Excellent English skills to contribute within an international company
+Preferred Qualifications
+CI/CD for data (e.g., GitLab CI or Cloud Build),Terraform, and Docker
+Experience with dbt or a similar transformation framework
+Data catalog/lineage tools (DataHub, Collibra,BigQueryData Catalog)
+Streaming data ingestion (Pub/Sub, Dataflow, Kafka) or realtime feature stores
+Experience withTableau,MongoDB,PostgreSQL, and costefficient query tuning onBigQuery
+What we offer
+Flexible working style
+Part-time opportunities
+Central office
+Subsidized transportation
+Training & Development plans
+Food and soft drinks
+Health benefits
+Retirement plans
+Shopping discounts
+Volunteer opportunities
+Legendary parties
+Team Building Events
+At ParshipMeet, we help millions of people around the globe meet, date, and fall in love. We want our teams to be as diverse as our customer base. Constantly adding new perspectives is key to our success. We will never judge anyone by age, sex, family background, color of skin, religious beliefs nor sexual orientation. For us, it's all about skills, competencies, and you as a human being!
+Company info
+With revenues of more than 375 million Euros and nine apps, ParshipMeet Group is one of the three leading international Dating and Video companies. Our more than 500 employees help users all over the world to meet others – whether it's like-minded people, an exciting date, or love for life. True to the motto: Meet – Date – Fall in Love.
+We're looking for a Senior Data Engineer (all genders) to own, improve, and scale our data platform on Google Cloud. Your work keeps data flowing for BI, analytics, and product features. You'll make sensible architecture choices, set good engineering practices, patiently mentor juniors, and help others do their best work.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

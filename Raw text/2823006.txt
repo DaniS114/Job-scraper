@@ -1,0 +1,59 @@
+Cég neve
+High Tech Engineering Center Kft.
+Munkavégzés helye
+1052, Budapest, Szervita tér 8.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Build and maintain simulation environments using NVIDIA Omniverse and Isaac Sim for robotic perception, manipulation, and navigation.
+Develop and integrate robotic behaviors and learning pipelines using Isaac Lab for reinforcement learning and motion planning.
+Create and manage OpenUSD-based digital twins and simulation assets.
+Collaborate with cross-functional teams to validate robotic algorithms in simulated environments.
+Optimize simulation performance for large-scale training and testing, including cloud-based deployments.
+Contribute to the development of custom Omniverse extensions and simulation tools.
+Requirements
+Bachelor’s or Master’s degree in Robotics, Computer Science, Mechanical Engineering, or a related field.
+Hands-on experience with NVIDIA Omniverse, Isaac Sim, and Isaac Lab.
+Proficiency in Python and C++.
+Solid understanding of robotic systems, including kinematics, dynamics, and control.
+Experience in creating digital twins and simulation.
+Experience with ROS2
+Familiarity with simulation-based testing and validation of robotic algorithms.
+Nice-to-have
+Experience with OpenUSD (Universal Scene Description) and Omniverse extension development., Hands on experience with industrial robots [Universal Robots / KUKA / Denso / others...], Background in reinforcement learning or machine learning for robotics. Example libraries Pytorch / TensorFlow / Keras etc., Experience with CI/CD pipelines and simulation automation., Familiarity with cloud platforms (e.g., AWS, Azure) for distributed simulation.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Manufacturing,
+Production
+Automatization
+Budapest
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,113 @@
+Cég neve
+Supercharge Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+DOCKER
+SQL
+DATABASES
+ACCESS
+CLOUD
+AWS
+DEVOPS
+WINDOWS
+POSTGRESQL
+NODEJS
+POWERSHELL
+VPN
+TROUBLESHOOTING
+DEBUGGING
+CISCO
+Biztosított eszközök
+Windows
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+DOCKER
+SQL
+DATABASES
+ACCESS
+CLOUD
+AWS
+DEVOPS
+WINDOWS
+POSTGRESQL
+NODEJS
+POWERSHELL
+VPN
+TROUBLESHOOTING
+DEBUGGING
+CISCO
+Windows
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Solving real production issues on an AI clinical toolset – configuration problems, connectivity issues, and system failures that need immediate resolution
+Developing new features and internal tooling to improve the platform and reduce future issues
+Building and maintaining RESTful APIs and backend services using NodeJS
+Troubleshooting Windows environment issues – dental practices run on Windows, and you'll need to understand this ecosystem deeply
+Working with infrastructure built on AWS, Google Cloud, OpenAI and resolving Tailscale networking issues
+Participating in code reviews and maintaining high code quality standards
+Collaborating directly with US-based stakeholders, including customer success and operations teams
+Writing clean, maintainable code that integrates with CI/CD pipelines
+Bringing an architectural perspective to planning and design discussions
+Requirements
+3+ years of hands-on experience with NodeJS building backend applications, microservices, and RESTful APIs
+Strong experience working in Windows-based environments, including services, permissions, deployments, and PowerShell scripting
+DevOps mindset with hands-on experience using AWS (EC2, RDS, S3, CloudWatch) and Docker
+Experience with SQL databases (PostgreSQL preferred) and ORMs such as Prisma
+Familiarity with modern backend frameworks and tooling (NestJS, Jest or similar)
+Experience with networking and VPN solutions (Tailscale or Cisco is a strong plus) and general infrastructure debugging
+Strong problem-solving mindset and ability to get to the root cause of complex issues
+Excellent English communication skills, as you'll also be working directly with the US-based founder CEO, and customer success team
+Ability to work independently during US business hours, with a high level of ownership and accountability
+What we offer
+Exciting international projects
+Access to inspiring conferences, in-house soft skill trainings, and online courses
+Support for English classes
+Clear learning path with skill matrix
+Health coverage with Medicare
+Life1 gym access
+Extra sick days
+Fully paid month off after five years
+Extra paternity leave
+Employee Assistance Program
+Friendly team of 200+ people
+Summercharge festival, football match, quiz night, and social events
+Buddy system for onboarding
+Dog-friendly office in the heart of Budapest
+Good coffee and tasty snacks including Túró Rudi
+Yearly personal budget
+Company library
+Company info
+Our vision is simple yet powerful: we want to create a place where engineers thrive, taking on exciting projects and using the latest technologies, free from the shackles of legacy solutions.
+Thanks to the diverse range of industries we work with, our days are never boring: from world-class apps to AR solutions or even programming robots, we’ve got it all covered. We don’t just write code for our screens; rather, we develop impactful products used by millions every day: let them be large-scale public transport applications, leading fintech platforms, or storage solutions contributing to a greener future.
+We are a team of 100+ engineers (Java, JavaScript, Android, iOS, NodeJS and dotnet platforms) and QA engineers with our coding fingers at the ready working on the next big thing. We value openness, modesty, hard work, and simple yet great solutions.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

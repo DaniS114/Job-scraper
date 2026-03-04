@@ -1,0 +1,88 @@
+Cég neve
+Tech People Hungary Kft.
+Munkavégzés helye
+Ausztria
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Vállalkozói
+Általános munkarend
+Elvárt technológiák
+JAVA
+DOCKER
+API
+SELENIUM
+JMETER
+TESTING
+HTML
+JENKINS
+JIRA
+TEST AUTOMATION
+REST
+ANDROID
+SECURITY
+CONFLUENCE
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Vállalkozói
+Általános
+munkarend
+JAVA
+DOCKER
+API
+SELENIUM
+JMETER
+TESTING
+HTML
+JENKINS
+JIRA
+TEST
+AUTOMATION
+REST
+ANDROID
+SECURITY
+CONFLUENCE
+Angol
+középfok
+1-3
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Responsibilities
+Standard Requirements for Test Automation
+API testing (REST Assured)
+ALM tools (Jira and Confluence)
+Test automation (Java, TestNG, Selenium, Appium)
+Load and performance testing (JMeter)
+Jenkins
+Medior:
+at least 6 years of professional experience in the IT industry within the last 8 years, including at least 4 years of practical testing experience in automation and practical experience in the programming languages Java and HTML
+Senior:
+at least 8 years of professional experience in the IT industry within the last 10 years, including at least 6 years of practical testing experience in automation and practical experience in the programming languages Java and HTML
+German language level at least B2
+Working location in the EU.
+Requirements
+Cryptography (protocols and standards such as AES, RSA, TLS)
+Mobile client attestation (Android DVS, SafetyNet or Play Integrity API, Apple Device Attestation, Secure Enclave, Warden Supreme)
+Security and identity management
+Container technologies (Docker, Kubernetes, or other container technologies)
+What we offer
+The work would initially be in Vienna (1-2 days/week), then later it can be done full remote
+Company info
+Tech People is a European provider of technical skills permanent recruitment and temporary contracting services for multiple industries.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Tester,
+Test Engineer
+Austria
+Álláshirdetés jelentése

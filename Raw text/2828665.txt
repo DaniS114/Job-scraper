@@ -1,0 +1,71 @@
+Cég neve
+Ivy Technology AMS Hungary Kft.
+Munkavégzés helye
+9700 Szombathely, Vásártér utca 1.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Angol
+középfok
+3-5
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Responsibilities
+Responsible to maintain the corporate’s applications availability and uptime. Goal: 99.95% uptime
+Immediately reacts when there is an unwanted performance degradation occurring.
+Maintains production and non-production application Weblogic servers configuration.
+Frequently monitors related Freshservice tickets, both service requests as well as incidents.
+Plans, coordinates monthly planned downtimes for non-production and production environment.
+Takes significant part in the Ivy housekeeping system's development
+Duties:
+Development cycle of applications:
+Communicates with the other application developer(s)
+Participates in the testing with SMEs and implementation
+Gives detailed feedback to the other developer(s)
+Planned production and non-production maintenance
+Maintains downtime schedule at Ivyweb page
+Coordinates downtimes with application owners and infrastucture team
+Daily performance monitoring of all releveant application
+Analyze and act based on JMX monitoring tool warnings
+Analyze and act based on SolarWinds or other Corporate monitoring tool warnings
+Ivy housekeeping system development related tasks
+Debugs and analyses source code related bugs using the application logs, prepares detailed analysis for the senion Java developer
+Analyses, applies updates on existing user exits and java triggers
+Enhances and automates the current regression testing practices using recent technologies
+Requirements
+Max up to 5 years experience
+Required qualification, ability, practice, experience
+Higher education (university or college degree, higher vocational education) IT degree
+Java programming language knowledge
+Oracle PL/SQL skills
+Good command of English both written and verbal
+Systems approach, analytical thinking
+Good communication skills
+You are advanced if
+Experience with Corporate ERP systems
+Oracle Weblogic application server administration knowledge
+Project management experience
+How to apply
+Apply via "Jelentkezem" button underneath!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+IT
+tanácsadó, Elemző, Auditor
+Szombathely
+Álláshirdetés jelentése

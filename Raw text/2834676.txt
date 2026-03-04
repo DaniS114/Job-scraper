@@ -1,0 +1,86 @@
+Cég neve
+Tech People Hungary Kft.
+Munkavégzés helye
+Budapest, XI. kerület
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Vállalkozói
+Általános munkarend
+Elvárt technológiák
+AWS
+Microservices Architecture
+Confluent Kafka
+Spring Security
+Spring Boot
+Java
+JMeter
+GitHub
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Vállalkozói
+Általános
+munkarend
+AWS
+Microservices
+Architecture
+Confluent
+Kafka
+Spring
+Security
+Spring
+Boot
+Java
+JMeter
+GitHub
+Angol
+középfok
+5-10
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Responsibilities
+Design, develop, and maintain scalable Java/Spring Boot microservices with secure access using Spring Security.
+Build and operate event-driven systems with Confluent Kafka, ensuring high availability and performance.
+Implement CI/CD pipelines and automation using GitHub Actions, Jenkins, and shell scripting, and deploy solutions on AWS.
+Ensure quality and reliability through automated testing (Mockito), performance testing (Gatling, JMeter), and production monitoring (New Relic, Grafana), working with PostgreSQL and MongoDB.
+Requirements
+Java, 10+years of experience
+Spring Boot,
+Spring Security
+6.5+ years of experience,
+Microservices Architecture,
+Confluent Kafka,
+GitHub Actions,
+Jenkins,
+Shell Scripting,
+Mockito, Gatling,
+JMeter, New Relic,
+Grafana,
+PostgreSQL,
+MongoDB,
+AWS
+Confident English
+Candidate needs to be currently eligible to work in Hungary.
+What we offer
+hybrid work, 2 days in office
+competitive salary
+Company info
+Tech People is a European provider of technical skills permanent recruitment and temporary contracting services for multiple industries.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Budapest
+Álláshirdetés jelentése

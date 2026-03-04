@@ -1,0 +1,62 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON.
+LINUX.
+CI
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON.
+LINUX.
+CI
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Define and develop system-level tests for high-end embedded computing systems.
+Automate test execution and evaluation through scripting in a CI environment.
+Increase test coverage by extending functional examples into comprehensive test suites.
+Drive the resolution of issues in close cooperation with the development teams.
+Requirements
+Ability to define SW test strategy for high-end computing systems.
+Experience in test implementation and automation in Python.
+Proficient use of shell scripting under Linux.
+Nice-to-have
+Curiosity about embedded systems, device-drivers and HW-oriented programming., Knowledge of the boot flow and internals of Linux., Familiarity with the Arm processor architectures., Engagement with the open source community.
+What we offer
+Our 10x mindset guides how we engineer, collaborate, and grow.
+Accommodations during the recruitment process.
+Hybrid working environment supporting high performance and personal wellbeing.
+Equal opportunity employer committed to diversity and inclusion.
+Company info
+Arm is building the foundations for the future of AI. Our technology is enabling the transformation of every major market - from the largest datacenters to the smallest personal devices. Our teams are already working on the systems of the future, and we know the importance of testing, so we start early.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

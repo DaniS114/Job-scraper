@@ -1,0 +1,77 @@
+Cég neve
+European XFEL GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design of Beckhoff PLC programs (TwinCAT3) based on project specifications and documentation
+Design of safety programs (TwinSAFE)
+Support the development of standardized code blocks
+Test and commissioning of the PLC systems in the field
+Investigate and solve technical issues in the field
+Maintain, support and further develop installed systems
+Participation in risk assessment reviews and development of safety requirement specifications
+Analysis of technical requirements and specifications for developing automation solutions
+Close communication with other groups
+Requirements
+Academic degree in the field of electrical or electronics engineering/​industrial automation or comparable education
+Experience in PLC programming in structured text (IEC 61131-3) language
+Experience with safety systems integrated into PLCs, EU Machine Regulation and EN ISO 13849
+Experience with electric drives and motion systems (e.g. stepper, linear, nano motion, etc.)
+Knowledge of different industrial communication protocols such as EtherCAT, Modbus, serial interfaces, etc.
+Experience with versioning, bug tracking and deploying tools (e.g. GIT, Redmine)
+Experience with SCADA/HMI systems for integration with PLCs
+Experience with TwinSAFE (TwinCAT Safety) is considered an asset
+Experience with NC PTP Beckhoff libraries and TwinCAT 3.1 is considered an asset
+Knowledge of different programming languages such as Python or C# is considered an asset; interest in learning new ones
+Highly developed problem-solving skills
+Good communication skills and the ability to work in a multilingual, multidisciplinary team with English as the working language
+What we offer
+Become part of a vibrant international and multicultural team of scientists, engineers, technical and administrative staff. Be involved in cutting edge scientific and technical progress and participate in our international networks. Experience our atmosphere of tolerance and respect.
+Salary and benefits are similar to those of public service organizations in Germany, this includes for example:
+family-friendly working environment (e.g. additional childcare days)
+flexible working times and option for work from home depending on tasks
+30 days of vacation, 24th and 31st of December are free as a courtesy of the employer
+extensive relocation benefits
+generous company pension scheme (6,45% of monthly salary)
+monthly social events and subsidized company restaurant
+partially financed job-tickets for public transportation
+extensive training opportunities incl. subsidized English and German language classes
+easy and free access to a mental health platform to support your well‑being
+Our company language is English.
+Reference number: E-408
+Duration:
+This position is initially limited to 3 years, with the option of extension by 1 year based on later decision.
+Company info
+European XFEL is an international non-profit company located in the Hamburg area in Germany. It operates a 3.4 km-long X-ray laser, which produces X-rays of unique quality for studies in physics, chemistry, the life sciences, materials research and other disciplines. The diverse scientific facilities at European XFEL enable scientists from across the globe to carry out a wide range of experimental techniques.
+For our Electronic and Electrical Engineering group, we are looking for a
+PLC Development and Support Engineer (f/m/d)
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Engineer
+Mechatronics
+Engineer
+Germany
+Álláshirdetés jelentése

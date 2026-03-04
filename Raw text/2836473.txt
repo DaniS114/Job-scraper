@@ -1,0 +1,92 @@
+Cég neve
+Dentalprices Kft.
+Munkavégzés helye
+Távmunka / Remote
+Fizetés
+Nettó
+2 000 - 3 000 Euro havi bér
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Kisgyermekeseknek
+Általános munkarend
+Elvárt technológiák
+NODE.JS
+PYTHON
+PANDAS
+GIT
+AWS
+POSTGRESQL
+SQL
+DOCKER
+MACHINE LEARNING
+TYPESCRIPT
+Elvárások
+Angol felsőfok
+5-10 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Kisgyermekeseknek
+Általános
+munkarend
+NODE.JS
+PYTHON
+PANDAS
+GIT
+AWS
+POSTGRESQL
+SQL
+DOCKER
+MACHINE
+LEARNING
+TYPESCRIPT
+Angol
+felsőfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+We are seeking a Senior/Mid Level Full Stake Developer who also has experience in AI development to speed up dentalprices’s global expansion.
+Requirements
+Hungarian citizenship + tax number
+Minimum 5+ years of professional experience in software development with TypeScript and Node.js
+Strong knowledge of Python (Pandas, NumPy, Scikit-learn, or PyTorch/TensorFlow).
+Build and maintain AI-powered features, applications, and APIs
+Integrate machine learning models (NLP, computer vision, recommendation, etc.) into production systems
+•⁠ ⁠Collaborate with product teams to deliver end-to-end AI solutions
+•⁠ ⁠Proficiency in using AI tools like N8N, ChatGPT etc.
+•⁠ ⁠Proficiency in Git with experience in branching strategies, version control best practices, and CI/CD pipelines using GitHub Actions—particularly for automating deployments to AWS ECS services
+•⁠ ⁠Solid practical experience with AWS, including working knowledge of ECS, EC2, and RDS
+•⁠ ⁠Experience working with Redis and PostgreSQL, with a solid understanding of SQL and ORM tools (e.g., Prisma, TypeORM); familiarity with Knex.js is a strong plus
+•⁠ ⁠Hands-on experience with Docker in containerized development and deployment workflows
+•⁠ ⁠Preferably has experience in a start-up environment
+•⁠ ⁠Analytical mindset with a positive and proactive attitude
+•⁠ ⁠Strong communication skills and the ability to collaborate effectively within a remote team
+•⁠ ⁠Fluent in English
+What we offer
+Fully remote work environment
+Work in a fast-growing global HealthTech product
+Meaningful role in a key European market
+Stock option rights in a promising near future exit
+Company info
+dentalPrices is a fast-growing healthtech startup building the global infrastructure for dental price transparency, booking, and payments. We help patients discover the right clinic, book appointments seamlessly, and access installment payment options — making dentistry more accessible worldwide.
+Operating across Europe and expanding globally, we combine marketplace dynamics, fintech (BNPL & payment solutions), and AI-driven workflows to transform how patients and clinics connect.
+We are building a scalable, borderless platform designed for rapid international growth — and we’re just getting started.
+How to apply
+All CV's must be in English
+Jelentkezés profillal
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Álláshirdetés jelentése

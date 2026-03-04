@@ -1,0 +1,74 @@
+Cég neve
+NEW YORKER
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+PYTHON
+SQL
+PANDAS
+SPARK
+MACHINE LEARNING
+Elvárások
+Angol felsőfok és
+Német felsőfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+PYTHON
+SQL
+PANDAS
+SPARK
+MACHINE
+LEARNING
+Angol
+felsőfok és Német felsőfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Combine curiosity, fast understanding of business processes, and strong analytical skills to identify and implement impactful Data Science solutions
+Lead end-to-end development and operationalization of Machine Learning models within a team of experienced Data Scientists and Data Engineers
+Actively manage stakeholders by translating business requirements into technical specifications and regularly presenting results
+Write high-quality, maintainable code and mentor junior team members through code reviews and pair-programming
+Continuously improve our internal tooling, shared libraries, and development practices
+Apply industry best practices, including solid testing, documentation, and ensuring full reproducibility of work
+Requirements
+University degree in a relevant field, e.g. computer science, statistics or physics with 3+ years of experience working as a Data Scientist
+Strong software engineering skills (Python, SQL, CI/CD, testing, version control)
+Extensive experience in the use of open-source data libraries like scikit-learn, pytorch, pyspark, jupyter, pandas and airflow
+Experience with Spark, Hadoop or SQL as well as the application of modern software development methods
+Experience deploying ML models to production
+Excellent communication skills and stakeholder management
+Passion for mentoring and raising the bar for the team
+Good spoken and written German, fluent English is a must-have
+What we offer
+A secure, permanent job in an internationally operating company in a future-proof industry that is characterized by growth
+Participation in shaping the digital transformation in an innovative company
+Permanent employment contract with 30 days of vacation, an attractive salary and further training opportunities/career model
+A structured onboarding and mentoring program in a great team with international colleagues, a “Duz Kultur” and open doors
+Numerous benefits, such as a 30% staff discount at our NEW YORKER stores, company and team events, and canteens with a diverse food selection
+Company info
+The Data Science department uses statistical modeling, machine learning and optimization techniques to continuously improve business processes at NEW YORKER. We work in agile project teams on a variety of use cases, including order optimization, pricing, distribution and logistics. We are a very ambitious and international team and are proud of our high standards.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

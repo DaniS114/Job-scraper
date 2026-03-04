@@ -1,0 +1,90 @@
+Cég neve
+Deutsches Krebsforschungszentrum DKFZ
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+GIT
+PYTHON
+C++
+PROJECT MANAGEMENT
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+GIT
+PYTHON
+C++
+PROJECT
+MANAGEMENT
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+You will work at the interface of MIC's medical image computing research and HIFIS' Helmholtz-wide research software consulting services. Your work will involve state-of-the-art software engineering in AI research and application as well as consulting activities, allowing you to apply best practices learned in consultation to ongoing research projects and vice versa. In detail, this includes:
+Support planning, coordination, and reporting of software development tasks; contribute to publication and presentation of project results
+Contribute to the C++/Python development of state-of-the-art methodologies, concepts, and software components for in-house developments like the Medical Imaging Interaction Toolkit (MITK, mitk.org)
+Work with diverse medical data modalities, including radiological images, and clinical data, as well as AI-derived models
+Provide consultation to research groups across Helmholtz on software engineering practices, including project setup, architecture, testing, continuous integration and delivery, and sustainable software development workflows
+Advise on open-source licensing, governance, community building, and publication of research software, including use of Helmholtz and HIFIS tooling (e.g., Helmholtz Codebase, Research Software Directory)
+Collaborate with researchers to analyze requirements, design suitable software and data workflows, and support the implementation of modern, needs-oriented software engineering strategies
+Contribute to the development and improvement of Helmholtz-wide research software consulting services, including processes, outcome tracking, guidelines, training materials, and best practices
+Participate in national and international consortia and networks related to research software engineering and represent our work in working groups, workshops, and conferences
+Support education and training activities in research software engineering (courses, workshops, consulting clinics)
+Requirements
+Required qualifications:
+Master's degree in computer science, scientific computing, medical informatics, physics, mathematics, engineering, or a related discipline; or equivalent professional experience in software engineering
+Solid experience in modern, sustainable software engineering, including version control (e.g., Git), continuous integration and delivery, automated testing, container technologies, and build tools
+Strong professional experience in at least one relevant programming language (modern C++ or Python), combined with the ability and motivation to acquire new technologies as needed
+Strong communication and teamwork skills, with the ability to explain complex technical concepts to diverse stakeholders and work effectively in distributed interdisciplinary teams
+Very good command of English in speech and writing; German language skills are an advantage or willingness to acquire them
+Desirable qualifications:
+Experience in consulting, mentoring, requirements analysis, or project management in software development projects
+Interest and experience in research software engineering, open source, and scientific workflows
+Familiarity with the Helmholtz environment or comparable research institutions
+Demonstrated interest in the intersection of AI, medical informatics, and research software sustainability
+What we offer
+Excellent framework conditions: state-of-the-art equipment and oppor­tunities for inter­national networking at the highest level
+30 days of vacation per year
+Flexible working hours
+Remuneration according to TV-L incl. occupational pension plan and capital-forming payments
+Possibility of mobile work and part-time work
+Family-friendly working environ­ment
+Sustainable travel to work: subsidized Germany job ticket
+Unleash your full potential: targeted offers for your personal develop­ment promote your talents
+Our Corporate Health Manage­ment Program offers a holistic approach to your well-being
+Company info
+The German Cancer Research Center (DKFZ) is one of Europe's largest cancer research centers. “Research for a life without cancer" is the mission of our world-class scientists and all our team members.
+We investigate how cancer develops, identify cancer risk factors and search for new cancer prevention strategies. We develop new methods with which tumors can be diagnosed more precisely and cancer patients can be treated more successfully. Every contribution counts – whether in research, administration or infrastructure. This is what makes our daily work so meaningful and exciting.
+The Division of
+Medical Image Computing (MIC)
+is a leading research group pioneering advancements in machine learning and information processing to improve cancer patient care through systematic image data analytics.
+Within DKFZ, MIC and other divisions collaborate closely with the Helmholtz Federated IT Services (HIFIS), an established Helmholtz platform that provides cloud-based IT services, collaboration tools, and dedicated consulting for sustainable research software engineering across all Helmholtz centers and their partners.
+To strengthen our interdisciplinary team in HIFIS Research Software Engineering consulting activities, we are seeking for the next possible date a highly motivated
+Research Software Engineer / HIFIS Consultant
+Reference number: 2026-0017
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

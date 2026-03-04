@@ -1,0 +1,92 @@
+Cég neve
+Vaillant GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ACCESS
+SECURITY
+ISO
+TESTING
+API
+JSON
+EXCEL
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ACCESS
+SECURITY
+ISO
+TESTING
+API
+JSON
+EXCEL
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+You will align and drive application security across group IT–managed and internally developed applications, collaborating closely with interdisciplinary development teams to ensure a secure end‑to‑end lifecycle
+Your responsibilities will include managing regulatory compliance activities for NIS2, the Cyber Resilience Act and ISO / IEC 27001, enabling our organisation to meet high standards of cyber resilience with confidence
+By creating technical concepts and solution designs, you establish robust application security architecture practices, including secure software development lifecycles, static and dynamic application security testing and software composition analysis
+After analysing and evaluating business requirements, you take decisions and conduct security assessments with a special focus on Identity and access management, ensuring secure role‑based access control, multi‑factor authentication, identity federation and privileged access management
+Together with group IT teams, you define and implement API and service security standards, leveraging OAuth 2.0, OpenID Connect, JSON Web Tokens and mutual transport layer security to protect critical interfaces
+Your responsibilities will include contributing to vulnerability and patch management processes, threat modelling (STRIDE) and risk assessments (MITRE ATT&CK), shaping an environment that continuously evolves to counter emerging risks
+Requirements
+Qualification
+: You have a degree in business administration, computer science, or a comparable qualification
+Experience
+: You bring practical experience in application security architecture (secure SDLC, SAST, DAST, SCA), identity and access management and regulatory compliance (NIS2, CRA, ISO/IEC 27001 Annex A), enabling you to contribute effectively from day one
+Know-how and skills
+: You demonstrate strong know-how in API and service security (OAuth2, OpenID Connect, JWT, mTLS) and apply Secure by Design principles when guiding teams and shaping technical solutions
+Nice to have
+: You ideally bring additional knowledge in threat modelling (STRIDE), MITRE ATT&CK, secure CI/CD integration (pipeline hardening, automated code scanning) or vulnerability and patch management processes
+Personality
+: You are characterized by analytical thinking, a collaborative and structured work style and the ability to explain complex topics in an empowering and approachable way.
+Language skills
+: You speak fluent English and feel comfortable in an international environment; German language skills are an advantage.
+What we offer
+Hybrid work
+: We offer our employees the opportunity to work on a hybrid basis. There is also the option to temporarily work from a country within the European Union
+Salary
+: We offer an attractive remuneration package in accordance with the NRW IG Metall collective wage agreement, including vacation pay and Christmas bonus
+Onboarding
+: Our clearly structured onboarding process, including an onboarding app, enables us to integrate new employees into Vaillant Group quickly and in a targeted manner
+Health management:
+We offer comprehensive preventive health counseling and measures
+Individual development:
+Our development programs GROW, EVOLVE, LEAD and EXCEL prepare you for the next step in your career
+Company info
+Group IT Security Consultant (m/f/d)
+Company:
+Vaillant GmbH |
+Location:
+Remscheid near Düsseldorf |
+Country:
+Germany
+We take care of a better climate. In every home and our environment. As a successful family business, we have been living up to this claim for over 150 years. We are one of the world's leading providers of heat pumps, digital services and efficient gas heating appliances and offer energy-saving solutions.
+You will find sustainability everywhere at the Vaillant Group. In the office, at the production sites and on the road. Around 16,000 employees from over 70 countries are committed to this every day. As an international team, we take responsibility – for our future and that of our planet. We promote your personal development so that you can act with passion and together we can ensure a better climate.
+Become part of the Vaillant Group and help us shape the future of heating!
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Germany
+Álláshirdetés jelentése

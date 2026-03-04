@@ -1,0 +1,80 @@
+Cég neve
+Puppetworks Budapest Produkciós Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Részmunkaidő
+Általános munkarend
+Elvárt technológiák
+SQL
+PYTHON
+SECURITY
+C++
+JAVA
+C
+GIT
+MVC
+WINDOWS
+LINUX
+AGILE
+Biztosított eszközök
+Windows
+Linux
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Részmunkaidő
+Általános
+munkarend
+SQL
+PYTHON
+SECURITY
+C++
+JAVA
+C
+GIT
+MVC
+WINDOWS
+LINUX
+AGILE
+Windows
+Linux
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Writing reusable, testable, and efficient code, mainly in Python
+Delivering great user experience by the development of great user interfaces
+Handling security and data protection professionally and precisely
+Collaboratively working to provide technical solutions and implement new software features
+Requirements
+Studies towards BA or MA degree in computer science and/or a related field
+Knowledge of Python, or expertise in C++, Java or C#
+Knowledge of object-oriented approach and program design patterns
+Knowledge of SQL
+Good understanding of the ORM (Object Relational Mapper) approach
+Experience in using open-source tools
+Interest in computer graphics
+Be able to deliver on schedule, and work calmly and efficiently under pressure
+Good working knowledge of written and spoken English
+Be able to perform at least 20 work hours per week (flexible work hours)
+Nice-to-have
+Knowledge and experience of SQLAlchemy/Django frameworks, Knowledge of Qt Graphic Framework, Agile software development methods, DVCS tools (Git, Mercurial), Experience in MVC desktop GUI development, multi-threaded programs development, cross-platform development (Windows, OSX, Linux), Good working knowledge of written and spoken Hungarian
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

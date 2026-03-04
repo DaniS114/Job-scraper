@@ -1,0 +1,65 @@
+Cég neve
+Rohde & Schwarz GmbH & Co. KG
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+AGILE
+PYTHON
+C++
+XML
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+AGILE
+PYTHON
+C++
+XML
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+- Support the development of internal tools, simulations, and components for SIGINT software
+- Assist in evaluating new technologies and create prototypes
+- Support the maintenance and automation of our testing systems
+- Collaborate within an agile development team
+Requirements
+- Enrolled student in Computer Science or a related field
+- You have demonstrated first experience in software development
+- Proficiency in Python, C++ experience is a plus
+- Experience with Qt, RabbitMQ, XML, Protocol Buffers, Wireshark, SCPI or ZeroMQ is a plus
+- Interest in RF and radio communications
+- Strong teamwork and self-organization skills
+- Good English language skills; German is beneficial
+What we offer
+You can expect very good payment, excellent terms and outstanding opportunities for growth and development.
+Company info
+At Rohde & Schwarz, we develop and produce solutions in the fields of Test & Measurement, Technology Systems, and Networks & Cybersecurity – driven by the vision of a safer and connected world. From software to final production, our more than 15,000 employees create products and systems that set global standards and enable technological sovereignty for industrial, regulatory, and government customers worldwide.
+Our headquarters, located in the heart of Munich, also serves as our main development site.
+Join our Software Development Division in München (Germany) at the earliest possible date.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,89 @@
+Cég neve
+Bosch Gruppe
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+PYTHON
+GIT
+DOCKER
+REST
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+PYTHON
+GIT
+DOCKER
+REST
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Is the digital world your domain, and is defending against complex cyber threats your mission? Then join us as our next Cyber Threat Intelligence Analyst and play an active role in shaping the security architecture of a global corporation. Here, you will not only protect systems, but also shape the future of digital resilience and provide crucial insights for strategic decisions.
+Your task will be to identify, analyze, and track threat actor TTPs and IOCs using prioritization frameworks and continuous monitoring of the threat landscape.
+Complex threat data will be investigated by you to provide situational awareness, quantify trends, support ongoing investigations, and enhance detection and response capabilities.
+Part of your responsibility is to conduct in-depth technical analysis (searching, pivoting, enrichment) in support of Threat Hunting and to identify potential intrusions in Bosch networks and systems.
+Close collaboration with cross-functional teams such as Incident Response and Detection Engineering ensures that intelligence is integrated into detection and response workflows, and that stakeholders are briefed on emerging campaigns or incidents.
+Another key responsibility is producing and delivering high-quality intelligence reports, briefings, and presentations tailored to technical, business, and executive stakeholders.
+Continuous development and improvement of internal tools for threat analysis and monitoring (using Python, REST APIs, Git, Docker) will also form part of your role.
+Requirements
+Education:
+completed university studies in Cybersecurity or a comparable subject
+Experience and Knowledge:
+several years of professional experience in a Cybersecurity Operation Center as an Incident Responder, Threat Hunter, or Cyber Threat Intelligence Analyst; profound knowledge in identifying and assessing threats in cyberspace; confident application of attacker behavior for impact analysis; experience working with international teams
+Qualifications:
+SANS certifications (for example, GCTI) or equivalent qualifications
+Personality and Working Practice:
+you enjoy working collaboratively and constructively in a team, take responsibility for your results, and approach tasks with analytical precision; you find it easy to familiarize yourself with new topics and consistently strive for improvement and innovation; you take responsibility for overall success, set clear priorities and use resources effectively; set common goals above individual interests and have a positive effect on your environment; you use challenges as an opportunity for further development and shapes sustainable learning
+Enthusiasm:
+you are passionate about technical challenges, drive innovation forward, and constantly strive for improvement in cybersecurity.
+Languages:
+very good communication skills in written and spoken English and German
+What we offer
+Work-Life-Balance
+: Flexibles Arbeiten hinsichtlich Zeit, Ort und Arbeitsmodell.
+Gesundheit und Sport
+: Breites Angebot an Gesundheits- und Sportaktivitaeten.
+Kinderbetreuung
+: Vermittlungsservice fuer Kinderbetreuungsangebote.
+Mitarbeiterrabatte
+: Verguenstigungen fuer Mitarbeiter.
+Freiraum fuer Kreativitaet
+: Freiraeume fuer kreatives Arbeiten.
+Betriebliche Sozialberatung und Pflege
+: Sozialberatung und Vermittlungsservice fuer Pflegedienstleistungen.
+Die zukuenftige Personalabteilung oder der Fachbereich informiert gerne ueber den individuellen Leistungskatalog.
+Company info
+Möchten Sie Ihre Ideen in nutzbringende und sinnvolle Technologien verwandeln? Ob im Bereich Mobility Solutions, Consumer Goods, Industrial Technology oder Energy and Building Technology - mit uns verbessern Sie die Lebensqualität der Menschen auf der ganzen Welt. Willkommen bei Bosch.
+Die
+Robert Bosch GmbH
+freut sich auf Ihre Bewerbung!
+Anstellungsart: Unbefristet
+Arbeitszeit: Vollzeit
+Arbeitsort: Stuttgart
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Germany
+Álláshirdetés jelentése

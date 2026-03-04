@@ -1,0 +1,77 @@
+Cég neve
+HumanField Kft
+Munkavégzés helye
+Hibrid
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Szakmai tréningek
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+API
+AWS
+DATABASE
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Cafeteria
+Szakmai
+tréningek
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+API
+AWS
+DATABASE
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+IT-megoldásokra specializálódott fintech partnerünk részére keresünk munkatársat
+Feladatok
+Robusztus, skálázható és könnyen karbantartható megoldások tervezése és implementálása SaaS környezetekben,
+Intelligens, kontextusérzékeny alkalmazások fejlesztése modern keretrendszerek és vektoralapú adatbázisok alkalmazásával,
+Prompt engineering és nagy nyelvi modellek finomhangolása a hatékony és pontos működés érdekében,
+AI-alapú chatbotok és asszisztensek fejlesztése Python és OpenAI API-k segítségével,
+RAG rendszerek tervezése és implementálása,
+Főbb technológiák:
+LLM API-k: Claude, OpenAI, AWS Bedrock; Agent Frameworks: Claude Agent SDK, OpenAI Codex SDK, pydantic-ai; adatbázisok: Neo4j graph database; fejlesztési környezet: Python, FastAPI.
+Elvárások
+Több, mint 5 éves tapasztalat Python fejlesztésben,
+Alapos ismeretek és gyakorlati tapasztalat LLM API-k és agent frameworkök használatában,
+Tapasztalat a RAG rendszerek és vektoralapú adatbázisok fejlesztésében,
+Problémamegoldó szemlélet és csapatmunkára való hajlandóság.
+Amit kínálunk
+Alkalmazotti vagy contractori munkaviszony,
+Rugalmas, remote munkavégzés,
+Legmodernebb technológiák alkalmazásának lehetősége.
+LLM API, Claude, OpenAI, AWS Bedrock; Agent, Claude Agent SDK, OpenAI Codex SDK, pydantic-ai; Neo4j graph database; Python, FastAPI
+Jelentkezés módja
+Amennyiben a pozíció felkeltette érdeklődését, küldje el számunkra angol nyelvű szakmai önéletrajzát az alábbi „JELENTKEZEM” gombra kattintva!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+IT,
+fejlesztési vezető
+Budapest
+Álláshirdetés jelentése

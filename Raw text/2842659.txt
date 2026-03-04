@@ -1,0 +1,99 @@
+Cég neve
+BECK AND PARTNERS Kft.
+Munkavégzés helye
+Hibrid
+•
+7600 Baranya megye, Pécs / Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+JAVA
+API
+SPRING
+SECURITY
+SQL
+ORACLE
+POSTGRESQL
+GIT
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+JAVA
+API
+SPRING
+SECURITY
+SQL
+ORACLE
+POSTGRESQL
+GIT
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Céginformáció
+Partnerünk egy holland tulajdonú, több mint 30 éve működő nemzetközi vállalat, amely a Benelux és Skandináv régió egészségügyi, gyermek- és idősgondozási intézményei számára fejleszt átfogó e-health megoldásokat.
+A pécsi fejlesztőiroda 2008 óta működik, ahol saját szoftvertermék modernizációja és új technológiák implementálása zajlik. A vállalatcsoport 2025-ben svéd bővüléssel új nemzetközi növekedési szakaszba lépett.
+Most egy kulcsszereplőt keresnek integrációs területre az alábbi pozícióba:
+SENIOR INTEGRÁCIÓS SPECIALISTA (JAVA)
+Egészségügyi szoftverek | Pécs / Hibrid
+Ez nem egy „újabb Java pozíció”.
+Itt európai szintű egészségügyi interoperabilitási megoldásokat építesz.
+Feladatok
+Egészségügyi rendszerek közötti átjárhatóság és integrációk tervezése, fejlesztése
+HL7 / FHIR alapú adatkommunikáció bevezetése és implementálása
+Interfészek és API-k fejlesztése, karbantartása
+Stratégiai jelentőségű, hosszú távon fenntartható integrációs architektúra kialakítása
+Kritikus szemléletű, minőségközpontú fejlesztés
+Napi szintű együttműködés nemzetközi csapattal (munkanyelv: angol)
+Elvárások
+Minimum középfokú informatikai végzettség
+7+ év releváns fejlesztői tapasztalat
+Java 21+
+Spring Boot 3+, Spring Security
+SQL (Oracle, PostgreSQL)
+Kubernetes
+Git, CI/CD gyakorlat
+Magabiztos angol nyelvtudás
+Elemző, rendszerszintű gondolkodás
+Juttatások
+Stabil, piacvezető nemzetközi háttér
+Stratégiai jelentőségű projektek
+Rugalmas hibrid munkavégzés (legalább 2 hetente 1 irodai nap)
+Pécs belvárosi iroda, könnyen megközelíthető lokáció
+Alkalmankénti hollandiai szakmai együttműködés
+Modern technológiai környezet
+SZÉP kártya
+Bejárási támogatás
+Magánegészségügyi biztosítás
+Extra szabadnapok
+Miért érdemes csatlakozni? Mert itt nem egy izolált modulon dolgozol, hanem olyan integrációs rendszereket építesz, amelyek valós egészségügyi szolgáltatókat kötnek össze — és kézzelfogható hatással vannak az ellátás minőségére Európában.
+Előnyt jelent
+HL7 és/vagy FHIR tapasztalat
+Egészségügyi rendszerek integrációjában szerzett gyakorlat
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezés gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Baranya
+megye
+Pécs
+Álláshirdetés jelentése

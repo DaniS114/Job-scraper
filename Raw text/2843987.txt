@@ -1,0 +1,67 @@
+Cég neve
+ZEISS
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+SECURITY
+ISO
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+SECURITY
+ISO
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+The future of metrology begins at ZEISS
+ZEISS Industrial Quality Solution stands for pioneering measurement technology with more than 100 years of tradition. We develop and produce high-performance tactile, optical 3D and X-ray measuring devices and also offer suitable software solutions for analysing measurement data. With a strong and broad technology and software portfolio, comprehensive expertise and a global presence, ZEISS is a preferred partner in a wide range of industries, including electromobility, medical technology, additive manufacturing and aircraft construction.
+In our cross-site Security Team, we work together with the product teams to ensure that we deliver secure and reliable products to our customers. You will be part of the team at the Oberkochen location and take on the following responsibilities:
+Definition and operational responsibility for the implementation of the Secure Development Lifecycle of our measurement technology products
+Conducting and reviewing security risk management, including threat modeling and code reviews, throughout the entire product lifecycle
+Development and integration of security measures in close collaboration with the team, tailored to the specific needs and risks of the products
+Promoting a security culture and clearly conveying complex security concepts to stakeholders, as well as providing technical guidance to security engineers from various departments
+Ensuring compliance with international security standards and legal requirements, including the Cyber Resilience Act, by jointly developing policies and procedures and conducting compliance assessments
+Implementation and evaluation of innovative security solutions and technologies to enhance product protection and data security
+Requirements
+Completed master's degree in Computer Science, Information Security, or a related field
+Solid knowledge in information security, including threat modeling, risk assessment, and security architectures; experience with modern security solutions and technologies such as cloud security and IoT security
+Familiarity with common security frameworks, standards, and best practices such as IEC 62443, ISO 27001, Cyber Resilience Act (CRA), and NIS-2
+Strong leadership skills to promote a security culture, as well as excellent communication skills to convey complex security concepts clearly and advise stakeholders
+Relevant certifications such as CISSP or CCSP are desirable; willingness for continuous education and adaptation to new security standards and technologies
+Experience working with international teams and the ability to develop security strategies tailored to Zeiss's global markets and customers
+Fluent in English, both spoken and written; German is a plus
+Become part of our team and set new standards in industrial measurement technology!
+Company info
+Step out of your comfort zone, excel and redefine the limits of what is possible. That's just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Germany
+Álláshirdetés jelentése

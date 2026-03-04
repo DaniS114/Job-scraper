@@ -1,0 +1,139 @@
+Cég neve
+ISZT Nonprofit Kft.
+Munkavégzés helye
+Hibrid
+•
+1089 Budapest, Bláthy Ottó utca
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Szakmai tréningek
+Munkába járás támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+SQL
+GIT
+JSON
+JAVASCRIPT
+API
+REST
+BACKEND
+UML
+DOCKER
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Mobiltelefon
+Elvárások
+Angol alapfok
+3-5 év tapasztalat
+Középiskola
+
+Mobiltelefon
+Szakmai
+tréningek
+Munkába
+járás támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+SQL
+GIT
+JSON
+JAVASCRIPT
+API
+REST
+BACKEND
+UML
+DOCKER
+Laptop
+Monitor
+(1 db)
+Mobiltelefon
+Angol
+alapfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Az ISZT Nonprofit Kft. a legfelső szintű HU névtérhez tartozó domain nevek regisztrációjáért, adminisztrációjáért és a kapcsolódó műszaki infrastruktúra működtetéséért felel. Fejlesztői csapatunkat bővítve olyan szakembert keresünk, aki rendszerszintű gondolkodással, precizitással és minőségbiztosítási szemlélettel támogatja termékeink magas szintű működését.
+A cég munkanyelve: magyar.
+Feladatok
+Webes és backend rendszerek end-to-end tesztelése (automatizált és manuális)
+Felhasználói folyamatok lefedése tesztesetekkel
+Tesztforgatókönyvek, tesztadatok és dokumentáció készítése
+E2E tesztautomatizálási keretrendszer fejlesztése és karbantartása
+Hibák reprodukálása, elemzése, regressziós tesztelések végzése
+Együttműködés fejlesztőkkel, üzleti elemzőkkel és üzemeltetéssel
+Rendszerfolyamatok megértése UML folyamatábrák, OpenAPI specifikációk alapján
+CI/CD pipeline-ok tesztelési szakaszának támogatása
+Kritikus szolgáltatások smoke és health check tesztjeinek kidolgozása
+Aktív részvétel Agile/Scrum eseményeken (sprint planning, daily standup, retro)
+Elvárások
+Min. 3 év szoftvertesztelői tapasztalat, ebből 1–2 év automatizált E2E teszteléssel (vagy 2 év összesen, amennyiben az automatizálási tapasztalat erős)
+Automatizált UI/API tesztkeretrendszerek ismerete
+JavaScript/TypeScript vagy más tesztautomatizálási nyelv ismerete
+API-k és JSON REST szolgáltatások tesztelési jártassága
+SQL lekérdezések önálló írása
+Git használata rutinszinten
+Agile/Scrum környezetben szerzett tapasztalat
+Precizitás, önállóság, specifikációk pontos követése
+Átlátható, jól strukturált tesztkód írása
+Előnyt jelent
+Cypress, Playwright vagy hasonló modern E2E keretrendszer tapasztalat
+Jest keretrendszer ismeret
+ISTQB Foundation Level vagy azzal egyenértékű minősítés
+CI/CD eszközök ismerete (pl. GitLab CI, GitHub Actions)
+Teljesítménytesztelési alapok
+Docker használata tesztkörnyezetben
+Golang kód olvasásának képessége
+Amit kínálunk
+Hibrid munkavégzés –
+Heti 2 nap iroda, 3 nap távmunka. Ha többet szeretnél az irodában lenni, az csak rajtad áll.
+Rugalmas munkarend –
+Nagy szabadságot biztosítunk az időd beosztásához.
+Home office támogatás –
+A távmunkában töltött napjaidra támogatást adunk a költségeid fedezésére.
+Egyéni önképzési keret –
+Fejlődésed saját oktatási kerettel támogatjuk, beleértve a szakmai konferenciákon való részvételt.
+Tapasztalathoz igazodó bérezés –
+Versenyképes juttatás, tapasztalati szintednek megfelelően.
+Stabil háttér –
+25 éve kiszámíthatóan és stabilan működő szervezet.
+Könnyen megközelíthető iroda –
+Budapesti iroda, jól elérhető tömegközlekedéssel.
+Határozatlan idejű munkaviszony
+stabil, 25 éve működő szervezetnél.
+Céginformáció
+A magyar internet kritikus infrastruktúráján dolgozhatsz:
+a .hu domain rendszer megbízhatóságáért és minőségéért felelsz tesztelőként.
+Csapatunk 25 éve üzemelteti a rendszert, amely közel 1 millió domain nevet szolgál ki. Csatlakozz hozzánk!
+Jelentkezés módja
+Küldd el nekünk az önéletrajzodat, és ha van, GitHub/GitLab profilodat vagy egy korábbi tesztautomatizálási portfóliót. Motivációs levél nem szükséges – a tapasztalat beszél.
+Kezdés:
+megállapodás szerint
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

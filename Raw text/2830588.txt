@@ -1,0 +1,89 @@
+Cég neve
+Tech People Hungary Kft.
+Munkavégzés helye
+Budapest, II. kerület
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Vállalkozói
+Általános munkarend
+Elvárt technológiák
+SQL
+AI
+software architect
+.NET
+NoSQL
+CI/CD
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Vállalkozói
+Általános
+munkarend
+SQL
+AI
+software
+architect
+.NET
+NoSQL
+CI/CD
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+AI-alapú rendszerek és alkalmazások architektúrájának tervezése és fejlesztése
+Microservice és event-driven architektúrák tervezése és technikai irányvonal meghatározása
+Architekturális döntések meghozatala, beleértve a megfelelő technológiai és tervezési megoldások kiválasztását
+Adat- és modellmenedzsment architektúrák kidolgozása (pl. MLOps, feature store, modell verziózás)
+Technológiai trendek követése és integrálása, új megoldások kidolgozása és beépítése a meglévő rendszerekbe
+Részvétel koncepcióalkotásban, fejlesztésben, specifikálásban, dokumentálásban
+Ötletelés, új technológiai megoldások, fejlesztési javaslatok beépítése különböző rendszerekbe
+Technológiai döntések támogatása, technikai review-k vezetése
+Technológiai kockázatelemzés, kockázatkezelés
+Szoros együttműködés az üzleti elemzőkkel, projektmenedzserekkel és fejlesztői csapattal az optimális rendszerek kialakítása érdekében
+Mentorálás és tudásmegosztás a fejlesztői csapattal, támogatva a junior kollégák munkáját és fejlődését
+Elvárások
+Szakirányú informatikai vagy műszaki felsőfokú végzettség
+Min. 3-5 év tapasztalat szoftverarchitektúra tervezésében és fejlesztésében .Net, alapú környezetben
+Adatbázisok beható ismerete, SQL, NoSQL (PostgreSQL, MongoDB)
+Konténerizációs és orchestration technológiák ismerete (Docker, Kubernetes)
+Min. 3-5év tapasztalat vállalati szoftvermegoldások elemzésében, tervezésében és fejlesztésében, különösen backend rendszerek területén
+API és microservice architektúra alapos ismerete, .NET Core környezetekben
+Verziókezelő rendszerek (pl. GIT) gyakorlati ismerete
+Tárgyalóképes angol nyelvtudás
+Előnyt jelent
+Banki, pénzügyi, illetve MI alapú szolgáltatásokhoz köthető szoftverfejlesztési vagy architekturális tapasztalat
+CI/CD eszközök (pl.: SonarQube, Jenkins) ismerete
+Fejlesztési metodológiák (pl. agilis módszertanok) ismerete
+Tapasztalat MLOps eszközökkel (pl. MLflow, Kubeflow, DVC)
+Open source projektekben szerzett tapasztalat
+Amit kínálunk
+szakmai fejlődést
+felelősséget, sokféle és kihívást jelentő szakmai munkát és megbecsülést
+személyes igényekhez igazított friss technológiai támogatást, a legújabb szoftvereszközöket
+versenyképes jövedelmet
+hosszú távra tervezhető, stabil munkahelyet
+nemzetközi projektekben résztvevő céges hátteret
+profi, támogató és barátságos csapatot
+kellemes munkakörnyezetet Budapest II. kerületi, zöldövezeti, családias légkörű irodájában
+hibrid munkavégzés
+Céginformáció
+A Tech People egy európai munkaerő-közvetítő vállalat, mely magasan képzett erőforrásokat, valamint kiszervezett technológiai szolgáltatásokat nyújt különböző iparágak számára. Egy innovatív, deep - és high-tech technológiákkal foglalkozó megbízónk számára keresünk jelenleg kollégát.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

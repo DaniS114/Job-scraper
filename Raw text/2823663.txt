@@ -1,0 +1,105 @@
+Cég neve
+GamiTradingHU Kft
+Munkavégzés helye
+Távmunka / Remote
+Fizetés
+Br.
+1,8M - 2,3M Ft havi bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Vállalkozói
+Kötetlen munkaidő
+Elvárt technológiák
+FRONTEND
+REACT
+MYSQL
+AWS
+POSTGRESQL
+DEVOPS
+REST API
+Git
+Typescript
+DOCKER
+Redis
+RabbitMQ
+Kafka
+Kubernetes
+WebSocket
+NodeJS
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Általános iskola
+
+Magyarországon belül bárhonnan végezhető
+Vállalkozói
+Kötetlen
+munkaidő
+FRONTEND
+REACT
+MYSQL
+AWS
+POSTGRESQL
+DEVOPS
+REST
+API
+Git
+Typescript
+DOCKER
+Redis
+RabbitMQ
+Kafka
+Kubernetes
+WebSocket
+NodeJS
+Angol
+középfok
+5-10
+év tapasztalat
+Általános
+iskola
+
+Állás leírása
+Feladatok
+Elsősorban Fullstack fejlesztőt keresünk egy újonnan induló külföldi Online Casino projekthez. Olyan felelősségteljes fejlesztőt keresünk, akinek nem okozna különösebb fejfájást egy komplex rendszer elkészítése nulláról, amit egyszerre akár több ezer felhasználó látogatna folyamatosan.
+Napi Feladatok:
+Nulláról elkezdeni, majd folyamatosan fejleszteni a projekt frontendjét figma alapján (ha fullstackként jelentkezel) és a backendjét is a megadott instrukciókat követve
+Back end funkciók folyamatos fejlesztése, karbantartása (komplex jogszabályok szerint), beleértve: kaszinó alap platformja (regisztráció, chat, support oldal, játékos profil, rewardok, stb), különböző saját in-house játékok fejlesztése, harmadik fél által készített kaszinó játékok integrálása, ki és befizetés integrációja és egyéni payment rendszer fejlesztése (Crypto, Bankkártya, Steam Skinek, stb) és minden más rendszer kiépítése (admin panel, risk management, anti abuse, player monitoring, stb)
+Folyamatos optimalizálás
+Együttműködés más fejlesztőkkel, koordinálás a csapat többi tagjával (angolul)
+Audit-ready rendszerek készítése (nagyobb odafigyeléssel, logolással kell mindent csinálni)
+Elvárások
+- Megfelelő szakmai háttér és tapasztalat nagy forgalmú webalkalmazásokon
+- Docker és Kubernetes pontos ismerete, hogy könnyen skálázható legyen az applikáció
+- RabbitMQ vagy hasonló queue rendszer ismerete
+- Adatbázis ismeret (PostgreSQL, MySQL, esetleg NoSQL, stb)
+- Fullstack jelentkező esetén valamilyen Frontend keretrendszer ismerete (Ez lehet akár React, Vue, stb)
+Előnyt jelent
+- iGaming / Online Kaszinó Tapasztalat
+- Blockchain ismeret
+- AWS ismeretek
+- Kafka ismerete
+- React.js ismerete Frontendhez.
+- Redis
+- DevOps ismeretek.
+Amit kínálunk
+100% Home Office, rugalmas munkaidő, teljesítménytől függő bónuszok nyitás után.
+Jelentkezés módja
+Önéletrajzot kérjük mellékeld, pár mondatot írj még a jelentkezésed mellé, főleg a releváns szakmai tapasztalataidról.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Álláshirdetés jelentése

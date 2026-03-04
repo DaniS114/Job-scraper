@@ -1,0 +1,83 @@
+Cég neve
+Oracle Global Services Hungary Kft.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Részmunkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+DEVOPS
+TESTING
+LINUX
+GIT
+AWS
+AZURE
+ANSIBLE
+PYTHON
+SQL
+ORACLE
+BASH
+NOSQL
+DATABASES
+TROUBLESHOOTING
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Részmunkaidő
+Általános
+munkarend
+CLOUD
+DEVOPS
+TESTING
+LINUX
+GIT
+AWS
+AZURE
+ANSIBLE
+PYTHON
+SQL
+ORACLE
+BASH
+NOSQL
+DATABASES
+TROUBLESHOOTING
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Acquiring the necessary skills to efficiently work with OCI cloud and related tools
+Being part of a DevSecOps team, which develop and operate a cloud native solution
+Supporting the end-to-end lifecycle of AI integration within traditional DevOps environments
+Helping with daily operational tasks including managing different infrastructure elements in OCI or patching them
+Improving existing code quality
+Troubleshooting various infrastructure issues in test environments
+Supporting development teams in technical issues and testing
+Enhancing existing monitoring and notification functions to be able to address possible issues proactively
+Working with Technologies and tools like: Terraform, Ansible, Bash, Python, JQ, Oracle SQL CL, Podman, Kubernetes, Oracle Cloud Infrastructure (IaaS, PaaS), Git, OpenSearch, Grafana, Prometheus
+Requirements
+Basic understanding of infrastructure management and networking
+Experience in Linux systems and tooling, understanding GIT basics
+Familiarity with AI-powered coding tools and a foundational understanding of how to use Generative AI to streamline development tasks
+Ability to learn, experiment and work independently from/based on sources in English
+Ability to collaborate with a small team in English
+Nice-to-have
+Experience in DevOps Cloud native like AWS, Azure, GCP or OCI, Knowledge of DevOps related cloud-native application deployment and operations, Familiar with Infrastructure as Code technologies: Terraform/Ansible, Familiar with tools and languages like: Python, SQL (Oracle), Bash, JQ, Knowledge of container technologies like Podman and Kubernetes, Having experience with relational (e.g. Oracle) and NoSQL (e.g. OpenSearch) databases
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Regionális
+Álláshirdetés jelentése

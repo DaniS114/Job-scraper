@@ -1,0 +1,116 @@
+Cég neve
+Lexunit Zrt.
+Munkavégzés helye
+Távmunka / Remote
+•
+Opcionális iroda
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Nyelvtanulás támogatása
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+API
+BACKEND
+REACT
+JAVASCRIPT
+AWS
+PYTHON
+POSTGRESQL
+DEVOPS
+AZURE
+NODE.JS
+DOCKER
+REST
+VUE
+Biztosított eszközök
+Laptop
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Nyelvtanulás
+támogatása
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+API
+BACKEND
+REACT
+JAVASCRIPT
+AWS
+PYTHON
+POSTGRESQL
+DEVOPS
+AZURE
+NODE.JS
+DOCKER
+REST
+VUE
+Laptop
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Csapatunkba Full Stack fejlesztőt keresünk, aki majd részt vesz komplex szoftverek és rendszerek építésében, amelyekre jelentős nemzetközi ügyfeleink (pl. Rolls-Royce, Stanford Egyetem, nagy európai energiacégek) támaszkodnak.
+Feature-ök fejlesztése elejétől a végéig, az adatbázistól a felhasználói felületig.
+Skálázható rendszerek tervezése és optimalizálása, ahol kiemelten számít a teljesítmény.
+Közvetlen kapcsolattartás az ügyfelekkel: üzleti igényeik megértése és a megfelelő technikai megoldások szállítása.
+Új eszközök, technológiák tesztelése és proaktív javaslattétel a fejlesztési folyamataink javítására.
+Elvárások
+Legalább 3–5 év full stack fejlesztői tapasztalat
+Erős JavaScript/TypeScript tudás és legalább egy backend nyelv (Python, Node.js vagy hasonló) magabiztos ismerete
+Tapasztalat React, Next.js vagy Vue keretrendszerekkel, valamint jártasság reszponzív designban
+Adatbázisok (PostgreSQL, BigQuery) és REST API-k alapos ismerete
+Felhőalapú szolgáltatások (AWS, GCP vagy Azure) és Docker használatában szerzett tapasztalat
+Folyékony magyar és magabiztos, könnyed angol nyelvtudás Önálló, eredményorientált munkavégzés
+Előnyt jelent
+Data engineering vagy adat-pipeline építési tapasztalat
+DevOps ismeretek (CI/CD, IaC - Infrastructure as Code)
+Szakmai háttér az energetika, biztosítás vagy a tudományos számítástechnika területén
+Tapasztalat valós idejű (real-time) rendszerek fejlesztésében és üzemeltetésében
+Aktív open source kontribúció és nyílt forráskódú projektekben való részvétel
+Amit kínálunk
+Részvétel valódi, izgalmas projektekben (pl. energiapiacok, repüléstechnika, klímakutatás)
+Korszerű technológiák napi szintű használata (React, Next.js, Node.js, Python, PostgreSQL, AWS, GCP)
+Teljesen távmunka, eredményorientált és rugalmas időbeosztással
+Saját felelősségi kör, ahol nem vész el a hangod, és valóban számít a véleményed a technikai döntéseknél
+Lehetőség nemzetközi projekteken és külföldi ügyfelekkel való együttműködésre
+Folyamatos szakmai fejlődés egy összetartó, 15 fős csapatban
+Munkahelyi extrák
+Céges rendezvények
+Kutyabarát
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Céginformáció
+Cégünk egy 15 fős, dinamikusan fejlődő csapat, amely teljesen távmunkában (budapesti irodai háttérrel) dolgozik. Olyan komplex, jól megtervezett szoftvereket és rendszereket építünk, amelyekre az ügyfeleink valóban támaszkodhatnak. Büszkék vagyunk rá, hogy nemzetközi partnereink között tudhatjuk a Rolls-Royce-t, a Stanford Egyetemet, valamint nagy európai energiacégeket is. Sokféle és innovatív projekten dolgozunk, legyen szó valós idejű energiakereskedelmi platformról, videóalapú üzletifolyamat-digitalizálásról vagy felhőalapú szimulációs rendszerekről. Nálunk a minőségi kód, a skálázhatóság és az ügyfelekkel való szoros együttműködés áll a középpontban.
+Jelentkezés módja
+A "Jelentkezem" gombra kattintást követően kérjük, hogy csatold önéletrajzodat.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

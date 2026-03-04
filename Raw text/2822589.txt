@@ -1,0 +1,106 @@
+Cég neve
+Nova HR
+Munkavégzés helye
+Hibrid
+•
+Váci Greens Irodapark - Budapest, Váci út 117-133, 1138
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVA
+ORACLE
+SQL
+AGILIS
+microservices
+spring boot
+kubernetes
+Liquibase
+Elvárások
+Angol alapfok
+>10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+JAVA
+ORACLE
+SQL
+AGILIS
+microservices
+spring
+boot
+kubernetes
+Liquibase
+Angol
+alapfok
+>10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Céginformáció
+Megbízónk egy széles körben ismert bankcsoport. Nagyvállalati hátterű, dinamikusan növekvő csapatukba, startup munkakörnyezetbe keresünk új munkatársat.
+Feladatok
+Java-alapú, microservice architektúrájú rendszerek tervezése és fejlesztése (Spring Boot)
+Architektúrális irányelvek, technológiai standardok és best practice-ek kialakítása
+Rendszerstabilitás, teljesítmény és karbantarthatóság biztosítása
+3 Java squad szakmai mentorálása, technikai irányítása
+Code review-k, technikai döntések előkészítése és meghozatala
+Fejlesztői kollégák támogatása, coaching, tudásmegosztás
+Aktív részvétel a Java Chapter szakmai fejlődésében
+Architektekkel, DevOps-szal, üzleti elemzőkkel, PO-kkal való szoros együttműködés
+CI/CD folyamatok támogatása (build pipeline-ok, tesztelés, kódminőség)
+Mikroszolgáltatások üzemeltetésének és konténerizált környezetének támogatása
+Gyors iterációk, folyamatos tanulás és fejlesztés
+Netflix-szerű engineering kultúra, magas mérnöki autonómiával
+Erős ownership, decentralizált döntéshozatal
+Minimalizált ceremóniák, maximális hatékonyság
+Átlátható működés, stabilitás és skálázhatóság fókusza
+Kéthetes sprintek, negyedéves tervezés
+Elvárások
+Legalább 10-15 éves Java fejlesztői tapasztalat
+Senior, Lead vagy Architect pozícióban szerzett több éves tapasztalat
+Nagyvállalati környezetben szerzett munkatapasztalat
+Technológiai ismeretek: Java (17+), Spring Boot, Microservices architectúra és design pattern-ek, Kubernetes, Liquibase
+Erős technikai vezetői készségek és mentoring affinitás
+Rendszerszintű, architekturális gondolkodás
+Magabiztos, felelősségteljes döntéshozatal
+Kiváló kommunikáció fejlesztők és üzleti szereplők felé
+Proaktív, ownership alapú hozzáállás
+Nyitottság a folyamatos fejlődésre és tanulásra
+Előnyt jelent
+Banki vagy pénzügyi rendszerek fejlesztésében szerzett tapasztalat
+JBoss / WildFly tapasztalat
+Oracle DB vagy MS SQL ismeret
+REST API fejlesztés, Swagger/OpenAPI gyakorlat
+MQ/Kafka tapasztalat
+Részvétel rendszermodernizációs projektekben
+Amit kínálunk
+Hibrid munkavégzés, heti 2 nap home office lehetőség
+Valódi lead + architect szerepkör, erős szakmai hatással
+Modern, komplex rendszerkörnyezet
+Agilis, jól működő, támogató engineering kultúra
+Magas autonómia, mérnöki döntési szabadság
+Részvétel stratégiai rendszerek fejlesztésében
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Rendszertervező
+Budapest
+Budapest
+Álláshirdetés jelentése

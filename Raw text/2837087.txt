@@ -1,0 +1,59 @@
+Cég neve
+mylife Diabetes Care AG
+Munkavégzés helye
+Lyssachstrasse 40, 3400 Burgdorf
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+DEVOPS
+AZURE
+AGILE
+SECURITY
+SQL
+NETWORK
+ISO
+TESTING
+Elvárások
+Angol középfok és
+Német középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+DEVOPS
+AZURE
+AGILE
+SECURITY
+SQL
+NETWORK
+ISO
+TESTING
+Angol
+középfok és Német középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Senior Cloud DevOps EngineermyLife Diabetes Care AG is a new, independent Medtech company specialising in the treatment of diabetes using advanced insulin pump systems. For our Platform Services Department, we are looking for an experienced Senior Cloud DevOps Engineer at our new Headquarter in Burgdorf.Senior Cloud DevOps Engineer | 100%Ref. NoLocation: Burgdorf | HybridContribute to the cutting-edge development of medical technology solutions and thrive in an environment that offers a great amount of autonomy.Your main tasksWorking in a small agile IT Platform team in a regulated environment: You'll collaborate closely with 3-5 team members, participating in sprint planning, daily standups, and retrospectives while ensuring compliance is integrated into every deliveryDesign, build, and maintain computer environments in Microsoft Azure in line with regulatory requirements (e.g., GxP, ISO, FDA, MDR): You'll architect secure, validated cloud solutions that meet regulatory standards, including preparing documentation for audits and maintaining traceability throughout the entire infrastructure lifecycleAutomate infrastructure provisioning using Terraform, etc.: You'll develop and maintain Terraform code for repeatable, version-controlled deployments, reducing manual effort and ensuring consistency across multiple environmentsSupport internal customers by realizing their IT projects: You'll act as a technical consultant to internal teams, translating business requirements into scalable cloud solutions and providing guidance on best practices for cloud-native developmentWorking together with external IT partners: You'll coordinate with third-party vendors and consultants to integrate external services, manage SLAs, and ensure seamless collaboration on shared infrastructure componentsYour profile5+ years of experience in DevOps or Infrastructure Engineering roles: You've successfully delivered multiple cloud infrastructure projects from conception to production, with demonstrable experience managing both greenfield and migration initiativesStrong expertise in CI/CD tooling (Azure DevOps, GitHub, GitLab, etc.): You can design and implement automated pipelines that include testing, security scanning, and compliance checks, enabling rapid and reliable software deliveryProficiency with Infrastructure-as-Code (Terraform): You write clean, modular Terraform code following best practices, and you're comfortable with state management, workspaces, and integrating Terraform into CI/CD workflowsFamiliarity with automated testing: You understand infrastructure testing approaches (unit, integration, compliance) and can implement tools or frameworks to validate infrastructure changesHands-on experience with Microsoft Azure: You're proficient with core Azure services (VMs, AKS, App Services, Azure SQL, networking), and you can navigate the Azure portal, CLI, and ARM templates with confidenceSolid understanding of networking, security principles and identity management: You can design secure network architectures with proper segmentation, implement zero-trust principles, manage secrets using Azure Key Vault, and configure identity solutions with Microsoft Entra IDFamiliarity with GxP, CSV, ISO, or similar frameworks: You understand the documentation and validation requirements for regulated systems and can work with quality assurance teams to ensure infrastructure meets compliance standardsCommunication, leadership and language skills: You are confident at all levels, mediate between specialist departments and IT, and build trust among stakeholders Strong analytical skills and the ability to develop pragmatic and innovative solutions, even in complex projects Very good written and spoken German and EnglishRelevant certifications are an advantage:Experience the benefits of working with usPension fundmylife Diabetes Care 55% of the pension contributionsMobility supportCharging stations, Swiss Half Fare Card, parking, close to public transportFree sport facilitiesaffordable or free gymsFamily friendlyFinancial contributions to childcareWorking hoursworking time arrangements: Shiftwork, annual working hours, part-timeFlexWorkWork where and when you want (in Switzerland)Up-to-date work environmentModern offices and production rooms; staff restaurant and break areasTogether, we create solutions that improve lives.At mylife Diabetes Care, we develop integrated solutions that people with diabetes can truly rely on.We are a fast-growing, family-owned company headquarterd in Burgdorf (Switzerland) – built on 40 years of innovation and active internationally.We bring together expertise, dedication and a clear mission: empowering people to gain more freedom through better control.Everything we do is developed with purpose and designed with care.Our core competence lies in automated insulin delivery (AID). With mylife Loop, we provide a system that adapts to the individual needs and everyday lives of people with diabetes.ContactMarcel BraderHuman Resources Expert Recruiting+41 58 234 74 62Ask a questionmylife Diabetes Care AGLyssachstrasse 40CHBurgdorfSwitzerlandT
+Write an email
+jida5777e9pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Switzerland
+Álláshirdetés jelentése

@@ -1,0 +1,121 @@
+Cég neve
+Masterplast Nyrt.
+Munkavégzés helye
+Masterplast Nyrt. - 8143 Sárszentmihály, Árpád u. 1/a
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DYNAMICS
+MSSQL
+BI
+ERP
+SQL
+ADATTÁRHÁZ
+BACKUP
+PYTHON
+JAVASCRIPT
+VBA
+API
+POSTGRESQL
+CRM
+AUTOMATIZÁLÁS
+REST
+POWER BI
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Szakiskola / szakmunkás képző
+
+Teljes
+munkaidő
+Általános
+munkarend
+DYNAMICS
+MSSQL
+BI
+ERP
+SQL
+ADATTÁRHÁZ
+BACKUP
+PYTHON
+JAVASCRIPT
+VBA
+API
+POSTGRESQL
+CRM
+AUTOMATIZÁLÁS
+REST
+POWER
+BI
+Angol
+középfok
+1-3
+év tapasztalat
+Szakiskola
+/ szakmunkás képző
+
+Állás leírása
+Feladatok
+Meglévő vállalati rendszereinek technikai támogatása, valamint belső, egyedi fejlesztések megvalósítása, amelyek az adatfeldolgozást, integrációt és működési hatékonyságot javítják.
+Adatkezelés, rendszerintegráció, automatizálás, üzleti logika, belső fejlesztések.
+MS Dynamics AX 2009, Targit, MSSQL (2017/2019)
+alkalmazás- és adatoldali support
+Fejlesztői környezet BI, DB, ERP stb telepítése és üzemeltetése
+Adateltérések, riporthibák, integrációs problémák elemzése és javítása
+SQL lekérdezések optimalizálása
+Belső, egyedi fejlesztések (kvázi „Internal SaaS” megoldások)
+Automatizmusok és adatfeldolgozási folyamatok fejlesztése
+Adattárház-építés, riportelőkészítés, gyors üzleti elemzések támogatása
+Elvárások
+Stabil SQL tudás
+Microsoft SQL Server gyakorlati ismeret (backup/restore, jogosultság, optimalizálás)
+Relációs adatmodellek értése
+Több éves fejlesztési tapasztalat
+Objektumorientált szemlélet
+ERP, MSSQL környezetben szerzett tapasztalat
+Analitikus gondolkodás
+Önálló munkavégzés
+Üzleti igények technikai hátterének értése
+Dokumentálási hajlandóság
+Tanulásra való nyitottság
+Magabiztos angol tudás (írás, olvasás)
+Nem feltétel a diploma, a tudás és a gyakorlat számít
+Előnyt jelent
+Python, JavaScript, VBA, Power Apps/Low-code, REST API, BI eszközök (Targit, Power BI), GitHub, PostgreSQL / TimescaleDB, AI-támogatott fejlesztés (Copilot, ChatGPT),
+MS Dynamics AX 2009 vagy 2012, ERP / CMMS / CRM / MES rendszerben szerzett tapasztalat
+Technológiai alkalmazkodóképesség a fontos, nem egy fő nyelv!
+Amit kínálunk
+Stabil, hosszú távú munkalehetőség
+Valós üzleti problémák megoldása, kézzelfogható eredmények
+Strukturált, jól definiált működés – kiszámítható szakmai környezet
+Lehetőség automatizációs és adatvezérelt fejlesztésekre
+Támogató szakmai közeg
+Várjuk jelentkezésed!
+Céginformáció
+A MASTERPLAST CSOPORT Digitalizációs csapatába keresünk rendszerben gondolkodó
+BELSŐ FEJLESZTŐ
+kollégát, Sárszentmihályi munkavégzéssel.
+A Közép-Európai régió legnagyobb magyar tulajdonú építőanyaggyártó vállalataként 10 országban rendelkezünk saját leányvállalattal és a világ 41 országában értékesítjük termékeinket.
+Ha szeretsz
+adatokkal dolgozni
+,
+átlátod a rendszerek közötti összefüggéseket,
+és motivál, hogy a
+munkádnak kézzelfogható üzleti hatása legyen gyártó vállalati környezetben
+, ahol a belső rendszerek (ERP, BI, adatbázisok, MSSQL, egyedi alkalmazások) napi szinten támogatják a működést, akkor
+Téged várunk bővülő csapatunkba!
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Fejér
+megye
+Sárszentmihály
+Álláshirdetés jelentése

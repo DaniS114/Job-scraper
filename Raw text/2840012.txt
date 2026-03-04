@@ -1,0 +1,89 @@
+Cég neve
+BMW Group
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+API
+C++
+KOTLIN
+HARDWARE
+SECURITY.
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+API
+C++
+KOTLIN
+HARDWARE
+SECURITY.
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+INNOVATION IS IMAGINING WHAT NO ONE ELSE CAN.
+At the BMW Group, everything starts with passion. It turns a profession into a vocation. It drives us to keep reinventing mobility and bring innovative ideas onto the roads. Enthusiasm for joint projects turns a team into a strong unit where every opinion is valued. It is only when expertise, highly professional processes and enjoyment of work unite that we can shape the future together.
+Requirements
+You will work hands-on with a team of AI engineers and architects to build the AI platform that powers our vehicles, from autonomous driving to in-car assistants.
+What awaits you?
+You design end-to-end AI and data architectures, from data ingestion to model serving that uses and extends platforms within our vehicles (with a strong focus on edge).
+Furthermore, you leverage open-source AI frameworks and proprietary frameworks.
+You drive the implementation of scalable AI software platforms, using the latest AI technologies and leveraging our in-house scalable software stacks.
+You own the architecture for on-device models including SLMs, VLMs, and autonomous driving models: from training toolchain (pruning, fine-tuning, multimodal encoding) through to deployment on target HW.
+Additionally, you set clear architectural interfaces between platform and application, shaping platform decisions before they get set in stone rather than inheriting them.
+Furthermore, you guide business units and development teams with practical technical guardrails, in direct collaboration with hardware and system architects, not in isolation.
+What should you bring along?
+At least 5+ years in AI/ML engineering and architecture.
+Deep experience with model execution on NPUs and low-level inference optimization.
+Hands-on experience with on-device AI frameworks (LiteRT LM, ExecuTorch, ONNX GenAI).
+Skilled in Rust, C++, Kotlin, and/or API technologies.
+Experience with SLMs, VLMs, or autonomous driving models in production.
+Knowledge of multi-agent orchestration and open standards (A2A, MCP).
+Background in automotive or robotics, or strong willingness to develop it.
+Would you like to help us drive the AI transformation at BMW? Apply now!
+Find out more about Artificial Intelligence at the BMW Group here.
+Note:
+Please apply exclusively online via our career portal. Applications via other channels (esp. e-mail) cannot be considered.
+What we offer
+What do we offer?
+Challenging projects with which we are shaping the mobility of tomorrow together.
+Wide range of personal and professional development opportunities.
+Attractive, fair and performance-related remuneration.
+High level of job security.
+Annual special payments such as vacation pay, Christmas bonus, and profit sharing.
+Flexible working hours including 6 weeks annual leave and overtime compensation.
+Discounted BMW & MINI conditions.
+Many other benefits at
+bmw.jobs/benefits
+Stellenreferenz:
+176455
+Company info
+Mit unseren Marken BMW, MINI, Rolls-Royce und BMW Motorrad sind wir einer der weltweit führenden Premium-Hersteller von Automobilen sowie Motorrädern und darüber hinaus Anbieter von Premium-Finanz- und Mobilitätsdienstleistungen.
+Am Standort
+München
+suchen wir Sie als
+Principal AI Vehicle Architect (f/m/x)
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

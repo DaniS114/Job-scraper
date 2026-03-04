@@ -1,0 +1,107 @@
+Cég neve
+Bosch Gruppe
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+DOCKER
+CLOUD
+MACHINE LEARNING
+Elvárások
+Angol felsőfok és
+Német felsőfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+DOCKER
+CLOUD
+MACHINE
+LEARNING
+Angol
+felsőfok és Német felsőfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+As a Research Engineer, you will develop cutting-edge Vision-Language-Action (VLA) architectures that empower AI agents to interpret human instructions and act autonomously in complex environments.
+Furthermore, you will connect multimodal representation learning with long-term control and planning to create agents that go beyond reactive capabilities and exhibit cognitive intelligence.
+You will contribute to fundamental and applied research on novel VLA models and actively drive their advancement.
+Building a scalable infrastructure for experimentation, training, and deployment, including the development of training pipelines, simulation tools, and evaluation methods will be part of your task.
+You will make VLA methods usable for concrete Bosch applications in practice and demonstrate their superior flexibility and generalization capabilities.
+Last but not least, you will work closely with interdisciplinary teams of researchers and application experts to shape the early innovation phase and the long-term strategy for intelligent automation at Bosch.
+Requirements
+Education:
+excellent MSc in Computer Science, Machine Learning, Robotics or related technical fields
+PhD in Multimodal AI, Robotics, Reinforcement Learning, or Generative AI preferred
+demonstrated academic excellence, with a strong publication record in leading AI and robotics conferences and journals (NeurIPS, ICLR, ICML, CVPR, CoRL, RSS, ICRA, ACL, EMNLP, etc.)
+Experience and Knowledge:
+Industrial SW development experience:
+Demonstrated industry-relevant practical AI experience, e.g. by code contributions in industrial AI applications, in large scale machine learning projects, or participation in large-scale AI benchmarks and contests
+Multiple years of experience in developing and deploying machine learning solutions in distributed SW development teams
+Demonstrated capability to go beyond research prototypes and integrate cutting-edge AI methods into practically relevant and usable SW solutions
+Multimodal AI & Vision-Language Models:
+Proficiency in designing and training vision-language models (VLMs) and language-multimodal models (LMMs) (e.g., Flamingo, GPT-4V, PaLM-E, RT-2)
+Hands-on experience with visual grounding, cross-modal attention, and instruction-following architectures
+Familiarity with benchmarks such as ALFRED, Ego4D, VLN, or datasets involving perception and action
+Control, Reinforcement Learning & Planning:
+Strong experience in reinforcement learning, imitation learning, or model-based control for agents operating in real or simulated environments
+Capability in designing agents for long-horizon planning, semantic task decomposition, and hierarchical control
+Knowledge of methods that combine perception, language, and action in task-driven settings
+AI for Cyber-Physical Systems & Automation:
+Demonstrated capability to integrate cutting-edge AI methods into practical applications in robotics, automated
+driving, industrial automation, or building systems interest in emerging domains such as smart heating and HVAC control, where semantic AI can optimize control strategies
+Focus on building robust, explainable, and semantically grounded agents for physical deployment
+Infrastructure, Simulation & Tooling:
+Proficient in Python and deep learning libraries such as PyTorch, TensorFlow, or JAX
+Experience with simulation platforms such as Isaac Sim, CARLA, MuJoCo, or Habitat
+Skilled in developing scalable pipelines using Docker, CI/CD, and multi-GPU/cloud infrastructure
+Proven ability to drive research projects and turning research into practical innovation
+Collaborative and interdisciplinary mindset, able to work across research and product teams at Bosch
+Personality and Working Practice:
+you have proven ability to drive research projects and turning research into practical innovation; collaborative and interdisciplinary mindset, you are able to work across research and product teams at Bosch
+Languages:
+fluent English, German is optional
+What we offer
+Work-life balance
+: Flexible working in terms of time, place and working model.
+Health & Sport
+: Wide range of health and sports activities.
+Childcare
+: Intermediary service for childcare services.
+Employee discounts
+: Discounts for employees.
+Room for creativity
+: Space for creative work.
+In-house social counseling and care services
+: Social counselling and intermediary service for care services.
+The recruitment contact or superior will be happy to provide information about the individual benefit plan.
+Company info
+Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.
+The
+Robert Bosch GmbH
+is looking forward to your application!
+Employment type: Unlimited
+Working hours: Full-Time
+Joblocation: Renningen
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

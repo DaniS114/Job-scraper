@@ -1,0 +1,98 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+IOS
+SECURITY.
+DEVOPS
+SWIFT
+C
+NETWORK
+API
+BACKEND
+TESTING
+ANALYTICS
+XCODE
+CLOUD
+ACCESS
+DEBUGGING
+REST
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+IOS
+SECURITY.
+DEVOPS
+SWIFT
+C
+NETWORK
+API
+BACKEND
+TESTING
+ANALYTICS
+XCODE
+CLOUD
+ACCESS
+DEBUGGING
+REST
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Take ownership of technical challenges, bringing curiosity and resourcefulness to ambiguous problems.
+Define and drive the development of complex features ensuring scalability, reliability, and security.
+Strong product partnership: translating business requirements into clear technical plans, communicating risk/impact crisply.
+Tackle high-impact problems, producing clear plans, prototypes, and production-ready solutions.
+Integrate AI and automation where appropriate to improve app functionality, personalization, or developer productivity.
+Raise the quality bar through rigorous code reviews, observability, and operational excellence.
+Drive tooling, hosting, DevOps, and quality assurance automation initiatives to improve velocity and reliability.
+Communicate clearly on strategy, progress, and risks.
+Mentor senior and mid-level peer engineers.
+Contribute to high-quality system documentation, operational guidelines, and knowledge sharing.
+Requirements
+7+ years of professional iOS development with Swift, including modern Swift Concurrency (async/await, actors) and pragmatic UIKit and/or SwiftUI experience.
+Proven track record shipping and operating at least one large-scale, consumer- or enterprise-grade iOS app, with ownership across design, implementation, release, and post-launch iteration.
+Experience designing modular architectures (e.g., MVVM/C, Clean, TCA) and evolving legacy codebases safely through migrations.
+Deep performance and reliability skills: profiling with Instruments, launch-time tuning, memory/leak debugging and network efficiency.
+Secure mobile development: Keychain, biometrics, secure storage, TLS/ATS, certificate pinning and data-protection best practices.
+Experience with background tasks, conflict resolution, data modeling, and migration strategies.
+API and contract design: strong REST/GraphQL/gRPC fundamentals, versioning, pagination, and close collaboration with backend services on auth and performance.
+Testing at scale: XCTest/XCUITest, snapshot tests, dependency injection for testability, quality gates for CI/CD pipelines.
+Observability: Logging, crash analytics, dashboards/alerting, and SLO-driven ownership.
+Build and release engineering: Fastlane/Xcode Cloud/Bitrise, code signing/provisioning, TestFlight, phased rollouts, feature flags, and rollback plans.
+What we offer
+Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients.
+We care about our people. Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs to name a few.
+We have teams all over the world. We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney.
+Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding.
+To foster strong collaboration and connection, this role will follow a hybrid work model. If you are within a commuting distance to one of our Diligent office locations, you will be expected to work onsite at least 50% of the time.
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

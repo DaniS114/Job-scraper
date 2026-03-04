@@ -1,0 +1,114 @@
+Cég neve
+SnapSoft Informatikai és Szolgáltató Kft.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AWS
+CLOUD
+AZURE
+API
+ANSIBLE
+DOCKER
+DNS
+VPN
+SECURITY
+ACCESS
+NODE.JS
+BITBUCKET
+Biztosított eszközök
+MacOS
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Egyetem
+
+Magyarországon belül bárhonnan végezhető
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+AWS
+CLOUD
+AZURE
+API
+ANSIBLE
+DOCKER
+DNS
+VPN
+SECURITY
+ACCESS
+NODE.JS
+BITBUCKET
+MacOS
+Angol
+középfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Leading and mentoring cloud engineering teams, fostering collaboration, and ensuring delivery excellence
+Providing direct line management, coaching, and professional development for a team of cloud engineers and migration specialists
+Fostering a high-performing, technically excellent team focused on secure and scalable migrations
+Owning the end-to-end solution as a key decision-maker and aligning customer needs with technical outcomes
+Facilitating customer workshops, refinement sessions, and planning discussions to define clear delivery goals
+Driving recruitment, onboarding, and performance management for your team
+Championing engineering best practices, knowledge sharing, and continuous improvement
+Architecting and implementing complex AWS infrastructures and zero-day compliant landing zones
+Reviewing and remediating customer solutions using the AWS Well-Architected Framework
+Driving migrations from on-premises and other cloud providers (GCP, Azure, Heroku) into AWS
+Designing, building, and maintaining CI/CD pipelines across multiple environments
+Defining infrastructures as code with Terraform (Terragrunt preferred) or AWS CloudFormation
+Staying up to date with AWS innovations and driving SnapSoft’s AWS Partner journey by contributing to Competency and Service Delivery Programs
+Requirements
+Excellent problem-solving skills for use-case-specific architecture design and implementation
+Strong communication and collaboration skills, with the ability to lead teams and engage customers effectively
+Proven technical leadership experience in coordinating engineering projects and guiding teams
+Strong client-facing skills to lead refinements, planning, and technology discussions
+Experience in building and scaling engineering teams, including recruitment and talent development
+Ability to influence stakeholders and align engineering outcomes with business goals
+A master’s degree in Computer Science, Information Technology, or a related field
+8+ years of experience in the field of software development
+4+ years of hands-on AWS infrastructure design, deployment, and operations experience
+In-depth knowledge of AWS services: VPC, EC2, S3, RDS, Lambda, ECS, EKS, IAM, API Gateway, CloudFront, SecurityHub, GuardDuty, CloudWatch, KMS, PCA, and others
+3+ years of experience with Infrastructure as Code tools (Terraform preferred, CloudFormation, Ansible, AWS CDK, etc.)
+3+ years of experience in building and managing CI/CD pipelines (GitHub Actions, GitLab, Bitbucket, or similar)
+2+ years of experience with container-based applications (Docker, Kubernetes/EKS)
+Strong knowledge of networking concepts (TCP/IP, DNS, VPN, load balancers, firewalls) and related AWS services
+Strong understanding of cloud security concepts (IAM, PoLP, access control, encryption, endpoint security)
+AWS Professional/Specialty Certification (preferred)
+Nice-to-have
+Node.js + AWS + Terraform course available during first month with opportunity to obtain AWS Certified Cloud Practitioner and HashiCorp Certified: Terraform Associate certifications
+What we offer
+A company culture based on autonomy and accountability
+Flexible working hours, remote setup
+Cool office with great location in Budapest, nearby Deak Ferenc Square / Astoria
+Macbook in order to be the most efficient in your daily tasks
+Company-sponsored technical trainings
+Company-sponsored trips to relevant, professional conferences
+Medicover Health Insurance
+English course with native teachers
+AYCM SportPass contribution, yoga at the office, SnapSoft football
+Regular cocktail parties, team buildings, an annual all staff 3-day summer retreat
+Book club & SnapSoft library, Board game club & regular board game evenings
+Company info
+SnapSoft is a company that performs end-to-end delivery from architecture design to implementation, constructing the cloud infrastructure of international companies, mainly in fintech, aviation, telco, and edtech industries. With expertise, they help customers achieve and maintain robust availability, resilience, and scalability in their cloud-based products while ensuring their infrastructure's security and compliance.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Budapest
+Álláshirdetés jelentése

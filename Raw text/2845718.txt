@@ -1,0 +1,120 @@
+Cég neve
+GITMAX IT Services Zrt.
+Munkavégzés helye
+Hibrid
+•
+Indianapolis
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DATABASES
+AWS
+AZURE
+POSTGRESQL
+SQL
+PYTHON
+DATABASE
+BI
+ANALYTICS
+SCRUM
+AGILE
+ORACLE
+MYSQL
+GIT
+DYNAMICS
+PANDAS
+DOCKER
+GDPR
+SOX
+POWER BI
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+DATABASES
+AWS
+AZURE
+POSTGRESQL
+SQL
+PYTHON
+DATABASE
+BI
+ANALYTICS
+SCRUM
+AGILE
+ORACLE
+MYSQL
+GIT
+DYNAMICS
+PANDAS
+DOCKER
+GDPR
+SOX
+POWER
+BI
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design and architect end-to-end Microsoft Fabric solutions (data lakes, warehouses, real-time analytics)
+Build and optimize pipelines integrating diverse data sources (SQL, APIs, Salesforce, Oracle, Dynamics)
+Implement Direct Lake connectivity and optimize semantic models for analytics
+Lead advanced data modeling initiatives (dimensional, star/snowflake, data vault)
+Develop SQL queries, stored procedures, and database optimization strategies
+Build Python applications for data processing and automation
+Implement real-time analytics solutions (Event Streams, KQL Database)
+Lead technical discovery sessions to understand client data landscapes
+Collaborate with stakeholders to translate business needs into technical solutions
+Mentor junior engineers and review code to ensure best practices
+Provide expertise during pre-sales and proposal development
+Optimize performance via indexing, partitioning, and query tuning
+Implement data quality, lineage, and monitoring frameworks
+Ensure compliance with data privacy regulations (GDPR, HIPAA, SOX)
+Establish CI/CD pipelines for data engineering workflows
+Requirements
+5+ years in data engineering or analytics engineering roles
+Hands-on experience with Microsoft Fabric (Data Factory, OneLake, Lakehouse, Dataflows Gen2, Direct Lake, Notebooks, Power BI, KQL databases)
+Advanced Python skills with Pandas, NumPy, SQLAlchemy, PySpark
+Expert-level SQL across multiple database platforms (SQL Server, PostgreSQL, Snowflake, MySQL)
+Experience with Snowflake, Azure, and AWS
+Proficiency with Git and collaborative workflows
+Familiarity with containerization (Docker, Kubernetes)
+Advanced understanding of data modeling (dimensional, normalization/denormalization, data vault)
+Experience implementing SCDs (Types 1–7)
+Knowledge of modern data architecture patterns (data mesh, lakehouse)
+Strong background in data governance, lineage, and quality
+Strong client-facing communication skills
+Ability to work independently across multiple projects
+Experience in Agile/Scrum environments
+What we offer
+Competitive compensation package
+Full medical, dental, and vision coverage
+Fully vested 401K plan
+Flexible hybrid/onsite schedule
+Wellness and fitness programs
+Catered lunches and collaborative work environment
+Training and development opportunities to support continuous learning
+Company info
+Empowering success through strategic staffing solutions tailored to your unique organizational needs.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Regionális
+Álláshirdetés jelentése

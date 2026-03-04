@@ -1,0 +1,95 @@
+Cég neve
+GITMAX IT Services Zrt.
+Munkavégzés helye
+Hibrid
+•
+Indianapolis
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+ANALYTICS
+DATABASES
+BI
+ACCESS
+SECURITY
+PYTHON
+SQL
+AZURE
+AWS
+REST
+POWER BI
+TROUBLESHOOTING
+AGILE
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+ANALYTICS
+DATABASES
+BI
+ACCESS
+SECURITY
+PYTHON
+SQL
+AZURE
+AWS
+REST
+POWER
+BI
+TROUBLESHOOTING
+AGILE
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Architect and implement end-to-end cloud data solutions, including data lakes, data warehouses, and real-time analytics platforms.
+Design, build, and troubleshoot data acquisition pipelines from databases, flat-files, and REST APIs.
+Apply medallion architecture (bronze/silver/gold) for scalable, secure solutions.
+Design star schema dimensional models and implement semantic models optimized for Power BI analytics.
+Configure incremental refresh and partitioning strategies to optimize performance.
+Apply and promote best practices in governance, scalability, and deployment standards.
+Implement RBAC (Role-Based Access Control) with a zero-trust security approach.
+Troubleshoot pipeline failures, query performance issues, and semantic model errors using monitoring tools and optimization techniques.
+Create and maintain technical documentation, data flow diagrams, and mapping documents.
+Provide technical leadership and mentorship to junior team members.
+Communicate effectively with both technical and non-technical stakeholders.
+Requirements
+5+ years’ experience in data engineering, databases, or software development.
+3+ years’ experience with Python and/or SQL for data engineering.
+Proven expertise with cloud platforms (Azure, AWS, or GCP).
+Strong experience with dimensional modeling, SCDs, and medallion architecture.
+Solid problem-solving skills including troubleshooting performance issues and optimizing queries.
+Track record of delivering complex ELT/ETL projects in agile environments.
+Ability to create prototypes to meet evolving business needs.
+Excellent communication and collaboration skills.
+What we offer
+Competitive base salary (up to $135k, depending on experience).
+Comprehensive medical, dental, and vision benefits.
+401K plan with full employer contribution.
+Training and continuous learning opportunities.
+Wellness programs, fitness perks, and a collaborative work environment.
+Hybrid/onsite flexibility in Indiana with strong team culture and support.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Regionális
+Álláshirdetés jelentése

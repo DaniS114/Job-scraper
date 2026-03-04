@@ -1,0 +1,155 @@
+Cég neve
+Lechner Nonprofit Kft.
+Munkavégzés helye
+Hibrid
+•
+1111 Budapest, Budafoki út
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Cafeteria
+Szakmai tréningek
+Munkába járás támogatás
+Egészségbiztosítás
+Sport támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Rugalmas munkaidő
+Elvárt technológiák
+BASH
+PYTHON
+GIT
+AWS
+DEVOPS
+AZURE
+CLOUD
+DOCKER
+JAVA
+JENKINS
+SPRING
+DNS
+MAVEN
+CI
+HÁLÓZATI ISMERETEK
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Monitor (2 db)
+Windows
+Linux
+Mobiltelefon
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Főiskola
+
+Mobiltelefon
+Cafeteria
+Szakmai
+tréningek
+Munkába
+járás támogatás
+Egészségbiztosítás
+Sport
+támogatás
+Teljes
+munkaidő
+Rugalmas
+munkaidő
+BASH
+PYTHON
+GIT
+AWS
+DEVOPS
+AZURE
+CLOUD
+DOCKER
+JAVA
+JENKINS
+SPRING
+DNS
+MAVEN
+CI
+HÁLÓZATI
+ISMERETEK
+Laptop
+Monitor
+(1 db)
+Monitor
+(2 db)
+Windows
+Linux
+Mobiltelefon
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Kubernetesben futó alkalmazás kezelése :
+Helm chartok paraméterezése, módosítása
+Hibakeresés és javítás:
+A microservice modulokon átívelő folyamatok tracing logjának értelmezése alapján
+Spring Boot alkalmazások támogatása:
+Az alkalmazások teljesítményének finomhangolása és hibakeresése éles környezetben
+Build & Release folyamatok (CI/CD):
+A szoftver életútjának automatizálása a forráskódtól a produkciós élesítésig
+Monitorozás és Logging:
+Riasztási rendszerek karbantartása, hogy mindig egy lépéssel az incidensek előtt járjunk (Prometheus, Grafana, ELK stack)
+Elvárások
+Kubernetes (K8s) tapasztalat:
+Nem ijeszt meg a
+kubectl
+, magabiztosan kezelsz deploymenteket, service-eket és ingress-eket
+Spring Boot ismeretek:
+Érted, hogyan működik egy Java-alapú microservice, ismered a JVM beállításokat és a logging mechanizmusokat, az actuator endpointok szerepét, azok használatát
+Build eszközök ismerete:
+Tapasztalatod van Maven vagy Gradle rendszerekkel, release folyamatokkal
+Git
+: Branching stratégiák ismerete, branchek szerepe a folyamatban
+CI/CD eszközök:
+Gyakorlott vagy Jenkins, GitLab CI, GitHub Actions használatában
+Konténerizáció:
+Docker magabiztos használata (Dockerfile írás, image optimalizálás).
+Szkriptelés:
+Bash vagy Python ismerete az ismétlődő feladatok automatizálásához.
+Előnyt jelent
+Cloud szolgáltatók ismerete (AWS, Azure vagy Google Cloud).
+Hálózati ismeretek (Load Balancing, DNS).
+GitOps szemlélet és eszközök (pl. ArgoCD).
+Amit kínálunk
+Valódi társadalmi hatású munka: olyan projekteken dolgozhatsz, amelyek országos kiterjedésűek és közvetlenül segítik a magyar állampolgárok digitális ügyintézését.
+Támogató, emberközpontú környezet: odafigyelünk a szakmai és személyes jóllétedre.
+Versenyképes cafeteria csomag, magánegészségügyi ellátás, céges jóga és edzéslehetőség, rugalmas home office, valamint szemüveg-hozzájárulás.
+Fejlődésed képzésekkel, szakmai közösségekkel, visszajelzési rendszerrel, belső pályázatokkal és Udemy hozzáféréssel támogatjuk.
+Munkahelyi extrák
+Zuhanyzási lehetőség
+Céges rendezvények
+Kerékpártároló
+Parkoló
+Sportolási lehetőség
+Ingyen kávé, üdítő
+Céginformáció
+Az üzemeltetői csapat tagjaként aktív szerepet vállalhatsz modern, cloud-native informatikai rendszerek tervezésében, bevezetésében és megbízható üzemeltetésében. Nálunk Kubernetes alapú, microservice-architektúrákra épülő alkalmazásokkal dolgozhatsz, ahol a fejlesztés és az üzemeltetés szorosan összekapcsolódik.
+Feladatod lesz az alkalmazások teljes életciklusának támogatása a tervezéstől az éles környezetig: CI/CD folyamatok kialakítása, monitorozás és hibakeresés, valamint technológiai sztenderdek meghatározása. Olyan szakembert keresünk, aki átlátja a rendszerek egészét, és DevOps eszközökkel és szemlélettel járul hozzá a jövő digitális szolgáltatásainak stabil és hatékony működéséhez.
+Jelentkezés módja
+Ha szívesen részt vennél a jövő digitális állami szolgáltatásainak alakításában, és felelősséget vállalnál a mögöttük álló architektúra minőségéért, várjuk jelentkezésed!
+Látod már magad ebben a pozícióban? Ha igen, kérjük küldd el fényképes, bruttó bérigényed is tartalmazó magyar nyelvű önéletrajzod és portfoliód a t"Jelentkezem" gombra kattintva.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+üzemeltetés, Telekommunikáció
+Rendszerüzemeltető
+Budapest
+Budapest
+Álláshirdetés jelentése

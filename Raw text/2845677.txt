@@ -1,0 +1,66 @@
+Cég neve
+GITMAX IT Services Zrt.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+ERP
+API
+TROUBLESHOOTING
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+ERP
+API
+TROUBLESHOOTING
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, develop, and execute test plans, cases, and scripts for Odoo modules including Finance, Inventory, Sales, and Procurement.
+Conduct functional, integration, regression, and user acceptance testing.
+Validate Odoo customizations, configurations, and third-party integrations.
+Ensure accuracy of data migration and verify workflows across multiple modules.
+Identify, document, and track defects; collaborate with developers and consultants for resolution.
+Contribute to the continuous improvement of QA processes and standards.
+Requirements
+3+ years of experience in software QA, ideally with ERP systems (Odoo strongly preferred).
+Strong knowledge of QA methodologies, tools, and best practices.
+Hands-on experience in ERP testing, API testing, and data validation.
+Familiarity with the Odoo testing framework is a strong advantage.
+Excellent analytical, problem-solving, and documentation skills.
+Strong communication skills and ability to collaborate with cross-functional teams.
+Nice-to-have
+High attention to detail and accuracy., Strong troubleshooting and analytical mindset., Proactive, adaptable, and results-oriented., Ability to thrive in collaborative and dynamic environments.
+What we offer
+Opportunity to work with a leading ERP implementation in a global business environment.
+Competitive compensation package.
+Career growth in a supportive, innovative, and cross-functional team.
+Company info
+Our hiring partner, a global organization implementing Odoo ERP, is seeking a QA Specialist to ensure the quality, reliability, and performance of their ERP systems.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Tester,
+Test Engineer
+Regionális
+Álláshirdetés jelentése

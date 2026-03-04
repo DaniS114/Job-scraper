@@ -1,0 +1,38 @@
+Cég neve
+Mettler Toledo
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+DSP EngineerAbout Mettler ToledoMETTLER TOLEDO is a leading global supplier of precision instruments and services. We are recognized as an innovation leader and our solutions are critical in key R&D, quality control, and manufacturing processes for customers in a wide range of industries including life sciences, food, and chemicals. We operate throughout the world with a culture shaped by innovation and international flair.Our Opening and Your ResponsibilitiesAs a DSP Engineer 100% (all genders), you will join our global, cross-functional, and highly innovative Smart Sensor Team at our operational headquarters in Nänikon-Greifensee. In this role, you will be responsible for the design, simulation, and validation of signal-processing algorithms that power our industry-leading smart sensors.You will lead the way as the industry transitions into digitalization and smart factories, combining a deep understanding of signal theory and physical systems with practical software development to improve measurement performance and customer value.Your Responsibilities:Design and optimize new digital signal processing algorithms for multi-sensor weighing systems (filtering, disturbance compensation, condition monitoring, and noise mitigation) using our modular signal processing platform.Analyze and model mechanical, electrical, and physical properties of weighing systems to guide algorithm choices and improve system accuracy and stability.Develop proof-of-concepts and conduct performance analyses using MATLAB/Simulink and other simulation tools.Collaborate closely with electronics, data science, and firmware teams to ensure seamless integration and product readiness.Define and execute test plans, including lab measurements, environmental tests, and field verifications to validate performance under real operating conditions.Prepare technical documentation, including requirements, algorithm descriptions, validation reports, and release artifacts.Drive innovation by monitoring technology trends, reviewing signal-processing literature, and supporting IP/knowledge capture.What You Need to SucceedThe following requirements are necessary for this role:Master's or PhD degree in Physics, Mechanics, Robotics, Fluid Dynamics, or a related technical field.Strong theoretical background in physics, signal theory, and digital signal processing, including control theory, filtering (Kalman, adaptive filters), spectral analysis, system identification, system and noise modeling.Proficient in MATLAB and Simulink for system modeling and algorithm developmentAnalytical self-starter with a proactive, solution-oriented approach to technical ownership and problem-solving.Ability and willingness to work in a global, cross-functional team, including occasional travel for cross-site collaboration and field validation.Background in embedded software and knowledge of data acquisition methods are considered strong assets.Excellent communication skills in English; ability to explain complex concepts clearly. German language skills are a plus.Our Offer to YouWe are offering:Where applicable flexible working hours, a hybrid work model and a wide portfolio of training opportunities40h week with at least 25 vacation days per year plus 4 to 7 additional days off (i.e. in between bank holidays)Free parking spaces and direct access to public transport from our facilitiesHealthy menus cooked onsite and special prices for employees at our own METTLER TOLEDO restaurantWe offer a dynamic and innovation-driven corporate culture that promotes teamwork, personal development, and a passion for excellence.A range of additional attractive benefits like discounts for sport clubs and othersYou can expect challenging, interesting, and varied tasks in an innovative and international environment, with the opportunity to network globally and realize your next career goal.Have we raised your interest? Then we look forward to receiving your complete application at our Job portal.Please note that we do not accept any application documents via e-mail, only applications submitted on our job platform due to our data protection guidelines. Furthermore, we do currently not accept applications from recruitment agencies for this role.If you have any question, please do not hesitate to contact our Talent Acquisition Team
+E-Mail schreiben
+#MTCHEqual Opportunity EmploymentWe are an equal opportunity employer and value diversity at our company. We give consideration for employment without regard to race, color, religion, sex, age, national origin, disability, sexual orientation, gender identity, genetic information, or any other protected classification. You can find more details in our Equal Employment Opportunity Policy. jid6b33e4dpn jit0309pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Engineer
+Electronic
+Control Engineer
+Switzerland
+Álláshirdetés jelentése

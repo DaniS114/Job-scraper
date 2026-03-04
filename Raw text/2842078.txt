@@ -1,0 +1,93 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SQL
+AGILE
+SECURITY
+DEVOPS
+.C.
+ACCESS
+CLOUD
+NODE.JS
+AWS
+DATABASES
+REACT
+PYTHON
+NOSQL
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SQL
+AGILE
+SECURITY
+DEVOPS
+.C.
+ACCESS
+CLOUD
+NODE.JS
+AWS
+DATABASES
+REACT
+PYTHON
+NOSQL
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Champion the design and delivery of secure, high performance microservices on AWS, owning services end-to-end from code to deployment and monitoring.
+Set technical direction across multiple teams by spotting system pain points, simplifying architectures, and driving meaningful improvements.
+Shape AI driven solutions: advise on model capabilities, craft effective agentic strategies, and embed governance, monitoring, and guardrails into development workflows.
+Partner with Product, Security, and DevOps to define roadmaps and integrate AI features that deliver real, measurable value.
+Continuously raise the bar by evaluating and piloting new tools (including latest AI tooling) to improve performance, cost efficiency, and developer productivity.
+Mentor engineers in best practices and AI augmented workflows, fostering a culture of experimentation, learning, and ethical AI use.
+Stay ahead of AI and platform trends, adapting designs and practices so your systems remain robust, compliant, and future proof.
+Requirements
+7–10 years of experience delivering secure, scalable applications in agile environments, including leading complex projects across teams.
+Deep understanding of modern AI and system architectures with experience using these to shape technical strategy.
+Proven ability to architect AI enabled systems with embedded monitoring, governance, and clear operational guardrails.
+Strong hands-on skills in Node.js/TypeScript on a major cloud platform (preferably AWS), including serverless or microservice patterns, infrastructure as code (CDK/Terraform), CI/CD, containerization, and observability tooling.
+Solid knowledge of SQL and/or NoSQL databases, plus a track record of designing high-performance APIs and data models.
+Habit of integrating security best practices (IAM, secrets management, privacy controls) into everything you build — including AI components.
+Excellent communication and leadership skills: you explain complex technical and AI topics clearly, influence engineering culture, and mentor peers with confidence.
+Nice-to-have
+Experience leading organisation wide or multi team initiatives that introduced new AI capabilities or platform patterns., Hands-on work with AI governance and compliance (for example bias/privacy checks in pipelines, AI usage policies, or audit ready monitoring)., Prior experience optimising large scale cloud costs and performance for AI heavy or data intensive services., Familiarity with React or other modern front end frameworks so you can collaborate smoothly on end-to-end features., A track record of mentoring Senior/Staff engineers and shaping technical communities (guilds, architecture forums, AI working groups).
+What we offer
+Creativity is ingrained in our culture. We are innovative collaborators by nature.
+We care about our people. Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs to name a few.
+We have teams all over the world with office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney.
+Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding.
+Hybrid work model with expectation to work onsite at least 50% of the time if within commuting distance to an office location.
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+At Diligent, we're building the future with people who think boldly and move fast. Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. The future belongs to those who keep learning, and we are building it together. At Diligent, you’re not just building the future - you’re an agent of positive change, joining a global community on a mission to make an impact.
+Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability – to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.
+Headquartered in New York, Diligent has offices in Washington D.C., London, Galway, Budapest, Vancouver, Bengaluru, Munich, Singapore and Sydney.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

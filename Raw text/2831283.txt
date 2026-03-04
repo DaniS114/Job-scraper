@@ -1,0 +1,88 @@
+Cég neve
+Secunet Security Networks AG
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+LINUX
+FRONTEND
+SECURITY
+CHANGE MANAGEMENT
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+LINUX
+FRONTEND
+SECURITY
+CHANGE
+MANAGEMENT
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+own and evolve the userspace architecture of an embedded Linux system
+contribute hands-on to core components, especially in early project phases
+define stable interfaces and APIs in collaboration with frontend and system teams
+build and mentor the engineering team
+collaborate with central platform and engineering units by consuming and contributing shared components
+Requirements
+several years of experience in embedded Linux or system-level software development
+strong hands-on skills in userspace development and system integration
+experience taking technical ownership and guiding architectural decisions
+proven ability and willingness to build, mentor and develop engineers
+security-aware mindset and experience working within constrained or regulated environments
+Technologies we use
+Nix is the glue that keeps all our software together
+NixOS is our OS of choice
+Rust is the lingua franca of our development efforts
+DPDK-based high-performance networking stacks
+U-Boot is our universal bootloader
+GitLab is our software development platform
+Bonus Points
+experience with kernel-level and bootloader development
+familiarity with the German language, while not required, is an advantage
+proven experience in organizational transformation or change management
+What we offer
+Company Culture:
+We value open communication, innovation, and teamwork, fostering a collaborative environment with flat hierarchies.
+Work-Life Balance:
+Flexible working hours and remote work options support a balance between professional and personal life.
+Career Growth:
+We offer ample opportunities for professional development, including coaching, mentoring, and leadership pathways.
+Tech Stack:
+Work with cutting-edge technologies and help shape secunet's future by influencing the long-term technological vision.
+Competitive Compensation:
+We provide an attractive salary, bonus structures, and a range of benefits, including health and wellness programs.
+If you are keen to work for a leading company of cyber security in a fair and trusting environment, you should immediately get in touch with us.
+Company info
+For our group-wide development department SINA Evolution in the Public Authorities division – the driver of secure cloud transformation – we are looking for your bright mind to join one of our locations in Berlin, Bonn, Borchen, Dresden, Eschborn, Essen, Hamburg, Hanover, Ilmenau, Munich, Siegen or Stuttgart as soon as possible.
+Involves up to 20% of travelling (Primarily optional and phase-dependent)
+We're looking for a Lead Embedded Linux Engineer to take technical ownership of the userspace architecture of a security-critical embedded system.
+In this role, you are the primary technical decision-maker for userspace design while remaining deeply involved in hands-on development. You help establish technical foundations, guide architectural direction and actively contribute to building an engineering team — including mentoring and onboarding future engineers as the project and team grow.
+SINA Evolution is secunet's innovation department for security-focused products in public authority & high security environments. The team is responsible for building the technical foundation for new product classes and long-term platform solutions.
+We contribute directly to the development of sovereign, security-critical digital infrastructure. The systems we shape are used in high-security public-sector environments where control, trust, and long-term operability matter more than speed or hype.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

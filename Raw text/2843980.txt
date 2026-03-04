@@ -1,0 +1,94 @@
+Cég neve
+Utimaco GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C++
+NETWORK
+LINUX
+SECURITY
+PYTHON
+GIT
+DATABASE
+POSTGRESQL
+AGILE
+TESTING
+BASH
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+C++
+NETWORK
+LINUX
+SECURITY
+PYTHON
+GIT
+DATABASE
+POSTGRESQL
+AGILE
+TESTING
+BASH
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design and implement high-performance software components for complex distributed systems, focusing on C++ development and advanced network protocols.
+Develop features aligned with the product roadmap and implement custom solutions for individual customer requirements.
+Analyze and resolve technical challenges independently, ensuring scalability, reliability, and security in mission-critical environments.
+Integrate third-party applications and libraries into our distributed architecture, meeting strict availability and security requirements.
+Collaborate within an agile development team to deliver robust and maintainable software modules.
+Plan and implement comprehensive testing strategies across unit, integration, and system levels, ensuring coverage, reliability, and compliance with quality standards.
+Document and present code and technical designs, and communicate technical issues and solutions within the team and to outside stakeholders
+Requirements
+Your profile
+YOUR PROFILE:
+Successfully completed your studies in computer science or a comparable education
+Relevant professional experience in the field of modern software development
+Very good knowledge and practical experience in modern C++ (20+)
+Experience in Python, Go and Bash are an advantage
+Practical experience in working with C++ code in Linux server environments
+Experience developing security critical components, including authentication, encryption and network security
+Already used tools for code analysis and optimization such as Clang, Valgrind and code reviews
+Sound knowledge of network protocols and the programming of corresponding applications
+Knowledge of complex client-server architectures
+Experience with authentication/authorization protocols like Oauth, OIDC, SAML etc are a plus
+Experience in performance optimization and measurement in C++ code
+You have already developed using Git on Linux systems and worked with virtualized/containerized deployment systems
+Database know-how, ideally in connection with PostgreSQL
+Good English language skills in written and spoken form
+What we offer
+We offer
+WE OFFER:
+A true international presence: in Germany, Italy, and the UK
+Growing at a fast pace, gaining market share over our competitors
+An open and friendly corporate culture, characterized by constructive and cooperative relationships
+Flexible working hours and home-office options
+Professional and personal development through targeted further education opportunities
+Company info
+Security is becoming increasingly important to industries. Utimaco products have been protecting people from organized crime and terror as well as sensitive data from theft and abuse for over 35 years. To this end, Utimaco has developed hardware security modules and compliance solutions for telecommunications providers in the field of regulation. Utimaco is the global market leader in both segments. Utimaco stands for recognized product quality, userbility, excellent support and a market-driven offer, manufactured in Germany.
+The central goal of protecting people, data and ideas is the commitment of more than 200 people to Utimaco.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

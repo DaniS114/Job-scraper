@@ -1,0 +1,46 @@
+Cég neve
+Albedis AG
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+API
+AZURE
+DEVOPS
+MONGODB
+Elvárások
+Angol anyanyelvi szint
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+API
+AZURE
+DEVOPS
+MONGODB
+Angol
+anyanyelvi szint
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Senior DevSecOps Engineer in the region of BaselOur client is a well-established financial institution known for its long-standing stability, international footprint, and commitment to operational excellence. The organisation fosters a collaborative culture, values expertise, and promotes continuous improvement across its global technology and data functions.Job descriptionAs Senior DevSecOps Engineer, you will enhance development environments, CI/CD workflows, and infrastructure automation. You support engineering teams, optimise system environments, and ensure adherence to best practices across the software-delivery lifecycle.Key ResponsibilitiesImprove CI/CD pipelines through scripting and automation.Maintain and optimise development tools, container environments, and OpenShift/Kubernetes components.Support developers throughout the lifecycle, ensuring best-practice implementation.Perform root-cause analyses and improve system scalability.Integrate and enhance tools such as logs, ETL pipelines, and API management.Expected ProfileYou hold a university-level qualification in an IT discipline or have completed an equivalent technical apprenticeship, and you bring several years of current, hands-on DevSecOps experience covering CI/CD pipelines, container technologies and modern development tooling. You work with a holistic view of system environments and contribute actively to engineering improvements.Additionally:3+ years of DevSecOps experience; Azure DevOps and Kubernetes preferredBackground in development (ideally .NET) and technologies like Elasticsearch, MongoDB, Redis or KafkaStrong analytical thinking and holistic system viewFluent in EnglishValid Swiss work permit or EU/EFTA citizenship requiredWillingness to work 100% on-siteBenefits:Central city office locations across SwitzerlandAbove average insurance coverage fully borne our clientContribution to health insurance and meal allowanceExcellent opportunities for further training and personal developmentInternational environment jid7d61dffpn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Switzerland
+Álláshirdetés jelentése

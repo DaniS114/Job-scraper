@@ -1,0 +1,90 @@
+Cég neve
+Oktatási Hivatal
+Munkavégzés helye
+1122 Budapest, Maros utca 19-21.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+üzletileg kritikus, komplex alkalmazások teljes körű fejlesztése;
+meglévő alkalmazások karbantartása, refaktorálása;
+részvétel a teljes implementációs folyamatban a tervezéstől az élesítésig;
+junior kollégák munkájának támogatása.
+Elvárások
+legalább középfokú szakirányú végzettség;
+Laravel keretrendszerben legalább 3 éves tapasztalat;
+PHP nyelv magas szintű ismerete;
+OOP magas szintű ismerete;
+programtervezési minták ismerete;
+SQL magas szintű ismerete;
+Vue3 keretrendszerben legalább 1 éves tapasztalat;
+verziókezelés ismerete (Git);
+clean code ismerete;
+REST webservice technológia ismerete;
+precizitás, projektszemlélet, önálló munkavégzés;
+készség új technológiák megtanulására;
+csapatmunkára való alkalmasság;
+büntetlen előélet;
+magyar állampolgárság;
+cselekvőképesség.
+Előnyt jelent
+HTML5, CSS3, Javascript, Typescript ismerete;
+PHPUnit tapasztalat;
+automatizált tesztelésben, CI-ben szerzett tapasztalat;
+konténerizált fejlesztésben való tapasztalat;
+webservice technológiák ismerete (SOAP és REST);
+agilis módszertanok ismerete;
+TDD tapasztalat;
+JIRA ismerete;
+Tapasztalat kódminőség ellenőrző alkalmazások használatában (PHP Code Sniffer, PHPStan, PHP Mess Detector).
+Amit kínálunk
+megfelelő és stabil fizetés;
+heti 40 órás, teljes munkaidős határozatlan idejű munka törvénykönyve szerinti alkalmazotti munkaviszony;
+fiatal, családias hangulatú, barátságos csapat;
+szakmai fejlődési lehetőség;
+nyugodt munkakörnyezet;
+jól megközelíthető, színvonalas iroda, modern munkaeszközök;
+AYCM sportpass igényelhető.
+Céginformáció
+Az Oktatási Hivatal egyszerre van jelen a köznevelési és a felsőoktatási intézmények életében, a diákok továbbtanulásánál – működésével a hazai képzés minden területét hatékonyan a hallgatók tanulmányaiban, illetve a nyelvvizsgázók vagy a pedagógiai továbbképzéseken részt vevő tanárok ügyeinek intézésénél fogja össze.
+Jelentkezés módja
+Amennyiben ajánlatunk felkeltette érdeklődését, kérjük, küldje
+magyar
+nyelvű önéletrajzát a fizetési igény megjelölésével!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

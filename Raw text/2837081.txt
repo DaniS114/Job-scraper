@@ -1,0 +1,36 @@
+Cég neve
+ZHAW
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Postdoctoral researcher: Combining AI, adaptive control, and digital twins to optimize advanced manufacturing 100 %Context-aware adaptive control for interpretable automation in advanced man-ufacturing - postdoctoral position within the NCCR Automation consortiumPostdoctoral researcher: Combining AI, adaptive control, and digital twins to optimize advanced manufacturing 100 %School:School of EngineeringStarting date:Mayor by appointmentYour roleAdvanced manufacturing systems face persistent challenges: variability across different environments and scenarios, and non-stationarity from drift, wear, and changing process dynamics. While methods like iterative learning control (ILC), reinforcement learning (RL), and Bayesian optimization (BO) offer promising solutions, their adoption in practice is limited by lack of adaptability, large data requirements, and opaque decision-making processes. They are missing the underlying knowledge, adaptability, and experience of an expert operating the equipment.We are looking for a motivated postdoctoral researcher to contribute to addressing these challenges. The envisioned research will develop a framework that enables real-time adaptation in advanced manufacturing while incorporating expert rules and domain knowledge, making automated decision-making interpretable and transparent. One big goal is to develop approaches to avoid catastrophic forgetting in learning-based optimization frameworks used in production environments. You will work on integrating probabilistic models for prediction and adaptation with Large Language Models (LLMs) for language understanding-translating text-based commands to control objectives, inferring logical rules from natural language, and incorporating expert feedback. The methods will be demonstrated on robotic systems available in our lab and in real manufacturing environments through collaborations with Swiss industry partners (e.g., Rieter AG).Your goal will be to translate your own research ideas to address these challenges, in close collaboration with our interdisciplinary team. As part of this process, you will support our PhD, bachelor, and master students, publish in scientific journals, contribute to our teaching efforts, and participate in conferences. The position is supported by NCCR Automation and offers excellent opportunities for collaboration with academic and industrial partners. The position offers good opportunity for the development of coordination and project management skills, PhD student supervision, proposal applications, and leadership skills. The project duration is one to two years.The position is hosted at the ZHAW Centre for AI, Industrial AI group, supervised by Dr. Alisa Rupenyan (professor for Industrial AI at ZHAW Centre for AI) , in strong collaboration with Prof. Dr. John Lygeros (heading the Automatic Control Laboratory at ETH Zurich), and Dr. Efe Balta (group leader for Advanced control and automation at inspire AG).Your profileYou are highly motivated and dedicated with a doctoral degree in electrical, mechanical or industrial engineering, robotics, computer science, or in related topics in machine learning / AI, with a focus on control systems, optimization, or natural language processing. Background in adaptive control, reinforcement learning, or LLM applications is highly beneficial.You are experienced as a researcher with an active interest in manufacturing processes and in developing automation solutions to improve their efficiency and sustainability.Programming, modelling, and data analysis skills in Python will support you in contributing to our ongoing software development efforts. You are autonomous and interested in participating and managing large-scale collaboration projects. We expect fluent English knowledge, and German could be beneficial.This is what we stand forZurich University of Applied Sciences ZHAW is one of Switzerland's largest multidisciplinary universities of applied sciences, with over 14'000 students and 3'400 faculty and staff.ZHAW is committed to gender-mixed and diverse teams in order to promote equality, diversity and innovation.The School of Engineering (SoE), as one of the leading educational and research institutions in Switzerland, fo-cuses on topics relevant to the future. 14 institutes and centres guarantee high-quality education, research and development with a focus on the areas of energy, mobility, information and health.The Centre for Artificial Intelligence (CAI) is a Center of Excellence at ZHAW and maintains a growing number of research groups in various domains. The Industrial AI group specializes in research for the improvement and au-tomation of complex manufacturing systems, combining methods from robotics, AI, and control systems.We are looking for a deeply interested, technically skilled personality. Please honor us with a tailored cover letter and highlight facts that underline your suitability for this position, transcripts of grades from (some of) your de-grees, and 2 reference contacts. We are looking forward to hearing from you!What you can expectWe offer working conditions and terms of employment commensurate with higher education institutions and actively promote personal development for staff in leadership and non-leadership positions. A detailed description of advantages and benefits can be found at Working at the ZHAW. The main points are listed below:ContactProf. Dr. Alisa Rupenyan-VasilevaRieter Stiftungsprofessur Industrial AIJocelyn SchaadRecruiting Manager jidba80da6pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Manufacturing,
+Production
+Automatization
+Switzerland
+Álláshirdetés jelentése

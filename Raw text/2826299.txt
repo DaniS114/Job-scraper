@@ -1,0 +1,89 @@
+Cég neve
+4iG Informatikai Zrt.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Szakmai tréningek
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Főiskola
+
+Cafeteria
+Szakmai
+tréningek
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Angol
+középfok
+Nem
+kell tapasztalat
+Főiskola
+
+Állás leírása
+CÉGINFORMÁCIÓ
+Csapatunk önálló, Enterprise infrastruktúra projektek leszállításáért és fejlesztési projektek infrastruktúra megvalósításáért felel, szoros együttműködésben a presales divízióval. Ezek az infrastruktúrák a mai kor üzleti követelményeinek megfelelően on-premise, felhő, vagy hibrid platformon futó Linux alapú konténer technológiák, amelyek szoftver alapú hálózati és tároló megoldással, és integrált CI/CD megoldással rendelkeznek. A feladatunk továbbá, hogy ezen infrastruktúrák monitorozását, naplógyűjtését, mentését, biztonságos elérését is megoldjuk.
+A fentiekből eredően olyan kollégát keresünk, aki infrastruktúra tervezéssel, és megvalósítással kapcsolatban rendelkezik tapasztalattal, a mai legkorszerűbb technológiákkal dolgozik, otthonosan mozog az IaC megoldásokon alapuló csoportmunkában, és van kedve új dolgokat kitalálni, kísérletezni. Nagy előnynek tekintjük, ha tapasztalt python, javascript, vagy low-code, no-code technológiákon alapuló fejlesztésekben, adatbázisok használatában.
+Nem helpdesk feladatokra, vagy napi üzemeltetési munkákra keresünk embereket, hanem azon tapasztalt mérnököket keressük, akik projektekben, kreatívan, innovatívan, infrastruktúrák tervezésével, és felépítésével kapcsolatos megoldásokkal foglalkozva képzelik el a jövőjüket. A Linux technológiák mellett számtalan területen van lehetőség fejlődése, mint például szerver, tároló, hálózat, felhő, IoT, vagy mesterséges intelligencia
+Ha ez szimpatikus számodra, nézzük a részleteket.
+KÖZÖS CÉLJAINK MEGVALÓSÍTÁSÁHOZ AZ ALÁBBIAKBAN SZÁMÍTUNK RÁD
+A feladatai hatékonyabb ellátása érdekében folyamatos önképzés, naprakész ismeretek szerzése a támogatott termékekről, rendszerekről, szolgáltatásokról
+Gyártói minősítéseinek megszerzése, szinten tartása, fejlesztése, kiszélesítése horizontális vagy vertikális irányban
+Ügyfeleink IT rendszereinek teljes körű tervezése, kialakítása és tesztelése, bevezetés támogatása
+A hozzárendelt bejelentések, események lezárásig történő végigkövetése, szükség esetén a feladatok delegálása a magasabb technikai, gyártói vagy management szint felé
+Az elvégzett munkák teljes körű, naprakész adminisztrációja a céges szabályozások szerint (céges szabályozás szerinti rendszerekben történő munkaidő ráfordítás könyvelése, hibajegy kezelő rendszer, munkalapok, rendszerdokumentáció, amennyiben szükséges teljesítés igazolás)
+A cég eredményességét elősegítő szolgáltatási portfóliójának szélesítése érdekében kutató, felderítő tevékenység, illetve a tevékenység eredményeképpen kialakult portfólió cégen belüli megismertetése, a kereskedő munkatársak pre- és post-sales támogatása
+AMI SZÜKSÉGES LESZ AZ EREDMÉNYES MUNKÁDHOZ
+Hálózati L2/L3 technológiák és kapcsolódó szolgáltatások, mint pl. DNS, DHCP, NTP, terheléselosztás, WAF, működésének ismerete
+Python, Javascript, low-code no-code ismeretek
+Red Hat, SuSE, Debian alapú, összetett, magas rendelkezésre állású, skálázható rendszerek tervezése implementálása, L3 szintű támogatása
+DevOps támogató eszközök (Jenkins, Ansible, Giltlab, Vault, image Registry) implementálása, L3 szintű támogatása
+Kubernetes alapú szolgáltatások tervezése implementálása, L3 szintű támogatása
+Nyílt forráskódú címtár, IDM, PKI, és felügyleti rendszerek (monitoring, loggyűjtés, konfiguráció menedzsment, biztonságos elérés) tervezése implementálása, L3 szintű támogatása
+Magas rendelkezésére állású Zabbix monitorozó megoldások tervezése, és implementálása
+Alkalmazások fejlesztésének infrastruktúra oldali támogatása, infrastruktúra architektúrák logikai és fizikai szintű tervezése, dokumentálása
+Működési és teljesítménnyel kapcsolatos problémák L3 szintű elemzése és javítása
+Ami szükséges lesz az eredményes munkádhoz
+Műszaki vagy természettudományi BSc vagy MSc végzettség
+Dokumentációs készség
+Középfokú angol nyelvtudás
+Nyitottság, kreativitás, szorgalom, tanulási hajlandóság
+Csapatmunkára való képesség
+Ügyfelekkel való kommunikációs, tárgyalási, és prezentációs készség
+AMINEK MÉG ÖRÜLÜNK
+Azure, AWS, vagy Google felhő szolgáltatások önálló tervezésében és kivitelezésében szerzett tapasztalat
+Felhő, vagy on-premise IoT megoldások tervezésében és implementálásában szerzett tapasztalat
+Aktív gyártói minősítések
+Agilis és klasszikus projektmódszertanok alapszintű ismerete
+AMIVEL VÁRUNK TÉGED
+Magyarországon egyedülálló projektekben vehetsz részt és kihívásokkal teli időszakban csatlakozol hozzánk
+Változatos feladatokon keresztül, fejlődési- és karrierlehetőséget biztosítunk számodra
+Szakmai és soft skill képzések széles palettáját kínáljuk Neked munkavégzésedhez kapcsolódóan
+Modern, színvonalas irodai környezet kiváló infrastruktúrával
+Juttatási rendszerünket folyamatosan bővítjük, jelenleg telefonflotta csomag, Cafeteria (SZÉP kártya), Egészségbiztosítás, és sok más kedvezményes lehetőség, amivel várunk Téged
+Biztonságos kerékpár tárolási lehetőséget biztosítunk és zuhanyzót, hogy nyugodtan tekerhess.
+Hiszünk a csapat erejében, közösségépítéssel kapcsolatban csapatépítőkre, versenyekre és sporteseményekre lehet számítani nálunk
+MUNKAHELYI EXTRÁK
+Zuhanyzási lehetőség
+Céges rendezvények
+Kerékpártároló
+Sportolási lehetőség
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+üzemeltetés, Telekommunikáció
+Hálózati
+és Rendszermérnök
+Budapest
+Budapest
+Álláshirdetés jelentése

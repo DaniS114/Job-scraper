@@ -1,0 +1,78 @@
+Cég neve
+IPACKCHEM Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+AZURE
+PYTHON
+SQL
+POSTGRESQL
+ACCESS
+AGILE
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+AZURE
+PYTHON
+SQL
+POSTGRESQL
+ACCESS
+AGILE
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Designing and developing proof of concepts (PoCs) and demonstrating the solution to internal customers on a tight schedule
+Utilize GenAI no code, low code, and SDKs to build robust GenAI agents that automate business processes to build PoC
+Take GenAI and Agentic AI solutions from concept to Proof-of-Value (PoV) and work with other team members to scale the PoV to production
+Develop documentation for each development, including testing and validation procedures/plans
+Embed/integrate GenAI agents (Copilot agents) into business platforms such as Workday, Teams, etc.
+Work on small to medium-sized projects with minimal supervision
+Apply Agile methodology to ensure efficient project delivery
+Support the AI CoE in its user engagement and AI Toolkit adoption mission
+Requirements
+Bachelor’s or master’s degree in AI, computer science, Engineering, mathematics or a related field
+2-4 years of experience in developing and deploying Agentic solutions to production
+Hands-on experience developing solutions using no code/low code platforms and SDKs
+Must be proficient in Microsoft Azure GenAI platforms (AI Foundry, Copilot Studio), Power Platform
+Experience applying advanced AI concept such as MCP servers for connecting AI Agents to tools
+Excellent problem-solving skills and attention to detail
+Strong communication and collaboration skills
+Nice-to-have
+Preferred Skills: Automation of complex processes using GenAI agents, especially using the Azure Foundry, Copilot Studio, Power Automate and other low code/no code platforms, Advanced programming with Python, SQL, Hands-on experience with at least one of the following data storage systems: Snowflake, Azure Fabric (One Lake), and PostgreSQL, Experience building sites with SharePoint building automation workflows with Power Automate platform
+What we offer
+Opportunity to work with a global leader in industrial packaging
+Collaborative and inclusive work environment
+Access to cutting-edge technology and innovative projects
+Competitive salary and benefits package
+Professional growth and development opportunities
+Company info
+Greif is a global leader in performance packaging located in 40 countries. The company delivers trusted, innovative, and tailored solutions that support some of the world's most in demand and fastest-growing industries.
+With a commitment to legendary customer service, operational excellence, and global sustainability, Greif packages life's essentials - and creates lasting value for its colleagues, customers, and other stakeholders.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

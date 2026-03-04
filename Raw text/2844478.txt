@@ -1,0 +1,103 @@
+Cég neve
+META-INF Szolgáltató Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+JAVASCRIPT
+API
+POSTMAN
+PHP
+RUBY
+JAVA
+AUTOMATIZÁLÁS
+JIRA
+CONFLUENCE
+REST
+Biztosított eszközök
+Laptop
+Mobiltelefon
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+JAVASCRIPT
+API
+POSTMAN
+PHP
+RUBY
+JAVA
+AUTOMATIZÁLÁS
+JIRA
+CONFLUENCE
+REST
+Laptop
+Mobiltelefon
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Magas szintű technikai és üzleti tanácsadás ügyfeleink számára az Atlassian termékeivel és saját fejlesztésű megoldásainkkal kapcsolatban.
+Ügyfeleink üzleti, IT folyamatainak felmérése, ezek hatékonyságának javítását elősegítő komplex megoldások tervezése, bevezetése és minőségbiztosítása.
+Komplex automatizálási és integrációs megoldások fejlesztése és implementálása Nunjucks (pl. JMWE) és Groovy (pl. Scriptrunner) segítségével.
+Junior tanácsadó kollégák szakmai mentorálása, támogatása.
+Implementált megoldások magas szintű támogatása (support) és továbbfejlesztése.
+Elvárások
+Mélyreható, többéves tapasztalat az Atlassian termékcsaláddal (különösen Jira és Confluence).
+Magabiztos, gyakorlati tapasztalat Atlassian workflow-k automatizálásában és scriptelésben, legfőképpen Nunjucks (pl. JMWE) és Groovy (pl. Scriptrunner) használatával.
+Jártasság REST API-k használatában és rendszerek integrálásában.
+Képes vagy komplex üzleti igényeket technikai megoldásokra fordítani és azokat önállóan implementálni.
+Szeretsz és tudsz is emberekkel, ügyfelekkel kommunikálni, igényeiket felmérni és számukra megoldásokat prezentálni.
+Magabiztos, tárgyalóképes angol nyelvtudás (szóban és írásban).
+Precíz kód készítése, és ezek megfelelő tesztelése.
+Tesztjegyzőkönyvek készítése.
+Postman ismerete.
+Előnyt jelent
+Tapasztalat projektmenedzsment feladatokban: szerződések kezelése, projektek indítása, követése és zárása., Tapasztalat értékesítési folyamatok technikai támogatásában (presales)., Technikai workshopok, oktatások és képzések megtartása ügyfelek és csapattagok számára., Egyéb programozási nyelvek ismerete (PHP, Python, Ruby, Java, Javascript)., Atlassian minősítések (pl. ACP-120, ACP-420, ACP-620).
+Amit kínálunk
+Fizetés, amennyit kérsz. Mi nem alkuszunk, vagy megadjuk amit kérsz, vagy jelezzük, hogy egyelőre ezt nem tudjuk még biztosan kitermelni neked.
+Folyamatos fejlődési lehetőség; mentoring, közös munka, együtt kitűzött fejlődési célok.
+Munkaidőben készülhetsz fel hivatalos Atlassianos minősítések megszerzésére és a vizsgadíjat is álljuk.
+Külföldi szakmai utak teljes térítése, ha érdekel.
+Munka-magánélet egyensúly, ami nálunk nem csak egy üres frázis.
+Rendkívül egészségtudatos és sportbarát munkahely vagyunk.
+Fontosabb családi események, betegség esetén extra, fizetett szabadnapokat biztosítunk.
+Egészségbiztosítást kötünk számodra, finanszírozzuk a munkába járást és számos egyéb lehetőséggel támogatunk a 9 és 5 óra közötti napszakon kívül is.
+Hosszú távú perspektívát kínálunk, nyitottak vagyunk a te ötleteidet is beépíteni a cégfejlesztésbe, és támogatni szakmai fejlődésed, bármilyen irányba is mennél.
+Modern iroda a Science Parkban.
+Kedves, támogató és magas szakmai kompetenciájú csapat.
+Transzparens vállalati kultúra.
+Tömegközlekedési támogatás
+Céges telefon, notebook
+Magánegészségügy, masszázs, csapatépítő programok
+Konferencia támogatás, házon belüli képzés, képzési hozzájárulás
+Céginformáció
+Senior Atlassian tanácsadót keresünk Atlassian Platinum Solution Partner Enterprise és Platinum Marketplace Partner kitüntetésekkel rendelkező budapesti csapatunkba. Kilenc appunkat 6000+ cég hétmillió felhasználója használja napi szinten. A ma már több mint 1000 fős Magyar Atlassian Meetup közösség alapítása is a nevünkhöz kötődik. Bár eredményeink több kontinensről is jól láthatóak, rendkívül közvetlen, ideális méretű csapatunkban biztosan nem fogod magad egy hatalmas gépezet kis fogaskerekének érezni.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+IT
+tanácsadó, Elemző, Auditor
+Budapest
+Álláshirdetés jelentése

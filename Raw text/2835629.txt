@@ -1,0 +1,133 @@
+Cég neve
+WeShop Kft.
+Munkavégzés helye
+Távmunka / Remote
+•
+Opcionális iroda
+Fizetés
+Br.
+1,0M - 1,8M Ft havi bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+BACKEND
+AWS
+ASP.NET CORE
+API
+SQL
+ENTITY FRAMEWORK
+DOCKER
+FRONTEND
+ANGULAR
+REST
+Elvárások
+Angol alapfok
+5-10 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+BACKEND
+AWS
+ASP.NET
+CORE
+API
+SQL
+ENTITY
+FRAMEWORK
+DOCKER
+FRONTEND
+ANGULAR
+REST
+Angol
+alapfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Feladatok
+.NET Core / ASP.NET Core backend fejlesztés
+REST API tervezés, implementáció
+SQL lekérdezések írása, adatmodellezés
+Query optimalizálás (indexelés, execution plan elemzés)
+Entity Framework Core használata
+Backend performance tuning, bottleneck-ek feloldása
+Caching megoldások alkalmazása (in-memory / distributed)
+Docker használata fejlesztés során
+CI/CD pipeline-ok működtetése
+Code review folyamatokban való részvétel
+Meglévő kód refaktorálása
+Clean architecture és SOLID elvek alkalmazása
+Együttműködés frontend fejlesztőkkel és termékcsapatokkal
+Elvárások
+Elvárások
+4–8+ év szoftverfejlesztési tapasztalat
+Magabiztos .NET Core / ASP.NET Core tudás
+REST API tervezési és implementációs tapasztalat
+SQL (MS SQL) gyakorlati tapasztalat
+Entity Framework Core mély szintű ismerete
+Query optimalizálás, indexelés, execution plan értelmezés
+API performance tuning
+Bottleneck azonosítás és javítás
+Caching alapelvek ismerete (in-memory / distributed cache)
+Docker használati tapasztalat
+AWS alapszolgáltatások ismerete (RDS, S3, CloudWatch)
+CI/CD pipeline-ok működésének megértése
+Clean architecture / rétegzett architektúra ismerete
+SOLID elvek gyakorlati alkalmazása
+Refaktorálási tapasztalat
+Code review kultúra ismerete
+Feature end-to-end ownership
+Önálló problémamegoldás
+Proaktív kommunikáció
+Aktív részvétel csapatmunkában
+Előnyt jelent
+Előnyt jelent (nem kizáró, ha nincs)
+Angular tapasztalat
+Microservice architektúra ismerete
+Redis vagy más distributed cache használata
+AWS EKS / ECS / App Runner tapasztalat
+Monitoring / logolás / tracing eszközök ismerete
+Mentoring tapasztalat
+Amit kínálunk
+Amit kínálunk
+Br. 1 000 000 - 1 800 000 Ft kereseti lehetőség (tapasztalat függvényében)
+Home office lehetőség (teljesen távmunkában is végezhető)
+Változatos, kihívást jelentő feladatok
+Barátságos, támogató csapat
+Szakmai fejlődési lehetőség
+Korszerű eszközpark és technológiai környezet
+Nyitottság a javaslatokra és ötletekre
+Céginformáció
+A ROKSH egy olyan online bevásárlási szolgáltatásokat nyújtó hazai vállalkozás, melynek célja, hogy a használói a lehető leggyorsabban és legegyszerűbben meg tudják vásárolni a számukra legjobb termékeket. A ROKSH.com piactéren end-to-end szolgáltatást nyújtunk a legnagyobb online retailereknek és fogyasztóinknak egyaránt. Jelenleg Magyarországon és Ausztriában vagyunk jelen az online FMCG piacon, de további terjeszkedéseket is tervezünk. Bővülő fejlesztői csapatunkba új Software Engineer – Backend Focus (.NET, AWS) kollégát keresünk.
+Jelentkezés módja
+Küldd el nekünk a CV-det, amely alapján egy rövid kódolási feladatot küldünk vissza. A feladat megoldását követően egy video interjú keretében ismerkedhetünk meg személyesen.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

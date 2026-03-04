@@ -1,0 +1,102 @@
+Cég neve
+Tech People Hungary Kft.
+Munkavégzés helye
+Budapest, XIII. kerület
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+XML
+HTML
+CSS
+PHP
+Git
+Symfony
+JavaScript
+MySQL
+CodeIgniter
+jQuery
+Gitlab
+Elvárások
+Angol alapfok
+1-3 év tapasztalat
+Általános iskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+XML
+HTML
+CSS
+PHP
+Git
+Symfony
+JavaScript
+MySQL
+CodeIgniter
+jQuery
+Gitlab
+Angol
+alapfok
+1-3
+év tapasztalat
+Általános
+iskola
+
+Állás leírása
+Feladatok
+Webalkalmazások fejlesztése, karbantartása
+Egyedi informatikai rendszerek fejlesztése
+Meglévő webalkalmazások karbantartása, hibajavítása, hibakövetése
+Webszervizek kialakítása, tervezése
+Elvárások
+Programozási nyelvek:
+Minimum 2-5 év magabiztos PHP tapasztalat
+JavaScript, HTML, CSS, XML
+Shell script
+MySQL/MariaDB alap szintű ismerete
+Keretrendszerek, toolok:
+CodeIgniter tapasztalat,
+Symfony, vagy Zend ismeret előnyt jelent
+OOP alapú rendszerek ismerete
+jQuery alapszintű ismerete
+Composer ismerete
+AI eszközök aktív használata, AI trendek, fogalmak, főbb modellek ismerete.
+Verziókezelés: Git, gitlab
+Angol nyelvtudás (minimum írott nyelv középfokú ismerete.)
+Előnyt jelent
+Continous Integration ismerete legalább alap szinten, pipeline kezelése
+kódminőség-ellenőrzésre szolgáló eszközök ismerete
+Coding Standards, Clean kód elvek ismerete és használata
+unit tesztelésben, TDD-ben való jártasság
+Docker ismeret
+Ubuntu Linux ismerete előny
+Amit kínálunk
+Home office
+versenyképes bér
+Céginformáció
+A Tech People egy Európai munkaerő-közvetítő vállalat, mely magasan képzett erőforrásokat valamint kiszervezett technológiai szolgáltatásokat nyújt különböző iparágak számára.
+Jelentkezés módja
+Jelentkezni lehet a lenti "Jelentkezem" gombra kattintva.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése
