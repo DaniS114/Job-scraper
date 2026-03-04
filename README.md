@@ -1,4 +1,4 @@
-# Job Market Intelligence Scraper 🚀
+# Job Market Intelligence Scraper
 
 A Python-based web scraping and data analysis tool designed to archive and analyze job advertisements from major Central European job boards. This project leverages **Local LLMs** to extract insights from job descriptions without compromising data privacy.
 
@@ -31,7 +31,5 @@ A Python-based web scraping and data analysis tool designed to archive and analy
 ├── CSV/                 # Scraped data in .csv file (profession_jobs.csv)
 ├── Raw text/            # Permanent backup of job descriptions (.txt)
 └── scraper.py           # Scraping scripts
-
----
-
-##  How to run
+```
+## How to run
