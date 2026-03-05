@@ -1,0 +1,81 @@
+Cég neve
+McKinsey & Company, Inc.Hungary Magyarországi Fióktelepe
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+CLOUD
+AWS
+GIT
+AZURE
+TROUBLESHOOTING
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+CLOUD
+AWS
+GIT
+AZURE
+TROUBLESHOOTING
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Designing predictive models
+Conducting large-scale experiments
+Uncovering insights that inform decision-making
+Defining and developing ontologies and knowledge graphs
+Establishing data standards and maintaining data quality
+Operationalizing models and graph services at scale
+Delivering and scaling AI solutions embedded into cross-functional teams
+Deploying assets on client service teams and refining them
+Contributing to the development of a generative AI product
+Conducting hands-on experiments and deploying production pipelines leveraging generative models
+Model training, fine-tuning, evaluation, and iteration
+Deploying solutions across cloud environments (AWS, Azure, GCP)
+Troubleshooting and resolving technical issues
+Developing and supporting customizations for client deployments
+Providing technical guidance on configuration and issue resolution
+Improving pipelines, tooling, and engineering standards
+Supporting ongoing product development when not assigned to active deployments
+Requirements
+3+ years of experience as a Data Scientist; previous enterprise platform experience preferred
+Deep theoretical and practical knowledge of NLP, Transformers, LLMs, and Generative AI
+Experience with OpenAI’s GPT suite, including multimodal LLMs: GPT4V, GPT4o
+Theoretical understanding of leveraging LLMs to build classification models, re-rankers, and recommendation systems
+Strong programming skills in Python with best engineering practices
+Experience managing a Git repository with effective version control and clean branching strategies
+Experience with knowledge graphs
+What we offer
+Continuous learning with structured programs and apprenticeship culture
+A voice that matters from day one with opportunities to contribute ideas and solutions
+Global community with colleagues across 65+ countries and over 100 nationalities
+World-class benefits including competitive salary and comprehensive benefits package
+Company info
+McKinsey & Company is a global management consulting firm that serves leading businesses, governments, non-governmental organizations, and not-for-profits. Founded in 1926, McKinsey operates in more than 65 countries and employs over 30,000 professionals. The firm is committed to helping organizations improve performance and achieve lasting impact through data-driven insights, innovative solutions, and leadership development.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

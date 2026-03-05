@@ -1,0 +1,73 @@
+Cég neve
+Xylem Water Solutions Ltd
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol középfok
+>10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+középfok
+>10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Company info
+Xylem is a Fortune 500 global water solutions company dedicated to advancing sustainable impact and empowering the people who make water work every day. As a leading water technology company with 23,000 employees operating in over 150 countries, Xylem is at the forefront of addressing the world's most critical water challenges. We invite passionate individuals to join our team, dedicated to exceeding customer expectations through innovative and sustainable solutions.
+Key Responsibilities
+The Integration Lead is responsible for overall integration architecture of Xylem’s middleware platform. Responsibilities will include designing and developing new integrations as well as maintaining existing ones, possibly taking part in the rotating production support and writing technical documentation. This role is a member of the Integration Services team and is responsible for developing and maintaining the Integration Platform.
+Essential Duties/Principal Responsibilities:
+Take responsibility for the overall integration architecture, design for the future of the platform
+Develop, configure, troubleshoot, and maintain integrations built in SAP BTP Integration Suite and SAP Cloud Platform Integration (CPI)
+Design, hands-on develop/code, unit test and support user testing of integrations as well as releasing to production.
+Provide detailed solution design and implementation plan for integrations following Xylem’s integration framework.
+Be a member of the rotating production support schedule to maintain the production environment and rapidly resolve production issues.
+Partner with application teams in requirements gathering, designing new integrations according to project requirements and in designing reusable and extensible integration solutions.
+Perform change management according to prescribed company processes, including migrating changes through testing environments and into the production environment.
+Provide subject matter expertise for continuous improvements such as reducing complexity, time and cost and increasing performance and effectiveness of the integration solutions.
+Key Competencies/Skills required
+Bachelor’s or Master’s degree in information technology, related field, or equivalent work experience
+Minimum 10 years’ work experience designing and building integrations with a thorough understanding of SOA, micro services
+Experience in platform-wide architecture design
+Extensive experience of troubleshooting integrations when errors occur and the ability to calmly troubleshoot in high pressure situations and effectively command control of crisis situations.
+Excellent oral and written communication skills in English
+Demonstrated analytical problem-solving skills.
+Self-motivated, able to take responsibility, set priorities and translate specific goals into action and follow through to achieve goals and execute projects with minimal oversight.
+Collaborative and effective team player and able to work with teams who are globally dispersed.
+Proven expertise in SAP BTP Integration Suite, SAP Cloud Platform Integration (CPI), as well as other integration technologies (IBM App Connect or MuleSoft or like technologies) with extensive experience in platform-wide design and architecture.
+Extensive knowledge of delivering SAP integration solutions built for on-premises and hybrid
+Extensive knowledge and hands on coding experience in SQL,
+Extensive knowledge in reading and understanding XML and performing mapping in XSLT.
+Extensive knowledge in different message formats such as JSON, flat file etc.
+Preferred Qualifications:
+SAP Integration suite B2B capabilities
+Experience in ABAP
+Experience or knowledge in IBM App Connect, IBM MQ and IBM DataPower
+Experience or knowledge in other integration tools like MuleSoft
+Experience in leading and participating in/managing cross-functional projects.
+Experience in SQL, DB stored procedures.
+Experience or knowledge in Neuron ESB
+What we offer
+Join the global Xylem team to be a part of innovative technology solutions transforming water usage, conservation, and re-use. Our products impact public utilities, industrial sectors, residential areas, and commercial buildings, with a commitment to providing smart metering, network technologies, and advanced analytics for water, electric, and gas utilities. Partner with us in creating a world where water challenges are met with ingenuity and dedication; where we recognize the power of inclusion and belonging in driving innovation and allowing us to compete more effectively around the world.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+System
+Integrator
+Budapest
+Álláshirdetés jelentése

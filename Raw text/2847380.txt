@@ -1,0 +1,102 @@
+Cég neve
+LVCD Entertainment
+Munkavégzés helye
+Hibrid
+•
+1088 Budapest, Rákóczi út 1-3.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+REACT
+VUE
+API
+BACKEND
+CMS
+FRONTEND
+JAVASCRIPT
+HTML5
+CSS3
+NODE.JS
+JSON
+GIT
+CLEAN CODE
+AGILIS
+SCRUM
+REST
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Főiskola
+
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+REACT
+VUE
+API
+BACKEND
+CMS
+FRONTEND
+JAVASCRIPT
+HTML5
+CSS3
+NODE.JS
+JSON
+GIT
+CLEAN
+CODE
+AGILIS
+SCRUM
+REST
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+Az LVC Diamond Kft. egy dinamikusan fejlődő vállalat, amely Budapest szívében üzemelteti a népszerű Las Vegas Casinokat, valamint a vegas.hu online kaszinót és sportfogadási platformot. Cégünk célja, hogy prémium szórakozási élményeket kínáljon ügyfeleink számára, és a legmagasabb szintű kiszolgálást nyújtsa innovatív megoldásokkal és kiemelkedő ügyfélszolgálattal. Ha szeretnél egy fiatalos, lendületes csapat tagja lenni, és hozzájárulni a szórakoztatóipar fejlődéséhez, csatlakozz hozzánk! Várjuk a jelentkezésedet, ha szeretnél részt venni egy izgalmas kalandban, ahol a munka és a szórakozás találkozik!
+Feladatok
+Felhasználóbarát, reszponzív webes felületek fejlesztése (React vagy Vue/Nuxt előny)
+RESTful API-k fejlesztése és integrálása backend rendszerekhez
+Együttműködés a UI/UX csapattal és a backend fejlesztőkkel
+Kódminőség biztosítása: kód review, unit/integration tesztek, clean code elvek követése
+RESTful API-k fejlesztése és dokumentálása
+Technológiai döntésekben való aktív részvétel (framework választás, tooling, architektúra)
+Egyedi CMS rendszer kialakításában való közreműködés
+Részvétel projektmódszertan szerinti fejlesztésben (agilis, Scrum)
+Elvárások
+3+ év tapasztalat frontend fejlesztésben (JavaScript, HTML5, CSS3)
+Tapasztalat egy modern frontend keretrendszerrel (pl. Vue.js, React)
+Node.js környezetben szerzett tapasztalat API-k fejlesztésében
+Gyakorlati ismeretek HTTP, REST, JSON és token alapú hitelesítés terén (pl. JWT, OAuth)
+Verziókezelés ismerete (Git)
+Minimum B2-es angol nyelvtudás (szóban és írásban)
+Amit kínálunk
+Biztos munkahely egy dinamikus iparágban
+– Határozatlan idejű, teljes munkaidős álláslehetőség egy stabil és folyamatosan fejlődő vállalatnál, ahol hosszú távon tervezhetsz.
+Folyamatos fejlődés és karrierlehetőségek
+– Hiszünk abban, hogy a tudás a siker kulcsa, ezért szakmai tréningekkel, belső képzésekkel és előrelépési lehetőségekkel támogatjuk a fejlődésedet.
+Versenyképes juttatási csomag
+– Kiemelkedő alapbér, teljesítményalapú bónuszrendszer, további juttatások, amelyek elismerik a munkádat valamint havi
+nettó 50.000 Ft értékű cafeteria.
+Egészség és jólét
+– Magán egészségbiztosítás, kedvezményes sportolási lehetőségek és egy olyan munkakörnyezet, ahol a kollégákra való odafigyelés kiemelt szerepet kap.
+Csapat és közösség
+– Egy összetartó, támogató csapat része lehetsz, ahol a kollégák és a vezetők is elismerik a teljesítményed, és ahol a közös célokért dolgozunk.
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

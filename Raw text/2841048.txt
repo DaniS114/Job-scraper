@@ -1,0 +1,68 @@
+Cég neve
+NVIDIA Hungary Kft.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C++
+HARDWARE
+TESTING
+NETWORK
+CLOUD
+HARDWARE–
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+C++
+HARDWARE
+TESTING
+NETWORK
+CLOUD
+HARDWARE–
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Deliver end-to-end Hardware/Software solutions bridging the gap between the world and our accelerators.
+Build and operate real-time, distributed compute frameworks and runtimes to deliver planet-scale inference for LLMs and advanced AI applications at ultra-low latency, optimized for heterogeneous hardware and dynamic global workloads.
+Develop deterministic, low-overhead hardware abstractions for thousands of synchronously coordinated accelerators across a software-scheduled interconnection network; prioritize fault tolerance, real-time diagnostics, ultra-low-latency execution, and mission-critical reliability.
+Future-proof our software stack for next-gen silicon, innovative multi-chip topologies, emerging form factors, and heterogeneous co-processors.
+Foster collaboration across cloud, compiler, infra, data centers, and hardware teams to align engineering efforts, enable seamless integrations, and drive progress towards shared goals.
+Requirements
+MSc or higher degree in CS/EE/CE/Mathematics or equivalent experience
+Deep curiosity about system internals – from kernel-level interactions to hardware dependencies – and the ability to solve problems across abstraction layers down to the hardware details of our chips.
+Minimum 2 years of relevant experience, preferably in computer architecture, compiler backends, algorithms, and hardware–software interfaces.
+System-level programming (Haskell, C++, or similar) with emphasis on low-level optimizations and hardware-aware design.
+Track record of shipping high-impact, production-ready code while collaborating effectively with cross-functional teams.
+Experience profiling and optimizing systems for latency, throughput, and efficiency, with zero tolerance for wasted cycles or resources.
+Commitment to automated testing and CI/CD pipelines.
+Pragmatic technical judgement, balancing short-term velocity with long-term system health.
+Empathetic, maintainable code with strong version control and modular design, prioritizing readability and usability for future teammates.
+Nice-to-have
+Experience with FPGA development, VFIO drivers, or HDL languages., Experience shipping complex projects in fast-paced environments while maintaining team alignment and stakeholder support., Hands-on optimization of performance-critical applications using GPUs, FPGAs, or ASICs (e.g., memory management, kernel optimization)., Familiarity with ML frameworks (e.g. PyTorch) and compiler tooling (e.g. MLIR) for AI/ML workflow integration., You initiate without derailing, value "code in prod" over "perfect slides", and own outcomes from whiteboard to deployment.
+Company info
+NVIDIA is well positioned as the AI Computing Company – our Accelerators are the brains that power modern Deep Learning software frameworks, accelerated analytics, modern data centers, and autonomous vehicles.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Regionális
+Álláshirdetés jelentése

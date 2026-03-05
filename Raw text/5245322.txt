@@ -1,0 +1,124 @@
+Voľné pozície
+Expert OpenShift Platform Engineer - m/ž
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+3 500 EUR/mesiac
+Základná nástupná brutto mzda 3 500€, plus ročný bonus. Tvoja konkrétna mzda bude závisieť od rozsahu Tvojich znalostí a praktických skúseností.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Používané technológie a metodiky
+Platforma: Red Hat OpenShift, Kubernetes, Operators, Helm
+Automatizácia: Ansible,
+CI/CD: GitLab CI, ArgoCD
+Kontajnerizácia: Kubernetes
+Správa kódu: Git, GitOps princípy
+Operačné systémy: Linux RHEL / RHCOS
+Bezpečnosť a prístup: RBAC, OAuth, certifikáty, SSO
+Agile Framework
+Tvojou úlohou bude najmä
+Zodpovednosť za architektúru a smerovanie platformy
+Prevádzkovať, monitorovať a spravovať OpenShift klastre (on-premise prostredie).
+Riešenie najkritickejších a zložitých technických problémov súvisiacich s riešeniami prostredia
+Tvorba kvót pre zdroje a zabezpečenie efektívneho smerovania využitia zdrojov
+Podporovať interné vývojové tímy pri nasadzovaní aplikácií a CI/CD procesoch.
+Riadiť automatizovanie procesov správy platformy – provisioning, aktualizácie, škálovanie.
+Navrhovať bezpečnostné opatrenia a dodržiavať interné IT štandardy.
+Spolupracovať s tímami infraštruktúry, bezpečnosti a vývoja.
+Aktívna spolupráca v agilnom tíme (Scrum/Kanban) a príspevok k rozvoju DevOps kultúry prostredníctvom zlepšovania procesov, automatizácie a zdieľania zodpovednosti za celý životný cyklus aplikácie.
+Udržiavať technickú dokumentáciu a navrhovať zlepšenia platformy.
+Zamestnanecké výhody, benefity
+Možnosť ďalšieho odborného rastu podľa tvojho výberu (užšia špecializácia, alebo získavanie ďalších profesionálnych zručností, hierarchický rast)
+Možnosť práce z domu
+Flexibilná pracovná doba
+Ročná odmena v závislosti od splnenia cieľov do výšky mzdy
+Školenia a jazykové kurzy zdarma
+Príspevok na doplnkové dôchodkové sporenie
+Ročný príspevok na individuálny výber benefitov z Cafetérie + narodeninový bonus
+Zvýhodnené celoročné cestovné poistenie pre zamestnancov
+Príspevok darcom krvi
+Príspevok pri narodení dieťaťa
+Jubilejné pracovné odmeny
+Odmena za odporúčanie kolegu
+Možnosť využívania MultiSport karty
+Zvýhodnené ponuky vo vybraných bankách a obchodoch
+Zľavy na nákup koncernových vozidiel Volkswagen
+Parkovanie zdarma
+Informácie o výberovom konaní
+Pracovný pohovor bude prebiehať aj v anglickom jazyku.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT, MAT-FYZ
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+Cloud, Openshift
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Technické zručnosti:
+Red Hat OpenShift / Kubernetes – expert
+Linux administrácia (RHEL) – pokročilý
+CI/CD Pipelines (GitLab / Bitbucket) –pokročilý
+Monitoring (Grafana) - stredne pokročilý
+Helm  - pokročilý
+Cloudové služby – AWS /GCP/Azure (preferované) -  stredne pokročilý
+Ansible Automatizacia – výhodou
+Certifikacie – vyžadované
+Red Hat Certified Specialist in OpenShift Administration (EX280)
+Certifikacie – výhodou
+Certified Kubernetes Administrator (CKA)
+Red Hat Certified System Administrator (EX200)
+Osobnostné predpoklady a zručnosti
+Silné analytické a technické myslenie.
+Tímový hráč, schopnosť pracovať samostatne aj v spolupráci.
+Proaktívny prístup a zodpovednosť.
+Záujem o automatizáciu, efektivitu a neustále zlepšovanie procesov.
+Dobré komunikačné schopnosti a technická zvedavosť.
+Technické vedenie a mentoring tímu
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť
+VOLKSWAGEN GROUP SERVICES, s.r.o.
+je dcérskou spoločnosťou Volkswagen Group Services GmbH a Volkswagen Slovakia, a.s.. Poskytuje komplexné a odborné personálne riešenia pre Volkswagen Slovakia aj pre celý koncern Volkswagen v oblasti procesov automobilového priemyslu. Od svojho vzniku v roku 2008 sme stabilným partnerom pre koncern Volkswagen a prinášame profesionálne a komplexné riešenia.
+Zameriavame sa na administratívne, technicko-podporné, výrobné, IT a cloudové procesy, predovšetkým v oblasti zabezpečenia kvality, plánovania, procesnej podpory nákupu, digitalizácie, správy IT systémov, cloudových riešení, ako aj na rôzne inžinierske a administratívne služby.
+Vďaka dlhoročným skúsenostiam, stabilnému zázemiu silnej medzinárodnej skupiny a inovatívnemu prístupu vytvárame prostredie, v ktorom sa spája odbornosť, moderné technológie.
+Ponúkame široké spektrum atraktívnych pracovných príležitostí v rôznych oblastiach. Staňte sa súčasťou nášho tímu a rozvíjajte svoju kariéru v stabilnej spoločnosti s globálnym zázemím.
+Počet zamestnancov
+250-499 zamestnancov
+Reagovať na ponuku
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5245322
+Dátum zverejnenia:
+5.3.2026
+2026-03-05
+lokalita:
+Práca z domu
+Pozícia:
+Backend programátor
+,
+Cloud Engineer
+,
+DevOps Engineer
+,
+Frontend programátor
+Spoločnosť:
+VOLKSWAGEN GROUP SERVICES, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

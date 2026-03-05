@@ -1,0 +1,116 @@
+Cég neve
+Oracle Global Services Hungary Kft.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JIRA
+CLOUD
+ORACLE
+ANSIBLE
+NETWORK
+ACCESS
+DEVOPS
+PYTHON
+RUBY
+JAVA
+LINUX
+WINDOWS
+ANALYTICS
+TESTING
+TROUBLESHOOTING
+JENKINS
+AGILE
+CHANGE MANAGEMENT
+Biztosított eszközök
+Windows
+Linux
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+JIRA
+CLOUD
+ORACLE
+ANSIBLE
+NETWORK
+ACCESS
+DEVOPS
+PYTHON
+RUBY
+JAVA
+LINUX
+WINDOWS
+ANALYTICS
+TESTING
+TROUBLESHOOTING
+JENKINS
+AGILE
+CHANGE
+MANAGEMENT
+Windows
+Linux
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Use AI-assisted development as a core engineering approach to accelerate delivery, improve code quality, and reduce operational toil—while ensuring strong human review, test coverage, and controlled releases
+Own delivery of cloud-scale infrastructure and automation capabilities from design through implementation, deployment, and operational support
+Design and deliver scalable provisioning and deployment workflows using Oracle Cloud Infrastructure and tools such as Chef, Ansible, Terraform, and OpenSearch
+Build and evolve complex network automation and data collection workflows using Ansible and related tooling
+Provision, maintain, and monitor mission-critical SaaS infrastructure across multiple platforms, operating systems, and technology stacks
+Design, build, and maintain AI tooling that exposes automation capabilities with strong authentication, authorization, and auditing
+Integrate agentic AI with internal systems and operational workflows, enabling secure, governed tool access for provisioning, troubleshooting, compliance checks, and reporting
+Advance IaC/Config-as-Code standards through reusable modules, patterns, and guardrails; mentor others on best practices and operational excellence
+Implement and promote test-driven development (TDD) and automated validation to improve release confidence and reduce regressions
+Create and enhance multi-stage configuration management workflows and CI/CD pipelines with an emphasis on reliability, observability, and auditability
+Develop automated configuration and compliance audit tooling aligned with frameworks such as HIPAA, PCI-DSS, and FedRAMP
+Implement data aggregation and reporting processes to deliver actionable operational and business intelligence metrics to leadership
+Requirements
+Bachelor’s degree in Computer Science or equivalent practical experience
+Extensive experience managing cloud infrastructure lifecycles using Infrastructure-as-Code
+Extensive experience in OS, network device, or application automation at meaningful scale
+Experience building and operating within CI/CD pipelines and release processes
+Experience with orchestration/automation platforms such as Jenkins
+Expertise in AI-assisted development, applying it to implementation, refactoring, test creation, and troubleshooting with rigorous validation
+Strong grounding in Agile and DevOps best practices
+Advanced programming in Python and at least one of Ruby, Java, or Go, with experience building maintainable, testable, production-grade code
+Proficiency configuring and operating Linux and Windows systems
+Proficiency with observability and analytics tooling (e.g., OpenSearch, Grafana)
+Familiarity with network device configuration management and monitoring
+Familiarity with containers and associated cloud-native patterns
+Experienced with GitOps practices, including designing and scaling GitOps workflows across multiple teams and environments
+Experience with operations and support processes and tools (incident/change management, ticketing systems such as JIRA/Service Desk, SLAs, escalation processes)
+Strong written and verbal communication in English
+Ability to write clear design docs, runbooks, and operational procedures
+Collaborative and effective across teams and time zones
+Skilled with influencing and mentoring other team members
+Strong analytical, planning, and organizational skills with the ability to juggle conflicting priorities
+Skilled at creating troubleshooting guides and instructions that can be handed off and scaled
+Independent and accountable; providing transparency to management and stakeholders
+Curiosity, continuous learning mindset, and a passion for improving customer experience
+Nice-to-have
+You hate sub-optimal process and always push for improvements, You’re the Perfect Candidate If…, You are skilled with AI-assisted development and generative coding tools and techniques and using them today in your engineering workflows, You have production experience using MCP services, You have production experience operating AI-enabled services: deployments, on-call operations, reliability improvements, and release strategies, You’re proficient deploying and managing infrastructure using Terraform, You’re proficient in Chef, including cookbook authoring and infrastructure maintenance, You’re proficient in Ansible, including playbook authoring and Tower/AWX configuration, You’re proficient in Oracle Cloud Infrastructure, including full-stack lifecycle management, You have experience aggregating data and building visualizations in OpenSearch or Grafana, You have experience creating and maintaining CI/CD pipelines for testing and delivery using Jenkins or similar platforms
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Regionális
+Álláshirdetés jelentése

@@ -1,0 +1,116 @@
+DevOps Engineer - 400€day - Remote
+eprovement s. r. o., organizačná zložka
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+50 EUR/hod.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+DevOps Engineer (Kubernetes) – Remote with occasional Bratislava office visit
+We are looking for an experienced
+DevOps Engineer
+to take ownership of our entire DevOps environment and help us maintain a reliable, scalable, and secure infrastructure. You will be responsible for designing, maintaining, and improving our cloud-native infrastructure built around Kubernetes and modern DevOps practices.
+This role is
+primarily remote
+, with
+1–2 visits per month to our office in Bratislava
+for team collaboration.
+Responsibilities
+Manage, maintain, and optimize our
+Kubernetes-based infrastructure
+Design and improve
+CI/CD pipelines
+to support rapid and reliable deployments
+Ensure
+high availability, scalability, and performance
+of systems
+Implement and maintain
+infrastructure as code
+Monitor infrastructure and applications, proactively identifying and resolving issues
+Maintain and improve
+containerized environments
+Implement and enforce
+security best practices
+Manage
+cloud infrastructure resources
+Collaborate with development teams to improve deployment workflows
+Automate operational processes to improve reliability and efficiency
+Troubleshoot production incidents and participate in root cause analysis
+Requirements
+Strong experience with
+Kubernetes administration and operations
+Solid knowledge of
+containerization (Docker)
+Experience with
+CI/CD pipelines
+and deployment automation
+Hands-on experience with
+Infrastructure as Code tools
+(Terraform, Pulumi, or similar)
+Experience with
+cloud platforms
+(AWS, GCP, or Azure)
+Knowledge of
+monitoring and logging tools
+(Prometheus, Grafana, ELK stack, etc.)
+Experience with
+Linux system administration
+Strong scripting skills (Bash, Python, or similar)
+Experience with
+networking, security, and system reliability
+Ability to work independently and take ownership of infrastructure
+Nice to Have
+Experience running
+production Kubernetes clusters
+Experience with
+GitOps workflows
+Knowledge of
+service mesh technologies
+Experience with
+high-scale or distributed systems
+What We Offer
+Remote-first role
+Flexible working environment
+Opportunity to
+own and shape the DevOps infrastructure
+Work with modern
+cloud-native technologies
+Collaborative and engineering-focused team
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+Počet rokov praxe
+5
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Eprovement is a software designing company with experience in banking, telco and insurance helping companies to keep ahead with the latest technologies in the innovation space.
+From bodyleasing to onshore and offshore projects we build great applications with the trust of our clients.
+Kontakt
+Kontaktná osoba: Mgr.  Ivan Vlček
+Tel.:
++420739384843
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5245610
+Dátum zverejnenia:
+5.3.2026
+2026-03-05
+lokalita:
+Práca z domu
+Pozícia:
+DevOps Engineer
+Spoločnosť:
+eprovement s. r. o., organizačná zložka
+Základná zložka mzdy (brutto):
+50 EUR/hod.

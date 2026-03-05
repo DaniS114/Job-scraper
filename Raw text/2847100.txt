@@ -1,0 +1,60 @@
+Cég neve
+Ärztekasse Genossenschaft
+Munkavégzés helye
+Hibrid
+•
+In der Luberzen 1, 8902 Urdorf, Switzerland
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+FRONTEND
+ANGULAR
+BACKEND
+JAVASCRIPT
+HTML5
+CSS3.
+TESTING
+GIT
+CYPRESS
+AGILE
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+FRONTEND
+ANGULAR
+BACKEND
+JAVASCRIPT
+HTML5
+CSS3.
+TESTING
+GIT
+CYPRESS
+AGILE
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Senior Frontend Developer – Angular (m/w)Ärztekasse Genossenschaft provides business process outsourcing and eHealth solutions to health professionals so they get relief from administration and can focus on medical work.In the context of an innovation initiative, Ärztekasse is renewing and extending their products. To support this digitalization step, we are looking for smart and experienced engineers to contribute and shape clever and creative solutions for a meaningful industry.Senior Frontend Developer – Angular (m/w)Pensum:%Start: immediately or by appointmentDuration: unlimitedLocation: UrdorfJob DescriptionWe are seeking a highly skilled and experienced Senior Frontend Developer (Angular) to join our growing team. In this role, you will collaborate closely with cross-functional teams—including UX/UI designers, backend engineers, and product managers—to deliver scalable, high-performing, and robust frontend solutions.Main TasksDevelop and maintain modern Angular applications, ensuring high performance, scalability, and responsiveness.Build and evolve reusable UI components for our internal component library/design system.Write clean, maintainable, and testable code and actively participate in code reviews to ensure high engineering standards.Collaborate closely with UX, design, and backend teams to deliver intuitive and user-friendly interfaces.Boost application performance through optimization techniques, such as lazy loading or strategic resource management.Ensure excellent runtime performance by optimizing rendering, loading strategies, and overall frontend architecture.Stay up to date with Angular and frontend ecosystem trends and contribute ideas for continuous improvement.Troubleshoot, debug, and resolve complex technical issues throughout the full application lifecycle.Contribute to architecture decisions, technical design, and best practices across teams.Requirements5+ years of frontend development experience, including 3+ years of strong hands-on experience with Angular (Angular 14+ preferred).Strong proficiency in Angular, TypeScript, JavaScript (ES6+), RxJS, HTML5, and CSS3.Experience working with backend integrations and RESTful APIs.Familiarity with modern frontend tooling and build processes (Angular CLI, Nx, monorepos, build optimization).Solid understanding of micro-frontend architectures, modular web applications, and Web Components is a strong plus.Strong motivation to work on and improve a component library based on Angular Material.Strong unit testing skills (e.g., Jasmine/Jest) and familiarity with component/integration testing (Cypress/Playwright is a plus).Experience with modern development workflows and processes, including Git, CI/CD pipelines, and Agile methodologies.Strong problem-solving skills, attention to detail, and excellent communication skills.Ability to work both independently and collaboratively in a team-oriented environment.Bachelor’s or Master’s degree in Computer Science (or a related field) is a plus.Fluent in English (German or French is a plus).What we offer40h/per week2 days home office optionHighly innovative and international working environmentFurther informationA stimulating environment helps to find cool solutions to challenging complex requirements. We work in small agile teams where you can have impact and influence. You will find sharp engineers to have inspiring discussions with. We are solution-driven, but we don’t neglect the fun factor.We look forward to receiving your application! jide7d409apn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Switzerland
+Álláshirdetés jelentése

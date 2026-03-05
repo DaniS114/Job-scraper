@@ -1,0 +1,97 @@
+Cég neve
+Innomine Group Kft.
+Munkavégzés helye
+1138 Budapest, Váci út 193.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+API
+DEVOPS
+ISO
+REST
+AGILE
+SCRUM
+Biztosított eszközök
+Laptop
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+API
+DEVOPS
+ISO
+REST
+AGILE
+SCRUM
+Laptop
+Angol
+középfok
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+Feladatok
+Csatlakozz csapatunkhoz, és vegyél részt az
+elfogadói fizetési szolgáltatás
+ok IT integrációs folyamatainak tervezésében és koordinálásában! Olyan szakembert keresünk, aki technológiai és üzleti oldal között hidat képez, átlátja az integrációs architektúrákat, és magabiztosan működik együtt külső partnerekkel és belső fejlesztői csapatokkal.
+Főbb feladatok
+Az elfogadói fizetési szolgáltatásokat biztosító végponti (POS, SoftPOS, e-commerce, API-alapú) és elszámolói alkalmazások integrációs folyamatainak tervezése és szakmai támogatása.
+Integrációs projektek koordinációja külső partnerekkel (integrátorok, nagyvállalati kereskedők, beszállítók) és belső fejlesztői / DevOps csapatokkal együttműködésben.
+Integrátori és kereskedői integrációs folyamatok előrehaladásának nyomon követése, státuszjelentések készítése, kockázatok azonosítása.
+Fejlesztési, hibajavítási és DevOps igények strukturált becsatornázása a megfelelő squadok felé, priorizáció támogatása.
+Integrációs specifikációk, API-dokumentációk, folyamatleírások, tesztforgatókönyvek és tenderanyagok összeállítása és karbantartása Business Analyst és Architect kollégákkal közösen.
+Integrációs tudásbázis folyamatos fejlesztése, best practice-ek kialakítása.
+IT szakmai támogatás nyújtása az értékesítési csapat számára tender- és ajánlatadási folyamatok során.
+Nagyvállalati partnerekkel történő fizetési folyamatok kialakításának támogatása (architektúra, interfész-tervezés, biztonsági és megfelelőségi szempontok).
+Kommunikáció és koordináció incidensek, változáskezelés és integrációs tesztelések kapcsán.
+Aktív részvétel szolgáltatásfejlesztési projektekben és új integrátori szolgáltatások bevezetésében.
+Elvárások
+Felsőfokú végzettség informatikai, mérnöki vagy gazdasági-informatikai területen.
+Minimum 3–5 év tapasztalat IT integrációs, rendszerintegrációs vagy fizetési megoldásokhoz kapcsolódó szerepkörben.
+API-alapú integrációk (REST, SOAP), interfész-specifikációk és adatcsere-megoldások ismerete.
+Tapasztalat nagyvállalati környezetben, több szereplős projektek koordinációjában.
+Erős analitikus és strukturált gondolkodás.
+Magabiztos stakeholder-kezelés és kommunikáció technikai és üzleti oldal felé egyaránt.
+Magyar nyelvtudás, angol szakmai nyelvhasználat.
+Előnyt jelent
+Tapasztalat banki vagy fintech környezetben.
+Ismeret kártyaelfogadási rendszerekről, elszámolási folyamatokról, fizetési szabványokról (pl. PCI DSS, EMV, ISO 8583).
+Agile / Scrum környezetben szerzett tapasztalat.
+DevOps folyamatok, release menedzsment, CI/CD alapfogalmak ismerete.
+Részvétel komplex tender- vagy nagyvállalati integrációs projektekben.
+Amit kínálunk
+Stratégiai jelentőségű, üzletileg kritikus fizetési megoldások fejlesztésében való részvétel.
+Komplex, nagyvállalati integrációs projektek.
+Szakmailag erős, együttműködő csapat.
+Modern technológiai környezet.
+Szakmai fejlődési lehetőség.
+Céginformáció
+Az innomine Group Kft. az elmúlt 15 évben dinamikusan fejlődése során széleskörű kompetenciát épített a nemzetközi innováció management, marketing és üzletfejlesztés, digitális transzformáció és a vállalati stratégia területén. Kompetenciáink, tapasztalataink legfőképp a digitalizáció, Ipar40 (termelés és vállalatirányítás), az innováció és a nemzetközi terjeszkedés területéről származnak. Európai tevékenységünknek köszönhetően szinte minden EU országban hajtottunk végre projekteket.
+Részletek itt:
+https://innomine.com/
+Jelentkezés módja
+Kérjük a „Jelentkezem” gombra kattintás után csatold az
+magyar
+és angol nyelvű fényképes szakmai önéletrajzod (fizetési igény megadásával).
+Ne hagyd ki ezt a lehetőséget!
+Jelentkezz most, és légy részese egy izgalmas projektnek!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Rendszerintegrátor
+Budapest
+Budapest
+Álláshirdetés jelentése

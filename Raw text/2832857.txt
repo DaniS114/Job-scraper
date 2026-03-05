@@ -1,0 +1,55 @@
+Cég neve
+Oracle Global Services Hungary Kft.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+SECURITY
+ORACLE
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+SECURITY
+ORACLE
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Work with Site Reliability Engineering (SRE) team on the shared full stack ownership of a collection of services and/or technology areas
+Understand the end-to-end configuration, technical dependencies, and overall behavioral characteristics of production services
+Responsible for the design and delivery of the mission critical stack, with focus on security, resiliency, scale, and performance
+Authority for end-to-end performance and operability
+Partner with development teams in defining and implementing improvements in service architecture
+Articulate technical characteristics of services and technology areas and guide Development Teams to engineer and add premier capabilities to the Oracle Cloud service portfolio
+Understand and communicate the scale, capacity, security, performance attributes, and requirements of the service and technology stack
+Demonstrate clear understanding of automation and orchestration principles
+Act as ultimate escalation point for complex or critical issues that have not yet been documented as Standard Operating Procedures (SOPs)
+Utilize a deep understanding of service topology and their dependencies required to troubleshoot issues and define mitigations
+Understand and explain the affect of product architecture decisions on distributed systems
+Professional curiosity and a desire to a develop deep understanding of services and technologies
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Regionális
+Álláshirdetés jelentése

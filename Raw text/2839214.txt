@@ -1,0 +1,93 @@
+Cég neve
+McKinsey & Company, Inc.Hungary Magyarországi Fióktelepe
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+CLOUD
+TESTING
+AWS
+AZURE
+CLEAN CODE
+DOCKER
+DATABASES
+AGILE
+DEBUGGING
+TROUBLESHOOTING
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+CLOUD
+TESTING
+AWS
+AZURE
+CLEAN
+CODE
+DOCKER
+DATABASES
+AGILE
+DEBUGGING
+TROUBLESHOOTING
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Creation of Python code, tests, creation and modification of GitHub Action CICD pipelines
+Working with AWS-based infrastructure and Docker containers
+Deploying, debugging, and running systems
+Delivering and scaling AI solutions embedded in cross-functional teams
+Deploying assets on client service teams and refining them
+Developing robust data ingestion pipelines and maturing data processing capabilities
+Deploying solutions across McKinsey, client, and third-party cloud environments such as AWS, Azure, and GCP
+Troubleshooting, analyzing, and resolving technical issues
+Developing and supporting customizations and extensions tailored to client-specific needs
+Contributing to improving pipelines, tooling, and engineering standards
+Supporting ongoing product development
+Requirements
+3+ years of professional experience as a data engineer with strong focus on cloud-based data engineering using AWS services
+Previous enterprise platform experience preferred
+Significant previous experience with Neo4j
+Strong conceptual understanding of knowledge graphs
+Experience with building and adapting complex data workflows
+Expertise with Python development
+Practicing high coding standards with clean code, modularity, error handling, testing automation
+Strong experience with relational databases
+Strong execution and output orientation, results-driven mindset, ability to work independently in a complex and fast paced environment
+Hands-on experience with Docker
+Solid and demonstrable background in data pipeline performance and diagnostics
+Interest in Generative AI and other ML topics
+Kedro framework experience as a plus
+Familiarity with agile principles and product development
+What we offer
+Continuous learning with structured programs and apprenticeship culture
+A voice that matters from day one with opportunities to make tangible impact
+Global community with colleagues across 65+ countries and over 100 nationalities
+World-class benefits including competitive salary and comprehensive benefits package
+Company info
+McKinsey & Company is a global management consulting firm that serves leading businesses, governments, non-governmental organizations, and not-for-profits. Founded in 1926, McKinsey operates in more than 65 countries and employs over 30,000 professionals. The firm is committed to helping organizations improve their performance and achieve sustainable growth through data-driven insights, innovative solutions, and leadership development.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

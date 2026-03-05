@@ -1,0 +1,94 @@
+Cég neve
+AiCuris Anti-infective Cures AG
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+R
+SECURITY
+AZURE
+DATABASE
+SQL
+NOSQL
+API
+CLOUD
+PROJECT MANAGEMENT
+Elvárások
+Német felsőfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+R
+SECURITY
+AZURE
+DATABASE
+SQL
+NOSQL
+API
+CLOUD
+PROJECT
+MANAGEMENT
+Német
+felsőfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+As an IT Systems & Solutions Architect, you are the "mastermind" behind our digital landscape. Your mission is to design, implement, and evolve a unified technology framework that supports our life-saving research and production. You don't just manage systems; you architect the flow of data across scientific business applications (e.g. RIM, QMS, Laboratory Systems) while ensuring the underlying infrastructure is resilient, secure, and compliant with global biotech standards.
+Responsibilities
+Strategic Blueprinting:
+Design and maintain the enterprise-wide IT architecture, ensuring all new business applications integrate seamlessly into our existing stack.
+Vendor & Project Management:
+Manage relationships with external MSPs and software vendors, ensuring high service levels and cost-efficiency.
+Application Architecture:
+Lead the end-to-end implementation of core solutions (e.g., Veeva QualityDocs, QMS, RIM, LIMS, eTMF, Serialization, etc.), focusing on data flow, scalability, and long-term maintainability.
+Compliance Governance:
+Act as the technical authority for GxP/CSV (Computer System Validation). Ensure that every architectural decision adheres to 21 CFR Part 11 and ALCOA+ data integrity principles.
+Technical Leadership:
+Serve as a bridge between scientific stakeholders and external vendors, translating complex business needs into technical specifications and vice versa.
+Security & Resilience:
+Design advanced security frameworks to protect intellectual property and ensure business continuity across all systems.
+Requirements
+Education:
+University degree in Computer Science, Bioinformatics, or a similar field; an MBA or relevant certifications (e.g., TOGAF, Azure Solutions Architect) are preferred.
+Project and Vendor Management:
+Proven track record of managing larger implementation projects as well as managing multiple MSPs/vendors.
+Architect Mindset:
+Proven track record in designing and implementing complex, distributed systems rather than just administering them.
+Biotech Expertise:
+Deep understanding of the regulatory landscape in Life Sciences (GCP/GLP/GMP, FDA/EMA regulations) and corresponding reference architectures.
+Holistic Tech Skills:
+Wide-ranging expertise in SaaS integrations (e.g. Veeva Vault), Azure, database design (SQL/NoSQL), API management, and cloud infrastructure.
+Soft Skills:
+Exceptional communication skills with the ability to lead through influence and negotiate with senior stakeholders.
+Languages:
+Fluent English required, German preferred.
+What we offer
+Unique corporate culture: Scientific excellence, a collaborative working environment and the passion to improve the lives of patients defines our work. With us, you can work together with innovation awarded experts with the proven ability to translate science into commercial success. You can expect diversity, inspiration as well as trustful collaboration.
+Development: We encourage people to grow and strongly support individual development and learning opportunities.
+Flexibility: Embracing flexible working accommodations, we enable our people to integrate business into their personal life.
+Benefits: Employer-funded pension comes along with an attractive benefits package.
+Company info
+AiCuris is meeting the needs of the growing population of immunocompromised people who require precise therapies to effectively treat infection. Our flagship product, PREVYMIS, marketed by our partner MSD, treats CMV in a defined group of transplant recipients. Our pivotal phase 3 candidate Pritelivir aims to address recurrent and resistant HSV infections in a broad population of patients with weakened immune systems. For immunocompromised people, an otherwise manageable infection can mean life or death. AiCuris, with its expertise and growing pipeline, is committed to providing therapeutic solutions for them now and in the future.
+We believe in a culture of trust and transparency, where feedback is considered an opportunity to contribute to each other's personal and professional growth. We hire people who are collaborative, adaptable, communicate well, and love to learn.
+*AiCuris is an employer that supports equal opportunities, diversity and inclusion. We welcome applications from people regardless of their national origin, skin color, religion, gender, age, marital status, disability, sexual orientation, gender identity or other legally protected characteristics.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

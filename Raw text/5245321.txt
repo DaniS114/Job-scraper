@@ -1,0 +1,112 @@
+RPA/Agentic AI Senior Developer
+Millennium, spol. s r. o.
+Miesto práce
+Plynárenská, Bratislava
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+2 500 EUR/mesiac
+Výška základnej mzdy je informatívna a jej finálne nastavenie závisí od praxe a odbornosti kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho Millennium tímu hľadáme skúseného Senior RPA Developera so zameraním na UiPath a Agentic AI, ktorý prevezme kľúčovú rolu pri migrácii do UiPath Automation Cloud, vybuduje modernú, bezpečnú a škálovateľnú platformu a dodá prvú vlnu AI Agentov rozširujúcich naše existujúce RPA riešenia. Budete architekt/ka, realizátor/ka aj mentor/ka – spojíte cloudové RPA, AI agentov a procesnú optimalizáciu do jedného funkčného ekosystému.
+Architektúra & Cloud:
+Navrhujete a implementujete cloud baseline (tenants, folders, účty, licencie, sieťovanie).
+Migrujete queues, assets, machines, triggers a validujete paritu.
+Nastavujete SSO/RBAC, audit politiky, správu secretov.
+Vytvárate runbooky a operačnú dokumentáciu.
+AI & Inteligentná automatizácia:
+Navrhujete a implementujete AI agentov pomocou Agent Builder.
+Nastavujete guardrails, evaluácie, traceovanie, governance.
+Integrujete AI služby (napr. OpenAI, Azure AI, Google AI) do RPA workflow.
+Kombinujete RPA s OCR, NLP, dokument understanding, prediktívnou analytikou.
+Budujete fallback scenáre na deterministické automatizácie.
+Procesná optimalizácia & spolupráca:
+Analyzujete obchodné procesy a identifikujete automatizačné príležitosti.
+Facilitujete workshopy so stakeholdermi.
+Spolupracujete s biznisom pri definovaní roadmapy AI & automatizácie.
+Monitorujete a optimalizujete výkonnosť automatizácií.
+Školíte používateľov a podporujete adopciu riešení.
+Zamestnanecké výhody, benefity
+​• Fungujeme na dôvere – bez dochádzkového systému, s flexibilnou pracovnou dobou a možnosťou homeoffice
+​• Uprednostňujeme prácu s najnovšími technológiami a projekty pre silných a renomovaných klientov
+​• Pracujeme v modernom prostredí a priateľskom kolektíve
+​• Vzdelávací program zameraný na individuálne odborné certifikácie a kurzy plne hradné firmou
+​• Tvoje kreatívne idey odmeníme knihou, wellnesom, či víkendovým pobytom
+​• Počas celého dňa Ti bude k dispozícii káva, čaj, minerálky či čerstvé ovocie
+​• Každý druhý piatok sa môžeš tešiť na nášho maséra, ktorý za nami príde priamo do office
+​• Radi ťa podporíme v Tvojom životnom kroku príspevkom na svadbu či pri narodení dieťaťa – v akomkoľvek poradí
+​• Čaká ťa množstvo zážitkov a akcií - jarný KickOff, splav, jesenná chata, vianočná párty a kopa iných
+​• Karta Multisport, ktorá ti raz denne otvorí bránu do množstva zazmluvnených športovísk/wellnessov​
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+UiPath - Pokročilý
+UiPath Orchestrator - Pokročilý
+Python - Mierne pokročilý
+Rest API - Mierne pokročilý
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+3
+Osobnostné predpoklady a zručnosti
+3-5 rokov skúseností s enterprise RPA (preferovane UiPath)
+Skúsenosť s migráciou on-prem → cloud
+Skúsenosť s monitoringom a SLO
+UiPath Orchestrator / Studio / Assistant
+Automation Cloud administrácie
+Tenant & folder modelov, robot provisioning, licensing
+Skúsenosť s AI/LLM automatizáciou v produkcii (governance, evaluácie)
+Programovanie: Python alebo JavaScript (výhodou C#)
+REST API, Git, CI/CD
+Skúsenosť s integráciou externých systémov a API
+Silné analytické myslenie a systémový pohľad
+Schopnosť prepájať biznis potreby s technologickým riešením
+Výborné komunikačné schopnosti
+Proaktivita, zvedavosť a chuť inovovať
+Schopnosť viesť workshopy a mentorovať tím
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Millennium, spol. s r. o. je slovenská IT spoločnosť s viac ako 25 ročnými skúsenosťami na trhu. Venujeme sa vývoju webových a portálových riešení, aplikáciám pre podnikovú mobilitu, ponúkame business inteligence systémy a CRM riešenia - všetko na cloude.
+Pracujeme pre finančné a bankové inštitúcie, IT a telekomunikačné spoločnosti a štátnu správu.
+Millennium je oficiálnym parterom spoločnosti Microsoft so šiestimi kompetenciami. Počas pôsobenia na trhu sme získali 17x ocenenie Microsoft Industry Award Winner, 3x ocenenie Microsoft Industry Award Finalist a 4x Deloitte Technology Fast 500.
+Okrem slovenského trhu pôsobíme aj v Českej republike.
+Sme spoločnosť, ktorá rástla vďaka nadaným ľuďom a vďaka šanci, ktorú dostala od svojich zákazníkov. Počas celej našej existencie sme mali šťastie na mimoriadne talentovaných kolegov, ktorí svojou invenciou a tvrdou prácou stáli za naším úspechom.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: HR Manager
+Tel.:
++421907249006
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5245321
+Dátum zverejnenia:
+5.3.2026
+2026-03-05
+lokalita:
+Bratislava
+Pozícia:
+Programátor
+,
+RPA inžinier
+,
+Servisný inžinier
+Spoločnosť:
+Millennium, spol. s r. o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

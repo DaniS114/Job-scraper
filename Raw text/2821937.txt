@@ -1,0 +1,85 @@
+Cég neve
+NVIDIA Hungary Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+REACT
+ANGULAR
+CLOUD
+AWS
+FRONTEND
+API
+BACKEND
+PYTHON
+MONGODB
+DOCKER
+APACHE
+REST
+VUE
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+REACT
+ANGULAR
+CLOUD
+AWS
+FRONTEND
+API
+BACKEND
+PYTHON
+MONGODB
+DOCKER
+APACHE
+REST
+VUE
+Angol
+középfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Develop and improve our enterprise applications to ensure flawless performance
+Lead the development of our Content Management System, implementing robust features and functionalities
+Collaborate with various teams and engineers to integrate their tools into our portal seamlessly
+Drive innovation and determine the guidelines for building the frontend
+Efficiently implement solutions that meet our ambitious project goals
+Requirements
+MS or BS in Computer Science or an equivalent field
+5+ years of software engineering experience
+5+ years of overall UI/UX development using modern Front-end frameworks such as Angular, React, Vue or Lit
+Strong understanding of common API technologies (REST, gRPC, OpenAPI, GraphAPI, etc)
+Hands-on experience in enterprise applications development
+Independence, self-sufficiency, and a strong sense of ownership and accountability over your work
+Proficient in English
+Nice-to-have
+Experience with Figma or similar tools to build user interfaces, Passion to use AI, and a basic understanding of MCP or Agent-to-Agent interoperability, Familiarity with web-stack backend: python, MongoDB, Postgres, redis, etc, Hands-on experience with Kubernetes, Docker, and message brokers (Apache Kafka preferred), Experience with AWS Cloud technology stack (or similar)
+What we offer
+Highly competitive salaries
+Comprehensive benefits package
+Base salary range for Poland: 221,250 PLN - 383,500 PLN for Level 3, and 292,500 PLN - 507,000 PLN for Level 4
+Company info
+NVIDIA is the world leader in accelerated computing.
+NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

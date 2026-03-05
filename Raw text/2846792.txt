@@ -1,0 +1,63 @@
+Cég neve
+NVIDIA Hungary Kft.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C++
+C
+LINUX
+NETWORK
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C++
+C
+LINUX
+NETWORK
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Developing a highly optimized inference framework
+Running on the world’s largest supercomputers and data centers
+Working on innovative, next-generation products at the forefront of technology in terms of performance, scalability, and features
+Requirements
+B.Sc. or equivalent experience in Computer Science or Software Engineering
+6+ years of experience in modern C++ / C / Rust development
+3 years of experience in Linux environment and familiarity with development tools
+Deep knowledge of the TCP/IP network stack
+Understanding of computer architecture and operating systems concepts
+Nice-to-have
+Background in Linux internals and low-level software optimizations (benchmarking, bottleneck research, performance tuning), Experience in programming CUDA kernels is an advantage, Familiarity with ML frameworks and LLMs, Background in parallel programming / high-performance computing / RDMA technology
+What we offer
+Competitive salaries
+Generous benefits package
+Base salary range for Poland: 292,500 PLN - 507,000 PLN for Level 4, and 375,000 PLN - 650,000 PLN for Level 5
+Company info
+NVIDIA is the world leader in accelerated computing.
+NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Regionális
+Álláshirdetés jelentése

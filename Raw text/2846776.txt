@@ -1,0 +1,75 @@
+Cég neve
+Hawk-Eye Innovations Ltd.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVA
+BACKEND
+SPRING
+AWS
+DOCKER
+AGILE
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+JAVA
+BACKEND
+SPRING
+AWS
+DOCKER
+AGILE
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Develop, optimize, and maintain backend services using Java (Spring Boot)
+Work on football-related data pipelines that power FIFA, Serie-A and UEFA operations
+Deploy and scale applications in AWS (ECS, Lambda, S3, DynamoDB, etc.)
+Work on event-driven architectures, leveraging message queues (Pulsar, Kafka, RabbitMQ, SQS, etc.)
+Collaborate with other engineers in the team to meet high-impact project deadlines
+Ensure system reliability and performance in high-traffic, real-time environments
+Requirements
+Strong Java (preferably Java 17 or later) & Spring Boot experience
+Experience with AWS
+Familiarity with observability tools (e.g., Datadog, Prometheus, OpenTelemetry)
+Understanding of monitoring, logging, and traceability
+Ability to work efficiently in a fast-paced environment
+Experience with event-driven architectures (Kafka/Pulsar, RabbitMQ, SQS, etc.)
+Experience with microservices and distributed systems
+Nice-to-have
+Bonus Skills: Knowledge of CI/CD pipelines and automation (GitHub Actions, Terraform), Familiarity with containerization and orchestration (Docker, Kubernetes), Exposure to real-time data processing and sports tech
+What we offer
+Full-Time, Permanent contract
+Salary Banding: HUF 650,000 - HUF 1,000,000 per Month
+Hybrid working location, 2 Days a week in the office minimum
+Opportunity to work on high-impact projects for FIFA and UEFA
+Work in an agile environment with collaboration and innovation focus
+Company info
+Hawk-Eye is committed to fostering an inclusive and diverse workplace. We ensure all employees are treated fairly, regardless of gender, marital status, race, nationality, religion, age, disability, or union membership status. We value diversity and strive to create an environment where everyone can reach their full potential.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

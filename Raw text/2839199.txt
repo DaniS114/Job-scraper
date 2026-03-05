@@ -1,0 +1,79 @@
+Cég neve
+McKinsey & Company, Inc.Hungary Magyarországi Fióktelepe
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DATABASES
+CLOUD
+SQL
+REACT
+PYTHON
+DEBUGGING
+POSTGRESQL
+AWS
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+DATABASES
+CLOUD
+SQL
+REACT
+PYTHON
+DEBUGGING
+POSTGRESQL
+AWS
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Building a world-class AI platform designed to be deployed across diverse sectors and functions
+Developing transformative technology for the firm
+Working within a product team of engineers, designers, and product managers to develop impactful AI solutions
+Combining software and data engineering skills to build scalable solutions
+Collaborating effectively with cross-functional teams including data scientists and designers
+Focusing on platform engineering including deploying, debugging, and running systems
+Requirements
+5+ years of experience as a Software Engineer; previous enterprise platform experience preferred
+Strong programming skills in Python
+Expertise with AI agents / agentic applications
+Expertise in React and NextJS
+Expertise with SQL databases, particularly PostgreSQL or cloud equivalent such as Amazon RDS
+Experience utilizing LLMs and prompt engineering
+Experience with CI/CD pipeline setup and management
+Experience with knowledge graphs
+Familiarity in using AWS cloud platform for deploying and managing applications, particularly AWS ECS
+Familiarity with GitHub for version control and code collaboration
+Knowledge of containerization
+Strong conceptual problem-solving
+What we offer
+Continuous learning through structured programs and apprenticeship culture
+A voice that matters from day one with opportunities to contribute ideas and solutions
+Global community with colleagues across 65+ countries and over 100 different nationalities
+World-class benefits including competitive salary based on location, experience, and skills, and a comprehensive benefits package
+Company info
+McKinsey & Company is a global management consulting firm that serves leading businesses, governments, non-governmental organizations, and not-for-profits. Founded in 1926, McKinsey operates in more than 65 countries and employs over 30,000 professionals. The firm is committed to helping organizations improve performance and achieve lasting impact through data-driven insights and innovative solutions.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

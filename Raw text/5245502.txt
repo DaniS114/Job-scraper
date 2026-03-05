@@ -1,0 +1,89 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Java Developer - Identity & Access Platform
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+As the Login & Access Hub, we provide a central authentication service for millions of external customers, enabling access to essential services such as TV, email, Customer Center, and OneApp. With over 70 million logins and 15 million unique active users daily, this functionality is critical to the customer experience. The login process is far more complex than it appears, relying on a combination of existing and new applications. Our team works every day to enhance and simplify the login experience while integrating innovative solutions like OneApp and OneShop. We are looking for talented professionals to join us in shaping the future of secure and seamless access.
+Purpose
+The Senior Java Developer is responsible for designing, developing, and maintaining complex software applications while independently managing all phases of the software development lifecycle. This includes analyzing requirements, creating technical solutions, implementing features, testing, and optimizing performance. The role requires strong technical expertise, ownership of delivered solutions, and the ability to ensure high code quality and architectural consistency.
+The Senior Java Developer collaborates closely with Product Owners, Managers, and other technical team members to align development activities with business objectives and contributes to technical discussions and decision‑making processes. The position offers the opportunity to work with cutting-edge technologies in an agile environment that fosters innovation, scalability, and continuous improvement.
+What will you do?
+Design, develop, and maintain software applications for strategic products.
+Analyze requirements, prepare solution designs, and implement features.
+Automate infrastructure and application deployments.
+Monitor and optimize system performance to guarantee high availability and reliability.
+Contribute to system testing and support fault analyses.
+Develop and execute unit tests to ensure code quality and functionality.
+Works in SCRUM team on developing and building complex application solutions for customer DTAG
+Implement customer’s requirements based on specification in selected object-oriented programming language into functional and user-friendly application
+Provide testing of programmed functionality before deployment to avoid bugs and ensure quality of code
+Listen to user requests, consult with internal /external customers, project managers.
+Mentoring
+Take part on internal evaluation processes
+You will succeed if you:
+Hold a Master’s degree in Information Technologies
+Have at least 5 years of experience in ICT Systems Engineering
+Are an expert in programming with Java and have strong knowledge of Spring Boot and Hibernate
+Possess advanced knowledge of RESTful APIs, web services, containerization (Docker/Kubernetes), and CI/CD pipelines
+Have advanced experience with database development (OracleDB, PostgreSQL)
+Are skilled in working with Linux-based operating systems
+Demonstrate strong general IT skills
+Excel in communication, analytical thinking, team cooperation, mentoring, and product management
+Speak English at an upper-intermediate level (B2)
+Bring experience from a senior application development position
+You’re driven by a passion for AI, committed to continuous learning, and excited to make AI a core part of your daily work—constantly exploring innovative ways to implement it and unlock its full potential
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lenka Kiššová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5245502
+Dátum zverejnenia:
+5.3.2026
+2026-03-05
+lokalita:
+Remote work
+Pozícia:
+Java Programmer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 100 EUR/month

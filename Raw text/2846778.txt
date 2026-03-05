@@ -1,0 +1,89 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+API
+TEST AUTOMATION
+.C.
+ACCESS
+DOCKER
+AGILE
+REGRESSION TESTING
+CI
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+API
+TEST
+AUTOMATION
+.C.
+ACCESS
+DOCKER
+AGILE
+REGRESSION
+TESTING
+CI
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Break down a larger project and help others working on the stories
+Build test strategy and test plans for complex functionalities
+Estimate, prioritize, plan and coordinate testing activities
+Help evolve guidelines and engineering practices of the team
+Perform manual acceptance testing for user stories within sprints
+Collaborate with Agile team members as solutions are developed, applying quality mindset throughout the entire development lifecycle
+Perform all aspects of test verification, including environment management, functional and regression testing
+Pioneer the use of AI-driven testing solutions—evaluate and implement intelligent test generation, defect prediction, and adaptive test strategies using LLMs and other AI models
+Stay up to date with AI trends, tools, and regulations and adapt team processes to latest technologies
+Mentor others, interview candidates, provide feedback
+Integrate test automation with build and delivery pipeline
+Requirements
+5+ years of experience in the field of testing with 3+ years of experience in automation
+Strong experience in a hands-on development in test role at a commercial software company
+Experience in automating E2E test cases with TypeScript and preferably Playwright (project is migrating from Nightwatch.js to Playwright)
+Experience in automating API level tests in Microservice architecture
+Strong understanding of AI in software engineering
+Practical knowledge of CI tools (GitHub Actions, k8s, docker)
+Experience in creating and executing manual test cases
+Excellent communication skills
+Collaborative and enjoys working in a diverse, agile environment
+Experience in mentoring junior Test Engineers
+What we offer
+Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients
+We care about our people. Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs to name a few
+We have teams all over the world. We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney.
+Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding.
+Hybrid work model with expectation to work onsite at least 50% of the time if within commuting distance to an office location
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

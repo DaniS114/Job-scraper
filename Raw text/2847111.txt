@@ -1,0 +1,48 @@
+Cég neve
+Universität Zürich
+Munkavégzés helye
+Távmunka / Remote
+•
+Opcionális iroda
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NETWORK
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+NETWORK
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Doctoral Candidate in computer vision and machine learning for developing novel deep learning methods for plant and animal species identification from camera-trap and crowd-sourced imageryThe EcoVision Lab in the Department of Mathematical Modeling and Machine Learning (DM3L) at University of Zurich is seeking applications for a Doctoral Candidate in computer vision and machine learning for developing novel deep learning methods for plant and animal species identification from camera-trap and crowd-sourced imagery.We offer an exciting and stimulating environment to study and work in. The University of Zurich has several internationally recognized research groups dedicated to data science, machine learning, remote sensing, biodiversity, and more broadly ecology. We also collaborate with several other institutions and companies in the fields of computer vision, machine learning and earth observation, in Switzerland and abroad. The EcoVision Lab is a member of , the ETH AI Center, the UZH Digital Society Initiative, the UN-ETH partnership, and the ETH for Development Center (ETH4D).PhD Position in Deep Learning for Biodiversity Monitoring (EU Horizon Project NextBON)We are looking for a highly motivated PhD candidate to join a large European research initiative aimed at transforming how biodiversity is monitored across Europe. The position is part of NextBON, a Horizon Europe project coordinated by the University of Copenhagen and involving more than 20 leading research institutions across Europe. The project's goal is ambitious: to build a harmonised, policy-relevant biodiversity observation network that can support environmental decision-making at national and European levels. While the PhD candidate will be based in Zurich, the candidate will be encouraged to do a research stay at NIBIO in Norway.Why This Project MattersBiodiversity monitoring technologies have advanced rapidly in recent years. Earth observation satellites, environmental DNA (eDNA) metabarcoding, automated sensor networks, and AI-based species identification now generate unprecedented amounts of ecological data. However, these methods are often used in isolation, with limited coordination or validation across countries. As a result, their full potential for informing environmental policy and management remains underutilized. NextBON aims to change this. The consortium is developing a validated and harmonised blueprint for large-scale biodiversity monitoring that can be adopted by EU Member States and research infrastructures beyond the project's lifetime.The Scientific VisionNextBON will establish a three-tier biodiversity observation network.Tier 1: Large-scale monitoring using satellite-based Earth observationTier 2 & 3: Local, in-depth ecological validation through in situ observations at carefully-selected sitesA dedicated Multi-Criteria Decision Analysis toolkit will guide where and how monitoring sites are selected, ensuring ecological and geographic representativeness across Europe. All monitoring workflows are explicitly linked to policy requirements and are co-developed with major international partners such as GBIF, LifeWatch, and BioAgora to ensure long-term operational impact.Doctoral Candidate in computer vision and machine learning for developing novel deep learning methods for plant and animal species identification from camera-trap and crowd-sourced imageryYour responsibilitiesWithin NextBON, the EcoVision Lab (in close collaboration with NIBIO in Norway, group of Stefano Puliti) will focus on advancing biodiversity monitoring at the most detailed level - Tier 3 sites. As a PhD candidate, you will develop novel deep learning and computer vision methods to transform large-scale photo and video datasets into Essential Biodiversity Variables (EBVs).Your research will include:Developing deep learning models for species detection and identificationEstimating species abundance and phenological stagesProducing calibrated uncertainty estimates for ecological predictionsTraining models on heterogeneous data sources (e.g., camera traps, GBIF, LUCAS, NFI records)Exploring multimodal fusion with environmental DNA, passive acoustics, and satellite dataThe ultimate goal is to generate spatially explicit, policy-relevant biodiversity indicators grounded in robust machine learning methodology.Research Freedom & Methodological InnovationThe project offers significant freedom to explore impactful methodological directions in modern AI, including: self-supervised learning, multimodal learning, geospatial representation learning, uncertainty estimation, interpretability and explainability. We aim for high-impact publications both in machine learning venues (e.g., CVPR, ICCV, ECCV, ICLR, NeurIPS) and leading interdisciplinary journals such as Remote Sensing of Environment, ISPRS Journal, and Nature Sustainability.Your profileWhy Join?This PhD offers:A central role in a major EU-wide biodiversity initiativeClose collaboration with leading ecological and data science institutionsA unique opportunity to combine cutting-edge AI research with real-world environmental impactAccess to diverse, large-scale ecological datasetsThe chance to shape the future of operational biodiversity monitoring in EuropeWe are looking for a highly motivated candidate who is excited about pushing the boundaries of machine learning while contributing to meaningful environmental impact.You are curious, rigorous, and enjoy developing both new ideas and high-quality research software. You are comfortable engaging with challenging problems and collaborating across disciplines.An ideal candidate will have:An excellent Master's degree (. or equivalent) in Computer Science, Machine Learning, Data Science, or a closely related field (e.g., Electrical Engineering, Applied Mathematics)A strong foundation in mathematics and machine learningSolid programming experience, preferably in PythonStrong prior experience in deep learning and computer visionInterest in applying advanced ML methods to ecological and geospatial dataExperience with topics such as self-supervised learning, multimodal learning, uncertainty estimation is a plus - but not strictly required.Fluency in English (written and spoken) is required, as the project involves close collaboration with partners across Europe.We are committed to building a diverse and inclusive research environment. We encourage applications from candidates of all backgrounds and particularly welcome those who may not meet every listed criterion but bring strong motivation and potential.What we offerOur employees benefit from a wide range of attractive offers. MoreLocationDepartment of Mathematical Modeling and Machine LearningInformation on your applicationPlease submit your complete application via the link below, including:A motivation letterCurriculum vitaeAcademic transcripts (school and university)Contact details of at least two refereesThe application deadline is 30 March 2026, with a planned starting date of 1 OctoberReview of applications will begin immediately and continue until the position is filled. Early applications are therefore strongly encouraged.Further informationQuestions about the jobProf. Jan Dirk WegnerProfessor
+Write an email
+Working at UZHThe University of Zurich, Switzerland's largest university, offers a range of attractive positions in various subject areas and professional fields. With around 10,000 employees and currently 12 professional apprenticeship streams the University offers an inspiring working environment on cutting-edge research and top-class education. Put your talent and skills to work with us. Find out more about UZH as an employer! jid948b8fepn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Switzerland
+Álláshirdetés jelentése
