@@ -1,0 +1,82 @@
+Cég neve
+MBH Bank Nyrt.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AWS
+AZURE
+AGILIS
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+AWS
+AZURE
+AGILIS
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+AZ MBH BANK MAGYARORSZÁG EGYIK VEZETŐ BANKJA. STABIL, HAZAI BANK, AZ ORSZÁG LEGNAGYOBB FIÓKHÁLÓZATÁVAL.
+Célunk, hogy ÉRTHETŐ, EMBERKÖZELI és SZERETHETŐ élménnyé tegyük a bankolást, miközben támogatjuk közel 2 millió ügyfelünket, hogy tudatosan és magabiztosan kezeljék pénzügyeiket.
+Milyen feladatokban számítunk rád?
+Tervezési feladatokban való részvétel (HLD, LDD)
+Log management, distributed tracing és metrikagyűjtő rendszerek fejlesztése, üzemeltetése
+Monitoring dashboardok, riasztások kialakítása
+Incidens analízis támogatása
+Monitoring rendszerekhez kapcsolódó automatizálási feladatok
+Milyen tudásra lesz szükséged?
+Felsőfokú informatikai végzettség
+Legalább 2-3 év modern observability stackben való tapasztalat (pl. Prometheus, Grafana, ELK, Dynatrace, Splunk, OpenTelemetry)
+Legalább 2-3 év on-prem vagy felhős üzemeltetési tapasztalat
+Konténeres és felhős környezet ismerete (Kubernetes, AWS, Azure)
+SRE szemlélet a nem jól működő dolgok végleges javítására
+Középfokú angol nyelvtudás
+Operatív tudatosság megteremtése digitális megoldásokon keresztül
+Együttműködési készség, csapatjátékos attitűd
+Problémamegoldó képesség
+Struktúrált gondolkodás
+Kiváló kommunikációs készség
+Előny:
+Banki/pénzügyi területen szerzett tapasztalat
+Agilis módszertanok ismerete
+Integrációs megoldások, nagyvállalati környezet ismerete
+ML és AI használatában való jártasság observability megoldások kapcsán
+Miben számíthatsz ránk?
+Komplex juttatási csomaggal rendelkezünk
+Home office lehetőséget biztosítunk
+Széles körű sportolási támogatást nyújtunk
+Szupercsapatként működünk együtt
+Kíváncsiak vagyunk ötleteidre és teret adunk a megvalósításukhoz
+Generációs sokszínűségi stratégia: Start+, Bébi+, Aktív+, Nagyköveti program
+Munkahelyi extrák
+Céges étkező
+Kávézó
+Céges rendezvények
+Sportolási lehetőség
+Jelentkezés módja
+Amennyiben szeretnél csatlakozni csapatunkhoz, jelentkezz a "jelentkezem" gombra kattintva.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Álláshirdetés jelentése

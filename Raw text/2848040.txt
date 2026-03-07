@@ -1,0 +1,51 @@
+Cég neve
+MF Group AG
+Munkavégzés helye
+Hibrid
+•
+6830 Chiasso
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SCRUM
+AGILE
+JAVA
+TESTING—
+SPRING
+Elvárások
+Angol középfok és
+Olasz középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SCRUM
+AGILE
+JAVA
+TESTING—
+SPRING
+Angol
+középfok és Olasz középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Senior Software Engineer (m/f/d)MF Group is a Swiss market leader in the Buy Now Pay Later universe and part of Riverty and the globally active Bertelsmann Group. Our solutions contribute to flexible and customer-friendly payment alternatives. We offer consumers the opportunity to choose when and how they want to pay, guaranteeing a steady and predictable cashflow for merchants. With its payment services, which also include credit, prepaid, and gift cards, MF Group serves almost all major physical and online retailers in Switzerland.We are looking for support asSenior Software Engineer (m/f/d)(unlimited, full-time) Join our team at our location in Chiasso - flexible working conditions availableSenior Software Engineer (m/f/d)Job Responsibilities:We build and maintain core financial services that power MF Group products. This includes systems for tracking customer account balances, orchestrating invoice creation and distribution, and ensuring financial data flows accurately across merchants and platforms. Whether working on ledgers, customer-facing invoice flows, or credit card and digital payment solutions, as a Senior Software Engineer you will face exciting technical challenges in a dynamic and informal atmosphere. You will participate in the definition and implementation of new functional and non functional requirements—from analysis to testing—while also contributing to the integration of payment systems, the development of new features, and the delivery of secure, scalable, and user-friendly experiences for both merchants and consumers.In particular you will:Design, develop, test, and ship robust, maintainable, and readable software, applications, APIs, and workflows—primarily using Java.Bring in industry standards and best practices to continuously simplify the current software architecture to reduce complexity and maintenance cost.Solve hard problems where lateral thinking is required.Monitor the production systems to spot improvement opportunities.Make a positive impact on our engineering culture by adopting, implementing, and providing feedback on best standards and practices.Work in an agile environment following Scrum, participating in sprints, stand-ups, and planning sessions.What will help you to succeed in the role:You're a seasoned software engineer (5+ years of experience) with deep knowledge of the Object-Oriented and/or Functional paradigms, and a track record of delivering production-grade systems using Java.You have passion, discipline, and dedication in shaping technical direction and enjoy contributing to architectural decisions to ensure long-term quality and sustainability of the code base.You have a strong critical thinking attitude to question the status quo and come up with concrete ideas.You're comfortable taking ownership—from ideation to deployment—and balancing technical excellence with business impact.You thrive in collaborative environments, value diverse perspectives, and communicate clearly in Italian (preferred) and English across disciplines.You enjoy working in agile teams following Scrum, actively participating in sprint planning, reviews, and retrospectives.How to stand out:Extensive knowledge of the Java stack, in particular in the Spring ecosystem Experience in scalable modular applications.Experience in breaking a monolith application Experience in containerized architectures and technologies.Experience in the FinTech domain Experience in mentoring a team.What we offer:Immerse yourself in a welcoming, trust-filled atmosphere as part of our agile teams and explore the fantastic opportunities within the Bertelsmann Group.An agile working environment where value is delivered every couple of days.Empower your growth and professional development with Riverty's training sessions and customized development plans.Together, we'll learn, evolve, and achieve success.Experience the best of both worlds with about 40% Home Office, which let you mix on-site teamwork and remote work to create the perfect professional experience that suits your life.Know that you're appreciated with plenty of employee benefits & discounts just for you.Please note that benefits could be different depending on agreement details, and they may change over time. We'd be delighted to explore these benefits in greater depth during an interview.Company: MF Group AG | Job ID: 286851 jid5c7945cpn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Switzerland
+Álláshirdetés jelentése

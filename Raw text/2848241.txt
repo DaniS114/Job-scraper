@@ -1,0 +1,109 @@
+Cég neve
+Novelkis Kft
+Munkavégzés helye
+Hibrid
+•
+1095 Budapest, Soroksári út 48.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Feladatok
+We are looking for a highly motivated, experienced Software Developer in Test to join the Nodu team.
+In this role, you will be responsible for driving quality in a team working on a cloud-based product. In this role, you will work closely with software developers, product owner, and other to design and build test automation. You will ensure cloud services can be deployed frequently with minimal effort and high quality through manual and automated testing, with a focus on test automation. You will own and drive initiatives related to improving quality, stability, reliability and usability of your team’s software deliverables
+Collaborate with developers to establish processes that ensure delivery of quality backend and UI part of the platform.
+Write and run test cases based on real production work, and create scripts for automation.
+Uphold high quality standards for the products you work on by designing and implementing test automation suites.
+Assist team evaluate risk, quality, and/or stability on individual stories, initiatives, sprints, product milestones, and services.
+Participate in test estimation and ensure automated testing is accounted for in planning or acceptance criteria.
+Receive defect reports from other sources (customers, product support, forums), confirm and track specific issues for use by development.
+Participate in scrum ceremonies for requirement gathering, test planning, execution, and progress reporting
+Partner with experienced engineers, absorbing best practices in software development.
+Collaborate with other team members on the implementation, deployment and maintenance of the automation testing pipelines within CI/CD pipelines.
+Be an engaged and active member of the team, learn, mentor, be mentored and contribute to the improvement of the team by engaging in respectful conversations and decision makings.
+Elvárások
+Education: BS in Computer Science or related technical field.
+Core Experience: Designing high-quality test automation suites for cloud services within CI/CD pipelines.
+Programming: Proficiency in Python, Javascript or C#.
+Testing Toolkit: Familiarity with tools like Cypress, Selenium, JMeter, Postman, Cucumber, or BurpSuite.
+Infrastructure & Cloud experience:
+Virtualization: Docker, Kubernetes, WSL2.
+CI/CD: GitHub Actions, CircleCI or Jenkins.
+Cloud: Intermediate knowledge of AWS (or similar providers).
+OS: Proficiency in Windows and Linux systems.
+Methodology & Soft Skills: Experience in Agile/Scrum teams, strong problem-solving abilities, and adaptability in a fast-paced environment.
+Amit kínálunk
+Hybrid working model
+(with a Budapest-based office)
+Inspiring startup environment
+Agile mindset
+and
+cutting-edge tech stack
+Diverse, cross-industry projects
+Opportunity to influence
+technological decisions
+Céginformáció
+FDB is an innovative facade technology company with a Design & Build approach that has developed its own unique digital ecosystem called nodu. This platform is the technological heart of the company: it bridges the gap between engineering design (BIM) and manufacturing by automating data transfer. In this way, FDB doesn't just build facades but revolutionizes the process through software, minimizing errors and increasing efficiency
+FDB (The Company)
+Profile:
+A
+Design & Build
+facade engineering company. They handle everything from design and manufacturing (in their own facility) to installation.
+Specialty:
+End-to-end implementation of
+ventilated facades
+(from A to Z).
+References:
+Key projects include the
+MOL Campus
+,
+BudaPart
+offices, and the
+H2O
+building.
+nodu (The Technology)
+What is it:
+FDB’s
+proprietary software ecosystem
+and brand.
+Main Function:
+Directly bridges the gap between
+BIM design (Revit)
+and
+manufacturing (CNC machines)
+.
+Benefit:
+Automates data transfer, converting design plans into producible elements
+without human intervention or error
+.
+Jelentkezés módja
+Send your CV to if you want to do more than just write code—come shape the future of construction.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Tesztelő,
+Tesztmérnök
+Budapest
+Budapest
+Álláshirdetés jelentése

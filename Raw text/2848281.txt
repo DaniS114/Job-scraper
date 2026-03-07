@@ -1,0 +1,121 @@
+Cég neve
+BECK AND PARTNERS Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest, Budapest, XIII. kerület, Váci út 19., Panoráma irodaház
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Vállalkozói
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+JAVA
+BACKEND
+CMS
+API
+SPRING
+HIBERNATE
+SQL
+JUNIT
+GIT
+INTELLIJ
+ECLIPSE
+FRONTEND
+JAVASCRIPT
+REACT
+HTML5
+CSS
+SCSS
+PYTHON
+AWS
+DOCKER
+MAVEN
+Biztosított eszközök
+Laptop
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Vállalkozói
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+JAVA
+BACKEND
+CMS
+API
+SPRING
+HIBERNATE
+SQL
+JUNIT
+GIT
+INTELLIJ
+ECLIPSE
+FRONTEND
+JAVASCRIPT
+REACT
+HTML5
+CSS
+SCSS
+PYTHON
+AWS
+DOCKER
+MAVEN
+Laptop
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Céginformáció
+Partnerünk egy több mint 20 éves tapasztalattal rendelkező technológiai vállalat, amely webes és mobil megoldások fejlesztésével, valamint saját termékek és K+F projektek megvalósításával foglalkozik. A cég megbízható, skálázható rendszerek fejlesztésére specializálódott, és aktívan alkalmaz AI-asszisztált fejlesztési megoldásokat a gyorsabb és magasabb minőségű szállítás érdekében. Nemzetközi projektjeik között kiemelkedő eredmény, hogy emirátusi partnerükkel 2025-ben elnyerték a “Best AI Startup in UAE” díjat a World Technology Awards / World AI Technology Expo keretében.
+Csapatuk bővítésére keresünk új munkatársat az alábbi pozícióba:
+SENIOR JAVA FEJLESZTŐ
+Feladatok
+Java alapú backend/webalkalmazások fejlesztése (minőségi, biztonságos, jól szervezett kód)
+Saját termékeink fejlesztése (pl. AI-alapú funkciók integrálása CMS és üzleti rendszerekbe)
+Új megoldások tervezése: API-k, szerver oldali interfészek webes és mobil kliensekhez
+Code review, minőségbiztosítás, tesztelhetőség és maintainability fókusz
+Kisebb csapatok szakmai támogatása, mentoring, tudásmegosztás
+Elvárások
+Legalább 5 év Java fejlesztési tapasztalatot senior szinten
+Spring (Spring Boot) és Hibernate/JPA magabiztos ismerete
+SQL és relációs adatbázisok: tervezés, lekérdezések, teljesítmény alapok
+Tesztelési rutin (pl. JUnit), igény a tiszta, strukturált kódra
+Git, Maven/Gradle és modern Java IDE (IntelliJ/Eclipse/VS Code) magabiztos használata.
+Önálló problémamegoldás, ownership szemlélet, csapatmunka
+Juttatások
+Stabil, hosszú távú lehetőség ALKALMAZOTTI vagy VÁLLALKOZÓI jogviszonyban
+Nemzetközi és innovatív projektek + saját termékek
+Hibrid munkavégzés, modern irodai környezet
+Céges eszközök (laptop, telefon)
+Folyamatos szakmai fejlődés: Udemy-kurzusok, belső workshopok (Tudástár), AI- és architektúra-fókuszú előadások
+Közösségi programok (csapatépítők, heti foci), kötetlen és támogató csapat
+Munkavégzés helye: Budapest, XIII. kerület, Váci út 19., Panoráma irodaház
+Kezdés: akár azonnal
+Előnyt jelent
+Architektúra-tervezési tapasztalat
+Frontend alapok: TypeScript/JavaScript (elsősorban React), HTML5, CSS/SCSS, Tailwind
+Generatív AI/LLM-ekkel szerzett gyakorlati tapasztalat (promptolás, RAG, integráció üzleti folyamatokba)
+Python ismerete
+AWS tapasztalat (Lambda, EC2, S3, IAM) és konténeres környezet (Docker)
+Angol középfok (nemzetközi projektekhez)
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezés gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Álláshirdetés jelentése

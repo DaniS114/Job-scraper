@@ -1,0 +1,51 @@
+Cég neve
+MaxWell Biosystems AG
+Munkavégzés helye
+Albisriederstrasse 253, 8047 Zürich
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+MACHINE LEARNING
+AGILE
+C++
+LINUX
+BASH
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+MACHINE
+LEARNING
+AGILE
+C++
+LINUX
+BASH
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Computational Neuroscientist / Electrophysiology Data Analysis EngineerAt MaxWell Biosystems, we innovate the future of electrophysiology by developing cutting-edge technologies for neural activity recording. Our platform includes the software MaxLab Live, a custom-designed integrated circuit, and an FPGA-based data acquisition system that generates vast amounts of data when electrically imaging neu-ronal tissue. These data are processed, analyzed, and visualized in real-time.We are seeking a highly motivated Computational Neuroscientist or Electrophysiology Data Analysis Engineer to join our interdisciplinary team. The ideal candidate will bridge the gap between software engineering and electrophysiology data analysis, helping us develop novel tools for neuroscience research and drug discovery.Your MissionDevelop and enhance robust pipelines for neural data analysis, including spike sorting and feature extraction algorithmsIntegrate cutting-edge methods, including machine learning or advanced statistical techniques, to improve the accuracy and efficiency of neural data analysisCollaborate with neuroscientists and electrophysiologists to identify key challenges in data interpretation and implement practical software solutionsContribute to the development of APIs and tools that simplify and enhance user workflows for neural data explorationContribute your own ideas in our agile development processWork in a multidisciplinary environment, understand customer needs, continuously improve user experienceOur Current Tech StackPython – for our analysis algorithms we are relying on the Python data science stackC++ – for real time processing and visualizationQt – we embrace Qt for all our user interfacesLinux and bashYour ProfileBackground in computational neuroscience or electrophysiology with hands-on experience analyzing multi-electrode array (MEA) recordingsStrong understanding of neural spike data, extracellular recordings, and neural signal processingKnowledge of spike sorting techniques (e.g., SpikeInterface, Kilosort, SpyKING CIRCUS) and neural data anal-ysis workflows is a strong plusEnjoy writing elegant and maintainable codeGood programming skills in Python, familiarity with C++ is a plusExperience with LLM-assisted coding tools (e.g. Claude) is a plus.Knowledge in Linux, Bash and PythonGreat teammate, entrepreneurial mindsetKeen to help create a positive, supportive, engaging team environmentStrong interpersonal and communication skills to collaborate effectively with interdisciplinary teamsWhy Join Us?Be part of an international and multidisciplinary team at the forefront of neuroscience and technologyWork on challenging projects that combine biology, computation, and engineeringHelp develop cutting-edge tools that advance neuroscience research and drug discoveryEnjoy a collaborative, innovative, and supportive work environment jid36f10adpn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Switzerland
+Álláshirdetés jelentése

@@ -1,0 +1,57 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Review SoC solution architectures and develop micro-architecture specifications
+Implement RTL designs, identify and fix bugs, perform design checks, generate power intent, and support implementation constraint creation
+Collaborate with verification teams to review test plans and debug design issues
+Work closely with performance and power analysis teams to evaluate and optimise system efficiency
+Continuously improve design methodologies to drive innovation and efficiency
+Support project management activities including planning, scheduling, and progress tracking
+Requirements
+Hands-on experience in RTL design for complex SoCs using Verilog and/or SystemVerilog
+Understanding of static design checks, synthesis, timing analysis, power management, and clock domain crossing
+Exposure to full design lifecycle: concept, specification, implementation, power & performance analysis, optimisation, testing, documentation, and support
+Ability to produce clear specifications and documentation for complex designs
+Familiarity with shell scripting or programming (Tcl, Perl, Python, etc.)
+Nice-to-have
+Experience with Arm-based designs or Arm System Architectures, Development and integration of subsystems such as PCIe, UCIe, DDR/LPDDR/HBM, Ethernet, High-level programming in C/C++ and/or assembly, Knowledge of embedded OS, device drivers, microprocessor architectures, and embedded system hardware
+What we offer
+Health and Wellness benefits to nurture physical and mental wellbeing
+Work and Life Success benefits empowering life beyond standard work patterns
+Financial Rewards beyond a competitive salary
+Development and Support fostering professional and personal development in a supportive community
+Hybrid working environment supporting high performance and personal wellbeing with flexible team-determined patterns
+Company info
+Arm’s Solution Engineering division develops cutting-edge SoCs for diverse application segments, leveraging the latest IP from Arm and other vendors. We are seeking a creative and driven SoC Design Engineer to join our Sheffield team and contribute to the specification, design, and verification of advanced SoC products. You will collaborate closely with dedicated engineers across Sheffield and Manchester, as well as multiple teams across Arm, to help define the next generation of compute solutions. This is a unique opportunity to bring innovation and expertise from across the semiconductor industry to a role that directly shapes the future of Arm devices.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Manufacturing,
+Production
+Automatization
+Budapest
+Álláshirdetés jelentése

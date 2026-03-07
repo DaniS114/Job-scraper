@@ -1,0 +1,69 @@
+Cég neve
+NVIDIA Hungary Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DATABASES
+NOSQL
+DATABASE
+JAVA
+BACKEND
+AWS.
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+DATABASES
+NOSQL
+DATABASE
+JAVA
+BACKEND
+AWS.
+Angol
+középfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design various RESTful APIs and backend databases in multi region environment.
+Contribute into targeting engine and segmentation pipelines.
+Develop automations and tests to ensure system stability.
+Collaborate with various Engineering and Business teams on their needs.
+Drive innovation in Data Platform architecture and software stack.
+Requirements
+A Bachelor's or Master's degree in a Computer Science, Engineering, or equivalent, and 6+ years of experience.
+Expert knowledge of Java and Springboot.
+Hands on skills in Relational/NoSQL database technologies.
+Strong understanding of distributed systems architecture.
+Proficient in English.
+Nice-to-have
+Knowledge of either Cassandra, Clickhouse or Postgres and ability to build solutions based on it., Past experience with Kubernetes and AWS., Creative and autonomous with a genuinely real passion for the modern technologies is highly desired., NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+What we offer
+Highly competitive salaries
+Comprehensive benefits package
+Base salary range for Poland: 221,250 PLN - 383,500 PLN for Level 3, and 292,500 PLN - 507,000 PLN for Level 4.
+Company info
+NVIDIA is the world leader in accelerated computing.
+NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,149 @@
+Cég neve
+77 Elektronika Kft.
+Munkavégzés helye
+Hibrid
+•
+1116 Budapest, Fehérvári út 98.
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Biztosított eszközök
+Laptop
+Monitor (2 db)
+Windows
+Headset
+Mobiltelefon
+Elvárások
+Angol alapfok
+3-5 év tapasztalat
+Főiskola
+
+Cafeteria
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Laptop
+Monitor
+(2 db)
+Windows
+Headset
+Mobiltelefon
+Angol
+alapfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+A 77 Elektronika Kft. orvoselektronikai eszközök fejlesztésével, gyártásával és forgalmazásával foglalkozó, nemzetközi kapcsolatokkal rendelkező, stabil hátterű magyar tulajdonú nagyvállalat. Saját fejlesztésű vállalati és termelésirányítási rendszereink (ERP, MES) kritikus szerepet játszanak a gyártás és a minőségbiztosítás működésében, valamint a nemzetközi auditok során.
+Munkatársat keresünk vállalati és termelésirányítási rendszereink fejlesztésére és támogatására Szoftverfejlesztő (PHP / JAVA) (kód: DEV202604) pozícióba, teljes munkaidőben.
+Feladatok
+Meglévő, saját fejlesztésű
+PHP-alapú rendszerek
+karbantartása, hibajavítása és továbbfejlesztése (bugfix / fejlesztés / refaktor).
+Részvétel a
+saját fejlesztésű JAVA-alapú ERP rendszer
+fejlesztésében és továbbfejlesztésében.
+A termelésirányítási rendszer (MES)
+továbbfejlesztése és modernizálása
+; felkészülés a PHP logika átemelésére a JAVA-alapú meglévő ERP rendszerbe (betanulás 2026-ban, újraírási program indulása 2027-ben).
+ERP és egyéb rendszerek integrációinak fejlesztése, modernizálása.
+Gyártási és vállalati jelentések, statisztikák készítése,
+SQL lekérdezések írása és optimalizálása
+.
+Kapcsolattartás a gyártási, technológiai és minőségbiztosítási területekkel.
+Dokumentációk készítése, fenntartható fejlesztési folyamatok támogatása.
+Tesztelési folyamatok támogatása (tesztelés, dokumentálás, automatizálás felé lépések).
+Elvárások
+Minimum 3 év releváns szakmai tapasztalat
+(medior szint).
+Biztos PHP tudás
+(karbantartás, hibajavítás és fejlesztés).
+Medior szintű JAVA fejlesztési ismeretek
+.
+Erős
+OOP szemlélet
+, igény a tiszta, karbantartható kódra.
+Jó
+SQL adatbázis-kezelés
+i ismeretek, riportok/lekérdezések magabiztos kezelése.
+Rendszerszemlélet és önálló problémamegoldó készség.
+Angol nyelvű szakmai dokumentumok olvasása és készítése.
+Jó kommunikációs és együttműködési készség, dokumentációs fegyelem, pontosság.
+TECHNOLÓGIAI KÖRNYEZET (NÁLUNK EZZEL TALÁLKOZOL)
+PHP
+, részben
+Laravel
+JAVA, Spring, Hibernate
+PostgreSQL
+, SQL
+HTML, CSS, JavaScript
+REST alapú integrációk
+Git verziókezelés
+Linux környezet
+Fejlesztőkörnyezet:
+NetBeans
+és
+Eclipse
+Előnyt jelent
+MES vagy ERP
+rendszerek fejlesztésében szerzett
+tapasztalat
+.
+ISO 13485 vagy más szabályozott környezetben szerzett tapasztalat.
+AI-eszközök (pl. ChatGPT, Copilot, LLM-alapú megoldások) iránti nyitottság és gyakorlati használat.
+Laravel gyakorlati ismeret.
+Automatizált tesztelésben szerzett tapasztalat.
+Linux/üzemeltetési affinitás, integrációs tapasztalat.
+Amit kínálunk
+Stabil, hosszú távú munkahely egy világszínvonalú, magyar tulajdonú nagyvállalatnál.
+Valós ipari környezetben használt,
+kritikus rendszerek fejlesztése
+(ERP / MES).
+Lehetőség, hogy részt vegyél a rendszerek
+JAVA-alapú megújítás
+ában és jövőjének formálásában.
+Versenyképes jövedelem
+és
+cafeteria
+.
+Home office lehetőség.
+Laptop, mobiltelefon.
+Támogató csapat, könnyű megközelíthetőség.
+Munkahelyi extrák
+Zuhanyzási lehetőség
+Céges rendezvények
+Kerékpártároló
+Jelentkezés módja
+Tisztelt Érdeklődő!
+Amennyiben a hirdetésünk felkeltette érdeklődését és jelentkezni szeretne, kérjük, hogy
+MAGYAR nyelvű, fényképes szakmai önéletrajz
+át az alábbi „
+Jelentkezem
+” gombra kattintva küldje el.
+Köszönjük!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

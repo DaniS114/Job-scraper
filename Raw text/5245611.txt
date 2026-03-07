@@ -1,0 +1,99 @@
+Systémový administrátor
+Fakultná nemocnica Nitra
+Miesto práce
+Špitálska, Nitra
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+1 600 EUR/mesiac
+Celková mzda sa skladá zo základnej zložky 1600 eur a osobného príplatku. Celková výška hrubej mzdy bude stanovená podľa reálnych skúseností úspešného uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Fakultná nemocnica Nitra obsadzuje na Odbore informačných technológií a systémov pozíciu systémového administrátora.
+Náplň práce:
+- Správa, konfigurácia a údržba serverovej a sieťovej infraštruktúry na úrovniach L2–L3.
+- Správa Windows Serverov a Linux serverov, vrátane Active Directory, GPO, DNS, DHCP,WSUS a FS.
+- Konfigurácia a správa virtualizačných platforiem (VMware, Proxmox výhodou).
+- Konfigurácia a správa sieťových zariadení (Cisco, Ubiquiti, Fortinet), vrátane VLAN, VPN, firewallov a základných sieťových služieb.
+- Monitoring serverov a sietí a riešenie incidentov naprieč infraštruktúrou.
+- Správa zálohovania a obnovy dát.
+- Základná automatizácia rutinných úloh pomocou skriptovania (PowerShell, Bash).
+- Diagnostika a riešenie problémov v oblasti serverov, sietí a aplikácií.
+- Správa serverového hardvéru a optimalizácia prevádzky systémov.
+Zamestnanecké výhody, benefity
+- práca v pracovné dni od 7.00 hod. do 15.00 hod.
+- predĺženie dovolenky nad rozsah Zákonníka práce o 1 týždeň
+- závodné stravovanie
+- príspevok na doplnkové dôchodkové sporenie
+- príspevok pri príležitosti trvania pracovného pomeru
+- odmeny pri príležitosti životného jubilea
+- príspevok darcom krvi po získaní plakety
+- príspevok pri živelných pohromách
+- príspevok pri odchode do starobného dôchodku
+- bezplatné poskytnutie nadštandardnej izby počas prvých 10 dní hospitalizácie
+- poskytnutie priestorov zamestnaneckej jedálne pri životných jubileách
+- športové hry a ďalšie iné v zmysle kolektívnej zmluvy
+- Multisport karta
+Informácie o výberovom konaní
+Ak Vás naša ponuka zaujala, neváhajte a Vašu žiadosť spolu so životopisom posielajte na nižšie uvedenú mailovú adresu.
+Zaslaním svojich osobných údajov dáva odosielateľ súhlas FN Nitra so sídlom Špitálska 6, Nitra k spracovaniu za účelom posúdenia možného prijatia do zamestnania v súlade s ustanoveniami zákona 18/2018 Z.z. o ochrane osobných údajov v znení neskorších predpisov.
+Ďakujeme za prejavený záujem pracovať vo FN Nitra. Jednotlivé žiadosti posúdime a telefonicky kontaktovať budeme s pozvánkou na osobný pohovor iba vybraných uchádzačov.
+Predpokladaný termín ukončenia výberového konania
+5.4.2026
+(ostáva ešte 28 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+informatika, elektrotechnika, manažment
+Jazykové znalosti
+Anglický jazyk - Začiatočník (A2)
+Osobnostné predpoklady a zručnosti
+Požiadavky na kandidáta:
+Skúsenosti so správou Windows Serverov a Linux serverov.
+Znalosť virtualizácie (VMware, Proxmox výhodou).
+Znalosť správy AD, GPO, DNS, DHCP,WSUS a FS.
+Skúsenosti so sieťovými technológiami (VLAN, VPN, firewall, routing).
+Skúsenosti so sieťovými zariadeniami Cisco, Ubiquiti alebo Fortinet.
+Skúsenosti so zálohovaním a obnovou dát.
+Základy skriptovania (PowerShell, Bash).
+Skúsenosti so správou SSL/TLS certifikátov.
+Analytické myslenie a schopnosť riešiť problémy.
+Základy anglického jazyka.
+Preferované znalosti (výhoda):
+Skúsenosti s cloudovými riešeniami (AWS, Azure).
+Správa webserverov (IIS, WordPress).
+Ak spĺňate niektoré z uvedených požiadaviek, radi sa s Vami stretneme na osobnom pohovore.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Fakultná nemocnica v Nitre je koncovým zdravotníckym zariadením a poskytuje zdravotnú starostlivosť pre celý Nitriansky kraj v 15 klinikách, 10 oddeleniach a vo viac ako 80-tich špecializovaných ambulanciách. Zabezpečuje praktickú výučbu študentov Fakulty sociálnych vied a zdravotníctva Univerzity Konštantína Filozofa v Nitre ako aj prax žiakov Strednej zdravotnej školy v Nitre. Umožňuje realizovať aj povinnú prax študentom lekárskych a farmaceutických fakúlt.
+Kontakt
+Kontaktná osoba: Ing.  Eva Hudecová
+Tel.:
++421376545611
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5245611
+Dátum zverejnenia:
+6.3.2026
+2026-03-06
+lokalita:
+Nitra
+Pozícia:
+Systémový administrátor
+Spoločnosť:
+Fakultná nemocnica Nitra
+Základná zložka mzdy (brutto):
+1 600 EUR/mesiac

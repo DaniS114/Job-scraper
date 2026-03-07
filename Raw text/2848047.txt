@@ -1,0 +1,50 @@
+Cég neve
+MaxWell Biosystems AG
+Munkavégzés helye
+Albisriederstrasse 253, 8047 Zürich
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C++
+PYTHON
+NETWORK
+LINUX
+BASH
+AGILE
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C++
+PYTHON
+NETWORK
+LINUX
+BASH
+AGILE
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Senior Software Engineer C++At MaxWell Biosystems, we innovate the future of electrophysiology by developing cutting-edge technologies for neural activity recording. Our platform includes the software MaxLab Live, a custom-designed integrated circuit, and an FPGA-based data acquisition system that generates vast amounts of data when electrically imaging neu-ronal tissue. These data are processed, analyzed, and visualized in real-time.We are seeking a highly motivated Senior Software Engineer C++ to join our interdisciplinary team, helping us develop novel tools for neuroscience research and drug discovery.Your MissionWrite elegant and maintainable code for our high-performance data acquisition and analysis softwareDesign and implement next generation UX and data visualizationsDesign and implement software APIs, and work with application scientists to optimize software interfacesImprove robustness and reliability of the codebase and devote time to polishing products and systemsParticipate in code reviews and mentor junior team membersContribute your own ideas in our agile development processOur Current Tech StackC++ - we aim to write maintainable and fast code to provide data analysis and visualizations in real timeQt - we embrace Qt for all our user interfacesPython - our analysis algorithms are relying on the Python data science stackLinux and bashCMake, OpenGL, boost, hdf5, ... and moreYour ProfileProven track record as a software engineer with 5+ years of experienceStrong background in systems programmingStrong programming skills in C++, familiarity with modern C++ standardsExperience with network programming, server client applicationsExperience with LLM-assisted coding tools (e.g. Claude)Knowledge in Linux, Bash and PythonGreat teammate, entrepreneurial mindsetKeen to help create a positive, supportive, engaging team environmentExcellent communication skills in English (written and spoken)Experience with some of the following topics is a plus:o Experience with data analysis and visualizationo Experience in UI/UX design with Qto Experience with OpenGLo Experience with agile development approacheso Curiosity about neuroscience applicationsWhy Join Us?Be part of an international and multidisciplinary team at the forefront of neuroscience and technologyWork on challenging projects that combine biology, computation, and engineeringHelp develop cutting-edge tools that advance neuroscience research and drug discoveryEnjoy a collaborative, innovative, and supportive work environment jid09f3e33pn jit0310pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Switzerland
+Álláshirdetés jelentése

@@ -1,0 +1,77 @@
+Cég neve
+DIgSILENT GmbH
+Munkavégzés helye
+Hibrid
+•
+Gomaringen bei Tübingen
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+HARDWARE
+TESTING
+C
+C++
+DYNAMICS
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+HARDWARE
+TESTING
+C
+C++
+DYNAMICS
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+You implement numerical simulation methods and their applications for large scale power systems.
+You develop high performance algorithms for dynamic simulation taking also advantage of hardware-based acceleration techniques such as FPGA or GPU.
+You are involved in the full development chain: research, design and specification, implementation, testing and maintenance.
+You provide expert support to our customers on matters relating to dynamic simulation.
+Requirements
+Very successful degree (Masters/ PhD) in Computer Science, Electrical Engineering, Physics or Mathematics.
+Very good knowledge in C/C++ development or other object-oriented programming languages.
+Strong expertise in high performance computing with focus on hardware-accelerated software development based on FPGA or GPU programming.
+Profound knowledge in simulation or stability analysis of dynamical systems as for example hybrid differential-algebraic equation systems is beneficial.
+Familiarity in further topics, such as electrodynamics, dynamics of large-scale power systems, dynamic modelling (e.g. MODELICA), real time simulation, optimization or numerical analysis is of advantage.
+Willingness to extend your expert knowledge and to apply it in new areas.
+Very good abilities to communicate, collaborate and interact with other project team members and clients.
+What we offer
+Attractive remuneration including annual bonus payments and company pension scheme.
+Flexible working hours with flexitime account and home office option, as well as 30 days' holiday per year.
+Childcare allowance for daycare and kindergarten children.
+Individual training opportunities for professional development.
+Work in an innovative and promising working environment with good professional development opportunities.
+Flat hierarchies with the advantages of an internationally networked, medium-sized company.
+Company info
+DigSILENT GmbH is an independent software and consulting company in the field of electrical power supply, serving transmission, distribution, generation, and industrial networks as well as renewable energy systems.
+We assist energy providers and grid operators in tackling the challenges posed by digitalization in the energy sector and the integration of renewable energy sources. Our products
+PowerFactory
+,
+StationWare
+, and
+Monitoring Systems
+are utilized worldwide in over 170 countries. If strengthening brand presence is not just your profession but your passion, then join our team.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,93 @@
+Cég neve
+Drótposta Consulting Informatikai Tanácsadó Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest, Graphisoft Park
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVA
+SPRING
+GIT
+API
+TESTING
+POSTMAN
+SQL
+DOCKER
+AWS
+TEST AUTOMATION
+CUCUMBER
+REST
+INTELLIJ
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+JAVA
+SPRING
+GIT
+API
+TESTING
+POSTMAN
+SQL
+DOCKER
+AWS
+TEST
+AUTOMATION
+CUCUMBER
+REST
+INTELLIJ
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design and write automated test cases
+Expand test automation coverage
+Close collaboration with developers and product team
+Independent test case planning and implementation
+Requirements
+Java
+Spring Framework
+Cucumber
+Gherkin
+Git
+REST API testing
+Postman
+SQL
+Docker
+Kubernetes
+AWS
+IntelliJ IDEA
+Automated testing focus (some manual testing remains)
+Nice-to-have
+CV review, Technical interview (preferably in-person), Take-home assignment (may be given early based on CV), Assignment discussion (online call)
+What we offer
+Long-term/Permanent position
+Employment Type: Employee (preferred), Contractor, or Contract (last resort)
+Location: Hybrid - Graphisoft Park, Budapest (III. district)
+Join our 6-person QA team focusing primarily on automated testing
+Company info
+DPC Consulting develops a complete banking/fintech platform. Our current projects involve working as a system integrator, deploying, customizing, enhancing, and developing complete banking solutions for banks, payment providers, and fintechs based on our platform.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

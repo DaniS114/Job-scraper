@@ -1,0 +1,122 @@
+Infrastructure leader
+Offer experts s. r. o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+3 500 - 5 000 EUR/mesiac
+pri B2B je fakturovaná suma vyššia
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+viesť tím systémových a sieťových špecialistov a zároveň si udržiavať celkový prehľad naprieč IT infraštruktúrou
+analyzovať zadania a pripravovať návrhy technických architektúr pre nové riešenia
+určovať hlavné technologické oblasti a koordinovať tím pri ich úspešnom zavádzaní do prevádzky
+pôsobiť ako odborný garant (SME) v jednotlivých technologických oblastiach
+iniciovať odborné diskusie, konštruktívne pripomienkovať návrhy a smerovať ich k efektívnemu výsledku
+prezentovať architektúrne koncepty a technické riešenia interným tímom, manažmentu aj zákazníkom
+spolupracovať s externými partnermi a dodávateľmi pri implementácii infraštruktúrnych riešení
+podporovať technické tímy pri analýze rizík a pri návrhu optimálnych riešení pre projekty
+Zamestnanecké výhody, benefity
+zázemie stabilnej a úspešne fungujúcej slovenskej spoločnosti pôsobiacej v oblasti TELCO
+možnosť pracovať v skúsenom tíme odborníkov a zároveň priniesť vlastné know-how
+priestor na odborný rast formou školení, certifikácií a ďalšieho vzdelávania
+príležitosť stretávať sa s netradičnými a pokročilými technológiami
+flexibilne nastavený pracovný čas počas týždňa
+možnosť využívať home office podľa typu pozície a dohody s nadriadeným
+notebook a mobilný telefón aj na osobné využitie
+príspevok zamestnávateľa do 3. piliera doplnkového dôchodkového sporenia
+finančný bonus za odporučenie nového kolegu
+pracovné prostredie založené na spolupráci, podpore a neformálnych vzťahoch v tíme
+firemné aktivity, športové stretnutia a priestor na neformálne tímové akcie
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Informačné technológie
+telco/infarstructure
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské bez maturity
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+Kľúčové technológie a požiadavkyNetwork
+praktická znalosť sieťových protokolov na úrovni Cisco CCNP (RSTP, MSTP, DNS, DHCP, QoS, VRF, segmentácia siete)
+návrh, implementácia a prevádzka podnikových sietí na technológiách Cisco SD-WAN, Catalyst, Nexus
+skúsenosti s routing protokolmi BGP, OSPF, OMP a overlay technológiou VXLAN
+práca so softvérovo definovanými sieťami (SDN, SD-WAN, policy-based networking)
+návrh bezpečných prepojení cez IPsec, site-to-site VPN a client VPN vrátane HA topológií
+orientácia v identity managemente v sieťovom prostredí (RADIUS, TACACS+, PKI)
+skúsenosti s bezpečnostnými riešeniami Fortinet (FortiGate, FortiManager, FortiAnalyzer, FortiEMS)
+znalosť bezpečnostných princípov v sieťovej aj aplikačnej vrstve (segmentácia, firewalling, IDS/IPS, zero-trust)
+prehľad o end-to-end architektúre LAN / WAN / DC
+Data Center
+virtualizácia a správa platforiem VMware vCenter a Proxmox
+zálohovanie cez Veeam vrátane migrácií medzi virtualizačnými platformami
+návrh vysoko dostupných architektúr a HA riešení v dátových centrách
+nasadzovanie a prevádzka monitoringu v prostredí Zabbix
+automatizácia deploymentu a provisioning cez Ansible a iPXE
+skúsenosti so serverovým hardvérom HPE DL a storage platformami Dell ME
+návrh storage pripojení cez iSCSI, LUN, NFS a Ceph s dôrazom na výkon a dostupnosť
+Linux
+administrácia distribúcií Debian, AlmaLinux a CentOS podľa typu prostredia
+dobré porozumenie interným mechanizmom Linuxu (kernel, iptables/nftables, LVM, NetworkManager, rsyslog)
+skúsenosti s HA a cluster technológiami (PostgreSQL HA, HAProxy, PgBouncer, rsync, Corosync)
+nasadzovanie a prevádzka Kubernetes prostredí (Calico, MetalLB, ArgoCD, Docker, containerd)
+práca s CI/CD ekosystémom (GitLab pipelines, GitLab agents)
+spolupráca s vývojármi pri nasadzovaní mikroslužieb a správe ich životného cyklu
+Windows a ostatné technológie
+správa Microsoft 365 prostredia (Intune, Teams, SharePoint, Outlook, Entra ID)
+nasadzovanie a administrácia Windows Server 2022
+správa Active Directory, Windows 11 prostredia a mobilných zariadení v hybridnej infraštruktúre
+Výhodou
+skúsenosti s LLM modelmi a YOLO object detection
+práca s IoT riešeniami, senzormi a rádiovou komunikáciou
+správa Ubiquiti UniFi infraštruktúry
+skúsenosti s kamerovými systémami a NVR riešeniami
+nasadzovanie odolných technológií do náročného prostredia
+znalosť TELCO prostredia
+Soft skills
+analytické a logické uvažovanie s kritickým prístupom
+psychická stabilita a osobnostná vyspelosť
+proaktívny ownership mindset
+leadership orientovaný na rozvoj tímu a motiváciu ľudí
+schopnosť prinášať nové návrhy a obhájiť technické riešenia
+prezentačné schopnosti smerom dovnútra firmy aj navonok
+presadzovanie technologických noviniek a ich zavádzanie do praxe
+záujem o kontinuálne vzdelávanie a nové technológie
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+recruitment services/IT delivery
+Kontakt
+Kontaktná osoba: Mgr.  Peter Kluknavsky
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5233727
+Dátum zverejnenia:
+12.2.2026
+2026-02-12
+lokalita:
+Bratislava
+Pozícia:
+IT manager
+,
+IT/Technical Support Specialist
+,
+Riaditeľ IT
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Offer experts s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

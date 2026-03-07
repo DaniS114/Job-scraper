@@ -1,0 +1,138 @@
+Cég neve
+INTEQ Zrt.
+Munkavégzés helye
+Budapest, XI. kerület
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+Python
+FastAPI
+React
+RAG
+promt engineering
+Git
+Linux
+API Dev
+SQL/NoSQL
+Full-stack
+Biztosított eszközök
+Laptop
+Monitor (2 db)
+Mobiltelefon
+Elvárások
+Angol felsőfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Python
+FastAPI
+React
+RAG
+promt
+engineering
+Git
+Linux
+API
+Dev
+SQL/NoSQL
+Full-stack
+Laptop
+Monitor
+(2 db)
+Mobiltelefon
+Angol
+felsőfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Az autonóm üzleti műveletek jövőjét építjük. Full-Stack fejlesztőként Te leszel az építészeti híd a legkorszerűbb - AI agent vezérlő - SaaS platformunk és a robusztus vállalati eszközgazdálkodási (EAM) ökoszisztémák között.
+Célod, hogy az összetett AI munkafolyamatokat és ágenseket zökkenőmentes, nagy hatású eszközökké alakítsd globális ügyfélkörünk számára.
+A feladatod:
+AI megoldások fejlesztése:
+Skálázható alapfunkciók építése SaaS termékünkhöz Python (FastAPI) és React segítségével, GenAI és RAG munkafolyamatok kiszolgálására.
+Vállalati integráció:
+Nagyvállalati EAM ökoszisztéma technikai implementációjának vezetése. Biztosítod, hogy AI ágenseink zökkenőmentesen kommunikáljanak a kritikus ipari adatokkal.
+Infrastruktúra tulajdonosi szemlélet:
+A deploymentek teljes életciklusának kezelése, a Kubernetes környezetektől kezdve a robusztus rendszermonitorozásig és riasztási rendszerekig.
+Termékfejlesztés:
+Közvetlen együttműködés a felhasználókkal, hogy a „vázlatos” üzleti igényeket precíz technikai specifikációkká alakítsd. Te nem csak kódot írsz, hanem termékszemléletű megoldóként hárítod el a szűk keresztmetszeteket.
+Együtt dolgozol az értékesítőkkel a műszaki ajánlatokon
+Elvárások
+Nyitott, őszinte kommunikációra és együttműködésre képes csapattagot keresünk. Építeni szeretnél, keresed a feladatot. Szereted a lazaságot, érted és szereted a viccet (
+főleg, ha sötét
+), de a munkában fókuszált vagy.
+Akit mi keresünk
+, képes
+Felelősségvállalásra:
+Teljes körű felelősséget vállalsz az általad szállított kódért és termékért. Számodra a munka nem ér véget a „ticket" bezárásával
+Architektúrális szemléletre:
+Nem csak kódot írsz, hanem skálázható és karbantartható rendszereket tervezel,; felelsz a funkciók stabilitásáért, teljesítményéért és hosszú távú fenntarthatóságáért.
+Ügyfélközpontú fejlődésre:
+Nyitott vagy a közvetlen kommunikációra az ügyfelekkel (
+vagy készen állsz ezt megtanulni
+), hogy megértsd igényeiket és finomítsd a technikai megoldásokat.
+Kétnyelvű kommunikációra:
+Magabiztos vagy, magyar és angol nyelvtudás szóban és írásban egyaránt.
+Folyamatorientált gondolkodásra:
+Természetes számodra a munkafolyamatok, data-pipelines és logikai szekvenciák vizualizálása.
+Technikai arzenálod
+Alap-követelmények
+(Must-have)
+Full-Stack jártasság, Python (FastAPI) & React
+GenAI elvek, LLM-ek, RAG és Prompting ismerete
+Git, Linux, API Dev, SQL/NoSQL
+Integrációs és API tervezési elvek,
+Application architektúra
+A “Plus” stack (
+learnable
+)
+Javascript, n8n, low-code automation
+IBM Watsonx Vector Databases
+Kubernetes, CI/CD, Rendszer-monitorozás
+Nagyvállalati Enterprise Asset Management rendszer
+Ha még nem ismered, nem gond – feltéve, ha megvan benned a technikai kíváncsiság és a vágy, hogy gyorsan profivá válj benne.
+Előnyt jelent
+Ideális, ha
+Full-cycle mérnök vagy:
+Tapasztalt vagy webalkalmazások alapoktól való felépítésében, telepítésében és karbantartásában
+Alkalmazkodó generalista vagy:
+Otthonosan mozogsz a magas szintű AI kísérletezés és a gyakorlatias vállalati integrációs feladatok között is.
+Ha nem a lelketlen multit keresed magadnak
+Amit kínálunk
+Nagyfokú autonómia:
+A rugalmasságra és a bizalomra építünk. Ez egy teljes munkaidős (40 órás) pozíció, rugalmas időbeosztással, amit high-performing szakemberekre terveztünk
+Egyedülálló metszéspont:
+A Generatív AI élvonalában dolgozhatsz, miközben valós, hatalmas vállalati rendszerek problémáit oldod meg.
+Közvetlen növekedés:
+Az architektúrális döntéseid közvetlen hatással lesznek a termék sikerére és a cég jövőjére.
+Piacképes fejlődés:
+mind emberileg, mind szakmailag folyamatosan európai és távolabbi piacok kihívásaival szembesülünk, ezekre reagálva fejlődünk.
+Céginformáció
+Az INTEQ Zrt. egy budapesti tech csapat, ahol ipari és agrárdigitalizációs projekteken dolgozunk itthon és nemzetközi partnerekkel. Olyan digitális megoldásokat fejlesztünk, amelyekkel a vállalatok hatékonyabban, okosabban és fenntarthatóbban tudnak működni.
+Nálunk a digitalizáció nem csak buzzword: végigkísérjük a projekteket az első ötlettől a megvalósításig. Felmérjük, hol tart egy cég a digitális érettségben, közösen kitaláljuk a legjobb megoldásokat, majd segítünk azokat valóban működő rendszerekké alakítani.
+Szeretünk pragmatikusan dolgozni: kis lépésekben, átláthatóan haladunk, és olyan technológiákat építünk, amelyek tényleg értéket teremtenek. Ha szereted a valós problémákat megoldó fejlesztéseket és szívesen dolgoznál egy technológia-központú csapatban, nálunk jó helyen jársz.
+Jelentkezés módja
+Küldd el kérlek az önéletrajzodat. Ha van kedved, örömmel olvasnánk kedvenc eddig projekedről, projektjeidről, a kapcsolódó kihívásaidról és/vagy sikereidről.
+Ha látunk a közös munkában fantáziát, tesztfeladat és személyes beszélgetés vár még Rád.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése
