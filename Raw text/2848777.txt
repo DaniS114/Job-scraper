@@ -1,0 +1,104 @@
+Cég neve
+FIT Solutions Kft.
+Munkavégzés helye
+Hibrid
+•
+6700 Szeged
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVASCRIPT
+GIT
+LINUX
+MVC
+LARAVEL
+PHP
+DOCKER
+FRONTEND
+VUE.
+JQUERY
+ANGULAR
+POSTGRESQL
+API
+NODE.JS
+MONGODB
+REST
+Biztosított eszközök
+Linux
+Elvárások
+Angol középfok és
+Magyar középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+JAVASCRIPT
+GIT
+LINUX
+MVC
+LARAVEL
+PHP
+DOCKER
+FRONTEND
+VUE.
+JQUERY
+ANGULAR
+POSTGRESQL
+API
+NODE.JS
+MONGODB
+REST
+Linux
+Angol
+középfok és Magyar középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Részt veszel a belső- vagy ügyféligényre készülő új projektek vagy funkcionalitások megtervezésében, időköltségének felmérésében
+Megtervezel és megvalósítasz új funkcionalitásokat új vagy meglévő webes alkalmazásokhoz
+Elvárások
+Szenvedélyed a JavaScript nyelv, melyet magabiztosan használsz valamilyen keretrendszerében és tudod mit ad vissza a 0 == {} && 0 == [] kifejezés
+Követed a nyelv fejlődését, és ismered az ES6 verziót
+Használtad már a Git verziókezelő rendszert, és nem ijedsz meg, ha elrontottál egy commitot
+Könnyen sajátítasz el új szakmai készségeket és módszereket
+Kiválóan írsz és beszélsz magyar nyelven
+Jól megértesz angol nyelvű szakmai cikkeket, és tudod használni a Google keresőt
+Képes vagy legalább felhasználói szinten kezelni egy Linux operációs rendszert
+Képes vagy kezelni összetett feladatokat anélkül, hogy elvesztenéd a fejed
+Könnyedén alkalmazkodsz a változó helyzetekhez és meglevő módszerek változásához
+Képes vagy átlátni a nagyobb képet, megkérdőjelezni a létező módszereket és elemezni a potenciális kockázatokat a projektekben, rendszerekben
+Képes vagy OOP és MVC szemlélettel dolgozni
+Tudod mik azok az npm csomagok
+Előnyt jelent
+Használtad már a Laravel PHP vagy más programozási keretrendszert, Használtál már Docker-t, Kiválóan beszélsz és írsz angol nyelven, Jártas vagy modern web frontend technológiákban is, mint például Vue.js, de nem ijedsz meg egy jQuery vagy Angular kódtól sem, Ismered a PostgreSQL csínját-bínját, Készítettél már automatikus teszteket, Készítettél már REST API-t, Ismersz legalább egy design patternt, Dolgoztál már Node.js-sel vagy MongoDB-vel
+Amit kínálunk
+Fiatal, de tapasztalt munkatársak vesznek körül egy barátságos légkörben
+Hosszútávú együttműködési szemléletet vallunk
+Egy biztos munkahelyet nyújtunk Szegeden, a belvároshoz közeli irodánkban
+Dinamikus fejlődési lehetőség új technológiák megismerésére
+Rugalmas munkaidő, otthoni munkavégzési lehetőség
+Rendszeres közösségi programok
+Folyamatos mentorálás a szakmai fejlődésed elősegítéséhez
+Céginformáció
+Egy 2014-ben alapított cég, számos befejezett projekttel és elégedett ügyféllel. Fő profilunk az egyedi webes rendszerek készítése vállalati ügyfelek igényeire szabva. 2019-ben indult saját termékünk, a Rep Assist CRM, mellyel FIT Solutions egy új, de komoly szereplőjévé vált a gyógyszeripari cégeket kiszolgáló piacnak. Összeszokott, kis létszámú csapatunk folyamatosan fejlődik és fejleszti rendszereinket az elérhető legjobb minőségű szolgáltatások nyújtásához.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Csongrád-Csanád
+megye
+Szeged
+Álláshirdetés jelentése

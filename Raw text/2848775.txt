@@ -1,0 +1,82 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Seattle
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C
+PYTHON
+LINUX
+SECURITY
+C++
+HARDWARE
+API
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C
+PYTHON
+LINUX
+SECURITY
+C++
+HARDWARE
+API
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design and implement reliable, scalable system services for edge and physical AI workloads.
+Build runtime infrastructure that supports deployment, lifecycle management, and updates of AI-powered components on-device.
+Develop abstractions that decouple applications from underlying AI frameworks, models, and hardware accelerators.
+Create APIs, SDKs, and developer tooling that streamline how engineers build and integrate AI-powered features.
+Improve end-to-end developer workflows, from local development to on-device deployment and updates.
+Build observability and diagnostics capabilities to help developers understand performance, failures, and system behavior.
+Design software that performs reliably under edge constraints such as limited resources, real-time requirements, and heterogeneous hardware.
+Contribute to system-level performance optimization across CPUs and AI accelerators.
+Ensure systems are maintainable, testable, and robust in production environments.
+Work closely with architects, product managers, and AI engineers to shape platform capabilities and developer-facing abstractions.
+Collaborate across teams to design clean APIs, service boundaries, and integration points.
+Contribute to reference implementations, documentation, and example workflows.
+Requirements
+Strong experience designing and building systems software, platform services, or distributed systems in production.
+Proficiency in C/C++, Rust, Go, or Python (language choice depends on component).
+Solid understanding of Linux-based systems, process isolation, IPC, and service lifecycles.
+Experience with API design and versioning.
+Experience building developer platforms, SDKs, or internal tooling.
+Strong fundamentals in algorithms, data structures, and performance optimization.
+Ability to work across multiple layers of the stack, from APIs down to system behavior.
+Excellent problem-solving, communication, and collaboration skills.
+Nice-to-have
+“Nice to Have” Skills and Experience: Experience with container technologies and modern packaging/deployment approaches., Familiarity with edge computing, embedded Linux, or real-time systems., Exposure to AI/ML inference systems, even from a platform or infrastructure perspective., Experience with heterogeneous computing (CPUs, GPUs, NPUs, DSPs)., Background in robotics, vision systems, or physical AI applications., Contributions to open-source systems or developer tooling projects., Familiarity with security concepts such as secure boot, isolation, or attestation.
+What we offer
+Salary Range: $202,300-$273,700 per year
+Hybrid working environment with flexibility depending on team needs.
+Comprehensive benefits including health and wellness, work-life success, financial rewards, and development support.
+Company info
+Arm is an equal opportunity employer, committed to providing an environment of mutual respect where equal opportunities are available to all applicants and colleagues. We are a diverse organization of dedicated and innovative individuals, and don’t discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Regionális
+Álláshirdetés jelentése

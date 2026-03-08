@@ -1,0 +1,57 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Help analyze networking software running on Arm platforms by identifying performance bottlenecks across software, microarchitecture, and architecture.
+Contribute performance optimizations to open-source projects and support tools used for architectural exploration and analysis.
+Work with customers to explain Arm technology and optimization techniques, developing micro-benchmarks and understanding real-world use cases.
+Deliver performance analysis reports and support technical marketing through blogs, whitepapers, webinars, conference presentations, or booth staffing.
+Requirements
+Currently enrolled and studying towards your degree in Computer or Electrical Engineering (Masters and PhD preferred).
+Experience with software performance optimization, software architecture, and hardware architecture, including hardware performance analysis.
+Strong communication skills with the ability to explain technical concepts and support mentoring or teamwork.
+Understanding of networking infrastructure, including workload setup, load distribution, and performance data collection.
+Familiarity with packet-processing technologies such as DPDK, VPP, ODP, Linux networking, RDMA, eBPF/XDP, IPSec, OVS, CNIs, and Snort/Hyperscan.
+Proficiency with tools and languages used in performance analysis, such as C/C++, Linux performance tools, Arm CoreSight or SPE, eBPF, LLVM tools (BOLT, Propeller), PGO/AutoFDO/LTO, and automation frameworks like Ansible, Terraform, or Python.
+What we offer
+Working on interesting new projects with leaders in the field.
+Regular feedback and development opportunities.
+Social activities to connect with peers.
+End of internship celebration.
+Opportunity to be considered for future Graduate positions (subject to performance).
+Competitive salary and rewards package.
+On-the-job learning and mentoring/buddy schemes providing unparalleled learning and networking opportunities.
+Non-exempt hourly role paid at an hourly rate based on hours worked.
+Company info
+Here at Arm, we are building the Future of Computing. Together. For Everyone. This is a technical engineering role based in Austin, Texas and part of the rapidly growing Arm Cloud AI Group. Our Neoverse cores are leading a technology disruption! We need an Intern Network Performance Engineer to work with internal and (especially) external partners on various exciting and complicated Arm SW optimization puzzles. Join us as we deliver solutions across Cloud, Edge, and Networking segments!
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Engineer
+Electronic
+Control Engineer
+Regionális
+Álláshirdetés jelentése

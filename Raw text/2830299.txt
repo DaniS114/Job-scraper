@@ -1,0 +1,85 @@
+Cég neve
+IPACKCHEM Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+BACKUP.
+VPN
+NETWORK
+CLOUD
+TROUBLESHOOTING
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+BACKUP.
+VPN
+NETWORK
+CLOUD
+TROUBLESHOOTING
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Respond to computer security incidents according to the incident response policy and other policies and procedures; triage and assess the risk of incidents, performing real-time analysis and managing workload during investigations/incidents.
+Serve as an escalation contact for incidents reported by managed detection and response service or internal teams.
+Engage other company resources as needed to resolve incidents; provide technical guidance to other responders in handling information security incidents.
+Provide timely and relevant updates to appropriate stakeholders and decision makers.
+Validate and maintain incident response plans and processes to address potential threats.
+Compile and analyze data for management reporting and metrics.
+Monitor relevant threat intelligence and other information sources to stay up to date on current attacks and trends and potential defensive measures; analyze potential impact of new threats and communicates risks to leadership and other teams.
+Perform root-cause analysis to document findings, and participate in root-cause elimination activities as required; communicate findings to relevant teams to help improve information security posture.
+Participate in incident review meetings with organization leadership.
+Ensure appropriate coverage of monitoring solutions by performing updates, adding new data sources, adjusting logging levels, and recommending necessary changes for key detection solutions.
+Create playbooks for frequently occurring incidents to assist with rapid recovery or automation of response actions.
+Recommend activation of incident response plan if needed; may serve as an incident commander or as a backup.
+Maintain, manage, and monitor compliance with security control frameworks such as NIST, PCI and other state, federal, and international laws.
+Monitor the capabilities and performance of security solutions and partner with suppliers to correct issues promptly.
+Resolve problem tickets promptly with closed-loop engagement with internal or external customers.
+Identify opportunities to engage global resources in security response and maintenance; train new team members or project assignees as appropriate.
+Participate in the design, development, and delivery of security training and awareness programs, including phishing simulations, awareness articles, and training classes.
+Other duties as assigned.
+Requirements
+Bachelor’s Degree in the field of computer science, information systems, or information security and previous security response experience, or;
+Associate degree in the field of computer science, information systems, or information security and 3 years' equivalent work experience, or;
+Combined 5 years of equivalent education and experience.
+Strong knowledge of information security standards, data privacy regulations, cybercrime laws, and governance frameworks.
+Understanding of enterprise security technologies (VPN, encryption, firewalls, IDS/IPS, endpoint security, MDR) and network infrastructure (switches, routers, routing).
+Working knowledge of cloud security, Microsoft server environments, virtual systems, and enterprise applications.
+Experience conducting risk assessments, vulnerability identification, remediation, and supporting security audits.
+Ability to analyze threats, make sound technical decisions, and adapt to evolving environments.
+Strong analytical, troubleshooting, and organizational skills with attention to detail.
+Excellent communication skills and ability to collaborate effectively across teams while handling sensitive information with discretion.
+What we offer
+Competitive salary
+Excellent benefits
+Opportunity for growth
+Company info
+Greif is a global leader in performance packaging located in 40 countries. The company delivers trusted, innovative, and tailored solutions that support some of the world's most in demand and fastest-growing industries.
+With a commitment to legendary customer service, operational excellence, and global sustainability, Greif packages life's essentials - and creates lasting value for its colleagues, customers, and other stakeholders.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,68 @@
+Cég neve
+McKinsey & Company, Inc.Hungary Magyarországi Fióktelepe
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+NODE.JS
+REACT
+SECURITY
+DOCKER
+CLOUD
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+NODE.JS
+REACT
+SECURITY
+DOCKER
+CLOUD
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Work with clients and the global Orchestro team.
+Join a cross-functional squad owning an end-to-end slice of Orchestro, McKinsey’s SaaS platform.
+Translate user problems into technical solutions and help steer the squad’s roadmap.
+Pair-program with teammates, coding, testing, and releasing Node.js- and react-based features through GitHub Actions pipelines.
+Add unit, integration, and mutation tests to ensure reliability, security, and performance.
+Help evolve shared platform practices: refining CI/CD workflows, improving Kubernetes deployments, and extending observability.
+Propose product or technical improvements from day one.
+Requirements
+2+ years building production web software (preferably Node.js & modern React)
+Hands-on experience with automated testing and CI/CD workflows
+Familiarity with Docker/Kubernetes or another cloud-native deployment stack
+Fluent English for day-to-day collaboration and stakeholder communication
+What we offer
+Continuous learning culture with structured programs and clear feedback.
+A voice that matters with opportunities to make tangible impact.
+Global community with colleagues across 65+ countries and over 100 nationalities.
+World-class benefits including competitive salary and comprehensive benefits package.
+Company info
+McKinsey & Company is a global management consulting firm that serves leading businesses, governments, non-governmental organizations, and not-for-profits. Founded in 1926, McKinsey operates in more than 65 countries with a diverse workforce of over 30,000 professionals. The firm is committed to helping clients make distinctive, lasting, and substantial improvements in their performance and building a great firm that attracts, develops, excites, and retains exceptional people.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

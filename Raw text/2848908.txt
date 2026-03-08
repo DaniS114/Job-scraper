@@ -1,0 +1,92 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AWS
+SECURITY
+NODEJS
+API
+ANGULAR
+REACT.
+DOCKER
+SQL
+DATABASES
+AGILE
+Elvárások
+Nem kell nyelvtudás
+>10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+AWS
+SECURITY
+NODEJS
+API
+ANGULAR
+REACT.
+DOCKER
+SQL
+DATABASES
+AGILE
+Nem
+kell nyelvtudás
+>10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Shape engineering strategy with broad organizational impact, influencing long-term architectural direction across multiple teams and products.
+Drive platform evolution, identifying common pain points and leading scalable, reusable solutions across systems.
+Engage in deep architectural discussions, evaluating trade-offs and optimizing for security, performance, and maintainability.
+Shape and influence AI-related design decisions, ensuring alignment with product goals and ethical, effective use.
+Architect end-to-end AI-enabled systems with embedded governance, monitoring, and adaptability to regulatory change.
+Educate teams on foundational AI concepts, model capabilities, prompt engineering, and responsible AI practices.
+Act as a thought leader in the AI space, helping the organization mature its understanding and adoption of AI-driven technologies.
+Communicate complex technical topics clearly across technical and non-technical audiences.
+Motivate, mentor, and inspire engineers across teams, fostering a culture of high performance, technical curiosity, and continuous improvement.
+Regularly demo work, share knowledge across the department, and drive a culture of collaboration.
+Requirements
+15+ years of professional experience delivering secure applications in an agile environment.
+Demonstrated understanding of AI concepts, including model behavior, prompt optimization, and AI governance.
+Experience designing or integrating AI-powered systems with transparency, monitoring, and regulatory readiness in mind.
+Comfort mentoring others in AI-related best practices and helping shape organizational knowledge in this space.
+Strong ability to architect with AWS using Infrastructure-as-Code tools such as Terraform, CDK, or CloudFormation.
+Strong understanding of distributed data storages (e.g. Aurora, DynamoDB, S3) and how to build a scalable platform using them.
+Strong understanding of Event Driven Architecture and its applications.
+Proficiency in developing RESTful APIs using NodeJS and/or TypeScript in Open API specifications, visually stunning user interfaces using Angular/React.
+Experience working with Docker in development.
+Experience on SQL databases and optimizations.
+Bachelors’ degree in Computer Science, Engineering, Math, or related field.
+What we offer
+Flexible work environment
+Global days of service
+Comprehensive health benefits
+Meeting free days
+Generous time off policy
+Wellness programs
+Hybrid work model with onsite work at least 50% of the time if within commuting distance to an office
+Diversity and inclusion initiatives through Employee Resource Groups and education
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

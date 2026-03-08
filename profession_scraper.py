@@ -93,7 +93,7 @@ while True:
             except requests.RequestException as e:
                 print(f"Hiba lekéréskor ({job_url}): {e}")
 
-            time.sleep(0.1)
+            time.sleep(0.5)
         else:
             try:
                 with open(text_path, "r", encoding="utf-8") as f:
@@ -119,7 +119,7 @@ while True:
             ]
 
     page_num += 1
-    time.sleep(0.1)
+    time.sleep(0.2)
 
 # Inaktiválás kezelése
 if found_ids:

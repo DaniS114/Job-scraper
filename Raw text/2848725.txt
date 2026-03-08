@@ -1,0 +1,60 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Develop and execute test plans and verification methodologies for SoC-level designs
+Complete functional verification to the required quality standards and schedules
+Collaborate with project leads and management on planning, scheduling, and quality checkpoints
+Ensure progress and quality of SoC verification activities
+Work closely with teams across architecture, design, implementation, modelling, performance analysis, silicon validation, FPGA, and board development
+Mentor and guide junior verification engineers (for senior engineers)
+Requirements
+Proven experience in embedded C/C++ based SoC verification environments
+Strong understanding of assembly language (preferably ARM)
+Proficiency in hardware verification languages such as SystemVerilog, and scripting languages (Tcl, Perl, Python, etc.)
+Hands-on experience in UVM, and at least one of formal verification, low power, or emulation
+Exposure to all verification stages: requirements collection, methodology and test plan creation, testbench development and test case implementation, documentation and support
+Practical experience verifying processor-based system designs
+Excellent communication and presentation skills, with the ability to explain complex concepts to both technical and non-technical audiences
+Nice-to-have
+Nice to have skills: solid understanding of Arm system architectures, Experience with power-aware design and Clock Domain Crossing (CDC) verification, Familiarity with embedded OS, device drivers, and hardware/software integration, Experience verifying subsystems and interfaces such as PCIe, LPDDR, HBM, UCIe, and Ethernet, Experience in developing and deploying large SoCs on emulation or FPGA platforms, 10x mindset guides how we engineer, collaborate, and grow
+What we offer
+Hybrid working environment designed to support high performance and personal wellbeing
+Flexibility in hybrid working patterns depending on team needs
+Accommodations during recruitment process for candidates who need adjustments
+Competitive salary with benefits beyond salary to reward dedication and contributions
+Support for professional and personal development
+Inclusive and diverse work environment
+Company info
+Arm’s Solutions Engineering team builds subsystems and full SoC designs for a wide range of application segments, leveraging the latest IP from Arm and other vendors.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Manufacturing,
+Production
+Automatization
+Budapest
+Álláshirdetés jelentése
