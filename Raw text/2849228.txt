@@ -1,0 +1,149 @@
+Cég neve
+ShiwaForce.com Zrt
+Munkavégzés helye
+Hibrid
+•
+Shiwaforce - Budapest, Mosaic Office, Alkotás u. 17-19-7. emelet, 1123
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+Sport támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+TESTING
+SQL
+DATABASES
+JUNIT
+JAVA
+SPRING
+Kafka
+POSTGRESQL
+GIT
+DOCKER
+MAVEN
+AGILE
+SCRUM
+MYSQL
+NOSQL
+DEVOPS
+ACCESS
+CMS
+ANSIBLE
+Biztosított eszközök
+Laptop
+Mobiltelefon
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Mobiltelefon
+Cafeteria
+Szakmai
+tréningek
+Nyelvtanulás
+támogatása
+Sport
+támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+TESTING
+SQL
+DATABASES
+JUNIT
+JAVA
+SPRING
+Kafka
+POSTGRESQL
+GIT
+DOCKER
+MAVEN
+AGILE
+SCRUM
+MYSQL
+NOSQL
+DEVOPS
+ACCESS
+CMS
+ANSIBLE
+Laptop
+Mobiltelefon
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Development of high-availability, high-prestige enterprise portals and applications
+Participation in system integration projects in both international and domestic markets
+Use of the following technology stack:
+Java 17+, Spring Boot, J2EE, SQL, Maven, REST, JSON
+Usage of Docker, Kubernetes, and cloud technologies
+Active participation in collaborative development within the team
+Cooperation with software testers and DevOps colleagues
+Responsibility for the developed code
+Requirements
+Minimum 4-5 years of relevant work experience
+in
+Java
+development
+Experience with our tech stack
+Java 17+
+Spring Boot
+Kafka
+Spring Scheduler / Quartz
+REST & Webhooks
+Experience with notification channels
+SMTP (SendGrid, SES, Mailgun, etc.)
+SMS providers like Twilio / Nexmo / local gateways
+Push notification solutions such as FCM or APNs
+Experience with high-throughput pipelines
+Experience with MQ
+System-level thinking
+Intermediate level of English proficiency
+Higher education degree in IT or an equivalent qualification
+Participate in a hybrid work model requiring 50% weekly office presence (averaging 2-3 days per week) at one of our offices.
+What we offer
+Monthly professional internal trainings and workshops (AI, Data, LCNC)
+Advanced notebook setup and continuous DevOps support, ensuring smooth and efficient workflows
+Dedicated annual time and and budget allocation for professional trainings and conferences, career development planning
+Autumn hackathon competitions with valuable prizes
+Life1 gym membership also basketball and football business league
+Internal podcast (DevTales), in which you can also participate
+Weekly English online language courses at intermediate and advanced levels
+Professional library and Kindle access
+Udemy learning account
+Easily accessible office with a bike storage facility
+Office massage
+Various community events – professional meetups, board game events, quiz nights with food and beverage
+Workplace extras
+Cafe
+Corporate events
+Bicycle storage
+Massage
+Company info
+Shiwaforce is a rapidly growing 200-person technology company with a startup spirit in the domestic market of innovative online solutions. It builds or transforms online and mobile services, enriched with new user experiences, in accordance with the expectations of the constantly changing digital environment. Its domestic and international clients include leading large companies and organizations such as OTP, Magyar Telekom, T-Systems, 4iG, Yettel, MBH, or Central Bank of Hungary. Its leading product is the now 8th generation Shiwa CMS, which helps large companies to increase their online potential and effectively reach their million customer base.
+How to apply
+Apply via "Jelentkezem" button underneath!
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Budapest
+Álláshirdetés jelentése

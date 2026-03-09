@@ -1,0 +1,22 @@
+Pozíció leírása / Job description
+Our partner, Hungary's largest agricultural machinery manufacturing company, is looking for as new colleague as a Senior Angular Developer with SAP Commerse Cloud/Hybris background.
+Take a leading role as a key member of the e-commerce platform project within the After Sales domain, focusing on frontend development using SAP Spartacus.
+Collaborate closely with the Solution Architect to design, document, and specify frontend implementation concepts aligned to business requirements.
+Develop, customize, and integrate SAP Commerce frontend components, ensuring high code quality through comprehensive unit and integration tests.
+Lead debugging, troubleshooting, and frontend performance optimization efforts to enhance user experience.
+Actively contribute to team meetings and discussions, mentoring junior developers and driving frontend best practices.
+Support the global rollout, operation, and continuous evolution of the e-commerce platform with a strong focus on the frontend user interface and customer journey.
+Elvárások / Requirements
+University degree in (Business) Informatics, Computer Science, Business Administration, or related field.
+Extensive professional experience in SAP Commerce Cloud, especially with Spartacus-based frontend development.
+Strong expertise in frontend technologies: JavaScript/TypeScript, HTML5, CSS3, and Angular framework.
+Solid understanding of Java backend concepts to collaborate effectively with backend teams.
+Hands-on experience with Continuous Integration/Continuous Deployment (CI/CD) pipelines and agile methodologies such as SCRUM.
+Proven analytical, problem-solving abilities and a proactive, creative approach to frontend challenges.
+Excellent communication skills in English (written and spoken); German language skills are a plus.
+Team-oriented mindset with the ability to mentor and guide junior colleagues
+Amit nyújtunk / Benefits
+International environment
+Individually tailored training possibilities
+Attractive fringe benefits
+Full home-office

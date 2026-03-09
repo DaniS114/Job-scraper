@@ -1,0 +1,29 @@
+Our partner is a globally present technology and business services company with decades of experience, supporting clients worldwide in digital transformation, development, and operations projects. From their Hungarian headquarters, they provide high‑level IT and engineering services to numerous European partners.
+Your New Position
+Defining and executing end‑to‑end test strategies across the Customer Data platform and its APIs
+Ensuring API, event, and data integrity through functional, automation, and performance testing
+Developing API automation frameworks and maintaining automated test suites
+Integrating automated tests into CI/CD pipelines to ensure stable and frequent releases
+Performing validation of Kafka events and backend data flows
+Executing SQL validations and supporting production‑like testing scenarios
+Collaborating with developers, architects, and DevOps engineers to enhance overall product quality
+What You Need to Succeed
+4+ years of overall QA experience, including 3+ years in API automation testing
+Strong understanding of RESTful APIs, messaging technologies (Kafka), and modern security protocols (OIDC, OAuth2.0, JWT, SAML)
+Hands‑on experience with
+API testing tools (e.g., Postman, Bruno) and JMeter
+for performance testing
+Proficiency in at least one scripting language for test automation
+Experience working with Git, Jira, Confluence, and CI integration pipelines
+SQL knowledge and event‑driven validation experience
+Nice to have: Contract testing experience and Telecom domain knowledge
+What You Can Expect from Our Partner
+A stable international company operating in Hungary for over 20 years
+Competitive compensation package with outstanding private healthcare services
+Extensive professional and personal development opportunities
+Vertical and horizontal career paths to explore different roles
+Global, diverse workplace with relaxation areas and a friendly atmosphere
+Company events, hobby clubs, and sports activities
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion on your career.

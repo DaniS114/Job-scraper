@@ -1,0 +1,41 @@
+Mivel fogsz foglalkozni?
+Java alapú backend/webalkalmazások fejlesztése (minőségi, biztonságos, jól szervezett kód)
+Saját termékeink fejlesztése (pl. AI-alapú funkciók integrálása CMS és üzleti rendszerekbe)
+Új megoldások tervezése: API-k, szerver oldali interfészek webes és mobil kliensekhez
+Code review, minőségbiztosítás, tesztelhetőség és maintainability fókusz
+Kisebb csapatok szakmai támogatása, mentoring, tudásmegosztás
+Mit várnak tőled?
+Legalább 5 év Java fejlesztési tapasztalatot senior szinten
+Spring (Spring Boot) és Hibernate/JPA magabiztos ismerete
+SQL és relációs adatbázisok: tervezés, lekérdezések, teljesítmény alapok
+Tesztelési rutin (pl. JUnit), igény a tiszta, strukturált kódra
+Git, Maven/Gradle és modern Java IDE (IntelliJ/Eclipse/VS Code) magabiztos használata.
+Önálló problémamegoldás, ownership szemlélet, csapatmunka
+Előnyt jelenthet:
+Architektúra-tervezési tapasztalat
+Frontend alapok: TypeScript/JavaScript (elsősorban React), HTML5, CSS/SCSS, Tailwind
+Generatív AI/LLM-ekkel szerzett gyakorlati tapasztalat (promptolás, RAG, integráció üzleti folyamatokba)
+Python ismerete
+AWS tapasztalat (Lambda, EC2, S3, IAM) és konténeres környezet (Docker)
+Angol középfok (nemzetközi projektekhez)
+Mit adnak cserébe?
+Stabil, hosszú távú lehetőség ALKALMAZOTTI vagy VÁLLALKOZÓI jogviszonyban
+Nemzetközi és innovatív projektek + saját termékek
+Hibrid munkavégzés, modern irodai környezet
+Céges eszközök (laptop, telefon)
+Folyamatos szakmai fejlődés: Udemy-kurzusok, belső workshopok (Tudástár), AI- és architektúra-fókuszú előadások
+Közösségi programok (csapatépítők, heti foci), kötetlen és támogató csapat
+Munkavégzés helye:
+Budapest, XIII. kerület, Váci út 19., Panoráma irodaház / hibrid
+Kezdés:
+akár azonnal
+Jelentkezés módja:
+Kérjük küld el lehetőleg fényképes magyar nyelvű szakmai önéletrajzod az alábbi
+„JELENTKEZÉS”
+gombra kattintva!
+Mi történik a jelentkezését követően:
+A beérkezett pályázatokat partnerünk részére továbbítjuk, ezt követően a kiválasztási folyamat további lépéseit már ők koordinálják. Így a további egyeztetések során közvetlen kapcsolatba kerülhet a megbízóval.
+A jelentkezéssel elfogadod a Beck and Partners Kft.
+[Kattintson a weboldal linkjének megjelenítéséhez]
+adatvédelmi tájékoztatóját
+.

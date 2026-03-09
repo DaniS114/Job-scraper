@@ -1,0 +1,34 @@
+Pozíció leírása / Job description
+Our partner's purpose is clear: Feeding the World Better. Their mission is to empower farmers and agribusiness managers to be more productive and more profitable. Achieving this mission requires dedication, collaboration, and a commitment to excellence — and that’s where their 3,600 team members come in.
+Across more than 100 countries, they deliver solutions for the agribusiness.
+Now, on their behalf we are seeking an experienced Network Administrator who is skilled in Fortinet solutions.
+As the CPQ Specialist, you will support the migration of Cimbria agricultural machinery portfolios into the SAP CPQ ecosystem.
+This role is an ideal career step for a Mechanical Engineer who wants to transition from traditional design roles toward industrial IT and digital product modeling.
+You will bridge the gap between engineering and sales by
+translating complex physical machinery constraints into digital logic engines.
+Your main task is the
+technical interpretation and structuring of product portfolios
+to ensure they are represented accurately in our systems.
+Product Modeling: Analyze complex engineering requirements and characterize product attributes to build logical structures for the configurator.
+Logic Development: Translate engineering constraints and "If/Then" rules into functional digital models.
+Collaboration: Work closely with SAP Specialists who handle the system customization; your focus is the technical specification and the logical integrity of the data.
+Automation: Facilitate the automated generation of Bill of Materials (BOM), quotes, and technical data sheets based on engineering logic.
+System Population: Ensure that engineering data is correctly mapped and uploaded into the configuration environment.
+Elvárások / Requirements
+Engineering-to-Sales Translation
+Product Architecture & Logic Structuring
+Technical Data Characterization
+BOM / Routing Logic
+Logical Programming Mindset (If/Then/Else)
+Minimum Qualifications:
+Education: Bachelor’s Degree in Mechanical Engineering (preferred), Industrial Engineering, or a related technical field with a strong interest in digital systems.
+Experience: 2–5 years of experience in an engineering environment. We specifically encourage applications from Mechanical Engineers with experience in product design or modeling who wish to pivot toward technical sales support and IT logic.
+Technical Skills: Experience with any product configurator or variant management tool (SAP CPQ, VC, etc.) is an advantage, but strong "engineering logic" is the primary requirement.
+Data Management: Ability to organize, clean, and map complex engineering data sets into systematic rules.
+Industry Knowledge: Background in heavy machinery or agricultural equipment is a significant plus.
+Communication: Strong ability to explain technical engineering concepts to both sales teams and IT specialists.
+Amit nyújtunk / Benefits
+Hybrid or fully remote (depending on location)
+Global role with minimal time-zone flexibility
+Travel up to ~20%, project-based
+No on-call duty

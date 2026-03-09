@@ -1,0 +1,30 @@
+Szeretnél high-end szerverekkel és AI infrastruktúrával dolgozni egy globális technológiai vállalatnál?
+Otthonosan mozogsz Linux környezetben, és nem riadsz vissza a GPU-specifikus tesztektől sem? Akkor ez a lehetőség neked szól.
+Junior és Senior Tesztmérnököt keresünk!
+Feladatok
+Server tesztek támogatása és végrehajtása
+Teszt infrastruktúra és platform üzemeltetése, fejlesztése
+Tesztkapacitás tervezése, infrastruktúra upgrade és maintenance
+Teszthibák elemzése, tesztkód hibáinak feltárása
+Folyamatos együttműködés társosztályokkal, meetingeken való aktív részvétel
+Kapcsolattartás a nemzetközi L3 support csapattal
+Új szervertermékek bevezetésének támogatása (tesztrendszer, infrastruktúra, szoftverek) projekt szinten
+High-end GPU specifikus tesztek elvégzése AI szervereken
+Teszttechnikus kollégák szakmai támogatása
+Elvárások
+Tárgyalóképes angol nyelvtudás
+Felsőfokú végzettség informatikai vagy villamosmérnöki területen vagy több éves IT technikusi tapasztalat
+Magabiztos Linux CLI használat, scripting tapasztalat
+Hálózati ismeretek (switch konfiguráció, server setup)
+Tapasztalat gyártási / hardware tesztelési folyamatok támogatásában
+Ticketing rendszerek ismerete (pl. JIRA)
+Önálló munkavégzés, jó kommunikációs készség, prezentációkészítés
+Ajánlat
+Stabil, nemzetközi vállalati háttér
+High-tech AI és szerver infrastruktúra
+Szakmai fejlődési lehetőség globális környezetben
+Versenyképes juttatási csomag
+Előnyök
+Programozási ismeretek (pl. Java, Python)
+GPU specifikus technikai tudás
+További információk

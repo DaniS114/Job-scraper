@@ -1,0 +1,26 @@
+Partnerünk, a MindFly Technologies Kft. számára keresünk magabiztos német nyelvtudással rendelkező Automata tesztmérnök munkatársat német és osztrák vonatkozású projektjei megvalósításához.
+Feladatok
+• Tesztesetek tervezése,
+• Frontend, Backend, interface tesztek automatizálása,
+• E2E tesztautomatizálás Playwright és Katalon segítségével,
+• hibák elemzése és nyomonkövetése,
+• hibajelentések létrehozása, hibajavítás,
+• komplex tesztforgatókönyvek tervezése és ellenőrzése,
+• a tesztautomatizálási architektúra fejlesztése,
+• dokumentáció kezelése.
+Elvárások
+• Automatizált tesztelésben legalább 3 éves tapasztalat,
+• kiváló német nyelvtudás,
+• tapasztalat terheléses tesztek elvégzésében,
+• JMETER, Playwright, Katalon, ismerete,
+• egy vagy több ismerete a következőknek: Bamboo, Azure, Kubernetes, RabbitMQ, Argocd,
+• agilis módszertan szerinti munkavégzésben jártasság,
+• ISTQB Foundation level certifikát megléte,
+• önálló munkára való készség, • kiváló problémamegoldó képesség.
+Előnyök
+• Aktív angol nelvtudás.
+Ajánlat
+• Euró alapú bérezés,
+• hibrid lehetőség, full távmunka + havi 1-2 nap a bécsi irodában,
+• hosszútávú együttműködési lehetőség,
+• nemzetközi projektben való részvétel.

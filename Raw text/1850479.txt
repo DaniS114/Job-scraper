@@ -1,0 +1,27 @@
+Pozíció leírása / Job description
+We are looking for a practical and experienced MES Engineer to join our manufacturing Partner’s internal software team. The Manufacturing Execution System Engineer is responsible for managing, maintaining, and improving the MES applications supporting the tyre plant's end-to-end production process. This role ensures that the MES infrastructure operates efficiently to achieve optimal production performance, traceability, and data accuracy. The candidate should have a 8 to  10 years of relevant experience in MES systems and manufacturing operations.
+Oversee the full lifecycle of MES applications, including design, configuration, deployment, maintenance, and upgrades.
+Support the tyre plant’s entire production process by ensuring real-time data capture, process monitoring, and production reporting.
+Integrate MES with ERP, SCADA, PLCs, and other production and quality control systems.
+Collaborate with production, quality, maintenance, and IT teams to ensure MES aligns with operational needs.
+Troubleshoot MES-related issues and provide timely resolution to minimize production downtime.
+Develop and maintain system documentation, standard operating procedures, and training materials for MES users.
+Identify opportunities for system enhancements and implement improvements to optimize plant efficiency.
+Ensure compliance with corporate IT and manufacturing standards, including cybersecurity and data integrity policies.
+Coordinate with MES vendors and service providers for support, updates, and project execution.
+Provide guidance and mentorship to junior engineers and technical staff.
+Elvárások / Requirements
+Bachelor’s degree in Engineering, Computer Science, Information Technology, or a related field.
+Minimum 8 to 10 years of experience with MES systems in a manufacturing environment (tyre/automotive industry preferred).
+Strong knowledge of MES platforms (e.g., Siemens Opcenter, Rockwell FactoryTalk, Wonderware, or similar) plus hands on with SQL Data base .
+Experience in system integration with PLCs, SCADA, and ERP systems (SAP preferred).
+Excellent problem-solving and analytical skills with the ability to manage complex production data flows.
+Strong understanding of production processes, quality management, and manufacturing best practices.
+Good communication and team collaboration skills.
+Amit nyújtunk / Benefits
+Stable, long-term projects with direct impact on production and operations
+Independence and responsibility in improving internal systems
+Supportive work environment focused on reliability, practicality, and usability
+Exposure to a mix of modern and legacy technologies in real-world applications
+Hybrid working: 2 days in the office/week
+Various secondary benefits (allowance for cafeteria, housing, commuting, meal, etc.)

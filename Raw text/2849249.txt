@@ -1,0 +1,113 @@
+Cég neve
+GriffSoft Zrt.
+Munkavégzés helye
+Hibrid
+•
+1117 Budapest, Móricz Zsigmond körtér
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Szakmai tréningek
+Egészségbiztosítás
+Sport támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Szakmai gyakorlat
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+BACKEND
+SPRING
+DOCKER
+LINUX
+PYTHON
+GIT
+JAVA
+DEBIAN
+Biztosított eszközök
+Laptop
+Mobiltelefon
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Cafeteria
+Szakmai
+tréningek
+Egészségbiztosítás
+Sport
+támogatás
+Teljes
+munkaidő
+Szakmai
+gyakorlat
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+BACKEND
+SPRING
+DOCKER
+LINUX
+PYTHON
+GIT
+JAVA
+DEBIAN
+Laptop
+Mobiltelefon
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Olyan tapasztalt Java backend fejlesztőt keresünk, aki magabiztosan mozog Java 21 és Spring Boot 3.x környezetben, otthonosan kezeli az Elastic Stack-et, és Linux (Debian-alapú) rendszereken is rutinosan dolgozik.
+A szerepkörben egy nagy, éles (production) rendszer fejlesztésében és üzemeltetésében veszel részt end-to-end: a tervezéstől és implementációtól kezdve a code review-n, a tesztelés támogatásán és a dokumentációkészítésen át egészen az üzemeltetési (operations) feladatokig.
+Fontos számunkra a precíz, tiszta és hatékony kód, a stabil hibakeresési rutin, valamint az átlátható, karbantartható dokumentáció.
+Előny, ha nyitott vagy új technológiák tanulására, és mérnöki igényességgel, tudatosan használod az LLM-alapú eszközöket a fejlesztés támogatására (pl. boilerplate vagy tesztesetek készítése), úgy, hogy a kontroll és a minőség végig nálad marad.
+Feladatok
+Részvétel a Docutent termék fejlesztésében
+Nagy, éles (production) rendszer fejlesztése és üzemeltetése: end-to-end részvétel a teljes életciklusban, nem izolált részfeladatok mentén (tervezés, fejlesztés, code review, tesztelés támogatása, dokumentációkészítés, üzemeltetés)
+Elvárások
+Java 21 és Spring Boot 3.x mélyreható ismerete, gyakorlati tapasztalattal
+Legalább 3 év releváns tapasztalat (a szakmai gyakorlat is beleszámítható)
+Elastic Stack magabiztos ismerete
+Linux környezet ismerete (Debian-alapú disztribúciók)
+Nyitottság új nyelvek és technológiák elsajátítására, erős tanulási motivációval
+Docker magabiztos használata
+Hibakeresési rutin és analitikus gondolkodásmód (stack trace-ek „átpasszolása” helyett ok-okozati feltárás)
+Nem „vibe coding”: tudatos fejlesztői szemlélet, ugyanakkor LLM-alapú eszközök hatékony használata (pl. boilerplate generálás, tesztesetek készítése)
+Precíz munkavégzés: tiszta, hatékony kód és érthető, karbantartható dokumentáció készítése
+Git magabiztos használata
+Magabiztos angol nyelvi alapok (írásban és szóban egyaránt)
+Előnyt jelent
+Tapasztalat nagy terhelésű rendszerek fejlesztésében
+Gradle ismerete
+Python tapasztalat
+Go ismerete
+Amit kínálunk
+Dinamikus, magas szakmai színvonalat képviselő csapat
+Támogató csapatszellem: egymástól tanulunk, és hibázni is rendben van, amíg tanulunk belőle és egyértelműen kommunikáljuk
+Stabil vállalati háttér, a tudásszinthez igazodó versenyképes bérezés
+Rugalmas munkaidő, heti 2 nap home office lehetőség
+Iroda a XI. kerületben, a Móricz Zsigmond körtér közelében
+Munkahelyi extrák
+Céges rendezvények
+Ingyen kávé, üdítő
+Céginformáció
+A GriffSoft Zrt. 35 éve működő, stabil hátterű, magyar tulajdonban lévő vállalat, több mint 200 munkavállalóval. A Docutent csapata egy felvásárlás eredményeként 2026 januárjától csatlakozott a GriffSofthoz, és a Docutent termék mellett Elastic Stack-alapú (hagyományos és AI-támogatott) dokumentumkeresési, valamint NLP-alapú adatfeldolgozási megoldásokat is fejleszt.
+Jelentkezés módja
+Kérjük, a "Jelentkezem" gombra kattintás után csatolja önéletrajzát, referenciamunkáit, valamint ha van, egyéb profiljainak elérhetőségét!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

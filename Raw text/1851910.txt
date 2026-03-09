@@ -1,0 +1,25 @@
+Pozíció leírása / Job description
+Our partner, Hungary's largest agricultural machinery manufacturing company, is looking for as new colleague as a Senior Java Developer with SAP Commerse Cloud/Hybris background.
+Your Role in Our Team:
+Play a pivotal role in the e-commerce platform project for the After Sales sector with a primary focus on backend development and SAP Commerce Cloud platform services.
+Collaborate with the Solution Architect to draft and refine backend implementation concepts, documentation, and technical specifications.
+Lead programming efforts using Java, adhering strictly to quality standards, requirements and specifications, while writing unit tests to ensure code robustness.
+Take responsibility for debugging, fixing, and optimizing backend services, APIs, and integrations with third-party systems.
+You are familiar with microservice architectures, design API interfaces and integrate systems such as ERP, CRM, PIM, DAM or CMS.
+Participate actively in team discussions for solution design and code reviews, fostering knowledge sharing and quality standards.
+Support the worldwide rollout, maintenance, and continuous improvement of the e-commerce platform backend.
+Elvárások / Requirements
+Your Profile:
+University degree in (Business) Informatics, Computer Science, Business Administration, or a comparable discipline.
+Significant hands-on experience with SAP Commerce Cloud backend development and Java programming.
+Strong knowledge of Java, Spring framework, REST API, SAP Commerce, and related backend technologies, along with experience in database design and integration patterns.
+Familiar with Unit-Tests and well experienced with handling microservices
+Experience with CI/CD tools and agile software development practices (e.g., SCRUM).
+Strong analytical skills, self-motivated with high initiative, responsible and reliable.
+Very good communication skills in English (both written and verbal); German is beneficial.
+Excellent team player capable of mentoring junior developers and driving backend development excellence.
+Amit nyújtunk / Benefits
+International environment
+Individually tailored training possibilities
+Attractive fringe benefits
+Full home-office

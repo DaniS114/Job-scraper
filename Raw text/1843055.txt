@@ -1,0 +1,40 @@
+AMIBEN SZÁMÍTANAK A SZAKÉRTELMEDRE:
+Energiaipari alkalmazások fejlesztése
+- Java, Spring, SQL, Angular, AWS, Python alapokon működő rendszerek tervezése és fejlesztése.
+Komplex adatmodellezés és nagy adatmennyiség kezelése -
+Idősoros adatok, nagy volumenű feldolgozás, teljesítményoptimalizálás.
+Aktív technikai részvétel
+- Megoldások közös tervezése Architecttel és Tech Leaddel, részvétel code review-kon és technical demókon.
+Agilis működés -
+2 hetes sprintek, valódi csapatmunka üzleti elemzőkkel és tesztelőkkel.
+Stabil, skálázható rendszerek építése -
+Hosszú távon fenntartható, magas rendelkezésre állású megoldások fejlesztése AWS környezetben.
+MITŐL LESZEL IDEÁLIS JELÖLT?
+Informatikai vagy hasonló területen szerzett BSc diploma.
+Minimum 7 év tapasztalat Java alapú alkalmazásfejlesztésben.
+Magabiztos AWS ismeret (fejlesztés és üzemeltetés).
+Full stack szemlélet – backend mellett Angular frontend tapasztalat.
+Clean Code gondolkodásmód, strukturált és karbantartható kód.
+Automatizált tesztelés iránti elkötelezettség (JUnit, Mockito).
+REST / SOAP API-k és messaging rendszerek (SNS, SQS, Kafka) ismerete.
+Docker, Kubernetes, SQL, Spring / JPA tapasztalat.
+Angol nyelvtudás szóban és írásban (nemzetközi ügyfelek miatt).
+Előny: Python ismerete.
+AMIT ÉRTÉKELNI FOGSZ:
+Valódi szakmai közeg – Architect, Tech Lead és erős fejlesztői csapat mellett dolgozhatsz.
+Komplex, nemzetközi projektek – energiaipari domain, komoly üzleti logika.
+Technológiai mélység – AWS, konténerizáció, messaging, skálázható architektúrák.
+Hatás a rendszer egészére – nem egy részfeladatot kapsz, hanem rendszerszintű felelősséget.
+AMIVEL HONORÁLNAK:
+Alkalmazotti vagy alvállalkozói szerződés lehetősége.
+Éves bónusz teljesítmény alapján elérhető.
+Egészségbiztosítás (Medicare).
+All You Can Move kártya igényelhető.
+Tanulási keret, képzések támogatása.
+Családos céges események (síelés, evezés, csapatépítők).
+Munkavégzés helye: Budapest, VIII. kerület, , heti 1 nap vagy sprintenként 1 nap irodai jelenlét.
+Munkaidő: Heti 40 óra.
+A jelentkezéssel elfogadod a Beck and Partners Kft.
+[Kattintson a weboldal linkjének megjelenítéséhez]
+adatvédelmi tájékoztatóját
+.

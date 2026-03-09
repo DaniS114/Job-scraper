@@ -1,0 +1,55 @@
+Pozíció leírása / Job description
+The Company is a leading supplier of active pharmaceutical ingredients (APIs), spun out from Sanofi on May 6, 2022 and listed on EURONEXT, with the aim of becoming a global champion in API solutions and CDMO. The company has a diversified portfolio of approximately 200 APIs for its API Solutions business and its CDMO (Contract Development and Manufacturing Organization) activities. With more than 150 years of experience in the API market, around 3,350 employees and a consolidated turnover of approximately €1 billion in 2023, The company has six production sites and development centers equipped with state-of-the-art technology, all located in Europe (France, Germany, Hungary, Italy and the UK).
+This role is a
+senior IT & OT Network Engineer
+position responsible for designing, deploying, and operating secure network infrastructure (LAN/WAN/WLAN, firewalls, SD-WAN) across global pharma manufacturing sites, in line with corporate standards. Strong experience in
+regulated production environments
+, network validation, and collaboration with IT, OT, and business stakeholders is essential.
+The Network engineer activities include WAN, WLAN, LAN, FW & Automation projects and support for all its entities in Europe, US & Japan.
+The Network engineer will be integrated into a small team to cover network projects (SD-WAN, LAN Refresh, etc.) and Day-to-day operations.
+Define sourcing model aligned with company and ensure knowledge is kept internally.
+Ensure ROI of the sourcing model meets technologies requirements & budget efficiency
+Ensure network solutions are easy to deploy in the event of onboarding new companies
+Participate in ensuring all Pharma compliances are met.
+Participate in ensuring innovation automation processes – continuous improvement
+Collaborate with Group IT expert to the definition of Network Standards and SOPs
+Configuring and maintaining network devices such as routers, switches, and firewalls, according to Corporate Standards and SOPs,
+Planning and executing network upgrades, expansions, and migrations in close collaboration with Group IT
+Ensuring network infrastructure adheres to relevant GxP regulations and guidelines
+Participating in network validation activities and maintaining validation documentation
+Collaborating with cross-functional teams
+Providing technical support and guidance to users and other team members
+Possibilities of On-call duty
+Elvárások / Requirements
+Professional experience, education and knowledge:
+Degree in Computer Sciences, Information technology, Engineering, or related field
+5+ years of experience in Networking including solid architectural & deployment experience
+Network experience in hybrid environment (AWS cloud and on premise + NGDC)
+Good knowledge in firewall implementation and monitoring
+In-depth core networking, monitoring knowledge
+·
+Computer skills
+Local Area Networks and Wireless Networking
+Scripting
+Custom and OEM firmware installation and configuration tools
+Firewall administration, Zscaler administration, Network Architecture design, M&A
+Cisco certification
+Languages
+Fluent in English
+Fluency in Hungarian is preferred
+Competences and skills:
+Able to drive operational efficiencies, with an aim to deliver and maintain reliable, secure and performant experience to users
+Good written and verbal communication, interpersonal and collaborative skills
+Change and Incident management skills
+Ability to effectively prioritize
+Strong capacity to work in an international environment
+Ability to challenge in a positive mind-set existing processes and procedures
+Be innovative, creative, have a think out of the box mind-set
+Amit nyújtunk / Benefits
+Company bonus
+Annual medical check at the Buda Health Center, for which we provide 1 paid day off
+Sports facilities (sauna, fitness room)
+Collective life and accident insurance
+Voluntary pension fund membership (supplemented with employer contribution)
+Free parking
+Office massage

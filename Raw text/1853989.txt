@@ -1,0 +1,26 @@
+Pozíció leírása / Job description
+Our partner, Hungary's largest agricultural machinery manufacturing company, is looking for new colleagues for SAP IBP Consultant position.
+Your responsibilities will include designing and implementing tailored solutions to meet current challenges in the area of planning processes based on SAP IBP with the strong link to custom processes in SAP S4/HANA.
+Your will design, harmonise and integrate planning processes throughout the entire supply network
+With your vast experience and with other team members you will plan and execute projects and continues improvements as well as be responsible for stable and smoothly running planning solutions.
+Actively collaborate with the business departments and the team to understand project requirements, objectives, and technical specifications.
+You continuously track the road map of SAP IBP, validate new features for relevance and benefits for the business departments and actively propose new solutions.
+Elvárások / Requirements
+You have successfully completed a degree in business administration, business informatics or a comparable qualification; business processes around planning, sales or production are familiar to you
+5+ years’ experience as SAP Consultant; thereof at least 2 full implementations of SAP IBP solutions
+Your SAP IBP experience covers deep knowledge SAP IBP module “Sales and Operations (SOP)”; understanding the concepts of “SAP IBP for Demand” is a plus;
+You feel very comfortable with the general configurations of SAP IBP (e.g. key figures, planning levels, master data, copy operators, jobs,…)
+You understand the features behind the SAP CI-DS and are able to track the job chains between SAP IBP and connected systems.
+You understand the structures and processes of at least one of the modules SAP APO, SD, VC, MM, PP; you participated ideally in project with some of these modules.
+Your past engagements were at least partially in automobile or manufacturing industry. Ideally, you worked for companies which produce configurable products for which you implemented the SAP solutions.
+You have basic development skills, can debug and understand the coding of modern style SAP ABAP OO, ODATA, CDS view, etc.
+Understanding the concepts behind and using algorithms for forecasting algorithms and even prototyping in Python is a plus.
+You are an analytical and creative team player, have a high degree of initiative and are characterized by reliability and willingness to learn.
+Excellent verbal and written communication skills in English (German is a plus)
+You like to work and collaborate in intercultural teams; ideally you worked abroad or with international teams.
+Willingness to travel to our locations (~ 10%)
+Amit nyújtunk / Benefits
+International environment
+Individually tailored training possibilities
+Attractive fringe benefits
+Full home-office

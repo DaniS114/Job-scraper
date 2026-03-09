@@ -1,0 +1,34 @@
+A Skyint egy innovatív startup, amely az űripari szoftverfejlesztés határait feszegeti. Küldetésünk, hogy biztonságkritikus, magas minőségű szoftvermegoldásokkal támogassuk a jövő űrkutatási projektjeit – a földi irányító rendszerektől egészen a fedélzeti, űreszközökön futó szoftverekig.
+Miért különleges ez a lehetőség?
+Mert NÁLUNK nem üres frázis, hogy "rocket science" – tényleg az!
+A Skyint olyan űripari projekteken dolgozik, ahol a Te kódod és infrastruktúrád is hozzájárulhat a világűrben futó rendszerek működéséhez.
+Mit fogsz csinálni?
+•Nagyvállalati webes alkalmazások üzemeltetése, telepítése és karbantartása
+•Hiba, vagy leállás esetén támogatás nyújtása a hibakeresésben
+•Aktív részvétel on-prem Kubernetes-ről Azure AKS-be és Amazon AWS-re átállásban
+•Műholdas misszióvezérlő központ hibrid-felhős megoldásának kialakítása
+•nappali tagozatos aktív, vagy 25 év alatt passzív hallgatói jogviszonyod van
+•rendelkezel Linux rendszergazdai tudással
+•ismered a konténerizációs platformokat (Docker/Podman/containerd/cri-o)
+•van Kubernetes ismereted
+•átlátod az AWS és Azure infrastruktúrákat
+•ismered a hálózati alapokat (TCP/IP, HTTP, REST API, tűzfal, proxy)
+•használtál már CI/CD rendszereket (Jenkins/Travis/Bamboo/CircleCI stb.)
+•ismersz legalább egy Full Stack webes fejlesztői környezetet (NodeJS/React nagy előny)
+Előnyt jelent
+•van tapasztalatod benne és érted a Nyilvános Kulcsú Infrastruktúrát (PKI)
+•használtál Helm Chartokat
+•magabiztos vagy Jenkinsben
+•ismered az NGINX működését
+•ismered a GitLab CI/CD lehetőségeit
+•ismered a GitHub Actions-t
+•használtál már GitHub Advanced Security (GHAS) megoldást (CodeQL)
+Mit kínál a Skyint?
+•részvétel valódi, nemzetközi űripari fejlesztésekben
+•fiatal, innovatív, mérnöki szemléletű csapat
+•modern tech stack és komoly szakmai kihívások
+•rugalmas munkavégzés, hibrid lehetőség
+•gyors szakmai fejlődés, mentorálás
+Bérezés:
+3000-5000 Ft/óra (tudástól függően)
+Munkalehetőség 17 év feletti nappali tagozatos jogviszonnyal rendelkező diákok részére!

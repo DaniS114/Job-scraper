@@ -1,0 +1,45 @@
+Pozíció leírása / Job description
+Our partner, Hungary's largest agricultural machinery manufacturing company, is looking for a new colleague for the
+Frontend Developer (Angular)
+position.
+High-End Frontend Development:
+Design and develop sophisticated, high-quality frontend solutions primarily using the latest
+Angular
+versions.
+CIAM Integration:
+Design, implement, and manage
+Customer Identity and Access Management
+(CIAM) solutions to ensure seamless user experiences.
+Security-First Engineering:
+Integrate secure authentication and authorization processes into applications, maintaining the highest standards of data protection.
+Clean Code & Documentation:
+Write clean, well-documented, and testable code while following industry best practices and standards.
+Cross-Functional Collaboration:
+Partner with security teams and stakeholders to align technical specifications with project objectives.
+Proactive Troubleshooting:
+Identify and resolve complex issues related to access management and authentication workflows.
+Elvárások / Requirements
+Angular Development:
+Build and maintain high-quality frontend solutions using modern
+Angular
+and clean code practices.
+Identity Management:
+Design and implement
+CIAM
+solutions to ensure secure user authentication and authorization.
+Security Integration:
+Collaborate with security teams to integrate industry-standard data protection into the frontend.
+Problem Solving:
+Troubleshoot and resolve complex issues related to access management and authentication.
+Teamwork:
+Work within an
+Agile
+team to translate project requirements into technical specifications.
+Amit nyújtunk / Benefits
+Fast growing company with strong and stable international background
+Interesting company scope with improvement opportunities
+Market level compensation package
+Inspiring work atmosphere
+Great team work and familiar company culture
+Opportunity for joining a new Hungarain team with great ambitions
+Hybrid working model (around 10% onsite)

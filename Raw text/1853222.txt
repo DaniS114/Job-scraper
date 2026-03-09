@@ -1,0 +1,31 @@
+Pozíció leírása / Job description
+Our partner, Hungary's largest agricultural machinery manufacturing company, is looking for new colleagues for Agile Quality Engineer (Mobile – iOS & Android) position.
+Act as a quality advocate within the mobile team, helping shape stories,acceptance criteria, and early risk discussions.
+Collaborate closely with mobile developers to test features continuously, not just at the end.
+Build and maintain strong working relationships with web development teams, aligning mobile testing with shared business logic and APIs.
+Design, execute, and continuously improve exploratory, functional, and non-functional tests for mobile applications.
+Contribute to the continuous improvement of testing strategies, tools, and team processes.
+Support test automation efforts where they add value, working closely with developers and CI/CD pipelines.
+Analyse customer defect reports to identify recurring issues, root causes, and improvement opportunities.
+Provide fast, actionable feedback that helps the team learn and improve.
+Actively participate in agile ceremonies (refinement, planning, reviews, retrospectives).
+Continuously learn and introduce modern testing practices into the team.
+Elvárások / Requirements
+Strong quality mindset and a clear drive for personal improvement.
+Solid experience as a Quality Engineer in agile, product-oriented teams.
+Hands-on experience testing mobile applications on iOS and Android.
+Experience with test automation for mobile apps, APIs, and integrations.
+Good understanding of mobile-specific risks (devices, OS versions, performance, usability, connectivity).
+Experience working closely with developers and QA engineers from other teams rather than in isolation.
+Proven ability to build strong cross-team relationships, especially with web and backend teams.
+Deep understanding of agile testing principles, including:
+○ Whole-team ownership of quality
+○ Shift-left testing
+○ Continuous feedback and learning
+Ability to clearly communicate testing insights to both technical and non-technical
+stakeholders
+Amit nyújtunk / Benefits
+International environment
+Individually tailored training possibilities
+Attractive fringe benefits
+Full home-office

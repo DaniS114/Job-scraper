@@ -1,0 +1,24 @@
+Magyar tulajdonú IT és pénzügyi szolgáltatásokat nyújtó Partnerünk budapesti csapatába keresünk Senior fullstack (backend heavy) fejlesztő munkatársat, aki egy ismert logisztikai webalkalmazás moduljainak fejlesztésében vesz részt.
+Feladatok
+• Meglévő logisztikai felhőszolgáltatásokhoz kapcsolódó fullstack fejlesztési feladatok ellátása,
+• az ügyféligényeknek megfelelően új szoftvermegoldások fejlesztése és a meglévők továbbfejlesztése,
+• RESTful API-k és portál megoldások bővítése,
+• új microservice-k létrehozása és összekapcsolása a meglévő infrastruktúrával,
+• szoros együttműködés a tesztelési csapattal és a megbízó fejlesztési csapatával,
+• junior és medior kollégák szakmai támogatása.
+Elvárások
+• Felsőfokú IT végzettség vagy hasonló területen szerzett tapasztalat,
+• webalkalmazások fejlesztésében szerzett tapasztalt (.NET/C#),
+• aktív angol nyelvtudás, • Entity Framework és T-SQL ismerete,
+• HTML, CSS, Javascript, Typescript ismeret,
+• Redis gyakorlati ismerete; Elasticsearch tapasztalat,
+• Back-end erős feladatok preferálása: C#, ASP.NET, .NET Framework, Entity Framework
+• kiváló problémamegoldó képesség.
+Előnyök
+• SCRUM módszertan ismerete,
+• ASP.NET Core MVC keretrendszer használatában szerzett gyakorlat.
+Ajánlat
+• Izgalmas nemzetközi projektben való részvétel,
+• komplex feladatkör, fejlődési lehetőség,
+• akár 80-90%% Home Office munkavégzés (havi 1-4 bejárás, egyéni megbeszélés kérdése),
+• jó hangulatú, barátságos csapat.

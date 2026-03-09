@@ -1,0 +1,44 @@
+Miről szól a munka:
+Core banki rendszerekkel dolgozol – a projektek változatosak, lehetnek migrációk, új funkciók fejlesztése, vagy akár mobil backend megoldások. A csapat jellemzően 5-8 fős, medior és senior backend/frontend fejlesztőkkel dolgozol együtt. A munkához kitartás kell – vannak komplex, hosszabb távú feladatok is, ahol a minőség és a megbízhatóság számít.
+Feladatok:
+Aktív részvétel a backend fejlesztésben (Node.js / TypeScript) – kb. 70% hands-on kódolás
+Technikai tervezés, architektúra-alakítás és dokumentáció készítése – kb. 30%
+Feature fejlesztők szakmai támogatása, mentoring
+Code review-k végzése, minőségbiztosítási irányelvek érvényesítése
+Együttműködés a csapattal agilis (Scrum / Kanban) működésben
+Backend oldali technikai döntések előkészítése és meghozatala
+Az állás betöltéséhez szükséges:
+Legalább 5–7 év backend fejlesztési tapasztalat Node.js alapon (TypeScript)
+Magabiztos tesztelési ismeretek (unit, integration)
+Async messaging és event streaming tapasztalat (Kafka előnyt jelent)
+Microservice architektúrák tervezésében és fejlesztésében szerzett tapasztalat
+Docker (Compose) alapú konténerizációs ismeretek
+CI/CD alapú szoftverszállítási gyakorlat
+Relációs adatbázisok és ORM-ek használatában szerzett tapasztalat
+Magabiztos angol nyelvtudás (napi szintű szakmai kommunikációhoz)
+Jó kommunikációs készség – világosan tudsz gondolkodni és érvelni technikai kérdésekben
+Előnyt jelent:
+NestJS tapasztalat
+GraphQL ismeret, federated architecture tapasztalat
+Kubernetes ismeretek
+Felhőalapú technológiák (AWS / GCP / Azure)
+Amit a szerep kínál:
+Hands-on fejlesztés (70%) és lead szerep (30%) – nem people management
+Változatos projektek – core rendszerek, migrációk, backend megoldások
+Stabil nagyvállalati környezet – nem startup, hanem hosszú távú projektek
+Tanulási lehetőség sokféle technológián és domain területen
+5-8 fős csapat, tapasztalt kollégákkal
+Munkaidő:
+hétfőtől-péntekig 9:00–17:00 között
+Munkavégzés helye:
+Budapest, Váci úti iroda – heti 2 nap office (rugalmasan kezelhető)
+Jelentkezés:
+Kérjük, küldd el magyar nyelvű szakmai önéletrajzodat a
+„JELENTKEZÉS"
+gombra kattintva.
+A kiválasztási folyamatról:
+A kiválasztás 2-3 körös. Első körben szakmai és üzleti egyeztetés (gyakran egyben), majd team fit interjú következik. A jelentkezéseket önéletrajz alapján értékeljük, az alkalmas jelöltekkel rövid telefonos egyeztetésre kerül sor.
+A jelentkezéssel elfogadod a Beck and Partners Kft.
+[Kattintson a weboldal linkjének megjelenítéséhez]
+adatvédelmi tájékoztatóját
+.

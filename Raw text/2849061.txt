@@ -1,0 +1,40 @@
+Cég neve
+ITech Consult AG
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Biztosított eszközök
+Linux
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+Linux
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Senior Software Engineer C++Senior Software Engineer C++: Software Engineer / C++ 11 / CAN / Linux Docker / Medical Device / Agile Environment / RabbitMQ / EnglishProject: For our client based in Rotkreuz, we are looking for a Senior Software Engineer C++Background:The candidate will develop Instrument Control software, Service software and Instrument Management SW for the Cobas 6800/8800/5800 instruments.The Instrument Control software is real-time in nature and is developed in C++ using an existing real-time framework with low-level hardware drivers and is tested using both real and simulated hardware and it is Event-Driven Architecture.The perfect candidate:It is of critical importance that the candidate has primarily worked with modern C++ (C++11 or newer) over the past 2 to 5 years, including in their most recent or current project. Furthermore, it is essential that Linux has been used as the primary development operating system during the past 2 to 5 years, including in the candidate's latest or current project. In addition, the candidate should have gained experience working within small to large development teams during the past 2 to 5 years, as we are specifically seeking a strong team player rather than an individual contributor.Tasks & Responsibilities:• Proactive participation in all phases of software development from feasibility studies through design,development, testing and bug fixing and maintenance• Collaboration within the Scrum teams• Independent interaction with internal framework manufacturers• Based on requirements and models, definition of software architecture, design and specifications,ultimately leading to implementation• Participation in the definition of work packages, their estimation and planning in a sprint-based agileenvironment• Adherence to a software development process including contribution to written deliverables anddocumentationMust Haves:• Min. Bachelor degree in a software related field such as software or electrical engineering or similar• Min. 5+ years of hands-on experience as Software Engineer, preferred in the regulated environment such as the medical device industry• Min. 3-5 years hands-on experience with C++ and Linux from the last project or position• Strong with Linux Dockers• Experience with CAN bus• Fluent in English (spoken and written)• Highly motivated with focus on deadlines and a proactive and thorough way of working• Ability to work within a team and still be proactive• Ability to work within agile and Scrum Teams• Software architecture would be a big plusNice to Have:• Event-Driven Architecture knowledge• SAFe certification• Scrum experience• Basic scripting knowledge• RabbitMQ knowledge• Roche experience• German is advantageousReference No.: 924804Role: Senior Software Engineer C++Industry: PharmaceuticalsLocation: RotkreuzWorkload: 100%Start: ASAP / June 1, 2026Duration: 12+ MonthsDeadline: March 13, 2026If this position has piqued your interest, please send us your complete resume. If this position does not quite match your profile and you would like to receive other positions directly, you can also send us your resume via this ad or to jobs[at]itcag[dot]com.Contact us for more information about our company, our positions, or our attractive payroll-only program: .About us:ITech Consult is an ISO 9001:2015-certified Swiss company with offices in Germany and Ireland. ITech Consult specializes in placing highly qualified candidates for temporary staffing in the fields of IT, life sciences, and engineering. We offer temporary staffing and payroll services. This is free of charge for our candidates, and we do not charge any additional fees for payroll services. jid8d5f293pn jit0311pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Healthcare,
+Pharmaceutical Industry
+Doctor,
+Specialist
+Switzerland
+Álláshirdetés jelentése

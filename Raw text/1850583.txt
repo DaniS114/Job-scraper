@@ -1,0 +1,23 @@
+Firmware Engineer
+Beágyazott C++ szoftver fejlesztése és karbantartása mikrokontrollerekhez (bare-metal, ARM Cortex-M),
+Kód optimalizálása teljesítményre, memóriahasználatra és energiahatékonyságra,
+Beágyazott szoftveres eszközlánc karbantartása és továbbfejlesztése,
+Egység- és rendszer tesztek írása és futtatása (HIL),
+Hibakeresés és szoftver-hardware problémák feltárása, oszcilloszkópok és logikai analizátorok használatával,
+Kapcsolattartás a svájci globális csapattal.
+Elvárások / Requirements
+BSc vagy MSc végzettség villamosmérnöki, szoftvermérnöki vagy hasonló területen,
+Legalább 5 év tapasztalat beágyazott rendszerek alacsony szintű programozásában,
+Erős C++ ismeret, Python tudás,
+Folyékony angol nyelvtudás (szóban és írásban),
+Preferálta gyártási környezetben szerzett tapasztalat.
+Amit nyújtunk / Benefits
+Új, Magyarországon egyedülálló projekt a backend technikájában,
+Scrum/Agilis fejlesztési környezet, tudásmegosztás és kódellenőrzések,
+Versenyképes bér,
+Modern eszközök és módszerek,
+Rugalmas munkavégzés, home office lehetőség pozíciótól függően,
+Széleskörű egyéni juttatási csomag (cafeteria, egészségügyi szolgáltatások, képzések, extra szabadság),
+Családtámogató juttatások (iskolakezdési támogatás),
+Stabil, hosszú távú karrierlehetőség, értékalapú vállalati kultúra.
+a0tbI00000SrNb8QAF

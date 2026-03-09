@@ -1,0 +1,50 @@
+About
+Our client is a fast-growing, globally expanding mobile app that’s transforming how content creators produce professional videos. With over 1 million users and 17 million videos recorded, our mission is to empower creators to speak confidently and naturally on camera — whether they’re YouTubers, business professionals, or first-time presenters.
+Our client is a market leader in iOS teleprompting solutions. They are a profitable, bootstrapped company with a 7-year track record and are now expanding into the Android platform.
+What We’re Looking For
+iOS Development (5+ years)
+Strong proficiency in Swift 5.5+
+Experience with both UIKit and SwiftUI frameworks
+Solid understanding of iOS app architecture patterns (MVC, MVVM, Coordinator)
+Experience with dependency injection patterns (preferably Resolver)
+Proficiency with Xcode, Interface Builder, and Storyboards
+Experience with iOS app performance optimization
+Third-Party Integrations
+Firebase suite (Auth, Database, Storage, Remote Config, Crashlytics)
+Payment processing (RevenueCat, StoreKit)
+Analytics platforms (Mixpanel, Google Analytics)
+Push notifications (OneSignal)
+Social login (Google Sign-In, Facebook Login, Sign in with Apple)
+Development Tools & Practices
+Git version control and branching strategies
+Fastlane for CI/CD automation
+XcodeGen for project generation
+Experience with multiple build configurations and environments
+App Store submission and release process
+Video & Media Processing
+Experience with AVFoundation framework
+Video recording, editing, and playback implementation
+Live streaming protocols (RTMP, HLS)
+Core Image and video filters
+Audio session management
+Experience with video compression and export
+Cross-Platform Development
+watchOS app development experience
+Mac Catalyst or macOS development
+Widget development (WidgetKit)
+App Extensions (Notification Service, Share Extension)
+Nice to Have
+Experience with HaishinKit or similar live streaming libraries
+Bluetooth Low Energy (BLE) development
+WebSocket and real-time communication
+MIDI protocol knowledge
+AI/ML integration experience (ChatGPT API)
+CoreData and data persistence
+Localization and internationalization
+Accessibility features implementation
+SwiftUI animation and custom transitions
+We offer
+Hybrid work with flexible schedules
+Low-stress culture.
+A fun work environment
+Be part of a growing company still in the early stages

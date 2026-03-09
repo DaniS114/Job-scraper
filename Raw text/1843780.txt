@@ -1,0 +1,36 @@
+Szeretnél egy nagy múltra visszatekintő, magyar nagyvállalatnál dolgozni? A Magyar Posta Zrt. Logisztikai és E-szolgáltatások Üzemeltetési Osztályvezető (Platform és E-szolgáltatási szoftverek) munkatársat keres.
+Főbb feladatok
+DEVOPS alapú működés kiterjesztése
+Konténerizációs platform és a rajta futó alkalmazások működésének biztosítása
+Végrehajtja a hatáskörébe rendelt platform és e-szolgáltatási rendszerek működtetésével, üzemeltetésével, felügyeletével, karbantartásával kapcsolatos operatív tevékenységeket.
+A felelősségi körébe tartozó alkalmazások és támogató rendszerek üzemeltetésének biztosítása, külső szállító esetén az informatikai követelmények definiálása és a leszállított termékek üzemeltetői minőségbiztosítása. Az alkalmazások működtetésével, üzemeltetésével, felügyeletével, karbantartásával kapcsolatos operatív tevékenységek ellátása.
+A felelősségi körébe tartozó IT fejlesztések koncepcionális tervezése, szem előtt tartva az integrációs szempontokat és a költséghatékonyságot.
+A beszerzéshez szükséges műszaki dokumentáció elkészítése.
+Üzleti igények igényszintű release tervezési feladatainak ellátása. Külső szállító esetén az informatikai követelmények definiálása és a leszállított termékek fejlesztési szempontú minőségbiztosítása.
+A hatáskörébe sorolt alkalmazások folyamatos működtetésének, üzemeltetésének biztosítása. A felhasználói területtel közvetlenül együttműködve a rendszer továbbfejlesztésének támogatása.
+Munkakör betöltésének feltételei
+DEVOPS ismeretek, rendszerszemlélet (preferáltan Azure DevOps környezet ismerete)
+Konténerizációs ismeretek (OKD, Red Hat Openshift, Docker, Kubernetes)
+egyetemi vagy főiskolai végzettség
+3-5 év szakmai tapasztalt
+1-3 év vezetői tapasztalat
+Kiváló kommunikációs képesség mind szóban, mind írásban
+Jó problémamegoldó és együttműködési képesség
+Amit kínálunk
+Versenyképes jövedelem és juttatási csomag
+Megbízható, stabil vállalati környezet
+Szakmai kihívást jelentő, érdekes feladatok
+Hosszú távú, biztos munkahely
+Szakmai fejlődési lehetőség
+Igényes munkakörnyezet
+Jó csapat
+Teljesítmény értékelő és ösztönző rendszer
+Céges laptop
+Céges mobiltelefon
+Vállalati ajánlási program keretén belül extra juttatásokra tehetsz szert
+Modern iroda, amely tömegközlekedéssel is könnyen megközelíthető
+Egyéb
+A munkavégzés helye: 1138 Budapest, Dunavirág utca 2-6.
+Napi munkaidő: kötetlen munkavégzés
+A munkakör azonnal betölthető.
+A jelentkező a jelentkezéssel önkéntesen hozzájárul, hogy a Magyar Posta Zrt. (Székhely: 1138 Budapest, Dunavirág utca 2-6., Cg:01-10-042463, adatvédelmi tisztviselő: adatvedelem@posta.hu) a jelentkezésben megadott adatait a meghirdetett vagy az álláspályázat időszakában felmerülő másik betölthető pozícióra alkalmas jelölt kiválasztása céljából a kiválasztási eljárás végéig kezelje. A jelentkező az adatai törlését, a hozzájárulásának visszavonását a 1540 Budapest postacímen, vagy a toborzas@posta.hu e-mail-címen kérheti. Hozzájárulásának visszavonása azonban nem érinti a visszavonás előtt folytatott adatkezelés jogszerűségét. Az adatkezelésről a további tájékoztatás elérhető a www.posta.hu Adatkezelési tájékoztató menüpontjában.

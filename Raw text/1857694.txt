@@ -1,0 +1,27 @@
+Pozíció leírása / Job description
+Our partner, Hungary's largest agricultural machinery manufacturing company, is looking for a new colleague for the
+IT Security Expert
+position.
+Operate, develop and implement PKI solutions to secure services, applications, and data.
+Manage and monitor certificates and keys, including creation, validation, and renewal.
+Conduct security analyses and risk assessments related to PKI and cryptographic requirements.
+Collaborate with various departments to identify security needs and develop appropriate solutions.
+Continuously monitor security incidents and formulate preventive and remedial measures.
+Train and raise awareness among employees regarding IT security topics, especially concerning PKI.
+Update and maintain security policies and procedures.
+Elvárások / Requirements
+Degree in Computer Science, Information Technology, or a related field, or equivalent qualification.
+Several years of experience in IT security, specifically with PKI systems and Public/Private Key cryptography.
+Strong knowledge of common cryptographic algorithms, protocols, Hardware Security Modules (HSM) and different Operating Systems (Linux and Windows)
+Experience with implementing and managing Certificate Authorities (CAs)
+Ability to clearly communicate complex technical concepts.
+Problem-solving skills and analytical thinking.
+Team-oriented with a high degree of responsibility
+Amit nyújtunk / Benefits
+Fast growing company with strong and stable international background
+Interesting company scope with improvement opportunities
+Market level compensation package
+Inspiring work atmosphere
+Great team work and familiar company culture
+Opportunity for joining a new Hungarian team with great ambitions
+Hybrid working model (around 10% onsite)

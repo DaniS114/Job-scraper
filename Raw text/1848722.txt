@@ -1,0 +1,38 @@
+Pozíció leírása / Job description
+We are looking for an experienced
+Senior Data Engineer
+to design, build, and operate scalable cloud-based data solutions supporting analytical and business-critical use cases.
+Pipeline Development:
+Design, implement, and maintain scalable data pipelines and transformation workflows.
+Data Modeling:
+Develop and manage analytical data models using SQL-based frameworks, translating business requirements into structured data.
+Quality & Performance:
+Ensure high data quality, reliability, and performance across all production environments.
+DevOps Integration:
+Implement version control, CI/CD, and automated testing for data workloads.
+Collaboration:
+Work closely with BI and engineering teams to optimize the entire data lifecycle.
+Maintenance:
+Monitor, troubleshoot, and document data models and engineering standards.
+Elvárások / Requirements
+Python:
+Solid programming skills for data processing and automation.
+Azure Data Factory:
+Experience building and managing cloud orchestration.
+Microsoft SQL Server (MSSQL):
+Advanced SQL skills and complex data transformation experience.
+Azure Cloud:
+Hands-on experience within the Azure ecosystem and modern data architectures.
+Nice to Have
+Azure Synapse Analytics
+Databricks
+(Spark-based processing)
+Experience with
+dbt
+or equivalent SQL-centric transformation tools.
+Familiarity with Infrastructure-as-Code (IaC) and automated provisioning.
+Amit nyújtunk / Benefits
+Full Remote Opportunity
+Friendly & Family-like Atmosphere
+Professional Growth
+Work-Life Balance

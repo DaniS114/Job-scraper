@@ -1,0 +1,39 @@
+Cég neve
+Belimed AG
+Munkavégzés helye
+Grienbachstrasse 11, 6300 Zug
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Biztosított eszközök
+Linux
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Linux
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+SteelcoBelimed, established in 2024 from Steelco and Belimed, leads in advanced cleaning and sterilization solutions. Our motto, ‘Innovate with confidence’, drives us to meet customer needs with cutting-edge products and services. We are your ideal partner for tailored, end-to-end sterile workflow solutions, thanks to a dynamic product range focused on reliability and efficiency. We are setting new benchmarks, ensuring our solutions meet and exceed our customers’ ever-changing requirements.We believe that winning teams are the key to our success. In SteelcoBelimed you will work in an international, open-minded and hands-on team in a growing industry, committed to improving the health of our society. Apply for this challenging role and join our HQ team in Zug.Innovation Engineer - Robotics LeadThis role as Innovation Engineer - Robotics Lead is embedded in our Innovation Hub. You will work hands-on with prototypes, rapid iterations, and user-centric experiments to shape the future of robotics in CSSD workflows. As Robotics Engineer, you will translate functional requirements into technical concepts as well as design, develop, and test advanced robotic systems to enhance automation, efficiency, and operational excellence. Working in a multidisciplinary environment, you will combine expertise in robotics, software, electronics, and control systems to create intelligent and reliable robotic systems capable of performing complex tasks autonomously or collaboratively with humans. You will ensure the technical integrity, performance, and usability of the developed systems while contributing to innovation initiatives and the continuous advancement of robotic technologies within the organization.Your main tasks will includeDesign and develop robotic systems by specifying use cases and processes by translating functional requirements into technical designsChoosing and assembling appropriate components including actuators, manipulators, and platforms.Create system descriptions, also with the help of robotics design toolsTraining robots using suitable systems, state-of-the-art tools and platformsImplement, configure, adapt and optimize embedded software (firmware), scripts or control algorithms for motion control, path planning, and sensor integrationUsage of robot operating systems (ROS/ROS2 preferred) as framework for navigation, control and autonomyEnsure interoperability with cloud systems, digital twins, and analytics platforms where requiredAssembly prototypes to validate performance, safety, and reliabilitySpecify test procedures and conduct system-level testing, debugging, and root-cause analysis of robotic functions and behaviorsOptimize system performance through iterative tuning of hardware, software, and control strategiesExtension of the function range by integrating further sensors, machine vision systems, PLCs, IoT systems, AI, ...Ensure usability of the systems and target solutionsYour ProfileBSc or MSc in Robotics, Computer Science, Systems Engineering or a related technical fieldStrong foundation in robotics including kinematics, dynamics, control algorithms and system architectures and technical product developmentHands-on experience with automation technologies and rapid prototypingSolid knowledge of ROS/ROS2, SLAM, motion planning and perception systems and practical experience in integrating sensors, cameras, actuators and motor controllersProgramming skills in robotics software development (e.g. C/C++, Python, Go) in Linux environments with Git and distributed systemsFamiliarity with simulation environments; experience with NVIDIA Isaac Sim is a plusKnowledge of machine learning approaches for perception or decision-making is beneficialExcellent analytical, coordination, communication and presentation skillsHands-on, curious team player with a strong willingness to learn, a proactive “can-do” mentality and passion for innovationFluent in English; German is beneficialOur OfferUse your professional expertise and help us to protect the lives of patients and medical personnel. Join our ambitious team and share our strong customer orientation and sense of urgency. We offer you varied work in a hands-on, international environment with a strong, value-based company culture and a fair, performance-related compensation. Our culture of empowerment and accountability will give you easy access to key decision-makers and enable you to make a real impact. If you enjoy trying things out, building pragmatic solutions, and working in a fast-moving innovation environment, you will fit right in.We welcome applications from junior to mid-level engineers who bring solid robotics fundamentals and enthusiasm for practical development.If you recognize yourself in this career proposition, we look forward to receiving your application documents (CV, certificates, letter of motivation). To ensure the transparency of the selection process, we will only be able to consider electronic applications (via our online system); applications via e-mail or post will not be considered. jidad103e1pn jit0311pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Engineer
+Mechatronics
+Engineer
+Switzerland
+Álláshirdetés jelentése

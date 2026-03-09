@@ -1,0 +1,41 @@
+A szerep fókusza:
+Egészségügyi rendszerek közötti átjárhatóság és integrációk tervezése, fejlesztése
+HL7 / FHIR alapú adatkommunikáció bevezetése és implementálása
+Interfészek és API-k fejlesztése, karbantartása
+Stratégiai jelentőségű, hosszú távon fenntartható integrációs architektúra kialakítása
+Kritikus szemléletű, minőségközpontú fejlesztés
+Napi szintű együttműködés nemzetközi csapattal (munkanyelv: angol)
+Elvárások:
+Minimum középfokú informatikai végzettség
+7+ év releváns fejlesztői tapasztalat
+Java 21+
+Spring Boot 3+, Spring Security
+SQL (Oracle, PostgreSQL)
+Kubernetes
+Git, CI/CD gyakorlat
+Magabiztos angol nyelvtudás
+Elemző, rendszerszintű gondolkodás
+Előnyt jelent:
+HL7 és/vagy FHIR tapasztalat
+Egészségügyi rendszerek integrációjában szerzett gyakorlat
+Amit kínálnak:
+Stabil, piacvezető nemzetközi háttér
+Stratégiai jelentőségű projektek
+Rugalmas hibrid munkavégzés (legalább 2 hetente 1 irodai nap)
+Pécs belvárosi iroda, könnyen megközelíthető lokáció
+Alkalmankénti hollandiai szakmai együttműködés
+Modern technológiai környezet
+SZÉP kártya
+Bejárási támogatás
+Magánegészségügyi biztosítás
+Extra szabadnapok
+Miért érdemes csatlakozni?
+Mert itt nem egy izolált modulon dolgozol, hanem olyan integrációs rendszereket építesz, amelyek valós egészségügyi szolgáltatókat kötnek össze — és kézzelfogható hatással vannak az ellátás minőségére Európában.
+Jelentkezés módja:
+Küldje el számunkra magyar és angol szakmai önéletrajzát az alábbi „Jelentkezés” gombra kattintva!
+Mi történik a jelentkezését követően:
+Kollégáink az elvárások alapján elbírálják pályázatát, és ha megfelelőnek találják, akkor továbbítják azt megbízónknak. A továbbiakban már megbízónk veszi át a kiválasztási folyamatot.
+A jelentkezéssel elfogadod a Beck and Partners Kft.
+[Kattintson a weboldal linkjének megjelenítéséhez]
+adatvédelmi tájékoztatóját
+.

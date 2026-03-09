@@ -1,0 +1,48 @@
+Feladatok:
+Szerverek, hálózati eszközök és munkaállomások üzemeltetése, karbantartása
+Hálózati infrastruktúra felügyelete és fejlesztése, hálózati szegmensek és ACL-ek kezelése
+Microsoft 365 és Azure környezet kezelése:
+Azure Entra ID, szerepkörök és identitáskezelés
+Exchange Online, SharePoint Online, OneDrive, Teams adminisztráció
+Biztonsági és megfelelőségi beállítások (Conditional Access, MFA, DLP, Intune alapú eszközmenedzsment)
+Tűzfalak és biztonsági megoldások konfigurálása
+Felhasználók támogatása (L1–L2 helpdesk), hibajegyek kezelése és megoldása
+Operációs rendszerek telepítése és frissítése, rendszerhardening
+Jogosultságkezelés, biztonsági mentések kezelése és adatvédelmi előírások betartása
+IT-biztonsági feladatok támogatása (patch management, sérülékenységkezelés, auditok előkészítése)
+Hardver- és szoftverleltár, eszköznyilvántartás vezetése, licencek kezelése
+Rendszeres dokumentáció készítése az IT infrastruktúráról (topológia, konfigurációk, változáskezelés)
+IT projektekben való részvétel (rendszerbevezetések, hálózati bővítések, biztonsági fejlesztések)
+IT beszerzések szakmai támogatása, költséghatékony megoldások előkészítése, szállítók időszakos tendereztetésében való részvétel
+A pozíció betöltéséhez szükséges:
+Minimum középfokú végzettség
+3–5 év tapasztalat vállalati Windows Server és/vagy Linux rendszerek üzemeltetésében
+Angol szakmai szövegértés
+Stabil hálózati ismeretek, gyakorlat switch-ek és tűzfalak konfigurálásában
+Microsoft 365 / Azure adminisztráció: Active Directory / Azure Entra ID, Exchange Online, Teams, Intune
+Virtualizációs technológiák ismerete (VMware, Hyper-V, Proxmox)
+IT-biztonsági alapismeretek: irányelvek, best practice-ek, patch management
+Előnyök:
+NIS2 megfelelésben szerzett tapasztalat
+Haladó IT biztonsági tapasztalat (SIEM, EDR, SOC folyamatok)
+Felhős automatizálási ismeretek (PowerShell, Intune automatizáció, Azure Automation)
+Tűzfal- és hálózati eszközgyártók (FortiGate, Cisco, Mikrotik, UniFi) gyakorlati ismerete
+Amit kínálnak:
+Stabil, hosszú távú munkalehetőség egy megbízható cégnél
+Kellemes munkakörnyezet és támogató csapat
+Versenyképes fizetés és juttatások
+Szakmai fejlődési lehetőség
+Bejelentett munkaviszony
+Munkavégzés helye:
+Budapest
+Munkaidő:
+Teljes munkaidő, hétfőtől péntekig.
+Jelentkezés módja:
+Küldje el számunkra frissített szakmai önéletrajzát az alábbi „Jelentkezés” gombra kattintva!
+Mi történik a jelentkezését követően:
+Kollégáink a hirdetésben megjelölt szakmai elvárások mentén elbírálják pályázatát és amennyiben az ott leírtak alapján alkalmasnak találják, akkor továbbítják megbízónk felé szakmai profilját.
+Ezt követően már megbízónk kezeli jelentkezését, így a kiválasztási folyamat további részében MI nem fogunk részt venni.
+A jelentkezéssel elfogadod a Beck and Partners Kft.
+[Kattintson a weboldal linkjének megjelenítéséhez]
+adatvédelmi tájékoztatóját
+.

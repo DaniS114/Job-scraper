@@ -1,0 +1,77 @@
+Pozíció leírása / Job description
+Partnerünk pozitív szemlélettel működik a biztosítási piac meghatározó szereplőjeként több, mint 30 éve, és a multinacionális környezet mellett a munkavállalói érdekeket szem előtt tartva közvetlen és támogató közösséget alkot.
+Rendszerfejlesztés támogatása:
+Aktívan közreműködsz az új Core rendszer bevezetéséhez kapcsolódó pénzügyi és számviteli modulok kialakításában.
+Funkcionális tervezés:
+Részt veszel a szoftver új funkcióinak megálmodásában és azok gyakorlati megvalósításában.
+Szakmai együttműködés:
+Szorosan együttdolgozol az üzleti és az informatikai részlegekkel a pontos igények közös meghatározása érdekében.
+Specifikációk készítése:
+Az üzleti elvárások mentén te felelsz a funkcionális specifikációk részletes kidolgozásáért.
+Architekturális tervezés:
+Az IT architektekkel karöltve közreműködsz az alkalmazások struktúrájának kialakításában, valamint elkészíted a szükséges rendszerterveket és műszaki dokumentációt.
+Minőségbiztosítás és koordináció:
+Felügyeled és adminisztrálod a fejlesztések tesztelési folyamatait, biztosítva a hibátlan működést.
+Multikulturális környezet:
+Napi szinten egy nemzetközi csapat integrált tagjaként látod el a feladataidat.
+Elvárások / Requirements
+Szakirányú végzettség és tapasztalat:
+Rendelkezel gazdaságinformatikusi vagy informatikai diplomával, valamint legalább 5 év releváns rendszerszervezői gyakorlattal IT területen.
+Pénzügyi affinitás:
+Nem mozogsz idegenül a számviteli folyamatok és a pénzügyi logikák világában.
+Technikai magabiztosság:
+Erős SQL tudással bírsz, emellett rutinos vagy az adatbázisok és adatmodellek tervezésében.
+Architekturális ismeretek:
+Tapasztalatod van nagyvállalati szintű, komplex integrált rendszerek felépítésében és működtetésében.
+Analitikus szemlélet:
+Képes vagy strukturáltan gondolkodni, és mindig a fenntartható, hosszú távú megoldásokat tartod szem előtt.
+Proaktív problémamegoldás:
+Kiváló a helyzetfelismerő képességed, és hatékonyan hárítod el a felmerülő akadályokat.
+Csapatszellem:
+Hiszel az együttműködés erejében, számodra a közös siker alapvető érték.
+Nyelvtudás:
+Mivel nemzetközi környezetben dolgozunk, a magabiztos angol nyelvtudás elengedhetetlen a mindennapi munkához.
+Előnyt jelentő ismeretek:
+Rendszerismeret:
+Otthonosan mozogsz a
+GIOS vagy Opus Core
+környezetekben.
+Technológiai jártasság:
+Ismered az adatcsere-formátumokat (
+XML, XSD, JSON
+) és rutinos vagy a webszolgáltatások (
+SOAP, REST
+) világában.
+Szakmai háttér:
+Részt vettél már korábban alaprendszerek (
+Core rendszerek
+) fejlesztési folyamataiban.
+Pénzügyi alapok:
+Rendelkezel alapvető
+könyvelési ismeretekkel
+, ami segít a folyamatok mélyebb megértésében.
+Szektorspecifikus tapasztalat:
+Dolgoztál már korábban a
+biztosítási területen
+.
+Modern eszköztár:
+Magabiztosan használod az
+Atlassian
+megoldásait, különösen a
+Jira
+és
+Confluence
+szoftvereket.
+Módszertani tudás:
+Nem ismeretlenek számodra az agilis keretrendszerek (
+Scrum
+), valamint a projekt- és release-menedzsment folyamatai.
+Amit nyújtunk / Benefits
+szereped lesz a jövő formálásában
+láthatod ötleteid/fejlesztő javaslataid megvalósulását
+nemzetközi szinten zajló munka
+belsős és külső tréningek szakmai fejlődésed támogatására
+egészségprogram és sportolási lehetőség
+jól megközelíthető iroda
+cafeteria
+home office lehetőség

@@ -1,0 +1,50 @@
+Pozíció leírása / Job description
+Our client is a software engineering and IT consulting provider that specializes in online casino and sportsbook solutions. They are currently looking for a Rust Developer to join their team in Budapest.
+System Architecture:
+Architect, build, and scale high-performance distributed systems and microservices using
+Rust
+(Async, Tokio, Actix).
+Technical Leadership:
+Lead cross-functional engineering teams, drive architectural decisions, and provide mentorship to elevate code quality and engineering standards.
+API & Infrastructure:
+Design and implement secure, resilient
+APIs (gRPC/REST)
+and event-driven architectures utilizing message queues (Kafka, NATS).
+Blockchain Integration:
+Oversee the development of blockchain infrastructure, including consensus mechanisms and smart contracts (focusing on
+Solana, NEAR, or Substrate
+).
+Performance & Compliance:
+Deliver production-grade server-side components that meet stringent performance benchmarks and regulatory compliance requirements specific to the
+iGaming
+industry.
+DevOps & Strategy:
+Define technical strategy and manage cloud infrastructure using
+Kubernetes
+and
+Terraform
+within AWS/GCP environments.
+Elvárások / Requirements
+8+ years of professional software engineering experience with a proven track record in backend architecture.
+Expert-level proficiency in
+Rust
+systems programming, including memory safety management and high concurrency patterns.
+Deep knowledge of
+Blockchain protocols
+(cryptoeconomics, decentralized systems) and experience with
+iGaming platforms
+.
+Hands-on experience with the Rust ecosystem (
+Tokio, Diesel, SQLx, Rocket, Protobuf
+) and databases (
+PostgreSQL, MongoDB, Redis
+).
+Cloud & CI/CD:
+Strong background in containerization and orchestration (
+Docker, Kubernetes
+) and observability tools (Prometheus, Grafana).
+Methodologies:
+Commitment to Agile practices, TDD/BDD, and Domain-Driven Design (DDD).
+Amit nyújtunk / Benefits
+Hybrid Work Setup: Offers a flexible hybrid work model with only one office day per week and four optional remote days.
+Opportunity to work with International clients

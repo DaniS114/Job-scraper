@@ -1,0 +1,26 @@
+Description
+We are looking for a senior technical person responsible for the design and implementation of assigned technologies, software deployment, and data center operations.
+The team is responsible for:
+Operations in the data center
+Software deployment
+Handling activities such as incident/change/problem tickets
+Continuous improvements to services
+The ideal candidate has at least 3 years of experience with the following:
+Microsoft Windows
+Scripting (Powershell, Terraform)
+Microsoft Server
+Microsoft Azure
+Active Directory (AD) authorization management
+NFS authorization management
+Qualifications
+The ideal candidate has some of the following certifications:
+AZ-104 Azure Administrator Associate
+Windows Server Hybrid Administrator Associate
+SC-300 Identity and Access Administrator Associate (nice to have)
+Terraform Associate (nice to have)
+Other requirements:
+German language skills (upper intermediate - B2), English is nice to have
+You are experienced in implementing IT solutions
+You are organized in planning implementation steps and align with all relevant stakeholders
+Additional Information
+* Please be informed that our remote working possibility is only available within Hungary due to European taxation regulation.

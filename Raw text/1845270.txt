@@ -1,0 +1,24 @@
+Pozíció leírása / Job description
+Our client helps transforming enterprises, scaling startups, and professional integrators in their successful cloud native journey,  using several decades of experience in consultancy, development, and support for legacy network and IT system operations.
+They are cloud native experts, providing professional cloud-based services including consulting, systems integration, support, and training.
+On their behalf we are looking for medior to senior DevOps engineers to join their growing team. You’ll collaborate with colleagues across borders and help build scalable, reliable infrastructure.
+Build, maintain, and optimize CI/CD pipelines
+Manage Kubernetes clusters and infrastructure as code
+Collaborate with developers and other engineers on DevOps practices
+Support deployment and monitoring of cloud-native applications
+Elvárások / Requirements
+Hands-on experience with:
+Kubernetes
+GitLab
+CI/CD
+ArgoCD
+Terraform
+Strong communication skills in English (the team's working language)
+Ability to demonstrate
+systems thinking and understand how individual components impact the broader goals
+Excellent client-facing communication skills, with a proven track record of managing stakeholder expectations
+Willingness to share professional knowledge to foster team growth
+Amit nyújtunk / Benefits
+Flexible remote or hybrid setup
+International projects with diverse teams
+Growth opportunities in DevOps practices and cloud technologies

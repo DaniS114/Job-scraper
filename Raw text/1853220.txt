@@ -1,0 +1,39 @@
+Pozíció leírása / Job description
+At The Company we empower people to make a real impact. As a Finance Analytics Engineer, you’ll drive process improvements and automation within the Finance Reporting & Business Process Development Team. This Team Leader–equivalent role has no direct people‑management duties, but you’ll hold strong technical influence and act as a trusted advisor in key transformation initiatives.
+●
+Design and Build: Develop robust Power BI dashboards and data models (using DAX and Power Query) to replace legacy manual reporting.
+●
+​Automate Workflows: Eliminate repetitive manual tasks and excel-based processes using the Power Platform (Power Automate, Power Apps), VBA, or Python.
+●
+​Drive Innovation: Act as the hub for Low-Code and AI adoption within Finance, helping us deploy intelligent agents and automated workflows.
+●
+Translate & Bridge: Partner with Finance stakeholders to translate complex business requirements into precise technical specifications for data engineering.
+●
+​Data Stewardship: Act as the guardian of the "Single Source of Truth" for Working Capital and Financial data, ensuring backend integrity and accuracy.
+Elvárások / Requirements
+●
+You have a Hybrid Profile: A solid background in Finance/Controlling combined with a "Builder" mindset and a passion for technology.
+●
+​You have Technical Mastery: Advanced proficiency in
+Power BI
+(with DAX) and Excel is a must; knowledge of
+SQL and Data Modeling
+are advantages.
+●
+You are an
+Automation
+Pro: You have tangible experience automating business processes using low-code tools (
+Power Automate, Power Apps
+) or scripting (VBA, Python).
+●
+You are AI-Ready: You have an interest in Generative AI and how to apply it to financial workflows (e.g., Copilot, Prompt Engineering).
+●
+You have Fluent English knowledge (oral and written) to communicate complex technical concepts to non-technical stakeholders.
+●
+You have excellent Problem-Solving Skills: You don't just report errors; you engineer solutions to prevent them from ha
+Amit nyújtunk / Benefits
+-hybrid
+-bonus
+-health insurance
+-cafeteria
+-Free language training and sports support

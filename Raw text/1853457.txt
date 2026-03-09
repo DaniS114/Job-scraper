@@ -1,0 +1,37 @@
+A Magyar Posta Zrt. IT Infrastruktúra Igazgatósága Senior rendszermérnököt (Linux rendszermérnök) keres. Ha szeretnél az ország egyik legnagyobb informatikai szervezetében egy jó csapatban, változatos munkát végezni, ha nyitott vagy a tanulásra, és határozott a tudásod érvényesítésében és átadásában, valamint részt venni a Magyar Posta IT infrastruktúrájának üzemeltetésében, karbantartásában, fejlesztésében, akkor várunk csapatunkba!
+Főbb feladatok
+Red Hat Linux szerverek üzemeltetése
+L2/L3 Rendszeradminisztráció Támogatás
+Változáskezelés, problémakezelés, szolgáltatásigénylés
+Satellite konfigurálás, IPA fejlesztések
+Folyamatos rendszerkarbantartás, frissítés, biztonsági patchek telepítése
+Hibakeresési és problémamegoldási gyakorlat
+Implementációs rendszer dokumentációk készítése
+Munkakör betöltésének feltételei
+5+ év Red Hat Linux vagy azzal egyenértékű Redhat alapú Linux disztribúció üzemeltetésében szerzett gyakorlat
+KVM ismeret
+Red Hat Satellite üzemeltetési és konfigurációs tapasztalat
+IPA/LDAP implementáció és üzemeltetési tapasztalat
+Ansible automaizációs ismeretek
+LVM ismeret
+Shell/Bash szkriptelésben szerzett tapasztalat
+sFTP, FTP, HTTPS protokollok használatában szerzett tapasztalat
+TCP/IP protokollok ismerete
+Tanúsítvány/patch kezelésben szerzett jártasság
+Önálló, felelősségteljes munkavégzés
+Folyamatszemlélet és strukturált gondolkodásmód
+Jó dokumentációs és kommunikációs készség
+Amit kínálunk
+Megbízható, stabil cégkörnyezet,
+Versenyképes juttatási csomag,
+Szakmai kihívást jelentő, érdekes és változatos feladatok,
+Hosszú távú, stabil munkalehetőség
+Igényes munkakörnyezet, összetartó profi csapat,
+Próbaidőt követően home office lehetőség
+Egyéb
+A munkavégzés helye: 1138 Budapest, Dunavirág u. 2-6.
+A munkakör betölthető: azonnal
+Jelentkezését részletes szakmai önéletrajz megküldésével, valamint a fizetési igény megjelölésével az alábbi e-mail címen várjuk:
+[Kattintson az e-mail cím megjelenítéséhez]
+karrier@posta.hu
+A jelentkező a jelentkezéssel önkéntesen hozzájárul, hogy a Magyar Posta Zrt. (Székhely: 1138 Budapest, Dunavirág utca 2-6., Cg:01-10-042463, adatvédelmi tisztviselő: adatvedelem@posta.hu) a jelentkezésben megadott adatait a meghirdetett vagy az álláspályázat időszakában felmerülő másik betölthető pozícióra alkalmas jelölt kiválasztása céljából a kiválasztási eljárás végéig kezelje. A jelentkező az adatai törlését, a hozzájárulásának visszavonását a 1540 Budapest postacímen, vagy a toborzas@posta.hu e-mail-címen kérheti. Hozzájárulásának visszavonása azonban nem érinti a visszavonás előtt folytatott adatkezelés jogszerűségét. Az adatkezelésről a további tájékoztatás elérhető a www.posta.hu Adatkezelési tájékoztató menüpontjában.

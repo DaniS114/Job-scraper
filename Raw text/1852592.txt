@@ -1,0 +1,26 @@
+Dinamikusan fejlődő, IT szolgáltató partnerünk részére keresünk munkatársat az alábbi pozícióba:
+LEAD FRONTEND DEVELOPER & TECHNICAL MENTOR (3861)
+pozícióba.
+Pozíció leírása:
+Ebben a pozícióban aktívan részt vehetsz a termék formálásában, tanácsaiddal segítheted a működési folyamatokat, és a legfontosabb döntéseket. A stratégiai szemléleteddel és tapasztalataiddal támogathatod az architektúra board munkáját, valamint hozzájárulhatsz a csapatok közötti hatékony együttműködéshez.
+Modern, reszponzív és újrahasznosítható frontend komponensek fejlesztése,
+Alkalmazáslogika és adatkezelési folyamatok megvalósítása,
+Szoros együttműködés a UX/UI csapattal és a product ownerekkel,
+API-k definiálása és integrálása,
+Authentikációs folyamatok fejlesztése és karbantartása,
+Tesztelés és minőségbiztosítási feladatok ellátása,
+CI/CD folyamatokban való részvétel és technológiai fejlesztések irányítása
+.
+Elvárások:
+5+ év tapasztalat React és TypeScript alapú fejlesztésben
+Magabiztos API-integrációs és adatkezelési gyakorlat
+Jártasság komplex, komponensalapú UI rendszerek fejlesztésében
+Komponensalapú, design system szemlélet.
+Amit kínálunk:
+Versenyképes alapbér,
+Rugalmas munkarend, home office lehetőség,
+Széleskörű juttatásicsomag, bónusz,
+Inspiráló, modern fejlesztői környezet és folyamatos szakmai fejlődés,
+Valódi termékformálás, nem csak felületfejlesztés.
+React, TypeScript, Redux Toolkit, TanStack Table, TanStack Query, Azure AD, MSAL, Storybook, Playwright, CI/CD, Tailwind CSS, atomic design, Final Form, React Hook Form
+Amennyiben a pozíció felkeltette érdeklődését, küldje el számunkra magyar és angol nyelvű szakmai önéletrajzát az alábbi "JELENTKEZEM" gombra kattintva!

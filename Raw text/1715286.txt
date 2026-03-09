@@ -1,0 +1,18 @@
+Deine Aufgaben Weiterentwicklung unserer Data Warehouse/Lakehouse Umgebung Konzeption und Implementierung von ETL-Prozessen Sicherstellung der täglichen Datenladeprozesse Aufbau von Datamarts Pflege und Wartung der BI-Systeme Aufbereitung von Informationen für Reporting und Analysen Ad-hoc Analysen und Unterstützung der Fachbereiche Erstellung und Festlegung von Leitlinien für die Modellierung von Metadaten Definition des Inhalts des Metadaten-Repository Zusammenarbeit mit Data Architects und anderen Stakeholdern zur Sicherstellung der Meta-Datenintegrität und -konsistenz
+
+Dein Profil
+Abgeschlossenes Studium der Wirtschaftsinformatik, Informatik oder eine vergleichbare Ausbildung
+Berufserfahrung im Bereich BI-/DWH-Administration vorteilhaft
+Erfahrung im Aufbau von Data Warehouses/Data Lakes und ETL-Strecken wünschenswert
+Sehr gute SQL-Kenntnisse sowie Erfahrung im Umgang mit RDBMS, MS SQL-Server von Vorteil
+Erfahrung mit ETL- und Reporting-Tools basierend auf MS BI Stack 2019 (SSIS, Power BI, SSRS, SSAS) von Vorteil
+Ausgeprägte konzeptionelle und analytische Fähigkeiten sowie Qualitätsbewusstsein
+Deutschkenntnisse mindestens auf B2-Niveau
+Hohes Maß an Eigeninitiative und serviceorientiertem Handeln
+Unser Angebot
+Bei Liebherr erwartet dich ein anspruchsvolles und interessantes Aufgabengebiet in einer internationalen erfolgreichen Firmengruppe sowie
+Möglichkeiten zur persönlichen und beruflichen Weiterentwicklung
+Flexible Arbeitszeiten mit Home-Office-Möglichkeit
+Hauseigene Betriebskantine inkl. Essenszuschuss
+Kostenloser Werksverkehr und Bikeleasing
+Mitarbeitervergünstigungen bei diversen Unternehmen

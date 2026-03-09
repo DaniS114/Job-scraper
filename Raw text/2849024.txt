@@ -1,0 +1,62 @@
+Cég neve
+skyguide
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DEVOPS
+PYTHON
+ROBOT
+LINUX
+NETWORK
+ACCESS
+TROUBLESHOOTING
+TEST AUTOMATION
+ROBOT FRAMEWORK
+Biztosított eszközök
+Linux
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+DEVOPS
+PYTHON
+ROBOT
+LINUX
+NETWORK
+ACCESS
+TROUBLESHOOTING
+TEST
+AUTOMATION
+ROBOT
+FRAMEWORK
+Linux
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Engineer VoIP communication Systems (80-100%)Skyguide provides air navigation services in Switzerland and parts of neighbouring countries. With around 1500 employees from more than 30 nations, we are pursuing an ambitious innovation strategy that is based on a strong safety and learning culture. We are guided by four values: "We team up to succeed", "We drive innovation", "We own what we do" and, finally, "We create great customer value".Are you interested in finding out more? We want you to join us as a/an ...Engineer VoIP communication Systems (80-100%)Location: Wangen b. DübendorfWhen: 1 June 2026 or upon availabilityYour mission:We passionately drive voice into the air traffic controller and pilot's ears. As Engineer VoIP communication Systems, you will be responsible for designing, implementing, and executing automated and manual test strategies for the VoIP project, ensuring that all systems meet safety, reliability, and performance requirements.Your tasks:Manage and coordinate activities related to equipment over Switzerland, in close collaboration with the maintenance teamBuild and maintain accessible, stable physical and virtual test environments for diverse user needsConduct projects and changes aiming to guarantee the continuity of Air-Ground/Ground-Ground communication services for the Air Traffic Control (ATC)Analyse test results, document findings, and support troubleshooting to ensure quality in safety?critical contextsDesign and document automated test strategies, identifying meaningful areas for automationDevelop, refine, and maintain automation scripts and frameworks, ensuring reliable execution across platformsExecute tests (e.g. manual, automated, system, integration, and regression), handle environment setup and defect reproductionWhat we are looking for:Engineer with master or bachelor degree in electronics/telecommunications (or equivalent)Proven expertise in Test Automation and DevOps Engineering Stack (e.g. Python, Squish, Robot Framework, TTworkbench)Strong knowledge of OS (Linux / Microsoft), network and common voice and data communication protocols (analogue, IP, VoIP)Knowledge of VoIP standard EUROCAE protocols know-how would be an assetAgility: You can adapt to an evolving environment with change and uncertainties and remain capable of acting and deciding quicklyCommunication: You adapt your communication style to the context and stakeholders and actively ask for information through relevant questions and active listeningProficient in German and English written and orally, good command in French is a plusWhat we offer:We offer flexible working options, depending on the role, and a competitive salary with attractive working conditions and numerous fringe benefits. Our employees have access to a wide range of training opportunities to support their growth and development. As an equal-opportunity employer, we are committed to building a diverse and inclusive team, bringing together people of different identities and backgrounds. jidbe5d7e9pn jit0311pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Switzerland
+Álláshirdetés jelentése

@@ -1,0 +1,106 @@
+O nás
+Voľné pozície
+Študenti
+Sieťový špecialista/špecialistka pre IT/OT infraštruktúru
+Miesto práce
+Teplárenská 1823/3, Košice - Juh
+Pracovný pomer
+plný úväzok
+Základná mzda*
+2 230 - 2 417 EUR/mesiac
+*
+K uvedenej výške mzdy je možné získať variabilnú zložku mzdy do výšky 10% (zo základu).
+Uvedená výška mzdy predstavuje minimálnu garantovanú sumu základnej zložky mzdy vzťahujúcej sa na uvedenú pracovnú pozíciu.
+Skutočná suma základnej zložky mzdy bude upravená v súlade s vašimi odbornými znalosťami a schopnosťami.
+Pracovná náplň
+Na úvod hádanka: V sieti sa zrazu objaví:
+zvýšená latencia medzi dvoma segmentmi
+CPU load na core switchi stúpa
+NetFlow ukazuje veľké množstvo broadcast trafficu
+monitoring začne hlásiť výpadky v niektorých VLAN
+routing tabuľky vyzerajú v poriadku.
+Čo je tvoja prvá hypotéza, ktorú by si išiel preveriť?Ak máš v hlave okamžite niekoľko scenárov, pravdepodobne si človek, ktorého chceme stretnúť. – tie nám popíš v dotazníku, ktorý je súčasťou pri odosielaní CV.
+Čo bude tvojou úlohou:
+riešiť incidenty a požiadavky súvisiace so sieťovou infraštruktúrou
+monitorovať sieť, analyzovať prevádzku a identifikovať bezpečnostné hrozby
+podieľať sa na návrhu a implementácii nových technológií
+spravovať a konfigurovať aktívne sieťové prvky
+nastavovať a udržiavať bezpečnostné štandardy a best practices
+tvoriť a aktualizovať dokumentáciu, postupy a konfigurácie
+pracovať v prostredí, kde sa IT infraštruktúra prepája s OT systémami
+Odborné znalosti, ktoré očakávame:
+pokročilá znalosť TCP/IP a routovacích protokolov (OSPF, BGP, EIGRP)
+pokročilá znalosť L2 technológií (VLAN, STP, LACP, VXLAN) a VPN
+skúsenosti so zabezpečením sietí, firewall pravidlami a IDS/IPS systémami
+prax s konfiguráciou a správou routerov a switchov
+skúsenosti s nástrojmi na monitorovanie a analýzu sietí (Wireshark, SNMP, NetFlow)
+základy automatizácie sietí (Python, Ansible alebo Bash)
+orientácia v N-tier architektúre
+Prečo je táto pozícia zaujímavá:
+infraštruktúra tu nie je „len kancelárska sieť“ – je súčasťou energetickej prevádzky
+stretáva sa tu enterprise IT svet s OT prostredím
+budeš mať priestor navrhovať riešenia, nielen udržiavať existujúce
+stabilné prostredie a technológie, ktoré majú reálny dopad na fungovanie tepla v 9 slovenských mestách
+Za odvedenú prácu Ťa odmeníme:
+práca na plný úväzok, skrátený pracovný čas na 37,5 hodín/týždenne s pravidelným príjmom
+možnosť dlhodobej spolupráce
+navyše ti dáme až do 10% zo základu – za riadne plnenie úloh ako aj proaktívny prístup
+tvoju prácu si vážime a ti vám ponúkame dovolenkový bonus 2 000€ a zimný bonus 1 000 €
+prispievame na dôchodok v DDS (III. pilier) až 480€ ročne
+záleží nám na tom, aby si si oddýchol, ponúkame 5 dní dovolenky navyše
+dobra nie je nikdy dosť, preto našim kolegom doprajeme až 2 dní dobrovoľníctva
+ponúkame aj 2 dni sick days, aby sa telo dalo dokopy
+pracovným voľnom v marci pre ženy pri príležitosti Medzinárodného dňa žien
+na chutné jedlo priplácame 6,98 €, pri 20 pracovných dňoch je to +140€
+oslavujeme 1. október Deň energetiky, preto naši zamestnanci dostanú voľno navyše
+odmeníme ťa pri životnom a pracovnom jubileu
+aby si si oddýchol prispejeme ti až 150€ na regeneráciu pracovnej sily
+zabezpečíme školenia a certifikáty, aby si s nami mohol rásť
+spolu sa zabavíme pri Športovom dni, Vianočnom večierku, ale aj na Teambuildingu
+odporúč nám nového kolegu a my ťa odmeníme sumou 500€
+Čo ponúkame
+Zdravotné benefity
+Benefity k dôchodku
+Benefity na pracovisku resp. Benefity pre pracovné tímy
+Benefity pracovného voľna a tzv. Životné benefity
+Platové a finančné benefity
+Technické vybavenie zamestnancov.
+Profesionálny a osobný rozvoj.
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Stručná charakteristika spoločnosti
+Sme spoločnosť zaoberajúca sa výrobou, výkupom, rozvodom a odbytom tepelnej a elektrickej energie.
+Hlavná oblasť pôsobenia spoločnosti
+Dodávka elektriny, plynu, pary a studeného vzduchu
+Kontakt
+Kontaktná osoba: Bibiana Mansell Kleinová
+E-mail:
+poslať životopis
+Túto pozíciu obsadzuje Bibiana Mansell Kleinová
+Poslať spoločnosti životopis
+späť na všetky voľné pozície
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5246817
+Dátum zverejnenia:
+9.3.2026
+2026-03-09
+lokalita:
+Košice
+Pozícia:
+PLC programátor
+,
+Správca informačného systému
+,
+Správca počítačovej siete
+,
+Systémový administrátor
+Spoločnosť:
+MH Teplárenský holding, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 230 EUR/mesiac

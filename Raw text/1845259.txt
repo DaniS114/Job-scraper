@@ -1,0 +1,44 @@
+Pozíció leírása / Job description
+Our client is a prestigious IT services, consulting and business solutions organization that has been partnering with many of the world’s largest businesses in their transformation journeys. We are looking for a
+Senior DevOps Engineer
+to join their IT Services Unit implementing the best in class solutions to enable strong digital foundations for their customers worldwide.
+Ensuring development tasks to support new release of the project/solutions.
+Provisioning of server, client, and web applications, as well as web services on Linux
+Participation in database administration (DB2/Postgresql)
+Configuration and provisioning of Windows clients
+Creating and maintaining Jenkins jobs for build, deployment, and monitoring
+Maintenance and adaptation of existing batch jobs and scripts (Linux, Windows)
+Participation in the migration of server components to the AWS Cloud
+Configuration of AWS Cloud infrastructure (network, certificates, access control)
+Kubernetes cluster administration
+Container/services: build, configuration, operation
+Implementation, enhancement and maintenance of Webservices based on SpringBoot
+Elvárások / Requirements
+7+ years of experience in
+DevOps engineering and architecture
+Experience with Linux, scripting
+Experience with CI/CD with Jenkins jobs
+Experience with AWS, Kubernetes
+Basic knowledge in Windows scripts
+Basic knowledge in Java development
+Basic knowledge with Databases and SQL
+Development of SOAP/Rest Web Services based on SpringBoot
+Amit nyújtunk / Benefits
+Wide range of benefits, including a market-leading
+comprehensive private health care package.
+Extensive
+self-development opportunities
+: their colleagues have many training possibilities for personal and professional growth.
+At Hungary there are both vertical and horizontal
+career options
+for those who like to challenge themselves and try out different areas and positions.
+You will be part of a
+global and diverse working environment
+with relaxation areas, terraces, and a friendly atmosphere.
+You can
+seize the day
+at our company events, hobby clubs, and sporting initiatives
+An
+attractive compensation package.
+Delivering services from Hungary since 2001, makes the company a perfect choice if you’re looking for
+stability.

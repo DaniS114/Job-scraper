@@ -1,0 +1,33 @@
+Pozíció leírása / Job description
+Our client empowers organizations worldwide to strategically acquire and optimize software investments, embrace cloud and AI technologies, and drive innovation through enhanced efficiency. They are a trusted advisor in strategic software acquisition, continual IT estate optimization, and maximizing returns on investments in cloud, data, and AI.
+As a Power Platform Consultant, you will work in diverse and complex client environments, helping customers design and adopt intelligent, AI-powered business solutions using Microsoft Power Platform. Your primary focus will be on creating value through Power Apps, Power Automate, and especially
+Copilot Studio agents
+, enabling organizations to improve efficiency, user experience, and decision-making through conversational AI.
+You will act as a trusted advisor, supporting customers in identifying automation and AI opportunities, and translating business needs into practical, scalable Power Platform solutions.
+Lead pre-sales and discovery workshops to understand business challenges and identify automation and AI opportunities
+Design and implement end-to-end Power Platform solutions with a strong focus on
+Copilot Studio agent creation, configuration, and optimization
+Build and maintain Power Apps and Power Automate flows to support business processes and Copilot scenarios
+Design conversational experiences and integrate Copilot agents with existing systems and data sources
+Collaborate with stakeholders to clearly communicate the business value of Power Platform and Copilot-based solutions
+Continuously improve and streamline business processes using low-code and AI-driven capabilities
+Elvárások / Requirements
+2+ years of hands-on experience with
+Microsoft Power Platform
+, with strong expertise in
+Power Apps, Power Automate, and Copilot Studio
+Proven experience in designing and delivering
+Copilot Studio agents
+and conversational AI solutions
+Consulting and pre-sales experience, including requirements gathering and solution design
+Familiarity with Dataverse and integrations as supporting technologies (not development-centric)
+Basic knowledge of Azure services relevant to Power Platform and Copilot scenarios
+Nice to Have
+PL-200 Power Platform Functional Consultant certification
+Experience with Microsoft Copilot and AI adoption scenarios
+Strong communication skills and the ability to explain AI and automation concepts to non-technical stakeholders
+Amit nyújtunk / Benefits
+Flexible working conditions
+Opportunity for professional development
+Freedom to develop independent processes within your team. Our client believes that employees deliver better results when given autonomy and responsibility.
+Open communication; through a flat organizational hierarchy, they are agile and able to respond as a cohesive team

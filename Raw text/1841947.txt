@@ -1,0 +1,43 @@
+Pozíció leírása / Job description
+Our partner is bringing their impressive global success story to Hungary, building a brand-new Global Business Center in Budapest. They are looking for an
+IT Security Engineer
+to join their Technology function and become a foundational part of this journey.
+They offer a unique environment that prioritizes an inclusive culture and service excellence from day one. In this role, you will be the guardian of the company’s digital assets within a collaborative, supportive, and social international team. It is a rare chance to join a community that values teamwork, celebrates success, and genuinely enjoys working together to build a fresh operation.
+Security Operations & Incident Response
+Monitor security alerts and logs (SIEM) to identify and investigate suspicious activities.
+Manage the incident response lifecycle, from detection to containment and remediation.
+Oversee the day-to-day operation of security tools, including endpoint protection (EDR), firewalls, and email security gateways.
+Vulnerability Management & Infrastructure Protection
+Conduct regular vulnerability scans and coordinate patching processes for operating systems and applications.
+Maintain the security posture of our Azure cloud environment, ensuring configurations align with best practices.
+Support network security initiatives, including VPN and firewall rule management.
+Compliance & Assurance
+Assist in the technical completion of client security due diligence questionnaires (DDQ).
+Support internal and external audits by providing evidence and technical documentation related to ISO 27001 controls.
+Elvárások / Requirements
+You have at least 2+ years of relevant experience in an IT Security or Network Security role.
+You hold a recognized industry certification (e.g., CompTIA Security+, CEH, Microsoft Azure Security Engineer).
+Solid knowledge of Azure cloud security, network protocols (TCP/IP), and endpoint protection technologies.
+Experience with vulnerability management tools and SIEM solutions.
+Business language fluency in English.
+Amit nyújtunk / Benefits
+Why Join Us in Budapest?
+Financial Rewards & Security
+Performance-Based Bonus
+Cafeteria
+Pension Contribution
+Life Insurance
+Flexibility & Modern Workstyle
+Hybrid Model: Enjoy the best of both worlds with a flexible schedule (usually 2-3 days in the office).
+Home Office Support
+Work from Abroad: Work from another country for up to 20 days per year to better sync your travel plans with your career.
+Health & Wellbeing
+Private Health Insurance
+Mental Health Support
+Inclusive Care: Dedicated support for special needs, including workplace accessibility and specific health considerations.
+Family-Friendly Culture
+Enhanced Parental Leave: They top up state benefits to ensure 100% of your base salary for 20 weeks of maternity leave and 2 weeks of paternity leave.
+Fertility Treatment Support
+Growth & Connection
+Access to extensive internal and external training programs to fuel your growth.
+Enjoy a generous budget for team-building events and social activities.

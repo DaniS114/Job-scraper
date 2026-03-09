@@ -1,0 +1,10 @@
+Verantwortung für den stabilen und sicheren Betrieb der globalen IT-Infrastruktur mit Fokus auf:
+Microsoft 365 (Exchange Online, Teams, SharePoint, Intune, Azure AD), VMware vSphere/ESXi (Installation, Betrieb, Wartung, Optimierung), NetApp-Storage-Systeme (ONTAP, SnapMirror, Backup-Konzepte)Weiterentwicklung und Administration hybrider Infrastrukturumgebungen (On-Premises & Cloud)Planung und Durchführung internationaler Infrastrukturprojekte (z. B. Migrationen, Upgrades, Automatisierung)Analyse und Behebung komplexer Störungen im 2nd- und 3rd-Level-SupportPerformance- und Kapazitätsmanagement im Storage- und VirtualisierungsumfeldAutomatisierung und Scripting von Verwaltungsaufgaben (z. B. via PowerShell)Mitwirkung bei der IT-Sicherheits- und Backup-Strategie sowie bei der NotfallplanungErstellung und Pflege technischer Dokumentationen
+
+Abgeschlossenes Studium im IT-Bereich oder eine vergleichbare Ausbildung mit mehrjähriger Berufserfahrung
+Tiefgehende Kenntnisse in: Microsoft 365 / Azure AD / Intune, VMware vSphere / ESXi / vCenter, NetApp-Storage (Clustered ONTAP, CIFS/NFS, SnapMirror/SnapVault)
+Fundierte Erfahrung mit Windows Server, Active Directory, DNS/DHCP, Netzwerken und IT-Sicherheit
+Sehr gute Kenntnisse in PowerShell (idealerweise auch Erfahrung mit Automatisierungstools)
+Strukturierte, selbstständige und lösungsorientierte Arbeitsweise
+Ausgeprägte Team- und Kommunikationsfähigkeit
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift

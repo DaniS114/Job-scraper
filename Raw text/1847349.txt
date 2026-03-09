@@ -1,0 +1,30 @@
+As an Intermediate .NET Developer, you will play a key role in developing and enhancing business‑critical integration solutions using modern .NET technologies and Azure cloud services. Your daily work will contribute directly to new releases, system reliability, and smooth operations.
+Your responsibilities will include:
+Completing development tasks to support new releases of ongoing projects and solutions
+Supporting production requests and identifying, diagnosing, and fixing issues
+Writing unit tests and tracking daily progress in line with team standards
+What You Need to SucceedYour skills & qualifications:
+3–5 years of experience with .NET 6+ / C#, primarily in API development
+Familiarity with Clean Architecture and the Mediator pattern (MediatR or equivalent)
+Hands‑on experience with Azure App Services and Azure Functions
+Strong understanding of REST API development (OpenAPI/Swagger, validation, error handling, versioning)
+Proficiency in data transformation and mapping (JSON, XML)
+Knowledge of Azure API Management (policies, subscriptions, security)
+Experience integrating with Microsoft Dynamics 365 Business Central APIs (OData/REST)
+Confident working with Git repositories (Bitbucket or GitHub)
+Nice to have:
+Familiarity with Azure Event Grid or Service Bus for event‑driven architectures
+Understanding of batch integrations (CSV, Excel, flat files)
+Awareness of CI/CD pipelines in Azure DevOps
+Basic knowledge of Terraform
+What You Can Expect from Our Partner
+A stable and reputable international company operating in Hungary since 2001
+Market‑leading private healthcare package and a competitive salary
+Wide range of self‑development and training opportunities for continuous growth
+Clear vertical and horizontal career paths for exploring new roles and skill sets
+A global, diverse, and supportive workplace with relaxation areas, terraces, and friendly atmosphere
+Engaging company events, hobby clubs, and sports activities
+An attractive overall compensation package
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion about your career.

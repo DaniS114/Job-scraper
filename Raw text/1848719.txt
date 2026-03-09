@@ -1,0 +1,29 @@
+Feladatok
+Egyedi ERP rendszerek új funkcióinak agilis fejlesztése, változatos témakörökben (például HR, mezőgazdaság, építőipar).
+Ügyféligények megvalósításában való részvétel a tervezéstől az átadásig.
+Külső rendszerek API-jának implementálása.
+Új keretrendszer-komponensek fejlesztése natív technológiákkal
+Együttműködés a csapat tagjaival, online megbeszéléseken való részvétel.
+Munkád dokumentálása és adminisztrálása.
+Elvárások
+PHP és JavaScript magabiztos ismerete.
+HTML4 és CSS3 középszintű ismerete.
+PostgreSQL vagy egyéb SQL szerverek középszintű ismerete.
+Linux rendszerek ismerete.
+CRM, ERP rendszerek fejlesztésében szerzett tapasztalat.
+Erős OOP szemlélet és alapvető tervezési minták ismerete.
+Git verziókezelő ismerete.
+Előnyök
+PostgreSQL magabiztos ismerete.
+Solr, Memcached, Redis, PostGIS tapasztalatok.
+Regex tapasztalat.
+Szakmai szövegek megértése angol nyelven
+Ajánlat
+Kiszámítható feladatok és elvárások.
+Hosszú távú, biztos munkahely.
+Stabil csapat.
+Barátságos, támogató légkör – értéket teremtünk együtt, közösen, csapatként, és hosszútávon számítunk egymásra.
+Változatos feladatok, kihívások – projektjeink több szektorban, sokféle ügyfélnél indulnak, így változatos szakmai feladatokban vehetsz részt.
+Próbaidő után rugalmas munkaidő, heti 1 irodai nap.
+A munkavégzés irodai helyszíne: Tata
+A Viapan Dologidő Kft. Munkaerő-kölcsönző nyilvántartásba vételi határozat száma: 4558-2/2002. Minősített kölcsönbeadó nyilvántartási száma: BP/0701/029062-6/2023-26. Magán-munkaközvetítő nyilvántartásba vételi határozat száma: 1843-2/2001.

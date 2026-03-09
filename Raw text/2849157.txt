@@ -1,0 +1,93 @@
+Cég neve
+Molekuláris- Ujjlenyomat Kutató Központ Nonprofit Kft.
+Munkavégzés helye
+1093 Budapest, Czuczor utca 2-10.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol felsőfok
+5-10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+felsőfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Longitudinal data quality control (QC) and bridge-sample strategy
+Design and implement a QC-sample-data strategy to support longitudinal comparability
+Define acceptance criteria and evaluate instrument performance, signal drift, and technical variation across batches and years
+Track QC metrics (e.g., PCA/control charts, run-order effects, feature variability, missingness) and issue fit-for-analysis QC certificates for each dataset cut.
+Investigate QC failures and coordinate corrective actions (reruns, recalibration, method updates) with platform teams.
+Pre-processing, harmonization and batch correction
+Develop and oversee modality‑specific preprocessing pipelines (spectral preprocessing for FTIR/FRS; raw-to-feature workflows for MS proteomics and metabolomics).
+Implement QC-based drift and batch‑effect correction for both legacy and new data, with regular re‑estimation as methods evolve
+Standardize data schemas and feature identifiers to enable integrated longitudinal analysis.
+Maintain reproducible, version-controlled workflows (Git) with auditable SOPs, parameter registries and changelogs.
+Collaboration, Knowledge Transfer & Process Improvement
+Collaborate with different divisions such as Laser, Biofacility, and Data Science teams to ensure QC‑certified data are formatted for downstream analysis and AI/ML models
+Mentor mid‑ and junior‑level team members on FTIR, FRS, and omics preprocessing, QC design, and batch correction methods
+Lead evaluation of new analytical platforms (e.g., FRS) and standardize analysis templates to promote reproducibility
+Contribute to scientific publications and internal reports documenting QC design and performance metrics
+Requirements
+MSc or PhD in bioinformatics, computational biology, biostatistics, data science, analytical chemistry, or related field
+≥5 years of hands‑on experience in analyzing high‑dimensional omics data (MS‑based proteomics, metabolomics, lipidomics, and/or NMR) and/or spectroscopic datasets, including data processing, feature extraction, normalization, batch correction, and quality assurance in a biomedical research setting
+Demonstrated expertise with large‑scale longitudinal cohort datasets and experience implementing data quality frameworks for multi‑year studies subject to instrumental drift and method evolution
+Proficiency in R and/or Python for data preprocessing and pipeline development
+Solid understanding of batch‑effect and drift modeling, dimensionality reduction, feature validation and imputation methods for high‑dimensional data
+Excellent English language skills (written and spoken) for international collaboration and scientific reporting
+What we offer
+A versatile range of work packages, including:
+Higher-than-usual cafeteria allowance
+,
+Private health insurance
+,
+30 guaranteed annual vacation days
+,
+Professional
+training
+opportunities.
+Home office
+option, 1 day per week.
+Team activities and team-building events.
+A dynamic work environment with the opportunity to engage in a rapidly evolving and innovative field.
+Long-term opportunities alongside highly qualified and motivated professionals.
+An
+international work environment
+with professional development opportunities.
+A solution-oriented atmosphere with the chance to contribute to the success of a dynamic and growing organization.
+Workplace extras
+Shower
+Corporate events
+Bicycle storage
+Company info
+The Center for Molecular Fingerprinting
+(CMF,  www.cmf.hu ), led by the 2023 Nobel Laureate in Physics Prof. Dr. Ferenc Krausz, is an interdisciplinary, nonprofit research institution. We are an international team of laser scientists, molecular biologists, medical doctors, engineers, and data analysts who came together driven by a common goal: moving the frontiers of health monitoring and probing human health. Our mission is driven by the vision of a reliable, cost-effective approach to safeguard the health of whole populations and develop new ways for the earliest possible detection of diseases such as cancer, cardiovascular disease, and diabetes.
+As part of our groundbreaking H4H (Health for Hungary - Hungary for Health) Program, we are collecting biofluid samples from thousands of volunteers over 10 years and seeking for a
+Senior Data Quality (and quality control (QC)) Analyst
+to lead the quality control and longitudinal harmonization effort across multi-modal data such as proteomics, metabolomics, lipidomics, FTIR (fourier transform infrared spectroscopy, and our own state-of-art electric field-resolved spectroscopy (FRS). The post holder designs QC strategies, develops and oversees batch‑correction workflows, evaluates instrumental performances, and ensures the comparability of longitudinal data.
+How to apply
+We look forward to receiving your application, and kindly ask you to attach your professional resume in English.
+If we find your application relevant, our HR department will contact you.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,30 @@
+Pozíció leírása / Job description
+Our partner, Hungary's largest agricultural machinery manufacturing company, is looking for a new colleague for the
+CoreMedia Developer
+position.
+Develop and customize templates, components and modules with CoreMedia Content Management System
+Extend the CoreMedia functionality by integrating it within the system environment, e. g. Product Information Management system, Translation Management System, etc.
+Use HTML, CSS, Java Script and frameworks like Angular to build dynamic, personalized frontends
+Design solutions based on business needs
+Manage build and deployment processes
+Debug and optimize the CoreMedia applications for performance and scalability
+Monitor logs and resolve issues in development instances as well as in production
+Collaborate with IT solution owner and Product owner and other developers
+Participate in agile meetings like sprint planning, sprint review, etc.
+Exchange with CoreMedia Software supplier and the CoreMedia User group to derive innovations for our solutions environment.
+Elvárások / Requirements
+A degree in Computer Science, Information Technology, or a comparable qualification.
+Strong knowledge of CoreMedia or a comparable CMS, CI/CD pipelines, and common DevOps tools (e.g., Docker, Kubernetes, Azure DevOps
+Experience in automating deployment processes and infrastructure management.
+Experience with Java, JavaScript, HTML, CSS, Spring Boot, REST, Docker, Grafana, NoSQL Databases (e.g. MongoDB).
+Familiarity with Agile development and tools.
+Team player with excellent communication skills and a solution-oriented mindset.
+Ability to communicate effectively in English, both verbally and in writing
+Amit nyújtunk / Benefits
+Fast growing company with strong and stable international background
+Interesting company scope with improvement opportunities
+Market level compensation package
+Inspiring work atmosphere
+Great team work and familiar company culture
+Opportunity for joining a new Hungarain team with great ambitions
+Hybrid working model (around 10% onsite)

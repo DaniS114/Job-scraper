@@ -1,0 +1,23 @@
+A Siemens Mobility Kft. K+F központjában, a XI. kerületi Infoparkban olyan projekteken dolgozunk, melyek biztosítják a zavartalan, fenntartható, megbízható és biztonságos közlekedést.
+•Vasúti járművek vezérlőrendszerének tesztelése
+•Tesztautomatizálási forgatókönyvek írása Behave keretrendszerrel (BDD)
+•Verziókezelés SVN segítségével
+•CI/CD folyamatok támogatása Jenkins környezetben
+•Hibák dokumentálása, riportálása, együttműködés fejlesztőkkel és tesztelőkkel
+•Python nyelv magabiztos ismerete
+•Tesztelési szemlélet, BDD alapok ismerete előny
+•Linux ismeret
+•Csapatmunkára való nyitottság, precizitás
+•Legalább középszintű angol nyelvtudás (írásban és szóban)
+•Aktív hallgatói jogviszony (informatikai vagy műszaki területen)
+Előnyt jelent:
+•Tapasztalat Behave, SVN, Jenkins használatában
+•Automatizált tesztelési tapasztalat (pl. Selenium, pytest)
+•Magabiztos német nyelvtudás (szóban és írásban)
+Amit kínálunk:
+•Valós projektekben való részvétel nemzetközi környezetben
+•Szakmai fejlődési lehetőség
+•Rugalmas munkaidő, otthoni munkavégzés lehetősége
+Bérezés:
+2900 Ft/óra
+Munkalehetőség 17 év feletti nappali tagozatos jogviszonnyal rendelkező diákok részére!

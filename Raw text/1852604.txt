@@ -1,0 +1,36 @@
+Pozíció leírása / Job description
+Our partner is bringing their impressive global success story to Hungary, building a brand-new Global Business Center in Budapest. They are looking for an Application Support Engineer to maintain and enhance core enterprise platforms, with a primary focus on the HR (Workday) ecosystem. They offer a unique environment that prioritizes an inclusive culture and service excellence from day one. In this role, you will help ensure smooth day-to-day operations and resolve issues efficiently within a collaborative, supportive, and social international team. It is a rare chance to join a community that values teamwork, celebrates success, and genuinely enjoys working together to build a fresh operation.
+Platform Support: Provide Level 1, 2, and 3 support for Workday and other SaaS applications, troubleshooting configuration and integration issues.
+Incident Resolution: Manage incidents, service requests, and system alerts within SLAs, performing root-cause analysis on recurring issues.
+User Management: Support user onboarding, maintain access and permission structures, and perform regular audits of security settings.
+Upgrades & Maintenance: Assist with Workday patching, application upgrades, and coordinate UAT cycles with business teams.
+Data & Compliance: Support data quality initiatives, assist with integration monitoring, and ensure application changes follow IT governance and compliance frameworks.
+Elvárások / Requirements
+You hold a Salesforce Platform Developer I or II certification.
+Proven experience as a Salesforce Developer with strong knowledge of Salesforce CRM, Apex, Lightning, Visualforce, and integrations.
+Experience with other programming languages (e.g., Java, Python, JavaScript, .NET) and application development frameworks.
+Solid understanding of the software development lifecycle, version control systems, and agile methodologies.
+Strong problem-solving skills, business analysis capabilities (requirements gathering), and the ability to work cross-functionally.
+Excellent communication skills to interact with technical and non-technical stakeholders.
+Good to have: Advanced Salesforce certifications or a Bachelor’s degree in IT/Computer Science.
+Amit nyújtunk / Benefits
+Why Join Us in Budapest?
+Financial Rewards & Security
+Performance-Based Bonus
+Cafeteria
+Pension Contribution
+Life Insurance
+Flexibility & Modern Workstyle
+Hybrid Model: Enjoy the best of both worlds with a flexible schedule (usually 2-3 days in the office).
+Home Office Support
+Work from Abroad: Work from another country for up to 20 days per year to better sync your travel plans with your career.
+Health & Wellbeing
+Private Health Insurance
+Mental Health Support
+Inclusive Care: Dedicated support for special needs, including workplace accessibility and specific health considerations.
+Family-Friendly Culture
+Enhanced Parental Leave: They top up state benefits to ensure 100% of your base salary for 20 weeks of maternity leave and 2 weeks of paternity leave.
+Fertility Treatment Support
+Growth & Connection
+Access to extensive internal and external training programs to fuel your growth.
+Enjoy a generous budget for team-building events and social activities.

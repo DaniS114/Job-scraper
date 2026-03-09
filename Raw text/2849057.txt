@@ -1,0 +1,57 @@
+Cég neve
+Swisslinx
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C++
+LINUX
+AGILE
+HARDWARE
+TESTING
+DOCKER
+DEBUGGING
+SCRUM
+Biztosított eszközök
+Linux
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C++
+LINUX
+AGILE
+HARDWARE
+TESTING
+DOCKER
+DEBUGGING
+SCRUM
+Linux
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Senior Software Engineer C++Senior Software Engineer C++ - Real-Time Systems? Rotkreuz, Switzerland | Hybrid (50% remote) | 12 month contract, extension highly…Senior Software Engineer C++Job description:Senior Software Engineer C++ - Real-Time Systems? Rotkreuz, Switzerland | Hybrid (50% remote) | 12 month contract, extension highly likelyWe are currently supporting a global healthcare and diagnostics company in their search for an experienced Senior Software Engineer C++ to join a highly specialized development team working on advanced diagnostic instruments.This role focuses on the development of real-time instrument control software used in high-throughput laboratory systems. The position offers the opportunity to work on complex systems that combine modern C++, Linux-based development environments, and hardware interaction within an agile engineering environment.Your Responsibilities* Participate proactively in all phases of the software development lifecycle including feasibility analysis, design, development, testing, debugging, and maintenance* Collaborate closely within cross-functional Scrum teams* Define software architecture, design, and technical specifications based on system requirements and models* Implement high-quality C++ software components for real-time systems* Interact with internal framework teams and contribute to system-level integration* Contribute to sprint planning, estimation, and agile development activities* Ensure adherence to software development processes and documentation standardsYour Profile* Bachelor's degree or higher in Software Engineering, Computer Science, Electrical Engineering, or a related field* 5+ years of professional experience as a Software Engineer* Strong hands-on experience with modern C++ (C++11 or newer)* Solid development experience using Linux environments* Experience working with Docker in Linux environments* Knowledge of CAN bus communication* Experience working in agile development environments (Scrum)* Strong communication skills and ability to work effectively in team environments* Fluent English communication skillsNice to Have* Experience with event-driven architectures* Experience with RabbitMQ* Basic scripting knowledge* Experience with SAFe frameworks* German language skillsIf you are interested in this opportunity or would like to learn more, please apply with your CV in English along with your degree certificate. jid1af49fdpn jit0311pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Switzerland
+Álláshirdetés jelentése

@@ -1,0 +1,41 @@
+A Magyar Posta Zrt. szervezetében működő IT Infrastruktúra Igazgatóság felel az IT rendszerekkel támogatott üzleti folyamatok stabil működéséért. A magas szintű szolgáltatás érdekében az üzleti folyamatok informatikai támogatását folyamatosan növeli, korszerű technológiák alkalmazásával biztosítja a minőségi, stabil informatikai szolgáltatásainak fenntartását. Sikeres tevékenységében kiemelt szerepe van a felkészült és elkötelezett munkatársak, szakértők teljesítményének. A Magyar Posta Zrt. IT Infrastruktúra Igazgatósága Senior rendszermérnököt (Adatbázis adminisztrátort) keres. Ha szeretnél az ország egyik legnagyobb informatikai szervezetében egy jó csapatban, változatos munkát végezni, ha nyitott vagy a tanulásra, és határozott a tudásod érvényesítésében és átadásában, valamint részt venni a Magyar Posta IT infrastruktúrájának üzemeltetésében, karbantartásában, fejlesztésében, akkor várunk csapatunkba!
+Főbb feladatok
+PostgreSQL adatbázisok telepítése, konfigurálása, frissítése,
+Adatbázis kiegészítők telepítése, kezelése,
+Komplex PostgreSQL HA környezetek telepítése, üzemeltetése,
+Adatbázisok közti adatkapcsolatok megvalósítása,
+Adatbázisok biztonsági megfelelősségének folyamatos felülvizsgálata,
+Végrehajtási tervek elemzése, adatbázis hangolás, SQL lekérdezések optimalizálása,
+Fejlesztési szakterülettel való kapcsolattartás,
+Alkalmazás fejlesztők és üzemeltetők folyamatos támogatása
+Munkakör betöltésének feltételei
+Szakirányú informatikai végzettség,
+Legalább 2-5 éves szakmai tapasztalat,
+Legalább alap szintű angol nyelvtudás (szakmai anyagok olvasása, értelmezése),
+SQL nyelvben gyakorlati ismeretek (elsősorban PLSQL, illetve pgSQL),
+Linux alapismeretek,
+Jó szervezőkészség, kapcsolatteremtő készség
+Felelősségteljes, önálló munkavégzésre való hajlandóság,
+Kreatív, megoldáskereső személyiség,
+Önállóan és csapatmunkában való munkavégzés.
+Amit kínálunk
+Megbízható, stabil cégkörnyezet,
+Versenyképes juttatási csomag,
+Szakmai kihívást jelentő, érdekes és változatos feladatok,
+Hosszú távú, stabil munkalehetőség
+Igényes munkakörnyezet, összetartó profi csapat,
+Próbaidőt követően home office lehetőség
+Munkakör betöltése során előnyt jelent
+bash scriptelési ismeret,
+Python programozási tudás,
+EnterpriseDB ismeretet,
+Ansible-el való folyamat automatizálás ismerete,
+pgbadger logelemző ismerete,
+esetlegesen MariaDB és Oracle adatbázisokban szerzett üzemeltetési tapasztalat.
+Egyéb
+A munkavégzés helye: 1138 Budapest, Dunavirág u. 2-6.
+A munkakör betölthető: azonnal
+Jelentkezését részletes szakmai önéletrajz megküldésével, valamint a fizetési igény megjelölésével az alábbi e-mail címen várjuk:
+[Kattintson az e-mail cím megjelenítéséhez]
+karrier@posta.hu
+A jelentkező a jelentkezéssel önkéntesen hozzájárul, hogy a Magyar Posta Zrt. (Székhely: 1138 Budapest, Dunavirág utca 2-6., Cg:01-10-042463, adatvédelmi tisztviselő: adatvedelem@posta.hu) a jelentkezésben megadott adatait a meghirdetett vagy az álláspályázat időszakában felmerülő másik betölthető pozícióra alkalmas jelölt kiválasztása céljából a kiválasztási eljárás végéig kezelje. A jelentkező az adatai törlését, a hozzájárulásának visszavonását a 1540 Budapest postacímen, vagy a toborzas@posta.hu e-mail-címen kérheti. Hozzájárulásának visszavonása azonban nem érinti a visszavonás előtt folytatott adatkezelés jogszerűségét. Az adatkezelésről a további tájékoztatás elérhető a www.posta.hu Adatkezelési tájékoztató menüpontjában.

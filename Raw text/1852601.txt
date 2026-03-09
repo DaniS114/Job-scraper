@@ -1,0 +1,25 @@
+Pozíció leírása / Job description
+Our client empowers organizations worldwide to strategically acquire and optimize software investments, embrace cloud and AI technologies, and drive innovation through enhanced efficiency. They are a trusted advisor in strategic software acquisition, continual IT estate optimization, and maximizing returns on investments in cloud, data, and AI.
+Cloud Platform Engineers work with our clients to develop a robust and scalable infrastructure with automation and CI/CD practices. Engineers report to the Head of Platform Engineering, they work in close collaboration with our customers DevOps and IT Security Teams. The delivery method is agile, most of the time in remote working (customer visits might be required occasionally).
+AWS Landing Zone setup following vendor best practices and customer requirements
+Gather requirements and provide continuous feedback loops between IT security and the DevOps teams
+Design and implement Infrastructure as a Code deployment pipelines
+Automate everything
+Document your work and keep the documentation up to date
+Elvárások / Requirements
+Experience (5+ years) working in a large complex multinational environment (Financial Services preferred)
+Understanding of Identity and Access Management principles and tools
+In depth experience with AWS and especially AWS Networking
+Experience with networks (OSI layers, TCP/IP, Routing, VPN)
+Experience with Firewalls and IT security best practices
+Experience with CI/CD tooling like (GitHub, Azure DevOps or Jenkins)
+Experience with scripting languages (Bash, Powershell)
+Experience with programming languages like Python is nice to have
+Experience with Infrastructure as a Code, especially Terraform
+Experience with Docker/Kubernetes
+Experience with Linux (RHEL) and Windows based environments
+Amit nyújtunk / Benefits
+Flexible working conditions
+Opportunity for professional development
+Freedom to develop independent processes within your team. Our client believes that employees deliver better results when given autonomy and responsibility.
+Open communication; through a flat organizational hierarchy, they are agile and able to respond as a cohesive team

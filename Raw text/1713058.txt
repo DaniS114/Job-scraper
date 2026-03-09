@@ -1,0 +1,7 @@
+Du gestaltest aktiv internationale Rollouts, Releasewechsel und Systemupdates für das MS Dynamics 365 CRM-System (Dataverse Customizing, Plugins, JavaScript).Dabei entwickelst und dokumentierst du durchdachte Lösungskonzepte und technische Designs.Du betreust bestehende Schnittstellen, entwickelst sie weiter und setzt neue Integrationen um.Die von dir erstellten Lösungen testest du gründlich und unterstützt deren Betrieb im laufenden Tagesgeschäft.
+
+Du bringst eine fundierte IT-Ausbildung (HTL, FH oder Universität) sowie mindestens zwei Jahre Berufserfahrung mit.
+Du verfügst über umfassende Kenntnisse in MS Dynamics 365 CRM (insbesondere in den Modulen Sales, Customer Service und Customer Insights) sowie in der Microsoft Power Platform (Power Apps, Power Automate, Power Pages) und in der Softwareentwicklung mit .NET C#, SQL und JavaScript.
+Idealerweise hast du auch Erfahrung mit MS Power BI, Azure DevOps und React.
+Deine Arbeitsweise ist selbstständig, strukturiert und serviceorientiert.
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift runden dein Profil ab.

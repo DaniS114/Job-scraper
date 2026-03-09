@@ -1,0 +1,75 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+LINUX
+C
+PYTHON
+HARDWARE
+SOFTWARE TESTING
+DEBUGGING
+CI
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+LINUX
+C
+PYTHON
+HARDWARE
+SOFTWARE
+TESTING
+DEBUGGING
+CI
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Lead and mentor a distributed team of test engineers
+Design and optimise CI/CD pipelines using GitLab and related tools
+Automate testing and validation for Linux-based embedded platforms
+Collaborate with development teams to diagnose issues and improve software quality
+Requirements
+Experience leading software testing or QA for embedded systems
+Proficient in C programming and common scripting languages such as Python
+Experience with system validation, debugging, and automation frameworks
+Analytical attitude with focus on continuous improvement and quality metrics
+Nice-to-have
+Hands-on experience with embedded Linux internals, boot flow, and system bring-up, Familiarity with integrating hardware or simulators into CI pipelines, Knowledge of embedded build systems such as Yocto, Buildroot, or CMake, Interest or involvement in open-source development
+What we offer
+Opportunity to grow, develop new skills, and build a successful career at a leading technology company
+Hybrid working environment supporting high performance and personal wellbeing
+Equal opportunity employer committed to diversity and inclusion
+Benefits including health and wellness, work and life success, financial rewards, development and support
+Company info
+Working in software engineering at Arm is about shaping a future of technology for which we don't yet have words. Our engineers lead innovation in physical IP, AI and machine learning, cloud architecture, automotive tech, and every aspect of computing that matters.
+Spanning software's full spectrum, from compilers to AI-powered IoT and beyond, your code can enable virtually anything to be produced on silicon. Whether you're developing award-winning VR gaming or life-enhancing medical equipment, you can improve the lives of millions by being your brilliant self at Arm.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

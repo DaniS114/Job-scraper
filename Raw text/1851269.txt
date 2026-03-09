@@ -1,0 +1,38 @@
+Pozíció leírása / Job description
+Ügyfelünk a bér- és munkaügy, valamint a humánerőforrás-gazdálkodás szakértője. Több, mint 30 éves szakmai tapasztalattal, több mint 300 munkatárssal, országos hálózattal rendelkezik, több mint 4000 vállalatot, és több mint egymillió hazai munkavállalót nevezhet meg referenciaként.
+Feladatok és felelősségek
+Rendszerszintű validáció:
+Több modult átívelő, összetett fejlesztések teljes körű ellenőrzése.
+Integrációs tesztelés:
+Külső rendszerek, interfészek és adatkapcsolatok zavartalan működésének vizsgálata.
+Biztonsági fókusz:
+IT security szempontok integrálása a teszttervezési folyamatba.
+Adat- és folyamatkontroll:
+Adatkonzisztencia-ellenőrzés, jogosultsági szintek tesztelése és teljes körű (E2E) folyamatvalidáció.
+Technikai hibaanalízis:
+Interface-szintű problémák feltárása és az architekturális összefüggések mélyreható elemzése.
+Üzleti logika:
+Komplex szabályrendszerek tesztelése és következetes E2E szemlélet alkalmazása.
+Önálló tartalomgyártás:
+Tesztforgatókönyvek és tesztesetek precíz kidolgozása a nulláról.
+Root Cause Analysis:
+Hibák részletes elemzése, reprodukálása és szakmai visszacsatolás a fejlesztői csapat felé.
+Minőségbiztosítási tanácsadás:
+Aktív részvétel a specifikációk véleményezésében és a követelmények pontosításában.
+Ideális jelölt vagy, ha:
+Rendszerszemlélet jellemzi a munkádat:
+Átlátod az apró részletek mögötti nagy egészet.
+Híd vagy az üzlet és a tech között:
+Érted az üzleti igényeket, és képes vagy azokat technikai környezetbe átültetni.
+Szakmai partner vagy:
+Hatékonyan és magabiztosan kommunikálsz a fejlesztőkkel közös nyelven.
+Elvárások / Requirements
+Manuális tesztelésben szerzett 2-3 éves szakmai tapasztalat
+Magabiztos SQL tudással, Postman ismeretekkel rendelkezel
+Jártas vagy adatbázis-struktúrák, interface-ek és integrációs folyamatok értelmezésében
+Amit nyújtunk / Benefits
+Home office lehetőség
+Szakmai fejlődési lehetőség
+Összetartó csapat
+Versenyképes, többelemű juttatási csomag
+Átfogó betanulási program

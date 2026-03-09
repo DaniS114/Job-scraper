@@ -1,0 +1,29 @@
+Partnerünk, egy informatikai szolgáltatásokat nyújtó innovatív vállalat, motivált és elkötelezett csapatába keresünk Medior Tesztautomatizáló Mérnök munkatársakat, nemzetközi, Fortune 500-as vállalatokkal közös projektjeire.
+Feladatok
+• Back-end microservice-ek, webes portálok, mobilalkalmazások, VR-megoldások, adatanalitika és gépi tanulás területéhez köthető szoftverfejlesztési projektjeink minőségének biztosítása,
+• automatizált tesztelési szkriptek létrehozása különböző tesztelési keretrendszerek és eszközök használatával (Selenium, Appium, TestNG, JUnit stb.),
+• automatizált tesztsorozatok rendszeres végrehajtása,
+• integrációs és szállítási (CI/CD) folyamat biztosítása,
+• hibák elemzése és jelentése a fejlesztőcsapatnak,
+• szoros együttműködés a QA és fejlesztői csapatokkal a projektkövetelmények megértése és az automatizálási tesztelési stratégia meghatározása érdekében.
+Elvárások
+• Legalább 2 év tesztautomatizálásban szerzett tapasztalat,
+• gyakorlati tapasztalat end-to-end UI és/vagy API tesztek fejlesztésében,
+• bug-tracking és test management rendszerek használatában való jártasság,
+• egy vagy több programozási nyelv alapos ismerete (pl.: Java, Python, JS vagy C#),
+• tesztelési keretrendszerek ismerete (Selenium WebDriver, vagy Appium),
+• agilis szoftverfejlesztési módszertanok ismerete,
+• integrációs és szállítási (CI/CD) folyamatok ismerete,
+• verziókezelő rendszerek (Git/SVN) használatában való jártasság,
+• magabiztos, aktív, legalább középfokú angol nyelvtudás,
+• rendszerszemlélet, analitikus gondolkodásmód, kreativitás.
+Előnyök
+• Teljesítmény tesztelői készségek,
+• Docker használatában szerzett tapasztalat,
+• professzionális, komplex automatizálási keretrendszer teljes felépítésében szerzett tapasztalat.
+Ajánlat
+• Irodai munkavégzés, (H-P 09:00-18:00)
+• Medicover magán egészségbiztosítás,
+• AYCM SportPass által nyújtott kedvezményes sportolási lehetőségek,
+• diverz munkakörnyezet, nemzetközi projektek,
+• ingyenes képzések, szakmai fejlődés támogatása.

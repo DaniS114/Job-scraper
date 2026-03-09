@@ -1,0 +1,51 @@
+A MÁV Szolgáltató Központ Zrt. IT üzletága Vállalatirányítási rendszerek üzemeltetés és fejlesztés csapatába SAP modulgazda munkatársakat keresünk humán, logisztikai  és gazdasági modulok működtetésére.
+- humán komponensek: SAP ECC HR moduljai (PY, PT, OM, PA), SuccessFactors
+- logisztika komponensek: SAP ECC logisztikai moduljai (MM, SD)
+- gazdasági komponensek: SAP ECC gazdasági modulok (FI, AM, CO, TRCM), SAP BW adattárház
+Szívesen megismernéd feladatainkat? Várjuk jelentkezésedet!
+Új munkatársunk feladatai lesznek
+- a szolgáltatási szerződésben előírtaknak megfelelő módon biztosítja az SAP megfelelő moduljai és a kapcsolódó SAP komponensek, illetve előtét rendszerek működését (beleértve a hibabejelentések kezelését is)
+- biztosítja, felügyeli és koordinálja az SAP oldali interface-ek működtetését, szükség esetén részt vesz azok javításában
+- működteti az érintett modulok rendszer- és programkövetési dokumentációs rendjét, közreműködik az SAP alkalmazások archiválási rendszerének kialakításában
+- irányítja és szervezi az adott modult érintő tesztelési feladatokat
+- összegyűjti, az érintett adatgazdákkal és folyamatgazdákkal történő egyeztetés alapján konszolidálja az adott modult érintő rendszerváltoztatási fejlesztési igényeket
+- figyelemmel kíséri az illetékességi körébe tartozó alkalmazások standard változásait, javaslatot tesz az új funkciók, lehetőségek adaptálására az érintett felhasználói szakterületek számára
+- a hibabejelentések elemzése alapján, javaslatot tesz az érintett felhasználói szakterületek számára az üzleti folyamatok módosítására, funkciómódosításra, az új funkció kialakítására
+- kezeli az adott modult érintő jogosultsági igényeket
+- készenlét keretében felügyeli az adatbázis folyamatos elérhetőség, működését
+Amire a munkakör betöltéséhez szükség van
+- felsőfokú állami iskolai végzettség (műszaki vagy gazdálkodási vagy informatika szakirányú)
+- legalább 3 éves szakmai tapasztalat,
+- modulnak megfelelő SAP ismeret
+Tulajdonságok, melyek számunkra fontosak
+- jó kommunikációs képesség
+- önálló problémamegoldás
+- rugalmasság
+- adaptivitás
+- csapatmunka és együttműködés
+- minőség-orientáció
+- szolgáltatói szemlélet
+Előnyként értékeljük
+- üzemeltetési és fejlesztési tapasztalat (főként a Magyar Közút által használt SAP rendszerek vonatkozásában)
+- további SAP modulok ismerete pl.: műszaki (PM, RE-FX)
+Amit ajánlunk
+- hosszú távú foglalkoztatási biztonság
+- támogató munkahelyi légkör
+- bruttó munkabér 4%-ának megfelelő összegű önkéntes nyugdíjpénztári támogatás havonta
+- bruttó 10.526,- Ft /hó önkéntes egészségpénztári tagdíj-kiegészítés munkabérből való legalább nettó 2.000,- Ft /hó tagdíj levonása esetén
+- vasúti utazási igazolvány biztosítása (szabályozás szerinti hozzátartozók részére is)
+- vállalati országbérlet kedvezményes vásárlása munkavállalóink részére
+Munkavégzés helye
+Budapest
+országosan, de jellemzően Budapest
+Munkaidő
+Teljes munkaidő
+Foglalkoztatás formája
+Határozatlan idejű
+Jelentkezés határideje
+[Kattints a telefonszám megjelenítéséhez]
+2026-03-31
+Vállalati bemutatkozó
+Jobban megismernéd társaságunkat és kíváncsi vagy, mire számíthatsz a kiválasztási folyamat során, vagy melyik szervezetbe várunk Téged? Kattints ide és pillants bele feladatainkba, mindennapjainkba!
+[Kattintson a weboldal linkjének megjelenítéséhez]
+www.karrier.mavcsoport.hu/node/7309
