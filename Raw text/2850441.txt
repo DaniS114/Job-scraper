@@ -1,0 +1,103 @@
+Cég neve
+Accenture Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+ANALYTICS
+SECURITY
+DEVOPS
+GIT
+TESTING
+AZURE
+AWS
+SQL
+PYTHON
+BI
+TABLEAU
+DOCKER
+ACCESS
+POWER BI
+MACHINE LEARNING
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+ANALYTICS
+SECURITY
+DEVOPS
+GIT
+TESTING
+AZURE
+AWS
+SQL
+PYTHON
+BI
+TABLEAU
+DOCKER
+ACCESS
+POWER
+BI
+MACHINE
+LEARNING
+Angol
+középfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Architect and implement cloud-native data solutions using GCP (BigQuery, Dataflow, Pub/Sub, Dataproc, Cloud Composer, Cloud Storage)
+Lead the design and development of complex data pipelines and distributed processing frameworks that ensure scalability, performance, and operational reliability
+Define data models, patterns, and automation frameworks for modern analytics ecosystems, including orchestration and data lifecycle governance
+Translate business and analytical requirements into robust cloud architectures, collaborating closely with solution architects, data modelers, and global delivery teams
+Ensure data quality, security, observability, and compliance across all stages of the data pipeline
+Apply DevOps and CI/CD practices (Git, pipelines, IaC, automated testing) to ensure repeatable, high-quality delivery
+Mentor and guide junior and mid-level engineers, promote best practices, and contribute to continuous improvement of the engineering community
+Stay on top of emerging trends in cloud data engineering, big data processing, serverless computing, and AI/ML platform capabilities
+Requirements
+5+ years of hands-on experience in data engineering, cloud data architecture, or advanced analytics platforms
+Deep expertise with Google Cloud Platform (BigQuery, Dataflow, Pub/Sub, Dataproc, Composer) — or strong background in Azure (ADF, Synapse, Databricks) or AWS (Glue, Redshift, EMR) with readiness to transition into a GCP-focused role
+Strong mastery of big data/analytics platforms such as BigQuery, Snowflake, Redshift, Synapse, or Databricks
+Advanced proficiency in SQL and Python, including experience building complex transformations, orchestration workflows, and automation scripts
+Strong understanding of data architecture, performance optimization, distributed processing, and cloud-native design patterns
+Experience leading technical workstreams, reviewing designs, and providing engineering direction in multi-cloud or hybrid environments
+Solid grasp of CI/CD pipelines, infrastructure as code (Terraform), version control, and automated deployment practices
+Excellent communication and collaboration skills with distributed teams
+English proficiency at B2+; German is a plus
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related technical field
+Nice-to-have
+Experience with BI and reporting platforms (Power BI, Tableau, Qlik, Business Objects), Knowledge of machine learning pipelines, data science workflows, or MLOps concepts on GCP or other clouds, Understanding of containerized workloads and orchestration (Docker, Kubernetes)
+What we offer
+Participation in full-cycle and diverse international projects
+Opportunity to work as a specialist or manager/team lead
+Constant career development with internal mentorship
+Access to a whole set of learning platforms, paid certifications
+Flexible working conditions, home working is allowed
+Attractive base salary & Wide range of benefits included cafeteria, bonuses, private health insurance package, life insurance, AYCM sport card, referral bonus, family-oriented benefits, company shares on a discount price
+Company info
+Accenture is a leading global provider of a broad range of professional services in strategy and consulting, interactive marketing, information technology and business operations services, with digital capabilities in all of these areas. With more than 800,000 employees worldwide, we serve clients in more than 120 countries.Accenture globally has ranked 6th on the Great Place to Work® World’s Best Workplaces™.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,112 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SQL
+PYTHON
+MSSQL
+CLOUD
+AWS
+AZURE
+POWERBI
+GIT
+DATABASE
+POSTGRESQL
+R
+AGILE
+SCRUM
+INCIDENT MANAGEMENT
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SQL
+PYTHON
+MSSQL
+CLOUD
+AWS
+AZURE
+POWERBI
+GIT
+DATABASE
+POSTGRESQL
+R
+AGILE
+SCRUM
+INCIDENT
+MANAGEMENT
+Mobiltelefon
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Maintaining and evolving Data Structures
+Build new ETL flows and maintain/improve existing ones
+Design new data structures and data modelling concepts
+Ensure data quality by verifying data consistency and accuracy
+Create data validation methods
+Write, optimize, and maintain stored procedures
+Investigate, assess, and develop message-based architectures for data streams
+Work under Agile Framework (Scrum 2-week iterations)
+Troubleshoot problems and incident management
+Document necessary processes and procedures (creating KBs, runbooks, topology etc)
+Take full ownership of projects and tasks
+Work closely with stakeholders to deliver accurate and timely insights to business partners
+Requirements
+Advanced T-SQL Coding and Python for data engineering
+Experience with relational and non-relational DBs (MSSQL 2014 – 2019)
+Familiarity with cloud-based ETL tools (AWS Glue or Azure data factory)
+Familiarity with DWH and ETL concepts
+Familiarity with Data Modelling concepts
+Familiarity with Reporting and Analytical Tools (Snowflake, PowerBI)
+Experience with Amazon Web Services or similar cloud environments
+Knowledge of software versioning tools like Git
+Experienced in core database development tuning techniques
+Automation scripting and experience with SQLServer and PostgreSQL (plus)
+Additional programming skills (.NET, Python, R, Scala) (plus)
+Knowledge around Big Data concepts and data streaming architectures (plus)
+Experience in sportsbook/betting or fintech sectors (plus)
+Continuous learning mindset
+Ability to prioritize and handle multiple tasks and projects
+Excellent verbal and written English communication skills
+What we offer
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

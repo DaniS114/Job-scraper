@@ -1,0 +1,100 @@
+Cég neve
+Mortoff Informatikai Tanácsadó és Szolgáltató Kft.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AGILIS
+SQL
+HTML
+CSS
+ANGULAR
+POSTGRESQL
+C
+ASP.
+AZURE
+AWS
+REACT
+DOCKER
+JAVASCRIPT
+FRONTEND
+DEVOPS
+WEB API
+NOSQL
+API
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+AGILIS
+SQL
+HTML
+CSS
+ANGULAR
+POSTGRESQL
+C
+ASP.
+AZURE
+AWS
+REACT
+DOCKER
+JAVASCRIPT
+FRONTEND
+DEVOPS
+WEB
+API
+NOSQL
+API
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+NET alkalmazások fejlesztése és karbantartása C# és .NET Core technológia használatával
+RESTful API-k és mikro-szolgáltatások fejlesztése
+Adatbázisok (pl. SQL Server, PostgreSQL, NoSQL) kezelése és optimalizálása
+A szoftverek teljesítményének javítása és hibák keresése, valamint a meglévő kódok refaktorálása
+Részvétel az alkalmazások és rendszerek tervezésében és architektúrájában
+Együttműködés a frontend fejlesztőkkel és a QA csapattal a hibák minimalizálása érdekében
+Elvárások
+Legalább 3 év tapasztalat .NET fejlesztésben
+Főleg .NET 5-6-7 verzió ismerete és tapasztalata szükséges
+Erős ismeretek C# programozási nyelvben
+Tapasztalat .NET Core, ASP.NET, Web API fejlesztésében
+SQL adatbázisokkal kapcsolatos tapasztalat (pl. SQL Server, PostgreSQL)
+Alapos ismeret az objektumorientált programozásban (OOP)
+Agilis fejlesztési környezetben szerzett tapasztalat
+Angol nyelv ismerete (szakmai szint)
+Előnyt jelent
+Tapasztalat Docker és Kubernetes használatában, Felhő platformok (Azure, AWS, GCP) ismerete, Ismeret a CI/CD folyamatokban és DevOps szemlélet, Tapasztalat frontend fejlesztésben (HTML, CSS, JavaScript, React/Angular) előny
+Amit kínálunk
+Versenyképes fizetés és juttatási csomag
+Rugalmas munkaidő és távmunka lehetőség
+Képzési és továbbképzési lehetőségek
+Barátságos és támogató munkakörnyezet
+Fejlődési lehetőségek és a legújabb technológiák alkalmazása a napi munkában
+Céginformáció
+A Mortoff a hazai piac egyik elismert informatikai tanácsadó és szolgáltató vállalkozása. Az IT minden területén professzionális szolgáltatásokat nyújtunk közép- és nagyvállalati ügyfeleink számára a toborzástól, az informatikai tanácsadáson és megoldásokon keresztül, a teljes projektmenedzsmentig.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Álláshirdetés jelentése

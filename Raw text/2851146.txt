@@ -1,0 +1,78 @@
+Cég neve
+Hays Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+1054 Budapest, Akadémia utca 6.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+AWS
+ADATTÁRHÁZ
+SQL‑
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+AWS
+ADATTÁRHÁZ
+SQL‑
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Főbb feladatok
+Skálázható, megbízható és hatékony data pipeline-ok tervezése, fejlesztése és karbantartása
+Adatplatformok, adatbázisok és adattárházak támogatása és fejlesztése az analitikai igényekhez
+CI/CD folyamatok megvalósítása GitHub Actions és JFrog használatával
+Együttműködés üzleti és technológiai csapatokkal az igények adatmegoldásokká alakításában
+ETL folyamatok és adatáramlások fejlesztése
+Adatfolyamatok hibakeresése és támogatása valós idejű és batch feldolgozási környezetben
+Adatminőség, integritás és governance biztosítása bevált adatkezelési gyakorlatokkal
+Elvárások
+A pozícióhoz tartozó elvárások
+5+ év tapasztalat Data Engineering pozícióban
+Tapasztalat felhőalapú adattárház környezetekben
+Gyakorlati tapasztalat AWS Redshift használatában
+Data build tool magabiztos használata adattranszformációk és adatmodellek készítéséhez
+Erős SQL‑tudás, különös tekintettel Redshift‑specifikus teljesítményhangolásra
+Magabiztos adatmodellezési ismeretek
+Monitoring eszközök ismerete (CloudWatch, Redshift Console)
+Verziókezelési és CI/CD ismeretek
+Folyékony angol nyelvtudás
+Amit kínálunk
+Előnyök és juttatások
+Stabil, hosszútávú munkalehetőség egy nemzetközi háttérrel rendelkező szervezetnél
+Heti 1 alkalom budapesti irodai, további napokon remote munkavégzés
+Versenyképes juttatási csomag
+Magán-egészségügyi szolgáltatások
+Széleskörű szakmai és személyes fejlődési lehetőségek
+Vertikális és horizontális karrierutak
+Modern, inspiráló munkakörnyezet pihenőterekkel és közösségi programokkal
+Változatos vállalati események, hobby klubok és sportolási kedvezmények
+Céginformáció
+Senior Data Engineer – Felhőalapú adattárház környezetben
+Partnercégünk megbízásából olyan szakembert keresünk, aki magabiztosan mozog a modern adatplatformok világában, és szívesen dolgozik felhőalapú adattárházakkal, adatmodellezéssel és skálázható adatfolyamatok építésével.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Álláshirdetés jelentése

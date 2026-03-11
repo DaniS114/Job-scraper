@@ -1,0 +1,145 @@
+Cég neve
+Green Clean Kft.
+Munkavégzés helye
+8083 Csákvár, Szent Mihály tér 9.
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+MVC
+API
+PHP
+MYSQL
+JAVA
+C
+SQL
+POSTGRESQL
+SAP
+WINDOWS
+VMWARE
+ORACLE
+MONGODB
+VISUAL STUDIO
+INTELLIJ
+BI
+UML
+PYTHON
+AGILIS
+POWER BI
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Windows
+Mobiltelefon
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+'B' kat. jogosítvány
+
+Mobiltelefon
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+MVC
+API
+PHP
+MYSQL
+JAVA
+C
+SQL
+POSTGRESQL
+SAP
+WINDOWS
+VMWARE
+ORACLE
+MONGODB
+VISUAL
+STUDIO
+INTELLIJ
+BI
+UML
+PYTHON
+AGILIS
+POWER
+BI
+Laptop
+Monitor
+(1 db)
+Windows
+Mobiltelefon
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+'B'
+kat. jogosítvány
+
+Állás leírása
+Feladatok
+Csatlakozz a Green Clean Kft. csapatához, és építsd velünk a jövő digitális megoldásait!
+Cégünk a közösségi szaniterek és higiénés fogyóanyagok piacának elismert B2B nagykereskedelmi szereplője. Egy ambiciózus
+PHP programozót
+keresünk saját fejlesztésű és felhasználású
+vállalatirányítási rendszerünk fejlesztésére
+és az e-commerce platformokkal való IT kommunikációs folyamatok kialakítására!
+Feladatok
+Részt veszel PHP alapú vállalatirányítási rendszerünk, az OpenCart és UNAS webáruházaink fejlesztésében és karbantartásában.
+Adatbázis-lekérdezéseket írsz és optimalizálsz (MySQL, PostgreSQL) a rendszereinkhez.
+API-kat integrálsz és tesztelsz (pl. BASE, SAP Business One, e-commerce portálok).
+Egyedi OpenCart és UNAS modulokat fejlesztesz, és hibajavításokat végzel.
+Támogatod az adatbázis-szinkronizációs folyamatokat a BASE, OpenCart, UNAS és SAP Business One között.
+Segítesz a Windows Server 2019 és VMware környezet karbantartásában.
+Aktívan részt veszel agilis csapatunk munkájában (napi standup, sprint tervezés, code review).
+Elvárások
+Informatikai, mérnökinformatikai vagy hasonló területeken dolgoztál már.
+Haladó szinten ismered a PHP-t és rutinszerűen dolgozol vele.
+Jól ismered az adatbázisokat (Oracle SQL, MongoDB, PostgreSQL vagy Neo4j).
+Ismered vagy elméleti tudásod van az alábbiakról: Visual Studio, SQL Developer, IntelliJ IDEA, MS SSMS, Power BI, Windows Server 2016, VMware, GitHub, OOP elvek, UML, MVC, MVVM, SOLID elvek, agilis metodológia.
+Nyitott vagy újabb programozási nyelvek elsajátítására, és gyorsan tanulsz.
+Precíz, önálló, de csapatban is jól dolgozol.
+Jól kommunikálsz magyarul és angolul (szóban és írásban).
+Előnyt jelent
+Online kereskedői ismeretek: otthonosan mozogsz a webáruház motorok világában (OpenCart, Shoprenter, UNAS, stb.)
+Nyitott vagy az új technológiák, és fejlesztések iránt, és szívesen ki is próbálod azokat.
+Ismersz és használsz AI eszközöket.
+Ismered a Python, Java (Swing), C#, .NET vagy .NET Core nyelveket.
+Lakóhelyed ideálisan Csákvár 35km-es körzetén belül legyen az irodai munkavégzés miatt.
+Amit kínálunk
+Strukturált onboarding
+Valós projektek: az első naptól kezdve éles feladatokon dolgozhatsz
+Barátságos csapat: agilis környezet, támogató kollégák, rugalmas munkaidő
+Szabad kezet: ötleteid és stratégiáid nálunk valódi hatást érnek el
+Stabil hátteret: egy támogató, fiatalos csapat és egy folyamatosan fejlődő cég áll mögötted
+Fejlődési lehetőséget: támogatjuk a szakmai tudásod bővítését és új eszközök kipróbálását
+Versenyképes juttatásokat
+Teljes munkaidős irodai munkavégzést csákvári központunkban - H-P 7:30 – 16:00
+Céges mobilt, laptopot
+Hosszútávú munkalehetőséget
+Munkahelyi extrák
+Parkoló
+Sportolási lehetőség
+Ingyen kávé, üdítő
+Céginformáció
+A Green Clean Kft. jellemzően olyan professzionális csaptelepeket, öblítőszelepeket és zuhanyokat forgalmaz, melyek lehetővé teszik a rendkívül gazdaságos és víztakarékos üzemeltetést a céges, intézményi és közületi vizesblokkokban.
+Jelentkezés módja
+Küldd el önéletrajzodat és motivációs leveledet címünkre, „PHP programozó” tárggyal. Meséld el, miért te vagy a legjobb választás, és milyen eredményeket értél el eddig!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Fejér
+megye
+Csákvár
+Álláshirdetés jelentése

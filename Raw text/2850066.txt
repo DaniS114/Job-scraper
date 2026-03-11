@@ -1,0 +1,80 @@
+Cég neve
+SAP SE
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+SAP
+PYTHON
+BASH
+POSTGRESQL
+@SAP.
+INCIDENT MANAGEMENT
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+SAP
+PYTHON
+BASH
+POSTGRESQL
+@SAP.
+INCIDENT
+MANAGEMENT
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Build enterprise cloud infrastructure that provides European data sovereignty and hyperscaler-grade capabilities. You'll work on SAP Cloud Infrastructure, help to solve complex distributed systems challenges at scale: multi-region networking, container orchestration, storage systems, and the APIs that connect them.
+We develop solutions using Go, OpenStack, and Kubernetes, tackling problems like: How do you auto-scale thousands of containers across regions? How do you build resilient storage systems? How do you design APIs that handle massive traffic spikes? Incidents happen, how to keep them low in numbers to make customers and engineers a good life?
+Your work will power SAP's production systems and thousands of customer environments. You'll contribute to infrastructure that enables organizations to run mission-critical applications with the performance and reliability they expect from leading cloud platforms.
+In your role as Site Reliability Engineer, you'll ensure the operational excellence of SAP Cloud Infrastructure, improve monitoring, preventive alerting, and reliability engineering practices for enterprise cloud services that provide European data sovereignty and hyperscaler-grade capabilities. You'll help to maintain high availability and performance standards across distributed systems serving thousands of customer environments.
+Your focus will be on challenging robust observability solutions, implementing chaos engineering practices, question gaps, find weak spots, establishing and questioning SLOs/SLIs for complex infrastructure challenges like multi-region networking, container orchestration at scale, and storage systems that handle massive traffic spikes. You'll tackle operational challenges including automated remediation, performance optimization, and incident response for mission-critical systems.
+Contributing to production systems that serve SAP's global customer base, you'll establish reliability standards and contribute to operational tooling that enables organizations to run mission-critical applications with enterprise-grade performance and reliability. Your work will ensure that European organizations can maintain data sovereignty while accessing world-class cloud capabilities that remain highly available and performant under demanding production workloads.
+Requirements
+SRE Foundation: 5+ years of Site Reliability Engineering or operations experience with deep understanding of SLI/SLO/SLA concepts and error budget implementation. Relevant experience in Data Engineering or Data Analysis is of benefit.
+Cloud & Infrastructure: Strong knowledge of Virtualized Infrastructure; best with strong knowledge of OpenStack, Kubernetes, multi-cloud environments with experience managing hyperscaler-grade platforms
+Automation & Monitoring: Proficiency in Python, Go, Bash for reporting automation, with expertise in Prometheus, Grafana, ELK Stack, and distributed tracing would be of benefit.
+Reliability Engineering: Proven experience in high availability design, fault tolerance, chaos engineering, and performance optimization
+Incident Management: Hands-on experience with on-call duties, post-mortem analysis, and systematic toil reduction through automation.
+Data Sources & Data Analysis: Strong skills in handling divers dataset with different data quality should be a natural skill. We use OpenSearch, Prometheus, open telemetry, PostgreSQL, Redis, etc. Familiar with Jupyter Notebooks
+What we offer
+What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+You'll join PlusOne Central Engineering, where innovation meets collaboration. Our culture values engineering excellence, continuous learning, and diverse perspectives. We embrace modern practices, support career growth, and maintain work-life balance while building enterprise-scale solutions that drive digital transformation.
+We win with inclusionSAP's culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team:
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 439495 | Work Area: Software-Development Operations | Expected Travel: 0 - 10% | Career Status: Berufserfahren | Employment Type: Vollzeit, unbefristet | Additional Locations: #LI-Hybrid #SAPEUAICloudCareers
+Company info
+We help the world run better
+At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong.
+Meet theTeam
+Bring out your bestSAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Germany
+Álláshirdetés jelentése

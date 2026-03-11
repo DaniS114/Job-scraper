@@ -1,0 +1,86 @@
+Cég neve
+Secunet Security Networks AG
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NETWORK
+SECURITY
+LINUX
+VPN
+TESTING
+AUTOMATED TESTS
+CI
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+NETWORK
+SECURITY
+LINUX
+VPN
+TESTING
+AUTOMATED
+TESTS
+CI
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design, develop, and integrate components for establishing trust (e.g. via SPIFFE) and securing network connections (e.g. mTLS, IPSec, Wireguard) in dynamic environments
+Leverage existing Open Source software to implement state of the art security features
+Contribute fixes and improvements upstream in Open Source projects (e.g. Nixpkgs, Linux Kernel, systemd)
+Write automated tests (unit, integration, end-to-end) for each feature we ship to ensure consistent quality
+Continually improve our CI process, integrating metrics and observability, with a keen eye for secure development processes
+Support internal departments / teams in using our OS to build products on top of it
+Requirements
+University degree in computer science or a related field; alternatively, you have roughly equivalent experience to a university degree
+Motivation to work on the leading edge of network security on the OS level
+Hands-on experience with networking concepts and protocols: VPN, firewalls, TCP / IP, Zero Trust and mTLS
+Good understanding of modern cryptography and its role in network security
+Hands-on experience and understanding of modern Linux features
+Enjoy continually learning about emerging software development practices like fuzzing, property-based testing, or reproducible builds
+Open Source enthusiast that already enjoys working upstream or is motivated to learn how to
+Proficient in English (German is an optional bonus)
+What we offer
+A rare opportunity to build a developer platform from the ground up
+Work with a cutting-edge tech stack in an ambitious, high-impact environment
+A clear product vision, lots of freedom to shape your work, and experienced teammates
+Flat hierarchies, quick decision-making, and a strong engineering culture
+Flexible working hours, remote options, and modern equipment
+If you are keen to work for a leading company of cyber security in a fair and trusting environment, you should immediately get in touch with us.
+Company info
+Our mission is to lead the transformation to a company-wide platform approach by developing and maintaining shared infrastructure and services as strategic assets. We enable scalable, efficient product development and foster innovation across the organization, empowering teams to deliver value faster and more effectively. We provide the technical means to develop entirely new product classes.
+Our team of highly motivated software engineers focused on cutting-edge, security-focused technologies and a DevSecOps platform that supports the entire lifecycle of our products. We deliver measurable business impact by enabling faster time-to-market, reducing development costs, and improving product quality through scalable and reusable services & components.
+To enable the product teams, we're building an operating system based on NixOS that is image-based, immutable, and puts a heavy emphasis on security and reliability. We leverage modern security features like dm-verity, Post Quantum Cryptography (PQC), systemd sandboxing, Secure Boot, Measured Boot via TPM2. We consider all aspects of the operating system starting from booting to bootstrapping trust in dynamic environments to providing secure networking.
+Our tech stack
+NixOS and thus Linux as the basis for our OS
+Rust for all components we develop
+Nix as our meta build system
+NixOS VM test framework as the basis for all our integration tests
+GitLab as the control plane for our development
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Germany
+Álláshirdetés jelentése

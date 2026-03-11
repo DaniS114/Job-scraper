@@ -1,0 +1,97 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+TESTING
+C
+DOCKER
+AWS.
+SCRUM
+AUTOMATED TESTS
+TEST AUTOMATION
+JMETER.
+AGILE
+SOFTWARE TESTING
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+TESTING
+C
+DOCKER
+AWS.
+SCRUM
+AUTOMATED
+TESTS
+TEST
+AUTOMATION
+JMETER.
+AGILE
+SOFTWARE
+TESTING
+Mobiltelefon
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Develop a deep knowledge of our product to identify weaknesses and enhance the effectiveness of our testing, ensuring the highest quality standards.
+Be an integral part of a Scrum team to add value to our product.
+Together with the members of the Scrum team, design and develop automated tests using industry-standard tools to ensure reliability and increased confidence in product updates.
+Play an active role in the ongoing requirement definition and growth of our product.
+Promote a quality mindset through coaching and close collaboration with the team.
+Implement and maintain test automation frameworks using latest technologies and best practices focusing on maintainability and reusability.
+Conduct root cause analysis of issues to provide detailed and actionable feedback.
+Improve the Software Delivery process to enable the team to deliver high-quality Increments faster, aiming for Continuous Deployment.
+Requirements
+Experience with at least one Object-Oriented Programming language, preferably C#.
+Understanding of RESTful APIs and experience with testing these APIs.
+Experience with non-functional testing using tools like K6 or JMeter.
+Working in Agile teams with a shift-left mentality in testing.
+Good understanding of software testing processes and techniques.
+Strong analytical and problem-solving skills, with the ability to troubleshoot and debug complex issues.
+Strong verbal and written communication skills – including communicating cross-functionally and across management levels.
+Nice-to-have
+Exposure to working in an event-based microservice architecture., Implementing quality gates in CI/CD tools like Github Actions or TeamCity., Experience with Docker, Kubernetes, and AWS., Experience in the iGaming industry., Bachelor’s Degree in Computer Science or equivalent., Professional Scrum Master™ I (PSM I) certification.
+What we offer
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,101 @@
+Cég neve
+Mortoff Informatikai Tanácsadó és Szolgáltató Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+JAVA
+SPRING
+AWS
+API
+NOSQL
+FRONTEND
+HIBERNATE
+SQL
+MYSQL
+MONGODB
+POSTGRESQL
+DOCKER
+AZURE
+KOTLIN
+REST
+AGILIS
+SCRUM
+KANBAN
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+JAVA
+SPRING
+AWS
+API
+NOSQL
+FRONTEND
+HIBERNATE
+SQL
+MYSQL
+MONGODB
+POSTGRESQL
+DOCKER
+AZURE
+KOTLIN
+REST
+AGILIS
+SCRUM
+KANBAN
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Új backend alkalmazások és funkciók fejlesztése Java és kapcsolódó technológiák segítségével.
+RESTful API-k tervezése és megvalósítása, amelyek hatékonyan kommunikálnak az adatbázisokkal.
+A teljes fejlesztési életciklusban való aktív részvétel: tervezés, fejlesztés, tesztelés és telepítés.
+A rendszer teljesítményének optimalizálása, valamint hibák és problémák gyors megoldása.
+Adatbázisok (relációs és NoSQL) integrálása és kezelése.
+Együttműködés a frontend fejlesztőkkel és a tesztelő csapattal az integrációk biztosítása érdekében.
+Elvárások
+Legalább 3 év tapasztalat Java fejlesztésben.
+Főleg Java 17 és 21 verzió ismerete és tapasztalata szükséges.
+Jártasság a Spring Framework és Hibernate használatában.
+REST API-k és mikro-szolgáltatás alapú architektúrák fejlesztésében szerzett tapasztalat.
+SQL és NoSQL adatbázisokkal kapcsolatos tapasztalat (pl. MySQL, MongoDB, PostgreSQL).
+Képesség önállóan és csapatban is hatékonyan dolgozni.
+Kiváló problémamegoldó és analitikus gondolkodásmód.
+Angol nyelvtudás (írásban és szóban).
+Előnyt jelent
+Tapasztalat a Docker, Kubernetes és CI/CD folyamatokban., Ismeret a felhő alapú platformok használatában (AWS, Azure, GCP)., Tapasztalat agilis fejlesztési módszertanokban (Scrum, Kanban)., Egyéb backend programozási nyelvek ismerete (pl. Kotlin, Scala).
+Amit kínálunk
+Kihívást jelentő projektek és szakmai fejlődési lehetőségek.
+Versenyképes fizetés és egyedi juttatási csomag.
+Rugalmas munkaidő és home-office lehetőség.
+Képzési és továbbképzési lehetőségek, valamint a legújabb technológiai trendek elsajátítása.
+Barátságos, támogató munkakörnyezet és lehetőség a szakmai előre jutásra.
+Céginformáció
+A Mortoff a hazai piac egyik elismert informatikai tanácsadó és szolgáltató vállalkozása. Az IT minden területén professzionális szolgáltatásokat nyújtunk közép- és nagyvállalati ügyfeleink számára a toborzástól, az informatikai tanácsadáson és megoldásokon keresztül, a teljes projektmenedzsmentig.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Álláshirdetés jelentése

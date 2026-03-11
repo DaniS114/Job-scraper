@@ -1,0 +1,69 @@
+Cég neve
+Riverty
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AZURE
+PYTHON
+CLOUD
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+AZURE
+PYTHON
+CLOUD
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+As a Senior AI Engineer in our Technology & Innovation department, you will play a key role in developing Riverty's AI platform to accelerate software engineering productivity. You will design and implement AI-driven solutions based on Large Language Models, agentic architectures, and knowledge graphs – building the foundation for automation and intelligent developer workflows across our tech organization.
+AI in Coding:
+Build AI solutions that support developers in refactoring, documentation, and legacy transformation
+AI-driven Innovation:
+Integrate external AI services to make Riverty's products and services better, faster, and more human-centric
+Advance our AI platform capabilities:
+Enhance the platform with LLMs, knowledge graphs, APIs, and agent-based workflows
+Build & Experiment:
+Create prototypes and proof-of-concepts to quickly demonstrate value and drive adoption
+Develop & Deploy:
+Deliver production-grade AI services on Azure, ensuring performance, scalability, and compliance
+Lead & Partner:
+Tackle challenges hands-on and collaborate with external partners to accelerate innovation
+Requirements
+Degree in Computer Science, Business Informatics, or related field; business/innovation background is a plus
+5–7 years of professional experience in AI/ML engineering or solution architecture
+Proven expertise in Python and AI/LLM frameworks (e.g., LangChain, PyTorch, TensorFlow)
+Strong knowledge of external AI models and services (OpenAI, Vertex, Claude, etc.)
+Experience with cloud-native architectures (preferably Azure), microservices, APIs, and containerized environments
+Familiarity with knowledge graph technologies and data architectures
+Strong problem-solving and communication skills, able to bridge technical and business needs
+Fluent in English; German is a plus
+Company info
+We are looking for a
+Senior AI Engineer (m/f/d)
+(unlimited, full-time) Join our team at our location in Berlin, Baden-Baden, Verl or Tallinn – flexible working conditions available
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

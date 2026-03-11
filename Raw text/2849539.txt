@@ -1,0 +1,80 @@
+Cég neve
+MŰISZ Iskolaszövetkezet
+Munkavégzés helye
+Hibrid
+•
+Budapest XI. kerület
+Fizetés
+Br.
+2 900 Ft/óra bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Diákmunka
+Általános munkarend
+Elvárt technológiák
+•PYTHON
+•LINUX
+SELENIUM
+SVN
+JENKINS
+Elvárások
+Angol középfok és
+Magyar anyanyelvi szint
+Nem kell tapasztalat
+Középiskola
+
+Diákmunka
+Általános
+munkarend
+•PYTHON
+•LINUX
+SELENIUM
+SVN
+JENKINS
+Angol
+középfok és Magyar anyanyelvi szint
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Céginformáció
+A Siemens Mobility Kft. K+F központjában, a XI. kerületi Infoparkban olyan projekteken dolgozunk, melyek biztosítják a zavartalan, fenntartható, megbízható és biztonságos közlekedést.
+Feladatok
+•Vasúti járművek vezérlőrendszerének tesztelése
+•Tesztautomatizálási forgatókönyvek írása Behave keretrendszerrel (BDD)
+•Verziókezelés SVN segítségével
+•CI/CD folyamatok támogatása Jenkins környezetben
+•Hibák dokumentálása, riportálása, együttműködés fejlesztőkkel és tesztelőkkel
+Elvárások
+•Python nyelv magabiztos ismerete
+•Tesztelési szemlélet, BDD alapok ismerete előny
+•Linux ismeret
+•Csapatmunkára való nyitottság, precizitás
+•Legalább középszintű angol nyelvtudás (írásban és szóban)
+•Aktív hallgatói jogviszony (informatikai vagy műszaki területen)
+Amit kínálunk
+Előnyt jelent:
+•Tapasztalat Behave, SVN, Jenkins használatában
+•Automatizált tesztelési tapasztalat (pl. Selenium, pytest)
+•Magabiztos német nyelvtudás (szóban és írásban)
+Amit kínálunk:
+•Valós projektekben való részvétel nemzetközi környezetben
+•Szakmai fejlődési lehetőség
+•Rugalmas munkaidő, otthoni munkavégzés lehetősége
+Bérezés:
+2900 Ft/óra
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Tesztelő,
+Tesztmérnök
+Budapest
+Budapest
+Álláshirdetés jelentése

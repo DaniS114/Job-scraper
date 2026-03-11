@@ -1,0 +1,112 @@
+Tvorme spolu príbehy,
+ktoré majú zmysel.
+Kreativita
+Odvaha
+Nadšenie
+Rešpekt
+Web Analytics & Measurement Specialist (zástup MD/RD)
+plný úväzok
+Bratislavský kraj, Slovensko
+2 200 EUR/mesiac
+Informácie o pracovnom mieste
+⭐ Hľadáme skúseného Web Analytics & Measurement Špecialistu/ku, ktorý/á bude zodpovedný/á za komplexné nastavenie merania našej VOD platformy Voyo a webových portálov skupiny Markíza.
+⭐ Pozícia zahŕňa celý životný cyklus merania – od návrhu datalayeru a implementácie Google Tag Managera, cez nastavenie GA4 a Looker Studio dashboardov, až po prácu s raw dátami v BigQuery.
+⭐ Budeš pracovať na streamingovej platforme a webových portáloch s desiatkami miliónov eventov denne – čo znamená reálnu prácu s veľkým objemom dát, kde záleží na kvalite merania a efektivite analytických riešení.
+⭐ Staneš sa kľúčovou súčasťou dátového tímu, ktorý buduje modernú analytickú infraštruktúru pre najväčšiu slovenskú streamingovú platformu a mediálnu skupinu.
+⭐ Čo bude tvojou úlohou?
+• Nastavenie a správa Google Tag Managera (GTM) – implementácia client-side aj serverside tagov pre Voyo (web, mobil, Smart TV), vrátane consent management a GDPR compliance
+• Návrh a údržba datalayeru – definícia event schémy pre video playback, subscription funnel, content discovery a užívateľské interakcie
+• GA4 implementácia a optimalizácia – nastavenie GA4 properties, custom dimensions, enhanced measurement, custom events a konverzií pre streamingovú platformu
+• Tvorba dashboardov v Looker Studio – návrh a implementácia self-service reportov pre marketingový, obsahový a produktový tím s napojením na GA4 a BigQuery
+• BigQuery analýza GA4 dát – práca s GA4 BigQuery exportom, tvorba SQL dotazov pre hlbšie analýzy používateľského správania, atribúcia a segmentácia
+• QA a debugging – validácia tracking implementácií pomocou GA4 DebugView, Tag Assistant a vlastných validácií
+• Cross-platform tracking – zabezpečenie konzistentného merania naprieč web, mobil, smart TV aplikácie , Apple TV
+• Dokumentácia a knowledge sharing – tvorba technickej dokumentácie, tracking plánov a školenie interných tímov
+Zamestnanecké výhody, benefity
+⭐ Čo ponúkame?
+• Bezplatnú celoročnú zdravotnú starostlivosť v súkromnej klinike
+• 3 dni dovolenky navyše, 3 dni na regeneráciu, 4 dni na vzdelávanie, 4 dni na dobrovoľníctvo, 1 deň narodeninového voľna
+• Ročný výkonnostný bonus
+• Plnú náhradu mzdy počas PN do 14 dní
+• Mesiac voľna po 5 odpracovaných rokoch (benefit Recharge by PPF)
+• Ročný príspevok 240 € (možnosť výberu medzi Benefit Plus alebo DDS)
+• Príspevok na MultiSport kartu (50 % zo strany zamestnávateľa)
+• Príspevok na električenku MHD (90-dňová alebo 365-dňová električenka)
+• Referral Bonus pri odporúčaní kandidáta od 800 € do 1500 €
+• Home office 2× týždenne (podľa charakteru práce)
+• Vzdelávacie programy Akadémia Markíza a Manažérska akadémia
+• Psychologické, právne a finančné poradenstvo
+• Príspevok na stravné (aj počas dovolenky, dní na regeneráciu či návštevy u lekára)
+• Voyo Maximum predplatné pre všetkých zamestnancov zadarmo
+• Súťaže o lístky na koncerty, festivaly a kultúrne podujatia
+• Príspevky pri rôznych životných udalostiach (svadba, registrované partnerstvo, narodenie/adopcia dieťaťa, pracovné/životné jubileum)
+• Možnosť využiť rôzne zľavy u našich partnerov
+• Bezplatné parkovanie priamo pri Markíze
+• Dni zdravia 2x ročne (týždeň venovaný rôznym wellbeing aktivitám)
+⭐ Okrem benefitov ponúkame aj:
+• Prácu na najväčšej slovenskej VOD platforme Voyo s desiatkami miliónov eventov denne
+• Moderný dátový stack – BigQuery, dbt, Airflow, Looker Studio – žiadne legacy systémy
+• Dynamický a rastúci dátový tím s ambicióznymi projektmi (data mesh, recommendation engine)
+• Prístup k vzdelávacím zdrojom, konferenciám a certifikáciám (Google, dbt)
+• Možnosť ovplyvniť analytickú stratégiu celého mediálneho domu
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Osobnostné predpoklady a zručnosti
+⭐ Čo od teba očakávame?
+• Minimálne 3 roky skúseností v oblasti web/digital analytics
+• Expertúra v Google Tag Manager (GTM) – pokročilé nastavenie triggerov, premenných, datalayeru, custom templates, server-side GTM
+• Hlboká znalosť Google Analytics 4 (GA4) – implementácia, custom events, enhanced measurement, audience builder, konverzie
+• Skúsenosti s Looker Studio – tvorba interaktívnych dashboardov, blending dát, calculated fields, nastavenie prístupov
+• Znalosť SQL na úrovni práce s BigQuery GA4 exportom – analýza event-level dát, window functions, unnesting
+• Skúsenosti s datalayer dizajnom a implementáciou pre komplexné webové aplikácie
+• Znalosť GDPR požiadaviek na tracking a consent management (CMP)
+• Schopnosť debuggovať a validovať tracking implementácie (Tag Assistant, DebugView, browser DevTools)
+• Samostatnosť, proaktivita a schopnosť komunikovať technické témy zrozumiteľne pre netechnických stakeholderov
+⭐ Výhodou bude ak máš:
+• Skúsenosti zo streamingového, mediálneho alebo telco prostredia
+• Znalosť OTT/CTV trackingu (Android TV, Apple TV aplikácie)
+• Skúsenosti s video player analytics (QoE metriky – buffering, bitrate, start time)
+• Skúsenosti s prácou so server-side GTM (sGTM) v produkčnom prostredí
+• Skúsenosti s atribúčným modelovaním a marketing analytics
+• Základy JavaScriptu pre custom GTM templates a tagy
+• Skúsenosti s dbt pre transformáciu analytických dát
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť Markíza je najvýznamnejšou televíznou a mediálnou spoločnosťou pôsobiacou v Slovenskej republike. V súčasnosti ju tvorí šesť celoplošných televíznych staníc, ktoré pokrývajú prakticky všetky žánre a divácke preferencie: TV Markíza, Doma, Dajto, Markíza KRIMI, Markíza KLASIK a Markíza International.
+Medzi najsilnejších hráčov patrí TV Markíza aj v online prostredí, kde taktiež ponúka široké portfólio webových stránok a služieb - prevádzkujeme silné online portfólio: portály ako Markiza.sk, TVNOVINY.sk, platformu TN live a populárnu streamovaciu službu Voyo.
+Televízia Markíza je členom nadnárodnej spoločnosti CME, ktorá prevádzkuje televízne stanice v Bulharsku, Chorvátsku, Českej republike, Rumunsku a Moldavsku, na Slovensku a v Slovinsku a je jednou z vedúcich spoločností vo sfére médií a zábavy v rámci strednej a východnej Európy. CME zastrešuje 45 televíznych kanálov a oslovuje celkovo 49 miliónov divákov. CME je súčasťou portfólia medzinárodnej finančnej a investičnej skupiny PPF.
+Počet zamestnancov
+250-499 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Lýdia Judičáková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5248073
+Dátum zverejnenia:
+10.3.2026
+2026-03-10
+lokalita:
+Bratislavský kraj
+Pozícia:
+Business Intelligence Specialist
+,
+Databázový analytik
+,
+SEO analytik
+,
+Špecialista marketingových analýz
+,
+Webmaster
+Spoločnosť:
+MARKÍZA - SLOVAKIA, spol. s r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

@@ -1,0 +1,117 @@
+Senior LINUX System Administrator
+Univerzita Komenského v Bratislave Rektorát
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 1 300 EUR/mesiac
+Uvedený ponúkaný plat je funkčný plat podľa zákona č. 553/2003 Z.z. o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme (5. platová trieda, základná zložka mzdy od 961,50 €), ktorý zohľadňuje priznanie príplatkov k tarifnému platu, najmä podľa schopností, výsledkov, rozsahu a kvality plnenie pracovných úloh úspešného uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do IKT infraštruktúrneho tímu Centra informačných technológií Univerzity Komenského v Bratislave hľadáme skúseného
+Senior Linux System Administrátora
+, ktorý dokáže prevziať zodpovednosť za prevádzku a rozvoj komplexných systémov. Hľadáme spolupracovníka, ktorý má hlboké technologické znalosti, kritický nadhľad, analytické schopnosti a prirodzenú orientáciu na kvalitu, stabilitu a bezpečnosť systémov.
+Ponúkame prostredie, kde je možné robiť systematickú a odbornú prácu, navrhovať riešenia, koordinovať zmeny, byť partnerom pre interné aj externé tímy a zároveň mať reálny vplyv na fungovanie kľúčových IKT služieb.
+Hlavné pracovné úlohy
+Prevádzka, konfigurácia      a rozvoj zverených systémov v rámci internej IKT služby Linux.
+Zodpovednosť za správnu      funkčnosť, bezpečnosť, stabilitu a kapacitnú pripravenosť systémov.
+Realizácia zmien počas      celého životného cyklu systémov: návrh → plánovanie → koordinácia →      implementácia → testovanie.
+Kritická a analytická      práca so systémami vrátane identifikácie rizík, monitoringu interných      auditov a výkonnostných analýz.
+Implementácia      technických požiadaviek správcov služieb v súlade s technickými limitmi      systémov.
+Spolupráca s ostatnými      správcami systémov, interných IKT služieb a externými dodávateľmi.
+Tvorba a správa      dokumentácie, reporting, účasť na poradách a príprave podkladov.
+Zúčastňovanie sa      procesov RTP, interných schválení a dodržiavanie bezpečnostných      štandardov.
+Sledovanie      technologických trendov a iniciatívne zlepšovanie zverených systémov.
+Koho hľadáme
+Hľadáme skúseného správcu linux, ktorý spĺňa tieto kľúčové charakteristiky:
+Prevádzkový      profesionál
+– vie plnohodnotne spravovať systém.
+Hlboké      odborné znalosti Linux technológií
+a kritický nadhľad nad architektúrou.
+Samostatnosť      a zodpovednosť
+pri riešení incidentov, úloh a projektov.
+Systematickosť,      disciplína a rešpektovanie procesov
+vrátane interného workflow.
+Vynikajúce      analytické myslenie
+– chápať systémy v širších súvislostiach.
+Schopnosť      navrhovať zmeny
+od myšlienky až po plnú realizáciu vrátane testovania.
+Vytrvalosť      a motivácia zlepšovať systémy
+a ich kvalitu.
+Dôsledné      dodržiavanie štandardov, bezpečnostných politík a metodík.
+Excelentná      komunikácia
+–jasná formulácia technických a funkčných požiadaviek.
+Pochopenie      nevyhnutnej administratívy
+– dokumentácie, porady a reporty.
+Technický stack, ktorý je používaný
+Linux      (RHEL/CentOS/Rocky, Debian/Ubuntu)
+SGE      pre vysokovýkonný HPC klaster
+Databázové      klastre PSSQL a MDB
+Automatizácia      (Salt / Puppet / Bash / Python)
+Virtualizácia      (VMware / KVM / Proxmox)
+Kontajnerizácia      (Docker, Kubernetes)
+Monitoring      (Zabbix, Grafana)
+Storage      technológie, filesystémy, zálohovanie Veeam
+Sieťové      služby (DNS, DHCP, LDAP, RADIUS, SSO, certifikáty…)
+Zamestnanecké výhody, benefity
+Prácu      na stabilnej a kľúčovej infraštruktúre univerzitného prostredia.
+Technicky      pestré prostredie vhodné pre seniorov, ktorí chcú robiť kvalitnú systémovú      prácu.
+Možnosť      navrhovať architektúru a mať reálny vplyv na smerovanie veľkej      infraštruktúry.
+Prácu      v kultivovanom prostredí, kde sa rešpektujú pravidlá aj odborné      stanoviská.
+Priestor      na vzdelávanie, kurzy a odborný rast.
+Benefity:
+5       dní voľna navyše (spolu 25 dní dovolenky za rok, nad 33 rokov 30 dní dovolenky       za rok)
+o       0,5 hod. skrátený pracovný čas denne oproti súkromnej sfére
+flexibilný       pracovný čas
+bezplatné       psychologické poradenstvo (mentálne zdravie, kariérne poradenstvo) v       Psychologickej poradni UK
+MultiSport       karta pre zamestnanca aj rodinného príslušníka
+bezplatná       joga pre zamestnancov
+príspevok       na III. pilier DDS
+príspevok       na stravovanie nad rámec zákona
+jednorazový       príspevok na regeneráciu pracovnej sily zamestnanca
+finančná       odmena pri pracovných výročiach a životných výročiach
+finančný       príspevok pri narodení dieťaťa
+finančný       príspevok na letné kurzy, detské rekreácie, sústredenia a denné tábory dieťaťa
+náhradu       príjmu pri dočasnej pracovnej neschopnosti od prvého dňa vo výške 55 %       denného vymeriavacieho základu zamestnanca
+pracovné       voľno s náhradou mzdy pre rodiča budúceho prváka pri jeho prvom školskom       dni
+zľavy       na produkty u partnerov
+a ďalšie       benefity
+Informácie o výberovom konaní
+Spolu so životopisom nám pošlite aj motivačný list.
+Ďakujeme záujemcom, ktorí sa uchádzajú o prácu v našej spoločnosti. Vyhradzujeme si právo kontaktovať iba vybraných uchádzačov, ktorí budú pozvaní na osobný pohovor.
+Zaslaním životopisu dáva uchádzač súhlas so správou, spracovaním a uchovaním osobných údajov v zmysle zákona č. 18/2018 Z.z. o ochrane osobných údajov a podľa Nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95/46/ES (všeobecné nariadenie o ochrane údajov). Všetky podrobné informácie o ochrane osobných údajov nájdete na https://uniba.sk/ochrana-osobnych-udajov.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Univerzita Komenského v Bratislave (UK) je moderná európska univerzita, je najväčšia a najstaršia slovenská univerzita. V roku 2019 oslávila 100. výročie svojho založenia. Ako jediná slovenská vysoká škola sa pravidelne umiestňuje v celosvetových rebríčkoch najlepších univerzít sveta. Na 13 fakultách poskytuje najširší výber študijných programov (vyše 900) v troch stupňoch, pričom viaceré z nich sú na Slovensku jedinečné. Na výber je zo širokej škály oblastí ľudského poznania – od medicíny cez humanitné a sociálne vedy, prírodné vedy, matematiku až po teológiu.
+UK je výskumnou inštitúciou, ktorá zastrešuje stovky domácich i zahraničných vedeckovýskumných projektov. Viacerí študenti sú tak už počas štúdia súčasťou významného výskumu a môžu sa aktívne zapojiť do riešenia projektov a grantov či sa zúčastňovať na odborných stážach (aj v zahraničí).
+Kontakt
+Kontaktná osoba: JUDr.  Jana Hardoňová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5247500
+Dátum zverejnenia:
+9.3.2026
+2026-03-09
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+,
+Servisný inžinier
+,
+Systémový administrátor
+Spoločnosť:
+Univerzita Komenského v Bratislave Rektorát
+Základná zložka mzdy (brutto):
+1 300 EUR/mesiac

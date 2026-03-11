@@ -1,0 +1,62 @@
+A pozíció célja:
+A pozíció célja egy zöldmezős pénzügyi platform technikai megvalósítása és fejlesztése.
+A fejlesztő kulcsszerepet kap egy új ügyfél- és belső portál felépítésében, amely:
+Könyvelési és pénzügyi adatokat kezel
+Pénzügyi riportokat jelenít meg
+Ellenőrzési workflow-kat támogat
+Automatizált kontrollokat biztosít
+A rendszer célja egy stabil, skálázható platform kialakítása, amely segíti a könyvelők munkáját és átláthatóbb pénzügyi információkat biztosít a vállalkozások számára.
+Feladataid lesznek:
+Egy zöldmezős rendszer fejlesztése
+Egy új webes portál frontend és backend fejlesztése
+Backend API-k és üzleti logika implementálása
+Adatmodellek és adatstruktúrák kialakítása
+Pénzügyi és ellenőrzési workflow-k megvalósítása
+Integrációk előkészítése külső rendszerekkel
+A fejlesztés során a rendszer közvetlenül kapcsolódik a vállalat könyvelési és pénzügyi folyamataihoz, így a megoldások valós üzleti környezetben kerülnek használatra.
+A pozíció betöltéséhez szükséges:
+3–5 év fejlesztői tapasztalat
+JavaScript / TypeScript tapasztalat
+React vagy Next.js ismeret
+API fejlesztési tapasztalat
+SQL és adatbázis használat
+Adatmodellezési tapasztalat
+Git használat
+Önálló munkavégzés
+Előnyt jelent:
+.NET / ASP.NET Core tapasztalat
+PostgreSQL ismeret
+Cloud környezetben szerzett tapasztalat (Azure vagy AWS)
+Webes alkalmazások deployolásában szerzett tapaasztalat
+Admin vagy dashboard jellegű rendszerek fejlesztése
+Amit kínálnak:
+Bruttó 900 000 – 1 200 000 Ft / hó fizetés, tapasztalattól függően
+Teljes home office munkavégzés
+Zöldmezős fejlesztési projekt
+Modern technológiai stack
+Microsoft Azure alapú cloud infrastruktúra
+Kis, gyors döntéshozatalú fejlesztési csapat
+Valódi hatás a rendszer kialakítására
+Hosszútávú fejlesztési irány
+Céges laptop és szükséges eszközök
+Munkaidő:
+Teljes munkaidő
+Munkavégzés helye:
+Távmunka/remote
+Jelentkezés módja:
+Kérjük, küldd el szakmai
+önéletrajz
+odat és
+LinkedIn vagy GitHub profil
+odat, vagy egy
+rövid bemutatkozás
+t a lenti
+„JELENTKEZÉS”
+gombra kattintva.
+Mi történik a jelentkezésedet követően?
+A beérkezett jelentkezéseket partnerünk részére automatikusan továbbítjuk, megtekintés nélkül.
+Ezt követően megbízónk veszi át a jelentkezésed kezelését, így a kiválasztási folyamat következő lépéseiben cégünk már nem vesz részt.
+A jelentkezéssel elfogadod a Beck and Partners Kft.
+[Kattintson a weboldal linkjének megjelenítéséhez]
+adatvédelmi tájékoztatóját
+.

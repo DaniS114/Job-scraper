@@ -1,0 +1,148 @@
+Cég neve
+auxmoney GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+REACT
+ANDROID
+TESTING
+JAVA
+KOTLIN
+API
+CLOUD
+DEVOPS
+AWS
+CD
+SECURITY
+ACCESS
+REST
+CI
+AGILE
+Biztosított eszközök
+Workstation
+Elvárások
+Angol felsőfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+REACT
+ANDROID
+TESTING
+JAVA
+KOTLIN
+API
+CLOUD
+DEVOPS
+AWS
+CD
+SECURITY
+ACCESS
+REST
+CI
+AGILE
+Workstation
+Angol
+felsőfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+As a Senior Software Engineer, you will be a key contributor in a cross-functional product team where your work has real, visible impact. You will design, build, and maintain our mobile applications using React Native, with a strong focus on Android, helping deliver high-quality, scalable mobile experiences.
+You will collaborate closely with product, design, and business stakeholders, share your technical expertise with peers, and help raise the bar for code quality and engineering excellence. If you enjoy clean architecture, thoughtful problem-solving, and building software that truly matters, this is the role for you.
+What you can expect:
+Build and evolve mobile solutions:
+Design, develop, and maintain high-quality React Native applications.
+Own architecture and technical decisions:
+Understand platform specifics, runtime behavior, dependencies, and deployment pipelines to ensure maintainable, efficient, and scalable mobile solutions.
+Deliver high-quality code:
+Write clean, readable, and well-documented code that follows industry standards and mobile best practices, supported by robust automated testing.
+Work close to the business:
+Develop a strong understanding of customer needs and business context, translating real-world problems into effective mobile solutions.
+Drive execution and predictability:
+Estimate technical solutions and component-level requirements accurately, contributing to reliable delivery and team throughput.
+Collaborate and share knowledge:
+Actively participate in code reviews, design discussions, and cross-team collaboration while promoting best practices and shared ownership.
+Take ownership and grow others:
+Lead challenging initiatives, mentor team members, and contribute to improving engineering processes and technical standards.
+Continuously improve:
+Take on larger initiatives over time, enhancing both the product and the way the team builds software.
+Requirements
+Strong mobile engineering foundation:
+Solid experience with React Native and a strong understanding of Android development using Java and or Kotlin, enabling quick adaptation to our tech stack and patterns.
+Production experience:
+Proven track record of building and shipping mobile applications in production environments, with deep knowledge of Android platform specifics and mobile UI and UX best practices.
+API and data integration skills:
+Experience integrating REST APIs and managing data within mobile applications.
+Testing mindset:
+Good understanding of mobile testing strategies including unit, integration, and end-to-end testing, with a focus on reliable, automated test coverage.
+Cloud and DevOps awareness:
+Basic familiarity with cloud platforms, ideally AWS, and modern CI and CD practices.
+Product-oriented thinking:
+You care about delivering meaningful features that create value for users and improve the overall mobile experience.
+Collaborative communication style:
+Strong communication skills and enjoyment in working within cross-functional teams, contributing positively to engineering culture.
+Security and compliance awareness:
+Understanding of mobile security best practices and data protection requirements.
+Nice to have:
+Advanced experience with native Android development, native module integration, performance optimization, or offline-first architectures.
+Language skills:
+Fluent in written and spoken English.
+What we offer
+Flexibility for Your Lifestyle
+: Enjoy family-friendly working hours and a generous home office policy, allowing you to stay agile and flexible in any situation.
+Ergonomic Work Environment
+: For your office days, we provide ergonomic workstations that offer you a comfortable and healthy workspace.
+Independent Work
+: With short decision-making paths, we enable you to work autonomously and actively contribute your ideas – we provide space for you to take on responsibility.
+Grow with Us
+: Unlock your potential with numerous opportunities for growth and development, along with an annual development budget to help you achieve your professional and personal goals.
+Team Spirit
+: Team spirit is important to us – we regularly host events and parties where fun is guaranteed.
+Mobility Your Way
+: Whether you prefer a train ticket or parking – we support your choice of preferred mobility.
+Stay Active
+: Keep fit with a discounted membership at Fitness First or Urban Sports Club, or use our in-house fitness room to stay active after work and enhance your work-life balance.
+Secure Your Future
+: Think about your future – we offer subsidies for company pension plans so you can plan long-term with us.
+Tailored Benefits
+: We consider your personal life situation – whether you're a parent or love to travel, we offer customized benefits to suit your lifestyle.
+For us as an employer, equal opportunities and diversity are especially important. Therefore, we welcome applications from mothers, fathers, people with disabilities and people from the LGBTQIA+ community. Please feel free to let us know if, for example, you would like us to use a gender-neutral pronoun, if you need barrier-free access to our office, or if you would like us to allow more time for the application process.
+Company info
+You are
+passionate
+about agile work and would like to create every day differently? Then you are exactly right with us! We are auxmoney - one of the most successful Fintech companies in Germany and the largest credit marketplace in Continental Europe. Private and institutional investors invest directly in pre-approved loans via auxmoney.
+As a company, we combine the start-up mentality with the security of a successful Grown-Up. Together we work at our locations in Düsseldorf, Budapest and Dublin.
+Thanks to flat hierarchies and a
+diversity
+of creative and development opportunities, you can achieve
+excellent
+results on your own
+responsibility
+and work on exciting projects. You can
+simplify
+processes and products and thus actively shape auxmoney as a company in a sustainable manner.
+Regardless of whether you are an intern or a manager: everyone makes a
+valuable
+contribution at auxmoney.
+You are also welcome to visit us on our social media channels to gain a better impression of us.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Germany
+Álláshirdetés jelentése

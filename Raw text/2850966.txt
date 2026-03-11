@@ -1,0 +1,76 @@
+Cég neve
+ZHAW
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+MACHINE LEARNING
+C++
+ROBOT
+C
+Elvárások
+Angol középfok
+Pályakezdő/friss diplomás
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+MACHINE
+LEARNING
+C++
+ROBOT
+C
+Angol
+középfok
+Pályakezdő/friss
+diplomás
+Egyetem
+
+Állás leírása
+Responsibilities
+Doctoral researcher: Human-Centric and Explainable Robot Learning for Mobile Manipulation 100 %
+PhD position developing vision-language-action models and reinforcement learning for assistive mobility and humanoids in healthcare, with Swiss industry and academic partners
+Doctoral researcher: Human-Centric and Explainable Robot Learning for Mobile Manipulation 100 %
+School:
+School of Engineering
+Starting date:
+April 2026 or by appointment
+Your role
+Doctoral researcher: Human-Centric and Explainable Robot Learning for Mobile Manipulation 100 %
+Deploying intelligent robots in real-world human-centric environments (whether it's assistive robotics or humanoids working alongside humans) demands systems that can reason about diverse objects, adapt to dynamic surroundings, and remain transparent to the people who depend on them. While Vision-Language-Action (VLA) models and reinforcement learning (RL) have achieved impressive results independently, their integration into reliable, explainable, and human-centric robotic systems remains an open challenge. Current approaches lack the modularity needed for diverse tasks, struggle with long-horizon workflows in unstructured environments, and offer limited interpretability, all important shortcomings when robots operate alongside and for human users.
+We are looking for a motivated PhD student to contribute to addressing these challenges. The core research develops explainable, adaptive robot learning controllers for mobile manipulation in human-centric settings, with a focus on shared control, modularity, and user-centric interaction. You will investigate how multi-agent RL and VLA-based approaches can be made modular, robust, and interpretable, enabling reuse of trained components across different robotic platforms and tasks. The methods will be demonstrated on assistive robotic platforms and humanoid robots available in our lab and through collaborations with Swiss industry and academic partners.
+Your goal will be to develop and translate your own research ideas to tackle these challenges, in close collaboration with our interdisciplinary team and industry partners. As part of this process, you will support bachelor and master students, publish at top-tier robotics venues, contribute to teaching, and participate in international conferences. The position offers excellent opportunities for collaboration with academic partners (ETH Zürich, UZH, EMPA) and industry, and provides experience in project coordination and proposal development.
+The position is hosted at the ZHAW Centre for AI, supervised by Dr. Peña Queralta (head of research group Embodied Mobile Agents at ZHAW Centre for AI).
+Your profile
+You are highly motivated and dedicated with a master degree in electrical, mechanical or in-dustrial engineering, robotics, computer science, or in related topics in machine learning / AI, with a focus on manipulation and/or autonomous navigation. Experience with reinforcement learning, fine-tuning of foundation models and overall experience with real-world deployment and work beyond simulation is highly valued.
+You are interested in both research and real-world impact through collaboration with startups and companies, ensuring your research results are applicable to robots deployed in industry or assisting people. You are an independent engineer with a good command of and ideally some exposure to C/C++. Any experience with ROS/ROS 2, agentic applications and training of large ML models is an advantage.
+We expect fluent English; German is an asset.
+This is what we stand for
+Zurich University of Applied Sciences ZHAW is one of Switzerland's largest multidisciplinary universities of applied sciences, with over 14'000 students and 3'400 faculty and staff.
+ZHAW is committed to gender-mixed and diverse teams in order to promote equality, diversity and innovation.
+The ZHAW School of Engineering (SoE) , as one of the leading educational and research institutions in Switzerland, focuses on topics relevant to the future. 14 institutes and centres guarantee high-quality education, research and development with a focus on the areas of energy, mobility, information and health.
+The Centre for Artificial Intelligence (CAI) is a Center of Excellence at ZHAW and maintains a growing number of research groups in various domains. The Embodied Mobile Agents group specializes in robot learning research at the intersection of AI and mobile robotics, working on reinforcement learning, vision-language-action models, and agentic frameworks for robotics. We have a set of quadruped and humanoid robots as well as interest in assistive robotic applications.
+We are looking for a deeply interested, technically skilled person looking to work at the frontier of AI-enabled robotics for mobile manipulation, with applications in human-centric environments. Please send us a tailored cover letter and highlight facts that underline your suitability for this position, transcripts of grades from (some of) your degrees, and 2 reference contacts. We are looking forward to hearing from you!
+What you can expect
+We offer working conditions and terms of employment commensurate with higher education institutions and actively promote personal development for staff in leadership and non-leadership positions. A detailed description of advantages and benefits can be found at Working at the ZHAW. The main points are listed below:
+Contact
+Peña Queralta
+Group Leader, Mobile Embodied Agents
+Irina Keiser
+Recruiting Manager jid17557e7pn jit0311pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Switzerland
+Álláshirdetés jelentése

@@ -1,0 +1,99 @@
+Cég neve
+BBOX SOLUTIONS Kft
+Munkavégzés helye
+Hibrid
+•
+1119 Budapest, Puskás Tivadar utca
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Szakmai tréningek
+Munkába járás támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Biztosított eszközök
+Céges autó
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Mobiltelefon
+Szakmai
+tréningek
+Munkába
+járás támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Céges
+autó
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Multi-tenant admin platform fejlesztése Laravel + Filament alapon
+Microservice-ek fejlesztése TypeScript/Fastify alapon — ebbe fokozatosan kapcsolódsz be
+REST API-k tervezése és implementálása
+Adatbázis-tervezés, migrációk, optimalizálás (PostgreSQL)
+Automatizált tesztek írása (Pest, mutation testing)
+Code review-ban való részvétel, csapaton belüli tudásmegosztás
+CI/CD pipeline-ok fejlesztése (Azure DevOps)
+Tech stack, amivel dolgozni fogsz
+Backend:
+PHP 8.x + Laravel, TypeScript + Fastify, Prisma ORM
+Frontend:
+Livewire, Filament (admin UI), Tailwind CSS, Vite
+Infra:
+Docker, PostgreSQL, Redis, Azure DevOps CI/CD
+Tervezési folyamatban való aktív részvétel
+Rendszer- és üzemeltetési dokumentációk készítése
+Elvárások
+3+ év PHP backend tapasztalat, Laravel és ökoszisztémájának magabiztos ismerete
+Erős OOP szemlélet, SOLID elvek
+SQL adatbázis-tervezés (PostgreSQL előny)
+REST API tervezés és implementálás
+Git verziókezelés, automatizált tesztek írása
+Docker ismeret
+Önálló, megoldásorientált és igényes munkavégzés
+Csapatszellem, nyitottság új technológiákra
+Angol nyelv dokumentáció-olvasás szintjén
+Előnyt jelent
+Fintech vagy pénzügyi szolgáltatói környezetben szerzett tapasztalat
+TypeScript / Node.js tapasztalat — microservice-eink Fastify alapúak
+CI/CD pipeline-ok ismerete (Azure DevOps, GitHub Actions)
+Multi-tenant architektúra ismerete
+Statikus analízis és code quality eszközök (PHPStan, Rector)
+Tapasztalat külső rendszerek, third-party szoftverek integrációjában
+Ügyviteli szoftverek fejlesztésében szerzett tapasztalat
+Linux ismeret
+AI fejlesztői eszközök használata (pl. Claude Code, Cursor)
+Amit kínálunk
+Modern, naprakész tech stack — nem legacy kód
+Hibrid munkarend (átlagosan heti 2-3 nap office)
+Versenyképes bérezés, tapasztalathoz igazítva
+Szakmai fejlődés támogatása (konferenciák, képzések)
+Fintech környezet, ahol a munkádnak közvetlen üzleti hatása van
+Növekvő csapat, ahol alakíthatod a technológiai irányt
+Code quality kultúra (automated testing, static analysis, code review)
+Jelentkezés módja
+Jelentkezni fényképes önéletrajz elküldésével, nettó bérigény megjelölésével lehet a lenti "Jelentkezem" gombon keresztül.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

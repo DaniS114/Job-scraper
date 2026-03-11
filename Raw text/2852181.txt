@@ -1,0 +1,127 @@
+Cég neve
+adesso Schweiz AG
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVA
+SPRING
+JUNIT
+TESTING
+SQL
+GIT
+JSON
+XML
+DOCKER
+DEVOPS
+UML
+FRONTEND
+REACT
+WORD
+AGILE
+CLEAN CODE
+MAVEN
+JENKINS
+CI
+SCRUM
+KANBAN
+BPMN
+Elvárások
+Angol középfok vagy
+Német középfok vagy
+Olasz középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+JAVA
+SPRING
+JUNIT
+TESTING
+SQL
+GIT
+JSON
+XML
+DOCKER
+DEVOPS
+UML
+FRONTEND
+REACT
+WORD
+AGILE
+CLEAN
+CODE
+MAVEN
+JENKINS
+CI
+SCRUM
+KANBAN
+BPMN
+Angol
+középfok vagy Német középfok vagy Olasz középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+adesso stands for IT excellence and therefore also for excellent development opportunities for all adessi. We grow together and learn from each other - on our projects, as a team and with outstanding training opportunities. We have IT at heart, the industry at heart and the success of our customers at heart. Because successful business is the result of innovative ideas, sustainable strategies and smart IT solutions. This always involves people who want to make a difference and simply do it. We design and build software that inspires our customers. In projects that challenge us. And in an environment that we enjoy, where success is created together and everyone feels comfortable.
+Java Boot Software Engineer (all genders)
+WHAT YOU CAN MOVE
+We are seeking a BPM and Automation Consultant (Technical) who is passionate about designing, implementing, and enhancing hyper-automated workflows that drive real business impact. In this role, you won’t just advise—you will take ownership of delivering automation solutions by developing and configuring BPM platforms, integrating them into existing IT landscapes, and continuously optimizing their performance.
+Working closely with business and IT stakeholders, you will identify opportunities for automation and translate them into robust, scalable implementations. Your focus will include both traditional BPM-based solutions and the introduction of modern hyperautomation and agentic automation concepts. You will actively contribute to expanding and evolving BPM platforms, ensuring they meet complex enterprise needs while staying at the cutting edge of automation technologies.
+As part of the adesso Business Automation Line of Business, you will join a collaborative, international, and multidisciplinary team. You’ll work on innovative projects that blend process consulting, technical implementation, and orchestration frameworks—enabling organizations to achieve new levels of efficiency and agility through automation.
+HOW YOU SUCCEED
+Qualifications
+You hold a successfully completed degree in Computer Science, Business Informatics, Data Science, or a comparable field with relevant focus. Or completed an apprenticeship in IT sector.
+Who You Are
+Possess an agile mindset with strong communication skills, customer orientation, and confidence in face-to-face interactions
+Able to write readable, testable, and maintainable code following the clean code principles
+Enjoy analytical tasks, including the analysis of processes and data
+Strong team player with excellent presentation and collaboration skills
+Fluency in English and C1 proficiency in either German or Italian, depending on location
+Professional Experience
+Junior: 1+ years of relevant experience
+Professional: 3+ years
+Senior: 5+ years
+Core Technical Skills
+Proficiency in Java, particularly with Boot
+Experience with JUnit testing and mocking frameworks
+Strong knowledge of DBMS, SQL, JPA, ORM
+Skilled in build automation using Maven or Gradle
+Proficient with version control systems (e.g., Git)
+Solid understanding of RESTful web services and working with JSON/XML
+Additional Skills (Senior Level - desirable for Junior/Professional)
+Proficiency with Docker
+Experience with DevOps tools (e.g., Jenkins, GitLab CI, ArgoCD, Kustomize, Octopus, etc.)
+Hands-on experience with Kubernetes
+Knowledge of OAuth 2.0 and OpenID Connect (OIDC)
+Familiarity with Agile methodologies (SCRUM, Kanban, SAFe, etc.)
+Awareness of AI Agents and related concepts
+Nice To Have
+Familiarity with BPM tools (e.g., Camunda, Flowable, Appway, UiPath, IBM BAW, Appian) and ideally certified in one or more of these
+Knowledge of modeling notations (BPMN 2.0, CMMN 1.1, DMN 1.3, UML)
+Experience in frontend development, ideally with React
+OPPORTUNITY GIVER – WHAT MAKES ADESSO SPECIAL
+Our promise: You will feel at home with us! Collegial, collaborative and on an equal footing - we live exchange, team spirit and respectful interaction. We value diversity and different perspectives just as much as you as a person. This and much more stands for our very special sense of togetherness. There's even a word for it: adessi.
+Learn and grow with us: we support your continuous development with over 400 training courses and our digital learning platform.
+Experience real team spirit: joint events (e.g. ski weekends and the annual eduCamp training trip), welcome days and company runs strengthen our team spirit and allow you to be part of the team from the very beginning.
+Commitment that is rewarded: Your commitment pays off - with bonuses for recommendations, lectures, thesis supervision and attractive benefits via our corporate benefits portal.
+Our culture and the way we work together are characterized by mutual appreciation, recognition and support. This unites us - even when working from home. Part-time work is possible by arrangement (80-100%). We have once again been voted one of the best employers in Switzerland! Our extensive training program and a transparent career level model for everyone ensure that your development with us never stands still. Because growing together and creating opportunities is programmed into our DNA. jid8fcfd39pn jit0311pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Switzerland
+Álláshirdetés jelentése

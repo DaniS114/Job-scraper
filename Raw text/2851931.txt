@@ -1,0 +1,90 @@
+Cég neve
+MagNet Bank Zrt.
+Munkavégzés helye
+Hibrid
+•
+1062 Budapest, Andrássy út 98.
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Élet- és balesetbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Középiskola
+
+Cafeteria
+Egészségbiztosítás
+Élet-
+és balesetbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+A MagNet Bank IT csapata DevOps mérnököt keres, aki szívesen fejlődne az automatizált, biztonságos és megbízható szoftverszállítási folyamatok világában. Legtöbb rendszerünk helyi, on‑prem infrastruktúrán működik — így olyan kollégát keresünk, akit érdekel a klasszikus, saját üzemeltetésű rendszerek hatékony automatizálása és standardizálása.
+Feladataid
+CI/CD pipeline-ok kialakításának és üzemeltetésének támogatása
+Build, tesztelési és biztonsági folyamatok automatizálása
+Telepítési folyamatok, fejlesztői és tesztkörnyezetek automatizálása
+On‑prem infrastruktúra automatizált létrehozásában, konfigurálásában való részvétel
+Monitoring, log-gyűjtés és alerting rendszerek működtetése, finomhangolása
+Teljesítmény- és rendelkezésre állás vizsgálatok támogatása
+Együttműködés fejlesztőkkel, üzemeltetőkkel és biztonsági szakértőkkel
+Elvárások
+Alapvető ismeretek vagy érdeklődés CI/CD, automatizálás vagy rendszermérnöki területen
+Tanulási vágy és technológiai kíváncsiság
+Jó problémamegoldó készség és csapatmunkára való nyitottság
+Előnyt jelent
+Tapasztalat Java‑alapú alkalmazások build‑ és futtatási környezetében (pl. Maven/Gradle, alkalmazásszerverek (Payara, Wildfly, Spring Boot), JVM‑paraméterezés)
+Git használatának ismerete, Linux környezet magabiztos kezelése (Ubuntu, RedHat)
+Build rendszerek és CI/CD eszközök (pl. Jenkins, Nexus, pipeline‑ok) alap- vagy középszintű ismerete
+Automatizációs eszközök használata
+Ansible (kiemelten: konfiguráció‑menedzsment, telepítési automatizációk)
+Bash szkriptek
+Monitoring és log‑kezelő eszközök (pl. Grafana, Prometheus, ELK/Graylog) használatában szerzett tapasztalat
+Üzemeltetési, fejlesztői vagy tesztelői háttér — különösen Java backend projektekhez kötődően.
+Alapismeret a szoftverek telepítésének, konfigurálásának vagy futtatási sajátosságainak automatizálásában
+Amit kínálunk
+Kis, összetartó csapat: közvetlen kommunikáció, gyors döntések, és mindenki munkája valódi hatással bír
+Stabil, emberközpontú banki háttér: hosszú távú biztonság és kiszámítható környezet, ahol érték a szakmai igényesség
+Belenövés egyre összetettebb feladatokba: kezdhetsz kisebb automatizációkkal, majd fokozatosan átvehetsz komplex pipeline‑okat, rendszereket, monitoringot
+Munkahelyi extrák
+Céges rendezvények
+Ingyen reggeli
+Masszázs
+Céginformáció
+Mit érdemes tudnod a MagNet Bankról?
+Több mint 25 éve működünk nyereségesen 100%-ig magyar magántulajdonban lévő kereskedelmi bankként.
+A hazai bankpiacon - egyedülálló módon - közösségi bankként vagyunk jelen, a nemzetközi értékalapú bankokhoz (GABV) tartozunk.
+2019-ben elnyertük az Év Társadalmilag Felelős Bankja örökös díjat a Mastercard Év Bankja versenyen.
+2023. évben Üzleti Etikai Díjat kaptunk.
+Jelentkezés módja
+Amennyiben ajánlatunk felkeltette érdeklődésed, és úgy látod, megfelelsz a fent leírt elvárásoknak, küldd el fényképes önéletrajzod,
+bérigényed feltüntetésével
+a lenti "Jelentkezem" gombra kattintva.
+Az álláspályázattal kapcsolatos részletes adatkezelési tájékoztatást a MagNet Bank weboldalán megtalálható "Kiegészítő Adatkezelési Tájékoztató álláspályázatot benyújtók részére" elnevezésű adatkezelési tájékoztató tartalmazza.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

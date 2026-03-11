@@ -1,0 +1,140 @@
+C, C++ - developer
+CONTAL OK, spol. s r.o.
+Miesto práce
+CONTAL OK spol. s r.o., Fraňa Mráza, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+2 300 EUR/mesiac
+V závislosti na odbornosti a skúsenostiach uchádzača
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme kolegu na pozíciu
+Embedded C/C++ Developer (Medior/Senior)
+Do nášho tímu hľadáme šikovného kolegu, ktorý:
+má pokročilú znalosť programovania v jazykoch
+C/C++
+,
+má skúsenosti s prácou s
+mikrokontrolérmi a mikroprocesormi
+(výhodou skúsenosti s NXP),
+vie čítať a pracovať s
+elektrickými schémami
+,
+má skúsenosti s
+Linuxom
+, najmä s
+Linux kernelom a driverami
+Výhodou je znalosť
+Yocto Project
+alebo podobných build systémov pre embedded Linux.
+Čo budeš robiť:
+podieľať sa na vývoji vlastných produktov určených pre domácich aj zahraničných zákazníkov,
+rozširovať a udržiavať existujúce riešenia o nové funkcionality,
+vyvíjať a implementovať firmvér, ktorý zabezpečí funkčnosť novonavrhnutého hardvéru v jazykoch
+C a C++
+,
+navrhovať dátové modely a implementovať aplikačnú logiku podľa špecifikácie,
+tvoriť používateľské rozhrania pre interné podporné aplikácie výroby a testovania,
+aktívne sa podieľať na rozhodovaní o smerovaní vývoja.
+O nás:
+Spoločnosť
+Contal OK
+vyvíja vlastný hardvér aj softvér – prevažne pre prístupové a zabezpečovacie systémy a komunikačné jednotky pre kritickú infraštruktúru v zahraničí. Naša práca je postavená na mikrokontroléroch a mikroprocesoroch, najmä od spoločnosti
+NXP
+.
+Tvoja úloha:
+implementácia nových hardvérov do našich systémov,
+možnosť zásadne ovplyvniť
+vývoj,  smerovanie a budúce zameranie spoločnosti
+,
+podieľať sa na rozširovaní portfólia vlastných
+IoT zariadení
+.
+Zamestnanecké výhody, benefity
+motivujúce finančné ohodnotenie
+,
+pružnú pracovnú dobu
+,
+prácu v spoločnosti s
+medzinárodným dosahom
+,
+rozmanitú odbornú prácu
+a možnosť ďalšieho vzdelávania,
+účasť na
+významných projektoch
+,
+firemné
+akcie a eventy
+,
+príspevok do
+tretieho piliera
+.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+.NET - Mierne pokročilý
+Vodičský preukaz
+B
+Prax na pozícii/v oblasti
+SW developer
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+samostatnosť
+pri riešení úloh,
+analytické a logické myslenie
+,
+tvorivosť
+a schopnosť prichádzať s novými riešeniami,
+presnosť a dôslednosť
+,
+zodpovedný prístup
+.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť CONTAL OK, spol. s r.o. je na trhu už od roku 1991. Zameriava sa na vývoj, výrobu a implementáciu identifikačných systémov. Pôsobenie spoločnosti je rozdelené na dve základné oblasti. Jednou je vývoj, výroba a implementácia identifikačných systémov pre zákazníkov na slovenskom trhu. Portfólio produktov pre domáci trh zahŕňa predovšetkým prístupové systémy. Druhú oblasť tvorí vývoj a výroba bezpečnostných a alarmových systémov pre svetový trh. Vďaka histórii spoločnosti sa produkty vyvinuté a vyrobené na Slovensku presadzujú hlavne v Škandinávii. Cieľom spoločnosti CONTAL OK spol. s r.o. je podieľať sa na neustálom vývoji identifikačných technológií v súlade s potrebami zákazníkov a prinášať konkrétne riešenia.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Kariera
+Tel.:
++421917565346
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5248504
+Dátum zverejnenia:
+11.3.2026
+2026-03-11
+lokalita:
+Žilina
+Pozícia:
+.NET programátor
+,
+C programátor
+,
+C++ programátor
+,
+Programátor
+Spoločnosť:
+CONTAL OK, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 300 EUR/mesiac

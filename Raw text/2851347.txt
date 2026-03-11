@@ -1,0 +1,87 @@
+Cég neve
+The Boston Consulting Group GmbH - BCG
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+API
+TESTING
+PYTHON
+JAVASCRIPT
+TROUBLESHOOTING
+Elvárások
+Angol felsőfok és
+Lengyel középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+API
+TESTING
+PYTHON
+JAVASCRIPT
+TROUBLESHOOTING
+Angol
+felsőfok és Lengyel középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+As a
+Working Student
+in the CE Forward Deployment Team, you will support the hands-on deployment of AI tools into real case team workflows, helping to translate concrete business needs into practical, lightweight AI-enabled solutions that improve day-to-day project work. Your key responsibilities will include:
+Supporting AI tool deployment -
+You will help configure and adapt AI tools for selected case teams, including setting up custom GPTs, assisting with prompt optimization, and supporting simple API-based integrations.
+Building and testing prototypes -
+You will develop small prototypes and automations to test new use cases, iterate them based on feedback, and refine solutions into usable setups.
+Assisting with agent and workflow design -
+You will contribute to the design and optimization of AI-supported workflows, including basic prompt engineering and structured experimentation with different tools.
+Providing operational support -
+You will support consultants with technical questions, troubleshooting, and onboarding to AI-enabled workflows, ensuring smooth integration into project work.
+Exploring new GenAI capabilities -
+You will test new AI features and tools and help assess their relevance for internal and case-related use cases.
+Requirements
+You are currently enrolled in a full-time bachelor's or master's program in computer science, data science, business informatics, or a related field.
+You have some experience with AI tools and workflows, ideally including API integrations and prompt engineering; experience with tools such as Claude, Cursor, or n8n is a plus.
+You have programming knowledge (Python, JavaScript, or similar).
+You have strong analytical skills and a keen interest in AI-driven process automation.
+You are fluent in English.
+YOU'RE GOOD AT
+You build before you polish. You default to “let me try it” instead of “let me research it.” You move fast, iterate quickly, and prefer a rough prototype today over a perfect plan next week. You have likely hacked together scripts or lightweight tools to automate something simply because it was faster to build than to wait.
+You are hands-on with Python, APIs, and LLMs. You do not need to be a senior engineer, but you can write a working Python script, call an API, and prompt an LLM effectively. Experience with tools such as Claude, Cursor, or n8n is a plus. What matters most is that you learn new tools quickly and apply them pragmatically.
+You bridge technology and business. You do more than code. You translate messy, ambiguous business problems into structured, automatable workflows. You are comfortable speaking with nontechnical stakeholders, clarifying what they actually need rather than just what they ask for, and delivering solutions that create tangible value.
+You are self-directed and dependable. With limited hours available, you make every session count. You absorb context quickly, work independently between check-ins, and communicate proactively when you are blocked or when you have delivered. You require minimal guidance and manage your time responsibly.
+You are genuinely curious about GenAI and its real-world impact. You experiment with AI tools in your own time, whether building agents, automating personal workflows, or testing what is possible. You see AI as a lever for step-change impact, not incremental improvement.
+What we offer
+Free beverages, fresh fruit, snacks, and cereal are available every day.
+Stop by our coffee machines and treat yourself to your favorite hot drinks!
+Our terrace will invite you to relax with a great view of the city.
+Regular after-work events are organized for team building and fun—we'd love to have you join us!
+As a dynamic, internationally active company, the diverse work environment at BCG will inspire you.
+New ways of working? They're nothing new to us. Our employees use hybrid models that combine on-site and remote work, supported by digital collaboration tools.
+Our in-house gym is well equipped and free for you to use any time.
+Great location: Right in the heart of the city, our office is close by and easy to reach.
+*Benefits may vary by location.
+Company info
+Our strategy? To be anything but typical strategy consultants! Our unconventional nature is embedded deep in our DNA. Over 60 years ago, BCG shook up the world of strategy consulting. Now, it has grown to become one of the world leaders in the field. How do we manage to stay ahead of the pack? The answer is simple: by reinventing ourselves every day and providing a home with diverse career opportunities to the best talent and most creative minds all over the world. And by giving you the chance to make an impact in business and society. BCG stands for authenticity, exceptional work, and strong integrity. Once you've become part of the Group, we'll help you find your path, unleash your potential, effect change, and advance the world.
+#jointhegroup
+Our most vital resource is our people. That's why Human Resources is one of our most important teams: From recruiting to career development for BCGers, from training and mobility support to staffing (assigning our consultants to client casework), the Human Resources Team plays a decisive role in making BCG not just a company, but a Group in which every employee can become their best.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

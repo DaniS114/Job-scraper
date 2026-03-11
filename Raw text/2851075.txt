@@ -1,0 +1,80 @@
+Cég neve
+4iG Nyrt.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol felsőfok
+5-10 év tapasztalat
+Főiskola
+
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+felsőfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+CÉGINFORMÁCIÓ
+A budapesti központtal működő, magyar többségi tulajdonosi hátterű 4iG Nyrt. Magyarország és a nyugat-balkáni régió távközlési- és informatikai piacának meghatározó cégcsoportja, a tudásalapú, digitális gazdaság egyik vezető vállalata. A Budapesti Értéktőzsdén jegyzett tőkepiaci társaság friss és innovatív szemlélete, valamint magyarországi piacvezető informatikai rendszerintegrátor pozíciója a régió digitális átalakulásának vezető lakossági- és üzleti szolgáltatójává emeli a cégcsoportot.
+A telekommunikációs, valamint informatikai piac változásainak és igényeinek megfelelve a vállalatcsoport folyamatosan bővíti szolgáltatásait, szakemberállományát és portfólióját.
+Ha Te is úgy érzed, hogy szívesen része lennél egy jó csapatnak, foglalkoztatnak az innovatív megoldások, mindenképp nálunk a helyed!
+A munkakör célja
+Senior szoftverfejlesztőként mobilalkalmazások tervezésében, fejlesztésében és architekturális kialakításában számítunk Rád. Aktív szereped lesz új alkalmazások létrehozásában és meglévő rendszerek továbbfejlesztésében, a teljes életcikluson át.
+Az egyik natív mobilplatform szakértője vagy, a másikon pedig magabiztosan mozogsz? Akkor Téged keresünk.
+KÖZÖS CÉLJAINK MEGVALÓSÍTÁSÁHOZ AZ ALÁBBIAKBAN SZÁMÍTUNK RÁD
+Mobilalkalmazások és komplex funkciók tervezése és fejlesztése üzleti igények alapján
+Architektúrális döntések meghozatala, technikai kockázatok elemzése
+A fejlesztett kód teljes életciklusáért való felelősségvállalás
+Kódminőség biztosítása, code review-k és szakmai támogatás
+CI/CD folyamatok kialakítása a DevOps csapattal együttműködésben
+Tesztelés támogatása, hibák és incidensek kezelése SLA-k mentén
+Szoros együttműködés UX/UI, tesztelői és projektcsapatokkal
+Ráfordításbecslés és szakmai dokumentáció támogatása
+AMI SZÜKSÉGES LESZ AZ EREDMÉNYES MUNKÁDHOZ
+Felsőfokú informatikai végzettség
+5–10 év releváns mobilfejlesztési tapasztalat
+Kommunikációképes angol nyelvtudás
+Magas szintű tapasztalat az alábbiak egyikében:
+Android: Kotlin, Android SDK, Jetpack
+iOS: Swift, Objective-C, UIKit / SwiftUI
+A másik platform legalább középfokú, önálló munkavégzéshez elegendő ismerete
+REST API integrációs tapasztalat
+Objektumorientált szemlélet és clean code gyakorlat
+Mobil biztonsági és kódminőségi irányelvek ismerete
+Git és CI/CD eszközök (pl. GitLab CI, Jenkins) használatában szerzett tapasztalat
+Automatizált tesztelési tapasztalat (Espresso, XCTest)
+AMIVEL VÁRUNK TÉGED
+Változatos feladatokon keresztül, fejlődési- és karrierlehetőséget biztosítunk számodra.
+Szakmai és soft skill képzések széles palettáját kínáljuk Neked munkavégzésedhez kapcsolódóan.
+Juttatási rendszerünket folyamatosan bővítjük, jelenleg telefonflotta csomag, Cafetéria (SZÉP kártya), egészségbiztosítás, gyümölcsnap, nagyon finom kávé, és sok más kedvezményes lehetőség, amivel várunk Téged.
+Az irodai napok mellett támogatjuk az otthoni munkavégzést is munkakörtől függően, erről az interjúnk kapsz bővebb információt.
+Hiszünk a csapat erejében, közösségépítéssel kapcsolatban csapatépítőkre, versenyekre és sporteseményekre lehet számítani nálunk.
+MUNKAHELYI EXTRÁK
+Céges rendezvények
+Sportolási lehetőség
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

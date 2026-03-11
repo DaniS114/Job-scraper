@@ -1,0 +1,99 @@
+Deutsche Telekom Services Europe Slovakia
+O nás
+Voľné pozície
+Firemná kultúra
+Benefity
+Kontakt
+Technical
+AI SERVICES-Senior Data Scientist specialized on NLP- KE
+We are a small team in a big company, adopting agile methodology. We provide Data Science solutions for internal customers inside Deutsche Telekom and our skills and solutions are continually in high demand. Therefore, we want to increase the size of our team with additional technical people that know how to process and analyze data so we can serve and satisfy the needs of even more customers.
+We are looking for somebody who can work independently, create working solutions quickly, creatively come up with new ideas, but also knows how to use and where to look for existing solutions. Our project members are also situated in Germany, Slovakia, Romania or India so video conferencing is the daily standard.
+Apply and find out more about us and our Digi department and join our team in Košice or Bratislava!
+Contract type
+full-time
+Place of work
+Košice, Slovak Republic
+Start date
+ASAP
+Wage (gross)
+From 3 000 EUR/month
+About
+the position
+Daily Tasks:
+· You will be responsible to improve our backends for LLM-backed agent applications such as our Chatbots in Python.
+· You will foster the customer experience by stabilizing and improving the existing solution (better visualization, automated validations, enable function calling and agent actions.)
+· You will be responsible for identification and implementing upcoming, new business requirements
+· Cooperate with the business side including your active contribution in customer workshops, meetings, and calls so the ability to explain technical points to business colleagues is a crucial part of this job, as is a consultant’s mindset
+· Participate in team brainstorming sessions, code reviews, and pair programming sessions
+· You will have the chance to identify possible use cases for automation and data science, innovative ideas are welcome
+We work in a HYBRID STYLE of working with an unlimited home office, but twice a week we meet in the office (Bratislava or Košice) for meetings.
+The published salary is the minimum possible offer. The starting salary may be higher depending on the extent of fulfillment of the employee's requirements (education, language skills, required practice, personality assumptions and skills).
+What
+we expect
+Candidates with education suit the position
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Personality requirements and skills
+· Profound experience in software development using Python programming language, preferably in frameworks like FastAPI, Celery and data science libraries
+· Furthermore, knowledge in LLM frameworks such as LangChain, LLamaIndex and the client APIs of Azure and OpenAI completes your profile
+· Knowledge of database systems like Postgres or MySQL (or any other relational database) as well as document-based databases like Elasticsearch & MongoDB is a plus
+· Proven experience with development of RESTful APIs
+· you are flexible and responsive to changing work patterns and demands and preferably you have already successfully applied agile methodology (e.g. Scrum)
+· active participation and contribution in extending and sharing your knowledge
+· fluent written and spoken English.
+Nice to have:
+· German language skills
+· Prompt Engineering: Understanding how to optimize prompts for LLM models
+· Cloud DevOps Skills: Familiarity with containerization (Docker), CI/CD tools (GitHub Actions, GitLab CI), and deployment to cloud platforms (Azure, AWS, GCP) to ensure scalability and production-readiness.
+· Familarity with MLOps or AI Workflow Orchestration Tools such as MLflow or Dagster
+· Domain-Specific Experience in Telco or Finance industries
+Interpersonal Skills
+· Proactivity towards customer service is essential.
+· Flexible and responsive to changing work patterns and demands
+· A thorough and methodical approach to work
+· Highly developed skills in interpersonal communication
+· Knowledge sharing – active contributor.
+Benefits
+that make you happy
+Annual bonus
+Fully paid meal vouchers
+Phone also for private use
+Discounts for selected Telekom products
+Supplementary pension saving contribution
+Cafeteria system of benefits/Multisport card
+Sick days
+Sports club & Health days
+Teambuildings, summer & Christmas party
+Opportunities for career growth
+Referral program
+Flexible working time
+About
+the selection process
+We are dedicated to constantly promoting equal employment opportunities and are ready to make reasonable adjustments for applicants with disabilities. If you are interested in our job opportunity and meet our job requirements for this position, we encourage you to confidentially notify us if you need specific accommodations to ensure your full participation in our recruitment process at recruitment@telekom.com.
+Snažíme sa neustále podporovať rovnaké príležitosti v zamestnaní a sme pripravení urobiť primerané úpravy pre uchádzačov so zdravotným postihnutím. Ak máte záujem o túto pracovnú príležitosť a spĺňate požiadavky inzerovaného pracovného miesta, odporúčame vám, aby ste nám dôverne oznámili, ak potrebujete osobitné úpravy, ktoré vám zabezpečia plnohodnotnú účasť na našom náborovom procese na recruitment@telekom.com.
+Send CV
+Deutsche Telekom Services Europe Slovakia
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5247610
+Dátum zverejnenia:
+10.3.2026
+2026-03-10
+lokalita:
+Košice
+Pozícia:
+Javascript Programmer
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+Deutsche Telekom Services Europe Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

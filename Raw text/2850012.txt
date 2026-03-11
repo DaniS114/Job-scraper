@@ -1,0 +1,92 @@
+Cég neve
+Deutsches Krebsforschungszentrum DKFZ
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ACCESS
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ACCESS
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+The successful candidate will lead a dedicated support and research team and manage the data curation support activities across HI. Responsibilities include:
+Managing and mentoring a multidisciplinary team of machine learning and image analysis experts
+Coordinating DCU activities across partner sites and aligning them with HI strategy
+Co-developing and implementing a holistic data curation framework together with DCU members at partner sites (MDC, DESY, UFZ)
+Overseeing and supporting the team with tasks such as:
+Development of structured workflows for image data formation, quality assessment, and annotation management
+Systematic investigation and formalization of repetitive and undocumented data curation practices
+Development and recommendation of tools for data annotation, metadata structuring, and quality control
+Supporting researchers in adapting heterogeneous datasets into a unified internal curation framework
+Designing feedback mechanisms between data curation and downstream image analysis (including AI-based pipelines)
+Providing training formats, guidelines, and consultation for researchers across experience levels and data scales
+Promoting open science, software sustainability, and knowledge sharing
+The team lead will work closely with HI and DKFZ leadership and other support units to ensure that data curation practices are coherent, scalable, and aligned with institutional goals.
+Requirements
+We are looking for a highly motivated professional with a strong technical background and leadership experience. The ideal candidate will have:
+A PhD in computer science, physics, mathematics, or a related discipline
+Strong expertise in image analysis and/or machine learning, with a deep understanding of how data characteristics impact downstream AI performance
+Demonstrated experience in handling and curating complex imaging datasets
+Experience in developing structured workflows and standards
+Proven leadership experience, including mentoring and coordination of interdisciplinary teams
+Excellent record in open-source software development and experience in collaborative software development practices (e.g., version control, code review, continuous integration)
+Proven track record of interdisciplinary and (inter)national collaboration as well as strong willingness to collaborate across the Helmholtz Association and with other HI groups at DKFZ
+Exceptionally collaborative and open‑science work ethos
+Prior experience in annotation management, large-scale or heterogeneous imaging data and interest in standardization and research infrastructure development are highly desirable.
+What makes this position special:
+A leadership role within a dynamic, highly collaborative scientific environment
+The opportunity to work at the forefront of AI, contributing to real-world research challenges
+Close integration with leading imaging and machine learning initiatives through HI
+Access to cutting-edge infrastructure and computing resources
+Application:
+Please submit a single PDF file including a cover letter addressed to Prof. Klaus Maier-Hein (Head Medical Image Computing, DKFZ and Helmholtz Imaging Center Coordinator) and Prof. Lena Maier-Hein (Head Intelligent Medical Systems, DKFZ and Helmholtz Imaging Center Coordinator), your curriculum vitae, list of publications or relevant project contributions, and contact details for at least two references.
+What we offer
+Excellent framework conditions: state-of-the-art equipment and oppor­tunities for inter­national networking at the highest level
+30 days of vacation per year
+Flexible working hours
+Remuneration according to TV-L incl. occupational pension plan and capital-forming payments
+Possibility of mobile work and part-time work
+Family-friendly working environ­ment
+Sustainable travel to work: subsidized Germany job ticket
+Unleash your full potential: targeted offers for your personal development to further develop your talents
+Our Corporate Health Manage­ment Program offers a holistic approach to your well-being
+Company info
+The German Cancer Research Center (DKFZ) is one of Europe's largest cancer research centers. “Research for a life without cancer" is the mission of our world-class scientists and all our team members.
+The DKFZ is a place where the brightest minds pursue bold ideas and seek answers to pioneering scientific questions through collaboration, innovation, and exploration across many disciplines. We provide a dynamic environment which empowers excellence with state-of-the-art technologies, cutting edge infrastructure, and a global scientific network.
+Contribute your knowledge, vision, and dedication to create a space where scientific discovery in cancer research is transformed into benefits for human health.
+As a core partner in Helmholtz Imaging (HI), DKFZ is committed to advancing imaging science and technology across all scales, modalities, and scientific domains together with the Max Delbrück Center for Molecular Medicine in the Helmholtz Association (MDC, Berlin), the Helmholtz-Centre for Environmental Research (UFZ, Leipzig), and the German Electron Synchrotron (DESY, Hamburg). Within this context, the newly established Data Curation Unit (DCU) serves as a cross-center support unit dedicated to strengthening the foundations of imaging research by systematizing and improving image data curation practices across the Helmholtz Association.
+We are seeking for the next possible date a dynamic and experienced individual for a
+Team Lead Position “Data Curation Unit” in Helmholtz Imaging.
+Reference number: 2026-0035
+As part of a distributed cross-center structure, the DKFZ lead will co-develop and implement a unified data curation framework and coordinate local and cross-site activities. The unit's mission is to support researchers and HI support teams by providing structured guidance, tools, and workflows for high-quality, reproducible, and AI-ready imaging datasets.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

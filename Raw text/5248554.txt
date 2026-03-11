@@ -1,0 +1,92 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+SW Test Engineer (automation)
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 2 600 EUR/month
+* The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate. * Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period(usually 6 months).
+Contract type
+full-time
+In our agile team we are looking for an experienced SW Test Engineer in automation who would take care of Quality Assurance of our Linux products targeted to the private sector and for large customers.
+Job description:
+· As a member of the agile team, cooperate with Software Engineers to verify newly developed functionalities in the product.
+· Identify new defects in the product by means of automated and non-automated testing. Track defects in bug tracking tools. Verify the fixes of previously found defects.
+· Prepare the environments needed for testing purposes together with System Engineers.
+· Maintain and extend automated testing frameworks in cooperation with other Test Engineers and System Engineers.
+· Create and maintain internal documentation of product functionalities from QA perspective.
+· Take part in team activities like scrum meetings, planning meetings, reviews, and retrospectives.
+Basic requirements:
+· 3+ years of experience with software testing.
+· Knowledge of scripting in Bash and/or Python.
+· Experience with Robot framework or similar technologies.
+· Experience with basic administration of Linux operating systems - shell, checking logs, using SSH & running simple services (lightweight webserver, proxy etc.).
+· Experience with project management / issue-tracking software (e.g. Jira).
+· Proficient in using the Git version control system and Git-based platforms (e.g. BitBucket).
+· Critical thinking.
+· Good communication skills.
+· Willingness to learn and improve.
+· Desire to improve things, even if they are “good enough”.
+· Ability to understand technical and write internal documentation in English.
+Nice to have:
+· Experience with Ansible, Virtualization platforms and containerization technologies.
+· Understanding of agile principles.
+· Experience with the administration of Windows operating system and PowerShell scripting.
+· Understanding of CI/CD pipelines.
+· ISTQB certification.
+Kontaktná osoba
+Jakub Kunik
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Neustále hľadáme nové kolegyne alebo nových kolegov, ktorí chcú byť súčasťou úspešného slovenského príbehu s globálnym dopadom. V ESET neustále dokazujeme, že špičková expertíza a inovácie vytvorené na Slovensku majú silu konkurovať najväčším hráčom v oblasti kyberbezpečnosti po celom svete. Ak chceš pracovať pre firmu, ktorá stavia na kvalite, odbornostiach a reálnom dopade svojej práce vo svete, hľadáme práve
+TEBA.
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5248554
+Dátum zverejnenia:
+11.3.2026
+2026-03-11
+lokalita:
+Bratislava
+Pozícia:
+Automation Test Engineer
+,
+IT Tester
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 600 EUR/month

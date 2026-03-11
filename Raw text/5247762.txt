@@ -1,0 +1,111 @@
+DevOps Engineer (Azure, Kubernetes, Terraform) – Security focus
+NATEK SLOVAKIA, s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Start date
+immediately or upon agreement
+Wage (gross)
+2 800 EUR/month
+Final salary offer is based on your years of professional experience, B2B cooperation also possible (basic salary - from 200 EUR MD rate)
+Information about the position
+Job description, responsibilities and duties
+We are looking for a DevSecOps Engineer
+to join the technology team of a
+leading global telecommunications company
+. In this role, you will help build and operate secure, reliable, and highly automated infrastructure and deployment pipelines for
+customer-facing platforms
+. You will work closely with development, operations, and security teams to embed security into every stage of the software development lifecycle and support the safe delivery of services used by millions of customers.
+Cooperation:
+COW (TPP/HPP) or B2B - freelancing, long term cooperation
+Working model:
+hybrid (2-3x on-site in Bratislava or Brno)
+What You’ll Do
+Collaborate with development and operations teams to integrate security requirements into the SDLC
+Implement, maintain, and improve security tools, processes, and best practices
+Perform regular security assessments, vulnerability scans, and penetration testing
+Develop and maintain security policies, procedures, and technical guidelines
+Automate security checks and controls within CI/CD pipelines
+Promote secure coding practices and provide guidance to development teams
+Monitor and analyze security logs and alerts to detect and respond to incidents
+Participate in incident response, root cause analysis, and post-mortems
+Employee perks, benefits
+Internal Mobility Program – enjoy many opportunities for career growth, job rotations, diversity of projects & technologies
+International, diverse, and inclusive working environment – get experience in global projects for worldwide leaders and enjoy multinational teams
+Referral Program – enjoy cooperation with your colleagues and get the bonus
+5/10 years NATEK club – we offer long-term cooperation and celebrate each fifth-year cooperation anniversary with gifts
+NATEK CSR Events & team buildings – enjoy our values: accountability, partnership and expertise and #workITwithus
+Education – benefit from our know-how, learning courses and certificates and IT events – be part of community of leaders of the industry and take part as a speaker or a visitor
+Relocation Bonus – reimbursement for moving expenses for out-of-town candidates
+Bonuses for Personal Events – we congratulate you on important events of your life: giving birth to children, university graduation, etc.
+Benefit Plus (Cafeteria) – use our e-shop with corporate benefits like travel, theatre tickets, books etc.
+Multisport Club Card
+Technical and Personal training – we are investing in your skills growth
+Language courses
+1 paid day off for volunteering – we are supportive of all charity ideas
+Meal contribution directly to your account
+Expected date of completion of the selection process
+31.3.2026
+(there are still 20 more days)
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Other knowledge
+IT / Application Security - Skillful
+CI/CD pipelines - Skillful
+Linux / UNIX administration - Skillful
+Kubernetes - Skillful
+Security best practices - Skillful
+Microsoft Azure - Skillful
+Terraform - Skillful
+Number of years of experience
+3
+Personality requirements and skills
+What We’re Looking For
+Minimum 3+ years
+in DevSecOps / Cloud / Security-related role
+Strong hands-on experience with Azure cloud services
+Practical experience with Kubernetes in production environments
+Experience implementing Infrastructure as Code using Terraform
+Experience securing CI/CD pipelines
+Knowledge of security best practices, security tools, vulnerability scanners, and monitoring solutions
+Advanced Linux/UNIX system administration skills
+Advanced English
+(spoken and written)
+Experience working in Agile/Scrum environments
+Advertiser
+Brief description of the company
+Join one of the most sought-after companies that specialize in IT outsourcing business.
+Building on our shared company values – accountability, expertise and partnership - NATEK's mission is to deliver high quality IT outsourcing and consulting services in the CEE region. Since 2004, our employees have been participating projects for our partners from all over the world   in the most important sectors, including finance and insurance, telecommunications, and IT infrastructure. NATEK has offices in Poland, Bulgaria, the Czech Republic and Slovakia, and thanks to a team of over 700 experts, including project managers, programmers and administrators, we are able to effectively support our partners.
+Number of employees
+500-999 employees
+Contact
+Contact person: Laura Horvathova
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5247762
+Dátum zverejnenia:
+10.3.2026
+2026-03-10
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT Security Specialist
+Spoločnosť:
+NATEK SLOVAKIA, s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/month

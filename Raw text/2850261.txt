@@ -1,0 +1,104 @@
+Cég neve
+Riverty
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+FRONTEND
+ANGULAR
+BACKEND
+TESTING
+JAVASCRIPT
+JAVA
+SPRING
+C
+WINDOWS
+API.
+CLOUD
+DATABASES
+ORACLE
+SQL
+AZURE.
+SCRUM
+AGILE
+Biztosított eszközök
+Windows
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+FRONTEND
+ANGULAR
+BACKEND
+TESTING
+JAVASCRIPT
+JAVA
+SPRING
+C
+WINDOWS
+API.
+CLOUD
+DATABASES
+ORACLE
+SQL
+AZURE.
+SCRUM
+AGILE
+Windows
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+You will be part of one of our product teams, and you willfocus mainly on frontend development while also taking on some backend work.
+Acting as a role model and mentor for your team by promoting best practices, conducting code reviews, and ensuring high code quality. while also challenging the product owner technically.
+Be the technical counterpart that complements the Product Owner.
+Gathering and translating requirements from strategic and organizational initiatives into actionable technical and business solutions that support the overall vision.
+Designing, developing, testing, and delivering robust, maintainable, and well-structured software, applications, APIs, and workflows.
+Participating in regular Scrum ceremonies as part of an agile, cross-functional team.
+Analyzing, discussing, and implementing business requirements while maintaining clear documentation of the systems and components you develop.
+Adopting, applying, and giving feedback on organizational and industry best practices to help strengthen our engineering culture.
+Requirements
+University degree or equivalent qualification in IT.
+7+ years of relevant experience in software engineering, including experience as a senior or lead engineer.
+Strong proficiency with the tech stack: Angular (20+), TypeScript, JavaScript
+for the FE development.
+Basic experience with Java (Spring Boot) and/or C# / .NET
+, including Windows API.
+Proven experience in developing, deploying, and maintaining cloud-based applications.
+A solid understanding of RESTful APIs.
+Familiarity with microservices and distributed architectures (a plus).
+Experience with relational databases, preferably Oracle or SQL Server (PL/SQL).
+Knowledge of cloud development, ideally with Azure.
+Hands-on experience as an Agile Senior/Lead Engineer, supporting and guiding a development team.
+Strong communication skills in English, German is nice to have.
+Please note: we do not provide visa sponsorship, you need to have EU citizenship and/or a valid work permit for Germany.
+Company info
+We are looking for a Senior Frontend Engineer (m/f/d)
+(unlimited, full-time) Join our team at our location in Berlin – hybrid working conditions available.
+The platform is our latest customer-driven solution focused on dunning and collection journeys, developed in Angular and TypeScript. It enables clients and customers to view and interact with open cases while seamlessly connecting to multiple international backend systems through a flexible REST API.
+The frontend system is cloud-native and specifically targets Azure. It utilizes Terraform for infrastructure definition and deploys services to Kubernetes clusters by default. The ecosystem is built around microservices with event-based integration and adheres to RESTful API design principles. Single-page frontend applications are delivered via a CDN, employing TypeScript and Angular technologies, while automated tests are implemented at each layer. Design collaboration is facilitated through Figma.
+The backend systems use either C# with .NET and partially C with Windows API, or Java with Spring Boot, and are also deployed as on-premise solutions.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

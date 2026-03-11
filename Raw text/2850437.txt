@@ -1,0 +1,98 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANGULAR
+DOCKER
+AWS
+DATABASES
+POSTGRESQL
+MSSQL
+FRONTEND
+CLOUD
+NOSQL
+TESTING
+CYPRESS.
+AGILE
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANGULAR
+DOCKER
+AWS
+DATABASES
+POSTGRESQL
+MSSQL
+FRONTEND
+CLOUD
+NOSQL
+TESTING
+CYPRESS.
+AGILE
+Mobiltelefon
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, develop, and maintain scalable fullstack applications using .NET (preferably .NET 9) and Angular.
+Integrate and manage messaging systems such as Kafka and RabbitMQ.
+Deploy and manage applications using Docker and Kubernetes in AWS environments.
+Work with various databases including PostgreSQL, MSSQL, and Couchbase.
+Implement search capabilities using OpenSearch or Elasticsearch.
+Write and maintain frontend code using TypeScript and ensure quality with Playwright or Cypress.
+Collaborate closely with team members and product owners in an agile environment ensuring that the organization’s business goals are met.
+Utilize AI tools and services to enhance development workflows and productivity.
+Requirements
+Extensive experience with .NET technologies, preferably .NET 9.
+Strong proficiency in Angular and TypeScript.
+Hands-on experience with Kafka, RabbitMQ, Docker, and Kubernetes.
+Proficient in working with AWS cloud services.
+Deep understanding of relational and NoSQL databases including PostgreSQL, MSSQL, and Couchbase.
+Experience with search technologies like OpenSearch or Elasticsearch.
+Familiarity with frontend testing frameworks such as Playwright or Cypress.
+Proven experience working in agile development environments.
+Excellent communication and collaboration skills.
+Nice-to-have
+Experience designing and negotiating technical solutions across teams., Ability to design and implement end-to-end solutions across the full technology stack., Exposure to and use of AI tools and services to support software development.
+What we offer
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

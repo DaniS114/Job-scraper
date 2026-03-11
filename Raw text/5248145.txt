@@ -1,0 +1,93 @@
+Data Engineer (Python, Databricks)
+GoodWill Recruitment, s.r.o.
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+2 300 - 2 800 EUR/month
++13th and Annual bonus. The salary amount depends on the candidate's experience and seniority. Each candidate is assessed individually.
+Information about the position
+Job description, responsibilities and duties
+Design, develop, and implement data models, ETL processes, and data pipelines to ensure efficient and accurate data flow using Databricks.
+Provide technical guidance, mentoring, and support.
+Implementing and enforcing architectural standards and frameworks to ensure a flexible and scalable data environment.
+Collaborating with cross-functional teams to gather requirements, analyze data, and design effective solutions.
+Hands-on development of Python/ Spark-based scripts and applications to support data processing and transformation.
+Utilizing tools such as Databricks Notebooks, Azure Data Factory, and Change Data Capture (CDC) for orchestrating and managing data workflows.
+Optimize and enhance existing data infrastructure and systems for performance, scalability, and reliability.
+Playing a key role in DevOps activities, including deployment of jobs and required infrastructure setup.
+Staying updated with the latest industry trends and technologies in data engineering and analytics.
+Employee perks, benefits
+Individual career program for employees.
+Guaranteed 13th salary.
+Annual bonus.
+Travel allowance.
+Year-over-year salary increase.
+Extra pocket money for business trips abroad.
+Discounted meals in the canteen.
+Rewards for implemented improvements.
+Annual benefits package for sports, health, culture, relaxation, and shopping.
+Option to work from home twice a week.
+Company on whose behalf the position is being filled
+Automotive industry, manufacture of transport equipment
+An international manufacturing company operating in the automotive industry.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+Information Technology
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+2+ Years of experience in the field of Data Engineering & Analytics.
+Understanding of Data warehousing, engineering & ETL concepts.
+Experience in Databricks development using Python, PySpark & DLT Pipelines.
+Experience working with databases and various types of data storage.
+Excellent communication and interpersonal skills
+Time and project management skills, with the ability to prioritize and multitask as needed.
+Goal orientation and holistic thinking and action.
+Experience working with Azure / AWS.
+Certifications in relevant data technologies will be an added advantage.
+Advertiser
+Brief description of the company
+Sme GoodWill Recruitment - Vaši kariérni inovátori. Ak chcete zmenu a máte chuť napredovať, pozrieme sa s vami na to, aké možnosti máte vo svojom segmente a zistíme, akú výzvu vám vieme ponúknuť. Vyhľadávame špecialistov v oblasti výroby, vývoja, logistiky, elektrotechniky, informačných technológií, financií či ľudských zdrojov. Môžeme sľúbiť osobný prístup, férovosť a čestnosť. Sme Goodwill Recruitment - spájame správnych ľudí so správnymi firmami.
+Vážime si váš prejavený záujem a ďakujeme za zaslanie životopisu. Kontaktovať budeme kandidátov, ktorí spĺňajú požiadavky na danú pozíciu.
+Contact
+Contact person: Ján Hajnik
+Tel.:
++421948614486
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5248145
+Dátum zverejnenia:
+10.3.2026
+2026-03-10
+lokalita:
+Košice
+Pozícia:
+Business Intelligence Specialist
+,
+Data Analyst
+,
+Data Engineer
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+GoodWill Recruitment, s.r.o.
+Základná zložka mzdy (brutto):
+2 300 EUR/month

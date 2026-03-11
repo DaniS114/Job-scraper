@@ -1,0 +1,73 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+GIT
+DOCKER.
+PYTHON
+BASH.
+LINUX
+SECURITY
+JIRA
+CI.
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+GIT
+DOCKER.
+PYTHON
+BASH.
+LINUX
+SECURITY
+JIRA
+CI.
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Manage the end-to-end release process, including branch management, software version control, release note documentation, and clear communication with internal and external collaborators.
+Drive release automation by enhancing CI/CD pipelines, defect logging and tracking for releases.
+Requirements
+Experience working with software build systems for embedded platforms, such as Yocto and CMake.
+Strong proficiency with tools including Jira, Git and Docker.
+Strong experience in defect triage and defect management for system software releases.
+Good understanding of CI/CD principles, ideally with hands-on experience in GitLab CI.
+Good scripting skills, such as Python and Bash.
+Excellent interpersonal skills with consistent track record to deliver projects on time.
+Nice-to-have
+Experience using Linux, including basic system administration and networking., Familiarity with Security Development Lifecycle (SDL) practices., Awareness of software supply chain compliance (software component analysis, open-source licenses, SBOMs).
+What we offer
+Join us and make a real impact on the quality of Arm's software!
+This is your chance to grow, develop new skills, and build a successful career at a leading technology company.
+Hybrid working environment designed to support high performance and personal wellbeing.
+Revolutionary benefits including health and wellness, work and life success, financial rewards, and development and support.
+Company info
+Arm has built the world’s most pervasive compute architecture, and we’ve led many of the technology revolutions that impact the day-to-day lives of people everywhere. We work on technology to transform the future of AI and IoT devices.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

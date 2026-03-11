@@ -1,0 +1,108 @@
+Cég neve
+Mortoff Informatikai Tanácsadó és Szolgáltató Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVA
+SELENIUM
+JUNIT
+AZURE
+DEVOPS
+GIT
+POSTMAN
+SOAPUI
+C
+PYTHON
+DOCKER
+API
+CLOUD
+CYPRESS
+MAVEN
+JENKINS
+CI
+BITBUCKET
+JIRA
+REST
+CUCUMBER
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+JAVA
+SELENIUM
+JUNIT
+AZURE
+DEVOPS
+GIT
+POSTMAN
+SOAPUI
+C
+PYTHON
+DOCKER
+API
+CLOUD
+CYPRESS
+MAVEN
+JENKINS
+CI
+BITBUCKET
+JIRA
+REST
+CUCUMBER
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Automata tesztek tervezése, fejlesztése és végrehajtása a szoftverek megbízhatóságának és funkcionalitásának biztosítása érdekében.
+Tesztelési stratégiák kidolgozása és folyamatos optimalizálása a szoftverfejlesztési életciklus minden fázisában.
+Különböző alkalmazások tesztelése .NET vagy Java alapú rendszerekben, beleértve a web- és mobilalkalmazásokat.
+Szoros együttműködés a fejlesztőcsapattal a hibák gyors azonosítása és javítása érdekében.
+Folyamatos integráció és fejlesztési környezetek (CI/CD) beállítása és karbantartása.
+Teljesítmény- és biztonsági tesztek végrehajtása, valamint tesztelési jelentések készítése.
+Elvárások
+Tapasztalat automata tesztelésben .NET vagy Java környezetben.
+Ismeretek és tapasztalatok a következő eszközökkel és technológiákkal:
+Automatizált tesztelés: Selenium, Appium, Playwright, Cypress, TestNG, JUnit, NUnit
+Becslési és integrációs keretrendszerek: Maven, Gradle, MSBuild, TeamCity, Jenkins, GitLab CI, Azure DevOps
+Verziókezelés: Git, GitLab, GitHub, Bitbucket CI/CD: Jenkins, Bamboo, GitLab CI, Azure DevOps
+Tesztelési eszközök: Postman, RestAssured, SoapUI
+Verzió- és hibakövetés: Jira, Azure DevOps, Redmine
+Programozási nyelvek: C#, Java, Groovy, Python
+Konténerek és virtualizáció: Docker, Kubernetes
+Angol nyelv ismerete
+Előnyt jelent
+Tapasztalat API tesztelésben (REST, SOAP), Képes dolgozni különböző típusú tesztelési módszerekkel: funkcionális, teljesítmény, regresszió, biztonsági tesztelés, Tapasztalat különböző tesztelési környezetekben és technológiákban (Cloud, Docker, Kubernetes), Automatizált UI tesztelés web- és mobilalkalmazásokban, Ismeretek a tesztelési keretrendszerek és -platformok, mint például Cucumber, SpecFlow vagy FitNesse használatában
+Amit kínálunk
+Kihívást jelentő projektek és szakmai fejlődési lehetőségek.
+Versenyképes fizetés és egyedi juttatási csomag.
+Rugalmas munkaidő és home-office lehetőség.
+Képzési és továbbképzési lehetőségek, valamint a legújabb technológiai trendek elsajátítása.
+Barátságos, támogató munkakörnyezet és lehetőség a szakmai előre jutásra.
+Céginformáció
+A Mortoff a hazai piac egyik elismert informatikai tanácsadó és szolgáltató vállalkozása. Az IT minden területén professzionális szolgáltatásokat nyújtunk közép- és nagyvállalati ügyfeleink számára a toborzástól, az informatikai tanácsadáson és megoldásokon keresztül, a teljes projektmenedzsmentig.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Tesztelő,
+Tesztmérnök
+Budapest
+Álláshirdetés jelentése

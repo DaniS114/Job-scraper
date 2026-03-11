@@ -1,0 +1,75 @@
+Cég neve
+ITech Consult AG
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NETWORK
+ISO
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+NETWORK
+ISO
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Rust Software Engineer
+Rust Software Engineer (m/f/d) - Software development / Rust / async/await / ISAQB / English
+Project: For our client based in Rotkreuz, we are looking for a Rust Software Engineer (m/f/d).
+Background:
+In a global, cross-functional environment, the PCR Software Development chapter is responsible for developing and maintaining integrated, unified and reliable software solutions for Molecular Diagnostics Systems by leveraging our advanced capabilities, in-depth knowledge and strong internal & external partnerships driving the accuracy, efficiency and agility in innovating the Molecular Lab experience for our customers and patients throughout their journey.
+As a Software Engineer working in Rust, you will be part of a cross-functional team playing a pivotal role in designing, developing, and maintaining software solutions. You will enable our Molecular Lab network to deliver accurate and timely diagnostic solutions and your contributions will empower our customers to make a real impact in patient care.
+The perfect candidate has proven experience in software development, with a demonstrated passion and hands-on professional experience working with Rust. Additionally we are looking for someone who is highly skilled in communication, promoting diversity and inclusion, and facilitating seamless collaboration both
+within teams and across organizational boundaries.
+Tasks & Responsibilities:
+• Develop and maintain software solutions by applying in-depth technical knowledge and problem-solving skills, while ensuring compliance with regulatory standards for medical software
+• Ensure the timely delivery of high-quality software for medical devices that meets both the company's standards and customer needs, influencing the success of the team and broader project outcomes
+• Communicate complex technical concepts effectively, fostering an environment of collaboration and continuous learning within and across diverse and intercultural teams
+• Empower your team members to take ownership of their work and leading by example to foster teamwork and mentorship.
+Must Haves:
+• Bachelor's degree or equivalent practical experience in a specialized field related to software development or engineering.
+• Several years of proven experience in software development, with a demonstrated passion and hands-on professional experience working with Rust for at least two years including a solid understanding of Rust's core concepts (ownership, borrowing, and lifetimes), experience with asynchronous programming in Rust (eg, using async/await) and familiarity with common Rust libraries and frameworks (eg, tokio, actix-web, rocket, serde, sqlx).
+• Hands-on experience with modern system architectures like event-driven architecture and DDD, quality-driven practices such as TDD and BDD, or containerization technologies like Kubernetes is a plus.
+• Capable of solving complex issues creatively and effectively, using a multi-faceted approach based on thorough analysis to resolve complex technical challenges.
+• Excellent communication skills with the ability to foster an inclusive and diverse environment as well as collaborate effectively within and across teams.
+• Motivation to make an impact to your fellow team members, our company, our customers and our patients • Leads by example to foster cross-functional value delivery and to establish a psychologically safe working environment and empowers its own team and holds people accountable by creating conditions for ownership. • Experiences as a Technical Lead within a team is a plus.
+• Certified ISAQB or equivalent is a plus.
+• English fluency is a MUST, German is a plus.
+Reference No.: 924717
+Role: Rust Software Engineer (m/f/d)
+Industry: Pharmaceuticals
+Location: Rotkreuz
+Workload: 80-100%
+Start: ASAP
+Duration: 10+ months
+Deadline: March 23, 2026
+If this position has piqued your interest, please send us your complete resume. If this position does not quite match your profile and you would like to receive other positions directly, you can also send us your resume via this ad or to jobs[at]itcag[dot]com.
+Contact us for more information about our company, our positions, or our attractive payroll-only program: .
+About us:
+ITech Consult is an ISO 9001:2015-certified Swiss company with offices in Germany and Ireland. ITech Consult specializes in placing highly qualified candidates for temporary staffing in the fields of IT, life sciences, and engineering. We offer temporary staffing and payroll services. This is free of charge for our candidates, and we do not charge any additional fees for payroll services. jidbe04c66pn jit0311pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Switzerland
+Álláshirdetés jelentése

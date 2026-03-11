@@ -1,0 +1,100 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+TESTING
+C
+AWS
+AZURE
+DATABASE
+SQL
+POSTGRESQL
+NOSQL
+MONGODB
+DOCKER
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+TESTING
+C
+AWS
+AZURE
+DATABASE
+SQL
+POSTGRESQL
+NOSQL
+MONGODB
+DOCKER
+Mobiltelefon
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Participate in design, POCs and development of complex tasks
+Ensure high-quality delivery by developers
+Work closely with architects to communicate, align and implement architecture direction
+Align with other tech leads to ensure technical consistency
+Take ownership of and drive technical excellence initiatives within Sportsbook
+Identify and validate technical improvements
+Help Product Managers prioritise technical improvements
+Explain benefits of technical improvements to technical and non-technical audiences
+Participate in development, testing, code reviews, bug fixing, implementing new features
+Maintain and improve existing functionality
+Participate in technical interviews
+Coach and mentor engineers
+Stay up to date with technology and strategically implement new technologies
+Requirements
+Passionate about building things with strong technical background and understanding of non-functional requirements
+Expertise with designing and implementing distributed microservices
+Deep understanding of latest C# and .NET framework/core
+Experience deploying scalable back-end solutions using AWS/Azure/GCP
+Expertise with distributed systems and high-speed database technologies including SQL (PostgreSQL) and NoSQL (MongoDB, Redis)
+Familiarity with messaging systems, message queues, and event-driven architecture
+Knowledge of containerization (Docker) and orchestration (Kubernetes)
+Deep understanding of coding best practices
+Team player who offers help and shares knowledge
+Pro-active and drives improvements
+What we offer
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,79 @@
+Cég neve
+Deutsches Krebsforschungszentrum DKFZ
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Are you passionate about bioinformatics and eager to work in an interdisciplinary team? In our group, you will work on the following tasks:
+Develop and adapt bioinformatics approaches for the analysis of human genomic and epigenomic data sets
+Design and implement analysis workflows for the analysis of long-read whole-genome sequencing and targeted short-read sequencing (hybridization capture, MeDIP-seq) data
+Maintain and further develop our in-house software tools and AI models for cancer classification
+Analyze and present the results
+Collaborate with internal and international collaboration partners
+Requirements
+Academic degree (M.Sc. and Ph.D.) with a background in computer science, bioinformatics, physics, or a related field
+Proven experience in next-generation sequencing (NGS) data analysis
+Proficiency in relevant programming languages such as R/Bioconductor and Python
+Profound experience with version control (Git) and workflow management systems (e.g., Snakemake, CWL or Nextflow)
+Experience in training and applying artificial intelligence models (e.g., PyTorch) and workflows (MLops)
+Good analytical and (bio)statistical skills
+Ability to quickly grasp new concepts and work independently on complex problems
+Ability to work as part of an interdisciplinary team but also independently
+Excellent communication, organizational, and interpersonal skills
+An excellent written and oral command of English is essential
+The application (English or German) shall include a CV, a letter of motivation, degree certificates, and names and contact information of at least two references.
+What we offer
+Excellent framework conditions: state-of-the-art equipment and oppor­tunities for inter­national networking at the highest level
+30 days of vacation per year
+Flexible working hours
+Remuneration according to TV-L incl. company pension scheme and capital-forming benefits
+Possibility of mobile work and part-time work
+Family-friendly working environ­ment
+Sustainable travel to work: subsidized Germany job ticket
+Unleash your full potential: targeted offers for your personal develop­ment to further develop your talents
+Our Corporate Health Manage­ment Program offers a holistic approach to your well-being
+Company info
+The German Cancer Research Center (DKFZ) is one of Europe's largest cancer research centers. “Research for a life without cancer" is the mission of our world-class scientists and all our team members.
+The DKFZ is a place where the brightest minds pursue bold ideas and seek answers to pioneering scientific questions through collaboration, innovation, and exploration across many disciplines. We provide a dynamic environment that empowers excellence with state-of-the-art technologies, cutting-edge infrastructure, and a global scientific network.
+Contribute your knowledge, vision, and dedication to create a space where scientific discovery in cancer research is transformed into benefits for human health.
+With the German Cancer Research Center as its core center, the
+German Cancer Consortium (DKTK)
+brings together, on a long-term basis, outstanding partners from university medicine as well as other leading research institutions at eight sites across Germany. The DKTK conducts pioneering translational cancer research, educates the next generation of translationally oriented scientists, and establishes high-performance structures to facilitate the transfer of research findings into clinical cancer research and into industry. Further information can be found at dktk.dkfz.de.
+The
+DKTK partner site Berlin
+is located at Charité – Universitätsmedizin Berlin and closely aligned with the Berlin Institute of Health (BIH) and Max Dellbrück Centre for Molecular Medicine (MDC). A major research focus is molecular diagnostics in the tissue-to-fluid continuum for precision intervention. In the research area Cancer Liquid Biopsy, we develop and provide patient-centric, nucleic acid-based molecular tools for diagnosis and longitudinal monitoring of cancer. We employ short- and long-read sequencing technologies and AI-powered analysis tools to study genomic, epigenomic, and transcriptomic readouts. While our methods are tumor type-agnostic by design, current projects focus on brain tumors, head-and-neck cancer, and hematolymphoid malignancies.
+To support the development of patient-centric molecular diagnostic tools at the DKTK partner site Berlin, we are seeking for the next possible date an experienced
+Bioinformatician.
+Reference number: 2026-0036
+Located in the Department of Neuropathology at Charité, you will work in a collaborative, multidisciplinary environment with project partners in the Department of Oncology, Pediatric Oncology, and Radiation Oncology.
+The successful candidate will be employed at DKFZ Heidelberg and physically located at a closely collaborating clinical department / institute at Charité – Universitätsmedizin Berlin.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Education,
+Science, Sports
+Biologist
+Germany
+Álláshirdetés jelentése

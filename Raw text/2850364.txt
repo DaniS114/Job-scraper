@@ -1,0 +1,100 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+DOCKER
+SQL
+NOSQL
+DATABASES
+POSTGRESQL
+AWS
+AGILE
+SCRUM
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+DOCKER
+SQL
+NOSQL
+DATABASES
+POSTGRESQL
+AWS
+AGILE
+SCRUM
+Mobiltelefon
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Lead a team of talented people and take overall responsibility for team performance
+Drive the delivery of the team and promote a healthy team spirit and culture
+Ensure each individual in the team is given support in their career development
+Actively participate as a hands-on member of the team
+Build a high performing team through recruitment, coaching, mentoring, feedback, and continuous improvement
+Direct line management of people in the team, accountable for their performance, satisfaction and career development planning
+Drive and facilitate the team’s delivery to production in terms of time and quality
+Foster a team culture of ownership, collaboration, and passion for delivering quality products
+Motivate the team to maintain high technical standards, especially reliability and uptime
+Collaborate with wider technical leadership for architectural direction and alignment on ways of working
+Facilitate discussion, decision making, knowledge sharing, planning and conflict resolution
+Ensure team processes and routines are defined, organised, continuously reviewed and optimised
+Take responsibility for resolving or escalating impediments to team performance
+Serve as main point of contact for the team, facilitating communication and coordination with other teams
+Ensure all administrative tasks related to the team are performed timely
+Ensure all roles in the team are well defined and communicated, delegate responsibilities
+Split time approximately 50/50 between team leadership activities and technical work
+Requirements
+Strong technical background in software engineering
+Experienced and passionate about coaching and mentoring people
+Technical proficiency with .NET technology stack
+Experience with distributed microservices architecture (preferably Docker and Kubernetes) and highly cacheable RESTful APIs
+Solid understanding of real-time messaging patterns (preferably Kafka and RabbitMQ)
+Experience with both SQL and NoSQL databases (preferably PostgreSQL, SQL Server, and Couchbase)
+Working experience with observability practices for high availability systems (such as Grafana and OpenTelemetry)
+Knowledgeable and experienced with modern agile software development practices and CI/CD
+Nice-to-have
+Experience delivering software as an Agile Lead / Scrum Master / Team Lead in a technically complex environment, Working experience with AWS, Working experience with geographically distributed teams, A humble and inspirational leader who leads by example and fosters a culture of ownership and collaboration, Strong organisational and planning skills, with a strong focus on execution and delivery, Clear verbal & written communication, able to explain technical topics to non-technical stakeholders
+What we offer
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,93 @@
+Cég neve
+Nanoscribe GmbH & Co. KG
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+HARDWARE
+R
+LINUX
+NETWORK
+CI
+CLEAN CODE
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+HARDWARE
+R
+LINUX
+NETWORK
+CI
+CLEAN
+CODE
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+The software engineering team at Nanoscribe develops
+software for controlling high-precision 3D printers
+. The software is a stack of modules that covers everything from a Touch UI to numerical algorithms to the control of different hardware components such as sensors, cameras, etc. The software stack follows a layered client/server architecture and includes different communication protocols between the layers.
+As a member of the software engineering team, you will work on various R&D projects, closely to engineers and domain experts. You will have the chance to bring in your own ideas and contribute to product definitions.
+Your day to day tasks will include:
+Discussing and clarifying requirements with our internal domain experts
+Design and development of the algorithms that are optimized over various layers of our software stack
+Design and development of the software that interacts with specific hardware components
+Continuous optimization of the functionalities and quality of the software for better scalability and performance
+Requirements
+You have successfully completed your studies in computer science, mathematics, physics or engineering
+You have several years of experience as a software engineer
+You are fluent in Python and can find your way in large codebase
+You have advanced analytical skills and an urge to understand the algorithms and the essence of the code
+Experience with client/server architecture and multi-threaded software is a plus
+Experience with near-hardware programming, such as interfacing to cameras and sensors is a plus
+Experience with Linux and CI pipelines is a plus
+You are motivated, enjoy working in a team and appreciate clean code
+A work permit for working in the EU is required
+What we offer
+At Nanoscribe, highly qualified employees from over 15 countries are working on the future of microfabrication. We are passionate about enabling groundbreaking scientific findings and driving industrial innovation. A good work-life balance is just as important to us as constructive teamwork. We promote team spirit with a variety of team events such as a barbecue on our roof terrace or our New Year's party, where the theme changes.
+Our corporate culture is characterized by flat hierarchies, co-determination and constructive, open communication at all levels. With us, you can expect a challenging and varied area of responsibility that offers you a great deal of creative freedom.
+We offer you
+Performance-related pay with vacation and Christmas bonuses
+Pension allowance
+30 days vacation
+A state-of-the-art workplace in the new Zeiss Innovation Hub in front of the KIT Campus North
+Attractive benefits such as a subsidy for the EGYM Wellpass fitness network, JobRad leasing, Guudcard, capital-forming benefits or for the canteen
+Employee discounts via the Corporate Benefits program
+Employee development meetings
+Individual further training measures
+Option to work partially remotely
+We look forward to receiving your application (letter of motivation, CV and references) -
+German or English: both are fine -
+stating your salary expectations and possible starting date. Do you have any further questions? Then we look forward to hearing from you.
+Company info
+We strive for excellence - with this mission in mind, Nanoscribe develops and produces solutions for 3D microfabrication. As a pioneer in high-precision additive manufacturing, we are the technology and world market leader with more than 100 employees and have a worldwide sales and service network with customers in more than 30 countries. With our hardware and software solutions and as an innovation partner for our customers, we enable new, groundbreaking applications in science and industry.
+As an equal opportunity employer, we do more than accept difference. We celebrate diversity, we support employees from a wide range of backgrounds, and we benefit from the added creativity and richness that these differences bring to our offices and community. We pride ourselves on being a collaborative environment where everyone's talents and opinions contribute to the greater good and are always recognized.
+For our office in the Karlsruhe area we are looking for a
+Software Engineer / Developer (m/f/d) Python
+in full time.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

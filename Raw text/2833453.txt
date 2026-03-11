@@ -1,0 +1,105 @@
+Cég neve
+OmniLogic Kft.
+Munkavégzés helye
+Távmunka / Remote
+•
+Opcionális iroda
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol középfok
+Pályakezdő/friss diplomás
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Cafeteria
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+középfok
+Pályakezdő/friss
+diplomás
+Főiskola
+
+Állás leírása
+Responsibilities
+You’ll support the operation and improvement of mission-critical regulated-gaming infrastructure while joining us on an exciting journey to modernize our technology stack. Working under the guidance of a senior DevOps engineer and experienced IT leadership, you’ll have the opportunity to learn how modern platforms are built, operated, and continuously improved in a real production environment.
+This role is ideal for a junior or graduate engineer who wants to build hands-on experience in DevOps, automation, containerization, CI/CD, and production operations while contributing to the ongoing evolution of our systems. We are looking for someone eager to learn, grow, and take part in shaping how our future platform is delivered and operated.
+What You’ll Work With (Tech Stack)
+Containers & Runtime
+Docker and Docker Compose
+Service packaging and environment consistency practices
+CI/CD & Artifact Management
+Jenkins or Bamboo pipelines
+Nexus artifact repositories
+Maven builds in the Java ecosystem
+Automation & Infrastructure
+Ansible for provisioning and configuration
+Python or other scripting languages for automation tasks
+Automation testing and quality checks
+Observability & Operations
+Grafana / Kibana and related monitoring/logging tools
+Operational support, troubleshooting, and runbook-driven processes
+Security
+Secrets and certificate management practices
+Basic TLS / certificate handling
+Data & Streaming
+Exposure to Kafka, PostgreSQL, and Oracle-related deployment or support tasks
+Day-to-Day Responsibilities
+Assist with containerizing services and helping move systems toward more modern runtime and deployment patterns
+Support CI/CD pipelines and help improve build, test, and release processes
+Help maintain infrastructure and configuration automation using Ansible and scripting
+Assist with deployments across development, test, and production environments
+Monitor systems, dashboards, and alerts, and support troubleshooting activities
+Work with senior team members to investigate issues across Linux systems, pipelines, containers, and supporting services
+Contribute to the modernization of our tooling, processes, and operational practices over time
+Learn and follow operational, security, and release management best practices
+Contribute to documentation, runbooks, and team knowledge sharing
+Requirements
+A degree in Computer Science, Software Engineering, IT, or a related field, or equivalent practical experience
+Good understanding of Linux fundamentals
+Basic knowledge of containers, especially Docker
+Familiarity with scripting or programming, preferably Python
+Understanding of Git and collaborative development workflows
+Interest in CI/CD, automation, infrastructure, and platform engineering
+Willingness to learn tools such as Jenkins/Bamboo, Ansible, Nexus, Grafana, and Kibana
+Enthusiasm for learning modern DevOps practices and contributing to technology modernization
+Strong problem-solving skills and a proactive attitude
+Good communication skills and eagerness to work closely with experienced engineers
+A genuine interest in developing a career in DevOps and platform engineering
+Company info
+OmniLogic (
+https://www.omnilogic.io)
+delivers mission-critical regulated-gaming and lottery platform solutions, including high-performance omni-channel sportsbook platforms, PAM and wallet systems, risk and trading infrastructure, data pipelines, and legacy modernisation for World Lottery Association members and Tier-1 operators.
+As we continue to scale our operations, we are also on a mission to modernize our technology stack, tooling, and engineering practices. We are looking for a Junior / Graduate DevOps Engineer to join our team and support this journey across our test and production environments.
+This role is designed for someone at the start of their DevOps career who is excited to learn from experienced professionals, grow into our technology stack, and play a hands-on role in helping us build the next generation of our platform.
+There’s also a slightly stronger version of this message that makes the role sound more ambitious and appealing to graduates, using language like “join us in modernizing and shaping the future of our platform.”
+How to apply
+Please click the Apply button and send your CV in English.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Győr-Moson-Sopron
+county
+Győr
+Álláshirdetés jelentése

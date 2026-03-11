@@ -1,0 +1,76 @@
+Cég neve
+TÜV SÜD
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANALYTICS
+CLOUD
+AZURE
+PYTHON
+REACT
+CLEAN CODE
+TEST AUTOMATION
+Elvárások
+Német középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANALYTICS
+CLOUD
+AZURE
+PYTHON
+REACT
+CLEAN
+CODE
+TEST
+AUTOMATION
+Német
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Design and implement scalable, secure, and maintainable fullstack solutions for AI-enabled applications and platforms, including components that leverage LLMs to enable advanced user interactions and automation
+Lead the hands-on development of reusable components, frameworks, and reference implementations that accelerate delivery and ensure consistency across teams in line with enterprise quality standards
+Conduct code reviews, contribute to design workshops, and support architecture alignment across critical and strategic components and initiatives
+Collaborate closely with Solution Owners, Fullstack Developers, Data Scientists, and Data Engineers to align technical implementation with business goals and AI capabilities
+Mentor and advise other software developers by sharing expertise in clean code, system design, and modern development practices; foster a culture of technical excellence through coaching, peer learning, and community contributions
+Communicate technical decisions, trade-offs, and constraints clearly to non-technical stakeholders and management; contribute to the alignment of the technical roadmap with product and business priorities
+Requirements
+Degree in Computer Science or equivalent, with 8+ years of experience in software development and solution architecture, preferably in data analytics and AI
+Strong command of modern software engineering and architecture practices (Clean Code, event-driven systems, architecture frameworks), combined with a structured, self-directed working style and strong problem-solving skills
+Proven expertise in CI/CD, Infrastructure as Code, test automation, observability, secure development, and designing, developing, and operating scalable cloud architectures, ideally on Microsoft Azure
+Proficiency in Python and experience with React, TypeScript, and modern data science methods is an advantage
+Demonstrated technical leadership and mentoring experience, with the ability to communicate complex technical topics clearly across technical and non-technical stakeholders, and to manage multiple strategic initiatives in parallel
+Excellent communication skills in German and English
+What we offer
+In addition to a secure job in a pleasant, collegial atmosphere, you can expect an exciting and varied working environment at TÜV SÜD Digital Service GmbH. We offer you the opportunity to take on responsibility and implement your ideas. We foster flat hierarchies and an open-door policy. Exchange and collaboration in an international environment, training opportunities, and many social benefits complete our offer.
+What we offer
+Flexible working hours
+Special payments
+Corporate health and safety management
+Company info
+At TÜV SÜD we are passionate about technology. Innovations impact our daily lives in countless ways, and we are dedicated to being a part of that progress. We test, we audit, we inspect, we advise. We never stop challenging ourselves for the safety of society and its people. We breathe technology, we strive for professional excellence, and we leave a mark. We take the future into our hands. We are TÜV SÜD.
+The Business Process Automation Lead drives the full delivery of automation initiatives using Microsoft Power Platform. Disciplinary leading a cross-functional team, this role oversees solution design, implementation, and optimization to ensure measurable business value. Responsibilities also include strategy, governance, pricing, and monitoring to ensure compliance and long-term impact.
+If you want to shape the future with us, we look forward to receiving your application for our location Munich.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,134 @@
+Cég neve
+Fresenius Digital Technology GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANALYTICS
+AZURE
+SQL
+SECURITY
+TESTING
+CD
+CLOUD
+PYTHON
+GIT
+PANDAS
+DEVOPS
+SAP
+CI
+REST
+PROJECT MANAGEMENT.
+AGILE
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANALYTICS
+AZURE
+SQL
+SECURITY
+TESTING
+CD
+CLOUD
+PYTHON
+GIT
+PANDAS
+DEVOPS
+SAP
+CI
+REST
+PROJECT
+MANAGEMENT.
+AGILE
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Design and implement scalable data engineering and analytics solutions in Azure and Databricks.
+Translate business and user requirements into technical architecture, concepts, implementation and roadmaps.
+Build and optimize ETL / ELT pipelines for ingestion and transformation of structured and unstructured data into the data lake.
+Develop reusable data models, transformations, and pipelines using
+Databricks, DBT, and PySpark
+.
+Optimize performance and reliability with
+Delta Lake
+and Databricks SQL.
+Set up and maintain data governance, security, and compliance standards in Azure.
+Provide technical consulting and support to stakeholders, ensuring adoption and best practices.
+Contribute to project scoping, effort estimation, and architecture design.
+Ensure quality through testing, documentation, CI / CD practices, and monitoring.
+Provide application support and collaborate in international teams.
+Requirements
+University degree in Computer Science, Data Engineering, Data Science, Business Informatics, or a related field.
+Several years of professional experience as a
+Data Engineer / Analytics Consultant
+in an enterprise environment.
+Strong expertise in
+Azure Cloud Services
+, including:
+Azure Data Lake Storage (ADLS Gen2), permissions, architecture, integration.
+Azure SDKs for Python, REST APIs, OAuth2 authentication, service principals & managed identities.
+(Optional) Azure Data Factory for pipeline orchestration.
+Hands-on experience with
+Databricks
+(PySpark, SQL, Delta Lake, workflows).
+Solid knowledge of
+DBT
+for modular SQL modeling, testing, and Git-based project management.
+Excellent
+Python
+development skills (PySpark, pandas, requests, automation).
+Strong
+SQL
+expertise (Databricks SQL, T-SQL, ANSI SQL), including query optimization and performance tuning.
+Understanding of
+data modeling
+(star schema, snowflake schema), ETL / ELT best practices, and data governance in Azure.
+Experience with
+CI / CD pipelines
+(Azure DevOps, GitHub Actions) and testing frameworks (Great Expectations).
+Familiarity with
+SAP BW
+and SAP
+Datasphere
+is a big plus.
+Strong problem-solving and communication skills, with the ability to work in agile teams and international contexts.
+Excellent written and verbal English skills, good German skills are a plus.
+What we offer
+A professional, highly motivated team in a global, modern IT environment.
+Exciting projects with cutting-edge cloud and analytics technologies.
+The opportunity to shape and enhance our central data platform.
+Company info
+Fresenius – Committed to life!
+We save and improve human lives with affordable, accessible, and innovative healthcare products and the highest quality in clinical care.
+Our company comprises the operating business segments Fresenius Kabi and Fresenius Helios. With 140 hospitals and numerous outpatient facilities, Fresenius Helios is the leading private hospital operator in Germany and Spain, treating around 26 million patients each year. Fresenius Kabi's product portfolio includes a range of highly complex biopharmaceuticals, clinical nutrition, medical devices and generic intravenous drugs, serving 450 million people annually.
+At Fresenius, we develop and deliver data-driven solutions across business disciplines with passion and expertise. Our Analytics Solutions team operates in a dynamic, international environment where modern technologies, innovative thinking, and collaboration are at the core. We are looking for a
+Senior Consultant Data Lake & Analytics Solutions (m/f/d)
+to strengthen our team and drive the design, development, and implementation of cutting-edge analytics solutions on our central data platform.
+As part of our Analytics Solutions team, you will work closely with stakeholders to deliver end-to-end data solutions—from data integration and engineering to analytics and reporting. You will consult, design, and implement best practices while also ensuring smooth operations and continuous improvement.
+This position can be filled in Germany or Poland.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

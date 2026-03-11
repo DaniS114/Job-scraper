@@ -1,0 +1,113 @@
+IT Solution Architect
+Národná agentúra pre sieťové a elektronické služby (agentúra NASES)
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+Plat je určený v zmysle zákona č. 553/2003 Z. z. o odmeňovaní zamestnancov pri výkone práce vo verejnom záujme. Výsledná výška platu bude predmetom osobného pohovoru a bude závisieť od skúseností a odborných znalostí uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+návrh      architektúry modulov informačných systémov
+posudzovanie      implementácie modulov riešení IS NASES
+účasť      na vykonaní UAT testov
+návrh      komunikácie a integrácie medzi modulmi a systémami
+návrh      technologického riešenia aplikácií
+tvorba      a správa architektonickej dokumentácie
+súčinnosť      pri príprave detailného návrhu riešenia (DNR)
+posudzovanie      architektúry dodávateľských riešení
+komunikácia      s dodávateľmi IT riešení
+spolupráca      s analytikmi, projektovými manažérmi a prevádzkovými tímami
+dohľad      nad súladom riešení s architektonickými štandardmi
+Zamestnanecké výhody, benefity
+Čo ponúkame
+možnosť      podieľať sa na návrhu kľúčových informačných systémov štátu
+práca      na veľkých IT projektoch s dopadom na milióny používateľov
+stabilné      pracovné prostredie
+možnosť      odborného rastu v oblasti IT architektúry
+príspevok      zamestnávateľa do III. Piliera
+program      MultiSport - možnosť využitia MultiSport karty
+3      dni v mesiaci práca z domu
+flexibilná      pracovná doba
+Informácie o výberovom konaní
+Životopis prosím zasielať v slovenskom jazyku.
+Kontaktovať budeme len uchádzačov, ktorí spĺňajú požiadavky.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+technické zameranie resp. IT
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+Microsoft Office - Pokročilý
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Odborné požiadavky
+znalosť      Zákona č. 305/2013 o elektronickej pôsobnosti výkonu orgánov verejnej moci      (Zákon o e-Governmente)
+certifikát      na riadenie architektúry podľa TOGAF alebo ekvivalent, modelovací jazyk      ARCHIMATE, modelovací nástroj Sparx Enterprise Architect alebo ekvivalent
+minimálne      3 preukázateľné profesionálne skúsenosti s návrhom architektúry a dizajnom      informačných systémov, pričom každá referencia bola realizovaná v projekte      s hodnotou minimálne 1 000 000 EUR bez DPH. Projekty zahŕňali prácu s      infraštruktúrnymi a dátovými technológiami, napr. webové alebo aplikačné      servery (HAProxy, IIS, Apache HTTPD, Nginx alebo ekvivalent), databázové      systémy (MS SQL Server, Oracle, PostgreSQL alebo ekvivalent), vyhľadávacie      a analytické nástroje (ElasticSearch, Kibana alebo ekvivalent).
+skúsenosti      s návrhom softvérovej architektúry informačných systémov
+prax      s integračnými architektúrami a API komunikáciou
+skúsenosti      s návrhom modulárnych alebo mikroservisných riešení
+schopnosť      vytvárať architektonickú dokumentáciu
+skúsenosti      s komunikáciou s dodávateľmi IT riešení
+analytické      myslenie a schopnosť navrhovať komplexné riešenia
+Výhodou je
+skúsenosti      s cloud alebo kontajnerovou architektúrou
+skúsenosť      s projektmi vo finančnom alebo telekomunikačnom sektore
+prehľad      v moderných technológiách (napr. Java, Kafka, Rabbit MQ, Camunda, frontend      technológie, SQL/NoSQL databázy, cloud platformy)
+skúsenosti      s mikroservisnou architektúrou
+skúsenosti      s modelovaním v UML, BPMN alebo ERD
+skúsenosti      s Agile alebo Waterfall riadením projektov
+znalosť      princípov DevSecOps, CI/CD a automatizovaných pipeline
+skúsenosti      s architektúrou založenou na udalostiach (event-driven architecture),      messagingu alebo API Gateway
+znalosť      princípov orchestrácie a choreografie služieb
+skúsenosť      s nástrojmi a technológiami OpenAPI / Swagger, Confluence alebo      SharePoint, Jira / Azure DevOps, Docker, Kubernetes, CI/CD nástroje      (GitLab CI, GitHub Actions, Azure Pipelines), OIDC / OAuth2 / SAM
+Osobnostné predpoklady
+bezúhonnosť
+pozitívny      prístup k riešeniu problémov
+proaktívny      prístup
+samostatnosť      a zodpovednosť
+analytické      myslenie
+precíznosť      a dôslednosť
+schopnosť      efektívne komunikovať
+schopnosť      pracovať v tíme
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Národná agentúra pre sieťové a elektronické služby (agentúra NASES) je príspevková organizácia Ministerstva investícii, regionálneho rozvoja a informatizácie.
+Medzi hlavné úlohy agentúry patrí najmä:
+Rozvoj a prevádzka centrálnej komunikačnej infraštruktúry Slovenskej republiky.
+Rozvoj a prevádzka služieb Ústredného portálu verejnej správy - slovensko.sk.
+Rozvoj a prevádzka mnohých ďalších informačných systémov verejnej správy.
+Rozvoj a prevádzka systémov informačnej bezpečnosti a systémov na ochranu kybernetického priestoru.
+Počet zamestnancov
+150-199 zamestnancov
+Kontakt
+Kontaktná osoba: Ivana Blažeková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5247343
+Dátum zverejnenia:
+9.3.2026
+2026-03-09
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+Spoločnosť:
+Národná agentúra pre sieťové a elektronické služby (agentúra NASES)
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

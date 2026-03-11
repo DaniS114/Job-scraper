@@ -1,0 +1,34 @@
+DevOps Engineer (mid-level / senior)
+Részvétel a teljes cloud fejlesztési életciklusban,
+Magas színvonalú script- és kódírás az infrastruktúra automatizálásához,
+CI/CD pipeline-ok létrehozása, karbantartása és optimalizálása (pl. GitHub Actions, Helm),
+Alkalmazások és szolgáltatások megbízhatóságának, skálázhatóságának és biztonságának biztosítása,
+Infrastructure as Code (Terraform) implementálása és karbantartása,
+Kubernetes munkaterhelések és Helm-deploymentek kezelése,
+Rendszerfigyelés és proaktív hibakeresés Prometheus, Grafana, Datadog eszközökkel,
+Együttműködés fejlesztői és üzemeltetési csapatokkal a telepítési és workflow-optimalizáció érdekében,
+Rendszertelepítések végrehajtása, szükség esetén munkaidőn kívüli támogatás biztosítása.
+Elvárások / Requirements
+BSc/MSc fokozat Informatika, Informatikai Mérnöki vagy kapcsolódó területen, vagy ezzel egyenértékű tapasztalat,
+3+ év DevOps gyakorlat,
+Erős Docker és Kubernetes ismeretek,
+Shell script kódolási készség,
+AWS vagy Azure cloud szolgáltatások ismerete,
+CI/CD pipeline-ok tervezése, implementálása és optimalizálása,
+Infrastructure as Code (Terraform) használata,
+Observability eszközök ismerete: Prometheus, Grafana, Datadog,
+Adatbázisok ismerete (különösen PostgreSQL),
+RabbitMQ klaszterek kezelése (opcionális),
+Angol és magyar nyelvű kommunikáció,
+Felhőtechnológiák és scripting iránti lelkesedés.
+Amit nyújtunk / Benefits
+Hosszú távú foglalkoztatás,
+Szakmai fejlődési lehetőségek (tréningek, képzések),
+Ingyenes angol nyelvi kurzus,
+10%-os kedvezmény az Intellident fogászati szolgáltatásainál,
+„All you can move” sportolási lehetőségek,
+Home office lehetőség,
+Rendszeres csapatépítők,
+Napi ebéd támogatás, korlátlan kávéfogyasztás,
+Barátságos munkakörnyezet, zöld és csendes környezet.
+a0tbI00000PvuiEQAR

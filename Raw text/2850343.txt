@@ -1,0 +1,93 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+SECURITY
+DOCKER
+SQL
+NOSQL
+CLOUD
+AWS
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+SECURITY
+DOCKER
+SQL
+NOSQL
+CLOUD
+AWS
+Mobiltelefon
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Make yourself available to the whole area and support all teams when architectural guidance is needed
+Work closely with Software Engineers and Product Managers to prioritize short- and long-term initiatives
+Support Team Leads, Development Teams and Product Managers on technical routes to take
+Support the Product Manager to ensure correct priorities in backlog and roadmap
+Participate in decision making with key stakeholders
+Participate in workshops, brainstorming, presentations, and knowledge-transfer sessions
+Participate in pre-solution work for new initiatives to outline high level solutions
+Participate in design reviews to ensure solutions adhere to guidelines
+Identify refactoring activities to address technical debt, performance, scalability, availability, reliability, and security
+Support development teams and product owners to define relevant NFRs (KPIs)
+Cooperate with Enterprise Architects to align area solutions with company guidelines
+Support development teams with architectural decisions, designs and high incidents
+Benchmark systems, analyze bottlenecks and propose solutions
+Mentor, guide, and be a technology leader to junior team members
+Requirements
+Good understanding of new technology and how it can improve solutions and drive innovation
+Good communicator and collaborator
+Experience with microservices and associated tools such as Kafka, RabbitMQ, Docker and Kubernetes
+Previous experience building RESTful services and familiarity with best practices
+Demonstrated expertise in building applications at scale
+Strong knowledge of datastores (SQL, NoSQL) and ability to choose technology based on requirements
+Experience with architectural patterns for high availability, performance, scale out architecture, disaster recovery, security architecture
+Knowledge of cloud-based architectures, deployment and operational aspects of AWS is a plus
+Technical mindset with great attention to detail
+Product mindset in feature design, considering future impact
+What we offer
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

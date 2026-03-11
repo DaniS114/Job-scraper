@@ -1,0 +1,77 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C
+VIRTUALIZATION
+PYTHON
+BASH
+SECURITY
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C
+VIRTUALIZATION
+PYTHON
+BASH
+SECURITY
+Angol
+középfok
+Nem
+kell tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Work alongside experienced engineers as part of a development team
+Support existing projects
+Explore and prototype ideas for the future
+Work across all aspects of the software life cycle
+Upstream code into an Open Source project
+Requirements
+Currently enrolled and studying towards a Degree (Bachelors, Masters or PHD students welcome)
+A real passion for computing beyond studies
+A creative and structured approach to problem-solving
+Solid knowledge of C and low-level/system programming
+Comfortable presenting within a small team in English
+A desire for learning and self-improvement
+Nice-to-have
+Knowledge of computer architectures, ideally Arm, Operating system kernel or device drivers development, virtualization, Compilation technology (LLVM), JIT (Just In Time) compilers and Runtime, Knowledge of other languages, such as Rust, Python, Bash, Quantum computing and security
+What we offer
+Full-time internship for approximately two months from June-August 2026
+Regular feedback and development opportunities
+Social activities to connect with peers
+Possibility to be considered for future Graduate positions (subject to performance)
+Competitive salary and rewards package
+On-the-job learning and mentoring/buddy schemes
+Hybrid working environment supporting high performance and personal wellbeing
+Health and wellness support including quarterly Day of Care
+Financial rewards beyond competitive salary
+Professional and personal development support
+Supportive community and inclusive environment
+Company info
+The Software group is responsible for developing and improving the software ecosystem around Arm's next generation of applications processors. This frequently means working with processors and other hardware technology not yet available to the public. We work on a range of development platforms, software-models, FPGAs and early silicon, sometimes many months/years before the processors are available in real products.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

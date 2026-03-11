@@ -1,0 +1,90 @@
+Cég neve
+AO Foundation
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+SECURITY
+AZURE
+ISO
+NETWORK
+POWERSHELL
+FIREWALL
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+SECURITY
+AZURE
+ISO
+NETWORK
+POWERSHELL
+FIREWALL
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Senior IT Security Engineer, 80-100% (ID1957)
+The AO is a medically guided, not-for-profit organization, a global network of surgeons, and the world's leading education, innovation, and research organization specializing in the surgical treatment of trauma and musculoskeletal disorders. We are home to people from all over the world, from different backgrounds, with diverse talents and specialist areas. What binds us together is our passion for excellence, our dedication to our mission of improving patient care, and our understanding that we are stronger together: we are one AO.
+For more information, visit: /
+Senior IT Security Engineer, 80-100% (ID1957)
+Short Description
+We are seeking a Security Engineer to lead the automation of SOC Level 1 and Level 2 processes and support advanced incident response. This role is critical to future security operations. The engineer will design, implement, and maintain automated runbooks using Microsoft's security technologies and AI capabilities, ensuring scalable and efficient security operations.
+Main Responsibilities
+Develop and maintain automated SOC Level 1 and Level 2 runbooks and playbooks using Logic Apps, Power Automate, and AI Foundry components
+Engineer detection rules, workbooks, and playbooks in Microsoft Sentinel/Microsoft XDR platforms
+Integrate and optimize Microsoft Defender for Endpoint, Identity, Cloud, and Office 365 within the XDR framework
+Apply AI-driven threat detection and response using Microsoft Copilot for Security and related tools
+Collaborate with internal teams and external partners to embed security into CI/CD pipelines and IT delivery models
+Provide SOC Level 3 support for complex incidents, including forensic analysis and threat containment
+Contribute to the DevSecOps organization
+Support the implementation of an ISO 27000-aligned ISMS and assist with governance and compliance efforts
+Main Requirements
+Bachelor's degree in Information Technology, Computer Science, or related field
+5 years of professional experience in relevant field
+Minimum 2 years of hands-on experience with SOC Level 1 and Level 2 operations and Level 3 incident response
+Programming skills in or Powershell
+Deep familiarity with Microsoft security products, including Microsoft Sentinel, Defender XDR components and KQL
+Strong understanding of Azure infrastructure, identity, and security architecture
+Understanding of security baselining, network hardening, and zero trust principles
+Ability to work in cross-functional DevSecOps environment
+Fluency in English. Fluency in German or any other languages will be considered as an added value
+Preferred Qualifications:
+Microsoft certifications in security technologies (e.g., SC-200, SC-300)
+Experience with agentic AI standards and responsible AI practices
+Familiarity with governance models and risk assessment frameworks
+- Understanding of structured threat intelligence and enrichment workflows
+- Familiarity with MITRE ATT&CK mapping and detection coverage assessments
+- Familiarity with detection-as-code pipelines and version control systems
+- Familiarity with Web Application Firewall (WAF) principles and rule tuning
+An interesting and varied job in an exciting and innovative organization
+The opportunity to be part of a highly committed international team
+Modern infrastructure
+High degree of flexibility regarding working hours and location (depending on operational requirements)
+Generous pagacke of social benefits, including supplementary vacation days and pension scheme contributions
+Internal skills training opportunities and support for continued education jid654f284pn jit0311pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Switzerland
+Álláshirdetés jelentése

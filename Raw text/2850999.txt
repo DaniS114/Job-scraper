@@ -1,0 +1,94 @@
+Cég neve
+ITech Consult AG
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+LINUX
+HARDWARE
+ISO
+AGILE
+Biztosított eszközök
+Linux
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+LINUX
+HARDWARE
+ISO
+AGILE
+Linux
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Senior Software Engineer Rust
+Senior Software Engineer Rust (m/f/d) - Software development / Rust / Rust libraries / Linux / Dockers / CAN bus / Rabbit MQ
+Project: For our client based in Rotkreuz, we are looking for a Senior Software Engineer Rust (m/f/d).
+Background:
+One of the world's leading providers of diagnostic system solutions for clinics, laboratories and doctors' offices. The company employs over 2200 people in Rotkreuz. Client is an equal opportunity employer and strictly prohibits unlawful discrimination based upon an individual's race, color, religion, gender, sexual orientation, gender identity/expression, national origin/ancestry, mental/physical disability, medical condition, marital status, veteran status, or any other characteristic protected by law.
+The perfect candidate:
+We are looking for a full stack software engineer to strengthen our software team within. In this challenging position, you will be a key member of our PCR HW Chapter, drive innovation and create added value for our customers in the area of healthcare Mol lab, Core lab and Point of care customer areas. This is a hands-on software development position where you define, build, test and release high-quality software for IVD and non-IVD products. As a domain expert, you will have a large influence on projects to enhance our future product portfolio.
+You're a self-motivated team player who wants to influence your own development. It is natural for you to be proactive in working with your teammates and in working with other parts of the organization. You like sharing your know-how to help the whole team advance. Bringing in new ideas to improve existing products with new functions and cost optimization is important to you. You're looking for a company where you have the opportunity to pursue your interests across functions and geographies. Where a job title is not considered the final definition of who you are, but the starting point.
+Tasks & Responsibilities:
+• You develop concepts and participate in feasibility studies to meet technical requirements.
+• You perform and take ownership of specific software development tasks, ensuring reviews using checklists and templates.
+• You lead work package definition, estimation, and planning, and enhance or document SW unit specifications and designs.
+• You review designs and contribute to the SW architecture, defining quality attributes and staying updated with technology trends.
+• You conduct root-cause analysis of complex issues and provide bug fixes for post-market software releases.
+• You ensure compliance with processes, propose improvements, and stay informed about regulatory and market standards.
+Must Haves:
+• University education in a software related field such as software or electrical engineering Industry experience
+• Proven experience as a Software Engineer with a strong focus on Rust development.
+• Solid understanding of Rust's core concepts, including ownership, borrowing, and lifetimes.
+• Experience with asynchronous programming in Rust (eg, using async/await).
+• Familiarity with common Rust libraries and frameworks (eg, tokio, actix-web, rocket, serde, sqlx).
+• Experience with Linux and Dockers
+• Basic scripting knowledge would be an advantage
+• RabbitMQ knowledge would be an advantage
+• Experience with CAN bus
+• Event-Driven Architecture knowledge would be an advantage
+• First experience working in regulated environments such as the medical device industry
+• Highly motivated with focus on deadlines and a proactive and thorough way of working
+• Fluent in English and German is advantageous
+• Developers with an interest in interdisciplinary and hardware focused
+applications as well as electronic engineer with a strong backgrounds and interest in software development are encouraged to apply
+• Excellent communication and team working skills, flexibility, willingness to write good documentation and the drive to bring a product to its conclusion.
+Nice to Have:
+• You have experience in agile environments
+Reference No.: 924807
+Role: Senior Software Engineer Rust (m/f/d)
+Industry: Pharmaceuticals
+Location: Rotkreuz
+Workload: 100%
+Start: ASAP / June 1, 2026
+Duration: 12+ months
+Deadline: March 16, 2026
+If this position has piqued your interest, please send us your complete resume. If this position does not quite match your profile and you would like to receive other positions directly, you can also send us your resume via this ad or to jobs[at]itcag[dot]com.
+Contact us for more information about our company, our positions, or our attractive payroll-only program: .
+About us:
+ITech Consult is an ISO 9001:2015-certified Swiss company with offices in Germany and Ireland. ITech Consult specializes in placing highly qualified candidates for temporary staffing in the fields of IT, life sciences, and engineering. We offer temporary staffing and payroll services. This is free of charge for our candidates, and we do not charge any additional fees for payroll services. jid829ba03pn jit0311pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Switzerland
+Álláshirdetés jelentése

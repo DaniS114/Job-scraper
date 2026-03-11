@@ -1,0 +1,98 @@
+Cég neve
+Engel & Völkers - Zentrale -
+Munkavégzés helye
+Hibrid
+•
+Hamburg
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+GIT
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+GIT
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design, implement and maintain
+our development platform and cloud environments using
+Infrastructure as Code
+Build and maintain tools and services
+to enable and accelerate our development teams and improve the maintainability and operability of our infrastructure
+Consult, assist and collaborate
+with developers to enable them to get the most out of cloud-native technologies
+Improve our observability strategy and processes to enable data-driven decision making
+Develop and implement
+CI/CD
+and automation best practices
+Requirements
+Several years of experience in
+platform engineering or cloud computing
+as well as a deep understanding of
+networking
+and
+cloud deployment models
+Experience wit h
+Google Cloud Platform
+(or similar), Kubernetes, Git, Scripting and a solid understanding of
+monitoring solutions
+(e.g. Prometheus, StackDriver, DataDog)
+Understanding of
+Infrastructure as Code
+(Terraform, Terragrunt, Helm etc.) and automation using
+CI/CD pipelines
+Ability to independently troubleshoot complex problems across complex systems
+Comfortable utilizing AI and automation tools to optimize workflows and increase productivity
+What we offer
+General conditions
+: 30 days of vacation plus additional days off on Christmas Eve and New Year's Eve, a hybrid work model with 50% presence at the headquarters each month, a learning flat rate in the in-house Academy and company pension scheme.
+Health & mobility
+: Monthly subsidies for your sports membership or for the Urban Sports Club, a Work-Life Portal, JobRad, Deutschland-Ticket subsidy and your own Pluxee card.
+Engel & Völkers Community
+: Various offers and training opportunities with e-learning formats, individual support, events and company celebrations, an incentivized employee referral program and other corporate benefits.
+Offers at the headquarters
+: Monthly after-work events, Barista bar with a wide selection of beverages and additional snacks, massage offers, an annual health week, a weekly “juice day” with freshly pressed juices, a 24/7 kiosk, influenza vaccinations, as well as free parking and e-charging stations in our underground garage.
+Learn more about a career with us
+here
+.
+Company info
+We have specialized in real estate services in the premium segment for over 45 years. Today, we are active in over 35 countries, on five continents and at over 1,000 locations with more than 16,600 people under the Engel & Völkers brand and embody our shared values: expertise, exclusivity and passion.
+The digitalization of the real estate industry is one of the most exciting prop-tech trends that will accompany us in the economy in the coming years. At Engel & Völkers Technology, we are playing a key role in reshaping our industry and are pioneers in digital real estate brokerage of premium residential properties. Find out more insights here on the
+careers page
+.
+Would you like to join us as a
+(Senior) Platform Engineer (f/m/d)*
+? Apply to become part of our journey!
+With the power of a globally successful brand, we at Engel & Völkers are setting new standards and, together with our international colleagues, driving forward first-class services and creative solutions. At Engel & Völkers, you'll work independently from day one with plenty of creative freedom to contribute new ideas and realize projects. Together, we are shaping a corporate culture that fosters personal growth and an innovative mindset.
+To support our
+Platform Team
+at the Hamburg headquarters, we are looking for you as a
+full-time (40 hours) (Senior) Platform Engineer (f/m/d)*
+with immediate effect. As (Senior) Platform Engineer (f/m/d)* you will be responsible for our cloud infrastructure, implementing Infrastructure as Code, and providing services to the entire Engel & Völkers real estate company.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Administrator
+Germany
+Álláshirdetés jelentése

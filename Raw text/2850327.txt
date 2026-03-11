@@ -1,0 +1,102 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVASCRIPT
+CSS3
+HTML5
+TESTING
+BACKEND
+API
+GIT
+AGILE
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+JAVASCRIPT
+CSS3
+HTML5
+TESTING
+BACKEND
+API
+GIT
+AGILE
+Mobiltelefon
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Drive technical excellence in products
+Serve as a bridge between domain architect(s) and engineering teams
+Facilitate technical design, decisions and delivery
+Support managers in building world class engineering teams
+Research new technologies and lead technical investigations
+Develop POCs for new ideas
+Participate in key technical initiatives
+Identify and champion technical improvements for roadmap consideration
+Work closely with architects to ensure architectural direction and standards are communicated, aligned and implemented
+Develop and maintain strong understanding of business and products
+Lead technical design decisions ensuring alignment with domain architect(s)
+Take active, hands-on role with important technical initiatives and issues
+Support new product development by producing POCs and/or documented technical designs
+Research new technologies and assess their potential application
+Review major changes to ensure standards
+Serve as key technical point of contact for the domain
+Collaborate with product, architecture and engineering colleagues
+Participate in technical interviews and provide technical feedback
+Coach and mentor engineers
+Participate in team ceremonies such as planning and refinement
+Lead technical trainings to share knowledge and improve expertise
+Requirements
+Strong technical background in software engineering for web applications
+Highly knowledgeable and experienced with TypeScript / JavaScript and Web Markup (CSS3/HTML5)
+Deep understanding of Observable technologies (preference for RxJS)
+Experienced with large scale applications including SDK & FE components architecture, modularisation, efficient application bundling, unit testing, and backend API integration
+Expertise in delivering highly performant web solutions on an international scale
+Experience implementing SSR mechanisms and optimising content delivery with CDNs, caching, and other front-end solutions
+Experience defining and documenting technical solutions around front-end architecture and backend integration
+Ability to efficiently review PRs and provide constructive feedback
+Experienced and passionate about coaching and mentoring people
+Highly knowledgeable and experienced with modern agile software development practices, GIT based projects, and CI/CD
+What we offer
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

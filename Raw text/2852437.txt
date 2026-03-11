@@ -1,0 +1,101 @@
+Cég neve
+AGCO Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Agco Hungary Kft. - Budapest, Alíz utca 4, 1117
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+ANALYTICS
+SECURITY
+CLOUD
+AWS
+API
+DEVOPS
+MACHINE LEARNING
+GDPR
+DATA MANAGEMENT
+PROJECT MANAGEMENT
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+ANALYTICS
+SECURITY
+CLOUD
+AWS
+API
+DEVOPS
+MACHINE
+LEARNING
+GDPR
+DATA
+MANAGEMENT
+PROJECT
+MANAGEMENT
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Design and Implement Scalable Data Architectures. Architect end-to-end data solutions that support ingestion, storage, processing, and analytics for both customer and machine data.
+Unify Customer Data into a Single Source of Truth. Lead the integration and synchronization of data from multiple systems to create a unified, consistent customer profile.
+Enable Advanced Analytics and AI. Build data platforms and pipelines that support machine learning, predictive analytics, and real-time insights.
+Ensure Data Governance, Security, and Compliance. Develop frameworks and enforce policies that safeguard data integrity, privacy, and adherence to regulations such as GDPR and CCPA.
+Collaborate Across Teams to Translate Business Needs into Technical Solutions. Work closely with business analysts, data scientists, and IT to deliver architectures aligned with strategic objectives.
+Requirements
+Extensive experience in Salesforce architecture, including Sales Cloud, Service Cloud, Marketing Cloud, and Experience Cloud. Data Cloud or other CDP experience is a plus.
+Strong expertise in AWS architecture, including services like EC2, S3, Lambda, RDS, Redshift, API Gateway, and others. Proven experience in designing and implementing customer data platforms, including integration with third-party systems, APIs, and data lakes/warehouses.
+In-depth knowledge of Salesforce integration patterns, data modelling, and security best practices. Proficiency in AWS cloud services for data management, storage, processing, and analytics. Strong understanding of API design, microservices, and serverless architectures. Experience with CI/CD pipelines and DevOps practices.
+Familiarity with customer data platforms (CDPs), master data management (MDM), and data governance frameworks. Strong critical thinking skills and ability to translate business challenges into effective technical solutions.
+Excellent communication and interpersonal skills to engage with both technical and non-technical stakeholders. Strong organizational and project management skills with a focus on driving results.
+What we offer
+Attractive, fair remuneration including participation in our bonus scheme and reimbursement of commuting expenses
+Cafeteria system with additional elements you can pick from
+Balance of work, family, and free time due to flexible working opportunity and the possibility of hybrid/remote work including home office monetary allowance
+Private health insurance, dental services, and compensation for the purchase of computer monitor glasses
+Employee Assistance Program including professional counselling, webinars, sports challenges, and newsletters
+Development opportunities including monthly trainings held by the local training team and teacher guided language classes
+Workplace extras
+Canteen
+Cafe
+Shower
+Corporate events
+Parking
+Sports facilities
+Free fruits, snacks
+Free coffee, soft drinks
+Free breakfast
+Play corner
+Company info
+Do you want to help solve the world's most pressing challenges? Feeding the world's growing population and slowing climate change are two of the world's greatest challenges. AGCO is a part of the solution! Join us to make your contribution.
+As a Data Solution Architect, you will lead the design and implementation of scalable, secure, and unified data architectures that support advanced analytics, machine learning, and AI. You will unify customer and machine data across systems, ensure data governance and compliance, and collaborate cross-functionally to deliver actionable insights that drive business value.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Budapest
+Álláshirdetés jelentése

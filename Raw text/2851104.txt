@@ -1,0 +1,77 @@
+Cég neve
+4iG Nyrt.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+CÉGINFORMÁCIÓ
+A budapesti központtal működő, magyar többségi tulajdonosi hátterű 4iG Nyrt. Magyarország és a nyugat-balkáni régió távközlési- és informatikai piacának meghatározó cégcsoportja, a tudásalapú, digitális gazdaság egyik vezető vállalata. A Budapesti Értéktőzsdén jegyzett tőkepiaci társaság friss és innovatív szemlélete, valamint magyarországi piacvezető informatikai rendszerintegrátor pozíciója a régió digitális átalakulásának vezető lakossági- és üzleti szolgáltatójává emeli a cégcsoportot.
+A telekommunikációs, valamint informatikai piac változásainak és igényeinek megfelelve a vállalatcsoport folyamatosan bővíti szolgáltatásait, szakemberállományát és portfólióját.
+Ha Te is úgy érzed, hogy szívesen része lennél egy jó csapatnak, foglalkoztatnak az innovatív megoldások, mindenképp nálunk a helyed!
+A munkakör célja
+Medior Android fejlesztőként komplex mobilalkalmazások tervezésében, fejlesztésében és karbantartásában vállalsz aktív szerepet. Részt veszel új alkalmazások létrehozásában és meglévő rendszerek továbbfejlesztésében, a teljes életcikluson át.
+KÖZÖS CÉLJAINK MEGVALÓSÍTÁSÁHOZ AZ ALÁBBIAKBAN SZÁMÍTUNK RÁD
+Mobilalkalmazások tervezése, fejlesztése és telepítése üzleti igények alapján
+Fejlesztői tesztelés, hibák azonosítása és javítása
+Architektúrális döntések előkészítésében való részvétel
+CI/CD folyamatok kialakítása és DevOps csapattal való együttműködés
+Együttműködés UX/UI, QA, termékmenedzsment és projektcsapatokkal
+Funkcionális és nem funkcionális tesztelés támogatása
+Hibák és incidensek kezelése az alkalmazás teljes életciklusában, SLA-k betartásával
+Fejlesztési feladatok erőforrásbecslése, dokumentáció és üzembe helyezés támogatása
+AMI SZÜKSÉGES LESZ AZ EREDMÉNYES MUNKÁDHOZ
+Felsőfokú informatikai végzettség
+3–5 év releváns mobilfejlesztési tapasztalat
+Kommunikációképes angol nyelvtudás
+Android fejlesztés: Kotlin, Android SDK, Jetpack
+Objektumorientált tervezési elvek és clean code gyakorlat ismerete
+REST API integrációs tapasztalat
+Verziókezelés (Git)
+Mobil biztonsági és kódminőségi irányelvek ismerete
+CI/CD eszközök ismerete (GitLab CI, Jenkins)
+Automatizált tesztelés ismerete (Espresso)
+AMIVEL VÁRUNK TÉGED
+Változatos feladatokon keresztül, fejlődési- és karrierlehetőséget biztosítunk számodra.
+Szakmai és soft skill képzések széles palettáját kínáljuk Neked munkavégzésedhez kapcsolódóan.
+Juttatási rendszerünket folyamatosan bővítjük, jelenleg telefonflotta csomag, Cafetéria (SZÉP kártya), egészségbiztosítás, gyümölcsnap, nagyon finom kávé, és sok más kedvezményes lehetőség, amivel várunk Téged.
+Az irodai napok mellett támogatjuk az otthoni munkavégzést is munkakörtől függően, erről az interjúnk kapsz bővebb információt.
+Hiszünk a csapat erejében, közösségépítéssel kapcsolatban csapatépítőkre, versenyekre és sporteseményekre lehet számítani nálunk.
+MUNKAHELYI EXTRÁK
+Céges rendezvények
+Sportolási lehetőség
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

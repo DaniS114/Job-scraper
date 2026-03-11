@@ -1,0 +1,92 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+JAVASCRIPT
+VIRTUALIZATION
+FRONTEND
+API
+SELENIUM
+TROUBLESHOOTING
+DEBUGGING
+CYPRESS
+JMETER
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+JAVASCRIPT
+VIRTUALIZATION
+FRONTEND
+API
+SELENIUM
+TROUBLESHOOTING
+DEBUGGING
+CYPRESS
+JMETER
+Mobiltelefon
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Create and execute testing scenarios for manual and functional testing on our products using available tools such as physical testing devices and BrowserStack, across multiple platforms
+Design, implement, and maintain end-to-end test suites using JavaScript/TypeScript with Playwright
+Create and optimise UI and integration tests that support a multi-brand, multi-jurisdiction ecosystem
+Participate in development lifecycle activities: refinements, technical design discussions, architecture reviews, and quality gate definition
+Implement and maintain test data strategies, mocks, stubs, and service virtualization where appropriate
+Participate in the identification and troubleshooting of issues across frontend, API, and integrations
+Collaborate with engineering teams to improve testability, observability, and debugging capabilities
+Use dashboards and reporting tools (Allure, Grafana, Kibana, OpenSearch, etc.) to analyse failures, detect patterns, and improve reliability
+Drive a quality-first mindset, advocating for automation, engineering excellence, and continuous improvement across BX
+Mentor and support other QA Engineers and Developers in quality best practices, shift-left testing mindset, tooling, and design
+Requirements
+Strong experience writing and executing test scenarios, covering technical and product requirements, identifying pitfalls and edge cases, to ensure high confidence in our Releases
+Hands-on experience with Playwright, or equivalent automation frameworks (Cypress, Selenium, WebdriverIO) using JavaScript/TypeScript
+Solid understanding of test strategies, including mocking, isolation, reliability improvements, and root-cause analysis
+Proactive ownership mindset, focused on continuous improvement and solving problems at their root
+Excellent communication skills; ability to explain technical concepts and mentor team members
+Nice-to-have
+Experience working with microfrontends, component libraries, or distributed frontend architectures, Clear understanding of all levels of functional testing, including Unit Testing, Exposure to non-functional testing, specifically Performance Testing using tools such as K6 or JMeter, Knowledge of contract testing (Pact or similar) is considered an asset, Exposure to TDD practices, Practical experience building and maintaining CI/CD workflows using tools such as GitHub Actions or TeamCity
+What we offer
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Tester,
+Test Engineer
+Budapest
+Álláshirdetés jelentése

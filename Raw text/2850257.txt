@@ -1,0 +1,64 @@
+Cég neve
+Riverty
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVA
+PYTHON
+Elvárások
+Angol felsőfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+JAVA
+PYTHON
+Angol
+felsőfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+(Y)our Mission:
+You will work embedded in our product and domain teams, building the AI-driven features that directly reach users. Your focus lies on RAG pipelines, knowledge graphs, context engineering, and multi-step agentic workflows. You translate AI capabilities into practical, reliable, and scalable product functionality. You will play a key role in developing Riverty's AI platform to accelerate software engineering productivity. You will design and implement AI-driven solutions based on Large Language Models, agentic architectures, and knowledge graphs – building the foundation for automation and intelligent developer workflows across our tech organization.
+Your key responsibilities:
+Build and optimize RAG pipelines, including retrievers, embeddings, indexing workflows, and evaluation logic.
+Integrate and leverage knowledge graphs to provide structured context for AI systems and agents.
+Implement agentic multi-step workflows using MCP clients, orchestration logic, and supporting tooling.
+Develop prompting strategies, chunking logic, and context preparation aligned with real product requirements.
+Integrate AI models into existing Riverty platforms.
+Conduct performance tuning, benchmarking, and cost optimization for RAG and agentic patterns.
+Work closely with Platform Engineers to adopt shared SDKs, gateway patterns, and architectural standards.
+Maintain clear documentation and contribute to a shared understanding of best practices in context engineering.
+Requirements
+Strong software engineering fundamentals in Java, Python, or TypeScript.
+Experience or strong motivation to work with RAG pipelines, retrieval systems, vector stores, or graph technologies.
+Ability to translate AI capabilities into real, user-facing product features.
+Structured, reliable working style with strong ownership and focus on delivery.
+High affinity for data-driven systems, search logic, and context architectures.
+Collaborative mindset and clear communication in cross-functional environments.
+Fluent in written and spoken English.
+Company info
+We are looking for a
+Software Engineer – RAG, Knowledge Graphs & Agentic Systems (m/f/d)
+(unlimited, full-time) Join our team at our location in Berlin, Baden-Baden, Verl or Tallinn – flexible working conditions available
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

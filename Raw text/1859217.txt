@@ -1,0 +1,29 @@
+Ihre Rolle:In dieser spannenden Position übernehmen Sie Verantwortung für den Betrieb und die Weiterentwicklung unserer zentralen IT-Infrastruktur. Ihre Aufgaben umfassen:
+Linux-Infrastruktur
+: Entwicklung, Implementierung, Betrieb und Support (Red Hat, Satellite, Ansible)
+Storage & Backup
+: System-Verantwortung in den firmeneigenen Datacentern in Liechtenstein
+Virtualisierung
+: Weiterentwicklung und Betrieb unserer Server- und Container-Plattformen
+Projekte & Konzepte
+: Erstellung von Konzepten und aktive Mitarbeit in technologisch und organisatorisch anspruchsvollen Projekten
+Ihre Ausbildung und Erfahrung:
+Ein abgeschlossenes Studium in Informatik oder eine vergleichbare Aus- oder Weiterbildung sowie mehrjährige praktische Erfahrung im Betrieb von
+Linux
+-Umgebungen
+Fundierte Kenntnisse und Erfahrungen im Betrieb von
+Storage- und Backup-Lösungen
+sowie in der
+Server-Virtualisierung
+Sicherer Umgang mit
+Automatisierungs- und Konfigurationswerkzeugen
+, idealerweise
+Ansible
+und
+GitLab
+Ihre Arbeitsweise:
+Sie sind eine dynamische, belastbare und initiative Persönlichkeit mit guten kommunikativen Fähigkeiten
+Eine selbstständige, strukturierte Arbeitsweise sowie eine analytische und konzeptionelle Denkweise machen Sie zu einem erfolgreichen Teamplayer
+Sie übernehmen Ownership für Ihre Aufgaben und nutzen Gestaltungsfreiräume
+Ihr Team:Sie arbeiten in einem gemischten Team von 8 Personen mit vielfältigen Erfahrungen. Das motivierte / engagierte Team arbeitet partnerschaftlich zusammen und freut sich, Sie als neue Kollegin / neuen Kollegen bald persönlich kennenlernen zu dürfen.Ihre Perspektive bei uns:Sie verantworten ein vielfältiges und abwechslungsreiches Aufgabenfeld. Ihr breiter Erfahrungsschatz können Sie bei uns einbringen, um die kontinuierliche Entwicklung unserer IT-Systeme mitzugestalten.
+Die LLB bietet Ihnen die Chance, in einem innovativen und werteorientierten Umfeld zu arbeiten. Die berufliche Entwicklung unserer Mitarbeitenden liegt uns am Herzen. Wir bieten Ihnen die Möglichkeit, sich ständig weiterzuentwickeln und neue Perspektiven einzunehmen.

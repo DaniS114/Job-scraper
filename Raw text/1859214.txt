@@ -1,0 +1,38 @@
+Bei OMICRON arbeitest du in einem Umfeld, das auf Vertrauen und Offenheit basiert. Wir sind überzeugt: Teams entfalten ihr volles Potenzial, wenn sich Menschen wertgeschätzt fühlen, ihre Ideen einbringen können und gehört werden. Wir heißen unterschiedliche Perspektiven bewusst willkommen und leben Vielfalt – denn sie schärft unser Denken, stärkt die Zusammenarbeit und hilft uns, die besten Lösungen zu entwickeln.
+Seit 1984 entwickeln wir Prüf-, Diagnose-, Monitoring- und Cyber-Security-Lösungen, die Energiesysteme weltweit sicher und zuverlässig machen. Heute sind unsere Lösungen in mehr als 170 Ländern im Einsatz. Was uns verbindet, ist ein gemeinsames Verantwortungsgefühl – für unsere Arbeit, unsere Kund:innen und füreinander.
+Deine Aufgaben
+Arbeite in einem agilen Projektteam an unserem neuen cloudbasierten Softwareprodukt im Bereich Messdaten
+Begleite den gesamten Entwicklungsprozess: von der Definition von Anforderungen und Testfällen bis zur Sicherstellung qualitativ hochwertiger Releases
+Entwickle, implementiere und pflege Cloud-Anwendungen mit .NET/C#, Blazor und ASP.NET Core
+Unterstütze zusätzlich die Entwicklung und den Betrieb sicherer Cloud-Infrastrukturen mit Docker, Terraform und Kubernetes auf Azure Cloud Services
+Teste, dokumentiere und warte entwickelte Softwarekomponenten kontinuierlich weiter
+Gestalte Architektur- und Designentscheidungen aktiv mit und erweitere kontinuierlich dein fachliches und technologisches Know-how
+Wirke mit an Entwicklungs- und Designentscheidungen und Beteilige beteilige dich an Code Reviews
+Was du mitbringst
+Mehrjährige Erfahrung in der Softwareentwicklung mit C# und Visual Studio
+Erfahrung in der Entwicklung cloudbasierter Anwendungen - Azure bevorzugt
+Gutes Verständnis von CI/CD-Pipelines und Cloud-Infrastrukturkonzepten
+Erfahrung in der Arbeit mit Scrum- oder anderen agilen Entwicklungsumgebungen
+Abgeschlossenes Studium der Informatik oder vergleichbare Qualifikation
+Strukturierte und selbstständige Arbeitsweise
+Ausgeprägte Problemlösungskompetenz, Kreativität und Engagement
+Gute Englischkenntnisse in Wort und Schrift
+Was unser Team besonders schätzt
+Flexible Arbeitsmodelle, die zu deinem Leben passen
+Vielfältige Möglichkeiten zur fachlichen und persönlichen Weiterentwicklung
+Ein internationales Umfeld mit Englisch als gemeinsamer Sprache
+Unterstützung für deine mentale und körperliche Gesundheit
+Eine hauseigene Kantine mit frisch zubereiteten Mahlzeiten
+Kinderbetreuungsunterstützung und ‑angebote für Eltern und Betreuungspersonen
+Nachhaltige Mobilitätsangebote und Unterstützung für umweltfreundliches Pendeln
+Die Stelle klingt spannend, aber du erfüllst das Profil noch nicht ganz? Dann überzeuge uns durch deine Motivation und bewirb dich auf
+[Kattintson a weboldal linkjének megjelenítéséhez]
+www.omicron.jobs
+.
+Noch Fragen? Komm einfach auf uns zu.
+Melde dich gerne direkt bei uns oder vernetze dich mit uns auf LinkedIn.
+OMICRON electronics GmbH
+Human Resources, Mehrschid Mirzaei
+Tel.: +43 59495 2933
+Oberes Ried 1, 6833 Klaus
+Gesetzlich vorgeschriebener Hinweis: die Bezahlung liegt deutlich über dem im Kollektivvertrag festgelegten Entlohnungsniveau. Das tatsächliche Gehalt orientiert sich an der beruflichen Qualifikation und Erfahrung

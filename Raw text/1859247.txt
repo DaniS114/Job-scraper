@@ -1,0 +1,30 @@
+Bei OMICRON arbeitest du in einem Umfeld, das auf Vertrauen und Offenheit basiert. Wir sind überzeugt: Teams entfalten ihr volles Potenzial, wenn sich Menschen wertgeschätzt fühlen, ihre Ideen einbringen können und gehört werden. Wir heißen unterschiedliche Perspektiven bewusst willkommen und leben Vielfalt – denn sie schärft unser Denken, stärkt die Zusammenarbeit und hilft uns, die besten Lösungen zu entwickeln.
+Seit 1984 entwickeln wir Prüf-, Diagnose-, Monitoring- und Cyber-Security-Lösungen, die Energiesysteme weltweit sicher und zuverlässig machen. Heute sind unsere Lösungen in mehr als 170 Ländern im Einsatz. Was uns verbindet, ist ein gemeinsames Verantwortungsgefühl – für unsere Arbeit, unsere Kund:innen und füreinander.
+Worum geht's?
+Du arbeitest an der automatisierten Erstellung und Bereitstellung von Ubuntu-Servern und lernst dabei Tools wie Packer und GitLab CI/CD kennen.
+Du erweiterst und pflegst Ansible-Playbooks zur standardisierten Konfiguration von Linux-Systemen und bekommst ein Gefühl für Infrastructure as Code.
+Du unterstützt bei Monitoring- und Logging-Themen (z. B. SentinelOne Checkmk, NinjaOne) und erhältst Einblicke in moderne Betriebs- und Supportprozesse.
+Du lernst den sicheren Umgang mit Secrets, unter anderem mit dem 1Password Vault.
+Je nach Interesse und Schwerpunkt wirkst du an weiteren DevOps- oder Kubernetes-nahen Automatisierungen mit und unterstützt das Team im Daily Business.
+Was bringst du mit?
+Du befindest dich in einem laufenden Bachelorstudium im Bereich Informatik oder in einem vergleichbaren Studiengang.
+Du hast Interesse an DevOps, Linux und Automatisierung und möchtest dich in diesem Bereich weiterentwickeln.
+Erste Erfahrungen mit Linux, Git oder Skripting sind von Vorteil, aber keine Voraussetzung – wichtiger ist deine Neugier und Lernbereitschaft.
+Du arbeitest selbstständig und strukturiert und hast Lust, dich in neue Themen einzuarbeiten.
+Du arbeitest gerne im Team, tauschst dich offen mit Kolleg:innen aus und schätzt eine Zusammenarbeit auf Augenhöhe.
+Du verfügst über gute Deutsch- und Englischkenntnisse in Wort und Schrift.
+Was zeichnet uns aus?
+Eigenverantwortliches Arbeiten und ein kollegialer Umgang auf Augenhöhe
+Ein Arbeitsumfeld mit einem starken Fokus auf Nachhaltigkeit, Diversität und flexibler Zeiteinteilung
+Modernste Infrastruktur und professionelle Teams, die Freude an ihrer Arbeit haben
+Ein kreatives und internationales Umfeld, in dem innovative Ideen geschätzt werden
+Ein betriebsinternes Küchenteam und viele andere Angebote für deine Work/Life-Balance
+Die Stelle klingt spannend, aber du erfüllst das Profil noch nicht ganz? Dann überzeuge uns durch deine Motivation und bewirb dich auf
+[Kattintson a weboldal linkjének megjelenítéséhez]
+www.omicron.jobs
+.
+OMICRON electronics GmbH
+Human Resources, Iris Ströhle
+Tel.: +43 59495 2426
+Oberes Ried 1, 6833 Klaus, Austria
+Gesetzlich vorgeschriebener Hinweis: die Bezahlung liegt deutlich über dem im Kollektivvertrag festgelegten Entlohnungsniveau. Das tatsächliche Gehalt orientiert sich an der beruflichen Qualifikation und Erfahrung

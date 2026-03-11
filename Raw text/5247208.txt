@@ -1,0 +1,102 @@
+Python Developer – meteorologické modelovanie
+MicroStep-MIS, spol. s r.o.
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+od 3.000 EUR brutto (podľa schopností a skúseností uchádzača)
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho tímu hľadáme skúsenejšieho Python developera, ktorý sa zapojí do vývoja a rozvoja systémov na spracovanie meteorologických dát, modelovanie šírenia znečistenia a podporu environmentálnych analýz.
+Pozícia je vhodná pre kandidáta, ktorý má záujem pracovať na rozhraní softvérového vývoja, meteorológie a dátovej analýzy. Očakávame schopnosť samostatne riešiť technické úlohy, spolupracovať s vývojárskym aj odborným tímom a aktívne prispievať k rozvoju systémov na spracovanie meteorologických a environmentálnych dát.
+Náplň práce
+vývoj      a údržba aplikácií v jazyku Python,
+vývoj      a integrácia backend služieb a API,
+práca      s databázami a dátovými štruktúrami,
+integrácia      meteorologických a modelových systémov,
+spracovanie      a analýza meteorologických a environmentálnych dát,
+spolupráca      s odborníkmi na meteorológiu a modelovanie kvality ovzdušia.
+Zamestnanecké výhody, benefity
+-13. plat
+-možnosť pracovať v stabilnej a medzinárodne pôsobiacej firme
+-možnosť učiť sa nové technológie
+-flexibilný pracovný čas
+-preplácanie nadčasov
+-profesionálny rast
+-podpora vzdelávania v podobe kurzov angličtiny a iných odborných školení
+-rôzne zamestnanecké akcie
+-odmeny za dlhoročnú spoluprácu
+Informácie o výberovom konaní
+Reakcie na zaslané CV zasielame len v prípade kladného posúdenia CV a to pozvaním na osobný pohovor. Uchádzačom, ktorí nevyhovujú, vyjadrenie nezasielame. Za pochopenie ďakujeme.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informatika, Softvérové inžinierstvo, Aplikovaná informatika, Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+Python - Pokročilý
+Analýza dát - Pokročilý
+Prax na pozícii/v oblasti
+Python Developer
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Požadované znalosti a skúsenosti
+veľmi      dobrá znalosť programovania v jazyku Python,
+minimálne      3 roky praxe s vývojom softvéru v Pythone,
+skúsenosti      s frameworkom Django,
+skúsenosti      s vývojom REST API,
+skúsenosti      s prácou so SQL databázami,
+skúsenosti      s prácou v Linux prostredí,
+základná      znalosť Dockeru alebo kontajnerizácie.
+Výhodou je
+znalosť      programovacieho jazyka Java,
+skúsenosti      s meteorologickými alebo atmosférickými modelmi,
+znalosť      NWP dátových formátov (napr. COSMO, GFS, ICON).
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+MicroStep-MIS je inovatívna spoločnosť, ktorá sa špecializuje na vývoj, výrobu a realizáciu monitorovacích a informačných systémov a v súčasnosti pôsobí vo viac ako 80 krajinách sveta.
+Kľúčové oblasti aktivít spoločnosti:
+-Meteorológia: Letiskové meteorologické systémy, automatické meteorologické stanice, systémy zberu, spracovania a archivácie dát, klimatologické databázy, predpovedné systémy vrátane klimatických zmien
+-Seizmológia: Monitorovacie systémy a centrá pre zber a spracovanie seizmických dát
+-Radiačný monitoring: Modelovanie šírenia radiačného zamorenia
+-Čistota ovzdušia: Emisný monitoring
+-Krízové informačné systémy: Pokročilé riešenia pre riadenie krízových situácií
+-Systémová integrácia: Realizácia projektov na kľúč
+-Výskum a vývoj: Pokročilý výskum v oblasti technických a prírodných vied, vrátane umelej inteligencie (AI)
+MicroStep-MIS je významnou výskumnou a vývojovou organizáciou, ktorá neustále inovuje a prináša technologické riešenia na globálnu úroveň.
+Počet zamestnancov
+150-199 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Patrícia Tonhajzerová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5247208
+Dátum zverejnenia:
+9.3.2026
+2026-03-09
+lokalita:
+Bratislava
+Pozícia:
+Programátor
+,
+Python programátor
+Spoločnosť:
+MicroStep-MIS, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

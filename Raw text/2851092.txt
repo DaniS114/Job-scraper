@@ -1,0 +1,77 @@
+Cég neve
+4iG Nyrt.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+CÉGINFORMÁCIÓ
+A budapesti központtal működő, magyar többségi tulajdonosi hátterű 4iG Nyrt. Magyarország és a nyugat-balkáni régió távközlési- és informatikai piacának meghatározó cégcsoportja, a tudásalapú, digitális gazdaság egyik vezető vállalata. A Budapesti Értéktőzsdén jegyzett tőkepiaci társaság friss és innovatív szemlélete, valamint magyarországi piacvezető informatikai rendszerintegrátor pozíciója a régió digitális átalakulásának vezető lakossági- és üzleti szolgáltatójává emeli a cégcsoportot.
+A telekommunikációs, valamint informatikai piac változásainak és igényeinek megfelelve a vállalatcsoport folyamatosan bővíti szolgáltatásait, szakemberállományát és portfólióját.
+Ha Te is úgy érzed, hogy szívesen része lennél egy jó csapatnak, foglalkoztatnak az innovatív megoldások, mindenképp nálunk a helyed!
+A munkakör célja
+A 4iG Nyrt. projektjeire keresünk szenior fejlesztőt, aki komplex vállalati rendszerek tervezésében és fejlesztésében vállal meghatározó szerepet.
+Olyan szakember jelentkezését várjuk, aki erős backend tapasztalattal rendelkezik, de frontend technológiákban is jártas és képes a fullstack fejlesztésre.
+KÖZÖS CÉLJAINK MEGVALÓSÍTÁSÁHOZ AZ ALÁBBIAKBAN SZÁMÍTUNK RÁD
+Komplex vállalati alkalmazások és funkciók tervezése, fejlesztése és bevezetése, technikai kockázatok és megvalósíthatóság elemzésével
+A fejlesztett kód teljes életciklusáért való felelősség, hibajavítás és code review
+Architektúrális döntések meghozatala
+Tesztelés (funkcionális és nem funkcionális) támogatása
+CI/CD folyamatok kialakítása és DevOps együttműködés
+Együttműködés UX/UI, QA, termékmenedzsment és projektcsapatokkal
+SLA-k betartása, incidensek kezelése
+Feladatok erőforrás- és ráfordításbecslése, dokumentáció és üzembe helyezés támogatása
+AMI SZÜKSÉGES LESZ AZ EREDMÉNYES MUNKÁDHOZ
+Felsőfokú informatikai végzettség
+5–10 év releváns tapasztalat
+Kommunikációképes angol nyelvtudás
+Objektumorientált tervezés és magas szintű rendszer- és adatbázistervezési ismeretek
+Szoftverfejlesztési módszertanok (Agile/Scrum), naprakész technológiai és nemzetközi trendek ismerete
+Backend: Java, Spring Boot, Hibernate/JPA, SQL (PostgreSQL, Oracle), REST, microservice architektúra, Docker
+Frontend: Vue.js, Nuxt.js, Angular, React, modern build eszközök, REST API integráció
+CI/CD eszközök (GitLab CI, Jenkins)
+Kódminőség és statikus kódelemzés (pl. SonarQube)
+AMIVEL VÁRUNK TÉGED
+Változatos feladatokon keresztül, fejlődési- és karrierlehetőséget biztosítunk számodra.
+Szakmai és soft skill képzések széles palettáját kínáljuk Neked munkavégzésedhez kapcsolódóan.
+Juttatási rendszerünket folyamatosan bővítjük, jelenleg telefonflotta csomag, Cafetéria (SZÉP kártya), egészségbiztosítás, gyümölcsnap, nagyon finom kávé, és sok más kedvezményes lehetőség, amivel várunk Téged.
+Az irodai napok mellett támogatjuk az otthoni munkavégzést is munkakörtől függően, erről az interjúnk kapsz bővebb információt.
+Hiszünk a csapat erejében, közösségépítéssel kapcsolatban csapatépítőkre, versenyekre és sporteseményekre lehet számítani nálunk.
+MUNKAHELYI EXTRÁK
+Céges rendezvények
+Sportolási lehetőség
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

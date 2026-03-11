@@ -1,0 +1,89 @@
+Cég neve
+Leibniz-Rechenzentrum (LRZ) der Bayerischen Akademie der Wissenschaften
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C
+C++
+SECURITY
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C
+C++
+SECURITY
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+You are looking for an employer you can count on? Join us!
+HPC Application Specialist for Performance Analysis
+and Energy Efficiency (f/m/d)
+Your Role and Responsibilities:
+Performance analysis of user codes and guidelines for optimization
+Benchmarking time-to-solution and energy-to-solution
+Optimizing HPC operational parameter towards energy efficiency
+Assessment of performance portability
+Guiding scientists through the optimization process
+Documentation of tools and best practices
+Requirements
+Degree in computer science, computational science, mathematics, physics or related disciplines
+Experience with HPC applications on TIER1/TIER2 systems
+Programming experience with a higher-level languages (C/C++, FORTRAN)
+Knowledge of parallelization with OpenMP and/or MPI
+Knowledge of accelerator programming paradigms, e.g., CUDA, OpenMP, OpenACC, SYCL, KOKKOS
+Preferred Qualifications:
+Understanding of optimization techniques for high-performance computing
+Knowledge of tools for instrumentation and performance analysis
+Experience with benchmarking and scaling tests
+Experience working with scientists and engineers in academia or industry
+What we offer
+Area
+High-Performance Computing
+Working time
+full time (40 hrs) / part-time possible
+flexible working model with electronic time recording
+Term of the contract
+31.12.2028, a further employment is intended
+Remuneration
+up to E 13, see
+Entgelttabelle TV-L
+Annual leave / compensatory time off
+30 days
+(24.12. + 31.12. additionally day off)
+Overtime is compensated by additional time off
+Further trainings
+Individual support for in-service training and further education
+Mobile work
+up to 60% of work time, when applicable
+Benefits
+e.g. JobBike Bayern, bus and subway (U6) on the doorstep, free parking, pension plan of the Versorgungsanstalt des Bundes und der Länder (VBL), state-of-the-art work equipment, Cooperation Agreement with Sports Facility Providers for Discounted Membership
+What can you find with us?
+Are you looking for a multifaceted and intellectually stimulating position in a dynamic, cooperative and innovative work environment? Then LRZ is the place to be for you! Here at LRZ a collegial, appreciative work environment meets an international crowd of experts who work together to advance IT services for ground-breaking research. We offer flexible work schemes for an optimal work-life balance. Our staff values their creative leeway. As an institute of the Bavarian Academy of Science and Humanities we offer all the benefits of public service. And of course, no wishes remain unfulfilled at the LRZ in terms of technical equipment. We share experiences, constantly review and improve our processes, and are proud that our service-quality and data-security are regularly certified and rated highly. We actively promote diversity and welcome applications from talented individuals, regardless of cultural background, nationality, ethnicity, gender and sexual identity, physical abilities, religion and age. We give priority to applications from people with disabilities who are equally qualified (SGB IX).
+Company info
+Since 1962, Bavarian universities and research institutions have relied on the IT expertise of the Leibniz Supercomputing Centre of the Bavarian Academy of Sciences and Humanities. When it comes to the digital transformation of science, we are traditionally ahead of the game.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

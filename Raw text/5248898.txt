@@ -1,0 +1,109 @@
+Azure Cloud Engineer (Mid-Senior Level)
+BTCS Slovakia s. r. o.
+Place of work
+Bottova 1/1, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 000 EUR/month
+Final salary depends on individual experience and skills of selected candidate
+Information about the position
+Job description, responsibilities and duties
+We are looking for a motivated Azure Cloud Engineer to join our IT Infrastructure team.
+This role is a great fit for someone with a solid foundation in Azure and Microsoft infrastructure who wants to keep growing in a modern cloud environment. Your main focus will be on the Azure side, while also supporting and gradually learning the Microsoft 365 ecosystem alongside experienced colleagues.
+We are looking for someone with the right mindset, strong technical fundamentals, and a genuine willingness to learn and take ownership over time.
+What will you work on?
+Manage and maintain Azure services including Storage Accounts, Key Vault, Backups, Update Management, Azure Policies, Conditional Access, Application Gateways, and governance-related configurations
+Work with Entra ID (Azure AD), user and group provisioning, app registrations, and authentication configurations
+Help maintain Group Policy and on-premises Active Directory
+Assist with Microsoft 365 services such as Exchange Online, SharePoint Online, OneDrive, and Teams
+Contribute to automation and operational improvements using PowerShell and other scripting tools
+Support endpoint and device management in collaboration with Intune and Microsoft security solutions
+Troubleshoot infrastructure and cloud-related issues together with internal teams
+Support integrations with third-party tools and platforms
+Participate in security initiatives, including Microsoft Defender configuration and monitoring
+Create and maintain clear technical documentation to support the team
+Work closely with colleagues across infrastructure, networking, security, and other IT teams
+Here is our wish list for what you can do already
+Relevant IT education, apprenticeship, or equivalent hands-on practical experience
+First hands-on experience in a systems, cloud, or infrastructure engineering role
+Solid understanding of Microsoft Azure services and Entra ID concepts
+Familiarity with Active Directory, Entra ID, or both
+Foundational knowledge in Microsoft 365 administration
+General Windows infrastructure
+A structured, solution-oriented approach to problems
+Willingness to learn and grow into a broader Azure and Microsoft 365 role over time
+Strong communication skills and the ability to work across different teams
+Fluent English, written and spoken; German is a plus
+​
+Nice to have
+Experience with Terraform or other Infrastructure as Code (IaC) tools
+Exposure to Intune MDM and/or Microsoft Defender
+PowerShell scripting or task automation experience
+Windows Server administration
+Experience with Exchange Online, hybrid mail environments, or mail security
+Exposure to SQL Server or Azure SQL
+Experience with PKI or Certificate Services
+What we offer
+A clear growth path: Azure first, then the broader Microsoft 365 ecosystem, with mentorship along the way
+A collaborative, small-team environment where your contributions have real, visible impact
+The opportunity to build deeper expertise across cloud infrastructure, identity, automation, and workplace technologies
+Exposure to a modern Microsoft stack: Intune, Entra ID, Defender, Exchange Hybrid, and much more
+A supportive team that values initiative, curiosity, and continuous improvement
+Employee perks, benefits
+​Exciting projects in the crypto space
+Friendly and supportive team culture that relies on positivity
+Flexible organization of your working hours
+Christmas bonus
+Company shares
+Home-office
+Workation: Enjoy the flexibility of working across designated EU countries, with up to 20 days a year to combine work and travel
+Multisport card
+Information about the selection process
+Online Personal Interview
+This call is about getting to know each other. We want to know more about your background, motivations and expectations and at the same time you can ask us your questions.
+Technical Interview
+In the technical interview, we have a few tasks for you to learn more about your skills. You will also have the opportunity to get to know the team and the workplace.
+We will contact only candidates, who fit our needs. By sending your CV, you agree with processing of your personal data.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+5
+Advertiser
+Brief description of the company
+Bitcoin Suisse is the Swiss crypto-native pioneer and trusted gateway to crypto asset investing. As a crypto broker, we operate across the most relevant crypto exchanges and provide brokerage, custody, staking and other crypto-related services at the forefront of technical innovation. We are as dedicated to our clients as we are passionate about cryptocurrencies and the underlying blockchain technology. We make things happen and have helped to shape the crypto and blockchain ecosystem in Switzerland as a driving force in the development of the ‘Crypto Valley’. Bitcoin Suisse is headquartered in Zug and targets (ultra-) high-net-worth individuals and institutional clients
+Number of employees
+250-499 employees
+Contact
+Contact person: Lujza Petríková
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5248898
+Dátum zverejnenia:
+11.3.2026
+2026-03-11
+lokalita:
+Bratislava
+Pozícia:
+Cloud Engineer
+,
+DevOps Engineer
+Spoločnosť:
+BTCS Slovakia s. r. o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

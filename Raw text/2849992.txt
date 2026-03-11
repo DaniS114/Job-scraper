@@ -1,0 +1,93 @@
+Cég neve
+Deutsches Krebsforschungszentrum DKFZ
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Artificial intelligence (AI) has the potential to substantially improve medical care, from early diagnosis to treatment planning and follow-up. Despite rapid technical advances, many AI algorithms in healthcare do not yet address the most urgent clinical needs. Research efforts are frequently shaped by the availability of data rather than by the relevance of the underlying medical problem.
+Medical Imaging AGI's Last Exam (MEDAL) is an international initiative funded by the foundation Carl-Zeiss-Stiftung that seeks to realign medical AI development with real-world clinical needs. The project aims to establish a globally relevant benchmark based on high-impact clinical questions. Through a large-scale global crowdsourcing campaign, experts worldwide are invited to submit clinically meaningful challenges together with corresponding imaging data. An international, multidisciplinary expert panel will identify those tasks whose solution would have clear relevance for patient care.
+MEDAL's objective is to create a rigorous and internationally recognized “final exam” for medical AI—a benchmark designed to assess whether advanced AI models can address complex clinical scenarios and demonstrate tangible clinical value, thereby channeling scientific effort and resources toward the most pressing medical challenges.
+Role and responsibilities
+We are looking for a solution architect to design and shape the technical architecture of the MEDAL project, an international initiative aiming to establish a next-generation benchmark for medical imaging AI. The role combines architectural responsibility with close collaboration in a research environment and allows for active technical involvement where appropriate.
+Working closely with researchers, clinicians, legal experts, and external technical partners, the solution architect will define the technical foundations of secure and sustainable research platforms.
+Key responsibilities include:
+Designing the overall system architecture for complex research platforms
+Conceptualizing data submission workflows for sensitive medical imaging data
+Defining architectural concepts for benchmarking and evaluation platforms, including secure execution of submitted models
+Developing concepts for model deployment and hosting in a research benchmarking context
+Translating scientific, regulatory, and ethical requirements into technical systems designs
+Making and documenting architectural decisions and technical trade-offs
+Acting as a technical interface between research teams, software developers, legal experts, and external infrastructure providers
+Supporting implementation planning and contributing to technical development where appropriate
+Requirements
+A master's degree in computer science, software engineering, or a related field
+Experience in solution architecture, systems architecture, or a senior technical role
+A solid understanding of secure systems design (e.g., SOC, HITRUST CSF) and data protection principles
+Familiarity with architectural concepts related to:
+Cloud or hybrid infrastructures
+Data ingestion and storage systems
+Modular or service-oriented architectures
+Isolated execution environments, for example based on container technologies
+Ability to communicate technical concepts clearly to interdisciplinary and nontechnical stakeholders
+A structured and solution-oriented working style
+Excellent English communication skills, written and verbal
+Experience with medical data, AI infrastructures, or regulated environments is advantageous but not required
+What makes this position special:
+Work on an exciting, highest-impact research project
+Being part of a team of highly skilled and motivated scientists
+A highly interdisciplinary and collaborative research environment including clinical and technical partners
+Professional scientific work infrastructure, including state-of-the-art computational resources
+What we offer
+Excellent framework conditions: state-of-the-art equipment and oppor­tunities for inter­national networking at the highest level
+30 days of vacation per year
+Flexible working hours
+Remuneration according to TV-L incl. company pension scheme and capital-forming benefits
+Possibility of mobile work and part-time work
+Family-friendly working environ­ment
+Sustainable travel to work: subsidized Germany job ticket
+Unleash your full potential: targeted offers for your personal development to further develop your talents
+Our Corporate Health Manage­ment Program offers a holistic approach to your well-being
+Company info
+The German Cancer Research Center (DKFZ) is one of Europe's largest cancer research centers. “Research for a life without cancer" is the mission of our world-class scientists and all our team members.
+The DKFZ is a place where the brightest minds pursue bold ideas and seek answers to pioneering scientific questions through collaboration, innovation, and exploration across many disciplines. We provide a dynamic environment that empowers excellence with state-of-the-art technologies, cutting-edge infrastructure, and a global scientific network.
+Contribute your knowledge, vision, and dedication to create a space where scientific discovery in cancer research is transformed into benefits for human health.
+The Division of
+Intelligent Medical Systems
+is seeking for the next possible date a
+Scientific Solution Architect
+.
+Reference number: 2026-0039
+The Division of Intelligent Medical Systems (IMSY) is an interdisciplinary research division working at the interface of computer science, physics, statistics, and medicine. Our mission is to address the unique methodological and translational challenges of medical imaging AI to enable robust, clinically meaningful applications, with a particular focus on surgical AI. IMSY is highly international and strongly embedded in large collaborative research consortia, meta-research initiatives, and community-driven projects.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Germany
+Álláshirdetés jelentése

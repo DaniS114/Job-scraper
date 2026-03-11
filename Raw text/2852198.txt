@@ -1,0 +1,94 @@
+Cég neve
+Universität Zürich
+Munkavégzés helye
+Lengghalde 5, 8008 Zürich, Switzerland
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ACCESS
+HARDWARE.
+MACHINE LEARNING
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ACCESS
+HARDWARE.
+MACHINE
+LEARNING
+Angol
+középfok
+Nem
+kell tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+PhD Position in Dynamic Soft Tissue 3D Reconstruction and Simulation
+The Research in Orthopedic Computer Science (ROCS) group at the University of Zurich develops advanced solutions for surgical context understanding training, guidance, and robotics. Our work combines medical imaging, computer vision, and machine learning with strong clinical translation, in close collaboration with Balgrist University Hospital and the national research platform OR-X (OR-X).
+We are offering a PhD position in a Swiss National Science Foundation project on Surgical Digital Twins. The PhD project focuses on modeling how surgical tools interact with bone and soft tissues, reconstructing these interactions from multi-modal sensor data, and generating dynamic, high-fidelity 3D representations suitable for both scientific analysis and interactive replay. The research will span 3D scene reconstruction, physics-aware modeling, and data-driven deformation learning.
+This position provides a unique opportunity to work at the frontier of computer-assisted orthopedic surgery, embedded in Zurich's vibrant MedTech and AI ecosystem. With direct access to the state-of-the-art OR-X infrastructure for translational validation, the successful candidate will join an innovative team and collaborate with surgeons and industry partners to shape technologies with strong potential for clinical adoption.
+PhD Position in Dynamic Soft Tissue 3D Reconstruction and Simulation
+Your responsibilities
+The PhD student's primary responsibility is to conduct original research on dynamic 3D modeling of surgical anatomy under tool–tissue interaction. You will work with multi-modal data acquired at OR-X, including CT, RGB-D sequences, tool tracking, and optical surface models, and use them to build methods that reconstruct and simulate anatomical changes during manipulation.
+The core research challenges include accurate 3D reconstructions that can be continuously updated from sensor data. Potential approaches include graph neural networks, NeRF representations, point-based and diffusion-based models, and advanced differentiable rendering frameworks such as Gaussian Splatting. The exact direction will be shaped based on the project's scientific explorations. n in user studies.
+The work is expected to produce methodological contributions documented through publications in leading venues such as MICCAI, IPCAI, or Medical Image Analysis. During the initial phase, the candidate will review the state-of-the-art and establish a structured multi-year research plan together with the supervisor. The PhD is embedded in the graduate school of the University of Zurich, which also involves serving as a teaching assistant for 1–2 courses per year.
+In particular, the PhD project will involve:
+Building multi-modal 3D reconstructions by fusing CT-based anatomical models with photorealistic or depth-based surface reconstructions from optical cameras
+Developing algorithms to integrate real-time camera observations into dynamic anatomical models to track tool–tissue interactions
+Investigating learning-based methods for dynamic anatomy modeling, including GNNs, implicit neural representations, and radiance-fiel
+Exploring simulation approaches ranging from FE simulation to learned–physical models
+Performing user studies to evaluate the usefulness of the developed methods in a surgical training setting
+Collaborating with surgeons and engineers to ensure translational relevance
+Disseminating results through scientific publications, patents, and prototype demonstrations
+Your profile
+You hold an excellent MSc degree in computer science, robotics, or electrical engineering with a strong background in computer graphics, simulation, and computer vision. You combine excellent programming skills with experience in medical imaging and camera hardware.
+We are looking for candidates who demonstrate:
+Solid understanding of generative models and proven experience in working with multimodal data
+Strong understanding of 3D geometry processing, reconstruction, registration, or scene
+Experience with modern 3D learning paradigms such as graph neural networks, implicit neural representations, or point/voxel-based models
+Familiarity with physical simulation concepts or deformable modeling (finite elements, mass– models, or physics-informed models) is an asset
+Practical experience with computer vision, camera calibration, and tracking, and proficiency in relevant libraries (e.g., OpenCV, Open3D)
+Familiarity with AI/ML frameworks (e.g., PyTorch, TensorFlow) and medical image analysis libraries (Slicer3D, MONAI)
+Excellent communication skills in English (German is an asset), combined with initiative, problem-solving ability, and teamwork
+What we offer
+Our employees benefit from a wide range of attractive offers. More
+Location
+Research in Orthopedic Computer Science (ROCS)
+Information on your application
+What We Offer
+Embedded in the Greater Zurich Area, one of Europe's leading hubs for MedTech and AI innovation, the ROCS group pursues the mission of turning fundamental research into technologies with clinical impact. We offer a supportive and welcoming environment where you can thrive, learn, and grow. The Balgrist Campus, OR-X, and the University of Zurich together provide world-class research infrastructure at the forefront of surgical innovation. This PhD will prepare you for a career in academia, MedTech, or surgical robotics, with strong exposure to both scientific excellence and clinical translation.
+We also offer:
+A competitive PhD salary in accordance with SNF guidelines
+A flexible working environment with hybrid (on-site + remote) options
+An inspiring workplace at Balgrist CAMPUS, Lengghalde 5, 8008 Zurich (Balgrist CAMPUS)
+Access to OR-X, a state-of-the-art national research infrastructure shaping the future of surgery (OR-X)
+Opportunities to participate in international conferences and workshops
+Teaching experience and supervision of MSc student research projects
+Application
+The anticipated start date of the PhD project is 2026 (Mai - June), with some flexibility by mutual agreement. To apply, please submit your motivation letter (1 page) and academic CV as a single PDF file.
+Further information
+Questions about the job
+Seibold
+Stellvertretender Forschungsgruppenleiter ROCS
+Write an email
+Working at UZH
+The University of Zurich, Switzerland's largest university, offers a range of attractive positions in various subject areas and professional fields. With around 10,000 employees and currently 12 professional apprenticeship streams the University offers an inspiring working environment on cutting-edge research and top-class education. Put your talent and skills to work with us. Find out more about UZH as an employer! jid5bc6792pn jit0311pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Switzerland
+Álláshirdetés jelentése

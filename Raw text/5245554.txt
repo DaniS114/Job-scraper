@@ -1,0 +1,78 @@
+IT Service Engineer
+Allianz Technology SE organizačná zložka
+Place of work
+Nivy Tower, Mlynské nivy, Ružinov
+Contract type
+full-time
+Wage (gross)
+2 200 EUR/month
+Base salary starts from 2200€ per month and depends on the professional qualifications and experience of candidate.
+Information about the position
+Job description, responsibilities and duties
+About the Job
+The position involves strategic oversight and management of Oracle and PostgreSQL databases within controlled environments. This role requires a deep understanding of database states during runtime and the ability to provide operators or administrators with advanced control and configuration tools to ensure optimal system performance and reliability.
+As a Senior Database Administrator, you will play a pivotal role in maintaining database stability and supporting business continuity through effective database management practices. Your leadership will be crucial in planning ahead for optimization and continuous improvement of our services for our customers.
+What you do
+Define goals and objectives for database management, devising strategies to ensure alignment with orgnizational targets and future needs, including migration to Oracle Cloud Infrastructure.
+Lead efforts in proactive database monitoring, implementing sophisticated measures to preemptively address issues and optimize performance.
+Supervise and coordinate complex database incident management processes, ensuring timely resolution and strategic improvements to service delivery.
+Oversee advanced backup and recovery operations, ensuring data integrity and readiness for disaster recovery across Oracle and PostgreSQL databases.
+Direct user administration tasks, including role management and access control, while leading security initiatives to maintain robust database integrity; lead strategic customizations and capacity management efforts to adapt databases to evolving business demands effectively.
+Ensure databases are secure and up-to-date by leading the implementation of security updates and maintenance for all critical components.
+Engage and communicate with stakeholders, providing insights into database service risks and strategic plans to mitigate potential disruptions.
+Employee perks, benefits
+Information about the selection process
+Only selected candidates will be contacted.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Number of years of experience
+3
+Personality requirements and skills
+At least 3 years of experience as a database administrator for Oracle databases with senior-level knowledge of Oracle Database 19c and experience with performance tuning and optimization of Oracle databases.
+Familiarity with backup and recovery processes.
+Strong problem-solving skills and ability to work in a team environment.
+User-level knowledge of Red Hat Linux.
+Scripting abilities (bash and/or Python).
+Very good communication skills in English (Ability to speak and write in English effectively).
+Basic knowledge of AI technologies, principles and their practical use.
+Advertiser
+Brief description of the company
+About Allianz Technology
+Allianz Technology is the global IT service provider for Allianz and delivers IT solutions that drive the digitalization of theGroup. With more than 13,000 employees located in 22 countries around the globe, Allianz Technology works together withother Allianz entities in pioneering the digitalization of the financial services industry.
+We oversee the full digitalization spectrum – from one of the industry’s largest IT infrastructure projects that includes datacenters, networking, and security, to application platforms that span from workplace services to digital interaction. In short,we deliver full-scale, end-to-end IT solutions for Allianz in the digital age.
+D&I statement
+Allianz Technology is proud to be an equal opportunity employer encouraging diversity in the working environment. We areinterested in your strengths and experience. We welcome all applications from all people regardless of gender identityand/or expression, sexual orientation, race or ethnicity, age, nationality, religion, disability, or philosophy of life.
+Join us. Let´s care for tomorrow.
+You. IT
+Number of employees
+100-149 employees
+Contact
+Contact person: Allianz Technology
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5245554
+Dátum zverejnenia:
+10.3.2026
+2026-03-10
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+Service Engineer
+Spoločnosť:
+Allianz Technology SE organizačná zložka
+Základná zložka mzdy (brutto):
+2 200 EUR/month

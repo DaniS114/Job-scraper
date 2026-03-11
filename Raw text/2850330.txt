@@ -1,0 +1,92 @@
+Cég neve
+Mortoff Informatikai Tanácsadó és Szolgáltató Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+FRONTEND
+HTML
+CSS
+JAVASCRIPT
+REACT
+ANGULAR
+VUE.
+API
+BACKEND
+GIT
+SASS
+ADOBE XD
+Elvárások
+Magyar középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+FRONTEND
+HTML
+CSS
+JAVASCRIPT
+REACT
+ANGULAR
+VUE.
+API
+BACKEND
+GIT
+SASS
+ADOBE
+XD
+Magyar
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Webalkalmazások és weboldalak frontend fejlesztése HTML, CSS, JavaScript és modern frontend keretrendszerek - pl. React, Angular, Vue.js használatával.
+A felhasználói felület (UI) és felhasználói élmény (UX) tervezése és implementálása.
+Az alkalmazások reszponzív és keresőbarát (SEO) kialakítása.
+Az alkalmazások működésének tesztelése különböző eszközökön és böngészőkben.
+Az interaktív weboldalakhoz szükséges dinamikus komponensek fejlesztése és integrálása.
+Adatkommunikáció és API integrációk kezelése (RESTful API-k, GraphQL).
+Az alkalmazások teljesítményének optimalizálása és gyors betöltődési idejének biztosítása.
+Szoros együttműködés a backend fejlesztőkkel, a design csapattal és a termékmenedzsmenttel a legjobb felhasználói élmény biztosítása érdekében.
+A kód minőségének fenntartása és a legjobb gyakorlatok alkalmazása (pl. kód újrahasznosíthatósága, dokumentáció).
+Elvárások
+Erős HTML, CSS, JavaScript és modern frontend technológiák ismerete.
+Jártas legalább egy frontend keretrendszer használatában (pl. React, Angular, Vue.js).
+Tapasztalat reszponzív weboldalak fejlesztésében és mobilbarát felületek készítésében.
+Ismeretek a frontend build eszközökről és fejlesztési környezetekről (pl. Webpack, Babel, NPM).
+Jártas verziókezelő rendszerek (pl. Git) használatában.
+Alapvető ismeretek backend fejlesztésről, API integrációkról és adatkommunikációról.
+Képesség problémák gyors azonosítására és hatékony megoldására.
+Jó kommunikációs készség, csapatmunkára való hajlandóság.
+Előnyt jelent
+Tapasztalat TypeScript használatában., Ismeretek CSS preprocesszorokkal (pl. SASS, LESS)., Tapasztalat UI/UX design alapú munkában, dizájn eszközök (pl. Figma, Adobe XD) ismerete., Tapasztalat modern JavaScript funkciók és eszközök alkalmazásában (pl. ES6+, async/await)., Alapvető ismeretek a tesztelési eszközökről és tesztelési gyakorlatok alkalmazásáról (pl. Jest, Mocha).
+Amit kínálunk
+Kihívást jelentő projektek és szakmai fejlődési lehetőségek.
+Versenyképes fizetés és egyedi juttatási csomag.
+Rugalmas munkaidő és home-office lehetőség.
+Képzési és továbbképzési lehetőségek, valamint a legújabb technológiai trendek elsajátítása.
+Barátságos, támogató munkakörnyezet és lehetőség a szakmai előre jutásra.
+Céginformáció
+A Mortoff a hazai piac egyik elismert informatikai tanácsadó és szolgáltató vállalkozása. Az IT minden területén professzionális szolgáltatásokat nyújtunk közép- és nagyvállalati ügyfeleink számára a toborzástól, az informatikai tanácsadáson és megoldásokon keresztül, a teljes projektmenedzsmentig.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

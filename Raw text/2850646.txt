@@ -1,0 +1,76 @@
+Cég neve
+MUSE Electronics Hungary Kft.
+Munkavégzés helye
+1087 Budapest, Könyves Kálmán körút 76.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+LINUX
+WINDOWS
+GIT
+ANDROID
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+LINUX
+WINDOWS
+GIT
+ANDROID
+Angol
+középfok
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+Feladatok
+Új funkciók fejlesztése és bevezetése RTOS, Linux és Windows alapú rendszerekben, alkalmazások, driverek és rendszerszintű szolgáltatások területén.
+Aktív részvétel a teljes fejlesztési életciklusban a koncepciótól a gyártásig, beleértve a K+F, tanúsítási és gyártásba történő átadási folyamatokat.
+Automatizált tesztelési folyamatok, CI/CD rendszerek és validációs megoldások karbantartása és fejlesztése.
+Szoros együttműködés belső csapatokkal és külső partnerekkel a hatékony fejlesztés és a magas színvonalú dokumentáció érdekében.
+Unit- és integrációs tesztek készítése a kódminőség biztosítására.
+Elvárások
+Szakirányú befejezett egyetemi, főiskolai végzettségel rendelkezel
+Tapasztalat firmware vagy beágyazott szoftver fejlesztésben, előny dinamikus vagy gyorsan változó környezetben szerzett gyakorlat.
+Stabil műszaki alapok driverfejlesztés, firmware, bootloader vagy Linux/Windows alapú rendszerek területén.
+szoftverrendszerek felépítésének és tervezésének ismerete.
+Gyakorlatias, problémamegoldó szemlélet, nyitottság a folyamatos fejlődésre.
+Modern fejlesztési eszközök és módszertanok ismerete (pl. Git, automatizált tesztelés, CI/CD).
+Magabiztos magyar és angol nyelvtudás szóban és írásban (német nyelvismeret előnyt jelent).
+Csapatmunkára nyitott, proaktív, megoldásorientált hozzáállás.
+Előnyt jelent
+Ipari, autóipari vagy hordozható eszközökhöz kapcsolódó szoftver/firmware fejlesztési tapasztalat.
+Beágyazott vagy mobil platformok, Android vagy felhőintegrált rendszerek ismerete.
+Tapasztalat agilis vagy startup jellegű munkakörnyezetben.
+Amit kínálunk
+Lehetőség innovatív termékek fejlesztésében való részvételre egy dinamikusan fejlődő
+vállalatnál.
+Szakmai fejlődési lehetőség, világos technikai és karrierút.
+Rugalmas, támogató nemzetközi vállalati kultúra , home office lehetőség, rugalmas munkaidő.
+Versenyképes juttatási csomag
+Tapasztalat szerzési lehetőség izgalmas nemzetközi Projektekben.
+Céginformáció
+Egy gyorsan növekvő, innovációvezérelt startup vagyunk, ahol a legmodernebb technológiákkal dolgozhatsz szoftver, firmware és hardver területen egyaránt. Megoldásaink Linux és Windows alapú alkalmazásokat, eszköz firmware-t, drivereket és bootloader rendszereket ötvöznek. Mindezt agilis szemlélettel, nagyfokú önállósággal és együttműködő támogatcsapatkultúrával valósítjuk meg
+Jelentkezés módja
+Ha szívesen dolgoznál velünk, várjuk angol nyelvű önéletrajzodat.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

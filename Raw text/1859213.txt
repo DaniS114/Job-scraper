@@ -1,0 +1,40 @@
+Bei OMICRON arbeitest du in einem Umfeld, das auf Vertrauen und Offenheit basiert. Wir sind überzeugt: Teams entfalten ihr volles Potenzial, wenn sich Menschen wertgeschätzt fühlen, ihre Ideen einbringen können und gehört werden. Wir heißen unterschiedliche Perspektiven bewusst willkommen und leben Vielfalt – denn sie schärft unser Denken, stärkt die Zusammenarbeit und hilft uns, die besten Lösungen zu entwickeln.
+Seit 1984 entwickeln wir Prüf-, Diagnose-, Monitoring- und Cyber-Security-Lösungen, die Energiesysteme weltweit sicher und zuverlässig machen. Heute sind unsere Lösungen in mehr als 170 Ländern im Einsatz. Was uns verbindet, ist ein gemeinsames Verantwortungsgefühl – für unsere Arbeit, unsere Kund:innen und füreinander.
+Deine Aufgaben
+Arbeite in einem agilen Projektteam an unserem neuen cloudbasierten Softwareprodukt im Bereich Messdaten
+Begleite den gesamten Entwicklungszyklus: von der Definition von Requirements und Testfällen bis zur Sicherstellung qualitativ hochwertiger Releases
+Konzipiere, implementiere und gewährleiste sichere Cloud-Infrastrukturen mit Docker, Terraform und Kubernetes auf Microsoft Azure
+Entwickle und optimiere CI/CD-Pipelines mit Azure DevOps, um automatisierte und stabile Deployments in Cloud-Umgebungen sicherzustellen
+Wirke zusätzlich an der Anwendungsentwicklung mit .NET/C#, Blazor und ASP.NET Core mit
+Teste, dokumentiere und entwickle Infrastruktur- sowie Softwarekomponenten kontinuierlich weiter
+Erweitere kontinuierlich dein Know-how im Bereich Cloud, DevOps und Anwendungsentwicklung
+Gestalte Architektur- und Designentscheidungen aktiv mit und beteilige dich an Code Reviews
+Was du mitbringst
+Mehrjährige praktische Erfahrung mit Azure DevOps (CI/CD-Pipelines), Infrastructure-as-Code-Tools wie Terraform sowie Docker und Kubernetes im Cloud-Umfeld
+Fundiertes Verständnis von Cloud-Architekturen und DevOps-Prinzipien
+Erfahrung in der Softwareentwicklung mit C# und Visual Studio sowie Interesse, aktiv zur Anwendungsentwicklung beizutragen
+Ausgeprägte Team- und Kommunikationsfähigkeit sowie die Fähigkeit, effektiv in einem cross-funktionalen Umfeld zu arbeiten
+Erfahrung in der Arbeit mit Scrum- oder anderen agilen Entwicklungsumgebungen
+Abgeschlossenes Studium der Informatik oder eine vergleichbare Qualifikation
+Strukturierte, selbstständige und verantwortungsbewusste Arbeitsweise
+Kreativität, Eigeninitiative und Engagement
+Gute Englischkenntnisse in Wort und Schrift
+Was unser Team besonders schätzt
+Flexible Arbeitsmodelle, die zu deinem Leben passen
+Vielfältige Möglichkeiten zur fachlichen und persönlichen Weiterentwicklung
+Ein internationales Umfeld mit Englisch als gemeinsamer Sprache
+Unterstützung für deine mentale und körperliche Gesundheit
+Eine hauseigene Kantine mit frisch zubereiteten Mahlzeiten
+Kinderbetreuungsunterstützung und ‑angebote für Eltern und Betreuungspersonen
+Nachhaltige Mobilitätsangebote und Unterstützung für umweltfreundliches Pendeln
+Die Stelle klingt spannend, aber du erfüllst das Profil noch nicht ganz? Dann überzeuge uns durch deine Motivation und bewirb dich auf
+[Kattintson a weboldal linkjének megjelenítéséhez]
+www.omicron.jobs
+.
+Noch Fragen? Komm einfach auf uns zu.
+Melde dich gerne direkt bei uns oder vernetze dich mit uns auf LinkedIn.
+OMICRON electronics GmbH
+Human Resources, Mehrschid Mirzaei
+Tel.: +43 59495 2933
+Oberes Ried 1, 6833 Klaus
+Gesetzlich vorgeschriebener Hinweis: die Bezahlung liegt deutlich über dem im Kollektivvertrag festgelegten Entlohnungsniveau. Das tatsächliche Gehalt orientiert sich an der beruflichen Qualifikation und Erfahrung

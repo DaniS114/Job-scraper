@@ -1,0 +1,158 @@
+Expert Infrastructure Engineer (AI Cloud & GPUs)
+ESTEN s.r.o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+1.4.2026
+Mzdové podmienky (brutto)
+10 000 EUR/mesiac
+*v závislosti od relevantných skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme experta, ktorý prepojí svet Linuxu, automatizácie cez Terraform/Ansible a brutálneho výkonu GPU klastrov postavených na technológiách NVIDIA. Budujeme strategickú dátovú platformu pre automatizáciu procesov v rámci EÚ trhu so zameraním na škálovateľné AI riešenia.
+Náplň práce (Čo bude tvojou misiou?)
+Nejde o klasickú virtualizáciu – staviame moderný Bare-metal AI Cloud, kde spájame surový výkon fyzického hardvéru s plnou automatizáciou a škálovateľnosťou cloudu.
+Orchestrácia infraštruktúry:
+Budeš mať pod palcom provisioning a údržbu stoviek bare-metal serverov a
+GPU nodes
+(PXE boot, OS installs).
+Automatizácia ako štandard:
+Vývoj a správa komplexných
+Ansible
+playbookov a
+Terraform
+konfigurácií na nasadzovanie infraštruktúry (IaC).
+Ladenie výkonu (Fine-tuning):
+Správa Debian-based prostredí a optimalizácia firmvéru pre maximálnu stabilitu GPU klastrov.
+Monitoring & Observability:
+Nasadzovanie a správa stacku
+Prometheus/Grafana
+, aby sme o každom probléme vedeli skôr, než nastane.
+Storage & Network:
+Správa high-performance úložísk (
+WEKA
+) a konfigurácia sieťového stacku priamo na úrovni OS.
+Architektúra identity:
+Integrácia a správa prístupov cez systémy ako
+Keycloak
+alebo Entra ID.
+Zamestnanecké výhody, benefity
+Viac než len kód: Prečo sa k nám pridať?
+Toto sú naše kľúčové benefity:
+️ Hardcore Tech & Growth​
+TechSpot Sessions:
+Pravidelné zdieľanie know-how o najnovších trendoch v AI infraštruktúre.
+Zlepšuj si angličtinu priamo v práci (1-2x týždenne).
+Onsite & Team Vibes (Pre dni v office)
+Keď zrovna neriešiš automatizáciu z domu, u nás ťa čaká:
+ESTEN Liga:
+Turnaje v kalčete a brutálne XBOX sessions na reset hlavy.
+Fuel for Brain:
+Kvalitná káva (Coffee time) a čerstvé ovocie (Fruitday).
+Community:
+Od legendárnych „pív po práci“ (PPP) cez motokáry a splavy až po rodinný teambuilding.
+‍️ Zdravie & Výkon
+500 € Budget:
+Ročný príspevok na tvoje športové aktivity.
+Endorfíny:
+Firemný florbal a podpora bežeckých tímov (Od Tatier k Dunaju).
+Maratónska výzva:
+Preplatíme ti štartovné na MMM v Košiciach.
+Impact (CSR)
+Zmysluplná pomoc:
+Možnosť zapojiť sa do projektov neziskovky
+ESTEN príležitosť
+, ktorá mení životy v Tanzánii aj u nás na Slovensku.
+Informácie o výberovom konaní
+Hľadáme ťa a rešpektujeme tvoj čas.
+Náš výberový proces je RÝCHLY a VECNÝ:
+1) Analýza CV: starostlivo posúdime všetky prihlášky a v krátkom čase oslovíme kandidátov, ktorých skúsenosti zodpovedajú našim požiadavkám.
+2) Krátky (online) rozhovor: dohodneme si krátke, neformálne stretnutie (online) s HR/Team Leadrom, kde si overíme vzájomné očakávania a kultúrny fit.
+3) Technické kolo s CEO: ak prejdeš prvým kolom, absolvuješ technický rozhovor priamo s konateľom spoločnosti. Tým zabezpečujeme, že v tíme máš okamžitú podporu a videnie lídra.
+Transparentná spätná väzba: všetkým kandidátom, ktorí absolvujú technické kolo, garantujeme individuálnu spätnú väzbu o dôvodoch prípadného nevybratia.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+Táto rola je pre niekoho, kto má "v rukách" Linux, miluje automatizáciu a nebojí sa postaviť k racku v dátovom centre, keď je to potrebné.
+Technické zručnosti (Hard Skills):
+Advanced Linux Expert:
+Hlboká znalosť Linuxu v produkčnom prostredí (preferujeme
+Debian
+).
+Automation Wizard:
+Skúsenosti s
+Ansible
+a
+Terraform
+(IaC) sú pre teba samozrejmosťou.
+Hardware & Bare-Metal:
+Rozumieš životnému cyklu serverov (PXE boot, firmware, Redfish/IPMI).
+Networking Fundamentals:
+Solídny prehľad v sieťach (L1/L2, VLAN, IP routing, DNS, firewally).
+Monitoring & IAM:
+Skúsenosť so stackom
+Prometheus/Grafana
+a systémami identít (
+Keycloak
+, Entra ID, LDAP).
+Mission-Critical Mindset:
+Skúsenosť s prevádzkou v režime 24/7 a znalosť
+ITIL
+procesov (Incident/Change management).
+Osobnostné predpoklady (Soft Skills):
+Analytický „Troubleshooter“:
+Keď niečo nefunguje, neprestaneš, kým nenájdeš príčinu v logoch alebo v kóde.
+Zmysel pre detail a dokumentáciu:
+Vieš, že v klastri s 10 000 GPU je poriadok v NetBoxe a runbookoch kriticky dôležitý.
+Tímový hráč s iniciatívou:
+Budeš úzko spolupracovať s Platform Inžiniermi a AI tímami – komunikácia je základ.
+Odolnosť voči stresu:
+„Zero Outage“ nie je len fráza, ale tvoj štandard pri práci v kritickom prostredí.
+Výhodou (ale nie podmienkou) je:
+Skúsenosť s veľkými
+GPU klastrami
+alebo
+HPC
+(High-Performance Computing).
+Znalosť vysokovýkonných úložísk (napr.
+WEKA
+).
+Skúsenosť s princípmi GitOps.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Kto sme? ESTEN: Inovácie, Partnerstvo a Priamy Vplyv
+V ESTENE neposkytujeme len služby – meníme technológie na skutočný biznisový dopad. Našich klientov nevnímame ako položky v zozname, ale ako dlhodobých partnerov, ktorých biznis DNA potrebujeme stopercentne pochopiť, aby sme ho mohli posunúť vpred.
+Prečo pracovať práve s nami?
+Kvalita nad kvantitu: Sme cieľavedomý tím expertov, ktorí si zakladajú na otvorenej komunikácii a hovoria veci na rovinu.
+Sila malého tímu: Máme ambíciu udržať si veľkosť pod 40 ľudí. Veríme totiž v silu úzkych vzťahov, priateľskú atmosféru a vysokú efektivitu, ktorú korporáty nepoznajú.
+Skutočný vplyv: V ESTENE nebudeš len ďalším menom v štruktúre – tvoja práca u nás zanecháva okamžitý, viditeľný a merateľný dopad na projektoch svetového formátu (ako je tento AI Cloud).
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Department HR
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5244278
+Dátum zverejnenia:
+11.3.2026
+2026-03-11
+lokalita:
+Práca z domu
+Pozícia:
+Cloud Engineer
+Spoločnosť:
+ESTEN s.r.o.
+Základná zložka mzdy (brutto):
+10 000 EUR/mesiac
