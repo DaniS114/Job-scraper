@@ -1,0 +1,103 @@
+Cég neve
+BlackRock Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+TESTING
+SECURITY.
+REACT
+ANGULAR
+VUE
+JAVA
+DATABASES
+SQL
+NOSQL
+ANALYTICS
+SPRING
+AGILE
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+TESTING
+SECURITY.
+REACT
+ANGULAR
+VUE
+JAVA
+DATABASES
+SQL
+NOSQL
+ANALYTICS
+SPRING
+AGILE
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design, develop, and maintain scalable web applications and backend services to support trading operations.
+Collaborate with cross-functional teams including traders, product managers, and other engineers to define requirements and deliver solutions.
+Implement and optimize high-performance APIs, microservices, and data processing pipelines.
+Ensure best practices in code quality, testing, deployment, and security.
+Troubleshoot and resolve technical issues across the full stack with a focus on reliability and efficiency.
+Continuously research and adopt new technologies to improve team productivity and system performance.
+Mentor junior engineers and contribute to a positive, innovative team culture.
+Requirements
+Bachelor’s or master’s degree in computer science, Engineering, or a related technical field.
+Minimum 4 years’ proven experience as a Full Stack Engineer, preferably in trading, finance, or similarly complex environments.
+Strong proficiency in modern web frameworks (such as React, Angular, or Vue).
+Proven experience with object-oriented programming languages such as Java 17+.
+Expertise in designing and maintaining RESTful APIs and GraphQL APIs is a plus.
+Experience working with databases SQL and NoSQL (Cassandra, Ignite).
+Ability to communicate complex technical concepts clearly to both technical and non-technical stakeholders.
+Strong understanding of software development life cycle, agile methodologies, and best engineering practices.
+Strong understanding of design patterns in an enterprise environment.
+Excellent problem-solving skills and an analytical mindset.
+Preferred Qualifications: Prior experience working in trading or financial services technology teams.
+Knowledge of trading protocols, and low-latency systems.
+Familiarity with data analytics and visualization tools.
+Experience working with Spring Framework and Spring Boot web services.
+Fostering a collaborative environment and driving projects to successful completion.
+What we offer
+The chance to make a real impact in a global trading environment.
+A collaborative, inclusive team with a focus on professional growth and technical excellence.
+Opportunities to work with cutting-edge technologies and complex problem domains.
+Support for ongoing training, certification, and career progression.
+Financial well-being resources including retirement savings plans and tuition reimbursement.
+Pay-for-performance philosophy including base salary and discretionary annual bonus.
+Healthcare plans and resources for physical health.
+Support for mental health and emotional well-being through Employee Assistance Program and Mental Health Ambassadors.
+Life management benefits such as Flexible Time Off and parental leave.
+Hybrid work model requiring at least 4 days in office per week with 1 day remote work flexibility.
+Company info
+At BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are saving for retirement, paying for their children’s educations, buying homes and starting businesses. Their investments also help to strengthen the global economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.
+This mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.
+As a global investment manager and fiduciary to our clients, our purpose at BlackRock is to help everyone experience financial well-being. Since 1999, we've been a leading provider of financial technology, and our clients turn to us for the solutions they need when planning for their most important goals.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

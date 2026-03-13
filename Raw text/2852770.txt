@@ -1,0 +1,64 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C
+LINUX
+CI
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C
+LINUX
+CI
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Developing software stacks for Arm’s reference platforms targeting future Arm-based devices.
+Implementing support for industry standards and Arm architecture across a range of open-source projects.
+Tackling the challenges of early platform bring-up.
+Enhancing software quality through Continuous Integration (CI) systems.
+Requirements
+Proficiency in C programming.
+Strong understanding of operating system fundamentals, preferably Linux.
+Experience developing complex, low-level software.
+A genuine passion for open-source development.
+Nice-to-have
+Knowledge of computer architectures, ideally Arm., Familiarity with open-source projects such as Linux distributions, the Linux kernel, AOSP, TF-A, TF-M, UEFI EDK II, U-Boot, or Xen/pKVM., Experience developing operating system kernels or device drivers, preferably on Linux., Hands-on experience with software debuggers, e.g. GDB.
+What we offer
+Inspiring and collaborative office spaces.
+Flexibility to tailor the role and title for the right candidate.
+Hybrid working approach supporting high performance and personal wellbeing.
+Equal opportunity employer committed to diversity and inclusion.
+Company info
+Arm is best known for its CPU and GPU technology powering billions of smartphones across the globe. Now, we are building new software teams to help drive our next phase of growth.
+Arm-based technology is everywhere — from industrial and automotive applications, to IoT, desktops, and data centres. Wherever Computing Happens, we aim to empower Arm by delivering software solutions that seamlessly connect higher-level software stacks with the underlying hardware.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

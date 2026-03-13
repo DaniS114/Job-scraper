@@ -1,0 +1,91 @@
+About us
+Our benefits
+Open positions
+AI Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 400 EUR/month
+For Slovakia the base salary range for this position is between [EUR 2,400] and [EUR 4,100] per month (for a full-time role). The specific salary offered considers:​
+
+-the requirements, scope, complexity and responsibilities of the role, ​
+-the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.​
+
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.​
+
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.​
+Information about the position
+Job description, responsibilities and duties
+We are part of Swiss Re’s P&C Digital & Technology Re organization and are looking for an enthusiastic AI Engineer who is passionate about applying cutting-edge AI techniques to complex, real-world risk challenges. We build global AI-driven products that support underwriting, pricing, claims, and risk management across Property & Casualty Reinsurance.
+While we value a strong foundation in machine learning, we place equal emphasis on robust engineering practices, scalable cloud-native infrastructure, and deploying AI solutions into reliable production systems.
+If you join us, you will be able to participate in a variety of impactful initiatives. For example, you will:
+-Design and deploy AI solutions to extract insights from complex underwriting and claims documents using Generative AI
+-Build and operationalize machine learning models supporting risk selection, pricing, and portfolio steering
+-Develop AI tools to help automate and make our business more efficient
+We are a highly skilled and diverse team working on global initiatives across Swiss Re. Our passion for learning connects us. We continuously invest in upskilling, knowledge sharing, and improving how we engineer AI products. You will be encouraged to explore new technologies and deepen your expertise while contributing to high-impact solutions.
+By joining us, you will have the opportunity to develop your skills in the technologies that power modern AI products — especially cloud computing, distributed systems, data platforms, and MLOps — while solving some of the most complex risk challenges in the reinsurance industry. This role offers a unique chance to grow as an AI engineer in a collaborative, high-impact environment.
+Employee perks, benefits
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+To be successful in this role, you bring:
+-A degree in Computer Science, Applied Mathematics, Software Engineering, or a related quantitative field
+-Proficiency in Python (or similar languages) and familiarity with modern AI/ML frameworks
+-Solid understanding of machine learning, deep learning, and MLOps practices
+-Strong engineering mindset and appreciation for clean, maintainable, production-ready code
+It is a strong plus if you also have:
+-Experience deploying AI systems into production environments, including monitoring, observability, and lifecycle management
+-Experience working with large-scale data pipelines and distributed systems
+-Experience in Generative AI, Natural Language Processing, or document intelligence
+-Interest in AI robustness, explainability, governance, and secure model deployment
+-Exposure to Insurance or Reinsurance, particularly in Property & Casualty a plus but not required
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5249553
+Dátum zverejnenia:
+12.3.2026
+2026-03-12
+lokalita:
+Bratislava
+Pozícia:
+Data Analyst
+,
+Data Engineer
+,
+Data Scientist
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+2 400 EUR/month

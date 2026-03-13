@@ -1,0 +1,58 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Nem kell nyelvtudás
+Pályakezdő/friss diplomás
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Nem
+kell nyelvtudás
+Pályakezdő/friss
+diplomás
+Egyetem
+
+Állás leírása
+Responsibilities
+Be involved in System IP microarchitecture specification and design
+Participate in SystemVerilog RTL verification and debug; formal bring-up of non-trivial IP blocks to achieve required quality levels (SystemVerilog/UVM, Formal, scripting)
+Work closely with engineers across design, performance modelling, validation, and implementation to meet all functional requirements, performance, power and area goals
+Requirements
+Hold (or are on track to hold) a Bachelors or Masters degree in Electrical Engineering or Computer Engineering by the programme start date
+Experience of block level RTL design and verification for non-trivial ASIC (or FPGA) developments; SystemVerilog preferred
+Familiarity with the Arm AMBA specifications or other bus protocols
+Understanding of digital design to include one or more from CPU, GPU and cache concepts, memory, I/O, etc.
+Scripting, e.g. with Perl, Python, etc.
+What we offer
+Competitive salary and comprehensive rewards package
+Support, autonomy and opportunity to excel in your career
+Mid-year and year-end review for career progression
+Attend Grad-teach-Grads workshops, guest speaker series and social events
+Opportunity to join Graduate Committee for planning, networking and coordination skills
+Invitation to exclusive Global Graduate Conference (GGC)
+Hybrid working environment supporting high performance and personal wellbeing
+Company info
+The Budapest System IP team has a track record of numerous successful deliveries, we have an open and relaxed culture where best-in-class, creative engineers work together on significant projects. Our upbeat and collaborative team builds System IP components used in future client, embedded and IoT devices.
+At our Budapest-based design center, you will join a hardworking team and will take part in the design and verification of performant, energy efficient and secure IP components.
+A Graduate will use novel technologies and methodologies to ensure the highest quality products as they collaborate with other Arm engineering teams to build complete IP solutions to address the performance, power and cost requirements for almost all application markets. Join and let's invent the future together!
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Engineer
+Electronic
+Control Engineer
+Budapest
+Álláshirdetés jelentése

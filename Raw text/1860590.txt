@@ -1,0 +1,29 @@
+Senior Data Engineer – Felhőalapú adattárház környezetbenNagymúltú partnercégünk megbízásából olyan szakembert keresünk, aki magabiztosan mozog a modern adatplatformok világában, és szívesen dolgozik felhőalapú adattárházakkal, adatmodellezéssel és skálázható adatfolyamatok építésével.
+Főbb feladatok
+Skálázható, megbízható és hatékony data pipeline-ok tervezése, fejlesztése és karbantartása
+Adatplatformok, adatbázisok és adattárházak támogatása és fejlesztése az analitikai igényekhez
+CI/CD folyamatok megvalósítása GitHub Actions és JFrog használatával
+Együttműködés üzleti és technológiai csapatokkal az igények adatmegoldásokká alakításában
+ETL folyamatok és adatáramlások fejlesztése
+Adatfolyamatok hibakeresése és támogatása valós idejű és batch feldolgozási környezetben
+Adatminőség, integritás és governance biztosítása bevált adatkezelési gyakorlatokkal
+A pozícióhoz tartozó elvárások
+5+ év tapasztalat Data Engineering pozícióban
+Tapasztalat felhőalapú adattárház környezetekben
+Gyakorlati tapasztalat AWS Redshift használatában
+Data build tool magabiztos használata adattranszformációk és adatmodellek készítéséhez
+Erős SQL‑tudás, különös tekintettel Redshift‑specifikus teljesítményhangolásra
+Magabiztos adatmodellezési ismeretek
+Monitoring eszközök ismerete (CloudWatch, Redshift Console)
+Verziókezelési és CI/CD ismeretek
+Folyékony angol nyelvtudás
+Előnyök és juttatások
+Stabil, hosszútávú munkalehetőség egy nemzetközi háttérrel rendelkező szervezetnél
+Heti 1 alkalom budapesti irodai, további napokon remote munkavégzés
+Versenyképes juttatási csomag
+Magán-egészségügyi szolgáltatások
+Széleskörű szakmai és személyes fejlődési lehetőségek
+Vertikális és horizontális karrierutak
+Modern, inspiráló munkakörnyezet pihenőterekkel és közösségi programokkal
+Változatos vállalati események, hobby klubok és sportolási kezdvemények
+Ha érdekel ez a pozíció, kattints az „apply now” gombra, és küldd el frissített önéletrajzodat és felvesszük Veled a kapcsolatot.

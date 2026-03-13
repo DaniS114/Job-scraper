@@ -1,0 +1,86 @@
+Senior Java Developer – vývoj backendu pre fintech platformu
+Talent Solutions, s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 700 EUR/mesiac
+Finálna výška mzdy závisí od skúseností kandidáta a môže byť vyššia než inzerovaná suma.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pre nášho klienta, renomovanú bankovú spoločnosť, hľadáme skúseného Senior Backend Developera, ktorý sa chce podieľať na vývoji moderných digitálnych služieb využívaných stovkami tisíc používateľov mesačne. Ide o príležitosť pracovať na technologicky náročnom produkte v agilnom prostredí, kde majú inovácie a kvalita riešení zásadný význam.
+Čo budete mať na starosti?
+- Vývoj a údržba backendových služieb pre mobilné digitálne produkty
+- Návrh a implementácia robustných a spoľahlivých systémov s vysokými nárokmi na dostupnosť
+- Spolupráca v agilnom vývojovom tíme spolu s ďalšími vývojármi, analytikmi a biznis tímom
+- Implementácia riešení využívajúcich moderné technológie, cloudové prostredie a kontajnerizáciu
+- Práca s automatizáciou, CI/CD procesmi a modernými vývojárskymi nástrojmi
+- Podieľanie sa na technologických inováciách a zlepšovaní existujúcich riešení
+Zamestnanecké výhody, benefity
+- Práca na moderných digitálnych riešeniach s veľkým dopadom na používateľov
+- Stabilné prostredie silnej finančnej inštitúcie
+- Možnosť podieľať sa na technologických inováciách
+- Kariérny a odborný rozvoj, školenia a mentoring
+- Spolupráca so skúsenými odborníkmi a technologickými lídrami
+- Motivujúce finančné ohodnotenie
+- Zdravotné a wellbeing benefity vrátane psychologickej podpory
+- Príspevok na doplnkové dôchodkové sporenie
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Patríme medzi TOP 3 personálne agentúry na Slovensku. Na slovenskom trhu pôsobíme od roku 2002. Pri poskytovaní našich služieb spájame záujmy oboch skupín – uchádzačov a zamestnávateľov. Našou hlavnou úlohou je ľuďom zabezpečiť prácu a spoločnostiam talenty, ktoré sú nevyhnutné pre prosperujúce spoločnosti.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+Osobnostné predpoklady a zručnosti
+- Minimálne 3 roky skúseností s backend vývojom
+- Java (min. 4 roky skúseností) – preferovaná verzia Java 21+
+- Skúsenosť s Spring Boot
+- Znalosť relačných databáz (PostgreSQL alebo Oracle)
+- Skúsenosť s Git / GitHub
+- Prax s CI/CD pipeline (napr. Jenkins, TeamCity)
+- Vysokoškolské vzdelanie II. stupňa
+- Schopnosť pracovať v agilnom tíme a prevziať zodpovednosť za kvalitu riešení
+Výhodou:
+- Docker, kontajnerizácia alebo mikroservisná architektúra
+- Apache Tomcat alebo Java EE
+- Quarkus
+- AWS služby
+- AI nástroje pre vývoj (napr. GitHub Copilot)
+- Jira a Confluence
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Patríme medzi TOP 3 personálne agentúry na Slovensku. Na slovenskom trhu pôsobíme od roku 2002.
+Pri poskytovaní našich služieb spájame záujmy oboch skupín – uchádzačov a zamestnávateľov.
+Našou hlavnou úlohou je ľuďom zabezpečiť prácu a spoločnostiam talenty, ktoré sú nevyhnutné pre prosperujúce spoločnosti.
+Riešime potreby našich klientov v oblasti riadenia ľudských zdrojov a zároveň dávame uchádzačom a agentúrnym zamestnancom šancu profesijného aj mimo-profesijného rozvoja.
+Máme širokú sieť pobočiek a kancelárií po celej krajine. Prítomnosť v jednotlivých regiónoch nám umožňuje detailne poznať lokálne špecifiká trhu práce.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Kristián Psotný
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5249345
+Dátum zverejnenia:
+12.3.2026
+2026-03-12
+lokalita:
+Bratislava
+Pozícia:
+Java programátor
+,
+Programátor
+,
+Softvérový inžinier
+Spoločnosť:
+Talent Solutions, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 700 EUR/mesiac

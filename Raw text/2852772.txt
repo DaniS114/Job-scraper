@@ -1,0 +1,91 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AWS
+SQL
+CLOUD
+DATABASE
+GIT
+POWERSHELL
+UNIX
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+AWS
+SQL
+CLOUD
+DATABASE
+GIT
+POWERSHELL
+UNIX
+Mobiltelefon
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Designing and developing platform to fulfil business needs
+Design new data pipelines
+Maintain platforms hosted on data streams for batch-loading and real-time visualisations
+Maintaining and evolving existing data platform
+Follow and mentor engineers on data modelling following standards e.g. Inmon, Kimball, Data Vault
+Ensuring data quality by verifying data consistency and accuracy
+Keeping up to date on research and development of new technologies and techniques
+Troubleshoot and solve problems and incidents
+Full ownership on projects and tasks assigned
+Work within a team
+Document processes and perform knowledge sharing sessions
+Requirements
+Knowledge on AWS Services like S3/Lambda/Glue/DMS/RDS
+Experience with Snowflake or Redshift as a modern cloud database technology
+Experience with cost-efficient SQL designs and query optimization
+Experience with orchestrating data pipelines using tools like Airflow
+Familiarity with object-oriented programming and abstraction principles
+Experienced with Data Warehousing concepts and data modelling techniques such as Inmon, Kimball, or Data Vault
+Nice-to-have
+Proficient in data streaming technologies such as Kafka, Experienced with software versioning tools like GIT, Skilled in infrastructure scripting using Terraform, Hands-on expertise in data monitoring and visualization tools, Experienced in scripting with PowerShell and Unix
+What we offer
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

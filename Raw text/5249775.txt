@@ -1,0 +1,117 @@
+O SPOLOČNOSTI
+NAŠE SLUŽBY
+PRE KANDIDÁTOV
+KONTAKT
+AI Software Python Engineer (kontrakt /home-office/5000 - 7000€
+Information about the position
+Place of work:
+Remote work
+Wage (gross):
+From 5 000 EUR/month
+(final monthly basic salary is based on candidate´s professional experience, skills and knowledge)*
+Start date:
+according the agreement
+Contract type:
+trade licence
+Job description, responsibilities and duties
+As a Senior Python Engineer, you will be responsible for delivering high-quality software solutions end to end, following established architectural and development patterns. This role is fully hands-on and focuses on implementation, technical depth, and consistent delivery — with no leadership or mentorship duties.
+Technologies: Python, FastAPI, REST, Angular or React, HTML/CSS/JS, Microservices, MS SQL, NoSQL, Redis, Docker, Kubernetes, Terraform, Ansible, CloudFormation, Azure Node.js/npm, PyTest, Azure/AWS/GCP, Jenkins/GitLab profiling/static analysis tools, Postman, browser dev tools.
+•	Deliver high-quality, production-ready code across backend and frontend components.
+•	Design and implement AI-driven and cloud-native solutions.
+•	Collaborate with client-facing roles to clarify requirements and ensure accurate implementation.
+•	Implement scalable system architecture using best practices and design patterns.
+•	Participate in code reviews and contribute to improving code quality and maintainability.
+•	Build and maintain microservices and distributed systems.
+•	Maintain and update technical documentation.
+•	Analyze solutions for scalability, reliability, and performance.
+•	Ensure compliance with data privacy and security standards.
+•	Develop APIs to integrate ML/AI models and backend services.
+•	Troubleshoot issues, participate in incident resolution, and follow  processes.
+•	Suggest improvements for performance, processes, and tooling.
+•	Adapt to evolving requirements and changing priorities.
+Employee perks, benefits
+- Company benefits,
+- Opportunity to learn new technologies, skills, training
+- Possibility to work on various international projects
+Information about the selection process
+If you are interested in our offer, send your CV in Slovak or English to anna.spasova@prohr.sk
+* We are required by law to disclose basic wage component (minimum salary) for the advertised positions. Your actual final salary is based on your professional competencies, skills, qualifications and experience matching the position.
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+International company
+Requirements for the employee
+Candidates with education suit the position
+University education (Master's degree)
+Language skills
+English - Upper intermediate (B2)
+or
+Slovak - Upper intermediate (B2)
+Experience in the position/sector
+IT
+Number of years of experience
+1
+Personality requirements and skills
+•	University education (Master's degree) - technical, IT
+•	Language skills: English language - advanced
+•       Over 4 years of experience in software development.
+•	Strong knowledge of secure API design and authentication
+•	Advanced Python skills, including asynchronous programming.
+•	Hands-on experience with FastAPI and RESTful architectures.
+•	Proven experience writing and maintaining code using AI coding tools such as
+Cursor, OpenAI Codex, or Claude Code.
+•	Solid experience with Docker and containerized applications.
+•	Experience with Azure services
+•	Experience with CI/CD
+•	Infrastructure-as-code experience (Terraform, Ansible, CloudFormation).
+•	Node.js ecosystem knowledge (npm-level usage).
+- Soft Skills:
+Strong analytical and problem-solving skills with the ability to diagnose and resolve complex issues under pressure.
+Excellent communication and interpersonal skills to effectively collaborate with cross-functional teams and communicate technical concepts to both technical and non-technical stakeholders.
+Strong sense of ownership, self-motivation, and the ability to work independently as well as in a team environment.
+Focus on results and a proactive approach to problem-solving.
+Ability to identify and escalate issues early, and to remain calm and de-escalate situations when necessary.
+Accountability, problem-solving, leadership, integrity, adaptability, decision-making, conflict resolution, and maintaining a positive mindset are essential traits for this role.
+Advertiser
+Brief description of the company
+Pro HR, s.r.o. je personálno-poradenská spoločnosť špecializujúca sa na oblasť služieb recruiting & selection, executive search a HR consulting. Svojim klientom poskytujeme individuálny prístup k riešeniu otázky zabezpečenia kvalifikovaných zamestnancov. Pro HR realizuje vyhľadávanie a výber kandidátov aktívnym a priamym spôsobom prostredníctvom služieb recruiting & selection a executive search.
+Konzultanti spoločnosti permanentne mapujú trh, poznajú aký typ zamestnancov sa nachádza v spoločnostiach s podobným zameraním klienta, príp. konkrétne vhodné pozície s ich náplňou a zodpovednosťami v iných spoločnostiach. Na základe ich znalosti je možné priamo osloviť potenciálne vhodného kandidáta s požadovaným súborom znalostí a skúsenosti.
+Spoločnosť Pro HR, s.r.o. sa v oblasti vyhladávania a výberu kandidátov špecializuje na cieľovú skupinu:
+1. nižší, stredný, vyšší manažment
+2. špecializované pozície – financie, predaj & marketing, logistika & nákup, procesy a kvalita, project management & stratégia + support, CRM
+3. IT/telco technické pozície, Help Desk pozície (IT a telco špecialisti, programátori, analytici, SW architekti, projektoví manažéri, atď.)
+The company is a holder of a licence to offer recruitment services.
+Number of employees
+10-19 employees
+Contact
+Contact person: Mgr.  Anna Spasová
+Tel.:
++421 2 6241 3438, +421 911 525 022
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5249775
+Dátum zverejnenia:
+12.3.2026
+2026-03-12
+lokalita:
+Remote work
+Pozícia:
+AI Specialist
+,
+IT Architect
+,
+Programmer
+,
+Python Programmer
+,
+Scrum Master
+Spoločnosť:
+Pro HR
+Základná zložka mzdy (brutto):
+5 000 EUR/month

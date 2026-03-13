@@ -1,0 +1,82 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+ACCESS
+SECURITY
+AWS
+ISO
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+ACCESS
+SECURITY
+AWS
+ISO
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Design, implement, and manage identity and access management solutions across multiple platforms (e.g., cloud and on-premises)
+Develop and enforce IAM policies, standards, and procedures
+Provide technical expertise and support in deploying, configuring, and maintaining IAM systems, including role-based access control, single sign-on (SSO), and multi-factor authentication (MFA)
+Ensure compliance with regulatory requirements and internal security policies by conducting regular audits and access reviews
+Collaborate with other security and IT teams to integrate IAM solutions into global security architecture
+Monitor IAM systems for security breaches, investigate incidents, and mitigate threats
+Provide guidance and training to other teams on IAM best practices and security protocols
+Document IAM processes and procedures, and ensure they are up-to-date and accessible to relevant stakeholders
+Requirements
+3+ years in Information Security, Information Technology or Development related positions
+BS/BA in Computer Science or a related field or equivalent experience
+Proven experience in identity and access management, including implementation and maintenance of IAM solutions
+Familiarity with security frameworks and standards related to IAM, such as NIST and ISO
+Familiarity with IAM technologies (e.g., OAuth, SCIM, LDAP etc.)
+Excellent verbal and written communication skills
+Ability to work collaboratively in cross-functional teams
+Detail-oriented with a proactive approach to problem-solving
+Able to produce advanced reporting
+Nice-to-have
+Certifications in IAM and security domains (e.g., Okta Certified Professional, SC-300, CISSP, CISM), Development experience, Knowledge of advanced security practices in the IAM domain (e.g. ZSP, Phishing resistant AuthN, role mining), Amazon Web Services (AWS) IAM and Identity Center experience, Okta or Entra experience
+What we offer
+Flexible work environment
+Global days of service
+Comprehensive health benefits
+Meeting free days
+Generous time off policy
+Wellness programs
+Hybrid work model with onsite work at least 50% of the time if within commuting distance to an office
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+At Diligent, we're building the future with people who think boldly and move fast. Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. The future belongs to those who keep learning, and we are building it together. At Diligent, you’re not just building the future - you’re an agent of positive change, joining a global community on a mission to make an impact.
+Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability – to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.
+Headquartered in New York, Diligent has offices in Washington D.C., London, Galway, Budapest, Vancouver, Bengaluru, Munich, Singapore and Sydney.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Budapest
+Álláshirdetés jelentése

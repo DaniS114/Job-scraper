@@ -1,0 +1,153 @@
+Voľné pozície
+Senior B2B Integration Developer & Architect (L3) –IBM Sterling B2B Integrator & File Gateway - m/ž
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Start date negotiable
+Mzdové podmienky (brutto)
+3 500 EUR/mesiac
+Gross monthly salary €3,500, plus an annual bonus. The final salary amount depends on the extent of your experience.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+We are seeking an experienced Senior B2B Integration Developer & Architect (L3) responsible for maintaining, troubleshooting, and enhancing integrations built on IBM Sterling B2B Integrator and IBM Sterling File Gateway.
+The role requires deep technical expertise in Sterling Integrator business process development using BPML language, production support, and integration troubleshooting in a high-availability B2B environment.
+You will act as highest technical escalation level (L3), resolving complex integration issues and implementing enhancements to business processes and trading partner integrations.
+Key Responsibilities:
+Production Support (L3):
+·         Provide Level 3 technical support for applications running on IBM Sterling B2B Integrator and IBM Sterling File Gateway.
+·         Investigate and resolve complex incidents, failures, and performance issues.
+·         Perform root cause analysis (RCA) and implement permanent fixes.
+·         Support 24/7 critical integration platform operations (on-call if required).
+·         Analyze logs, process data, and transaction flows.
+Development & Enhancements
+·         Develop and modify Business Processes using BPML language.
+·         Installation and configuration of multi-node architecture environments, including upgrades and platform migration
+·         Create and maintain:
+o   Business Processes
+o   Services and adapters configuration
+o   Maps and workflows
+·         Implement new file-based integrations and partner onboarding.
+·         Optimize existing business processes for performance and reliability.
+Monitoring & Troubleshooting
+·         Monitor Sterling platform health and transaction processing.
+·         Troubleshoot:
+o   Failed business processes
+o   File transfer issues
+o   Mapping errors
+o   Connectivity problems
+·         Work with infrastructure teams on:
+o   JVM issues
+o   Database connectivity
+o   Cluster nodes
+o   Virtualization platform the solution is running on
+Documentation & Governance
+·         Maintain documentation for:
+o   Business processes
+o   Integration flows
+o   Troubleshooting guides
+·         Follow change management and release procedures.
+Zamestnanecké výhody, benefity
+·         Opportunities for further professional growth based on your interest (deeper specialization or development of new professional skills, hierarchical growth)
+·         Remote work / work-from-home
+·         Flexible working hours
+·         Free professional trainings and language courses
+·         Employer contribution to supplementary pension savings
+·         Annual flexible benefits allowance via the Cafeteria system +birthday bonus
+·         Discounted year-round travel insurance for employees
+·         Financial contribution for blood donors
+·         Childbirth allowance
+·         Work jubilee bonuses
+·         Employee referral bonus
+·         Access to MultiSport card program
+·         Special offers and discounts at selected banks and retails partners
+·         Employee discounts on Volkswagen Group  vehicles
+·         Free parking
+Informácie o výberovom konaní
+Language proficiency will be assessed during the job interview
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské I. stupňa
+vysokoškolské
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Information Technology, Mathematics/Physics, Other technology-oriented or IT-related disciplines
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+Technical Skills
+Core Skills
+·         Strong experience with IBM Sterling B2B Integrator
+·         Strong experience with IBM Sterling File Gateway
+·         Development of Business Processes using BPML language
+·         Strong scripting skills (e.g., Python, Perl, Shell scripting) for automating MFT processes.
+·         Sterling services and adapters configuration
+·         File transfer protocols: SFTP, FTPS, AS2
+·         XML, XSLT, XPath
+·         Troubleshooting Sterling process failures
+·         Strong hands on knowledge in installing/upgrading IBM Sterling Integrator, applying fix packs, and handling version updates
+·         Ability to create and maintain high quality technical documentation (installation guides, SOPs, knowledge base articles)
+·         Excellent understanding of security protocols and encryption methods related to file transfer.
+Experience Requirements
+5+ years’ experience with B2B integration and middleware platforms.
+5+ years’ hands-on experience with IBM Sterling B2B Integrator development.
+Experience supporting production B2B integration environments on Linux platforms
+Platform Knowledge
+·         Linux/Unix environments - RHEL
+·         SQL and database troubleshooting
+·         Application logs and debugging
+·         Integration patterns and middleware architecture
+·         Knowledge of DevOps / CI-CD practices.
+Personal Skills
+We are looking for someone who:
+·         Has strong analytical thinking and problem-solving skills
+·         Is a team player but also capable of working independently
+·         Focuses on finding solutions rather than obstacles
+·         Is responsible, proactive, and reliable
+·         Enjoys improving systems and optimizing processes
+·         Is eager to learn new things, not only within the IT field
+·         Has good communication and presentation skills
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť
+VOLKSWAGEN GROUP SERVICES, s.r.o.
+je dcérskou spoločnosťou Volkswagen Group Services GmbH a Volkswagen Slovakia, a.s.. Poskytuje komplexné a odborné personálne riešenia pre Volkswagen Slovakia aj pre celý koncern Volkswagen v oblasti procesov automobilového priemyslu. Od svojho vzniku v roku 2008 sme stabilným partnerom pre koncern Volkswagen a prinášame profesionálne a komplexné riešenia.
+Zameriavame sa na administratívne, technicko-podporné, výrobné, IT a cloudové procesy, predovšetkým v oblasti zabezpečenia kvality, plánovania, procesnej podpory nákupu, digitalizácie, správy IT systémov, cloudových riešení, ako aj na rôzne inžinierske a administratívne služby.
+Vďaka dlhoročným skúsenostiam, stabilnému zázemiu silnej medzinárodnej skupiny a inovatívnemu prístupu vytvárame prostredie, v ktorom sa spája odbornosť, moderné technológie.
+Ponúkame široké spektrum atraktívnych pracovných príležitostí v rôznych oblastiach. Staňte sa súčasťou nášho tímu a rozvíjajte svoju kariéru v stabilnej spoločnosti s globálnym zázemím.
+Počet zamestnancov
+250-499 zamestnancov
+Reagovať na ponuku
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5249468
+Dátum zverejnenia:
+12.3.2026
+2026-03-12
+lokalita:
+Práca z domu
+Pozícia:
+Cloud Engineer
+,
+DevOps Engineer
+,
+IT architekt
+,
+IT/Technical Support Specialist
+,
+Solution Architect
+Spoločnosť:
+VOLKSWAGEN GROUP SERVICES, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

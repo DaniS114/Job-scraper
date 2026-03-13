@@ -1,0 +1,73 @@
+Cég neve
+thyssenkrupp rothe erde Germany GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NETWORK.
+C++
+C
+MATLAB
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+NETWORK.
+C++
+C
+MATLAB
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+The Technical Calculation department at the Lippstadt site develops advanced calculation methods and software used by design engineers across our global business unit for large‑diameter bearing design. To further strengthen and expand this expertise, we are seeking a dedicated trainee who will actively contribute to the enhancement of our design processes. During your 12‑month, individually tailored trainee program, you will gain a solid introduction to this diverse and innovative field. From day one, you will take on growing responsibility, shape your working environment, and contribute your own ideas to real projects.
+You will familiarize yourself in detail with the implementation and structure of existing in‑house software tools.
+You will contribute to the conceptual development and software implementation of methods for load processing and fatigue analysis for various applications of our large‑diameter bearings.
+Independent programming, extension, and maintenance of relevant calculation and design tools will be at the core of your responsibilities.
+Additionally, documentation, conducting training sessions, and providing support for users across the entire business unit will be part of your tasks.
+You will also assist in carrying out and coordinating calculation projects with colleagues throughout the global corporate network.
+Requirements
+You have completed a university degree in Computer Science, an Engineering discipline, or a closely related technical field.
+You have excellent programming skills in C++,C# as well as experience with MATLAB.
+Experience working across language boundaries, e.g. interfacing C++/C# with MATLAB, integrating compiled code or building cross‑language toolchains.
+Ability to translate engineering requirements into robust, maintainable software architectures.
+Ideally, initial experience in the areas of load processing (signal preparation, Rainflow Counting) and fatigue analysis (FKM Guideline, VDI 2230).
+Very good German and English language skills complete your profile.
+What we offer
+With us, you'll have the freedom to expand your horizons:
+A comprehensive trainee program, including seminar series and networking activities
+Flexible working hours
+Competitive compensation
+An excellent opportunity for long-term employment with us
+Personalized development opportunities
+Excellent company pension scheme
+Highest standards of occupational safety and health
+Wir wertschätzen Vielfalt
+We value diversity and therefore welcome all applications – regardless of gender, nationality, ethnic and social background, religion or belief, disability, age, as well as sexual orientation and identity.
+Company info
+thyssenkrupp is an international industrial and technology group with more than 93,000 employees. In the fiscal year 2024/2025, the company generated sales of around €33 billion in 48 countries. Its business activities are bundled in five segments: Automotive Technology, Decarbon Technologies, Materials Services, Steel Europe and Marine Systems. With extensive technological know-how, outstanding engineering competence and a high level of innovative strength, the group develops solutions for the challenges of the future, especially in the fields of climate protection and energy transition, digital transformation in industry and mobility of the future.
+thyssenkrupp rothe erde is the world's leading manufacturer of large-diameter bearings and one of the largest producers of seamless rolled rings, which are used in a wide range of industries. Every month, more than 6,000 employees process 15,000 tons of steel into customized solutions. In close collaboration with our customers, we develop products that are unique in terms of design, material quality, and performance. Join us in keeping the world turning - everywhere.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,96 @@
+Cég neve
+BMW Group
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+C++
+ISO
+SECURITY.
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+C++
+ISO
+SECURITY.
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+INNOVATION IS IMAGINING WHAT NO ONE ELSE CAN.
+Artificial Intelligence and machine learning are at the cutting edge when it comes to shaping next-gen mobility in areas like automated driving. But it takes real intellectual leadership and expertise to identify and then harness the AI trends and technologies that will transform the way people travel for good.
+In this role, you will be responsible for the end-to-end development of AI-based ADAS functions across all markets, ODDs (Operational Design Domains), and releases - from data selection and model design through training, validation, and series release. The role combines deep methodological expertise in ADAS models (Perception, Prediction, Planning) with hands-on software development and production ready implementation.
+What awaits you?
+You will design and deliver end-to-end ADAS AI models such as object detection, behavior prediction, and trajectory planning - from data analysis and model design to SOP-ready release.
+In addition, you will define and drive the technical direction of the ADAS AI stack, including its architecture and interfaces to vehicle systems, simulation environments, and validation frameworks.
+You will own complete training, evaluation, and release cycles, covering data selection, scene mining, closed-loop evaluation, root-cause analysis, and KPI-based validation.
+Furthermore, you implement and execute complete training, evaluation, and release cycles, including data selection, scene mining, closed-loop evaluation, root cause error analysis, and KPI based validation.
+Additionally, you design and optimize humanlike driving behavior models, applying behavior modeling, reinforcement learning, imitation learning, and hybrid data/model driven approaches.
+You contribute to international rollouts by adapting models to regulatory requirements, regional traffic behavior, and ODD extensions.
+With explainability and interaction in mind, you design AI functions that enable robust cross‑domain integration across the vehicle and software ecosystem.
+Requirements
+What should you bring along?
+More than 5 years of Research or hands-on experience in AI-based robotics or autonomous driving development with direct responsibility for delivered functions.
+Strong programming skills in Python for model development, training pipelines, evaluation, and data analysis.
+Solid C++ experience for production integration, performance critical components, and embedded/vehicle side deployment.
+Deep expertise in prediction and planning models (incl. negotiation algorithms), including model architecture design and optimization.
+Practical experience with data driven development: dataset curation, labeling strategies, scenario mining, and largescale evaluation (incl. closed loop simulation).
+Experience with E2E AI architectures and different learning paradigms (supervised, un-supervised, imitation, reinforcement, student-teacher) - from problem definition and model design through validation, safety assessment, and series release.
+Experience working in safety critical or regulated environments (ISO 26262 / 8800, SOTIF, or similar) is a strong advantage.
+Would you like to help us drive the AI transformation at BMW? Apply now!
+Find out more about Artificial Intelligence at the BMW Group here.
+Note:
+Please apply exclusively online via our career portal. Applications through other channels (especially email) cannot be considered.
+What we offer
+What do we offer?
+Challenging projects with which we shape the mobility of tomorrow together.
+Wide range of personal and professional development opportunities.
+Attractive, fair and performance-related remuneration.
+High level of job security.
+Annual special payments such as vacation pay, Christmas bonus, and profit sharing.
+Flexible working hours including six weeks annual leave and overtime compensation.
+Discounted BMW & MINI conditions.
+Many other benefits at bmw.jobs/benefits
+Earliest starting date:
+from now on
+Type of employment:
+unlimited
+Working hours:
+full-time
+Stellenreferenz:
+182343
+Company info
+Mit unseren Marken BMW, MINI, Rolls-Royce und BMW Motorrad sind wir einer der weltweit führenden Premium-Hersteller von Automobilen sowie Motorrädern und darüber hinaus Anbieter von Premium-Finanz- und Mobilitätsdienstleistungen.
+Am Standort
+München
+suchen wir Sie als
+Senior AI ADAS Engineer (f/m/x)
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

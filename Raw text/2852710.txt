@@ -1,0 +1,116 @@
+Cég neve
+Hubert Burda Media
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+SECURITY
+AWS
+FRONTEND
+NODE.JS
+AGILE
+ANGULARJS
+JAVASCRIPT
+MONGODB
+DATABASE
+DOCKER
+AUTOMATED TESTS
+Biztosított eszközök
+Laptop
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+SECURITY
+AWS
+FRONTEND
+NODE.JS
+AGILE
+ANGULARJS
+JAVASCRIPT
+MONGODB
+DATABASE
+DOCKER
+AUTOMATED
+TESTS
+Laptop
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Lead and mentor a team of developers, fostering a culture of excellence, collaboration, and innovation
+Technical strategy: Drive architectural decisions, coding standards, and best practices across the stack
+Work closely with product managers, designers, and stakeholders to define and deliver technical solutions that align with business objectives
+Design, develop, and maintain scalable, high-performance web applications on both the front-end and back-end
+Architect and implement complex systems to ensure scalability, reliability, and security
+Conduct and lead code reviews, ensuring quality, performance, and maintainability across the platform
+Develop and maintain automated tests, including unit, integration, and end-to-end tests
+Collaborate with internal teams to identify feature requirements, enhance workflows, and deliver high-quality solutions
+Take end-to-end ownership of features and projects, from concept to deployment and beyond, while maintaining high technical standards
+Work seamlessly with cross-functional teams to ensure alignment between technical development and business goals
+Requirements
+Strong experience with modern frontend frameworks such as VueJS, SolidJS, ReactJS, or AngularJS, with a focus on TypeScript and JavaScript development
+Advanced proficiency in Node.js with Express for building APIs and server-side applications, along with familiarity with MongoDB as a preferred database solution
+Hands-on experience in designing scalable and distributed systems, leveraging tools like Docker, Terraform, and AWS Cloud for deployment and management
+Proficient in working within a monorepo setup (e.g., Rushstack) and version control systems like GitLab for collaborative development
+Excellent communication skills in English, with the ability to effectively articulate ideas, collaborate across teams, and contribute to a positive team culture
+Demonstrated ability to work effectively in agile teams and collaborate across remote settings, fostering open communication and innovation
+A strong sense of ownership and enthusiasm for embracing new technologies, solving complex technical challenges, and delivering high-quality results
+What we offer
+Great creative freedom within the secure background of a broad-based successful company, enabling you to pursue ambitious entrepreneurship, interdisciplinary networking and bold innovations
+A wide range of benefits, such as subsidized meals at work, company pension allowance, bicycle leasing program, company health management, discounts at gyms, sabbaticals, exclusive employee discounts and much more
+Free magazines and discounts on magazine subscriptions and over 300 brands in areas such as technology, fashion, sport and culture
+Personal and professional development through a wide range of internal and external training opportunities and coaching
+We take responsibility, contribute to the well-being of our society with our foundations and support you in your passion project with initiatives such as “Burda moves”
+30 days of vacation, flexible working hours & work locations (by arrangement), up to 20 days of workation in other EU countries for your ideal work-life balance
+Our employees are important to us: we offer you a permanent employment contract and encourage internal transfers
+A smartphone and laptop for professional and private use
+Burda is colourful ...
+We respect diversity and we therefore welcome all applications – independently of gender, nationality, ethnic and social origin, religion and ideology, disability, age as well as sexual orientation and identity.
+Burda is digital ...
+Please use our online application form to apply!
+Company info
+We love technology. We love journalism. Convinced that these two belong together, we are now developing the media of the future here at
+BurdaForward
+. With leading publishing brands such as
+Focus Online
+,
+Chip
+,
+TV Spielfilm
+,
+Bunte.de
+,
+Finanzen100
+,
+The Weather Channel
+or
+Fit For Fun
+we reach millions of people every day. Our digital services are innovative and technologically state-of-the-art. They enable us to provide reliable, up-to-date information, entertain accurately, and support our users with advice and assistance. We focus on solutions and are a driving force in public debate – also out of tradition: Because
+BurdaForward
+is part of the family company Hubert Burda Media.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,36 @@
+IT Infrastructure & Operations Specialist – Senior szerep globális IT környezetbenEgy nemzetközi, szabályozott iparágban működő szervezet keresi új IT Infrastructure & Operations Specialist kollégáját, aki kulcsszerepet játszik a vállalat teljes infrastruktúrájának tervezésében, üzemeltetésében és fejlesztésében. A pozíció a globális IT Operations csapat része, és több telephelyet érintő, üzletkritikus rendszerekért felel.
+Főbb feladataid lesznek:
+Virtualizációs és server infrastruktúra üzemeltetése és fejlesztése (VMware, Hyper‑V, Windows Server), valamint konvergens/hiperkonvergens rendszerek kezelése
+Active Directory, Microsoft 365, patch management és storage rendszerek adminisztrációja, adatközponti támogatással
+Incidensek gyökérok‑elemzése, tartós megoldások kidolgozása és üzemeltetési kockázatok kezelése a szolgáltatás‑folytonosság érdekében
+Részvétel Change Control Board folyamatokban, OLA‑követelmények teljesítése és rendszermegbízhatóság javítása
+2nd–3rd level támogatás biztosítása, ITSM alapú jegykezelés, technikai elemzések és rendszertervezési inputok készítése
+Dokumentációk naprakészen tartása, valamint aktív részvétel nagyobb IT projektekben
+A pozíciókhoz tartozó elvárások:
+10–12 év releváns tapasztalat IT infrastruktúra/operations területen senior szinten.
+Mély szakmai tudás az alábbiakban:
+Virtualizáció: VMware, Hyper‑V
+Windows Server környezet
+Konvergens / hiperkonvergens infrastruktúrák (Cisco, IBM, Cloudian, QNAP, NetApp Ontap)
+Informatikai diploma vagy ezzel egyenértékű szakmai tapasztalat
+Előny: MCITP vagy más releváns Microsoft tanúsítvány
+Előny: Microsoft 365 adminisztrációs tapasztalat
+Szakmai kompetenciák:
+IT infrastruktúra menedzsment
+VMware, Hyper‑V, Windows Server
+Storage rendszerek kezelése
+PowerShell scripting
+Datacenter üzemeltetés
+IT Service Management és vendor management
+ITIL ismeretek (erős elméleti és gyakorlati háttér)
+Juttatások és előnyök:
+Senior, nagy felelősségű szerep globális IT környezetben
+Versenyképes, piaci szintű alapbér
+Éves teljesítményalapú bónusz a vállalati és egyéni eredmények alapján
+Cafeteria‑juttatás, amely már a próbaidő alatt is jár
+Well‑being juttatások, többek között sport- és fitneszlehetőségek budapesti prémium kategóriás edzőtermekben térítésmentesen
+Stabil, hosszú távú karrierlehetőség
+Modern technológiákkal való munkavégzés
+Szakmai fejlődési lehetőségek és részvétel stratégiai IT projektekben
+Támogató, együttműködő nemzetközi csapat
+Ha érdekel ez a pozíció, kattints az „apply now” gombra, és küldd el frissített önéletrajzodat és felvesszük Veled a kapcsolatot.

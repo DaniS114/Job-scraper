@@ -1,0 +1,33 @@
+A pozíciórólOlyan DevOps mérnök munkatársat keresünk, aki magabiztosan mozog modern felhőalapú környezetekben, és szívesen dolgozik összetett, nagyvállalati rendszereken. A szerepben fontos a proaktív hozzáállás, a minőségi megoldások iránti elkötelezettség és a csapatok közötti együttműködés.
+Főbb feladatok
+CI/CD pipeline‑okhoz kapcsolódó fejlesztési és release feladatok ellátása
+User story-k egyeztetése a Product Ownerrel
+User story-k és kapcsolódó feladatok becslése
+Éles környezetben felmerülő problémák és kérések támogatása
+Részvétel a teljes DevOps fejlesztési életciklusban
+Elvárt készségek és tapasztalatok
+5+ év DevOps mérnöki tapasztalat
+Azure felhőismeret
+Magas szintű Linux OS ismeret
+Docker, Jenkins, Terraform és Git magabiztos használata
+Kubernetes tapasztalat
+Spinnaker ismerete
+Grafana, CloudWatch, Kibana használatában szerzett gyakorlat
+Bash shell scripting tudás
+Előnyt jelent
+Virtualizációs menedzsment eszközök ismerete
+PostgreSQL, RabbitMQ vagy Aurora DB tapasztalat
+Ansible ismerete
+Mikroservice architektúrákban szerzett tapasztalat
+AWS tanúsítvány
+Amit parterünk kínál
+Stabil, hosszútávú munkalehetőség
+2 napi budai irodai, 3 nap remote munkavégzés
+Versenyképes, vonzó juttatási csomag
+Magán-egészségügyi szolgáltatási csomag
+Széleskörű szakmai és személyes fejlődési lehetőségek
+Vertikális és horizontális karrierutak
+Globális, sokszínű munkakörnyezet
+Kényelmes irodai környezet pihenőterekkel és közösségi terekkel
+Vállalati rendezvények, hobby klubok és kezdveményes sportolási lehetőség
+Ha érdekel ez a pozíció, kattints az „apply now” gombra, és küldd el frissített önéletrajzodat és felvesszük Veled a kapcsolatot.

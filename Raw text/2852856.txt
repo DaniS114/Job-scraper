@@ -1,0 +1,75 @@
+Cég neve
+ENLOYD Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Sport támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárások
+Angol felsőfok
+>10 év tapasztalat
+Középiskola
+
+Cafeteria
+Sport
+támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Angol
+felsőfok
+>10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Céginformáció
+Partnerünk egy stabil háttérrel rendelkező vállalatcsoport aminek belső fejlesztői csapata, saját üzleti rendszereket, adminisztrációs felületeket és adatkezelési megoldásokat fejleszt és üzemeltet. Bővülés okán
+Technical Lead / Engineering Lead
+kollégát keresnek, aki főleg backend fókuszú fejlesztési projekteket irányít, miközben átlátja a teljes alkalmazásarchitektúrát frontend, backend és infrastruktúra oldalról is.
+Munkavégzés helye:
+hybrid – (2x iroda 3x home office)
+Téged keresnek, ha
+5+ éves fejlesztői tapasztalat (PHP alapú rendszerek)
+Modern frontend technológiák alapvető ismerete (React / Next.js)
+Tapasztalat komplex webes rendszerek architektúrájának tervezésében
+Tapasztalat fejlesztői csapat szakmai irányításában és mentorlálásában
+API alapú rendszerek fejlesztésében szerzett tapasztalat
+Adatbázis-kezelési tapasztalat (PostgreSQL előnyt jelent)
+Cloud környezet alapvető ismerete (AWS, GCP)
+Nyitottság új technológiák megismerésére és alkalmazására
+Magabiztos kommunikáció fejlesztőkkel és üzleti stakeholderekkel
+Feladatok
+Egy 7 fős fejlesztői csapat (backend és frontend fejlesztők) szakmai irányítása és támogatása
+Backend és frontend fejlesztések technikai és architekturális szintű átlátása
+Fejlesztési projektek technikai koordinációja Product Manager-ekkel együttműködésben
+Technológiai döntések meghozatala és fejlesztési irányok meghatározása
+Code review folyamatok támogatása és fejlesztési minőség biztosítása
+Legacy rendszerek refaktorálásának koordinálása és modernizációja
+Belső üzleti rendszerek fejlesztése és karbantartása
+Kapcsolattartás belső stakeholderekkel és technikai egyeztetéseken való részvétel
+Technológiai környezet
+PHP, Laravel, React, Next.js, TypeScript, PostgreSQL, REST API, Git, AWS, GCP
+Amit kínálunk
+Szakmai tapasztalatnak megfelelő versenyképes bérezés
+Cafeteria (SZÉP kártya), sport hozzájárulás
+Stabil, hosszú távú projektek
+Hibrid munkavégzés heti 2 irodai nappal
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+IT,
+fejlesztési vezető
+Budapest
+Budapest
+Álláshirdetés jelentése

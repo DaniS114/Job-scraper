@@ -1,0 +1,72 @@
+Cég neve
+ZEISS
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+R
+JIRA.
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+R
+JIRA.
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+We are seeking a passionate, dynamic SAP S/4HANA Business Expert to join this exciting time for Carl Zeiss Meditec AG. You will be responsible for managing business requirements and designing required process adaptations within Roll-ins.
+You will be required to have an in-depth understanding of end-to-end processes and business requirements that specifically focus on an SAP environment. You must have excellent conceptual, results-oriented, and communication skills that will enable you to navigate through the complexity and pace of the program.
+Key Responsibilities
+• Manage (regional/segment-specific) business requirements (incl. business roles, data design) in the context of the global template SAP S/4HANA system in local fit-gap analyses under the leadership of deputy/hub process owners
+• Drive adaptation of end-to-end business processes (incl. process modeling) towards FIT4 goals of harmonization and standardization, such as SAP ePP/DS, IBP, and others, and liaise with entity business experts on preparatory work, like data cleansing
+• Provide guidance for & steer junior hub business experts (e.g., requirements analysis, business process modeling, data cleansing, …)
+• Generate process maps and process models to illustrate adapted business processes
+• Design and own test cases and conduct functional end-to-end tests in the SAP S/4HANA system
+• Actively contribute to the roll-in of assigned roll-in projects in a region (mainly within a segment, and, if deemed necessary by the regional hub lead, also across SBUs/segments)
+• Contribute, as organized by the training lead, to the creation of training materials, and, if required, support end-user training
+• Actively drive Change and Communication activities. Communicate effectively with all levels of the organization to promote the transformation agenda. Manage change proactively by engaging stakeholders and facilitating adaptation to new processes and systems. Prepare training materials and actively train key users and further stakeholders.
+Requirements
+• Degree in Business Informatics, Business Administration, Industrial Engineering, or a related field
+• Relevant professional experience in implementing projects within SAP plan-to-produce solutions, especially hands-on experience in the areas of SAP ePP/DS and IBP.
+• Excellent knowledge of end-to-end business processes, such as demand planning, S&OP, Production and Supply Planning, Production Execution, and other processes including cross-functional alignment. (MM/PP/SD/QM/APO)
+• Proven methodological know-how of local fit-gap analyses and process design, as well as a strong ability to grasp complex process issues in SAP and prepare them in a target group-specific manner.
+• Relevant industry knowledge and expertise in necessary tools like Signavio and JIRA.
+• Strong decision-making acumen and ability to reach consensus/compromises on process designs among different stakeholders
+• Experience with SAP R/3 and ideally SAP S/4HANA, as well as relevant third-party business systems
+• Excellent conceptual, analytical, and communication skills
+• Exceptional English and German communication skills, both spoken and written
+• Willingness to travel internationally (approx. 50%) to actively support and assist local entities.
+Company info
+Step out of your comfort zone, excel and redefine the limits of what is possible. That's just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

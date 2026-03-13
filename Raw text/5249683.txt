@@ -1,0 +1,106 @@
+Backend developer/ka (Java / Spring Boot / SQL)
+accute s. r. o.
+Miesto práce
+Dvořákovo nábrežie 4, Staré Mesto
+Druh pracovného pomeru
+plný úväzok, živnosť
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Do nášho tímu hľadáme skúseného backend developera, ktorý má silný základ v Jave a rozumie návrhu výkonných, bezpečných a dlhodobo udržateľných systémov.
+Vyvíjame robustné produkčné platformy pre investičné spoločnosti, finančné inštitúcie a zároveň aj špecializované riešenia pre malé a stredné firmy. Ide o systémy, ktoré pracujú s veľkým objemom dát, finančnými výpočtami, výkonnostnými reportmi, poplatkovými modelmi a procesnými workflow.
+Čo budeš robiť?
+Návrh a implementácia REST API v Java (Spring Boot).
+Práca s JPA/Hibernate a zároveň manuálna optimalizácia SQL dotazov.
+Návrh databázovej štruktúry (MySQL, PostgreSQL, MS SQL).
+Optimalizácia výkonu pri náročných výpočtoch (poplatky, výkonnosť portfólií, agregácie, reporting).
+Implementácia bezpečnostných mechanizmov (JWT, role-based access, rate limiting).
+Spolupráca na monitoringu a metrikách aplikácií (performance, load, business metrics).
+Riešenie komplexných biznis scenárov v oblasti investícií a finančných procesov.
+Refaktoring existujúcich častí systému s dôrazom na výkon a čitateľnosť.
+Code review a podpora kvality kódu.
+Podpora CI/CD pipeline a nasadzovania (Docker).
+Čo od teba očakávame?
+Skúsenosti s Javou (ideálne 3+ roky).
+Skúsenosti so Spring Boot.
+Dobré porozumenie JPA/Hibernate (vrátane jeho limitácií).
+Silné SQL znalosti – schopnosť písať a optimalizovať komplexné dotazy.
+Pochopenie transakčného správania databáz.
+Skúsenosti s návrhom REST API.
+Znalosť bezpečnostných princípov (JWT, autentifikácia, autorizácia).
+Zodpovedný prístup k výkonu a kvalite riešenia.
+Schopnosť pracovať s Git/GitLab.
+Analytické myslenie a schopnosť pochopiť komplexnú doménovú logiku.
+Výhodou sú skúsenosti s Grafana Allow, prípadne iným SIEM systémom ako aj s výkonnostným profilingom
+Zamestnanecké výhody, benefity
+Sme technologicky orientovaný tím, ktorý vyvíja produkčné systémy s vysokými nárokmi na spoľahlivosť a výkon. Dlhodobo sa zameriavame na finančný sektor, kde budujeme platformy pre správu investícií, reporting a procesné riadenie. Paralelne realizujeme projekty pre malé a stredné firmy, kde navrhujeme interné workflow systémy a špecializované aplikácie na mieru.
+Sídlo máme v Riverparku v Bratislave. Preferujeme osobnú spoluprácu v kancelárii (homeoffice max. 1 deň v týždni po dohode), pretože veríme, že kvalitná architektúra vzniká diskusiou a úzkou tímovou spoluprácou.
+K dispozícii máš:
+kvalitné pracovné vybavenie podľa vlastnej preferencie (macOS / Linux / Windows),
+ovocie a kávu v kancelárii,
+firemné raňajky a teambuildingy,
+možnosť Multisport karty,
+profesionálne prostredie s dôrazom na kvalitu, nie kvantitu.
+Čo ponúkame?
+prácu na komplexných produkčných systémoch s reálnym dopadom,
+možnosť podieľať sa na architektonických rozhodnutiach,
+stabilné dlhodobé projekty,
+pravidelné prehodnotenie platu,
+koncoročné odmeny v závislosti od prístupu a výkonu.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie. elektrotechnika, programovanie
+Jazykové znalosti
+Slovenský jazyk - Pokročilý (C1)
+alebo
+Anglický jazyk - Pokročilý (C1)
+Ostatné znalosti
+Java - Pokročilý
+Spring Boot - Pokročilý
+MySQL - Pokročilý
+Docker - Mierne pokročilý
+Spring Security - Pokročilý
+Grafana - Mierne pokročilý
+JUnit 5 - Mierne pokročilý
+GIT - Pokročilý
+Počet rokov praxe
+2
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme technologická spoločnosť zameraná na vývoj komplexných softvérových riešení na mieru. Špecializujeme sa na návrh a implementáciu robustných systémov pre finančný sektor, najmä pre investičné spoločnosti, správcov fondov a ďalšie regulované subjekty.
+Vyvíjame korporátne aplikácie s vysokými nárokmi na bezpečnosť, výkon a spoľahlivosť – od transakčných systémov a investičného reportingu až po interné workflow platformy a klientské zóny.
+Dlhodobo sa zameriavame na kvalitu architektúry, optimalizáciu výkonu a súlad s bezpečnostnými a regulačnými štandardmi (ISO/IEC 27001, GDPR, DORA). Okrem finančného sektora realizujeme projekty aj pre malé a stredné firmy v rôznych odvetviach.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Norbert Gálik
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5249683
+Dátum zverejnenia:
+12.3.2026
+2026-03-12
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+Java programátor
+,
+Programátor
+Spoločnosť:
+accute s. r. o.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac
