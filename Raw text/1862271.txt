@@ -1,0 +1,22 @@
+3D Artist
+We are seeking an experienced 3D Artist to join our dynamic VR development team. In this role, you will play a key part in creating high-quality 3D assets and environments for advanced training devices used by customers operating the Gripen fighter. These devices leverage virtual reality (VR) to deliver immersive, cost-effective, and safe training solutions for both flight and maintenance operations.
+Your role
+As part of a VR development team, your main objectives will be to create visually compelling and technically optimized 3D content that supports realistic and effective training experiences.
+Key tasks:
+• Create, optimize, and maintain high-quality 3D models, textures, and materials for VR training environments.
+• Develop realistic assets such as aircraft components, tools, environments, and props with a strong focus on accuracy and usability.
+• Ensure assets meet performance requirements for real-time VR applications.
+• Work closely with developers, designers, and subject matter experts to ensure correct functionality and visual fidelity.
+• Integrate assets into Unreal Engine and collaborate on lighting, shaders, and scene composition.
+• Participate in concept development, visual prototyping, and iterative improvement of training scenarios.
+• Follow established pipelines and contribute to improving workflows and asset standards.
+Your profile
+You bring a strong artistic and technical skill set suited for real-time 3D production in VR environments. With solid experience in 3D content creation for games, simulations, or XR applications, you are comfortable working from early concepts through to finalized, optimized assets ready for deployment.
+You have proven proficiency in industry-standard 3D tools such as Maya, Blender, 3ds Max, ZBrush, and Substance Painter/Designer, and experience working with physically based rendering (PBR) workflows. Familiarity with Unreal Engine and real-time asset integration is essential, as is an understanding of performance constraints specific to VR. Basic knowledge of animation, rigging and skinning is also preferrable.
+Experience working in early development phases, including concept development and prototyping, will allow you to contribute creatively and practically to new training solutions. An eye for detail,
+accuracy, and realism—particularly when working with technical or mechanical subjects—will be highly valued.
+You are accustomed to working in collaborative, cross-functional teams and are comfortable using version control systems such as Git and Perforce. A Bachelor’s degree in 3D Art, Game Art, Computer Graphics, or a related field is desirable, along with a portfolio demonstrating high-quality real-time 3D work. Experience in defence, aerospace, or simulation projects is considered a strong advantage.
+Strong problem-solving skills, attention to detail, and the ability to take feedback constructively are essential. You communicate clearly in English, both verbally and in writing, and are comfortable collaborating with colleagues from different technical and creative disciplines.
+This position requires that you pass a security vetting based on the current regulations around/of security protection. For positions requiring security clearance additional obligations on citizenship may apply.
+What you will be part of
+Explore a wealth of possibilities. Take on challenges, create smart inventions, and grow beyond. This is a place for curious minds, brave pioneers, and everyone in between. Together, we achieve the extraordinary, each bringing our unique perspectives. Your part matters.

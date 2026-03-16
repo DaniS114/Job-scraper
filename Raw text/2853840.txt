@@ -1,0 +1,97 @@
+Cég neve
+SMP Solutions Zrt.
+Munkavégzés helye
+Hibrid
+•
+1131 Magyarország,Budapest,Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Vállalkozói
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+ORACLE
+ADATTÁRHÁZ
+SQL
+MSSQL
+CLOUD
+AZURE
+PYTHON
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Windows
+Headset
+Mobiltelefon
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Vállalkozói
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+ORACLE
+ADATTÁRHÁZ
+SQL
+MSSQL
+CLOUD
+AZURE
+PYTHON
+Laptop
+Monitor
+(1 db)
+Windows
+Headset
+Mobiltelefon
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Komplex nagyvállalati adattárházak és üzleti intelligencia megoldások tervezése és fejlesztése.
+Oracle adatbázisok, adattárház-komponensek és ETL folyamatok fejlesztése, optimalizálása.
+Részvétel architektúra- és adatmodell-tervezési folyamatokban (logikai/fizikai modellek, adatarchitektúra, ETL-tervezés).
+Release-ek tesztelése, dokumentáció készítése és karbantartása.
+Együttműködés az elemző, architect és fejlesztő kollégákkal, illetve az ügyfél technikai szakembereivel.
+Tudásmegosztás, mentorálás és szakmai best practice-ek kialakítása kompetenciák szerint.
+Elvárások
+Minimum 4-5 év tapasztalat adattárházak, adatvezérelt rendszerek vagy nagyvállalati adatmegoldások fejlesztésében.
+Aktív Oracle adatbázis, PL/SQL és Oracle Data Integrator (ODI) tudás.
+Fejlesztési módszertanok ismerete, nagyvállalati CI/CD pipeline-ok és verziókezelő rendszerek használata.
+Jó kommunikációs készség, tanácsadói attitűd.
+Aktív, kommunikációképes angol nyelvtudás szóban és írásban.
+Előnyt jelent
+Aktív MSSQL, SSMS és SSIS tudás.
+Banki területen szerzett munkatapasztalat.
+Felsőfokú gazdasági vagy műszaki végzettség.
+Nagyvállalati adattárház-architektúrákban és modern cloud data stack-ekben szerzett tapasztalat.
+Tapasztalat Azure Data Platform (Data Factory, Synapse, SQL MI, Data Lake) vagy Databricks környezetben.
+Python vagy PySpark ismeretek.
+Amit kínálunk
+Alapbéren felüli juttatások: egészségbiztosítás + szakmai vizsgák anyagi támogatása + korlátlan konditeremhasználat.
+Stabil hátterű, nemzetközileg elismert vállalat, biztos ügyfélkörrel a versenyszférában.
+Hosszú távú karrierlehetőség, folyamatos támogatás, részvételi lehetőség szakmai képzéseken.
+Színvonalas munkakörnyezet (Bp. XIII. ker.), modern munkaeszközök, hibrid munkarend heti két nap távmunkával.
+Összetartó csapat, közös szabadidős programok: pl. grillklub, túraklub, bringaklub, társasjátékklub, crossfit edzések, kispályás foci, darts stb.
+Céginformáció
+Az SMP Solutions-nél immár több mint 35 éve elkötelezetten képviseljük az informatikai, bank- és biztonságtechnikai kihívások minőségi és hatékony megoldásait. A tervezéstől kezdve a kivitelezésen és a rendszerintegráción keresztül egészen az üzemeltetésig, széles skálán nyújtunk személyre szabott megoldásokat nagyvállalati ügyfeleink részére mind a magyar, mind a nemzetközi piacon. Számos területen és különböző technológiákkal dolgozó csapatunk van már, folyamatosan növekvő Üzleti Megoldások ágazatunkban saját szoftveralkalmazásokat fejlesztünk, komplett rendszerintegrációs projekteket szállítunk és tanácsadó kollégáink specifikus témákban közvetlenül is támogatják ügyfeleinket.
+Bővülő Data Management csapatunkba keresünk most
+Medior Data Engineer
+kollégát, aki elsőként egy nagy nemzetközi banki projektben vesz majd részt, melynek célja egy központi adatmodell alapján standard adatpiacok kiépítése az ügyfél leányvállalatainál a már létező infrastruktúrára, a későbbiekben pedig számos más adatvezérelt enterprise megoldás fejlesztésében és tervezésében számítunk rá.
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Álláshirdetés jelentése

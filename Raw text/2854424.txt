@@ -1,0 +1,101 @@
+Cég neve
+Sysmex Europe SE
+Munkavégzés helye
+Hibrid
+•
+Hamburg
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SERVICENOW
+ITIL
+SECURITY
+JAVASCRIPT
+API
+SERVICE MANAGEMENT
+REST
+TROUBLESHOOTING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+SERVICENOW
+ITIL
+SECURITY
+JAVASCRIPT
+API
+SERVICE
+MANAGEMENT
+REST
+TROUBLESHOOTING
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+What if you could shape the future of our ServiceNow platform and drive service excellence across our organisation? As a ServiceNow Platform Consultant / Expert (f/m/x), you will play a key role in designing, developing, and continuously improving our ServiceNow environment, with a focus on IT Service Management (ITSM). You will combine technical expertise, solution architecture, and business consulting to ensure the platform delivers sustainable value for our organisation. Your key responsibilities include:
+Partnering with IT and business stakeholders to translate operational needs into scalable ServiceNow solutions, including service catalogs, workflows, and reporting
+Facilitating workshops and aligning ITIL-based processes with ServiceNow capabilities to drive adoption and process excellence
+Designing and maintaining the overall ServiceNow platform architecture, including CMDB/CSDM alignment, integrations, security, and governance
+Defining scalable platform standards and reviewing major changes, third-party apps, and custom solutions for architectural fit
+Configuring and developing solutions on the ServiceNow platform (e.g., Flow Designer, Business Rules, Client Scripts, IntegrationHub, REST/SOAP integrations)
+Collaborating with external partners and vendors to ensure high-quality platform delivery and governance
+Providing advanced platform support (Level 2/3), troubleshooting issues, and ensuring system stability, data integrity, and SLA compliance
+Driving continuous improvement through upgrades, release management, documentation, and optimisation initiatives
+Managing the platform roadmap and backlog for ITSM capabilities, prioritising features, and coordinating releases
+Measuring platform performance through KPIs and identifying opportunities to increase automation, efficiency, and service quality
+Requirements
+This role is ideal for a ServiceNow professional who enjoys combining technical expertise with strategic thinking. If you like translating business needs into scalable platform solutions and continuously improving processes, you could be a great fit for our team. Ideally, you bring the following qualifications and strengths:
+University degree in IT, business informatics
+,
+or a comparable qualification
+5+ years of experience working with the ServiceNow platform, ideally across development, architecture, consulting, or product management
+Strong hands-on experience with ServiceNow configuration and development (JavaScript, Glide API, Flow Designer, IntegrationHub, catalog items, REST/SOAP integrations)
+Solid understanding of ITSM processes aligned with ITIL and experience designing scalable platform architectures (e.g., CMDB/CSDM, integrations, security models)
+Experience translating business requirements into technical solutions and facilitating stakeholder workshops
+Experience working with external ServiceNow development teams or vendors
+Product mindset with experience managing backlogs, defining roadmaps, and measuring performance through KPIs
+ServiceNow certifications (e.g., CSA, CIS-ITSM, CAD) are an advantage
+Experience with ITOM capabilities such as Discovery, Service Mapping, or Event Management is a plus
+Excellent communication skills and the ability to explain technical topics to diverse stakeholders
+Fluent in English; additional languages are an advantage in our international environment
+What we offer
+We are an aspiring corporate group where respect and trust form the basis for cooperation and communication within Sysmex. Please note that this position requires an 80% on-site / 20% mobile working model.
+Culture & cooperation
+An appreciative work environment, open corporate culture, flat hierarchies and an inclusive and caring atmosphere. Working in an innovative and international environmentwith a broad learning and development landscape in our EMEA Campus, after-work events for internal networking
+Work-life balance
+Flexible working through flextime and a hybrid working model (60% mobile working, 40% on-site), 30 days annual leave
+Additional benefits
+Christmas and holiday bonuses, childcare allowance, capital-forming benefits, subsidy for company pension scheme, corporate benefits, relocation assistance, subsidised lunch in our canteen
+Health & wellbeing
+In-house gym, various sports courses, massages, company medical and psychological care, workplace glasses, general health management
+Mobility
+Subsidy for the public transport “Deutschlandticket”, free parking, bike leasing via JobRad
+Social Responsibility
+Various opportunities to get involved in different sustainability and charity initiatives, climate friendly and respectful use of resources
+Company info
+Are you looking for more than just a job, for something truly meaningful and rewarding? Then Sysmex Europe SE is the place for you. As the regional headquarters for the EMEA (Europe, Middle East and Africa) region, our company is dedicated to providing essential products that help people worldwide on their healthcare journey.
+If this opportunity appeals to you, come and join us in the position of
+ServiceNow Platform Consultant / Expert (f/m/x)
+Reference: #011274
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

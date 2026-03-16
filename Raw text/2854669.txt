@@ -1,0 +1,99 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+C
+C++
+ASSEMBLY
+LINUX
+WINDOWS
+PYTHON
+ANDROID
+SECURITY
+DEBUGGING
+SOFTWARE TESTING
+CI
+TEST AUTOMATION
+AGILE
+Biztosított eszközök
+Windows
+Linux
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+C
+C++
+ASSEMBLY
+LINUX
+WINDOWS
+PYTHON
+ANDROID
+SECURITY
+DEBUGGING
+SOFTWARE
+TESTING
+CI
+TEST
+AUTOMATION
+AGILE
+Windows
+Linux
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Active involvement in the software design and test of reference application processor firmware
+Low level software development, test and debug on various platforms, including software models, development boards and shipping products
+Creating software stacks for Arm’s reference platforms for future Arm devices
+Development of test code
+Create automation solutions to streamline and minimize manual testing and development tasks
+Analyse industry specs, roadmap requirements, breakdown tasks and help implement the project plans
+Upstreaming and maintenance
+Requirements
+Excellent C/C++ programming skills with the ability to add significant new functionality, analyse and fix complex defects
+Some knowledge of assembly and strong debugging skills are preferred
+Demonstrated experience with software testing or software development
+Expertise in application and low-level systems, with a strong understanding of system architecture (preferably ARM), OS fundamentals, bootloaders, and device drivers
+Proficiency in Linux/Windows operating systems and driver development is preferred
+Good understanding of test methodologies, CI and test automation
+Strong interpersonal skills; excellent written and spoken English
+Nice-to-have
+Experience with Python programming and writing shell scripts, Knowledge of Rust programming, Basic understanding of the Linux kernel, system software and device drivers, and Android internals, Familiarity with open-source project development cycles and contribution processes, Experience of software profiling, instrumentation, and optimization, Verification and validation of firmware on both pre-silicon and post-silicon platforms, Knowledge of how to test software using various techniques alongside an awareness of the value of CI and automated test systems, Experience with Security Development Lifecycle (SDL) practices, Familiarity and flexibility in the use of various software development lifecycle methods including Agile
+What we offer
+Inspiring and collaborative office spaces
+Flexibility to tailor the role and title for the right candidate
+Hybrid working approach designed to support high performance and personal wellbeing
+Empowerment for groups/teams to determine their own hybrid working patterns
+Equal opportunity employer committed to mutual respect and diversity
+Company info
+The Software (CE-SW) group is responsible for developing and improving the software ecosystem around Arm's next generation architectures and systems. This means working with processors and other hardware technology not yet available to the public. You will join a team of Software Engineers who share a passion for leaving their mark on the future of computing.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

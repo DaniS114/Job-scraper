@@ -1,0 +1,94 @@
+AI Engineer
+ui42 s.r.o. | e-commerce one-stop shop
+Miesto práce
+Haydnova, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 000 - 3 500 EUR/mesiac
+Ponúkaný plat sa líši v závislosti od skúseností a zručností kandidáta. Je závislý od výkonu, kvality práce a formy spolupráce.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Návrh, vývoj a dlhodobá správa AI chatbotov a inteligentných konverzačných agentov
+Implementácia AI riešení pre automatizáciu procesov v e-commerce prostredí
+Návrh a optimalizácia RAG architektúr vrátane práce s dátovými zdrojmi a vektorovým vyhľadávaním
+Tvorba a rozširovanie správania AI agentov (práca s nástrojmi, plánovanie krokov, pamäť, rozhodovanie)
+Zvyšovanie stability a kvality výstupov pomocou prompt engineeringu, guardrails a fallback stratégií
+Vývoj backendových automatizácií v Pythone a spracovanie dátových tokov
+Budovanie produkčných AI/ML riešení (GenAI, NLP, neurónové siete, klasické ML modely)
+Integrácia externých systémov cez REST API vrátane napojenia na CMS Buxus
+Spolupráca na návrhu škálovateľných a spoľahlivých AI riešení
+​
+Zamestnanecké výhody, benefity
+V ui42 ponúkame:
+odborne aj ľudsky skvelý tím, do ktorého ľahko zapadneš (viac sa dá o nás dozvedieť cez videá na našom webe)
+otvorenosť nielen v komunikácii ale aj k tvojim nápadom a veľký priestor na rast, keď spolu zistíme, v čom je tvoj naj talent
+férový model odmeňovania, kde hornú hranicu určujú výsledky, vrátane možnosti získania podielu na zisku firmy
+flexibilný pracovný čas, homeoffice alebo kombinovaný spôsob práce
+pravidelné firemné akcie, grilovačky, raňajky a legendárne víkendy
+multi-sport kartu, bedminton..alebo radšej poker?
+čerstvé ovocie, dobrá káva a čaj v našom sídle
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Praktická skúsenosť s programovaním v Pythone a prácou so SQL
+Skúsenosti s dátovou analýzou a transformáciou dát
+Orientácia v práci s REST API a integračnými scenármi
+Prehľad v oblasti LLM modelov a ich efektívneho využitia (prompt engineering, kontextová práca s modelmi)
+Skúsenosti s verzovaním kódu (Git)
+Základná znalosť cloudových služieb, ideálne GCP (napr. Cloud Functions, BigQuery)
+Skúsenosti s ML knižnicami a frameworkmi ako Pandas, Scikit-learn, Keras, TensorFlow, PyTorch či NLTK
+Výhodou je skúsenosť s e-commerce projektmi alebo platformami
+Silné analytické a systémové myslenie
+Schopnosť navrhovať riešenia a dotiahnuť ich do produkcie
+Proaktívny prístup a ochota preberať zodpovednosť
+Rýchla adaptácia na nové technológie a AI trendy
+Tímovosť a zároveň schopnosť samostatnej práce
+Prirodzená zvedavosť a chuť profesijne rásť v oblasti AI a automatizácie
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme one-stop shop webová agentúra zameraná na e-commerce. Venujeme sa:
+• programovaniu a testovaniu webov, webových aplikácií a e-shopov (B2B aj B2C),
+• CX dizajnu, testovaniu použiteľnosti,
+• performance marketingu (SEO, PPC),
+• vývoju AI digitálnych služieb
+Stáli sme pri zrode takých úspešných projektov ako Profesia alebo Slovenská User Experience Asociácia (SUXA).
+Dodnes vyvíjame prvý slovenský CMS systém BUXUS, priniesli sme na slovensko World Usability Day, vytvorili sme prvý UX lab, ktorý spĺňa všetky medzinárodné štandardy.
+Sme členom Asociácie digitálnych marketingových agentúr (ADMA) aj slovensko.digital.
+Venujeme sa aj vzdelávaniu na slovenských univerzitách, konkrétne na FIIT STU a FMFI UK, sme častými speakrami na rôznych konferenciách. So Slovenskou sporiteľňou organizujeme pre e-shopy a verejnosť online konferenciu Website Story.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Martina Mrázová Samašová
+Tel.:
++421915740999
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5250015
+Dátum zverejnenia:
+13.3.2026
+2026-03-13
+lokalita:
+Bratislava
+Pozícia:
+AI špecialista
+Spoločnosť:
+ui42 s.r.o. | e-commerce one-stop shop
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

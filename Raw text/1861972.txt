@@ -1,0 +1,27 @@
+Das sind deine Aufgaben Konzeption und Entwicklung von System- und Datenintegrationslösungen, z.B. mit REST Schnittstellen oder Messaging und Streaming Technologien wie Kafka Design und Verwaltung von API-Gateways (z.B. mit Tyk.IO) Mitgestaltung einer modernen, eventbasierten IT-Systemlandschaftsarchitektur Qualitätssicherung durch die Entwicklung und Nutzung moderner CI/CD Pipelines Zusammenarbeit mit Fachbereichen zur Analyse und Umsetzung technischer Anforderungen Sicherstellung von Datenqualität und nachhaltiger Datenhaltung
+
+Das bringst du mit
+Fachliche Qualifikationen:
+Fundierte Kenntnisse In der Konzeption von REST-Schnittstellen
+Erfahrung mit API Management Tools (idealerweise Tyk.IO)
+Praxis in Messaging- und Streaming-Technologien (Kafka)
+Vertraut mit CI/CD-Prozessen und Versionsverwaltung
+Kenntnisse in Datenintegration und Datenbanktechnologien
+Verständnis für Software- und Systemarchitekturen
+Erfahrung mit eventbasierter Architektur und Microservices
+Methodische Kompetenzen:
+Erfahrung im Requirements Engineering
+Verständnis für digital Design (Domänenmodelle)
+Fähigkeit, komplexe Geschäftsprozesse zu analysieren und in technische Lösungen zu überführen
+Persönliche Stärken:
+Strukturiertes und ergebnisorientiertes Arbeiten
+Hohes Qualitätsbewusstsein und nachhaltiges Denken
+Teamfähigkeit, Eigenverantwortung und Kommunikationsstärke
+Das bieten wir dir
+Bei Liebherr erwartet dich ein anspruchsvolles und interessantes Aufgabengebiet in einer internationalen erfolgreichen Firmengruppe sowie
+Möglichkeiten zur persönlichen und beruflichen Weiterentwicklung
+Flexible Arbeitszeiten mit Home-Office-Möglichkeit
+Hauseigene Betriebskantine inkl. Essenszuschuss
+Kostenloser Werksverkehr und Bikeleasing
+Mitarbeitervergünstigungen bei diversen Unternehmen
+Gesetzlicher Hinweis: Für diese Position gilt ein kollektivvertragliches Mindestentgelt der Metallindustrie. Das tatsächliche Einkommen ist abhängig von der beruflichen Qualifikation und Berufserfahrung.

@@ -1,0 +1,81 @@
+Cég neve
+Digitec Galaxus AG
+Munkavégzés helye
+Pfingstweidstrasse 60B, 8005 Zürich, Switzerland
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANALYTICS
+SQL
+GIT
+TESTING
+GOOGLE ANALYTICS
+TABLEAU.
+MACHINE LEARNING
+Elvárások
+Angol anyanyelvi szint
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANALYTICS
+SQL
+GIT
+TESTING
+GOOGLE
+ANALYTICS
+TABLEAU.
+MACHINE
+LEARNING
+Angol
+anyanyelvi szint
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Who we are?
+As the top Swiss e-commerce platform, with a crew of over 3'200 across Switzerland, Germany, and Serbia, Galaxus is poised to move into new markets. Our driving force is our determination to keep challenging the status quo. That’s why we’re on the lookout for characters who’re passionate about making genuine improvements. We’ll give you the freedom and trust to make an impact, to grow with us and to be yourself. Act galactic. Be you.
+Our team ensures that the further development of the online shop is driven by data. To strengthen the team, we are seeking a motivated Analytics Engineer who will support us in further developing a clean data ecosystem for behavioral and online shop data.
+(Senior) Data Engineer, Analytics and AI (f/m/d)
+Your responsibilities
+Architect & Orchestrate: Design, build, and manage scalable ETL/ELT data flows using and Dataform to transform raw behavioral data into high-performance data objects.
+Productionalize ML: Partner closely with Senior Data Scientists to transition model prototypes into robust production pipelines, assisting in the engineering and training of ML models.
+Data Product Innovation: Develop efficient data marts and canonical datasets that serve as the backbone for data-driven shop features, Machine Learning, and Generative AI applications.
+Collaborative Leadership: Act as a technical consultant for analysts and data scientists, ensuring the integration of online shop data into the broader company platform.
+Systems Integrity: Implement robust, fault-tolerant systems and maintain clear data logic to meet the growing demands of the business intelligence domain.
+Your skills
+Experience: You have 5+ years of professional experience in data engineering, with at least 2 years specifically focused on productionizing machine learning models or working within AI infrastructure.
+Education: Advanced degree in Computer Science or a data-focused field (ETH/UNI/FH) or equivalent professional expertise.
+Pipeline Mastery: Extensive experience in sustainable data modeling and the design of complex, high-volume data pipelines.
+Technical Stack: Expert SQL skills with Google BigQuery and proficiency in data workflow tools such as Dataform, dbt, Airflow, or Dagster.
+Software Engineering: Strong programming skills in , including experience with Git and software engineering best practices like unit testing and CI/CD.
+ML & AI Foundations: Practical experience with ML modeling technologies (e.g., PyTorch, TensorFlow, or Vertex AI) and a deep understanding of data preparation for ML tasks.
+Language: Fluent English is a must, while German is considered as a plus.
+Bonus Skills: Knowledge of web tracking (Snowplow/Google Analytics) or data visualization tools like Tableau.
+Why start with us?
+Values, not empty words: Cooperative, innovative, piratesque, responsible, ambitious – these five values are what we practise and preach.
+Courageous thinking: We encourage everyone to think on their feet, and love it when they come up with bold or edgy ideas.
+Uncomplicated approach: Simplicity is at our core. We avoid the unnecessary and focus on what really matters – from overcoming challenges to celebrating our shared successes.
+Flexibility and freedom: We offer working-from-home options, up to 8 weeks of workation, and every position is possible with an 80% workload.
+Rapid growth: With us, growth is a continuous journey. We also support you with 2'000 EDU points per year for your professional development so there’s no risk of you getting stuck in a rut.
+More benefits: 25 days of holiday, exclusive employee conditions in our online shop, mobile, internet and TV plans at company rates and many other benefits.
+Diversity is our culture.
+To build the best team, we want to draw from the full spectrum of talent out there. This means people from all walks of life have the same opportunities with us, regardless of their ethnicity, religion, disability status, gender identity, sexual orientation or age. We believe true inclusion means everyone is welcome and each contribution is valuable. jid8bc8892pn jit0311pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Switzerland
+Álláshirdetés jelentése

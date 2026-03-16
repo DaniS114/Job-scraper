@@ -1,0 +1,42 @@
+Az MBH Bank Magyarország egyik vezető bankja. Stabil, hazai bank, az ország legnagyobb fiókhálózatával
+.
+Célunk, hogy
+érthető
+,
+emberközeli
+és
+szerethető
+élménnyé tegyük a bankolást, miközben támogatjuk közel 2 millió ügyfelünket, hogy tudatosan és magabiztosan kezeljék pénzügyeiket.
+Miben számíthatsz ránk?
+Fontos számunkra, hogy kollégáink minden élethelyzetére megfelelő választ találjunk, hogy tudják, számítunk rájuk és ők is számíthatnak ránk.
+Ezért különösen büszkék vagyunk a generációs sokszínűségi stratégiánkra, amely a pályakezdőktől a családalapító fiatalokon át a 60 év feletti korosztályig egyedi igényeknek megfelelő megoldásokat kínál, így képzési és készségfejlesztési palettát, közösségi élményeket és személyre szabott juttatásokat.
+Milyen feladatokban számítunk rád?
+7x24-es rendelkezésre állású, vállalati mentési, archiválási és visszaállítási rendszerek üzemeltetése és felügyelete -  IBM Storage Protect (TSM), Microsoft Data Protection, Veeam Backup & Replication
+Mentések beállítása, mentési hibák vizsgálata, elemzése és megoldása
+Mentési és archiválási folyamatok tervezése és optimalizálása
+Kapacitástervezés, kezelés – HW erőforrások, licenszek
+Dokumentációk és üzemeltetési eljárások készítése, karbantartása
+Kapcsolattartás a társterületekkel (hardver és storage, virtualizáció, hálózat, alkalmazásüzemeltetés)
+Milyen tudásra és tapasztalatra lesz szükséged?
+Minimum 3 év tapasztalat vállalati mentési rendszerek üzemeltetésében
+Mély szakmai ismeret:
+IBM Storage Protect / TSM
+Üzemeltetési tapasztalat:
+Microsoft Data Protection és/vagy Veeam Backup & Replication
+Windows Server és/vagy Linux rendszerek üzemeltetési tapasztalat
+Alapvető ismeretek virtualizációs környezetekről (VMware, Hyper-V)
+Alapvető ismeretek adatbázis környezetekről (Oracle, SQL)
+Jó problémamegoldó képesség és önálló munkavégzés
+Készenlét vállalása
+Előnyt jelent:
+Tape library-k és szalagos technológiák ismerete (IBM TS4500, Dell TL4000, LTO generációk)
+Scripting ismeretek (PowerShell, Bash, Python)
+Monitoring rendszerekben szerzett tapasztalat
+Üzletmenet-folytonossági és DR ismeretek
+Miben számíthatsz még ránk?
+Széles körű sportolási támogatást nyújtunk
+Komplex juttatási csomaggal rendelkezünk
+Home office lehetőséget biztosítunk
+Szupercsapatként működünk együtt
+Kíváncsiak vagyunk ötleteidre és teret adunk a megvalósításukhoz
+Generációs sokszínűségi stratégia: Start+, Bébi+, Aktív+, Nagyköveti program

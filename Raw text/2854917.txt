@@ -1,0 +1,94 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+DEVOPS
+ANALYTICS
+CLOUD
+REST
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+DEVOPS
+ANALYTICS
+CLOUD
+REST
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Define and evolve the long-term vision, strategy, and success metrics for shared services and integration capabilities within the Risk & Audit platform.
+Align platform investments with company strategy, architectural direction, and product portfolio needs.
+Own a roadmap focused on reusable services, internal frameworks, and technical enablers that support multiple product teams.
+Prioritize initiatives that improve scalability, consistency, performance, and developer efficiency across the ecosystem.
+Partner closely with Engineering, Architecture, Security, and DevOps teams to ensure shared services meet reliability, scalability, and compliance expectations.
+Participate in architectural discussions and trade-off decisions while representing product and business outcomes.
+Act as the voice of internal product teams and integration partners consuming platform services.
+Gather requirements across multiple stakeholders and translate them into cohesive service capabilities and technical requirements.
+Maintain a prioritized backlog balancing new capabilities, technical enablers, platform modernization, and technical debt reduction.
+Define clear acceptance criteria and measurable success indicators for platform deliverables.
+Establish KPIs related to adoption, reliability, latency, and service performance.
+Use telemetry, usage analytics, and feedback loops to drive continuous improvement and informed prioritization.
+Ensure consistency in service design, naming conventions, and lifecycle management practices.
+Monitor trends in platform engineering, cloud infrastructure, APIs, AI technologies, and integration tooling.
+Evaluate build-vs-buy decisions for platform components and shared service technologies.
+Requirements
+5+ years in Product Management with at least 3 years focused on platform, infrastructure, or developer-facing products.
+Proven experience owning cross-team or cross-product initiatives in SaaS or enterprise software environments.
+Demonstrated success delivering APIs, shared services, or integration platforms at scale.
+Experience working in complex, multi-product ecosystems.
+Strong understanding of distributed systems, cloud architectures, APIs (REST/GraphQL), authentication/authorization models, and data integration patterns.
+Comfortable participating in architectural and technical trade-off discussions with senior engineers and architects.
+Familiarity with observability, service reliability, and performance considerations in large-scale systems.
+Experience collaborating with engineering leadership, architects, and multiple product teams.
+Ability to influence without direct authority and effectively balance competing priorities.
+Strong requirements writing skills for both functional and technical audiences.
+Experience managing complex backlogs that include features, enablers, and technical debt.
+Data-driven decision making with clear KPI ownership.
+Excellent written and verbal communication skills with the ability to translate technical concepts for non-technical stakeholders.
+Strong facilitation and alignment skills across cross-functional and geographically distributed teams.
+Demonstrated use of AI tools to enhance product management workflows (e.g., documentation, requirements synthesis, user research analysis, prototyping).
+Curiosity and willingness to learn about AI technologies and their application to enterprise software.
+Ability to think critically about AI capabilities and limitations when evaluating platform investments and technical trade-offs.
+Exposure to governance, risk, or compliance products is beneficial but not required.
+What we offer
+Flexible work environment
+Global days of service
+Comprehensive health benefits
+Meeting free days
+Generous time off policy
+Wellness programs
+Hybrid work model with onsite work at least 50% of the time if within commuting distance to an office
+Diversity and inclusion initiatives through Employee Resource Groups and educational resources
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,75 @@
+Cég neve
+DruIT Szolgáltató Zrt.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+API
+POSTMAN
+TEST AUTOMATION
+REST
+JIRA
+CONFLUENCE
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+API
+POSTMAN
+TEST
+AUTOMATION
+REST
+JIRA
+CONFLUENCE
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Integrációs és endpoint tesztelési stratégiák kialakítása SAFe környezetben
+API-k automatizált tesztelése (REST Assured, Postman, Pact)
+Adatbázis-konzisztencia ellenőrzése, mock-szolgáltatások kezelése
+Felmerülő hibák kezelése, hibajegyek rögzítése és nyomon követése (Jira)
+Tesztelési folyamatok irányítása, beleértve a manuális és automatizált tesztek végrehajtását
+Projektkoordináció: Szoros együttműködés a projektcsapatokkal, üzleti felhasználókkal, fejlesztőkkel és külső szállítókkal a követelmények és eredmények egyeztetése érdekében
+Minőségbiztosítás: A rendszerintegrációs projektek minőségének és megbízhatóságának biztosítása a tesztelési eredmények alapján
+Dokumentáció: Tesztautomatizálási stratégia alkotása, tesztesetek megtervezése, tesztforgatókönyvek és tesztjegyzőkönyvek készítése (Jira Zephyr, Confluence)
+Elvárások
+5+ év szakmai tapasztalat backend-rendszerek automatizált tesztelésében
+Mélyreható ismeretek API-tesztelési módszertanokban és eszközökben
+Rugalmas, alkalmazkodó hozzáállás, a tesztelő csapat proaktív képviselete
+Nyitott kommunikációs készség üzleti és technikai partnerekkel egyaránt
+Stabil angol nyelvtudás
+Amit kínálunk
+Fiatalos, szakmailag kiváló, motivált csapat. Nyitottak új ötletekre, szokásokra, szívesen fogadják a véleményeket
+Rugalmas munkaidő, hibrid munkavégzési lehetőséggel (11. kerület, Budapest)
+Szakmai fejlődés támogatása
+Céginformáció
+Partnerünk újonnan alakult fintech csapata olyan innovatív pénzforgalmi megoldások fejlesztésén dolgozik, amelyek üzleti és lakossági ügyfelek igényeit szolgálják ki.
+A vállalat már több mint 10 éve jelen van a magyar piacon, és kártyás fizetési megoldásokra, valamint vállalati számlavezetésre specializálódott. Csapatuk új infrastruktúrát épít, a legújabb technológiákat és eszközöket alkalmazva az ügyfélélmény és a versenyképesség szolgálatában, miközben folyamatosan törekszik az innovációra.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Tesztelő,
+Tesztmérnök
+Budapest
+Álláshirdetés jelentése

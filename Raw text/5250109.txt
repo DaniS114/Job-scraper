@@ -1,0 +1,123 @@
+QA Team Lead (Test Lead)
+Foundation, s.r.o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Start date
+ASAP
+Wage (gross)
+From 2 000 EUR/month
+Salary offer depends on your professional skills, experience, and knowledge
+Information about the position
+Job description, responsibilities and duties
+You'll own quality across several projects at once. That means leading a small team of testers, staying hands-on yourself, and making sure defects don't reach clients.
+We're looking for someone with at least 5 years in QA or testing roles, including some experience guiding others.
+What you'll do
+Lead a small QA team: plan the work, set priorities, allocate tasks, unblock people daily
+Test software yourself: functional, regression, exploratory
+Check that built features actually match the requirements and acceptance criteria
+Find defects early, work with developers to fix them, verify the fixes
+Write and maintain test scripts in Playwright; build automation where it genuinely saves time
+Run and monitor tests through Jenkins pipelines, report results clearly
+Write clear testing documentation for both developers and end users
+Support clients and users during rollouts and production deployments
+Report testing status clearly: what's covered, what's open, whether a release is ready
+Run knowledge transfer or training sessions for end users when needed
+What this role is not
+It's not a pure management role. You'll be in the code and the test cases, not just in meetings.
+Employee perks, benefits
+• Slovak company operating on the market for a long time
+• Participate in interesting projects with innovative technologies
+• Work with agile methodologies
+• Possibility to develop professional knowledge and skills - training and development according to your unique needs
+• We offer you a space where you can be creative, show off your skills, and grow your expertise
+• Working in a supportive and family-friendly workplace
+• Multisport Card
+Information about the selection process
+Are you interested in this job opportunity? Please, send us your resume in English to trencanska@foundation.sk We need your talent. We need you. So let’s talk today. Please, use the title of this position as the Subject of the e-mail message.
+Expected date of completion of the selection process
+15.4.2026
+(there are still 31 more days)
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Educational Specialization
+Electrotechnical, Technical field, Mathematics, Fyzics, Informatics
+Language skills
+English - Upper intermediate (B2)
+Other knowledge
+Selenium - Skillful
+GitLab - Skillful
+Jira - Advanced
+SQL - Skillful
+HTML - Advanced
+Agile methodologies - Advanced
+Scrum methodology - Advanced
+API - Skillful
+CSS - Advanced
+SonarQube - Skillful
+DevOps - Skillful
+Experience in the position/sector
+5
+Number of years of experience
+5
+Personality requirements and skills
+What we ask you to include in your CV:
+Please make sure your CV clearly states which projects each of your experiences was gained on. For every relevant project, include a brief description and a contact reference that can be used to verify your experience.
+Professional requirements:
+Quality Assurance (QA) - Expert (50% Hands-on / 50% Leading)
+​Test Management / Test Lead/Strategy - Advanced (Flexible/Small-agency approach)
+​Test Automation (UI/API - Playwright / Selenium / Katalon) - Competent
+​CI / CD (GitLab CI, Azure DevOps) - Competent
+​Test Management tools (JIRA or similar) - Advanced
+​API testing (SoapUI, Postman, REST) - Competent
+​SQL / Database testing - Competent
+​Web testing (HTML, CSS, Modern browsers) - Advanced
+​Security & Code Quality (SonarQube, Trivy) - Competent
+​Agile / Scrum, SDLC/STLC – Advanced
+Active experience leading and mentoring a QA team
+Proven ability to build a pragmatic test strategy across multiple customer projects.
+Execution of functional, integration, and regression tests in a software agency environment.
+Hands-on knowledge of SQL and API testing tools (SoapUI/Postman).
+Experience embedding automated tests into pipelines and monitoring CI execution.
+Ability to set and maintain automation standards for frameworks like Playwright or Katalon.
+Experience defining "Definition of Done" (DoD) and streamlining bug reporting workflows.
+Coordination with developers on unit testing, static code analysis, and security checks.
+Personal requirements:
+Natural leader and coach: team player who takes ownership and is proactive.
+​Strong analytical mindset with extreme attention to detail to prevent recurring defects.
+​Problem-solving attitude: identifies blockers and proposes simple, straightforward solutions.
+​Excellent communication skills for navigating relationships between dev teams and customers.​
+Advertiser
+Brief description of the company
+Foundation s.r.o. is a Slovak software development company with 20 years of experience on the market. We focus on creating modern and meaningful applications across various industries. Our team of passionate and skilled developers works on interesting projects, currently with a stronger focus on the local market. For more information, visit www.foundation.sk.
+Number of employees
+25-49 employees
+Contact
+Contact person: Ingrid Trenčanská
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5250109
+Dátum zverejnenia:
+13.3.2026
+2026-03-13
+lokalita:
+Remote work
+Pozícia:
+IT Tester
+,
+Team leader
+Spoločnosť:
+Foundation, s.r.o.
+Základná zložka mzdy (brutto):
+2 000 EUR/month

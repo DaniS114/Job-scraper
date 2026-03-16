@@ -1,0 +1,43 @@
+Az MBH Bank Magyarország egyik vezető bankja. Stabil, hazai bank, az ország legnagyobb fiókhálózatával
+.
+Célunk, hogy
+érthető
+,
+emberközeli
+és
+szerethető
+élménnyé tegyük a bankolást, miközben támogatjuk közel 2 millió ügyfelünket, hogy tudatosan és magabiztosan kezeljék pénzügyeiket.
+Miben számíthatsz ránk?
+Fontos számunkra, hogy kollégáink minden élethelyzetére megfelelő választ találjunk, hogy tudják, számítunk rájuk és ők is számíthatnak ránk.
+Ezért különösen büszkék vagyunk a generációs sokszínűségi stratégiánkra, amely a pályakezdőktől a családalapító fiatalokon át a 60 év feletti korosztályig egyedi igényeknek megfelelő megoldásokat kínál, így képzési és készségfejlesztési palettát, közösségi élményeket és személyre szabott juttatásokat.
+Olyan Observability mérnököt keresünk, aki nemcsak beállítja a rendszereket, hanem értelmezi őket. Nemcsak a riasztásokat kezeli, hanem összefüggéseket talál és segít abban, hogy ne csak reagáljunk a problémákra, hanem előre lássuk őket. Ebben a munkakörben meghatározó szereped lesz az observability stratégia és bevezetendő rendszerek kialakításában és részt veszel majd a standard monitorozási irányelvek kidolgozásában és implementálásában is; nem beszélve mindemellett a rendszer- és alkalmazásüzemeltető csapatok támogatásáról a helyes monitorozási alapelvek alkalmazására vonatkozóan.
+Milyen feladatokban számítunk rád?
+Tervezési feladatokban való részvétel (HLD, LDD)
+Log management, distributed tracing  és metrikagyűjtő rendszerek fejlesztése, üzemeltetése
+Monitoring dashboardok, riasztások kialakítása
+Incidens analízis támogatása
+Monitoring rendszerekhez kapcsolódó automatizálási feladatok
+Milyen tudásra és tapasztalatra lesz szükséged?
+Felsőfokú informatikai végzettség
+Legalább 2-3 év modern observability stackben való tapasztalat (pl. Prometheus, Grafana, ELK, Dynatrace, Splunk, OpenTelemetry)
+Legalább 2-3 év on-prem vagy felhős üzemeltetési tapasztalat
+Konténeres és felhős környezet ismerete (Kubernetes, AWS, Azure)
+SRE szemlélet a nem jól működő dolgok végleges javítására
+Középfokú angol nyelvtudás
+Operatív tudatosság megteremtése digitális megoldásokon keresztül
+Együttműködési készség, csapatjátékos attitűd
+Problémamegoldó képesség
+Struktúrált gondolkodás
+Kiváló kommunikációs készség
+Előny:
+Banki/pénzügyi területen szerzett tapasztalat
+Agilis módszertanok ismerete
+Integrációs megoldások, nagyvállalati környezet ismerete
+ML és AI használatában való jártasság observability megoldások kapcsán
+Miben számíthatsz még ránk?
+Komplex juttatási csomaggal rendelkezünk
+Home office lehetőséget biztosítunk
+Széles körű sportolási támogatást nyújtunk
+Szupercsapatként működünk együtt
+Kíváncsiak vagyunk ötleteidre és teret adunk a megvalósításukhoz
+Generációs sokszínűségi stratégia: Start+, Bébi+, Aktív+, Nagyköveti program

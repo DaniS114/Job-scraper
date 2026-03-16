@@ -1,0 +1,79 @@
+Cég neve
+Hamilton Medical AG
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DEVOPS
+SECURITY
+TESTING
+LINUX
+CI
+Biztosított eszközök
+Linux
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+DEVOPS
+SECURITY
+TESTING
+LINUX
+CI
+Linux
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Senior DevOps Engineer 80 - 100 % (w/m/d)
+For more than 70 years, Hamilton Medical has shaped the future of mechanical ventilation. We develop intelligent ventilation solutions that support clinicians in critical moments.
+Our HAMILTON ventilators are used in intensive care units, during emergency transport, and in MRI environments. They help medical teams care for adult, pediatric, and neonatal patients worldwide.
+Here, your work has real impact. Every improvement you make supports better respiratory care for patients around the globe.
+How you can make a difference:
+Design, build, and operate a platform where the source code repository is the single source of truth
+Manage infrastructure and applications in a fully declarative manner
+Implement and maintain staged deployments (Dev ? Test ? Prod) with automated validation
+Package internal and external software in a reproducible and traceable way
+Build and evolve CI pipelines with a strong focus on validation and traceability
+Write and automate system-level and integration tests
+Develop tooling to migrate, validate, and manage data
+Provide reproducible development environments, including isolated service landscapes for developing and testing new services
+Act as a technical partner to product development teams across the organization, supporting them in adopting new tools and processes
+That's what you bring along:
+Senior-level experience in DevOps, Platform Engineering, or Site Reliability Engineering
+Strong experience and proven ability to work with declarative systems
+Solid Linux expertise
+Experience designing, building, and operating CI/CD pipelines
+Familiarity with functional or immutable system design concepts
+Strong security and reliability mindset
+Ability to work independently, make architectural decisions, and communicate clearly across teams
+How to apply:
+Learn more about career opportunities at Hamilton at Jobs | Hamilton Medical.
+Do you share our values and feel at home in a cooperative, innovative,and down-to-earth environment? At Hamilton, we not only offer a motivating working environment, but also purposeful workand modern working conditions. Our interactions at eye level encourage open communication and a pleasant working environment. Become part of a team where your skills are valued and innovative ideas are fostered. Interested? Then apply online using the "Apply now" button. If you have any questions, please contact us at
+Write an email
+with the following details:
+Reference: JR-5581-fjm/Contact: Juli
+Applications by post or e-mail can unfortunately not be considered. jid9b0a631pn jit0312pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Administrator
+Switzerland
+Álláshirdetés jelentése

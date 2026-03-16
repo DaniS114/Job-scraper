@@ -1,0 +1,46 @@
+Az MBH Bank Magyarország egyik vezető bankja. Stabil, hazai bank, az ország legnagyobb fiókhálózatával
+.
+Célunk, hogy
+érthető
+,
+emberközeli
+és
+szerethető
+élménnyé tegyük a bankolást, miközben támogatjuk közel 2 millió ügyfelünket, hogy tudatosan és magabiztosan kezeljék pénzügyeiket.
+Miben számíthatsz ránk?
+Fontos számunkra, hogy kollégáink minden élethelyzetére megfelelő választ találjunk, hogy tudják, számítunk rájuk és ők is számíthatnak ránk.
+Ezért különösen büszkék vagyunk a generációs sokszínűségi stratégiánkra, amely a pályakezdőktől a családalapító fiatalokon át a 60 év feletti korosztályig egyedi igényeknek megfelelő megoldásokat kínál, így képzési és készségfejlesztési palettát, közösségi élményeket és személyre szabott juttatásokat.
+Milyen feladatokban számítunk rád?
+Magas rendelkezésre állású, nagyvállalatai VMware és Microsoft Hyper-V virtualizációs környezetek, VDI infrastruktúrák kiszolgáló oldali kialakítási, fejlesztési és üzemeltetési feladatainak támogatása
+Üzemeltetés során jelentkező változás igények implementálása, incidensek megoldása, problémakezelési folyamatok támogatása
+VM igények kezelése, együttműködésben a társterületi üzemeltetési csapatokkal
+Üzemeltetett környezetek rendszeres frissítése és hardening beállításainak elvégzése
+Virtualizációs infrastruktúrát érintő kapacitás és erőforrás gazdálkodási feladatok ellátása
+Adatgyűjtési, riportálási és automatizációs folyamatok támogatása PowerCLI és PowerShell szkriptek segítségével
+Rendszerdokumentációk, nyilvántartások, üzemetetési eljárásrendek készítése és naprakészen tartása
+Virtualizációs üzemeltetési területet érintő audit adatszolgáltatások támogatása
+Készenlét biztosítása az üzemeltetett rendszerek vonatkozásában
+Részvétel a technológiai alapinfrastruktúrát érintő fejlesztési projektekben
+Kapcsolattartás a partneri és gyártói támogató szervezetekkel
+Technológia változások követése, javaslattétel az alkalmazásukra
+Milyen tudásra és tapasztalatra lesz szükséged?
+Informatikai felsőfokú végzettséggel, vagy legalább 3 év releváns szakmai tapasztalat rendelkezel
+Magabiztos vagy VMware és/vagy a Microsoft Hyper-V virtualizációs környezetek üzemeltetésében
+Gyakorlott vagy PowerCLI és/vagy PowerShell szkriptek készítésében
+Nagyvállalati technológiai infrastruktúra ismeretekkel rendelkezel
+Nyitott vagy az új technológiák és folyamatok elsajátítására és gyakorlati alkalmazására
+Kommunikációs szintű angol nyelvtudással rendelkezel szóban és írásban egyaránt
+Jó a kommunikációs és kapcsolatteremtő készséged
+Mindemellett rugalmasság, terhelhetőség és jó dokumentációs készség jellemez
+Előnyt jelent:
+Adatközponti szerver és tároló megoldások üzemeltetési tapasztalata
+IBM PowerVM virtualizációs technológia ismerete
+ITIL módszertan ismerete és gyakorlati alkalmazása
+Pénzintézeti környezetben szerzett tapasztalat
+Miben számíthatsz még ránk?
+Széles körű sportolási támogatást nyújtunk
+Komplex juttatási csomaggal rendelkezünk
+Home office lehetőséget biztosítunk
+Szupercsapatként működünk együtt
+Kíváncsiak vagyunk ötleteidre és teret adunk a megvalósításukhoz
+Generációs sokszínűségi stratégia: Start+, Bébi+, Aktív+, Nagyköveti program

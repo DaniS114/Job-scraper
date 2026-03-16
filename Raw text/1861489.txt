@@ -1,0 +1,47 @@
+Az MBH Bank Magyarország egyik vezető bankja. Stabil, hazai bank, az ország legnagyobb fiókhálózatával
+.
+Célunk, hogy
+érthető
+,
+emberközeli
+és
+szerethető
+élménnyé tegyük a bankolást, miközben támogatjuk közel 2 millió ügyfelünket, hogy tudatosan és magabiztosan kezeljék pénzügyeiket.
+Miben számíthatsz ránk?
+Fontos számunkra, hogy kollégáink minden élethelyzetére megfelelő választ találjunk, hogy tudják, számítunk rájuk és ők is számíthatnak ránk.
+Ezért különösen büszkék vagyunk a generációs sokszínűségi stratégiánkra, amely a pályakezdőktől a családalapító fiatalokon át a 60 év feletti korosztályig egyedi igényeknek megfelelő megoldásokat kínál, így képzési és készségfejlesztési palettát, közösségi élményeket és személyre szabott juttatásokat.
+Milyen feladatokban számítunk rád?
+Devops szakértőként CI/CD pipeline-ok automatizációja AWS és Kubernetes alapokon (beleértve az IaC-t is)
+Szoros együttműködés IT mérnöki csapatokkal, hogy erős együttműködést, fejlesztési életciklusokat és "infra as a code" gyakorlatok alakulhassanak ki
+Magas minőségű digitális megoldások fejlesztése és támogatása, különös tekintettel az üzemeltetési tudatosság kiépítésére, a konfigurációkezelés támogatására és a minőség biztosítására
+Nagy rendelkezésre állású, skálázható, hibatűrő infrastruktúra és eszközök iteratív fejlesztésének támogatása AWS és Kubernetes (EKS) alapú, gyorsan fejlődő felhőinfrastruktúrához kapcsolódó követelmények megtervezése, dokumentálása, valamint az előrehaladás riportálása az érintettek és a fejlesztők felé
+A teljes vállalati stack-re kiterjedően az infrastruktúra támogatásra és telepítésre vonatkozó legjobb gyakorlatok követése és folyamatos fejlesztése
+Közreműködés az automatizációk fejlesztésében és folyamatos működésében, beleértve a Terraform-ot, a Helm-et (ArgoCD) és más eszközöket
+Rendszer monitorozás az esetleges rendellenes teljesítmény észlelése érdekében, valamint a szükséges döntések meghozatala az állásidő vagy adatvesztés minimalizálására
+CI/CD folyamatok, eszközök és futtatási környezetes tervezése és karbantartása, ideértve az "infra as a code" megvalósítását Terraform és Helm chart-ok segítségével
+Olyan megoldások építése, amelyek megfelelnek a belső bankbiztonsági, rendelkezésre állási, teljesítmény-, karbantarthatósági és nagyvállalati méretezési követelményeknek, valamint a legjobb gyakorlatoknak
+Milyen tudásra és tapasztalatra lesz szükséged?
+Felsőfokú informatikai végzettség
+Legalább 3 év releváns AWS vagy Kubernetes tapasztalat
+Microservice-ben és Devops folyamatokban való jártasság
+Konténerizációs tapasztalat (EKS)
+Gitlab, GitlabCI, EKS és AWS servicekben szerzett gyakorlat (EKS, S3, ALB, NLB, TGW, Private CA, RDS, DocumentDB, Elasticache, Opensearch)
+CI/CD ismeret
+Operatív tudatosság megteremtése digitális megoldások monitoringján keresztül
+Együttműködési készség, csapatjátékos attitűd
+Erős elemző, problémamegoldó képesség
+Struktúrált gondolkodás
+Kiváló kommunikációs készség
+Nyitottság új technológiák elsajátítására, új ötletekre
+Out of the box gondolkodásmód
+Előny:
+Banki/pénzügyi területen szerzett tapasztalat
+Agilis módszertanok
+Angol nyelvtudás
+Miben számíthatsz még ránk?
+Komplex juttatási csomaggal rendelkezünk
+Home office lehetőséget biztosítunk
+Széles körű sportolási támogatást nyújtunk
+Szupercsapatként működünk együtt
+Kíváncsiak vagyunk ötleteidre és teret adunk a megvalósításukhoz
+Generációs sokszínűségi stratégia: Start+, Bébi+, Aktív+, Nagyköveti program

@@ -1,0 +1,114 @@
+Cég neve
+LogBord 2010 Kft
+Munkavégzés helye
+Távmunka / Remote
+Fizetés
+Br.
+1,0M - 1,2M Ft havi bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Nézze meg a jelentkezők átlag bérigényét!
+Ft/hó
+Megnézem
+Ön felfedte a jelentkezők átlag bérigényét
+N.
+e Ft/hó
+Részletek
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+SQL
+MYSQL
+POSTGRESQL
+PYTHON
+BASH
+AWS
+AZURE
+CLOUD
+POWERSHELL
+NOSQL
+MONGODB
+Biztosított eszközök
+Laptop
+Mobiltelefon
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+'B' kat. jogosítvány
+
+Magyarországon belül bárhonnan végezhető
+Mobiltelefon
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+SQL
+MYSQL
+POSTGRESQL
+PYTHON
+BASH
+AWS
+AZURE
+CLOUD
+POWERSHELL
+NOSQL
+MONGODB
+Laptop
+Mobiltelefon
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+'B'
+kat. jogosítvány
+
+Állás leírása
+Feladatok
+Rendszerfelügyelet:
+Adatbázis-szerverek (MySQL / Maria DB / PostgreSQL) folyamatos üzemeltetése.
+Teljesítmény-optimalizálás:
+Adatbázis-lekérdezések monitorozása, lassú folyamatok elemzése és tuningolása.
+Biztonság és védelem:
+Jogosultságkezelés, adatbiztonsági protokollok betartatása és védelem az illetéktelen hozzáférések ellen.
+Mentés és helyreállítás:
+Biztonsági mentési stratégiák kidolgozása, rendszeres ellenőrzése és katasztrófa-helyreállítási (DR) tervek tesztelése.
+Együttműködés:
+Szoros munka a fejlesztőcsapattal a séma-tervezés és SQL-optimalizálás során. Szoros munka a rendszergazdával.
+Elvárások
+Szakirányú informatikai végzettség vagy releváns szakmai tapasztalat.
+Legalább 3 év tapasztalat MySQL / Maria DB / Galera Cluster / PostgreSQL adatbázisok adminisztrációjában.
+SQL
+nyelv mélyreható ismerete.
+Tapasztalat mentési és magas rendelkezésre állású (HA) megoldásokban.
+Középfokú
+angol nyelvtudás
+(szakmai dokumentációk megértéséhez).
+Proaktív szemlélet és precíz, önálló munkavégzés.
+Előnyt jelent
+Felhő alapú adatbázis-kezelési tapasztalat (AWS, Azure, Google Cloud).
+Szkriptelési ismeretek (Bash, PowerShell, Python).
+NoSQL adatbázisok ismerete (pl. MongoDB).
+Amit kínálunk
+Versenyképes fizetés és juttatási csomag.
+Modern technológiai környezet és szakmai fejlődési lehetőség (képzések, vizsgák támogatása).
+Stabil háttér és támogató csapat.
+Céginformáció
+A LogBord 2010 Kft. egy dinamikusan fejlődő, információ technológiai területen tevékenykedő vállalat. Csapatunk bővítéséhez keressük elkötelezett és tapasztalt Adatbázis Adminisztrátor kollégánkat, aki biztosítja adatbázis-rendszereink stabilitását, biztonságát és optimális teljesítményét.
+Jelentkezés módja
+A "Jelentkezés" gombra kattintást követően kérem csatolja az önéletrajzát, mely tartalmazza a szakmai tapasztalatokat, valamint a végzettséget igazoló dokumentumokat.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Álláshirdetés jelentése

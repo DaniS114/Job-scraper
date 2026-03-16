@@ -1,0 +1,71 @@
+Cég neve
+Silent Signal Információbiztonsági, Informatikai Tanácsadó és Szolgáltató Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+IOS
+ANDROID
+WIFI
+WINDOWS
+LINUX
+SECURITY
+HÁLÓZATI ISMERETEK
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+IOS
+ANDROID
+WIFI
+WINDOWS
+LINUX
+SECURITY
+HÁLÓZATI
+ISMERETEK
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Komplex webapp tesztelés Burp Suite Pro-val
+Mobilapp tesztelés: iOS és Android
+Infrastruktúra és WiFi tesztelési tapasztalat
+Userland RE tapasztalat (x86/x64/ARM, Windows/Linux)
+Képes létező exploit kód értelmezésére
+Egyedi eszközöket készít a feladat automatizálása érdekében
+10% dedikált kutatási idő, közösen meghatározott célokkal: támadási technikák automatizálása, védelmi megoldások megkerülése, rejtett kommunikáció
+Elvárások
+framework-specifikus ismeretek (pl. JSF, GWT)
+Linux admin ismeretek (config, shell, jogosultsági rendszer, stb.)
+Burp Suite Pro extension írási tapasztalat
+Hálózati ismeretek (routing, iptables, tunneling lehetőségek)
+RDBMS-ek ismerete
+Kockázatértékelési rendszerek (CVSS, OWASP RRM) ismerete
+Üzemeltetői és/vagy fejlesztői tapasztalat
+FLOSS (security) projekt kontribúció
+Minősítések: OSCP/eCPPT vagy próbaidő után 1 hónapon belül sikeres vizsgát tesz
+GWAPT vagy próbaidő után 1 éven belül sikeres vizsgát tesz
+Amit kínálunk
+10% dedikált kutatási idő, közösen meghatározott célokkal
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+üzemeltetés, Telekommunikáció
+Információbiztonság
+Budapest
+Álláshirdetés jelentése

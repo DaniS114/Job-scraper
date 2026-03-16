@@ -1,0 +1,127 @@
+Cég neve
+Mercedes-Benz AG
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANALYTICS
+CLOUD
+NETWORK
+TESTING
+PYTHON
+SQL
+AWS
+AZURE
+TABLEAU
+POWERBI
+AGILE
+TROUBLESHOOTING
+DATA MANAGEMENT
+SCRUM
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANALYTICS
+CLOUD
+NETWORK
+TESTING
+PYTHON
+SQL
+AWS
+AZURE
+TABLEAU
+POWERBI
+AGILE
+TROUBLESHOOTING
+DATA
+MANAGEMENT
+SCRUM
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Are you a tech-savvy individual with a passion for software engineering and data? Do you want to gather hands-on experience at a globally renowned company that is pushing the boundaries of automotive innovation? Would you like to be the catalyst for new ideas and innovations, driving them all the way to the highway? Then join our After-Sales IT department at Mercedes-Benz!
+Who we are and what we do: We in the Team Data, Analytics & AI aim to put our customers at the center of our work. Currently, we are developing the next generation of our global parts pricing system in the cloud to natively integrate automation and data-driven decision-making processes. To that end, we are building data products through connecting various data sources as well as building state of the art cloud-based data processing pipelines. Furthermore, by harnessing data from our global workshop network, we continuously improve our customers' service experience, make strategic business decisions, and effectively steer various After-Sales processes. To make this happen, we work in self-organized, interdisciplinary, and agile teams with IT and business colleagues.
+Things you will do:
+Collaborate with cross-functional teams to define data requirements and ensure data quality
+Participate in monitoring, troubleshooting, and resolving data processing issues
+Contribute to and support our product teams in the design and development of new data products. Embrace data mesh principles to ensure data quality and smooth data exchange, thereby enhancing the underlying architecture of our data platform
+Bring in your own ideas into the design of new or improved data products and transform them into end-to-end proof-of-concept solutions in the cloud
+Contribute to the creation of comprehensive, easy-to-follow technical documentation
+Organize communication with our stakeholders and support the documentation of our data products
+Support with the management, maintenance and requirements engineering of our applications as well as create and enhance communication material
+Skills you will develop depending on your interests:
+Data Analysis Skills: Through collaboration with cross-functional teams to define data requirements, you'll sharpen your ability to evaluate and interpret complex datasets
+Problem-Solving Abilities: By monitoring, troubleshooting, and resolving data processing issues, you'll develop a keen eye for identifying problems and formulating effective solutions
+Product Development Expertise: As you contribute to and support our product teams, you'll grow your understanding of product lifecycle management, from design and development to testing and deployment
+Understanding of Data Mesh Principles: Embracing data mesh principles will allow you to gain insights into data governance, data quality assurance, and data exchange procedures, enhancing your overall knowledge of data management
+Innovation and Creativity: By bringing in your own ideas and transforming them into end-to-end proof-of-concept solutions, you'll cultivate your creative thinking and innovation skills, crucial in the field of data and software product development
+Cloud Computing Competencies: Developing proof-of-concept solutions in the cloud will help you gain experience in cloud environments and services, an essential skill in today's digital landscape
+Technical Writing Proficiency: Contributing to comprehensive, easy-to-follow technical documentation will develop your technical communication skills, aiding you in clearly conveying complex information
+The activity can begin from May 2026.
+Requirements
+Currently pursuing a bachelor's or master s degree in computer science, Information Technology, or a related field with a focus on data or software engineering. You must be enrolled as a student at least until the last planned day of your working student contract
+Strong English proficiency
+Experience with one or more programming and scripting languages (Python and SQL are of advantage, Go is a nice-to-have)
+Communication and interpersonal skills, with the ability to work well in a team as well as independently
+It helps if you are interested / have some background in:
+Knowledge of software development principles
+Data modeling, schema design, and data normalization techniques
+Experience with cloud platforms such as Amazon Web Services (AWS) or Microsoft Azure
+Understanding of cloud-based storage (e.g., S3, Azure Data Lake) and big data processing technologies (e.g., AWS Glue, Azure Data Factory, Databricks) for scalable and efficient data workflows
+First experience with agile frameworks like Scrum and knowledge of data mesh principles
+Interest in data visualization tools like Tableau, PowerBI, or Qlik
+Interest in real time data delivery technologies
+Additional Information:
+We look forward to receiving your online application, including a resume, cover letter, certificates, current certificate of enrollment stating your semester, and proof of the standard period of study. Please remember to mark your documents as "relevant for this application" in the online form and observe the maximum file size of 5 MB.
+You can find further information on the hiring criteria
+here
+.
+Severely disabled applicants and applicants with equivalent status are welcome! The representative for severely disabled employees (
+HR Services will be happy to help you with any questions you may have about the application process. You can reach us by email at
+What we offer
+Meal-Discounts
+Mobile Phone for Employees Possible
+Discounts for Employees Possible
+Annual Profit Share Possible
+Events for Employees
+Coaching
+Flextime Possible
+Hybrid Work Possible
+Health Benefits
+Company Retirement
+Mobility Offers
+Parking
+Inhouse Doctor
+Good Public Transport
+Barrier-Free Workplace
+Near-Site Childcare
+Canteen, Café
+Company info
+Life is always about becoming… Becoming means going on a journey to be the best version of our future selves. While we discover new things, we will face challenges, master them and grow beyond our individual limits.
+Apply for a job at Mercedes-Benz and find your individual role and workspace to unleash your talents to the fullest. Empowered by visionary colleagues who share the same pioneering spirit. Joining us means becoming part of a global team that aims to build the most desirable cars in the world. Together for excellence.
+Job-ID: MER0003ZB8
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

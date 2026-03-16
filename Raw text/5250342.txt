@@ -1,0 +1,109 @@
+Špecialista kybernetickej bezpečnosti - DevSecOps
+Národná agentúra pre sieťové a elektronické služby (agentúra NASES)
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 300 EUR/mesiac
+V zmysle 553/2003 Zákon o odmeňovaní niektorých zamestnancov pri výkone práce vo verejnom záujme. Výsledný plat bude predmetom osobného pohovoru a bude sa odvíjať od skúseností a odborných znalostí uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​Hľadáme skúseného DevSecOps inžiniera, ktorý sa chce podieľať na bezpečnosti na projektoch s reálnym dopadom na milióny používateľov. Budeš súčasťou tímu, ktorý nasadzuje, prevádzkuje a modernizuje kľúčové systémy verejnej správy. Ak ťa baví bezpečnosť systémov, automatizácia, cloud, kontajnery a infra ako kód, toto je miesto, kde tvoje riešenia naozaj niečo zmenia.​
+Náplň práce, právomoci a zodpovednosti
+návrh      bezpečnostnej architektúry a threat modely pre funkcionality a služby
+definovanie      bezpečnostných štandardov pre aplikácie a infraštruktúru
+dohľad      nad dodržiavanám zero-trust princípov a bezpečnostných politík
+podieľanie      sa na výbere a hodnotení bezpečnostných nástrojov (AppSec/CloudSec)
+validácia      návrhov voči bezpečnostným baseline a reguláciam (IOS, NIS2, nariadenia      EÚ, SK legislatíva)
+policy      compliance z pohľadu plnenia bezpečnostných požiadaviek
+definícia      pravidiel pre CI pipeline security gates (SAST, SCA, IaC)
+posudzovanie      implementácie modulov riešení IS NASES z hľadiska bezpečnosti
+návrh      bezpečnostného technologického riešenia aplikácií
+​
+Zamestnanecké výhody, benefity
+Čo ponúkame
+možnosť      podieľať sa na návrhu kľúčových informačných systémov štátu
+práca      na veľkých IT projektoch s dopadom na milióny používateľov
+stabilné      pracovné prostredie
+moderné      DevSecOps postupy, cloudové technológie a priestor na experimentovanie
+možnosť      odborného rastu v oblasti IT architektúry
+príspevok      zamestnávateľa do III. Piliera
+program      MultiSport - možnosť využitia MultiSport karty
+3      dni v mesiaci práca z domu
+flexibilná      pracovná doba
+Informácie o výberovom konaní
+Životopis prosím zasielať v slovenskom jazyku.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+Minimálne 3 ročná prax v IT odbore
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Odborné požiadavky
+znalosť      bezpečnostných štandardov (OWASP, ISO 27001, NIS2)
+skúsenosti      s DevSecOps a bezpečnostnou automatizáciou v CI/CD
+znalosť      cloud a kontajnerových bezpečnostných praktík (Kubernetes, OpenShift)
+schopnosť      viesť threat modeling
+komunikácia      bezpečnostných rizík voči biznis stakeholderom
+Výhodou je
+skúsenosti      s cloud alebo kontajnerovou architektúrou
+prehľad      v moderných technológiách (napr. Java, Kafka, Rabbit MQ, Camunda, frontend      technológie, SQL/NoSQL databázy, cloud platformy)
+skúsenosti      s mikroservisnou architektúrou
+skúsenosti      s modelovaním v UML, BPMN alebo ERD
+znalosť      princípov DevSecOps, CI/CD a automatizovaných pipeline
+skúsenosti      s architektúrou založenou na udalostiach (event-driven architecture),      messagingu alebo API Gateway
+znalosť      princípov orchestrácie a choreografie služieb
+skúsenosť      s nástrojmi a technológiami CI/CD nástroje, GitLab, HashiCorp Vault,      Keycloak, OpenShift, ELK, LGTM, Jira, Backstage, Kubernetes
+Osobnostné predpoklady
+bezúhonnosť
+pozitívny      prístup k riešeniu problémov
+proaktívny      prístup
+samostatnosť      a zodpovednosť
+analytické      myslenie
+precíznosť      a dôslednosť
+schopnosť      efektívne komunikovať
+schopnosť      pracovať v tíme
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Národná agentúra pre sieťové a elektronické služby (agentúra NASES) je príspevková organizácia Ministerstva investícii, regionálneho rozvoja a informatizácie.
+Medzi hlavné úlohy agentúry patrí najmä:
+Rozvoj a prevádzka centrálnej komunikačnej infraštruktúry Slovenskej republiky.
+Rozvoj a prevádzka služieb Ústredného portálu verejnej správy - slovensko.sk.
+Rozvoj a prevádzka mnohých ďalších informačných systémov verejnej správy.
+Rozvoj a prevádzka systémov informačnej bezpečnosti a systémov na ochranu kybernetického priestoru.
+Počet zamestnancov
+150-199 zamestnancov
+Kontakt
+Kontaktná osoba: Ivana Blažeková
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5250342
+Dátum zverejnenia:
+13.3.2026
+2026-03-13
+lokalita:
+Bratislava
+Pozícia:
+IT/Technical Support Specialist
+Spoločnosť:
+Národná agentúra pre sieťové a elektronické služby (agentúra NASES)
+Základná zložka mzdy (brutto):
+3 300 EUR/mesiac

@@ -1,0 +1,115 @@
+Cég neve
+Tech People Hungary Kft.
+Munkavégzés helye
+Budapest, XIII. kerület
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+BACKEND
+JAVA
+HTML
+CSS
+AZURE
+SQL
+PHP
+API
+WEBSERVICE
+FRONTEND
+ORACLE
+REST
+DOCKER
+Elvárások
+Angol alapfok
+5-10 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+BACKEND
+JAVA
+HTML
+CSS
+AZURE
+SQL
+PHP
+API
+WEBSERVICE
+FRONTEND
+ORACLE
+REST
+DOCKER
+Angol
+alapfok
+5-10
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Feladatok
+Az cég digitális fejlesztéseiben való részvétel, end to end fejlesztési feladatok megvalósítása modern és AI támogatott módszerekkel.
+Üzleti igények megvalósíthatósági elemzése, előkészítése.
+Aktív részvétel infrastruktúra és architektúra fejlesztési feladatok tervezésében és kivitelezésében.
+Együttműködés az üzemeltetést és fejlesztést támogató társterületekkel.
+AI asszisztált fejlesztési eszközök használata (pl. GitHub Copilot, ChatGPT).
+AI képességeket tartalmazó funkciók tervezése és implementálása.
+Elvárások
+Szakirányú informatikai vagy műszaki végzettség (diploma előny)
+Legalább
+5 év PHP (8.5.3) backend fejlesztési tapasztalat, Yii keretredszer ismerete
+Frontend:
+JS, HTML, CSS
+Több rétegű alkalmazások fejlesztésében szerzett tapasztalat.
+MS SQL
+ismerete.
+Jó problémamegoldó képesség, logikus gondolkodás, ügyfél‑ és szolgáltatásközpontú szemlélet,
+Önálló
+munkavégzés, pontosság, igényesség,
+proaktivitás.
+Dokumentáció szintű angol nyelvtudás.
+Nyitottság AI‑alapú fejlesztési eszközök és módszerek használatára.
+Multi cégben eltöltött tapasztalat
+Előnyt jelent
+Oracle és/vagy MS SQL adatbázisok ismerete.
+Verziókezelők (GitHub, GitLab) ismerete.
+Microsoft Azure ismerete.
+CI/CD technológiákkal kapcsolatos tapasztalat.
+Webes alkalmazások fejlesztésében szerzett gyakorlat.
+REST API webservice tapasztalat.
+Microservice
+rendszerek ismerete.
+Konténertechnológiák ismerete (Docker, Kubernetes).
+Tesztelési eszközökben való jártasság.
+AI‑modellek, AI‑szolgáltatások vagy ML‑alapismeretek
+.
+Java
+fejlesztői tapasztalat
+folyékony angol
+Amit kínálunk
+heti 40 órás, határozatlan idejű jogviszony,
+folyamatos szakmai fejlődési lehetőség, a teljesítmény elismerése,
+színvonalas, modern munkakörnyezet,
+versenyképes juttatási csomag: alapbér + bónusz + egyéb juttatások,
+egészségprogram
+sport tevékenység támogatása.
+Céginformáció
+Megbízónk, az egyik patinás hazai pénzintézet leányvállalata, a magyar lízingpiac 24 éve stabil, meghatározó szereplője, aki a jelenlegi piaci pozíció megtartásával, a meglévő gépjármű finanszírozási termékei mellett újabb lízingtermékek bevezetésével bővíti tevékenységét.
+Jelentkezés módja
+Jelentkezni lehet a lenti "Jelentkezem" gombra kattintva.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

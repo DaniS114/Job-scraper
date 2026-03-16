@@ -1,0 +1,56 @@
+Az MBH Bank Magyarország egyik vezető bankja. Stabil, hazai bank, az ország legnagyobb fiókhálózatával
+.
+Célunk, hogy
+érthető
+,
+emberközeli
+és
+szerethető
+élménnyé tegyük a bankolást, miközben támogatjuk közel 2 millió ügyfelünket, hogy tudatosan és magabiztosan kezeljék pénzügyeiket.
+Miben számíthatsz ránk?
+Fontos számunkra, hogy kollégáink minden élethelyzetére megfelelő választ találjunk, hogy tudják, számítunk rájuk és ők is számíthatnak ránk.
+Ezért különösen büszkék vagyunk a generációs sokszínűségi stratégiánkra, amely a pályakezdőktől a családalapító fiatalokon át a 60 év feletti korosztályig egyedi igényeknek megfelelő megoldásokat kínál, így képzési és készségfejlesztési palettát, közösségi élményeket és személyre szabott juttatásokat.
+Milyen feladatokban számítunk rád?
+RedHat Linux infrastruktúra üzemeltetése, támogatási feladatok ellátása, erőforráskezelés, jogosultságok beállítása, monitoring és logelemzések készítése
+Gyártói támogatókkal való kapcsolattartás angol nyelven
+Problémák forrásainak gyors feltárása és azok megoldására kerülőutak javaslata
+Ticketing rendszerbe érkező feladatok megoldása SLA betartásával; Kanban feladatok
+Kritikus Unix (Linux/Solaris/AIX) platformok frissítéseinek kezelése, tervezése, koordinálása
+Aktív részvétel új üzleti rendszerek bevezetésében - IT infrastruktúra kialakítás, konfigurálás, dokumentáció
+ITIL alapú működés: változás-, incidens-, problémakezelési folyamat támogatása és végrehajtása, ticketing alapú feladatkezelés
+7x24-es rendelkezésre állású rendszerek folyamatos üzemeltetése, munkaidőn kívüli készenléttel
+DR feladatokban való részvétel
+Tudásátadás, üzemeltetési ismeretek megosztása közvetlen kollégákkal
+Agilis szemléletű üzemeltetési feladatok Kanban módszertan szerint feladat owner megoldása
+Jira napi szintű használata, feladat- és projekt időkönyvelés
+Együttműködés társterületekkel (infra architect, Linux fejlesztés)
+Üzemeltetést támogató scriptek érte
+lmezése, használata, javítása, írása Python/Shell/Ansible nyelveken
+Milyen tudásra és tapasztalatra lesz szükséged?
+Felsőfokú informatikai végzettség/RHCE/RHCSA vizsga
+Legalább 3 év RedHat alapú Linux környezetben szerzett tapasztalat
+Shell/Ansible scriptek értelmezésében és írásában való jártasság
+Rendszer telepítésekben, frissítésekben, beállításokban, performance tuningban és hibakeresésben való gyakorlati tapasztalat
+Operációs rendszer problémáiból adódó helyreállítási feladatok megoldásában való gyakorlat
+Tapasztalat feladatok külső támogatók felé való kommunikációjában, figyelemmel kísérésében és lezárásában
+Angol nyelv magabiztos használata főként írásban
+Pontosság, precizitás
+Csapatmunkában történő aktív munkavégzés
+Önálló feladat megoldási képesség
+Előnyt jelent:
+Banki tapasztalat
+Oracle Solaris: LDOMs, ZFS file systems,live migration, Zone ismeret
+IBM AIX: PowerHA, LPAR, migration
+VMware vCenter felhasználói ismeretek, snapshot, network, disk kezelés, performancia elemzés
+Red Hat Ansible Automation Platform, Ansible tower rendszerismeret
+Python ismeret
+Virtualizációban szerzett tapasztalat, KVM, Openshift
+Miben számíthatsz még ránk?
+Széles körű sportolási támogatást nyújtunk
+Komplex juttatási csomaggal rendelkezünk
+Home office lehetőséget biztosítunk
+Szupercsapatként működünk együtt
+Kíváncsiak vagyunk ötleteidre és teret adunk a megvalósításukhoz
+Generációs sokszínűségi stratégia: Start+, Bébi+, Aktív+, Nagykövet
+i
+program

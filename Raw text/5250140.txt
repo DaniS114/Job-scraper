@@ -1,0 +1,102 @@
+O nás
+Voľné pozície
+Benefity
+EN
+SK
+Staň sa súčasťou tímu vizionárov
+Vytvárajme spolu budúcnosť kybernetickej bezpečnosti
+späť na voľné pracovné miesta
+C# .NET Developer
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Wage (gross)
+From 3 000 EUR/month
+Performance bonus 2 times per year up to 10% of the basic salary paid for the evaluation period (usually 6 months)
+The final basic wage component can be increased accordingly to individual skills and experience of the selected candidate.
+Contract type
+full-time
+Are you ready to take the next step in your software development journey with ESET? We’re looking for an ambitious .NET Developer with proven professional experience to join our collaborative and forward-thinking team. You’ll work on meaningful projects, contribute to high-quality solutions, and grow your expertise alongside passionate professionals.
+This role offers the chance to work with cutting-edge technologies, github copilot assistant in a supportive environment where innovation and learning are part of our everyday workflow.
+What you’ll be doing
+Collaborate with cross-functional teams to translate business requirements into scalable and impactful software solutions.
+Contribute to real-world projects using modern technologies and cloud platforms, actively shaping the product's direction and quality.
+Develop clean, efficient C# code with .NET Core, adhering to industry best practices and coding standards.
+Design and implement microservices using Kubernetes to ensure high availability, resilience, and performance.
+Build and consume RESTful APIs to support seamless integration across internal and external systems.
+Apply clean code principles and design patterns to promote long-term maintainability and flexibility.
+Deploy, monitor, and manage applications in Microsoft Azure, leveraging services such as Azure Functions, App Service, and Cosmos DB.
+Participate in Agile ceremonies including sprint planning, daily stand-ups, and retrospectives, supporting team alignment and delivery goals.
+Stay informed about new technologies and development practices, proactively sharing improvements and ideas.
+Ensure the quality of your work through testing, debugging, and careful attention to detail.
+Independently manage complex tasks while collaborating with team members on shared architecture and features.
+Contribute to documentation, test planning, and technical discussions throughout the development cycle.
+Prepare and execute unit tests, help define test scenarios and support a strong testing process.
+Communicate progress regularly, participate in planning sessions, and contribute to continuous improvement efforts.​
+This position is a maternity leave cover.
+What we’re looking for
+We’re looking for someone passionate about building practical, high-quality software with modern tools and a thoughtful approach.
+5+ years practical experience with .NET and writing clean, maintainable C# code.
+Strong understanding of object-oriented design for flexible, reliable systems.
+Experience building scalable, high-performance microservices with .NET Core.
+Confident in working with RESTful APIs and external integrations.
+Knowledge of clean code, SOLID principles, and common design patterns.
+Hands-on with Azure services (Functions, App Service, Cosmos DB) or eager to learn.
+Familiar with Agile methods like Scrum or Kanban, comfortable in iterative cycles.
+Proactive problem-solver, effective independently and in teams.
+Clear communicator able to explain ideas to technical and non-technical audiences.
+Kontaktná osoba
+Lenka Vladovičová
+Poslať životopis
+BENEFITY PRE TEBA
+Flexibilita
+Firemné podujatia
+Benefity pre celú rodinu
+Šport a zdravie Wellbeing
+A ešte viac…
+O ESETe
+Spoločnosť ESET je globálnym lídrom v oblasti digitálnej bezpečnosti a je jedným z najväčších dodávateľov bezpečnostných riešení v Európskej únii. Zároveň je najväčšou a najoceňovanejšou IT firmou na Slovensku.
+Už viac ako 30 rokov vyvíjame popredný softvér a služby zamerané na IT bezpečnosť a ochranu podnikov, kritickej infraštruktúry a domácností z celého sveta
+Neustále hľadáme nové kolegyne alebo nových kolegov, ktorí chcú byť súčasťou úspešného slovenského príbehu s globálnym dopadom. V ESET neustále dokazujeme, že špičková expertíza a inovácie vytvorené na Slovensku majú silu konkurovať najväčším hráčom v oblasti kyberbezpečnosti po celom svete. Ak chceš pracovať pre firmu, ktorá stavia na kvalite, odbornostiach a reálnom dopade svojej práce vo svete, hľadáme práve
+TEBA.
+Okrem vytvárania bezpečnostných riešení pre zákazníkov je našim cieľom aj aktívne prispievať k inovatívnej a zodpovednej spoločnosti v oblasti
+vzdelávania
+,
+vedy
+a
+výskumu
+.
+V ESETe sú diverzita, rovnosť a inklúzia (DEI) neoddeliteľnou súčasťou firemnej kultúry. Sme hrdým signatárom a ambasádorom
+Charty diverzity
+. Snažíme sa vytvárať pracovné
+prostredie
+, kde sa každý cíti cenený a rešpektovaný. S otvorenosťou vítame záujem jednotlivcov zo všetkých prostredí -  vrátane rasy, pohlavia, veku, náboženstva, zdravotného znevýhodnenia, či sexuálnej orientácie.
+Viac sa o nás dozviete na
+našej stránke
+.
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5250140
+Dátum zverejnenia:
+13.3.2026
+2026-03-13
+lokalita:
+Bratislava
+Pozícia:
+.NET Programmer
+,
+Backend developer
+,
+C# Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+ESET, spol. s r.o.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

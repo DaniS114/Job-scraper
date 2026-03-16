@@ -1,0 +1,81 @@
+Cég neve
+Total Felhő Informatikai Szolgáltató és Tanácsadó Kft.
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AWS
+CLOUD
+DOCKER
+NODE.JS
+PYTHON
+Biztosított eszközök
+Windows
+Linux
+Elvárások
+Angol középfok és
+Magyar középfok
+1-3 év tapasztalat
+Középiskola
+
+Cafeteria
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+AWS
+CLOUD
+DOCKER
+NODE.JS
+PYTHON
+Windows
+Linux
+Angol
+középfok és Magyar középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Fejlesztési folyamatok meghatározása és támogatása a projekt teljes életciklusában
+Együttműködés az ügyfelekkel a specifikációk felállításában és vállalható határidők meghatározásában
+Legalább a Python vagy Node.js programozási nyelv ismerete és alkalmazása a projektek során (főként Python)
+CI/CD-pipeline kiépítése és karbantartása
+IaC kód írása AWS rendszerekhez (CFN/Terraform)
+Konténerek (Docker) és azok AWS-ben történő koordinációja (K8s, EKS)
+AWS serverless megoldások (Lambda) ismerete és alkalmazása
+Elvárások
+Tapasztalat fejlesztési projektekben, preferáltan AWS környezetben
+Kiváló problémamegoldó készség és rugalmasság változó kihívásokra
+Csapatmunka iránti elkötelezettség és kommunikációs készség
+Proaktivitás és folyamatos tanulási hajlandóság a technológiai trendek terén
+Szükséges nyelvtudás: magyar (anyanyelv), English (professional)
+Amit kínálunk
+TC2: erős márka, bizonyított szakmai minőség
+Teljesen támogatott szakmai fejlődés: AWS Skill Builder korlátlan hozzáférés, egyéni fejlesztési terv
+Versenyképes kompenzációs csomag
+Cafeteria: egészségbiztosítás, SZÉP kártya
++1 szülinapi szabadnap (mert a pihenés is stratégia)
+Angol nyelvi fejlesztés
+Duna-parti iroda menő hangulattal, heti 1 nap irodai jelenléttel
+Céginformáció
+A TC2 az AWS Advanced Consulting és Migration Competency partnere. Ügyfeleink platformjainak migrálására, finomítására, üzemeltetésére és optimalizálására összpontosítunk, hogy minél jobban kiaknázhassák a felhőalapú számítástechnika üzleti és informatikai előnyeit.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+üzemeltetés, Telekommunikáció
+Hálózati
+és Rendszermérnök
+Regionális
+Álláshirdetés jelentése

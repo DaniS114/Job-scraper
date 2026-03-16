@@ -1,0 +1,54 @@
+Az MBH Bank Magyarország egyik vezető bankja. Stabil, hazai bank, az ország legnagyobb fiókhálózatával
+.
+Célunk, hogy
+érthető
+,
+emberközeli
+és
+szerethető
+élménnyé tegyük a bankolást, miközben támogatjuk közel 2 millió ügyfelünket, hogy tudatosan és magabiztosan kezeljék pénzügyeiket.
+Miben számíthatsz ránk?
+Fontos számunkra, hogy kollégáink minden élethelyzetére megfelelő választ találjunk, hogy tudják, számítunk rájuk és ők is számíthatnak ránk.
+Ezért különösen büszkék vagyunk a generációs sokszínűségi stratégiánkra, amely a pályakezdőktől a családalapító fiatalokon át a 60 év feletti korosztályig egyedi igényeknek megfelelő megoldásokat kínál, így képzési és készségfejlesztési palettát, közösségi élményeket és személyre szabott juttatásokat.
+Milyen feladatokban számítunk rád?
+Adatbázisok magas rendelkezésre állásának biztosítása, monitoring rendszerből érkező riasztások/hibák kezelése
+Oracle DB 11g - 19c  Real Application Cluster üzemeltetése és DBA feladatok ellátása
+Adatbázis mentések kialakítása, karbantartása, mentések ellenőrzése, visszatöltési tesztek elvégzése
+Oracle Exadata Cloud@Customer infrastruktúrán adatbázisok üzemeltetése
+Bankbiztonsági auditok való aktív részvétel, támogatása, adatszolgáltatás biztosítása
+Projektekben való szakértői részvétel, magas rendelkezésre állású rendszerek tervezése, építése és bevezetése
+Alkalmazás üzemeltetés és fejlesztői támogatás nyújtás, hibakeresés és optimalizációs javaslatok megfogalmazása, kivitelezése
+Migrációs tevékenységek támogatása, adatbázis üzemeltetési igények megfogalmazása, szabályozások betartása
+Monitoring rendszer folyamatos fejlesztése, bővítése, implementálása
+Tudásbázis folyamatos bővítése, dokumentálás
+Tesztkörnyezetek kialakítása, telepítése, karbantartása.
+Gyártókkal/szállítókkal való kapcsolattartás, szoros együttműködés társterületekkel
+Aktív részvétel új üzleti rendszerek bevezetésében – IT infrastruktúra kialakítás, konfigurálás, dokumentálás
+ITIL alapú működés: Változás-, incidens-, problémakezelési folyamatokban való részvétel, ticketing alapú feladatkezelés
+7x24 -es rendszerek üzemeltetése, készenlét biztosításával, tervezett munkaidőn kívüli feladatok végrehajtásával
+Rendszeres tudásátadás, üzemeltetési és szakmai kompetencia megosztása kollégákkal
+Milyen tudásra és tapasztalatra lesz szükséged?
+Felsőfokú szakirányú végzettség
+Legalább 5 év nagyvállalati környezetben szerzett tapasztalat magas rendelkezésre állású Oracle adatbázisok üzemeltetésében
+ITIL alapú munkavégzésben szerzett tapasztalat
+Angol nyelvtudás kommunikációs szinten írásban
+Csapatszellem, ’Take ownership’ szemléletmód
+Agilis hozzáállás, rugalmasság, terhelhetőség
+Előnyt jelent:
+Magas rendelkezésre állású környezetben szerzett üzemeltetési tapasztalat
+RMAN ismeret
+Oracle Exadata Cloud@Customer infrastruktúra üzemeltetésben szerzett tapasztalat
+Oracle felhőszolgáltatásban szerzett tapasztalat
+Oracle RAC, Data Guard, ASM ismeretek (11g-19c)
+Oracle Entreprise Manager Cloud Control ismerete
+Oracle Certified Associate vagy Oracle Certified. Professional minősítés
+Egyéb Oracle termékek ismerete (Oracle VM, Cloud Control, Streams, Golden Gate)
+Postgre ismeretek
+TCP/IP hálózat ismeret
+Miben számíthatsz még ránk?
+Komplex juttatási csomaggal rendelkezünk
+Home office lehetőséget biztosítunk
+Széles körű sportolási támogatást nyújtunk
+Szupercsapatként működünk együtt
+Kíváncsiak vagyunk ötleteidre és teret adunk a megvalósításukhoz
+Generációs sokszínűségi stratégia: Start+, Bébi+, Aktív+, Nagyköveti program

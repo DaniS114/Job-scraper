@@ -1,0 +1,102 @@
+IT Automation Tester
+MicroStep - HDO s.r.o.
+Miesto práce
+Vajnorská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+ASAP, resp. podľa dohody
+Mzdové podmienky (brutto)
+Od 1 700 EUR/mesiac
+upresnenie mzdy bude predmetom pracovného pohovoru, plat prispôsobíme seniorite
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Chceš zmeniť svet a pomôcť budovať ekologickejšiu a efektívnejšiu energetiku? Si na správnom mieste.
+Naša firma poskytuje riešenia v oblasti informačných systémov v energetike.
+Sme mladý dynamický kolektív pracujúci v malých tímoch podľa metodiky SCRUM.
+Potrebujeme rozšíriť náš tím o IT Testera.
+Naše systémy potrebujú pravidelné a časté aktualizácie, preto je pre nás dôležité vykonávať automatizované testovanie našich modulov. Potrebujeme človeka, ktorý vie písať automatizované testovacie scenáre pre REST-ové služby prípadne priamo pre GUI. Pre testovanie používame nástroje ako Postman, TestCafe ale aj priamo testy písane v prostredí Microsoft .NET. Ak máš skúsenosti s inými nástrojmi a chceš v nich pokračovať, nebudeme ti brániť. Radi sa učíme nové veci a dúfame že ty tiež.
+Naše systémy prevádzkujeme priamo u zákazníkov, ale aj v Amazone (AWS) prípadne Microsoft Azure. Používam nástroje ako Jenkins, Docker or Kubernetes. Ak tieto nástroje nepoznáš nemusíš sa báť, u nás ťa ich naučíme používať. Pracujeme tiež s SQL databázami ako Oracle, PostreSQL a preto by bolo dobré aby si mal aspoň základy SQL.
+Práca je vhodná aj popri štúdiu.
+Zamestnanecké výhody, benefity
+Zaujímavá práca na významných projektoch pre veľkých zákazníkov v oblasti energetiky
+Zázemie stabilnej spoločnosti
+Odborné vzdelávanie, osobný a profesionálny rozvoj
+Motivujúce odmeny
+Pohyblivá pracovná doba
+Možnosť práce z domu
+Výborný tím po odbornej i ľudskej stránke
+Silný sociálny program (šport, kultúra a pod.)
+Výučba anglického jazyka v priestoroch spoločnosti
+Informácie o výberovom konaní
+Skúsenosti s deployom aplikácií – výhodou
+Skúsenosti s nástrojmi pre automatické testovanie - výhodou
+Znalosť ľubovoľného programovacieho jazyka  - výhodou
+Analytické myslenie
+Chuť učiť sa nové veci
+Predpokladaný termín ukončenia výberového konania
+30.3.2026
+(ostáva ešte 13 dní)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+Vzdelanie v odbore
+technické, elektrotechnické
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+SQL - Základy
+HTML - Základy
+Počet rokov praxe
+1
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Samostatnosť
+Zmysel pre detail
+Schopnosť učiť sa nové veci
+Schopnosť pracovať s dokumentáciou a návodmi v anglickom jazyku
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme stabilnou a neustále sa rozvíjajúcou spoločnosťou, ktorá sa od roku 1993 venuje energetike a priemyselnej automatizácii. Počas troch dekád pôsobenia na trhu sme získali desiatky spokojných zákazníkov.
+V súčasnosti sa sústredíme predovšetkým na vývoj softvérových riešení  a informačných technológií pre obchodníkov a distribútorov s elektrickou energiou, plynom a inými komoditami.
+Naše aplikácie a technológie využívajú všetky slovenské aj české distribučné spoločnosti.
+Staňte sa súčasťou našej spoločnosti aj vy. Pridajte sa k viac ako 70 spokojným zamestnancom. Starajte sa spolu s nami o pohodlie a spokojnosť našich zákazníkov.
+Dôvody, prečo sa pridať k nám:
+Žiadna nuda: Práca na významných projektoch pre veľkých zákazníkov v oblasti energetiky je každodennou výzvou
+Vždy sme tu pre vás: Získate zázemie stabilnej spoločnosti a zohratý tím
+Osobný a profesijný rozvoj: Vďaka pravidelnému odbornému vzdelávaniu
+Nočná sova aj ranné vtáča: Pohyblivá pracovná doba vám poskytuje flexibilitu
+Ešte sme neskončili...
+Okrem toho sa môžete tešiť na zaujímavý sociálny program, ktorého súčasťou sú športové (Multisport karta) či kultúrne podujatia.
+Cítite, že vaša angličtina by mohla byť ešte lepšia? Ďalší dôvod pridať sa k nám. Naši zamestnanci môžu využiť výučbu anglického jazyka priamo v priestoroch spoločnosti.
+Viac o tom, čo robíme, sa môžeš dozvedieť tu: https://www.microstep-hdo.sk/#co-robime
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Katarína Pršová
+Tel.:
++421905811890
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5251091
+Dátum zverejnenia:
+16.3.2026
+2026-03-16
+lokalita:
+Bratislava
+Pozícia:
+IT tester
+Spoločnosť:
+MicroStep - HDO s.r.o.
+Základná zložka mzdy (brutto):
+1 700 EUR/mesiac

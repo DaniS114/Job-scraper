@@ -1,0 +1,25 @@
+A Siemens Mobility Kft. K+F központjában, a XI. kerületi Infoparkban olyan projekteken dolgozunk, melyek biztosítják a zavartalan, fenntartható, megbízható és biztonságos közlekedést.
+Diákközösségünkről: A Siemens Mobility Kft.-nél a munka nem csak szakmai tapasztalat! Diákként egy támogató közösség tagja lehetsz, részt vehetsz közös programokon, ahol élményeket szerezhetsz és új barátokra lelhetsz. Csatlakozz a Siemens Mobility-s diákcsapathoz, ahol a fejlődés és a jó hangulat kéz a kézben jár! Ha szeretnél többet megtudni a diákok életéről a Siemens Mobility Kft.-nél, kattints a linkre:
+[Kattintson a weboldal linkjének megjelenítéséhez]
+www.siemens.hu/mobility/karrier/diakok
+.
+•Dokumentumok automatizált feldolgozása (PDF, Word, képformátumok).
+•Szövegek elemzése, strukturálása és értelmezése NLP technikákkal.
+•LLM alapú feldolgozó pipeline-ok építése és tesztelése (promptok, hívások, workflow-k).
+•Adatkinyerési, kategorizálási és analitikai feladatok megoldása.
+•Chatbot logika és alapvető dialógusrendszerek fejlesztése.
+•Egyszerűbb AI eszközök, prototípusok és belső demók készítése.
+•Csapatmunkában való részvétel, dokumentálás és kísérletezés új technológiákkal.
+•Aktív nappali tagozatos jogviszony
+•Magabiztos kommunikáció angol nyelven
+•Python ismerete (alapszintű, de magabiztos használat).
+•Használtál már LLM API kat (OpenAI / Azure OpenAI / Claude stb.).
+•Alapvető tapasztalat dokumentumok feldolgozásában (PDF parsolás, OCR technikák, szövegkinyerés)
+•Nyitottság új AI eszközök, library-k kipróbálására.
+•Önállóság, problémamegoldás, kísérletező hozzáállás.
+Egyéb:
+•Német nyelv ismerete elöny
+•Hetente 1 nap irodai jelenlét.
+Bérezés:
+2900 Ft/óra
+Munkalehetőség 17 év feletti nappali tagozatos jogviszonnyal rendelkező diákok részére!

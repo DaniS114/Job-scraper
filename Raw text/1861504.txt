@@ -1,0 +1,55 @@
+Az MBH Bank Magyarország egyik vezető bankja. Stabil, hazai bank, az ország legnagyobb fiókhálózatával
+.
+Célunk, hogy
+érthető
+,
+emberközeli
+és
+szerethető
+élménnyé tegyük a bankolást, miközben támogatjuk közel 2 millió ügyfelünket, hogy tudatosan és magabiztosan kezeljék pénzügyeiket.
+Miben számíthatsz ránk?
+Fontos számunkra, hogy kollégáink minden élethelyzetére megfelelő választ találjunk, hogy tudják, számítunk rájuk és ők is számíthatnak ránk.
+Ezért különösen büszkék vagyunk a generációs sokszínűségi stratégiánkra, amely a pályakezdőktől a családalapító fiatalokon át a 60 év feletti korosztályig egyedi igényeknek megfelelő megoldásokat kínál, így képzési és készségfejlesztési palettát, közösségi élményeket és személyre szabott juttatásokat.
+Milyen feladatokban számítunk rád?
+Arksys rendszer komponenseinek napi szintű ellenőrzése és ezek során feltárt hibák javítása, problémák megoldás
+Arksys szerver karbantartások: archiválások, purgálások futtatása, AS/400 szerveren kiadott tanúsítványok ellenőrzése, megújítása
+Incidensek kezelése, részvétel hibák feltárásában, hibák elhárítása
+Ügyfélreklamációk tranzakció szintű kivizsgálása
+Verzióváltások, paraméter- és adatmódosítások végrehajtása
+Arksys adatbázisból banki kérésre ad-hoc riportok készítése
+Arksys terminal user adminisztráció
+Felhasználók (különösen operátorok) alkalmazás szintű támogatása
+Adatfeldolgozás koordinálása
+Fejlesztésekben, projektekben bankkártya és AS/400 üzemeltetési szakértői támogatás nyújtása
+Egyes interface-ek és feldolgozást vezérlő batch programok készítése, karbantartása
+Archiv adatok visszakeresése pl. hatósági megkeresésekhez
+Arksys rendszer alap infrastruktúra elemeinek (OS, WAS GUI, MIMIX ha megoldás, BRMS mentési rendszer) karbantartása, konfigurálása, szoftver frissítésének (PTF) végrehajtása
+Power10 Arksys partíciók konfigurálása, együttműködés hardver hibák feltárásában, elhárításában
+Bankkártya Készítő Rendszerhez Állami Nyomda, Idemia felé interface üzemeltetése
+Arksys tesztrendszerekben a fentieken kívül még további napi rendszeres feladatok: dátum ellenőrzése, szükség esetén beállítása, kérésre teszt klíring állományok betöltése
+Arksys tesztrendszer építése
+Visa Edit Package (Visa elszámolási rendszer) éles és teszt alkalmazás szakértői támogatása, alkalmazás szintű paraméterezése
+NCR ATM Connections alkalmazásban incidensek kivizsgálása, megoldása, valamint verzióváltások, és ATM reklámkép csere végrehajtása
+Milyen tudásra és tapasztalatra lesz szükséged?
+Középfokú informatikai végzettség
+Bankkártya üzemeltetésen szerzett minimum 3 év tapasztalat
+Angol nyelv szakmai szintű ismerete
+Arksys rendszer
+és AS/400 környezet ismerete
+Jó problémamegoldó képesség
+Önálló munkavégzésre való készség
+Kiváló kommunikációs készség
+Alaposság, precizitás
+Előnyt jelent
+SQL (DB2/400 SQL)
+Mimix ismeret
+OS/400 operációs rendszer ismeret (V7R4) beleértve hálózati és RMS mentés ismeret
+MQ V7R3 ismeret
+ILE RPG, CL programnyelvek ismerete
+Miben számíthatsz még ránk?
+Komplex juttatási csomaggal rendelkezünk
+Home office lehetőséget biztosítunk
+Széles körű sportolási támogatást nyújtunk
+Szupercsapatként működünk együtt
+Kíváncsiak vagyunk ötleteidre és teret adunk a megvalósításukhoz
+Generációs sokszínűségi stratégia: Start+, Bébi+, Aktív+, Nagyköveti program

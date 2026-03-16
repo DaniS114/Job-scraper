@@ -1,0 +1,100 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior DevOps Engineer + 3 000 € Sign‑On Bonus - Senior customer facing position for Industrial AI Cloud
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+NVIDIA and Deutsche Telekom are jointly developing industrial AI cloud for Europe. This AI factory in Germany will host 10,000 GPUs across NVIDIA DGX B200 systems and RTX Pro Servers. Deutsche Telekom provides secure, sovereign and fast infrastructure, including data centers, operations, security, and AI solutions.
+Role Overview:
+DevOps Engineer (Senior) / AI Consultant Customer Facing Engineer you will guide enterprise customers through onboarding, training, and early adoption of the AI platform.
+Your responsibility includes understanding customer requirements, supporting solution design, executing Proofs of Concept (PoCs), and ensuring smooth integration of customer workloads (LLMs, GPU compute, AI pipelines). You act as a trusted technical advisor, helping customers efficiently use their GPU clusters and AI toolchains.
+What will you do?
+Consult customers on all technical aspects related to GPU infrastructure, AI/ML model training, and platform usage.
+Lead onboarding and training, mentoring customer specialists on optimal usage of their GPU clusters and AI environments.
+Design and implement PoCs, including environment setup, data processing pipelines, and deployment workflows.
+Conduct requirement engineering, translating business needs into technical specifications.
+Assist customers with performance optimization, troubleshooting, fine‑tuning, and validation of delivered solutions.
+Act as the key technical point of contact, coordinating cross‑functional teams across infrastructure, networking, automation, security, and AI services.
+Propose and develop automation concepts to improve services, processes, and operating models.
+Ensure best practices in reliability, scalability, responsible AI, and security are applied across the customer lifecycle.
+Support monitoring, observability, and capacity planning for AI workloads and GPU utilization.
+You will succeed if you:
+Technical Background
+Master’s degree in information technology, Computer Engineering, Applied AI, or related field.
+Strong knowledge of NVIDIA GPUaccelerated platforms (DGX, B200, RTX Pro Servers).
+Experience running and training selfhosted LLMs, including model finetuning and inference optimization.
+Handson experience with Slurm, Run:AI, or other GPU workload schedulers.
+Advanced Linux administration skills.
+Solid understanding of Kubernetes and containerized AI workflows.
+Proficiency in scripting (Python, Bash) for automation, data manipulation, and tooling.
+Experience with Infrastructure as Code (Ansible, Terraform, Helm).
+Knowledge of SoftwareDefined Networking (SDN) and highperformance network architectures.
+Experience with monitoring and visualization tools (Prometheus, Grafana, Alert manager).
+Experience working with Data Engineering/Transformation/Migration tools and pipelines.
+Highly Valuable Knowledge (AISpecific)
+Understanding of LLM architectures, embeddings, and vector databases.
+Familiarity with RAG pipelines, model evaluation, and prompt engineering.
+Knowledge of responsible AI practices (security, governance, compliance).
+Experience with AI/ML frameworks: PyTorch, TensorFlow, Hugging Face, Triton Inference Server.
+Soft Skills & Other Requirements
+English (C1) is required; German is an advantage.
+Strong customerfacing communication skills, both technical and nontechnical.
+Experience with requirement engineering (basic).
+Experience with software testing, quality assurance, and validation (intermediate).
+Analytical mindset, problemsolving skills, structured approach to troubleshooting.
+Ability to work independently as well as coordinate with cross-functional teams.
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 600 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Dana Dráčová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5250019
+Dátum zverejnenia:
+13.3.2026
+2026-03-13
+lokalita:
+Košice region
+Pozícia:
+Software Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 600 EUR/month

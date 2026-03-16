@@ -1,0 +1,79 @@
+Cég neve
+SAP SE
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+SECURITY
+CLOUD
+JAVASCRIPT
+DEVOPS
+@SAP.
+AGILE
+Elvárások
+Angol felsőfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+SECURITY
+CLOUD
+JAVASCRIPT
+DEVOPS
+@SAP.
+AGILE
+Angol
+felsőfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+As a full stack developer, you will design and develop solutions for SAP's most critical technical challenges. Working within an agile development team, you will have the opportunity to utilize state-of-the-art technology to address these challenges. We expect you to collaborate closely within the team while also being able to work on topics independently. Moreover, we expect enthusiasm for learning about new technologies and evaluating how they can contribute within the context of our applications.
+In addition to our internal offering, Deploy with Confidence, we are open sourcing parts of our toolset. As part of ApeiroRA, we are building an open-source reference architecture that strengthens Europe's digital sovereignty. This initiative is part of a broader movement to ensure security, sustainability, and compliance for cloud-to-edge computing. By joining us, you'll contribute to a project that's not just technical, it's strategic for Europe's future.
+Requirements
+Excellent degree in computer science, software engineering, or a related field (Bachelor's/Master's)
+Fluency in English (written and verbal)
+Good knowledge of JavaScript/TypeScript, Go, or other modern programming languages.
+Basic knowledge of cloud-native technologies and CI/CD principles
+Eagerness to continually learn about novel technologies in the context of cloud-native engineering, distributed systems, and DevOps
+What we offer
+What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+We win with inclusionSAP's culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team:
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 448635 | Work Area: Software-Design und Entwicklung | Expected Travel: 0 - 10% | Career Status: Berufserfahren | Employment Type: Part-Time, or Vollzeit, unbefristet | Additional Locations: Potsdam
+Company info
+We help the world run better
+At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong.
+This is growth, not replacement. We're not just offering a job, we're inviting you to shape the future of cloud-native infrastructure at SAP and in all of Europe. Make your mark, invite others, and discover #SAPEUAICloudCareers. Let's build what's next, together.
+We, the Deploy with Confidence team, are seeking a talented associate full stack developer with excellent knowledge in Node.js, JavaScript/TypeScript and/or Go. If you are interested in using the latest concepts of cloud development, such as microservices, Kubernetes, and service mesh, this is your opportunity to make a significant impact at SAP.
+Meet your team:
+Deploy with Confidence (DwC) is an integrated toolchain for feature-driven development of microservice-based SAP SaaS applications. The capabilities DwC provides include, but are not limited to, feature toggle management, tenant lifecycle management, and true-zero downtime deployment. Additionally, DwC offers benefits such as numerous inner source contributions, and it serves as an integral part of the BTP Developer's Guide. Currently, 55+ cloud applications use DwC. Our open source offering is called “Konfidence” and will be released later this year.
+The DwC team is a place where you can make an impact that matters. Your work will influence not only SAP but also Europe's digital future. We support each other, we push boundaries together, and we never stop exploring what's next.
+We are extremely proud of what we have built, and we would like you to be part of this journey. We're not just another project; we are the backbone of SAP's cloud-native software lifecycle management and soon also open source.
+#SAPEUAICloudCareers, #SAPORACareers
+Bring out your bestSAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

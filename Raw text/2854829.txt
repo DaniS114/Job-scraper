@@ -1,0 +1,96 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+AWS
+TESTING
+SECURITY
+DEVOPS
+DOCKER
+SQL
+POSTGRESQL
+NOSQL
+DATABASES
+API
+.C.
+ACCESS
+DEBUGGING
+AGILE
+REST
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+AWS
+TESTING
+SECURITY
+DEVOPS
+DOCKER
+SQL
+POSTGRESQL
+NOSQL
+DATABASES
+API
+.C.
+ACCESS
+DEBUGGING
+AGILE
+REST
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design and own secure, scalable services, guiding technical decisions and evaluating trade-offs (including AI-driven components) to meet reliability, performance, and cost goals.
+Leverage AI tools to accelerate coding, debugging, testing, and prototyping, while rigorously validating outputs to ensure quality and safety.
+Advise on appropriate AI use (model concepts, prompt patterns, ethical/privacy considerations), embed monitoring and compliance checks into workflows, and document residual risks and mitigations.
+Coach peers on engineering best practices and AI-augmented approaches; partner with Product, Security, DevOps, and other teams to align on features, deployment, and compliance.
+Scout and pilot emerging tools or frameworks (including AI toolchains), integrate automated governance checks into pipelines, and enhance observability and incident response with an eye on productivity, cost, and resilience.
+Requirements
+5-7 years of professional software engineering in an agile environment, delivering secure, scalable services.
+Understands high-level LLM concepts (e.g., hallucinations, prompt sensitivity) and safe vs. unsafe AI use cases.
+Experienced in using AI tools to accelerate coding, debugging, testing, and prototyping, with critical review of outputs.
+Strong experience with Python and common libs, and hands-on AWS serverless patterns.
+Familiar with ethical/cost risks (bias, privacy, vendor lock-in) and embeds basic compliance checks into workflows.
+Comfortable with infrastructure as code (CDK/Terraform), containerization (Docker), CI/CD pipelines, and monitoring tools.
+Experience with SQL (PostgreSQL) and/or NoSQL databases; able to design and optimize schemas for performance.
+Applies security best practices in code and deployments (e.g., IAM, secrets management) and reviews AI-assisted suggestions for safety.
+Strong communication of technical and AI-related concepts to diverse stakeholders.
+Proven ability to mentor or guide peers on engineering best practices and AI-augmented workflows.
+Experience with REST API
+What we offer
+Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients.
+We care about our people. Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs to name a few.
+We have teams all over the world. We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney.
+Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding.
+Hybrid work model with expectation to work onsite at least 50% of the time if within commuting distance to an office location.
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

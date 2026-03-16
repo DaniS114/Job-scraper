@@ -1,0 +1,59 @@
+Cég neve
+NVIDIA Hungary Kft.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Biztosított eszközök
+Linux
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Egyetem
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+Linux
+Angol
+középfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Build and implement dataflow pipelines and streaming architectures in FPGA or programmable logic.
+Develop host-side software, drivers, and runtimes that collaborate with FPGA and accelerator hardware (e.g. PCIe, DMA, VFIO).
+Partner with compiler and hardware groups to allocate dataflow graphs onto hardware resources; improve latency, processing efficiency, and area/utilization.
+Build and maintain hardware–software co-design flows: from high-level dataflow specs to synthesis, place-and-route, and validation.
+Build tooling and methodologies for debugging, profiling, and validating dataflow behavior in hardware; participate in design reviews and cross-team alignment across EMEA and globally.
+Requirements
+BS or higher degree or equivalent experience in CS/EE/CE with more than 5 years in FPGA development, hardware dataflow, or hardware/software co-design.
+Hands-on experience with RTL/HDL (Verilog, VHDL) or high-level synthesis (HLS); ability to build and debug dataflow-style pipelines in hardware.
+Solid programming abilities in C/C++ for host drivers, runtimes, or tooling; familiarity with hardware interfaces (e.g. PCIe, DMA, memory-mapped I/O).
+Proven understanding of dataflow and streaming concepts: pipelining, backpressure, buffering, and resource/area trade-offs.
+Familiarity with FPGA toolchains (synthesis, P&R, timing closure) and with Linux, scripting, and version control.
+Excellent communication in English; ability to work with distributed teams.
+Nice-to-have
+Experience working with FPGA dataflow for machine learning inference, networking, or high-throughput streaming (e.g. Xilinx/AMD, Intel FPGA)., VFIO, SR-IOV, or other pass through/virtualization for accelerators; low-level driver or BSP development., ASIC or custom-silicon dataflow build; RTL develop for dataflow or network-on-chip (NoC)., Background in compiler backends or HLS that targets FPGAs; MLIR or IR-level optimization for hardware mapping., Experience with multi-FPGA or FPGA–GPU systems; distributed dataflow across programmable logic and accelerators.
+What we offer
+Full time position
+Locations: Netherlands, Remote UK, Remote Hungary, Remote
+Company info
+NVIDIA is the world leader in accelerated computing.
+NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Manufacturing,
+Production
+Automatization
+Regionális
+Álláshirdetés jelentése

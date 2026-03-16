@@ -1,0 +1,99 @@
+Cég neve
+SICPA
+Munkavégzés helye
+Av. de Florissant 41, 1008 Prilly
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+JAVA
+SELENIUM
+POSTMAN
+GIT.
+JIRA.
+AUTOMATED TESTS
+TEST AUTOMATION
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+JAVA
+SELENIUM
+POSTMAN
+GIT.
+JIRA.
+AUTOMATED
+TESTS
+TEST
+AUTOMATION
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Test Lead
+SICPA is a Swiss private technology company that supports the effective governance and long-term prosperity of nations. SICPA sets the pulse of sovereignty, enabling governments and institutions to authenticate and secure their vital assets. Our platform for sovereignty delivers custom solutions built on a century of cutting-edge innovations in material, digital, and data science domains. At the center of every SICPA solution is a custom crafted molecule, unique to each nation. Acting as a single source of truth, these unique markers are deployed across the full value chain to generate actionable and trustworthy insights in real time. Best known for securing the majority of the world's banknotes. With operations across five continents, today our platform for sovereignty delivers integrated solutions safeguarding revenue mobilisation, natural resources, health, and brand protection as well as digital sovereignty and secure public services.
+Test Lead
+As Test Lead, you are an integral part of the software development teams working very closely with software engineers but also part of the SQC community of practice (around 30 people worldwide), contributing to global change via community initiatives and putting your skills and experience at the service of other Test Leads as well as benefitting from their support and from continuous learning and exchanges.
+ROLE
+As part of the team and if the community:
+Ensure that software development teams apply the Testing Methodology (SOP)
+Collaborate with software development teams to ensure product and solution quality at every stage of the development process.
+Test continuously the solution to detect bugs as soon as possible
+Review product design documentation to ensure that the requirements stated are correct, unambiguous and verifiable
+Define test plans, design test cases, execute and create test reports to describe programme evaluation, testing and correction
+Report bugs according to guidelines, make sure that the defect tracking system is always updated
+Use quality and tracking tools to trace the progress of the job Jira.
+Maintain effective communication with assigned projects and development teams
+Ensure all automated tests integrate with continuous integration and delivery processes.
+Test automation skills (Java/Selenium or playwright/Postman)
+Monitor regularly the automation results and diagnose the failures.
+Automate the test cases and maintain the automation updated.
+As project/product test lead:
+Define and maintain test strategy
+Identify areas for improvement in test processes and propose solutions to increase efficiency and quality
+Provide Management with a valid and unambiguous status of the project from a quality point of view
+Analyze time required and project impact based on time and test coverage estimation
+Ensure that Quality gates (unit test, quality code, etc) are implemented.
+PROFILE
+Demonstrated experience in Test automation (preference with Java + Playwright or selenium) and manual testing
+Experience with GIT.
+Experience testing microseriveces
+Minimum 5 years in solution quality assurance role
+Experience/Knowledge in version control and release management is a plus
+Bachelor's degree in engineering, science or information technology or equivalent education
+Certified ISQTB
+Logical, precise, with strong analytical and problem solving skills
+Results oriented, goal driven personality
+Ability to prioritize and work independently
+Coordination, communication and reporting skills
+Self-starter highly organized and works well with all functional levels in the organization
+Fluent in English
+JOIN US !
+Join a global leader in trust technologies with a mission that matters.
+Be at the strategic heart of a financially sound and innovation-driven company.
+Collaborate with high-level experts and work on impactful international projects.
+Operate in a multi-cultural, high-integrity environment where autonomy and ownership are encouraged.
+We offer an exciting and challenging role, with great potential for personal development within a unique organization in a fascinating and fast-growing industry. Your file will be handled with upmost confidentiality and discretion. jidbf13ce5pn jit0312pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Project
+Management
+Switzerland
+Álláshirdetés jelentése

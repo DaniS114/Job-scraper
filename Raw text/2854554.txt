@@ -1,0 +1,88 @@
+Cég neve
+SAP SE
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+CLOUD
+LINUX
+@SAP.
+PROJECT MANAGEMENT
+AGILE
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+CLOUD
+LINUX
+@SAP.
+PROJECT
+MANAGEMENT
+AGILE
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+What you'll do:
+The Role:
+Maintain and prioritize product backlog and breakdown business requirements to EPICs, User Stories and issues
+Bridge disciplines - think like a product manager, act like an engineer. You translate between users, clients, and your team to ensure real needs are met.
+Facilitate communication between technical and non-technical groups, bridging gaps and driving collaborative problem-solving.
+Monitor and report on progress of the project, proactively identify risks, and implement solutions to keep initiatives on track.
+Build a public community and maintain our public website.
+Ensure that the project contribute to the long-term goals of digital sovereignty and cloud-native innovation in Europe.
+Requirements
+Strong background in product/project management methodologies and agile software engineering; proven experience either as project manager or (technical) product owner.
+Exceptional communication and stakeholder management skills in German and English, both written and verbal
+Experienced with using GitHub for the product backlog prioritization.
+Good technical understanding of Linux Systems, Kubernetes, open-source projects and cloud technologies and hands-on experience in any programming language is beneficial.
+A degree in Computer Science, Information Technology, or a related field, or equivalent work experience.
+What we offer
+What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+We are a team of builders, innovators, and collaborators. Our culture is rooted in openness and trust. We believe the best ideas come from diverse perspectives, and we create space for every voice to be heard.
+We thrive on curiosity and continuous learning. This is a place where you can make an impact that matters. Your work will influence not only SAP but also Europe's digital future. We support each other, push boundaries together, and we never stop exploring what's next.
+We are extremely proud of what we have built, and we would like you to be part of this journey. We're not just another project; we are the backbone of SAP's cloud-native infrastructure and a leading open-source solution trusted across industries.
+#SAPEUAICloudCareers, #SAPORACareers
+We win with inclusionSAP's culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team:
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 448835 | Work Area: Software-Design und Entwicklung | Expected Travel: 0 - 10% | Career Status: Berufserfahren | Employment Type: Part-Time, or Vollzeit, unbefristet | Additional Locations: Munich/Garching #LI-Hybrid
+Company info
+We help the world run better
+At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong.
+Summary:
+This is growth, not replacement. We're not just offering a job; we're inviting you to shape the future of cloud-native infrastructure at SAP and in all of Europe. We have committed to open source by donating our projects into the neutral NeoNephos foundation. Make your mark, invite others, and discover #SAPEUAICloudCareers. Let's build what's next, together. Gardener, Garden Linux, Cloud Orchestrator, and
+Garden Linux powers SAP's global infrastructure as foundation for countless enterprise workloads at SAP. The mission of the Project is to develop and maintain, a minimal, purpose-built operating system environment designed for containerized and cloud-native infrastructure. Garden Linux provides a small, secure, and largely immutable runtime optimized for Kubernetes platforms such as Gardener, while also supporting use as a container base image or standalone system.
+This role is focused on managing and prioritizing the product backlog by breaking down business requirements into actionable work items while acting as a liaison between users, clients, and technical teams to ensure true needs are addressed. Additionally, the role includes building and maintaining a public community and website to engage stakeholders.
+We're building ApeiroRA, an open-source reference architecture that strengthens Europe's digital sovereignty. This initiative is part of a broader movement to ensure security, sustainability, and compliance for cloud-to-edge computing. By joining us, you'll contribute to a project that's not just technical, it's strategic for Europe's future.
+Meet your team:
+Bring out your bestSAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

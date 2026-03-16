@@ -1,0 +1,159 @@
+SAP Basis Delivery Lead (L3) - S/4HANA, SAP PO, FIORI
+NATEK SLOVAKIA, s.r.o.
+Place of work
+Remote work
+Contract type
+full-time, trade licence
+Start date
+April/May 2026
+Wage (gross)
+2 800 EUR/month
+Offered salary is based on relevant work experience and can be higher than stated minimum.
+B2B - from 200 EUR MD rate
+Information about the position
+Job description, responsibilities and duties
+We are looking for an experienced
+SAP Basis Delivery Lead
+to support and lead technical SAP Basis operations in complex enterprise environments. The role focuses on
+ensuring stability, security, and performance of SAP landscapes
+, including
+S/4HANA environments
+, while providing
+L3 technical expertise and leadership
+.
+The ideal candidate has strong experience in
+SAP NetWeaver administration, SAP Basis operations, SAP security fundamentals, and SAP HANA database environments
+, with the ability to support mission-critical systems and coordinate technical delivery activities.
+Start date:
+immediately
+Cooperation:
+long term, COW (TPP) or B2B - (freelancing)
+Working model:
+fully remote
+Key Responsibilities
+Incident, Problem, Operations, Service Level, and Change Management, providing
+L3 technical support
+and leadership in complex SAP environments.
+Ensures smooth
+SAP R/3 and S/4HANA system
+and database operations, including installation, upgrades, monitoring, troubleshooting, and performance optimization.
+Performs database refreshes, system copies, and backup/recovery management to maintain business continuity.
+Extensive hands-on experience with SAP Basis administration across
+SAP ECC, S/4HANA, SAP PO, and SAP FIORI
+environments.
+Skilled in DB MS administration, particularly SAP HANA and Oracle.
+Strong background in SAP implementation and migration projects from a SAP Basis perspective.
+Proficient in performance tuning and system monitoring, ensuring optimal system response and stability.
+Manages
+SAP security topics
+, including certificate lifecycle management, renewals, private/public key handling, and SAP Security Notes.
+Advanced operating system administration across
+Linux, UNIX, AIX, and Windows
+environments with a good understanding of network fundamentals.
+Experienced in shell scripting and automation of operational and monitoring tasks.
+Utilizes tools such as ServiceNow (SNOW) and SAP Focused Run (FRUN) for proactive monitoring, incident management, and reporting.
+​
+Employee perks, benefits
+• Internal Mobility Program – enjoy many opportunities for career growth, job rotations, diversity of projects & technologies
+• International, diverse, and inclusive working environment – get experience in global projects for worldwide leaders and enjoy multinational teams
+• Referral Program – enjoy cooperation with your colleagues and get the bonus!
+• 5/10 years NATEK club – we offer long term cooperation and celebrate each fifth year cooperation anniversary with gifts
+• NATEK CSR Events & team buildings – enjoy our values: accountability, partnership and expertise and #workITwithus
+• Education – benefit from our know how, learning courses and certificates and IT events – be part of community of leaders of the industry and take part as a speaker or a visitor
+• Bonuses for Personal Events – we congratulate you important events of your life: giving birth to children, university graduation, etc.
+• Benefit Plus (Cafeteria) – use our e-shop with corporate benefits like travel, theater tickets, books etc.
+• Additional Medical health care – on top of standard health insurance
+• Multisport Club Card
+• Technical and Personal training – we are investing in your skills growthLanguage courses
+• 1 paid day off for volunteering – we are supportive in all charity ideas
+• Meal contribution/ food vouchers
+Requirements for the employee
+Candidates with education suit the position
+Follow-up/Higher Professional Education
+University student
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Other knowledge
+SAP Basis - Advanced
+Linux OS - Advanced
+SAP HANA - Advanced
+Oracle Database administration - Advanced
+SAP S/4 HANA - Advanced
+SAP MaxDB - Skillful
+Oracle Database - Skillful
+SAP PO - Basic
+SAP Fiori - Basic
+SAP Security - Basic
+Experience in the position/sector
+SAP Basis Administrator
+Number of years of experience
+5
+Personality requirements and skills
+Requirements:
+Strong
+SAP Basis (L3) hands-on experience
+SAP:
+S/4HANA, SAP PO, SAP FIORI
+SAP Security:
+certificate lifecycle (renewals), private/public keys, SAP Security Notes
+DB:
+SAP HANA
+Nice to Have:
+SAP BTP, Kubernetes / Containers, EIC / AEM, Redis, PostgreSQL
+Technical Experience & Skills
+SAP Basis & NetWeaver
+SAP NetWeaver administration:
+Installations, Add-on implementations, Patching via SUM / SPAM, System refreshes and client copies.
+SAP Basis operations:
+Kernel upgrades, Database upgrades, Performance tuning and troubleshooting, STMS issue resolution, SPAD printing configuration, Backup and restore activities).
+Upgrades & Migrations
+EHP upgrades / SPS patching
+across: ERP, BW, APO, SCM, SRM, NetWeaver, Java systems;
+SAP migrations (homogeneous & heterogeneous).
+Experience with various SAP systems, applications, and services.
+Database & OS
+DBMS administration: (
+SAP HANA, Oracle, MaxDB);
+Database patching, upgrades, and basic administration.
+OS-level administration related to SAP:
+Linux, Unix, AIX, Windows;
+Solid understanding of
+network fundamentals.
+Advertiser
+Brief description of the company
+Join one of the most sought-after companies that specialize in IT outsourcing business.
+Building on our shared company values – accountability, expertise and partnership - NATEK's mission is to deliver high quality IT outsourcing and consulting services in the CEE region. Since 2004, our employees have been participating projects for our partners from all over the world   in the most important sectors, including finance and insurance, telecommunications, and IT infrastructure. NATEK has offices in Poland, Bulgaria, the Czech Republic and Slovakia, and thanks to a team of over 700 experts, including project managers, programmers and administrators, we are able to effectively support our partners.
+Number of employees
+500-999 employees
+Contact
+Contact person: Michaela Kovacova
+E-mail:
+send CV
+All company jobs
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5249995
+Dátum zverejnenia:
+13.3.2026
+2026-03-13
+lokalita:
+Remote work
+Pozícia:
+Database Administrator
+,
+IT Consultant
+,
+IT System Administrator
+,
+Systems Engineer
+Spoločnosť:
+NATEK SLOVAKIA, s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/month

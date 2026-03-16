@@ -1,0 +1,55 @@
+Partnerünk, a
+Molaris Kft.
+, amely 2006 óta nyújt komplex IT szolgáltatásokat, tapasztalt szakembereket biztosít ügyfelei számára a teljes IT infrastruktúra életciklusában – a tervezéstől az üzemeltetésig.
+Banki mobilalkalmazások fejlesztésén dolgoznál egy tapasztalt squadban, valódi technikai hatással – modern Swift stack, stabil nagyvállalati háttér, hosszú távú projekt.
+Jelenleg
+banki környezetben
+megvalósuló projektjükhöz keresnek új kollégát az alábbi pozícióba:
+SENIOR iOS FEJLESZTŐ (Foundation terület)
+Feladataid lesznek:
+iOS alkalmazások fejlesztése Swift nyelven banki környezetben
+Modern iOS architektúrák alkalmazása és továbbfejlesztése
+UI komponensek fejlesztése SwiftUI és UIKit használatával
+Együttműködés fejlesztői és üzleti csapatokkal egy 6–8 fős fejlesztői squadban
+Verziókezelési és release folyamatok kezelése
+CI/CD pipeline-ok használata és fejlesztési folyamatok támogatása
+Feladatok kezelése Jira alapú rendszerekben
+Téged keresnek, ha:
+Legalább 3 év tapasztalattal rendelkezel Swift alapú iOS fejlesztésben
+Van banki vagy pénzintézeti fejlesztési tapasztalatod
+Felsőfokú informatikai vagy gazdasági végzettséged van
+Magabiztosan használod a SwiftUI és UIKit technológiákat
+Van tapasztalatod reactive programmingben (RxSwift, Combine)
+Jól ismered az iOS architektúrális és UI design patternöket (MVVM, MVP, MVC)
+Magabiztosan használod a Git verziókezelő rendszert
+Van tapasztalatod Jira alapú task management rendszerekkel
+Otthonosan kezeled a CI/CD folyamatokat és build pipeline-okat
+Legalább olvasási és írási szintű angol nyelvtudással rendelkezel
+Előnyt jelent:
+Tapasztalat GraphQL API integrációval
+Agilis csapatban szerzett fejlesztési tapasztalat
+Mobile release pipeline eszközök ismerete (CocoaPods, Swift Package Manager)
+Mock framework használatában való jártasság (pl. SwiftyMocky)
+Amit a szerep kínál:
+Valódi technikai hatás banki mobilalkalmazások fejlesztésében
+Változatos feladatok modern iOS technológiákkal
+Stabil nagyvállalati háttér, hosszú távú projekt
+Tapasztalt, 6–8 fős fejlesztői squad
+3 nap home office hetente
+Önállóság a technikai megoldások kialakításában
+Versenyképes kompenzáció
+Egészségbiztosítás (Molaris munkavállalók számára)
+Munkaidő:
+hétfőtől-péntekig 9:00–17:00 között
+Munkavégzés helye:
+Budapest, Váci úti iroda – heti 3 nap office
+Jelentkezés:
+Kérjük, küldd el magyar nyelvű szakmai önéletrajzodat a
+„JELENTKEZÉS"
+gombra kattintva.
+A kiválasztási folyamatról:
+A jelentkezéseket önéletrajz alapján értékeljük. Az alkalmas jelöltekkel rövid telefonos egyeztetésre kerül sor, ahol pontosítjuk a szakmai tapasztalatot és a motivációt.
+A jelentkezéssel elfogadod a Beck and Partners Kft.
+[Kattintson a weboldal linkjének megjelenítéséhez]
+adatvédelmi tájékoztatóját
+.

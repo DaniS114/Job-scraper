@@ -1,0 +1,83 @@
+Cég neve
+Circonomit GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+GIT
+CLOUD
+DATABASES
+SPARK
+APACHE
+BACKEND
+AWS
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+GIT
+CLOUD
+DATABASES
+SPARK
+APACHE
+BACKEND
+AWS
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+As a Data Platform Engineer, you will work side-by-side with our CTO and bridge the gap between raw infrastructure and semantic reasoning, architecting the data lineage and metadata models that serve as the foundation for our mathematical computation engine. Join our nerdy, fast-paced team to build the semantic structures that make our mission possible.
+Architect and build the high-performance backbone of our data platform
+Focus on distributed computing stability and building effective caching strategies for large-scale operations
+Design ETL pipelines and architect resilient caching for complex dependency resolutions
+Extensive practical experience with ELT/ETL processes, data integration platforms, and related tools such as Apache Spark, Apache Flink, Python/Scala
+Establish data lineage and metadata modeling infrastructure that serves as stable foundation and common platform for both semantic interpretation and mathematical computation
+Integrate and extend our data platform with graph-based reasoning capabilities, leveraging knowledge graph APIs and git-based workflows to enable collaborative data modeling
+Partner closely with our CTO and product team to drive the architectural vision of our semantic engine
+Requirements
+5+ years of experience building data platforms, data infrastructure, or backend systems with focus on data-intensive operations, preferably in a startup or fast-paced environment
+GitHub or portfolio showcasing your data engineering capabilities, demonstrating work on distributed systems, orchestration frameworks, or complex data pipelines
+Deep expertise in Python for production data systems and proficiency in TypeScript for building data APIs and integration layers
+A proactive, curious, and independent working style with a strong sense of ownership and a bias for action
+Hands-on experience with cloud infrastructure (AWS, Cloudflare, or similar)
+Familiarity with graph databases, semantic modeling, or knowledge graphs (Neo4j, JanusGraph, RDF/OWL, or similar)
+Experience with data operating systems and Graph APIs, along with a strong adherence to Git-based workflows is a significant plus
+English and German proficiency at C1 level or higher
+Already living in or willing to relocate to Cologne, Germany
+What we offer
+You join as part of the core team to shape the technical foundation and story of our company
+We empower you with ownership and decision-making authority to build, test, and lead starting day one
+We ensure you have skin in the game by offering both a competitive salary and a significant equity package
+We fully cover your Urban Sports Club membership because we believe that high performance relies on active recovery
+You have the space to learn and progress quickly, encouraged by the contagious curiosity and ambition of our team
+Can't wait to chat!
+“Hustle the day, analyse at night, reinforce something outstanding” Period.
+Erik & Dana
+Company info
+At Circonomit, we follow the mission to build the strategic twin of organizations. By transforming operational data into clear impact models, we revolutionize how resources are managed.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése
