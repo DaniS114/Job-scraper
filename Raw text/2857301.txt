@@ -1,0 +1,86 @@
+Cég neve
+Deutsches Krebsforschungszentrum DKFZ
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+R
+BASH
+ACCESS
+DATABASES
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+R
+BASH
+ACCESS
+DATABASES
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+We are looking for a data scientist / bioinformatician:
+to generate and harmonize user-friendly, standardized data analysis pipelines for a variety of computational tasks, including, but not limited to, mutation calling, bulk and single-cell RNA-seq analysis, ChIP-seq / Cut&Run analysis, CRISPR screen analysis, and DNA barcoding analysis,
+to perform large-scale data integration of single-cell RNA-seq datasets and generate user-friendly applications for data exploration,
+to perform data analysis derived from diverse scientific topics in collaboration with PhD students and postdocs,
+to train students and postdocs in basic data analysis pipeline implementation and bioinformatics workflows.
+Requirements
+Master's or PhD degree in
+bioinformatics, computational biology, statistics, computer science, physics, molecular biotechnology,
+or a related discipline
+Prior bioinformatics training in transcriptomics, epigenomics, and/or genomics
+Strong analytical skills, as well as broad experience with scripting languages (e.g., Python, R, Bash); knowledge of common bioinformatics software and access to databases are essential
+Basic understanding of biology
+Proficient in English; German is not required
+Collaborative, communicative, ambitious, datail-oriented, curious, and organized, as well as the ability to work in a multidisciplinary international team is expected
+Professional time management
+Please submit your curriculum vitae, master's and/or doctoral degree certificates, a letter of motivation, and contact information of 2 references via the DKFZ application portal. Applications sent by email cannot be considered.
+What we offer
+Excellent framework conditions: state-of-the-art equipment and oppor­tunities for inter­national networking at the highest level
+30 days of vacation per year
+Flexible working hours
+Remuneration according to TV-L incl. occupational pension plan and capital-forming payments
+Possibility of part-time work
+Family-friendly working environ­ment
+Sustainable travel to work: subsidized Germany job ticket
+Unleash your full potential: targeted offers for your personal develop­ment promote your talents
+Our Corporate Health Manage­ment Program offers a holistic approach to your well-being
+Company info
+The German Cancer Research Center (DKFZ) is one of Europe's largest cancer research centers. “Research for a life without cancer" is the mission of our world-class scientists and all our team members.
+The DKFZ is a place where the brightest minds pursue bold ideas and seek answers to pioneering scientific questions through collaboration, innovation, and exploration across many disciplines. We provide a dynamic environment which empowers excellence with state-of-the-art technologies, cutting edge infrastructure, and a global scientific network.
+Contribute your knowledge, vision, and dedication to create a space where scientific discovery in cancer research is transformed into benefits for human health.
+The Division of
+Soft-Tissue Sarcoma
+at DKFZ applies cutting-edge technology to study and dissect the underlying molecular mechanisms in many types of soft-tissue sarcomas, where chromosomal translocations generate fusion oncoproteins that serve as drivers of the disease. By combining a toolbox consisting of CRISPR/Cas9, RNAi technology, cellular barcoding, and mouse modeling tools, our goal is to systematically address key genetic and epigenetic mechanisms in the pathobiology of pediatric sarcomas.
+To strengthen our team, we are seeking for the next possible date a
+Research / Data Scientist in Bioinformatics
+.
+Reference number: 2026-0048
+Your work will focus on bioinformatic analyses of transcriptomic, genomic, and epigenomic data of single-cell and bulk datasets, derived from various projects within the lab. Methodologies used in our laboratory include, but are not limited to, whole genome sequencing, RNA-seq, ChIP-seq, Cut&Run, cellular barcoding, and single-cell transcriptomics. Our goal is to comprehensively study the impact of gene fusions and other genetic drivers in sarcomagenesis, uncover specific vulnerabilities they create, and ultimately aim at maximizing the potential for rapid clinical translation.
+You will work in an international, highly collaborative environment with PhD students and postdoctoral researchers and be embedded in the vibrant research ecosystem of the Hopp Children's Cancer Center Heidelberg (KiTZ).
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,117 @@
+Geospatial Infrastructure Engineer
+LUTRA CONSULTING SK s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, živnosť
+Termín nástupu
+Ihneď
+Mzdové podmienky (brutto)
+Od 2 200 EUR/mesiac
+Uvedená suma v inzeráte je orientačným základom. Finálna výška odmeny závisí od vašich technických zručností, predošlej praxe v oblasti infraštruktúry, open-source GIS a miery samostatnosti. Sme otvorení diskusii so skúsenými seniormi, ktorých expertízu vieme náležite oceniť.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Vašou hlavnou úlohou bude správa a rozvoj technologického zázemia pre open-source GIS riešenia. Budete kľúčovým človekom zodpovedným za to, aby infraštruktúra našich globálnych klientov bežala hladko, bezpečne a efektívne.
+Vašou každodennou agendou bude:
+Správa infraštruktúry:
+Inštalácia, konfigurácia a údržba geopriestorových platforiem (Mergin Maps, GeoServer, PostGIS).
+Windows Server administrácia:
+Správa a optimalizácia služieb v podnikovom prostredí Windows.
+Prevádzka aplikácií:
+Dohľad nad stabilitou a riešenie problémov (troubleshooting) serverových aplikácií postavených napr. na Jave (napr. GeoServer).
+Migračné projekty:
+Technická asistencia pri prechode klientov z uzavretých (proprietárnych) systémov na moderný open-source GIS stack.
+Optimalizácia výkonu:
+Monitorovanie systémov, ladenie výkonu databáz (PostgreSQL/PostGIS) a operačná podpora.
+Automatizácia:
+Vývoj skriptov a nástrojov, ktoré zefektívnia migráciu dát a rutinné prevádzkové procesy.
+Štandardizácia:
+Spolupráca s vývojovými tímami na zavádzaní a zjednocovaní osvedčených postupov (best practices) pri nasadzovaní softvéru.
+Viac na: https://www.lutraconsulting.co.uk/vacancies#geospatial-infrastructure-engineer
+Zamestnanecké výhody, benefity
+V Lutra Consulting veríme, že spokojný expert potrebuje slobodu a priestor na rast. Našim kolegom preto ponúkame:
+100 % Remote spolupráca:
+Pracujte odkiaľkoľvek, kde máte stabilné pripojenie. Sme plne distribuovaný tím bez nutnosti dochádzať do kancelárie. Avšak aj možnosť robiť kancelárie v Bratislave
+Maximálna flexibilita:
+Prispôsobte si pracovný deň svojim potrebám. Ponúkame flexibilný pracovný čas a v prípade záujmu aj možnosť práce na
+skrátený úväzok
+.
+Pravidelné stretnutia tímu:
+Hoci pracujeme na diaľku, pravidelne sa stretávame na spoločných výjazdoch v rámci Európy, aby sme utužili tím a zdieľali nápady osobne.
+Expertné prostredie:
+Staňte sa súčasťou komunity, ktorá vyvíja svetovo uznávané nástroje (QGIS, Mergin Maps). Budete pracovať s poprednými odborníkmi v oblasti open-source GIS.
+Osobný a profesijný rozvoj:
+Podporujeme kontinuálne vzdelávanie, účasť na konferenciách a rozširovanie vašej expertízy v najnovších technológiách.
+Kultúra bez zbytočnej byrokracie:
+U nás nájdete neformálne a priateľské prostredie, kde sa cení iniciatíva, otvorená komunikácia a výsledky
+Konkurencieschopné platové ohodnotenie:
+Férový plat, ktorý reflektuje vašu senioritu a prínos pre náš tím.
+Informácie o výberovom konaní
+1. Zaslanie prihlášky
+Svoj životopis, prosím, zasielajte v anglickom jazyku na e-mailovú adresu: vacancies@lutraconsulting.co.uk.
+2. Spätná väzba
+Všetky doručené životopisy starostlivo posúdime. Zvyčajne sa vám ozveme s vyjadrením do niekoľkých pracovných dní.
+3. HR rozhovor (online)
+Ak váš profil zodpovedá našim požiadavkám, pozveme vás na krátke virtuálne stretnutie. Cieľom je vzájomne sa spoznať a zistiť, či sú naše očakávania a vaše predstavy v súlade.
+4. Technický pohovor
+V ďalšom kroku vás čaká rozhovor s naším technickým tímom. Budeme sa rozprávať o vašich predchádzajúcich skúsenostiach, projektoch a o tom, ako by ste pristupovali k úlohám v rámci našej infraštruktúry.
+5. Pracovná ponuka
+Ak zistíme, že sme pre seba „tí praví“, pripravíme pre vás formálnu ponuku a prediskutujeme ďalšie kroky vášho nástupu do nášho remote tímu.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+PostgreSQL - Pokročilý
+Administrácia Windows serverov - Pokročilý
+GIS - Základy
+Python - Mierne pokročilý
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Osobnostné predpoklady:
+Proaktívny prístup:
+Schopnosť samostatne identifikovať problémy a navrhovať efektívne riešenia.
+Analytické myslenie:
+Logický prístup k odstraňovaniu technických chýb (troubleshooting).
+Chuť učiť sa:
+Svet GIS a open-source sa rýchlo mení, hľadáme niekoho, koho baví neustály odborný rast.
+Zodpovednosť a disciplína:
+Spoľahlivosť a dobrý time-management.
+Záujem o Open-source (GIS)/technológie:
+Nadšenie pre otvorený softvér a chuť prispievať k jeho adopcii vo svete.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+V Lutra Consulting sa dlhodobo venujeme podpore QGIS a presadzovaniu open source technológií vo svete GIS. Naše súčasné úsilie sa sústreďuje najmä na vývoj vlastnej platformy Mergin Maps a ekosystému QGIS. Popri vývoji zároveň poskytujeme odbornú podporu a školenia pre komplexné open source GIS riešenia
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Peter Petrík
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253944
+Dátum zverejnenia:
+20.3.2026
+2026-03-20
+lokalita:
+Práca z domu
+Pozícia:
+Databázový administrátor
+,
+DevOps Engineer
+,
+Systémový administrátor
+Spoločnosť:
+LUTRA CONSULTING SK s. r. o.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

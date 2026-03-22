@@ -1,0 +1,83 @@
+QA Automation Tester
+BILLDU LTD, organizačná zložka
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Dohodou
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Billdu je slovenská SaaS firma so zákazníkmi najmä v USA, UK, Austrálii a v západnej Európe. Sme malý, produktovo orientovaný tím 24 ľudí based na Slovensku. Robíme produkt, ktorý ľuďom každý deň šetrí čas a chceme, aby bol spoľahlivý aj pri rýchlom tempe vývoja.
+Teraz chceme posunúť QA na ďalšiu úroveň. Máme niekoľko mobilných appiek a zároveň staviame nový web, preto potrebujeme automatizáciu, ktorá dáva zmysel, má dopad a dá sa dlhodobo udržať. Hľadáme človeka, ktorý prevezme ownership a nastaví nové štandardy.
+Čo budeš teda robiť?
+Budeš budovať a rozvíjať automatizačné testovanie pre mobilné appky aj nový web
+Pomôžeš nastaviť stratégiu automatizácie: čo automatizovať, v akom poradí a kde to prinesie najväčšiu hodnotu
+Nastavíš štruktúru testov a QA štandardy tak, aby bola automatizácia stabilná a udržateľná
+Budeš zlepšovať celkovú "release confidence"
+Pokryješ aj API testovanie a podporíš end to end scenáre naprieč produktom
+Budeš úzko spolupracovať s vývojármi a produktom na zlepšení testability a release procesu.
+Zamestnanecké výhody, benefity
+Pridáš sa k tímu, ktorý stojí za globálnym produktom a jednou z najúspešnejších success story zo Slovenska
+Ponúkame ti stabilné pracovné miesto s možnosťou čiastočnej práce z domu.
+Spravodlivé odmeny, príspevok na hardvér a vzdelávanie.
+Máme prostredie, kde môžeš naplno využívať svoj potenciál, s podporou na ďalšie vzdelávanie a neustály rozvoj.
+Dostaneš Multisport kartičku na športové aktivity a relax.
+Budeš mať k dispozícii Game room, silent room, relax zone a mnoho ďalších vychytávok pre tvoje pohodlie.
+Budeš mať prístup k Udemy a dostaneš Blinkist premium account.
+Budeš mať prístup do Hedepy zóny a nárok na jednu terapiu mesačne.
+A veľa teambuildingových aktivít ;)
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Čo od teba potrebujeme?
+Máš reálnu skúsenosť s QA automation a vieš samostatne navrhovať aj budovať automatizované testy tak, aby boli stabilné a dlhodobo udržateľné
+Máš skúsenosť s automatizovaným testovaním mobilných aj webových appiek
+Vieš testovať aj API vrstvu a rozmýšľaš nad produktom end to end
+Rozumieš základom kvalitného testovania, vieš si určiť priority a automatizuješ to, čo naozaj prináša hodnotu
+Vieš prevziať ownership nad svojou oblasťou a dotiahnuť veci od návrhu až po funkčné riešenie
+Dokážeš spolupracovať s developermi a produktovým tímom tak, aby sa kvalita riešila priebežne, nie až na konci
+Vieš komunikovať jasne, pomenovať riziká a navrhovať praktické riešenia
+Technologicky ti bude blízke niečo z tohto:
+Appium, Cypress, Postman alebo podobné
+Výhodou je, ak máš skúsenosť aj s týmto:
+nastavovanie a spúšťanie testov v CI/CD
+budovanie QA štandardov
+návrh test stratégie pre rastúci produkt
+monitoring kvality po release
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Ak si sa dostal/a až sem, určite si si nás už vygooglil/a, ale v skratke sme aplikácia pre malých podnikateľov, ktorá im pomáha rýchlo a jednoducho vystavovať faktúry, sledovať výdavky, komunikovať so zákazníkmi a mať prehľad o svojom podnikaní kedykoľvek a odkiaľkoľvek. Nie sme korporát - veci testujeme, zlepšujeme a hýbeme dopredu rýchlym tempom. Hľadáme ľudí, ktorí sú „makers“ - chcú sa učiť, navrhovať a robiť zmysluplné veci.
+Chceš vedieť viac? Stiahni si našu appku a vyskúšaj si ju na vlastnej koži.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: HR
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5251609
+Dátum zverejnenia:
+16.3.2026
+2026-03-16
+lokalita:
+Bratislava
+Pozícia:
+Automatizovaný IT tester
+Spoločnosť:
+BILLDU LTD, organizačná zložka
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

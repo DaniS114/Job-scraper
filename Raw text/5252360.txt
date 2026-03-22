@@ -1,0 +1,148 @@
+UI Developer - Air Traffic Management (Voice Communication System) - PRAHA
+High Tech Engineering Center SK s. r. o.
+Miesto práce
+Evropská 2758, Praha 6, Česko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+Od 60 000 Kč/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Baví tě
+Java a grafické rozhraní
+? Zajímá tě
+letectví
+? Chceš pracovat na
+softwaru, který každý den pomáhá řídit letový provoz a používají ho dispečeři po celém světě
+? Pak čti dál.
+Proč je tato práce výjimečná?
+Nejde o běžnou business aplikaci.
+Budeš pracovat na
+dlouhodobém mezinárodním projektu
+, který má
+reálný dopad na bezpečnost letecké dopravy
+. Software, na jehož vývoji se budeš podílet, běží
+v ostrém provozu
+a pomáhá řídit letový provoz v prostředí, kde
+kvalita, spolehlivost a stabilita kódu
+opravdu rozhodují.
+Každá nová funkce, každé zlepšení i každý detail grafického rozhraní pomáhá lidem, kteří každý den zajišťují
+bezpečný a plynulý pohyb letadel ve vzduchu
+.
+Tvoje práce tak nebude jen dalším řádkem v backlogu – bude součástí systému, na který se spoléhá
+reálný provoz letecké dopravy po celém světě
+.
+Co Tě čeká?
+Vývoj robustní desktopové aplikace (tlustý klient) s napojením na mikroservisní backend
+Vývoj a vylepšování grafického uživatelského rozhraní (GUI) v JavaFX
+Spolupráce na vývoji konfigurátoru UI (JavaScript / React)
+Práce v agilním týmu - interaktivní vývoj, sprinty a průběžná zpětná vazba
+Úzká spolupráce s mezinárodním týmem v Praze, Plzni, Bratislavě a Vídni
+Co je must have?
+3+ roky zkušeností s Java / JavaFX (medior / senior)
+Praxe s tvorbou desktopových UI aplikací
+Komunikativní úroveň angličtiny pro bezproblémovou spolupráci s týmem a zahraničním zákazníkem
+Samostatnost, schopnost týmové spolupráce a zájem o bezpečnost kritických systémů
+Co je nice to have?
+Zkušenosti s JavaScript / React - pro konfiguraci UI
+Znalost Dockeru, Git, Jenkins CI/CD
+Znalost agilního vývoje - Scrum / SAFe, nebo alespoň zkušenost s týmovou prací
+Do you enjoy working with
+Java and graphical user interfaces
+? Are you interested in
+aviation
+? Would you like to work on
+software that helps manage air traffic every day and is used by air traffic controllers around the world
+? Then keep reading.
+Why is this role unique?
+This is not just another business application.
+You will work on a
+long-term international project
+that has a
+real impact on the safety of air transportation
+. The software you will help develop runs
+in live operations
+and supports air traffic management in an environment where
+code quality, reliability, and stability
+truly matter.
+Every new feature, every improvement, and every detail of the graphical interface helps the people who ensure the
+safe and smooth movement of aircraft in the sky every day
+.
+Your work will therefore not be just another item in the backlog – it will be part of a system that
+real-world air traffic operations rely on worldwide
+.
+What will you do?
+Develop a robust desktop application (thick client) connected to a microservices-based backend
+Develop and enhance the graphical user interface (GUI) in JavaFX
+Contribute to the development of a UI configurator (JavaScript / React)
+Work in an agile team - interactive development, sprints, and continuous feedback
+Collaborate closely with an international team based in Prague, Pilsen, Bratislava, and Vienna
+Must have
+3+ years of experience with Java / JavaFX (medior / senior)
+Experience developing desktop UI applications
+Communicative level of English for smooth collaboration with the team and international customers
+Independence, teamwork skills, and interest in safety-critical systems
+Nice to have
+Experience with JavaScript / React - for UI configuration
+Knowledge of Docker, Git, Jenkins CI/CD
+Experience with agile development - Scrum / SAFe, or at least experience working in a team environment
+Zamestnanecké výhody, benefity
+Co nabízíme?
+Možnost profesního rozvoje v oblasti bezpečnostních kritických systémů a moderního UI vývoje
+Práci v přátelském a podporujícím týmu se zázemím stabilní nadnárodní společnosti, která přitom zachovává lidský přístup
+Hybridní režim práce a flexibilní pracovní dobu
+Moderní kanceláře v budově The Blox s pestrou nabídkou restaurací a výbornou dopravní dostupností - přímo u stanice metra a tramvaje Dejvická
+Pokud do práce jezdíš autem, potěší Tě možnost parkování v budově
+25 dní dovolené
+MultiSport karta
+What do we offer?
+Opportunity for professional growth in safety-critical systems and modern UI development
+Work in a friendly and supportive team within a stable multinational company that maintains a human approach
+Hybrid work model and flexible working hours
+Modern The Blox building, featuring an interesting selection of restaurants and excellent accessibility – located right next to the Dejvická metro and tram station
+On-site parking if you commute by car
+25 days of annual leave
+MultiSport card
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme  technologická spoločnosť zaoberajúca sa inováciami a vývojom softvérových a hardvérových riešení pre oblasti zdravotníctva, telekomunikácií či automobilového a leteckého priemyslu. Veľmi úzko spolupracujeme so špičkovými technickými univerzitami a výskumnými laboratóriami v celej Európske únii.
+Naše projekty realizujeme po celom svete.
+Kontakt
+Kontaktná osoba: Lucie Kaminska
+Tel.:
++420720067440
+E-mail:
+poslať životopis
+Na to, aby ste reagovali na túto ponuku,
+nepotrebujete životopis
+. Stačí len, keď vyplníte formulár.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5252360
+Dátum zverejnenia:
+17.3.2026
+2026-03-17
+lokalita:
+Praha
+Pozícia:
+IT architekt
+,
+Solution Architect
+,
+Špecialista vývoja telekomunikačných produktov
+Spoločnosť:
+High Tech Engineering Center SK s. r. o.
+Základná zložka mzdy (brutto):
+60 000 Kč/mesiac

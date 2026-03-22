@@ -1,0 +1,161 @@
+Cég neve
+Medicontur Zrt.
+Munkavégzés helye
+Medicontur Medical Engineering Ltd. - Zsámbék, Herceghalmi út 1, 2072
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Egészségpénztár
+Cafeteria
+Lakhatási támogatás
+Munkába járás támogatás
+Egészségbiztosítás
+Sport támogatás
+Élet- és balesetbiztosítás
+Beiskolázási támogatás
+Nyugdíjpénztár
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+SQL
+POSTGRESQL
+CLOUD
+MSSQL
+ADATTÁRHÁZ
+SAP
+ERP
+ABAP
+Biztosított eszközök
+Laptop
+Mobiltelefon
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Egyetem
+'B' kat. jogosítvány
+
+Mobiltelefon
+Egészségpénztár
+Cafeteria
+Lakhatási
+támogatás
+Munkába
+járás támogatás
+Egészségbiztosítás
+Sport
+támogatás
+Élet-
+és balesetbiztosítás
+Beiskolázási
+támogatás
+Nyugdíjpénztár
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+SQL
+POSTGRESQL
+CLOUD
+MSSQL
+ADATTÁRHÁZ
+SAP
+ERP
+ABAP
+Laptop
+Mobiltelefon
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Egyetem
+'B'
+kat. jogosítvány
+
+Állás leírása
+Vállalatunkról:
+A
+Medicontur Orvostechnikai Zrt.
+egy dinamikusan növekvő, technológia-orientált középvállalat, amely szemészeti implantátumok és műtéti eszközök gyártásában vezető szerepet tölt be Európában. Zsámbéki központjában találhatóak a kutatás-fejlesztés, a gyártás, a logisztika és a minőségirányítás részlegei, míg Budapesten, Franciaországban és Csehországban lokális kereskedelmi irodát működtet. A
+Medicontur
+több mint 90 országba exportál, a legfontosabb piacai között van Németország, ahol partnercégeken keresztül jelentős a piaci részesedése.
+Fedezd fel a karrier lehetőségeket a közel 450 alkalmazottat foglalkoztató, 35 éves múltra visszatekintő és megállíthatatlanul dinamizmussal fejlődő Medicontur-nál, mely szemészeti implantátumok és műtéti eszközök gyártásában tölt be vezető szerepet Európában.
+Velünk dolgozni:
+Célunk, hogy a munkavállalók egy dinamikus környezet részesei legyenek, ahol tudásukat és tapasztalataikat egy olyan helyen kamatoztathatják, ahol az új ötletek és az egyéni meglátások mindig rengeteg teret kapnak.
+Csatlakozz hozzánk, és formáld a szemészeti innováció jövőjét, ahol a Te készségeid és ötleteid is hozzájárulnak közös víziónkhoz, az életminőség javításán keresztül.
+Milyen feladatok várnak Rád ebben a munkakörben?
+SAP HANA Cloud, SAP CX, SAP Success Factors rendszerek, valamint a kapcsolódó BTP integrációs eszközök bevezetéshez és működtetéséhez keresünk erős adatbáziskezelési tudással rendelkező kollégát a bevezetések adatmigrációs feladatainak támogatására, valamint az adatbázis rendszerek üzemeltetése során szükséges feladatok ellátására.
+Aktív részvétel az ERP rendszer átállási projektjében (IFS9 rendszerről SAP HANA Cloud-ra történő migráció).
+A meglévő IFS rendszer adatstruktúrájának feltérképezése, OpenSQL, MSSQL és PL/SQL scriptek írása az adatok kinyeréséhez, tisztításához és transzformációjához (ETL).
+Adatok előkészítése és betöltése az új
+SAP HANA Cloud
+alapú környezetbe (Migration cockpit eszközzel)
+SAP CX
+rendszer indulásával és üzemeltetésével kapcsolatos adatbázis feladatok
+Meglévő vállalati
+MSSQL
+szerver üzemeltetése, adatstruktúrák kezelése
+Együttműködés az ERP csapattal, tanácsadókkal és a társosztályokkal az adatmegfeleltetési (mapping) szabályok kidolgozásában.
+Az éles indulást követően az adatbázis integritásának folyamatos felügyelete és ellenőrzése, egyéb a rendszerek üzemeltetésével kapcsolatos feladatok.
+Rendszeres adattisztítási folyamatok (Data Cleansing) kidolgozása és futtatása a hosszú távú adatminőség biztosítása érdekében.
+A pozíció betöltéséhez elengedhetetlen:
+Magabiztos, mélyreható SQL és
+PL/SQL
+fejlesztői tudás (lekérdezések, tárolt eljárások, scriptek írása).
+SAP HANA
+adatbázis technológia ismerete és kezelésében szerzett tapasztalat.
+Legalább 2-3 év releváns tapasztalat adatbázis-menedzsment, adatmigráció vagy adattárház építés területén.
+Erős analitikus készség és rendszerszemlélet (az adatok közti összefüggések gyors átlátása).
+Precizitás és monotóniatűrés (az adatok validálása és tisztítása során).
+VSCode IDE környezet ismerete
+Előnyt jelent számunkra, de NEM feltétel:
+IFS9 vállalatirányítási rendszer adatbázis-szerkezetének ismerete.
+Tapasztalat nagyvállalati ERP bevezetési projektben, előny a SAP HANA rendszer.
+SAP modulok (pl. MM, PP, SD, FI) üzleti folyamatainak és adattábláinak ismerete.
+SAP HANA Cloud Migration cockpit ismerete, esetleges gyakorlati használata
+SAP S4 HANA ABAP Cloud környezet ismerete
+SAP S4 HANA Cloud üzleti kilépési pontjainak (BadI-k) ismerete, gyakorlati programozása
+Adatvizualizációs vagy riporting eszközök ismerete az adatminőségi mutatók visszaméréséhez.
+Kommunikációképes angol nyelvtudás.
+PostgreSQL rendszerek ismerete
+SAP BTP integrációs eszközök ismerete
+Amit kínálunk Számodra:
+Teljesítményedet az alapbér mellett számos béren kívüli juttatással ismerjük el:
+Cafetéria:
+bruttó 729.600 Ft-os éves cafetéria keret (felhasználható SZÉP kártyára, nyugdíjpénztárra, egészségpénztárra vagy Wáberer Medical magánegészségügyi szolgáltatásra)
+Bónusz:
+MRP (Munkavállalói Részesedési Program) általi évi egyszeri kifizetés
+Családi támogatás:
+bölcsődei (bruttó 300.000 Ft/év), óvodai (bruttó 150.000 Ft/év) valamint iskolakezdési támogatás (30.000 Ft/év)
+Munkába járási támogatás:
+üzemanyag-támogatás (nettó 40 Ft/km) vagy 100% utazási bérlet-támogatás formájában
+Fogászati kedvezmények
+a Medicontur munkatársai számára prémium fogászati partnerünknél
+Látás támogatás:
+2 évente támogatást vehetsz igénybe szemüvegkeret vagy kontaktlencse vásárlásakor
+Élet- és balesetbiztosítás:
+melyet minden munkavállalónkra megkötünk az Allianz Biztosítónál
+Ajánlói díj:
+„Ajánlom a barátom” ajánlói programunk keretében a sikeres ajánlásokat ajánlói díjjal honoráljuk
+All You Can Move:
+sportkártya kiváltási lehetőség
+METRO kártya:
+kedvezményes vásárlási lehetőség
+Céges rendezvények, csapatépítők
+Munkahelyi extrák
+Céges rendezvények
+Kerékpártároló
+Parkoló
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Pest
+megye
+Zsámbék
+Álláshirdetés jelentése

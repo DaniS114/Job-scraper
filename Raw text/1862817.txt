@@ -1,0 +1,34 @@
+A Magyar Posta Zrt. IT Alkalmazás Üzemeltetési Igazgatósága SAP DevOps témavezető szakértő (SAP modulgazda) (SAP logisztikai modulok - MM, SD) munkatársat keres. A Magyar Posta Zrt. szervezetében működő IT Alkalmazás Üzemeltetési Igazgatóság felel az üzleti folyamatokat támogató informatikai rendszerek stabil működéséért. A magas szintű szolgáltatás érdekében az üzleti folyamatok informatikai támogatását folyamatosan növeli, korszerű technológiák alkalmazásával biztosítja a minőségi, stabil informatikai szolgáltatásainak fenntartását. Az Igazgatóság szervezetében működő SAP DevOps csoport látja el a Magyar Posta Zrt. és leányvállalatai SAP rendszerinek üzemeltetési és fejlesztési feladatait. Sikeres tevékenységében kiemelt szerepe van a felkészült és elkötelezett munkatársak, szakértők teljesítményének.
+Főbb feladatok
+SAP logisztikai modulok üzemeltetésében és továbbfejlesztésben modulfelelősi feladatokat ellátása
+SAP logisztikai modulok modul üzemeltetése és az illetékességébe utalt logisztikai interfészek felügyelete
+Fogadja és kezeli az logisztikai modulokat érintő hibajelentéseket, problémákat, gondoskodik ezek megoldásáról, és áthidaló megoldásokat dolgoz ki ezek kezelésére, illetve javaslatokat tesz a hibakezelési folyamatok javítása érdekében
+Együttműködés a SAP logisztikai modulokat használó területekkel, felhasználók L2 szintű támogatását végzi
+Üzemeltetés körébe tartozó SAP beállítások elvégzése
+Együttműködés logisztikai modulokat érintő fejlesztések kapcsán rendszerszervezővel, IT architect-el a HLD/LLD készítésében, logisztikai modulokat érintő fejlesztési dokumentumok véleményezése, elkészült logisztikai fejlesztés üzemeltetői szintű tesztelése
+Együttműködés az informatikai szolgáltatásokban közreműködő külső és belső résztvevőkkel
+Közreműködés informatikai vészhelyzetek esetén az üzletmenet folytonosság biztosítása érdekében
+Közreműködés az SAP S/4HANA bevezetési projektben
+Munkakör betöltésének feltételei
+Felsőfokú informatikai/gazdasági/műszaki/ szakirányú végzettség és/vagy SAP területen szerzett legalább 3 év üzemeltetői/modulgazdai tapasztalat.
+Speciális szakmai ismeret: SAP logisztikai modulok (MM, SD) üzemeltetésében/fejlesztésében szerzett tapasztalat
+Jó problémamegoldási- és együttműködési készség
+Rendszerszemléletű, analitikus gondolkodásmód
+Pontos, precíz munkavégzés
+Angol nyelvű szakmai dokumentáció értelmezése
+Amit kínálunk
+Megbízható, stabil cégkörnyezet
+Szakmai kihívást jelentő, érdekes feladatok
+Hosszú távú, stabil munkalehetőség
+Szakmai fejlődési lehetőség
+S/4 HANA és FIORI szakmai kompetencia megszerzése
+Igényes munkakörnyezet, összetartó, profi csapat
+Otthoni munkavégzés lehetősége
+Munkakör betöltése során előnyt jelent
+Jártasság/ismeret az alábbi pontok valamelyikében
+beszerzési, raktározási, kiszállítási területen szerzett gyakorlati tapasztalat
+SAP rendszerek üzemeltetésében vagy DevOps működtetésében, fejlesztésében szerzett tapasztalat
+Agilis fejlesztési projektekben szerzett tapasztalat
+Angol nyelv ismerete középfokú szinten
+SAP S/4 HANA rendszer ismerete
+A jelentkező a jelentkezéssel önkéntesen hozzájárul, hogy a Magyar Posta Zrt. (Székhely: 1138 Budapest, Dunavirág utca 2-6., Cg:01-10-042463, adatvédelmi tisztviselő: adatvedelem@posta.hu) a jelentkezésben megadott adatait a meghirdetett vagy az álláspályázat időszakában felmerülő másik betölthető pozícióra alkalmas jelölt kiválasztása céljából a kiválasztási eljárás végéig kezelje. A jelentkező az adatai törlését, a hozzájárulásának visszavonását a 1540 Budapest postacímen, vagy a toborzas@posta.hu e-mail-címen kérheti. Hozzájárulásának visszavonása azonban nem érinti a visszavonás előtt folytatott adatkezelés jogszerűségét. Az adatkezelésről a további tájékoztatás elérhető a www.posta.hu Adatkezelési tájékoztató menüpontjában.

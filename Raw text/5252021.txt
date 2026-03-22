@@ -1,0 +1,115 @@
+Deutsche Telekom Services Europe Slovakia
+O nás
+Voľné pozície
+Firemná kultúra
+Benefity
+Kontakt
+Analysis
+Data Manager for HR data objects and HR Business Partner
+As member of the international master data management team of DTSE you are responsible for the implementation and governance of cross-border data management projects. You will serve as an interface between business stakeholders and IT, ensuring that HR master data is standardized, harmonized, aligned with the company’s governance principles. In this regard, you will face the following interesting tasks and challenges:
+Contract type
+full-time
+Place of work
+Bratislava, Slovak Republic
+Wage (gross)
+3 100 EUR/month
+About
+the position
+Regarding this, you will face the following interesting tasks and challenges:
+Business ownership of HR master data definitions, standards, and governance framework
+Definition, monitoring, and continuous improvement of HR data quality standards and KPIs, including reporting and initiate corrective actions
+Deliver and continuously refine the S4 HR data model concept across all master data related maintenance processes, considering end-to-end HR business processes
+Strong knowledge of HR data objects (e.g. HR Business partner, Mini master structure, Organizational management, Cost center assignment, Global employee ID concepts, employee life cycle data)
+Understanding technical setup of HR master data (ECC and S4H)
+Knowledge about S/4HANA and its integration with HR systems (Employee central), including data replication mechanisms, interfaces and integration scenarios
+Design and definition of mapping and transformation rules for HR master data between systems, including validation logics and dependency management
+Analysis of existing/legacy (ECC) master data models, harmonization and alignment to a central/template master data model (incl. validations and dependency management)
+Analysis of customer demands and proposal of standardized solutions as well as alternative solutions in consideration of best-practice approach and identification of optimization opportunities
+Strongly focussed on Data Governance
+Identification and realisation of process improvements to ensure cost reduction and increase efficiency and data quality
+Understanding dependencies across HR systems (e.g. Employee Central, SAP HCM, IAM)
+Development of concepts as basis for IT enhancements (workflows, validations, automation)
+Development of training material and conduction of in-house training on HR data management and processes
+Status reporting of your projects to management and stakeholders
+Performance of all steps of data collection, data cleansing and data harmonization with the objective of high data consistency and data quality
+Data maintenance and mass upload via different tools or similar SAP based maintenance transactions
+We work in a HYBRID STYLE of working with the possibility of working from home , but twice a week we meet in the office in Košice or Bratislava for meetings.
+The published salary is the minimum possible offer.
+The starting salary may be higher depending on the extent of fulfillment of the employee's requirements (education, language skills, required practice, personality assumptions and skills).
+What
+we expect
+Candidates with education suit the position
+Secondary with school-leaving examination
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Requirements:
+Education: University degree (Business administration/HR/IT) or similar
+Experience:
+Deep technical know-how on HR data management issues and understanding of HR data management processes.
+Experience with shared services and knowledge of current project management methodologies
+Strong experience in cross-functional projects and HR data management
+E2E process experience
+Experience with SAP (HR/FI/CO) is a must
+Language skills: English – advanced
+German – basic
+Software skills:
+SAP HR – expert
+SAP FI/CO - advanced
+MS Office – advanced
+Jira - advanced
+Experience with additional ERP systems is a plus
+Other requirements:
+Strong presentation and communication skills
+Ability to translate business requirements into data governance concepts
+High analytical and conceptual thinking capability
+Structured and solution-oriented working style
+Corporate mindset and strong service-oriented attitude
+Flexibility to travel nationally and internationally 0-25%
+Benefits
+that make you happy
+Annual bonus
+Fully paid meal vouchers
+Mobile phone also for private use
+Discounts for selected Telekom products
+Supplementary pension saving contribution
+Cafeteria system of benefits/Multisport card
+Sick days
+Sports club & Health days
+Teambuildings, summer & Christmas party
+Opportunities for career growth
+Referral program
+Flexible working time
+About
+the selection process
+We are dedicated to constantly promoting equal employment opportunities and are ready to make reasonable adjustments for applicants with disabilities. If you are interested in our job opportunity and meet our job requirements for this position, we encourage you to confidentially notify us if you need specific accommodations to ensure your full participation in our recruitment process at recruitment@telekom.com.
+Snažíme sa neustále podporovať rovnaké príležitosti v zamestnaní a sme pripravení urobiť primerané úpravy pre uchádzačov so zdravotným postihnutím. Ak máte záujem o túto pracovnú príležitosť a spĺňate požiadavky inzerovaného pracovného miesta, odporúčame vám, aby ste nám dôverne oznámili, ak potrebujete osobitné úpravy, ktoré vám zabezpečia plnohodnotnú účasť na našom náborovom procese na recruitment@telekom.com.
+Send CV
+Deutsche Telekom Services Europe Slovakia
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5252021
+Dátum zverejnenia:
+17.3.2026
+2026-03-17
+lokalita:
+Bratislava
+Pozícia:
+Database Administrator
+,
+Database Analyst
+,
+HR Generalist
+,
+Process Manager
+,
+Transmission Netw. Analysis&Development Specialist
+Spoločnosť:
+Deutsche Telekom Services Europe Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 100 EUR/month

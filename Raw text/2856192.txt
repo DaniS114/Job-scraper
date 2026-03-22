@@ -1,0 +1,69 @@
+Cég neve
+Spherea GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+What do aircraft, trains and military (air) vehicles have in common? They are equipped with increasingly complex, safety-critical electronic systems. SPHEREA's test systems ensure the mobility and safety of these complex systems even tomorrow. Would you also like to support to keep these systems safe? Then become part of our young, dynamic and excellent team.
+Motivation and Problem Statement
+Management decisions require an integrated view of operational performance and financial results. In practice, however, the reporting landscape is often fragmented: data is available in different systems but is evaluated in a function-specific and isolated manner without a company-wide, consistent link between operational key figures and financial results. As a result, cause-and-effect relationships along central business processes remain opaque, and strategic control impulses can only be derived to a limited extent. The aim of this thesis is therefore to develop an integrated performance reporting concept based on Power BI. The central challenge here is not primarily technical data integration, but rather the conceptual transfer of business processes into a control-relevant reporting logic.
+Objectives of the Bachelor's/Master's Thesis
+The objective of this master's thesis is the implementation of an integrated Power BI-based performance dashboard that establishes a consolidated management view across the organization. The thesis includes the identification and integration of relevant data sources, the development of a structured and scalable data model, and the definition of clear KPI calculation logic aligned with business objectives.
+The resulting dashboard must fulfill two essential requirements:
+It must provide a clear and structured executive-level overview of company performance.
+It must allow drill-down capabilities from aggregated KPIs down to underlying processes, enabling root-cause analysis and performance steering.
+The final outcome will be a functional and decision-oriented reporting solution that creates transparency across departments and provides a robust analytical foundation for management decisions.
+This is our offer
+Integration into our team - not just "the student".
+Insights into the processes of a medium-sized company
+Exciting and challenging tasks in a technical environment
+A growth-oriented company with attractive entry opportunities
+A mentor and individual support
+A dynamic team with an excellent working atmosphere
+A modern, attractive location with innovative laboratory and office space
+Requirements
+Study with focus on Business Science/ Business Information Systems/ Business Intelligence/ Data science / Data analytics / Statistics / or similar
+Fundamentals of data modeling/information structuring
+Advanced knowledge of data analysis and -modelling (Power B, DAX, visualization best practices)
+Basic programming skills (Excel VBA, Python, R, or comparable tools)
+Strong technical and business-oriented understanding
+Understanding of business KPIs and financial logic
+Ability to work independently and in a structured manner
+Strong analytical skills and solution-oriented mindset
+Independence and proactivity
+Ability to quickly understand complex topics
+What we offer
+Not sure if SPHEREA is right for you? Then come and observe a colleague at work and discover SPHEREA during a no-obligation trial day. Please do not hesitate to contact us to register.
+Company info
+Remove uncertainty through test!
+We are a medium-sized company for development, production and service of test systems in small and very small series. We accompany the project from the initial idea to implementation and service. In close cooperation with our customers, we develop specific, complex electronic test solutions in a safety-critical environment with 60 employees in Ulm.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Finance,
+Accounting
+Analyst,
+Advisor
+Germany
+Álláshirdetés jelentése

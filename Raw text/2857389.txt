@@ -1,0 +1,136 @@
+Cég neve
+Susonity Production GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+CLOUD
+API
+MIDDLEWARE
+TESTING
+SECURITY
+INCIDENT MANAGEMENT
+REST
+PROJECT MANAGEMENT
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+CLOUD
+API
+MIDDLEWARE
+TESTING
+SECURITY
+INCIDENT
+MANAGEMENT
+REST
+PROJECT
+MANAGEMENT
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+We are seeking an experienced
+SAP Integration Expert
+to design, implement, and optimize integration solutions that support SUSONITY's global digital ecosystem. In this role, you will be responsible for architecting end-to-end integrations across SAP and non-SAP applications, ensuring secure, scalable, and seamless data exchange.
+You will collaborate closely with cross-functional business and technical teams, translate requirements into robust integration designs, and lead the implementation of best-practice integration frameworks. The position also plays a key role in maintaining integration governance, ensuring system reliability, and driving continuous improvement to support our vision for operational excellence and innovation.
+Key Responsibilities
+Lead the design and delivery of SAP integration solutions using
+SAP Cloud Platform Integration (CPI)
+,
+API Management
+, and other middleware technologies.
+Develop integration strategies, standards, reusable components, and best-practice guidelines.
+Collaborate with functional and technical teams to identify integration points and define optimal solution architectures.
+Oversee the design and execution of
+API-based
+,
+event-driven
+, and
+cloud-to-cloud
+integrations.
+Manage integration governance, including version control, documentation, testing standards, and lifecycle management.
+Provide technical leadership through code reviews, performance optimization, and guidance to development teams.
+Support production operations, including issue resolution, monitoring, incident management, and continuous performance improvement.
+Requirements
+Strong hands-on expertise in
+SAP CPI
+,
+SAP API Management
+, and the
+SAP Cloud Integration Suite
+.
+Proven experience with
+REST
+,
+SOAP
+,
+OData
+,
+IDoc
+, and other integration protocols.
+Familiarity with
+SAP BTP
+,
+S/4HANA
+environments, and connectivity with non-SAP systems.
+Solid understanding of security standards and protocols such as
+OAuth
+,
+SAML
+,
+SSL
+, and related certificate management.
+Minimum
+8+ years
+of SAP integration experience, including at least
+3 years in a lead or architect role
+.
+SAP Integration Suite or CPI certification is highly preferred.
+Strong analytical and problem-solving capabilities, with the ability to troubleshoot complex technical issues.
+Experience with project management, integration planning, and process optimization.
+Excellent communication and collaboration skills for working with cross-functional global teams.
+Knowledge of regulatory or sustainability-related requirements is a plus.
+Bachelor's degree in Information Technology, Computer Science, Business Administration, or a related field.
+Proficiency in English; German language skills are an advantage.
+Company info
+Unleash your talent in an exciting environment of brilliance!
+Become part of a visionary team that is redefining the chemical industry with fresh ideas and brilliant, innovative solutions.
+As part of a market-leading global corporation, we radiate the energy and enthusiasm of a start-up.
+With a clear focus on high-quality
+effect pigments
+for the cosmetics, automotive, and construction industries, we offer you the opportunity to develop your skills in an inspiring environment. Our product range includes renowned brands such as
+Iriodin®
+,
+Colorstream®
+and
+Ronastar®
+.
+We respect the
+chemical collective
+agreement with fair compensation, comprehensive social benefits, and targeted personal development. Join us and shape the future of surface solutions – bring color to the world and turn your ideas into action!
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

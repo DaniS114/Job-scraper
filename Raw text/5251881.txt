@@ -1,0 +1,97 @@
+DevOps Engineer
+SourceFirst International s.r.o.
+Place of work
+Bratislava, Slovensko (Job with occasional home office)
+Contract type
+full-time
+Start date
+by agreement
+Wage (gross)
+2 700 EUR/month
++ monthly bonuses and annual bonuses.
+Information about the position
+Job description, responsibilities and duties
+We are seeking a versatile DevOps Engineer to own and evolve our internal development ecosystem. This role is a unique blend of traditional systems administration (maintaining physical servers) and build automation in our software company. You will be the backbone of our development process, ensuring that our production build systems are stable, our CI/CD/releases are seamless.
+Key Responsibilities
+- Infrastructure Management: Maintain and optimise our physical server fleet (Linux and Windows) and manage our on-premise virtualisation and Docker environments used for testing.
+- CI/CD Control and Management: Identify problems in CI/CD, liaison with developers or teams to ensure resolution of problems towards smooth CI/CD operation.
+- CI/CD Development: Maintenance of our pipelines and configuration. We currently use Atlassian Bamboo and Gitlab, we plan for transition to a new system.
+- Artifact & Version Control Management: Manage our Sonatype Nexus repositories, internal Git servers, and custom Git hooks to ensure code integrity and dependency management.
+- Automation & Scripting: Write and maintain scripts (Python, Bash, PHP, JavaScript/TypeScript or PowerShell) to automate testing deployments, documentation generation, release workflows etc.
+Employee perks, benefits
+- Flexible working hours
+- Opportunity to travel abroad
+- Company events
+- Fruit, cafeteria
+- Attractive financial bonuses
+Information about the selection process
+Feel free to send your CV to rastislav.srnka@sourcefirstinternational.com
+We always have several positions for IT Specialists not only in Slovakia and the Czech Republic, but also on foreign projects.
+Expected date of completion of the selection process
+31.12.2026
+(there are still 289 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a dynamic technology company specialising in advanced solutions.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT, Informačné technológie
+Personality requirements and skills
+Technical Requirements (skills you would need often):
+- System administration of both Linux (Debian) and Windows systems. Basic network understanding, remote access (SSH, RDP).
+- Experience with of CI/CD systems.
+- Experience with Docker/Podman containerisation, development of of Docker files, Docker Compose files
+- Scripting: Ability to write and maintainable code (e.g., Python, Bash, PHP, JavaScript/TypeScript).
+Soft Skills:
+- Problem-Solver: You enjoy "behind the scene" work and finding the root cause of infrastructure problems.
+- Cooperation: You are able to communicate with various other people/teams (developers, ICT, testers) in order to resolve problems.
+- Adaptive: You are comfortable moving between legacy systems and modern tools.
+- Detail-Oriented: You understand that a broken build script or a misconfigured Git hook can stop an entire team's progress.
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: Rastislav Srnka
+Tel.:
++421904823347
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5251881
+Dátum zverejnenia:
+17.3.2026
+2026-03-17
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT Consultant
+,
+IT/Technical Support Specialist
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 700 EUR/month

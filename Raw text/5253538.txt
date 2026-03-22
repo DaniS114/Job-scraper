@@ -1,0 +1,85 @@
+Senior Linux System Administrator (Automation)
+Talent Solutions, s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+2 300 EUR/month
+The final salary depends on the skills and experience of the candidate may be higher.
+Information about the position
+Job description, responsibilities and duties
+We are looking for an experienced Linux System Administrator who wants to work on business-critical infrastructure with a strong focus on automation, stability, and continuous improvement. In this role, you will join an international agile team and help shape secure, high-performing Linux environments that support essential services at scale.
+Our client operates in the banking / financial services industry.
+Tasks:
+- Administration, configuration, and maintenance of Linux servers (RHEL 7–10)
+- Automation of processes within Linux environments (Bash, Shell, Python, Salt, Terraform)
+- System monitoring, performance tuning, and capacity management
+- Patch management and system updates (RHEL Satellite)
+- Troubleshooting OS, service, and application issues
+- User, group, and permission management
+- Backup and recovery operations (TSM)
+- Documentation of system configurations and procedures
+- Supporting security standards and compliance (CIS, PCI DSS)
+- Participation in vulnerability remediation and audit activities
+Employee perks, benefits
+- Remote work (home office by default) with few days on-site per month
+- Quarterly bonuses
+- Multisport card and sports contributions
+- Company events
+- IT training and language courses (English, German)
+- Childbirth allowance
+- Contribution for glasses
+- Discounts with selected partners
+- Referral bonus program
+- Overtime compensation
+- Friendly and informal working environment
+Company on whose behalf the position is being filled
+We are one of the top 3 recruitment agencies in Slovakia, operating on the Slovak market since 2002. In providing our services, we bring together the interests of both groups – job seekers and employers. Our main task is to provide people with jobs and companies with the talent they need to thrive.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+Personality requirements and skills
+- Strong experience with Linux server administration (RHEL)
+- Solid background in automation and scripting (Bash, Shell, optionally Python)
+- Experience with tools like Salt or Terraform is a plus
+- Knowledge of monitoring and performance optimization
+- Understanding of security hardening (CIS) and compliance (PCI DSS)
+- Ability to work independently and within a team
+- Proactive and detail-oriented mindset
+- English at least at B2 level
+Advertiser
+Brief description of the company
+Talent Solutions has been operating in Slovakia since 2002, and it has built a network of nine branches and onsite offices throughout the country.
+Talent Solutions has proven to be a flexible and unbiased company with respect for the specific characteristics and requirements of the Slovak job market, without compromising on the quality of services.
+Even after many years on the market, we have not deviated from our mission to anticipate our clients’ needs and adhere to the highest standards that guarantee individual effective solutions.
+Number of employees
+50-99 employees
+Contact
+Contact person: Kristián Psotný
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253538
+Dátum zverejnenia:
+19.3.2026
+2026-03-19
+lokalita:
+Remote work
+Pozícia:
+RPA Engineer
+,
+Systems Administrator
+,
+Systems Engineer
+Spoločnosť:
+Talent Solutions, s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 300 EUR/month

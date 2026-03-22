@@ -1,0 +1,85 @@
+Cég neve
+DruIT Szolgáltató Zrt.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ROBOT
+ROBOT FRAMEWORK
+ISTQB
+PYTHON
+GIT
+ISO
+JIRA
+AGILIS
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ROBOT
+ROBOT
+FRAMEWORK
+ISTQB
+PYTHON
+GIT
+ISO
+JIRA
+AGILIS
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+A cég által gyártott életmentő, illetve életminőséget javító orvosi berendezések, dialízisgépek fejlesztésében való részvétel
+Tesztstratégia kialakítása és folyamatos fejlesztése a termékvonal számára
+Tesztelési folyamatok, eszközök és módszertanok definiálás, a vonatkozó szabványok figyelembevételével
+Tesztcsapat feladatainak tervezése
+Verifikációs és validációs riportok, hibák és visszajelzések elemzése, monitorozása
+Több telephelyet (site-ot) érintő projekt koordinálása
+Kapcsolattartás fejlesztőcsapattal, rendszertervezőkkel, minőségüggyel és klinikai szakértőkkel.
+Auditok támogatása (belső, hatósági)
+Elvárások
+Minimum 4 év teszt manageri tapasztalat
+Felsőfokú műszaki végzettség
+Kritikus, komplex tesztrendszerek ismerete, ISTQB minősítés (CTAL-TM előny)
+Biztonságkritikus rendszerek területén szerzett tapasztalat
+külföldi kollégákkal napi szintű kapcsolattartás
+tesztautomatizálás területén szerzett tapasztalat
+Strukturált és analitikus gondolkodás
+Magas szintű angol nyelvtudás
+Kiváló együttműködési készség társterületekkel (stakeholder-ekkel való együttműködés)
+Folyamatos fejlődési igény
+Eredményorientált, nyitott gondolkodásmód
+Csapatszellem
+Kiváló szervezőkészség és folyamatokban való gondolkodás.
+Proaktivitás, rendszerben gondolkodás, felelősségvállalás.
+Előnyt jelent
+Robot Framework, Python, GIT/JIRA/Gherkin tapasztalat, Agilis módszertan ismerete, Tapasztalat orvostechnikai eszközök fejlesztésében, Német nyelvtudás, Ismeretek a következő területeken: IEC 62304 (MedTech szoftver), ISO 14971 (kockázatkezelés), IEC 60601 (elektromos orvosi eszközök biztonsága)
+Amit kínálunk
+Hibrid munkavégzés (Budapest)
+Céginformáció
+Az Adatkezelő információ-technológiai szolgáltatással foglalkozó gazdasági társaság, amely a megbízók részére keres a megbízók által megadott feltételeknek megfelelő szakembereket informatikai projektek elvégzésére. E tevékenysége során az Adatkezelő kezeli az érintettek azon személyes adatait, amelyek az elküldött/feltöltött önéletrajzban kerültek megadásra, továbbá kezeli a jelölttel folytatott telefonbeszélgetést, és az ennek során esetlegesen megadott további személyes adatokat.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Tesztelő,
+Tesztmérnök
+Budapest
+Álláshirdetés jelentése

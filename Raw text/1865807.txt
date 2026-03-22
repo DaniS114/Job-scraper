@@ -1,0 +1,32 @@
+Our partner is a well-known brand in the aviation industry. The team in Budapest – which was founded 3 years ago -  is rapidly growing, hence we are seeking our next colleague to join as a Data Analyst.
+As a Data Analyst within our team, you will be responsible for collecting, analysing, and translating complex datasets into valuable insights that can support the business in making strategic decisions. You will work closely with both the business and data engineers to create data-driven solutions that contribute to the optimisation of our HR processes and broader business goals.
+Scope of the job:
+Collecting and Preparing Data:
+Ensuring you gather the right data from various internal sources, such as personnel and training systems, and external data sources when needed. You will integrate this data into the existing common data model where you model the data into fact and dimension tables.
+Analysing Data:
+Conducting in-depth analyses to identify trends and patterns, such as absenteeism, employee turnover, and employee satisfaction, and how these insights can contribute to better HR policies.
+Building Dashboards and Reports:
+Creating customised data visualisations and dashboards in Spotfire and PowerBI that can be used by various stakeholders to quickly gain insight into current data.
+Translating Business Questions into Data Questions:
+Acting as a liaison between the business and engineers by translating complex business questions into specific data queries and communicating the answers back to stakeholders in understandable terms.
+Providing Data-Based Advice:
+Advising management on the best strategies and solutions based on your data analysis, for example, by providing insights into personnel needs, identifying risks, or optimising internal processes.
+Collaborating in a Scrum Team:
+Working in an agile environment, you will collaborate in a multidisciplinary team with various disciplines (data engineers, data analysts, and data scientists) to bring projects from idea to realisation. This requires a proactive attitude and the ability to quickly switch between different projects.
+Continuous Learning and Improvement:
+Besides your regular duties, you will have 10% of your time to invest in self-development and research. This allows you the space to discover new technologies and techniques that can make your work even more effective.
+You are the ideal candidate if you have:
+Fluency in English language both spoken & written.
+A minimum of 1–2 years of experience as a Data Analyst.
+Excellent skills in data analysis, data modelling, data visualisation, and storytelling based on data.
+Proven experience with Power BI and SQL
+Experience with Spotfire is an advantage.
+Experience working in an agile environment.
+Possesses excellent communication skills, both verbal and written, and is capable of conveying data insights clearly to both business stakeholders and technical teams.
+Is eager to learn and able to quickly master new tools, techniques, and processes.
+Is flexible and proactive, with a hands-on mentality to deliver results quickly and make an impact.
+What our client offers:
+Flexible working conditions, regular home office
+Working in cross-country teams, being a member of an active community
+Competitive salary and various benefits
+Separated budget and time for your learning and professional development

@@ -1,0 +1,102 @@
+Cég neve
+SEON Technologies Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+FRONTEND
+BACKEND
+TESTING
+JUNIT
+SELENIUM.
+PYTHON
+JAVA
+GIT
+DATABASES
+AUTOMATED TESTS
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+FRONTEND
+BACKEND
+TESTING
+JUNIT
+SELENIUM.
+PYTHON
+JAVA
+GIT
+DATABASES
+AUTOMATED
+TESTS
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Own the overall QA approach across teams and product areas, including release readiness, quality gates, and clear delivery criteria.
+Lead and evolve automation strategy across the test pyramid (unit, integration, end-to-end) for frontend and backend components, improving reliability and coverage.
+Drive CI/CD quality improvements by making automated tests actionable, fast, and trustworthy for continuous delivery, leveraging the latest in AI.
+Work closely with Engineering Managers and Product Management to understand business risk, prioritize testing investments, and align quality goals with roadmap delivery.
+Guide teams on testability and architecture-aware testing, helping ensure the right testing techniques are used for the system design.
+Review and give feedback on pull requests when needed, with a focus on test quality, maintainability, and risk.
+Monitor test results and trends, lead triage of failures, and drive fixes for flaky tests and reliability issues.
+Mentor and support test and software engineers, helping them improve automation skills and grow in their roles.
+Ensure system-level quality through a pragmatic mix of automated and manual test activities across the application lifecycle.
+Lead, coach, and develop QA engineers, supporting growth through regular feedback, mentoring, and clear expectations.
+Own hiring for QA roles when needed, including role scoping, interviewing, and onboarding.
+Run performance and career processes for the team, including goal setting, growth plans, and performance reviews.
+Partner with Engineering leadership on team structure, resourcing, and capacity planning to meet delivery goals.
+Build a strong team culture that values quality, ownership, and collaboration across functions.
+Requirements
+3+ years of experience as a Test Lead or QA Lead, with ownership of delivery quality and experience leading or managing engineers.
+Strong understanding of modern test frameworks such as Playwright, Jest, JUnit, pytest, or Selenium.
+Solid understanding of AI, including Claude, Codex, inside of Windsurf and/or Cursor.
+Hands-on technical ability and confidence guiding automation design and implementation leveraging the latest in AI, including code review and framework direction.
+Solid programming knowledge in one or more of TypeScript, Python, or Java, and comfort working with Git in a CI/CD environment.
+Strong understanding of system architecture and databases, and the ability to recommend appropriate testing approaches for the architecture.
+Clear communication skills and a proactive mindset, able to lead discussions, make tradeoffs, and raise risks early.
+3+ years of experience on managing or leading QA engineers, including coaching, performance feedback, and day-to-day support.
+3+ years of experience supporting career development, including growth plans, promotion readiness, and performance review cycles.
+3+ years of experience contributing to hiring and team building, including interviewing, onboarding, and team process improvements.
+What we offer
+High impact ownership of how we approach quality across teams and releases.
+The chance to level up automation and CI/CD quality practices across the organization.
+A collaborative engineering culture where quality is shared and QA leadership has a real voice in how we build.
+Hybrid work schedule (approximately three days per week in the Budapest office).
+Workplace extras
+Canteen
+Cafe
+Corporate events
+Bicycle storage
+Free fruits, snacks
+Free coffee, soft drinks
+Free breakfast
+Free lunch
+Play corner
+Company info
+SEON is the command center for fraud prevention and AML compliance, helping thousands of companies worldwide stop fraud, reduce risk and protect revenue. Powered by 900+ real-time, first-party data signals, SEON enriches customer profiles, flags suspicious behavior and streamlines compliance workflows - all from one place. SEON provides richer data, more flexible and transparent analysis, and faster time to value than any other provider on the market. We’ve helped companies reduce fraud by 95% and achieve 32x ROI, and we’re growing fast, thanks to our partnerships with some of the world’s most ambitious digital brands like Revolut, Wise, and Bilt.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Tester,
+Test Engineer
+Budapest
+Álláshirdetés jelentése

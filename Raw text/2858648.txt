@@ -1,0 +1,109 @@
+Cég neve
+Franke Group
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+CLOUD
+ABAP
+AZURE
+ANALYTICS
+TESTING
+API
+SPARK
+GIT
+DOCKER
+JAVASCRIPT
+SQL
+REACT
+ACCESS
+REST
+AGILE
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+CLOUD
+ABAP
+AZURE
+ANALYTICS
+TESTING
+API
+SPARK
+GIT
+DOCKER
+JAVASCRIPT
+SQL
+REACT
+ACCESS
+REST
+AGILE
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Senior SAP BTP & Cloud Integration Developer (f/m) 100%
+About Franke
+We, the Franke company with its three divisions, are a world's leading supplier of products and services for domestic kitchens, the professional foodservice systems and the convenience store sector as well as for professional coffee making. With around 60 companies, we are at home on five continents. Over 8,000 employees constantly take on new perspectives to identify opportunities and turn them into inspiring, innovative solutions for tomorrow's demands.
+Senior SAP BTP & Cloud Integration Developer (f/m) 100%
+As a Senior SAP BTP & Cloud Integration Developer, you will be a key contributor in our growing development team, designing and building innovative integration solutions on SAP Business Technology Platform (BTP), SAP Cloud Platform Integration (CPI), and SAP Fiori Elements.
+You will develop modern, scalable applications and APIs that connect our SAP BTP & Cloud Integration landscape with cloud services, drive automation, and bring AI/ML capabilities into our enterprise processes. The position is based in Aarburg, Switzerland and requires regular on-site presence.
+Your responsibilities
+SAP BTP Development & Integration:Designing, developing, and deploying integration flows on SAP BTP and CPI, connecting SAP S/4HANA with cloud and on-premise systems using REST/OData APIs, events, and message-based architectures
+Fiori Elements & UI Development:Building intuitive, user-centric SAP Fiori Elements applications using the SAPUI5 framework, OData services, and SAP RAP (RESTful ABAP Programming Model), ensuring a modern and consistent user experience
+Cloud & Data Engineering:Contributing to our cloud data platform with Azure Databricks, building data pipelines, and supporting analytics use cases that leverage AI/ML models for business insights such as demand forecasting and anomaly detection
+AI/ML & Emerging Technologies:Exploring and implementing AI/ML use cases (e.g. LLM-based assistants, intelligent automation, predictive analytics) within the SAP ecosystem, proactively evaluating new technologies and integrating them into our solutions
+Clean Core & Best Practices:Following SAP Clean Core principles, ensuring extensibility through approved extension points, maintaining high code quality with CI/CD pipelines, automated testing, and contributing to our developer guidelines and documentation
+Collaboration & Knowledge Sharing:Working in an agile team alongside architects, consultants, and business stakeholders, actively sharing knowledge, participating in code reviews, and contributing to a positive, innovative team culture
+Your skillset
+Bachelor's or Master's degree in Computer Science, Business Informatics or a related field (or equivalent practical experience)
+Minimum 3 years of hands-on experience with SAP BTP, SAP CPI and/or SAP Fiori/SAPUI5 development
+SAP S/4HANA (SAP Integration Suite, CPI iFlows, API Management, Event Mesh, Cloud Connector, Destination Service)
+SAP Fiori & SAPUI5 (Fiori Elements, Flexible Programming Model, List Reports, Object Pages, Annotations, OData V4)
+SAP RAP & CAP Model (RESTful ABAP Programming, Cloud Application Programming Model, CDS Views, Business Services)
+Azure Databricks & Data Engineering (Delta Lake, Spark, data pipelines, lakehouse architecture, ML model deployment; nice to have)
+AI/ML & LLM Technologies (prompt engineering, RAG patterns, GPT/ API integration, ML fundamentals, for data science)
+Modern Development Practices (Git, CI/CD, Docker, automated testing, Clean Core principles, SAP BAS, VS Code)
+Programming Languages & Tools (JavaScript/TypeScript, ABAP, , SQL; familiarity with and React is a plus)
+SAP Clean Core & Extensibility (key user extensibility, side-by-side extensions, approved extension points, upgrade-safe development)
+Fluent in English (written and spoken), German is a plus
+Team-oriented, self-motivated and eager to learn and grow
+What we offer
+A collaborative, innovative team where your ideas and contributions truly
+Hands-on work with cutting-edge SAP technologies (BTP, CPI, Fiori Elements, RAP, CAP) in a modern S/4HANA landscape
+Opportunities to explore AI/ML, LLMs, and Azure Databricks in real enterprise scenarios
+Investment in your professional development through training, certifications (e.g. SAP BTP, Azure) and conference attendance
+Clear focus on internal development
+Flexible working hours
+Easy access from railway station and highway
+Free parking
+At least 5 weeks holiday and 5 additional compensation days
+Staff restaurant
+Free coffee drinks from espresso to latte macchiato
+A world of opportunities - for our people, and maybe for you?
+Silja Kleiner, Junior HR Manager is looking forward to the first contact with you. Please apply via the "Apply now" button. Thank you very much! jide75a3a6pn jit0312pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Switzerland
+Álláshirdetés jelentése

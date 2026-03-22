@@ -1,0 +1,106 @@
+About us
+Our benefits
+Open positions
+Senior Solution Architect
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 200 - 5 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3,200 and EUR 5,300 per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+About the role
+We are looking for a Senior Solution Architect to strengthen architectural and engineering excellence across our Product Area, supporting Legal, Compliance, Audit, Corporate Secretariat, Finance, and Procurement domains.
+This is a senior individual contributor role operating across multiple engineering teams. You will partner closely with Product Owners and Engineering Leads to design scalable, secure, and maintainable solutions in a predominantly SaaS/COTS landscape with selected custom-built applications.
+You will play a key role in driving architectural coherence, elevating engineering standards, and ensuring long-term system sustainability.
+The role includes the following responsibilities:
+•	Define and apply architectural guardrails across multiple engineering teams.
+•	Work closely with Engineering Leads to co-design scalable, secure, and resilient solutions across SaaS/COTS and custom-built systems.
+•	Facilitate and contribute to complex system and integration design discussions alongside Engineering Leads, providing architectural guidance and structured trade-off analysis.
+•	Standardize integration patterns and promote reusable architectural approaches across the Product Area.
+•	Ensure non-functional requirements (security, performance, resilience, observability, scalability) are embedded by design.
+•	Conduct architecture and design reviews to maintain high technical standards and architectural consistency.
+•	Identify and drive structural technical debt remediation initiatives across teams.
+•	Support and strengthen adoption of DevSecOps, automation, and quality engineering practices aligned with global engineering standards.
+•	Ensure adherence to Swiss Re governance frameworks, including architecture, security, data protection, and regulatory requirements.
+•	Drive implementation of mandatory technology standards and enterprise guardrails consistently across the Product Area.
+•	Partner with Engineering Leads to uphold high technical quality benchmarks and continuously elevate engineering maturity.
+•	Act as a trusted technical advisor to Engineering Leads and senior engineers. Foster architectural alignment and knowledge sharing within the Product Area and contribute actively to the broader engineering community through forums, design discussions, and best practice initiatives.
+•	Develop reference implementations and proof-of-concepts for high-impact architectural initiatives where needed. Contribute hands-on to critical architectural components requiring deep expertise.
+•	Continuously identify simplification, rationalization, and reuse opportunities across the system landscape.
+•	Identify and evaluate opportunities for AI adoption. Assess AI initiatives from an architectural perspective, ensuring responsible integration with respect to data privacy, model governance, explainability, security, and operational scalability.
+About the team
+We are responsible for Swiss Re's Legal, Compliance, Audit, Corporate Secretariat, Procurement and parts of the Finance applications. We work in a scaled agile model with shared leadership teams and broad aligned autonomy for our squads. We are located across the globe but share the same values for passion, openness, respect, humbleness and curiosity. And we strive to improve our work for our customers every day.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You are passionate about technology. You are flexible and open-minded, committed with an ability to learn new skills quickly. You enjoy solving problems in creative ways.
+•	10+ years of experience designing and implementing enterprise-grade software systems.
+•	Strong engineering foundations with hands-on programming proficiency (e.g., Java, C#, Python, TypeScript or similar) to build POCs, validate architectural approaches, and support squads in complex engineering scenarios.
+•	Proven experience leading architecture design across multiple teams or complex domains.
+•	Strong background in distributed systems, cloud-native architectures, and integration design.
+•	Demonstrated experience designing scalability, resilience, high availability, and operational readiness.
+•	Strong experience with Azure or similar cloud platforms.
+•	Experience working with SaaS/COTS platforms and API-driven ecosystems in enterprise environments.
+•	Solid understanding of DevSecOps practices, automation, and non-functional design principles.
+•	Experience operating in regulated or compliance-driven environments with governance requirements.
+•	Ability to influence technical direction across teams without formal authority.
+•	Strong analytical thinking, trade-off reasoning, and architectural judgment.
+•	Exposure to AI/ML-driven solutions and understanding of how to responsibly integrate AI capabilities into enterprise systems is an advantage
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Livia Pasztorova
+Apply here
+ID:
+5252484
+Dátum zverejnenia:
+17.3.2026
+2026-03-17
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+IT Architect
+,
+Java Programmer
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 200 EUR/month

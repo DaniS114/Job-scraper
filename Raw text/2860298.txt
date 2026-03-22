@@ -1,0 +1,79 @@
+Cég neve
+DruIT Szolgáltató Zrt.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+GIT
+ISTQB
+AGILIS
+C
+JIRA
+JENKINS
+SECURITY
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+GIT
+ISTQB
+AGILIS
+C
+JIRA
+JENKINS
+SECURITY
+Angol
+középfok
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+Feladatok
+Részvétel a cég által gyártott életmentő és életminőséget javító orvosi berendezések (pl. dialízisgépek) továbbfejlesztésében.
+A gyártmányfejlesztési folyamatok és tesztelési technológiák megismerése és alkalmazása.
+Az orvosi berendezések fejlesztési eredményeinek ellenőrzése és tesztelése.
+Automatizált és manuális tesztkörnyezetek megismerése, tesztek implementálása.
+Automata és manuális tesztek folyamatos karbantartása.
+Tesztdokumentáció készítése.
+Hibajegyek rögzítése, dokumentálása.
+Elvárások
+Egészségügyi mérnök, informatikus vagy villamosmérnök végzettség (BSc/MSc/PhD)
+Minimum 3 év tapasztalat szoftvertesztelés területén (tesztesetek készítése, manuális és/vagy automatikus futtatás)
+GIT alapszintű ismerete
+ISTQB Foundation Level (vagy magasabb szintű) vizsga megléte
+Agilis módszertanok ismerete
+Alapszintű programozási ismeretek (pl, C nyelv)
+Kommunikációképes angol nyelvtudás
+Nyitottság a folyamatos fejlődésre
+Eredményorientált szemlélet, proaktív gondolkodásmód
+Kiemelkedő csapatszellem
+Preciz munkavégzés
+Előnyt jelent
+Tapasztalat biztonságkritikus rendszerek tesztelésében vagy fejlesztésében, Technical Lead vagy Test Manager szerepkörben szerzett tapasztalat, Tesztautomatizálási tapasztalat, Beágyazott rendszerek területén szerzett tapasztalat, Jenkins, JIRA, valamint Gherkin ismerete, Security tesztelési tapasztalat
+Amit kínálunk
+Teljes munkaidő
+hibrid munkavégzés (heti 2-3 nap iroda, Budapest)
+Céginformáció
+Az Adatkezelő információ-technológiai szolgáltatással foglalkozó gazdasági társaság, amely a megbízók részére keres a megbízók által megadott feltételeknek megfelelő szakembereket informatikai projektek elvégzésére. E tevékenysége során az Adatkezelő kezeli az érintettek azon személyes adatait, amelyek az elküldött/feltöltött önéletrajzban kerültek megadásra, továbbá kezeli a jelölttel folytatott telefonbeszélgetést, és az ennek során esetlegesen megadott további személyes adatokat.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Tesztelő,
+Tesztmérnök
+Budapest
+Álláshirdetés jelentése

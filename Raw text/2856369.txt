@@ -1,0 +1,91 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+FRONTEND
+BACKEND
+AWS
+ANGULAR
+ANALYTICS
+SECURITY
+API
+DEVOPS
+DOCKER
+.C.
+ACCESS
+TEST AUTOMATION
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+FRONTEND
+BACKEND
+AWS
+ANGULAR
+ANALYTICS
+SECURITY
+API
+DEVOPS
+DOCKER
+.C.
+ACCESS
+TEST
+AUTOMATION
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Lead testing strategy and execution across complex microservices and frontend/backend architectures (AWS, .NET, Angular, APIs, etc.)
+Design, develop, and maintain robust test automation frameworks, integrating seamlessly into CI/CD pipelines (Playwright, AWS CDK), with a DevSecOps mindset
+Pioneer the use of AI-driven testing solutions—evaluate and implement intelligent test generation, defect prediction, and adaptive test strategies using LLMs and other AI models
+Apply responsible AI practices by embedding bias detection, safety validation, and explainability checks into QA processes and automation
+Collaborate across teams to ensure quality is built-in from the start, promoting a shift-left mindset and influencing engineering practices
+Use observability tools and data analytics to identify systemic issues and improve performance, coverage, and resilience
+Lead test strategy reviews, architecture discussions, and mentor engineers in automation, AI-enhanced QA workflows, and testing best practices
+Stay up to date with AI trends, tools, and regulations; adapt test strategies accordingly to support compliance, security, and innovation
+Requirements
+5+ years in software engineering in test roles within commercial software environments
+Strong expertise in TypeScript, Playwright, or a similar end-to-end testing tool, with a willingness to develop deep expertise in Playwright
+Proven experience with API and backend testing, including microservices and monolithic systems
+Experience designing automation frameworks and integrating them into CI/CD pipelines (e.g., GitHub Actions)
+Familiarity with AWS serverless services and modern DevOps practices (IaC, Docker, observability tools)
+Exposure to security principles in delivery pipelines (IAM, secrets management, DevSecOps)
+Strong understanding of AI in software engineering, such as using LLMs to assist with test generation and defect triage, embedding monitoring and validation around AI components, designing QA strategies for AI-infused systems (e.g., prompt testing, model input/output verification)
+Exceptional communication skills and experience mentoring or leading others in a quality or test leadership capacity
+What we offer
+Creativity is ingrained in our culture. We are innovative collaborators by nature. We thrive in exploring how things can be differently both in our internal processes and to help our clients
+We care about our people. Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs to name a few
+We have teams all over the world. We may be headquartered in New York City, but we have office hubs in Washington D.C., Vancouver, London, Galway, Budapest, Munich, Bengaluru, Singapore, and Sydney.
+Diversity is important to us. Growing, maintaining and promoting a diverse team is a top priority for us. We foster and encourage diversity through our Employee Resource Groups and provide access to resources and education to support the education of our team, facilitate dialogue, and foster understanding.
+Hybrid work model with expectation to work onsite at least 50% of the time if within commuting distance to an office location
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Tester,
+Test Engineer
+Budapest
+Álláshirdetés jelentése

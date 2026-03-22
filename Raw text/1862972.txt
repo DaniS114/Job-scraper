@@ -1,0 +1,24 @@
+Egy világszinten ismert egészségügyi technológiai vállalat keres szoftvertesztelőt infúziós pumpák és más orvosi berendezések fejlesztéséhez. Ha érdekel, hogy a munkád közvetlenül életmentő eszközök minőségét javítsa, ez a pozíció neked szól.
+Feladatok
+Infúziós pumpák és orvosi berendezések tesztelése
+Automatizált tesztkörnyezet fejlesztése és karbantartása
+Automatizált és manuális tesztek tervezése, implementálása, végrehajtása
+Exploratory (felfedező) jellegű manuális tesztelés
+Tesztdokumentáció készítése, hibajegyek rögzítése
+Együttműködés a fejlesztői csapattal
+Elvárások
+Egészségügyi mérnök, informatikus vagy villamosmérnöki végzettség (BSc, MSc vagy PhD)
+Minimum 3 év tapasztalat szoftvertesztelésben (teszteset készítés, tesztkörnyezet-kialakítás, automatikus tesztfuttatás)
+Minimum 2 év programozói tapasztalat C# nyelven
+Kommunikációképes angol nyelvtudás
+Előnyök
+Beágyazott rendszerek vagy orvosi műszerek területén szerzett tapasztalat
+Biztonságkritikus rendszerek fejlesztésében szerzett gyakorlat
+Agilis módszertanok ismerete (SCRUM, TDD, CleanCode)
+Eszközismeret: VisualStudio, GitHub, JIRA, Polarion
+Ajánlat
+Versenyképes alapbér és átfogó juttatási csomag
+Stabil, hosszú távú munkalehetőség
+Rugalmas munkavégzési lehetőségek
+Rendszeres képzések, előrelépési lehetőségek
+Nemzetközi háttér, családias vállalati kultúra

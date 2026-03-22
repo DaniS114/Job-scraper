@@ -1,0 +1,93 @@
+Cég neve
+DruIT Szolgáltató Zrt.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+LINUX
+AIX
+WINDOWS
+SQL
+DOCKER
+GIT
+DEVOPS
+API
+SVN
+JIRA
+HP
+CONFLUENCE
+JENKINS
+REST
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+LINUX
+AIX
+WINDOWS
+SQL
+DOCKER
+GIT
+DEVOPS
+API
+SVN
+JIRA
+HP
+CONFLUENCE
+JENKINS
+REST
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Aktív részvétel az integrációs projektekben, beleértve a tervezést, implementációt és a babysitting-et
+Külső szoftver beszállítókkal való kapcsolattartás
+Részvétel a rendszerintegrációs feladatok, problémák megoldásában
+IBM Broker (ACE) fejlesztési feladatok
+Integrációs csapat képviselete a Bank projektjeiben
+Részvétel a szervezet ceremóniáin (daily, weekly planing, design review)
+Change adminisztráció, dokumentálás
+Elvárások
+Rendszerintegrációs ismeretek
+Linux alapismeretek (Redhat, AIX)
+Windows felhasználói ismerete
+SQL alapismeret
+IBM MQ és Bróker ismeret, vagy más MW keretrendszer ismerete
+Konténerizációs eszköz ismeretek (Openshift, Kubernetes, Docker, Podman)
+Verziókövető rendszer ismeret (Git, SVN, vagy más)
+Jó problémamegoldó készség, absztrakt gondolkodásmód
+Önálló munkavégzésre való készség
+Kiváló kommunikációs készség
+Alaposság, precizítás
+Középszintű, társalgási szintű angol nyelvtudás
+Előnyt jelent
+Ticketing rendszer ismeretek: Jira, HP SM, CASD, Confluence vagy docuwiki ismeret, Kafka ismeret, Devops tapasztalatok, Jenkins/Gitlab/ArgoCD tapasztalat, REST API és/vagy SOAP API ismeret, Pénzügyi szervezet tapasztalat
+Amit kínálunk
+Fulltime, hibrid munkavégzés (Budapest)
+Céginformáció
+Az Adatkezelő információ-technológiai szolgáltatással foglalkozó gazdasági társaság, amely a megbízók részére keres a megbízók által megadott feltételeknek megfelelő szakembereket informatikai projektek elvégzésére. E tevékenysége során az Adatkezelő kezeli az érintettek azon személyes adatait, amelyek az elküldött/feltöltött önéletrajzban kerültek megadásra, továbbá kezeli a jelölttel folytatott telefonbeszélgetést, és az ennek során esetlegesen megadott további személyes adatokat.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Álláshirdetés jelentése

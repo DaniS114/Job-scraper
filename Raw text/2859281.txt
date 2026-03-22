@@ -1,0 +1,80 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+LINUX
+ANDROID
+C
+C++
+VIRTUALIZATION.
+ASSEMBLY
+DEBUGGING
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+LINUX
+ANDROID
+C
+C++
+VIRTUALIZATION.
+ASSEMBLY
+DEBUGGING
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Participate in the design and development of low-level software to enable new Arm architecture features across Linux, Android, and related userspace components.
+Collaborate closely with Arm architecture and silicon teams to translate architectural innovations into robust, upstream-ready software implementations.
+Architect, develop, and optimize core OS subsystems with a focus on performance, power efficiency, and security (e.g., memory management).
+Drive complex technical investigations across software layers, identifying root causes and leading resolution of performance, efficiency, and security issues.
+Lead code reviews, influence design decisions, and ensure high-quality contributions with upstream open-source communities.
+Mentor and technically guide junior and mid-level engineers, promoting best practices in low-level systems development.
+Requirements
+Strong proficiency in C and C++, with deep understanding of OS internals such as memory management, scheduling, or virtualization.
+Strong understanding of modern compiler toolchains, particularly LLVM-based technologies.
+Experience leading technical discussions, code reviews, and upstream collaborations in open-source projects.
+Excellent problem-solving skills and a structured approach to debugging complex low-level software issues.
+Nice-to-have
+Familiarity with Android internals., Experience using or contributing to Rust in systems software., AArch64 assembly programming experience., Expertise in 64-bit Arm architecture (Armv8-A) and the ability to apply new architectural concepts to real-world software., Exposure to technical leadership, project coordination, or an interest in developing line-management skills.
+What we offer
+Work at the forefront of Arm architecture innovation, collaborating with world-class engineers on industry-defining technology.
+Autonomy to shape technical direction, influence upstream ecosystems, and continuously improve engineering organization.
+Hybrid working environment supporting high performance and personal wellbeing.
+Equal opportunity employer committed to diversity and inclusion.
+Health and wellness benefits.
+Work and life success benefits.
+Financial rewards beyond competitive salary.
+Professional and personal development support.
+Company info
+Working in software engineering at Arm is about shaping a future of technology for which we don't yet have words. Our engineers lead innovation in physical IP, AI and machine learning, cloud architecture, automotive tech, and every aspect of computing that matters.
+Spanning software's full spectrum, from compilers to AI-powered IoT and beyond, your code can enable virtually anything to be produced on silicon. Whether you're developing award-winning VR gaming or life-enhancing medical equipment, you can improve the lives of millions by being your brilliant self at Arm.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

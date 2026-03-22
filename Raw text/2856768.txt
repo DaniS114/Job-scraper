@@ -1,0 +1,101 @@
+Cég neve
+Manpower SA
+Munkavégzés helye
+Quai Jeanrenaud 3, 2000 Neuchâtel
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANALYTICS
+JSON
+BI
+SQL
+DATABASES
+CLOUD
+CI
+POWER BI
+EXCEL
+Elvárások
+Nem kell nyelvtudás
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANALYTICS
+JSON
+BI
+SQL
+DATABASES
+CLOUD
+CI
+POWER
+BI
+EXCEL
+Nem
+kell nyelvtudás
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Junior CI Coordinator (Competitive Intelligence) / Data Coordinator
+Do you want to join Morris? We're looking for a CI Coordinator
+Duration : open-ended contract through Manpower
+About the Role
+This role sits within the CI (Competitive Intelligence) team of Product Development department at Morris International. You will act as an operational anchor for the team: owning sample and product logistics while also taking direct ownership of data structuring and preparation work for downstream analysis.
+This is a hands-on, dual-track position: approximately 40-50% physical and operational coordination, and 50-60% data-focused work.
+Key Responsibilities
+Sample & Product Coordination
+* Collect, receive, and organize product samples from markets globally
+* Coordinate sample delivery to laboratories and track analysis timelines
+* Maintain physical and digital sample storage systems - organized, traceable, and up to date
+Data Organization & Data Analytics
+* Normalize, clean, and structure CI datasets from multiple source types (spreadsheets, PDFs, web extracts, lab outputs)
+* Convert unstructured or semi-structured data into machine-readable formats (CSV, JSON, JSONL)
+* Apply consistent product taxonomies and attribute tagging to the data
+* Support Power BI dashboard data preparation - ensure clean, correctly formatted inputs
+* Document data transformation logic and maintain version-controlled data files
+Required Skills
+Must Have
+Technical
+* Proficiency in Excel
+* Familiarity with at least one BI tool
+* Working knowledge of structured data formats
+* Basic data cleaning and normalization skills
+* Comfort using or SQL at a basic, operational level (e.g., simple scripts or queries to streamline repetitive data-handling tasks)
+Operational & Soft Skills
+* Great organizational skills
+* Strong attention to detail and documentation discipline
+* Ability to work independently with minimal supervision
+* Clear and proactive communication with labs, market teams, and other stakeholders
+* Fast thinker
+Nice to Have
+* Exposure to data annotation, labeling, or taxonomy management, especially for product attributes, product databases, or structured sensory/analytical data
+* Experience preparing data in JSON, JSONL, CSV or other structured formats commonly used for ML or internal automation workflows
+* Familiarity with cloud-based data platforms
+* Understanding of competitive intelligence workflows, ideally within FMCG
+* Basic scripting experience ( preferred) for recurring data-cleaning tasks, file parsing, or simple automations
+* Formal education or coursework in Business Analytics, Information Management, Data Science, Computer Science, or similar fields
+You are a great fit if...
+* You have a data or analytics background and don't mind getting hands-on with physical coordination
+* You are naturally organized and get satisfaction from bringing structure to messy information
+* You are proactive, curious, and solution-oriented - always looking for ways to improve processes, simplify recurring tasks, and ensure higher data accuracy
+* Can switch between a spreadsheet and a shipping timeline without losing focus
+* Communicate clearly and flag blockers early
+Don't hesitate to apply. jid42c4964pn jit0312pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Switzerland
+Álláshirdetés jelentése

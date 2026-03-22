@@ -1,0 +1,100 @@
+Cég neve
+Techtronic Industries ELC GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+SECURITY
+API
+NETWORK
+CLOUD
+DATABASES
+ERP
+REST
+PROJECT MANAGEMENT
+PMP
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+SECURITY
+API
+NETWORK
+CLOUD
+DATABASES
+ERP
+REST
+PROJECT
+MANAGEMENT
+PMP
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Architecture and Design: Define target and transitional architecture for SAP S/4HANA and integrated systems, ensuring scalability, security and performance.
+Domain Expertise: Provide solution leadership across Sales and Operation Planning, Sales and Distribution, Supply Chain, and Export Procedures.
+Integration and Data: Design reliable integrations (IDoc/ODATA/API/ETL/REST API) and data models across SAP and non-SAP platforms in collaboration with the Integration Team.
+Security and Infrastructure: Collaborate with Security and Infrastructure teams to maintain a compliant, secure authorization model and network environment.
+Customization and Extensibility: Govern custom development and extensions using a standard-first and clean core approach.
+Delivery Governance: Provide solution assurance (QA), guide functional and technical teams, and uphold architectural and delivery standards.
+Project Partnership: Collaborate with project managers to shape delivery plans, effort estimates, and milestones.
+Continuous Improvement: Identify opportunities to automate, simplify, or modernize logistics and end-to-end business processes.
+Evaluate new SAP capabilities and contribute to the long term SAP roadmap.
+Lead the creation of functional and technical designs, architecture diagrams, process maps and solution documentation.
+Requirements
+Excellent knowledge of SAP solutions—preferably S/4HANA—across sales and operation planning, sales and distribution, supply chain, and export procedures.
+Proven experience with cloud-based SAP solutions (e.g., SAP BTP).
+Proficiency in SAP architecture, data modeling and integration techniques.
+Broad IT knowledge, i.e., interfaces, databases, cloud solutions, web solutions, IT security, and basic networking.
+Solid understanding of Enterprise Resource Planning (ERP).
+Proven experience in functional consulting and hands-on customization knowledge.
+Necessary know-how to design scalable, resilient system architectures.
+Experience in delivering SAP initiatives and project management practices.
+Analytical, structured way of working combined with new ideas and a commitment to standards.
+Experience in vendor/software selection and AMS transitions.
+Knowledge about enterprise architecture frameworks is a plus.
+Experience leading solution governance and QA in complex S/4HANA programs.
+Relevant SAP certifications (e.g., SAP Certified Technology Associate; SAP Certified Application Associate — S/4HANA) are desirable.
+Project management certifications (e.g., PMP, PRINCE2) are a plus.
+What we offer
+An interesting position with an attractive company – recognized as a “top employer” by kununu
+Company pension scheme
+Free parking spaces directly next to the office and good public transport connections
+Fresh fruit, water and hot beverages for free
+Company fitness via “EGYM Wellpass“
+EAP (mental support for employees)
+Learning platforms such as “GoodHabitz“ and “Learn TTI“ for your professional development
+Special employee benefits via “Family & Friends“ and additional corporate benefits
+Company info
+Techtronic Industries (TTI) is a world leader in cordless technology spanning power tools, accessories, hand tools, outdoor power equipment, as well as floorcare and cleaning products. Our focus is on end-users that range from professionals in the industrial, construction and infrastructure sectors to DIYers in home improvement, repair, and maintenance. TTI's powerful brand portfolio includes MILWAUKEE®, RYOBI®, AEG® – recognized worldwide for their deep heritage and innovative product platforms of superior quality.
+The company maintains a global manufacturing and product development footprint, with record worldwide sales of approximately US$14.6 billion and around 49,000 employees in 2024. Hiring exceptional people is a top focus at TTI. This drives a high-performance culture across all levels of our organization and helps to achieve our vision of being number one in the industries we serve. Our unique high-speed decision-making process supports our acute focus on developing superior products and meeting high customer expectations. We view our winning culture as a competitive advantage that powers our growth.
+The IT EMEA organization delivers high-quality support, innovative technology solutions, and strong process knowledge across SAP and connected platforms. We are looking for a Solution Architect (m/f/d) to lead the architecture, integration strategy, and long-term roadmap of our SAP S/4HANA landscape across EMEA. In this role, you will collaborate with business stakeholders and functional consultants to design scalable, secure, and cost-effective solutions that support our current operations and future growth.
+In
+Winnenden (Stuttgart Area)
+we are currently looking for a
+Solution Architect (m/f/d) – Logistics
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

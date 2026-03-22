@@ -1,0 +1,72 @@
+Cég neve
+TÜV SÜD
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+SQL
+PYTHON
+JAVA
+SPARK
+TROUBLESHOOTING
+Elvárások
+Angol felsőfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+SQL
+PYTHON
+JAVA
+SPARK
+TROUBLESHOOTING
+Angol
+felsőfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Develop and maintain ETL/ELT pipelines for both structured and unstructured data
+Ensure the integrity, availability, and performance of data across ingestion and storage layers
+Collaborate with analysts and architects to translate business requirements into scalable data models
+Automate and monitor data workflows across cloud and hybrid environments
+Support data platform users and teams by troubleshooting and optimizing data pipelines and flows
+Requirements
+Minimum 5 years of professional experience in a similar role
+Proficiency in at least one of the following technologies: SQL, Python, Java, or Scala, as well as experience with data processing frameworks (e.g., Spark)
+Experience with cloud-based data platforms (e.g., Microsoft Fabric, Databricks, Snowflake, GCP)
+Experience in data warehousing (design and implementation) and with data lake technologies
+Strong knowledge of data integration (ETL/ELT), data modeling, and real-time and/or batch data pipelines
+Ability to implement and support a reliable data infrastructure
+Strong collaboration and communication skills when working with technical and non-technical stakeholders
+Fluent English language skills
+What we offer
+What we offer
+Flexible working hours
+Special payments
+Corporate health and safety management
+Company info
+At TÜV SÜD we are passionate about technology. Innovations impact our daily lives in countless ways, and we are dedicated to being a part of that progress. We test, we audit, we inspect, we advise. We never stop challenging ourselves for the safety of society and its people. We breathe technology, we strive for professional excellence, and we leave a mark. We take the future into our hands. We are TÜV SÜD.
+Join us as a Data Engineer (f/m/d) and help build scalable and secure data pipelines and processing workflows that enable efficient data movement and analytics across TÜV SÜD's platform landscape.
+If you want to shape the future with us, we look forward to receiving your application for our location Munich.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

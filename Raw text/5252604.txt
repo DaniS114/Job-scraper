@@ -1,0 +1,91 @@
+L3 LINUX system admin (automatizácia, RHEL/Bash/Shell) -90 % HO
+Manuvia, a. s.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 900 - 3 500 EUR/mesiac
+výška mzdy závisí od praxe kandidáta + kvartálne odmeny + 13.plat (ročná odmena) + mnoho atraktívnych benefitov
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Pozícia sa obsadzuje pre stabilnú firmu na trhu s vyše 20 ročným pôsobením a Rakúskym vedením.
+Firma podporuje zamestnancov v osobnostnom a kariérnom raste a má bohatý benefitný systém.
+Práca sa vykonáva 90 % z domu a 10 % sa chodí do kancelárie buď na západnom alebo na východnom Slovensku podľa potreby a podľa dohody.
+Hľadáme aktuálne L3 LINUX system administrátora pre spoločnosť - tak v prípade záujmu budeme radi za reakciu a radi sa následne spojíme k detailom, ďakujem pekne :)
+Hľadáme kandidáta na pozíciu Linux SYSTEMOVY administrátor (L3 level a engineering úroveň), dôležité sú skúsenosti so správou, údržbou a optimalizáciou serverových prostredí založených na systéme Linux.
+Hlavné úlohy pri JEDNEJ POZICII:
+• Správa linuxových serverov (inštalácia, konfigurácia, údržba RHEL 10)
+• Monitorovanie systému, ladenie výkonu a správa kapacity
+• Správa záplat a aktualizácie systému (RHEL 10)
+• Riešenie problémov s operačným systémom, službami a aplikáciami
+• Správa používateľov, skupín a oprávnení
+• Základné až stredne pokročilé skriptovanie a automatizácia (Bash, Shell) / (Python, Salt, terraform)
+• Dokumentácia konfigurácií systému a prevádzkových postupov
+Hlavné úlohy PRI DRUHEJ POZÍCII:
+• Správa linuxových serverov (inštalácia, konfigurácia, údržba RHEL 7, 8, 9)
+• Monitorovanie systému, ladenie výkonu a správa kapacity (Zabbix, Wazuh, Splunk)
+• Správa záplat a aktualizácie systému (RHEL sat)
+• Riešenie problémov s operačným systémom, službami a aplikáciami
+• Správa používateľov, skupín a oprávnení
+• Zálohovanie a obnova (TSM)
+• Základné až stredne pokročilé skriptovanie a automatizácia (Bash, Shell) / (Python, Salt, terraform)
+• Dokumentácia konfigurácií systému a prevádzkových postupov
+Zamestnanecké výhody, benefity
+- 13. Plat (ročný bonus)
+- Každoročné navyšovanie platov
+- Mimoriadne odmeny
+- Stravné lístky plne hradené zamestnávateľom
+- Multisport karta
+- Príspevok na tímové športové aktivity
+- Firemné podujatia - letný večierok, vianočný večierok
+- IT školenia
+- Jazykové školenia ( nemčina, angličtina)
+- Príspevok pri narodení dieťaťa
+- Zľavy u vybraných obchodných partnerov
+- Bonus za privedenie priateľa
+- Kompenzácia za prípadné nadčasy
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+- viacročné skúsenosti ako Linux systémový administrátor
+- nutná prax s automatizáciou Linux servrov a aplikácií - L3 level až engineering úroveň pozície
+- znalosti RHEL 7, 8, 9 či 10
+- znalosti Bash, Shell skriptovania
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme Manuvia – váš partner na ceste k novej kariére.
+Zameriavame sa na prepojenie kandidátov s pracovnými príležitosťami v širokom spektre odvetví, pričom sa sústreďujeme na prispôsobenie služieb vašim konkrétnym potrebám a preferenciám.
+Ak hľadáte zamestnanie, ktoré vás bude profesionálne napĺňať, alebo stabilitu, ktorú potrebujete. Naším cieľom je pomôcť vám nájsť pozíciu, ktorá zodpovedá vašim požiadavkám a osobným cieľom.
+Nekončíme nájdením novej pracovnej pozície – naším záujmom je zabezpečiť, aby ste sa v novej práci cítili komfortne a dokázali využiť všetky svoje schopnosti a potenciál.
+U nás si môžete byť istí, že vám nájdeme prácu na mieru.
+Spoločnosť je držiteľ povolenia na sprostredkovanie práce.
+Počet zamestnancov
+1000 a viac zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Veronika Debnárová
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5252604
+Dátum zverejnenia:
+18.3.2026
+2026-03-18
+lokalita:
+Práca z domu
+Pozícia:
+Systémový administrátor
+Spoločnosť:
+Manuvia, a. s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 900 EUR/mesiac

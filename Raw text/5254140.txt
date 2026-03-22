@@ -1,0 +1,103 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+DevOps Engineer for Edge Computing
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+1 650 - 2 550 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Our brand Deutsche Telekom IT Solutions Slovakia entered the life of Košice region in 2006 under the name of T-Systems Slovakia and ever since has been inextricably linked with the region when became one of the founding members of Košice IT Valley. We have managed to grow from scratch to the second largest employer in the eastern part of the country with more than 3900 employees. Our goal is to proactively find new ways to improve and continuously transform into the type of company providing innovative information and communication technology services.
+Join the team at Operational Services GmbH, within Deutsche Telekom Systems Solutions Slovakia, providing opportunities for IT infrastructure experts in Slovakia. OS is one of the leading ICT service providers in the German market and acts as a key driver of digitalization for medium-sized companies. With nearly 1,000 highly qualified specialists, OS designs, operates, and supports modern IT systems, ensures long-term service continuity, and maintains the availability of critical business processes.
+What will you do?
+Act as contact person for customers (operations, software development)
+Participate in sprint planning and customer sprint reviews
+Support in planning resources, capacities, operational requirements, security
+Act as first point of contact for service requests that go beyond the operation of the platform
+Specific platform configurations, network, application, security
+Prepare changes (planning, validation, test, staging)
+Support in application development / and maintenance
+Support in case of errors / application debugging / performance / profiling problems when using the platform / in the application - end-2-end performance tests
+Create  Performance KPIs
+Support for the use and setup of automation, scaling, CI/CD workflows, Git
+Apply  agile development methods (processes and tools) like Scrum and Kanban
+Track  feature requests, bug reports, additional services from partners
+Analyze  platform incidents
+Support in using ITIL operating processes / platform support, general process optimization, ITIL support and Agile operating processes
+You will succeed if you:
+Have completed studies in mathematics, computer science or training in another technical discipline
+Have 3 years’ experience with automation in  cloud environment
+Have experience with Application Monitoring & Tools
+Have experience with Container Infrastructure, Microservices
+Have experience with Kubernetes, REST APIs, Helm, Rancher
+Have experience with Kubernetes Cluster, Remote Worker Nodes and API-Server
+Have experience with Data Analytics tools and services
+Have  IoT Management tools, services, platform expertise
+Have experience with agile software / product development methods such as Scrum or Kanban as well as in accompanying a product development team
+Have experience with databases (Influx, Mongo, Postgres, MySQL …)
+Have very good Linux skills
+Have experience with Backups / Restorations in container infrastructure
+Have good knowledge of network architecture, infrastructure, and Software Defined Networks
+Have experience with IAM / Keycloak and operation
+Have understanding of the network security standards in Linux environments and Kubernetes
+Education
+hold University degree
+Experience
+have 1-2  years’ experience in the area of responsibility
+Languages
+speak English B2 at minimum,
+speak German  - advantage
+Others
+have presentation skills,
+have project leadership skills
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+1 650 - 2 550 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Dana Dráčová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5254140
+Dátum zverejnenia:
+20.3.2026
+2026-03-20
+lokalita:
+Košice region
+Pozícia:
+Systems Administrator
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+1 650 EUR/month

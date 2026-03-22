@@ -1,0 +1,96 @@
+Cég neve
+NISZ Zrt.
+Munkavégzés helye
+Hibrid
+•
+1149 Budapest, Róna utca 54-56.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+ORACLE
+CENTOS
+MYSQL
+POSTGRESQL
+SQL
+PLSQL
+LINUX
+BASH
+CLOUD
+ITIL
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Főiskola
+
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+ORACLE
+CENTOS
+MYSQL
+POSTGRESQL
+SQL
+PLSQL
+LINUX
+BASH
+CLOUD
+ITIL
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+Csatlakozz Magyarország legnagyobb IT és bizalmi szolgáltatójának pörgős mindennapjaihoz!
+Feladatok
+4 fős DBA csapat mindennapi munkájának koordinálása,
+Oracle adatbázisok adminisztrálása (11gR2-19c , Exadata) CentOS/RedHat környezetben,
+Nyílt forrású adatbázisok adminisztrálása Mysql (Mariadb) Postgresql (Enterprisedb)
+ORACLE Enterprise Edition RAC, Dataguard, üzemeltetése nagy (>10TB) adatbázisokkal,
+Adatbázisok magas rendelkezésre állásának és jó teljesítményének biztosítása,
+Proaktív üzemeltetési feladatok (mentés, monitorozások kialakítása, tárhely kezelés),
+Hibakezelés, hibajavítások (patch, PSU) telepítése,
+Teszt/Fejlesztői környezetek kialakítása,
+Alkalmazás fejlesztők/üzemeltetők munkájának támogatása.
+Elvárások
+Releváns felsőfokú végzettséggel rendelkezel,
+Legalább 3 év releváns szakmai tapasztalattal rendelkezel a relációs adatbázisok adminisztrációja terén az alábbi technológiák közül legalább egy magabiztos ismeretével: Oracle, PostgreSQL, MariaDB
+Adatbázis/SQL monitorozás/optimalizálásban tapasztalatot szereztél lehetőleg ORACLE környezetben,
+Nagyvállalati tapasztalatod van
+Előnyt jelent
+Oracle adatbázis upgrade tapasztalattal, Oracle SQL/PLSQL, valamint Linux BASH gyakorlattal is büszkélkedsz,
+Oracle szoftverek (RDBMS/RAC/ASM/Cloud Control) telepítése/konfigurálásában gyakorlatot szereztél,
+Oracle RDBMS 19c, Exadata tapasztalat,
+CentOS/RedHat/OEL Server üzemeltetői tapasztalat,
+Egyéb relációs adatbázis kezelők ismerete (Pl.: MySql, PostgreSQL Server),
+ITIL ismeret,
+Csoport szakmai irányításában szerzett tapasztalat.
+Amit kínálunk
+Komplex juttatási csomag:
+cafeteria, szociális és egyéb juttatások, szakmai elismerési programok, munkatársi kedvezmények, ajánlási rendszer, kedvezményes mobilflotta lehetőség.
+Stabil háttér és szakmai kihívások:
+inspiráló feladatok, tapasztalt szakemberek, változatos projektek, átlátható karrierutak, képzési lehetőségek.
+Munka-magánélet egyensúly megtartása:
+home office lehetőség, munkaszervezés rugalmassága, beosztástervezés.
+Családbarát munkahely:
+babaváró ajándékcsomag, gyerektáborok, #mutiholdolgozol nap, ingyenes állatkerti belépő.
+Egészségközpontú szemlélet:
+komplex egészségügyi szolgáltatás, AYCM-hozzáférés, edzőterem használat, irodai masszázs, sportkörök (futó, kerékpár, bowling, squash), biciklibarát munkahely, véradások, gyümölcsnap.
+Pezsgő közösségi élet:
+tematikus események (NISZ Majális, Főzőverseny, NISZ Pub, Wellbeing hónap, Miénk a NISZ! Évzáró gála).
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Álláshirdetés jelentése

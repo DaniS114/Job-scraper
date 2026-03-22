@@ -1,0 +1,88 @@
+Cég neve
+Tech People Hungary Kft.
+Munkavégzés helye
+Budapest, XI. kerület
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+AWS
+Git
+Jenkins
+DevOps
+Linux OS
+Docker
+Terraform
+Kubernetes
+Spinnaker
+Azure
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Felsőoktatási szakképzés
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+AWS
+Git
+Jenkins
+DevOps
+Linux
+OS
+Docker
+Terraform
+Kubernetes
+Spinnaker
+Azure
+Angol
+középfok
+5-10
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Responsibilities
+Ensuring development tasks to support new release of the project/solutions.
+Groom user stories with PO
+Estimate uses stories and their tasks
+Support production issues or requests
+Experience in all phases of software development lifecycle of DevOps
+Requirements
+5+ years of DevOps experience
+In-depth Linux OS knowledge
+Extensive experience with Docker, Jenkins, Terraform and Git
+Experience with Kubernetes
+Familiarity with Spinnaker
+Familiarity with Grafana, Cloudwatch, Kibana
+Experience in Bash shell scripting
+Cloud knowledge with Azure or AWS
+Excellent communication skills in English.
+Candidate needs to be currently eligible to work in Hungary
+Nice-to-have
+Experience with virtualization management tools
+Familiarity with PostgreSQL, and RabbitMQ or Aurora DB
+Familiarity with Ansible
+Familiarity with Microservice
+AWS certificate
+What we offer
+competitive salary
+hybrid working
+Company info
+Tech People is a European provider of technical skills permanent recruitment and temporary contracting services for multiple industries.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Budapest
+Álláshirdetés jelentése

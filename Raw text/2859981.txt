@@ -1,0 +1,81 @@
+Cég neve
+Cognex Germany Inc.
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+HARDWARE
+C
+C++
+PYTHON
+LINUX
+TEST AUTOMATION
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+HARDWARE
+C
+C++
+PYTHON
+LINUX
+TEST
+AUTOMATION
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Bring-up of new hardware in close cooperation with our electrical teams, providing robust interfaces for our high-level application teams
+Create drivers for new boards, components and sensors (e.g. optical & lightning)
+Evaluate new hardware based on EVK and development kits
+Debug and troubleshoot in a hardware and software environment on heterogeneous multi-core systems
+Ensure a robust and high-quality product by developing test automation
+Support and communicate with other internal teams using our software
+Occasional travel to the USA or Hungary
+Requirements
+Our ideal candidate is a pragmatic software professional with a can-do attitude who shares the enthusiasm for learning and applying any new development that helps to keep our software platform state of the art. You will be involved in the design and bringup of our next generation of machine vision devices, so strong system engineering skills are required. Here's a list of some of the things we pay attention to in our hiring process:
+Master degree in Computer Engineering, Computer Science or a related field
+8+ years of work experience with embedded software development
+Experience in C/C++ and Python
+Work experience in embedded Linux
+Work experience in the Linux kernel, bootloaders and Linux distribution development
+Work experience desired in Yocto desired
+System engineering skills to understand, translate and implement product requirements
+Understanding of electrical schematics and the boundary layer between EE and SW
+High energy and motivated learner with strong analytical and problem-solving skills
+Good presentation, communication, organizational and interpersonal skills
+Verbal and written fluency in English required
+What we offer
+Work as part of one of the most successful companies in the industry!
+Join a warm, informal and personable culture with monthly events and quarterly activities to strengthen the team.
+We have an on-site gym for all our employees, a community of active runners, and other sport activities.
+Join your colleagues in regular social outings as a team.
+Company info
+Ready for the job that challenges and encourages you to get the best out of yourself? Do you feel at home in a highly innovative R&D environment? Then join our team at Cognex!
+Cognex
+is a global leader in the exciting and growing field of machine vision, with 2000 employees in offices worldwide. Our employees, proudly called “Cognoids”, are passionate about solving the most difficult vision problems and get to work with others who take their work seriously, but don't take themselves seriously. Our
+Work Hard, Play Hard, Move Fast
+culture recognizes achievement and dedication with unique rewards and celebrations.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

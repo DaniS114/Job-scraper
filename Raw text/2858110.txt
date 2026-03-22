@@ -1,0 +1,105 @@
+Cég neve
+Simcon kunststofftechnische Software GmbH
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C++
+PYTHON
+CLOUD
+TESTING
+C
+ACCESS
+CI
+TEST AUTOMATION
+Elvárások
+Angol középfok és
+Német felsőfok
+1-3 év tapasztalat
+Egyetem
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+C++
+PYTHON
+CLOUD
+TESTING
+C
+ACCESS
+CI
+TEST
+AUTOMATION
+Angol
+középfok és Német felsőfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Own the SDK architecture.
+Technical direction for a library built on numerical algorithms and solver logic. Module boundaries, interface contracts, versioning. Drive key decisions through our RFC process.
+Build the engineering infrastructure.
+Cross-platform build system, CI, test automation, and quality gates. Your team owns these.
+Build the system to use agentic coding effectively.
+Define specs, context, constraints and tools. Sometimes vibe coding, always engineering.
+Lead a team of engineers.
+Hire, develop, set the bar. Own planning and delivery. Empower others to take the lead themselves. Collaborate with the leadership team to shape how engineering at SIMCON evolves.
+Manage your stakeholders.
+Work with product management, Cloud/Web, and the AI team to make this SDK a success story.
+Requirements
+Software engineering fundamentals.
+Architecture, code quality, testing and best practices matter.
+The programming language of the future is English, but engineering principles still count.
+Strong C/C++ or Python in algorithmic or compute-intensive contexts, willing to work with both.
+You've navigated large, evolving codebases where the logic is mathematical, not just structural.
+SDK or library experience.
+You've shipped software that other developers build on top of.
+Agentic engineering mindset.
+You don't just use coding agents. You think about how to make them work reliably across a team. You know where they help and where they get in the way.
+Strong written and verbal communication.
+You explain trade-offs, document decisions, and work effectively across teams. Fluent German (C2) and English required.
+Nice To Have
+People leadership or team lead experience
+Numerical simulation, CAE, or scientific computing
+Cloud-native deployment of compute-heavy workloads
+ML model serving or hybrid solver architectures
+You won't check every box. If you know your gaps and how to close them, apply.
+What we offer
+A real technical challenge.
+You're reshaping a proven simulation engine for a market moving to cloud and AI.
+Ownership and impact.
+About 40 people. Your decisions shape the product and the business.
+Fully remote in Germany.
+Office near Aachen if you want it. Willingness to travel up to 15 days a year for team meet-ups and partner visits.
+Modern tooling.
+Notion, GitHub, Linear, coding agents. We're building the practices that make this work, and you help shape them.
+Short paths.
+Direct access to all C-level. Quick decisions, fast feedback.
+Company info
+Welcome to SIMCON, a leading high-tech software company with more than 30 years of experience and the vibrant energy of a start-up.
+SIMCON is a pioneer in computer-aided engineering, enabling engineers worldwide to efficiently test and optimize plastic components. Since becoming part of the Fortino Capital family in 2024, we have been driving our growth in industries such as medical technology, electronics, and aerospace, while expanding internationally.
+At SIMCON, we believe that an outstanding customer experience goes beyond our software solutions and is built on customer-centric strategies and innovative methods.
+Lead Software Engineer - Simulation SDK (C++/Python) (m/w/d)
+Senior | Full-time | Fully remote (Germany) | Aachen area optional
+Our simulation engine is one of the best in injection moulding. Product-market fit has been proven for decades, but we also caught some dust. We recently showcased the first Large Engineering Model for Injection Moulding, and it will change how this industry works. Now we need the SDK that powers it all.
+As Lead Software Engineer, you turn a battle-proven simulation engine into a modern, composable SDK with a Python-first interface. You own the architecture, the quality bar, and the team that builds it. The SDK becomes the foundation for our cloud platform, our AI-driven simulation models, and a growing partner ecosystem. You work alongside our AI and Cloud teams to bring this to where it matters.
+That means working with a large, mature C/C++ codebase. Real domain depth, real technical debt, and all the freedom to reshape it. And you shape how we build: at SIMCON, agentic engineering is the direction. The system around the code is as much your job as the code itself.
+You lead a team of engineers and report directly to the CTO. This is a hands-on engineering leadership role: roughly 60% coding and architecture, 40% team leadership and organizational work.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

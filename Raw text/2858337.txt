@@ -1,0 +1,95 @@
+Cég neve
+GITMAX IT Services Zrt.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SQL
+API
+TESTING
+REST
+JIRA
+CONFLUENCE
+CI
+HARDWARE
+JAVASCRIPT
+BACKEND
+WINDOWS
+POSTGRESQL
+MYSQL
+TEST MANAGEMENT
+Biztosított eszközök
+Windows
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+SQL
+API
+TESTING
+REST
+JIRA
+CONFLUENCE
+CI
+HARDWARE
+JAVASCRIPT
+BACKEND
+WINDOWS
+POSTGRESQL
+MYSQL
+TEST
+MANAGEMENT
+Windows
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Testing hardware and software of gaming products (gaming devices, Windows applications)
+Interact with internal and 3rd party development teams to fix bugs
+Create test documents (mostly test cases, checklists, inspection criteria for product acceptance)
+Report bugs and perform re-testing
+Participate in Software Development Lifecycle (SDLC) meetings to provide quality assurance insights at each stage of development
+Conduct usability testing to ensure an intuitive and user-friendly interface and validate client/server workflows end-to-end
+Build and maintain automated integration tests for Windows app - backend (API/WebSocket), covering critical user/device flows and regression/smoke
+Run automation locally and/or in CI, analyze failures, keep suites stable and provide clear reports
+Requirements
+Experience as a QA for 3+ years
+Strong experience in writing test documentation and analyzing development documentation
+Experience with creating and managing test plans, test cases, checklists, test case coverage analysis, and effective hardening and exploration strategies
+Functional and non-functional testing experience (e.g., regression, integration, performance, smoke, etc.)
+Experience in Windows application testing
+Experience in working with test management tools (Jira, Zephyr), and Confluence; strong bug reporting + investigation skills (logs, networking, repro steps)
+Automation experience is required: writing and maintaining tests for integration scenarios (API/WebSocket) using JavaScript/TypeScript (preferred) or another common language
+Practical API testing experience (REST; WebSocket is a plus) and basic SQL skills for data validation in DB (PostgreSQL/MySQL)
+Proficiency in English at Intermediate level or higher
+What we offer
+Fixed schedule (remote)
+Opportunity to work for a financially strong, fast-growing multinational company
+Constant interaction with global teams of professionals
+International career opportunities
+Competitive salary package and motivation scheme
+Life events' gifts, corporate presents and awards, years of service bonuses
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Tester,
+Test Engineer
+Regionális
+Álláshirdetés jelentése

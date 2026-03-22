@@ -1,0 +1,59 @@
+Cég neve
+High Tech Engineering Center Kft.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+AGILE
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+AGILE
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design and implement SSI solutions
+Contribute to the development and integration of W3C Verifiable Credentials (VCs)
+Ensure the robustness and security of SSI implementations by applying advanced cryptographic protocols
+Partner with the decentralized identity architect and collaborate with the product team to innovate and refine SSI applications, enhancing functionality and user experience
+Troubleshoot and resolve complex issues related to SSI, providing technical guidance
+Stay up to date on new developments in SSI, and related fields to continually improve our solutions
+Requirements
+Proven experience in Self-Sovereign Identity (SSI) development, with a portfolio or examples of previous work and applications
+Experience in Hyperledger Aries development and the underlying cryptographic protocols used by it are nice to have
+Deep knowledge of DIF, communication protocols, Identity Wallets, and W3C Verifiable Credentials
+Strong perspective on decentralized web solutions
+Deep understanding of the mechanics and flow of SSI, including real-world application challenges
+Expertise in the underlying cryptographic protocols used by SSI technologies
+Familiarity with Zero Knowledge Proofs
+Strong programming skills in Rust
+Basic understanding of blockchains
+Ability to work independently and collaboratively in a fast-paced, agile environment
+Excellent problem-solving skills and attention to detail
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Regionális
+Álláshirdetés jelentése

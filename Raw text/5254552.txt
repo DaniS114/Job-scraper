@@ -1,0 +1,132 @@
+ML / Platform Engineer
+CODERAMA s. r. o.
+Miesto práce
+Práca z domu
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+ASAP
+Mzdové podmienky (brutto)
+3 500 - 6 000 EUR/mesiac
+Základná mzda pri TPP je 3 500,- EUR. Pri kontrakte sa mzda pohybuje od 4 000,- do 6 000,- EUR.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ahoj,
+som Samo z CODERAMA a do tímu hľadáme
+ML / Platform Engineera
+, ktorý sa chce podieľať na vývoji platformy pre data science tímy. Hľadáme človeka, ktorý rád kombinuje programovanie, prácu s dátami a spoluprácu s data scientistami pri nasadzovaní a prevádzke ML modelov.
+V tejto roli budeš pomáhať budovať platformu, ktorá umožňuje data scientistom efektívne analyzovať dáta, experimentovať s modelmi a nasadzovať ich do produkcie.
+Čo ťa počas dňa čaká?
+Podľa projektu sa budeš venovať najmä:
+vývoju a zlepšovaniu ML platformy pre data science tímy,
+podpore data scientistov pri práci s platformou a odstraňovaní technických prekážok,
+nasadzovaniu ML modelov do produkcie a príprave infraštruktúry na ich prevádzku,
+implementácii kódu, ktorý dokáže použiť modely natrénované v Pythone a obsluhovať ich v Go prostredí,
+monitorovaniu výkonu a správania nasadených modelov,
+spolupráci s platform a infra tímami na doručovaní technológií pre data science projekty,
+zbieraniu spätnej väzby od používateľov platformy a jej ďalšom rozvoji podľa potrieb tímov,
+údržbe data science infraštruktúry a kódu (cleanup, aktualizácia závislostí, optimalizácia existujúcich riešení).
+Čo od teba očakávame my?
+skúsenosť s vývojom softvéru alebo platformových riešení,
+dobré programátorské základy – ideálne v
+Go alebo Python
+,
+záujem o
+machine learning platformy, MLOps alebo data science prostredie
+,
+schopnosť spolupracovať s data scientistami a rozumieť ich potrebám,
+základné porozumenie ML modelom a procesu ich trénovania a nasadzovania,
+analytické myslenie a chuť zlepšovať existujúce technické riešenia,
+angličtinu na komunikatívnej úrovni.
+Prečo je to zaujímavá príležitosť?
+práca na platforme, ktorá priamo podporuje vývoj a nasadzovanie ML modelov,
+kombinácia platform engineeringu, MLOps a spolupráce s data science tímami,
+možnosť ovplyvňovať architektúru ML riešení a spôsob, akým sa modely dostávajú do produkcie.
+Projekt je plánovaný
+dlhodobo (minimálne 12 mesiacov)
+, pričom kontrakt s klientom sa uzatvára vždy na
+3 mesiace
+.
+Očakávaná kapacita je
+full-time, minimálne 80 %
+.
+V CODERAMA sa o teba dobre postaráme, tak ak chceš vedieť viac, napíš nám a radi sa ti ozveme späť
+Zamestnanecké výhody, benefity
+• Nadštandardné platové ohodnotenie
+• Možnosť kariérneho rastu a sebarealizácie
+• Možnosť rotácie medzi projektami
+• Práca v úspešnej spoločnosti a v priateľskom kolektíve
+• Podpora vzdelávania a sebarozvoja
+• Flexibilná pracovná doba
+• Možnosť pracovať odkiaľkoľvek
+• Žiadna byrokracia
+• Firemný hardware
+• Stabilita, takmer žiadna fluktuácia - ak už raz do CODERAMA prídeš, nebudeš chcieť odísť
+• Event kalendár plný športových a kultúrnych akcií, teambuildingov a iných aktivít
+• Práca spojená s cestovaním, tzv. Work & Travel
+• Pet friendly office
+• Psychologické poradenstvo, coaching a mentoring program
+​• AI Certifikácia
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informačné technológie
+Jazykové znalosti
+Anglický jazyk - Pokročilý (C1)
+a
+Slovenský jazyk - Expert (C2)
+Ostatné znalosti
+ML - Pokročilý
+Data analysis - Pokročilý
+Python - Pokročilý
+GO - Pokročilý
+Prax na pozícii/v oblasti
+5
+Počet rokov praxe
+5
+Osobnostné predpoklady a zručnosti
+• Znalosť agilného vývoja
+• Chuť pracovať
+• Záujem učiť sa nové technológie a neustále sa odborne vzdelávať
+• Zodpovednosť za pridelené úlohy
+• Samostatnosť, ale zároveň aj tímovosť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+CODERAMA, s.r.o. je progresívny a inovatívny SOFTWARE HOUSE zaoberajúci sa vývojom komplexných enterprise riešení pre zákazníkov zo Slovenska a zahraničia ako sú ŠKODA AUTO, NOTINO, CRIF, KONICA MINOLTA, MOROSYSTEMS, MONET+, KISTLER, KOMIX, BRAVIDA, ČSOB, MEGAUBYTOVANIE.SK, DXC TECHNOLOGY, TELEKOM, INTERWAY, KROS, UNIQA, AVILOO, UNILABS SK a ďalších.
+Zákazníci na nás najviac oceňujú našu proaktivitu a poctivosť. Okrem vývoja zákazníckych riešení sme sa s nadšením pustili aj do vlastných projektov a už teraz sa nevieme dočkať ako ich uvedieme na trh.
+V CODERAMA je nás 170+ a neustále rastieme.
+Okrem Žiliny pôsobíme aj v Bratislave, Martine a Banskej Bystrici. Mnohí z nás pracujú aj REMOTE. Každý z nás je jedinečný a navzájom sa perfektne dopĺňame. Vieme tvrdo zamakať ale aj sa poriadne zabaviť.
+V CODERAMA si zakladáme na kamarátskom prístupe, tímovosti, poctivej práci, transparentnosti a slobode. Problémy riešime spoločne a aj úspechy oslavujeme spoločne. Ak sa chceš presvedčiť, že pracovať u nás je naozaj zážitok, príď nás kedykoľvek navštíviť.
+Počet zamestnancov
+100-149 zamestnancov
+Kontakt
+Kontaktná osoba: Samuel Hutta
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5254552
+Dátum zverejnenia:
+20.3.2026
+2026-03-20
+lokalita:
+Práca z domu
+Pozícia:
+Cloud Engineer
+,
+Dátový inžinier / Data Engineer
+Spoločnosť:
+CODERAMA s. r. o.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

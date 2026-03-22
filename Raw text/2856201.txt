@@ -1,0 +1,91 @@
+Cég neve
+Forschungszentrum Jülich GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NETWORK
+PYTHON
+R
+C++
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+NETWORK
+PYTHON
+R
+C++
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Develop methods and workflows to construct robust co-regulation networks from large single-cell and spatial transcriptomics datasets
+Integrate ontologies and metadata (e.g., tissue, cell type, developmental stage, treatment) to build tissue- and context-specific co-regulation networks
+Design and implement clustering and integration approaches (e.g., network-based and subspace clustering)
+Use co-regulation networks for gene function and protein-protein functional relationship prediction (guilt-by-association), and benchmark them against existing bulk co-expression resources
+Compare and optimise the developed methods on real biological datasets; work closely with experimental partners for interpretation and validation of results
+Contribute to the integration of the developed methods into open-source software tools and data portals of the institute
+Collaborate with internal and external, as well as national and international, project partners
+Present your results at national and international conferences
+Prepare scientific publications and project reports
+Requirements
+Genuine interest in data science and one or more of its application domains: life and medical sciences, earth sciences, energy systems, or material sciences
+A master's degree with a strong academic background in mathematics, computer science, physics, material science, earth science, life science, engineering, or a related field
+Proficiency in at least one programming language (Python, R, C++, Julia, …)
+Good analytical skills with a sound understanding of data evaluation
+Prior experience with single-cell data analysis, network analysis, or machine learning is a plus
+Good organisational skills and ability to work both independently and collaboratively
+Effective communication skills and an interest in contributing to a highly international and interdisciplinary team
+Motivation for academic development, supported by bachelor's and master's transcripts and two reference letters
+Working proficiency in English for daily communication and professional contexts (TOEFL or equivalent or exemption required)
+Knowledge of German is beneficial
+What we offer
+We work on the very latest issues that impact our society and are offering you the chance to actively help in shaping the change! This HDS-LEE PhD position will be located at Forschungs­zentrum Jülich, HHU Düsseldorf and Aarhus. We offer ideal conditions for you to complete your doctoral degree:
+Outstanding scientific and technical infrastructure
+Cutting edge data is available for analysis
+Highly motivated groups as well as an international and interdisciplinary working environment at one of Europe's largest research establishments
+Continuous scientific mentoring by your scientific advisors
+Chance of participating in (international) conferences
+Unique HDS-LEE graduate school program (including data science courses, soft skill courses and annual retreats)
+Qualification that is highly welcome in industry
+Further development of your personal strengths, e.g. via a comprehensive further training program; a structured program of continuing education and networking opportunities specifically for doctoral researchers via JuDocS, the Jülich Center for Doctoral Researchers and Supervisors:
+30 days of annual leave and flexible working arrangements, including partial remote work
+Targeted services for international employees, e.g. through our International Advisory Service
+The position is initially limited to three years, with a planned one-year extension. Pay in line with 75% of pay group 13 of the Collective Agreement for the Public Service (TVöD Bund) and additionally 60% of a monthly salary as special payment ("Christmas bonus"). Further information on doctoral degrees at Forschungs­zentrum Jülich including our other locations is available at:
+Further information on doctoral degrees at Forschungs­zentrum Jülich (including its various branch offices) is available at
+We welcome applications from people with diverse backgrounds, e.g. in terms of age, gender, disability, sexual orientation/​identity, and social, ethnic and religious origin. A diverse and inclusive working environment with equal opportunities in which everyone can realize their potential is important to us.
+The following links provide further information on diversity and equal opportunities:
+and on specific support options for women:
+Company info
+Shaping change: this is what drives us at Forschungs­zentrum Jülich. As a member of the Helmholtz Association with some 7,600 employees, we conduct interdisciplinary research into a digitalized society, a climate-friendly energy system, and a sustainable economy. We focus on the natural, life, and engineering sciences in the fields of information, energy, and bioeconomy. We combine this with expertise in high-performance computing and artificial intelligence using unique scientific infrastructures.
+The Bioinformatics Division of the Institute of Biological and Geosciences (IBG-4) processes and develops methods and algorithms to achieve a fundamental understanding of high-dimensional data and processes in the bioeconomy in particular. Bioinformatics at Forschungs­zentrum Jülich plays a leading role at the international level, for example in the field of plant and microbial data management, in the evaluation of new methods of genome analysis, in the integration, interpretation, and visualization of high-dimensional omics data from the field of bioeconomics, and in the modeling, simulation, and engineering of biomolecular systems, including enzymes. Apply your data science skills to real-world challenges! At the Helmholtz School for Data Science in Life, Earth and Energy (HDS-LEE), we train the next generation of data scientists to tackle key global issues in domain sciences such as life, earth or energy. Learn more at
+. Institute specific promise here.
+We are looking to recruit a
+PhD position – Co-regulation structures for large-scale single-cell transcriptomics – within the HDS-LEE graduate school
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

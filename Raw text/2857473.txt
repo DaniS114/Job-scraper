@@ -1,0 +1,94 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+CRM
+SQL
+DATABASE
+JAVASCRIPT
+REST
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+CRM
+SQL
+DATABASE
+JAVASCRIPT
+REST
+Mobiltelefon
+Angol
+középfok
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Act as a consultant and technical expert on the Salesforce platform by providing support to stakeholders and users.
+Closely collaborate with experts from other areas to leverage on the Salesforce technologies through integrations with other solutions.
+Setting up new business units in SFMC that include but not limited to the configuration of the data points and FTP locations.
+Use AMP script to develop dynamic content in SFMC.
+Use SSJS to develop new custom applications in Journey Builder including leveraging the REST & SOAP APIS by creating installed packages.
+Build targeted audience segments based on email behavioral data and CRM attributes using Data Extensions and SQL Setup.
+Leveraging on the capabilities provided by Journey Builder, Automation Studio, Interaction Studio, Content Builder, Email Studio, and other solutions to deliver multi-touch communications.
+Campaigns and Triggered sends: being able to oversee complex campaign workflow rules and data segmentation.
+Oversee the ETL of multiple business units that include suggesting best practices on daily automations.
+Configuring the database environment by creating the data model using data extensions and Contact Builder inside the Data Designer.
+Define data validation, cleansing, deduplication rules and processes in SFMC.
+Define data connectors for data ingestion into Salesforce across Betsson’s technical ecosystem, partnering with CRM and Data teams, as needed.
+Assist in the technical and architectural framework for the SFDC applications.
+Ensuring scalability of all the solutions developed.
+Serve as the subject matter expert for SFMC for the internal stakeholders that include managers and end-users.
+As an expert on SFMC, it is expected to gather requirements, discuss, and implement them based on best practices.
+Able to communicate technical and business solutions by developing and presenting information to multiple audiences.
+Requirements
+University degree in Computer Science, Information Systems, or a related field.
+Salesforce Certified Marketing Cloud Developer (or equivalent certification).
+At least 3 years of hands-on experience with Salesforce Marketing Cloud.
+Strong knowledge of Salesforce administration (minimum 1 year).
+Solid understanding of SQL, data modeling, and integration methods.
+Strong documentation and knowledge-sharing mindset.
+Ability to stay updated on industry trends, emerging technologies, and third-party solutions.
+Excellent communication skills with the ability to explain complex technical concepts to both technical and non-technical audiences.
+Experience with JavaScript
+Experience with Salesforce Service Cloud and Sales Cloud is a plus.
+What we offer
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

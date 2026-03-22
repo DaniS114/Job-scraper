@@ -1,0 +1,76 @@
+Cég neve
+SEON Technologies Kft.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Golden Path Architecture: Design and implement the "Golden Paths"—standardized, automated templates for microservices and infrastructure that allow developers to deploy safely and quickly without needing deep infrastructure expertise.
+Self-Service Tooling: Develop the CLI tools, portals, or API interfaces that abstract the complexity of our cloud infrastructure, allowing developers to self-serve resources.
+Infrastructure as Software: Develop and maintain a library of modular, testable, and versioned Terraform modules that serve as the building blocks for all engineering teams.
+CI/CD Orchestration: Architect robust, reusable GitHub Actions workflows and GitOps pipelines (e.g., ArgoCD) that automate the entire delivery lifecycle, enforcing quality gates automatically.
+Automated Governance: Implement "Compliance by Design" using tools like Open Policy Agent (OPA) to automate security and compliance controls (e.g., SOC2, ISO) directly into the delivery pipeline.
+Observability Vending: Working closely with SRE, ensure that every service deployed via the Golden Path automatically inherits standard logging, metrics (Prometheus), and dashboards (Grafana) without manual configuration.
+Requirements
+Platform & DevOps Mastery: 5+ years of experience in Platform Engineering, DevOps, or Site Reliability Engineering, with a demonstrable track record of building infrastructure and tools for other engineers.
+Software Engineering Fluency: Unlike traditional ops roles, this position requires strong coding skills. You are proficient in a high-level language (e.g., Go, Python) and use it to build automation, CLIs, or platform plugins.
+Cloud Native Expertise: Deep, hands-on mastery of AWS and Kubernetes. You understand how to extend Kubernetes (e.g., Operators, CRDs) to simplify developer workflows.
+IaC at Scale: Expert-level knowledge of Terraform. You don't just write state files; you design reusable module hierarchies and manage remote state strategies.
+Strategic Vision: You understand the balance between standardization (governance) and developer autonomy (innovation), and can design systems that support both.
+Security Mindset: Experience working in regulated environments (FinTech preferred). You understand DevSecOps and how to automate compliance checks (SAST/DAST) within the pipeline.
+Empathy & Communication: You possess excellent communication skills and a "customer-first" attitude, capable of bridging the gap between complex infrastructure and application development.
+What we offer
+Fair compensation
+Employee stock ownership plan (ESOP)
+National holidays and generous holiday allowance
+Flexible work schedule
+Enhanced parental leave policies
+Private health insurance including coverage for spouse and dependents
+Hybrid working environment with remote and office collaboration
+Employee assistance and mental health support platform
+Monthly company breakfast and weekly lunch allowance
+Access to learning and development opportunities including external L&D
+Weekly language courses in 40+ languages
+Book allowance for business books
+Workplace extras
+Canteen
+Cafe
+Corporate events
+Bicycle storage
+Free fruits, snacks
+Free coffee, soft drinks
+Free breakfast
+Free lunch
+Play corner
+Company info
+SEON is a company founded in 2017 with over $187 million in funding and more than 290 team members. SEON helps online businesses reduce the cost, time and challenges faced due to fraud by simplifying fraud management so companies can focus on growth and scaling. SEON operates globally with offices in the Americas, EMEA and Asia-Pacific, serving thousands of companies worldwide across multiple time zones.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Finance,
+Accounting
+Analyst,
+Advisor
+Budapest
+Budapest
+Álláshirdetés jelentése

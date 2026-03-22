@@ -1,0 +1,84 @@
+Cég neve
+Prooktatás Bt.
+Munkavégzés helye
+Távmunka / Remote
+•
+Opcionális iroda
+Fizetés
+Nettó
+8 000 - 8 000 Ft/óra bér
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Vállalkozói
+Részmunkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Biztosított eszközök
+Monitor (1 db)
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Vállalkozói
+Részmunkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Monitor
+(1 db)
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+A Prooktatás csapata Cloud Engineering és felhőalapú architektúrák OKTATÁSÁRA keres olyan tapasztalt szakembert, aki nemcsak építeni tud komplex rendszereket, hanem szívesen át is adná ezt a tudást a jövő mérnökeinek.
+Olyan mérnököt keresünk, aki magabiztosan mozog a felhőplatformok világában, és szívesen váltana a napi devops/architect feladatok mellett egy izgalmas másodállásra: az OKTATÁSRA.
+Szükséges szakmai tudás: alapos ismeretek a három nagy szolgáltató (AWS, Azure, Google Cloud) terén, valamint a hozzájuk kapcsolódó automatizációs és konténerizációs technológiák ismerete.
+Ez egy másodállás, heti 2 hétköznap esténként VAGY hetente egyszer, szombaton (délelőtt és délután).
+Főbb feladatok:
+kis csoportos interaktív oktatás tematika alapján
+"házi" gyakorló feladatok kiadása
+vizsgák értékelése az egyes tanfolyamok végével
+Jelenleg szinte kizárólag online oktatunk, így a munka is
+full remote
+!
+Elvárások
+Mindhárom nagy platform ismerete:
+AWS, Azure és Google Cloud
+Tapasztalat Infrastructure as Code (IaC) eszközökben (pl. Terraform, CloudFormation).
+Legyél igényes a munkádra, készülj fel az órákra.
+Legyél türelmes a diákokkal, és tudd érthetően elmagyarázni a komplex összefüggéseket.
+Oktatói tapasztalat előny, de nem feltétel – a Prooktatás módszertani segítséget nyújt!
+Előnyt jelent
+Releváns certifikációk (pl. AWS Solutions Architect, Azure Administrator, Google Professional Cloud Architect).
+Docker és Kubernetes (K8s) mélyebb ismerete.
+CI/CD pipeline-ok ismerete (Jenkins, GitLab CI, GitHub Actions).
+Amit kínálunk
+Kiemelt bérezés:
+kb. nettó 8.000 Ft órabér
+Folyamatos, kiszámítható munkavégzés és jövedelem.
+Full remote munkavégzés otthonról.
+Oktatástechnikai támogatás és mentorálás.
+Lelkes, előszűrt és motivált diákok.
+Céginformáció
+Cégünk webfejlesztő és programozó képzéssel foglalkozik már 8 éve Magyarországon. Célunk, hogy használható, piacképes tudást adjunk át a nálunk tanulóknak. Szakmai közösségünkben mindenki aktív fejlesztő, így naprakész technológiákkal dolgozunk.
+További infó:
+https://www.prooktatas.hu
+Jelentkezés módja
+Érdeklődni, jelentkezni a lenti "Jelentkezem" gombra kattintva lehet.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

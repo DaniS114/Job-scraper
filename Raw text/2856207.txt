@@ -1,0 +1,77 @@
+Cég neve
+KIRCHHOFF Automotive Deutschland GmbH
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Co-lead the global OT Security domain
+within the Digitalization Team, ensuring close alignment with Corporate IT, Maintenance, Engineering, and Production functions
+Coordinate and support NIS2 implementation
+, including risk assessments, control validation, and audit readiness across all plants; act as key interface between Corporate IT Security, site operations, and external auditors
+Define, harmonize, and maintain global OT security standards
+, including OT network architecture, firewall segmentation concepts, secure remote access, VPN policies, and identity/access procedures for OT assets
+Evaluate and mitigate cybersecurity risks
+in OT environments, in close collaboration with Corporate IT Security
+Support the secure integration of machines and systems
+into the company's Industrial Data Platform, including connectivity middleware and visualization environments (e.g., Kepware, ThingWorx)
+Provide guidance for global and plant-level rollouts
+, ensuring compliance with corporate OT security requirements and alignment with connectivity standards
+Prepare, maintain, and manage OT cybersecurity documentation
+, including network diagrams, asset inventories, access concepts, and audit evidence
+Conduct training and awareness sessions for automation, engineering, and maintenance teams
+on secure OT operation, incident response, and best practices
+Act as OT–data enablement interface
+, ensuring that OT data provided for analytics/AI use cases meets security, reliability, and quality requirements.
+Requirements
+Educational background in automation technology, industrial IT, or electrical engineering, or comparable qualification
+Minimum 3 years of experience in OT/IT integration, industrial networking, or cybersecurity
+Strong knowledge of network architectures (Layer 2/3, VLANs, VPNs, firewalls) and industrial communication protocols (OPC UA, Modbus, MQTT, Ethernet/IP).
+Familiarity with NIS2, ISO 27001, IEC 62443 or related cybersecurity frameworks.
+Experience with IoT gateways, SCADA/MES systems, and digital shopfloor solutions
+High analytical and problem-solving skills, with the ability to translate technical issues into actionable measures
+Excellent communication and collaboration skills across IT, production, and external partners
+Independent, well-structured, and results-driven working style
+Excellent command of English; German is an advantage
+What we offer
+For the ideal compatibility of work and private life, we offer the possibility of mobile working as well as a flexible flextime arrangement, with up to 14 additional days possible.
+As an innovative employer, it is natural for us to equip you with the latest technology and give you the opportunity to work remotely.
+Security in old age – we support you through a company pension scheme.
+Healthy nutrition is important, therefore we provide all employees with fresh fruit and vegetables at the workplace.
+Tailored personnel development ensures your professional success.
+There is something for everyone! Through our partners, we ensure a healthy balance (employer-funded supplementary health insurance, gym membership, free swimming at the local indoor pool, vaccinations).
+Being part of it is worth it! Employee benefits through Corporate Benefits.Our own company daycare "KiCoKids" enables the perfect compatibility of work and family.
+Unique! KIRCHHOFF Culture Life: culture and events – with us, it always stays varied.
+Company info
+We are an international automotive supplier offering body solutions that make tomorrow's mobility safe. With approx. 8,000 employees worldwide, we develop and produce complex metal and hybrid structures for body-in-white and chassis, which make a decisive contribution to the optimum protection of all vehicle occupants in the event of a car accident.
+OT & Cybersecurity Specialist (m/w/d)
+at our site in Attendorn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Manufacturing,
+Production
+Automatization
+Germany
+Álláshirdetés jelentése

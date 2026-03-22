@@ -1,0 +1,85 @@
+Migration Engineer
+Groda s.r.o.
+Place of work
+Galanta, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Start date
+ASAP / by agreement
+Wage (gross)
+3 400 - 4 300 EUR/month
+Trade Licence: 3,400 – 4,300 EUR/month.
+Full-time (TPP): 2,500 – 3,200 EUR/month.
+Information about the position
+Job description, responsibilities and duties
+We are looking for a Migration Engineer to support data migration and integration activities across enterprise systems. This role focuses on Python-based automation, data transformation, and system integration (not a data analytics role).
+Programming Skills
+Python development (required)
+Experience writing automation scripts and data-processing pipelines
+Working with APIs, command line tools, and file processing (XML, JSON, ReqIF)
+Debugging and maintaining existing Python codebases
+Version control
+Git workflows, branching, debugging historical change
+Data Migration & Data Transformation
+Experience migrating structured data between systems
+Understanding of:
+schema mapping
+data transformation logic
+validation and reconciliation after migration
+Knowledge of XML structured data
+Integration & Automation
+Experience integrating enterprise tools via:
+CLI tools
+APIs
+scripting interfaces
+Building automation scripts for bulk operations
+Logging, error handling, and batch processing
+Big advantages:
+Knowledge of ReqIF
+Familiarity with requirements management tools such as IBM Rational DOORS, PTC Integrity, PTC Codebeamer
+Employee perks, benefits
+Hybrid work model (3 days onsite / 2 days remote) with flexibility
+Opportunity to work on complex data migration and integration projects in enterprise environments
+High level of ownership and ability to influence technical solutions
+Supportive and collaborative team environment
+Space to improve existing tools and introduce automation improvements
+Competitive compensation based on experience and cooperation model (TPP / trade licence)
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Experience in the position/sector
+medior/senior
+Advertiser
+Brief description of the company
+Engineering and software development services supplier
+Number of employees
+3-4 employees
+Contact
+Contact person: Dominika Pajgerová
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5252534
+Dátum zverejnenia:
+17.3.2026
+2026-03-17
+lokalita:
+Galanta
+Pozícia:
+Data Engineer
+,
+Software Engineer
+Spoločnosť:
+Groda s.r.o.
+Základná zložka mzdy (brutto):
+3 400 EUR/month

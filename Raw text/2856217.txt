@@ -1,0 +1,92 @@
+Cég neve
+Riverty
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+C
+CLOUD
+AZURE
+API
+FRONTEND
+ANGULAR
+DATABASES
+SQL
+ENTITY FRAMEWORK
+SCRUM
+AGILE
+AUTOMATED TESTS
+Elvárások
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+C
+CLOUD
+AZURE
+API
+FRONTEND
+ANGULAR
+DATABASES
+SQL
+ENTITY
+FRAMEWORK
+SCRUM
+AGILE
+AUTOMATED
+TESTS
+Német
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design, develop, test, and ship robust, maintainable, and readable software, applications, APIs, and other workflows
+Initiate, participate in, and communicate technical architecture designs
+Attend regular scrum ceremonies as a member of an agile cross-functional team
+Analyze, discuss, and implement business requirements while maintaining good documentation of the systems and components you create
+Bring in industry standards and best practices to continually improve our codebase and architecture
+Make a positive impact on our engineering culture by adopting, implementing, and providing feedback on both organisational and industry standards and practices
+All solutions developed cloud-native targeting Azure - Infrastructure defined using Terraform - Services deployed to Kubernetes clusters by default - A growing microservice ecosystem with event-based integration - Using latest .NET Core - RESTful API design - Single-page frontend apps served by CDN - Frontend tech using TypeScript, often Angular or standard Web Components (Stencil) - Automated tests in each layer - Design collaboration using Figma.
+Requirements
+Hands-on experience with C# and the .NET framework, with a minimum of 5 years of experience
+Experience in developing, shipping, and maintaining cloud-based applications
+Good knowledge and experience working with microservices and distributed architectures
+A deep understanding and knowledge of RESTful APIs
+Years of experience using relational databases, preferably SQL Server. Additionally, working knowledge of ORMs, preferably Entity Framework
+Familiarity with cloud development; experience with Azure is a bonus
+Practical knowledge of using messaging platforms in a distributed architecture (e.g., RabbitMQ, Kafka)
+Proficiency in both written and spoken English
+Knowledge and experience on a FinTech and banking industry is a plus
+Please note:
+you need to have EU citizenship or a valid work permit for Germany.
+Company info
+Everything we do, starts with you.
+Together with you, we build the most human-centric fintech. To enable everyone's future financial growth.
+We are looking for a
+(Senior) Backend Engineer (C#/.Net) (m/f/d)
+Join our team at our location in Berlin – hybrid working conditions available.
+Our solutions contribute to flexible and customer-friendly payment alternatives. We offer consumers the opportunity to choose when and how they want to pay, whilst guaranteeing a steady and predictable cashflow for merchants. Our products make us proud, but not content and we have high ambitions for our existing as well as upcoming products. We have a strong commitment to building the future of FinTech — human-centric and sustainable. With investments to back it up. You will be part of a new and quickly growing product & tech organisation, having the opportunity to shape our new teams as well as build the next revolutionary products.
+Our teams have autonomy when it comes to tech choices. The example below will give you some insights, and we are looking forward to discussing this further with you.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,97 @@
+IT analytik / vývojár
+COMPOTE, s.r.o.
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok
+Mzdové podmienky (brutto)
+Od 2 800 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Compote je žilinská softvérová spoločnosť. Dodávame digitálne riešenia pre verejný a súkromný sektor - integrácie eGovernment systémov, platformy digitálnej identity, smart energy aplikácie a AI-assisted nástroje. Náš tím pracuje na projektoch, ktoré väčšina firiem rieši s dvojnásobkom ľudí - pretože systematicky využívame AI nástroje ako štandard každodennej práce.
+Hľadáme
+IT analytika / vývojára
+- niekoho, kto sa pohybuje na pomedzí analýzy a technického vývoja, rozumie systémom na konceptuálnej aj implementačnej úrovni a vie využívať AI nástroje ako skutočný pracovný nástroj.
+Čo budeš robiť:
+Analyzovať požiadavky klientov - rozhovory, mapovanie procesov, dokumentácia AS-IS/TO-BE, gap analýza
+Navrhovať technické riešenia - dátové modely, API kontrakty, integračné diagramy, systémové kontexty
+Pracovať s AI nástrojmi na zrýchlenie analytickej práce - drafting špecifikácií, generovanie testovacích scenárov, prototypovanie
+Overovať realizovateľnosť riešení formou PoC (2–4 dni) pred začatím plnej implementácie
+Koordinovať vývojový tím počas realizácie - riešiť scope zmeny, odstraňovať bloky, komunikovať s klientom
+Byť technickým kontaktom pre klienta počas aktívnych projektov
+Príležitostne sa zapojiť priamo do kódu - skripty, prototypy, drobné úpravy - technický záber ti pomôže komunikovať presnejšie a overovať riešenia rýchlejšie
+Pre koho je táto rola:
+Rola je vhodná pre niekoho, kto má skúsenosti s technickou analýzou alebo vývojom, ale chce mať väčší prehľad nad celkom projektu - od analýzy až po dodávku. Kód ťa nestraší, ale neznamená to, že musíš byť primárne vývojár. Záleží nám na tom, aby si vedel prepojiť business požiadavky s technickým riešením a videl výsledok svojej práce v praxi.
+Zamestnanecké výhody, benefity
+Čo ponúkame:
+Práca na projektoch s reálnym dopadom - systémy používané štátnymi inštitúciami, nemocnicami a energetickou infraštruktúrou
+Hybridný režim: kancelária v Žiline + flexibilný home office
+Prístup k AI nástrojom je súčasťou pracovného vybavenia
+Vzdelávací budget na certifikáty, konferencie a kurzy podľa vlastného výberu
+Výkonnostný bonus podľa výsledkov firmy a hodnotenia projektov
+Pravidelné tech lunche s celým tímom - priestor na zdieľanie znalostí, skúseností a vzájomný rast
+Malý, plochý tím bez korporátnych vrstiev a zbytočnej byrokracie
+Reálna kariérna cesta
+Informácie o výberovom konaní
+Zašlite nám životopis (po slovensky alebo anglicky) a krátky popis - max. pol strany - projektu, kde ste viedli analýzu alebo technický návrh. GitHub, portfólio alebo LinkedIn sú vítané. Odpovedáme každému uchádzačovi do 5 pracovných dní.
+Priebeh výberu: prehliadnutie CV → 30-minútový úvodný hovor → prípadová diskusia so zakladateľmi (zdieľame reálny anonymizovaný projektový brief a diskutujeme o vašom prístupe) → ponuka.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informatika, systémové inžinierstvo alebo príbuzný odbor, prípadne preukazná odborná prax.
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Požadované:
+Skúsenosti s navrhovaním softvérových riešení - vieš vytvoriť architektúrny diagram, opísať dátový model, zadefinovať API kontrakt
+Znalosť integračných vzorov: REST API, webhooky, front-end/back-end komunikácia, databázová synchronizácia
+Schopnosť písať jasnú technickú dokumentáciu: funkčné špecifikácie, integračné popisy, akceptačné kritériá
+Technické základy kódu - zvládneš prečítať Python skript alebo SQL dotaz a porozumieť čo robí
+Znalosť relačných databáz na úrovni dátového modelovania
+Výhodou:
+Praktická skúsenosť s AI nástrojmi pri analytickej alebo vývojovej práci
+Znalosť eGovernment prostredí alebo SK/EÚ digitálnej infraštruktúry (NKIVS, ISVS, eID, eDoklady)
+JSON-LD, sémantické dáta alebo štandardy digitálnej identity (EUDI, OpenID Connect)
+Skúsenosť s agilnými metódami - reálna práca s backlogom a riadením scope
+Osobnostné predpoklady a zručnosti:
+Systémové myslenie - vidíš súvislosti skôr, než sa ponoríte do detailov
+Komunikácia naprieč úrovňami - vieš preložiť technické rozhodnutie do businessového jazyka a naopak
+Štruktúrovanosť - produkovanie jasných výstupov aj v situáciách, keď požiadavky nie sú dočista jasné
+Proaktívnosť - identifikuješ bloky a riešiš ich skôr, než sa nahromadia
+Záujem o AI nástroje - hľadáš spôsoby, ako ich využiť na zefektívnenie práce
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Compote s. r. o. je IT spoločnosť so sídlom v Žiline, pôsobiaca od roku 2014. Dodávame softvérové riešenia v oblasti eGovernment, digitálnej identity, energetiky a enterprise integrácií - projekty, ktoré majú reálny dosah na státisíce ľudí a fungujú v produkčnom prostredí.
+Nie sme korporácia ani startup bez vízie. Sme skúsený tím, ktorý vie čo robí, pracuje s moderným tech stackom a AI nástroje berie ako bežnú súčasť práce - nie ako buzzword. Každý inžinier u nás má priestor ovplyvňovať technické rozhodnutia, hovoriť priamo s klientom a vidieť výsledky svojej práce v praxi.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Stanislav Cúg
+Tel.:
++421911902879
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253181
+Dátum zverejnenia:
+18.3.2026
+2026-03-18
+lokalita:
+Žilina
+Pozícia:
+IT analytik
+,
+Softvérový inžinier
+Spoločnosť:
+COMPOTE, s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

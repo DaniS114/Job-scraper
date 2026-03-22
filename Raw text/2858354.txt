@@ -1,0 +1,75 @@
+Cég neve
+DruIT Szolgáltató Zrt.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+DEVOPS
+AWS
+DOCKER
+NETWORK
+GIT
+Elvárások
+Angol középfok és
+Magyar középfok
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+DEVOPS
+AWS
+DOCKER
+NETWORK
+GIT
+Angol
+középfok és Magyar középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Platformot építesz a nulláról: új EKS-cluster(ek), hálózat, IAM-guard-rails kódolása Terraformmal / Helm-chartokkal
+Golden Docker-image-ek, Git-ops pipeline-ok, automatikus node-kiosztás és scale-policy
+Folyamatosan üzemeltetsz: CloudWatch → Prometheus metrikák, grafikon-seedelések, SLO-k beégetése
+Ügyeleti rotációban részt veszel; cél, hogy napi munka legfeljebb 50% legyen rutin operáció
+Incidenseket kezeled: első órában mitigáció, gyökérokelemzés & post-mortem minden komolyabb eseményre
+IaC karbantartás és drift-detektálás (Terraform Cloud, Atlantis)
+Kubernetes üzemeltetés – verzió-upgrade, node-pools, network-policy, Admission Controller sparring
+Adatkörnyezet megbízhatóság – Aurora PG region-fail-over, MSK topic-replika menedzsment
+Biztonsági frissítések – Docker-base image-ek CVE-patch, EKS node-AMI kiadás ≤ 14 nap
+Observability-pipeline – log-feldolgozás (OpenSearch), alert-fine-tuning, capacity-forecast
+Elvárások
+3+ év cloud-native (AWS vagy GCP) platform-/DevOps-tapasztalat – EKS vagy más menedzselt K8s
+Erős IaC-háttér (Terraform, Helm); code review kultúra
+Ügyeleti rutin – voltál már on-call, hibát reprodukáltál, post-mortemet írtál
+Magabiztos angol + magyar – ticket, runbook, meeting
+Plusz: adatbázis-replika-menedzsment, Kafka-tuning vagy FinTech háttér
+Amit kínálunk
+Green-field építés – több al-rendszerben konkrétan nincs még cluster, te döntöd el, hogyan nézzen ki
+Modern eszköztár: GitHub, Kubernetes, Managed Grafana, stb.
+Senior csapat, napi 1 stand-up
+Hibrid munkavégzés (11. kerület, Budapest)
+Céginformáció
+Az Adatkezelő információ-technológiai szolgáltatással foglalkozó gazdasági társaság, amely a megbízók részére keres a megbízók által megadott feltételeknek megfelelő szakembereket informatikai projektek elvégzésére. E tevékenysége során az Adatkezelő kezeli az érintettek azon személyes adatait, amelyek az elküldött/feltöltött önéletrajzban kerültek megadásra, továbbá kezeli a jelölttel folytatott telefonbeszélgetést, és az ennek során esetlegesen megadott további személyes adatokat.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+üzemeltetés, Telekommunikáció
+Hálózati
+és Rendszermérnök
+Budapest
+Álláshirdetés jelentése

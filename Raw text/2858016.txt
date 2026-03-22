@@ -1,0 +1,84 @@
+Cég neve
+MVM Next Energiakereskedelmi Zrt.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ADATTÁRHÁZ
+BI
+SQL
+POWER BI
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ADATTÁRHÁZ
+BI
+SQL
+POWER
+BI
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+A több mint 19 ezer munkavállalót foglalkoztató MVM csoport a hazai energetikai szolgáltatások minden területén jelen van, hogy Magyarország energiaellátása folyamatos és biztonságos legyen.
+Az MVM Next Energiakereskedelmi Zrt. biztosítja a folyamatos és biztonságos földgáz-és áramszolgáltatást Magyarországon 4,2 millió lakossági ügyfelének. Ezen kívül több mint 55 ezer üzleti partnerének szabadpiaci villamosenergia- és földgáz-kiskereskedője.
+Feladatok
+Az adatbázis, adatfolyam fejlesztésekhez tartozó üzleti igény és koncepcióterv elkészítése
+Az elkészített specifikáció részét képzi az adatmodellek tervezése, üzleti szempontrendszer implementálása
+Több forrásrendszeren átívelő töltési folyamatok tervezése, dependenciák megállapítása
+Üzleti adattárház architektúra tervek kialakítása
+Az adattárházban az adat életút teljeskörű logikai kontrolálása
+Adatpiacok kiszolgálásához szükséges adat áttöltési folyamatok tervezése az üzleti igények alapján
+Üzleti igények megvalósításának széleskörű tesztelési támogatása
+Kapcsolódó dokumentációk készítése, naprakészen tartása
+Amit kérünk
+Felsőfokú végzettség
+Üzleti elemzésben szerzett tapasztalat / stakeholderekkel való kapcsolattartás
+10 év releváns szakmai (BI/üzleti fejlesztésekben szerzett) tapasztalat
+Adattárház, adatpiac kialakítási és adat katalógus kezelésben szerzett tapasztalat
+Adatbázis kezelő alkalmazások (MS SQL) magabiztos használata
+Data vault 2.0 adatmodell ismerete
+Innovatív szemlélet, kezdeményezőkészség
+Önálló munkavégzés
+Miért jó nálunk dolgozni?
+Hosszú távú és biztos munkalehetőség egy stabil állami vállalatnál
+Változatos, szakmai kihívásokat tartalmazó feladatok, folyamatos szakmai fejlődési lehetőségek
+Együttműködő, támogató csapat
+Széles körű, kiemelkedő béren kívüli juttatási csomag (Cafeteria)
+Nyugdíjpénztári hozzájárulás
+Egészségpénztári hozzájárulás
+Kedvezményes céges üdülési lehetőségek
+Kedvezményes sportolási lehetőségek
+Kockázati balesetbiztosítás
+Egészségügyi szolgáltatások biztosítása
+Kiemelkedő teljesítmény jutalmazása
+Munkaeszközök biztosítása
+Vállalati szabadidős és szakmai rendezvények
+Előnyt jelent
+Interfész technológiák ismerete
+ETL eszközök ismerete (SSIS, KNIME)
+Power BI adatmodell tervezési tapasztalat
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Álláshirdetés jelentése

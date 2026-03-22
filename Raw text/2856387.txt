@@ -1,0 +1,60 @@
+Cég neve
+Zurich Instruments AG
+Munkavégzés helye
+Technoparkstrasse 1, 8005 Zürich, Switzerland
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Biztosított eszközök
+Linux
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Linux
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Senior Embedded Software Engineer (80-100%)
+Zurich Instruments is a technology leader in advanced test and measurement instruments and in control electronics for quantum computing. Our products are used in many challenging research fields by scientists all over the world and by leading high-tech companies worldwide. We help advance science and build the next generation of quantum computers.
+Are you interested to learn how quantum computers work? Do you feel challenged and enthusiastic about building embedded systems that set new performance benchmarks in the market? This is your chance to join our high-quality R&D team in Zurich as a Senior Embedded Software Engineer (80-100%)!
+Your responsibilities
+Implement, test, and verify software executed on embedded systems running Linux
+Debug software that provides limited visibility when running in an embedded environment
+Develop and optimize FPGA logic that lays at the boundary and interacts with the embedded software
+Maintain a high quality standard by reviewing code contributions by other developers
+Collaborate closely with software, FPGA, and hardware development teams as well as product management
+Help design digital systems with state-of-the-art SoC and FPGA chips for new products
+Follow new trends in the embedded software development market, and propose the adoption of new concepts and tools
+Your profile
+MSc or PhD in Electrical Engineering or Computer Science
+Expert knowhow in developing embedded software that interacts both with high-performance host computers and with underlying hardware including FPGAs
+Advanced knowledge of embedded Linux development and tooling
+Deep understanding of technologies like Ethernet, PCIe, CPU caches, DDR memories, DMA engines, etc.
+Expert knowledge of C++. Basic knowhow of either VHDL or Verilog/SystemVerilog
+Solid understanding of FPGA logic design and development tools
+Proficient in English, additional languages are a plus
+We offer a diverse work environment with an open and transparent company culture where personal development forms the basis of our success. We thrive on cooperation and support distributed decision-making that allows everyone to take responsibility and generate substantial impact from the start and on many levels.
+Now is a great time to join the team.
+We look forward to receiving your resume and motivation letter. jid32aed77pn jit0312pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Engineer
+Mechatronics
+Engineer
+Switzerland
+Álláshirdetés jelentése

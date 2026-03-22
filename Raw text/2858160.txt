@@ -1,0 +1,107 @@
+Cég neve
+Mercedes-Benz AG
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NETWORK
+PYTHON
+C++
+LINUX
+DOCKER
+Elvárások
+Angol felsőfok és
+Német középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+NETWORK
+PYTHON
+C++
+LINUX
+DOCKER
+Angol
+felsőfok és Német középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Are you passionate about robots taking over the world? Then look no further! We are constantly looking for highly motivated students to join our autonomous car research team in Stuttgart, Germany in the following area:
+Navigating urban areas presents unique challenges for autonomous vehicles, requiring sophisticated algorithms and custom-generated data to ensure safety and reliability. Within the publicly funded projects STADT:up (stadtup-online.de) and nxtAIM (nxtaim.de), we are dedicated to developing advanced algorithms to address these challenges. Our research focuses on developing novel neural network architectures that enhance the safety and reliability of autonomous vehicles in urban areas. In addition to that, we are pioneering methods to generate new data, which is vital for training and optimizing our models. These innovative approaches aim to improve the performance and adaptability of autonomous driving systems, enabling them to navigate complex urban scenarios safely and efficiently.
+You can look forward to working with a diverse team of international colleagues and enjoying good coffee as well as the occasional cake (we love it when you bring one to share!).
+The tasks of the working student will include:
+Prepare large-scale automated driving datasets for training and evaluation purposes.
+Contribute to the development and maintenance of the coding framework for data processing, model training, and validation of end-to-end driving systems.
+Conduct literature research to familiarize yourself with the latest advancements in autonomous driving and generative models
+Analyze and evaluate algorithm performance using public and in-house datasets, identifying strengths and areas for improvement
+Participate in regular meetings to discuss project progress, share insights, and support collaborative problem-solving
+The activity can begin from Mai 2026.
+Requirements
+Minimum Skills Required:
+Pursuing a Master's degree in a highly quantitative field such as Computer Science, Physics, Mathematics, Electrical Engineering or adjacent fields
+Looking for a working student position
+Fluency in English and/or German
+Strong programming skills in an object-oriented programming language such as Python/ C++
+Familiarity with Linux
+Understanding of Convolutional Neural Networks/Vision Transformers/Diffusion Networks
+Strong communication skills in a partially remote work environment
+Ability to think ahead / Independence
+Nice to haves but not required:
+Familiarity with deep learning frameworks such as Pytorch
+Familiarity with Computer Vision, Foundation Models, Generative AI
+Familiarity with LLM / VLM/VLAM
+Experience with Docker
+German language
+Additional information:
+The position is based at our research lab in Sindelfingen (partial remote work possible)
+Ideally candidates are available for a duration of 6-12 months
+We only consider applications that are attached by at least a curriculum vitae, a motivation letter as well as a recent transcript of records
+For further information, please feel free to contact us via email
+We look forward to receiving your online application, including a resume, cover letter, certificates, current certificate of enrollment stating your semester, and proof of the standard period of study. Please remember to mark your documents as "relevant for this application" in the online form and observe the maximum file size of 5 MB.
+You can find further information on the hiring criteria
+here
+.
+Severely disabled applicants and applicants with equivalent status are welcome! The representative for severely disabled employees (
+HR Services will be happy to help you with any questions you may have about the application process. You can reach us by email at
+What we offer
+Meal-Discounts
+Mobile Phone for Employees Possible
+Discounts for Employees Possible
+Annual Profit Share Possible
+Events for Employees
+Coaching
+Flextime Possible
+Hybrid Work Possible
+Health Benefits
+Company Retirement
+Mobility Offers
+Parking
+Inhouse Doctor
+Good Public Transport
+Barrier-Free Workplace
+Near-Site Childcare
+Canteen, Café
+Company info
+Life is always about becoming… Becoming means going on a journey to be the best version of our future selves. While we discover new things, we will face challenges, master them and grow beyond our individual limits.
+Apply for a job at Mercedes-Benz and find your individual role and workspace to unleash your talents to the fullest. Empowered by visionary colleagues who share the same pioneering spirit. Joining us means becoming part of a global team that aims to build the most desirable cars in the world. Together for excellence.
+Job-ID: MER0004097
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

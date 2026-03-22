@@ -1,0 +1,138 @@
+Cég neve
+Allane SE
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+SPRING
+ANGULAR
+JAVA
+AWS
+DOCKER
+DATABASES
+MYSQL
+ORACLE
+TESTING
+REST
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+SPRING
+ANGULAR
+JAVA
+AWS
+DOCKER
+DATABASES
+MYSQL
+ORACLE
+TESTING
+REST
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Build scalable systems. Shape products. Own the stack.
+Benefit from working with an
+international team
+across different time zones, all the way to
+South Korea
+.
+Help shape the development of
+new features in the leasing sector
+and achieve
+rapid success
+.
+Your new role
+You design, build and run
+scalable cloud-native applications
+– from distributed Spring Boot microservices to modern Angular frontends
+You create clean,
+well-structured
+REST APIs and event-driven systems
+(SNS/SQS) that power seamless user experiences
+You develop
+high-performance, maintainable Angular applications
+using the latest Angular versions, TypeScript and RxJS
+You work closely with Product and Design to
+translate complex requirements into elegant technical solutions
+You raise the bar
+: through code reviews, mentoring and engineering best practices
+Requirements
+You bring 5+ years of experience building production-grade applications with
+Java & Spring Boot
+, strong expertise in
+modern Angular
+(latest versions),
+TypeScript
+and reactive programming (
+RxJS
+)
+You have solid understanding of
+distributed systems, microservices and cloud-native architectures
+and hands-on experience with
+AWS, Docker and CI/CD
+(e.g. GitHub Actions)
+You are confident in working with
+relational databases
+(Postgres/MySQL/Oracle) and
+ORM frameworks
+and experienced with
+messaging systems
+like SNS/SQS (RabbitMQ is a plus)
+You bring a strong
+testing mindset
+(unit, integration & e2e) and a passion for
+clean, maintainable code
+and have a
+product-oriented way of thinking
+– you don't just ship features, you solve problems
+You show clear communication skills in
+English
+and the ability to work independently in cross-functional teams; German is a plus
+What we offer
+You are part of our IT Team at Allane SE and based in the greater Munich area.
+Training opportunities
+Business bike
+Employee car leasing
+Open culture & diversity
+Employee awards
+Fitness & health
+30 days of vacation
+50% mobile work per month
+Drinks & food subsidy
+Team events
+Corporate benefits
+Attractive financial package
+Your new employer
+Company info
+„Allane makes mobility easy in every way”
+To achieve this, our Leasing and Fleet Management business units work hand in hand and are perfectly complemented by the newly acquired Captive Leasing business segment. Since 2020, we are powered by Hyundai and Santander with our new main shareholder Hyundai Capital Bank Europe. Together, we are pursuing the goal of becoming the leading cross-brand provider of comprehensive mobility solutions in Europe. Find out more about our values
+here
+.
+*For reasons of better readability, the language forms male, female and diverse (m/f/x) are not used simultaneously. All references to persons apply equally to all genders.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Germany
+Álláshirdetés jelentése

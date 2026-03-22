@@ -1,0 +1,93 @@
+Cég neve
+Riverty
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DYNAMICS
+CRM
+AZURE
+BI
+TESTING
+DEVOPS
+API
+POWER BI
+AGILE
+Elvárások
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+DYNAMICS
+CRM
+AZURE
+BI
+TESTING
+DEVOPS
+API
+POWER
+BI
+AGILE
+Német
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Platform transformation & optimisation
+Lead the strategic evolution and rationalisation of a large, complex Dynamics 365 platform, ensuring it becomes more efficient, maintainable, and accessible for integration with other systems.
+Identify opportunities to retire or simplify processes, while modernising architecture and functionality.
+Team leadership & empowerment
+Lead, mentor, and inspire a team of ~8 senior Dynamics engineers — fostering autonomy, creativity, and proactive solution finding.
+Encourage the team to think beyond stakeholder requests, initiating proposals that enhance business processes and deliver measurable impact.
+Technical strategy & delivery
+Own technical strategy and roadmaps for Dynamics 365 (Sales & Marketing) and Power Platform solutions, balancing new features, modernisation, and operational stability.
+Oversee architecture, configuration, data model governance, and integrations with other business systems and Azure services.
+Ensure system performance, scalability, and reliable change/release management.
+Innovation & AI enablement
+Drive adoption of Power Platform capabilities (Power Apps, Power Automate, Dataverse, Power BI).
+Embed AI / Copilot functionality into production workflows to improve efficiency and user experience.
+Maintain close collaboration with Microsoft to adopt new features early and follow best practices.
+Stakeholder partnership
+Act as the primary technical sparring partner for Sales, Marketing, and Operations stakeholders.
+Translate business needs into robust, scalable CRM solutions — with a focus on proactive engagement, not just reactive delivery.
+Ensure transparency on progress, risks, and priorities through clear communication and reporting.
+Engineering excellence
+Implement and enforce development, testing, CI/CD, and DevOps standards to improve delivery speed and quality.
+Promote best practices across development, deployment, and documentation.
+Requirements
+7+ years working with Microsoft Dynamics 365 CRM, with hands‑on experience in Sales & Marketing modules.
+Proven expertise in Power Platform (Power Apps, Power Automate, Dataverse, Power BI).
+Strong understanding of system architecture, API integrations and Azure deployment patterns.
+Practical experience integrating AI or Copilot features in Dynamics/Power Platform environments.
+Track record of leading engineering teams or large CRM projects, with excellent stakeholder management skills.
+Agile mindset, familiar with DevOps and CI/CD practices.
+Microsoft Dynamics / Power Platform certifications are a plus.
+Fluent English; German is a plus.
+Willingness to travel within Germany and internationally.
+Self‑starter with a high drive to deliver in a fast‑moving, international environment.
+Company info
+We are looking for a
+Software Engineering Lead (MS Dynamics & CRM) (m/f/d)
+(unlimited, full-time) Join our team at our location in Verl, Baden-Baden or Berlin – flexible working conditions available
+Are you ready to lead the transformation of a mission‑critical Microsoft Dynamics platform that has grown large and complex over time? We are looking for an experienced Software Engineering Lead (m/f/d) to guide our senior, highly skilled Dynamics & Power Platform team in taking our CRM landscape to the next level. This is more than a leadership role — it's an opportunity to streamline, optimise, and re‑architect a platform that underpins Sales, Marketing, and Operations, making it leaner, more accessible to other systems, and ready for future innovation. You'll be working with a team that is highly knowledgeable, creative, and solution‑oriented — colleagues who think beyond the obvious and bring ideas from across disciplines.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

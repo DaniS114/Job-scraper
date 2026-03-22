@@ -1,0 +1,91 @@
+Cég neve
+United Machining
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+ABAP
+BACKEND
+ADOBE
+CLOUD
+DEBUGGING
+REST
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+ABAP
+BACKEND
+ADOBE
+CLOUD
+DEBUGGING
+REST
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+SAP ABAP / Fiori Developer
+SAP ABAP / Fiori Developer
+Switzerland, Meyrin (GE) or Losone (TI)
+United Machining is seeking an experienced SAP ABAP / Fiori Developer to design, develop, maintain custom SAP solutions and user-centric applications using SAP Fiori/UI5 framework.
+The ideal candidate will bridge the gap between business requirements and technical solutions, creating intuitive interfaces that enhance user experience across our SAP landscape.
+Ready to join?
+Your tasks
+Develop, enhance, and maintain SAP ABAP programs, reports, interfaces, conversions, enhancements and printout forms
+Design and develop SAP Fiori applications using SAPUI5 framework, including transactional, analytical, and fact sheet apps
+Build custom Fiori apps and extend standard Fiori applications to meet specific business requirements
+Develop OData services using SAP Gateway and integrate with backend SAP systems (ECC, S/4HANA)
+Configure and customize SAP Fiori Launchpad, including tile creation, role assignment, and theme customization
+Create technical specifications based on functional requirements
+Perform code reviews, debugging, and performance optimization
+Create and maintain comprehensive technical documentation for all developments and customizations
+Collaborate with functional consultants and business stakeholders
+Your profile
+5+ years of hands-on SAP ABAP development (OO, BAPIs, BADIs, User Exits, WebDynpro) and solid experience in both ECC and S/4HANA environments.
+Proven expertise in SAP Fiori/UI5 development, including OData service creation and SAP Gateway integration.
+Comfort with core SAP development tools and technologies such as SE80/SE11, ALV, Forms (SmartForms/Adobe), CDS Views, REST APIs, and Web IDE/BAS.
+Ability to understand business processes (FI/CO, MM/SD, PP/QM) and translate requirements into reliable, maintainable technical solutions.
+Familiarity with integration concepts (IDoc, ALE, EDI) and ideally with SAP PI/PO, CPI, or CAP for cloud-native extensions.
+Self-driven, detail-oriented developer who learns quickly, collaborates well, and maintains high-quality code and documentation.
+Benefits
+Clear vision and purpose
+Sustainability and innovation focus
+We have high sustainability and innovation goals. Let's work towards a sustainable future together.
+Excellent learning tools
+We provide development opportunities for everyone. We offer global learning tools as well as trainings and specialized courses.
+Great career opportunities
+United machining as a global acting company provides many opportunities regarding career growth. We also offer a dedicated talent management process (MyNextBigStep@GF) to boost your career.
+Your contact
+Fanny Brault
+HR Manager
+Write an email
+Rue du Pré-de-la-Fontaine 8
+1217 Meyrin
+Switzerland
+Who we are
+United Machining is the world’s leading provider of machine tools, diverse technical solutions and services to manufacturers of precision molds and tooling and of tight-tolerance, precision-machined components. The key segments we serve include the aerospace, automotive, medical, energy, information and communications technology (ICT) and electronics industries jid3751323pn jit0312pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Switzerland
+Álláshirdetés jelentése

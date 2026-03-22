@@ -1,0 +1,87 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Data Scientist with German language
+Place of work
+Remote work
+Contract type
+full-time
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose :
+You will be part of an exciting and strategically important project: developing and managing a CTO Dashboard for the CTO Germany. This dashboard is directly commissioned by the CTO and receives the highest level of management attention. Using state-of-the-art visualization technologies in Power BI, you will create a tool that provides outstanding visual insights and data-driven decision support at the highest level.
+What will you do?
+Main Tasks:
+Operate and maintain the CTO Dashboard in Power BI on an ongoing basis
+Implement new requirements: develop and integrate metrics, data links, and automations
+Build and maintain the data foundation, including interfaces to Excel, SQL databases, APIs, and cloud services
+Handle ETL processes with Power Query (M language): importing, cleaning, and transforming data
+Data modeling focusing on efficient, high-performance structures and star schema design
+Define complex DAX calculations, time-intelligence functions, and advanced measures
+Design interactive and clear dashboards and reports with a strong focus on data storytelling and usability
+Manage the Power BI Service: share reports, manage workspaces and Row-Level Security (RLS), set up gateways
+Ensure performance, data quality, security, and compliance throughout the reporting process
+You will succeed if you:
+Have solid experience building and operating Power BI dashboards
+Are an expert in programming with Power Query (M) and DAX
+Possess a deep understanding of data modeling and performance optimization
+Approach tasks independently with high accuracy and quality awareness
+Have strong analytical thinking and a passion for data visualization
+Communicate effectively and translate management requirements into technical solutions
+Are experienced working with various data sources (Excel, SQL, APIs, Cloud) and in ETL processes
+Show curiosity and openness to new technologies in the BI landscape
+Have experience with Oracle APEX, it is considered an advantage.
+Speak
+German (min. B2 is a must)
+and English fluently.
+Join us in shaping the data-driven future of the CTO domain in Germany – be part of this pioneering project!
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 3 100 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Ing.  Lenka Kiššová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5251365
+Dátum zverejnenia:
+16.3.2026
+2026-03-16
+lokalita:
+Remote work
+Pozícia:
+Data Scientist
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+3 100 EUR/month

@@ -1,0 +1,115 @@
+Apply now
+Internship: Technical Intern - AI Strategy & Innovation
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+1 584 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Are you passionate about Artificial Intelligence (AI) and eager to make a real-world impact in a global organization? AT&T Business International is seeking a driven and creative Technical Intern to join our team. This internship offers a unique opportunity to explore the transformative potential of AI, identify innovative use cases, and develop strategies to boost AI adoption within our organization.
+Our goal is to build a flexible AI application platform that supports diverse AI and Machine Learning (ML) projects while remaining open to innovation. We work across a broad spectrum of activities and recognize the opportunity for your skills to be pivotal in shaping our future AI development.
+If you want to expand your expertise in backend development, data science, data engineering, or deep learning, this role offers hands-on opportunities to experiment with Proof of Value concepts and explore long-term AI/ML and Deep Learning applications.
+What You’ll Do
+AI Application Development & Integration:
+Develop and integrate AI applications, including large language model (LLM) chat systems combined with advanced approaches such as Retrieval-Augmented Generation (RAG), agent-based workflows, and toolset development.
+Experiment with MCP servers and develop machine learning components for internal applications, including API endpoint creation.
+Build preventive systems focused on sensitive data protection (e.g., SPI, RPI).
+Automated Metadata Extraction for Text-to-SQL:
+Explore and implement profiling, query log analysis, and SQL-to-text generation using LLMs.
+Collaborate with AT&T researchers and use benchmarks like BIRD to improve extraction techniques.
+AI Awareness & Adoption:
+Create engaging content leveraging LLM tools such as AT&T’s internal NotebookLM.
+Actively promote AI adoption and support users in adapting to new AI technologies across the organization.
+Use Case Identification & Strategy:
+Collaborate with cross-functional teams to analyze needs and identify high-impact AI use cases.
+Design and implement strategies to increase awareness and adoption of AI tools.
+Research & Data Analysis:
+Stay updated on emerging AI/ML trends and technologies to recommend innovative solutions.
+Support data-driven decision-making by gathering and analyzing relevant data for AI initiatives.
+Collaboration & Independent Work:
+Work independently on technical tasks including LLM implementation and API integration into new or existing application environments.
+Partner with both technical and non-technical stakeholders to align AI technologies with business goals.
+Employee perks, benefits
+Why Join Us?
+Gain hands-on experience in leveraging AI to solve real-world business challenges.
+Collaborate with a diverse and talented team of professionals across the globe.
+Build a professional network within one of the world’s leading telecommunications companies.
+Work on meaningful projects that make a tangible impact and drive AI innovation.
+Information about the selection process
+Location: Aupark Tower, Bratislava
+Contract: Full-time, 40 h/w
+Duration: 3 months fixed contract
+Compensation: 1,584 EUR gross per 40h/w.
+Requirements for the employee
+Candidates with education suit the position
+University student
+Educational Specialization
+Currently pursuing a degree in Computer Science, Data Science, Artificial Intelligence, Business Analytics, Marketing, or a related field.
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+What You'll Bring
+Technical Skills & Experience:
+Some hands-on experience with AI/ML tasks, including backend development, data engineering, or deep learning projects.
+Familiarity with some of the following: Python, JavaScript, TypeScript, PHP, TensorFlow, OpenAI APIs, or similar AI/ML frameworks is highly beneficial.
+Ability to independently implement LLM models and integrate APIs into applications.
+Passion for AI:
+Genuine interest in AI technologies, trends, and practical applications.
+Educational Background:
+Currently pursuing a degree in Computer Science, Data Science, Artificial Intelligence, Business Analytics, Marketing, or a related field.
+Creative & Analytical Thinking:
+Innovative mindset with the ability to think outside the box and solve complex problems.
+Strong Communication:
+Excellent verbal and written communication skills to explain technical concepts clearly to diverse audiences.
+Self-Starter & Team Player:
+Proactive attitude with the ability to work autonomously and take full ownership of projects while collaborating effectively with others.
+Advertiser
+Brief description of the company
+Considering we’ve done some pretty impressive work around here, that’s saying something. But we couldn’t have done it without our brilliant people, and you could be one of them. With an average of two patents a day and eight Nobel Prizes to our name, it’s no wonder that for more than a century we have been defining the industry and setting the bar for innovation. This is your chance to do the same. Explore a career with AT&T.
+Contact
+Contact person: Peter Makuch
+E-mail:
+send CV
+Apply now
+Benefits
+Your needs? Met. Your wants? Considered. Take a look at our comprehensive benefits.
+Financial Well-being
+Let’s start with the big one: Your work gets rewarded with competitive compensation.
+Health & Wellness
+You and your family get access to excellent medical, dental and vision insurance options.
+Paid Time Off
+Chill out with PTO that you can spend any way you want.
+Work-Life Balance
+Working here comes with the work-life balance you deserve.
+Family Planning & Care
+Our family friendly leave policy gives you the support you need to take care of loved ones at all stages in life.
+AT&T Perks
+Having perks that matter to you matters to us. That means offering discounts where it counts, like insurance for auto, home and pets.
+See Our Benefits
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5251519
+Dátum zverejnenia:
+16.3.2026
+2026-03-16
+lokalita:
+Bratislava
+Pozícia:
+AI Specialist
+,
+Backend developer
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+AT&T Global Network Services Slovakia
+Základná zložka mzdy (brutto):
+1 584 EUR/month

@@ -1,0 +1,79 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+DevOps Engineer - for Open Telekom Cloud (OTC)
+Place of work
+Košice, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+1 650 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 1 650 EUR/month.
+We are looking for a Senior Cloud Engineer who can build and operate the technical foundation of the Open Telekom Cloud (OTC) Academy. As an engineer specializing on backend development, you develop APIs, services and data structures that support training paths, onboarding flows and platform automation. You work closely with the frontend developer, product teams and an offshore development team to deliver stable backend functionality and keep all services secure and reliable. The onboarding solution is based on ServiceNow CSM, so you need to understand how workflows, data models and integrations behave and ensure that backend logic supports these flows. Half of the role focuses on development, the other half on operations to maintain performance and stability.
+What will you do?
+Develop backend services, APIs and data models for learning paths, user progress and content delivery
+Implement ServiceNow CSM and NEOS based related integrations such as case updates, workflow triggers and data exchange
+Work with the offshore team to coordinate development tasks and maintain backend code quality
+Support the automation of lab environments and platform components through IaC
+Monitor backend performance and resolve issues that affect user flows or data accuracy
+Manage CI/CD pipelines for backend services and support smooth release cycles
+Ensure backend security, logging and audit readiness
+You will succeed if you:
+Experience in backend development with languages such as Python, Java or Node.js
+Ability to design and build APIs and data structures for dynamic learning and onboarding flows
+Understanding of ServiceNow CSM workflows, tables, data models and integration points
+Experience with cloud environments, platform services or comparable enterprise systems
+Familiarity with IaC tools and automation methods as well as the integration of NEOS based setups
+Ability to coordinate with offshore developers and maintain consistent delivery quality
+Experience with CI/CD pipelines, DevOps and troubleshooting backend issues
+Strong problem-solving skills with attention to real user scenarios
+Background in B2B or enterprise environments is helpful
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+1 650 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits. Base salary will not be lower than 1 650 EUR/month.
+Contact
+Contact person: Anna Heveryová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253519
+Dátum zverejnenia:
+19.3.2026
+2026-03-19
+lokalita:
+Košice
+Pozícia:
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+1 650 EUR/month

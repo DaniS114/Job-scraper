@@ -1,0 +1,148 @@
+Cég neve
+Greenergy-Service Kft.
+Munkavégzés helye
+Hibrid
+•
+1138 Budapest, Tomori utca
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Sport támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+DEVOPS
+LINUX
+PYTHON
+BASH
+BITBUCKET
+AWS
+AZURE
+VPN
+DOCKER
+JENKINS
+SQL
+GIT
+NOSQL
+ISO
+AUTOMATIZÁLÁS
+Biztosított eszközök
+Laptop
+Monitor (2 db)
+Desktop PC
+Headset
+Mobiltelefon
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Felsőoktatási szakképzés
+
+Mobiltelefon
+Cafeteria
+Szakmai
+tréningek
+Nyelvtanulás
+támogatása
+Munkába
+járás támogatás
+Sport
+támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+DEVOPS
+LINUX
+PYTHON
+BASH
+BITBUCKET
+AWS
+AZURE
+VPN
+DOCKER
+JENKINS
+SQL
+GIT
+NOSQL
+ISO
+AUTOMATIZÁLÁS
+Laptop
+Monitor
+(2 db)
+Desktop
+PC
+Headset
+Mobiltelefon
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Felsőoktatási
+szakképzés
+
+Állás leírása
+Céginformáció
+A Greenergy cégcsoport egy hazai tulajdonban lévő, elsősorban Magyarországon működő, független energiaipari vállalkozás, melyet 2002-ben alapítottak.
+A Greenergy alaptevékenysége a decentralizált energiatermelés, mely elsősorban kapcsoltan működő villamos- és hőenergiát termelő gázüzemű kiserőművekre, valamint megújuló energiaforrást hasznosító egységekre épül.
+A Greenergy kiserőműveinek villamos-energia termelését társaságunk saját erőmű szabályzó központja aggregálja és vezérli, lehetővé téve, hogy a kiserőművek egy virtuális nagyerőműként jelenjenek meg a villamosenergia és rendszerszabályozási piacon.
+Portfoliónkban gázmotoros kiserőműveken kívülszélerőmű, naperőmű, és biomassza fűtőmű is található, melyek jelzik, hogy a cégcsoport elkötelezett a fenntartható környezet iránt és egyre inkább fókuszba helyezi a környezetvédelmet és a zöldenergiát, a hosszú távú fenntarthatóság érdekében.
+https://www.greenergy.hu/rolunk/bemutatkozas/
+Feladataid lesznek:
+Nagy rendelkezésre állású, éles környezetek napi szintű támogatása és üzemeltetése (beleértve 24/7 ügyeleti rendszerben való részvételt)
+Felhőalapú környezetek működtetése és optimalizálása
+Infrastruktúra definiálása és kezelése kóddal (Infrastructure as Code) Terraform segítségével (modulok, workspace-ek, állapotkezelés)
+Linux rendszerek adminisztrációja, szolgáltatások beállítása és karbantartása
+Logolás és monitorozás kialakítása és fenntartása (pl. ELK/EFK stack, Prometheus, Grafana)
+Verziókezelés és CI/CD folyamatok kezelése (Git alapú rendszerek – GitHub, GitLab, Bitbucket –, valamint Jenkins, TeamCity, GitHub Actions)
+Adatbázisok felügyelete és optimalizálása (SQL, NoSQL)
+Automatizálási szkriptek írása és rendszerfolyamatok monitorozása (Python, Bash)
+Biztonsági és megfelelőségi szempontok figyelembevétele (pl. Vault alapú titokkezelés, audit logok, zéró bizalmi modell alkalmazása)
+Amit mi kínálunk:
+A Greenergy cégcsoport több mint 25 év energiapiaci tapasztalatával, valamint változatos portfóliójával biztonságos céghátteret nyújt
+Mélyítheted tudásod az energiaszektorban
+Felelősségteljes munkakört tölthetsz be
+Modern irodai környezetben dolgozhatsz
+Kiemelten fontosnak tartjuk, kollégáink szakmai fejlődését, melyet képzésekkel, tréningekkel segítünk
+Amit kérünk:
+Legalább 3 év releváns szakmai tapasztalat infrastruktúra üzemeltetés és üzletkritikus rendszerek folyamatos támogatásában
+Gyakorlati jártasság felhőalapú infrastruktúrák üzemeltetésében (Azure, AWS)
+Alapos Linux rendszergazdai ismeretek, valamint scripting tapasztalat (Bash, Python)
+Infrastruktúra automatizálás és konfigurációmenedzsment területén szerzett tapasztalat
+Konténerizációs technológiák ismerete és alkalmazása (Docker és Kubernetes)
+CI/CD rendszerek ismerete és alkalmazása éles környezetekben
+Stabil hálózati és biztonsági ismeretek (VPN, tűzfalak, IAM, audit logolás, titkosítás)
+Előnyt jelent:
+Tapasztalat végpontkezelő eszközök használatában (SCCM, Intune)
+Megfelelőségi szabványokban való jártasság (ISO 27001, NIS2)
+Releváns tanúsítványok megléte: Red Hat Certified System Administrator (RHCSA), Microsoft Certified: Azure Administrator Associate, AWS Certified SysOps Administrator
+Munkahelyi extrák
+Céges étkező
+Kávézó
+Zuhanyzási lehetőség
+Céges rendezvények
+Kerékpártároló
+Sportolási lehetőség
+Kutyabarát
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Ingyen reggeli
+Jelentkezés módja
+A jelentkezem gombra kattintva várjuk magyar nyelvű önéletrajzod!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+üzemeltetés, Telekommunikáció
+Hálózati
+és Rendszermérnök
+Budapest
+Budapest
+Álláshirdetés jelentése

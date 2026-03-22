@@ -1,0 +1,116 @@
+Cég neve
+AGCO Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Agco Hungary Kft. - Budapest, Alíz utca 4, 1117
+Kis türelmet...
+Egyéb juttatások
+Étkezési jegy
+Egészségpénztár
+Nyelvtanulás támogatása
+Sport támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+DEVOPS
+C
+REACT
+VUE.
+ANGULAR
+SQL
+DATABASES
+POSTGRESQL
+DOCKER
+POSTMAN
+AGILE
+JENKINS
+Elvárások
+Angol felsőfok
+3-5 év tapasztalat
+Egyetem
+
+Étkezési
+jegy
+Egészségpénztár
+Nyelvtanulás
+támogatása
+Sport
+támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+DEVOPS
+C
+REACT
+VUE.
+ANGULAR
+SQL
+DATABASES
+POSTGRESQL
+DOCKER
+POSTMAN
+AGILE
+JENKINS
+Angol
+felsőfok
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+​​The IT Developer II role is responsible for the developing implementation of functionalities for a specific set of products in the IoT software portfolio. They will be involved in the entire lifecycle of the product(s), following an Agile and DevOps focused development process. They will be involved in developing the functionality of both new products as well as maintaining existing products, ensuring alignment with technical long-term roadmaps as laid out by architects and product managers.​
+Develop and document code that is secure and uses best design practices based on provided requirements.
+Leverage DevOps tool stack to build, inspect, deploy, test, and promote new or updated features and provide support for applications in production to maintain uptime.
+Participate in Agile team ceremonies including planning, grooming, product demonstration, and team retrospectives.
+Monitor and provide responsive action to issues maintaining high-level internal customer satisfaction to required service level performance measures, through the successful resolution of customer requests/issues/change.
+Requirements
+Bachelor’s Degree with 3+ years of relevant Software Development experience.
+3+ years of experience working in software development of systems at scale with a solid understanding of front and back-end technologies such as:
+.NET / C#
+At least one modern front-end framework (e.g., React, Vue.js, Angular)
+Unit test frameworks
+SQL Databases (MS SQL Server, PostgreSQL)
+Basic understanding of containerization (e.g., Docker) and continuous integration tools (e.g., GitHub Actions, Jenkins, Bamboo)
+Understanding of RESTful APIs.
+Postman knowledge and experience. Understanding of Agile software methodologies.
+What we offer
+​​Employee Stock Purchase Plan offering eligible employees the ability to purchase AGCO stock at a discounted price.
+​Attractive, fair remuneration including participation in our bonus scheme and reimbursement of commuting expenses
+​Cafeteria system with additional elements you can pick from
+​Balance of work, family, and free time due to flexible working opportunity and the possibility of hybrid/remote work including home office monetary allowance
+​Private health insurance, dental services, and compensation for the purchase of computer monitor glasses
+​Employee Assistance Program including professional counselling, webinars, sports challenges, and newsletters
+​Development opportunities including monthly trainings held by the local training team and teacher guided language classes.​
+Workplace extras
+Canteen
+Cafe
+Shower
+Corporate events
+Parking
+Sports facilities
+Free fruits, snacks
+Free coffee, soft drinks
+Free breakfast
+Play corner
+Company info
+​​AGCO Shared Service Center (SSC) is located at Office Garden in the 11th district, in one of the most dynamically developing areas of Budapest providing global support to all AGCO global factories and sites in Finance, HR, IT, Purchasing, Customer Experience and Engineering functions. The office is easily accessible by car and public transport. Restaurants, cafés, and a shopping center are also located around the office.
+​​
+We value inclusion and recognize the innovation a diverse workforce delivers to our farmers. Through our recruitment efforts, we are committed to building a team that includes a variety of experiences, backgrounds, cultures and perspectives.
+Join us as we bring agriculture into the future and apply now!
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Budapest
+Álláshirdetés jelentése

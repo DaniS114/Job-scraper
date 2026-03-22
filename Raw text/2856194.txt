@@ -1,0 +1,84 @@
+Cég neve
+Forschungszentrum Jülich GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+NETWORK
+PYTHON
+C++
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+NETWORK
+PYTHON
+C++
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Energy systems engineering heavily relies on efficient numerical algorithms. In this HDS‑LEE project, we will use machine learning (ML) along with data from previously solved problem instances to solve new, yet similar, instances more efficiently than with general purpose algorithms such as Newton`s method. In particular, we aim to develop a neural network architecture that will allow us to accelerate solving AC power flow (AC‑PF) computations, potentially facilitating real‑time contingency analysis, rapid design‑space exploration, and on‑line operational optimization of power systems.
+Your tasks in detail:
+Become familiar with our previously developed neural network superstructure for learning iterative algorithms
+Extend the superstructure to tackle AC-PF problems of different complexities and assess its convergence in inference
+Investigate scaling and performance bottlenecks
+Explore hybrid ML-classical approaches, the application of meta learning, and the integration of convex optimization layers
+Increase inference efficiency (e.g., GPU acceleration) and assess the applicability domain of learned algorithms
+Publish and present your results in peer-reviewed journals and at international conferences
+Supervise student theses
+Requirements
+Excellent Master`s degree with a strong academic background in computational engineering, mathematics, computer science, physics, engineering or a related field
+Strong background in numerical methods and machine learning
+Proficiency in at least one programming language (Python, Julia, C++, …)
+Good analytical skills
+Good organizational skills and ability to work both independently and collaboratively
+Effective communication skills and an interest in contributing to an international and interdisciplinary team
+Working proficiency in English for daily communication and professional contexts
+What we offer
+We offer ideal conditions for you to complete your doctoral degree:
+Pursue a doctoral degree at RWTH Aachen University (Faculty for Mechanical Engineering) under the supervision of Prof. Alexander Mitsos
+Excellent scientific and technical infrastructure
+A highly motivated group as well as an international and interdisciplinary working environment at one of Europe's largest research establishments
+Continuous scientific mentoring by your scientific advisors (Prof. Alexander Mitsos, Prof. Uwe Naumann, Dr. Manuel Dahmen)
+Participate in international conferences
+Unique HDS-LEE graduate school program (including data science courses, soft skill courses and annual retreats)
+Further development of your personal strengths, e. g., via a comprehensive further training program; a structured program of continuing education and networking opportunities specifically for doctoral researchers via JuDocS, the Jülich Center for Doctoral Researchers and Supervisors:
+30 Days of annual leave and flexible working arrangements, including partial remote work
+Targeted services for international employees, e. g., through our International Advisory Service
+The position is limited to three years, with a possible one-year extension. Pay is in line with 75 % of pay group 13 of the Collective Agreement for the Public Service (TVöD-Bund) and additionally 60 % of a monthly salary as special payment („Christmas bonus“). The monthly salaries in euro can be found on the BMI website:
+Further information on doctoral degrees at Forschungszentrum Jülich (including its various branch offices) is available at
+We welcome applications from people with diverse backgrounds, e.g. in terms of age, gender, disability, sexual orientation/identity, and social, ethnic and religious origin. A diverse and inclusive working environment with equal opportunities in which everyone can realize their potential is important to us. The following links provide further information on diversity and equal opportunities:
+and on specific support options for women:
+Company info
+Shaping change: this is what drives us at Forschungs­zentrum Jülich. As a member of the Helmholtz Association with some 7,600 employees, we conduct interdisciplinary research into a digitalized society, a climate-friendly energy system, and a sustainable economy. We focus on the natural, life, and engineering sciences in the fields of information, energy, and bioeconomy. We combine this with expertise in high‑performance computing and artificial intelligence using unique scientific infrastructures.
+Apply your data science skills to real-world challenges! At the Helmholtz School for Data Science in Life, Earth and Energy (HDS-LEE), we train the next generation of data scientists to tackle key global issues in domain sciences such as life, earth or energy. Learn more at
+. This position is to be filled at the Institute of Climate and Energy Systems - Energy Systems Engineering (ICE-1), where we develop models and algorithms for the simulation and optimization of future energy systems characterized by a high spatial and temporal variability of energy supply and demand. We look forward to your application.
+We are offering an interesting
+PhD position – Learning Tailored Iterative Algorithms for Accelerating AC Power Flow Computations (HDS-LEE graduate school)
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

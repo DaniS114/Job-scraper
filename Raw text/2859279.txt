@@ -1,0 +1,72 @@
+Cég neve
+DruIT Szolgáltató Zrt.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BI
+TESTING
+UAT
+SQL
+ANALYTICS
+POWER BI
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BI
+TESTING
+UAT
+SQL
+ANALYTICS
+POWER
+BI
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Defining requirements for reporting and analytical (incl. data science) products
+Identifying and mapping source systems
+Preparing detailed functional and data-level specifications for the Data Engineering team (incl. supporting data ingestion, transformation logic, and semantic model needs)
+Creating dashboard wireframes
+Supporting BI and data science teams during development
+Supporting data validation and testing
+Driving UAT
+Ensuring data product readiness for go-live and adoption
+Providing post-go-live support & stabilization (monitoring, end user support)
+Requirements
+Strong analytical and problem-solving skills
+Strong communication and stakeholder management skills
+Experience in requirements gathering and business process understanding
+Ability to translate business needs into detailed functional and data specifications
+Familiarity with data platforms, data ingestion, and transformation concepts
+SQL knowledge or prior exposure to data exploration
+Experience with source system analysis, data mapping, and documentation for Data Engineers
+Experience designing dashboard wireframes or mock-ups
+Nice-to-have
+Prior BA experience in a data/analytics environment, Developer experience with BI tools (preferably Power BI), Experience with data modeling, Domain knowledge in aviation, commercial analytics, customer engagement, or pricing and revenue management, Experience supporting data science projects (feature definition, model validation, data preparation), Understanding of data governance, metric standards, and data lineage, Experience with data platform migration, report reverse engineering
+Company info
+Az Adatkezelő információ-technológiai szolgáltatással foglalkozó gazdasági társaság, amely a megbízók részére keres a megbízók által megadott feltételeknek megfelelő szakembereket informatikai projektek elvégzésére. E tevékenysége során az Adatkezelő kezeli az érintettek azon személyes adatait, amelyek az elküldött/feltöltött önéletrajzban kerültek megadásra, továbbá kezeli a jelölttel folytatott telefonbeszélgetést, és az ennek során esetlegesen megadott további személyes adatokat.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

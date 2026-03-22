@@ -1,0 +1,73 @@
+Cég neve
+Agile Robots SE
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+At Agile Robots SE, we are developing intelligent robotic systems and automation solutions. The complexity of such systems and the tasks that have to be solved autonomously increases rapidly. Therefore, professional frameworks and tools for programming robots efficiently are required.
+In our innovative company, we build powerful software frameworks for orchestrating complex robotic systems to solve challenging tasks autonomously. This includes tools for system configuration, skill programming and parameterization, and task execution.
+These software solutions are sold to various international customers to enable them to control their robotic workcells. Smooth integration and scalable deployment of our solutions are key goals of our company.
+Currently, we are searching for a candidate with a general background in robotics, mechanical engineering, electrical engineering, or computer science to become part of our team.You will join a fast-moving, international team developing both prototypes and products.
+Your Responsibilities
+Set up and integration of complex robotic systems for mobile manipulation tasks
+Design and implementation of new customer-specific features using a rich set of extension points of our workcell-automation framework. These features include, but are not limited to: (1) Computer vision algorithms that are frequently created in close cooperation with other Computer Vision and AI Engineerso (2) Hardware drivers for various types of new robots, actuators, and sensorso (3) New UI screens
+Travel to international customers to understand and implement features, and to deploy our software products (willingness to travel up to 40% of working time)
+Requirements
+Master's (or comparable practical experience) in robotics, computer science, mechanical engineering, electrical engineering, or related fields
+Minimum of four years of work experienceIntermediate programming experience with C++
+Experience in robotics (Robots, AGVs, Cameras, PCBs, etc.) and embedded platforms
+Practical experience in robot programming
+Knowledge of system design & architecture software
+Basic experience in Linux
+Fluency in English
+Beneficial Skills
+Experience in computer vision incl. popular libraries (OpenCV, TensorFlow, PCL)
+Basic programming experience in JavaScript and UI frameworks like VueJS, React, or Angular
+Knowledge about industrial communication protocols and specifications (Modbus, RS-485, TCP/IP, EtherCAT, OPC-UA, Profibus, CAN)
+Programming experience with Python
+Practical experience in PLC programming
+Knowledge about functional safety norms
+Knowledge about electrical circuits
+Practical experience in CAD Software
+Business fluent Chinese
+What we offer
+A dynamic high-tech company, combined with financial soundness and world-class investors.
+Join an interdisciplinary, international team with 60+ different nationalities in a collaborative work environment.
+Lots of development opportunities in the context of our continued growth.
+Challenging tasks and impactful projects alongside experts that enable professional and personal growth.
+Corporate Benefits Program that covers health, mobility, and learning with 100€ net per month.
+Modern office facilities with a rooftop terrace overlooking Munich, free drinks & fruits, and regular company events contribute to a good working environment
+Company info
+Agile Robots SE
+is an international high-tech company based in Munich, Germany with a production site in Kaufbeuren and more than 2300 employees worldwide. Our mission is to bridge the gap between artificial intelligence and robotics by developing systems that combine state-of-the-art force-moment-sensing and world-leading image-processing technology. This unique combination of technologies allows us to provide user-friendly and affordable robotic solutions that enable intelligent precision assembly.
+This is made possible by our employees, who bring out the best in each and every day with creativity and enthusiasm. Become part of this team and shape the future of robotics with us!
+We are proud of our diversity and welcome your application regardless of gender and sexual identity, nationality, ethnicity, religion, age, or disability.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Engineer
+Mechatronics
+Engineer
+Germany
+Álláshirdetés jelentése

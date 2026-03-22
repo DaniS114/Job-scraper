@@ -1,0 +1,101 @@
+.NET Backend Developer
+Greentube Slovakia s.r.o.
+Place of work
+Laurinská 18, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 3 500 EUR/month
+Information about the position
+Job description, responsibilities and duties
+Join Greentube: A Leader in Interactive and Mobile Casino Gaming
+About Greentube:
+As a premier full-service provider in the online and mobile gaming sector, Greentube offers secure and engaging casino entertainment globally. As part of the NOVOMATIC Interactive division, we lead with innovative solutions that set standards in a dynamic field. Our extensive portfolio includes everything from classic slots and video bingo to server-based and social casino gaming.
+Role Overview:
+Are you passionate about developing high-load transaction systems and microservices? Are you eager to work in a cloud-oriented, service-driven environment? Greentube is looking for skilled .NET developers to enhance our platform with new features and integrations, leveraging the latest backend technologies.
+What You'll Do:
+Develop and manage a diverse portfolio of microservices through their entire lifecycle.
+Architect and deliver new solutions and game integrations, working closely with internal stakeholders across various business domains.
+Continuously improve service performance and integrate cutting-edge game suppliers into our NOVA platform.
+Enjoy dedicated learning days to advance your skills in a supportive and dynamic company culture.
+Key Responsibilities:
+Integrate various game suppliers into the NOVA platform using Game Suppliers' specific Adapters.
+Enhance core platform functionalities with the Supplier Game Service.
+Improve user engagement through the Games Notification Service, which delivers customized messages during gameplay.
+Our Tech Stack:
+Languages & Frameworks:
+.NET 8, C#
+Database & ORM:
+MSSQL 2022, Dapper
+Messaging:
+Artemis ActiveMQ
+Real-time Communications:
+SignalR
+DevOps:
+Azure Repos, Azure Pipelines
+Employee perks, benefits
+​• Language courses
+​• Possibility of regular home-office
+​• Flexible working hours
+​• Team-building
+​• Meal vouchers (fully paid by employer)
+​• Fruit, coffee, tea available in the office
+​• Informal and relaxed work environment
+​• Supporting your personal and professional development - the opportunities to attend in various trainings, courses, conferences or meetups
+​• "Refer a friend" benefit - the opportunity to receive a financial bonus when referring a friend for an open vacancy​
+Information about the selection process
+Why Greentube? At Greentube, you’ll be part of an innovative team that values growth, collaboration, and a forward-thinking approach to gaming. We provide competitive benefits, a flexible work environment, and numerous opportunities for professional development.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Specialization:
+.NET Backend Developer
+Experience Level:
+Mid to Senior
+Core Requirements:
+Proficient in .NET Core backend applications and C#
+Strong SQL skills with MSSQL Server
+A genuine passion for software development
+Fluent in English, both spoken and written
+Desirable:
+Experience with high-load systems, distributed systems, and messaging (e.g., RabbitMQ, ActiveMQ, Azure Service Bus)
+Advertiser
+Brief description of the company
+Greentube Slovakia is Greentube’s mobile branch and the industry’s first choice in providing B2B companies with casino games that run seamlessly on all platforms (desktop and mobile). Strong HTML5 competencies are the hallmark of this company: Greentube Slovakia is among the best of the best when it comes to transforming the famous games of the NOVOMATIC Group into high-quality mobile solutions. Players are eager to take their games with them wherever they might go, from the daily commute to a night out with friends, and Greentube Slovakia continuously delivers!
+Number of employees
+50-99 employees
+Contact
+Contact person: Jana Stankovičová
+Tel.:
++421904613943
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5249684
+Dátum zverejnenia:
+16.3.2026
+2026-03-16
+lokalita:
+Bratislava
+Pozícia:
+.NET Programmer
+,
+C# Programmer
+,
+Software Engineer
+Spoločnosť:
+Greentube Slovakia s.r.o.
+Základná zložka mzdy (brutto):
+3 500 EUR/month

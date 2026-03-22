@@ -1,0 +1,122 @@
+Cég neve
+AstraZeneca
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+PYTHON
+MACHINE LEARNING
+DATA MANAGEMENT
+JIRA
+CONFLUENCE
+AGILE
+Elvárások
+Német középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+PYTHON
+MACHINE
+LEARNING
+DATA
+MANAGEMENT
+JIRA
+CONFLUENCE
+AGILE
+Német
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+SITE DESCRIPTION - Munich, Germany
+At Computational Pathology Munich (CPM), we make a significant contribution to high-performance, data-driven research and development. Our team operates in a demanding, fast-paced environment where excellent collaboration, clear communication and precise organization are critical.
+We are seeking a
+Senior Specialist in Computational Pathology Delivery Operations (m/f/d)
+in Munich to support the execution of computational pathology workflows across AI/ML model development and biomarker discovery programs.
+This role is responsible for ensuring the reliable execution of computational pathology workflows, including data ingestion, curation, quality control, and analysis activities. The position plays a key role in ensuring that imaging data, metadata, annotations, and analysis outputs are fit for purpose for AI development, scientific decision-making, and potential regulatory applications.
+This role sits at the intersection of pathology, data science, and AI engineering, and collaborates closely with internal teams and external partners to manage complex datasets and maintain high standards of data quality, compliance, and workflow execution.
+The ideal candidate is a highly organized and dependable data professional with experience managing scientific or biomedical datasets, strong attention to detail, and the ability to coordinate effectively across diverse stakeholders in a dynamic research environment.
+Key Responsibilities
+Data Transfer and Curation
+Coordinate with wet laboratories, contract research organizations (CROs), and external collaborators to facilitate the transfer of imaging data and associated metadata.
+Ensure incoming datasets are delivered according to defined data formats, metadata standards, and project requirements.
+Manage and integrate multi-source datasets, including digital pathology images, sample metadata, clinical trial information, real-world data, and image analysis outputs.
+Translate scientific and model development requirements into structured dataset preparation tasks.
+Verify the completeness, accuracy, and quality of datasets in accordance with internal Standard Operating Procedures.
+Ensure imaging data, annotations, and metadata are suitable for downstream AI/ML model development, validation, and scientific analysis.
+Maintain consistency, traceability, and usability of datasets across computational pathology workflows.
+Workflow Execution for Computational Pathology
+Execute computational pathology workflows across AI model development and biomarker discovery projects.
+Perform operational data preparation tasks including data pooling, subsetting and splitting, and annotation consolidation.
+Run image analysis pipelines to generate quantitative readouts supporting biomarker discovery and program decision-making.
+Upload and manage analysis results within cloud-based data platforms (e.g., QuartzBio).
+Data Governance, Compliance, and Documentation
+Ensure datasets comply with internal policies such as the Global Standard for Human Biological Samples and other relevant governance frameworks.
+Initiate and coordinate data approval processes (e.g., iDAP approvals) with Data Office and Data Provisioning Operations teams when required.
+Ensure dataset preparation follows agreed data governance principles and avoids unintended modification of protected datasets.
+Author and maintain computational pathology analysis plans and reports, including Data Collection Plans for model development.
+Cross-Functional Collaboration
+Work closely with program managers, computational pathology biomarker leads, pathologists, machine learning engineers, and data scientists to ensure effective use of data resources.
+Communicate clearly about data readiness, limitations, and uncertainties to support scientific and technical decision-making.
+Operational Excellence and Continuous Improvement
+Identify opportunities to improve data workflows, tooling, and operational processes within computational pathology.
+Stay informed about emerging data management practices, digital pathology technologies, and AI data standards.
+Requirements
+Desired Profile
+Education
+Bachelor's or Master's degree in data science, bioinformatics, biomedical informatics, biomedical engineering, or a related field.
+Experience in data management within healthcare, diagnostics, or life sciences is highly desirable.
+Experience
+Fluency with FAIR data principles (Findable, Accessible, Interoperable, Reusable) and their application in life sciences data management.
+Experience working with large-scale imaging datasets (e.g., whole-slide images) and associated metadata in distributed or cloud environments.
+Demonstrated experience transferring and handling multi-source and multimodal biomedical datasets, including imaging data, clinical trial data, patient or sample metadata, and analysis outputs.
+Experience with data curation and integration, addressing interoperability challenges across systems, including data transfer, format compatibility, and metadata harmonization, and alignment of analysis outputs.
+Strong working knowledge of cloud-based data environments, modern data platforms, and dataset management workflows.
+Experience with annotation platforms, digital pathology pipelines, or whole-slide image analysis environments.
+Understanding of AI/ML data requirements for model development, validation, and downstream analysis.
+Experience with dataset versioning, reproducible data preparation workflows, and quality control processes.
+Working knowledge of Python or similar scripting languages to support data preparation, automation, and quality control workflows.
+Desirable:
+Familiarity with IHC assay workflows and digital slide scanning.
+Awareness of digital pathology standards and formats (e.g., DICOM, OME-TIFF).
+Familiarity with data governance, compliance processes, and controlled handling of protected datasets in regulated biomedical environments.
+Working knowledge of Atlassian tools (JIRA, Confluence).
+Key Competencies
+Excellent interpersonal, verbal, and written communication skills, with the ability to collaborate effectively in an international matrix environment.
+Strong execution mindset, with ownership and accountability for delivering high-quality data workflows.
+Highly structured and detail-oriented, with strong follow-through.
+Ability to balance technical expertise with pragmatic, fit-for-purpose solutions.
+Strong organizational skills, with the ability to manage multiple datasets and workflows simultaneously.
+Strong problem-solving skills and solution-oriented mindset, particularly when diagnosing and resolving data quality or workflow issues.
+What we offer
+What you can expect:
+Individual development opportunities with a focus on lifelong learning
+Trust, appreciation, and room to shape things in a focused and passionate team
+Modern office space in Munich enabling collaborative, flexible, and agile work
+A diverse, inclusive, and bias-free work environment, actively welcoming applications from all qualified candidates, regardless of background or characteristics
+Company info
+ABOUT ASTRAZENECA
+AstraZeneca is a global, science-led, patient-focused biopharmaceutical company that focuses on the discovery, development and commercialisation of prescription medicines for some of the world's most serious diseases. But we're more than one of the world's leading pharmaceutical companies.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

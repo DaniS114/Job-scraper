@@ -1,0 +1,87 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+TESTING
+C
+C++
+ASSEMBLY
+PYTHON
+DEBUGGING
+SOFTWARE TESTING
+CI
+TEST AUTOMATION.
+AGILE.
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+TESTING
+C
+C++
+ASSEMBLY
+PYTHON
+DEBUGGING
+SOFTWARE
+TESTING
+CI
+TEST
+AUTOMATION.
+AGILE.
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Active involvement in the software design and test of reference application processor firmware.
+Low level software development, test and debug on various platforms, including software models, development boards and shipping products.
+Creating software stacks for Arm’s reference platforms for future Arm devices with associated development of test code.
+Create automation solutions to streamline and minimize manual testing and development tasks.
+Analyse industry specs, roadmap requirements, breakdown tasks and help implement the project plans.
+Open-source upstreaming and maintenance with a broad community.
+Requirements
+Excellent C/C++ programming skills with the ability to add significant new functionality, analyse and fix complex defects.
+Some knowledge of assembly and strong debugging skills are preferred.
+Demonstrated experience with software testing or software development.
+Expertise in application and low-level systems, with a strong understanding of system architecture (preferably ARM), OS and Firmware fundamentals, bootloaders and device drivers.
+Good understanding of test methodologies, CI and test automation.
+Strong interpersonal skills; excellent written and spoken English.
+Nice-to-have
+Experience with Python programming and writing shell scripts., Knowledge and experience of use of Rust would be helpful., Familiarity with open-source project development cycles and contribution processes., Experience of software profiling, instrumentation and optimization., A knowledge of how to test software using various techniques alongside an awareness of the value of CI and automated test systems., Experience with Security Development Lifecycle (SDL) practices., Familiarity and flexibility in the use of various software development lifecycle methods including Agile., Exposure to AI tools to accelerate areas of the software development process.
+What we offer
+Our offices are inspiring and collaborative spaces.
+Flexibility to tailor the role and title for the right candidate.
+Hybrid working approach designed to support both high performance and personal wellbeing.
+Empowerment for groups/teams to determine their own hybrid working patterns.
+Revolutionary benefits including health and wellness, work and life success, financial rewards, development and support.
+Company info
+Arm has created the world’s most pervasive compute architecture, and we’ve led many of the technology revolutions that impact the day-to-day lives of people everywhere. The Future is Built on Arm.
+Technology based on Arm is all around us, from industrial and automotive applications, to the IoT, to the desktop and data centre. ‘Wherever Computing Happens’, we need to enable Arm by providing software solutions that interface higher-level software stacks with the hardware itself.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

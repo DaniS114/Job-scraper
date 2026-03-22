@@ -1,0 +1,115 @@
+Cég neve
+TUI Cruises GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+API
+TESTING
+ANALYTICS
+JAVASCRIPT
+REACT
+GIT
+SQL
+PYTHON
+BI
+HTML
+CSS
+MACHINE LEARNING
+POWER BI
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+API
+TESTING
+ANALYTICS
+JAVASCRIPT
+REACT
+GIT
+SQL
+PYTHON
+BI
+HTML
+CSS
+MACHINE
+LEARNING
+POWER
+BI
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+The intern will support the Fleet Energy Performance team in developing innovative solutions for energy optimization and emissions reduction. The role includes significant front-end development responsibilities and integration of advanced AI models to enhance user experience and decision-making.
+Front-End Development & AI Integration:
+Design and implement modern front-end interfaces for energy performance dashboards and AI-driven applications
+Develop interactive visualizations and compelling data storytelling components for business stakeholders
+Collaborate closely with data scientists to integrate machine learning models into user-facing tools
+Ensure seamless data flow between back-end and front-end systems through API integrations
+Support testing and deployment of AI-powered features in production environment
+Contribute to iterative development cycles with a focus on scalability and user experience
+Innovation & Technical Support:
+Assist in building and optimizing digital solutions for energy monitoring and emissions analysis
+Support the continuous improvement of existing analytics tools and dashboards
+Work with modern development environments and version control systems
+Contribute ideas for enhancing AI applications and user interaction concepts
+Requirements
+Currently enrolled in or recently completed a Bachelor's or Master's degree in Computer Science, Business Analytics, Engineering, or a related quantitative field
+Strong front-end development skills, particularly in JavaScript and React (or comparable frameworks)
+Experience working with Git and development environments such as VS Code
+Solid understanding of data-driven applications and attention to detail
+Excellent English communication skills, both written and verbal
+Ability to translate complex data into clear and engaging narratives for business stakeholders
+A curious mindset, quick comprehension skills, and a collaborative team spirit
+Nice to Have:
+Experience with prompt engineering for LLMs
+Familiarity with AI and data products
+Basic knowledge of SQL, Python, or Power BI
+Interest in fuel consumption, energy efficiency, and emission
+Tools & Technologies:
+Front-end: JavaScript, React, HTML/CSS
+Back-end: Python, SQL
+Git, VS Code
+What we offer
+Exciting insights into a growing cruise company with diverse development opportunities
+A collaborative working atmosphere characterized by openness and engagement
+Responsibility and ownership of your own area of work from day one
+A modern office in a central location, just one “sea mile” from Hamburg's main train station
+A contemporary leadership and corporate culture guided by our values: appreciation, trust, and sustainability
+Regular feedback and development meetings to support your strengths and career growth
+Flexible working hours
+Discounted cruises, own gym, internal yoga classes, Pluxee meal vouchers, and much more
+Company info
+TUI Cruises GmbH
+is one of the leading cruise operators in the German-speaking world. The joint venture of TUI AG and the US cruise company Royal Caribbean Cruises Ltd. employs around 750 people in Hamburg and Berlin. On board of the ships, 136 positions are managed directly by TUI Cruises GmbH. A fleet of eight ships sails for the brand
+Mein Schiff®
+. Since the end of 2020, the brand
+Hapag-Lloyd Cruises
+has also been part of TUI Cruises GmbH with a fleet of currently five ships. The Mein Schiff® fleet offers contemporary vacation cruises at sea in the premium segment (Mein Schiff 1 to Mein Schiff 7 and Mein Schiff Relax). Hapag-Lloyd Cruises is the leading luxury and expedition cruise brand in the German-speaking world with a 130-year history. (MS EUROPA, MS EUROPA 2 & HANSEATIC nature, HANSEATIC inspiration and HANSEATIC spirit). TUI Cruises operates one of the most modern, environmentally and climate-friendly fleets in the world. In the process of sustainable growth, one more new ship is planned by 2026.
+We live the values of trust, appreciation, and sustainability. We are therefore looking for employees who internalize these values just as much as we do and bring them to life.
+Thanks to our organizational culture, we treat each other as equals, from interns to management, with openness and respect.
+TUI Cruises GmbH is looking for a full-time employee to start on March 1, 2026, for a fixed term of six months at its Hamburg site:
+Intern – Front-End Developer (all gender) (Fleet Energy Performance)
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Germany
+Álláshirdetés jelentése

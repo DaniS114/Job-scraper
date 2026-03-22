@@ -1,0 +1,151 @@
+Cég neve
+4D Soft Kft.
+Munkavégzés helye
+Hibrid
+•
+1096 Budapest, Telepy utca 24.
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Céges üdülés, üdültetés
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+JAVA
+GIT
+KOTLIN
+AGILIS
+IOS
+CONFLUENCE
+JIRA
+REST
+android
+BACKEND
+ANALYTICS
+AZURE
+DEVOPS
+SCRUM
+KANBAN
+jetpack
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Mobiltelefon
+Céges
+üdülés, üdültetés
+Szakmai
+tréningek
+Nyelvtanulás
+támogatása
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+JAVA
+GIT
+KOTLIN
+AGILIS
+IOS
+CONFLUENCE
+JIRA
+REST
+android
+BACKEND
+ANALYTICS
+AZURE
+DEVOPS
+SCRUM
+KANBAN
+jetpack
+Laptop
+Monitor
+(1 db)
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+mobilalkalmazások alacsony szintű megtervezése, megvalósítása
+egyéb szoftver metrikák pl. tesztelhetőség, kiterjeszthetőség, biztonság megfelelőségének biztosítása
+együttműködés a backend és IOS fejlesztőkkel, valamint a tesztelőkkel
+mobilfejlesztési technológiai újdonságok követése és alkalmazása a projekteken
+technológiai- és platform aspektusok képviselete a backlog építésben
+csapatban történő munkavégzés, egyszerre akár több projekten is, illetve a partner szakértőivel is együttműködve
+aktív részvétel a felhasználói élmény tervezéstől a megoldástervezésen és implementáción át egészen az életciklus követésig
+Elvárások
+magabiztosan kezeled a modern Android fejlesztői eszköztárat:
+Kotlin, Java, Jetpack Compose, View rendszer, Coroutines, Hilt, Room, Retrofit
+, stb.
+rendelkezel tapasztalattal
+Jetpack Compose
+-ban, és nem okoz gondot komplex UI-k felépítése deklaratív módon
+nem idegen tőled a java alapú Android alkalmazás fejlesztés
+dolgoztál már
+Firebase
+integrációval (pl. Analytics, Crashlytics, Remote Config, FCM, App Distribution)
+van több éves tapasztalatod különböző architektúrákban, különösen
+MVVM
+, de ismerősen mozogsz
+MVP
+,
+Clean Architecture
+vagy moduláris felépítésű rendszerek világában is
+igényesen, precízen végzed a munkádat és képes vagy termékközpontúan,
+felhasználói élményre fókuszálva
+gondolkodni
+ismered és alkalmazod az iparági sztenderdeket (
+HTTPS, REST, OpenAPI, OAuth2, JWT
+)
+magabiztosan használod az agilis fejlesztési módszertanokat:
+Scrum vagy Kanban
+gyakorlatban is alkalmazott ismerete
+haladó szintű Git
+használat (pl. pull request workflow, rebase, squash, feature branching)
+ismered az
+Azure DevOps
+vagy
+Jira + Confluence
+eszközöket
+dolgoztál
+CI/CD környezetben
+, ismered a
+DevOps szemlélet
+alapjait
+Előnyt jelent
+backend vagy fullstack fejlesztés (Java)
+Amit kínálunk
+kiváló csapat és modern szervezeti kultúra, melynek részét képezi a tudásmegosztás és a tanulás
+fizetésen túli juttatások
+rugalmas munkaidő beosztás
+több generációs, nyitott és támogató csapat
+csapatépítő programok
+Céginformáció
+A 4D Soft-nál nap mint nap azon dolgozunk, hogy innovatív digitális megoldásainkkal kézzelfogható üzleti értéket teremtsünk – ez vezérel minket minden egyes projekt során.
+Büszkék vagyunk a tudásunkra és a több mint 35 évnyi tapasztalatra, amit örömmel osztunk meg egymással, így folyamatosan lehetőséget teremtve a fejlődésre. Elhivatott szakemberek dolgoznak együtt jó hangulatban, egymást támogatva, egy összetartó és toleráns csapatban.
+Nálunk a fiatalabb és idősebb generáció valóban együttműködik – közös céljaink, az elért sikerek és a minőségi megoldások iránti elkötelezettségünk hosszú távú sikerünk kulcsa.
+Jelentkezés módja
+Amennyiben érdekel a lehetőség, kattints a "Jelentkezem" gombra!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

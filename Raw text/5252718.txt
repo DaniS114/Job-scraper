@@ -1,0 +1,120 @@
+Open positions
+About us
+Learn & Grow
+We offer
+Open positions
+Technical
+Deutsche Telekom IT Solutions Slovakia
+Senior Site Reliability Engineer - AWS
+Place of work
+Košice Region, Slovakia, Košice region (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+From 2 200 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Purpose
+The
+Senior SRE for AWS
+is responsible for designing, implementing, and operating highly reliable, scalable, and secure cloud infrastructure on AWS. The role ensures the stability and performance of production systems by applying Site Reliability Engineering principles, automation, and Infrastructure as Code practices.
+What will you do?
+Collaborate with architects and application engineers to ensure applications are maintainable, scalable, and follow appropriate disaster recovery
+and high availability strategies
+Contribute to handbooks, runbooks, and architecture design documents to ensure consistent working methods and transparency between teams
+Develop and automate standard operating procedures around common failure scenarios and manual operating tasks
+Work in scrum teams alongside architects and product managers to support and deploy new infrastructures and operational requirements
+Design, manage and maintain tools to automate manual operational processes
+Build and maintain production systems on AWS using ALB, ELB, WAF’s, S3, Serverless, API’s, Route53, etc. with the use of IaC (Terraform and
+CloudFormation)
+Troubleshoot problems, involving the appropriate resources and driving resolution of issues with a focus on minimizing impact to our customers.
+Leverage deep expertise to plan and lead the deployment of cloud solutions into production environments with the use of CI/CD pipelines
+Create practical demonstrations of proposed solutions and demonstrate them to other members of the team
+Contributing to the development of best practices for Infrastructure as Code, software build tools, and Continuous Integration
+Work and collaborate with multi-national teams in an international environment.
+You will succeed if you:
+Have strong hands-on experience with
+AWS cloud services
+, especially services such as ALB/ELB, WAF, S3, Route53, serverless components, and API integrations.
+Have solid experience designing, deploying, and operating
+cloud-native infrastructure in production environments
+.
+Have practical experience with
+Infrastructure as Code
+, particularly using
+Terraform and/or CloudFormation
+.
+Have experience building and maintaining
+CI/CD pipelines
+for automated infrastructure and application deployments.
+Have strong
+automation and scripting skills
+(e.g., Python, Bash, or similar) to eliminate manual operational work.
+Have experience designing
+high availability, scalability, and disaster recovery architectures
+in cloud environments.
+Have strong
+troubleshooting and incident management skills
+, with the ability to quickly identify root causes and minimize service impact.
+Have experience creating and maintaining
+runbooks, operational documentation, and architecture documentation
+.
+Have worked in
+Agile/Scrum teams
+, collaborating closely with architects, engineers, and product managers.
+Have experience implementing and promoting
+DevOps best practices
+, including infrastructure automation, monitoring, and continuous improvement.
+Have experience building and maintaining
+operational tooling and automation frameworks
+to support production systems.
+Have strong
+communication and collaboration skills
+, enabling effective work across distributed and international teams.
+Are proactive, solution-oriented, and comfortable
+demonstrating and explaining technical solutions
+to peers and stakeholders.
+Why should you choose us?
+We believe in balance between work and personal life. An attractive and extensive work-life balance portfolio guarantees lasting motivation for employees and thus a better quality of life, promotes physical and mental well-being and contributes to a positive work environment. All this with the aim of providing more freedom in reconciling work, career growth, private life and individual lifestyle. Therefore we offer to our employees over 25 different benefits to improve their personal and professional life in these areas:
+Financial benefits
+Benefits with focus on learning and development *
+Benefits with focus on health and sport *
+Benefits with focus on family and work - life balance
+Other benefits *
+For more information about our benefits click to
+Benefits
+.
+Benefits with * are applicable also to part-time positions.
+This information may be subject to changes and other internal rules.
+Wage (gross)
+From 2 200 EUR/month
+Final salary is negotiable.
+We are offering base salary depending on seniority level and previous experience of candidate. In addition to base salary we provide variable part and other financial benefits.
+Contact
+Contact person: Dana Dráčová
+E-mail:
+send CV
+Apply now
+Deutsche Telekom IT Solutions Slovakia
+Moldavská cesta 8B, 040 11 Košice
+www.deutschetelekomitsolutions.sk
+DL_TSSK_HR_Recruitment@t-systems.com
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5252718
+Dátum zverejnenia:
+18.3.2026
+2026-03-18
+lokalita:
+Košice region
+Pozícia:
+Systems Engineer
+Spoločnosť:
+Deutsche Telekom IT Solutions Slovakia
+Základná zložka mzdy (brutto):
+2 200 EUR/month

@@ -1,0 +1,81 @@
+Internal apps AI-assisted developer
+Bloom Robbins
+Miesto práce
+Bratislava
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+Asap/po dohode
+Mzdové podmienky (brutto)
+2 000 - 3 200 EUR/mesiac
++ variabilná čiastka mzdy vyplácaná v závislosti od splnenia KPIs
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Vývoj a údržba interných aplikácií pre tím ~40 ľudí (evidenčné systémy, dashboardy, automatizácie, interné nástroje) — primárne za pomoci Claude Code
+Pochopenie biznisových potrieb jednotlivých oddelení, pretavenie ich do funkčných riešení
+Spolupráca s Head of IT na návrhu architektúry a výbere technológií pre nové projekty
+Správa a rozvoj existujúcich aplikácií (momentálne začíname stavať na Supabase, Vercel, repos v GitHub)
+Navrhovanie databázových štruktúr, API endpointov a používateľských rozhraní
+Testovanie, debugovanie a iterácia na základe spätnej väzby od kolegov
+Dokumentácia kódu a technických riešení tak, aby boli udržateľné a zrozumiteľné
+Aktívne sledovanie nových možností AI-assisted vývoja a navrhovanie ich využitia v praxi
+Zamestnanecké výhody, benefity
+​zamestnanecké zľavy na produkty Bloom Robbins, rovnako ako aj zľava pre priateľov
+masáže a fyzioterapeut pre náš tím
+besiedky s top mentormi
+team-building hneď niekoľkokrát do roka (a to vo veľkom štýle)
+ročný príspevok na individuálne vzdelávanie 250€
+raňajky a brunch v office
+po dohode možnosť práce aj homeoffice (4x do mesiaca)
+možnosť vybrať si prácu z kancelárie v Bratislave alebo v Piešťanoch
+​
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+GitHub - Mierne pokročilý
+Claude Code - Mierne pokročilý
+Prax na pozícii/v oblasti
+3
+Osobnostné predpoklady a zručnosti
+Základná orientácia v kóde — vieš čítať a upraviť JavaScript/TypeScript, HTML/CSS, SQL; nemusíš byť senior developer, ale musíš rozumieť tomu, čo Claude Code generuje
+Praktická skúsenosť s AI nástrojmi na generovanie kódu (Claude Code, GitHub Copilot alebo podobné) — alebo silná motivácia sa to rýchlo naučiť
+Schopnosť pochopiť biznisový problém a navrhnúť technické riešenie, nie len kódovať podľa zadania
+Skúsenosť alebo ochota pracovať so stackom: Supabase (PostgreSQL, Auth, Edge Functions), Vercel, GitHub - sme otvorení aj inému tech stacku ak to bude dávať zmysel.
+Samostatnosť — vieš si zorganizovať prácu, dotiahnuť veci do konca a komunikovať, keď sa zasekneš
+Slovenčina na komunikačnej úrovni, angličtina minimálne na čítanie technickej dokumentácie
+Chuť pracovať v malom tíme, kde tvoja práca priamo ovplyvňuje celú firmu
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Bloom Robbins je beauty brand, ktorý si za posledných pár rokov úspešne prerazil svoju cestu na celosvetový trh.
+S našim rýchlym rastom a moderným marketingom chceme pokračovať aj v ďalších krajinách EÚ. Jeden z kľúčových faktorov nášho úspechu je mladý, inovatívny a dynamický tím, ktorý pravidelne rozširujeme.
+Vysoko funkčné kúry Bloom Robbins vedia dodať telu všetky dôležité látky v tej najväčšej kvalite, aby sa mohla naplno prejaviť jeho krása.
+Kultúra našej spoločnosti je postavená na silných hodnotách, a je cítiť z ľudí, ktorí s nami pracujú. Máme svetové ambície vo svete krásy, na ktorých stále pracujeme. Chceme sa neustále zlepšovať a radi sa spájame s ľuďmi, ktorí sú nastavení podobne ako my.
+Pridáš sa k nám v budovaní svetovej značky aj ty?
+Kontakt
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253041
+Dátum zverejnenia:
+18.3.2026
+2026-03-18
+lokalita:
+Bratislava
+Pozícia:
+Programátor
+Spoločnosť:
+Bloom Robbins
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

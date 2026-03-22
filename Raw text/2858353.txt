@@ -1,0 +1,87 @@
+Cég neve
+SEON Technologies Kft.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+SECURITY
+ISO
+AWS
+DEVOPS
+JENKINS
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+SECURITY
+ISO
+AWS
+DEVOPS
+JENKINS
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Lead and grow a high-performing Platform Engineering team responsible for cloud architecture, CI/CD pipelines, and core infrastructure provisioning.
+Champion a 'Platform as a Product' mindset, working with DevEx to identify and understand friction points and drive adoption of self-service tools.
+Design and maintain 'Golden Paths'—standardized, automated templates for microservices and infrastructure for safe and quick deployment.
+Drive platform strategy and manage roadmap balancing long-term architectural improvements with immediate tooling needs.
+Collaborate with Site Reliability Engineering (SRE) Manager to enforce reliability standards and facilitate 'Compliance by Design'.
+Automate compliance and security controls (e.g., SOC2, ISO certifications) into delivery pipeline.
+Oversee cloud architecture, managing AWS footprint for cost-efficiency, scalability, and governance.
+Define and track success metrics such as DORA metrics and developer satisfaction scores.
+Provide mentorship, performance reviews, and career development for Platform Engineering team members.
+Communicate effectively with stakeholders, advocating platform strategy and translating technical improvements into business value.
+Requirements
+Bachelor’s degree in Computer Science, Engineering, or related field (or equivalent practical experience).
+Proven success in leading Platform Engineering or DevOps teams in large-scale, fast-paced environments.
+Extensive experience with cloud-native architectures, specifically AWS and Kubernetes.
+Deep understanding of Infrastructure as Code (IaC) tools like Terraform.
+Strategic vision balancing standardization (governance) with developer autonomy (innovation).
+Outstanding communication and interpersonal skills.
+Experience with modern CI/CD and Observability ecosystems (e.g., Jenkins, GitHub Actions, Prometheus, Grafana, Datadog).
+Excellent problem-solving skills focused on systemic improvements and root cause analysis.
+Exceptional organizational skills managing multiple priorities and cross-functional projects.
+What we offer
+Flexibility to work hybrid in Budapest or remotely anywhere in the European Union with occasional travel.
+Opportunity to lead and grow a high-impact Platform Engineering team.
+Work in a fast-growing company partnering with ambitious digital brands.
+Competitive compensation and benefits as part of SEON's employee perks.
+Workplace extras
+Canteen
+Cafe
+Corporate events
+Bicycle storage
+Free fruits, snacks
+Free coffee, soft drinks
+Free breakfast
+Free lunch
+Play corner
+Company info
+SEON is the command center for fraud prevention and AML compliance, helping thousands of companies worldwide stop fraud, reduce risk and protect revenue. Powered by 900+ real-time, first-party data signals, SEON enriches customer profiles, flags suspicious behavior and streamlines compliance workflows - all from one place. SEON provides richer data, more flexible and transparent analysis, and faster time to value than any other provider on the market. We’ve helped companies reduce fraud by 95% and achieve 32x ROI, and we’re growing fast, thanks to our partnerships with some of the world’s most ambitious digital brands like Revolut, Wise, and Bilt.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Budapest
+Álláshirdetés jelentése

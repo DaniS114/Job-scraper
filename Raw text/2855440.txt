@@ -1,0 +1,114 @@
+Cég neve
+BECK AND PARTNERS Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest, X. kerület
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+ANDROID
+IOS
+SELENIUM
+JAVA
+LINUX
+CI
+ISTQB
+SCRUM
+AGILIS
+JIRA
+CONFLUENCE
+CYPRESS
+Biztosított eszközök
+Laptop
+Linux
+Elvárások
+Angol alapfok
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+ANDROID
+IOS
+SELENIUM
+JAVA
+LINUX
+CI
+ISTQB
+SCRUM
+AGILIS
+JIRA
+CONFLUENCE
+CYPRESS
+Laptop
+Linux
+Angol
+alapfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+Partnerünk egy GPS-alapú nyomkövetési megoldásokat fejlesztő technológiai vállalat, amely a kutatástól kezdve a termékfejlesztésen és gyártáson át egészen az értékesítésig és az üzemeltetésig saját kézben tartja rendszereit. A több mint 5.400 ügyfelet kiszolgáló szolgáltatás mögött saját fejlesztői és ügyfélszolgálati csapat áll, amely a stabil és megbízható működésre helyezi a hangsúlyt.
+A vállalat jelenleg olyan tapasztalt szakemberrel szeretné bővíteni csapatát, aki segít biztosítani React alapú webalkalmazásuk és a hozzá kapcsolódó mobil (WebView wrapper) alkalmazások stabil működését. Most az alábbi kulcsszerepbe keresnek új kollégát: Senior tesztautomatizáló mérnök Web és mobil (WebView) rendszerek / Hibrid munkavégzés
+Feladatok
+Automatizált tesztelési stratégia kialakítása és fejlesztése
+Webes és mobil (Android, iOS) környezetek tesztelésének automatizálása
+WebView-alapú alkalmazások működésének biztosítása különböző platformokon
+Automatizált tesztek CI környezetben történő futtatása
+Teszt-framework és teszt infrastruktúra fejlesztése
+Exploratív és esetenként manuális tesztelés
+Hibajavítások tesztelése és minőségbiztosítási folyamatok támogatása
+Juniorabb kollégák mentorálása
+A jelenlegi automatizáció Selenium alapokon működik, ugyanakkor a csapat nyitott modernebb vagy hatékonyabb automatizálási eszközök bevezetésére.
+Elvárások
+Felsőfokú szakirányú végzettség vagy azzal egyenértékű szakmai tapasztalat
+Tapasztalat teszt-framework kialakításában
+Tesztautomatizálásban és szoftvertesztelésben szerzett gyakorlat
+UI tesztautomatizálási tapasztalat
+Webes és mobil tesztelési környezetek ismerete
+Szakmai angol nyelv megértése
+Rendszerszintű gondolkodás, analitikus szemlélet
+Nyitottság új technológiák és megoldások iránt
+Juttatások
+Stabil vállalati háttér, európai piacon jelen lévő cégcsoport
+Pozícióhoz illeszkedő jövedelem
+Hibrid munkavégzés és rugalmas munkaidő
+Modern fejlesztői környezet (Dell laptop root jogosultsággal, SSD, dokkoló, több monitor)
+Linux-alapú, nyílt forráskódú technológiákra épülő infrastruktúra
+Atlassian eszközök (JIRA, Confluence, FishEye-Crucible)
+GitLab, BrowserStack, StoryBook, Playwright, Cypress
+Pair programming és rendszeres code review
+Folyamatos szakmai fejlődési lehetőség
+Innovatív, családias cégkultúra („nyitott ajtó” szemlélet)
+Közösségi programok (game club, pizza party, csapatépítők, családi nap)
+Ingyenes kávé és tea az irodában
+Zuhanyzó az irodában kerékpárral érkezők számára
+Itt nem csupán teszteseteket ír valaki: a teljes automatizációs stratégia alakításában is szerepet kap, és közvetlen hatással lehet egy több ezer ügyfél által használt rendszer stabilitására és minőségére.
+Munkavégzés helye: Budapest Hibrid munkavégzéssel
+Munkaidő: Hétfőtől péntekig, napi 8 óra
+Előnyt jelent
+ISTQB minősítés
+Java programozási tapasztalat
+SCRUM vagy más agilis módszertan ismerete
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezés gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+IT,
+fejlesztési vezető
+Budapest
+Budapest
+Álláshirdetés jelentése

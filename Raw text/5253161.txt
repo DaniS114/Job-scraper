@@ -1,0 +1,98 @@
+Softvérový inžinier
+COMPOTE, s.r.o.
+Miesto práce
+Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok
+Mzdové podmienky (brutto)
+Od 2 500 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Compote je žilinská softvérová spoločnosť. Budujeme digitálne riešenia pre verejný a súkromný sektor - integrácie eGovernment systémov, platformy digitálnej identity, smart energy aplikácie a AI-assisted nástroje. Náš tím zvláda projekty, ktoré väčšina firiem rieši s dvojnásobkom ľudí - pretože systematicky využívame AI nástroje ako štandard každodennej práce.
+Hľadáme
+softvérového inžiniera
+, ktorý premýšľa skôr, ako začne písať kód, berie si zodpovednosť za celok a má záujem o to, ako AI mení spôsob vývoja softvéru.
+Čo budeš robiť:
+Navrhovať a budovať systémy, riešenia a aplikácie - od backendových služieb a systémových integrácií až po frontendové rozhrania
+Zapájať sa do technickej analýzy od začiatku projektu - čítaš brief, kladieš správne otázky, navrhuješ architektúru skôr, než vznikne prvý riadok kódu
+Integrovať systémy tretích strán, štátne registre, enterprise platformy a IoT zdroje
+Používať AI nástroje ako bežnú súčasť pracovného dňa - predplatné platí Compote
+Zúčastňovať sa na architektonických diskusiách a otvorene komunikovať, keď niečo nedáva zmysel
+Príležitostne prezentovať riešenie klientovi - nemusíš byť obchodník, ale musíš vedieť vysvetliť čo si postavil a prečo
+Ako vyzerá typický projekt:
+Dostaneš brief, kladieš otázky, načrtneš architektúru, overíš to PoC-om za 2–4 dni a potom vedieš implementáciu spolu s jedným alebo dvoma kolegami. Co-founderi sú k dispozícii na strategickej úrovni - technická dodávka je tvoja zodpovednosť.
+Zamestnanecké výhody, benefity
+Čo ponúkame:
+Práca na technicky zaujímavých projektoch s reálnym dopadom - vrátane aktívnych eGovernment systémov využívaných státisícmi občanov
+Hybridný režim: kancelária v Žiline + flexibilný home office
+Prístup k AI nástrojom je súčasťou pracovného vybavenia
+Vzdelávací budget na certifikáty, konferencie a kurzy podľa vlastného výberu
+Výkonnostný bonus podľa výsledkov firmy a hodnotenia projektov
+Pravidelné tech lunche s celým tímom - priestor na zdieľanie znalostí, skúseností a vzájomný rast
+Malý, plochý tím bez korporátnych vrstiev a zbytočnej byrokracie
+Reálna kariérna cesta
+Informácie o výberovom konaní
+Zašlite nám životopis (po slovensky alebo anglicky), krátky popis projektu, na ktorý ste hrdí, a, ak máte odkaz na GitHub alebo ukážku práce. Odpovedáme každému uchádzačovi do 5 pracovných dní.
+Priebeh výberu: prehliadnutie CV → 30-minútový úvodný hovor → technická diskusia s naším tech leadom → ponuka.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+Informatika alebo príbuzný odbor, prípadne preukazná odborná prax.
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+Požadované:
+Solídny základ v backendovom vývoji - Java, Python, Node.js, C# alebo ekvivalent; záleží nám na spôsobe myslenia, nie na konkrétnom jazyku
+Skúsenosti s frontendovým vývojom - React.js alebo podobné JavaScript technológie
+Skúsenosti s návrhom a implementáciou REST API a systémových integrácií
+Relačné databázy (PostgreSQL, MSSQL) - dátové modelovanie, nielen dotazy
+Základná orientácia v cloudovej infraštruktúre (AWS, Azure alebo GCP) - vedieš nasadiť čo si napísal
+Git, CI/CD, Docker
+Výhodou:
+Praktická skúsenosť s AI nástrojmi
+OAuth2, OpenID Connect alebo SAML
+JSON-LD, sémantické dáta alebo štandardy digitálnej identity
+Skúsenosť s eGovernment prostredím alebo regulovanými odvetviami
+Event-driven architektúra (Kafka, RabbitMQ)
+Osobnostné predpoklady a zručnosti:
+Analytické myslenie - navrhuješ skôr, než kóduješ
+Zmysel pre zodpovednosť - dokončuješ čo začneš, pýtaš sa skôr, než sa problém nahromadí
+Dobrá komunikácia - písomná aj ústna, smerom ku kolegom aj klientom
+Samostatnosť - dobre fungujete s asynchrónnou komunikáciou a minimálnym dohľadom
+Otvorený postoj k AI nástrojom - aktívne hľadáš spôsoby, ako pracovať rýchlejšie a efektívnejšie
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Compote s. r. o. je IT spoločnosť so sídlom v Žiline, pôsobiaca od roku 2014. Dodávame softvérové riešenia v oblasti eGovernment, digitálnej identity, energetiky a enterprise integrácií - projekty, ktoré majú reálny dosah na státisíce ľudí a fungujú v produkčnom prostredí.
+Nie sme korporácia ani startup bez vízie. Sme skúsený tím, ktorý vie čo robí, pracuje s moderným tech stackom a AI nástroje berie ako bežnú súčasť práce - nie ako buzzword. Každý inžinier u nás má priestor ovplyvňovať technické rozhodnutia, hovoriť priamo s klientom a vidieť výsledky svojej práce v praxi.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Stanislav Cúg
+Tel.:
++421911902879
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253161
+Dátum zverejnenia:
+18.3.2026
+2026-03-18
+lokalita:
+Žilina
+Pozícia:
+Softvérový inžinier
+Spoločnosť:
+COMPOTE, s.r.o.
+Základná zložka mzdy (brutto):
+2 500 EUR/mesiac

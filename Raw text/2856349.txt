@@ -1,0 +1,87 @@
+Cég neve
+ARM Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DEVOPS
+PYTHON
+LINUX
+SECURITY
+C
+C++
+DOCKER
+AWS
+ANSIBLE
+DEBUGGING
+CI
+JENKINS
+AGILE
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+DEVOPS
+PYTHON
+LINUX
+SECURITY
+C
+C++
+DOCKER
+AWS
+ANSIBLE
+DEBUGGING
+CI
+JENKINS
+AGILE
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Leading/delivering major projects
+Coordinating release activities
+Analysing test data to support quality improvements
+Supporting software developers in using the platform
+Driving more efficient build and test automated pipelines
+Supporting and contributing to new developer workflows such as Product Quality improvements and the Secure Development Lifecycle
+Requirements
+Experience in automation using scripting languages like Python
+Experience of the full software development lifecycle in a commercial or open source environment
+Experience with the administration of various Linux distributions
+Understanding of security principles in infrastructure
+Nice-to-have
+"Nice To Have" Skills and Experience: Experience with projects to improve software efficiency and quality, C/C++/Rust/ Build / Debugging, Experience with CI (continuous integration) tools like Jenkins, Docker, AWS, Experience with Infrastructure-as-Code for CI infrastructure automation (Ansible, Packer, Terraform ...), Experience in a small team/start-up environment, appreciation for Agile principles, Our 10x mindset guides how we engineer, collaborate, and grow
+What we offer
+Inspiring and collaborative office spaces
+Flexibility to tailor the role and title for the right candidate
+Hybrid working environment supporting high performance and personal wellbeing
+Empowerment for groups/teams to determine their own hybrid working patterns
+Equal opportunity employer committed to mutual respect and diversity
+Benefits including health and wellness, work and life success, financial rewards, development and support
+Company info
+The Software (CE-SW) group is responsible for developing and improving the software ecosystem around Arm's next generation architectures and systems. This means working with processors and other hardware technology not yet available to the public. You will join a team of Software Engineers who share a desire for leaving their mark on the future of computing.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése

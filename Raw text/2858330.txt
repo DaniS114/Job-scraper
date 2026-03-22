@@ -1,0 +1,96 @@
+Cég neve
+SEON Technologies Kft.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+INCIDENT MANAGEMENT
+CLOUD
+SECURITY
+DEVOPS
+AWS
+CD
+TROUBLESHOOTING
+CI
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+INCIDENT
+MANAGEMENT
+CLOUD
+SECURITY
+DEVOPS
+AWS
+CD
+TROUBLESHOOTING
+CI
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Ensure the reliability, availability, and performance of our systems by implementing SRE best practices
+Develop and maintain comprehensive monitoring and alerting systems using tools such as Prometheus, Grafana, ELK stack, etc.
+Manage incident response and root cause analysis for production issues
+Conduct postmortems to learn from failures and drive continuous improvement in the system’s reliability
+Continuously monitor and optimize the performance of cloud infrastructure to ensure efficient resource utilization and cost-effectiveness
+Automate routine tasks and processes to reduce manual intervention and increase efficiency
+Analyze current system capacity and plan for future growth to ensure the infrastructure can scale with increasing demands
+Define, measure, and monitor SLOs and SLIs to ensure that services meet their reliability targets
+Work closely with engineering, and product teams to provide feedback and suggestions on new architectures, ensuring they meet reliability and performance standards
+Develop and maintain comprehensive documentation for architecture, infrastructure, and troubleshooting processes
+Provide on-call support to ensure the continuous availability of our applications and infrastructure
+Ensure that systems meet security and compliance requirements, performing regular audits and assessments based on the internal security team’s guidelines
+Stay current with new technologies and industry trends, evaluating their potential impact on our infrastructure and reliability practices
+Requirements
+6+ years of experience as a SRE, DevOps or in a similar engineering role, with a focus on reliability principles and practices
+Strong hands-on experience working with Kubernetes ( AWS EKS preferred )
+Strong hands-on expertise in Terraform
+Extensive experience working in multi-region and multi-account AWS setup
+Strong experience with monitoring and logging tools such as Prometheus, Grafana, Elasticsearch, and Kibana
+Strong experience deploying, maintaining and troubleshooting scalable distributed components in microservice-based architecture
+Experience researching, troubleshooting and improving customer critical requests related to latency, availability and performance issues
+Ability to quickly troubleshoot complex issues related to infrastructure
+Proficiency with incident management tools such as PagerDuty, Opsgenie, etc.
+Familiarity with CI pipelines and tools (Github Actions preferred )
+Experience working with GitOps practices and CD tools ( ArgoCD preferred )
+A proactive approach to identifying and resolving issues independently with a strong problem-solving attitude
+Excellent communication and collaboration skills to work effectively with cross-functional teams
+What we offer
+Flexibility to work hybrid in Budapest or remote in Europe
+Workplace extras
+Canteen
+Cafe
+Corporate events
+Bicycle storage
+Free fruits, snacks
+Free coffee, soft drinks
+Free breakfast
+Free lunch
+Play corner
+Company info
+SEON is the command center for fraud prevention and AML compliance, helping thousands of companies worldwide stop fraud, reduce risk and protect revenue. Powered by 900+ real-time, first-party data signals, SEON enriches customer profiles, flags suspicious behavior and streamlines compliance workflows - all from one place. SEON provides richer data, more flexible and transparent analysis, and faster time to value than any other provider on the market. We’ve helped companies reduce fraud by 95% and achieve 32x ROI, and we’re growing fast, thanks to our partnerships with some of the world’s most ambitious digital brands like Revolut, Wise, and Bilt.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Budapest
+Álláshirdetés jelentése

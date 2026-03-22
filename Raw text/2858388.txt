@@ -1,0 +1,97 @@
+Cég neve
+DREAM4SYS Kft.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Egyéb juttatások
+Szakmai tréningek
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+MYSQL
+JQUERY
+JAVASCRIPT
+GIT
+BOOTSTRAP
+LARAVEL
+PHPUNIT
+VUE
+JIRA
+CONFLUENCE
+JENKINS
+CLEAN CODE
+Biztosított eszközök
+Laptop
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Szakmai
+tréningek
+Teljes
+munkaidő
+Általános
+munkarend
+MYSQL
+JQUERY
+JAVASCRIPT
+GIT
+BOOTSTRAP
+LARAVEL
+PHPUNIT
+VUE
+JIRA
+CONFLUENCE
+JENKINS
+CLEAN
+CODE
+Laptop
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Munkakörhöz tartozó feladatok ellátása.
+Elvárások
+Releváns szakmai tapasztalat
+Angol nyelvtudás
+Csapatmunkára való képesség
+PHP >= 7
+Laravel keretrendszer
+MySQL
+OOP szemléletmód
+PHPunit
+Vue
+jQuery
+Native Javascript
+Git
+Bootstrap
+Jira
+Confluence
+Jenkins rendszerek ismerete
+SOLID elvek
+Design patternek ismerete és használata
+Clean code
+Amit kínálunk
+Stabil, felelősségteljes, hosszú távú munkalehetőség
+Kellemes munkakörnyezet
+Versenyképes jövedelem
+Fiatal, innovatív, összetartó csapat
+Laptop
+Szakmai tréningek
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Regionális
+Álláshirdetés jelentése

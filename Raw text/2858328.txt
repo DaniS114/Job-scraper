@@ -1,0 +1,85 @@
+Cég neve
+GITMAX IT Services Zrt.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SQL
+JAVA
+SPRING
+GIT
+DOCKER
+AGILE
+SCRUM
+DEVOPS
+DEBUGGING
+KANBAN
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SQL
+JAVA
+SPRING
+GIT
+DOCKER
+AGILE
+SCRUM
+DEVOPS
+DEBUGGING
+KANBAN
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Contribute to the development and support of a large-scale enterprise application
+Work on a mission-critical system ensuring stability
+Drive implementation of new features and performance improvements
+Collaborate closely with cross-functional teams
+Participate in architectural discussions
+Apply best practices throughout the full software development life cycle
+Requirements
+3+ years of professional Java development experience
+Strong understanding of the Software Development Life Cycle (SDLC) and best practices
+Hands-on expertise with Spring Framework / Spring Boot
+Experience with JSP/Servlets and their role in traditional architectures
+Solid skills in SQL – writing queries, performance tuning, and optimization
+Exposure to DevOps practices: working with Docker containers
+Experience designing and maintaining CI/CD pipelines (Git, GitLab, GitHub)
+Proven ability in debugging, profiling, and performance optimization
+Hands-on experience with Microservices and event-driven architectures (Nice-to-Have)
+Familiarity with Kubernetes and container orchestration (Nice-to-Have)
+Experience with Message Brokers (RabbitMQ, or similar) (Nice-to-Have)
+Understanding of Agile methodologies (Scrum, Kanban) (Nice-to-Have)
+Proficiency in English for documentation and team communication (Nice-to-Have)
+What we offer
+Opportunity to work for a financially strong, fast-growing multinational company
+Constant interaction with global teams of professionals
+International career opportunities
+Life events’ gifts, corporate presents and awards, years of service bonuses
+Special prices for the Company products
+Company info
+Our hiring partner is an international IT company specializing in value-added distribution and development of IT, IoT, and Robotic products, solutions, and services.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Regionális
+Álláshirdetés jelentése

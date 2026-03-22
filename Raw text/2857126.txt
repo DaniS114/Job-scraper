@@ -1,0 +1,90 @@
+Cég neve
+Magyar Bírósági Végrehajtói Kar
+Munkavégzés helye
+1146 Budapest, Cházár András utca
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+LINUX
+BASH
+BACKEND
+ANGULAR
+XML
+REACT
+PHP
+FRONTEND
+POSTGRESQL
+SYMFONY
+GO
+Elvárások
+Angol alapfok
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+LINUX
+BASH
+BACKEND
+ANGULAR
+XML
+REACT
+PHP
+FRONTEND
+POSTGRESQL
+SYMFONY
+GO
+Angol
+alapfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Fejlesztői csapatunk olyan tapasztalt Fullstack fejlesztőt keres, aki megbízható TypeScript/JS tudással, infrastruktúra-szemlélettel és erős PHP/Symfony backend háttérrel rendelkezik. A szerepkör egyik meghatározó feladata meglévő Go szervizeink fokozatos Symfony-ra történő migrálása – ehhez nem szükséges mély Go tudás, de nyitottság és technikai érzék a Go kódbázisok olvasásához és megértéséhez elengedhetetlen.
+Elvárások
+Frontend:
+Magabiztos TypeScript/JS fejlesztési tapasztalat. Preferáltan React, de Angular keretrendszer ismerete is elfogadott.
+Backend:
+Erős PHP/Symfony tapasztalat
+Nyitottság Go kódbázisok megismerésére, feltérképezésére
+Motiváció a Go szervizek Symfony-ra történő migrálásában való aktív részvételre
+Előnyt jelent
+Adatbázis: erős Postgresql tapasztalat (eljárások, triggerek, komplex lekérdezések)
+Tapasztalat nagy terhelésű, magas rendelkezésre állású rendszerekben
+Redis ismerete, Queue alapú aszinkron feldolgozás
+Nagy méretű (jellemzően XML) fájlok feldolgozása, batch processing
+Linux alapismertek, bash scripting
+CI/CD pipeline-ok kialakítása, kezelése és karbantartása
+Amit kínálunk
+Versenyképes fizetés;
+Komplex juttatási csomag;
+Dinamikus, fejlődő munkahelyi környezet;
+Legújabb technológiák megismerése, szakmai fejlődés lehetősége;
+Fiatalos, barátságos, összetartó csapat.
+Munkahelyi extrák
+Ingyen kávé, üdítő
+Céginformáció
+Budapest, XIV. kerület
+Jelentkezés módja
+A jelentkezéshez kérjük, hogy juttasd el hozzánk
+bérigénnyel ellátott
+magyar nyelvű önéletrajzod.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

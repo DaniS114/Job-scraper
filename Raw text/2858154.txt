@@ -1,0 +1,121 @@
+Cég neve
+ARC lntelligence GmbH
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+PYTHON
+API
+FRONTEND
+TESTING
+REACT
+SQL
+DATABASES.
+GIT
+CLOUD
+AWS
+AZURE
+DOCKER.
+REST
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+PYTHON
+API
+FRONTEND
+TESTING
+REACT
+SQL
+DATABASES.
+GIT
+CLOUD
+AWS
+AZURE
+DOCKER.
+REST
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+As a Fullstack Engineer, you'll work closely with experienced backend, data, and AI engineers to build and improve features across our platform. You will:
+Build Fullstack Features:
+Implement user-facing features using modern frameworks and connect them to backend APIs.
+Backend Development:
+Contribute to Python-based backend services (Django REST or FastAPI), including API endpoints and business logic.
+Frontend Development:
+Work on responsive, clean UI components and dashboards that surface complex financial data in an intuitive way.
+Data & API Integration:
+Help integrate third-party systems (ERPs, CRMs) and internal data pipelines into our application.
+Testing & Code Quality:
+Write unit and integration tests, fix bugs, and participate in code reviews to maintain high-quality standards.
+Collaborate Across Teams:
+Work closely with product managers, designers, and senior engineers to translate requirements into working software.
+Learn by Doing:
+Gain hands-on exposure to AI-powered features, LLM-enabled workflows, and production SaaS systems.
+Requirements
+This role is ideal for recent graduates or engineers with up to 2 years of experience.
+Technical Foundations
+Advanced capabilitie with
+Python
+(backend) and experience with
+Next.js / React
+(frontend).
+Understanding of REST APIs and how frontend and backend systems communicate.
+Basic knowledge of SQL and relational databases.
+Engineering Practices
+Experience using
+Git
+and collaborating via pull requests.
+Interest in writing clean, readable, and maintainable code.
+Experience with testing, CI/CD, and cloud-native development.
+Mindset & Soft Skills
+Curious, motivated, and eager to learn in a fast-paced startup environment.
+Comfortable asking questions and receiving feedback.
+Strong communication skills in English (German is a plus).
+Nice to Have
+Internship or project experience building ai applications.
+Exposure to cloud platforms (AWS, GCP, or Azure) or Docker.
+Interest in AI/ML-powered products or financial software.
+Familiarity with basic frontend design principles or UX thinking.
+What we offer
+Competitive Junior Salary
+with growth potential
+Flexible Work Model (
+Berlin-based team)
+Modern Tech Stack:
+Python, React, cloud infrastructure, and AI/ML tooling
+Learning & Development:
+Mentorship from senior engineers, learning budget, and real ownership early on
+Great Team Culture:
+Hackathons, knowledge-sharing sessions, and team offsites
+Career Growth:
+Clear path to Mid-Level Fullstack Engineer as you develop
+Company info
+ARC Intelligence is pioneering financial intelligence for today's CFOs and finance teams. Our AIpowered platform integrates and analyzes data from ERPs, spreadsheets, and more— transforming raw financial data into clear, actionable insights. By combining a scalable semantic layer with advanced AI agents, we enable companies to make data-driven decisions without the overhead of a large data or finance team.
+We're a fast-growing startup building at the intersection of finance, data, and AI—and we're looking for a Fullstack Engineer who's excited to learn, grow, and help shape our product from the ground up.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

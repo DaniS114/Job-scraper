@@ -1,0 +1,81 @@
+Cég neve
+DruIT Szolgáltató Zrt.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+API
+AGILE
+AGILIS
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+API
+AGILE
+AGILIS
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+A termékportfólió stratégiai irányának meghatározása és folyamatos finomhangolása az üzleti célok mentén.
+A SAFe keretrendszerben működő Agile Release Train(ek) szakmai irányítása, a szállítócsapatok munkájának összehangolása.
+Aktív és strukturált együttműködés a Release Train Engineerrel (RTE) az ART hatékony működése, a PI célok teljesülése és a kockázatok kezelése érdekében.
+Szoros együttműködés a Product Ownerekkel, a feature-ök lebontásának támogatása, priorizálási elvek egységesítése és a stratégiai célok operatív megvalósításának biztosítása.
+Rendszeres egyeztetés és döntés-előkészítés az üzleti döntéshozókkal, a stratégiai irányok, befektetési prioritások és KPI-ok mentén.
+PI Planning előkészítése és aktív részvétel a program inkrementum céljainak meghatározásában.
+A program backlog és feature szintű priorizálás menedzselése üzleti érték (pl. WSJF) alapú megközelítéssel.
+A termékstratégia lebontása roadmap szintre, átlátható tervezhetőség és transzparens kommunikáció biztosítása a stakeholderek számára.
+Portfóliószintű függőségek kezelése, kockázatok azonosítása és mitigálása.
+A fejlesztett megoldások üzleti validációja, KPI-alapú teljesítménymérés és adatvezérelt döntéshozatal támogatása.
+End-to-end felelősségvállalás a termékek teljes életciklusa felett a koncepciótól a bevezetésen át az optimalizálásig.
+A piaci és ügyféligények feltárása, valamint ezek validálása.
+A termék roadmapjének kialakítása és karbantartása.
+PI Planning előkészítése és a PI Objectives meghatározásának támogatása.
+Részvétel System Demo eseményeken az érték validálása érdekében
+Elvárások
+Legalább 5+ év tapasztalat Product Manager, SAFe Product Manager vagy hasonló stratégiai termékmenedzsment szerepkörben.
+Tapasztalat SAFe vagy más skálázott agilis környezetben (ART, PI Planning, WSJF priorizálás).
+Erős stratégiai gondolkodás és üzleti impact alapú priorizálási képesség.
+Magas szintű stakeholder-menedzsment tapasztalat, különösen nagyvállalati környezetben.
+Képesség több csapat és szervezeti egység összehangolására, komplex függőségek kezelésére.
+Technikai affinitás, rendszerarchitektúrák, API-k és integrációs modellek megértése.
+Tapasztalat roadmap menedzsmentben és portfóliószintű tervezésben.
+Adatvezérelt szemlélet, KPI-ok és üzleti metrikák mentén történő döntéshozatal.
+Magabiztos angol nyelvtudás, nemzetközi partnerekkel való együttműködés
+Előnyt jelent
+Fintech vagy pénzügyi szektorban szerzett tapasztalat, Komplex, integráció-intenzív digitális termékek menedzselése, SAFe PM/PO vagy más releváns agilis minősítés, Tapasztalat digitális banki vagy pénzforgalmi rendszerek fejlesztésében
+Amit kínálunk
+Szakmailag kiváló, motivált csapat. Nyitottak az új ötletekre, szokásokra, szívesen fogadják a véleményedet.
+Új infrastrukúrát építünk. Csapatuk a legújabb technológiákat, eszközöket használja az ügyfélélmény és a versenyképesség szolgálatában.
+Folyamatos innováció. Hisznek abban, hogy a banki szolgáltatásokat meg tudjuk reformálni, nyitottak megkérdőjelezni és legyőzni a piaci berögződéseket.
+Rugalmas munkaidő, hibrid munkavégzési lehetőséggel.
+Támogatják a szakmai fejlődésedet, mindent megtesznek, hogy a legtöbbet hozd ki a munkaidőből
+Hibrid munkavégzés (heti 2 nap iroda, Budapest)
+Céginformáció
+Partnerünk fintech csapata digitális pénzforgalmi és vállalati banki megoldásokat fejleszt, amelyek célja az ügyfélélmény és a működési hatékonyság folyamatos javítása.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

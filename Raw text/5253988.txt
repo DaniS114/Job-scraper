@@ -1,0 +1,111 @@
+.NET Developer
+TransData s.r.o.
+Miesto práce
+M. R. Štefánika 139, Žilina, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády)
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 1 800 EUR/mesiac
+v závislosti od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme .NET programátora, ktorý nám pomôže posúvať vpred projekty s celoslovenským dosahom v sektore
+dopravy a školstva
+. Tvojou hlavnou úlohou bude vývoj backendových služieb pre známu platformu
+Ubian
+, ktorú denne využívajú tisíce cestujúcich. Zároveň sa môžeš stretnúť aj s frontendom v Blazori alebo ASP.NET WebForms.
+Čo ťa u nás čaká:
+Vývoj a rozvoj backendu pre Ubian:
+Práca na systéme, ktorý zjednodušuje cestovanie a dopravu (smart ticketing, vyhľadávanie spojení, integrácia dopravcov).
+Projekty pre školstvo:
+Tvorba a údržba riešení prepojených na študentské karty a školské systémy.
+Technická realizácia:
+Žiadna nudná špecializácia ako v korporáte. U nás zažiješ vývoj od návrhu databázy až po frontend. Zároveň pracuješ v tíme, takže na nič nie si sám.
+Tvorba čistého, testovateľného kódu a optimalizácia databázových dopytov (SQL) pre zvládanie vysokej záťaže.
+Spolupráca s tímom pri integrácii externých systémov tretích strán (dopravcovia, platobné brány, parkovacie systémy).
+Zamestnanecké výhody, benefity
+Práca na stabilnom projekte
+(Ubian), ktorý má zmysel a reálnych používateľov.
+Skvelá firemná kultúra:
+Dvakrát ročne organizujeme veľký celofiremný teambuilding.
+Športový duch:
+Ak po práci rád vypneš pri športe, u nás nájdeš parťákov na lyžovanie, cyklistiku či iné aktivity.
+Občerstvenie na pracovisku:
+V kuchynke je k dispozícii káva, čaj a čerstvé ovocie.
+Finančná stabilita a bonusy:
+Ponúkame
+13. plat
+a samozrejmosťou je aj
+rekreačný poukaz
+.
+Work-life balance:
+Príspevok
+100 EUR na šport a kultúru
+.
+Flexibilný pracovný čas a možnosť Home Office / Remote spolupráce.
+Kvalitný hardvér a softvérové vybavenie podľa výberu.
+Podpora vzdelávania a odborného rastu.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+Hľadáme technicky zdatného kolegu, ktorý zároveň zapadne do našej partie:
+Tech stack:
+Ovládaš
+C# / .NET
+(.NET Framework 4.8, .NET 8 a vyššie) na pokročilej úrovni.
+Databázy:
+Máš dobrú znalosť SQL (MSSQL alebo PostgreSQL) a vieš písať efektívne queries.
+Architektúra:
+Máš skúsenosti s návrhom a vývojom
+REST API
+, chápeš princípy OOP a návrhové vzory.
+Nástroje:
+Samozrejmosťou je práca s verziovacím systémom
+Git
+.
+Myslenie:
+Máš analytické myslenie a schopnosť riešiť komplexné problémy (nielen mechanicky písať kód).
+Povaha:
+Si tímový hráč, ktorý veci doťahuje do konca. Keďže sme partia, ktorá spolu rada trávi čas aj mimo práce (šport, hory), hľadáme niekoho, kto k nám ľudsky zapadne.
+Výhodou:
+Skúsenosť s cloudovými službami (Azure/AWS) alebo high-traffic systémami.
+Nemusíš spĺňať 100 % požiadaviek. Ak máš dobré základy v .NET-e a chuť sa učiť, radi sa s tebou porozprávame. Hľadáme hlavne kolegu, nie chodiacu encyklopédiu.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+TransData, s.r.o. je systémový integrátor v oblasti verejnej dopravy, platobných a identifikačných systémov na slovenskom a zahraničnom trhu. Široké produktové portfólio činností zahŕňa systémové riešenie pre verejnú dopravu a informačné systémy, ale aj vývoj špecializovaného softvéru podľa požiadaviek trhu. Pozrite si viac na www.transdata.sk alebo na www.ubian.sk.
+Počet zamestnancov
+50-99 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Igor Svoboda
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253988
+Dátum zverejnenia:
+19.3.2026
+2026-03-19
+lokalita:
+Žilina
+Pozícia:
+.NET programátor
+,
+Backend programátor
+,
+C# programátor
+,
+Frontend programátor
+Spoločnosť:
+TransData s.r.o.
+Základná zložka mzdy (brutto):
+1 800 EUR/mesiac

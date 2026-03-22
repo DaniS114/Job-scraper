@@ -1,0 +1,66 @@
+Cég neve
+Grafton Recruitment
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C++
+LINUX
+Elvárások
+Angol felsőfok és
+Magyar anyanyelvi szint
+3-5 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+C++
+LINUX
+Angol
+felsőfok és Magyar anyanyelvi szint
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+Feladatok
+A feladataid nagy vonalakban ezek lesznek:
+Kutatók és portfóliómenedzserek együttműködésében fogsz új kereskedési rendszerek megvalósításán dolgozni,
+Emellett a meglévő rendszerek adaptálásában is segítesz majd,
+Nagy skálájú és elosztott, streaming dataflow rendszer lévén hasznosítod majd az algoritmusok és adatstruktúrák terén szerzett tudásodat,
+Gondoskodsz arról, hogy alacsony késleltetésű és nagy átviteli sebességű C++ kódokat gyárts,
+Szoftverfejlesztő kollégáiddal (4-6 fő) rendszeresen egyeztetsz a programozási kérdésekben,
+Mindezt hibrid munkarendben, heti három alkalommal a budapesti irodában végzed majd.
+Elvárások
+Te lehetsz a megfelelő szakember erre a pozícióra, ha:
+Tapasztalt vagy nagy teljesítményű C++ kód írásában modern verziókkal (17, 20) és szenioritásodnak megfelelően önálló a munkavégzésed,
+Alacsony szintű Linux rendszerprogramozásban is van tapasztalatod,
+Nem idegenek számodra a következők: TMP, hálózati programozás, elosztott rendszerek, adatszerkezetek, algoritmusok
+Magabiztosan mozogsz nemzetközi környezetben, folyékonyan beszélsz angolul,
+Szívesen dolgozol olyan munkahelyi kultúrában, ami ötvözi az intellektuális megközelítést a gyakorlatiassággal, kiváló ötleteket vált valóra, és ennek megfelelő, tehetséges szakembereket vár!
+Amit kínálunk
+A következő juttatásokkal honoráljuk munkád:
+Erős kompenzációs, havi biztos alapbér,
+2 havi fizetésnek megfelelő bónusz,
+Benefit csomag: nettó éves alapbér 10%-a (konfigurálható elemekkel),
+AYCM alapcsomag,
+Képzési és fejlődési lehetőség: konferenciák, tanfolyamok (Udemy Business, Coursera), nyelvórák,
+Céges csapatépítők.
+Céginformáció
+Kivételes C++ fejlesztőket keresünk kereskedelmi platform fejlesztésével foglalkozó partnerünkhöz.
+Jelentkezés módja
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Álláshirdetés jelentése

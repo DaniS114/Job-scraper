@@ -1,0 +1,84 @@
+Cég neve
+Prohuman Zrt.
+Munkavégzés helye
+Hibrid
+•
+1031 Budapest, III. kerület
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BI
+SQL
+CLOUD
+PYTHON
+POWER BI
+UAT
+ADATTÁRHÁZ
+TABLEAU
+APACHE
+POSTGRESQL
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+BI
+SQL
+CLOUD
+PYTHON
+POWER
+BI
+UAT
+ADATTÁRHÁZ
+TABLEAU
+APACHE
+POSTGRESQL
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+Megbízó partnerünk több mint 10 éves tapasztalattal rendelkező magyar tulajdonú szoftverfejlesztő vállalat, amely mára több mint 370 főt számláló csapattá nőtte ki magát. Működésük középpontjában az innováció, a fenntarthatóság és az ügyfélközpontúság áll, miközben komplex IT-megoldásokat fejlesztenek. Többek között a mobilfizetés, az elektronikus számlakezelés, a parkolás, az útdíjszedés és az intelligens mobilitás területén. Hozzájuk keresünk BI ANALYST kollégát
+Feladatok
+Teljeskörű ügyfélkommunikáció, igények felmérése és tisztázása (igények elemzése, kezelése, felmerülő kérdések tisztázása, demozás, UAT támogatás, ügyféloktatás),
+Meglévő és új BI megoldások továbbfejlesztése, tervezése és dokumentálása,
+Belső szervezeti BI továbbfejlesztésében való aktív részvétel,
+Riportok és adatpiacok specifikálása, user storyk kidolgozása, dokumentációk készítése,
+Adatvizualizáció, BI tartalom és riport fejlesztés,
+A teljes adattárház fejlesztési folyamatból az adatpiac fejlesztés támogatása, adatmodellek készítése.
+Elvárások
+5+ év BI Analyst tapasztalattal rendelkezel,
+Ügyfélkapcsolattartásban, riport igények tisztázásában és specifikálásában járatos vagy,
+Könnyen kezelhető és értelmezhető, esztétikus riportok és design tervek készítése is közel áll hozzád,
+Szívesen dolgozol adatvizualizációs eszközökkel, volt lehetőséged akár már többet is használni (pl.: Tableau, Metabase, Ms Power BI, Apache Superset, Qlik, Looker),
+Nem okoz gondot SQL lekérdezések írása, és az analitikus függvények sem.
+Amit kínálunk
+Változatos projektekkel találkozhatsz, lehetőséged lesz kritikus fontosságú, országos rendszereket megismerni,
+Heti több nap Home Office (3-4 nap), valamint rugalmas munkavégzés is adott náluk,
+Kiépült onboarding terv segíti a beilleszkedésed, valamint egyéb képzési terv (szakmai és soft skill képzés), és nyelvi képzés (angol) is elérhető lesz számodra,
+Versenyképes alapbérezés mellett egyéb juttatásokkal is számolhatsz náluk (pl. egészségbiztosítás, bónusz, ingyenes nyaralási lehetőség a vállalat üdülőjében).
+Előnyt jelent
+Python nyelv, PostgreSQL, dbt, Kafka, Airflow, Google Cloud Platform ismerete,
+ETL/ELT folyamatok ismerete,
+Lekérdezésre optimalizált adatpiac vagy OLAP kocka tervezése,
+Adatkatalógus, adatmenedzsment (data governance) folyamatok ismerete.
+Jelentkezés módja
+Amennyiben felkeltettük érdeklődését jelentkezzen!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Budapest
+Álláshirdetés jelentése

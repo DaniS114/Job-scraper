@@ -1,0 +1,192 @@
+O nás
+Kariéra
+Kontakt
+find ( “
+perfect_job
+” );
+Buď súčasťou našich projektov.
+Active Directory Engineer
+Place of work
+Remote work
+Basic wage component (gross) and other rewards
+2 100 EUR/month
++ variable component  (base salary depends on seniority, experiences and qualification of the candidate)
+About
+We are looking for a Medior/Senior Identity and Access Management specialist to design and manage on-premises Active Directory environments, including AD tiering, RBAC, DNS, and related services. The role involves automation of identity lifecycle processes using PowerShell and Python, as well as working with Azure AD, Microsoft Defender, and Intune to strengthen security and compliance. It requires a proactive, agile-minded professional with strong IAM/PAM expertise.
+Tech stack
+Windows Security
+Azure AD
+Microsoft Defender
+Intune
+Your responsibilities
+Design and manage
+on-premises Active Directory
+environments, including
+Group Policy
+,
+DNS
+, and related services.
+Develop and maintain
+automation scripts
+using
+PowerShell
+and
+Python
+to streamline
+identity lifecycle processes
+.
+Collaborate with
+security
+and
+IT teams
+to ensure
+compliance
+with best practices and regulatory requirements.
+Conduct regular
+reviews
+and
+audits
+of
+Active Directory configurations
+and
+access controls
+.
+Stay updated with the latest developments in
+IAM
+and
+RBAC technologies
+, with experience in
+Privileged Access Management (PAM)
+solutions.
+Ensure familiarity with relevant
+compliance standards
+.
+What do we expect?
+Good understanding and experience in
+AD Tiering
+and
+Permissions
+.
+Experience with
+Microsoft Defender for Identity
+and
+Password Protection
+.
+Agile mindset
+with experience in agile tools (
+JIRA
+,
+Confluence
+,
+KANBAN
+) and working in agile project teams.
+Experience in
+automation frameworks
+(e.g.,
+Agent Development Kit
+).
+Extensive expertise in
+on-premises Active Directory
+, including
+design
+and
+problem-solving
+capabilities.
+In-depth understanding of
+PAM concepts
+and
+RBAC design principles
+.
+Microsoft certifications
+(e.g., Identity and Access Administrator Associate, Azure Solutions Architect Expert, MS Cybersecurity Architect) are an advantage.
+Proficiency in
+English
+, knowledge of German is an advantage.
+Ideally experience with
+Azure DevOps
+and
+CI/CD pipelines
+.
+Benefits
+Compensation and rewards:
+Boost your earnings with
+bonuses
+(company performance, project, or extra performance bonus)
+Invest in yourself with a yearly
+well-being budget
+(up to €2,000)
+Earn
+referral bonus
+(up to €3,000)
+Secure your future with a
+pension plan contribution
+Flexibility and Work-Life Balance:
+Flexible working hours
+that adjust to your personal needs
+Choose your work environment –
+100% remote
+or modern
+offices: Košice, Bratislava, Prague
+Personal and Professional Development:
+Sharpen your skills with extensive
+training & certifications
+Boost your language skills with
+language courses
+Wellbeing and Culture:
+Build bonds through
+team-building activities & company events
+like the VolleyCup and Christmas party
+Join our
+family culture
+and participate in diverse
+interest groups
+like bikers, runners, gamers, and more
+Invest in your well-being with a
+MultiSport card
+Promote your mental health with
+confidential psychological support
+Hiring process
+Has the job offer captured your interest? Please fill out the
+application form
+and let us know about yourself.
+We will assess the information you send us and
+will get back
+to you under any circumstances.
+We will contact the chosen applicants and
+specify the details
+.
+A job
+interview with a hiring manager
+is a two-way opportunity to get to know each other better. The hiring process also includes a
+second interview
+with the customer directly.
+We will inform you about the feedback from the interview as soon as possible. Successful candidates will receive a
+job offer.
+Contact
+Contact person: Monika Sojková
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5254698
+Dátum zverejnenia:
+20.3.2026
+2026-03-20
+lokalita:
+Remote work
+Pozícia:
+.NET Programmer
+,
+Backend developer
+,
+Programmer
+Spoločnosť:
+Fpt Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 100 EUR/month

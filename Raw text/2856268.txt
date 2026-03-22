@@ -1,0 +1,88 @@
+Cég neve
+azeti GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVA
+KOTLIN
+JAVASCRIPT
+SPRING
+REACT
+FRONTEND
+BACKEND
+GIT
+POSTGRESQL
+MONGODB
+Elvárások
+Angol felsőfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+JAVA
+KOTLIN
+JAVASCRIPT
+SPRING
+REACT
+FRONTEND
+BACKEND
+GIT
+POSTGRESQL
+MONGODB
+Angol
+felsőfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Build Software That Matters
+You'll develop industrial software that powers daily operations at Aurubis, our parent company. Your work will have real impact beyond a backlog item. Working fullstack with Kotlin/Spring Boot and TypeScript/React, you'll build features end-to-end while keeping systems maintainable, performant, and intuitive for real users.
+Develop Elegant Solutions To Complex Problems
+You'll tackle challenges without obvious answers, always asking "why?" before "how?" Working closely with product owners and designers, you'll find clean technical solutions to business problems. You'll contribute to architectural decisions, balance moving fast with building sustainably, and write code that's easily maintainable years from now.
+Collaborate and Grow Together
+As part of our international engineering team, you'll work closely with others to find solutions and share ownership of features end-to-end. You'll participate in technical discussions, share knowledge, support each other, and continuously improve how we build software together as a team.
+Requirements
+4+ years of fullstack engineering experience in a team
+Solid frontend skills with TypeScript/JavaScript and React
+Strong backend proficiency in Java, Kotlin, or similar languages (willingness to learn Kotlin required)
+Familiarity with Spring Boot or equivalent frameworks
+Strong understanding of Git, PostgreSQL, and writing meaningful tests
+Bonus: Experience with Kafka, GitLab CI/CD, MongoDB, Keycloak, Helm, or Kubernetes
+Collaborative team player who thinks before coding, documents approaches, considers trade-offs, and plans for maintainability
+Bring foresight to technical decisions and help the team avoid pitfalls
+Fluent English communication (German is a plus)
+Located in Germany
+What we offer
+Real responsibility from day one in an international team with flat hierarchies.
+State-of-the-art tech stack for sustainable software you can be proud of.
+AI tools aren't just a gimmick. They're your daily productivity boost.
+Flexible working hours and location: Home office, Berlin coworking space, or occasional workation.
+Career development tailored to your goals with individual growth opportunities.
+€2,500 annual education budget for your professional development.
+Urban Sports Club M membership, monthly meal allowance (up to €115.05), public transport subsidy (Berlin only)
+Diversity Is Our Strength
+At azeti, people from over 15 countries work together. This diversity isn't by chance-it's our conviction: different perspectives and backgrounds make us better. Everyone has equal opportunities with us, regardless of gender, age, origin, religion, or identity. We explicitly encourage qualified individuals with disabilities to become part of our team. We don't need a photo for your application.
+Company info
+About us
+Software development is our DNA. With our international team, we build industrial software for Aurubis AG that creates real impact. Startup spirit meets the security of an established company.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,98 @@
+About us
+Our benefits
+Open positions
+Lead Data Analytics Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 300 - 5 500 EUR/month
+For Slovakia the base salary range for this position is between [EUR 3,300] and [EUR 5,500] per month (for a full-time role). The specific salary offered considers:​
+
+-the requirements, scope, complexity and responsibilities of the role, ​
+-the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.​
+ 
+
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.​
+
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+As a Lead Data Analytics Engineer in Swiss Re’s Specialty Analytics team, you own highimpact data and analytics solutions for the Property & Casualty (P&C) domain, working with modern bigdata technologies to turn complex data into actionable insights that support business decisions. You’ll be also acting as a technical lead and mentor, shaping best practices and supporting other engineers’ growth as their line manager.
+What You’ll Do
+-Design and build end‑to‑end analytics solutions in Palantir Foundry
+-Scalable PySpark data pipelines
+-User‑facing web apps using Workshop and TypeScript
+-Act as technical lead on initiatives, translating business needs into robust designs
+-Improve architecture, performance, data quality, and developer experience
+-Mentor engineers through code reviews, design discussions, and knowledge sharing
+-Collaborate in a global, cross‑functional environment
+About the Team
+The Specialty Analytics team delivers analytics for niche lines of business including Agriculture, Aviation, Credit & Surety, Cyber, Nuclear, and Political Violence. We are part of a global P&C data initiative and value ownership, collaboration, and leadership at all levels.
+Employee perks, benefits
+Employee perks, benefits
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+About You
+You enjoy both building technical solutions and helping your team to continuously grow and improve through inspiring leadership.
+-We are looking for candidates who meet these requirements:
+-Senior level experience in data engineering or analytics
+-Strong proficiency in Python and PySpark
+-Solid understanding of data warehousing, ELT, and cloud data architecture
+-Comfortable leading by example and mentoring others
+-Strong problem‑solving and communication skills
+These are additional nice to have:
+-Experience building applications with JavaScript or TypeScript
+-Palantir Foundry experience
+-(Re)Insurance or financial domain knowledge
+-Experience with Generative AI and/or Natural Language Processing
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5251584
+Dátum zverejnenia:
+16.3.2026
+2026-03-16
+lokalita:
+Bratislava
+Pozícia:
+AI Specialist
+,
+Data Engineer
+,
+Programmer
+,
+Python Programmer
+,
+Team leader
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 300 EUR/month

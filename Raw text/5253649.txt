@@ -1,0 +1,70 @@
+Senior full-stack Developer
+Infinit, s.r.o.
+Miesto práce
+Bottova 2a, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+2026-04-01
+Mzdové podmienky (brutto)
+Od 5 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+We are looking for an experienced full-stack developer. This role is for someone who wants to use AI to the fullest, not as a gimmick, but as a serious way to ship faster. We expect you to move quickly with AI assistance but also to think clearly, challenge weak outputs, keep the architecture sane, and take responsibility for quality.
+What you will do
+Turn ideas and rough flows into clear specifications and working product changes
+Build across frontend and backend, with ownership from concept to production
+Help create a development process where AI generates a large part of the implementation, but humans stay responsible for intent, review, testing, and final quality
+Over the next 12 months, most of your work will focus on our client Guestcloud.sk, where you will help enhance the platform with an AI-assisted CMS for event/invitation sites.
+We’ll also work together on our own exciting product, which we’re happy to talk about in more detail.
+What we are looking for
+Strong senior engineering judgment
+Very high willingness to work with AI tools daily
+Ability to learn unfamiliar technologies quickly and reason from documentation
+Experience with a modern frontend SPA framework (Vue.js, React.js) and backend development in a modern language (experience or willingness to work with Python)
+Ownership: you can test your own work, think in systems, and deliver production-ready results
+Clear written communication, especially around specs, prompts, task breakdown, and handoff
+Existing tech stack
+Python, Django, FastAPI, Vue.js, React.js
+Why this role is interesting
+Real influence on product direction and engineering process
+A chance to shape how a small team works in the AI era
+Broad scope, high autonomy, and room to improve things end to end
+Work focused on practical outcomes, not corporate overhead
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Počet rokov praxe
+5
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+We are a software engineering company building real-world systems used by international clients since 2007.
+We work across backend and frontend, with Python and JavaScript as core parts of our stack (Django, FastAPI, React, Vue). Our focus is on delivering systems that run in production, with clear architecture, ownership, and responsibility for quality.
+We typically work in small teams, close to the product, covering everything from early ideas to production and iteration. In recent years, we’ve been increasingly integrating AI into our development process — not as a gimmick, but as a practical tool to move faster while keeping engineering standards high.
+While most of our work has been with international clients, we are also working more with Slovak companies building modern software products.
+Kontakt
+Kontaktná osoba: Vladimir Schmidt
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253649
+Dátum zverejnenia:
+19.3.2026
+2026-03-19
+lokalita:
+Bratislava
+Pozícia:
+Programátor
+Spoločnosť:
+Infinit, s.r.o.
+Základná zložka mzdy (brutto):
+5 000 EUR/mesiac

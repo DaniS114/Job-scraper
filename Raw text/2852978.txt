@@ -1,0 +1,202 @@
+Cég neve
+MOL Nyrt.
+Munkavégzés helye
+Hibrid
+•
+1117 Budapest, Dombóvári út 28.
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Elvárások
+Angol felsőfok
+1-3 év tapasztalat
+Főiskola
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Angol
+felsőfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Company info
+About Digital Factory
+At Digital Factory, we pair the agility of a startup with the scale of a global company. As part of MOL Group’s 2030 Enter Tomorrow strategy, we’re transforming Consumer Services into a digital‑first, data‑driven mobility and retail business.
+We’ve built a centralized Data Lake, deployed advanced analytics (across forecasting, pricing, category management, workforce optimization), and launched MOL MOVE – our digital loyalty platform used by millions across 9 countries.
+Now, we’re expanding our data ecosystem even further, strengthening our engineering capabilities, and looking for a Senior Data Architect to help us build data products that scale across the region.
+About the Role
+We are looking for a
+Senior Data Architect
+who will shape the foundations of our data products and platforms. You’ll contribute across the entire data lifecycle – from conceptual architecture to hands‑on model design – ensuring our Data Squads deliver high‑quality, scalable solutions.
+This role combines architecture, technical leadership, and coaching: you’ll design data structures, guide transformation logic, review code, ensure data quality, and support our transition to modern cloud‑based technologies like Synapse, Databricks, and Delta Lake.
+If you’re passionate about data architecture, cloud platforms, and helping teams deliver robust analytics solutions, this role is for you.
+Tasks
+Design and maintain robust, scalable
+data architectures
+Build and optimize high‑performance
+data models
+for analytics
+Partner with business and engineering teams to shape
+data solutions end
+‑
+to
+‑
+end
+Lead
+data integration
+, transformation, and migration efforts
+Ensure
+data quality, consistency, governance
+, and
+security
+across systems
+Design efficient
+data pipelines
+and workflows for large datasets
+Continuously improve our
+cloud data tech stack
+(Synapse, Databricks, ADLS, ADF)
+Coach
+and
+guide
+Data Engineers and BI Developers on best practices
+Support
+adoption of Databricks
+for advanced analytics and processing
+Troubleshoot
+complex data issues and performance bottlenecks
+Define
+code
+‑
+quality frameworks
+and
+architecture KPIs
+Requirements
+Education
+Degree in Computer Science, Information Systems, or similar
+Experience
+Deep experience designing and delivering scalable
+ETL/ELT processes
+Strong background in
+cloud data platforms
+(Azure Synapse, Databricks, ADLS)
+Hands‑on experience with
+data integration, modelling, migration
+, and
+performance tuning
+Experience with
+requirements gathering
+,
+solution design,
+and
+business analysis
+Comfortable with
+CI/CD pipelines
+and
+Azure DevOps
+Ability to mentor developers and collaborate across functions and teams
+Professional and Technical Competencies
+Advanced
+SQL
+(optimization, tuning, complex queries)
+Strong
+ETL
+knowledge (Informatica, Talend, SSIS, or similar tools)
+Data modeling
+techniques (dimensional, star schema, snowflake)
+Familiarity with Hadoop, Spark,
+Databricks
+Knowledge of
+NoSQL
+systems (MongoDB, Cassandra)
+Scripting
+skills in Python and/or PowerShell
+Experience with
+Power BI
+, Tableau, OBIEE or similar
+Familiarity with
+AWS, Azure
+, or
+Google Cloud
+data services
+Understanding of
+data governance
+and quality frameworks
+Experience with
+architecture modeling
+tools (e.g., Sparx EA)
+Comfortable with
+Jira
+and
+Confluence
+Soft Skills
+Analytical
+, curious, and always eager to
+improve
+what’s already good
+Able to
+drive consensus
+among technical and non‑technical stakeholders
+Clear
+communicator
+who can turn complex data topics into understandable insights
+Highly
+organized
+and
+reliable
+– you bring structure even when things get messy
+Comfortable juggling
+multiple priorities
+in a fast‑paced environment
+Strong sense of
+ownership
+and
+team
+mindset
+Growth
+‑
+minded, proactive,
+and open to learning
+Comfortable
+collaborating
+across cultures and countries
+What we offer
+Modern cloud‑based tech stack to work with
+Collaboration with talented teams across the CEE region
+Plenty of room for growth in a fast‑moving digital organization
+Medicare health insurance, annual bonus, and extensive benefits
+Cross‑industry exposure within MOL Group’s expanding portfolio
+Regular team events and MOL family experiences
+Workplace extras
+Céges étkező
+Kávézó
+Orvosi felügyelet
+Zuhanyzási lehetőség
+Céges rendezvények
+Céges busz
+Ingyen gyümölcs, nasi
+How to apply
+If you wish to form the future with us, please submit your applications via "Jelentkezem" button.
+Main Recruitment Steps
+Initial call:
+You will be contacted by MOL Recruitment via phone for a short chat.
+Interview:
+You can expect two or a maximum of three interview rounds, where you can meet your direct manager, some experts from the team, ask your questions and present your skills and career path. We always make sure you receive timely feedback after each round.
+Technical Assessment:
+You will either receive a take-home assignment after the first interview or be asked to solve an exercise on the spot at one of the interviews.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Budapest
+Álláshirdetés jelentése

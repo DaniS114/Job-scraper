@@ -1,0 +1,97 @@
+Cég neve
+Microsec zrt.
+Munkavégzés helye
+Hibrid
+•
+1033 Budapest, Ángel Sanz Briz út 13.
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Cafeteria
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Biztosított eszközök
+Laptop
+Monitor (2 db)
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Mobiltelefon
+Cafeteria
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+Laptop
+Monitor
+(2 db)
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Cégünk informatikai megoldásai adják az alapot a hiteles, gyors és biztonságos e-ügyintézéshez. Az elektronikus aláírás szolgáltatásaink fejlesztését végző csapatunkba keressük lelkes, újdonságokra nyitott és szakmai tapasztalattal rendelkező Java fejlesztő munkatársunkat.
+Mi lesz a feladatod?
+Elektronikus aláíró programok backend és frontend oldali fejlesztése:
+▪ Tervezés, önálló fejlesztői munkavégzés, tesztek írása és implementáció
+▪ Meglévő rendszereink karbantartása, javítási javaslatok
+▪ Hibakeresés, hibajavítás, optimalizálás
+▪ Automatizált build folyamatok karbantartása és továbbfejlesztése (CI/CD)
+Elvárások
+▪ Java és Vue.js alapos ismerete, min. 3 év fejlesztői tapasztalat
+▪ Spring, Springboot és/vagy Maven ismerete
+▪ Felsőfokú informatikai végzettség
+Előnyt jelent
+▪ JPA, Java EE, Maven, Gradle technológiai és OracleSQL/PostgreSQL adatbáziskezelő tapasztalatod van
+▪ Ismered a Jira és Git rendszereket, valamint a script programozási nyelveket (Perl, Ruby)
+▪ Alkalmazásszerver (Payara/Tomcat) tapasztalattal rendelkezel
+▪ Kommunikációs szinten beszélsz angolul
+Amit kínálunk
+Amiért munkatársaink szeretnek nálunk dolgozni:
+Stabil, piacvezető, dinamikusan növekvő vállalat vagyunk.
+Fiatal, dinamikus, újító szellemű összetartó csapatként magas szakmai színvonalon, a digitális világot megalapozó megoldások fejlesztésén és szolgáltatások nyújtásán dolgozunk.
+Barátságos, támogató szervezeti háttérrel és mentorral biztosítjuk a szakmai betanulást és fejlődést.
+Korszerű informatikai eszközökkel dolgozunk, családias légkörben, nyitott légterű iroda helyett kis létszámú csapatszobákban.
+Modern irodai környezet a Graphisoft parkban, reggel és délután buszjárat a Graphisoft és az Árpád híd pesti hídfője között.
+Csapatépítő eseményeket, teraszpartikat szervezünk.
+A versenyképes fizetés mellett juttatási csomagunk:
+átlagon felüli cafeteria,
+teljesítményértékelésen alapuló jutalmazási rendszer,
+kitűzött céges árbevételi cél elérése esetén év végén minden munkatársunk célprémiumban részesül,
+mélygarázsunkban ingyenes parkolási lehetőség, zárt biciklitároló, öltöző, zuhanyzó.
+Munkahelyi extrák
+Céges étkező
+Zuhanyzási lehetőség
+Céges rendezvények
+Céges busz
+Kerékpártároló
+Parkoló
+Ingyen gyümölcs, nasi
+Ingyen kávé, üdítő
+Céginformáció
+Csatlakozz a Microsec csapatához – Építs velünk bizalmat!
+A Microsec egy 100 főt meghaladó létszámú, több mint 40 éves múlttal rendelkező, teljes mértékben magyar tulajdonban lévő informatikai vállalkozás. Két évtizede foglalkozunk elektronikus aláíró megoldások fejlesztésével, és mára piacvezető szerepet töltünk be e-Szignó szolgáltatásainkkal.
+Magyarország első eIDAS szerinti bizalmi szolgáltatójaként lehetővé tesszük elektronikusan hiteles, bizonyító erejű dokumentumok létrehozását és kezelését. Büszkék vagyunk arra, hogy megbízható partnerként évtizedek óta hozzájárulunk a digitális ügyvitel hatékonyságának növeléséhez mind az állami, mind a magánszektorban. Szakértelmünket olyan új, izgalmas területeken is kamatoztatjuk, mint az intelligens járművek és közúti rendszerek közötti biztonságos kommunikáció fejlesztése.
+Ha szeretnél egy stabil, szakmailag kiemelkedő csapat tagjaként a jövő technológiáin dolgozni, akkor nálunk a helyed!
+Tudj meg többet: www.microsec.hu
+Jelentkezés módja
+A "jelentkezem" gombra kattintás után, kérem csatolja angol vagy magyar nyelvű önéletrajzát!
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

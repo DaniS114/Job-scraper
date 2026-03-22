@@ -1,0 +1,95 @@
+Cég neve
+NVIDIA Hungary Kft.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+HARDWARE
+TESTING
+C++
+JAVA
+LINUX
+PYTHON
+HARDWARE–
+TEST AUTOMATION
+CI
+REGRESSION TESTING
+DEBUGGING
+TEST MANAGEMENT
+Biztosított eszközök
+Linux
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+HARDWARE
+TESTING
+C++
+JAVA
+LINUX
+PYTHON
+HARDWARE–
+TEST
+AUTOMATION
+CI
+REGRESSION
+TESTING
+DEBUGGING
+TEST
+MANAGEMENT
+Linux
+Angol
+középfok
+5-10
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Develop and conduct reliability and qualification campaigns for NVIDIA hardware (accelerators, boards)
+Build and sustain automated test frameworks for driver stability and regression
+Lead efforts to improve hardware and driver reliability to meet customer expectations
+Complete and automate hardware stress tests, longevity and environmental tests, and failure analysis
+Take responsibility for driver reliability testing – stability under load, regression suites, compatibility matrices, and crash/hang triage
+Fix logic bugs before they even happen by providing formal correctness proofs
+Develop and sustain driver reliability test frameworks: automated stability evaluations, regression test suites, and compatibility assessments across OS, driver versions, and hardware SKUs
+Diagnose and identify driver and hardware failures: investigate crashes, freezes, and errors; collaborate with driver and hardware groups to resolve problems and enhance test coverage
+Establish and track reliability metrics and SLOs for hardware and drivers; perform post-mortems and encourage advancements in test automation and coverage
+Build, implement, and run hardware reliability and qualification tests: stress tests, longevity tests, thermal/power cycling, and environmental tests on GPUs and accelerators
+Automate test running, result gathering, and reporting; incorporate reliability tests into CI and release workflows; manage lab or farm infrastructure for reliability testing across EMEA and worldwide
+Requirements
+BS or higher degree or equivalent experience with 8+ years in reliability engineering, hardware testing, driver testing, or SRE with a focus on hardware/drivers
+Functional programming experience (haskell, nix)
+Strong System level programming experience (C++, Rust, Java)
+Strong experience with Linux and scripting (Python, Shell) for test automation, result parsing, and tooling
+Proficiency in building automated test pipelines; experience with CI/CD and with running tests at scale (e.g. test farms, lab automation)
+Ability to prioritize failures, examine logs and dumps, and collaborate with driver or hardware teams to identify root causes of issues
+Strong communication skills in English; capable of collaborating with distributed teams across EMEA and worldwide
+Nice-to-have
+Experience with GPU or accelerator reliability testing; familiarity with NVIDIA or other GPU/driver ecosystems, Experience with hardware durability or certification testing (stress, longevity, thermal, power) and/or driver consistency and regression testing, Background in driver development, kernel debugging, or low-level software; ability to read driver code and correlate behavior with test failures, Experience with hardware testing tools, lab automation, or DUT (device-under-test) management at scale, Knowledge of reliability standards and methods (e.g. FIT rates, accelerated life testing, failure analysis), Experience with firmware or BIOS reliability testing; understanding of hardware–software interaction and error reporting (e.g. AER, MCE)
+What we offer
+Full time position
+Remote work options in Netherlands, UK, Hungary
+Company info
+NVIDIA is the world leader in accelerated computing.
+NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Regionális
+Álláshirdetés jelentése

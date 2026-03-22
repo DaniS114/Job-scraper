@@ -1,0 +1,98 @@
+Cég neve
+Riverty
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANALYTICS
+BI
+AZURE
+SQL
+PYTHON
+SPARK
+CLOUD
+AGILE
+Elvárások
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANALYTICS
+BI
+AZURE
+SQL
+PYTHON
+SPARK
+CLOUD
+AGILE
+Német
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+(Y)our Mission:
+The Data Engineering Lead leads the design, development, and delivery of high-quality data pipelines and data products that power analytics, BI, and AI across our fintech ecosystem in payments, dunning, invoicing, and collections. This leader will build and scale a high-performing data engineering team focused on transforming raw data into trusted, accessible, and reusable assets — ensuring that the broader organization can make faster and smarter decisions.
+Working in an agile, cross-functional data product model, this role is accountable for the results and contributions of the data engineering discipline — ensuring that the data engineers deliver trusted, timely, and high-quality data to enable business and analytical outcomes.
+Your key responsibilities:
+Strategic Leadership
+Define and execute the data engineering vision and roadmap aligned with the overall Data, AI & Analytics strategy.
+Establish and continuously improve the operating model for data engineers within agile data product teams, ensuring clear accountability for delivery outcomes (timeliness, quality, completeness, compliance).
+Champion the adoption of modern data engineering and agile delivery practices, fostering close collaboration with product owners, BI, data analysis, data science, data platform, and tech teams.
+Data Pipelines & Modeling
+Oversee the development of robust ETL/ELT pipelines to ingest and transform data from multiple internal and external sources.
+Ensure that agile data product teams deliver fit-for-purpose data models that meet the needs of analytics, AI, and regulatory reporting.
+Drive excellence in data modeling and pipeline design, ensuring solutions are efficient, maintainable, and well-documented.
+Data Quality & Reliability
+Implement data quality frameworks and automation across pipelines owned by agile teams.
+Define and monitor data SLAs and SLOs, ensuring that product teams deliver data that meets business needs in terms of timeliness, accuracy, and availability.
+Promote proactive data reliability engineering, enabling teams to detect and resolve issues early.
+Collaboration & Stakeholder Management
+Collaborate closely with Data Product Owners to prioritize and deliver data engineering work in alignment with business priorities.
+Partner with Platform Engineering teams to ensure smooth operation of data pipelines within the shared core data platform.
+Collaborate with the Business IT teams to create reliable and robust interfaces to the source systems
+Work hand-in-hand with Data Governance and Data Architecture to ensure alignment on metadata, lineage, and data ownership.
+Team Leadership & Development
+Lead, mentor, and grow a high-performing team of data engineers working across multiple agile data product teams.
+Ensure consistent technical standards, delivery practices, and performance management across the discipline, even within decentralized team setups.
+Cultivate a culture of ownership, accountability, and collaboration within and across agile data product teams.
+Process & Operational Excellence
+Promote automation, CI/CD for data, and observability across all data engineering workstreams, including AI-based productivity increases.
+Establish KPIs for engineering productivity, pipeline performance, and data delivery quality within product teams.
+Contribute to the evolution of our data-as-a-product approach, ensuring data products are discoverable, well-documented, and reusable.
+Requirements
+10+ years of experience in data engineering, with at least 3–5 years in a leadership role managing multi-team delivery, with overall team size >10
+Proven success in leading data engineering functions within agile, cross-functional data product teams.
+Strong technical expertise in Azure, SQL, Python, and modern data transformation and orchestration frameworks (e.g., dbt, Airflow, Spark)
+Deep experience with cloud-based data lakehouses (Azure cloud, Databricks Medallion architecture)
+Experience in fintech or financial services is a strong advantage.
+Expertise in data modeling, transformation, and quality assurance for analytical and operational use cases.
+Strong knowledge of data architecture principles and data product thinking.
+Excellent communication and stakeholder management skills — especially in cross-functional agile environments.
+Leadership skills to manage distributed teams and ensure accountability for delivery outcomes.
+Bachelor's or Master's degree in Computer Science, Data Engineering, Information Systems, or a related field.
+Please note: we do not provide visa sponsorship, you need to have EU citizenship and/or a valid work permit for Germany/Norway.
+Company info
+We are looking for a
+Data Engineering Lead (m/w/d)
+(unlimited, full-time) Join our team at our location in Berlin, Verl, Baden-Baden or Oslo – hybrid working conditions available.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

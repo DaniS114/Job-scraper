@@ -1,0 +1,92 @@
+About us
+Our benefits
+Open positions
+Senior Cloud Engineer
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 800 - 6 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3,800 and EUR 6,300 per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+We are building a modern contract management platform at Swiss Re that is transforming how we handle documents across our organization. We need a skilled cloud engineer who can help us create and maintain the infrastructure that powers this platform. If you enjoy working with Azure, automation, and building reliable systems, we would like to talk with you.
+About the Role
+You will be responsible for our cloud infrastructure, working with Azure services, containerization technologies, and DevOps practices to keep our platform running efficiently. You will focus on automation and infrastructure-as-code to create reliable, repeatable deployment processes.
+Key Responsibilities
+•	Develop infrastructure-as-code solutions that ensure consistent, reliable deployments across environments
+•	Build and maintain CI/CD pipelines that automate the deployment process and reduce manual intervention
+•	Implement containerization with Docker and Kubernetes to improve application scalability and portability
+•	Collaborate with development teams to create efficient paths from development to production
+•	Identify and automate manual processes to improve efficiency and reduce potential for errors
+•	Troubleshoot infrastructure issues and provide clear explanations and solutions
+•	Implement security best practices that protect our systems without impeding development velocity
+•	Manage operations for deployments, maintenance, backups, and updates with a focus on reliability
+•	Respond to incidents promptly and effectively to minimize downtime and system disruptions
+•	Share expertise with team members to elevate the overall technical capabilities of the group
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+You are a problem-solver who enjoys working with infrastructure and finding ways to make systems more efficient and reliable. You value automation and look for opportunities to eliminate repetitive tasks. You work well both independently and as part of a team, and you are able to communicate technical concepts clearly to colleagues with varying levels of technical expertise.
+We are looking for candidates who meet these requirements
+•	Strong experience with Microsoft Azure services including AKS, Service Bus, Key Vault, Storage Accounts, Container Registry, Azure Firewall, and Virtual Networks
+•	Practical knowledge of Kubernetes and Docker in production environments, including cluster management and container optimization
+•	Proficiency with Terraform for infrastructure provisioning, with an emphasis on creating maintainable, modular code
+•	Experience building and maintaining CI/CD pipelines, preferably using Azure DevOps
+•	Understanding of cloud security principles including identity management, network security, and secrets management
+These are additional nice to haves
+•	Experience with Helm for Kubernetes application deployment and management
+•	Knowledge of monitoring and observability tools and practices for cloud environments
+•	Skills in cloud cost optimization while maintaining necessary performance and reliability
+•	Experience implementing disaster recovery strategies for cloud-based systems
+Our company has a hybrid work model where the expectation is that you will be in the office at least three days per week
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5252422
+Dátum zverejnenia:
+17.3.2026
+2026-03-17
+lokalita:
+Bratislava
+Pozícia:
+Software Engineer
+,
+Systems Engineer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 800 EUR/month

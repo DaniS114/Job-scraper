@@ -1,0 +1,99 @@
+Cég neve
+BMW Group
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+HARDWARE.
+SECURITY
+ISO
+AWS
+AZURE
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+HARDWARE.
+SECURITY
+ISO
+AWS
+AZURE
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+INNOVATION IS IMAGINING WHAT NO ONE ELSE CAN.
+At the BMW Group, everything begins with passion. It transforms a profession into a vocation. It drives us to continually reinvent mobility and bring innovative ideas to the roads. Enthusiasm for collaborative projects turns a team into a strong unit where every opinion is valued. It is only when expertise, highly professional processes, and enjoyment of work come together that we can shape the future collectively.
+We own the platform blueprint for our ML infrastructure: designing systems that integrate with a data mesh of domain-owned data products, leverage Qualcomm Cloud AI 100 and NVIDIA GPU clusters for training at petabyte scale and produce optimised model artefacts ready for deployment to vehicle hardware. We set technical direction, make build-vs-buy decisions, and ensure the platform scales to hundreds of engineers.
+What awaits you?
+You design the reference architecture for the ML platform end-to-end: data ingestion, PB-scale data lake, heterogeneous training clusters, model registry, and deployment-ready artefacts.
+Also, you design the data-format backbone, setting standards for data flows, ingestion, cataloguing, transcoding, and partitioning at PB scale, integrated with dataset management tooling.
+Furthermore, you define the platform component topology and integration contracts for pipeline orchestration, experiment tracking, hyperparameter optimisation, dataset management, observability, and metadata.
+You establish model lifecycle governance, including experiment tracking, approval gates, validation criteria, and clear handoff contracts to deployment teams.
+Further, you drive cost governance at PB scale, including accelerator spot strategies, S3 tiering, cross-AZ traffic reduction, and Kubernetes cluster right-sizing.
+You partner with Security, Legal, and Functional-Safety teams on ISO 26262, ISO 8800, and data-protection compliance.
+Requirements
+What should you bring along?
+University degree in Computer Science, Computer/Electrical Engineering or related subjects.
+5-8+ years in ML platform or infrastructure engineering, with at least two years in a tech lead or architect role.
+Deep expertise in either AWS, Azure or Google cloud, ideally with multi-region or multi-account setups.
+Proven track record designing systems for PB-scale data and hundreds of concurrent training jobs as well as understanding of large vision models and the challenges of compressing them for automotive-grade SoCs.
+Strong knowledge of Kubernetes platform design, GitOps, and infrastructure-as-code.
+Excellent communication skills to align ML researchers, embedded engineers, data teams, and executives.
+Familiarity with edge model compilation toolchains for Qualcomm (QNN, AIMET) and/or NVIDIA (TensorRT, Triton) and experience with automotive data at scale, such as MDF4, MCAP, ROS bags, and multi-sensor synchronisation.
+Are you ready to shape the future of automotive machine learning platforms with us? Apply now!
+Find out more about Artificial Intelligence at the BMW Group here.
+Note:
+Please apply exclusively online via our career portal. Applications through other channels (especially email) cannot be considered.
+What we offer
+What do we offer?
+Challenging projects with which we shape the mobility of tomorrow together.
+Wide range of personal and professional development opportunities.
+Attractive, fair and performance-related remuneration.
+High level of job security.
+Annual special payments such as vacation pay, Christmas bonus, and profit sharing.
+Flexible working hours including six weeks annual leave and overtime compensation.
+Discounted BMW & MINI conditions.
+Many other benefits at bmw.jobs/benefits
+Earliest starting date:
+from now on
+Type of employment:
+unlimited
+Working hours:
+full-time
+Stellenreferenz:
+182758
+Company info
+Mit unseren Marken BMW, MINI, Rolls-Royce und BMW Motorrad sind wir einer der weltweit führenden Premium-Hersteller von Automobilen sowie Motorrädern und darüber hinaus Anbieter von Premium-Finanz- und Mobilitätsdienstleistungen.
+Am Standort
+München
+suchen wir Sie als
+Senior ML Ops Engineer - Architecture & Strategy (f/m/x)
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

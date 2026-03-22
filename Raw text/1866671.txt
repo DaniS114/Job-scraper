@@ -1,0 +1,25 @@
+Our partner is a well-known brand in the aviation industry. The team in Budapest – which was founded 3 years ago, is rapidly growing, hence we are seeking our next colleague to join as an experienced Data Engineer.
+As a Senior Data Engineer, you will have the autonomy to assess and decide on the best data architectures based on the unique needs of each business case. Whether transitioning from legacy data warehouse systems or building new data lake solutions, you will architect and implement scalable, robust data pipelines.
+You will work closely with a team of data/software engineers, data analysts, business product analysts, product owner and scrum master who work together according to the scaled agile way of working.
+You are the ideal candidate if you have:
+fluency in English, both spoken and written;
+a minimum of 5 years of experience as a Data Engineer;
+cloud engineering experience, especially Google Cloud Platform (GCP) or Azure;
+in-depth knowledge of Cloud platforms like GCP (must have) and Azure (good to have).
+knowledge about the Hadoop ecosystem.
+building applications with Apache Spark; including Spark Streaming
+columnar storage solutions like Apache HBase; including knowledge about data modelling for columnar storage
+experience with Event Streaming Platforms like Apache Kafka
+knowledge about data architecture: you are aware of the concept of data warehouse, data lake;
+experience with both SQL and no-SQL databases such as Google BigQuery, PostgreSQL and MongoDB;
+possess knowledge of ETL pipeline development using Python and Rest API calls;
+know CI/CD principles and infra as code (Terraform experience);
+experience in the agile way of working (SAFe, Scrum, Kanban);
+What our client offers:
+Flexible working conditions, regular home office
+Working in cross-country teams, being a member of an active community
+Competitive salary and various benefits
+Separated budget and time for your learning and professional development
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion about your career.

@@ -1,0 +1,101 @@
+Cég neve
+BMW Group
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANALYTICS
+ASSEMBLY
+PYTHON
+SQL
+AWS
+AZURE
+CLOUD
+SECURITY.
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANALYTICS
+ASSEMBLY
+PYTHON
+SQL
+AWS
+AZURE
+CLOUD
+SECURITY.
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+INNOVATION IS IMAGINING WHAT NO ONE ELSE CAN.
+At the BMW Group, everything begins with passion. It transforms a profession into a vocation. It drives us to continually reinvent mobility and bring innovative ideas to the roads. Enthusiasm for collaborative projects turns a team into a strong unit where every opinion is valued. It is only when expertise, highly professional processes, and enjoyment of work come together that we can shape the future collectively.
+We train models on petabyte-scale automotive sensor data, but training is only half the story. Before a single GPU cycle is spent, engineers need to find, filter, evaluate, and understand the data. We build the analytics and search infrastructure that makes petabytes of measurements and recordings queryable in seconds, enabling rapid dataset assembly, quality analysis, and model evaluation at scale.
+What awaits you?
+You design and build high-performance search and query pipelines over PB-scale MDF4 and MCAP data lakes, enabling ML engineers to find relevant driving scenarios, sensor conditions, and edge cases across billions of records in seconds.
+Furthermore, you build and operate indexing and cataloguing systems for automotive sensor data, including metadata extraction, signal-level indexing, scene tagging, and embedding-based similarity search.
+You implement distributed compute pipelines for large-scale data evaluation, such as batch statistics, distribution analysis, annotation coverage reports, and data-quality scoring.
+In addition, you build fast analytical queries that enable interactive exploration on top of raw data.
+You develop dataset assembly pipelines that automatically assemble, version, and register training and evaluation datasets.
+You optimise for cost and performance through intelligent partitioning, tiered storage, caching strategies, and query pushdown to minimise scan volumes over PB-scale data.
+You operate observability stacks for data pipelines, including query latency dashboards, pipeline health, and data freshness monitors.
+Requirements
+What should you bring along?
+University degree in Computer Science, Engineering, or a related field.
+3-5 years of experience in big data or data engineering with a focus on analytics and search over very large datasets.
+Strong Python and SQL skills, with experience in at least one distributed compute framework.
+Experience with columnar or analytical storage and query optimisation at PB scale.
+Familiarity with search and indexing technologies, including full-text search, vector/embedding search or metadata catalogues.
+Production experience with Kubernetes and AWS / Azure / Google Cloud, as well as hands-on experience with infrastructure-as-code.
+Experience with automotive measurement data (MDF4/ASAM MDF or MCAP) as well as with embedding-based retrieval, dataset management tools, stream processing, or graph-based metadata systems.
+Are you ready to shape the future of data-driven mobility with us? Apply now!
+Find out more about Artificial Intelligence at the BMW Group here.
+Note:
+Please apply exclusively online via our career portal. Applications through other channels (especially email) cannot be considered.
+What we offer
+What do we offer?
+Challenging projects with which we shape the mobility of tomorrow together.
+Wide range of personal and professional development opportunities.
+Attractive, fair and performance-related remuneration.
+High level of job security.
+Annual special payments such as vacation pay, Christmas bonus, and profit sharing.
+Flexible working hours including six weeks annual leave and overtime compensation.
+Discounted BMW & MINI conditions.
+Many other benefits at bmw.jobs/benefits
+Earliest starting date:
+from now on
+Type of employment:
+unlimited
+Working hours:
+full-time
+Stellenreferenz:
+182761
+Company info
+Mit unseren Marken BMW, MINI, Rolls-Royce und BMW Motorrad sind wir einer der weltweit führenden Premium-Hersteller von Automobilen sowie Motorrädern und darüber hinaus Anbieter von Premium-Finanz- und Mobilitätsdienstleistungen.
+Am Standort
+München
+suchen wir Sie als
+Big Data Engineer - ML Analytics & Search (f/m/x)
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

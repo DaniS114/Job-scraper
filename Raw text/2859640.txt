@@ -1,0 +1,78 @@
+Cég neve
+Sulzer & Schmid Laboratories AG
+Munkavégzés helye
+Industriestrasse 9, 8618 Oetwil am See, Switzerland
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANDROID
+KOTLIN
+TESTING
+MACHINE LEARNING
+DEBUGGING
+AGILE
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANDROID
+KOTLIN
+TESTING
+MACHINE
+LEARNING
+DEBUGGING
+AGILE
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+About Us
+Founded in 2016, Zurich-based is at the forefront of innovation in the energy service sector. Recognizing the potential for unmanned aerial vehicle (UAV) technology to redefine industrial grade inspections, we have developed an end-to-end technology platform that produces high-quality rotor blade inspection results with ease – precisely, repeatably, efficiently. To date, we have inspected wind turbines in more than 40 countries worldwide using our 3DX™ technology and each inspection is underpinned by our commitment to the highest quality, efficiency, safety and groundbreaking use of technology. Our 3DX™ Blade Platform offers a comprehensive solution that integrates all aspects of rotor blade inspection into one system, providing a transparent view of the blade health status for the entire fleet.
+Since September 2024, is part of RES, the world's leading renewable energy company. This allows us to leverage the vast expertise within RES to create an even more powerful 3DX™ Blade Platform designed to meet the needs of our customers.
+For our Software Development team in Oetwil am See (canton Zurich), we are looking for a motivated
+Software Developer with focus on AI
+In this function, you will play a pivotal role in developing and maintaining our 3DX™ Blade Platform. We value a hands-on approach and a “get things done” mindset and the ability to work creatively and solve complex problems. As a Software Developer you interact with different internal stakeholders to design and implement high quality software.
+Key Responsibilities
+Design, implement and maintain AI pipelines, primarily focused on computer vision
+Prototype, demonstrate and validate new AI-driven use cases to improve productivity and efficiency
+Contribute to drone flight and mission software (Android / Kotlin)
+Collaborate closely with software and operations teams
+Provide technical support to drone pilots during field operations
+Contribute to the entire software development lifecycle, from planning and design to testing and deployment
+About You
+Hands-on experience in AI / Machine Learning using and PyTorch
+High level of initiative and ownership: proactively bring own ideas, challenge existing approaches and continuously look for ways to improve solutions
+Bachelor’s degree or higher in Robotics, Computer Vision, Engineering or a related technical field or equivalent practical experience
+Strong analytical thinking, debugging and problem-solving skills
+Strong understanding of geometry, spatial reasoning and geospatial data
+Fluent in English, German is a plus
+Experience in drone or robotics software development, mobile development in Android/Kotlin are an asset
+What we offer
+On paper, we are Software Developers, Electronic Engineers, Entrepreneurs, Operations, Finance, Marketing and Sales experts. In reality, we are passionate problem solvers, inventors, makers, testers, code crackers, customer satisfaction managers and more. Our agile approach ensures close collaboration and helps us to stay ahead of the curve. With us, you can work up to 60% from remote, enjoy 5 weeks of vacation, join our fun team lunches, profit from direct communication channels and fast decision-making in a dynamic environment. Want to make a difference and contribute to a carbon-neutral power production? Then join us!
+How to Apply
+If you are passionate about UAV technology, like to work in a dedicated team and possess the required skills and experience, we would love to hear from you. Please submit your application (minimum CV, motivation letter and references are optional but very welcome) to Jennifer , Head of HR,
+Write an email
+.
+For this vacancy, we only consider direct applications and are currently not working with recruitment agencies. jid05d6119pn jit0312pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Switzerland
+Álláshirdetés jelentése

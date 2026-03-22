@@ -1,0 +1,71 @@
+Cég neve
+Rohde & Schwarz GmbH & Co. KG
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+DOCKER
+GIT
+CD
+JENKINS
+JIRA
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+DOCKER
+GIT
+CD
+JENKINS
+JIRA
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+- Collaborate with development teams to design and implement CI/CD pipelines for our software applications using GitLab
+- Assist in setting up and maintaining GitLab CI/CD runners to support our software applications
+- Contribute to the migration of our existing Jenkins infrastructure to a new GitLab CI/CD infrastructure
+- Support the standardization of CI/CD processes across all projects and teams
+- Assist in developing and maintaining Python scripts and Docker containers
+- Deploy applications on Kubernetes and ensure their continuous availability
+- Help monitor CI/CD pipelines, diagnose and troubleshoot issues, and propose and implement solutions
+Requirements
+- Currently pursuing a degree in Computer Science, Software Engineering, Physics, Mathematics or related field
+- Proficiency in Git, GitLab, Jenkins, Docker, Kubernetes and Python
+- Knowledge of CI/CD principles and practices
+- Ability to work independently and collaboratively in a team environment
+- Strong problem-solving and analytical skills
+- Experience working with GitLab CI/CD runners and preferably experience with migrating Jenkins infrastructure to GitLab CI/CD runners
+- Familiarity with Jira, artifactory, OSA, SBOM, PDM, binary signing/encryption, Docker containers, Grafana, vault and Argo CD are appreciated
+- Excellent verbal and written communication skills
+What we offer
+You can expect very good payment, excellent terms and outstanding opportunities for growth and development.
+Company info
+At Rohde & Schwarz, we develop and produce solutions in the fields of Test & Measurement, Technology Systems, and Networks & Cybersecurity – driven by the vision of a safer and connected world. From software to final production, our more than 15,000 employees create products and systems that set global standards and enable technological sovereignty for industrial, regulatory, and government customers worldwide.
+Our headquarters, located in the heart of Munich, also serves as our main development site.
+Join our Software Development Division in München (Germany) at the earliest possible date.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Administrator
+Germany
+Álláshirdetés jelentése

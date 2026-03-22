@@ -1,0 +1,73 @@
+Cég neve
+DruIT Szolgáltató Zrt.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+AGILIS
+SCRUM
+API
+KANBAN
+JIRA
+CONFLUENCE
+Elvárások
+Angol középfok
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+AGILIS
+SCRUM
+API
+KANBAN
+JIRA
+CONFLUENCE
+Angol
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+A fejlesztési backlog kezelése, user story-k pontosítása, részletes követelmények kidolgozása és tisztázása a csapattal.
+A termékstratégia megvalósításának biztosítása a napi fejlesztési munka során, az üzleti célok technikai megvalósításának segítése.
+A sprinttervezések előkészítése, a fejlesztőkkel való folyamatos egyeztetés a scope tisztázása érdekében.
+Az agilis működés támogatása, az iterációk során felmerülő akadályok elhárítása és a csapat hatékonyságának növelése.
+A fejlesztett funkciók validálása a Product Managerekkel és a fejlesztőkkel együttműködve.
+End-to-end felelősségvállalás egy meghatározott termékterület teljes életciklusa felett (tervezéstől a bevezetésen át az optimalizálásig).
+Fejlesztett funkciók üzleti validálása és a teljesítmény folyamatos mérése meghatározott KPI-ok mentén, adatvezérelt döntéshozatal támogatásával.
+Átláthatóság és tervezhetőség biztosítása rendszeres riportok és strukturált roadmap menedzsment segítségével.
+Elvárások
+Stratégiai priorizálás üzleti impact mentén, több területet átfogó (cross-functional) csapatok összehangolásával
+Legalább 5+ év tapasztalat Product Owner vagy releváns technikai szerepkörben. Fejlesztői háttér vagy informatikai végzettség előnyt jelent.
+Erős technikai affinitás, különös tekintettel API-k, integrációk és rendszerarchitektúrák megértésére.
+Agilis módszertanok (Scrum, Kanban és SAFe) és backlog menedzsment tapasztalat (JIRA, Confluence). Nagyvállalati SAFe módszertan előnyt jelent.
+Stakeholder-menedzsment képesség, üzleti és technikai igények közötti közvetítői szerep betöltése.
+Tapasztalat tesztelési és validálási folyamatokban, acceptance criteria megfogalmazása.
+Angol nyelvtudás, biztos kommunikáció nemzetközi partnerekkel, beszállítókkal.
+Előnyt jelent
+SAFe vagy más skálázott agilis környezetben szerzett tapasztalat, API-first vagy integráció-intenzív termékfejlesztési tapasztalat, KPI-alapú, adatvezérelt termékmenedzsment szemlélet, Fejlesztői háttér vagy erős technikai affinitás
+Amit kínálunk
+Hibrid munkavégzés (Budapest)
+Céginformáció
+Az Adatkezelő információ-technológiai szolgáltatással foglalkozó gazdasági társaság, amely a megbízók részére keres a megbízók által megadott feltételeknek megfelelő szakembereket informatikai projektek elvégzésére. E tevékenysége során az Adatkezelő kezeli az érintettek azon személyes adatait, amelyek az elküldött/feltöltött önéletrajzban kerültek megadásra, továbbá kezeli a jelölttel folytatott telefonbeszélgetést, és az ennek során esetlegesen megadott további személyes adatokat.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

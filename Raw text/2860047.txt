@@ -1,0 +1,58 @@
+Cég neve
+ZEISS
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+ZEISS Semiconductor Manufacturing Technology
+Enabler for smaller, more powerful, and more energy-efficient microchips - Working for tomorrow today. Around 80 percent of all microchips worldwide are produced using ZEISS technologies. As the centerpiece of every electronically controlled system, they have become an integral part of our everyday lives – whether in smartphones, smart homes or smart factories. ZEISS is a technology leader in the field of semiconductor manufacturing equipment. With high-precision lithography optics, photomask systems and process control solutions, ZEISS enables the production of ever smaller, increasingly powerful, and more energy-efficient microchips, and thus plays a pivotal role in the age of micro- and nanoelectronics.
+developing the control software for the next generations of lithography systems, driving the progress in the semiconductor industry
+implementing best in class embedded control systems on bare metal and on embedded Linux
+contributing to the software architecture definition and design
+evaluate technical feasibility, creating PoC's and final software for new designs or changes
+working in an agile team where each member is an expert
+Requirements
+studies in Engineering, Control Systems, Mathematics, Physics or similar
+you have proven experience as a software developer or architect in a professional software development environment for bare metal controllers (C/C++), real-time operating systems (Linux) or similar machine-oriented applications
+you have an excellent understanding of real-time applications like fast embedded control systems
+you can efficiently develop optimum solutions using the latest tools and methods in low level programming
+you can communicate clearly, precisely and with empathy and have a passion to successfully solve complex challenges independently and in a team
+optionally you have experience with VHDL or similar languages
+good English and optionally German language
+Company info
+Step out of your comfort zone, excel and redefine the limits of what is possible. That's just what our employees are doing every single day – in order to set the pace through our innovations and enable outstanding achievements. After all, behind every successful company are many great fascinating people.
+In a spacious modern setting full of opportunities for further development, ZEISS employees work in a place where expert knowledge and team spirit reign supreme. All of this is supported by a special ownership structure and the long-term goal of the Carl Zeiss Foundation: to bring science and society into the future together.
+Join us today. Inspire people tomorrow.
+Diversity is a part of ZEISS. We look forward to receiving your application regardless of gender, nationality, ethnic and social origin, religion, philosophy of life, disability, age, sexual orientation or identity.
+Apply now! It takes less than 10 minutes.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+Manufacturing,
+Production
+PLC
+Programmer
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,110 @@
+Data Engineer (ETL, Pandas/PySpark, Python, Palantir/Databricks)
+SourceFirst International s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+by agreement
+Wage (gross)
+2 400 - 3 500 EUR/month
+The final salary offered will depend on the candidate's experience and knowledge. + Attractive benefit system of the company.
+Information about the position
+Job description, responsibilities and duties
+As Data Engineer be ready to bring new insights and broaden our experience-base in new technologies and the latest software and Data engineering trends. You will be working closely with our Product Teams to co-create, extend and maintain Data enabled services, from conceptual design to solution architecture to implementation and operation of Data Products platform.
+We’re responsible for ingesting, transforming, enriching, and cleansing data to ensure it’s accurate, accessible, and actionable. Our work enables seamless operations for users and downstream systems and lays the foundation for cutting-edge analytics and AI solutions.
+Responsibilities:
+- Work with Data Products platform and with colleagues across Asset Management in the development of Data enabled products, aligned with our reference architecture and design principles
+- Be a trusted partner in the assessment and definition of requirements. Translate into design artifacts
+- Implement advanced use cases and build prototypes
+- Create and maintain automated test cases to build & maintain regression test suites
+- Establish and manage the solution documentation
+- Plan solution deployment and rollout, including risk & impact analysis for implementation
+- Ensure agreed agile collaboration principles are applied & improved across your squad
+- Support team members in their growth, contributing to an environment that cares for continuous learning and improvement
+Employee perks, benefits
+​- kindergarten - available in our building
+​- yearly salary re-evaluation
+​- hybrid type of home-office
+​- flexible working time
+​- sick days
+​- MultiSport card
+​- mental & medical health support
+​- public transport donation​
+Information about the selection process
+In case of interest, please send your CV to: rastislav.srnka@sourcefirstinternational.com .
+We have many open positions for IT specialists, not only in Slovakia and Czech Republic, but also on other foreign projects.
+Expected date of completion of the selection process
+31.12.2026
+(there are still 286 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+We are one of the world’s leading technology service providers.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT, Informačné technológie
+Personality requirements and skills
+You’re passionate about engineering and data practices, and you fully understand the value of ETL processes in delivering accurate, reliable, and accessible data. You have a solid technical foundation in data platforms such as Palantir Foundry and relational databases—ideally PostgreSQL.
+You thrive in a strong engineering culture, enjoy working in multicultural teams, and actively support your teammates in reaching their full potential. You’re eager to share knowledge, contribute to team growth, and help elevate our agile maturity.
+Essentials:
+- Strong understanding of data modelling, ETL processes and data warehousing concepts
+- Experience with Data frameworks (Pandas, PySpark)
+- Strong programming skills in Python
+- Experience with Palantir Foundry, Databricks or similar
+- Proficiency in English (written and spoken)
+- Live a continuous improvement mind-set
+- Entrepreneurial, team player with a can-do attitude
+- Good communication and presentation skills
+Nice to Have Skills:
+- Solid applied knowledge of Agile methods, frameworks, and tools
+- Experience with MSBI
+- Software architecture and understanding of tech stacks
+- DevSecOps practices
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: Rastislav Srnka
+Tel.:
++421904823347
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5254101
+Dátum zverejnenia:
+20.3.2026
+2026-03-20
+lokalita:
+Bratislava
+Pozícia:
+Business Intelligence Specialist
+,
+Data Engineer
+,
+Data Scientist
+,
+Python Programmer
+,
+Software Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 400 EUR/month

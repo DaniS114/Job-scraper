@@ -1,0 +1,75 @@
+Cég neve
+NVIDIA Hungary Kft.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+PYTHON
+ANSIBLE
+DOCKER
+LINUX
+NETWORK
+C
+C++
+BASH
+DEBUGGING
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+PYTHON
+ANSIBLE
+DOCKER
+LINUX
+NETWORK
+C
+C++
+BASH
+DEBUGGING
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Guiding customers in their adoption of NVIDIA's compute, networking, and software stacks to deliver end-to-end GenAI and Agentic AI solutions
+Delivering demos, assisting with proof-of-concepts, writing papers and developer blogs
+Collaborating with executives and engineering to solve complex problems and help bring NVIDIA's premiere technologies to life in the cloud and in the datacenter
+Requirements
+MS, or PhD in Engineering, Computer Science, or a related field (or equivalent experience)
+Established track record working with AI and HPC clusters, both on-premises and cloud based
+8+ years of proven experience with cluster management and related tools, including Docker Containers, Slurm, Kubernetes, and Ansible
+Hands-on experience with Datacenter MEP, network, storage, cluster configuration and debugging
+Strong analytical and problem-solving skills, along with an ability to articulate what you know to others
+Ability to multitask efficiently in a dynamic environment
+Nice-to-have
+Strong coding and debugging skills, including experience with CUDA, Python, C/C++, Bash, AI frameworks and Linux utilities, Demonstrated expertise through projects or Open Source contributions involving GPU workloads, Kubernetes, InfiniBand, Ethernet, or other areas related to high-performance clusters and hybrid cloud solutions, Exhibit hands on experience with NVIDIA Enterprise software products, Base Command Manager, Run:ai and NVIDIA NIMs, Willingness and ability to learn quickly and solve advanced problems
+What we offer
+Full time position
+Base salary range for Poland: 292,500 PLN - 507,000 PLN for Level 4, and 375,000 PLN - 650,000 PLN for Level 5
+Company info
+NVIDIA is the world leader in accelerated computing.
+NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Regionális
+Álláshirdetés jelentése

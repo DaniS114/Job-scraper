@@ -1,0 +1,128 @@
+Špecialista/tka Microsoft 365
+Magistrát hlavného mesta SR Bratislavy
+Miesto práce
+Primaciálne  námestie 1, 814 99 Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+2 000 EUR/mesiac
+od 2000 EUR/mes. - v závislosti od odborných znalostí, pracovných skúseností a schopností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Ponúkame príležitosť pracovať na inovatívnych riešeniach v oblasti digitalizácie verejnej správy, podieľať sa na implementácii nových technológií a aktívne prispievať k zlepšovaniu IT služieb pre zamestnancov aj občanov mesta.
+U nás budete mať priestor na odborný rast, rozvoj technických zručností a možnosť ovplyvňovať smerovanie moderných IT riešení v prostredí samosprávy.
+Hľadáme skúseného odborníka/čku s praxou v oblasti Microsoft 365, ktorý/ktorá sa bude aktívne podieľať na správe, rozvoji a zabezpečení moderného cloudového prostredia. Ideálny kandidát/tka má skúsenosti s administráciou služieb ako Microsoft Entra ID, Exchange Online či SharePoint Online, orientuje sa v oblasti bezpečnostných politík a prístupových mechanizmov a ovláda nástroje na automatizáciu.
+Náplň práce:
+Správa, konfigurácia a rozvoj cloudového prostredia
+Microsoft 365
+.
+Administrácia a návrh riešení v oblastiach
+Microsoft Entra ID, Exchange Online, SharePoint Online a OneDrive
+.
+Návrh, implementácia a správa
+bezpečnostných politík a prístupových mechanizmov
+(napr. Conditional Access, MFA).
+Správa identít, používateľských účtov, skupín, rolí a licencovania v prostredí Microsoft 365.
+Konfigurácia a správa
+poštovej infraštruktúry Exchange Online
+, vrátane pravidiel poštového toku, bezpečnosti a ochrany proti spamu/phishingu.
+Správa a konfigurácia
+SharePoint Online a OneDrive
+, vrátane nastavenia prístupov, zdieľania a správy dokumentových úložísk.
+Monitorovanie, diagnostika a riešenie technických incidentov v prostredí Microsoft 365.
+Spolupráca na návrhu a implementácii
+bezpečnostných a governance štandardov
+pre cloudové služby.
+Automatizácia administratívnych úloh a správy prostredia (napr.
+PowerShell, Microsoft Graph
+).
+Spolupráca na implementácii nových služieb a funkcionalít Microsoft 365 a podpora interných IT projektov.
+Tvorba a aktualizácia technickej dokumentácie.
+Zamestnanecké výhody, benefity
+Ponúkame:
+Zaujímavú prácu v dynamickom prostredí.
+Možnosť profesionálneho rastu a rozvoja.
+Prácu v priateľskom a podporujúcom tíme.
+Rovnováha medzi prácou a súkromím je pre nás dôležitá. Pre svojich zamestnancov máme okrem férovej mzdy pripravené aj zaujímavé benefity:
+Peňažné benefity
+Flexibilný pracovný čas a možnosť práce z domu je u nás bežné
+5 dní dovolenky navyše + 2 dni regeneračného voľna
+Psychologické poradenstvo a bezplatný prístup na portál Dobrobytie
+Príspevok až do výšky 3% zo mzdy na tretí dôchodkový pilier
+Príspevok na dopravu a zľava na ročnú električenku
+Zvýhodnený vstup do vybraných mestských inštitúcií ako ZOO, Divadlo P.O.Hviezdoslava, mestské múzeá, galérie, športoviská a iné.
+Multisport karta pre športové vyžitie
+Možnosť vzdelávania a školení
+Príspevok na stravovanie
+Príspevok na rekreáciu a príspevok na športovú činnosť dieťaťa v zmysle zákona
+Referral bonus
+Práca pre najlepšieho zamestnávateľa roka 2025 v oblasti štátna a verejná správa
+Informácie o výberovom konaní
+Zoznam požadovaných dokladov a materiálov:
+1. Motivačný list
+2. Životopis
+Ak máte záujem o túto pozíciu, zašlite nám svoj aktuálny životopis a motivačný list najneskôr do 31.03.2026.
+Na základe zaslaných podkladov vyberieme najvhodnejších uchádzačov a uchádzačky, s ktorými sa následne dohodneme na ďalšom postupe a účasti na osobnom pracovnom pohovore. Budeme sa tešiť na Vaše prihlášky.
+Na osobné stretnutie si zamestnávateľ vyhradzuje právo pozvať len vybraných kandidátov/tky.
+Zverejnené dňa 17.03.2026.
+Na účely realizácie výberového konania hlavné mesto Slovenskej republiky Bratislava ako prevádzkovateľ osobných údajov spracúva osobné údaje záujemcov o pracovnú pozíciu, a to na právnom základe v zmysle čl. 6 ods. 1 písm. b) nariadenia Európskeho parlamentu a Rady (EÚ) č. 2016/679 v spojení s ustanovením § 13 ods. 1 písm. b) zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov. Podmienky spracúvania osobných údajov sú dostupné na oficiálnom webovom sídle hlavného mesta,
+https://bratislava.sk/ochrana-osobnych-udajov
+.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+ukončené vysokoškolské vzdelanie technického smeru alebo ekvivalentná prax (min. 5 rokov) v oblasti cloudových služieb Microsoft
+skúsenosti so správou prostredia Microsoft 365
+praktické skúsenosti s administráciou Microsoft Entra ID (Azure AD)
+znalosť správy služieb Exchange Online a SharePoint Online
+skúsenosti s konfiguráciou bezpečnostných mechanizmov v Microsoft 365 (napr. Conditional Access, MFA, politiky prístupov)
+znalosť správy používateľov, skupín, rolí a licencovania
+skúsenosti so správou prístupov a oprávnení v cloudových službách
+skúsenosti s diagnostikou a riešením problémov v prostredí Microsoft 365
+znalosť PowerShellu alebo iných nástrojov na automatizáciu administrácie
+skúsenosti s tvorbou a správou Power Apps a Power Automate výhodou
+anglický jazyk (úroveň B1)
+samostatnosť a spoľahlivosť, ochota učiť sa nové veci, odolnosť voči stresu a časová flexibilita, komunikatívnosť a asertivita, precíznosť a koncepčné myslenie
+bezúhonnosť
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Magistrát hlavného mesta Slovenskej republiky je výkonným orgánom primátora a mestského zastupiteľstva. Za jeho každodenným fungovaním stoja odborné tímy z rôznych oblastí, ktoré spája jedno – chuť zlepšovať život v Bratislave.
+Pracujeme na strategických investíciách, dopravných riešeniach, digitalizácii, ochrane životného prostredia aj na zvyšovaní dostupnosti bývania. Svojim zamestnancom/kyniam ponúkame zmysluplnú prácu, kvalitné pracovné podmienky a podporujúci tím, v ktorom sa môžu ďalej rozvíjať. Sme otvorení šikovným, iniciatívnym a kreatívnym ľuďom, ktorí veria, že aj verejná správa môže byť dynamická, profesionálna a inovatívna. Pri práci si zakladáme na hodnotách spolupráce, transparentnosti, odbornosti a profesionality, odvahy a ambicióznosti, zodpovednosti k budúcnosti a na úsilí tvoriť mesto pre všetkých. Ak to vnímaš podobne, máš chuť prinášať nové nápady a pracovať na zmysluplných projektoch pre Bratislavu, si na správnom mieste.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Lucia Dendis
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5252136
+Dátum zverejnenia:
+17.3.2026
+2026-03-17
+lokalita:
+Bratislava
+Pozícia:
+IT konzultant
+,
+IT projektový manažér
+,
+Správca informačného systému
+,
+Systémový administrátor
+,
+Systémový inžinier
+Spoločnosť:
+Magistrát hlavného mesta SR Bratislavy
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 000 EUR/mesiac

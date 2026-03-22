@@ -1,0 +1,94 @@
+Java aplikačný administrátor
+EuroView s.r.o.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+2 800 EUR/mesiac
+záleží od seniority
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Administrácia, konfigurácia a optimalizácia prevádzky zverených IT aplikácií
+Správa (Prevádzka, Monitoring, Maintenance, Patch, Upgrade) aplikačných serverov
+Poskytovanie technickej podpory pre zverené aplikácie na L2 úrovni
+Spolupráca pri identifikácii a riešení incidentov, problémov a servisných požiadaviek s jednotlivými tímami spoločnosti (Service Desk, Infraštruktúra, Agilné vývojové tímy, Business tímy)
+Úzka spolupráca s oddelením aplikačného vývoja, externými dodávateľmi, prevádzkovými tímami a riadiacim tímom pri zavádzaní nových zmien a bankových aplikácií
+Sledovanie a odstraňovanie zraniteľností na zverených technológiách a aplikáciách
+Spolupráca pri návrhu a implementácií automatizácie riešení (príprave prostredí a inštalácií cez DevOps)
+Identifikovanie neefektívnych prevádzkových činností
+Učenie sa a zbieranie nových technológií a nástrojov do firmy pre rast agilného vývoja
+Spolupráca na vzdelávacích aktivitách, mentoring a zdieľanie znalostí v tíme
+Zamestnanecké výhody, benefity
+Príležitosť byť súčasťou silnej a úspešnej banky
+Možnosť stáť pri zrode bankových inovácií
+Atraktívne kariérne príležitosti
+Kvalitný odborný a osobnostný rozvoj
+Práca so skúsenými lídrami
+Zvýhodnenia na produktoch banky
+Motivačné ohodnotenie
+Dni Zdravia
+Bezplatná psychologická podpora 24/7
+Príspevok na DDS
+Informácie o výberovom konaní
+Prácu je možné vykonávať aj v Bratislave a aj v Prešove
+Spoločnosť, pre ktorú je pozícia obsadzovaná
+Bankovníctvo, peňažníctvo
+prémiová banka
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Ostatné znalosti
+Apache Tomcat - Pokročilý
+Počet rokov praxe
+3
+Osobnostné predpoklady a zručnosti
+3+ ročné skúsenosti na podobnej pracovnej pozícií
+3+ ročná prax v správe (Monitoring, Maintenance, Patch, Upgrade) JAVA aplikácií bežiacich v CLOUD (AWS) a onpremise (OpenShift) prostredí
+3+ ročná prax v administrácii, konfigurácii a optimalizácii prevádzky zverených JAVA aplikácií v onpremise aj CLOUD prostrediach
+Aplikačné servre – JBoss EAP, Tomcat
+Kontajnerizačné platformy Openshift, Docker, Kubernetes
+Praktické skúsenosti s cloud platformami (AWS, AZURE) na úrovni 2 a viac rokov praxe
+Praktická skúsenosť s prácou a skriptovaním v UNIX/Linux prostredí prípadne PowerShell na úrovni intermediate
+Výhodou sú znalosti Web Servisov a SOA architektúry
+Znalosti práce s SQL nad databázami Oracle či PostgreSQL na úrovni aplikačného administrátora
+Komunikatívnosť a analytický pohľad na riešenie prevádzkových problémov
+Schopnosť dohľadať chyby v aplikačných, serverových a auditných logoch
+Praktické skúseností s minimálne s jedným z monitorovacích nástrojov (Cloudwatch, Splunk, Dynatrace ....)
+Komunikácia v anglickom jazyku
+Skúsenosti s vedením menšieho teamu sú výhodou
+Ďalšie vlastnosti: Spoľahlivosť, Dôslednosť, Flexibilnosť a schopnosť pracovať v tíme
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Personálna a poradenská spoločnosť zameraná na priame vyhľadávanie a výber odborníkov, členov stredného, vyššieho a TOP manažmentu, v oblastiach IT, telco, financie, obchod. Spoločnosť zastrešuje  rozvojové projekty v oblastiach personalistiky, tréningov, assessment a development centier.
+Počet zamestnancov
+5-9 zamestnancov
+Kontakt
+Kontaktná osoba: Matej Kováč
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5252392
+Dátum zverejnenia:
+17.3.2026
+2026-03-17
+lokalita:
+Bratislava
+Pozícia:
+DevOps Engineer
+,
+Java programátor
+Spoločnosť:
+EuroView s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/mesiac

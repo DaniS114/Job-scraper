@@ -1,0 +1,91 @@
+Vývojár elektroniky (PCB návrhár)
+Bee hive monitoring s.r.o.
+Miesto práce
+Beňadická 19, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, skrátený úväzok, na dohodu (brigády), živnosť
+Termín nástupu
+ihneď
+Mzdové podmienky (brutto)
+900 - 2 000 EUR/mesiac
++ odmeny za dokončené projekty
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Vývojár elektroniky (PCB návrhár)
+Bee Hive Monitoring s.r.o. – Bratislava / remote / hybrid
+Do nášho tímu hľadáme šikovného človeka, ktorý sa bude podieľať na vývoji moderných elektronických zariadení pre IoT, senzory a monitoring (napr. včelárstvo, environmentálne merania a ďalšie oblasti).
+Náplň práce
+návrh
+elektronických schém (schematic)
+návrh
+PCB (1–2 vrstvy, prípadne viac)
+výber a optimalizácia
+komponentov (BOM)
+návrh zariadení s dôrazom na:
+nízku spotrebu (low-power)
+bezdrôtovú komunikáciu (BLE, GSM, NB-IoT)
+spolupráca na vývoji prototypov
+testovanie a ladenie hardvéru
+príprava podkladov pre výrobu (Gerber, výrobná dokumentácia)
+Požiadavky
+skúsenosti s návrhom PCB (EAGLE / Fusion / KiCad )
+znalosť práce so schémami a layoutom
+základná orientácia v:
+analógovej a digitálnej elektronike
+napájacích obvodoch
+výhodou:
+skúsenosti s RF (Bluetooth, GSM, IoT)
+návrh low-power zariadení
+práca s mikrokontrolérmi (napr. ARM, ESP, Silicon Labs)
+Čo ponúkame
+práca na reálnych produktoch (nie teória)
+vývoj vlastných IoT zariadení
+flexibilný pracovný čas / remote možnosť
+priestor pre vlastné nápady a inovácie
+malý tím = rýchle rozhodovanie
+možnosť podieľať sa na vývoji produktov pre zahraničné trhy
+Zamestnanecké výhody, benefity
+Môžeš sa tešiť na priestor pre sebarealizáciu a priamu komunikáciu s majiteľmi spoločnosti. Pracujeme s najmodernejšími technológiami a výsledky tvojej práce budú súčasťou globálneho systému starostlivosti o včelstvá, ich ochrany a ďalších environmentálnych projektov.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Sme spoločnosť zameraná na výskum, vývoj a výrobu technologických zariadení.   Boli sme technologický StartUp, ktorý vyhral niekoľko ocenení a získal investície do rozvoja a predávame naše výrobky do celého sveta.
+Kontakt
+Kontaktná osoba: Stanislava Horcikova
+Tel.:
++421951480839
+E-mail:
+poslať životopis
+Na to, aby ste reagovali na túto ponuku,
+nepotrebujete životopis
+. Stačí len, keď vyplníte formulár.
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5252741
+Dátum zverejnenia:
+18.3.2026
+2026-03-18
+lokalita:
+Bratislava
+Pozícia:
+C++ programátor
+,
+Elektrotechnický inžinier
+,
+Elektrotechnik
+Spoločnosť:
+Bee hive monitoring s.r.o.
+Základná zložka mzdy (brutto):
+900 EUR/mesiac

@@ -1,0 +1,44 @@
+Új munkatársunk feladatai lesznek
+- részvétel a fejlesztési és üzemeltetési architektúra elemzési, tervezési és kivitelezési folyamataiban
+- backend rendszerek fejlesztése és karbantartása Java alapokon
+- modern webes frontend alkalmazások fejlesztése React keretrendszerrel
+- adatbázis műveletek tervezése és optimalizálása Oracle környezetben
+- üzleti logika implementálása Spring Boot keretrendszer használatával
+- jól karbantartható, dokumentált kód írása
+- részvétel kód review folyamatokban és unit tesztelésben
+- verziókezelés használata csapatmunkában
+Amire a munkakör betöltéséhez szükség van
+- befejezett szakirányú főiskolai/egyetemi végzettség, meglévő diploma
+- minimum 2-3 év backend fejlesztési tapasztalat Java környezetben
+- magabiztos Java Spring Boot ismeret
+- react alapú frontend fejlesztési tapasztalat
+- Oracle SQL adatbázis ismeret
+- SQL Developer eszköz gyakorlati használata
+- IntelliJ IDEA fejlesztői környezet ismerete
+- Git verziókezelési ismeretek (GitLab)
+Előnyként értékeljük
+•	Nagyvállalati környezetben szerzett tapasztalat
+•	Agilis (Scrum/Kanban) projekttapasztalat
+•	Jó problémamegoldó és kommunikációs készség
+•	CI/CD folyamatok alapvető ismerete
+Amit ajánlunk
+- hosszú távú foglalkoztatási biztonság (kivéve határozott idő)
+- támogató munkahelyi légkör
+- bruttó munkabér 4%-ának megfelelő összegű önkéntes nyugdíjpénztári támogatás havonta
+- bruttó 10.526,- Ft /hó önkéntes egészségpénztári tagdíj-kiegészítés munkabérből való legalább nettó 2.000,- Ft /hó tagdíj levonása esetén
+- vasúti utazási igazolvány biztosítása (szabályozás szerinti hozzátartozók részére is)
+- vállalati országbérlet kedvezményes vásárlása munkavállalóink részére
+Munkavégzés helye
+Sopron
+Sopron, Mátyás király u.
+Munkaidő
+Részmunkaidő
+Foglalkoztatás formája
+Határozatlan idejű
+Jelentkezés határideje
+[Kattints a telefonszám megjelenítéséhez]
+2026-04-30
+Vállalati bemutatkozó
+Jobban megismernéd társaságunkat és kíváncsi vagy, mire számíthatsz a kiválasztási folyamat során, vagy melyik szervezetbe várunk Téged? Kattints ide és pillants bele feladatainkba, mindennapjainkba!
+[Kattintson a weboldal linkjének megjelenítéséhez]
+https://karrier.mavcsoport.hu/node/7309

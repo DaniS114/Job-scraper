@@ -1,0 +1,118 @@
+Cég neve
+VBÜ Zrt
+Munkavégzés helye
+1118 Budapest, Schweidel utca 2-4.
+Kis türelmet...
+Egyéb juttatások
+Mobiltelefon
+Cafeteria
+Szakmai tréningek
+Nyelvtanulás támogatása
+Munkába járás támogatás
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+CLOUD
+BASH
+DEVOPS
+AWS
+DOCKER
+AZURE
+LINUX
+HÁLÓZATI ISMERETEK
+Biztosított eszközök
+Laptop
+Monitor (2 db)
+Mobiltelefon
+Elvárások
+Angol felsőfok
+5-10 év tapasztalat
+Egyetem
+
+Mobiltelefon
+Cafeteria
+Szakmai
+tréningek
+Nyelvtanulás
+támogatása
+Munkába
+járás támogatás
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+CLOUD
+BASH
+DEVOPS
+AWS
+DOCKER
+AZURE
+LINUX
+HÁLÓZATI
+ISMERETEK
+Laptop
+Monitor
+(2 db)
+Mobiltelefon
+Angol
+felsőfok
+5-10
+év tapasztalat
+Egyetem
+
+Állás leírása
+Feladatok
+AI/ML keretrendszer szoftver-infrastruktúra tervezése, kiépítése;
+Komponensek Docker konténerizációja;
+GPU-kompatibilis image-k kialakítása, AI workload-specifikus erőforráskezelés;
+CI/CD pipeline-ok tervezése, kiépítése, optimalizációja;
+AI model deployment, verziókezelés;
+Test és production deploy folyamatok kialakítása, automatizálása
+Monitoring, logging, auto-scaling menedzselése;
+Biztonsági követelmények beépítése.
+Elvárások
+Legalább öt éves releváns szakmai tapasztalat üzemeltető / devops / solution architect munkakörben;
+Kubernetes gyakorlati tapasztalat;
+Magabiztos Linux és hálózati ismeretek, scripting tapasztalat (Phyton / bash);
+Felsőfokú informatikai végzettség;
+Tárgyalóképes angol nyelvtudás;
+Jó problémamegoldó képesség – önállóan és csapatban egyaránt.
+Előnyt jelent
+Cloud üzemeltetői / fejlesztői tapasztalat (Azure / GCP / AWS);
+AI workload tapasztalat, GPU-s környezet kezelése;
+Munkatapasztalat magas biztonsági standard-eket betartó vállalatnál.
+Amit kínálunk
+Vezető szerep egy modern cloud native technológia kialakításában;
+Versenyképes jövedelem, amely igazodik a munkaerőpiaci trendekhez, és lehetőséget biztosít a szakmai fejlődéssel arányos béremelésre;
+Cafeteria;
+Munkába járási támogatás:
+A közigazgatási határon túlról érkezők számára a vármegye- vagy országbérlet díját 100%-ban megtérítjük,
+Saját gépjárművel történő munkába járás esetén a jogszabályban maximálisan adómentes 30 Ft/km térítést biztosítjuk;
+Szakmai betanulási program és mentorálás az első munkanapoktól, hogy a beilleszkedés gördülékeny és támogató környezetben történjen;
+Egészségbiztosítási csomag, amely magán-egészségügyi vizsgálatokat és szakorvosi ellátásokat is tartalmaz;
+Vállalati laptop és mobiltelefon, a hatékony munkavégzés és a rugalmas munkavégzési lehetőségek támogatására;
+Nyelvtanulási lehetőség már a belépést követő első hónaptól;
+Céges, csapatösszetartó rendezvények;
+Kedvezményes étkezési lehetőség;
+Sportolási lehetőség;
+Ingyenes parkolási lehetőség
+Munkahelyi extrák
+Céges étkező
+Parkoló
+Sportolási lehetőség
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

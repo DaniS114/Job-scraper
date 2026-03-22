@@ -1,0 +1,90 @@
+Cég neve
+GITMAX IT Services Zrt.
+Munkavégzés helye
+Országos lefedettség
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+ACCESS
+MACHINE LEARNING
+SQL
+TESTING
+ANALYTICS
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+ACCESS
+MACHINE
+LEARNING
+SQL
+TESTING
+ANALYTICS
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Define and improve metrics reflecting product performance, service quality, and operational efficiency
+Analyze client behavior and service processes to identify trends, bottlenecks, inefficiencies, and drivers of performance
+Work on problems related to attrition / churn, customer behavior, operational effectiveness, and service improvement
+Collect data from multiple sources and ensure its quality, accuracy, and completeness
+Clean, structure, and transform raw data into datasets suitable for advanced analysis
+Conduct deep-dive analysis and research to uncover patterns and generate actionable insights
+Design and interpret A/B tests and other analytical frameworks for measuring impact
+Apply causal inference methods to understand what truly drives observed business outcomes
+Assess solutions through backtesting, experimentation, and modeling
+Build analytical models to support decision-making and evaluate opportunities for improvement
+Create visualizations, reports, and presentations for stakeholders
+Support advanced analytical initiatives, including work related to LLM-enabled internal solutions, such as insight extraction, text analysis, or knowledge support use cases, where relevant
+Partner with Data Engineers and cross-functional teams to improve the data landscape and analytical infrastructure
+Requirements
+4+ years of hands-on experience in Data Analytics / Data Science / Analytics Research
+Strong command of SQL and Python
+Solid understanding of mathematical statistics and probability theory
+Strong experience with A/B testing, experiment design, and interpretation of results
+Good practical understanding of causal inference
+Experience with machine learning and/or mathematical modeling in applied business problems
+Ability to move from raw data to structured insights and business recommendations
+Strong analytical and problem-solving skills with a high level of intellectual curiosity
+Team player with strong communication and stakeholder management skills
+Structured and analytical thinker, detail-oriented, results-driven
+Fast learner, able to work independently in a dynamic environment
+Creative problem-solver with adaptability to changing requirements
+What we offer
+Competitive and attractive compensation package, with performance-based annual bonuses (2–3 salaries)
+Relocation package (if needed) covering flights, temporary accommodation, visa support, and family relocation (including pets)
+Extensive learning opportunities: professional training, certifications, soft skills development, free English courses, and trading workshops
+Healthcare & insurance: full health and life insurance for employees, spouses, and children — including vaccinations, medical tests, mental health support, vision and dental coverage
+Generous time off: 21 days of annual leave, paid sick leave, plus national holidays
+Lifestyle support: allowance for sports clubs or other physical activities, meal and transportation allowance
+Family benefits: education allowance for children’s school and kindergarten fees
+Travel perks: holiday flight tickets and accommodation coverage (within the yearly limit)
+Culture & community: outstanding team-building events, corporate parties, and strong expat-friendly support
+Modern workplace: office located in the heart of Kuala Lumpur, with team lunches and convenient city access
+Data at scale: work with massive global datasets from tens of millions of clients worldwide, solving high impact challenges at scale
+Company info
+One of the world’s leading fintech companies has been building its own trading platform for over 15 years, serving tens of millions of clients globally and processing millions of transactions daily. With a central hub in Cyprus and a rapidly growing office in Kuala Lumpur, the company continues to expand its international footprint.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Regionális
+Álláshirdetés jelentése

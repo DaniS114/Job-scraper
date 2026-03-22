@@ -1,0 +1,138 @@
+Cég neve
+Legfőbb Ügyészség
+Munkavégzés helye
+Hibrid
+•
+1062 Budapest, Székely Bertalan utca 21.
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Céges üdülés, üdültetés
+Lakhatási támogatás
+Munkába járás támogatás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Általános munkarend
+Elvárt technológiák
+HTML5
+GIT
+JQUERY
+ANGULAR
+WCF
+DOCKER
+AZURE
+DEVOPS
+WEBAPI
+MONGODB
+MVC
+REST
+NODE.JS
+SCSS
+Biztosított eszközök
+Laptop
+Monitor (1 db)
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Középiskola
+
+Cafeteria
+Céges
+üdülés, üdültetés
+Lakhatási
+támogatás
+Munkába
+járás támogatás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Általános
+munkarend
+HTML5
+GIT
+JQUERY
+ANGULAR
+WCF
+DOCKER
+AZURE
+DEVOPS
+WEBAPI
+MONGODB
+MVC
+REST
+NODE.JS
+SCSS
+Laptop
+Monitor
+(1 db)
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Magyarország Ügyészsége szoftverfejlesztési feladataiban történő részvétel,
+közreműködés szoftver-tervezési feladatokban,
+a saját fejlesztésű rendszerek fejlesztői támogatása
+Elvárások
+szakirányú egyetemi, főiskolai végzettség
+vagy
+szakirányú középfokú iskolai végzettség
+vagy
+középfokú iskolai végzettség és legalább emelt szintű szakirányú szakképesítés
+vagy
+középfokú iskolai végzettség és legalább az MKKR 5. szintjét elérő szakirányú szakképesítés, szakképzettség
+vagy
+legalább középfokú iskolai végzettség és hasonló jellegű munkakörben szerzett legalább ötéves igazolt gyakorlat,
+büntetlen előélet,
+magyar állampolgárság,
+legalább 3 éves releváns fejlesztői tapasztalat,
+strukturált elemző és problémamegoldó készség,
+.Net Framework 4.8 (MVC, JQuery, WCF),
+.Net Core 6+ (WebApi REST, EntityFramework Core, WCF, SOAP),
+Angular 14+ (NPM, TypeScript, SCSS, Material UI, HTML5, tailwind),
+Node.js,
+MicroSoftSQL, MongoDB,
+Azure DevOps Server (Git, CI/CD, Nuget)
+Előnyt jelent
+felsőfokú szakirányú végzettség,
+Kubernetes, Docker, Helm ismeret,
+RKE2 ismeret,
+rendvédelmi, államigazgatási szervnél szerzett informatikai tapasztalat,
+interfészek fejlesztésében szerzett tapasztalat,
+iratkezelő rendszerek ismerete, fejlesztésükben szerzett tapasztalat
+Amit kínálunk
+megbízható, stabil cégkörnyezet,
+szakmai fejlődés lehetősége,
+kiszámítható életpálya,
+versenyképes kereset,
+home office lehetőség
+Munkahelyi extrák
+Orvosi felügyelet
+Kerékpártároló
+Sportolási lehetőség
+Céginformáció
+A jogállásra és javadalmazásra a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény (Üjt.) vonatkozik.
+A legalább 3 éves releváns szakmai tapasztalat igazolásának hiányában a pályázat nem kerül elbírálásra
+!
+A szakmai önéletrajzok alapján alkalmasnak ítélt jelentkezők online szakmai meghallgatáson, annak eredménye függvényében munkáltatói interjún vesznek részt.
+A pályázatot elnyert személynek külön felhívásra hatósági erkölcsi bizonyítvánnyal szükséges igazolnia, miszerint
+büntetlen előéletű, illetve nem áll foglalkozástól eltiltás hatálya alatt, továbbá az önéletrajzában feltüntetett végzettséget, egyéb képzettséget tanúsító bizonyítványainak, okiratainak, valamint a korábbi munkaviszonyokat igazoló iratainak eredeti vagy hitelesített másolatát be kell mutatnia.
+A pályázó önéletrajzának megküldésével egyidejűleg hozzájárulását adja a személyes adatai kezeléséhez.
+Jelentkezés módja
+A jelentkezéshez csatolni kell a szakmai életút bemutatását és elérhetőségeket tartalmazó önéletrajzot, a végzettséget igazoló okiratmásolatokat, valamint a szakmai tapasztalatot igazoló iratokat.
+A pályázatok benyújtási határideje: 2026. április 17., 13.30 óra
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

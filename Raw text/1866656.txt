@@ -1,0 +1,51 @@
+Partnerünk, a
+Molaris Kft.
+tapasztalt IT-szakembereket helyez ki ügyfeleihez. A cég 2006 óta működik, és a teljes IT infrastruktúra életciklust lefedi – a tervezéstől az üzemeltetésig. A pozíció banki környezetben valósul meg.
+A csapat bővülése miatt keresünk egy tapasztalt Virtualizációs Rendszermérnököt, aki betanítás nélkül be tud kapcsolódni a munkába.
+Várják jelentkezésed az alábbi munkakörbe:
+MEDIOR VIRTUALIZÁCIÓS RENDSZERMÉRNÖK
+Miről szól a munka:
+Banki környezetben, nagyvállalati VMware és Hyper-V alapú virtualizációs infrastruktúrák üzemeltetésében és fejlesztésében veszel részt. A szerepkörben – a napi üzemeltetés mellett – automatizációs projekteket vezetsz, kapacitásmenedzsmenttel foglalkozol és fejlesztési feladatokban is aktív szerepet kapsz, szoros együttműködésben más üzemeltetési csapatokkal.
+Feladatok:
+VMware, Microsoft Hyper-V és VDI környezetek üzemeltetése és fejlesztése
+Automatizáció és riportálás PowerCLI és PowerShell segítségével
+Incidens-, változás- és problémakezelési feladatok ellátása
+Rendszerfrissítések és biztonsági (hardening) beállítások elvégzése
+Kapacitás- és erőforrás-gazdálkodás
+Virtuális gép igények kezelése, együttműködés a társterületekkel
+Dokumentációk készítése, audit támogatás és készenléti részvétel
+Részvétel fejlesztési projektekben, kapcsolattartás partnerekkel
+Új technológiák követése és bevezetésének támogatása
+Az állás betöltéséhez szükséges:
+Informatikai felsőfokú végzettség, vagy legalább 3 év tapasztalat virtualizációs és infrastruktúra üzemeltetési területen
+Tapasztalat VMware és/vagy Microsoft Hyper-V környezetek üzemeltetésében
+PowerCLI és/vagy PowerShell szkriptelési gyakorlat
+Nagyvállalati IT infrastruktúra ismeret
+Kommunikációképes angol nyelvtudás szóban és írásban
+Precíz dokumentációs szemlélet, jó kommunikációs és együttműködési készség
+Rugalmasság és terhelhetőség
+Előnyt jelent:
+Adatközponti szerver- és tárolórendszerek üzemeltetési tapasztalata
+IBM PowerVM ismeret
+ITIL módszertan ismerete
+Pénzintézeti környezetben szerzett tapasztalat
+Amit a szerep kínál:
+Stabil, nagyvállalati banki környezet és hosszú távú együttműködés
+Komplex, magas rendelkezésre állású rendszereken való munkavégzés
+Változatos feladatkör: üzemeltetés, automatizáció és fejlesztési projektek
+Szakmai fejlődési lehetőség modern virtualizációs technológiák mentén
+Versenyképes, a tapasztalatnak megfelelő kompenzáció
+Munkaidő:
+hétfőtől péntekig 9:00–17:00 között
+Munkavégzés helye:
+Budapest – heti 2 nap irodai jelenléttel
+Jelentkezés:
+Kérjük, küldd el magyar nyelvű szakmai önéletrajzodat a
+„JELENTKEZÉS"
+gombra kattintva.
+A kiválasztási folyamatról:
+A jelentkezéseket önéletrajz alapján értékeljük. Az alkalmas jelöltekkel rövid telefonos egyeztetésre kerül sor, ahol pontosítjuk a szakmai tapasztalatot és a motivációt.
+A jelentkezéssel elfogadod a Beck and Partners Kft.
+[Kattintson a weboldal linkjének megjelenítéséhez]
+adatvédelmi tájékoztatóját
+.

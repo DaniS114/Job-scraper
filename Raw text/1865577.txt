@@ -1,0 +1,42 @@
+AMIBEN SZÁMÍTANAK RÁD:
+Az SAP rendszer stabil működésének biztosítása több telephelyen, különös tekintettel a raktári (WM/EWM) és értékesítési (SD, EDI) folyamatokra, miközben aktívan támogatod az ECC → HANA átállást és a nemzetközi IT együttműködést.
+FELADATAID LESZNEK:
+Az SAP rendszer napi működésének biztosítása és a felmerülő hibák (pl. COGI, készlet- és interfész problémák) önálló kezelése több országot érintően.
+WM/EWM és SD (EDI fókusz) folyamatok támogatása, beleértve az integrációk működésének biztosítását.
+Felhasználói igények és üzleti folyamatok elemzése, valamint ezek kommunikálása a corporate IT felé.
+Incidensek kezelése, dokumentálása, jogosultságkezelés és master data karbantartás.
+Tesztelések koordinálása (SIT/UAT), valamint zárási és leltárfolyamatok támogatása.
+Folyamatos kapcsolattartás nemzetközi csapatokkal, valamint aktív részvétel SAP bevezetési és migrációs projektekben.
+A szerepkör nem tartalmaz ABAP fejlesztést, technikai implementációt, SAP design döntéshozatalt vagy master data ownershipet.
+MITŐL LESZEL IDEÁLIS JELÖLT?
+3–5+ év SAP functional support tapasztalat és magabiztos ECC környezetismeret nemzetközi gyártó környezetből.
+Erős tudás WM vagy EWM területen, valamint SD modulban (EDI fókusz).
+Tapasztalat EDI integrációkban, tesztelésekben (SIT/UAT) és alap integrációs folyamatokban (PP/MM, FI/CO).
+Magabiztos, napi szinten használt angol nyelvtudás.
+Közép- vagy felsőfokú végzettség releváns területen.
+ELŐNYT JELENT, HA:
+SAP HANA / S/4 tapasztalat vagy migrációs projektekben való részvétel
+Data migration eszközök, MES/WMS integráció vagy autóipari környezet ismerete
+Variant configuration vagy traceability tapasztalat
+AMIT ÉRTÉKELNI FOGSZ:
+Nemzetközi működés és több telephely átlátása
+Valódi üzleti hatás és felelősség
+Stabil, de fejlődő környezet HANA átállással
+Szoros együttműködés IT és üzleti oldal között
+Komplex, szakmailag kihívást jelentő problémák
+AMIVEL HONORÁLNAK:
+Szakmai tapasztalathoz illeszkedő alapbér.
+Cafeteria.
+Bejárástámogatás (30 Ft/km vagy 100% bérlet)
+Laptop és mobiltelefon
+Dolgozói kedvezmény program
+Házikönyvtár
+Külső és belső képzések
+Munkavégzés helye:
+Siófok
+Munkaidő:
+8:00 – 16:20, de kötetlen munkarend, Home Office: eseti jelleggel.
+A jelentkezéssel elfogadod a Beck and Partners Kft.
+[Kattintson a weboldal linkjének megjelenítéséhez]
+adatvédelmi tájékoztatóját
+.

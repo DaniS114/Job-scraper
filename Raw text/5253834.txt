@@ -1,0 +1,105 @@
+Senior Rust Developer / Architect
+Antal International s.r.o.
+Místo práce
+Praha, Česko (Pozice umožňuje občasnou práci z domu)
+Druh pracovního poměru
+plný úvazek, živnost
+Mzdové podmínky (brutto)
+200 000 - 250 000 Kč/měsíc
+Informace o pracovním místě
+Náplň práce, pravomoci a zodpovědnosti
+Senior Rust Developer / Infrastructure Engineer (Low-Latency Systems / Web3)
+Pro našeho klienta, technologickou společnost působící v oblasti vývoje výkonných backendových a infrastrukturních řešení, hledáme zkušeného Senior Rust Developera, který se chce podílet na vývoji produktu od základu a mít přímý vliv na jeho architekturu i technické směřování.
+Tým aktuálně pracuje na low-latency službě pro práci s daty a transakcemi, kde je klíčová rychlost, efektivita a stabilita. Řešení je využíváno v prostředích, kde rozhodují milisekundy a vysoký výkon je zásadní.
+Nejedná se o klasickou vývojářskou roli, hledáme člověka, který bude schopen přemýšlet nad architekturou a aktivně se podílet na návrhu řešení, nikoliv pouze implementaci.
+Co Vás čeká?
+• návrh a vývoj vysoce výkonných systémů v jazyce Rust
+• práce na optimalizaci výkonu, latence a efektivity zpracování dat
+• spolupráce na architektuře řešení
+• řešení oblastí jako networking, práce s daty nebo distribuované systémy
+• code review a nastavování technických standardů (performance, security)
+• vývoj produkčního kódu s důrazem na kvalitu, testování a dlouhodobou udržitelnost
+Koho hledáme?
+• silná zkušenost s Rustem a systems programmingem
+• zkušenosti s backend developmentem a API (REST/JSON)
+• orientace v moderním vývoji (Git, CI/CD, code review, Agile)
+• schopnost samostatně řešit komplexní technické problémy
+• seniorní přístup a schopnost přemýšlet nad architekturou
+Výhodou (ne podmínkou)
+• zkušenost s distribuovanými systémy nebo high-performance prostředím
+• znalost networking nebo performance optimalizace
+• zkušenost z prostředí, kde je klíčová nízká latence
+Co od Vás potřebujeme?
+• schopnost dodávat výsledky
+• samostatnost a zodpovědnost
+• reálné technické dovednosti
+• týmová spolupráce a otevřená komunikace
+Co dalšího můžeme nabídnout?
+• práce na technicky náročném a zajímavém produktu s důrazem na výkon a kvalitu
+• přímý vliv na architekturu a technické rozhodování
+• spolupráce v menším, technicky silném týmu (senior architekt + CTO)
+• prostředí bez zbytečné byrokracie
+Prosíme kandidáty, aby k životopisu přiložili také ukázku své práce, například formou odkazu na repozitář na GitHub nebo jiný veřejně dostupný projekt.
+Zaměstnanecké výhody, benefity
+Co dalšího Vás může nalákat?
+25 dní dovolené + sick days
+Jídlo zdarma – včetně avokáda a kombuchy
+Snídaně dvakrát měsíčně – tým se potkává i neformálně
+Notebook na výběr – Mac nebo Windows
+Moderní kanceláře
+Plně hrazená Multisport karta
+Stravenkový příspěvek / Edenred
+Nadstandardní zdravotní péče
+Firemní mobilní tarif
+Jazykové lekce
+Slevy u vybraných partnerů
+Občerstvení na pracovišti
+Společné teambuildingy a jiná neformální setkání
+Možnost spolupráce formou HPP nebo IČO
+Flexibilní režim – hybridní model (3–4 dny kancelář / zbytek remote)
+Společnost, pro kterou je pozice obsazována
+Informační technologie, počítačové programování, webové portály
+Technologická společnost působící v oblasti vývoje výkonných backendových a infrastrukturních řešení.
+Požadavky na zaměstnance
+Pozici vyhovují uchazeči se vzděláním
+vysokoškolské I. stupně
+vysokoškolské II. stupně
+postgraduální
+Jazykové znalosti
+Anglický jazyk - Středně pokročilý (B2)
+a
+Slovenský jazyk - Expert (C2)
+a
+Český jazyk - Pokročilý (C1)
+Ostatní znalosti
+Rust - Expert
+Inzerující společnost
+Stručná charakteristika společnosti
+Společnost Antal je personálně-poradenská agentura zaměřená na nábor specialistů a manažerů. Značka působí ve 35 zemích a v České republice působí od roku 2014.
+Pražská pobočka realizuje projekty v Čechách, na Slovensku i v zahraničí pro největší světové i lokální společnosti z různých odvětví hospodářství.
+Představujeme komplexní balíček náborových a poradenských služeb. Více než 25 let zkušeností nám umožňuje přesně určit potřeby našich klientů v oblasti permanentního náboru, personálního poradenství, průzkumu trhu, outsourcingu, mzdových přehledů a brandingu zaměstnavatelů.
+U každého projektu využíváme individuálně sestavený tým specialistů. A právě díky tomu umíme poskytovat služby na té nejvyšší úrovni a můžeme zaručit dosažení cíle a spokojenost.
+Profesní orientace našich konzultantů z nich činí nejen efektivní náboráře, ale také kvalifikované poradce, kteří mají jedinečné znalosti moderních nástrojů a nejnovějších trendů na trhu práce.
+Kontakt
+Kontaktní osoba: Monika Kolmanová
+E-mail:
+poslat životopis
+Odpovědět na nabídku
+Doporučit nabídku známému
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253834
+Dátum zverejnenia:
+19.3.2026
+2026-03-19
+lokalita:
+Praha
+Pozícia:
+IT architekt
+Spoločnosť:
+Antal International s.r.o.
+Základná zložka mzdy (brutto):
+200 000 Kč/měsíc

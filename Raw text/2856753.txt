@@ -1,0 +1,106 @@
+Cég neve
+BaseLinker s.r.o
+Munkavégzés helye
+Hibrid
+•
+1013 Budapest, Clark Ádám tér 1.
+Fizetés
+Br.
+2 400 - 3 200 Euro havi bér
+Számolja ki a nettó fizetést bérkalkulátorunkkal!
+Bérkalkulátor
+Kis türelmet...
+Egyéb juttatások
+Szakmai tréningek
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Vállalkozói
+Alkalmazotti jogviszony
+Rugalmas munkaidő
+Biztosított eszközök
+Laptop
+Elvárások
+Angol felsőfok és
+Magyar felsőfok
+3-5 év tapasztalat
+Főiskola
+
+Szakmai
+tréningek
+Teljes
+munkaidő
+Vállalkozói
+Alkalmazotti
+jogviszony
+Rugalmas
+munkaidő
+Laptop
+Angol
+felsőfok és Magyar felsőfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Feladatok
+Üdv a Base-nél!
+Szeretnél hozzájárulni valami igazán menő dolog növekedéséhez, és otthon vagy az e-kereskedelem világában? Értesz az IT-hoz és a tech stackhez, átlátod a termék működését, tudod mi az a SAAS, képes vagy önállóan megoldani helyzeteket? Szereted mindezt kötetlenül, lokációtól függetlenül végezni? Akkor lehet, hogy megtaláltad a számodra álommelót!
+Mi vagyunk a Base (vagy korábban BaseLinker), egy globálisan működő startup, ahol közösen fejlesztjük a Base SAAS alkalmazást. Ez a platform az e-commerce cégeket segíti a gyors növekedésben, költségcsökkentésben és hatékony működésben. Például több, mint 300 piactérhez tudjuk csatlakoztatni a webshopokat, automatizáljuk a rendeléskezelést, számlázást, ügyfélkommunikációt és szállítást, akár 180 országból. És ez még csak a kezdet!
+A közép-európai régióban piacvezetők vagyunk, több mint 35 000 elégedett ügyféllel.
+Csatlakozol hozzánk?
+Olyan tapasztalt kollégát keresünk, aki ügyfeleinkkel együttműködve végzi el a Base rendszer bevezetését és testreszabását az adott IT környezetre. Mivel a rendszerünk egy e-commerce ERP, amely több, mint 1700 integrációval dolgozik, gyakorlatilag nincs két egyforma implementáció.
+Ebben a szerepben te leszel az, aki válaszol az ügyfelek kérdéseire, személyre szabja számukra a rendszert, segít az adatminőség kialakításában és eléri, hogy az ügyfél a végén tényleg elégedett legyen.
+Az implementációs guru feladatai:
+Ügyféltalálkozók, egyeztetések lebonyolítása a szerződéskötés után, az implementációhoz szükséges információk és adatok összegyűjtésére.
+Költség- és időbecslések készítése az ügyfél számára.
+A rendszer beállítása és testreszabása az egyedi igények alapján: adatbázisokkal, integrációkkal, kapcsolódó komponensekkel.
+Ha valami nem megoldható a meglévő funkciókkal, akkor megoldási lehetőségek keresése akár egy workaround, akár fejlesztési javaslat formájában.
+Hiányzó funkciók programozása az ügyfél igénye szerint.
+IT ticketek rögzítése, a szükséges új fejlesztésekhez.
+Folyamatos kapcsolattartás az ügyféllel, visszajelzések bekérése, jóváhagyások kezelése.
+A platform auditálása, működésének ellenőrzése.
+Az ügyfél edukálása a Base hatékony használata kapcsán.
+És még sok más érdekes feladat, ami épp aktuális lesz.
+Elvárások
+Amit tőled várunk
+Releváns tapasztalat e-commerce területen.
+Kiváló kommunikációs és elemző készségek – különösen fontos a hibátlan, anyanyelvi szintű magyar nyelvtudás.
+Kommunikációképes angol nyelvismeret, hiszen Base-en belül angolul kommunikálunk
+Preferáltan tapasztalat implementációs szakértői munkakörben.
+Magas szintű számítógépes ismeretek, és képesség új szoftverek gyors elsajátítására.
+Proaktív, megoldásorientált szemlélet és kitartás a feladatok teljes körű, sikeres lezárásáig.
+Tech stack ismeret, fejlesztési tapasztalat. Előnyt jelent a PHP ismerete.
+Pozitív hozzáállás másokhoz, önállóság és csapatban való együttműködés képessége.
+Elhivatottság, felelősségteljes hozzáállás, precizitás, valamint képesség hatékony távmunka végzésére.
+Előnyt jelent
+Amit külön örömmel veszünk
+Jó időgazdálkodás, feladatpriorizálás és szervezőkészség.
+Minél több nyelvet beszélsz, annál jobb!
+Vállalkozói háttér, egyedi szakmai tapasztalat vagy különleges érdeklődési körök.
+IT fejlesztési tudás, programozási nyelvek ismerete.
+Amit kínálunk
+És akkor most jöjjön a lényeg – miért fogod imádni ezt a munkát?
+Távmunka alapú együttműködést kínálunk (Slack, Zoom stb.-t használunk a napi munkához),
+Rugalmas munkaidő és lokáció: te döntöd el, mikor és honnan dolgozol: otthonról, kávézóból, nyaralóból, vagy akár a tengerpartról.
+2400 – 3200 EUR közötti havi díjazás, a tapasztalatod és képességeid alapján.
+Egy különleges projekt részese leszel, amit naponta több ezer cég használ és robbanásszerűen növekszik világszerte.
+Egy szuper csapat tagja lehetsz: ambiciózus, barátságos emberek, jó humorérzékkel és közös célokkal.
+Minden nap tanulhatsz valami újat, első kézből láthatod az e-commerce fejlődését.
+A további juttatásokban is rugalmasak vagyunk, mert számunkra a munkavállaló elégedettsége az alfa és az omega!
+Megfogott? Szuper, jelentkezz hozzánk és ismerjük meg egymást!
+Várjuk jelentkezésed!
+Céginformáció
+Több mint 31 000 e-kereskedő választotta már a Base.com all-in-one e-kereskedelmi menedzsment rendszerét a hatékony többcsatornás értékesítés megvalósításához. Rendszerünk egyesíti mindazt, amire egy modern e-commerce vállalkozásnak szüksége van: fejlett rendeléskezelés, valós idejű készletszinkronizáció és automatizált piactér menedzsment.
+Jelentkezés módja
+Kérlek jelentkezésedhez csatold
+angol
+nyelvű önéletrajzodat.
+Jelentkezem
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Rendszerintegrátor
+Budapest
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,136 @@
+O nás
+Pracovné pozície
+Benefity
+IT & Network
+Data Scientist (GenAI & Agentic Systems)
+Mám záujem
+Mzdové podmienky
+Od 2 200 EUR/mesiac
+Druh pracovného pomeru
+plný úväzok
+Mesto
+Bratislava
+Za tvoju prácu ťa odmeníme:
+Uvedená mzda predstavuje minimálne platové ohodnotenie, na finálnej sume sa dohodneme spoločne a rozhodujúce budú Vaše skúsenosti a seniorita v oblasti LLM/GenAI. Okrem mzdy Vám ponúkame aj atraktívne výkonnostné bonusy (podľa splnených cieľov).
+Späť na pozície
+Aká bude tvoja rola?
+Hľadáme odborníka, ktorý nezostane len pri trénovaní modelov, ale posunie naše AI riešenia o úroveň vyššie. Pridáj sa k tímu v momente, keď štartujeme nový strategický projekt vývoja RAG chatbotov a autonómnych agentických systémov.
+Nebudeš len „analyzovať dáta“. Budeš architektom inteligentných systémov na Google Cloud Platform (GCP), ktoré budú reálne komunikovať, rozhodovať sa a vykonávať akcie. Tvojou úlohou bude prepojiť svet klasického Data Science s najnovšími trendmi v Generative AI.
+Čo bude tvojou náplňou práce?
+GenAI & Agentic Systems Development:
+Dizajnovať a implementovať pokročilé RAG (Retrieval-Augmented Generation) aplikácie a agentické systémy, ktoré dokážu autonómne riešiť úlohy.
+Orchestrácia LLM:
+Využívať frameworky ako LangChain a LangGraph na stavbu komplexných tokov (flows), kde AI nielen odpovedá, ale aj koná (volá API, hľadá v databázach, spracováva dokumenty).
+Production-Grade AI:
+Nasadzovať tieto riešenia do produkcie v prostredí GCP (Vertex AI), monitorovať ich výkon cez LangSmith a optimalizovať ich presnosť a cenu (token usage).
+Core Data Science:
+Stále budeš potrebovať silný základ – príprava dát, tvorba embeddingov, práca s vektorovými databázami a klasické ML modely tam, kde LLM nie je efektívne.
+Spolupráca:
+Byť technickým lídrom v diskusiách o tom, ako využiť AI na automatizáciu interných procesov a zlepšenie zákazníckej skúsenosti.
+Koho hľadáme?
+Nehľadáme len teoretika, ale „buildera“ – niekoho, kto rád stavia funkčné riešenia.
+Technické zručnosti: Must-have skills
+Data Science & ML Background:
+Štatistika a matematika sú tvojou silnou stránkou. Knižnice pandas a numpy ovládaš na expertnej úrovni – nepíšeš len funkčný kód, ale optimalizované a vektorizované riešenia pre veľké objemy dát. Princípy strojového učenia (regresia, klasifikácia, clustering) a validácie modelov ovládaš do hĺbky.
+Python Master:
+Pokročilá znalosť Pythonu je nutnosť. Musíš vedieť písať čistý, modulárny a otestovaný kód. (OOP, type hinting, async).
+SQL & Dáta:
+Vieš si nielen vytiahnuť dáta, ale aj navrhnúť efektívne query a pipelines pre ich spracovanie.
+Analytické myslenie:
+Vieš rozložiť komplexný biznis problém na technické riešenie a rozhodnúť, kedy použiť klasické ML a kedy GenAI.
+Výhodou: Čo ťa dostane na pohovor prednostne :
+GenAI Stack:
+Máš praktickú skúsenosť s LangChain alebo LangGraph. Vieš, čo je to chain, agent, tool calling alebo memory.
+RAG Architektúra:
+Rozumieš, ako funguje vektorové vyhľadávanie (Vector DBs ako Chroma, Pinecone alebo PGvector), chunkovanie textu a tvorba embeddingov.
+GCP & Vertex AI:
+Orientuješ sa v ekosystéme Google Cloud, ideálne máš skúsenosti s nasadzovaním modelov cez Vertex AI.
+LLM Ops:
+Počul/a si o LangSmith alebo iných nástrojoch na evaluáciu a tracing LLM aplikácií.
+Prečo práve tento projekt?
+Cutting-edge Tech:
+Nebudeš udržiavať staré legacy kódy. Dostaneš sa k technológiám, ktoré sa na trhu ešte len etablujú (Agentic workflows, Multi-agent systems).
+Reálny dopad:
+Tvoje chatboty a agenti nebudú len hračky do šuflíka, ale budú nasadené pre tisíce používateľov alebo na automatizáciu kľúčových procesov v Orangei.
+Vzdelávanie:
+Podporíme ťa v certifikáciách (GCP) a dáme ti priestor na experimentovanie s novými modelmi (Gemini, GPT-4, Claude).
+Prečo pracovať u nás?
+Flexibilná pracovná doba
+a možnosť čiastočného
+Home Office
+8 dní dovolenky navyše
+10 dní
+kompenzácia PN/OČR
+Deň voľna na dobročinnú aktivitu
+a
+Svadobné voľno
+Holiday Office
+ti umožní pracovať 12 dní na diaľku aj z iných krajín
+Sabbatical
+v prípade potreby väčšieho množstva oddychu
+Parkovanie pre zamestnancov
+350 €
+na
+smartphone
+podľa vlastného výberu každé 2 roky
+900 €
+ročne v
+Benefit Plus
+napr. na dovolenku, elektroniku, knihy alebo ako príspevok na DDS
+MultiSport karta
+Neobmedzený paušál
+na pracovné aj súkromné účely
+Zvýhodnená ponuka
+našich služieb pre teba a tvojich blízkych
+100 % hradené
+stravné (6,60 €/deň)
+Využi
+zamestnanecké zľavy
+na nákup produktov a služieb u našich partnerov
+Odmena
+až do výšky
+2 000 €
+za odporúčanie svojich známych na naše voľné pracovné pozície
+Podpora vzdelávania
+pre kariérny aj osobnostný rast prostredníctvom školení a konferencií
+Psychologické poradenstvo
+pre teba a tvojich blízkych
+Prihlásiť sa na pozíciu
+Benefity
+Zobraziť všetky
+5 dní dovolenky navyše
+Doprajeme ti voľno nad rámec zákona, aby si mal/a viac času na seba a svojich blízkych.
+Narodeninové voľno
+V mesiaci svojich narodenín môžeš u nás čerpať deň voľna bez ohľadu na zostatok dovolenky.
+2 dni voľna na regeneráciu
+Dovolenka minutá, no potrebuješ ešte oddych? K dispozícii dostaneš ďalšie 2 dni voľna na regeneráciu.
+O výberové konanie sa postará
+Zuzana Krześniak
+Recruiter
+recruitment.sk@orange.com
+Objav naše
+atraktívne benefity
+Späť
+na hlavnú stránku
+Spojte sa s nami
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253206
+Dátum zverejnenia:
+18.3.2026
+2026-03-18
+lokalita:
+Bratislava
+Pozícia:
+Databázový administrátor
+,
+Databázový analytik
+Spoločnosť:
+Orange Slovensko, a.s.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

@@ -1,0 +1,143 @@
+Cég neve
+Ruhr-Universität Bochum
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+NETWORK
+HARDWARE
+PYTHON
+C
+C++
+JAVA
+SECURITY
+.HTML.
+PROJECT MANAGEMENT
+MACHINE LEARNING
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+NETWORK
+HARDWARE
+PYTHON
+C
+C++
+JAVA
+SECURITY
+.HTML.
+PROJECT
+MANAGEMENT
+MACHINE
+LEARNING
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+·
+Research and Development
+:
+o Design and evaluate distributed learning algorithms that operate across heterogeneous nodes, exploring model splitting, collaborative inference, and adaptive training strategies.
+o Investigate privacy-preserving and energy-efficient learning mechanisms and study the co-design of AI models and network architectures
+o Prototype and experimentally validate the proposed solutions on edge-cloud platforms and mobile network infrastructures, with results published in top-tier venues at the intersection of AI systems and networking.
+·
+Collaboration
+: Work collaboratively with cross-functional teams, including hardware engineers (m/f/x), software developers (m/f/x), and other researchers (m/f/x) to integrate AI solutions with network and cloud infrastructure.
+·
+Publication and Presentation
+: Publish research findings in high-impact journals and present at international conferences and symposiums to disseminate knowledge and advance the field.
+·
+Project Management
+: Assist in the management of research projects, including the preparation of reports, grant proposals, and progress updates.
+·
+Teaching Assistance
+: Help with teaching courses related to clouds and networks, contributing to curriculum development and providing support to students (m/f/x).
+·
+Event Organization
+: Support the organization of online webinars, events, workshops, and conferences related to the Chair's activities.
+Requirements
+Your profile:
+·
+Education:
+o above-average Master's degree in machine learning, computer science, or a related field.
+o initial experience in publications in renowned transactions, journals, and the proceedings of reputable conferences are desirable
+·
+Technical Skills:
+o Strong background in machine learning and AI methodologies, distributed or federated learning
+o Good analytical skills and expertise in programming languages (Python, C/C++, Java), AI/ML frameworks (e.g., PyTorch, JAX), network simulators (e.g., ns-3, OMNeT++), and hardware development (e.g., FPGA, embedded systems).
+o Knowledge of 5G and beyond technologies, edge computing, etc is highly desirable.
+o Ability to independently design, execute, and analyse experimental research.
+·
+Soft Skills:
+o Excellent problem-solving skills and analytical thinking.
+o Strong written and verbal communication skills in English.
+o Ability to work both independently and as part of a multidisciplinary team.
+·
+Preferred Qualifications:
+o Experience in real-time systems and edge computing.
+o Familiarity with AI-driven network management and orchestration.
+o Knowledge of security and privacy issues in wireless communications.
+The campus languages are German and English. Competence in at least one of the two languages and the willingness to learn the other are a prerequisite.
+What we offer
+Scope:
+full-time
+Duration:
+fixed-term, 3 years
+Start:
+at the earliest possible date
+Apply by:
+2026-03-23
+We offer:
+Challenging and varied tasks with a high level of independence
+Employment at one of the largest universities in Germany within the University Alliance Ruhr
+Collaboration in a committed and appreciative team
+A varied sports program with around 100 sport disciplines and the university's own gym
+A job in the heart of the lively Ruhr metropolitan region with its diverse cultural offerings
+Engaging and challenging tasks with significant responsibility in a cutting-edge research environment.
+Extensive training and professional development opportunities.
+Discounts on local transportation services, bicycle programs, and sports facilities.
+Flexible working arrangements including mobile and teleworking options.
+Collaborative and supportive team culture within a friendly work environment.
+the opportunity for further academic qualification
+Further information:
+The position is salaried and based on the collective agreement of the Länder (TV-L).If the personal and collective agreement requirements are met, the employee will receive pay grade E13 TV-L.
+Further information can be found at
+(in German).
+The place of work is Ruhr University Bochum.
+The load of teaching will be calculated according to § 3 of Lehrverpflichtungsverordnung (state of North Rhine-Westphalia).
+RUB provides corresponding free courses for employees.
+German language courses are offered by the University Language Center (ZFA) in the field of German as a Foreign Language (DaF).
+The Staff Council has the right to participate in all selection interviews. At the request of a candidate (m/f/x), it will ensure its participation in the entire procedure.
+The Ruhr-Universität Bochum stands for diversity and equal opportunities. For this reason, we favour a working environment composed of heterogeneous teams, and seek to promote the careers of individuals who are underrepresented in our respective professional areas. The Ruhr-Universität Bochum expressly requests job applications from women. In areas in which they are underrepresented they will be given preference in the case of equivalent qualifications with male candidates. Applications from individuals with disabilities are most welcome.
+Company info
+In order to fill a fixed-term position in full-time (39.83 hours/week = 100%) at the earliest possible date, we are looking for a
+Researcher (m/f/x) in Distributed Intelligence and Learning Across the Cloud-Edge Continuum
+The Institute of Networked Energy-Efficient Systems is dedicated to advancing autonomous, energy-efficient cloud-based networks that support cutting-edge services and innovations. We are assembling a talented international team committed to pioneering research and teaching in this dynamic field.
+We are looking for a highly motivated researcher (m/f/x) to explore how intelligence itself can be distributed, coordinated, and optimized across devices, edge nodes, and cloud infrastructures. The position addresses the fundamental question of how learning and inference should be embedded inside future networked systems. The researcher will develop novel paradigms for distributed, federated, and continual learning tailored to highly dynamic, resource-constrained, and privacy-sensitive environments. The work aims to tightly integrate learning processes with network and system behavior.The researcher (m/f/x) will join the Institute of Networked Energy-Efficient Systems at the Faculty of Electrical Engineering and Information Technology, Ruhr University Bochum.
+The Ruhr-Universität Bochum is one of Germany's leading research universities, addressing the whole range of academic disciplines. A highly dynamic setting enables researchers and students to work across the traditional boundaries of academic subjects and faculties. To create knowledge networks within and beyond the university is Ruhr-Universität Bochum's declared aim.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Germany
+Álláshirdetés jelentése

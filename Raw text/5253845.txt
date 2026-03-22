@@ -1,0 +1,124 @@
+AI / Machine Learning Engineer – Neuromorphic Computing
+Bizzcom s.r.o.
+Place of work
+Remote work
+Contract type
+full-time
+Start date
+by agreement
+Wage (gross)
+4 000 EUR/month
+The salary increases proportionally with the candidate's experience, and the amount stated is the minimum threshold.
+Information about the position
+Job description, responsibilities and duties
+We are looking for an experienced AI / Machine Learning Engineer who will help us develop and adapt neural network models for novel hardware architectures, including memristor-based and neuromorphic systems.
+The role sits at the intersection of machine learning, hardware-aware AI optimization and emerging computing paradigms.
+You will work closely with electronics engineers, microelectronics technologists and researchers developing next-generation computing architectures.
+This role focuses on core machine learning and hardware-aware AI research, not on building applications around existing AI APIs or prompt-engineering workflows.
+What you will work on
+Development, training and evaluation of neural network models for research and applied projects
+Adaptation and optimization of AI models for non-standard hardware architectures
+Exploration of neuromorphic computing approaches and spiking neural networks
+Cooperation with hardware teams working on memristor-based devices and in-memory computing
+Implementation and evaluation of ML workloads on GPU/CUDA platforms
+Experimentation with new AI paradigms relevant for low-power and hardware-efficient AI
+Preparation of technical materials for international research projects (IPCEI, Horizon Europe)
+Internal knowledge sharing and mentoring of colleagues
+Required skills and experience
+Strong background in machine learning and neural networks
+Practical experience with training and optimization of ML/DL models
+Solid understanding of linear algebra, probability, statistics and optimization
+Experience with PyTorch or TensorFlow
+Strong programming skills in Python
+Experience with GPU computing (CUDA or similar) and understanding of AI workloads on modern hardware
+Ability to analyze model performance and optimize training and inference
+Highly desirable
+Experience with hardware-aware machine learning
+Knowledge of neuromorphic computing
+Experience with spiking neural networks
+Understanding of memristive devices or in-memory computing concepts
+Experience with C++ or other low-level programming languages
+Experience collaborating with hardware or semiconductor teams
+Research background (PhD or equivalent experience)
+Employee perks, benefits
+Opportunity to work on next-generation AI hardware concepts
+Collaboration with international research teams
+Participation in European research projects (IPCEI, Horizon Europe)
+Small team where you can influence the direction of research and development
+Modern and comfortable work environment with an informal company culture.
+Flexibility to work both onsite and offsite, depending on your preference and project requirements
+Company-wide events and regular team breakfasts.
+Multisport card.
+A meal allowance of €5.30 and the option to dine in the company canteen for €6.
+A contribution for work and life anniversaries ranging from €50 to €300.
+Referral program – a bonus of up to €500 for successful referrals.
+A motivating annual reward for good company performance.
+Single-shift operations and flexible working hours.
+Free parking on-site.
+If needed, accommodation on-site at discounted rates.
+Information about the selection process
+If you're interested in our job offer, please send us your CV. We will invite shortlisted candidates for an interview.
+Company on whose behalf the position is being filled
+Electrical industry
+Automation, digitization, innovation.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+Information technology
+Language skills
+English - Advanced (C1)
+Driving licence
+B
+Experience in the position/sector
+Minimum 5 years of experience in the relevant field
+Number of years of experience
+5
+Personality requirements and skills
+Curiosity & Innovation: A natural curiosity to explore new AI and machine learning paradigms, with a strong drive to innovate, particularly in the intersection of AI and hardware.
+Problem-Solving Mindset: Ability to approach complex, interdisciplinary problems and think critically to develop novel solutions in AI and hardware integration.
+Collaborative: A strong team player, able to work effectively with engineers, technologists, and researchers from various disciplines.
+Mentoring & Knowledge Sharing: Willingness to mentor and share knowledge with colleagues, helping to elevate the team's technical capabilities.
+Adaptability: Ability to adapt to rapidly evolving technologies and an ever-changing landscape in AI and hardware design.
+Attention to Detail: Strong focus on precision and rigor when it comes to model development, optimization, and evaluation.
+Advertiser
+Brief description of the company
+We are a Slovak company with over 18 years of experience in automation and robotics. Currently, we are launching our own R&D department and projects in microelectronics and the space industry. We’ve completed more than 1,000 projects across Europe and beyond, primarily focused on prototype lines and equipment for the automotive, food, and pharmaceutical industries.
+Our office is located in Bučany, where we work in a modern, family-friendly environment. We currently employ around 90 people.
+Number of employees
+50-99 employees
+Contact
+Contact person: Mgr.  Júlia Slanicay
+Tel.:
++421911726142
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253845
+Dátum zverejnenia:
+19.3.2026
+2026-03-19
+lokalita:
+Remote work
+Pozícia:
+AI Specialist
+,
+C++ Programmer
+,
+Data Analyst
+,
+Database Analyst
+,
+Software Engineer
+Spoločnosť:
+Bizzcom s.r.o.
+Základná zložka mzdy (brutto):
+4 000 EUR/month

@@ -1,0 +1,110 @@
+Vývojár webových aplikácií so zameraním na AI
+KROS a.s.
+Miesto práce
+Einsteinova, Petržalka, Slovensko, Bratislava (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+1 600 - 3 800 EUR/mesiac
+Odmena je na dohode na základe tvojich skúseností a schopností.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Hľadáme vývojára, ktorý sa bude podieľať na tvorbe a rozvoji webových aplikácií. Budeš pracovať na moderných riešeniach postavených na technológiách .NET, C#, ASP.NET a MSSQL a zároveň vo veľkej miere využívať umelú inteligenciu na zrýchlenie vývoja, návrh riešení aj zefektívnenie každodennej práce.
+Tvojou náplňou bude najmä:
+​vývoj a      údržba webových aplikácií pre CENEKON v prostredí .NET, C# a ASP.NET,
+návrh a implementácia nových funkcionalít s dôrazom na kvalitu, spoľahlivosť a dlhodobú udržateľnosť riešení,
+aktívne      využívanie AI nástrojov pri vývoji softvéru, návrhu architektúry,      generovaní pomocných riešení a automatizácii rutinných činností,
+kontrola,      validácia a zodpovedné posudzovanie kvality kódu vytvoreného pomocou AI,
+priebežné      zlepšovanie kvality kódu, refaktoring a nastavovanie štandardov pre      efektívne používanie AI vo vývoji,
+spolupráca      pri code review a zdieľanie skúseností v tíme,
+práca s      databázou MSSQL a podpora integrácie backendových služieb,
+práca s      GIT-om, build pipeline-mi a DevOps procesmi,
+sledovanie trendov v oblasti umelej inteligencie a prinášanie nových možností ich praktického využitia do vývoja produktov.
+Sme seriózna, no nie vážna firma a humor, vzájomnú pomoc a spoluprácu má v náplni každý z nás. :-)
+Zamestnanecké výhody, benefity
+Čo ti ponúkame:​
+Firemnú kultúru, kde platia dohody a zamestnanci sú na prvom mieste
+Prácu na riešeniach značky, ktorá napreduje
+Flexibilný pracovný čas a možnosť hybridnej práce (nie fully remote)
+Veríme si, preto z návštevy lekára nepotrebuješ nosiť potvrdenia a papieriky
+Skvelý tím ľudí, s ktorými sa budeš tešiť do práce
+Príjemné pracovné prostredie v Bratislave
+Podpora v ďalšom vzdelávaní a rast v rámci firmy
+Firemné benefity – od športových aktivít cez teambuildingy až po kávu a čaj v kuchynke​​​​
+Informácie o výberovom konaní
+Ak máš záujem uchádzať sa o pracovnú pozíciu, pošli nám svoj životopis.
+Na termíne nástupu sa vieme dohodnúť. Po nástupe dostaneš od nás plnú podporu a zaškolenie, nebudeš na to sám. Ak na sebe budeš pracovať, firma ti to vráti ;)
+Všetkým uchádzačom ďakujeme za prejavený záujem!
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Jazykové znalosti
+Anglický jazyk - Mierne pokročilý (B1)
+Počet rokov praxe
+2
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Očakávame, že máš:
+skúsenosti      s vývojom webových aplikácií, ideálne v .NET, C# a ASP.NET,
+skúsenosti      s databázou MSSQL,
+znalosť      práce s GIT-om,
+orientáciu      v DevOps prístupoch a vývojovom procese,
+analytické      a algoritmické myslenie,
+schopnosť      navrhovať praktické a elegantné riešenia,
+zodpovedný      prístup ku kvalite kódu a ochotu overovať výstupy generované AI,
+orientáciu      v oblasti umelej inteligencie a aktívny záujem sledovať nové AI trendy a      nástroje,
+schopnosť      efektívne využívať AI pri vývoji bez straty dôrazu na bezpečnosť, kvalitu      a udržateľnosť riešení,
+tímového      ducha a chuť spolupracovať s ostatnými členmi tímu.
+Výhodou je
+znalosť      Angularu,
+skúsenosť      s prácou v DevOps prostredí,
+praktická      skúsenosť s AI coding asistentmi a nástrojmi na automatizáciu vývoja,
+skúsenosť      s databázami a návrhom backendových služieb,
+záujem      o moderné vývojové trendy a ich aplikáciu v praxi.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Práca je neoddeliteľnou súčasťou nášho života. Aby sme boli v práci spokojní, musíme sa v nej cítiť dobre.
+Je dôležité mať možnosť spoľahnúť sa na kolegov, pracovať v príjemnej a radostnej atmosfére. Nevyhnuté je aj vidieť zmysel našej práce. Každý deň nás musí napĺňať, a to nielen profesionálne, ale aj osobnostne.
+V KROS veríme, že spokojný zamestnanec je základom úspešnej firmy.
+Vytvárame priestor, ktorý podporuje napredovanie zamestnancov a zároveň dbá na rovnováhu medzi pracovným a osobným životom.
+Vďaka tomu môžu zamestnanci zažívať krásu napredovania.
+Dlhé roky sme lídrom v oblasti ekonomického, stavebného a znaleckého softvéru na Slovensku. Od roku 1995 nám dôveruje viac ako 95 000 zákazníkov.
+Vo "firemnej rodine" nás je cez 260 a stále máme rovnakých slovenských majiteľov, ktorí sú s nami od začiatku. KROS nikdy nespí. Neustále hľadáme nové biznisové príležitosti na trhu, modernizujeme technológie a agilný prístup, presúvame produkty do cloudu a mobilných zariadení. Spolu s majiteľmi chceme vytvoriť 100 ročnú “happiness driven company”.
+Žijeme hodnotami: ľudskosť, rovnováha, hodnota.
+Počet zamestnancov
+200-249 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Monika Schestágová
+Tel.:
++421915983441
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5253947
+Dátum zverejnenia:
+19.3.2026
+2026-03-19
+lokalita:
+Bratislava
+Pozícia:
+.NET programátor
+,
+Backend programátor
+,
+C# programátor
+,
+Frontend programátor
+,
+Programátor
+Spoločnosť:
+KROS a.s.
+Základná zložka mzdy (brutto):
+1 600 EUR/mesiac
