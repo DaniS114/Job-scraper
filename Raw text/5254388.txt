@@ -1,0 +1,114 @@
+Referent - IT (m/ž) na referáte IT,  Mesto Nitra
+Mesto Nitra
+Miesto práce
+Štefánikova trieda 60, Nitra
+Druh pracovného pomeru
+plný úväzok
+Termín nástupu
+dohodou
+Mzdové podmienky (brutto)
+Od 1 600 EUR/mesiac
+Mzdové ohodnotenie: minimálna zmluvná mzda predstavuje sumu od 1600,00 EUR, (brutto/mesačne), v závislosti od kvalifikácie a skúseností uchádzača v súlade s Poriadkom odmeňovania zamestnancov Mesta Nitra a platnou Kolektívnou zmluvou.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Informácie o pracovnom mieste:
+Správa infraštruktúry
+: Inštalácia, konfigurácia a údržba serverov (fyzických aj virtuálnych) a úložísk dát.
+Monitoring a optimalizácia
+: Neustále sledovanie výkonu systémov, identifikácia úzkych hrdiel a zvyšovanie efektivity.
+Bezpečnosť a zálohovanie
+: Implementácia bezpečnostných politík, pravidelné aktualizácie (patching) a správa zálohovacích riešení (napr. Veeam).
+Správa používateľov
+: Riadenie prístupových práv a identít, typicky prostredníctvom Active Directory.
+Cloudové služby
+: Znalosť cloudových služieb, ako Microsoft 365 a Azure.
+Operačné systémy
+: Pokročilá znalosť Windows Server alebo distribúcií Linux (napr. Red Hat, Ubuntu).
+Virtualizácia
+: Skúsenosti s platformami ako VMware vSphere, Microsoft Hyper-V alebo cloudovými službami (Azure, AWS).
+Sieťové technológie
+: Základná až stredná znalosť TCP/IP, DNS, DHCP, VPN a konfigurácie sieťových prvkov.
+Skriptovanie
+: Schopnosť automatizovať rutinné úlohy pomocou PowerShell, Bash alebo Pythonu.
+Databázy
+: Základná správa SQL serverov (MSSQL, MySQL, PostgreSQL).
+Zamestnanecké výhody, benefity
+Čo ti ponúkame?
+prácu, ktorá má zmysel pre mesto a skvalitnenie služieb mesta v oblasti IT
+príjemný tím kolegov, ktorí ťa posunie ďalej
+peňažné benefity: odmeny a iné benefity v súlade s Kolektívnou zmluvou, 13 plat
+príspevok do DDS
+príspevok na stravovanie
+nefinančné benefity: + 1 týždeň dovolenky nad rámec Zákonníka práce
+2 dni voľna v kalendárnom roku na regeneráciu pracovnej sily
+zvýhodnené vstupy do mestskej plavárne, sauny a na kúpalisko
+tímbuildingové aktivity
+stabilné sociálne prostredie
+možnosť vzdelávať sa
+Informácie o výberovom konaní
+Zoznam požadovaných dokladov:
+- žiadosť o zaradenie do výberového konania
+- profesijný životopis s uvedením trvania pracovného obdobia
+- motivačným list
+- čestné vyhlásenie o bezúhonnosti
+- čestné vyhlásenie o ukončení najvyššieho dosiahnutého vzdelania
+- písomný súhlasom so zverejnením a spracovaním osobných údajov v zmysle zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v znení neskorších predpisov na účel výberového konania.
+Vopred ďakujeme všetkým uchádzačom za prejavený záujem, kontaktovať budeme len kandidátov, ktorí spĺňajú požadované kritéria a zašlú kompletné doklady podľa zoznamu.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+Vzdelanie v odbore
+technické zameranie:  informatika, IT systémy, elektrotechnika
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+Ostatné znalosti
+Ubuntu Server - Pokročilý
+Linux - Pokročilý
+VMware vSphere - Mierne pokročilý
+Microsoft Hyper-V - Pokročilý
+Google Cloud Platform - Pokročilý
+TCP/IP - Pokročilý
+DNS - Domain Name System - Mierne pokročilý
+DHCP - Dynamic Host Configuration Protocol - Mierne pokročilý
+VPN - Mierne pokročilý
+Python - Mierne pokročilý
+SQL - Mierne pokročilý
+Prax na pozícii/v oblasti
+IT alebo informačné systémy; pri VŠ I. stupňa - prax 4 roky, pri VŠ II. stupňa-prax 2 roky
+Počet rokov praxe
+2
+Osobnostné predpoklady a zručnosti
+-samostatnosť a proaktívny prístup
+-zvládanie stresu
+-časová disponibilita
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Miestna samospráva.
+Mesto Nitra je samostatný územný samosprávny a správny celok Slovenskej republiky; združuje osoby, ktoré majú na jeho území trvalý pobyt.
+Mesto Nitra je právnickou osobou, ktorá za podmienok ustanovených zákonom č. 369/1990 Zb. (Zákon o obecnom zriadení) samostatne hospodári s vlastným majetkom a vlastnými príjmami. Základnou úlohou samosprávy je starostlivosť o všestranný rozvoj jej územia a o potreby jej obyvateľov.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Ing.  Monika Antonuccio
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5254388
+Dátum zverejnenia:
+23.3.2026
+2026-03-23
+lokalita:
+Nitra
+Pozícia:
+IT/Technical Support Specialist
+Spoločnosť:
+Mesto Nitra
+Základná zložka mzdy (brutto):
+1 600 EUR/mesiac

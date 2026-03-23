@@ -1,0 +1,115 @@
+Cég neve
+MFB Zrt.
+Munkavégzés helye
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Szakmai tréningek
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Középiskola
+
+Cafeteria
+Szakmai
+tréningek
+Egészségbiztosítás
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Pénzügyi és üzleti folyamatokat támogató alkalmazások fejlesztése és továbbfejlesztése.
+Részvétel a fejlesztési feladatokhoz legmegfelelőbb technológia kiválasztásában.
+Fejlesztői tesztek elvégzése.
+CI/CD folyamatok kialakításában való együttműködés az üzemeltetőkkel.
+Együttműködés a társosztályokkal és külső partnerekkel.
+Új technológiák és módszerek követése, javaslatok tétele azok bevezetésére.
+Elvárások
+Java szakértelem
+: Legalább 3 éves releváns tapasztalat Java fejlesztésben.
+Spring keretrendszer
+: Magabiztos ismeretek Spring Boot, Spring Security területén. (Spring Flow ismerete előny)
+Verziókezelés
+: Rutinos Git használat.
+Minőségtudatosság
+: Ismered az Unit tesztelés alapjait.
+Architektúra
+: Alapvető ismeretek microservice alapú architektúrákról.
+Adatbázisok
+: Oracle és PostgreSQL alapszintű ismerete.
+Nyitottság
+: Készség új eszközök és technológiák megismerésére.
+Önállóság
+: Képesség az önálló és felelősségteljes munkavégzésre
+Precizitás
+: Igényesség a munkavégzésben.
+Időgazdálkodás
+: Hatékony időbeosztás.
+Célratörés
+: Feladatorientált hozzáállás.
+Proaktivitás
+: Problémamegoldó attitűd.
+Csapatszellem
+: Jó kommunikációs és együttműködési készség.
+Analitikus gondolkodás
+: Képesség az összefüggések gyors felismerésére.
+Előnyt jelent
+Tapasztalat pénzügyi, elszámoló vagy gazdasági alkalmazások fejlesztésében.
+GitLab vagy SonarQube ismeret.
+Oracle programozási gyakorlat.
+CI/CD területén szerzett tapasztalatok.
+Adatbázis verziókezelési tapasztalat.
+Docker/Podman környezetben szerzett fejlesztési tapasztalat.
+Amit kínálunk
+Stabil, megbízható munkahely:
+Határozott idejű, teljes munkaidős állás egy biztos és elismert banknál.
+Rugalmasság
+: Nálunk a munka és magánélet egyensúlya valóban megvalósítható.
+Képzés és fejlődés:
+Hozzáférés szakmai tréningekhez és képzésekhez, konferenciarészvételi lehetőség a legújabb technológiák elsajátításához.
+Teljesítményelismerés
+: A kiemelkedő szakmai eredményeket éves bónusszal, előrelépési lehetőségekkel és szakmai díjakkal honoráljuk.
+Juttatási csomag és egészségügyi támogatás:
+Versenyképes fizetés, cafeteria, egészségbiztosítás, valamint éves szűrővizsgálat és egészségmegőrző programok mellett irodánkban céges bölcsöde működik.
+Közösségi élmények:
+Céges rendezvények, szakmai napok és csapatépítők, ahol a szakmai kapcsolatok mellett valódi közösség épül.
+Munkahelyi extrák
+Céges rendezvények
+Céginformáció
+Az MFB Magyar Fejlesztési Bank, mint a hosszú távú gazdaságfejlesztés támogatója és az európai uniós visszatérítendő források közvetítésért felelős pénzintézet
+határozott
+idejű munkavégzéssel
+JAVA fejlesztő
+munkatársat keres.
+Pozíció jellemzők
+Nálunk egy szilárd pénzügyi háttérrel rendelkező csapatban, nem csupán egy leszel a sok közül, hanem akár egy kulcsfontosságú tag, aki aktívan részt vesz Magyarország gazdaságának élénkítésében, biztonságos és innovatív rendszerek kialakításában. Nálunk stabil keretek között alkothatsz, gondolkodhatsz és fejlődhetsz, miközben a legmodernebb technológiákat és megoldásokat alkalmazod. Számunkra fontos a
+kiszámíthatóság
+és a
+biztonságos munkakörnyezet
+, hogy teljes mértékben a feladataira és a fejlődésre koncentrálhass.
+Ha Te egy medior vagy szenior Java fejlesztő vagy, akit a
+stabil fejlődés
+motivál, aki értékeli a tiszta, hatékony kódot és a megbízható csapatmunkát, akkor nálunk a helyed.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Budapest
+Álláshirdetés jelentése

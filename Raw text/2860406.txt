@@ -1,0 +1,94 @@
+Cég neve
+Alias Innovations Kft.
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+FRONTEND
+API
+CLOUD
+PYTHON
+PHP
+VUE
+REACT
+DOCKER
+AWS
+AZURE
+LINUX
+DEVOPS
+REST
+CYPRESS
+Biztosított eszközök
+Linux
+Elvárások
+Német középfok
+5-10 év tapasztalat
+Középiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+FRONTEND
+API
+CLOUD
+PYTHON
+PHP
+VUE
+REACT
+DOCKER
+AWS
+AZURE
+LINUX
+DEVOPS
+REST
+CYPRESS
+Linux
+Német
+középfok
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Funkcionális specifikációk technikai tervezése, alkalmazás- és rendszerarchitektúra kialakítása
+Skálázható és karbantartható full-stack fejlesztés: db, backend, frontend, API-k és külső integrációk megvalósítása
+Deploy és üzemeltetés előkészítése (konténerizálás, CI/CD, cloud) iránti (tanulható)
+AI-eszközök aktív használata fejlesztéshez (prototípus, refaktorálás, tesztelés, AI-funkciók integrálása)
+Együttműködés ügyfelekkel és csapattagokkal
+Elvárások
+Képes önállóan végigvinni egy teljes alkalmazás fejlesztését A-tól Z-ig
+Tapasztalat rendszertervezésben, nem csak feature-fejlesztésben
+Tud felelős technikai döntéseket hozni üzleti kontextusban is
+Használ vagy szívesen használ AI-eszközöket fejlesztéshez
+Fontos számára, hogy amit kiadnak, az működjön, skálázható és karbantartható legyen
+Tapasztalat a következő technológiákkal: Python vagy PHP backend (REST, aszinkron feldolgozás), Vue vagy React frontend, React Native mobil (minimálisan), Docker + GitLab CI/CD (+alapszinten Kubernetes), AWS vagy Azure cloud, Cypress tesztelés, valamint AI-alapú dev eszközök (pl. Cursor, Claude)
+Német nyelvtudás előny
+Elhivatott, a szakma iránt elkötelezett szakembernek tartja magát
+Magára ismer a következő szavakban: kitartó, támogató, proaktív, felelősségvállaló, örök tanuló, transzparens, vidám
+Linux rendszerek használata
+Átfogó tapasztalat a fejlesztés minden életszakaszában: BA, coding, tesztelés, DevOps
+Amit kínálunk
+End-to-end ownership valódi technikai döntésekkel
+Komplex, üzletileg releváns projektek
+AI-first fejlesztési kultúra
+Rugalmas munkavégzés (remote / hibrid)
+Teljesítményértékelés alapú fizetés: 1.2M - 1.5M brutttó + 15% bónusz
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+IT
+tanácsadó, Elemző, Auditor
+Regionális
+Álláshirdetés jelentése

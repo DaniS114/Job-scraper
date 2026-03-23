@@ -1,0 +1,83 @@
+Cég neve
+KRAFT VON WANTOCH GmbH
+Munkavégzés helye
+Távmunka / Remote
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SECURITY
+NETWORK
+CLOUD
+ISO
+AWS
+AZURE
+ACCESS
+GDPR
+SIEM
+Elvárások
+Angol felsőfok és
+Német felsőfok
+1-3 év tapasztalat
+Főiskola
+
+Magyarországon belül bárhonnan végezhető
+Teljes
+munkaidő
+Általános
+munkarend
+SECURITY
+NETWORK
+CLOUD
+ISO
+AWS
+AZURE
+ACCESS
+GDPR
+SIEM
+Angol
+felsőfok és Német felsőfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Lead end-to-end cybersecurity operations (network, application, cloud, and data security), ensuring continuous SOC monitoring, threat intelligence integration, vulnerability management, incident response, and secure configuration and lifecycle management across all IT environments.
+Own and evolve the information security risk management framework, conduct regular security risk assessments, implement mitigation strategies, and maintain oversight of security tooling for threat detection and protection capabilities.
+Oversee compliance with financial regulatory requirements (BaFin, DORA, GDPR, ISO 27001, SOC2), coordinate internal and external audits, ensure timely remediation of findings, and maintain business continuity as well as disaster recovery security requirements.
+Define and implement secure-by-design architectural principles across applications, infrastructure, and cloud environments (AWS/Azure), establishing robust identity and access management and guiding secure cloud transformation initiatives.
+Partner with IT, Risk, Compliance, and business leadership to embed security into business processes, act as escalation point for security-related conflicts, and ensure alignment between governance and operational functions.
+Build and lead cross-functional security teams with end-to-end responsibility, while managing external security providers and technology vendors, overseeing subcontracted security services, and ensuring rigorous vendor risk assessments and security due diligence in procurement.
+Requirements
+Master's or bachelor's degree in computer science, information security, or a related field, with strong security experience (10+ years), including 5+ years in leadership roles.
+Extensive practical experience in cybersecurity across regulated industries, especially financial services as well as strong knowledge of standard frameworks such as NIST, ISO 27001/2, and CIS Controls.
+Experience securing complex cloud environments (Azure/AWS) and in-depth knowledge of IAM, network security, endpoint protection, SIEM/SOAR, and modern threat detection capabilities, including Microsoft Azure services (Entra ID, Conditional Access)
+Strong operational background in vulnerability management, incident response, and enterprise security tooling, including platforms such as Splunk and Microsoft Defender
+Demonstrated leadership and team-building capabilities, with the ability to guide cross-functional security teams in international and dynamic environments
+Excellent communication and stakeholder management skills across all organizational levels, with fluent business English and German language skills considered an asset
+What we offer
+Dynamic culture: International, ambitious, and collaborative
+Impactful work: Exciting challenges with high autonomy
+Flexibility: Remote work options and flexible hours
+Premium perks: Free transit ticket, corporate discounts, and many other benefits
+Company info
+We are Kraft von Wantoch.
+We are your specialized recruitment consultancy with forward-thinking vision. As part of a thriving corporate group, we take a holistic approach to recruiting and HR marketing. Together with our sister companies, we leverage expertise, market insight, and experience to strategically connect talent and organizations.
+We offer tailor-made consulting services with a focus on professional partnerships and sustainable staffing.
+Your New Employer
+Our client is a premier financial services provider with a strong presence in major economic hubs across the continent. As they grow beyond their European leadership role onto the international stage, they are looking to integrate your specialized expertise into their strategy. This expansion is a pivotal moment in their history that requires your high-level expertise.
+Head of IT Security / Cybersecurity (m/f/d)
+Location: Frankfurt am Main (Hybrid position with work-from-home options)
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Germany
+Álláshirdetés jelentése

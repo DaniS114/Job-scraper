@@ -1,0 +1,88 @@
+Cég neve
+E.ON Digital Technology GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+DEVOPS
+CLOUD
+SECURITY
+TESTING
+BASH
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+DEVOPS
+CLOUD
+SECURITY
+TESTING
+BASH
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+As a SAP DevOps Engineer (f/m/d) at E.ON, you will be responsible for designing, developing, training and maintaining SAP DevOps solutions for our SAP system landscape and platforms. You will work closely with the SAP DevOps teams and developers, and other stakeholders to ensure the provisioning of a modern, user-friendly, state-of-the-art SAP DevOps pipeline.
+Design, implement and continuously improve DevOps concepts, CI/CD templates, pipelines and automation for SAP landscapes (e.g. SAP BTP, S/4HANA)
+Enable reliable build, test and deployment processes across SAP Cloud and on-premise environments
+Establish observability concepts for SAP BTP and on-premise applications for monitoring, health checks, alerts and APM by using tools such as SAP Cloud ALM, New Relic and Uptrends
+Collaborate closely with SAP development, architecture, security and operations teams
+Conduct DevOps maturity assessments and guide teams on their DevOps Journey
+Ensure high availability, performance, security and compliance of SAP systems
+Troubleshoot complex problems and support root cause analysis
+Continuously evaluate new SAP DevOps tools, technologies and best practices
+Requirements
+Strong experience in DevOps, platform engineering or operations within SAP environments
+Hands-on experience with CI/CD and security, as well as quality tooling (e.g. GitLab CI/CD, SonarQube, Renovate or similar)
+Strong knowledge in development, automated testing and testing strategies
+Experience with scripting and automation (e.g. Bash, Groovy)
+Solid knowledge of SAP S/4HANA, SAP BTP and related deployment and transport mechanisms
+Knowledge of Kubernetes and container technologies and IaaC principles is a plus
+Strong understanding of security, monitoring and reliability concepts
+Structured, proactive and solution-oriented working style
+Fluent in English
+What we offer
+Advance your development:
+We grow and we want you to grow with us. Learning on the job, exchanging with others, or taking part in an individualtraining – our learning culture enables you to bring your personal and professional development to the next level.​
+Recharge your battery:
+You have 30 days of paid vacation per year plus Christmas and New Year's Eve off. Your battery still needs charging? You canexchange parts of your salary for more paid vacation or you can take a sabbatical.​
+Enjoy hybrid work:
+We combine office collaboration with focused work from home. It's also possible to go on workation for up to 20 days per year withinEurope. ​
+Stay active & healthy:
+Benefit from a company-sponsored health membership.​
+Elevate your mobility:
+From car and bike leasing offers to a subsidised Deutschland-Ticket – your way is our way.​
+Think ahead:
+With our company pension scheme and a great insurance package we take care of your future.​
+This is by far not all…
+We are looking forward to speaking with you about further benefits during the hiring process.
+Company info
+You have a passion for technology and want to make the world a greener place?
+Then become a playmaker (f/m/d) and join our team as SAP DevOps Engineer (f/m/d) at E.ON Digital Technology.
+We play a key role in shaping the energy transition by leading E.ON's digital transformation across Europe. We explore new paths by developing ideas, breaking new ground, making visions reality, and bringing new technologies to life. We deliver sustainable technology solutions because…
+… it's on us to make new energy work!
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Security
+Germany
+Álláshirdetés jelentése

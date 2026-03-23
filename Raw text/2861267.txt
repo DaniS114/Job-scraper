@@ -1,0 +1,72 @@
+Cég neve
+Dassault Systemes Deutschland GmbH
+Munkavégzés helye
+Hibrid
+•
+München
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+R
+PYTHON
+C
+C++
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+R
+PYTHON
+C
+C++
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+You will build 3D geometry models representing real-world Automotive Radar & ADAS scenarios
+You will run electromagnetic simulations using the Asymptotic Solver in CST Studio Suite and analyze KPIs
+You will generate synthetic training datasets from simulation results to support machine learning models
+You will develop and optimize ML-based workflows to enhance radar functionality and performance
+You will collaborate with senior engineers and researchers on high-priority R&D projects
+You will support integration of simulation and ML workflows into research pipelines for automotive radar applications
+Requirements
+You are currently enrolled as a Master's student in Electrical Engineering or a related field
+You have solid Python programming skills for simulation data processing and workflow automation
+You are familiar with radar fundamentals and signal processing concepts
+What makes you stand out
+You have hands-on experience with electromagnetic simulation tools such as CST Studio Suite (optional but a plus)
+You have knowledge of machine learning techniques and frameworks
+You are experienced in C/C++ programming and are curious, initiative-driven, and motivated to tackle complex technical problems
+What we offer
+Flexible working hours with the possibility to work partially outside the office
+Learning from and working with highly qualified, dedicated and diverse teams
+Possibility for professional development in many different domains within our 3DEXPERIENCE University and LinkedIn Learning programs
+Additional benefits & perks such as Urban Sports Club membership (because who doesn't love staying fit while having fun?) and of course, unlimited coffee, fruit, and drinks at the office, we've got you covered ;)
+Company info
+Dassault Systèmes is the second largest software manufacturer in Europe and has been a dynamically growing, innovative company since 1981.
+Do you want your code to actually matter? As a working student (m/f/d) in the SIMULIA EMAG R&D team at Dassault Systèmes, you'll contribute to real AI and simulation research for automotive radar and ADAS applications - supporting projects that matter to some of the biggest names in the automotive industry.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

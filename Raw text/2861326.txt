@@ -1,0 +1,93 @@
+Cég neve
+Deutsches Krebsforschungszentrum DKFZ
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+API
+DEVOPS
+LINUX
+SECURITY
+ACCESS
+Elvárások
+Német középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+API
+DEVOPS
+LINUX
+SECURITY
+ACCESS
+Német
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design, and manage deployments on Kubernetes clusters within our internal and commercial cloud infrastructure
+Develop and maintain state-of-the-art/modern FastAPI-based microservices, ensuring automated and reliable deployment using Helm charts and Pulumi
+Integrate API and metadata services for global European biomedical networks
+Learn, follow, and contribute to global GA4GH standards like DRS (Data Repository Service), Beacon, LS AAI (Life Sciences Authentication and Authorization Infrastructure), and Crypt4GH
+Collaborate closely with bioinformaticians, developers, data stewards, and international partners to support data sharing, research, and interoperability
+We offer the opportunity to help shape one of the most important emerging scientific data infrastructures for the storage and exchange of omics data in Germany.
+Requirements
+MSc in computer science, bioinformatics, mathematics, physics, or similar background;
+alternatively a BSc or equivalent with several years of relevant professional experience
+Proven experience in DevOps and cloud infrastructure management using Kubernetes
+Excellent problem-solving skills
+Proficiency with administration and containerisation of Linux systems
+Understanding of IT security practices and standards (e.g. ISO27001, BSI, secure infrastructure design)
+Experience with Infrastructure as Code tools (e.g. Terraform, Pulumi) and Kubernetes deployment tools (e.g. Helm, ArgoCD)
+Familiarity with DevOps practices and CI/CD
+Experience or interest in microservices design patterns and domain-driven design
+Experience with or interest in (meta)data interoperability standards and FAIR data principles
+Experience with Authentication and Authorization Infrastructure (AAI) systems, including federated identity and access management (e.g. LS Login, ELIXIR AAI, OAuth2/OIDC)
+Ability to work independently and collaboratively in an interdisciplinary research environment
+Strong communication skills in English, with the ability to translate technical requirements for diverse stakeholders
+Your possibilities:
+Shape one of Germany's most important scientific data infrastructures for health data
+Contribute to interdisciplinary efforts, bridging cutting-edge research with clinical applications
+Work with an interdisciplinary team of experts, bringing state-of-the-art biomedical research closer to clinics and patients
+Widen your expertise with extensive possibilities of training programs, seminars, and conferences
+What we offer
+Excellent framework conditions: state-of-the-art equipment and oppor­tunities for inter­national networking at the highest level
+30 days of vacation per year
+Flexible working hours
+Remuneration according to TV-L incl. occupational pension plan and capital-forming payments
+Possibility of mobile work and part-time work
+Family-friendly working environ­ment
+Sustainable travel to work: subsidized Germany job ticket
+Unleash your full potential: targeted offers for your personal development to further develop your talents
+Our Corporate Health Manage­ment Program offers a holistic approach to your well-being
+Company info
+The German Cancer Research Center (DKFZ) is one of Europe's largest cancer research centers. “Research for a life without cancer" is the mission of our world-class scientists and all our team members.
+The DKFZ is a place where the brightest minds pursue bold ideas and seek answers to pioneering scientific questions through collaboration, innovation, and exploration across many disciplines. We provide a dynamic environment which empowers excellence with state-of-the-art technologies, cutting edge infrastructure, and a global scientific network.
+Contribute your knowledge, vision, and dedication to create a space where scientific discovery in cancer research is transformed into benefits for human health.
+Since 2020, the DKFZ, together with other academic institutions across Germany, operates the German Human Genome-Phenome Archive (GHGA) as part of the national program for research data infrastructures (NFDI). GHGA acts as a national node within the federated European Genome-Phenome Archive and the European Genomic Data Infrastructure (GDI). Since 2025, GHGA data hubs also act as genome data centers within the German national sequencing program genomDE, making GHGA the largest research data infrastructure dedicated to genome research.
+In order to develop the GHGA software platform into a state-of-the-art infrastructure for the secure exchange of genome data, we are seeking for the next possible date a
+Research Data Infrastructure Engineer.
+Reference number: 2026-0051
+The successful candidate will support our team in managing the GHGA cloud infrastructure, developing and maintaining genomics and health web services following the Global Alliance for Genomics and Health (GA4GH) standards, and integrating them with our national and international partners. The role will involve close cooperation with other partners in the GHGA network, as well as international networks and initiatives.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Germany
+Álláshirdetés jelentése

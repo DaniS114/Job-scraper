@@ -1,0 +1,100 @@
+Senior Backend Engineer
+Across Finance, a.s.
+Miesto práce
+Zochova 3, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+živnosť
+Termín nástupu
+asap
+Mzdové podmienky (brutto)
+3 500 EUR/mesiac
+Finálna výška mzdy závisí od skúseností kandidáta.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Budujeme fintech investičnú platformu pre desaťtisíce klientov v Európe
+Across Wealth je fintech produkt, ktorý umožňuje klientom investovať do globálnych portfólií. Ako prvý na trhu ponúka široké spektrum aktív od investičných stratégií s rôznou mierou rizika cez sektorové ETF až po podielové fondy a postupne bude prinášať ďalšie nové investičné príležitosti.
+Ambíciou je vybudovať digitálnu platformu, ktorá bude obsluhovať
+desaťtisíce klientov naprieč Európou
+a postupne rozširovať spektrum investičných produktov.
+Technológia je pritom jadrom celej platformy. Budujeme preto silný interný engineering tím, ktorý ju bude ďalej rozvíjať a škálovať.
+Hľadáme ľudí, ktorí chcú pracovať na reálnom produkte, riešiť náročné technické výzvy a mať priamy vplyv na architektúru, tempo vývoja aj smerovanie systému.
+Ako pracujeme
+technológia je core produktu, nie support funkcia
+developeri majú reálny vplyv na technické rozhodnutia a v konečnom dôsledku na user experience
+riešenia navrhujeme v tíme, nie len implementujeme zadania
+rozhodnutia robíme rýchlo a iterujeme
+backend, frontend a mobile vývoj fungujú ako jeden produktový tím
+Čo na tejto práci nie je
+nie je to ticket factory
+nie je to maintenance-only projekt
+nie je to korporátna byrokracia
+nie je to rola, kde developer len implementuje zadania bez vplyvu na riešenie
+Čo budeš robiť
+vyvíjať      backend služby investičnej platformy
+navrhovať      a implementovať nové API
+zlepšovať      existujúcu backend architektúru
+spolupracovať      s frontend a mobile developermi
+podieľať      sa na návrhu technických riešení pre nové funkcionality
+Používané technológie
+Kotlin • Spring Boot • PostgreSQL
+AWS • Terraform • GitHub Actions
+Zamestnanecké výhody, benefity
+Čo ponúkame
+oddych v našich hoteloch za zvýhodnené ceny,
+odmeny za odporúčanie zamestnanca,
+flexibilné fungovanie a dôveru v samostatnosť,
+profesionálne finančné poradenstvo,
+firemné akcie a teambuildingy,
+možnosť dlhodobého odborného rastu.
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+stredoškolské bez maturity
+stredoškolské s maturitou
+nadstavbové/vyššie odborné vzdelanie
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Vzdelanie v odbore
+IT
+Jazykové znalosti
+Slovenský jazyk - Expert (C2)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Osobnostné predpoklady a zručnosti
+Koho hľadáme
+developera so silným backend pozadím
+skúsenosti s Kotlin alebo Java ekosystémom
+skúsenosti s návrhom API a prácou s databázami
+niekoho, kto má rád ownership nad riešeniami
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Spoločnosť Across Finance, a.s. je súčasťou skupiny Across, ktorá pôsobí na slovenskom trhu od roku 2002. Pracujeme pod dohľadom NBS a špecializujeme sa na dlhodobé a efektívne zhodnocovanie majetku úspešných ľudí. V oblasti privátnej správy aktív sme na Slovensku lídrom, v súčasnosti spravujeme aktíva vo výške takmer 400 miliónov eur a naše služby využíva viac ako 1000 privátnych klientov.
+Ako finančný investor pôsobí skupina Across aj v ďalších oblastiach, napríklad v hotelierstve, realitách, zdravotníctve a vo viacerých významných private equity projektoch.
+Počet zamestnancov
+25-49 zamestnancov
+Kontakt
+Kontaktná osoba: Brigita Farkašová
+Tel.:
++421911754598
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5255229
+Dátum zverejnenia:
+23.3.2026
+2026-03-23
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+Spoločnosť:
+Across Finance, a.s.
+Základná zložka mzdy (brutto):
+3 500 EUR/mesiac

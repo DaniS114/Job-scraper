@@ -1,0 +1,85 @@
+Cég neve
+Roland Berger Holding GmbH & Co. KGaA
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+DEVOPS
+AZURE
+“CLOUD
+DATABASES
+AGILE
+CD
+CI
+Biztosított eszközök
+Laptop
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+DEVOPS
+AZURE
+“CLOUD
+DATABASES
+AGILE
+CD
+CI
+Laptop
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Join the Cloud Labs team as a Cloud DevOps Engineer (all genders) and shape the digital future of Roland Berger! Are you passionate about cloud-native technologies, eager to pioneer innovative services, and excited to empower internal IT experts with scalable, self-service solutions? Then become part of our international IT team “Cloud Labs”. As a Cloud DevOps Engineer (all genders), you'll work at the intersection of product design, knowledge transfer, and templated cloud architecture. Together with highly motivated colleagues, you'll lay the digital foundation for cutting-edge ecosystems and contribute to the evolution of a modern, agile IT landscape.
+Your key responsibilities are:
+Standardize Azure architectures and resources using Infrastructure-as-Code — with a strong focus on automation and enabling internal teams through self-service capabilities
+Develop and onboard innovative cloud-based applications as part of Roland Berger's internal digital ecosystem
+Implement tailored cloud-native use cases that extend and enrich Roland Berger's internal technology landscape
+Conduct knowledge transfer sessions with stakeholders across the Roland Berger Group — including best practices for Kubernetes, WebApps, databases, and more
+Collaborate with the application development team in jointly operating cloud-based software solutions
+Requirements
+University degree in computer science, business informatics or a comparable technical field
+Proven experience with cloud technologies — especially Microsoft Azure, Infrastructure-as-Code (e.g. Terraform, Bicep), and CI / CD automation
+Solid understanding of scalable architectures, including Kubernetes, WebApps, databases, and integrations within enterprise ecosystems
+Familiarity with templating and designing reusable technology modules for internal service enablement
+Independent, product-oriented mindset with a high level of ownership and solution-driven approach
+Strong communication and teamwork skills with enthusiasm for sharing knowledge and collaborating across disciplines
+Good development expertise with at least one programming language
+What we offer
+Dynamic international work environment with a high degree of professionalism and a steep learning curve
+Modern offices with daily fresh fruit, cereals as well as free hot and cold drinks; canteen or food voucher (depending on location)
+30 days vacation, flexible working hours, part-time models as well as sabbatical options
+Modern IT infrastructure, laptop and company cell phone also for private use
+Offers of direct insurance, co-financing of company pension scheme, accident insurance, health insurance abroad
+Extensive seminar program as well as individual training and coaching measures as required
+Various fellowship programs for personal and professional development
+Berger Bike Program
+PME family service (including support in finding child or senior care)
+Employee parking spaces
+Relaxed team atmosphere with regular events and sports initiatives
+Company info
+Roland Berger is one of the world's leading strategy consultancies with a wide-ranging service portfolio for all relevant industries and business functions. We cherish different perspectives and approaches and count on the diversity and authenticity of our employees. Driven by our values of entrepreneurship, excellence, and empathy, we at Roland Berger are convinced that business and society need a new sustainable paradigm that takes the entire value cycle into account. Our cross-competence teams work with our clients to successfully address the challenges of our time, today and tomorrow, across all industries and business functions. If you like to take the initiative and make a difference as part of a team, Roland Berger is the right place for you.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+Network
+and System Engineer
+Germany
+Álláshirdetés jelentése

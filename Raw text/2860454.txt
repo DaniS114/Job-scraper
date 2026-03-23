@@ -1,0 +1,105 @@
+Cég neve
+ITech Consult AG
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SELENIUM
+DEVOPS
+HARDWARE
+SECURITY
+ROBOT
+AZURE
+ISO
+TEST AUTOMATION
+CYPRESS
+CUCUMBER
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SELENIUM
+DEVOPS
+HARDWARE
+SECURITY
+ROBOT
+AZURE
+ISO
+TEST
+AUTOMATION
+CYPRESS
+CUCUMBER
+Angol
+középfok
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Test Automation Engineer
+Test Automation Engineer (m/w/d) - Automation / SDET / BDD / Selenium / DevOps / CI/CD /Rust / ALM / Codebeamer / Robotics / English
+Project: For our client based in Rotkreuz, we are looking for a Test Automation Engineer (m/f/d).
+Background:
+Join an innovative team shaping the future of diagnostics. You will work on the development of a complex system for molecular diagnostics. In this sensitive environment where precision is critical, you will be responsible as a Test Automation Engineer for ensuring that our software algorithms and hardware interfaces function flawlessly.
+You will act as a Software Engineer in Test (SET) and utilize modern methods such as Behavior-Driven Development (BDD) to bridge the gap between requirements and technical implementation. As a Test Automation Engineer, you will be jointly responsible for the design, development, and implementation of automated test strategies for our molecular diagnostic platforms.
+This includes both software-side security and the validation of physical interfaces through the use of state-of-the-art robotics solutions (standard market solutions as well as customized in-house developments). Your work contributes directly to ensuring that diagnostic results in the laboratory are available quickly and with absolute reliability. You will work in a technologically demanding field that combines the safety of Rust with the agility of modern CI/CD processes to perfect life-saving medical technology.
+The Perfect Candidate:
+While we are looking for a strong technical foundation, the ideal candidate is someone who views software quality as a strategic advantage, not just a final checkpoint. You are likely our perfect match if:
+? You Think Like a Developer: You don't just "test" code; you understand how it's built. You write clean, maintainable, and dry (Don't Repeat Yourself) automation code that your peers are proud to review.
+? You Are a "Shift-Left" Advocate: You are uncomfortable waiting until the end of a sprint to test. You enjoy collaborating with Product and Dev teams early on to define testable requirements and catch logic gaps before a single line of code is written.
+? You Despise Flakiness: You understand that an unreliable automated test suite is worse than no automated test suite at all. You are obsessed with stability and take pride in building "green" pipelines that the team actually trusts.
+? You are a Tooling Polyglot: You aren't married to a single framework. Whether it's Playwright, Selenium, or Cypress, you choose the right tool for the job based on the project's needs rather than personal habits.
+? You Bridge the Gap: You can translate complex technical bugs into business risks for stakeholders, and turn high-level business requirements into rigorous technical test cases.
+? You are a Force Multiplier: You don't work in a silo. You enjoy mentoring manual QA testers and helping developers take ownership of their own unit and integration tests.
+Tasks & Responsibilities:
+? Quality Assurance for High-Tech: Development and implementation of automated test strategies for a complex overall system in molecular diagnostics.
+? BDD Methodology: Active application of Behavior-Driven Development to translate requirements into executable specifications (e.g., using Cucumber).
+? Development of Test Environments: Construction and maintenance of test frameworks using tools similar to Selenium, Appium, or SpecFlow, supplemented by specific libraries for controlling laboratory robots.
+? Robotics Integration: Evaluation and integration of commercial robot arms (e.g., Cobots) as well as participation in the development of internal robotics tools to simulate user interactions on the device (e.g., pipetting, loading cartridges).
+? ALM & Traceability: Use of ALM tools such as Codebeamer to manage requirements and test cases and to ensure traceability.
+? CI/CD Integration: Responsibility for automated quality assurance within our DevOps pipelines (e.g. GitHub and Azure DevOps (ADO)).
+? End-to-End Validation: Ensuring data integrity from the barcode scan of the patient sample to the final analysis of the PCR result.
+? Compliance & Documentation: Supporting the creation of test plans, protocols, and reports in accordance with ISO 13485 and other relevant regulatory standards for medical devices.
+Must Haves:
+? Education: Degree in Computer Science, Electrical Engineering, Medical Technology, or a comparable qualification.
+? Min. 3 years of relevant working experience.
+? Experienced Programmer: You have sound experience in software development and master clean coding principles.
+? Automation & BDD Expert: Proficient in using tools such as Selenium, with desired knowledge of BDD tools like Cucumber or SpecFlow.
+? ALM Know-how: Experience with Application Lifecycle Management tools, ideally Codebeamer, is a major advantage.
+? DevOps & CI/CD: Proficient in handling Continuous Integration and Continuous Delivery in GitHub orAzure DevOps.
+? Analytical Talent: Ability to familiarize yourself with the logic of complex diagnostic systems.
+Nice to Haves:
+? Bonus Skill - Rust: Knowledge of Rust is a strong plus, as we value performance and type safety.
+? Bonus Skill - Robotics Integration: Experience in controlling actuators/sensors or integrating robots into test procedures. Knowledge of Standard in Laboratory Automation (SiLA).
+Reference Nr.: 924736
+Rolle: Test Automation Engineer (m/f/d)
+Industrie: Pharma
+Location: Rotkreuz
+Pensum: 100%
+Start: Asap (3 months notice considered)
+Duration: 12++ months
+Deadline:
+If this position has piqued your interest, please send us your complete resume. If this position does not quite match your profile and you would like to receive other positions directly, you can also send us your resume via this ad or to jobs[at]itcag[dot]com.
+Contact us for more information about our company, our positions, or our attractive payroll-only program: .
+About us:
+ITech Consult is an ISO 9001:2015-certified Swiss company with offices in Germany and Ireland. ITech Consult specializes in placing highly qualified candidates for temporary staffing in the fields of IT, life sciences, and engineering. We offer temporary staffing and payroll services. This is free of charge for our candidates, and we do not charge any additional fees for payroll services. jid92b0c77pn jit0313pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+System
+Integrator
+Switzerland
+Álláshirdetés jelentése

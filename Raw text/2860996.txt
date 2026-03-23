@@ -1,0 +1,74 @@
+Cég neve
+Bosch Group
+Munkavégzés helye
+Heves megye
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+GIT
+MYSQL
+POSTGRESQL
+MONGODB
+LINUX
+WINDOWS
+PYTHON
+SQL
+Biztosított eszközök
+Windows
+Linux
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+GIT
+MYSQL
+POSTGRESQL
+MONGODB
+LINUX
+WINDOWS
+PYTHON
+SQL
+Windows
+Linux
+Angol
+középfok
+3-5
+év tapasztalat
+Egyetem
+
+Állás leírása
+Mivel járulhatsz hozzá közös céljaink megvalósításához
+A Te feladataid:
+SMT gyártási folyamatok és projektcélok megértése, a legjobb fejlesztési megoldások kiválasztása.
+Adatelemzés és predikciók (ML) készítése a rendelkezésre álló adatok alapján
+Adatok előkészítése és biztosítása szoftvereszközök fejlesztéséhez, lokális alkalmazások létrehozása.
+Szoftverarchitektúra tervezése skálázhatóság, biztonság és karbantarthatóság szempontjából.
+Fejlesztési folyamatok strukturálása, dokumentáció készítése (GIT alapú verziókezelés).
+Tesztesetek generálása és értékelése, adatbázisok (MySQL, OracleSQL, PostgreSQL, MongoDB) tervezése és karbantartása.
+Linux/Windows szerverek konfigurálása, kódkarbantartás, Bosch IPN SMT fejlesztések támogatása.
+Junior kollégák mentorálása, kód-review és fejlesztési best practice-ek oktatása.
+Mi tesz Téged különlegessé
+Képzettség
+Felsőfokú végzettség informatikai, mérnöki vagy kapcsolódó területen.
+Tapasztalat adatbázis-kezelésben és szoftverfejlesztésben (Python, SQL, GIT).
+Linux és Windows szerverek kezelésében szerzett gyakorlat.
+Erős problémamegoldó képesség, csapatmunkára való nyitottság.
+Angol nyelvtudás szóban és írásban.
+Váltsd valóra!
+Kérjük, pályázatát a jelentkezem gombra kattintva küldje el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Adatbázisszakértő
+Heves
+megye
+Álláshirdetés jelentése

@@ -1,0 +1,123 @@
+Cég neve
+SimonsVoss Technologies GmbH
+Munkavégzés helye
+Hibrid
+•
+Unterföhring bei München
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C++
+ACCESS
+SECURITY
+C
+TESTING
+HARDWARE
+BACKEND
+ISO
+GIT
+DEBUGGING
+JIRA
+Elvárások
+Angol középfok és
+Német középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+C++
+ACCESS
+SECURITY
+C
+TESTING
+HARDWARE
+BACKEND
+ISO
+GIT
+DEBUGGING
+JIRA
+Angol
+középfok és Német középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Firmware Development:
+Implement C++ application-layer firmware on an RTOS (tasking, IPC, power-aware scheduling).
+Credential Logic:
+Develop application logic for existing (Mifare DESFire) and future standards: app/file model, access conditions, personalization, and lifecycle management.
+Connectivity & Workflows:
+Integrate NFC/BLE/WLAN stacks and mobile credential workflows (provisioning, HCE, revocation).
+Security Implementation:
+Interface with secure elements / SAMs for key storage and transaction offload. Implement secure boot, signed/encrypted OTA, and application-level runtime protections.
+Software Maintenance:
+Enhance and maintain internal software suites (C++, C#).
+Testing & CI/CD:
+Build tests and CI/CD artifacts; use protocol sniffers and hardware debuggers for validation.
+Collaboration:
+Work closely with mobile, backend, hardware, and QA teams; produce technical and security documentation.
+Requirements
+Experience:
++ 5 years of embedded firmware experience.
+Core Skills:
+Strong C++ experience for microcontrollers in resource-constrained environments and practical RTOS experience (Zephyr is an advantage).
+RFID/NFC:
+Hands-on RFID / NFC experience (ISO 14443, Mifare DESFire EVx preferred).
+Mobile Credentials:
+Experience with smartphone credential flows (mobile wallets, HCE, provisioning).
+Security:
+Familiarity with applied cryptography in embedded systems (secure messaging, AES/HMAC, key usage), secure elements / SAM integration, secure boot, and OTA.
+Tools:
+Debugging skills (JTAG/SWD, logic analyser) and embedded CI/CD experience.
+Languages:
+Good German and strong English skills.
+Nice to have:
+Deep Mifare DESFire EVx personalization experience, low-power design, mobile platform SDKs/APIs, knowledge of access control standards, security compliance (CRA, NIST, ETSI), and familiarity with Git, Jira, and embedded test frameworks.
+What we offer
+Modern Tech Stack & Impact
+//
+Work in a high-innovation, security-relevant environment with professional test infrastructure and the latest tools.
+Work-Life-Balance
+//
+Flexitime model including time off in lieu, remote work possible (1 day/ week), 30 days vacation without probationary period ban.
+Growth & Development
+//
+Structured & inspiring onboarding process, hands-on training, access to Busuu, Allegion Academy & LinkedIn Learning, mentoring on development and career paths
+Sustainable mobility
+//
+Cost-effective leasing of job bikes and e-bikes
+Health
+//
+€30 gross fitness allowance per month, employee assistance program for all life issues, free drinks & fresh fruit.
+Family & More
+//
+Up to €250 gross childcare allowance per month, company pension subsidy (€40 plus 20% of the conversion amount), exclusive employee discounts
+Culture
+//
+Inspiring spirit, flat organizational structures, a bright team from 17 nations, great helpfulness & cohesion, many great events
+Our colleagues provide insights into the development department.
+Company info
+Unlock the future of digital security with us!
+We are a pioneer in digital locking technology and, with a team of over 550 employees, we ensure that people's lives become safer and more comfortable. We don't just open doors; we open paths to more protected and intelligent living spaces. We achieve this through continuous innovation, team spirit, and a deeply rooted passion for the industry.
+As a
+Senior Firmware Developer
+, you will design and implement C++ application firmware on microcontrollers (ARM Cortex-M) running an RTOS. Your focus will be on application-level features and the integration of physical and smartphone-based credential processing flows (Mifare DESFire, HCE, mobile wallets).
+Sounds exciting? Then become part of our journey!
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,99 @@
+Business Architect - DRG (Healthcare)
+Asseco Central Europe, a.s.
+Miesto práce
+Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+3 000 EUR/mesiac
+od 3000€ brutto v závislosti od skúseností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Strategická pozícia Business Architekta bude kľúčovým spojovacím článkom medzi vývojom expertného medicínskeho softvéru a reálnymi legislatívno-procesnými požiadavkami. Náplňou bude návrh a rozvoj business architektúry pre naše kľúčové produktové portfólio.
+Ako Biznisový architekt a tvorca našich riešení bude zodpovedný za nasledujúce oblasti:
+Strategické zladenie a Enterprise Architektúra:
+Tvorba, údržba a rozvoj modelov obchodných spôsobilostí (Business Capability Models) a detailných máp hodnotových tokov (Value Streams) pre poskytovateľov ústavnej a ambulantnej zdravotnej starostlivosti a zdravotné poisťovne. Zabezpečí, aby návrh nášho softvéru dokonale zapadal do stratégie zefektívňovania poskytovania zdravotnej starostlivosti.
+Rozvoj produktovej Roadmapy:
+Bude zohrávať hlavnú úlohu pri definovaní strategického smerovania a technologického vývoja celého ekosystému DRG produktov. Zabezpečí, že naše investície do vývoja nových funkcionalít reagujú na požiadavky trhu a prinášajú maximálnu pridanú hodnotu.
+Hĺbková analýza cesty pacienta a nemocničných procesov:
+Bude systematicky mapovať a analyzovať procesy – od momentu príjmu pacienta cez jeho hospitalizáciu, diagnostiku, až po oddelenia SVLZ a finálne zúčtovanie. Cieľom bude odhaľovať úzke hrdlá, administratívne duplicity a navrhovať procesné optimalizácie.
+Návrh integrácií a dátovej interoperability:
+Konceptuálne zastreší sémantickú a procesnú integráciu. Bude navrhovať prepojenia medicínskych dát z klinických modulov priamo do ekonomických trackovacích nástrojov s cieľom zabezpečiť bezchybný "flow" informácií o nákladoch.
+Zber a formálna špecifikácia požiadaviek:
+Bude v dennom kontakte so zadávateľmi z rôznorodých prostredí (vedúci lekári, hlavné sestry, finanční a ekonomickí riaditelia nemocníc, prevádzkový riaditelia, kóderi, analytici). Tieto komplexné prevádzkové potreby preloží do exaktných analytických zadaní (UML, BPMN, US JIRA) a architektonických štruktúr v softvéri Enterprise Architect (Sparx), priamo určených pre náš vývojový tím.
+Legislatívny a metodický dohľad:
+Kontinuálny monitoring zmien a implementácia prísnych pravidiel inštitúciami na českom a slovenskom trhu. Úlohou je garantovať, aby výpočtová logika v produktoch a kontrolné mechanizmy plne reflektovali aktuálnu legislatívu
+.
+Odborné poradenstvo a Stakeholder Management:
+Na projektoch bude vystupovať v strategickej pozícii "Trusted Advisor". Zastreší komunikáciu kľúčových míľnikov pre top manažment našich klientov, budete facilitovať workshopy a proaktívne riešiť komplexné prekážky vznikajúce na rozhraní biznisu a IT dodávky.
+Zamestnanecké výhody, benefity
+flexibilný pracovný čas, hybridný spôsob čerpania HO
+sick days a dni voľna navyše pri špeciálnych príležitostiach – svadba, pôrod, sťahovanie, sprievod prváčika v 1. školský deň
+bonus pri narodení/osvojení dieťaťa
+odmeny – Referral program, odmeny pre jubilantov, zodpovedajúca variabilná zložka platu
+doplnkové dôchodkové sporenie
+ovocie, pitný režim, káva
+inšpiratívne workshopy a aktivity na témy technology, enviro, diversity, well being
+teambuildingy, spoločenské podujatia
+vzdelávanie a osobný rozvoj - ACE akadémia
+poradenstvo v oblasti duševného zdravia
+multisport karta, klub TJ Asseco
+CSR aktivity
+a iné
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Pozícia je vhodná pre absolventa
+Áno
+Osobnostné predpoklady a zručnosti
+Pokročilá znalosť a orientácia v problematike českého a slovenského zdravotníctva, zdravotníckej legislatíve a systéme DRG. Prax v tomto obore minimálne 5 rokov je nutnosťou.
+Certifikácie v doméne DRG CZ alebo SK obrovskou výhodou.
+Prax s CASE tools, business analýzou a modelovaním procesov.
+Znalosť nástroja Enterprise Architect (Sparx) a jazyka UML.
+Znalosť štandardov pre podnikovú architektúru (napr. metodika TOGAF, BPMN, jazyk Archimate) je výraznou výhodou.
+Expertná zručnosť dátovej analytiky a interpretácie dát je kľúčovou vlastnosťou.
+Ostatné znalosti a skúsenosti:
+Znalosť AI nástrojov a otvorenosť k ich praktickému využitiu.
+Vynikajúce analytické a logické myslenie s orientáciou na hľadanie efektívnych riešení.
+Schopnosť samostatne pracovať, efektívne si organizovať prácu a riadiť dodávky v tíme.
+Vynikajúce prezentačné zručnosti a schopnosť vecne komunikovať komplexné IT koncepty s vývojármi aj klientmi z radov lekárov.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Asseco Central Europe patrí medzi najsilnejšie softvérové domy v strednej a východnej Európe. Pôsobí na Slovensku, v Českej republike, Maďarsku, Taliansku, Nemecku, Rakúsku, Švajčiarsku a Poľsku. Spoločnosť realizuje náročné projekty pre sektor zdravotníctva, bankovníctva, priemysel a utility, poisťovníctva a verejnú správu, ktoré sú postavené na viac ako 30 ročných skúsenostiach s rozsiahlymi projektmi softvérových riešení na mieru. Skupina Asseco CE zahŕňa aj ďalšie spoločnosti so zameraním na IT. Asseco CE kladie silný dôraz na podporu strategických cieľov svojich klientov. Spoločnosť je súčasťou medzinárodnej skupiny Asseco (Asseco Group), ktorá pôsobí v približne 60 krajinách sveta a zamestnáva viac ako 33 000 ľudí.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Natália Hladká
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5255439
+Dátum zverejnenia:
+23.3.2026
+2026-03-23
+lokalita:
+Bratislava
+Pozícia:
+IT architekt
+,
+IT konzultant
+,
+IT projektový manažér
+,
+Produktový manažér v IT
+,
+Solution Architect
+Spoločnosť:
+Asseco Central Europe, a.s.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/mesiac

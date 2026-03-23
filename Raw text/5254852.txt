@@ -1,0 +1,154 @@
+O nás
+Kariéra
+Kontakt
+find ( “
+perfect_job
+” );
+Buď súčasťou našich projektov.
+MS Dynamics 365 (F&O) Developer
+Place of work
+Remote work
+Basic wage component (gross) and other rewards
+From 3 000 EUR/month
++ variable
+About
+We are looking for an experienced MS Dynamics 365 Finance & Operations (F&O) Developer to join our team and support the design, development, and enhancement of enterprise ERP solutions.
+In this role, you will collaborate closely with business stakeholders, functional consultants, and technical architects to implement scalable, secure, and high-performing solutions within the Microsoft Dynamics 365 F&O environment.
+You will contribute to digital transformation initiatives by optimizing financial, supply chain, and operational processes through system customization, integrations, and extensions.
+Your responsibilities
+Design, develop, and customize solutions within
+Microsoft Dynamics 365 Finance & Operations
+Develop and maintain
+X++ code, extensions, forms, reports, and workflows
+Implement integrations with external systems (
+REST/SOAP APIs, OData, Azure services
+)
+Develop and maintain
+data entities
+and support
+data migration activities
+Collaborate with
+functional consultants
+to translate
+business requirements
+into technical solutions
+Ensure compliance with
+Microsoft best practices (extensions over layer customizations)
+Participate in
+performance optimization, testing, and deployment activities
+Support
+system upgrades and continuous improvement initiatives
+Troubleshoot and resolve
+technical and integration issues
+Contribute to
+documentation, development standards, and technical governance
+What do we expect?
+Proven experience as a
+Microsoft Dynamics 365 F&O Developer (3–5+ years)
+Strong knowledge of
+X++ development and D365 F&O architecture
+Experience with
+extensions, customizations, and integrations
+Solid understanding of
+finance, supply chain, or ERP processes
+Experience with
+data migration tools and data management framework (DMF)
+Knowledge of
+Azure DevOps and CI/CD pipelines
+Understanding of
+integration technologies (REST, OData, Azure Service Bus, Logic Apps)
+Good understanding of
+security roles and access control within D365 F&O
+Strong
+analytical and problem-solving skills
+Fluent
+English (written and spoken)
+nice to have:
+Experience with dual-write or integration between D365 F&O and D365 CE
+Experience with Power Platform (Power Automate, Power Apps)
+Experience with Azure cloud services
+Microsoft certification in Dynamics 365 Finance or Supply Chain Management
+Experience working in Agile/Scrum environments
+Knowledge of DevOps ALM best practices
+German language
+Benefits
+Compensation and rewards:
+Boost your earnings with
+bonuses
+(company performance, project, or extra performance bonus)
+Invest in yourself with a yearly
+well-being budget
+(up to €2,000)
+Earn
+referral bonus
+(up to €3,000)
+Secure your future with a
+pension plan contribution
+Flexibility and Work-Life Balance:
+Flexible working hours
+that adjust to your personal needs
+Choose your work environment –
+100% remote
+or modern
+offices: Košice, Bratislava, Prague
+Personal and Professional Development:
+Sharpen your skills with extensive
+training & certifications
+Boost your language skills with
+language courses
+Wellbeing and Culture:
+Build bonds through
+team-building activities & company events
+like the VolleyCup and Christmas party
+Join our
+family culture
+and participate in diverse
+interest groups
+like bikers, runners, gamers, and more
+Invest in your well-being with a
+MultiSport card
+Promote your mental health with
+confidential psychological support
+Hiring process
+Has the job offer captured your interest? Please fill out the
+application form
+and let us know about yourself.
+We will assess the information you send us and
+will get back
+to you under any circumstances.
+We will contact the chosen applicants and
+specify the details
+.
+A job
+interview with a hiring manager
+is a two-way opportunity to get to know each other better. The hiring process also includes a
+second interview
+with the customer directly.
+We will inform you about the feedback from the interview as soon as possible. Successful candidates will receive a
+job offer.
+Contact
+Contact person: Monika Sojková
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5254852
+Dátum zverejnenia:
+21.3.2026
+2026-03-21
+lokalita:
+Remote work
+Pozícia:
+Backend developer
+,
+iOS Developer
+Spoločnosť:
+Fpt Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+3 000 EUR/month

@@ -1,0 +1,110 @@
+Medior Java/Python Engineer – Cloud & APIs
+SourceFirst International s.r.o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+Based on agreement
+Wage (gross)
+2 800 - 4 300 EUR/month
+Final salary depends on candidate´s experience.
+Information about the position
+Job description, responsibilities and duties
+For our client we're looking for talented  Java+Python developers who can deliver well-structured, maintainable code and contribute to robust architectures for microservices, APIs, security, and data management. In this position, you’ll play a central role in enhancing and supporting internal insurance technology systems, primarily using Java and Python. You’ll work within one of client´s core engineering teams, developing critical features that directly affect business outcomes
+Key responsibilities include:
+- Design and develop backend services using Java and Python that power our data governance platform
+​- Create and maintain API-based interfaces that expose metadata and governance information
+​- Engineer database solutions with focus on schema design, data models, and maintaining data integrity
+​- Build and operate cloud services on Microsoft Azure following enterprise standards
+​- Implement security measures when handling sensitive risk-related metadata
+​- Enhance existing code to increase clarity, maintainability, and overall robustness
+​- Collaborate across teams with development, DevOps, and business analytics professionals
+​- Apply secure-by-design principles throughout the development lifecycle
+​- Implement authentication systems using OAuth2 for API security
+​- Develop comprehensive testing including unit and integration tests to ensure quality​
+Employee perks, benefits
+​​- flexible working time
+​​- hybrid type of home-office
+​​- kindergarten - available in our building
+​​- yearly salary re-evaluation
+​​- sick days
+​​- MultiSport card
+​​- mental & medical health support
+​​- public transport donation​​
+Information about the selection process
+Please send your CV to martin.lukac@sourcefirstinternational.com
+We always have several positions for IT Specialists not only in Slovakia and the Czech Republic, but also on foreign projects.
+Expected date of completion of the selection process
+1.6.2026
+(there are still 69 more days)
+Company on whose behalf the position is being filled
+Information technology, computer programming, web portals
+Our client is a leading international tech company and provides a wide range of products and services.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+Follow-up/Higher Professional Education
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Personality requirements and skills
+​
+Must Have Skill
+​
+Solid experience with Java and working knowledge of Python
+Experience designing and maintaining RESTful APIs
+Strong understanding of database schemas, data modelling, and relational concepts
+Experience with Microsoft Azure or a comparable cloud platform (GCP/AWS)
+Familiarity with OAuth2 and API security mechanisms
+Experience with unit and integration testing
+Comfortable working in a globally distributed team
+Fluent communication in English
+Nice to Have Skills
+Experience with metadata-driven systems or data governance platforms
+Familiarity with AI coding agents and responsible use in software development
+Exposure to regulated or risk-related environments
+Understanding of CI/CD and DevOps collaboration models
+Experience working in financial services or risk management domains
+Advertiser
+Brief description of the company
+Recruitment Agency with European focus.
+SourceFirst International s.r.o. portfolio of services:
+Technology Recruitment across Europe
+Recruitment Outsourcing
+Sourcing and Recruitment of permanent, contract and interim talent
+Strategy CVs Sourcing
+Executive Search
+Number of employees
+25-49 employees
+Contact
+Contact person: Martin Lukac
+Tel.:
++421902235397
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5255085
+Dátum zverejnenia:
+23.3.2026
+2026-03-23
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Java Programmer
+,
+Programmer
+,
+Software Engineer
+Spoločnosť:
+SourceFirst International s.r.o.
+Základná zložka mzdy (brutto):
+2 800 EUR/month

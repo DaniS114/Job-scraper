@@ -1,0 +1,68 @@
+Cég neve
+UNIX AUTÓ KFT.
+Munkavégzés helye
+1139 Budapest, Frangepán utca 55.
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Alkalmazotti jogviszony
+Elvárások
+Nem kell nyelvtudás
+3-5 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Alkalmazotti
+jogviszony
+Nem
+kell nyelvtudás
+3-5
+év tapasztalat
+Főiskola
+
+Állás leírása
+Céginformáció
+A 35 éves Unix Autó Magyarország piacvezető és Közép-Európa egyik meghatározó autóalkatrész-kereskedelmi vállalata. 3 országban közel 3000 munkatárssal és mintegy 180 áruházban szolgáljuk ki partnereinket és vásárlóinkat. Büszkék vagyunk rá, hogy eredményes működésünk elismeréseként 2016-ban megkaptuk az „Év Magyar Vállalata” címet, sokszoros Magyar-és Superbrands díjas vállalat vagyunk.
+Felelős munkaadóként anyagi biztonságot és stabil munkahelyet nyújtunk munkavállalóinknak.
+Jelentkezz Te is és csatlakozz hozzánk az alábbi pozícióban:
+Szenior Beágyazott Szoftverfejlesztő
+Feladatok
+Raktárautomatizáláshoz kapcsolódó berendezések és intelligens raktári robotok beágyazott szoftverének fejlesztése;
+Többprocesszoros, elosztott szoftverrendszerek tervezése és fejlesztése;
+Beágyazott Linux alapú rendszerek konfigurálása, testreszabása és fejlesztése;
+Prototípus alrendszerek és berendezések üzembe helyezésének támogatása, valamint tesztelési folyamatokban való részvétel;
+Szoros együttműködés a fejlesztőcsapat tagjaival, különösen hardver- és gépészmérnökökkel.
+Elvárások
+Felsőfokú, szakirányú végzettséggel rendelkezel;
+Legalább 3–5 év tapasztalatod van beágyazott szoftverfejlesztésben (C/C++, ARM architektúra, STM32, beágyazott Linux környezet);
+Önálló, felelősségteljes munkavégzés jellemez;
+Kiváló analitikus gondolkodással és problémamegoldó képességgel rendelkezel.
+Előnyt jelent
+Valós idejű operációs rendszerekkel szerzett tapasztalat– Linux, FreeRTOS, Micrium;
+Hálózati protokollok és kommunikációs bus-ok ismerete – IP, Uart, CAN, I2C, Modbus;
+Linux alapú fejlesztői környezetben szerzett tapasztalat, valamint Git, Bash, CI/CD és Buildroot/Yocto ismerete.
+Amit kínálunk
+Tapasztalathoz és a pozíció felelősségi szintjéhez igazított, versenyképes juttatási csomag;
+Részese lehetsz egy hosszú távú, stratégiai jelentőségű fejlesztésnek egy sikeres nagyvállalatnál;
+Jól felszerelt prototípus labor, gépműhely;
+Prémium munkaeszközök céges és privát felhasználásra is;
+Céges kondibérlet prémium fitneszhálózatba;
+Saját étterem, kedvezményes étkezési lehetőség;
+Ingyenes parkolási lehetőség.
+A munkavégzés
+normál munkaidőben történik (08:00–17:00), napi 1 óra ebédidővel
+. A feladatok jellege miatt a munkavégzés
+személyes jelenlétet
+igényel.
+Munkahelyi extrák
+Parkoló
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Álláshirdetés jelentése

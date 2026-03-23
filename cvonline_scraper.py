@@ -143,4 +143,4 @@ if found_ids:
 
 # CSV mentés
 df.to_csv(csv_path, index=False, encoding="utf-8-sig")
-print("\nKÉSZ! A CVOnline adatbázis frissítve.")
+print("\nKÉSZ! Az adatbázis és a TXT-k frissítve lettek.")

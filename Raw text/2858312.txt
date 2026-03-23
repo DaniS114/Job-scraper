@@ -1,0 +1,118 @@
+Cég neve
+SEON Technologies Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BACKEND
+REACT
+NOSQL
+SECURITY
+DOCKER
+AWS
+API
+AGILE
+REST
+DATABASE
+ACCESS
+NODEJS
+AUTOMATED TESTS
+Elvárások
+Angol középfok
+3-5 év tapasztalat
+Középiskola
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+BACKEND
+REACT
+NOSQL
+SECURITY
+DOCKER
+AWS
+API
+AGILE
+REST
+DATABASE
+ACCESS
+NODEJS
+AUTOMATED
+TESTS
+Angol
+középfok
+3-5
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Contribute to the ID Verification team, developing a vital and growing product within SEON
+Deliver high-quality NodeJS, TypeScript and React code with simplicity, performance, and scalability in mind
+Maintain & develop in NodeJS, TypeScript, React, NestJS, REST, RDBMS & backend of applications
+Support, refine and suggest improvements to the current codebase
+Provide expertise, review pull requests of other team members suggesting improvements and best practices
+Help during the whole Software Development Life Cycle including design of new features and services
+Bring an engineering mindset focused on scalability and continuous improvement
+Requirements
+At least 3+ years experience in fullstack software engineering (NodeJS, TypeScript, React, REST, RDBMS, NOSQL)
+Agile & iterative mindset (end-to-end responsibility; you build it, you run it)
+Experience in API design and development, with understanding of RESTful principles
+End to end ownership from product requirements, planning, implementation and rollout
+Strong experience in automated tests
+Demonstrated ability to debug and troubleshoot issues across a distributed system
+Understanding of data modeling and querying, particularly in a relational database context
+Familiarity with security considerations in web applications and APIs
+Experience in containerization (Docker) and Kubernetes
+Excellent problem-solving skills
+English Language Proficiency
+Experience in AWS
+Nice-to-have
+Hands on experience with SDK development is amazing if you have, Hands on experience with ID Verification is amazing if you have
+What we offer
+Full time employment
+Hybrid work schedule based in Budapest office
+Opportunity to work on impactful projects in a growing company
+Employee stock ownership plan (ESOP)
+National holidays and generous holiday allowance
+Flexible work schedule
+Enhanced parental leave policies
+Private health insurance including coverage for spouse and dependents
+Hybrid working environment with remote and office collaboration
+Employee assistance and mental health support platform
+Monthly company breakfast and weekly lunch allowance
+Access to learning and development opportunities including external L&D
+Weekly language courses in 40+ languages
+Book allowance for business books
+Workplace extras
+Canteen
+Cafe
+Corporate events
+Bicycle storage
+Free fruits, snacks
+Free coffee, soft drinks
+Free breakfast
+Free lunch
+Play corner
+Company info
+SEON is the command center for fraud prevention and AML compliance, helping thousands of companies worldwide stop fraud, reduce risk and protect revenue. Powered by 900+ real-time, first-party data signals, SEON enriches customer profiles, flags suspicious behavior and streamlines compliance workflows - all from one place. SEON provides richer data, more flexible and transparent analysis, and faster time to value than any other provider on the market. We’ve helped companies reduce fraud by 95% and achieve 32x ROI, and we’re growing fast, thanks to our partnerships with some of the world’s most ambitious digital brands like Revolut, Wise, and Bilt.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Budapest
+Álláshirdetés jelentése
