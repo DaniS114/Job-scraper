@@ -1,0 +1,107 @@
+Front-end heavy full-stack developer
+Liberum s. r. o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Start date
+by agreement
+Wage (gross)
+5 000 EUR/month
+month fix salary depends on your experience
+Information about the position
+Job description, responsibilities and duties
+We are looking for a skilled full-stack developer (front-end heavy) for a globally focused fintech company based in Bratislava that aims to transform the way people understand and manage their finances.
+About the project:
+Our client is building a platform for intelligent investment decision-making. The solution combines real market data (stocks, ETFs, bonds, commodities, and macroeconomic indicators) with AI agents that generate analyses, predictions, and portfolio recommendations.
+The project is currently in the prototype phase, and the client is looking for backend developers to join their team. We are looking for someone who can give this platform a face.
+What you will do:
+Web Dashboard
+Build an investment dashboard from scratch — portfolio overview, watchlists, charts, alerts
+Connect the frontend to the existing REST API (FastAPI backend)
+Implement authentication (JWT flow — login, registration, protected routes)
+Visualize financial data — price charts (candlestick, line), portfolio breakdown (pie, treemap), performance metrics
+Real-time updates via WebSocket (price quotes, notifications)
+Responsive design — desktop-first but mobile-friendly
+React Native App
+Share business logic between web and mobile (shared hooks, API client, types)
+Push notifications for price alerts and portfolio changes
+Simple mobile-first UI — portfolio snapshot, quick actions
+Employee perks, benefits
+Opportunity to be at the very beginning of a new international fintech project (opportunity to work on a real product from scratch — not maintaining legacy code)
+Collaboration with experienced professionals from the global finance and AI sectors
+Modern tech stack without technical debt
+Free access to AI tooling
+Flexible working hours, home office available (office in Bratislava)
+Small team = big impact on the product and architecture
+Information about the selection process
+We will carefully review every application. Only candidates who meet the requirements and qualifications for the position will be contacted.
+What we want to see -
+Ideally:
+Portfolio / personal website showcasing your work
+GitHub with React/Next.js projects
+Or simply a link to something you built that looks great.
+A link showing what you can do is enough.
+Company on whose behalf the position is being filled
+Banking, finance
+The company focuses on developing innovative digital solutions that make financial analysis and trading more intuitive, data-driven, and accessible to a wider audience.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Experience in the position/sector
+IT
+Number of years of experience
+3
+Personality requirements and skills
+What we expect from you
+Must have:
+2+ years of React experience (functional components, hooks, custom hooks)
+TypeScript — types, generics, avoid any everywhere
+Experience with Next.js (or strong interest in learning it)
+CSS — Tailwind or CSS-in-JS, responsive layouts, ability to create a polished UI
+Experience integrating REST APIs (fetch, axios, React Query)
+Git workflow, code review experience
+React Native / Expo experience
+Nice to have:
+Financial charts (candlestick, technical indicators)
+WebSocket / real-time UI
+Figma → code workflow
+Experience with dashboards / admin panels / data-heavy UI
+AI tooling
+Advertiser
+Brief description of the company
+The company holds a valid license for employment mediation.
+The company is a holder of a licence to offer recruitment services.
+Number of employees
+1 employee
+Contact
+Contact person: Mgr.  Marianna Zálesňáková
+Tel.:
++421905555600
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5256867
+Dátum zverejnenia:
+25.3.2026
+2026-03-25
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+,
+Frontend developer
+Spoločnosť:
+Liberum s. r. o.
+Základná zložka mzdy (brutto):
+5 000 EUR/month

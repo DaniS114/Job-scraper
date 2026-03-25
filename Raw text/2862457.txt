@@ -1,0 +1,85 @@
+Cég neve
+Ericsson GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+NETWORK
+PYTHON
+C++
+JAVASCRIPT
+BASH
+DOCKER
+GIT
+UNIX
+AGILE
+SCRUM
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+NETWORK
+PYTHON
+C++
+JAVASCRIPT
+BASH
+DOCKER
+GIT
+UNIX
+AGILE
+SCRUM
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+Lead and shape system studies to define the evolution of next-generation cloud and network architectures.
+Conceptualize, design and deliver AI prototypes and PoCs, and assess their technical and customer impact.
+Build scalable, secure agentic systems and APIs, and drive model integration for inference and deployment.
+Promote AI efficiency tools and mentor less experienced developers to raise team capabilities.
+Coordinate technology and governance activities across PDUs, ensuring alignment with SA, BA and Ericsson architecture frameworks.
+Requirements
+A BSc/MSc (or equivalent) in a technical field and strong software engineering experience (Python required; familiarity with C++, JavaScript, Bash a plus).
+Hands-on experience with ML/AI tooling (for example PyTorch, LangChain/LangGraph, vLLM, RAG/MCP) and model training/inference workflows.
+Proven experience building scalable, high-performance systems (cloud-native technologies such as Docker, Kubernetes, Helm) and working with CI/CD, Git and UNIX-based workflows.
+Strong communication and team leadership skills, ability to explain complex concepts clearly, and experience working in agile/Scrum environments.
+Curiosity, flexibility and a results-oriented mindset; deep knowledge of agentic AI architectures and experience running complex AI projects is a strong plus.
+Proficient German language skills are required for this role.
+What we offer
+An international working environment with cooperative teams
+Flexible working hours as well as hybrid working
+30 vacation days per year
+Excellent learning and personal development opportunities within Ericsson Corporation, regular courses, seminars, and on-the-job training
+Ergonomic workplace
+Company cell phone also for private use
+Corporate benefits-portal with special conditions for travel, insurance, events, fashion, and much more
+Corporate Health Management
+Company info
+System Designer – Cloud Infrastructure (m/f/d)
+Ericsson is one of the leading providers of Information and Communication Technology (ICT) to service providers, with about 40 % of the world-s mobile traffic carried through our networks. We enable the full value of connectivity by crafting ground­breaking technology and services that are easy to use, adopt and scale, making our customers successful in a fully connected world. For more than 140 years, our ideas, technology and people have changed the world: real turning points that have transformed lives, industries and society as a whole. Are you in?
+About this opportunity:
+We are looking for a System Designer – Cloud Infrastructure to join the Cloud, Common & Solutions System & Technology team in Herzogenrath. In this role you will drive system-level thinking and technology leadership for Cloud Infrastructure, ADP and Core Network Solutions with a strong focus on AI and next-generation architectures. You will run system studies, design and prototype AI-driven features and help evolve our products toward more autonomous, 6G-ready cloud-native solutions. This position offers the chance to influence product strategy, collaborate across Product Development Units and coach colleagues in AI best practices.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT,
+Development Manager
+Germany
+Álláshirdetés jelentése

@@ -1,0 +1,79 @@
+Cég neve
+Karlsruher Institut für Technologie (KIT) Campus Nord
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+HARDWARE
+C++
+PYTHON
+LINUX
+GIT
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+HARDWARE
+C++
+PYTHON
+LINUX
+GIT
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Earth system models (ESMs) are highly complex software systems that have often developed over several decades. In addition to the core model that com­putes meteorological processes, an ESM includes a wide range of specialized submodels - such as those for cloud microphysics or atmospheric chemistry - interconnected through well-defined interfaces. The computational demands of ESMs are immense, but their high degree of parallelism enables long-term climate simulations on modern HPC clusters. Continuously adapting these models to the latest hardware and software developments remains an ongoing challenge.
+Your responsibilities in this area will include the following tasks (in close collab­oration with domain scientists):
+Ensuring the sustainability of community ESM codes, and enabling the adop­tion of modern HPC systems
+Enabling and improving high-performance computing capabilities of ESM codes, including performance optimization
+Contributing to porting ESM codes to heterogeneous HPC architectures, in­cluding GPU-accelerated systems
+Participation in model developments with regard to the further development of an improved simulation of the Earth system
+Participate in the NHR ESM community through software development support and user outreach
+Carrying out own research in atmospheric modeling, including running and ana­lyzing ESM simulations
+Participating in scientific conferences and contributing to peer-reviewed publi­cations
+Requirements
+Degree (Master's level) and doctorate in atmospheric research, computer science, physics, engineering or a related field
+Strong knowledge in the programming languages Fortran, C++, and Python
+Solid background in build engineering, including Makefile development, compiler configurations, build optimization, and experience with Linux-based HPC clusters
+Good software development practices, including version control with Git, doc­umentation, and CI/CD workflows
+Substantial experience with distributed- and shared-memory parallelization using MPI and OpenMP. Additional background in developing for heteroge­neous architectures (e.g., CUDA or ROCm) is advantageous
+Familiarity with modern deep learning frameworks (e.g., PyTorch or Tensor­Flow) and contemporary AI models, such as transformer-based models or convolutional neural networks, is advantageous
+Strong communication and presentation skills and the ability and motivation to work effectively in a team
+Good written and spoken English skills; German language skills are an advantage
+What we offer
+of staff of the only German University of Excellence that conducts large-scale research on the national level. Work under excellent working conditions in an international environment and be active in research and aca­demic education for our future. Benefit from specific training when starting your job and from a wide range of further qualification offers. Use our flexible working time models (flexitime, work from home), our sports and leisure offers, as well as our child and holiday care services. We also pay a share of EUR 25/month in the Job Ticket Baden-Württemberg. Enjoy a large variety of dishes, snacks, and beverages at our canteens.
+We prefer to balance the number of employees (f/m/d). Therefore we kindly ask female applicants to apply for this job.
+Recognized severely disabled persons will be preferred if they are equally qualified.
+Company info
+Karlsruhe Institute of Technology (KIT) – The University in the Helmholtz Association
+In close partnership with society, KIT develops solutions for urgent challenges – from climate change, energy transition and sustainable use of natural resources to artificial intelligence, sovereignty and an aging population. As The University in the Helmholtz Association, KIT unites scientific excellence from insight to application-driven research under one roof – and is thus in a unique position to drive this transformation. As a University of Excellence, KIT offers its more than 10,000 employees and 22,800 students outstanding opportunities to shape a sustainable and resilient future.
+KIT – Science for Impact
+.
+We are looking for the Scientific Computing Center (SCC) as soon as possible and limited for up to 2 years for a
+Research Software Engineer / Scientific Researcher (m/f/d)
+The Scientific Computing Center is the Information Technology Center of KIT.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

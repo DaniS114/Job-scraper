@@ -1,0 +1,88 @@
+Cég neve
+European Southern Observatory (ESO)
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+TESTING
+DEVOPS
+C++
+PYTHON
+LINUX
+ASSEMBLY
+GIT
+ANSIBLE
+JENKINS
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+TESTING
+DEVOPS
+C++
+PYTHON
+LINUX
+ASSEMBLY
+GIT
+ANSIBLE
+JENKINS
+Angol
+középfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+We are looking for one or two software engineers to join the team which is implementing control software for the ELT and its instruments. The CSE department comprises a team of almost 50 engineers organized in 5 groups and is responsible for the definition, design and implementation of complex control systems for ESO's telescopes and instruments. The main effort in CSE is spent for the ELT programme, but CSE is also supporting the other ESO programmes using a matrix organization.
+The Control System of the ELT is split into the central control system which is implemented by ESO in house. Most of the local control systems are delivered as part of industry contracts. The CSE team is responsible to integrate all components of the ELT control system first in a test environment in ESO's headquarter in Garching and later on at the ELT construction site.
+Requirements
+Key Competences and Experience:
+Essential
+You have worked at least 3 years in software development with C++ and/or Python under Linux, ideally implementing distributed control systems. You are familiar with modern software development environments and a modern tool chain. You will be member of the team integrating local control software delivered by suppliers with the central control software and other local control software. Your responsibility will cover the definition and implementation of test cases and the evaluation of the test results. Another aspect of your work will be, to maintain and extend CSE's software development and test environment DevOps tool chain.
+If you are interested, there could be the possibility to join the ELT AIV (Assembly, Integration and Verification) team in Chile for 1-2 years.
+Desirable
+If you have worked with Programmable Logic Controllers (PLCs), especially from Beckhoff and Siemens, this will be an asset. Knowledge of concrete tools in our tool chain like Git/Gitlab, Puppet, Ansible or Jenkins would be an advantage.
+Reports to:
+The head of the infrastructure and integration group (CISI).
+Qualifications:
+University degree in computer science or equivalent.
+Language Skills:
+Excellent command of the English language is essential; a working knowledge of German or Spanish would be an advantage.
+What we offer
+Remuneration and Contract:
+We offer an attractive remuneration package including a competitive salary (free of income tax for applicants from ESO member states), comprehensive pension scheme and medical, educational and other social benefits, as well as financial help in relocating your family and support to place your child/children in daycare.
+Our Salary Structure
+ESO's salary structure is based upon a range of career paths which reflect the nature and level of our jobs. Each career path is made up of two or three grades which are used to further reflect experience.
+Please follow this attached link for more details
+ESO aims to support members of personnel in maintaining a good work-life balance (
+) between their professional and private life. ESO is also committed to offering family-friendly support (
+), creating a work environment and policies which allow staff to balance their professional and private responsibilities through flexible working arrangements and financial support for families.
+The contract is for a fixed term duration of three years and is subject to successful completion of the probation period. There may be a possibility of extension(s) subject to individual performance and organisational requirements, and as defined in the applicable policies and staff rules and regulations. For any further information, please visit ESO's conditions of employment (
+). Please note that the contract policy and in particular the regulations concerning fixed-t erm and indefinite contracts are currently under review which may lead to changes in the contractual conditions applicable to this position.
+Duty Station:
+Garching near Munich, Germany with regular duty trips to all ESO sites in Chile.
+Career Path:
+V
+Company info
+Due to the need for additional resources associated with the ELT programme, for its Control Software and Engineering Department (CSE), within the Directorate of Engineering (DoE) at its Headquarters in Garching, near Munich, Germany, ESO is advertising the position of a
+Software Engineer - Integration Testing and DevOps
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Programmer,
+Developer
+Germany
+Álláshirdetés jelentése

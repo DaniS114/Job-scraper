@@ -1,0 +1,97 @@
+Cég neve
+SAP SE
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+PYTHON
+JAVA
+ACCESS
+SPRING
+TESTING
+CLOUD
+@SAP.
+REST
+MAVEN
+Elvárások
+Angol felsőfok
+1-3 év tapasztalat
+Főiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+PYTHON
+JAVA
+ACCESS
+SPRING
+TESTING
+CLOUD
+@SAP.
+REST
+MAVEN
+Angol
+felsőfok
+1-3
+év tapasztalat
+Főiskola
+
+Állás leírása
+Responsibilities
+What you'll do
+As a Senior Developer (f/m/d) on our AI Core SDKs team, you will be at the forefront of enabling enterprise-grade generative AI. Your primary focus will be to lead the architectural vision and development of the essential libraries that developers worldwide use to integrate powerful AI capabilities into SAP applications. In this position, you will:
+Design, develop, and maintain SAP's official AI Core SDKs for Python, Java, and TypeScript.
+Drive the architecture and technical strategy for our SDKs, making key decisions to ensure they are scalable, consistent across languages, and an excellent developer experience. You'll take end-to-end responsibility for delivering high-quality features.
+Implement and advance critical SDK capabilities, such as secure access to Large Language Models (LLMs), content filtering, and 'document grounding' and build and maintain integrations with popular AI frameworks such as LangChain, LiteLLM, and Spring AI.
+Design robust, type-safe SDK clients by generating code from OpenAPI specifications, using techniques such as code generation and shared design patterns across languages.
+Define the team's best practices for SDK design, automated testing, versioning, and maintaining backward compatibility. You will set the 'rules of the road' that ensure our software is stable and reliable for the long term.
+Actively guide and support other engineers, contributing to a strong team culture through thoughtful code reviews, knowledge sharing, and technical guidance.
+Work closely with other engineering teams, product managers, and stakeholders to ensure our SDKs solve real-world problems for developers.
+Guarantee a great developer experience by working closely with stakeholders and overseeing comprehensive testing, writing clear documentation, and creating practical sample applications.
+Requirements
+Degree in Computer Science or a related engineering field.
+Proven, hands-on expertise in at least one of our core languages (Python, Java, or TypeScript) and the ability to confidently work across multiple languages.
+Practical experience designing, building, and consuming modern web services, including REST APIs, OpenAPI specifications, and HTTP client patterns (e.g., connection management, retries, streaming).
+Proven experience with the tools and processes that power modern software, including:
+Build tools and package ecosystems (e.g., pip/PyPI, Maven, npm/pnpm).
+Continuous integration/delivery (CI/CD), automated testing strategies, and release management.
+The ability to articulate complex technical vision and decisions clearly in fluent English language skills, both in writing and verbally.
+Beneficial
+Familiarity with generative AI concepts like chat completions, embeddings, prompt engineering, or RAG will help you lead technical discussions.
+Knowledge of AI Frameworks such as LangChain, LiteLLM, or Spring AI.
+Familiarity with SAP Business Technology Platform (BTP), Cloud Foundry, or Kyma.
+Experience contributing to or maintaining open-source projects.
+What we offer
+What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+We win with inclusionSAP's culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team:
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 447788 | Work Area: Software-Design and Development | Expected Travel: 0 - 10% | Career Status: Professional | Employment Type: Regular Full Time | Additional Locations: #LI-Hybrid
+Company info
+We help the world run better
+At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong.
+Where you belong
+Our team develops the official SAP Cloud SDKs for AI — the Python, Java, and TypeScript libraries that make SAP AI Core, the Generative AI Hub, and the Orchestration Service accessible to developers building enterprise AI applications. We are an integral part of the SAP Business AI area within SAP, driven by our mission to provide best-in-class developer experiences that empower customers to harness the full potential of generative AI in their business processes.
+You will work with a highly skilled team that is based across locations in Germany, India, and Singapore. As part of our team, you will have the unique opportunity to shape the tools that thousands of developers use to build AI-powered SAP applications — working at the intersection of SDK engineering, generative AI, and enterprise software.
+Our team fosters a dynamic and innovative work environment with an open-minded and flat-hierarchy culture within the global enterprise business. We offer room for experimentation, embrace promising new ideas, and are open to change less fruitful habits. We are a multi-cultural team with diverse personalities and bright, fact-driven minds that like to challenge each other to ultimately achieve the best possible outcome for our customers.
+Bring out your bestSAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

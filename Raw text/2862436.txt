@@ -1,0 +1,95 @@
+Cég neve
+ALDI Einkauf SE & Co. oHG
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+BI
+DEVOPS
+ANALYTICS
+PYTHON
+SQL
+SPARK.
+AZURE
+GIT
+SCRUM
+POWER BI
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+BI
+DEVOPS
+ANALYTICS
+PYTHON
+SQL
+SPARK.
+AZURE
+GIT
+SCRUM
+POWER
+BI
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+Design, develop, and operate reporting solutions for Procurement on our Data Lake - together with our team
+Take end-to-end responsibility for your reporting products: connecting data sources, developing and optimizing complex ETL pipelines, and modeling data according to a star schema
+Collaborate closely with BI Engineers through joint conceptualization and refinement of user stories to optimize and extend our data models.
+Ensure the continuous operation of our solutions by handling user tickets and supporting daily operational processes
+Perform adhoc analyses to support strategic decisionmaking
+Work with state-of-the-art tools and methodologies such as DataOps, DevOps, and Scrum — continuously expanding and sharing your knowledge with your colleagues
+Provide expertise to understand complex interdependencies, make well founded architectural decisions, and ensure long term system stability
+Contribute to our strategic initiatives by centrally consolidating diverse business requirements and aligning costs and value creation in the reporting context
+Requirements
+At least 5years of professional experience in Data Engineering, Business Intelligence or Data Analytics — preferably in the retail industry
+A completed degree in Mathematics, Computer Science, Natural Sciences, Engineering (STEM)or a comparable qualification
+Strong expertisein developing ETL pipelines, ideally with Python, SQL, or Spark.
+Experience with Big Data technologies, especially Databricks together with Microsoft Azure ecosystem (e.g. Azure Data Lake, Azure Data Factory, Azure DevOps), as well as SQL Server and Git;
+Optional but beneficial:
+Power BI, Tabular Editor, Terraform, ARM
+The ability to understand complex data structures, make robust architectural decisions, and ensure longtermstability of data products
+Ideally, practical experience working with large and complex datasets
+Relevant certifications are a plus: AZ900, Databricks Certified Data Engineer Associate
+A strong teamplayer with high levels of commitment, independence, and creative problemsolving
+Good English skills, both written and spoken
+What we offer
+Modern Work Environment:
+Work on the ALDI Nord campus with an open-space concept, company cafeteria, café, parent-child office, and parking garage including electric charging stations
+Work-Life Balance:
+Flexible working hours and a hybrid working model with the possibility of partial remote work (up to 40%) as well as 30 vacation days (full-time)
+Mobility:
+Free electric charging at the ALDI Nord campus, coverage for the Deutschlandticket, or a travel allowance
+Healthcare & Prevention:
+Company-owned gym as well as gym partnerships.
+Onboarding & Training:
+Structured onboarding and a variety of opportunities for personal and professional development (e.g., ALDI Academy, eLearning, etc.)
+Impact & Team Power:
+High degree of creative freedom and unbeatable team power in a high-performance work environment
+Salary & Employee Discounts:
+Secure job with the pioneer of discounts offering an attractive salary and corporate benefits
+Company info
+The ALDI Nord group is one of the leading food retailers. For over 110 years, ALDI has stood for the creation of the discount principle. Our mission is to provide people everywhere and anytime with their daily essentials: quality products at low prices – simply and quickly. This also includes making shopping as easy as possible for our customers. That's why we give our best every day and reinvent ourselves time and again. Combined talent and commitment - that is the POWER behind our success stories. Across Europe in 8 countries with around 5,400 stores and more than 91,000 employees. We are: Simply ALDI. Powered by people.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

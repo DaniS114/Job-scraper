@@ -1,0 +1,104 @@
+Cég neve
+MISUMI Europa GmbH
+Munkavégzés helye
+Hibrid
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANALYTICS
+SQL
+API
+ACCESS
+SECURITY
+GIT
+DATABASES
+POSTGRESQL
+ORACLE
+JAVA
+AGILE
+BITBUCKET
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANALYTICS
+SQL
+API
+ACCESS
+SECURITY
+GIT
+DATABASES
+POSTGRESQL
+ORACLE
+JAVA
+AGILE
+BITBUCKET
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+As a Data Engineer, you will play a key role in designing, building, and operating data pipelines and integrations that power our analytics, reporting, and data-driven applications. Your focus lies on reliable data ingestion, ETL-based data integration, and enabling high-quality data flows across our data platform. Become part of our multinational team of around 300 employees from more than 33 different nationalities across Europe. Diversity is our strength! We look forward to welcoming highly motivated new team members to our IT department, which currently consists of 22 people working closely together.
+Your tasks will include the following activities:
+Data Engineering:
+You design, build, and maintain scalable, resilient, and secure data pipelines, ensuring high-quality data flows and operational stability across the platform.
+Data Integration
+:
+You develop, operate and optimize ETL/ELT processes for batch jobs and API-driven data integrations using our ETL platform (e.g., Talend) as well as implementing reusable components, connectors, and integration patterns.
+Data Source Discovery & Ingestion
+:
+You identify, assess, and acquire relevant internal and external data sources for analytics and integration use cases while evaluating their data quality, data models, access methods, SLAs, and overall integration feasibility.
+Data Governance & Continuous Improvement:
+You also ensure compliance with data governance, platform standards, and security policies while proactively identifying opportunities for automation and continuous improvement.
+Collaboration & Engineering Practices
+:
+You collaborate closely with cross-functional teams in an agile environment, contributing to CI/CD pipelines, version control (Git/Bitbucket), code reviews, and documentation best practices.
+Requirements
+You have 3-5 years of professional experience in data engineering, working with ETL platforms (preferably Talend) for batch and API integrations.
+You have a very good understanding of data ingestion patterns, schema evolution, data quality principles, and data modeling.
+You possess strong SQL skills and a solid understanding of relational databases (e.g., PostgreSQL, Redshift, or Oracle).
+You bring basic Java knowledge and an understanding of software development fundamentals.
+You stand out with strong analytical and problem-solving thinking, teamwork and a structured, proactive working style.
+Diversity is an important part of our global corporate culture. Therefore we are pleased to receive applications from severely disabled people, who are given preference if they have the same qualifications.
+What we offer
+Hybrid working:
+We offer you flexible working between digital work from home and a modern office in the center of Frankfurt (3 days remote / 2 days office).
+Training & Development:
+We give our employees individual training opportunities to develop their skills. In addition, we offer an e-learning platform where you can access various modules from different subject areas at any time.
+Jobticket / JobBike:
+You will receive a Jobticket from us. We also get our employees on bikes – select a JobBike and start cycling.
+Health care:
+Your health is important to us. That's why you benefit from our regular check-ups and our health week with various workshops.
+Gym:
+With us you can stay fit in our in-house gym, whether before work, during your lunch break or after work.
+Childcare:
+We support you in getting a place in the in-house kindergarten in St. Martin Tower (depending on availability).
+Other benefits:
+We want our employees to feel comfortable. That's why we also offer other benefits, such as employee events, corporate benefits or the restaurant in the St. Martin Tower.
+Company info
+MISUMI Europe is not like any other company
+Our journey starts with Konichiwa (こんにちは) - Because with us Japan meets Europe
+We MISUMI, a Japanese group, rely on capable, culturally open and motivated employees in Frankfurt. With more than 20 million products worldwide and 80 trillion configuration possibilities, we are setting new standards in automation technology as well as for stamping dies and injection molding applications
+We offer an exciting and international work environment in connection with performance-based remuneration and opportunities for career development within the company. Join MISUMI and become a part of our team!
+Diversity is an important part of our global corporate culture. Therefore we are pleased to receive applications from severely disabled people, who are given preference if they have the same qualifications.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

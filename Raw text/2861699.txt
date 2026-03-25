@@ -1,0 +1,85 @@
+Cég neve
+Hawk-Eye Innovations Ltd.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+CLOUD
+C++
+DEBUGGING
+AWS
+ACCESS
+NETWORK
+GIT
+VISUAL STUDIO
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Cafeteria
+Teljes
+munkaidő
+Általános
+munkarend
+CLOUD
+C++
+DEBUGGING
+AWS
+ACCESS
+NETWORK
+GIT
+VISUAL
+STUDIO
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Own the technical roadmap for core C++ video frameworks, ensuring modularity, scalability, and optimization for local and distributed environments
+Write and review high-performance, multithreaded C++ code
+Leverage deep knowledge of video codecs and containers using FFmpeg to solve synchronization and transcoding challenges
+Lead technical discussions and contribute to design decisions
+Mentor Senior and Mid-level engineers
+Partner with product teams and customers to refine and deliver solutions for live global sports
+Requirements
+Mastery of modern C++ (ideally up to C++20) with extensive experience writing multithreaded, performance-optimized code
+Significant experience with video, including using FFmpeg and understanding compression standards and bitstreams
+Proven leadership ability to lead people and technical directions
+Comfort with Git, Visual Studio, and advanced debugging workflows for complex distributed systems
+Proactive problem-solving mindset and eagerness to contribute to continuous improvement
+Nice-to-have
+Experience with AWS (EC2, S3, Lambda) or other cloud providers, containerization and elastic video orchestration, Knowledge of GPU acceleration (NVIDIA NVENC/NVDEC), network protocols (SRT, RIST, WebRTC), or libraries like Qt and OpenGL, Passion for sport or experience in high-performance environments where reliability is critical
+What we offer
+Full-Time, Permanent contract
+Salary Banding: HUF 1.8M - HUF 2.5M per month
+Hybrid working model with minimum 2 days a week in the Budapest office
+Annual leave according to local labour law
+Access to sporting events and tickets
+Sony Group Company discounts
+Cafeteria options (SZÉP Card, Nursery & Kindergarten contributions, Annual MOL Bubi Pass)
+Private medical insurance, life & accident insurance, dental clinic discounts
+Seniority awards
+Employee Assistance Program
+Option to purchase an "All You Can Move" Pass
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Product
+owner, -manager
+Budapest
+Álláshirdetés jelentése

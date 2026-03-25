@@ -1,0 +1,97 @@
+Mid/senior python back-end developer
+Liberum s. r. o.
+Place of work
+Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time, trade licence
+Start date
+by agreement
+Wage (gross)
+5 000 EUR/month
+month fix salary depends on your experience
+Information about the position
+Job description, responsibilities and duties
+We are looking for a skilled Python developer for a globally focused fintech company based in Bratislava that aims to transform the way people understand and manage their finances.
+About the project:
+Our client is building a platform for intelligent investment decision-making. The solution combines real market data (stocks, ETFs, bonds, commodities, and macroeconomic indicators) with AI agents that generate analyses, predictions, and portfolio recommendations.
+The project is currently in the prototype phase, and the client is looking for backend developers to join their team.
+What
+you will do:
+Design and implement REST API endpoints (CRUD for portfolios, watchlists, transactions, alerts)
+Implement authentication and authorization (JWT, role-based access)
+Extend the ingestion pipeline — new data sources, backfill strategies, error handling
+Work with async Python — FastAPI, SQLAlchemy 2.0 (async), asyncpg, redis.asyncio
+Write tests (pytest, TDD flow — tests before implementation)
+Participate in architectural decisions (message queues, caching, scaling)
+Review code (including AI-generated code)
+Employee perks, benefits
+Opportunity to be at the very beginning of a new international fintech project (opportunity to work on a real product from scratch — not maintaining legacy code)
+Collaboration with experienced professionals from the global finance and AI sectors
+Modern tech stack without technical debt
+Free access to AI tooling
+Flexible working hours, home office available (office in Bratislava)
+Small team = big impact on the product and architecture
+Information about the selection process
+We will carefully review every application. Only candidates who meet the requirements and qualifications for the position will be contacted.
+Please send your CV and a short description (2–3 sentences) of why the project caught your interest. Ideally, include a link to your GitHub or a project you’re proud of.
+Bonus points for: a pull request to an open-source project, your own side project, or an article/talk on Python/async/DB topics.
+Company on whose behalf the position is being filled
+Banking, finance
+The company focuses on developing innovative digital solutions that make financial analysis and trading more intuitive, data-driven, and accessible to a wider audience.
+Requirements for the employee
+Candidates with education suit the position
+Secondary with school-leaving examination
+University education (Bachelor's degree)
+University education (Master's degree)
+Language skills
+English - Advanced (C1)
+Experience in the position/sector
+IT
+Number of years of experience
+3
+Personality requirements and skills
+What we expect from you
+Must have:
+3+ years of experience with Python backend development (FastAPI or Django/Flask with willingness to transition to FastAPI)
+Experience with PostgreSQL and SQL (joins, indexing, migrations)
+Experience with async Python (asyncio, async/await)
+Habit of writing tests — not necessarily 100% coverage, but core logic must be covered
+Git workflow (feature branches, PR reviews)
+Docker — ability to read Dockerfile, docker-compose.yml, and debug containers
+Nice to have:
+Experience with Redis (queues, pub/sub, caching)
+Experience with financial data
+SQLAlchemy 2.0 (new Mapped syntax)
+Basic knowledge of Kubernetes
+AI tooling
+Advertiser
+Brief description of the company
+The company holds a valid license for employment mediation.
+The company is a holder of a licence to offer recruitment services.
+Number of employees
+1 employee
+Contact
+Contact person: Mgr.  Marianna Zálesňáková
+Tel.:
++421905555600
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5256855
+Dátum zverejnenia:
+25.3.2026
+2026-03-25
+lokalita:
+Bratislava
+Pozícia:
+Backend developer
+Spoločnosť:
+Liberum s. r. o.
+Základná zložka mzdy (brutto):
+5 000 EUR/month

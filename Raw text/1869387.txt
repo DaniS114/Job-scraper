@@ -1,0 +1,83 @@
+Megbízónknál, a
+Ponte.hu Kft.
+-nél webes és mobil megoldásokat fejlesztenek, saját termékekkel és K+F projektekkel. Több mint 20 éve építenek megbízható, skálázható rendszereket, és aktívan használnak AI-asszisztált fejlesztést (Claude Opus 4.6. stb.) a gyorsabb és jobb minőségű szállításért. Emirátusi ügyfelükkel 2025-ben elnyerték a “Best AI Startup in UAE” díjat (World Technology Awards / World AI Technology Expo). A díj elnyeréséről szóló részletes beszámoló a következő linken olvasható:
+[Kattintson a weboldal linkjének megjelenítéséhez]
+World AI Technology Expo Magazin – 2025. november.
+Olyan
+Linux fókuszú system administratort
+keresünk hozzájuk, aki nem csak üzemeltet, hanem
+érti a rendszereket, automatizál, és szívesen fejlődik DevOps irányba
+. És a mindennapokban
+Linux alapú infrastruktúrával, Java és webes alkalmazásokkal, valamint Cloud és AI-alapú megoldásokkal
+dolgozik.
+Várjuk jelentkezésedet az alábbi pozícióba:
+IT RENDSZERGAZDA
+Feladatok:
+Infrastruktúra és üzemeltetés:
+Linux (elsődlegesen) és kisebb részben Windows alapú rendszerek üzemeltetése
+Fizikai és virtuális szerverek kezelése
+Java alapú alkalmazások telepítése és üzemeltetése
+Node.js, Java, Apache, Tomcat webalkalmazások és webszerverek működtetése
+Platform / DevOps jellegű feladatok:
+CI/CD rendszerek (pl. GitLab) üzemeltetése és karbantartása
+Backup megoldások kialakítása és felügyelete
+Monitorozó rendszerek használata és fejlesztése
+Jogosultságkezelés, biztonsági beállítások
+Hálózat és belső IT:
+Hálózati infrastruktúra üzemeltetése és fejlesztése
+Felhasználói eszközök (pl. laptopok) karbantartása
+Ügyfélrendszerek frissítése, karbantartása
+Amit elvárnak:
+Legalább
+2 év tapasztalat
+üzemeltetői és/vagy rendszergazdai munkakörben (elsősorban Linux)
+Folyamatokban való gondolkodás, problémamegoldó szemlélet
+Precizitás, megbízhatóság
+Operációs rendszerek ismerete: Linux + (
+Windows Mac vagy
+)
+Alapvető hálózati ismeretek
+Programozói alapismeretek
+Nyitottság új technológiák iránt
+Fontos számukra, hogy:
+Gyakorlatiasan közelíts az új helyzetekhez, és tudd használni az
+AI-eszközöket és online tudásforrásokat
+arra, hogy egy tegnap még ismeretlen problémára ma már működő megoldást találj.
+Előnyt jelent:
+Linux szerverüzemeltetésben és infrastruktúra-tervezésben szerzett tapasztalat
+Google Workspace adminisztrációs ismeretek
+AWS, GCP környezetben szerzett tapasztalat
+Docker, Kubernetes, CI/CD ismeretek
+Bash vagy egyéb szkriptelési tapasztalat
+Önálló munkavégzés és döntéshozatal
+Aktív csapatmunkában való részvétel
+Amit kínálnak:
+Versenyképes juttatási csomag
+Alkalmazotti vagy vállalkozói jogviszony
+– megegyezés szerint
+Stabil, hosszú távú együttműködés
+Nemzetközi és innovatív projektek
+Támogató, családias légkör, magas szakmai színvonal
+Modern irodai környezet
+Hibrid munkavégzés
+(iroda + home office)
+Céges eszközök (laptop, telefon)
+Közösségi programok: csapatépítők, heti foci
+Kávé, tea, gyümölcsnap, csocsó, darts, Xbox, masszázsfotel
+Nyitottság új ötletekre és
+támogatás a szakmai fejlődésedhez
+Munkavégzés helye:
+Budapest, XIII. kerület
+Kezdés:
+Akár azonnal
+Jelentkezés módja:
+Küldd el számunkra frissített szakmai önéletrajzodat az alábbi
+„Jelentkezés”
+gombra kattintva!
+Mi történik a jelentkezésedet követően:
+A beérkezett pályázatokat partnerünk részére továbbítjuk, ezt követően a kiválasztási folyamat további lépéseit már ők koordinálják.
+Így a további egyeztetések során közvetlen kapcsolatba kerülhet a megbízóval.
+A jelentkezéssel elfogadod a Beck and Partners Kft.
+[Kattintson a weboldal linkjének megjelenítéséhez]
+adatvédelmi tájékoztatóját
+.

@@ -1,0 +1,107 @@
+BI analytik/analytička na oddelení dát
+Magistrát hlavného mesta SR Bratislavy
+Miesto práce
+Laurinská, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok
+Mzdové podmienky (brutto)
+1 900 EUR/mesiac
+od 1900 EUR/mes. - v závislosti od odborných znalostí, pracovných skúseností a schopností
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+​
+Do tímu oddelenia dát hľadáme šikovného kolegu alebo kolegyňu so záujmom o prácu s dátami, reporting a tvorbu prehľadných analytických výstupov. Hľadáme človeka, ktorý má analytické myslenie, zmysel pre detail, záujem o technológie a chuť pracovať s dátami v prostredí verejnej správy. Oceňujeme prirodzenú zvedavosť, samostatnosť pri riešení úloh a schopnosť pretaviť dáta do praktických a užitočných výstupov.​
+​Náplňou práce na pozícii
+BI analytik / BI analytička
+bude najmä systematický reporting a tvorba reportov v prostredí
+MS
+Power BI
+. Táto práca zahŕňa spracovanie a vizualizáciu dát, tvorbu reportov a dashboardov pre interných klientov a rozvoj BI riešení na podporu riadenia mesta. Dôraz je na kvalitu dát, prehľadné výstupy a neustále zlepšovanie reportingu.
+Primárnou úlohou oddelenia dát je zabezpečovanie činností v oblasti zberu, spracovania dát, ktoré slúžia ako podklad pre tvorbu politík Hlavného mesta v rôznych oblastiach (
+data-based policy-making
+). Venujeme sa všetkým aktivitám spojeným s prácou s dátami a sme odborným garantom v oblasti metodológie zberu dát, ich uchovávania, spracovania, vyhodnocovania a diseminácie.
+Rámcová náplň práce:
+Analýza dát na základe požiadaviek interného klienta
+Analýza požiadaviek pre BI riešenia
+Príprava reportov, dashboardov a vizualizácií v prostredí MS Power BI
+Zhromažďovanie informácií a dát nevyhnutných pre reporting
+Práca s dátami pochádzajúcimi primárne z agendových systémov v štruktúrovanej forme (SQL DB)
+Práca s dátami pochádzajúcimi z externých zdrojov (API)
+Práca s kvantitatívnymi štatistickými metódami
+Spolupráca s kolegami z technických oddelení
+Zodpovednosť za komunikáciu s interným klientom
+Zamestnanecké výhody, benefity
+Ponúkame:
+Zaujímavú prácu v dynamickom prostredí.
+Možnosť profesionálneho rastu a rozvoja.
+Prácu v priateľskom a podporujúcom tíme.
+Rovnováha medzi prácou a súkromím je pre nás dôležitá. Pre svojich zamestnancov máme okrem férovej mzdy pripravené aj zaujímavé benefity:
+Peňažné benefity
+Flexibilný pracovný čas a možnosť práce z domu je u nás bežné
+5 dní dovolenky navyše + 2 dni regeneračného voľna
+Psychologické poradenstvo a bezplatný prístup na portál Dobrobytie
+Príspevok až do výšky 3% zo mzdy na tretí dôchodkový pilier
+Príspevok na dopravu a zľava na ročnú električenku
+Zvýhodnený vstup do vybraných mestských inštitúcií ako ZOO, Divadlo P.O.Hviezdoslava, mestské múzeá, galérie, športoviská a iné.
+Multisport karta pre športové vyžitie
+Možnosť vzdelávania a školení
+Príspevok na stravovanie
+Príspevok na rekreáciu a príspevok na športovú činnosť dieťaťa v zmysle zákona
+Referral bonus
+Práca pre najlepšieho zamestnávateľa roka 2025 v oblasti štátna a verejná správa
+Informácie o výberovom konaní
+Zoznam požadovaných dokladov a materiálov:
+1. Motivačný list
+2. Životopis
+Ak máte záujem o túto pozíciu, zašlite nám svoj aktuálny životopis a motivačný list najneskôr do 07.04.2026.
+Na základe zaslaných podkladov vyberieme najvhodnejších uchádzačov a uchádzačky, s ktorými sa následne dohodneme na ďalšom postupe a účasti na osobnom pracovnom pohovore. Budeme sa tešiť na Vaše prihlášky.
+Na osobné stretnutie si zamestnávateľ vyhradzuje právo pozvať len vybraných kandidátov/tky.
+Táto pozícia sa aktuálne obsadzuje ako dočasné zastúpenie počas materskej/rodičovskej dovolenky. V prípade vzájomnej spokojnosti však nevylučujeme následnú možnosť dlhodobej spolupráce v rámci štruktúr magistrátu.
+Zverejnené dňa 24.03.2026.
+Na účely realizácie výberového konania hlavné mesto Slovenskej republiky Bratislava ako prevádzkovateľ osobných údajov spracúva osobné údaje záujemcov o pracovnú pozíciu, a to na právnom základe v zmysle čl. 6 ods. 1 písm. b) nariadenia Európskeho parlamentu a Rady (EÚ) č. 2016/679 v spojení s ustanovením § 13 ods. 1 písm. b) zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých zákonov. Podmienky spracúvania osobných údajov sú dostupné na oficiálnom webovom sídle hlavného mesta, https://bratislava.sk/ochrana-osobnych-udajov
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Osobnostné predpoklady a zručnosti
+min. vysokoškolské vzdelanie I. stupňa
+skúsenosť s prácou s dátami, reporting a technológie v oblasti automatizácie, spracovania a vizualizácie dát
+dobrá znalosť nástroja MS Power BI
+praktické skúsenosti s prácou s databázami a jazykom SQL
+znalosť databázových systémov (napr. MS SQL)
+skúsenosť s programovacím jazykom Python- výhodou
+analytické myslenie, samostatnosť a zmysel pre detail
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Magistrát hlavného mesta Slovenskej republiky je výkonným orgánom primátora a mestského zastupiteľstva. Za jeho každodenným fungovaním stoja odborné tímy z rôznych oblastí, ktoré spája jedno – chuť zlepšovať život v Bratislave.
+Pracujeme na strategických investíciách, dopravných riešeniach, digitalizácii, ochrane životného prostredia aj na zvyšovaní dostupnosti bývania. Svojim zamestnancom/kyniam ponúkame zmysluplnú prácu, kvalitné pracovné podmienky a podporujúci tím, v ktorom sa môžu ďalej rozvíjať. Sme otvorení šikovným, iniciatívnym a kreatívnym ľuďom, ktorí veria, že aj verejná správa môže byť dynamická, profesionálna a inovatívna. Pri práci si zakladáme na hodnotách spolupráce, transparentnosti, odbornosti a profesionality, odvahy a ambicióznosti, zodpovednosti k budúcnosti a na úsilí tvoriť mesto pre všetkých. Ak to vnímaš podobne, máš chuť prinášať nové nápady a pracovať na zmysluplných projektoch pre Bratislavu, si na správnom mieste.
+Počet zamestnancov
+500-999 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Lucia Dendis
+E-mail:
+poslať životopis
+Všetky ponuky spoločnosti
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5256455
+Dátum zverejnenia:
+24.3.2026
+2026-03-24
+lokalita:
+Bratislava
+Pozícia:
+BI analytik
+,
+Dátový analytik
+Spoločnosť:
+Magistrát hlavného mesta SR Bratislavy
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+1 900 EUR/mesiac

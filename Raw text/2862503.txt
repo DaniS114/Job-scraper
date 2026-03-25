@@ -1,0 +1,113 @@
+Cég neve
+SAP SE
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+SAP
+PYTHON
+JAVASCRIPT
+DEVOPS
+CLOUD
+DATABASE
+SECURITY
+PANDAS
+NODEJS
+JAVA
+ANALYTICS
+HTML
+@SAP.
+MACHINE LEARNING
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+SAP
+PYTHON
+JAVASCRIPT
+DEVOPS
+CLOUD
+DATABASE
+SECURITY
+PANDAS
+NODEJS
+JAVA
+ANALYTICS
+HTML
+@SAP.
+MACHINE
+LEARNING
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Where you belong:
+Where you belong:
+Requirements
+The preferred candidates will be insatiably curious, have unbounded creativity, a deep desire to teach and learn, and a passion for sharing our stories with our customers, partners, and SAP colleagues. Each team member must be willing to receive and GIVE feedback to the team to maximize knowledge transfer, lessons learned and best practice development.
+Let's invent some fire together!
+What you'll build:
+Each candidate must demonstrate strong technical aptitude in a minimum of one domain with secondary knowledge in others. Our platforms and technologies change quickly, so a clear demonstration of your flexibility, learning, and ability to execute will be critical to your success. Senior team members should be able to conduct multiple job skills effortlessly. All roles must have experience with the latest Generative AI LLMs.
+Candidates demonstrate experience and skills across multiple areas:
+Develops machine learning models and algorithms, processes data, implements AI solutions, develops UIs to express AI capabilities, conducts some research and development on new technologies and more. Experience in training custom, 3rd party or open-source AI models is desirable.
+Proficiency in programming languages (Python, JavaScript), knowledge of ML and agentic frameworks (LangGraph, LangChain), various ML models for classification, regression, anomaly detection etc., data preprocessing, model training and evaluation, application architecture design, DevOps and CI/CD.
+Knowledge of SAP Build, GenAI Hub, SAP HANA Cloud, BTP Services.
+Understanding of foundation models, MCP, A2A, agentic swarms and pipelines, SAP BDC, ETL processes, database management, data pipeline construction, AI security and AI ethics.
+Knowledge of big data technologies, ability to build predictive models, and help in the decision-making process using statistical analysis, data visualization, machine learning. Proficiency in data science tools (Jupyter, Pandas), and strong analytical thinking.
+Experience with NodeJS, SAP CAP, and AI coding assistant tools is desirable.
+What you bring:
+Bachelor's or Master's degree in Computer Science, Engineering, or related field and/or 10 years of expertise in various applicable technical roles
+Proven experience as an SAP Architect (f/m/d) with expertise in AI technologies and SAP BTP.
+Proficiency in SAP BTP services, including SAP AI Core, SAP AI Business Services, SAP Integration Suite, and SAP Extension Suite.
+Strong knowledge of machine learning frameworks (e.g., LangChain, LangGraph) and programming languages (e.g., Python, Java).
+Familiarity with SAP HANA Cloud, SAP Data Intelligence, and SAP Analytics Cloud, Vector Engines, Knowledge Graphs, A2A and MCP technologies
+Excellent problem-solving, communication, and leadership skills.
+Front End Knowledge in JavaScript, HTML, Fiori Web components (desirable), calling APIs
+Knowledge of data governance, security best practices, and SAP Fiori application development.
+An AI-Powered Mindset
+We are hiring deeply capable technical team members who are experts in data strategy, data science, python, vectorization and knowledge graphs, BTP functionalities (SAP Build, AI Core, GenAI Hub, UX, BDC, Integration Suite, etc.), ML, AI training, MCP, Joule extensibility, Agentic frameworks and more.
+The preferred candidates will be insatiably curious, have unbounded creativity, a deep desire to teach and learn, and a passion for sharing our stories with our customers, partners, and SAP colleagues. Each team member must be willing to receive and GIVE feedback to the team to maximize knowledge transfer, lessons learned and best practice development.
+Let's invent some fire together!
+What we offer
+What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+#DA26
+We win with
+SAP's culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team:
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 449527 | Work Area: Consulting and Professional Services | Expected Travel: 0 - 10% | Career Status: Berufserfahren | Employment Type: Vollzeit, unbefristet | Additional Locations: #LI-
+Company info
+We help the world run better
+At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong.
+The SAP Customer Value Group's AI Center of Excellence (AI4U) team is focused on driving adoption and consumption of the BTP platform through the sourcing, design, and execution of customer AI proof of concepts. This team works in close collaboration throughout the organization to help craft the set of SAP Best Practices for AI development within and around BTP.
+Our motto is: Inspire, Innovate, Implement: AI on BTP. We will inspire customers in the art of the possible with AI + SAP, we will innovate new techniques, technologies, and methodologies to bring them to life and we will manifest our vision into reality through POCs.
+We are hiring deeply capable technical team members who are experts in data strategy, data science, python, vectorization and knowledge graphs, BTP functionalities (SAP Build, AI Core, GenAI Hub, UX, BDC, Integration Suite, etc.), ML, AI training, MCP, Joule extensibility, Agentic frameworks and more.
+The SAP Customer Value Group's AI Center of Excellence (AI4U) team is focused on driving adoption and consumption of the BTP platform through the sourcing, design, and execution of customer AI proof of concepts. This team works in close collaboration throughout the organization to help craft the set of SAP Best Practices for AI development within and around BTP.
+Our motto is: Inspire, Innovate, Implement: AI on BTP. We will inspire customers in the art of the possible with AI + SAP, we will innovate new techniques, technologies, and methodologies to bring them to life and we will manifest our vision into reality through POCs.
+SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Germany
+Álláshirdetés jelentése

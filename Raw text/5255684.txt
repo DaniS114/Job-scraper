@@ -1,0 +1,96 @@
+Data engineer - Medior
+Solargis s. r. o.
+Place of work
+Bottova 2a, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Start date
+As soon as possible
+Wage (gross)
+From 2 900 EUR/month
+The final salary will be determined individually based on the candidate’s experience and qualifications.
+Information about the position
+Job description, responsibilities and duties
+As a Data Engineer, you will be responsible for the full lifecycle of data solutions at Solargis, from ingestion to final analysis. Your core responsibilities will include:
+Create and maintain data analysis pipelines using Databricks on AWS and other tools to support BI statistics and reporting.
+Design and build robust, scalable, and highly performant data pipelines to handle high-volume, time-series meteorological, solar energy data and data related to processes and transactions.
+Orchestrate and monitor complex data workflows to ensure data quality and timely delivery.
+Develop and maintain BI dashboards and data visualization reports for internal and external stakeholders.
+Actively participate in code reviews to ensure code quality and maintain high standards for all implemented solutions.
+Own end-to-end data pipeline development, including data ingestion, transformation, and storage.
+Document technical solutions, data models, and architectural designs clearly and concisely.
+Cooperate closely with other team members in the spirit of consistent and agile development.
+Employee perks, benefits
+Full-time job with competitive salary and performance-based bonuses
+Technical growth encouraged via opportunity to participate at conferences, workshops, courses
+Personal growth opportunities through challenging tasks and responsibilities
+Budget for personal professional development
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Educational Specialization
+IT or a related technical field
+Language skills
+English - Advanced (C1)
+Experience in the position/sector
+Data Engineering
+Number of years of experience
+2
+Personality requirements and skills
+REQUIRED SKILLS AND EXPERIENCE
+University degree in IT or a related technical field.
+2–5 years of professional experience in a Data Engineering role.
+Strong SQL skills, and programming proficiency (e.g., Python).
+Proven experience with big data processing technologies such as Spark and Databricks.
+Proficiency in data transformation using tools like dbt (data build tool).
+Experience with data orchestration tools, including Dagster or Apache Airflow.
+Familiarity with leading BI tools, eg. Amazon QuickSight, PowerBI, or Tableau.
+Experience with data modeling, ETL processes, data warehousing concepts, and Delta Lake / lakehouse architecture
+Proficiency with Git and version control workflows.
+Strong analytical and problem-solving skills, with an ability to translate business needs into technical solutions.
+Ability to work independently, manage multiple priorities, and contribute effectively within a collaborative team environment.
+Excellent communication and collaboration skills.
+Professional working proficiency in English.
+PREFERRED SKILLS AND KNOWLEDGE
+Familiarity with photovoltaic power plants and energy systems.
+Working knowledge of AWS cloud.
+Experience with Infrastructure as Code (Terraform).
+Experience with streaming data (Spark Structured Streaming, Kafka, Kinesis).
+Knowledge of open table formats (Apache Iceberg).
+Adherence to clean code practices and software development best practices.
+Experience working within an Agile development methodology.
+Advertiser
+Brief description of the company
+Solargis is a technology and consultancy company servicing companies involved in the development and operation of solar power plants. We provide meteorological data, energy evaluation software and technical consultancy primarily related to evaluation and management of solar power production.
+Thanks to 23 years of focused research and technology developed in-house, we have become a leader in the field. Today, we work for 1200 medium and large organizations from 90 countries, helping them make qualified financial decisions, improve technical design, and optimize operations. Our data products and services have become an essential part of the project development of solar power plants. We also provide services for performance evaluation, monitoring, and forecasting of solar power.
+We are a group of geoscientists, meteorologists, engineers, programmers, data scientists, analysts and business developers focused on building and promoting a solar energy assessment platform that helps the solar power industry minimize weather-related risk and improve performance efficiency.
+In our team, every member brings unique skills and expertise. We look for talented, resourceful, innovative, passionate, and friendly individuals to join our team. We offer a career that is challenging, but enjoyable, and rewarding.
+Number of employees
+100-149 employees
+Contact
+Contact person: Kristina Markova
+Tel.:
++421903585038
+E-mail:
+send CV
+Apply for a job
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5255684
+Dátum zverejnenia:
+24.3.2026
+2026-03-24
+lokalita:
+Bratislava
+Pozícia:
+Data Engineer
+Spoločnosť:
+Solargis s. r. o.
+Základná zložka mzdy (brutto):
+2 900 EUR/month

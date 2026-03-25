@@ -1,0 +1,20 @@
+Software Tester (QA) – VR Training Devices
+We are seeking an experienced Software Tester (QA) to join our dynamic team. In this role, you will be responsible for ensuring the quality, reliability, and performance of advanced training devices used by customers operating the Gripen fighter. These devices leverage virtual reality (VR) environments to provide immersive and resource-effective training for both flight and maintenance procedures.Want to influence the bigger picture? At our client, you can realise amazing innovations that keep people and societies safe. Together, we can truly make an impact – and your part matters.
+Your role
+As part of a VR development team, your main objectives will be to ensure that our training solutions meet the highest standards of quality, usability, and performance.
+Key tasks:
+Design, develop, and execute test plans and test cases for VR training applications.
+Perform manual and automated testing of features, systems, and integrations within Unreal Engine environments.
+Identify, document, and track bugs, inconsistencies, and performance issues.
+Verify fixes and ensure regressions are prevented through structured testing.
+Collaborate closely with developers, 3D artists, and designers to improve product quality throughout the development lifecycle.
+Conduct usability testing to ensure intuitive and effective user experiences in VR.
+Participate in early concept validation, prototyping, and continuous integration processes.
+Contribute to improving QA processes, tools, and testing methodologies.
+Your profile
+You bring a strong quality-focused mindset and a structured approach to software testing. With experience in testing interactive applications—preferably within gaming, simulation, or XR environments—you are comfortable working in complex systems where performance and reliability are critical.
+You have hands-on experience with test design techniques, bug tracking tools, and test management systems. Familiarity with Unreal Engine or similar real-time platforms is highly beneficial, along with an understanding of VR-specific challenges such as performance constraints, user interaction, and immersion.
+Experience in both manual and automated testing is valuable, and knowledge of scripting or programming (e.g., Python, C++, or similar) is considered a plus. You are comfortable working in agile environments and collaborating with cross-functional teams throughout all phases of development, from early prototypes to final delivery.
+A Bachelor’s degree in Computer Science, Software Engineering, or a related field is desirable. Experience in regulated or high-reliability environments such as defence, aerospace, or simulation will be an advantage.
+You are detail-oriented, analytical, and persistent in identifying issues and ensuring high-quality outcomes. Strong communication skills in English, both written and verbal, enable you to clearly report findings and collaborate effectively with team members across disciplines.
+This position requires that you pass a security vetting based on the current regulations around/of security protection. For positions requiring security clearance, additional obligations on citizenship may apply.

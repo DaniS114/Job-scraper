@@ -1,0 +1,18 @@
+Your new company
+Saab is a leading defence and security company with an enduring mission, to help nations keep their people and society safe. Empowered by its 26,000 talented people, Saab constantly pushes the boundaries of technology to create a safer and more sustainable world. Saab designs, manufactures and maintains advanced systems in aeronautics, weapons, command and control, sensors and underwater systems. Saab is headquartered in Sweden. It has major operations all over the world and is part of the domestic defence capability of several nations. Explore a wealth of possibilities. Take on challenges, create smart inventions, and grow beyond. This is a place for curious minds, brave pioneers, and everyone in between. Together, we achieve the extraordinary, each bringing our unique perspectives. Your part matters.
+Your new role
+We are seeking an experienced VR Training Devices Developer to join our dynamic team. In this role, you will be instrumental in developing advanced training devices for customers operating the Gripen fighter. These devices leverage virtual reality (VR) environments to provide immersive and resource-effective training for both flight and maintenance procedures.
+As part of a VR-development team your main objectives will be:
+Develop and optimize interactive VR experiences using principles and technology from the gaming industry.
+Create training devices that enhance operator skills in a safe and efficient manner.
+Improve the performance and maintainability of the SCT tool.
+Collaborate with business stakeholders to rework the data model and transition to a new framework and development environment.
+Develop a cloud-based application using .Net Blazor to support efficient maintenance operations for various aircraft and base configurations.
+What you'll need to succeed
+You will bring a robust set of technical skills and qualifications to this role. With a solid foundation in C++ and Unreal Engine, you will be comfortable navigating the complexities of VR development. Your experience with XR technologies, particularly VR, will be crucial in creating immersive training environments. You should be adept at working in the early phases of development, including concept development and prototyping, ensuring that our training devices are innovative and effective from the outset.
+Your expertise in software architecture and design patterns will be invaluable in building scalable and maintainable solutions. Proficiency in Git and experience with version control systems such as Bitbucket, Artifactory, or Azure DevOps will enable you to manage code efficiently and collaborate seamlessly with your team.
+A Bachelor's degree in Computer Science, Software Engineering, or a related field will provide the academic background necessary for this role. Additionally, a proven track record in developing VR applications, possibly in a defence or aerospace context, will demonstrate your ability to deliver high-quality solutions in a specialised field.
+Strong problem-solving skills and attention to detail are essential, as is the ability to work collaboratively in a team environment. Excellent communication skills in English, both written and verbal, will ensure that you can effectively convey your ideas and collaborate with colleagues across different disciplines.
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion on your career.

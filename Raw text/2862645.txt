@@ -1,0 +1,95 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+FRONTEND
+DEVOPS
+CLOUD
+BACKEND
+TESTING
+AWS
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+FRONTEND
+DEVOPS
+CLOUD
+BACKEND
+TESTING
+AWS
+Mobiltelefon
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Define and own the performance architecture for Sportsbook applications, focusing on frontend performance and customer-perceived latency
+Establish and maintain performance-related non-functional requirements (NFRs) across web, mobile, and platform layers
+Work with Product, Engineering, and Architecture to align performance goals with business objectives and customer experience
+Drive best practices for frontend performance including rendering and hydration strategies, asset loading, caching, and CDN usage, and web performance metrics
+Collaborate with frontend teams to review designs, implementations, and technical decisions from a performance perspective
+Partner with Solution Architects, Platform Architects, and DevOps to identify performance bottlenecks across infrastructure, networking, cloud and Kubernetes environments, APIs and backend dependencies
+Contribute to architectural decisions and roadmaps to ensure long-term scalability and performance sustainability
+Define and promote performance measurement standards, tooling, and dashboards
+Lead performance analysis, load testing, and capacity planning activities
+Participate in incident reviews and root cause analysis, ensuring performance learnings are fed back into architecture and design
+Act as a performance ambassador across the organization
+Communicate complex performance topics clearly to both technical and non-technical stakeholders
+Mentor teams and help raise the overall performance maturity of the Sportsbook organization
+Requirements
+Strong experience with frontend performance engineering in large-scale, high-traffic systems
+Solid understanding of web architectures and modern frontend frameworks
+Solid understanding of HTTP, networking fundamentals, caching, and CDNs
+Solid understanding of cloud infrastructure (preferably AWS) and containerized environments (e.g. Kubernetes)
+Experience designing and reviewing systems with performance, scalability, and resilience in mind
+Proven experience working in architectural or cross-team technical roles
+Ability to influence architectural decisions without direct authority
+Comfortable collaborating with multiple teams and architectural disciplines
+Excellent communication skills, both written and verbal
+Ability to explain performance trade-offs and recommendations clearly to engineering, product, and non-technical stakeholders
+Experience working closely with multiple departments in a complex organization
+What we offer
+Work on a mission-critical, real-time Sportsbook platform operating at significant scale
+Shape how performance is designed and delivered across both current systems and future initiatives
+Collaborate with experienced architects and engineering leaders across multiple domains
+Make a measurable impact on customer experience and platform quality
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

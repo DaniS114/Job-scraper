@@ -1,0 +1,27 @@
+Partnerünk, egy informatikai szolgáltatásokat nyújtó innovatív vállalat, motivált és elkötelezett csapatába keresünk Medior Szoftverfejlesztő (JAVA) munkatársakat, nemzetközi, Fortune 500-as vállalatokkal közös projektjeire.
+Feladatok
+• Projektfeladatok önálló elvégzése,
+• fejlesztési feladatok ellátása Java programozási nyelven,
+• funkcionális problémák felismerése és megoldása,
+• hatékony kommunikáció a mérnöki csapaton kívüli kulcsszereplőkkel (termékmenedzsment, mérnöki menedzsment, DevOps, technikai támogatás),
+• technikai útmutatás és mentorálás nyújtása a kevésbé tapasztalt csapattagok számára,
+• jó kódolási gyakorlatok betartásának biztosítása kódellenőrzéseken és mentoráláson keresztül,
+• technikai tervek kidolgozása, a feladatok részletes lebontása és azok értékelése,
+• részvétel az összes Scrum-alapú eseményen.
+Elvárások
+• Monitorozó és metrikai eszközök ismerete (például Dynatrace, Splunk, CloudWatch),
+• RESTful API-k és üzenetküldési rendszerek tervezésében és fejlesztésében szerzett gyakorlat,
+• Agile és Scrum folyamatok alapos megértése,
+• magabiztos technikai angol nyelvtudás írásban és szóban,
+• rendszerszemlélet, analitikus gondolkodásmód és kreativitás,
+• proaktivitás, önálló munkavégzésre és problémamegoldásra való készség.
+Előnyök
+• Tapasztalat a ReactJS és JS/TS használatában,
+• jártasság CI/CD eszközök és folyamatok használatában (például Jenkins, Cloud Foundry, SplitIO),
+• AWS szolgáltatások ismerete (pl. ALB, EC2, CloudFront, S3, SQS, RDS Aurora, SES, WAF),
+• gyakorlat Kubernetes és Docker konténer-orchestrator használatában.
+Ajánlat
+• Ingyenes tréningek, angol kurzusok,
+• Medicare magán egészségbiztosítás,
+• AYCM SportPass által nyújtott kedvezményes sportolási lehetőségek,
+• szakmai és személyes fejlődés.

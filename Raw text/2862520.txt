@@ -1,0 +1,144 @@
+Cég neve
+European Southern Observatory (ESO)
+Munkavégzés helye
+Németország
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+DEVOPS
+TESTING
+AZURE
+ANSIBLE.
+DOCKER
+API
+POSTMAN
+SELENIUM
+SECURITY
+PYTHON
+JAVA
+DATABASES
+ORACLE
+POSTGRESQL
+CLOUD
+AWS
+VIRTUALIZATION
+VMWARE
+REGRESSION TESTING
+JENKINS
+REST
+TEST AUTOMATION
+CYPRESS
+JMETER
+CI
+AGILE
+SCRUM
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+DEVOPS
+TESTING
+AZURE
+ANSIBLE.
+DOCKER
+API
+POSTMAN
+SELENIUM
+SECURITY
+PYTHON
+JAVA
+DATABASES
+ORACLE
+POSTGRESQL
+CLOUD
+AWS
+VIRTUALIZATION
+VMWARE
+REGRESSION
+TESTING
+JENKINS
+REST
+TEST
+AUTOMATION
+CYPRESS
+JMETER
+CI
+AGILE
+SCRUM
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+The primary assignment of the successful candidate will be the development and test environment for the ALMA Dataflow development projects. The environment supports software configuration management, continuous integration, regression testing and production of release packages for the science operations and the scientific users of ESO observatories. Finally, s/he will contribute to the Data Flow System application support activities, software configuration management issues, and to the continuous improvement of SCSEQ's development and test infrastructure. The work involves the following responsibilities:
+Enable and optimize CI/CD practices to ensure reliable, automated software delivery.
+Own and maintain development and test environments, ensuring stability, scalability, and reproducibility.
+Drive automation across build, test, deployment, and release processes.
+Embed quality controls and validation mechanisms into the delivery lifecycle.
+Establish monitoring and observability practices to ensure system transparency and operational insight.
+Implement fast feedback mechanisms that quickly surface build failures, performance degradation, and production risks.
+Improve system reliability, performance, and operational efficiency.
+Promote DevOps culture and best practices across development and QA teams.
+Reports to:
+Head of Software Engineering and Quality Group in SCS/DoE.
+Requirements
+Key Competences and Experience:
+Proven experience as a Software Engineer, with a focus on QA and DevOps.
+Qualifications:
+Essential:
+Strong expertise in CI/CD pipeline design and maintenance using tools such as Jenkins, GitLab CI/CD, GitHub Actions, or Azure DevOps, including pipeline-as-code practices.
+Proven experience with Infrastructure as Code (IaC) for environment provisioning and configuration management.
+Hands-on experience with configuration management and automated deployment tools, such as Ansible.
+Solid experience with containerization and orchestration technologies, including Docker and Kubernetes
+Experience designing and maintaining automated test frameworks, including: API testing (e.g., REST, Postman, Karate, REST Assured), UI test automation (e.g., Selenium, Cypress, Playwright), Performance and load testing (e.g., JMeter, Gatling)
+Proficiency in designing Integration and regression testing strategies for CI pipelines
+Proficiency in implementing DevOps quality gates (static code analysis, security scanning, artifact versioning, test coverage enforcement).
+Experience in software release management, versioning strategies and artifact repositories (e.g., Nexus, Artifactory).
+Proficiency in scripting and automation (e.g., Shell, Python).
+Proficiency with programming languages like Java or Python.
+Experience with relational databases (Oracle, Sybase, PostgreSQL, or equivalent), including basic performance tuning and schema management.
+Experience working in Agile/Scrum or SAFe environments, with iterative delivery and continuous testing practices.
+Desirable:
+Experience working with cloud platforms (AWS, Azure, or Google Cloud), including networking, IAM, monitoring, and cost-aware architecture design.
+Strong understanding of DevSecOps principles, including security testing, vulnerability management, and secure CI/CD practices.
+Familiarity with virtualization and cloud-native environments, including VMware and container-based infrastructure.
+Language Skills:
+Excellent command of the English language.
+What we offer
+Remuneration and Contract:
+We offer an attractive remuneration package including a competitive salary (free of income tax for applicants from ESO member states), comprehensive pension scheme and medical, educational and other social benefits, as well as financial help in relocating your family and support to place your child/children in daycare.
+Our Salary Structure
+ESO's salary structure is based upon a range of career paths which reflect the nature and level of our jobs. Each career path is made up of two or three grades which are used to further reflect experience.
+Please follow this attached link for more details
+ESO aims to support members of personnel in maintaining a good work-life balance (
+) between their professional and private life. ESO is also committed to offering family-friendly support (
+), creating a work environment and policies which allow staff to balance their professional and private responsibilities through flexible working arrangements and financial support for families.
+The contract is for a fixed term duration of three years and is subject to successful completion of the probation period. There may be a possibility of extension(s) subject to individual performance and organisational requirements, in particular for the ELT Programme, and as defined in the applicable policies and staff rules and regulations. For any further information, please visit ESO's conditions of employment (
+). Please note that the contract policy and in particular the regulations concerning fixed-term and indefinite contracts are currently under review which may lead to changes in the contractual conditions applicable to this position.
+Duty Station:
+Garching near Munich, Germany with possible duty trips to all ESO sites in Chile.
+Career Path: V
+Company info
+Due to the need resources associated with the ELT/VLT and ALMA programmes, for its SCS Department, within the Directorate of Engineering at its Headquarters in Garching, near Munich, Germany ESO is advertising the position of
+Software Quality and DevOps Engineer.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Operation, Telecommunication
+IT
+Administrator
+Germany
+Álláshirdetés jelentése

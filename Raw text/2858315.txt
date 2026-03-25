@@ -1,0 +1,70 @@
+Cég neve
+DruIT Szolgáltató Zrt.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+ANDROID
+KOTLIN
+TESTING
+GIT
+ISO
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+ANDROID
+KOTLIN
+TESTING
+GIT
+ISO
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Új, Android POS-terminál alkalmazás építése
+Interaktív, animált UI komponensek tervezése és megvalósítása Jetpack Compose segítségével
+Szoros együttműködés designerekkel és fejlesztőcsapattal
+Elvárások
+Senior android fejlesztő
+AI magabiztos használata: Claude Code, ChatGPT o3, Cursor és barátai anyanyelvi szinten
+Kotlin magabiztos használata (extension-ök, inline, sealed class, stb.)
+Kotlin Coroutines & Flow ismerete (struktúrált konkurencia, cancellation, back-pressure)
+Jetpack Compose UI-ok építésében komoly tapasztalat
+Tiszta architektúra (MVVM / MVI / Clean) és folyamatos tesztelés (JUnit5, Turbine, Compose-testing)
+Git-alapú verziókezelés, CI/CD-pipeline-ekben és code-review-ban szerzett rutin
+Angol nyelvtudás, amely elég technikai megbeszélésekhez
+Előnyt jelent
+EMV L2/L3 mélység (AID, CAPK, TLV, kernel-hívások), ISO 8583 üzenet-építés/parse-olás (0100/0200/0800), POS SDK tapasztalat (Nexgo ADS, PAX BroadPOS): kártyaolvasás, PIN-pad, nyomtató, Kriptográfia & kulcskezelés: 3DES PIN-block, TMK/TPK, HSM-integráció
+Amit kínálunk
+Éves tréning-keret (EMVCo, PCI-DSS, Tap-to-Phone workshopok)
+Gyors release-ciklus, látható eredmények
+Senior, támogató csapat – egymást segítjük, code-review-k barátságosan mennek
+Hibrid munkavégzés (Budapest, 11. kerület)
+Céginformáció
+Partnerünk Fintech csapatában egyesítik a banki stabilitást a startup dinamizmussal. Modern technológiai stackkel, microservice architektúrával és agilis módszertannal fejlesztenek kritikus pénzügyi rendszereket – de a hagyományos banki környezettel ellentétben náluk gyorsan kerülnek új funkciók élesbe. Valós idejű tranzakció-feldolgozástól a POS-rendszerekig olyan projekteken dolgozhatsz, amelyek ténylegesen alakítják a magyar pénzpiacot. Náluk lapos a hierarchia, gyors a döntéshozatal, és a csapatuk tagjai valódi hatással bírnak a termékre. Ha szeretnél innovatív fintech megoldásokat építeni egy szakmailag inspiráló környezetben – várnak a csapatukba!
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+programozás, Fejlesztés
+Programozó,
+Fejlesztő
+Budapest
+Álláshirdetés jelentése

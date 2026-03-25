@@ -1,0 +1,108 @@
+Deutsche Telekom Services Europe Slovakia
+O nás
+Voľné pozície
+Firemná kultúra
+Benefity
+Kontakt
+Technical
+AI SERVICES - AI Automation Engineer (LLM & System Integrations)- KE
+Join our team of AI Team at Deutsche Telekom Services Europe in Slovakia!
+We are a team of AI experts who design and deliver automation and integration solutions for internal customers across Deutsche Telekom. Our solutions help connect systems, move and transform data, and automate manual processes.
+Due to the growing demand for automation, we are looking to expand our team with a technically skilled AI Automation Engineer for implementing agentic workflows.
+Our team works in an international setup, so collaboration via video conferencing and clear communication are part of our daily routine.
+Contract type
+full-time
+Place of work
+Košice, Slovak Republic
+Start date
+ASAP
+Wage (gross)
+From 2 800 EUR/month
+About
+the position
+What you will do:
+Design, implement, and maintain automation workflows
+Build end-to-end integrations between internal and external systems
+Work with REST APIs, including request/response handling and authentication
+Process, transform, and validate data in various formats
+Implement logic for filtering, mapping, aggregation, branching, and error handling within workflows
+Configure and consume webhooks and event-driven integrations
+Work with databases to read, write, and update data using SQL, Spark or GraphQL queries
+Connect workflows to Large Language Models and design suitable prompts
+Monitor, debug, and optimize workflow executions to ensure reliability and performance
+Collaborate with business stakeholders and analysts to translate requirements into technical automation solutions
+Create and maintain technical documentation for workflows and integrations
+Identify opportunities for automation and continuous process improvement
+We work in a HYBRID STYLE of working with the possibility of working from home , but twice a week we meet in the office in Košice or Bratislava for meetings.
+The published salary is the minimum possible offer.
+The starting salary may be higher depending on the extent of fulfillment of the employee's requirements (education, language skills, required practice, personality assumptions and skills).
+What
+we expect
+Candidates with education suit the position
+Secondary with school-leaving examination
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Education in an IT-related field is an advantage
+3y+ experience in automating business processes based on ERP or CRM systems on a production-scale
+Programming skills in Python or Javascript for implementing custom logic in workflows
+Experience with REST APIs and common integration patterns
+Understanding of control flow and error handling in workflow automation tools
+SQL, Spark, or GraphQL query experience
+Soft & Process Skills:
+Strong analytical, algorithmic, and systematic thinking
+Ability to work independently and deliver working solutions quickly
+Proactive mindset — you take initiative, ask questions, and suggest improvements
+Ability to explain technical solutions to non-technical colleagues
+Willingness to work in an agile environment (Scrum, Kanban)
+Fluent written and spoken English, German is an advantage
+Nice to have:
+Experience with n8n or other automation platforms (zapier, make, etc.)
+Experience in building and scaling solutions for automating business processes with the help of other Agentic AI frameworks
+Basic knowledge of cloud platforms (GCP, Azure)
+Experience with file-based integrations (SFTP, scheduled file ingestion)
+Awareness of security, access control, and data privacy in system integrations
+Experience working in international or distributed teams
+Benefits
+that make you happy
+Annual bonus
+Fully paid meal vouchers
+Mobile phone also for private use
+Discounts for selected Telekom products
+Supplementary pension saving contribution
+Cafeteria system of benefits/Multisport card
+Sick days
+Sports club & Health days
+Teambuildings, summer & Christmas party
+Opportunities for career growth
+Referral program
+Flexible working time
+About
+the selection process
+We are dedicated to constantly promoting equal employment opportunities and are ready to make reasonable adjustments for applicants with disabilities. If you are interested in our job opportunity and meet our job requirements for this position, we encourage you to confidentially notify us if you need specific accommodations to ensure your full participation in our recruitment process at recruitment@telekom.com.
+Snažíme sa neustále podporovať rovnaké príležitosti v zamestnaní a sme pripravení urobiť primerané úpravy pre uchádzačov so zdravotným postihnutím. Ak máte záujem o túto pracovnú príležitosť a spĺňate požiadavky inzerovaného pracovného miesta, odporúčame vám, aby ste nám dôverne oznámili, ak potrebujete osobitné úpravy, ktoré vám zabezpečia plnohodnotnú účasť na našom náborovom procese na recruitment@telekom.com.
+Send CV
+Deutsche Telekom Services Europe Slovakia
+Recommend job to a friend
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5256012
+Dátum zverejnenia:
+24.3.2026
+2026-03-24
+lokalita:
+Košice
+Pozícia:
+Programmer
+,
+Software Engineer
+,
+User Experience Expert
+Spoločnosť:
+Deutsche Telekom Services Europe Slovakia s.r.o.
+Pracovná ponuka je prevzatá z inej stránky alebo zdroja.
+Základná zložka mzdy (brutto):
+2 800 EUR/month

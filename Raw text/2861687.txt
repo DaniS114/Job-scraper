@@ -1,0 +1,104 @@
+Cég neve
+Silurus Software Korlátolt Felelősségű Társaság
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+POWERSHELL
+BASH
+ANSIBLE
+AZURE
+DEVOPS
+CLOUD
+WINDOWS
+LINUX
+VMWARE
+AUTOMATIZÁLÁS
+PROJECT MANAGEMENT
+Biztosított eszközök
+Laptop
+Elvárások
+Angol középfok
+Nem kell tapasztalat
+Középiskola
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+POWERSHELL
+BASH
+ANSIBLE
+AZURE
+DEVOPS
+CLOUD
+WINDOWS
+LINUX
+VMWARE
+AUTOMATIZÁLÁS
+PROJECT
+MANAGEMENT
+Laptop
+Angol
+középfok
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Feladatok
+Infrastruktúra tervezése és implementálása Terraform-mal
+Automatizálás PowerShell-lel és Bash-sel
+Ansible konfigurációk építése és karbantartása
+CI/CD pipeline-ok tervezése és üzemeltetése Azure DevOps Server (on-prem) és Cloud (SaaS) környezetben
+Windows-alapú workloadok automatizálása Linux-alapú pipeline agent-ekkel
+Platformok építése és karbantartása Azure és on-premises infrastruktúrán
+Infrastruktúra design-ok és implementációs tervek review-ja és jóváhagyása
+Modernizációs és migrációs kezdeményezésekben való részvétel
+Automation standard-ok és reusable pattern-ök kialakítása
+Mentorálás, dokumentáció és tudásátadás
+Elvárások
+Erős, hands-on Terraform tapasztalat (modularizáció, environment staging, state management)
+PowerShell és Bash scripting
+Mély Ansible ismeret (roles, collections, inventory design, variable precedence, idempotency, secure secret handling)
+Windows Server adminisztráció és automatizálás
+Linux ismeret
+Azure DevOps pipeline-ok építése és karbantartása (SaaS és on-premises Server)
+Pipeline agent-ek, artifact-ok, environment-ek és secure credential handling ismerete
+VMware hypervisor alapú infrastruktúra ismerete
+Infrastruktúra design-ok review-ja, kritikája és sign-off képessége
+Angol nyelvtudás szóban és írásban
+Előnyt jelent
+Felhőmigrációs és modernizációs tapasztalat előny, Backstage IO tapasztalat, VMware Cloud Director ismeret, Proxmox vagy Nutanix tapasztalat, Hybrid cloud modernizáció és migráció, Kubernetes tapasztalat, Mid-Senior level, Medical Devices, Hospitals and Health Care, Full-time, Information Technology, Project Management, Terraform, Ansible, Azure DevOps, PowerShell, Bash, Infrastructure as Code, CI/CD, Windows Server, Linux, VMware
+Amit kínálunk
+Versenyképes juttatások
+Hibrid munkamodell (home office)
+Prémium magán egészségbiztosítás
+IT infrastruktúra biztosítása a távmunkához
+Modern iroda, kiváló közlekedéssel
+Rendszeres társasági események
+Dinamikus munkakörnyezet, ahol értékeljük az új ötleteket
+Nemzetközi csapat egy stabil, folyamatosan növekvő vállalatban
+Nyitott, inkluzív kultúra, támogatja a tanulást és elősegíti az együttműködést
+Számos szakmai és személyes fejlődési lehetőség
+Céginformáció
+Silurus Software: Expert software solutions and consulting. Specializing in tailored software development for clients worldwide.
+Jelentkezés módja
+A cég weboldalán tudja leadni jelentkezését, amelyet a „Jelentkezés a cégnél” gomb megnyomásával ér el.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+üzemeltetés, Telekommunikáció
+Hálózati
+és Rendszermérnök
+Budapest
+Álláshirdetés jelentése

@@ -1,0 +1,125 @@
+Cég neve
+Betsson Group
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Egészségbiztosítás
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+PYTHON
+GIT
+DATABASES
+AWS
+SPARK
+CLOUD
+DATABASE
+APACHE
+SQL
+API
+LINUX
+DOCKER
+ANALYTICS
+POWERSHELL
+UNIX
+TROUBLESHOOTING
+INCIDENT MANAGEMENT
+Biztosított eszközök
+Mobiltelefon
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Középiskola
+
+Egészségbiztosítás
+Teljes
+munkaidő
+Általános
+munkarend
+PYTHON
+GIT
+DATABASES
+AWS
+SPARK
+CLOUD
+DATABASE
+APACHE
+SQL
+API
+LINUX
+DOCKER
+ANALYTICS
+POWERSHELL
+UNIX
+TROUBLESHOOTING
+INCIDENT
+MANAGEMENT
+Mobiltelefon
+Angol
+középfok
+1-3
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Maintaining and evolving our existing data platform
+Building processes to ingest data from Kafka, APIs and Databases using AWS MSK Connect
+Development and Maintenance of real-time data processing applications using frameworks like Spark Structured Streaming and Kafka Streams
+Applying transformations to data streams
+Being involved in data modelling following standards e.g. Inmon, Kimball, Data Vault
+Ensuring data quality by verifying data consistency and accuracy
+Keeping up to date on research and development of new technologies and techniques to enhance our data platform
+Troubleshooting problems and incident management with an investigative mindset
+Full ownership on projects and tasks assigned and ability to work within a Team
+Documenting processes and performing knowledge sharing sessions
+Requirements
+Experience with modern cloud database technologies such as Snowflake
+Experience with orchestrating data pipelines using Airflow
+Experience with AWS Glue
+Experience with Apache Iceberg
+Experience with SQL and Data Integration Tools
+Experience with any programming language like Python or Scala
+Knowledge on AWS Services like S3, Lambda, API Gateways, DMS, RDS
+Development experience in both Microsoft and Linux/Cloud environments
+Strong analytical and problem-solving skills
+Familiarity with Data Warehousing concepts and data modelling techniques such as Inmon, Kimball, Data Vault (nice to have)
+Familiarity with AWS Services such as MSK and EMR (nice to have)
+Familiarity with containerization and orchestration technologies such as Docker and Kubernetes (nice to have)
+Familiarity with Time-series or Analytics Databases such as Elasticsearch (nice to have)
+Familiarity with data streaming using technologies such as Kafka (nice to have)
+Familiarity with software versioning tools like GIT (nice to have)
+Familiarity with infrastructure scripting like Terraform (nice to have)
+Familiarity with Data Monitoring and Visualisation tools such as Prometheus, Grafana, Cloudwatch (nice to have)
+Scripting – Powershell, Unix Scripting (nice to have)
+At least 2 years experience in Data Engineering (nice to have)
+Excellent verbal and writing English communication skills (nice to have)
+Good learning mindset (nice to have)
+Able to set priorities and multitask (nice to have)
+What we offer
+Fitness-wellness allowance
+Company mobile phone for private use with 100 GB
+Annual HUF devaluation compensation
+Hybrid model: 3 days in the office & 2 days from home
+Private Health Insurance
+Career development
+Technical and soft-skill training opportunities
+Breakfast, fruits & lunch
+Team building events
+Company info
+Founded in 1963, Betsson Group is a global sports betting and gaming operator focused on customer experience, responsible operations and sustainable growth.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Budapest
+Álláshirdetés jelentése

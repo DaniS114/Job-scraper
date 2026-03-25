@@ -1,0 +1,121 @@
+PHP/Backend Developer/ka
+Riešenia, spol. s r.o.
+Miesto práce
+Trenčianska 53, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+01.05.2026 alebo podľa dohody
+Mzdové podmienky (brutto)
+2 200 - 4 000 EUR/mesiac
+Konečná výška mzdy bude stanovená individuálne podľa skúseností uchádzača.
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Staň sa súčasťou tímu, ktorý je
+oceňovaným dodávateľom
+e-commerce projektov a webových aplikácií na Slovensku.
+Výsledky svojej práce uvidíš ihneď
+na živých projektoch a budú priamo ovplyvňovať predaje a zákazníkov klienta. Čaká na teba výzva v podobe podielu na smerovaní našej platformy
+RSHOP
+a implementácie nových technológií.
+Naši klienti sú stredné a veľké podniky, ale aj ambiciózne a rýchlo rastúce firmy.
+Tvoríme dlhodobé spolupráce
+a po spustení úvodného projektu ďalej riešime biznisovo orientované funkcionality, expanziu na nové trhy, škálovanie projektov (multistore systém) a výmeny informačných systémov.​
+Budeš spolupracovať na tvorbe B2B a B2C e-commerce systémov orientovaných na výkon, ktoré staviame na našej platforme RSHOP (CakePHP).
+Integrácie na rôzne ERP a IS, systémy dopravcov, bánk, dodávateľské systémy a ďalšie služby tretích strán využívané v environmente našich klientov.
+Budeš sa aktívne podieľať na vývoji platformy RSHOP.
+Nezapadneš do kola zbytočných meetingov – ranný 15-minútový standup a na konci každého sprintu hodinový sprint setup.
+Náš TECH STACK:
+​LAMP/LEMP (PHP 8, MariaDB)
+KeyDB, Elasticsearch
+Testing: PHPUnit, phpspec
+Code quality tools: Phpstan, CS fixer
+Continuous integration & deployment: Bitbucket Pipelines
+Error tracking/monitoring: Sentry, Pingdom
+Atlassian Confluence & JIRA ako project management tool
+​
+Aj keď nemáš skúsenosti s našimi technológiami, neváhaj nás kontaktovať. Oceňujeme aktívny prístup a chuť sa učiť.
+​
+Zamestnanecké výhody, benefity
+Je pre nás dôležité, ako sa v Riešeniach ľudia cítia,
+preto si každý môže benefity určiť sám
+. Jednoducho nám povieš, aké prostredie a nástroje ti pomôžu byť efektívnym, kreatívnym a spokojným.
+Vyberáme tie najobľúbenejšie:
+najnovší Apple Macbook alebo Lenovo,
+Multisport karta,
+celofiremné teambuildingy a iné spoločné akcie,
+firemná motorka, kolobežka, Playstation, kalčeto…,
+priestor skúšať nové technológie a aplikovať ich,
+preplácané konferencie a koding eventy,
+tím senior vývojárov s viac ako 10-ročnými skúsenosťami,
+pet friendly prostredie,
+možnosť pracovať remote,
+benefit na mieru podľa teba - to čo tebe vyhovuje
+Informácie o výberovom konaní
+Čo ťa čaká po odoslaní životopisu:
+1. Úvodné oslovenie
+2. Krátka úloha
+3. Pohovor a zhodnotenie úlohy
+4. Nástup
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Anglický jazyk - Stredne pokročilý (B2)
+a
+Slovenský jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+2 roky
+Osobnostné predpoklady a zručnosti
+Máš silné analytické myslenie
+a dokážeš premeniť zložité biznis zadania na čistú a fungujúcu logiku.
+Si prirodzený detailista
+, myslíš na „edge cases“ a tvoj kód je pripravený na nečakané situácie.
+Preberáš plnú zodpovednosť (ownership)
+za svoje riešenia a záleží ti na stabilite systému aj počas špičky.
+Vidíš veci v širšom kontexte
+(big picture) a chápeš, ako tvoja práca ovplyvní celú architektúru e-shopu.
+Komunikuješ otvorene a vecne
+, vďaka čomu sa bez problémov zladíš s frontendistami či projektovým manažérom.
+Nechýba ti vytrvalosť
+a zdravá trpezlivosť pri lúskaní náročných bugov či ladení výkonu.
+Máš vnútorný drive zlepšovať sa
+, sleduješ trendy a rád svoje zistenia a nápady posúvaš ďalej do tímu.
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pridaj sa k nám
+v RIESENIA sme tím ľudí, ktorých baví technológia, riešenia a posúvanie vecí dopredu. Vyvíjame e-shopy, webové aplikácie a interné systémy, ktoré denne používajú tisíce ľudí a prostredníctvom ktorých vybavíme stovky objednávok.
+Naši klienti sú veľkí hráči na trhu Lunys, Vaša lekáreň, Svet nápojov, YIT – každý projekt je pre nás výzvou.
+Sme mix developerov, QA špecialistov, dizajnérov, dátových analytikov a konzultantov. Testujeme nové technológie, automatizujeme, hráme sa s AI, ladíme detaily a stále hľadáme spôsoby, ako robiť veci lepšie, rýchlejšie a efektívnejšie.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Denisa Nemeth
+Tel.:
++421902234832
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5256461
+Dátum zverejnenia:
+24.3.2026
+2026-03-24
+lokalita:
+Bratislava
+Pozícia:
+Backend programátor
+,
+PHP programátor
+Spoločnosť:
+Riešenia, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

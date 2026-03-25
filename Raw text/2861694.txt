@@ -1,0 +1,80 @@
+Cég neve
+Hawk-Eye Innovations Ltd.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Egyéb juttatások
+Cafeteria
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+JAVA
+BACKEND
+SPRING
+AWS
+CLOUD
+DOCKER
+ACCESS
+Elvárások
+Nem kell nyelvtudás
+Nem kell tapasztalat
+Középiskola
+
+Cafeteria
+Teljes
+munkaidő
+Általános
+munkarend
+JAVA
+BACKEND
+SPRING
+AWS
+CLOUD
+DOCKER
+ACCESS
+Nem
+kell nyelvtudás
+Nem
+kell tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Develop, optimise, and maintain backend services using Java (Spring Boot)
+Contribute to design decisions for new and existing projects
+Work on football-related data pipelines that power FIFA, Serie-A and UEFA operations
+Deploy and scale applications in AWS (ECS, Lambda, S3, DynamoDB, etc.)
+Enhance system observability, ensuring real-time monitoring and logging using tools like Datadog
+Work on event-driven architectures, leveraging message queues (Pulsar, Kafka, RabbitMQ, SQS, etc.)
+Collaborate with engineers, stakeholders and external partners to meet high-impact project deadlines
+Ensure system reliability and performance in high-traffic, real-time environments
+Requirements
+Strong Java 17 & Spring Boot experience
+Knowledge of cloud platforms (AWS preferred)
+Familiarity with observability tools (e.g., Datadog, Prometheus, OpenTelemetry)
+Experience with microservices and distributed systems
+Understanding of monitoring, logging, and traceability
+Ability to work efficiently in a fast-paced environment
+Nice-to-have
+Bonus Skills: Experience with event-driven architectures (Kafka, RabbitMQ, SQS, etc.), Knowledge of CI/CD pipelines and automation (GitHub Actions, Terraform), Familiarity with containerisation and orchestration (Docker, Kubernetes), Exposure to real-time data processing and sports tech
+What we offer
+Annual Leave: Standard according to local labour law
+Flexible Working: Hybrid model (2 days in the office per week)
+Exclusive Perks: Access to sporting events and tickets, Sony Group Company discounts
+Additional Benefits: Cafeteria options (SZÉP Card, Nursery & Kindergarten contributions, Annual MOL Bubi Pass), private medical insurance, life & accident insurance, dental clinic discounts, seniority awards, an Employee Assistance Program, and the option to purchase an "All You Can Move" Pass
+Company info
+Hawk-Eye Innovations is committed to fostering an inclusive and diverse workplace. We ensure all employees are treated fairly, regardless of gender, marital status, race, nationality, religion, age, disability, or union membership status. We value diversity and strive to create an environment where everyone can reach their full potential.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+IT
+Consultant, Analyst, Auditor
+Budapest
+Álláshirdetés jelentése

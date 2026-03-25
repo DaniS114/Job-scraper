@@ -1,0 +1,122 @@
+Frontend Developer/ka
+Riešenia, spol. s r.o.
+Miesto práce
+Trenčianska 53, Bratislava, Slovensko (Pozícia umožňuje občasnú prácu z domu)
+Druh pracovného pomeru
+plný úväzok, živnosť
+Termín nástupu
+Nástup ASAP alebo podľa dohody
+Mzdové podmienky (brutto)
+2 200 - 3 000 EUR/mesiac
+Informácie o pracovnom mieste
+Náplň práce, právomoci a zodpovednosti
+Staň sa súčasťou tímu, ktorý je
+oceňovaným dodávateľom
+e-commerce projektov a webových aplikácií na Slovensku.
+Výsledky svojej práce uvidíš ihneď
+na živých projektoch a budú priamo ovplyvňovať predaje a zákazníkov klienta. Čaká na teba výzva v podobe podielu na smerovaní našej platformy
+RSHOP
+a implementácie nových technológií.
+Naši klienti sú stredné a veľké podniky, ale aj ambiciózne a rýchlo rastúce firmy.
+Tvoríme dlhodobé spolupráce
+a po spustení úvodného projektu ďalej riešime biznisovo orientované funkcionality, expanziu na nové trhy, škálovanie projektov (multistore systém) a výmeny informačných systémov.​
+Budeš programovať detailne navrhnuté dizajny na mieru z Figma do webovej podoby.
+Budeš tvoriť front-end funkcionality s priamym vplyvom na používateľskú a zákaznícku skúsenosť (UX a CX).
+Budeš optimalizovať rýchlosť a implementovať nové technológie.
+Budeš sa aktívne podieľať na vývoji užívateľského rozhrania platformy RSHOP.
+Náš TECH STACK:
+​CakePHP, SCSS, JavaScript, jQuery
+Build: Gulp, Webpack
+Design tools: Figma, Sketch
+Code quality tools: ESLint, SassLint, Prettier
+Continuous integration: Bitbucket Pipelines, Netlify
+Error tracking / monitoring: Sentry.io, Pingdom
+Project management tool: Atlassian Confluence & Jira
++ Na vybraných projektoch sa stretneš
+​React && Next.js
+Vue.js && Nuxt
+TypeScript
+​
+Aj keď nemáš skúsenosti s našimi technológiami, neváhaj nás kontaktovať. Oceňujeme aktívny prístup a chuť sa učiť.
+​
+Zamestnanecké výhody, benefity
+Je pre nás dôležité, ako sa v Riešeniach ľudia cítia,
+preto si každý môže benefity určiť sám
+. Jednoducho nám povieš, aké prostredie a nástroje ti pomôžu byť efektívnym, kreatívnym a spokojným.
+Vyberáme tie najobľúbenejšie:
+najnovší Apple Macbook alebo Lenovo,
+Multisport karta,
+celofiremné teambuildingy a iné spoločné akcie,
+firemná motorka, kolobežka, Playstation, kalčeto…,
+priestor skúšať nové technológie a aplikovať ich,
+preplácané konferencie a koding eventy,
+tím senior front-end vývojárov s viac ako 7-ročnými skúsenosťami,
+pet friendly prostredie,
+možnosť pracovať remote,
+a iné, ty budeš vedieť lepšie, čo ti ešte vyhovuje a zvolíš si to.
+Informácie o výberovom konaní
+Čo ťa čaká po odoslaní životopisu:
+1. Úvodný call
+2. Krátka úloha
+3. Pohovor a review úlohy
+4. Nástup
+Požiadavky na zamestnanca
+Pozícii vyhovujú uchádzači so vzdelaním
+študent vysokej školy
+vysokoškolské I. stupňa
+vysokoškolské II. stupňa
+vysokoškolské III. stupňa
+Jazykové znalosti
+Slovenský jazyk - Stredne pokročilý (B2)
+a
+Anglický jazyk - Stredne pokročilý (B2)
+Prax na pozícii/v oblasti
+2 roky
+Osobnostné predpoklady a zručnosti
+Máš aspoň 1 rok praxe
+ako frontendista
+Si samostatný, no vieš, kedy sa opýtať –
+nechodíš za seniormi s každou drobnosťou, ale ozveš sa skôr, než prepáliš deadline
+Bavia ťa nové technológie
+a rád si veci doštuduješ sám (znalosť Nuxt, Next.js alebo AI toolov ako Claude-code je veľké plus).
+Si tímový hráč
+s dobrým time managementom
+Záleží ti na kvalite doručeného kódu,
+no keď treba, nezľakneš sa ani legacy kódu
+Si precízny detailista
+a kód si skontroluješ predtým, než požiadaš o Code Review
+Máš „drive“ a si proaktívny
+– nečakáš ako robot na zadania, ale premýšľaš nad riešeniami a navrhuješ zlepšováky
+Inzerujúca spoločnosť
+Stručná charakteristika spoločnosti
+Pridaj sa k nám
+v RIESENIA sme tím ľudí, ktorých baví technológia, riešenia a posúvanie vecí dopredu. Vyvíjame e-shopy, webové aplikácie a interné systémy, ktoré denne používajú tisíce ľudí a prostredníctvom ktorých vybavíme stovky objednávok.
+Naši klienti sú veľkí hráči na trhu Lunys, Vaša lekáreň, Svet nápojov, YIT – každý projekt je pre nás výzvou.
+Sme mix developerov, QA špecialistov, dizajnérov, dátových analytikov a konzultantov. Testujeme nové technológie, automatizujeme, hráme sa s AI, ladíme detaily a stále hľadáme spôsoby, ako robiť veci lepšie, rýchlejšie a efektívnejšie.
+Počet zamestnancov
+20-24 zamestnancov
+Kontakt
+Kontaktná osoba: Mgr.  Denisa Nemeth
+Tel.:
++421902234832
+E-mail:
+poslať životopis
+Reagovať na ponuku
+Odporučiť ponuku známemu
+E-mail
+Facebook
+Viber
+Whatsapp
+ID:
+5256893
+Dátum zverejnenia:
+25.3.2026
+2026-03-25
+lokalita:
+Bratislava
+Pozícia:
+Frontend programátor
+Spoločnosť:
+Riešenia, spol. s r.o.
+Základná zložka mzdy (brutto):
+2 200 EUR/mesiac

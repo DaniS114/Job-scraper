@@ -1,0 +1,78 @@
+Cég neve
+Lyncée Tec SA
+Munkavégzés helye
+Svájc
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+C++
+C
+DATABASE
+GIT
+VISUAL STUDIO
+Elvárások
+Angol középfok
+1-3 év tapasztalat
+Egyetem
+
+Teljes
+munkaidő
+Általános
+munkarend
+C++
+C
+DATABASE
+GIT
+VISUAL
+STUDIO
+Angol
+középfok
+1-3
+év tapasztalat
+Egyetem
+
+Állás leírása
+Responsibilities
+C++ Software Engineer
+Are you a software engineer passionate about nanometric scale applications, 3D observations, real time applications, image processing for microscopy, and holography? Join us in our journey to deliver solutions for one of the most sought after, interesting and complex technologies devoted to the development of the holographic vision system for imaging.
+Lyncée Tec is the pioneer of Digital Holography Microscopy (DHM®) and market leader. We address a wide range of applications in both materials and life sciences. Our systems are installed worldwide in renowned research and industrial laboratories, and for quality control in production facilities.
+We provide with our systems full software solutions for acquisition, processing and analysis of data and are currently looking for C++ software engineers to reinforce the software team. Our software competences range from developing highly optimized libraries for real-time processing, to elaborate graphical user interfaces for metrological applications.
+Required skills:
+Strong knowledge of modern multi-threaded C++ development (minimum C++11).
+Good knowledge of OO design and common design patterns, refactoring skills
+Good knowledge of modern software development principles, concepts, and practices
+Good communication and interpersonal skills
+Positive team player who enjoys working collaboratively
+Preferred skills:
+Experience of GPU programming (CUDA, OpenCL,...)
+Parallel computing
+Knowledge of signal/image processing
+Good knowledge of C# and .NET
+Responsibilities:
+Be responsible for developing core parts of our software solutions
+Design, build, and maintain efficient, reusable, and reliable code
+Take part in requirements analysis, research implementation ways, and possibilities
+Analyze and estimate implementation efforts, as well as provide technical solutions
+Participate in regular software code reviews to ensure high performance, compact code
+Education and languages
+Master’s degree or equivalent in computer science or a related domain
+Proficiency in English. French is an asset
+Our software stack:
+Languages: C++, C++/CLI, C#
+Frameworks: .NET, CUDA
+Database: SQLite
+Development tools: git, batch
+IDE: Visual Studio jided63508pn jit0313pn jiy26pn
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Database
+Expert
+Switzerland
+Álláshirdetés jelentése

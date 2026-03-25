@@ -1,0 +1,95 @@
+About us
+Our benefits
+Open positions
+AI Engineering Lead
+Place of work
+Twin City B, Mlynské nivy, Bratislava, Slovakia (Job with occasional home office)
+Contract type
+full-time
+Wage (gross)
+3 200 - 5 300 EUR/month
+For Slovakia the base salary range for this position is between EUR 3,200 and EUR 5,300 per month (for a full-time role). The specific salary offered considers:
+•	the requirements, scope, complexity and responsibilities of the role, 
+•	the applicant’s own profile including education/qualifications, expertise, specialisation, skills and experience.
+In addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.
+Eligibility may vary depending on the terms of Swiss Re policies and your employment contract.
+Information about the position
+Job description, responsibilities and duties
+P&C Digital & Technology RE is looking for an experienced AI Engineering Lead to shape, scale, and deliver high-impact AI products across the organization. This is a senior, hands-on lead role for someone who combines deep technical expertise with the ability to lead teams, set engineering direction, and partner closely with product and functional stakeholders.
+We create global, AI-driven products that address some of the most complex risk challenges in the world. While this role is a people and technical leadership position, it requires a strong engineering mindset: you are expected to deeply understand the systems your teams build and to engage directly with architecture, design, and code when needed.
+What you will do
+As an AI Engineering Lead, you will be responsible for the technical excellence, technical delivery quality, and professional growth of AI engineers working on production-grade AI systems. You will work closely with AI Product Leads and business partners to translate strategic objectives into robust, scalable solutions.
+If you join us, you will for example:
+•	Lead and mentor a team of senior engineers, setting clear technical standards and fostering a culture of engineering excellence, learning, and ownership
+•	Act as a hands-on technical authority for AI systems, with the ability to review, challenge, and contribute to architecture, code, and implementation decisions
+•	Drive the design and implementation of scalable AI and ML platforms, including MLOps, data pipelines, and cloud-native infrastructure
+•	Partner with AI Delivery Leads and product or functional stakeholders to ensure solutions are technically sound, deliver business value, and can be operated reliably at scale
+•	Oversee the end-to-end delivery lifecycle of the products, from experimentation and prototyping through deployment, monitoring, and continuous improvement
+•	Guide teams in applying modern AI techniques, including Generative AI, while ensuring robustness, security, explainability, and compliance
+We are a highly skilled and diverse team working on global initiatives across Swiss Re. Our passion for learning connects us: we actively invest in upskilling, knowledge sharing, and continuous improvement, and we expect our leaders to role-model this mindset.
+Employee perks, benefits
+You can look forward to extra rewards and benefits including:
+- Attractive performance-based bonus
+- Ultra flexible working time in hybrid setup, allowing you to work also from home
+- Modern office spaces in attractive location
+- 5 additional days of holiday
+- Lunch allowance fully paid by Swiss Re
+- Referral bonus
+- Pension & risk insurance contribution
+- Sick days and sick leave support
+- Public transport benefit
+- Multisport card
+Information about the selection process
+We are an equal opportunity employer, and we value diversity at our company. Our aim is to live visible and invisible diversity – diversity of age, race, ethnicity, nationality, gender, gender identity, sexual orientation, religious beliefs, physical abilities, personalities and experiences – at all levels and in all functions and regions. We also collaborate in a flexible working environment, providing you with a compelling degree of autonomy to decide how, when and where to carry out your tasks.
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder.
+Requirements for the employee
+Candidates with education suit the position
+University education (Bachelor's degree)
+University education (Master's degree)
+Postgraduate (Doctorate)
+Language skills
+English - Upper intermediate (B2)
+Personality requirements and skills
+Nobody is perfect and meets 100% of requirements. If you meet many of the criteria below and are motivated by building and leading high-performing AI engineering teams, we would be happy to meet you.
+In order to be successful in the role, you bring:
+•	A degree in Computer Science, Software Engineering, Applied Mathematics, or a related quantitative field, or equivalent practical experience
+•	Extensive experience designing, building, and operating production-grade AI or ML systems
+•	Strong proficiency in Python (or similar languages) and a deep understanding of good software engineering principles
+•	Solid hands-on knowledge of MLOps practices, including CI/CD for ML, model monitoring, versioning, and lifecycle management
+•	Deep understanding of cloud-native architectures, distributed systems, and large-scale data processing
+•	Proven experience in technical leadership roles, including mentoring engineers and guiding complex technical decisions
+It is a strong plus if you also have:
+•	Experience leading AI or data engineering teams in a large, complex organization
+•	Experience with Generative AI, NLP, or other advanced AI techniques applied in real-world products
+•	Experience in the Insurance or Re-insurance industry
+Even if you do not tick every box, but are eager to grow into this role and take on significant technical and leadership responsibility, we encourage you to apply.
+Thank you for taking the time to read our job advertisement. We look forward to getting to know you.
+Advertiser
+Brief description of the company
+As the world's leading and most diversified global reinsurer, we offer as our core business financial services products that enable risk taking essential to enterprise and progress. Our company was founded in Zurich, Switzerland in 1863, and operates in more than 25 countries and provides its expertise and services to clients throughout the world. We combine financial strengths with experience, knowledge and creative thought to explore new opportunities in the interests of our clients, staff and shareholders.
+Number of employees
+2500 employees
+Company address
+Learn more about working in Swiss Re Slovakia.
+Contact
+Contact person: Juraj Naderer
+Apply here
+ID:
+5256669
+Dátum zverejnenia:
+24.3.2026
+2026-03-24
+lokalita:
+Bratislava
+Pozícia:
+IT Product Manager
+,
+IT Project Manager
+,
+Programmer
+,
+Python Programmer
+Spoločnosť:
+Swiss Re
+Základná zložka mzdy (brutto):
+3 200 EUR/month

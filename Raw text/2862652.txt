@@ -1,0 +1,84 @@
+Cég neve
+Diligent Governance Hungary Kft.
+Munkavégzés helye
+Hibrid
+•
+Budapest
+Kis türelmet...
+Munkaidő, foglalkoztatás jellege
+Teljes munkaidő
+Általános munkarend
+Elvárt technológiák
+IOS
+TESTING
+DEVOPS
+GIT
+BACKEND
+ACCESS
+AUTOMATED TESTS
+TROUBLESHOOTING
+Elvárások
+Nem kell nyelvtudás
+5-10 év tapasztalat
+Középiskola
+
+Teljes
+munkaidő
+Általános
+munkarend
+IOS
+TESTING
+DEVOPS
+GIT
+BACKEND
+ACCESS
+AUTOMATED
+TESTS
+TROUBLESHOOTING
+Nem
+kell nyelvtudás
+5-10
+év tapasztalat
+Középiskola
+
+Állás leírása
+Responsibilities
+Design, implement, and maintain automated test frameworks to validate app functionality, performance, and reliability.
+Develop and execute test strategies across features, releases, and platforms to ensure comprehensive coverage and risk mitigation.
+Execute manual test suites as needed.
+Leverage AI-driven tools and practices to improve test effectiveness, speed, and defect detection.
+Collaborate closely with developers, product owners, and designers to define clear acceptance criteria and embed quality into the development lifecycle.
+Mentor junior QA engineers, sharing best practices in automation, mobile testing, and continuous quality improvement.
+Partner with global teams across North America and Europe, driving consistency in QA approaches and automation standards.
+Contribute to CI/CD pipelines and DevOps initiatives, ensuring automated tests are integrated, reliable, and provide rapid feedback.
+Take ownership of complex quality challenges, bringing analytical thinking and resourcefulness to ambiguous problems.
+Requirements
+6+ years of experience in QA engineering, with at least 3+ years focused on iOS automation.
+Strong hands-on experience with XCUItest (or similar) for building and scaling automated UI test frameworks.
+Proven track record in mobile QA, test design, and defect management.
+Familiarity with Git/GitHub and collaborative development workflows.
+Analytical troubleshooting skills with the ability to diagnose issues across UI, APIs, and backend systems.
+Excellent communication skills with a strong sense of ownership, teamwork, and accountability.
+Ability to manage workload, prioritize effectively, and drive QA strategy proactively.
+What we offer
+Creativity is ingrained in our culture. We are innovative collaborators by nature.
+We care about our people. Diligent offers a flexible work environment, global days of service, comprehensive health benefits, meeting free days, generous time off policy and wellness programs.
+We have teams all over the world with office hubs in multiple cities including Budapest.
+Diversity is important to us. We foster and encourage diversity through Employee Resource Groups and provide access to resources and education to support our team.
+Hybrid work model with expectation to work onsite at least 50% of the time if within commuting distance to an office location.
+Company info
+Diligent is the AI leader in governance, risk and compliance (GRC) SaaS solutions, helping more than 1 million users and 700,000 board members to clarify risk and elevate governance. The Diligent One Platform gives practitioners, the C-Suite and the board a consolidated view of their entire GRC practice so they can more effectively manage risk, build greater resilience and make better decisions, faster.
+At Diligent, we're building the future with people who think boldly and move fast. Whether you're designing systems that leverage large language models or part of a team reimaging workflows with AI, you'll help us unlock entirely new ways of working and thinking. Curiosity is in our DNA, we look for individuals willing to ask the big questions and experiment fearlessly - those who embrace change not as a challenge, but as an opportunity. The future belongs to those who keep learning, and we are building it together. At Diligent, you’re not just building the future - you’re an agent of positive change, joining a global community on a mission to make an impact.
+Diligent created the modern governance movement. Our world-changing idea is to empower leaders with the technology, insights and connections they need to drive greater impact and accountability – to lead with purpose. Our employees are passionate, smart, and creative people who not only want to help build the software company of the future, but who want to make the world a more sustainable, equitable and better place.
+Headquartered in New York, Diligent has offices in Washington D.C., London, Galway, Budapest, Vancouver, Bengaluru, Munich, Singapore and Sydney.
+How to apply
+You can submit your application on the company's website, which you can access by clicking the „Apply on company page“ button.
+Jelentkezés a cégnél
+MENTÉS
+Állás, munka területe(i)
+IT
+Development
+Tester,
+Test Engineer
+Budapest
+Álláshirdetés jelentése

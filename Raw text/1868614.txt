@@ -1,0 +1,16 @@
+Your new company
+Saab is a leading defence and security company with an enduring mission, to help nations keep their people and society safe. Empowered by its 26,000 talented people, Saab constantly pushes the boundaries of technology to create a safer and more sustainable world. Saab designs, manufactures and maintains advanced systems in aeronautics, weapons, command and control, sensors and underwater systems. Saab is headquartered in Sweden. It has major operations all over the world and is part of the domestic defence capability of several nations. Explore a wealth of possibilities. Take on challenges, create smart inventions, and grow beyond. This is a place for curious minds, brave pioneers, and everyone in between. Together, we achieve the extraordinary, each bringing our unique perspectives. Your part matters.
+Your new role
+We are looking for a skilled C#/.Net developer to join our team. In this role, you will be responsible for enhancing the performance and maintainability of our custom tool which is used for designing maintenance operations for the Gripen weapon system. Your work will help ensure that maintenance operations are efficient and tailored to customer needs.
+As part of the development team your main objectives will be:
+Improve the performance and maintainability of the SCT tool.
+Collaborate with business stakeholders to rework the data model and transition to a new framework and development environment.
+Develop a cloud-based application using .Net Blazor to support efficient maintenance operations for various aircraft and base configurations.
+What you'll need to succeed
+You will bring a strong technical background to this role, with expertise in C# and .Net. Your experience with REST APIs and databases such as MS SQL and PostgreSQL will be crucial in developing and maintaining the SCT tool. Proficiency in building web applications, particularly Single Page Applications (SPAs), will enable you to create a seamless user experience.
+Your solid understanding of software architecture and design patterns will ensure that the SCT tool is scalable and maintainable. Proficiency in Git and experience with version control systems such as Bitbucket, Artifactory, or Azure DevOps will facilitate efficient code management and collaboration.
+A Bachelor's degree in Computer Science, Software Engineering, or a related field will provide the academic foundation necessary for this role. Additionally, a proven track record in developing and maintaining complex software systems, preferably in a defence or aerospace context, will demonstrate your ability to deliver high-quality solutions.
+Strong problem-solving skills and attention to detail are essential, as is the ability to work collaboratively in a team environment. Excellent communication skills in English, both written and verbal, will ensure that you can effectively convey your ideas and collaborate with colleagues across different disciplines.
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion on your career.
