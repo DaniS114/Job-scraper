@@ -19,7 +19,7 @@ def process_description(job_text):
 
     Guidelines:
     - If a value is not mentioned, use null.
-    - Salary: amount + currency + gross/net (e.g., "3000 EUR gross")
+    - Salary: amount + currency + gross/net (e.g., "3000 EUR/HUF gross")
     - Language Requirements: Language + level as a list.
     -"Job Type" Full-time/Short-term/Half-Time
     -"Work Arrangement" On-site/Home-Office/Hybrid/On-site with home office.
@@ -73,7 +73,7 @@ def main():
     # Új DataFrame létrehozása és mentése
     output_df = pd.DataFrame(structured_data)
     
-    # A listákat alakítsuk stringgé, hogy a CSV ne törjön meg
+    # A listákat alakítsuk stringgé
     for col in output_df.columns:
         if output_df[col].apply(lambda x: isinstance(x, list)).any():
             output_df[col] = output_df[col].apply(lambda x: ", ".join(x) if isinstance(x, list) else x)
