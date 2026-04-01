@@ -55,8 +55,8 @@ def process_description(job_text, retries=1):
                 return {}
 
 def main():
-    input_file = 'profession_jobs.csv'
-    output_file = 'profession_llama.csv'
+    input_file = 'professia_jobs.csv'
+    output_file = 'professia_llama.csv'
 
     try:
         df = pd.read_csv(input_file)
