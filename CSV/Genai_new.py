@@ -19,7 +19,7 @@ def process_description_gemini(job_text, retries=1):
     Return ONLY valid JSON. If a value is missing, use null.
     
     Keys to use EXACTLY:
-    "Location", "Salary", "Language Requirements", "Suitable for", 
+    "Location", "Salary", "Language Requirements", "Education", 
     "Programming Languages", "Required Software / Tools", "Work Arrangement", 
     "Job Type", "Experience Level"
 
@@ -55,7 +55,7 @@ def process_description_gemini(job_text, retries=1):
 
 def main():
     input_file = 'professia_jobs.csv'
-    output_file = 'profesia_gemini.csv'
+    output_file = 'profesia_gemini2.csv'
 
     try:
         df = pd.read_csv(input_file)
@@ -69,7 +69,7 @@ def main():
 
     structured_data = []
     
-    print(f"\nIndul a teljes feldolgozás (4k RPM limit mellett): {len(df)} hirdetés...")
+    print(f"\nIndul a feldolgozás (4k RPM limit): {len(df)} hirdetés...")
 
     # Ciklus az összes soron várakozás nélkül
     for index, row in tqdm(df.iterrows(), total=len(df)):
