@@ -136,7 +136,7 @@ def main():
     output_file = 'profesia_llama.csv'
 
     # CSV beolvasása
-    df = pd.read_csv(input_file).head(200)
+    df = pd.read_csv(input_file)
 
     keep_columns = ['job_id','title','company', 'url', 'first_seen', 'last_seen','active', 'description']
     df = df[keep_columns]
