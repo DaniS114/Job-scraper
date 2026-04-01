@@ -4,13 +4,12 @@ from tqdm import tqdm
 import time
 from ollama import Client
 
-# Kliens létrehozása 60 másodperces időkorláttal
+#Kliens 60 másodperces időkorláttal
 client = Client(timeout=60.0)
 
 def process_description(job_text, retries=1):
     model_name = "llama3.1"
 
-    # A te eredeti system promptod
     system_prompt = """
     You are an expert HR information extraction system. Extract structured data from job descriptions.
     Return ONLY valid JSON. If a value is missing, use null.
@@ -64,7 +63,7 @@ def main():
         print(f"Hiba: A '{input_file}' nem található.")
         return
 
-    # Csak a szükséges oszlopok megtartása
+    #Szükséges oszlopok megtartása
     keep_columns = ['job_id','title','company', 'url', 'first_seen', 'last_seen','active', 'description']
     df = df[[col for col in keep_columns if col in df.columns]]
 
@@ -75,7 +74,7 @@ def main():
     for index, row in tqdm(df.iterrows(), total=len(df)):
         extracted = process_description(row['description'])
 
-        # Biztonsági ellenőrzés a szótár típusra
+        #Biztonsági ellenőrzés a szótár típusra
         if not isinstance(extracted, dict):
             extracted = {}
 
@@ -92,11 +91,11 @@ def main():
 
         structured_data.append(combined_row)
 
-        # MENTÉS 50 SORONKÉNT
+        #Biztonsági mentés 50 soronként
         if (index + 1) % 50 == 0 or (index + 1) == len(df):
             temp_df = pd.DataFrame(structured_data)
             
-            # Listák (pl. nyelvek) szöveggé alakítása vesszővel elválasztva
+            # Listák szöveggé alakítása vesszővel elválasztva
             for col in temp_df.columns:
                 if temp_df[col].apply(lambda x: isinstance(x, list)).any():
                     temp_df[col] = temp_df[col].apply(
@@ -105,7 +104,7 @@ def main():
             
             temp_df.to_csv(output_file, index=False, encoding='utf-8-sig')
 
-    print(f"\n Kész! Az eredmények mentve: {output_file}")
+    print(f"\n Az eredmények mentve: {output_file}")
 
 if __name__ == "__main__":
     main()

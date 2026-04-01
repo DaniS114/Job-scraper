@@ -5,13 +5,13 @@ from tqdm import tqdm
 from google import genai
 from google.genai import types
 
-# API kliens inicializálása környezeti változóból
+#API kliens inicializálása környezeti változóból
 client = genai.Client(
     api_key=os.environ["GEMINI_API_KEY"]
 )
 
 def process_description_gemini(job_text, retries=1):
-    """Feldolgozás Gemini API-val, minimális újrapróbálkozással hálózati hiba esetére."""
+    """Feldolgozás Geminivel."""
     model_name = "models/gemini-2.5-flash-lite" 
 
     system_prompt = """
@@ -63,7 +63,7 @@ def main():
         print(f"Hiba: A '{input_file}' nem található.")
         return
 
-    # Oszlopok előkészítése
+    #Szükséges oszlopok megtartása
     keep_columns = ['job_id','title','company', 'url', 'first_seen', 'last_seen','active', 'description']
     df = df[[col for col in keep_columns if col in df.columns]]
 
@@ -71,7 +71,6 @@ def main():
     
     print(f"\nIndul a feldolgozás (4k RPM limit): {len(df)} hirdetés...")
 
-    # Ciklus az összes soron várakozás nélkül
     for index, row in tqdm(df.iterrows(), total=len(df)):
         extracted = process_description_gemini(row['description'])
 
@@ -87,13 +86,13 @@ def main():
         }
         structured_data.append(combined_row)
         
-        # Biztonsági mentés 100 soronként (gyors írás, nem lassít érdemben)
+        #Biztonsági mentés 100 soronként
         if (index + 1) % 100 == 0:
             pd.DataFrame(structured_data).to_csv(output_file, index=False, encoding='utf-8-sig')
 
     # Végső formázás és mentés
     output_df = pd.DataFrame(structured_data)
-
+    # Listák szöveggé alakítása vesszővel elválasztva
     for col in output_df.columns:
         if output_df[col].apply(lambda x: isinstance(x, list)).any():
             output_df[col] = output_df[col].apply(
