@@ -1,3 +1,4 @@
+import os
 import json
 import pandas as pd
 from tqdm import tqdm
@@ -55,10 +56,17 @@ def process_description(job_text, retries=1):
 
 def main():
     input_file = 'professia_jobs.csv'
-    output_file = 'professia_llama.csv'
+    
+    output_folder = 'Processed_csv'
+    output_filename = 'profesia_gemini11.csv'    
 
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+        print(f"Mappa létrehozva: {output_folder}")
+    output_file = os.path.join(output_folder, output_filename)
+    
     try:
-        df = pd.read_csv(input_file)
+        df = pd.read_csv(input_file).head(3)
     except FileNotFoundError:
         print(f"Hiba: A '{input_file}' nem található.")
         return

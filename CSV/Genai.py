@@ -55,8 +55,15 @@ def process_description_gemini(job_text, retries=1):
 
 def main():
     input_file = 'professia_jobs.csv'
-    output_file = 'profesia_gemini2.csv'
 
+    output_folder = 'Processed_csv'
+    output_filename = 'profesia_gemini.csv'    
+
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+        print(f"Mappa létrehozva: {output_folder}")
+    output_file = os.path.join(output_folder, output_filename)
+    
     try:
         df = pd.read_csv(input_file)
     except FileNotFoundError:

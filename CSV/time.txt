@@ -4,3 +4,4 @@ Gemini_vconline: 10min
 
 Llama_profession: 3H
 Llama_cvonline: 40min
+Llama_profesia: 8H
