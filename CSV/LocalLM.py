@@ -9,7 +9,7 @@ from ollama import Client
 client = Client(timeout=60.0)
 
 def process_description(job_text, retries=1):
-    model_name = "llama3.1"
+    model_name = "mistral-nemo"
 
     system_prompt = """
     You are an expert HR information extraction system. Extract structured data from job descriptions.
@@ -55,10 +55,10 @@ def process_description(job_text, retries=1):
                 return {}
 
 def main():
-    input_file = 'professia_jobs.csv'
+    input_file = 'profession_jobs.csv'
     
     output_folder = 'Processed_csv'
-    output_filename = 'profesia_gemini11.csv'    
+    output_filename = 'profession_nemo.csv'    
 
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -66,7 +66,7 @@ def main():
     output_file = os.path.join(output_folder, output_filename)
     
     try:
-        df = pd.read_csv(input_file).head(3)
+        df = pd.read_csv(input_file)
     except FileNotFoundError:
         print(f"Hiba: A '{input_file}' nem található.")
         return
@@ -77,7 +77,7 @@ def main():
 
     structured_data = []
 
-    print(f"\nProcessing {len(df)} jobs with Ollama (Llama 3.1)...")
+    print(f"\nProcessing {len(df)} jobs...")
 
     for index, row in tqdm(df.iterrows(), total=len(df)):
         extracted = process_description(row['description'])
