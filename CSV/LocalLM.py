@@ -9,7 +9,7 @@ from ollama import Client
 client = Client(timeout=60.0)
 
 def process_description(job_text, retries=1):
-    model_name = "mistral-nemo"
+    model_name = "qwen2.5:7b-instruct"
 
     system_prompt = """
     You are an expert HR information extraction system. Extract structured data from job descriptions.
@@ -58,7 +58,7 @@ def main():
     input_file = 'profession_jobs.csv'
     
     output_folder = 'Processed_csv'
-    output_filename = 'profession_nemo.csv'    
+    output_filename = 'profession_qwen.csv'    
 
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)

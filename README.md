@@ -32,4 +32,3 @@ A Python-based web scraping and data analysis tool designed to archive and analy
 ├── Raw text/            # Permanent backup of job descriptions (.txt)
 └── scraper.py           # Scraping scripts
 ```
-## How to run
