@@ -1,0 +1,550 @@
+﻿Programming Language,Count
+Python,477
+SQL,376
+Java,255
+JavaScript,192
+C++,148
+TypeScript,113
+C,110
+HTML,106
+C#,100
+React,86
+CSS,81
+Node.js,67
+PHP,63
+Angular,56
+Go,46
+REST,42
+.NET,36
+Kotlin,36
+ABAP,35
+R,35
+PowerShell,34
+Rust,32
+GIT,31
+Bash,30
+API,27
+Git,27
+REACT,21
+DOCKER,19
+ANGULAR,19
+PostgreSQL,18
+Vue.js,18
+JSON,17
+PL/SQL,16
+Perl,15
+VBA,15
+BASH,14
+Spring,14
+AWS,14
+XML,14
+Spring Boot,13
+BACKEND,13
+SAP ABAP,13
+Swift,12
+MySQL,12
+MATLAB,12
+POSTGRESQL,12
+DAX,12
+FRONTEND,12
+SPRING,12
+.NET Core,12
+C/C++,12
+NoSQL,11
+Vue,11
+NOSQL,11
+MYSQL,11
+LINUX,11
+Kubernetes,10
+MSSQL,10
+Power BI,10
+Laravel,9
+CLOUD,9
+DEVOPS,9
+REST API,9
+VUE,8
+Docker,8
+PLSQL,8
+IOS,8
+ASP.NET,8
+Pandas,8
+SystemVerilog,8
+MAVEN,8
+Flutter,8
+ORACLE,7
+PySpark,7
+Assembly,7
+Shell scripting,7
+PyTorch,7
+TensorFlow,6
+ANDROID,6
+MS SQL,6
+MACHINE LEARNING,6
+AZURE,6
+Next.js,6
+MONGODB,6
+Scala,6
+React Native,6
+DevOps,6
+Apex,6
+ABAP OO,5
+Oracle,5
+Groovy,5
+Ruby,5
+J2EE,5
+Spark,5
+JUNIT,5
+LARAVEL,5
+Kafka,5
+VHDL,5
+Playwright,5
+.C.,4
+OData,4
+SAP,4
+CUCUMBER,4
+C#.net,4
+.net,4
+JENKINS,4
+Selenium,4
+Maven,4
+AGILIS,4
+Hibernate,4
+MariaDB,4
+SAP C,4
+UNIX,4
+Symfony,4
+Apache Arrow,4
+CYPRESS,4
+SOAP,4
+JIRA,4
+SCRUM,4
+SPSS,4
+CI,4
+Power Query,4
+AGILE,4
+ACCESS,4
+Visual Basic,4
+SPARK,3
+API REST,3
+Sass,3
+WebdriverIO,3
+Tcl,3
+SECURITY,3
+GO,3
+UI5,3
+RAP,3
+CD,3
+MVC,3
+POSTMAN,3
+Django,3
+Bootstrap,3
+SYMFONY,3
+Linux,3
+SELENIUM,3
+ANSIBLE,3
+NextJS,3
+Frontend,3
+JQUERY,3
+CUDA,3
+GitHub Actions,3
+SAP UI5,3
+GraphQL,3
+Shell,3
+Nuxt.js,3
+DATABASES,3
+PLC,3
+BI,3
+UML,3
+Springboot,3
+KOTLIN,3
+Gradle,2
+Entity Framework Core,2
+ANALYTICS,2
+RDBMS,2
+Quarkus,2
+CLOUD @SAP,2
+WebSocket,2
+React.js,2
+M,2
+ASP.NET Core,2
+Microsoft SQL Server,2
+RabbitMQ,2
+F#,2
+ASP.NET CORE,2
+QML,2
+Android,2
+.NET 6+,2
+Excel,2
+WordPress,2
+.Net,2
+Unix,2
+CI/CD,2
+NPM,2
+SAP Fiori,2
+ABAP for Hana,2
+Core Data Services,2
+XSLT,2
+API TESTING,2
+Entity Framework,2
+Pro*C,2
+SAP Business Technology Platform (BTP),2
+SAP Data Service,2
+SAP Data Intelligence,2
+Verilog/SystemVerilog,2
+SAP Analytics Cloud (SAC),2
+SAP Datasphere (DSP),2
+SAP Business Data Cloud (BDC),2
+LWC,2
+MongoDB,2
+VueJS,2
+Backend,2
+Terraform,2
+Ansible,2
+SCSS,2
+ES6+,2
+T-SQL,2
+Fiori,2
+JS/Typescript,2
+Specmen e,2
+Julia,2
+Clean Code,2
+Glide,2
+Flow Designer,2
+IntegrationHub,2
+Solidity,2
+Mocha,2
+Jest,2
+TeamCity,2
+Bamboo,2
+JQuery,2
+TROUBLESHOOTING,2
+Nightwatch,2
+TestNG,2
+RestAssured,2
+Gson,2
+Awaitility,2
+Allure,2
+INTELLIJ,2
+VIRTUALIZATION,2
+JMETER,2
+SVN,2
+jQuery,2
+Java 11+,2
+Javascript/Typescript,2
+QueryDSL,2
+OpenAPI/Swagger,2
+Shell script,2
+REST APIs,2
+Verilog,2
+RxJS,2
+C#/.NET,2
+Haskell,2
+OOP,2
+C Sharp (C#),2
+ADA,2
+Qt,2
+Jasmine,2
+RPG,2
+SOQL,2
+PowerPivot,2
+RPA,2
+Microsoft Power Automate,2
+Microsoft Power Apps,2
+CAP,2
+PANDAS,2
+Bicep,2
+DELPHI,2
+Objective-C,2
+WCF,2
+AZURE DEVOPS,2
+Web API,2
+Cucumber,2
+RUBY,2
+BOOTSTRAP,2
+TESTING,2
+Machine Learning,2
+SAPUI5,2
+Fiori Elements,2
+Fortran,2
+GLSL,1
+QT,1
+Scripting languages,1
+KANBAN,1
+jetpack,1
+SharePoint REST,1
+CSOM,1
+PnP,1
+SpringBoot,1
+SAP BW/4HANA,1
+Appium,1
+SOAP API,1
+ARM,1
+CDS,1
+Fiori/UI5,1
+ROBOT,1
+UBUNTU,1
+ENTITY FRAMEWORK,1
+pgSQL,1
+.NET 9,1
+C# 12,1
+XAML,1
+ABAP on HANA,1
+DATABASE,1
+LangGraph,1
+LangChain,1
+jquery,1
+knockout,1
+asp.net,1
+VBS,1
+Google App Script,1
+SAP Script,1
+Redux Toolkit,1
+Access,1
+OpenApi,1
+Microservice,1
+SAS,1
+Power Platform,1
+Microsoft Power BI,1
+Low-Code Development,1
+Low-code,1
+No-code,1
+EnterpriseDB,1
+Webservice,1
+VS.net,1
+BTP,1
+KEYENCE,1
+ABB,1
+COGNEX,1
+SonarQube / SonarLint,1
+Streaming technologies,1
+ASP.NET Core Web API,1
+UI Automation,1
+ASP.Net,1
+AngularJS,1
+SolidJS,1
+ReactJS,1
+Java11+,1
+WPF,1
+BACKEND API,1
+REDUX,1
+CODEIGNITER,1
+X++,1
+ARM templates,1
+CMS,1
+WINDOWS,1
+JSPython,1
+DeltaV,1
+Simatic S5/S7,1
+APEX,1
+Oracle PL/SQL,1
+Golang,1
+Azure DevOps,1
+SAP S/4HANA,1
+GoLang,1
+NumPy,1
+shell scripting,1
+DATABASE TESTING,1
+Agile,1
+Net,1
+VB.NET,1
+Jython,1
+System Verilog,1
+AL,1
+C/AL,1
+SWIFT,1
+Avaloq,1
+SAP SECURITY,1
+OpenStack,1
+Pulumi,1
+OpenAI,1
+Power Automate,1
+Blazor WASM,1
+Xamarin.Forms,1
+LiveWire,1
+AlpineJS,1
+jQuiery,1
+AI,1
+Rancher,1
+GitLab,1
+Bun,1
+Composer,1
+Node,1
+CodeIgniter,1
+PSQL,1
+php,1
+Apache Camel,1
+Apache Hadoop,1
+Apache Spark,1
+Apache NiFi,1
+LEAN,1
+JavaScript/TypeScript,1
+Postman,1
+Google Cloud,1
+SAP CLOUD,1
+SAP. SECURITY ANALYTICS DATA MANAGEMENT,1
+SAP Business Warehouse (BW),1
+Apache Cassandra,1
+Neo4J,1
+RDF,1
+JSON-LD,1
+RESTful API,1
+Appian,1
+CLEAN CODE,1
+Aura,1
+Visualforce,1
+Solid.js,1
+COBOL,1
+VB,1
+BI C,1
+POWER BI,1
+Mysql,1
+SASS,1
+npm,1
+Grid / Flex,1
+Twig,1
+.NET5+,1
+Angular 2+,1
+RAPID,1
+STL,1
+SCL,1
+FBD,1
+LAD,1
+WEBSERVICE,1
+Delta Lake,1
+YAML,1
+LLM,1
+Tensorflow,1
+HTML 5,1
+MIDDLEWARE,1
+Salesforce,1
+Flows,1
+Labview,1
+TSQL,1
+GraphAPI,1
+SCADA,1
+Power Query M,1
+ABAP/4,1
+ORACLE SQL,1
+ADATTÁRHÁZ,1
+Gherkin,1
+C++11,1
+Tailwind CSS,1
+Final Form,1
+React Hook Form,1
+C/C#,1
+MySQL/MariaDB,1
+SonarQube/SonarLint,1
+Qt/QML,1
+Azure,1
+Spring Data,1
+Camunda,1
+Spring Security,1
+OAuth,1
+IntelliJ IDEA,1
+Jenkins,1
+TanStack Table,1
+TanStack Query,1
+WORDPRESS,1
+Sveltekit,1
+SQL/NoSQL,1
+API Dev,1
+Java Backend,1
+IEC 61131-3,1
+CODESYS,1
+ES6,1
+Open3D,1
+FORTRAN,1
+ROS/ROS 2,1
+SwiftUI,1
+RxSwift,1
+Combine,1
+Async/Await,1
+WebRTC,1
+ACCESS MACHINE LEARNING,1
+Power Apps,1
+Hibernate/JPA,1
+Android SDK,1
+Jetpack,1
+M Query,1
+visual basic,1
+OpenCV,1
+Java 17+,1
+.NET framework/core,1
+Redux,1
+ASP.NET MVC,1
+SOAPUI,1
+BITBUCKET,1
+ASP.NET Web API,1
+R/Bioconductor,1
+ROS/ROS2,1
+Tailwind,1
+DEBIAN,1
+Couchbase,1
+OpenSearch,1
+Elasticsearch,1
+Cypress,1
+NET,1
+PowerCLI,1
+CONFLUENCE,1
+android,1
+C++/CLI,1
+Unix Scripting,1
+Blueprints,1
+HLSL,1
+Jupyter,1
+SSJS,1
+Nix,1
+ORACLE DB2,1
+Ktor,1
+JetBrains Exposed,1
+JPA,1
+Java EE,1
+OpenSQL,1
+Material UI,1
+tailwind,1
+MicroSoftSQL,1
+Azure DevOps Server,1
+Nuget,1
+Helm,1
+RKE2,1
+AMP script,1
+ERP,1
+pl/sql,1
+Scripting,1
+Excel VBA,1
+PowerBI,1
+WEBAPI,1
+.Net Framework 4.8,1
+.Net Core 6+,1
+EXCEL,1
+ORACLE ERP,1
+CRM,1
+Object-Oriented Programming,1
+Java Spring Boot,1
+Knockout,1
+OJet,1
+VBSC,1
+WebSockets,1
+NOSQL DATABASES,1
+SECURITY TESTING,1
+C API,1
+pytorch,1
+SECURITY TEST AUTOMATION,1
+SOFTWARE TESTING,1
+Redis,1
+ASSEMBLY,1
+MPI,1
+ROCM,1
+Structured text (IEC 61131-3),1
+Simulink,1
+SAP BI ANALYTICS,1
+TIA Portal,1
+Rockwell Studio 5000,1
+SAP CAP,1
+SAP BTP,1
+CDS Views,1
+TCL,1
+Nunjucks,1
+HIBERNATE,1
+APACHE,1
+DEBUGGING,1
