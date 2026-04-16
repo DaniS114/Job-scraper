@@ -200,7 +200,7 @@ def normalize_experience(value):
     lower = value.lower()
 
     if lower in ["not specified", "nan"]:
-        return "Not specified"
+        return "Nincs megadva"
 
     if "junior" in lower:
         return "Junior"
@@ -210,76 +210,75 @@ def normalize_experience(value):
         return "Senior"
 
     if lower in ["0-1 years"]:
-        return "Junior 0-1 years"
+        return "Junior 0-1 év"
 
     if lower in ["1-3 years", "2", "2 years", "2+ years", "2-3 years", "2-4 years", "2-5 years", "3+ years", "3-5 years", "4+ years", "4-7 years"]:
-        return "Medior 1-5 years"
+        return "Medior 1-5 év"
 
     if lower in ["5+ years", "5-7 years", "8-10 years", "7+ years", "7-10+ years", "10+ years", "8-12 years", "8+ years", "5-10 years"]:
-        return "Senior 5-10+ years"
+        return "Senior 5-10+ év"
 
     return value
 
 
 def normalize_work_arrangement(value):
     if pd.isna(value) or str(value).strip() == "":
-        return "Not specified"
+        return "Nincs megadva"
 
     value = str(value).strip()
     lower = value.lower()
 
     if "remote" in lower or "home-office" in lower or "home office" in lower or "práca z domu" in lower:
-        return "Remote"
+        return "Távoli munkavégzés"
 
     if "on-site with home office" in lower:
-        return "Hybrid"
+        return "Hibrid munkavégzés"
 
     if "hybrid" in lower:
-        return "Hybrid"
+        return "Hibrid munkavégzés"
 
     if "on-site" in lower:
-        return "On-site"
+        return "Helyszíni munkavégzés"
 
     if "remote-first" in lower:
-        return "Remote"
+        return "Távoli munkavégzés"
 
     if "full remote" in lower:
-        return "Remote"
+        return "Távoli munkavégzés"
 
     if lower == "full-time":
-        return "Not specified"
+        return "Nincs megadva"
 
     return value
 
 
 def normalize_job_type(value):
     if pd.isna(value) or str(value).strip() == "":
-        return "Not specified"
+        return "Nincs megadva"
 
     value = str(value).strip()
     lower = value.lower()
 
     if lower in ["full-time", "plný úväzok"]:
-        return "Full-time"
+        return "Teljes munkaidő"
 
-    if lower in ["half-time", "part-time", "part time", "part-time"]:
-        return "Part-time"
+    if lower in ["half-time", "part-time", "part time"]:
+        return "Részmunkaidő"
 
     if "short-term" in lower:
-        return "Short-term"
+        return "Határozott idejű"
 
-    if "full-time" in lower and "half-time" in lower:
-        return "Full-time / Part-time"
+    if "full-time" in lower and ("half-time" in lower or "part-time" in lower):
+        return "Teljes vagy részmunkaidő"
 
     if "full-time" in lower and "short-term" in lower:
-        return "Full-time / Short-term"
+        return "Teljes munkaidő / határozott idejű"
 
     return value
 
-
 def normalize_location(value):
     if pd.isna(value) or str(value).strip() == "":
-        return "Not specified"
+        return "Nincs megadva"
 
     value = str(value).strip()
     lower = value.lower()
@@ -355,10 +354,10 @@ locations.to_csv(os.path.join(output_dir, "all_locations.csv"), index=False, enc
 # Grafikonok
 make_stacked_chart(programming_languages, "Programming Language", "Programozási és leíró nyelvek", "all_programming_languages.png", 20)
 make_stacked_chart(tools, "Tool / Technology", "Eszközök és technológiák", "all_tools.png", 20)
-make_stacked_chart(language_requirements, "Language", "Nyelvi követelmények", "all_human_languages.png", 6)
-make_stacked_chart(experience_levels, "Experience Level", "Experience level", "all_experience_levels.png", 4)
+make_stacked_chart(language_requirements, "Language", "Elvárt nyelvismeret", "all_human_languages.png", 6)
+make_stacked_chart(experience_levels, "Experience Level", "Munkatapasztalat", "all_experience_levels.png", 4)
 make_stacked_chart(work_arrangements, "Work Arrangement", "Munkavégzés módja", "all_work_arrangement.png", 4)
 make_stacked_chart(job_types, "Job Type", "Munka típusa", "all_job_types.png", 4)
-make_stacked_chart(locations, "Location", "Helyszín", "all_locations.png", 15)
+make_stacked_chart(locations, "Location", "Munkavégzés helye", "all_locations.png", 15)
 
 print("Kész. Mentve az Analyzed mappába")
