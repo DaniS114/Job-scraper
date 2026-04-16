@@ -325,7 +325,7 @@ job_types = df["Job Type"].value_counts()
 locations = df["Location"].value_counts()
 
 # CSV mentés
-
+'''
 save_counts(programming_languages, "profesia_programming_languages.csv", "Programming Language")
 save_counts(tools, "profesia_tools.csv", "Tool / Technology")
 save_counts(language_requirements, "profesia_human_languages.csv", "Language")
@@ -334,47 +334,16 @@ save_counts(experience_levels, "profesia_experience_levels.csv", "Experience Lev
 save_counts(work_arrangements, "profesia_work_arrangement.csv", "Work Arrangement")
 save_counts(job_types, "profesia_job_types.csv", "Job Type")
 save_counts(locations, "profesia_locations.csv", "Location")
-
+'''
 
 # Grafikonok
-'''
-make_chart(programming_languages, "Programozási és leíró nyelvek", "cvonline_programming_languages.png", 20)
-make_chart(tools, "Eszközök és technológiák", "cvonline_tools.png", 20)
-make_chart(language_requirements, "Nyelvi követelmények", "cvonline_human_languages.png", 6)
-make_chart(experience_levels, "Experience level", "cvonline_experience_levels.png", 4)
-make_chart(work_arrangements, "Munkavégzés módja", "cvonline_work_arrangement.png", 4)
-make_chart(job_types, "Munka típusa", "cvonline_job_types.png", 4)
-make_chart(locations, "Helyszín", "cvonline_locations.png", 15)
-'''
 
-# Eredmények kiírása
-
-print("Top programozási nyelvek:")
-print(programming_languages.head(15))
-print()
-
-print("Top eszközök és technológiák:")
-print(tools.head(15))
-print()
-
-print("Top nyelvek:")
-print(language_requirements.head(10))
-print()
-
-print("Experience level:")
-print(experience_levels.head(10))
-print()
-
-print("Munkavégzés módja:")
-print(work_arrangements.head(10))
-print()
-
-print("Munka típusa:")
-print(job_types.head(10))
-print()
-
-print("Top lokációk:")
-print(locations.head(15))
-print()
+make_chart(programming_languages, "Programozási és leíró nyelvek", "profesia_programming_languages.png", 20)
+make_chart(tools, "Eszközök és technológiák", "profesia_tools.png", 20)
+make_chart(language_requirements, "Nyelvi követelmények", "profesia_human_languages.png", 6)
+make_chart(experience_levels, "Experience level", "profesia_experience_levels.png", 4)
+make_chart(work_arrangements, "Munkavégzés módja", "profesia_work_arrangement.png", 4)
+make_chart(job_types, "Munka típusa", "profesia_job_types.png", 4)
+make_chart(locations, "Helyszín", "profesia_locations.png", 15)
 
 print("Kész")

@@ -1,0 +1,1207 @@
+﻿Programming Language,Profesia,Profession,CVOnline,Total
+Python,1148,477,45,1670
+SQL,894,376,53,1323
+Java,688,255,33,976
+JavaScript,625,192,35,852
+TypeScript,408,113,13,534
+C#,326,100,31,457
+HTML,253,106,12,371
+C++,163,148,20,331
+React,232,86,6,324
+CSS,213,81,13,307
+Angular,214,56,7,277
+Bash,239,30,4,273
+.NET,204,36,18,258
+PowerShell,170,34,22,226
+PHP,157,63,4,224
+Node.js,139,67,5,211
+C,52,110,5,167
+Go,75,46,0,121
+Spring Boot,106,13,1,120
+Kotlin,83,36,1,120
+R,78,35,1,114
+ABAP,62,35,13,110
+REST,42,42,1,85
+PL/SQL,62,16,2,80
+XML,54,14,1,69
+JSON,48,17,0,65
+GIT,34,31,0,65
+Vue.js,41,18,1,60
+Git,29,27,1,57
+NoSQL,41,11,3,55
+Perl,39,15,1,55
+Rust,17,32,5,54
+Spring,39,14,1,54
+MySQL,39,12,2,53
+PostgreSQL,35,18,0,53
+.NET Core,39,12,1,52
+PySpark,42,7,2,51
+C/C++,37,12,2,51
+REST API,37,9,5,51
+VBA,34,15,1,50
+DAX,26,12,3,41
+Next.js,34,6,0,40
+React Native,34,6,0,40
+Laravel,29,9,0,38
+Vue,26,11,1,38
+ASP.NET Core,31,2,5,38
+Scala,32,6,0,38
+Docker,26,8,0,34
+Ansible,31,2,1,34
+ASP.NET,24,8,1,33
+MS SQL,22,6,3,31
+Swift,17,12,1,30
+API,1,27,0,28
+GraphQL,24,3,0,27
+Shell,23,3,1,27
+Kubernetes,15,10,0,25
+REACT,4,21,0,25
+Hibernate,19,4,1,24
+SOAP,19,4,0,23
+jQuery,21,2,0,23
+T-SQL,20,2,1,23
+ReactJS,19,1,2,22
+Spark,17,5,0,22
+MSSQL,11,10,0,21
+Terraform,15,2,4,21
+bash,20,0,0,20
+BASH,5,14,1,20
+DOCKER,0,19,0,19
+ANGULAR,0,19,0,19
+MariaDB,15,4,0,19
+PyTorch,12,7,0,19
+J2EE,13,5,0,18
+Groovy,13,5,0,18
+Kafka,13,5,0,18
+JPA,17,1,0,18
+AWS,4,14,0,18
+TensorFlow,12,6,0,18
+Java 17+,16,1,0,17
+Apex,6,6,5,17
+SAP ABAP,1,13,3,17
+Flutter,9,8,0,17
+Golang,16,1,0,17
+Power BI,6,10,1,17
+Bootstrap,12,3,0,15
+FastAPI,15,0,0,15
+Maven,11,4,0,15
+Ruby,10,5,0,15
+SignalR,14,0,0,14
+Shell scripting,5,7,2,14
+SCSS,12,2,0,14
+Redis,13,1,0,14
+Quarkus,12,2,0,14
+MATLAB,2,12,0,14
+MongoDB,11,2,0,13
+Selenium,9,4,0,13
+UML,10,3,0,13
+Symfony,9,4,0,13
+Objective-C,11,2,0,13
+Pandas,5,8,0,13
+BACKEND,0,13,0,13
+Rest API,13,0,0,13
+React.js,11,2,0,13
+RxJS,10,2,0,12
+FRONTEND,0,12,0,12
+Django,9,3,0,12
+SPRING,0,12,0,12
+POSTGRESQL,0,12,0,12
+Ruby on Rails,11,0,0,11
+ASP.NET MVC,10,1,0,11
+UI5,8,3,0,11
+Linux,8,3,0,11
+NOSQL,0,11,0,11
+Redux,10,1,0,11
+AngularJS,10,1,0,11
+LINUX,0,11,0,11
+Springboot,8,3,0,11
+MYSQL,0,11,0,11
+Oracle,5,5,0,10
+Android,8,2,0,10
+GO,7,3,0,10
+Web API,8,2,0,10
+Power Query,6,4,0,10
+Playwright,5,5,0,10
+.NET Framework,9,0,1,10
+Microsoft SQL Server,8,2,0,10
+.Net,6,2,2,10
+shell,10,0,0,10
+Node,9,1,0,10
+SQL Server,7,0,2,9
+PLSQL,0,8,1,9
+DEVOPS,0,9,0,9
+WebSocket,7,2,0,9
+ES6+,7,2,0,9
+DevOps,3,6,0,9
+Spring Framework,9,0,0,9
+MVC,6,3,0,9
+VUE,1,8,0,9
+PLC,5,3,1,9
+Visual Basic,5,4,0,9
+SystemVerilog,1,8,0,9
+LabVIEW,7,0,2,9
+CLOUD,0,9,0,9
+Entity Framework Core,7,2,0,9
+Sass,5,3,0,8
+MAVEN,0,8,0,8
+Azure,7,1,0,8
+Entity Framework,5,2,1,8
+Nuxt,8,0,0,8
+Angular 16+,8,0,0,8
+RPG,6,2,0,8
+Apache Spark,7,1,0,8
+C#/.NET,5,2,1,8
+Cypress,7,1,0,8
+Flask,8,0,0,8
+IOS,0,8,0,8
+JUnit,8,0,0,8
+Blazor,4,0,4,8
+VueJS,6,2,0,8
+ABAP OO,2,5,1,8
+Oracle DB,8,0,0,8
+D3.js,7,0,0,7
+OpenAPI,7,0,0,7
+ORACLE,0,7,0,7
+Assembly,0,7,0,7
+Lua,7,0,0,7
+WordPress,5,2,0,7
+awk,7,0,0,7
+Jenkins,6,1,0,7
+Rest APIs,7,0,0,7
+JIRA,3,4,0,7
+Spring/SpringBoot,7,0,0,7
+RabbitMQ,5,2,0,7
+SASS,6,1,0,7
+XSLT,5,2,0,7
+ANDROID,0,6,0,6
+Azure CLI,6,0,0,6
+ES6,5,1,0,6
+WebApi,6,0,0,6
+AZURE,0,6,0,6
+Camunda,5,1,0,6
+Jest,4,2,0,6
+Java Spring Boot,5,1,0,6
+Java EE,5,1,0,6
+Vaadin,6,0,0,6
+XSD,6,0,0,6
+HTML 5,5,1,0,6
+PowerCLI,2,1,3,6
+React JS,6,0,0,6
+CL,5,0,1,6
+MONGODB,0,6,0,6
+noSQL,6,0,0,6
+OpenStack,5,1,0,6
+MACHINE LEARNING,0,6,0,6
+.NET 6+,3,2,1,6
+OData,2,4,0,6
+GoLang,5,1,0,6
+Express,6,0,0,6
+JavaScript/TypeScript,5,1,0,6
+Elasticsearch,5,1,0,6
+Fiori,4,2,0,6
+VHDL,1,5,0,6
+NumPy,5,1,0,6
+SPSS,1,4,0,5
+GitLab,4,1,0,5
+Visualforce,1,1,3,5
+JS/TS,5,0,0,5
+Bash/Shell,5,0,0,5
+LARAVEL,0,5,0,5
+LWC,3,2,0,5
+NATS.IO,5,0,0,5
+JSF,5,0,0,5
+Shell/Bash,4,0,1,5
+REST APIs,3,2,0,5
+Jasmine,3,2,0,5
+Chart.js,5,0,0,5
+Recharts,5,0,0,5
+Postman,4,1,0,5
+EF Core,5,0,0,5
+QML,3,2,0,5
+object-oriented programming,5,0,0,5
+scripting language,5,0,0,5
+WCF,3,2,0,5
+Svelte,5,0,0,5
+Java 8+,5,0,0,5
+JUNIT,0,5,0,5
+OOP,3,2,0,5
+.NET (C#),1,0,4,5
+Spring MVC,5,0,0,5
+C+,5,0,0,5
+Expo,5,0,0,5
+Robot Framework,5,0,0,5
+M,2,2,1,5
+ASP.Net,2,1,2,5
+NextJS,2,3,0,5
+TCP/IP,5,0,0,5
+UNIX,1,4,0,5
+Angular 2+,4,1,0,5
+TestNG,3,2,0,5
+Delta Lake,4,1,0,5
+AGILE,0,4,0,4
+AGILIS,0,4,0,4
+JMeter,4,0,0,4
+RAP,1,3,0,4
+.C.,0,4,0,4
+.NET Core 6+,4,0,0,4
+Oracle PL/SQL,3,1,0,4
+Object-oriented programming,4,0,0,4
+Webpack,4,0,0,4
+ACCESS,0,4,0,4
+.net,0,4,0,4
+.NET/C#,3,0,1,4
+WPF,3,1,0,4
+Websocket,4,0,0,4
+SpringBoot,3,1,0,4
+JQuery,2,2,0,4
+JENKINS,0,4,0,4
+SCRUM,0,4,0,4
+SOAP/REST,4,0,0,4
+Matlab,4,0,0,4
+HTML/CSS,4,0,0,4
+Gradle,2,2,0,4
+PromQL,4,0,0,4
+Java 11+,2,2,0,4
+Jinja,4,0,0,4
+JAVA EE,4,0,0,4
+SQL: Advanced,4,0,0,4
+Polymer,4,0,0,4
+COBOL,3,1,0,4
+Apache Arrow,0,4,0,4
+CI,0,4,0,4
+C#.net,0,4,0,4
+SAP Fiori,2,2,0,4
+Excel,2,2,0,4
+SAP UI5,1,3,0,4
+React Native Web,4,0,0,4
+TCL,3,1,0,4
+Power Automate,1,1,2,4
+PHP 8+,4,0,0,4
+SAP C,0,4,0,4
+NestJS,4,0,0,4
+Twig,3,1,0,4
+CUCUMBER,0,4,0,4
+Express.js,4,0,0,4
+SAP,0,4,0,4
+Salt,4,0,0,4
+Scripting,3,1,0,4
+CYPRESS,0,4,0,4
+Embedded C++,4,0,0,4
+GitHub Actions,1,3,0,4
+SOQL,2,2,0,4
+YAML,3,1,0,4
+Microsoft Power Apps,0,2,1,3
+Microsoft Power Automate,0,2,1,3
+ASP.NET Razor,3,0,0,3
+Mocha,1,2,0,3
+oData,3,0,0,3
+Java 21+,3,0,0,3
+JWT,3,0,0,3
+Java SE,3,0,0,3
+gRPC,2,0,1,3
+DATABASES,0,3,0,3
+Shell Scripting,2,0,1,3
+Cucumber,1,2,0,3
+RESTful API,2,1,0,3
+REXX,3,0,0,3
+Spring Cloud,3,0,0,3
+SOAP UI,3,0,0,3
+Unity,3,0,0,3
+Siemens,3,0,0,3
+X++,2,1,0,3
+XPath,3,0,0,3
+BPMN,3,0,0,3
+APEX,2,1,0,3
+API REST,0,3,0,3
+Jquery,3,0,0,3
+AJAX,3,0,0,3
+Microservices,3,0,0,3
+Tcl,0,3,0,3
+vue.js,3,0,0,3
+ANSIBLE,0,3,0,3
+Nuxt.js,0,3,0,3
+webservices,3,0,0,3
+Lightning,0,0,3,3
+POSTMAN,0,3,0,3
+MsSQL Server,3,0,0,3
+LangChain,2,1,0,3
+Shell scripts,3,0,0,3
+WebdriverIO,0,3,0,3
+shell scripting,2,1,0,3
+Blade,3,0,0,3
+Keras,3,0,0,3
+KOTLIN,0,3,0,3
+Windows PowerShell,3,0,0,3
+Power Query (M),3,0,0,3
+.NET C#,1,0,2,3
+QueryDSL,1,2,0,3
+ABAP cloud,3,0,0,3
+PowerPivot,0,2,1,3
+JQUERY,0,3,0,3
+.Net Core,2,0,1,3
+F#,1,2,0,3
+VBScript,3,0,0,3
+Spring Security,2,1,0,3
+OPC UA,3,0,0,3
+SECURITY,0,3,0,3
+Oracle SQL,3,0,0,3
+SAPUI5,1,2,0,3
+OpenCV,2,1,0,3
+SYMFONY,0,3,0,3
+Salesforce,0,1,2,3
+Frontend,0,3,0,3
+CAP,1,2,0,3
+SQL DBA,3,0,0,3
+Databricks,3,0,0,3
+CUDA,0,3,0,3
+DB2,3,0,0,3
+Flows,2,1,0,3
+Solidity,1,2,0,3
+Siemens PLC,3,0,0,3
+Qt,1,2,0,3
+Cache,3,0,0,3
+SCL,1,1,1,3
+CD,0,3,0,3
+DELPHI,1,2,0,3
+SPARK,0,3,0,3
+SELENIUM,0,3,0,3
+WebSockets,2,1,0,3
+VB,2,1,0,3
+VB.NET,2,1,0,3
+Redux Toolkit,2,1,0,3
+Verilog,1,2,0,3
+Pyspark,3,0,0,3
+Next JS,3,0,0,3
+Nest.js,3,0,0,3
+Nette,3,0,0,3
+QT,2,1,0,3
+BI,0,3,0,3
+Microsoft Power BI,0,1,1,2
+pgSQL,0,1,1,2
+jscript/vbscript,2,0,0,2
+nUnit,2,0,0,2
+.net core 3.1+),2,0,0,2
+Allure,0,2,0,2
+ARM,1,1,0,2
+SAP Datasphere (DSP),0,2,0,2
+.NET Framework 4.8,2,0,0,2
+Verilog/SystemVerilog,0,2,0,2
+ABAP for Hana,0,2,0,2
+batch,2,0,0,2
+XQuery,2,0,0,2
+API TESTING,0,2,0,2
+umbrella.js,2,0,0,2
+ADA,0,2,0,2
+xUnit,2,0,0,2
+AI,1,1,0,2
+ABAP/4,1,1,0,2
+.NET 7+,2,0,0,2
+Websockets,2,0,0,2
+WinCC,2,0,0,2
+.NET 9,1,1,0,2
+ANALYTICS,0,2,0,2
+.NET6,2,0,0,2
+.Net Blazor,0,0,2,2
+.Net Core 3.1,2,0,0,2
+VIRTUALIZATION,0,2,0,2
+M language,2,0,0,2
+OpenAPI/Swagger,0,2,0,2
+Maria DB,2,0,0,2
+CDS views,2,0,0,2
+CI/CD,0,2,0,2
+Dart,2,0,0,2
+Delphi,2,0,0,2
+SQL Developer,2,0,0,2
+Siemens TIA Portal,2,0,0,2
+Shell script,0,2,0,2
+composer,2,0,0,2
+CDS Views,1,1,0,2
+CDS view,1,0,1,2
+Helm,1,1,0,2
+HTML5/CSS3,2,0,0,2
+Gson,0,2,0,2
+HLSL,1,1,0,2
+RSocket,2,0,0,2
+RUBY,0,2,0,2
+SolidJS,1,1,0,2
+SAP Analytics Cloud (SAC),0,2,0,2
+SAP Business Data Cloud (BDC),0,2,0,2
+SAP Business Technology Platform (BTP),0,2,0,2
+Elastic Kibana,2,0,0,2
+ElasticSearch,2,0,0,2
+SAP CAP,1,1,0,2
+SAP Data Intelligence,0,2,0,2
+Haskell,0,2,0,2
+CloudFormation,2,0,0,2
+Core Data Services,0,2,0,2
+Camel,2,0,0,2
+Canvas,2,0,0,2
+Clean Code,0,2,0,2
+Shell-Script,2,0,0,2
+Spring boot,2,0,0,2
+Spring-Boot,2,0,0,2
+C#/.NET (.net Framework 4+,2,0,0,2
+C Sharp (C#),0,2,0,2
+Basic programming/scripting,2,0,0,2
+Bicep,0,2,0,2
+BigQuery,2,0,0,2
+JEE,2,0,0,2
+IntegrationHub,0,2,0,2
+IEC 61131-3,0,1,1,2
+JMETER,0,2,0,2
+Sql,2,0,0,2
+SQL/NoSQL,1,1,0,2
+RestAssured,0,2,0,2
+React/Next.js,1,0,1,2
+Fortran,0,2,0,2
+Fiori Elements,0,2,0,2
+Flow Designer,0,2,0,2
+Python: Basic,2,0,0,2
+Julia,0,2,0,2
+Junit,2,0,0,2
+Jupyter,1,1,0,2
+Jython,1,1,0,2
+Javascript/Typescript,0,2,0,2
+PixiJS,2,0,0,2
+Python: Základy,2,0,0,2
+Pydantic,2,0,0,2
+IEC61131 – FBD/ST,2,0,0,2
+INTELLIJ,0,2,0,2
+QShell,2,0,0,2
+QlikView,2,0,0,2
+RPA,0,2,0,2
+RESTful APIs,2,0,0,2
+TeamCity,0,2,0,2
+TSQL,1,1,0,2
+Tableau,2,0,0,2
+Tailwind,1,1,0,2
+BOOTSTRAP,0,2,0,2
+Python: Beginner,2,0,0,2
+Nuxt3,2,0,0,2
+OAuth,1,1,0,2
+MLFlow,2,0,0,2
+RDBMS,0,2,0,2
+Lightning Web Components,2,0,0,2
+ASP.NET CORE,0,2,0,2
+Visual Basic .Net,2,0,0,2
+PANDAS,0,2,0,2
+PERL,2,0,0,2
+Java: Advanced,2,0,0,2
+JavaEE,2,0,0,2
+JavaScript (ES6+),2,0,0,2
+Grafana,2,0,0,2
+LabView,2,0,0,2
+Apex code,2,0,0,2
+C-Sharp,2,0,0,2
+Tailwind CSS,1,1,0,2
+Openshift,2,0,0,2
+LINQ,2,0,0,2
+LUA,2,0,0,2
+LabVIEW FPGA,0,0,2,2
+Pega,2,0,0,2
+PHPUnit,2,0,0,2
+TESTING,0,2,0,2
+Power Query M,1,1,0,2
+PowerApps,1,0,1,2
+JS/Typescript,0,2,0,2
+PowerBI,1,1,0,2
+TIA Portal,1,1,0,2
+LAD,0,1,1,2
+Karma,2,0,0,2
+FastAPI: Advanced,2,0,0,2
+TROUBLESHOOTING,0,2,0,2
+FBD,0,1,1,2
+PowerShell: Základy,2,0,0,2
+PrimeNG,2,0,0,2
+SAS,1,1,0,2
+SAP Data Service,0,2,0,2
+Machine Learning,0,2,0,2
+SVN,0,2,0,2
+Prometheus,2,0,0,2
+Specmen e,0,2,0,2
+STL,0,1,1,2
+Angular 2,2,0,0,2
+Angular JS,2,0,0,2
+Angular.js,2,0,0,2
+SVG,2,0,0,2
+SASS/SCSS,2,0,0,2
+SCADA,1,1,0,2
+Pro*C,0,2,0,2
+Unix,0,2,0,2
+Apache Kafka,2,0,0,2
+REST services,2,0,0,2
+Gherkin,1,1,0,2
+Glide,0,2,0,2
+Android SDK,1,1,0,2
+AZURE DEVOPS,0,2,0,2
+WebAPI,2,0,0,2
+B&R Automation Studio,2,0,0,2
+Vue 3,2,0,0,2
+ember.js,2,0,0,2
+SIMATIC STEP 7,2,0,0,2
+MS SQL Server 2022,2,0,0,2
+Awaitility,0,2,0,2
+VB .NET,2,0,0,2
+Azure Data Factory,2,0,0,2
+VBS,1,1,0,2
+Assembler,2,0,0,2
+Async/Await,1,1,0,2
+Spring (Boot),2,0,0,2
+Material UI,1,1,0,2
+Typescript/Angular,2,0,0,2
+CLOUD @SAP,0,2,0,2
+NPM,0,2,0,2
+CMD,2,0,0,2
+NET,1,1,0,2
+NgRx,2,0,0,2
+Nightwatch,0,2,0,2
+Spring Boot 3,2,0,0,2
+Backend,0,2,0,2
+Bamboo,0,2,0,2
+Bash Scripting,2,0,0,2
+Bash scripting,2,0,0,2
+Podman,2,0,0,2
+UNIX/LINUX scripting,2,0,0,2
+UNIX/Linux,2,0,0,2
+UiPath,2,0,0,2
+Vitest,2,0,0,2
+Access,1,1,0,2
+Java/J2EE,2,0,0,2
+ASP.NET Web API,1,1,0,2
+ASP.NET Web Forms,2,0,0,2
+ASP.NET WebAPI,2,0,0,2
+ASP.Net Core,2,0,0,2
+MySQL/MARIA DB,2,0,0,2
+(My)SQL,1,0,0,1
+.NET 8+,1,0,0,1
+.NET Core 3.1+,1,0,0,1
+.NET Core 6,1,0,0,1
+.NET Framework 4+,1,0,0,1
+.NET MVC,1,0,0,1
+.NET core: Advanced,1,0,0,1
+.NET framework,1,0,0,1
+.NET framework/core,0,1,0,1
+.NET5+,0,1,0,1
+.Net Core 6+,0,1,0,1
+.Net Framework 4.8,0,1,0,1
+1C,1,0,0,1
+A S400,1,0,0,1
+ABAP Cloud,1,0,0,1
+ABAP WebDynpro,0,0,1,1
+git,1,0,0,1
+iOS,1,0,0,1
+iOS/Android,1,0,0,1
+jQuiery,0,1,0,1
+jetpack,0,1,0,1
+jquery,0,1,0,1
+kafka-streams,1,0,0,1
+knockout,0,1,0,1
+ksh,1,0,0,1
+AFD,1,0,0,1
+AI. PLC,1,0,0,1
+AL,0,1,0,1
+AMP script,0,1,0,1
+APACHE,0,1,0,1
+API (REST,1,0,0,1
+API Dev,0,1,0,1
+API: Intermediate,1,0,0,1
+Webservice,0,1,0,1
+ABAP on HANA,0,1,0,1
+ABB,0,1,0,1
+ABB robotics,1,0,0,1
+ABP framework,1,0,0,1
+ACCESS MACHINE LEARNING,0,1,0,1
+ADATTÁRHÁZ,0,1,0,1
+ADO. NET,1,0,0,1
+WORDPRESS,0,1,0,1
+WS,1,0,0,1
+Web IDE,1,0,0,1
+Web sockets,1,0,0,1
+WebDriver,1,0,0,1
+WebGL,1,0,0,1
+WebRTC,0,1,0,1
+WebSockety,1,0,0,1
+Android programming: Advanced,1,0,0,1
+Vue.JS,1,0,0,1
+Vue.js 3,1,0,0,1
+Vue.js V3,1,0,0,1
+Vue.js: Advanced,1,0,0,1
+WEBAPI,0,1,0,1
+WEBSERVICE,0,1,0,1
+WINDOWS,0,1,0,1
+NoSQL Databases,1,0,0,1
+NoSql,1,0,0,1
+Node-RED,1,0,0,1
+Node.js (Express.js,1,0,0,1
+Node.js/npm,1,0,0,1
+Nuget,0,1,0,1
+Numpy,1,0,0,1
+Nunjucks,0,1,0,1
+Nest.js),1,0,0,1
+Net,0,1,0,1
+Next,1,0,0,1
+Next.js (React),1,0,0,1
+Next.js),1,0,0,1
+Nix,0,1,0,1
+No-code,0,1,0,1
+NoSQL (MongoDB,1,0,0,1
+NEAR,0,0,1,1
+NGRX,1,0,0,1
+NOSQL DATABASES,0,1,0,1
+NRQL,1,0,0,1
+NSQ,1,0,0,1
+NUnit,1,0,0,1
+Natural Language Processing (NLP),1,0,0,1
+Neo4J,0,1,0,1
+Microsoft.net,1,0,0,1
+Mockito,1,0,0,1
+Mongo DB,1,0,0,1
+MySQL - Pokročilý,1,0,0,1
+MySQL/Maria DB: Advanced,1,0,0,1
+MySQL/MariaDB,0,1,0,1
+MySQL: Advanced,1,0,0,1
+Mysql,0,1,0,1
+ORACLE ERP,0,1,0,1
+ORACLE SQL,0,1,0,1
+Object-Oriented Programming,0,1,0,1
+OneDrive,0,0,1,1
+Open3D,0,1,0,1
+OpenAI,0,1,0,1
+OpenAI API,1,0,0,1
+OpenApi,0,1,0,1
+Low-code,0,1,0,1
+M Query,0,1,0,1
+MIDDLEWARE,0,1,0,1
+ML.NET,1,0,0,1
+MLflow,1,0,0,1
+OJet,0,1,0,1
+OOP - Pokročilý,1,0,0,1
+ORACLE DB2,0,1,0,1
+Linux scripting,1,0,0,1
+Linux server administration: Basic,1,0,0,1
+Liquibase,1,0,0,1
+Liquid,1,0,0,1
+LiveWire,0,1,0,1
+Livewire,1,0,0,1
+Low-Code Development,0,1,0,1
+Low-Level Programming,1,0,0,1
+Nuxt 3,1,0,0,1
+ODATA,0,0,1,1
+Labview,0,1,0,1
+LangGraph,0,1,0,1
+Laravel (PHP framework) - Expert,1,0,0,1
+Laravel (PHP framework): Expert,1,0,0,1
+Lazarus,1,0,0,1
+Linux Shell,1,0,0,1
+Oracle),1,0,0,1
+PGqsl,1,0,0,1
+PHP - Expert,1,0,0,1
+PHP 8,1,0,0,1
+PHP 8.0+,1,0,0,1
+PHP8,1,0,0,1
+PHP8+,1,0,0,1
+PHP: Advanced,1,0,0,1
+Kotlin Multiplatform,1,0,0,1
+Kotlin coroutines,1,0,0,1
+Ktor,0,1,0,1
+LAMP,1,0,0,1
+LEAN,0,1,0,1
+LESS,1,0,0,1
+LESS/SASS/CSS3,1,0,0,1
+LLM,0,1,0,1
+KRL,1,0,0,1
+KUKA robotics,1,0,0,1
+Kafka),1,0,0,1
+Karel,1,0,0,1
+Kdb+,1,0,0,1
+Knockout,0,1,0,1
+Koin,1,0,0,1
+Korn-shell,1,0,0,1
+OpenJDK 11+,1,0,0,1
+OpenSQL,0,1,0,1
+OpenSearch,0,1,0,1
+Oracle PL/SQL: Basic,1,0,0,1
+Oracle PL/SQL: beginner,1,0,0,1
+Oracle SQL Developer,1,0,0,1
+KEYENCE,0,1,0,1
+KQL,1,0,0,1
+Jenkins/GitLab,1,0,0,1
+JetBrains Exposed,0,1,0,1
+Jetpack,0,1,0,1
+Jinja2,1,0,0,1
+KAFKA,1,0,0,1
+KANBAN,0,1,0,1
+Plotly,1,0,0,1
+PnP,0,1,0,1
+JavaScript/Typescript,1,0,0,1
+JavaScript: Advanced,1,0,0,1
+JavaScript: Basic,1,0,0,1
+JavaScript: Expert,1,0,0,1
+JavaScripte,1,0,0,1
+Javarx,1,0,0,1
+Javascript / Typescript,1,0,0,1
+Jenkins CI,1,0,0,1
+POSTGRES SQL,1,0,0,1
+POWER BI,0,1,0,1
+PSQL,0,1,0,1
+Pascal,1,0,0,1
+Java: Intermediate,1,0,0,1
+JavaFX,1,0,0,1
+JavaScirpt,1,0,0,1
+JavaScript - Pokročilý,1,0,0,1
+PHP: Basic,1,0,0,1
+PHP: Úplný začiatočník,1,0,0,1
+PIXI.js,1,0,0,1
+PL-SQL,1,0,0,1
+PL/pgSQL,1,0,0,1
+PLC (Siemens),1,0,0,1
+PLC /Allen - Bradley or Siemens/,1,0,0,1
+PLC programming,1,0,0,1
+Java/Spring,1,0,0,1
+Java11+,0,1,0,1
+Profinet,1,0,0,1
+Protobuf,0,0,1,1
+Protractor,1,0,0,1
+Pug (Jade),1,0,0,1
+Pulumi,0,1,0,1
+PyQGIS,1,0,0,1
+JUnit/TestNG,1,0,0,1
+Java (J2EE),0,0,1,1
+Java (základy),1,0,0,1
+Java 8 or higher,1,0,0,1
+Java Backend,0,1,0,1
+Java Message Service (JMS),1,0,0,1
+Java Script,1,0,0,1
+Java-Script,0,0,1,1
+PowerAutomate,1,0,0,1
+PowerShell: Basic,1,0,0,1
+PowerShell: Beginner,1,0,0,1
+JSE/JEE,1,0,0,1
+JSON formatting,1,0,0,1
+JSON-LD,0,1,0,1
+JSP,1,0,0,1
+JSPython,0,1,0,1
+Postgre,1,0,0,1
+Postgre SQL,1,0,0,1
+PostgreSQL / Oracle DB,1,0,0,1
+PostgreSQL 9.6+,1,0,0,1
+PostgreSQL: Basic,1,0,0,1
+Postgres ORM,1,0,0,1
+Power Apps,0,1,0,1
+Power Platform,0,1,0,1
+JNI,1,0,0,1
+JPA/Hibernate,1,0,0,1
+Quarkus),1,0,0,1
+Quasar,1,0,0,1
+QueryDsl,1,0,0,1
+R/Bioconductor,0,1,0,1
+RAPID,0,1,0,1
+RDBMS (PostgreSQL,1,0,0,1
+IntelliJ IDEA,0,1,0,1
+Ionic,1,0,0,1
+Ionic Framework,1,0,0,1
+J-Component,1,0,0,1
+JAVA (Spring Boot,1,0,0,1
+JAVA/Kotlin,1,0,0,1
+JAX-WS,1,0,0,1
+JAXB,1,0,0,1
+Qt/QML,0,1,0,1
+Hugging Face,1,0,0,1
+IEC61131-3,0,0,1,1
+IFS,1,0,0,1
+IFS: Advanced,1,0,0,1
+ILE RPG,0,0,1,1
+IRIS,1,0,0,1
+InfluxDB,1,0,0,1
+PyTest,1,0,0,1
+Pyramid,1,0,0,1
+Python 3.11+,1,0,0,1
+Python: Advanced,1,0,0,1
+Python: B1,1,0,0,1
+Python: advanced,1,0,0,1
+QShell: Advanced,1,0,0,1
+Qlik Sense,1,0,0,1
+HTML: Intermediate,1,0,0,1
+HTMX,1,0,0,1
+Hadoop,1,0,0,1
+Hibernate ORM/JPA,1,0,0,1
+Hibernate/JPA,0,1,0,1
+Hilt,1,0,0,1
+Honeywell,1,0,0,1
+RPG: Advanced,1,0,0,1
+Grid / Flex,0,1,0,1
+HIBERNATE,0,1,0,1
+HTML 5: Advanced,1,0,0,1
+HTML/CSS/JS,1,0,0,1
+HTML/CSS/SCSS,1,0,0,1
+HTML4,0,0,1,1
+HTML: Advanced,1,0,0,1
+HTML: Expert,1,0,0,1
+ROCM,0,1,0,1
+ROS,1,0,0,1
+ROS/ROS 2,0,1,0,1
+ROS/ROS2,0,1,0,1
+GraphAPI,0,1,0,1
+GraphQL),1,0,0,1
+Graphite,1,0,0,1
+Grid,1,0,0,1
+RDF,0,1,0,1
+REDUX,0,1,0,1
+RESP API,1,0,0,1
+REST-API,1,0,0,1
+RESTful,1,0,0,1
+REXX: Advanced,1,0,0,1
+RKE2,0,1,0,1
+ROBOT,0,1,0,1
+GitLab CI,1,0,0,1
+Go-Lang,1,0,0,1
+Google App Script,0,1,0,1
+Google Cloud,0,1,0,1
+Google Services GCM,1,0,0,1
+RoR,1,0,0,1
+Robot framework,1,0,0,1
+Rockwell,1,0,0,1
+Firestore,1,0,0,1
+Flat Buffers,1,0,0,1
+Flutter: Basic,1,0,0,1
+GCP,1,0,0,1
+GIT: Intermediate,1,0,0,1
+GLSL,0,1,0,1
+Git/GitLab,1,0,0,1
+GitHub,1,0,0,1
+React.Js,1,0,0,1
+Repository pattern,1,0,0,1
+Reset API: Advanced,1,0,0,1
+Rest Assured,1,0,0,1
+Restful API,1,0,0,1
+Retrofit,1,0,0,1
+Fiori/UI5,0,1,0,1
+Firebase,1,0,0,1
+RRD,1,0,0,1
+RXJS,1,0,0,1
+Rancher,0,1,0,1
+Rapid,1,0,0,1
+React & React Native,1,0,0,1
+React Hook Form,0,1,0,1
+React Native CLI,1,0,0,1
+React Native: Advanced,1,0,0,1
+FIORI,1,0,0,1
+FORTRAN,0,1,0,1
+Fanuc robotics,1,0,0,1
+Figma,1,0,0,1
+Final Form,0,1,0,1
+SAP SECURITY,0,1,0,1
+SAP Script,0,1,0,1
+SAP. SECURITY ANALYTICS DATA MANAGEMENT,0,1,0,1
+ElasticSearch - Pokročilý,1,0,0,1
+Elixir,1,0,0,1
+Embedded Linux,1,0,0,1
+Embedded Programming,1,0,0,1
+EnterpriseDB,0,1,0,1
+Entity framework,1,0,0,1
+Excel VBA,0,1,0,1
+ExpressJS,1,0,0,1
+SAP BW/4HANA,0,1,0,1
+SAP Business Warehouse (BW),0,1,0,1
+SAP CLOUD,0,1,0,1
+SAP HANA DB,1,0,0,1
+SAP S/4HANA,0,1,0,1
+ESP-IDF,1,0,0,1
+EXCEL,0,1,0,1
+Elastic,1,0,0,1
+Rockwell Studio 5000,0,1,0,1
+RxJava,1,0,0,1
+RxSwift,0,1,0,1
+S7-1200,1,0,0,1
+S7-1500,1,0,0,1
+SAP ABAP OO,0,0,1,1
+SAP BI ANALYTICS,0,1,0,1
+SAP BTP,0,1,0,1
+ELK Stack,1,0,0,1
+ENTITY FRAMEWORK,0,1,0,1
+ERP,0,1,0,1
+SQL Databases,1,0,0,1
+SQL/MSSQL,1,0,0,1
+SQL: B1,1,0,0,1
+SQL: Intermediate,1,0,0,1
+SQL: Pokročilý,1,0,0,1
+Dataverse,0,0,1,1
+DeltaV,0,1,0,1
+DevOps - Pokročilý,1,0,0,1
+DirectX,1,0,0,1
+DynamoDB,1,0,0,1
+DynamoDB),1,0,0,1
+EJB,1,0,0,1
+ELK,1,0,0,1
+SPFx,1,0,0,1
+SPS,0,0,1,1
+DB: Intermediate,1,0,0,1
+DEBIAN,0,1,0,1
+DEBUGGING,0,1,0,1
+Dapper,1,0,0,1
+Databricks CLI,1,0,0,1
+Dataiku DSS,1,0,0,1
+SAS/SQL,1,0,0,1
+SECURITY TEST AUTOMATION,0,1,0,1
+SECURITY TESTING,0,1,0,1
+SIMATIC STEP 7: Pokročilý,1,0,0,1
+SOAP API,0,1,0,1
+SOAPUI,0,1,0,1
+SOFTWARE TESTING,0,1,0,1
+SOQL/SOSL,1,0,0,1
+Couchbase,0,1,0,1
+Css/SCSS,1,0,0,1
+DATABASE,0,1,0,1
+DATABASE TESTING,0,1,0,1
+Semantic Kernel,1,0,0,1
+ServiceNow,1,0,0,1
+Services,1,0,0,1
+SharePoint,0,0,1,1
+ClickHouse,1,0,0,1
+Cloud,1,0,0,1
+Cobol,1,0,0,1
+CodeIgniter,0,1,0,1
+Combine,0,1,0,1
+Compose,1,0,0,1
+Composer,0,1,0,1
+CosmosDB,1,0,0,1
+Script languages,1,0,0,1
+Scripting Language,0,0,1,1
+Scripting languages,0,1,0,1
+CSS/LESS: Expert,1,0,0,1
+CSS/SCSS,1,0,0,1
+CSS3/SCSS,1,0,0,1
+CSS: Advanced,1,0,0,1
+Celery,1,0,0,1
+SQL: scripting,1,0,0,1
+SQLITE,1,0,0,1
+SQLite,1,0,0,1
+SSJS,0,1,0,1
+SWIFT,0,1,0,1
+Sass/SCSS,1,0,0,1
+Scikit-Learn,1,0,0,1
+Scratch,1,0,0,1
+CLEAN CODE,0,1,0,1
+CMS,0,1,0,1
+COBOL: Intermediate,1,0,0,1
+CODEIGNITER,0,1,0,1
+CODESYS,0,1,0,1
+COGNEX,0,1,0,1
+CONFLUENCE,0,1,0,1
+CRM,0,1,0,1
+C-shell,1,0,0,1
+C/AL,0,1,0,1
+C/C#,0,1,0,1
+C/C++/C#,0,0,1,1
+CAPL,1,0,0,1
+CDI,1,0,0,1
+CDS,0,1,0,1
+CL: Advanced,1,0,0,1
+Simatic S5/S7,0,1,0,1
+Simulink,0,1,0,1
+Snowflake,1,0,0,1
+SoapUI,1,0,0,1
+Solana,0,0,1,1
+Solid.js,0,1,0,1
+SonarQube,1,0,0,1
+C-sharp,1,0,0,1
+SharePoint REST,0,1,0,1
+Shell Script,1,0,0,1
+Shell scripting – bash,1,0,0,1
+Shopware,1,0,0,1
+Siemens HMI,1,0,0,1
+Siemens S7,0,0,1,1
+Siemens TIA Portal: Pokročilý,1,0,0,1
+Signal Store,1,0,0,1
+C# .net,1,0,0,1
+C# 12,0,1,0,1
+C#.NET CORE,1,0,0,1
+C#/.Net: Intermediate,1,0,0,1
+C#: Advanced,1,0,0,1
+C++/CLI,0,1,0,1
+C++11,0,1,0,1
+C++20,1,0,0,1
+Bash: Beginner,1,0,0,1
+Basic programming / scripting,1,0,0,1
+Batch,1,0,0,1
+Blazor WASM,0,1,0,1
+Blockchain,1,0,0,1
+Blueprints,0,1,0,1
+Bun,0,1,0,1
+C API,0,1,0,1
+Spring framework,1,0,0,1
+Spring-Web,1,0,0,1
+Streaming technologies,0,1,0,1
+Structured Text (IEC 61131),0,0,1,1
+Structured text (IEC 61131-3),0,1,0,1
+Substrate,0,0,1,1
+Supertest/Jest,1,0,0,1
+SvelteKit,1,0,0,1
+CSOM,0,1,0,1
+SonarQube / SonarLint,0,1,0,1
+SonarQube/SonarLint,0,1,0,1
+Spark SQL,1,0,0,1
+SpecFlow,1,0,0,1
+Spring Boot 3.x,1,0,0,1
+Spring Boot 3.x: Advanced,1,0,0,1
+Spring Data,0,1,0,1
+BACKEND API,0,1,0,1
+BASH/Shell,1,0,0,1
+BI C,0,1,0,1
+BITBUCKET,0,1,0,1
+BPML,1,0,0,1
+BTP,0,1,0,1
+Babel,1,0,0,1
+TimeScaleDB,1,0,0,1
+AutoGen,1,0,0,1
+AutoIt,1,0,0,1
+Avaloq,0,1,0,1
+Azure DevOps,0,1,0,1
+Azure DevOps Server,0,1,0,1
+Azure Functions,1,0,0,1
+Azure/AWS/GCP,1,0,0,1
+AzureDevops,1,0,0,1
+TSDB (InfluxDB,1,0,0,1
+TWIG,1,0,0,1
+TYPO3,1,0,0,1
+TanStack Query,0,1,0,1
+TanStack Table,0,1,0,1
+TensorFlow/PyTorch,1,0,0,1
+Tensorflow,0,1,0,1
+Aura,0,1,0,1
+C++: Advanced,1,0,0,1
+Sveltekit,0,1,0,1
+Swift 5.5+,0,0,1,1
+Swift Object Storage,1,0,0,1
+SwiftUI,0,1,0,1
+Symfony 5.0+,1,0,0,1
+System Verilog,0,1,0,1
+TIA,0,0,1,1
+Angular: Advanced,1,0,0,1
+Apache Camel,0,1,0,1
+Apache Cassandra,0,1,0,1
+Apache Hadoop,0,1,0,1
+Apache NiFi,0,1,0,1
+Apache2 Server: Advanced,1,0,0,1
+Appian,0,1,0,1
+Appium,0,1,0,1
+Unit testov,1,0,0,1
+Unity UI,1,0,0,1
+Unix Scripting,0,1,0,1
+Unix shell scripts,1,0,0,1
+Angular 15,1,0,0,1
+Angular JS: Intermediate,1,0,0,1
+Angular/React,1,0,0,1
+Angular/Typescript,1,0,0,1
+UI Automation,0,1,0,1
+UI framework: Basic,1,0,0,1
+UNIX Shell Scripting,1,0,0,1
+UR script,1,0,0,1
+UmiJS,1,0,0,1
+Unit Testing,1,0,0,1
+Unit Testing - Pokročilý,1,0,0,1
+Unit of work,1,0,0,1
+TimeScaleDB),1,0,0,1
+Transact-SQL,1,0,0,1
+Transact-SQL (T-SQL),1,0,0,1
+Type Script,1,0,0,1
+TypeScript/Node.js,1,0,0,1
+Typesense,1,0,0,1
+Typing,1,0,0,1
+UBUNTU,0,1,0,1
+ASP: Advanced,1,0,0,1
+ASSEMBLY,0,1,0,1
+ActiveMQ,1,0,0,1
+ActiveMQ Artemis,1,0,0,1
+Agile,0,1,0,1
+Allen-Bradley,1,0,0,1
+AlpineJS,0,1,0,1
+Android Jetpack,1,0,0,1
+Visual Basic for Applications (VBA),1,0,0,1
+Visual Basic: Beginner,1,0,0,1
+Vite,1,0,0,1
+ARM templates,0,1,0,1
+ASP.NET Core Razor Pages,1,0,0,1
+ASP.NET Core Web API,0,1,0,1
+ASP.NET MVC Core,1,0,0,1
+ASP.NET/MVC,1,0,0,1
+VBscript,1,0,0,1
+VS.net,0,1,0,1
+VUE.js,1,0,0,1
+VUEjs,1,0,0,1
+Vector Stores,1,0,0,1
+Velocity,1,0,0,1
+Visual Basic .NET,1,0,0,1
+Visual Basic for Applications,1,0,0,1
+ArchiMate,1,0,0,1
+Arduino IDE,1,0,0,1
+Asp.Net,1,0,0,1
+Asyncpg,1,0,0,1
+Unix-Shell,1,0,0,1
+Unix: beginner,1,0,0,1
+VB.Net,1,0,0,1
+VBSC,0,1,0,1
+uPlot,1,0,0,1
+.NET 8,1,0,0,1
+visual basic,0,1,0,1
+.NET 5.x-8.x,1,0,0,1
+web (React,1,0,0,1
+webflux,1,0,0,1
+*.BAT),1,0,0,1
+messaging,1,0,0,1
+communications protocols,1,0,0,1
+coroutines,1,0,0,1
+dbt,1,0,0,1
+docker,1,0,0,1
+shell (bash),1,0,0,1
+.NET 8 / Core,1,0,0,1
+t-SQL,1,0,0,1
+tailwind,0,1,0,1
+Yaml,1,0,0,1
+Zabbix,1,0,0,1
+android,0,1,0,1
+asp.net,0,1,0,1
+bash-script,1,0,0,1
+bash/shell,1,0,0,1
+batch files (*.CMD,1,0,0,1
+biznis procesy (Camunda),1,0,0,1
+APIs,1,0,0,1
+Winforms,1,0,0,1
+XAML,0,1,0,1
+XML: Basic,1,0,0,1
+XUnit,1,0,0,1
+Xamarin.Forms,0,1,0,1
+Xamarin/MAUI,1,0,0,1
+Xpath,1,0,0,1
+Matplotlib,1,0,0,1
+MicroSoftSQL,0,1,0,1
+Microservice,0,1,0,1
+Microsoft .NET Framework,1,0,0,1
+Microsoft Access,1,0,0,1
+Microsoft Excel,1,0,0,1
+Microsoft Graph API,1,0,0,1
+Microsoft SQL Server: Beginner,1,0,0,1
+MS Excel,1,0,0,1
+MS Power Automate,1,0,0,1
+MS SQL 2019,1,0,0,1
+MS SQL Query Tuning,1,0,0,1
+MS Test,1,0,0,1
+MS-SQL,0,0,1,1
+Magic,1,0,0,1
+Matlab/Simulink,0,0,1,1
+pytorch,0,1,0,1
+reactor,1,0,0,1
+robotika,1,0,0,1
+senzorika,1,0,0,1
+MPI,0,1,0,1
+MQ,1,0,0,1
+MS Copilot,1,0,0,1
+MS Copilot Studio,1,0,0,1
+messaging (RabbitMQ,1,0,0,1
+micropython,1,0,0,1
+npm,0,1,0,1
+php,0,1,0,1
+pl/sql,0,1,0,1
+powershell scripting,1,0,0,1
+pySpark,1,0,0,1
+pyTest,1,0,0,1
