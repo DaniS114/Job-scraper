@@ -78,7 +78,7 @@ def make_stacked_chart(df_counts, label_col, xlabel, filename, top_n=10):
 
     x = range(len(data))
 
-    plt.figure(figsize=(12, 6))
+    plt.figure(figsize=(10, 5))
     plt.bar(x, data["Profesia"], label="Profesia", color="#1f77b4")
     plt.bar(
         x,
