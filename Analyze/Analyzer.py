@@ -1,9 +1,13 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
 
 #CSV beolvasása
 
 df = pd.read_csv("profesia_gemini.csv")
+
+output_dir = "Output"
+os.makedirs(output_dir, exist_ok=True)
 
 #Függvények
 
@@ -39,14 +43,14 @@ def count_items(series):
 def save_counts(series, filename, first_col_name):
     out = series.reset_index()
     out.columns = [first_col_name, "Count"]
-    out.to_csv(filename, index=False, encoding="utf-8-sig")
+    out.to_csv(os.path.join(output_dir, filename), index=False, encoding="utf-8-sig")
 
 
 def make_chart(series, xlabel, filename, top_n=10):
     data = series.head(top_n)
 
     if data.empty:
-        print(f"Nincs adat: {title}")
+        print(f"Nincs adat: {xlabel}")
         return
 
     plt.figure(figsize=(10, 6))
@@ -55,14 +59,13 @@ def make_chart(series, xlabel, filename, top_n=10):
     plt.ylabel("Hirdetések száma (db)")
     plt.xticks(rotation=45, ha="right")
     plt.tight_layout()
-    plt.savefig(filename, dpi=300)
+    plt.savefig(os.path.join(output_dir, filename), dpi=300)
     plt.close()
 
 # Normalizálás
 
 def normalize_programming_language(value):
     value = str(value).strip()
-
     lower = value.lower()
 
     if lower in ["python", "py", "python 3"]:
@@ -93,55 +96,38 @@ def normalize_tool(value):
 
     if lower in ["aws", "amazon web services", "amazon web services (aws)", "amazon aws", "cloud aws", "aws cloud", "aws services"]:
         return "AWS"
-
     elif lower in ["azure", "microsoft azure"]:
         return "Azure"
-
     elif lower in ["gcp", "google cloud", "google cloud platform"]:
         return "Google Cloud"
-
     elif lower in ["jira", "jirasoftware", "jira software"]:
         return "Jira"
-
     elif lower in ["git", "git scm"]:
         return "Git"
-
     elif lower in ["gitlab", "git lab"]:
         return "GitLab"
-
     elif lower in ["github", "git hub"]:
         return "GitHub"
-
     elif lower in ["power bi", "powerbi", "microsoft power bi"]:
         return "Power BI"
-
     elif lower in ["ms office", "microsoft office", "microsoft office 365", "microsoft 365"]:
         return "Microsoft Office"
-
     elif lower in ["excel", "ms excel", "microsoft excel"]:
         return "Microsoft Excel"
-
     elif lower in ["word", "microsoft word"]:
         return "Microsoft Word"
-
     elif lower in ["postgres", "postgresql"]:
         return "PostgreSQL"
-
     elif lower in ["mssql", "ms sql", "microsoft sql server"]:
         return "MS SQL"
-
     elif lower in ["mysql", "my sql"]:
         return "MySQL"
-
     elif lower in ["argocd", "argo cd"]:
         return "Argo CD"
-
     elif lower in ["ci/cd", "cicd"]:
         return "CI/CD"
-
     elif lower in ["rest api", "rest"]:
         return "REST API"
-
     else:
         return value
 
@@ -174,10 +160,8 @@ def normalize_experience(value):
 
     if "junior" in lower:
         return "Junior"
-
     if "medior" in lower:
         return "Medior"
-
     if "senior" in lower:
         return "Senior"
 
@@ -234,7 +218,7 @@ def normalize_job_type(value):
     if lower in ["full-time", "plný úväzok"]:
         return "Full-time"
 
-    if lower in ["half-time", "part-time", "part time", "part-time".lower()]:
+    if lower in ["half-time", "part-time", "part time", "part-time"]:
         return "Part-time"
 
     if "short-term" in lower:
@@ -259,16 +243,10 @@ def normalize_location(value):
     if lower in ["remote", "práca z domu", "home office"]:
         return "Remote"
 
-    if lower in [
-        "bratislava",
-        "bratislavský kraj",
-        "bratislava region",]:
+    if lower in ["bratislava","bratislavský kraj","bratislava region"]:
         return "Bratislava"
 
-    if lower == "kosice":
-        return "Košice"
-
-    if lower == "košice":
+    if lower in ["kosice","košice"]:
         return "Košice"
 
     if lower in ["praha", "prague"]:
@@ -291,21 +269,15 @@ def normalize_location(value):
 # Oszlopok feldolgozása
 
 df["Programming Languages"] = df["Programming Languages"].apply(split_values)
-df["Programming Languages"] = df["Programming Languages"].apply(
-    lambda items: [normalize_programming_language(x) for x in items]
-)
+df["Programming Languages"] = df["Programming Languages"].apply(lambda items: [normalize_programming_language(x) for x in items])
 
 df["Required Software / Tools"] = df["Required Software / Tools"].apply(split_values)
-df["Required Software / Tools"] = df["Required Software / Tools"].apply(
-    lambda items: [normalize_tool(x) for x in items]
-)
+df["Required Software / Tools"] = df["Required Software / Tools"].apply(lambda items: [normalize_tool(x) for x in items])
 
 df["Language Requirements Detailed"] = df["Language Requirements"].apply(split_values)
 
 df["Language Requirements"] = df["Language Requirements"].apply(get_languages_only)
-df["Language Requirements"] = df["Language Requirements"].apply(
-    lambda items: [normalize_human_language(x) for x in items]
-)
+df["Language Requirements"] = df["Language Requirements"].apply(lambda items: [normalize_human_language(x) for x in items])
 
 df["Experience Level"] = df["Experience Level"].apply(normalize_experience)
 df["Work Arrangement"] = df["Work Arrangement"].apply(normalize_work_arrangement)
@@ -313,7 +285,6 @@ df["Job Type"] = df["Job Type"].apply(normalize_job_type)
 df["Location"] = df["Location"].apply(normalize_location)
 
 # Gyakoriságok számolása
-
 programming_languages = count_items(df["Programming Languages"])
 tools = count_items(df["Required Software / Tools"])
 language_requirements = count_items(df["Language Requirements"])
@@ -324,8 +295,8 @@ work_arrangements = df["Work Arrangement"].value_counts()
 job_types = df["Job Type"].value_counts()
 locations = df["Location"].value_counts()
 
+
 # CSV mentés
-'''
 save_counts(programming_languages, "profesia_programming_languages.csv", "Programming Language")
 save_counts(tools, "profesia_tools.csv", "Tool / Technology")
 save_counts(language_requirements, "profesia_human_languages.csv", "Language")
@@ -334,10 +305,8 @@ save_counts(experience_levels, "profesia_experience_levels.csv", "Experience Lev
 save_counts(work_arrangements, "profesia_work_arrangement.csv", "Work Arrangement")
 save_counts(job_types, "profesia_job_types.csv", "Job Type")
 save_counts(locations, "profesia_locations.csv", "Location")
-'''
 
 # Grafikonok
-
 make_chart(programming_languages, "Programozási és leíró nyelvek", "profesia_programming_languages.png", 20)
 make_chart(tools, "Eszközök és technológiák", "profesia_tools.png", 20)
 make_chart(language_requirements, "Nyelvi követelmények", "profesia_human_languages.png", 6)
