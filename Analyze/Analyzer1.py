@@ -4,9 +4,9 @@ import os
 
 #CSV beolvasása
 
-df = pd.read_csv("profesia_gemini.csv")
+df = pd.read_csv("all_jobs_with_source.csv")
 
-output_dir = "Output"
+output_dir = "Outputt"
 os.makedirs(output_dir, exist_ok=True)
 
 #Függvények
