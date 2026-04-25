@@ -194,7 +194,7 @@ def normalize_human_language(value):
 
 def normalize_experience(value):
     if pd.isna(value) or str(value).strip() == "":
-        return "Not specified"
+        return "Nincs megadva"
 
     value = str(value).strip()
     lower = value.lower()
