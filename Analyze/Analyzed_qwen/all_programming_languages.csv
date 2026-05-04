@@ -1,0 +1,1852 @@
+﻿Programming Language,Profesia,Profession,CVOnline,Total
+Python,856,467,46,1369
+Java,569,236,32,837
+JavaScript,420,159,34,613
+SQL,339,186,22,547
+C#,320,103,38,461
+TypeScript,267,82,9,358
+C++,112,127,18,257
+React,156,84,4,244
+HTML,148,68,12,228
+Angular,144,56,7,207
+.NET,135,42,16,193
+CSS,115,63,11,189
+Bash,137,28,6,171
+PHP,107,58,6,171
+Spring Boot,119,38,5,162
+Node.js,88,58,3,149
+C,38,83,5,126
+PowerShell,76,24,17,117
+ABAP,54,47,9,110
+Kotlin,62,35,1,98
+Go,55,40,0,95
+R,59,29,1,89
+Docker,56,22,5,83
+Kubernetes,48,8,7,63
+PostgreSQL,42,16,0,58
+Power BI,23,24,9,56
+C/C++,30,20,2,52
+Rust,14,28,5,47
+Vue.js,25,21,1,47
+Perl,33,12,1,46
+JavaScript/TypeScript,30,11,1,42
+Git,25,13,3,41
+Spring,26,13,2,41
+Java - Advanced,41,0,0,41
+Laravel,24,16,0,40
+.NET Core,28,11,1,40
+Scala,36,3,0,39
+Python - Advanced,39,0,0,39
+Terraform,27,1,7,35
+ASP.NET Core,28,2,4,34
+Swift,19,12,2,33
+PL/SQL,25,7,1,33
+FastAPI,27,3,0,30
+VBA,15,12,1,28
+XML,21,5,0,26
+ASP.NET,21,5,0,26
+PySpark,22,4,0,26
+Vue,13,11,1,25
+Linux,12,9,3,24
+REST,9,15,0,24
+UML,20,3,0,23
+MS SQL,18,2,3,23
+JSON,16,7,0,23
+Next.js,17,5,0,22
+JavaScript - Advanced,22,0,0,22
+MongoDB,17,5,0,22
+Selenium,14,6,1,21
+Apache Kafka,19,1,0,20
+Azure,7,10,3,20
+Ruby,13,6,0,19
+MySQL,11,8,0,19
+Excel,9,9,0,18
+React Native,15,3,0,18
+SQL - Advanced,18,0,0,18
+Java 17+,16,2,0,18
+AWS,6,9,2,17
+GIT,12,5,0,17
+Ansible,10,4,3,17
+REST API,14,3,0,17
+Hibernate,10,6,0,16
+Kafka,13,2,1,16
+Shell,13,2,1,16
+Redis,14,0,1,15
+Objective-C,12,3,0,15
+Quarkus,13,2,0,15
+Bootstrap,11,4,0,15
+React.js,12,3,0,15
+Symfony,9,5,0,14
+ReactJS,12,1,0,13
+jQuery,10,3,0,13
+JavaScript (React,11,2,0,13
+Spring Framework,8,5,0,13
+PHP - Advanced,13,0,0,13
+Prometheus,11,0,1,12
+SQL - Pokročilý,12,0,0,12
+Oracle,9,3,0,12
+DAX,6,5,1,12
+Golang,10,2,0,12
+Android,7,4,1,12
+Azure DevOps,10,1,1,12
+Flutter,9,2,0,11
+Java - Pokročilý,11,0,0,11
+TensorFlow,7,4,0,11
+GitLab,10,0,1,11
+Groovy,7,4,0,11
+Grafana,10,0,1,11
+Playwright,8,2,1,11
+LabVIEW,9,0,2,11
+Maven,6,5,0,11
+Next.js),11,0,0,11
+awk,10,0,0,10
+.NET (C#),5,1,4,10
+Python - Pokročilý,10,0,0,10
+shell,10,0,0,10
+SQL - Intermediate,10,0,0,10
+TypeScript - Advanced,10,0,0,10
+JavaScript (ES6+),7,3,0,10
+.NET Framework,9,0,1,10
+T-SQL,7,2,1,10
+NoSQL databases,9,1,0,10
+PyTorch,6,4,0,10
+Shell scripting,5,4,0,9
+HTML/CSS,7,2,0,9
+Enterprise Architect,9,0,0,9
+Apex,3,4,2,9
+WordPress,7,2,0,9
+GraphQL,9,0,0,9
+Pandas,4,5,0,9
+REST APIs,7,2,0,9
+C++ - Advanced,9,0,0,9
+.Net,1,2,6,9
+Spring/SpringBoot,9,0,0,9
+SCSS,8,1,0,9
+SQL - Basics,9,0,0,9
+bash,7,1,0,8
+Redux,8,0,0,8
+JavaScript - Intermediate,8,0,0,8
+JavaScript - Pokročilý,8,0,0,8
+Robot Framework,6,2,0,8
+Java EE,8,0,0,8
+Angular 16+,8,0,0,8
+MSSQL,4,4,0,8
+NumPy,6,2,0,8
+SystemVerilog,0,8,0,8
+PLSQL,0,6,2,8
+Spring Boot - Advanced,8,0,0,8
+Salt,8,0,0,8
+HTML 5,7,1,0,8
+Power Query,5,3,0,8
+DevOps,3,5,0,8
+PostgreSQL / Oracle DB,8,0,0,8
+pydantic,7,0,0,7
+Python - Basic,7,0,0,7
+Power Automate,3,0,4,7
+ASP.NET MVC,7,0,0,7
+Spark,3,4,0,7
+Spring Security,6,1,0,7
+MySQL - Advanced,7,0,0,7
+Rest APIs,7,0,0,7
+JavaScript/Typescript,6,1,0,7
+UI5,6,1,0,7
+SAP,5,2,0,7
+Tableau,3,2,2,7
+HTML - Advanced,7,0,0,7
+Lua,7,0,0,7
+CSS - Advanced,7,0,0,7
+Flask,7,0,0,7
+Cypress,5,2,0,7
+NoSQL,2,5,0,7
+SQL Server,4,1,2,7
+Azure platform,7,0,0,7
+Python: Intermediate,7,0,0,7
+Celery,7,0,0,7
+Helm,7,0,0,7
+Python: Advanced,7,0,0,7
+PowerBI,3,2,1,6
+API,3,3,0,6
+Vue.js - Advanced,6,0,0,6
+WebApi,6,0,0,6
+Windows,5,0,1,6
+LINUX,0,6,0,6
+Rest API,6,0,0,6
+REST API - Advanced,6,0,0,6
+RESTful,5,1,0,6
+ReactJS - Advanced,6,0,0,6
+Springboot,4,2,0,6
+TypeScript - Pokročilý,6,0,0,6
+Apache Spark,4,0,2,6
+IIS,6,0,0,6
+GoLang,5,1,0,6
+JMeter,4,2,0,6
+Matlab,3,3,0,6
+Camunda,6,0,0,6
+Microsoft Excel - Advanced,6,0,0,6
+iOS,2,3,1,6
+Django,4,2,0,6
+WebSocket,5,1,0,6
+.NET/C#,5,0,0,5
+Java - Intermediate,5,0,0,5
+MVC,3,2,0,5
+OpenShift/Kubernetes,5,0,0,5
+Tailwind,1,3,1,5
+HTML - Intermediate,5,0,0,5
+Microservices,4,1,0,5
+Microservices - RabbitMQ / Apache Kafka,5,0,0,5
+Java (Spring Boot),5,0,0,5
+DOCKER,0,5,0,5
+Python (pandas,5,0,0,5
+noSQL databases,5,0,0,5
+.net,0,5,0,5
+pandas,3,2,0,5
+JavaScript - Basics,5,0,0,5
+JavaScript - Mierne pokročilý,5,0,0,5
+Jenkins,5,0,0,5
+SOAP,5,0,0,5
+SignalR,5,0,0,5
+Micro-frontends,5,0,0,5
+SAP Fiori,3,2,0,5
+SAP ABAP,1,1,3,5
+ReactJS - Pokročilý,5,0,0,5
+C/C++/Qt Development,5,0,0,5
+FE tech,5,0,0,5
+Agile,0,5,0,5
+HTML - Basics,5,0,0,5
+RESTful API,5,0,0,5
+ORACLE,0,5,0,5
+NestJS,4,1,0,5
+Svelte,4,1,0,5
+Entity Framework,4,0,1,5
+Express.js,5,0,0,5
+PHP 8+,5,0,0,5
+AngularJS,4,1,0,5
+TensorFlow/PyTorch,5,0,0,5
+C+,5,0,0,5
+Snowflake,0,5,0,5
+Spring (Boot),5,0,0,5
+Blazor,1,2,2,5
+Java 8 and higher,5,0,0,5
+PWA,5,0,0,5
+Cloud - AWS nebo Azure,5,0,0,5
+Java 21+,5,0,0,5
+and others,4,0,0,4
+Webpack,4,0,0,4
+VueJS,2,2,0,4
+.NET frameworks,4,0,0,4
+Prefect,2,2,0,4
+.Net Core,3,0,1,4
+Delphi,2,2,0,4
+JavaScript - Basic,4,0,0,4
+Postman,2,2,0,4
+Docker - Basic,4,0,0,4
+PowerCLI,1,0,3,4
+Power Query (M),4,0,0,4
+JIRA,1,3,0,4
+Mongo-DB,4,0,0,4
+Shell script,0,2,2,4
+Assembly,0,4,0,4
+C++: Advanced,4,0,0,4
+Backend API VueJS,4,0,0,4
+HTML - Skillful,4,0,0,4
+Python: Basic,4,0,0,4
+ABAP OO,1,1,2,4
+Python - Expert,4,0,0,4
+Vue),0,4,0,4
+Java Spring Boot,4,0,0,4
+Kumuluzee,4,0,0,4
+R/Phyton výhodou,4,0,0,4
+Emblem/Radar výhodou,4,0,0,4
+Spring MVC,4,0,0,4
+Microprofile at least version 3.3,4,0,0,4
+Microsoft Excel,4,0,0,4
+Hibernate ORM/JPA,4,0,0,4
+C# - Advanced,4,0,0,4
+Bash/Shell,4,0,0,4
+Angular/Polymer/React,4,0,0,4
+MS Excel,2,0,2,4
+Tomcat,4,0,0,4
+JBOSS,4,0,0,4
+JPA,4,0,0,4
+SQL - Skillful,4,0,0,4
+C#/.NET,3,1,0,4
+Entity Framework Core,2,2,0,4
+Apache Arrow,0,4,0,4
+Springboot overview,4,0,0,4
+Tailwind CSS,4,0,0,4
+Angular - Advanced,4,0,0,4
+CSS - Skillful,4,0,0,4
+Elasticsearch,3,0,1,4
+RPG,2,1,1,4
+PHP - Intermediate,4,0,0,4
+Laravel (PHP framework) - Expert,4,0,0,4
+Python - Basics,4,0,0,4
+Object-oriented programming,4,0,0,4
+Cucumber,3,1,0,4
+JSF,4,0,0,4
+LINUXU,4,0,0,4
+Java (preferably Java 11+),4,0,0,4
+Lambda,4,0,0,4
+Ruby on Rails - Advanced,4,0,0,4
+Ruby on Rails,4,0,0,4
+Unix operation,0,4,0,4
+Java - Basic,4,0,0,4
+OpenAPI,1,3,0,4
+scikit-learn),4,0,0,4
+Java/Spring,0,4,0,4
+Java SE (Java 8 and newer),4,0,0,4
+Java 11+,1,2,0,3
+JavaScript (Angular,0,3,0,3
+Visual Basic for Applications (VBA),3,0,0,3
+Visual Studio,2,1,0,3
+Visual Basic,2,1,0,3
+ANGULAR,0,3,0,3
+ASP.Net,0,1,2,3
+WPF,3,0,0,3
+ELK,2,0,1,3
+webservices,3,0,0,3
+.NET Framework 4+,3,0,0,3
+.NET Framework 4.8,3,0,0,3
+JavaScript: Advanced,3,0,0,3
+JavaScript / TypeScript,1,2,0,3
+ACCESS,0,3,0,3
+X++,2,1,0,3
+Jest,3,0,0,3
+OOP,3,0,0,3
+Nuxt,3,0,0,3
+CAN Bus systems,3,0,0,3
+SAP Analytics Cloud scripting languages,3,0,0,3
+CI/CD,1,1,1,3
+RxJS,1,2,0,3
+S3,3,0,0,3
+OpenShift,2,1,0,3
+Frontend,0,2,1,3
+Flow Designer,0,3,0,3
+PHP (Laravel),1,2,0,3
+Oracle PL/SQL,3,0,0,3
+Oracle SQL,3,0,0,3
+Oracle),2,1,0,3
+RDBMS,0,3,0,3
+REACT,3,0,0,3
+RabbitMQ,2,1,0,3
+CL,2,0,1,3
+PHP - Pokročilý,3,0,0,3
+NextJS,0,3,0,3
+Nginx,3,0,0,3
+SAP HANA,3,0,0,3
+Node.js - Intermediate,3,0,0,3
+Golang - Basic,3,0,0,3
+GitLab CI/CD,1,1,1,3
+GO - Intermediate,3,0,0,3
+Google Cloud,3,0,0,3
+SQL - Základy,3,0,0,3
+Bash: Basic,3,0,0,3
+SQL: Advanced,3,0,0,3
+C# - Intermediate,3,0,0,3
+Sass,3,0,0,3
+Sass - Skillful,3,0,0,3
+Nette,3,0,0,3
+MySQL/MariaDB,0,3,0,3
+NATS.IO,3,0,0,3
+Natural Language Processing (NLP) - Intermediate,3,0,0,3
+Next JS,3,0,0,3
+Embedded Linux,2,1,0,3
+POSTGRESQL,0,3,0,3
+PLC (Siemens),3,0,0,3
+PLC programming,1,1,1,3
+Camunda framework,3,0,0,3
+QML,1,2,0,3
+Caching,3,0,0,3
+Concourse CI,3,0,0,3
+Confluence,1,2,0,3
+Cypress: Skillful,3,0,0,3
+Messaging,3,0,0,3
+Mongo DB,3,0,0,3
+SharePoint,2,1,0,3
+Security,2,1,0,3
+BI,1,2,0,3
+Azure Cloud,2,0,1,3
+Bash Scripting,3,0,0,3
+Spring - Advanced,3,0,0,3
+JDBC (SQL),3,0,0,3
+IntegrationHub,0,3,0,3
+J2EE,1,2,0,3
+MariaDB,3,0,0,3
+Spring Boot - Pokročilý,3,0,0,3
+Spring Data,1,2,0,3
+AngularJS - Advanced,3,0,0,3
+Tcl,0,3,0,3
+Angular - Mierne pokročilý,3,0,0,3
+Angular/Typescript,3,0,0,3
+Angular JS,2,1,0,3
+MS Access- expert,3,0,0,3
+MS Excel- expert,3,0,0,3
+MATLAB,0,3,0,3
+MS Outlook- expert,3,0,0,3
+MS Powerpoint- expert,3,0,0,3
+MS Project- expert,3,0,0,3
+TypeScript/JavaScript,3,0,0,3
+Unit Testing - Basic,3,0,0,3
+Unix/Linux administration,3,0,0,3
+Unreal Engine,0,1,2,3
+VBScript,3,0,0,3
+LangChain,3,0,0,3
+Laravel (PHP framework),3,0,0,3
+JUnit/TestNG,3,0,0,3
+Java (Kotlin),3,0,0,3
+Liquibase,2,1,0,3
+DB,3,0,0,3
+Cypress - Basic,3,0,0,3
+Drupal,2,1,0,3
+Docker/Kubernetes,2,0,1,3
+at least one object-oriented programming or scripting language,3,0,0,3
+AI - Intermediate,3,0,0,3
+AI,2,1,0,3
+Julia,2,1,0,3
+gRPC,1,2,0,3
+ABAP - Advanced,3,0,0,3
+oData,3,0,0,3
+ABAP - Základy,3,0,0,3
+ABAP cloud,3,0,0,3
+.NET - Advanced,3,0,0,3
+.NET 7+,2,0,0,2
+batch,2,0,0,2
+networking fundamentals,2,0,0,2
+AI eszközök használata,0,0,2,2
+ADA,0,2,0,2
+AGILIS,0,2,0,2
+jscript/vbscript,2,0,0,2
+XSLT,1,1,0,2
+YAML,2,0,0,2
+XCode,2,0,0,2
+XML - Basics,2,0,0,2
+Windows/Linux OP rendszer,0,0,2,2
+WireMock,2,0,0,2
+WordPress - Advanced,2,0,0,2
+Wordpress,1,1,0,2
+Windows PowerShell,2,0,0,2
+JavaScript - Základy,2,0,0,2
+JavaScript UI frameworks such as Angular,2,0,0,2
+JavaScript/TypeScript - Good understanding and solid software engineering skills,2,0,0,2
+JavaScript (preferred),2,0,0,2
+JavaScript (Cypress),1,1,0,2
+JavaScript (React),0,2,0,2
+.Net Blazor,0,0,2,2
+.NET core,2,0,0,2
+.NET desktop/mobile development,2,0,0,2
+.NET (.NET Core / .NET 6+),2,0,0,2
+Pro*C,0,2,0,2
+EJB,2,0,0,2
+ES6,2,0,0,2
+Docker - Advanced,2,0,0,2
+Docker - Intermediate,2,0,0,2
+WINDOWS,0,2,0,2
+Vue.js V3,2,0,0,2
+AWS services: EC2,2,0,0,2
+ASP.NET WebAPI/REST/MVC/Blazor,2,0,0,2
+ASP.Net Core,2,0,0,2
+ASP .NET (WebForms),2,0,0,2
+ASP.NET (Framework,2,0,0,2
+APEX,2,0,0,2
+Unix,1,1,0,2
+UiPath,2,0,0,2
+UIKit / SwiftUI,0,2,0,2
+UNIX,1,1,0,2
+TypeScript or JavaScript,2,0,0,2
+TypeScript/JavaScript/React,2,0,0,2
+Typescript/Angular,2,0,0,2
+Wildfly - Pokročilý,2,0,0,2
+Agile Scrum,0,2,0,2
+Agile/Scrum,0,2,0,2
+AZURE,0,2,0,2
+Access,0,2,0,2
+ActiveMQ,2,0,0,2
+VB,1,1,0,2
+VB.NET,1,1,0,2
+Unity,2,0,0,2
+LangGraph,2,0,0,2
+LUA,2,0,0,2
+VIRTUALIZATION,0,2,0,2
+Amazon Web Services (AWS) - Advanced,2,0,0,2
+Android Studio,2,0,0,2
+Akka,2,0,0,2
+Alapszintű hálózati ismeretek,0,0,2,2
+Advanced,2,0,0,2
+COBOL,1,1,0,2
+COBOL - Intermediate,2,0,0,2
+React JS,2,0,0,2
+React JS / TS,2,0,0,2
+React Native - Advanced,2,0,0,2
+React - Intermediate,2,0,0,2
+RESTful APIs,1,1,0,2
+Oracle SQL Developer,2,0,0,2
+CSS/SCSS,1,0,1,2
+CSS3 - Advanced,2,0,0,2
+CUCUMBER,0,2,0,2
+CSS - Intermediate,2,0,0,2
+CSOM,0,2,0,2
+CSS (with SASS),2,0,0,2
+CSS - Basics,2,0,0,2
+CLOUD,0,2,0,2
+FSMS- advanced,2,0,0,2
+Excel VBA,1,1,0,2
+Erlang,2,0,0,2
+Embedded C++: Mierne pokročilý,2,0,0,2
+PHP object-based programming,2,0,0,2
+PHP - Basic,2,0,0,2
+PHP - Expert,2,0,0,2
+PC znalosti – MS Office,2,0,0,2
+Python - advanced,2,0,0,2
+Python - advanced work with ML/NLP ecosystem,2,0,0,2
+Python - Úplný začiatočník,2,0,0,2
+Python / Flask,2,0,0,2
+Python - Familiarity,2,0,0,2
+POSTMAN,0,2,0,2
+POWER BI,0,2,0,2
+F#,1,1,0,2
+C: Mierne pokročilý,2,0,0,2
+C++: Mierne pokročilý,2,0,0,2
+ORACLE C,0,2,0,2
+ODATA,0,1,1,2
+OData,1,1,0,2
+OOP languages,0,2,0,2
+Nuxt.js,0,2,0,2
+Node.js/TypeScript,2,0,0,2
+SAP Data Service,0,2,0,2
+SAP BW- advanced,2,0,0,2
+SAP Basis,2,0,0,2
+SAP Analytics Cloud,0,0,2,2
+CAN bus,0,2,0,2
+CAP,1,1,0,2
+C/C++ - Programming,2,0,0,2
+C: Advanced,2,0,0,2
+Fiori,1,1,0,2
+FireStore),2,0,0,2
+Oracle - Intermediate,2,0,0,2
+Open API generator,2,0,0,2
+OpenCV,1,1,0,2
+Objective-C – advanced,2,0,0,2
+SAP DDIC,2,0,0,2
+SAP Data Intelligence,0,2,0,2
+GENIE 2000,2,0,0,2
+GIS- advanced,2,0,0,2
+GIT - Advanced,2,0,0,2
+GIT - Intermediate,2,0,0,2
+Fortran,0,2,0,2
+Fuse ESB,2,0,0,2
+GCP,2,0,0,2
+FastAPI - Advanced,2,0,0,2
+SAP PS- beginner,2,0,0,2
+SAP R/3,2,0,0,2
+SAP IS - U- beginner,2,0,0,2
+SAP PM- advanced,2,0,0,2
+SAP Datasphere,1,1,0,2
+SAP FI - AA- beginner,2,0,0,2
+SAP FI- beginner,2,0,0,2
+SAP CRM- advanced,2,0,0,2
+C++/Rust,2,0,0,2
+C++ - Expert,2,0,0,2
+C++ - Intermediate,2,0,0,2
+C++ - Pokročilý,2,0,0,2
+C++ (C++11 or newer),2,0,0,2
+SAP UI5,0,2,0,2
+SAPUI5,2,0,0,2
+SAP PP,0,0,2,2
+Git - Intermediate,2,0,0,2
+Node.js (Express.js,2,0,0,2
+Node.js - Expert,2,0,0,2
+SQL (ORACLE preferred),2,0,0,2
+SQL (Oracle,1,0,1,2
+SQL (Oracle),1,1,0,2
+SQL (PostgreSQL,0,2,0,2
+C++/CLI,0,2,0,2
+None,2,0,0,2
+Google Cloud Platform,2,0,0,2
+Go (Golang),1,1,0,2
+GitHub Actions,2,0,0,2
+GitLab CI,2,0,0,2
+Glide,0,2,0,2
+Git - Advanced,2,0,0,2
+Git - Expert,2,0,0,2
+SQL - výhodou,2,0,0,2
+Spring - Pokročilý,2,0,0,2
+Siemens,2,0,0,2
+Bash scripting,2,0,0,2
+Backend,0,2,0,2
+BASH,0,2,0,2
+BPMN,0,2,0,2
+Assembler,2,0,0,2
+STM32,1,1,0,2
+C# - Základy,2,0,0,2
+C / C++,0,2,0,2
+Bedrock,2,0,0,2
+SQL: Basic,2,0,0,2
+SQL/NoSQL,2,0,0,2
+SQL - intermediate,2,0,0,2
+SQL - pokročilý,2,0,0,2
+Nest.js),2,0,0,2
+NET,2,0,0,2
+NETWORK,0,2,0,2
+NOSQL,0,2,0,2
+SVN,0,2,0,2
+SageMaker,2,0,0,2
+SQS,2,0,0,2
+SRI - system incident management- beginner,2,0,0,2
+NoSQL databases (PostgreSQL,2,0,0,2
+Node,1,1,0,2
+NgRx,1,1,0,2
+No-SQL,2,0,0,2
+Networking - Expert,2,0,0,2
+HTML - Expert,2,0,0,2
+GraphAPI),0,2,0,2
+GraphQL - Advanced,2,0,0,2
+Appium,2,0,0,2
+Apache CXF,2,0,0,2
+Storm and object-based programming,2,0,0,2
+Spring boot,2,0,0,2
+Spring framework,1,0,1,2
+SpringBoot,1,0,1,2
+Spring Framework - Advanced,2,0,0,2
+Spring Boot - Expert,2,0,0,2
+Microsoft Excel - pokročilý,2,0,0,2
+Microservice architektúra,2,0,0,2
+Microsoft .NET Framework - Advanced,2,0,0,2
+Microsoft Access - Intermediate,2,0,0,2
+Archimate,2,0,0,2
+Apache Drools,2,0,0,2
+Apache Tomcat,2,0,0,2
+Apex code,2,0,0,2
+Hibernate/JPA,0,1,1,2
+HTML5 - Advanced,2,0,0,2
+HTML5/CSS3,2,0,0,2
+Haskell,2,0,0,2
+Middleware,0,2,0,2
+Microsoft Power BI - Advanced,2,0,0,2
+Microsoft SQL Server,2,0,0,2
+Microsoft SQL Server - Advanced,2,0,0,2
+Security - Advanced,2,0,0,2
+SharePoint REST,0,2,0,2
+SciPy,2,0,0,2
+Scikit-learn,2,0,0,2
+MySQL/MARIA DB,2,0,0,2
+MongoDB),1,1,0,2
+IBM DB2 Administration - Advanced,2,0,0,2
+IEC 61131-3,1,1,0,2
+Lombok,2,0,0,2
+Java - Basics,2,0,0,2
+Java - Expert,2,0,0,2
+Java - Základy,2,0,0,2
+Java (Spring Boot,2,0,0,2
+JUNIT,0,2,0,2
+Jaeger,2,0,0,2
+LabView,2,0,0,2
+Angular - Pokročilý,2,0,0,2
+Angular (2+),2,0,0,2
+TailwindCSS,1,1,0,2
+TYPO3,2,0,0,2
+TCL,1,1,0,2
+TIA Portal,1,1,0,2
+Swift – advanced,2,0,0,2
+MQ,2,0,0,2
+MAVEN,0,2,0,2
+MLflow,2,0,0,2
+MONGODB,0,2,0,2
+TypeScript - Intermediate,2,0,0,2
+Thought Machine Vault,2,0,0,2
+Angular 2+,0,2,0,2
+Angular (ideally 15),2,0,0,2
+Angular - Expert,2,0,0,2
+MVVM,1,1,0,2
+MapStruct,2,0,0,2
+JMETER,0,2,0,2
+JENKINS,0,2,0,2
+IEC-Programmiersprachen,0,0,2,2
+INTELLIJ,0,2,0,2
+MS Word- expert,2,0,0,2
+MS SQL Server,2,0,0,2
+.NET 8,2,0,0,2
+ABAP - Intermediate,2,0,0,2
+.NET Core 3.1+,2,0,0,2
+.NET (ideally .NET 8),0,2,0,2
+numpy),2,0,0,2
+.NET - Pokročilý,2,0,0,2
+.NET 6+,0,2,0,2
+Docker - Pokročilý,2,0,0,2
+Joomla,2,0,0,2
+Jython,1,1,0,2
+Jetpack,0,2,0,2
+Jira,2,0,0,2
+shell scripting,2,0,0,2
+.HTML,0,2,0,2
+ABAP (classic and/or OO),0,0,2,2
+ABAP (classic or OO),0,0,2,2
+Java/J2EE,2,0,0,2
+Java/Kotlin,0,2,0,2
+Java11+,0,2,0,2
+Java EE - Pokročilý,2,0,0,2
+Java / Spring,2,0,0,2
+Keras,1,1,0,2
+Konténerizációs technológiák,0,0,2,2
+Kafka),2,0,0,2
+API (REST,1,1,0,2
+Visual Basic .NET - Advanced,2,0,0,2
+VeriStand,0,0,2,2
+Verilog,1,1,0,2
+Virtualization,1,1,0,2
+Kotlin - Advanced,2,0,0,2
+Java: Basic,2,0,0,2
+JavaScript (Angular),2,0,0,2
+CloudWatch,2,0,0,2
+CodeIgniter,0,2,0,2
+Cassandra,2,0,0,2
+Cloud,2,0,0,2
+Cloud & DevOps - Docker,2,0,0,2
+Quarkus),2,0,0,2
+Qt,1,1,0,2
+Python Master,2,0,0,2
+CosmosDB,2,0,0,2
+Pyspark,2,0,0,2
+Python (Advanced),2,0,0,2
+PySpark - Advanced,2,0,0,2
+PrimeFaces - Pokročilý,2,0,0,2
+R - výhodou,2,0,0,2
+RAP,0,2,0,2
+Core),2,0,0,2
+Python (minimálne scikit-learn,2,0,0,2
+Python (preferred),2,0,0,2
+Python (NumPy,2,0,0,2
+Python (NumPy/Pandas),2,0,0,2
+Dart,2,0,0,2
+Data Analysis - Advanced,2,0,0,2
+DEBIAN,0,2,0,2
+DEVOPS,0,2,0,2
+Power Platform,1,0,1,2
+Power BI - Basics,2,0,0,2
+PostgreSQL),1,0,1,2
+Pinia,2,0,0,2
+PnP,0,2,0,2
+Pandas),2,0,0,2
+Python - Mierne pokročilý,2,0,0,2
+Python - Skillful,2,0,0,2
+ABAP/4,1,0,0,1
+.NET (backend),1,0,0,1
+AI - Basic,1,0,0,1
+AI - Basics,1,0,0,1
+AI Specialist,1,0,0,1
+AL (Application Lifecycle),0,1,0,1
+ANDROID,0,1,0,1
+ZBasic network skills - Co je to DHCP,1,0,0,1
+Zabbix,1,0,0,1
+Zabbix - Advanced,1,0,0,1
+ABAP/ABAP OO,0,1,0,1
+ABB,1,0,0,1
+ACCESS DATABASES,0,1,0,1
+ACM,0,1,0,1
+ADATTÁRHÁZ,0,1,0,1
+ADF,0,1,0,1
+AEL,0,1,0,1
+AI - Advanced,1,0,0,1
+macros),1,0,0,1
+messaging (RabbitMQ,1,0,0,1
+microservice architektúra,0,1,0,1
+microservice design patterns,1,0,0,1
+microservices,1,0,0,1
+microservices - Advanced,1,0,0,1
+microservices design,1,0,0,1
+.NET Core or later,1,0,0,1
+Xamarin forms,0,1,0,1
+Xamarin/MAUI,1,0,0,1
+Yaml,1,0,0,1
+Yii,0,1,0,1
+jQuery - Basics,1,0,0,1
+jQuery - Pokročilý,1,0,0,1
+k6,1,0,0,1
+ksh,0,1,0,1
+Jira: Intermediate,1,0,0,1
+Jupyter - Pokročilý,1,0,0,1
+Jó programozási és hibakeresési készségek,0,1,0,1
+K8s,0,1,0,1
+KNIME,0,1,0,1
+KRL,1,0,0,1
+KUKA,1,0,0,1
+KUKA robotics: intermediate (B1),1,0,0,1
+Javascript),1,0,0,1
+Jenkins / GitLab,1,0,0,1
+Jenkins / GitLab - Advanced,1,0,0,1
+Jest testing library,1,0,0,1
+Jinja2,1,0,0,1
+Jira - Basic,1,0,0,1
+Jira),0,1,0,1
+Jira: Basic,1,0,0,1
+JavaScript (React/Angular),1,0,0,1
+JavaScript (Vue),0,1,0,1
+JavaScript - Expert,1,0,0,1
+JavaScript / Node.js,1,0,0,1
+JavaScript),0,1,0,1
+JavaScript/jQuery - Advanced,1,0,0,1
+JavaScript: Basic,1,0,0,1
+JavaScript: Basics,1,0,0,1
+.NET6,1,0,0,1
+.NET: Basic,1,0,0,1
+.Net/Java/Javascript,1,0,0,1
+.PHP,0,1,0,1
+.NET (Core / .NET 6+),1,0,0,1
+JavaScript (ES2016+,1,0,0,1
+JavaScript (ES6),1,0,0,1
+JavaScript (Node.js),1,0,0,1
+Kotlin/Java,0,1,0,1
+Kubernetes (Rancher/OpenShift),1,0,0,1
+Kubernetes - Advanced,1,0,0,1
+Kubernetes - Advanced (CKA,1,0,0,1
+Kubernetes - Basic,1,0,0,1
+Kubernetes - Basics,1,0,0,1
+Kubernetes),1,0,0,1
+Kubernetes/EKS,0,1,0,1
+Java/JavaScript/Python,1,0,0,1
+Java: Advanced,1,0,0,1
+Java: B2,1,0,0,1
+Java: Basics,1,0,0,1
+Java: Pokročilý,1,0,0,1
+JavaScirpt,1,0,0,1
+Kotlin (experience with development of native Android applications in Kotlin is an advantage),1,0,0,1
+Kotlin - Intermediate,1,0,0,1
+Java 17 + Kotlin,1,0,0,1
+Java 8 or higher,1,0,0,1
+Java 8+,1,0,0,1
+Java 8/11/17,1,0,0,1
+Java Core,1,0,0,1
+Java Message Service (JMS),1,0,0,1
+Java Springboot,0,1,0,1
+Java-Script,0,0,1,1
+Kanban,0,1,0,1
+Karat,1,0,0,1
+Karel,1,0,0,1
+Kdb+,1,0,0,1
+Knative,0,1,0,1
+Knowledgeable in programming,1,0,0,1
+Korn-shell,1,0,0,1
+Java 11/17/21/22,0,0,1,1
+Laravel (PHP framework) - Intermediate,1,0,0,1
+Laravel - Advanced,1,0,0,1
+Laravel - Intermediate,1,0,0,1
+Laravel 7 or higher,1,0,0,1
+Laravel Nova,1,0,0,1
+Lazarus,1,0,0,1
+Lightning Web Components,1,0,0,1
+Lightning Web Components (LWC),0,1,0,1
+Java (Spring),1,0,0,1
+Java (Spring-Boot / Quarkus),1,0,0,1
+Java (at least Java 8),1,0,0,1
+Java (for Android),1,0,0,1
+Java (inferred from Kotlin,1,0,0,1
+Java (min. 4 roky skúseností) – preferovaná verzia Java 21+,1,0,0,1
+Java (základy),1,0,0,1
+Java - Mierne pokročilý,1,0,0,1
+Laravel (PHP framework) - Advanced,1,0,0,1
+JUnit,1,0,0,1
+JVM runtime,1,0,0,1
+Jakarta EE - Pokročilý,1,0,0,1
+Java (8 and 21+),1,0,0,1
+Java (Git,0,1,0,1
+Java (J2EE),0,0,1,1
+Java (Spark),0,1,0,1
+LAD,0,0,1,1
+LAMP,1,0,0,1
+LESS/SASS/CSS3,1,0,0,1
+LLM - Advanced,1,0,0,1
+LLM API - Advanced,1,0,0,1
+LWC,0,1,0,1
+LabVIEW - Advanced,1,0,0,1
+Labview,0,1,0,1
+MS Azure,1,0,0,1
+MS Dossier,1,0,0,1
+MS Excel (advanced level,1,0,0,1
+MS Office,1,0,0,1
+MS SQL (procedures,0,0,1,1
+MS SQL - Advanced,1,0,0,1
+MS Server,0,0,1,1
+MS Visio/Miro,0,1,0,1
+LlamaIndex,1,0,0,1
+Looker,1,0,0,1
+M365,0,0,1,1
+MDM – pokročilý,1,0,0,1
+MQ / messaging - Advanced,1,0,0,1
+MQ V7R3,0,0,1,1
+MQTT,0,1,0,1
+MS 365,1,0,0,1
+Linux Docker,0,1,0,1
+Linux OS - Expert,1,0,0,1
+Linux OS - Intermediate,1,0,0,1
+Linux Operating System,1,0,0,1
+Linux Operating System - Expert,1,0,0,1
+Linux Red Hat,1,0,0,1
+Linux shell scripting,0,0,1,1
+Linux zaklady,1,0,0,1
+Linux (RHEL),1,0,0,1
+Linux (Suse,1,0,0,1
+Linux (Ubuntu,1,0,0,1
+Linux (Ubuntu/Debian),0,1,0,1
+Linux - Advanced,1,0,0,1
+Linux - Basics,1,0,0,1
+Linux - Pokročilý,1,0,0,1
+Linux CLI,1,0,0,1
+MYSQL,0,1,0,1
+Machine Learning,0,1,0,1
+Machine Learning frameworks (PyTorch,0,1,0,1
+Magento - Basics,1,0,0,1
+Magic,1,0,0,1
+MariaDB - Intermediate,1,0,0,1
+Material UI (MUI),1,0,0,1
+Material-UI,1,0,0,1
+JAVA/Kotlin,1,0,0,1
+JBehave,1,0,0,1
+JBoss,1,0,0,1
+JPA + Hibernate,1,0,0,1
+JQ,0,1,0,1
+JQUERY,0,1,0,1
+JQuery,0,1,0,1
+MVP,0,1,0,1
+IaC / Automation - Ansible,1,0,0,1
+Icinga,1,0,0,1
+InfluxDB,1,0,0,1
+Inventor,0,0,1,1
+Iný programovací jazyk - Pokročilý,1,0,0,1
+Ionic Framework,1,0,0,1
+JAVA / Python / ABAP,1,0,0,1
+JAVA EE,1,0,0,1
+MS Windows 10/11 – pokročilý,1,0,0,1
+MSSQL),1,0,0,1
+MVC framework (Spring MVC,1,0,0,1
+IEC61131-3,0,0,1,1
+ILE RPG,0,0,1,1
+IP,1,0,0,1
+IT podpora – pokročilý,1,0,0,1
+IaC,1,0,0,1
+Microsoft Power BI - Pokročilý,1,0,0,1
+Microsoft Power Bi,1,0,0,1
+Microsoft PowerApps,1,0,0,1
+Microsoft SQL Server - Basics,1,0,0,1
+Microsoft.net,1,0,0,1
+Microsoft.net - Basics,1,0,0,1
+Mimix,0,0,1,1
+MochaJS,1,0,0,1
+Microsoft Fabric,0,1,0,1
+Microsoft Graph,0,1,0,1
+Microsoft Office 365,1,0,0,1
+Microsoft Office 365 - Advanced,1,0,0,1
+Microsoft Office 365 - Mierne pokročilý,1,0,0,1
+Microsoft Power Automate,1,0,0,1
+Microsoft Power BI,1,0,0,1
+Microsoft Power BI - Basics,1,0,0,1
+Microsoft 365 – pokročilý,1,0,0,1
+Microsoft Access (including VBA programming),1,0,0,1
+Microsoft Analysis Services (OLAP),0,1,0,1
+Microsoft Azure,1,0,0,1
+Microsoft Azure - Advanced,1,0,0,1
+Microsoft Dynamics CRM - Advanced,1,0,0,1
+Microsoft Excel - Pokročilý,1,0,0,1
+Microsoft Excel: Expert,1,0,0,1
+Matlab/Simulink,0,0,1,1
+Matplotlib,1,0,0,1
+Matplotlib - Pokročilý,1,0,0,1
+Maven - Advanced,1,0,0,1
+Maven / Gradle - Intermediate,1,0,0,1
+Maven/Gradle - Advanced,1,0,0,1
+Meridian,1,0,0,1
+Microsoft 365,1,0,0,1
+Monitoring tools (CloudWatch,0,0,1,1
+Motion,1,0,0,1
+MuleSoft,1,0,0,1
+MySQL - Intermediate,1,0,0,1
+MySQL - Pokročilý,1,0,0,1
+MySQL - Skillful,1,0,0,1
+MySQL),0,1,0,1
+MySQL/Maria DB - Advanced,1,0,0,1
+Hybernate,0,1,0,1
+Hybernate SQL,0,1,0,1
+I2C,1,0,0,1
+IBM DB2,1,0,0,1
+IBM WebSphere Portal - Basics,1,0,0,1
+IEC 61131,0,0,1,1
+Monitoring & Observability - ELK,1,0,0,1
+Monitoring (Grafana),1,0,0,1
+HTTP REST,0,1,0,1
+HTTP/HTTPS,1,0,0,1
+Hardware,0,1,0,1
+Hibernate - Advanced,1,0,0,1
+Hibernate - Pokročilý,1,0,0,1
+Honeywell,1,0,0,1
+Hoppscotch,1,0,0,1
+Hugging Face Transformers,1,0,0,1
+Mockito,1,0,0,1
+Modern CSS/LESS - Expert,1,0,0,1
+HTML - Základy,1,0,0,1
+HTML / CSS / JS,0,1,0,1
+HTML 5 - Advanced,1,0,0,1
+HTML+CSS,1,0,0,1
+HTML/CSS/JavaScript - advanced,1,0,0,1
+HTML: Advanced,1,0,0,1
+HTML + CSS + JavaScript,1,0,0,1
+HTML + CSS - Intermediate,1,0,0,1
+HTML - Basic,1,0,0,1
+HTML - Mierne pokročilý,1,0,0,1
+HTML - Pokročilý,1,0,0,1
+Networking fundamentals,1,0,0,1
+Networking protocols,1,0,0,1
+Next JS - Advanced,1,0,0,1
+Grid,1,0,0,1
+Grid / Flex,0,1,0,1
+HANA,1,0,0,1
+HANA DB performance optimization,1,0,0,1
+HMI,1,0,0,1
+HR-Forms,0,1,0,1
+HTML (Advanced),1,0,0,1
+HTML + CSS,0,1,0,1
+Google tag manager,1,0,0,1
+Gradle,1,0,0,1
+Gradle - Intermediate,1,0,0,1
+Gradle build tools,1,0,0,1
+Grafana - Advanced,1,0,0,1
+Graffana,1,0,0,1
+Graph,1,0,0,1
+GraphQL),1,0,0,1
+NATS,0,1,0,1
+NET - Advanced,1,0,0,1
+NODE.JS - Advanced,1,0,0,1
+NUnit,1,0,0,1
+Nagios - výhodou,1,0,0,1
+Network,0,1,0,1
+Networking,1,0,0,1
+Google Workspace,1,0,0,1
+Google Analytics,1,0,0,1
+Google App Script,0,1,0,1
+Google Looker Studio,1,0,0,1
+Google Sheets,1,0,0,1
+Node.js - Not specified,1,0,0,1
+Node.js or .NET,1,0,0,1
+Node.js),1,0,0,1
+Node.js/JavaScript/TypeScript,1,0,0,1
+GitHub - Intermediate,1,0,0,1
+GitLab - Advanced,1,0,0,1
+GitOps,1,0,0,1
+Glide API,0,1,0,1
+Go-Lang,1,0,0,1
+Go: Advanced,1,0,0,1
+Golang - Expert,1,0,0,1
+Google ADK,1,0,0,1
+NoSQL databázy,1,0,0,1
+Node.js (Express),1,0,0,1
+Node.js (Nest.js),1,0,0,1
+Node.js (TypeScript,1,0,0,1
+Node.js - Advanced,1,0,0,1
+GO,1,0,0,1
+GSAP,1,0,0,1
+GitHub - Advanced,1,0,0,1
+Next.js (React),1,0,0,1
+Next.js - Intermediate,1,0,0,1
+Nexus,1,0,0,1
+Nix,0,1,0,1
+NoSQL (MongoDB,1,0,0,1
+NoSQL (PostgreSQL,0,1,0,1
+NoSQL (Spark,1,0,0,1
+NoSQL databases (Oracle,1,0,0,1
+OpenAI SDK,1,0,0,1
+OpenAPI - Advanced,1,0,0,1
+OpenAPI: Advanced,1,0,0,1
+OpenTelemetry,0,0,1,1
+OpenTofu,1,0,0,1
+OpenUI5,1,0,0,1
+Oracle 12c,1,0,0,1
+Oracle 19,1,0,0,1
+OTC / AWS / Azure,1,0,0,1
+OTRS,1,0,0,1
+Objective-C (experience is an advantage),1,0,0,1
+Objective-C - Pokročilý,1,0,0,1
+Objektové programovanie - Základy,1,0,0,1
+Odoo - Základy,1,0,0,1
+Office,0,1,0,1
+OpenAI APIs,1,0,0,1
+OKD,0,0,1,1
+OOP - Advanced,1,0,0,1
+OOP - Expert,1,0,0,1
+OOP languages at high level,0,1,0,1
+ORACLE PL/SQL,1,0,0,1
+ORM,1,0,0,1
+OS/400 operációs rendszer (V7R4),0,0,1,1
+OSGI,1,0,0,1
+Node.js/Nest.js,0,1,0,1
+NodeJS (alternativne Bun alebo Deno),1,0,0,1
+Npm,1,0,0,1
+NumPy: Advanced,1,0,0,1
+Numpy,1,0,0,1
+Nuxt.js - Intermediate,1,0,0,1
+OAuth,1,0,0,1
+OData services,1,0,0,1
+Oracle PL/SQL - Mierne pokročilý,1,0,0,1
+Oracle PL/SQL: Basic,1,0,0,1
+Other programming languages,1,0,0,1
+PERL,1,0,0,1
+PGqsl - Basic,1,0,0,1
+PHP (7.4+ / 8.x),1,0,0,1
+PHP (8.3+),1,0,0,1
+PHP (aspoň základy),1,0,0,1
+Frontend (HTML5,0,1,0,1
+Frontend HTML,0,1,0,1
+GA4,1,0,0,1
+GCP / AWS - Intermediate,1,0,0,1
+GIS- pokročilý,1,0,0,1
+GIT - Skillful,1,0,0,1
+GIT: Pokročilý,1,0,0,1
+Oracle PL/SQL - Advanced,1,0,0,1
+Figma,1,0,0,1
+Fiori/UI5,0,1,0,1
+Firestore,1,0,0,1
+Flow,1,0,0,1
+Flows,1,0,0,1
+Fluent UI,1,0,0,1
+Fluentd,1,0,0,1
+Flutter - Basics,1,0,0,1
+Oracle DB,1,0,0,1
+Oracle Data Integrator (ODI),0,1,0,1
+Oracle Database,1,0,0,1
+Oracle Database - Advanced,1,0,0,1
+Oracle Database - Pokročilý,1,0,0,1
+Oracle Database administration: Basic,1,0,0,1
+Oracle Database: Basic,1,0,0,1
+FastAPI - Skillful,1,0,0,1
+FORTRAN,0,1,0,1
+FSMS- pokročilý,1,0,0,1
+Fanuc,1,0,0,1
+PHP8+,1,0,0,1
+PHP: Basic,1,0,0,1
+PIXI.js,1,0,0,1
+PL SQL,0,1,0,1
+PL-SQL,1,0,0,1
+Excel - intermediate,1,0,0,1
+Excel advanced,0,1,0,1
+Expo,1,0,0,1
+Express,1,0,0,1
+Express JS,1,0,0,1
+Express),1,0,0,1
+FANUC: advantageous,1,0,0,1
+FBD,0,0,1,1
+PHP8,1,0,0,1
+Elastic Search,1,0,0,1
+Elixir,1,0,0,1
+Embedded C++ - Advanced,1,0,0,1
+English: B2,1,0,0,1
+Entity Core Framework,1,0,0,1
+Entity framework,1,0,0,1
+Excel - Basics,1,0,0,1
+PHP - Basics,1,0,0,1
+PHP - Mierne pokročilý,1,0,0,1
+PHP - Základy,1,0,0,1
+PHP 7.x / 8.x,0,1,0,1
+PHP 8.3,1,0,0,1
+PHP 8.4,1,0,0,1
+PHP Symfony + Doctrine (LTS verzie),1,0,0,1
+PHP storm and object-based programming,1,0,0,1
+PostgreSQL: Pokročilý,1,0,0,1
+Postgres,1,0,0,1
+Postgres ORM,1,0,0,1
+Power BI (DAX,0,0,1,1
+Power BI (M,0,0,1,1
+Power BI (advanced),1,0,0,1
+Power Bi: Advanced,1,0,0,1
+Power Query M,0,1,0,1
+PixiJS - Skillful,1,0,0,1
+Play,1,0,0,1
+Play),1,0,0,1
+Playwright - Intermediate,1,0,0,1
+Plotly - Pokročilý,1,0,0,1
+Port,1,0,0,1
+PostgreSQL - Advanced,1,0,0,1
+PostgreSQL - Pokročilý,1,0,0,1
+PLC: SIEMENS,1,0,0,1
+PROJECT MANAGEMENT,0,1,0,1
+Panasonic,1,0,0,1
+Pandas - Pokročilý,1,0,0,1
+Pascal – výhodou,1,0,0,1
+Pega,1,0,0,1
+Perl - Basics,1,0,0,1
+Photoshop,1,0,0,1
+PL/SQL - Advanced,1,0,0,1
+PL/SQL - Mierne pokročilý,1,0,0,1
+PL/SQL - Pokročilý,1,0,0,1
+PL/pgSQL procedures,1,0,0,1
+PLC,1,0,0,1
+PLC /Allen - Bradley,1,0,0,1
+PLC /Siemens,1,0,0,1
+PLC Siemens - Advanced,1,0,0,1
+PowerPlatform,1,0,0,1
+PowerQuery,1,0,0,1
+PowerShell: Basic,1,0,0,1
+Powershell - výhodou,1,0,0,1
+Proficiency in at least one object-oriented programming or scripting language,1,0,0,1
+Programozási és hálózati ismeret,0,1,0,1
+PromQL,1,0,0,1
+Prometheus / Icinga / Grafana,1,0,0,1
+Dynatrace,0,0,1,1
+EF Core,1,0,0,1
+ELK / Prometheus / Icinga / Jaeger / Grafana - Advanced,1,0,0,1
+ELK stack,1,0,0,1
+ERP pl/sql,0,1,0,1
+ES6+,1,0,0,1
+ESLint,1,0,0,1
+PowerBI - intermediate,1,0,0,1
+Docker - Basics,1,0,0,1
+Docker - Expert,1,0,0,1
+Docker Compose - Pokročilý,1,0,0,1
+Docker: Pokročilý,1,0,0,1
+Drupal CMS,1,0,0,1
+Drupal CMS - Basic,1,0,0,1
+DynamoDB,1,0,0,1
+DynamoDB),1,0,0,1
+Power Query M formula language,1,0,0,1
+PowerApps,0,0,1,1
+DevOps tools (Azure DevOps,1,0,0,1
+Django & Celery frameworks,1,0,0,1
+Django - Basic,1,0,0,1
+Django - Mierne pokročilý,1,0,0,1
+Django - Pokročilý,1,0,0,1
+Django - Skillful,1,0,0,1
+Databases,0,1,0,1
+Databricks,1,0,0,1
+Dataverse,1,0,0,1
+Delphi - Advanced,1,0,0,1
+DevOps - Advanced,1,0,0,1
+Python (PySpark,1,0,0,1
+Python (Selenium),0,1,0,1
+Python (Symphony),0,1,0,1
+DHCP: Basic,1,0,0,1
+DMN,1,0,0,1
+DNS,0,1,0,1
+DNS: Advanced,1,0,0,1
+Data,1,0,0,1
+Data Engineer,1,0,0,1
+Data build tools for data transformation and model creation,0,0,1,1
+Data skills,1,0,0,1
+PyTorch/TensorFlow,1,0,0,1
+Pyramid/Django,1,0,0,1
+Python (Linux scripting),0,0,1,1
+CrewAI,1,0,0,1
+Cucumber/BDD,1,0,0,1
+Cypress / Playwright,1,0,0,1
+DAX),0,0,1,1
+DB2 - Advanced,1,0,0,1
+Prometheus),1,0,0,1
+Protractor,1,0,0,1
+Pug (Jade),1,0,0,1
+Puppet - Advanced,1,0,0,1
+PyMC,1,0,0,1
+PyQGIS,1,0,0,1
+PySpark (Advanced),1,0,0,1
+PyTorch - Pokročilý,1,0,0,1
+QT,0,1,0,1
+Qlik Sense,1,0,0,1
+QlikSense/QlikView,1,0,0,1
+QlikView,1,0,0,1
+QlikView - základy,1,0,0,1
+Qt (Widgets,1,0,0,1
+Qt - Pokročilý,1,0,0,1
+Qt/QML,0,1,0,1
+Python/Perl,1,0,0,1
+Python/R,1,0,0,1
+Python: Basics,1,0,0,1
+Python: Beginner,1,0,0,1
+Python: Mierne pokročilý,1,0,0,1
+Python: Pokročilý,1,0,0,1
+Python: medium level,1,0,0,1
+QML - Pokročilý,1,0,0,1
+Python - basic level,1,0,0,1
+Python - základy,1,0,0,1
+Python 3.10+,1,0,0,1
+Python 3.11+,1,0,0,1
+Python Programmer,1,0,0,1
+Python basics,1,0,0,1
+Python – intermediate,1,0,0,1
+Python-based AI frameworks such as LangChain,1,0,0,1
+Python (basic experience),1,0,0,1
+Python (basic level),1,0,0,1
+Python (implicit through Ansible),0,0,1,1
+Python (not specified),1,0,0,1
+Python (numpy,1,0,0,1
+Python - Beginner,1,0,0,1
+Python - Elementary (B1),1,0,0,1
+Python - Intermediate,1,0,0,1
+R/Bioconductor,0,1,0,1
+RAG - Advanced,1,0,0,1
+RAP (RESTful ABAP Programming Model),0,1,0,1
+RAP/BTP,1,0,0,1
+RAPID,0,1,0,1
+RDBMS (PostgreSQL,1,0,0,1
+RDS,1,0,0,1
+RESP API,1,0,0,1
+Combine,0,1,0,1
+Confluence: Intermediate,1,0,0,1
+Containerization - Docker - Expert,1,0,0,1
+Contentstack,1,0,0,1
+CorelDRAW,1,0,0,1
+Coroutines,1,0,0,1
+R - Advanced,1,0,0,1
+R - Pokročilý,1,0,0,1
+Clean Code,0,1,0,1
+Cloud LMS stack (Elasticsearch,1,0,0,1
+Cloud Platforms - Intermediate (OTC / AWS / Azure),1,0,0,1
+Cloud Services – AWS / GCP / Azure,1,0,0,1
+Cloud technologies,1,0,0,1
+Cloud),1,0,0,1
+CloudFormation Templates),1,0,0,1
+Cloudformation,1,0,0,1
+QtQuick),1,0,0,1
+Quarkus 3.20,1,0,0,1
+QuickSight,1,0,0,1
+CYPRESS,0,1,0,1
+CYRESS,0,1,0,1
+Camunda Workflow Engine,1,0,0,1
+Capacitor,1,0,0,1
+Card Acquiring (key area) - Advanced,1,0,0,1
+React Native - Beginner,1,0,0,1
+React Native - Intermediate,1,0,0,1
+React Native - Pokročilý,1,0,0,1
+React Native - Základy,1,0,0,1
+React Query,1,0,0,1
+React Redux,1,0,0,1
+React Redux - Advanced,1,0,0,1
+React Router - Advanced,1,0,0,1
+React - Advanced,1,0,0,1
+React - Expert,1,0,0,1
+React - Mierne pokročilý,1,0,0,1
+React - Pokročilý,1,0,0,1
+React - Skillful,1,0,0,1
+React 18,1,0,0,1
+React 19,0,1,0,1
+React Native - Basic,1,0,0,1
+RPG/Free,0,1,0,1
+RPG/ILE,0,1,0,1
+RSocket - Advanced,1,0,0,1
+Rabbit MQ,0,1,0,1
+Rapid,1,0,0,1
+Raspbian,0,1,0,1
+React & React Native,1,0,0,1
+React (Next),1,0,0,1
+REST - Advanced,1,0,0,1
+REST Api,1,0,0,1
+REST Assured,0,1,0,1
+REST(ful) API,1,0,0,1
+RMQ,1,0,0,1
+ROS,1,0,0,1
+RPG - Advanced,1,0,0,1
+RPG III,0,1,0,1
+ReactJS - Basic,1,0,0,1
+ReactJS - Mierne pokročilý,1,0,0,1
+ReactJS: Pokročilý,1,0,0,1
+Red Hat OpenShift,1,0,0,1
+Red Hat OpenShift / Kubernetes,1,0,0,1
+Red Hat Openshift,0,0,1,1
+RedHat),1,0,0,1
+Redshift Console),0,0,1,1
+CSS-in-JS,1,0,0,1
+CSS3 (SCSS),1,0,0,1
+CSS3/SCSS,1,0,0,1
+CSS: Advanced,1,0,0,1
+React.JS,1,0,0,1
+React/Angular,0,1,0,1
+React/Next.js,1,0,0,1
+React/Vue,1,0,0,1
+CSS - Expert,1,0,0,1
+CSS - Mierne pokročilý,1,0,0,1
+CSS - Pokročilý,1,0,0,1
+CSS - Základy,1,0,0,1
+CSS - intermediate level,1,0,0,1
+CSS / SASS,0,1,0,1
+CSS pre-processor SASS,1,0,0,1
+CSS),0,1,0,1
+React or Next.js,0,1,0,1
+React+Redux,0,1,0,1
+CL - Advanced,1,0,0,1
+CLOOS,1,0,0,1
+CMS systems (WordPress,1,0,0,1
+COBOL - Basic understanding of existing code,1,0,0,1
+COBOL - Mierne pokročilý,1,0,0,1
+CSS (Advanced),1,0,0,1
+CDS,0,1,0,1
+CDS view,0,0,1,1
+CI/CD - Jenkins,1,0,0,1
+CI/CD Pipeline automation - Airflow,1,0,0,1
+CI/CD Pipelines (GitLab / Bitbucket),1,0,0,1
+CI/CD pipeline,1,0,0,1
+CI/CD pipeline - Intermediate,1,0,0,1
+CI/CD pipeline automation - Airflow,1,0,0,1
+C-shell,1,0,0,1
+C/C#,0,1,0,1
+C/C++/C#,0,0,1,1
+C: Pokročilý,1,0,0,1
+CAD/CAM,0,0,1,1
+CAP (Cloud Application Programming Model),0,1,0,1
+CD API,0,1,0,1
+CDK,1,0,0,1
+Robotframework,0,1,0,1
+Rockwell,1,0,0,1
+Rockwell Automation,1,0,0,1
+C++: Pokročilý,1,0,0,1
+C++: Proficient,1,0,0,1
+C-,1,0,0,1
+C- optional,1,0,0,1
+C-Sharp,1,0,0,1
+Redux - Advanced,1,0,0,1
+Relational databases - Advanced,1,0,0,1
+Repository pattern,1,0,0,1
+Rest API - Advanced,1,0,0,1
+Rest API - Pokročilý,1,0,0,1
+Rest Assured,1,0,0,1
+RestAPI,1,0,0,1
+Restful API,1,0,0,1
+SAP ISU - Mierne pokročilý,1,0,0,1
+SAP Materials Management (MM) - Intermediate,1,0,0,1
+SAP PM- pokročilý,1,0,0,1
+SAP PS- začiatočník,1,0,0,1
+SAP Plant Maintenance (PM) - Intermediate,1,0,0,1
+SAP S/4 HANA,1,0,0,1
+SAP S/4HANA,1,0,0,1
+SAP SD S/4 HANA,0,1,0,1
+SAP Cloud for Customer (C4C),1,0,0,1
+SAP Data Warehouse (BW),0,1,0,1
+SAP ERP,0,1,0,1
+SAP FI - AA- začiatočník,1,0,0,1
+SAP FI- začiatočník,1,0,0,1
+SAP Fiori/UI5,0,1,0,1
+SAP Gateway,1,0,0,1
+SAP IS - U- začiatočník,1,0,0,1
+SAP BW/4HANA,0,1,0,1
+SAP Business Intelligence,0,1,0,1
+SAP Business Technology Platform (BTP),1,0,0,1
+SAP Business Warehouse (BW),1,0,0,1
+SAP Business Workflow,1,0,0,1
+SAP CAP,1,0,0,1
+SAP CRM- pokročilý,1,0,0,1
+SAP Clean Core principles,0,1,0,1
+CKAD or CKS certifications are an advantage),1,0,0,1
+Rockwell Studio 5000,0,1,0,1
+Ruby on Rails (aspoň základy),1,0,0,1
+RudderStack,1,0,0,1
+Rust (Advantage),1,0,0,1
+RxSwift,0,1,0,1
+S/4 ABAP,1,0,0,1
+SAP BW- pokročilý,1,0,0,1
+C++20,1,0,0,1
+C++: Expert,1,0,0,1
+SAS - Základy,1,0,0,1
+SAS Data Miner,1,0,0,1
+SAS/SQL,1,0,0,1
+SASS/SCSS,1,0,0,1
+SCADA,1,0,0,1
+SCADA - Basics,1,0,0,1
+C++ - Intermediate (B1),1,0,0,1
+C++ - Mierne pokročilý,1,0,0,1
+C++ - pokročilý,1,0,0,1
+C++ 17/20/23,0,1,0,1
+C++ – výhodou,1,0,0,1
+C++/C,0,1,0,1
+C++11 or higher,1,0,0,1
+C++17,1,0,0,1
+C# – výhodou,1,0,0,1
+C#.NET CORE,1,0,0,1
+C#/.Net - Intermediate,1,0,0,1
+C#: Not specified,1,0,0,1
+C#: Pokročilý,1,0,0,1
+C++ (17 or newer),0,1,0,1
+C++ (Nice to have),1,0,0,1
+C++ (based on mentioned hardware languages),0,1,0,1
+SAP Sales and Distribution (SD),1,0,0,1
+SAP Scripting,0,1,0,1
+SAP WM- advanced,1,0,0,1
+SAP WM- pokročilý,1,0,0,1
+SAS,0,1,0,1
+C# .NET,1,0,0,1
+C# .NET Core,1,0,0,1
+C# .net,1,0,0,1
+SQL JPA/Hibernate QueryDSL,1,0,0,1
+SQL and relational databases,1,0,0,1
+SQL basics,0,1,0,1
+SQL databases,1,0,0,1
+SQL databases - Intermediate,1,0,0,1
+SQL skriptov,1,0,0,1
+SQL/NoSQL databases,1,0,0,1
+SQL/PL,1,0,0,1
+SQL (PL/SQL,0,1,0,1
+SQL (Postgres,1,0,0,1
+SQL (Redshift-specific tuning),0,0,1,1
+SQL (advanced),1,0,0,1
+SQL (e.g. Postgres SQL,1,0,0,1
+SQL (preferably PostgreSQL),0,1,0,1
+SQL (tvorba selektov),1,0,0,1
+SQL - Basic,1,0,0,1
+SOQL,0,1,0,1
+SPI,1,0,0,1
+SPSS,0,1,0,1
+SPSS - Basics,1,0,0,1
+SQL (DB2/400 SQL),0,0,1,1
+SQL (MS SQL / Azure SQL),1,0,0,1
+SQL (MariaDB),1,0,0,1
+SQL (Oracle and PostgreSQL),0,1,0,1
+SCL,0,0,1,1
+SCL – pokročilý,1,0,0,1
+SCSS - Mierne pokročilý,1,0,0,1
+SCSS/ Tailwind,1,0,0,1
+SELENIUM,0,1,0,1
+SOAP - Advanced,1,0,0,1
+SOAP based microservices,1,0,0,1
+SOLID/Clean Code,1,0,0,1
+C# - Beginner,1,0,0,1
+C# - Mierne pokročilý,1,0,0,1
+C# - optional,1,0,0,1
+SRI - systém riadenia incidentov- začiatočník,1,0,0,1
+SSH,1,0,0,1
+SSL/TLS,1,0,0,1
+SSRS,0,1,0,1
+STL,0,0,1,1
+Bootstrap - Mierne pokročilý,1,0,0,1
+Bootstrap CSS/JS,0,1,0,1
+Build Tools - Maven,1,0,0,1
+C - Advanced,1,0,0,1
+C - Basics,1,0,0,1
+C Cloud,0,1,0,1
+C# (Advanced),1,0,0,1
+C# - Basic,1,0,0,1
+Basic of electronic and measurement - working with oscilloscope,1,0,0,1
+Bentley (Microstation),1,0,0,1
+Bicep,0,1,0,1
+Blackduck Sonarqube,1,0,0,1
+Blazor wasm,0,1,0,1
+Blockchain - Pokročilý,1,0,0,1
+Blueprints,0,1,0,1
+Bootstrap - Advanced,1,0,0,1
+SQL/noSQL,1,0,0,1
+SQL: Beginner,1,0,0,1
+SQL: Intermediate,1,0,0,1
+SQL: Skillful,1,0,0,1
+SQLAlchemy,1,0,0,1
+SQLite,1,0,0,1
+Bash/Python,1,0,0,1
+Basic knowledge GIT or other version management system,1,0,0,1
+Bash Scripting - Advanced,1,0,0,1
+Bash Scripting - Elementary (B1),1,0,0,1
+Bash Scripting: Basics,1,0,0,1
+Bash/Powershell,1,0,0,1
+Shell Script,1,0,0,1
+Shell Scripting,0,0,1,1
+Shell Scripting - Expert,1,0,0,1
+Shell Scripting - Intermediate,1,0,0,1
+BPMN 2.0,1,0,0,1
+BTP,0,1,0,1
+Backend Java,0,1,0,1
+Bamboo,1,0,0,1
+Bash - Basic,1,0,0,1
+Bash - Basics,1,0,0,1
+Bash - Expert,1,0,0,1
+Bash / PowerShell,1,0,0,1
+Serinity BDD,1,0,0,1
+Shell - Basics,1,0,0,1
+Aura,0,1,0,1
+AutoCad,1,0,0,1
+AutoGen,1,0,0,1
+AutoIt,1,0,0,1
+B&R Automation Studio,1,0,0,1
+BASH/Shell,1,0,0,1
+Salesforce Object Query Language (SOQL),1,0,0,1
+Schneider Electric Modicon PLC,0,1,0,1
+Scikit-Learn - Pokročilý,1,0,0,1
+Scratch,1,0,0,1
+Script languages,1,0,0,1
+Scripting languages,0,1,0,1
+Scrum,0,1,0,1
+Selenide,1,0,0,1
+Spring Framework (Spring Core,1,0,0,1
+Spring Security),1,0,0,1
+Spring or Spring boot or JEE,1,0,0,1
+State Management,1,0,0,1
+Studio 5000,1,0,0,1
+Subnet Mask UART,1,0,0,1
+Sveltekit,0,1,0,1
+Swagger,1,0,0,1
+Spring - Expert,1,0,0,1
+Spring Boot (MVC,1,0,0,1
+Spring Boot - Intermediate,1,0,0,1
+Spring Boot 3.x - Advanced,1,0,0,1
+Spring Boot/Spring,0,1,0,1
+Spring Boot: Pokročilý,1,0,0,1
+Spring Cloud,1,0,0,1
+Spring Core,1,0,0,1
+SoapUI,1,0,0,1
+SolidJS,0,1,0,1
+Solidity,0,1,0,1
+Solidity - Advanced,1,0,0,1
+Spark (PySpark),1,0,0,1
+Spark Structured Streaming,1,0,0,1
+Splunk,0,0,1,1
+Spring (Spring Boot),0,0,1,1
+Shell scripting under Linux,0,1,0,1
+Shell/Bash Linux - Basic commands knowledge (etc,1,0,0,1
+Shopify),1,0,0,1
+Shopware,1,0,0,1
+Siemens PLC,0,1,0,1
+Siemens S7,0,0,1,1
+Simple Object Access Protocol (SOAP),1,0,0,1
+Sketch,1,0,0,1
+TCL - Basics,1,0,0,1
+TCP/IP,1,0,0,1
+TCP/IP - Basics,1,0,0,1
+TCP/IP: Advanced,1,0,0,1
+TESTING,0,1,0,1
+TIA,0,0,1,1
+TLS,1,0,0,1
+TSDB (InfluxDB,1,0,0,1
+Argo CD,1,0,0,1
+ArgoCD,0,0,1,1
+Artifactory,1,0,0,1
+Asana - Basic,1,0,0,1
+Swift - Pokročilý,1,0,0,1
+Symfony (PHP framework) - Skillful,1,0,0,1
+System Verilog,0,1,0,1
+Systems Programming,1,0,0,1
+Any programming language,1,0,0,1
+Any programming language - Advanced,1,0,0,1
+Apache,1,0,0,1
+Apache Airflow: Advanced,1,0,0,1
+Apache Spark - Basic,1,0,0,1
+Apple iOS,1,0,0,1
+AppsFlyer,1,0,0,1
+Arduino - Intermediate,1,0,0,1
+AngularJS - Pokročilý,1,0,0,1
+AngularJS - Základy,1,0,0,1
+Ansible / Terraform / Puppet,1,0,0,1
+Ansible / Terraform / Puppet - Advanced,1,0,0,1
+Ansible AWX,1,0,0,1
+Ansible Automation Platform,1,0,0,1
+Ansible Tower,1,0,0,1
+Any Microsoft supported programming language,0,1,0,1
+Angular/TypeScript,1,0,0,1
+AngularJS (Expert),1,0,0,1
+TensorFlow),0,1,0,1
+TestNG,1,0,0,1
+TimeScaleDB,1,0,0,1
+TimeScaleDB),1,0,0,1
+Transact -SQL,0,1,0,1
+Transact-SQL (T-SQL),1,0,0,1
+Angular 11+,0,1,0,1
+Angular 15,1,0,0,1
+Angular 8+,1,0,0,1
+Angular JS - Intermediate,1,0,0,1
+Angular.js,1,0,0,1
+Angular/HTML/CSS,1,0,0,1
+Angular/React,1,0,0,1
+Angular/React JS,1,0,0,1
+Angular & Typescript,1,0,0,1
+Angular (18+),0,1,0,1
+Angular (Angular 2+),1,0,0,1
+Angular (TypeScript),1,0,0,1
+Angular (framework),1,0,0,1
+Angular (ideally Angular 15),1,0,0,1
+Angular (version 19),1,0,0,1
+Angular 10,1,0,0,1
+TSQL,0,1,0,1
+Tableau - pokročilý,1,0,0,1
+Tableau: Advanced,1,0,0,1
+TailWindCSS,0,1,0,1
+Tailwind CSS - Advanced,1,0,0,1
+Tailwind CSS - Pokročilý,1,0,0,1
+TensorFlow (Machine learning) - Pokročilý,1,0,0,1
+Android programovanie - Pokročilý,1,0,0,1
+Unix & Linux,1,0,0,1
+Unix shell scripts,1,0,0,1
+Unix system,1,0,0,1
+Unix-Shell,1,0,0,1
+Unix/Linux Server knowledge,1,0,0,1
+Unreal Engine - Mierne pokročilý,1,0,0,1
+VB.Net,1,0,0,1
+VBA – pokročilý,1,0,0,1
+UML - Advanced,1,0,0,1
+UNIX/Linux - Basic,1,0,0,1
+UNIX/Linux - Basics,1,0,0,1
+UR script,1,0,0,1
+UX/UI Design - Intermediate,1,0,0,1
+Ubuntu,0,1,0,1
+UiPath: Intermediate,1,0,0,1
+Unit of work,1,0,0,1
+TypeScript / JavaScript,1,0,0,1
+TypeScript / React / Angular,0,1,0,1
+TypeScript for Indexer - Skillful,1,0,0,1
+TypeScript/JS,0,1,0,1
+TypeScript/JavaScript (Angular),1,0,0,1
+TypeScript/JavaScript (React),0,0,1,1
+Typesense,1,0,0,1
+UI framework,1,0,0,1
+Transact-SQL (T-SQL) - Pokročilý,1,0,0,1
+Troubleshooting,0,1,0,1
+Twig,0,1,0,1
+TwinCAT,1,0,0,1
+TypeScript (or JavaScript),1,0,0,1
+TypeScript - Basic,1,0,0,1
+TypeScript - Mierne pokročilý,1,0,0,1
+TypeScript - Skillful,1,0,0,1
+VPN: Basic,1,0,0,1
+Vaadin,1,0,0,1
+Vaadin REST API,1,0,0,1
+Various programming languages and technology stacks,0,1,0,1
+Version control and CI/CD,0,0,1,1
+Version management & Version control (Git),1,0,0,1
+Visual Basic .NET,1,0,0,1
+Visual Basic 6,1,0,0,1
+Amplitude,1,0,0,1
+Android SDK,0,1,0,1
+Android programming,1,0,0,1
+Android programming - Advanced,1,0,0,1
+VBA/VBS,0,1,0,1
+VBA: Not specified,1,0,0,1
+VBscript,1,0,0,1
+VHDL,0,1,0,1
+Agilis,0,1,0,1
+Airflow/Prefect,1,0,0,1
+Allen-Bradley,1,0,0,1
+AlpineJS,0,1,0,1
+Alteryx/KNIME,1,0,0,1
+Amazon ECS,1,0,0,1
+Amazon RDS,1,0,0,1
+Amazon Web Services (AWS) - Intermediate,1,0,0,1
+AZURE CLOUD,0,1,0,1
+Active Directory,0,1,0,1
+ActiveMQ Artemis,1,0,0,1
+Adobe C,0,1,0,1
+Adobe Illustrator,1,0,0,1
+Advanced C,1,0,0,1
+Advanced Python,1,0,0,1
+Agile Testing,0,1,0,1
+AWS Redshift,0,1,0,1
+AWS services,1,0,0,1
+AWS services (EC2,1,0,0,1
+Vue.JS,1,0,0,1
+Vue.js (Nuxt),1,0,0,1
+Vue.js (Nuxt.js),1,0,0,1
+Vue.js (frontend),1,0,0,1
+Vue.js - Basic,1,0,0,1
+ASP,1,0,0,1
+ASP.NET MVC Core,1,0,0,1
+ASP.NET Web API,0,1,0,1
+ASSEMBLY,0,1,0,1
+AVEVEA InTouch/Historian,1,0,0,1
+AVEVEA InTouch/Historian - Basics,1,0,0,1
+AWS CloudFormation,0,1,0,1
+AWS Cloudfront,1,0,0,1
+Vue 3 - Intermediate,1,0,0,1
+API (AWS,0,1,0,1
+API - Advanced,1,0,0,1
+API - Skillful,1,0,0,1
+API Gateway),1,0,0,1
+API TESTING,0,1,0,1
+API Technologies (REST,0,1,0,1
+ARM architecture,0,1,0,1
+Visual Basic for Applications (VBA) - Basics,1,0,0,1
+Visual Basic for Applications (VBA) - Pokročilý,1,0,0,1
+Visual Basic for Applications (VBA) - Základy,1,0,0,1
+Visual basic,0,1,0,1
+Visualforce,1,0,0,1
+Visualforce pages,0,1,0,1
+Vite,1,0,0,1
+Vue - Mierne pokročilý,1,0,0,1
+WordPress - Basic,1,0,0,1
+WordPress - Beginner,1,0,0,1
+XML - Advanced,1,0,0,1
+XML/JSON,0,1,0,1
+XML/JSON/YAML,1,0,0,1
+XML: Beginner,1,0,0,1
+XSD,1,0,0,1
+XUnit,1,0,0,1
+Wicket,1,0,0,1
+Wildfly 32,1,0,0,1
+WinCC,1,0,0,1
+WinCC - Basics,1,0,0,1
+WinUI,1,0,0,1
+Windows PowerShell - Advanced,1,0,0,1
+Windows PowerShell - Basics,1,0,0,1
+Windows Server,0,1,0,1
+WSO2,1,0,0,1
+Web API,1,0,0,1
+Web programming - optional,1,0,0,1
+Web technologies (PHP,1,0,0,1
+WebAPI,1,0,0,1
+WebDriver,1,0,0,1
+WebSocket - Advanced,1,0,0,1
+WebSockety,1,0,0,1
+Vue.js - Intermediate,1,0,0,1
+Vue.js - Pokročilý,1,0,0,1
+Vue.js),0,1,0,1
+Vue.js/React.js/...),1,0,0,1
+VueJS/Angular,1,0,0,1
+WCF,0,1,0,1
+WEBAPI,0,1,0,1
+WPF - Skillful,1,0,0,1
+(Oracle) SQL,1,0,0,1
+ABAP / ABAP OO,1,0,0,1
+ABAP Cloud,1,0,0,1
+…),1,0,0,1
+ABAP WebDynpro,0,0,1,1
+mnt),1,0,0,1
+ABAP-OO,0,1,0,1
+.NET - Expert,1,0,0,1
+programming languages,1,0,0,1
+pytest,1,0,0,1
+root,1,0,0,1
+...) – mírně pokročilý,1,0,0,1
+...),1,0,0,1
+ABAP (výhodou),1,0,0,1
+...,1,0,0,1
+*.BAT),1,0,0,1
+node.js / npm,0,1,0,1
+numpy,1,0,0,1
+.NET Core 6,1,0,0,1
+pandas: Advanced,1,0,0,1
+pgSQL,0,0,1,1
+pgSQL),0,1,0,1
+postgresql,1,0,0,1
+primefaces,1,0,0,1
+and automation,1,0,0,1
+as it's commonly used alongside for Android),1,0,0,1
+asynchronous communication - Advanced,1,0,0,1
+at least one programming language,0,1,0,1
+bash script,0,0,1,1
+monitoring tools - Basics,1,0,0,1
+network elements,1,0,0,1
+noSQL,1,0,0,1
+web (React,1,0,0,1
+web technologies,0,1,0,1
+webové aplikácie,1,0,0,1
+.NET Framework - Advanced,1,0,0,1
+.NET MAUI,1,0,0,1
+.NET core 3.1+,1,0,0,1
+.NET/C# and MS SQL,1,0,0,1
+.NET5+,0,1,0,1
+iOS/Android/multiplatform,1,0,0,1
+ideally also F#),0,1,0,1
+indexes),0,0,1,1
+sanctuary-js,1,0,0,1
+scripting,1,0,0,1
+system architecture,1,0,0,1
+tensor,1,0,0,1
+views,0,0,1,1
+contingency tables,1,0,0,1
+data modeling),0,0,1,1
+dbt,0,0,1,1
+etc.),1,0,0,1
+event design,1,0,0,1
+fluture-js,1,0,0,1
+functions,1,0,0,1
+home,1,0,0,1
+.NET - Základy,1,0,0,1
+.NET 9 (C# 12,0,1,0,1
+.NET Core 3.1,1,0,0,1
+batch files (*.CMD,1,0,0,1
+bin,1,0,0,1
+biznis procesy (Camunda),1,0,0,1
+buildovaním assetov Vite,1,0,0,1
+container technologies (Docker,1,0,0,1

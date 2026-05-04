@@ -119,7 +119,7 @@ while True:
 if found_ids:
     df.loc[~df["job_id"].astype(str).isin(found_ids), ["active", "status"]] = [False, "inactive"]
 else:
-    print("Nincs hirdetést a lapozás során.")
+    print("Nincs hirdetés.")
 
 #CSV mentés
 df.to_csv(csv_path, index=False, encoding="utf-8-sig")

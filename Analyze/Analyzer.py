@@ -352,7 +352,7 @@ locations.to_csv(os.path.join(output_dir, "all_locations.csv"), index=False, enc
 
 
 # Grafikonok
-make_stacked_chart(programming_languages, "Programming Language", "Programozási és leíró nyelvek", "all_programming_languages.png", 20)
+make_stacked_chart(programming_languages, "Programming Language", "Programozási nyelvek", "all_programming_languages.png", 20)
 make_stacked_chart(tools, "Tool / Technology", "Eszközök és technológiák", "all_tools.png", 20)
 make_stacked_chart(language_requirements, "Language", "Elvárt nyelvismeret", "all_human_languages.png", 6)
 make_stacked_chart(experience_levels, "Experience Level", "Munkatapasztalat", "all_experience_levels.png", 4)

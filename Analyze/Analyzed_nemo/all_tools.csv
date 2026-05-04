@@ -1,0 +1,5697 @@
+﻿Tool / Technology,Profesia,Profession,CVOnline,Total
+Git,554,212,22,788
+Jira,465,175,24,664
+Docker,507,117,16,640
+SQL,350,190,14,554
+Kubernetes,392,77,21,490
+Microsoft Excel,381,81,24,486
+AWS,220,205,13,438
+Azure,234,163,21,418
+Microsoft Office,288,75,47,410
+Power BI,241,95,30,366
+Confluence,195,57,17,269
+Terraform,208,40,15,263
+PostgreSQL,172,78,6,256
+Azure DevOps,198,36,15,249
+Linux,130,92,10,232
+Jenkins,172,38,5,215
+GitLab,181,22,6,209
+Grafana,174,23,7,204
+REST API,97,92,5,194
+Microsoft Word,156,17,8,181
+Ansible,148,22,8,178
+SAP,64,99,7,170
+Prometheus,145,14,3,162
+Kafka,113,13,11,137
+UML,106,28,2,136
+Figma,92,35,1,128
+CLOUD,0,122,0,122
+Enterprise Architect,109,5,2,116
+Zabbix,109,2,2,113
+Helm,103,9,1,113
+CI/CD,75,31,7,113
+MS SQL,82,21,10,113
+SECURITY,0,108,0,108
+AGILE,0,107,0,107
+Microsoft Windows,101,0,1,102
+Python,84,13,4,101
+ServiceNow,78,20,2,100
+Spring Boot,79,16,4,99
+PowerShell,78,4,13,95
+Google Cloud,80,12,1,93
+API,8,82,1,91
+GitHub,67,17,5,89
+Postman,67,16,3,86
+Microsoft Outlook,85,0,0,85
+GitHub Actions,65,18,2,85
+DEVOPS,0,84,0,84
+Maven,66,17,0,83
+Laptop,0,80,0,80
+Databricks,67,12,1,80
+Playwright,66,11,3,80
+MySQL,48,26,2,76
+ACCESS,0,74,0,74
+Windows,40,26,8,74
+Oracle,49,20,4,73
+Selenium,55,14,4,73
+VMware,55,3,15,73
+MongoDB,52,17,3,72
+Argo CD,64,2,3,69
+AGILIS,0,69,0,69
+Cypress,52,11,0,63
+SCRUM,6,56,0,62
+Redis,52,7,3,62
+XML,49,11,2,62
+Active Directory,50,0,10,60
+ERP,6,52,1,59
+Bash,45,12,2,59
+SAP S/4HANA,32,16,10,58
+Elasticsearch,56,1,1,58
+TESTING,0,56,0,56
+Windows Server,42,4,9,55
+PyTorch,27,27,0,54
+BPMN,33,21,0,54
+Angular,41,11,1,53
+GitLab CI,48,4,0,52
+Microsoft PowerPoint,50,0,1,51
+Mobiltelefon,0,51,0,51
+CRM,6,40,4,50
+CI/CD pipelines,41,9,0,50
+Tableau,34,13,3,50
+PowerPoint,31,12,7,50
+Agile,2,48,0,50
+React,34,11,3,48
+BI,0,47,0,47
+DOCKER,0,45,0,45
+HTML,26,19,0,45
+FastAPI,41,3,1,45
+Snowflake,29,11,5,45
+Spark,29,10,4,43
+OpenShift,42,1,0,43
+LINUX,0,42,0,42
+LangChain,40,2,0,42
+CONFLUENCE,2,40,0,42
+RabbitMQ,28,10,3,41
+TensorFlow,18,23,0,41
+Spring,26,15,0,41
+MACHINE LEARNING,0,40,0,40
+SAP Analytics Cloud,3,34,3,40
+Nexus,34,6,0,40
+Power Automate,25,8,7,40
+MS Project,31,5,2,38
+GitLab CI/CD,29,6,3,38
+PROJECT MANAGEMENT,0,37,0,37
+Kibana,31,4,2,37
+ANALYTICS,0,37,0,37
+SonarQube,32,5,0,37
+JSON,27,10,0,37
+DevOps,15,21,0,36
+ISO,0,35,0,35
+CSS,20,14,0,34
+Scrum,9,22,3,34
+Salesforce,18,10,6,34
+JavaScript,21,12,0,33
+NETWORK,0,32,0,32
+SharePoint,21,1,9,31
+Splunk,27,1,3,31
+JMeter,16,13,2,31
+HARDWARE,0,31,0,31
+Microservices,28,2,1,31
+Visual Studio,21,8,2,31
+Pandas,18,12,0,30
+Laravel,23,7,0,30
+BACKEND,0,30,0,30
+Cloud,5,24,1,30
+Azure Data Factory,22,4,3,29
+TypeScript,23,6,0,29
+Keycloak,23,5,0,28
+Gradle,26,1,0,27
+DNS,21,6,0,27
+Hyper-V,24,0,3,27
+SQL Server,18,9,0,27
+Camunda,23,3,0,26
+ITIL,4,22,0,26
+ORACLE,4,22,0,26
+S/4HANA,13,4,9,26
+ELK stack,25,1,0,26
+SoapUI,23,2,1,26
+JUnit,14,8,4,26
+SAP ERP,4,10,11,25
+ISTQB,0,25,0,25
+Machine Learning,0,25,0,25
+Palantir Foundry,23,2,0,25
+Cucumber,18,7,0,25
+SIEM,18,6,1,25
+MS Office (Word,24,1,0,25
+Bitbucket,14,6,4,24
+Veeam,20,0,4,24
+Robot Framework,23,1,0,24
+ELK,22,1,1,24
+SAP Datasphere,3,21,0,24
+CI/CD pipeline,23,1,0,24
+SAP ABAP,3,21,0,24
+Dynatrace,18,2,3,23
+R,6,17,0,23
+PYTHON,0,23,0,23
+SAP BW,4,19,0,23
+Office 365,18,3,2,23
+WINDOWS,0,23,0,23
+Cisco,17,0,5,22
+HTML5,13,9,0,22
+Symfony,19,3,0,22
+Webpack,22,0,0,22
+TCP/IP,22,0,0,22
+Airflow,14,8,0,22
+NoSQL,12,9,0,21
+VPN,12,8,1,21
+Apache Kafka,18,1,2,21
+UiPath,15,5,1,21
+Jest,17,4,0,21
+Powershell,16,3,1,20
+PowerPoint),20,0,0,20
+POWERPOINT,0,20,0,20
+GraphQL,15,3,2,20
+Puppet,19,1,0,20
+Maven/Gradle,19,0,1,20
+REST APIs,16,2,2,20
+FRONTEND,0,20,0,20
+Hibernate,14,6,0,20
+ElasticSearch,19,0,0,19
+Outlook),14,1,4,19
+SAP MM,13,2,4,19
+Loki,17,2,0,19
+GitOps,16,3,0,19
+Apache Spark,11,6,2,19
+Oracle Database,17,0,2,19
+OpenAPI,16,3,0,19
+Appium,13,4,2,19
+CHANGE MANAGEMENT,0,19,0,19
+Docker/Kubernetes,16,0,2,18
+Visio,16,2,0,18
+UNIX,3,15,0,18
+SQL databases,16,2,0,18
+BigQuery,13,5,0,18
+LangGraph,18,0,0,18
+Swagger,17,0,1,18
+Elastic,18,0,0,18
+Azure/AWS/GCP,17,0,0,17
+M365,9,4,4,17
+CMS,7,10,0,17
+DEBUGGING,0,17,0,17
+TROUBLESHOOTING,0,17,0,17
+@SAP. CHANGE MANAGEMENT,0,17,0,17
+PySpark,14,1,2,17
+SAP ECC,16,1,0,17
+Clean Code,0,17,0,17
+CloudFormation,13,3,0,16
+ANSIBLE,0,16,0,16
+Testing,2,14,0,16
+Power Apps,8,6,2,16
+Azure Cloud,13,1,2,16
+SAP BTP,2,14,0,16
+Azure AD,12,1,3,16
+MS Windows,8,0,8,16
+Node.js,11,4,1,16
+Azure Databricks,13,2,1,16
+Microsoft Power Platform,9,3,4,16
+Power Query,15,1,0,16
+Monitor (1 db),0,16,0,16
+Proxmox,13,0,3,16
+SAP PP,10,1,5,16
+Android,4,6,6,16
+DYNAMICS,0,15,0,15
+Mockito,12,1,2,15
+SAP S/4 HANA,10,2,3,15
+Outlook,10,1,4,15
+Bootstrap,11,4,0,15
+CI,0,15,0,15
+SVN,3,11,1,15
+CISCO,11,3,1,15
+CLEAN CODE,0,15,0,15
+WordPress,14,1,0,15
+RESTful APIs,14,1,0,15
+MacOS,4,11,0,15
+Linux OS,13,1,1,15
+JENKINS,0,15,0,15
+Teams,12,0,3,15
+SAP HANA,7,0,8,15
+Django,7,7,0,14
+Datadog,5,7,2,14
+Sketch,11,3,0,14
+Microsoft Active Directory,12,0,2,14
+Celery,14,0,0,14
+dbt,6,6,2,14
+Microsoft Excel - Advanced,14,0,0,14
+SAP R/3,8,6,0,14
+Workday,7,5,2,14
+Microsoft Project,12,2,0,14
+Bamboo,11,2,1,14
+AGILE PROJECT MANAGEMENT,0,14,0,14
+ADATTÁRHÁZ,0,14,0,14
+Intune,11,0,3,14
+Harbor,14,0,0,14
+JAVA,0,14,0,14
+Android Studio,14,0,0,14
+DHCP,14,0,0,14
+Tempo,14,0,0,14
+DATABASES,0,14,0,14
+OpenTelemetry,12,1,1,14
+UAT,0,14,0,14
+JAVASCRIPT,0,14,0,14
+AD,9,0,5,14
+React Native,13,1,0,14
+ArchiMate,14,0,0,14
+IntelliJ IDEA,9,4,1,14
+MS Office (Excel,9,2,2,13
+LLamaIndex,13,0,0,13
+Sharepoint,10,2,1,13
+GitHub Copilot,6,7,0,13
+PMP,2,11,0,13
+POWERSHELL,0,13,0,13
+Lambda,10,3,0,13
+MS Visio,10,1,2,13
+SAP Analytics,0,13,0,13
+OpenStack,9,4,0,13
+DATA MANAGEMENT,0,13,0,13
+Junit,13,0,0,13
+KANBAN,1,12,0,13
+Java,9,4,0,13
+AI,12,1,0,13
+SAP Security,0,13,0,13
+SCCM,5,4,4,13
+Miro,6,7,0,13
+SOAP,11,0,2,13
+Access,2,11,0,13
+Qt,4,6,2,12
+Vue.js,9,3,0,12
+Vite,11,1,0,12
+Logstash,12,0,0,12
+Cassandra,11,1,0,12
+Qlik,8,3,1,12
+MLflow,12,0,0,12
+SAP Fiori,8,4,0,12
+SaltStack,12,0,0,12
+Monitor (2 db),0,12,0,12
+Semantic Kernel,12,0,0,12
+MS PROJECT,0,12,0,12
+ANDROID,0,12,0,12
+Jasmine,10,2,0,12
+UNIX/Linux,12,0,0,12
+MS SQL Server,12,0,0,12
+ELK Stack,11,1,0,12
+AI tools,9,2,1,12
+VIRTUALIZATION,0,12,0,12
+MariaDB,10,2,0,12
+Hadoop,12,0,0,12
+REACT,0,12,0,12
+MS Word,11,0,0,11
+EKS,7,4,0,11
+maven,10,1,0,11
+ABAP,6,3,2,11
+SSIS,7,3,1,11
+S3,7,3,1,11
+CloudWatch,3,4,4,11
+SAP CLOUD,0,11,0,11
+O365,8,2,1,11
+SAP CO,4,2,5,11
+VMware vSphere,11,0,0,11
+Flask,9,2,0,11
+TEST AUTOMATION,0,11,0,11
+Okta,10,1,0,11
+Xray,9,2,0,11
+TABLEAU,0,11,0,11
+Redux,10,1,0,11
+DAX,8,3,0,11
+Composer,10,1,0,11
+IAM,10,1,0,11
+TestRail,9,2,0,11
+Vault,8,3,0,11
+SAP TM,1,1,9,11
+MySQL/MariaDB,8,3,0,11
+Slack,9,2,0,11
+APIs,8,1,2,11
+Azure SQL,8,3,0,11
+Azure Monitor,11,0,0,11
+LLMs,8,3,0,11
+SQS,7,2,2,11
+Microsoft Word - Advanced,11,0,0,11
+Google Analytics,10,1,0,11
+Workstation,0,11,0,11
+LlamaIndex,11,0,0,11
+Liquibase,9,1,1,11
+Wireshark,10,1,0,11
+PLC,7,4,0,11
+PyTorch/TensorFlow,10,0,0,10
+PHP,5,5,0,10
+SQL Developer,9,0,1,10
+JPA,9,1,0,10
+Dagster,10,0,0,10
+NETWORK SECURITY,0,10,0,10
+Windows OS,6,0,4,10
+SAP HCM,5,5,0,10
+Nagios,10,0,0,10
+Vitest,8,2,0,10
+Microsoft Fabric,5,3,2,10
+Microsoft Access,10,0,0,10
+Chef,8,2,0,10
+Elastic Stack,7,3,0,10
+SAP EWM,1,1,8,10
+Storm,4,2,4,10
+Tensorflow,10,0,0,10
+OpenAI,7,2,1,10
+jQuery,8,2,0,10
+KVM,10,0,0,10
+Artifactory,4,2,4,10
+IDEA,10,0,0,10
+TestNG,7,1,2,10
+Headset,0,10,0,10
+TIA Portal,7,2,1,10
+IOS,0,10,0,10
+MVC,1,9,0,10
+Argo,9,1,0,10
+Confluence),8,1,1,10
+Microsoft Dynamics 365,0,3,6,9
+Centreon,9,0,0,9
+Adobe XD,7,2,0,9
+PMI,0,9,0,9
+PKI,8,0,1,9
+PHPUnit,7,2,0,9
+Scikit-learn,9,0,0,9
+Power Platform,6,2,1,9
+Microsoft Teams,9,0,0,9
+Longhorn,9,0,0,9
+SAP SD,5,2,2,9
+Web API,7,2,0,9
+Sparx Enterprise Architect,9,0,0,9
+JMETER,2,6,1,9
+PRTG,9,0,0,9
+SignalR,9,0,0,9
+Gherkin,7,2,0,9
+POSTMAN,0,9,0,9
+Google Ads,9,0,0,9
+Fortinet,7,0,2,9
+WPF,5,4,0,9
+BASH,0,9,0,9
+ChatGPT,8,1,0,9
+IIS,8,0,1,9
+Red Hat OpenShift,9,0,0,9
+Filebeat,9,0,0,9
+NoSQL databases,6,3,0,9
+VISIO,0,9,0,9
+Entity Framework,4,4,1,9
+Emblem/Radar/Earnix,9,0,0,9
+REST/SOAP API,7,0,2,9
+Next.js,4,4,1,9
+Tailwind CSS,6,2,1,9
+NumPy,9,0,0,9
+Nginx,9,0,0,9
+RESTful API,6,1,2,9
+DATABASE,0,9,0,9
+MS Agent Framework,9,0,0,9
+MS Azure,9,0,0,9
+RTOS,7,2,0,9
+Kong,9,0,0,9
+Zephyr,6,3,0,9
+Odoo,8,1,0,9
+Photoshop,9,0,0,9
+Karma,8,1,0,9
+OpenAI APIs,9,0,0,9
+Kanban,1,8,0,9
+Excel),9,0,0,9
+Docker/Podman,8,1,0,9
+IntelliJ,6,3,0,9
+n8n,8,1,0,9
+Jenkins),7,1,0,8
+Palo Alto,7,0,1,8
+SELENIUM,0,8,0,8
+SCADA,6,1,1,8
+C,1,7,0,8
+AutoCAD,6,1,1,8
+LDAP,7,1,0,8
+git/gitlab,8,0,0,8
+TensorFlow/PyTorch,8,0,0,8
+OUTLOOK,0,8,0,8
+Xcode,7,0,1,8
+Windows Server Administration,8,0,0,8
+Ignite,8,0,0,8
+MS PowerPoint,8,0,0,8
+Angular CLI,8,0,0,8
+Notion,5,1,2,8
+INCIDENT MANAGEMENT,0,8,0,8
+TSM,8,0,0,8
+Apex,3,0,5,8
+Apache Airflow,8,0,0,8
+ORM,7,1,0,8
+CMake,5,3,0,8
+Microsoft Intune,8,0,0,8
+Active Directory (Windows),8,0,0,8
+SASS/SCSS,8,0,0,8
+QML,7,1,0,8
+Looker,6,2,0,8
+Trello,8,0,0,8
+Operators,8,0,0,8
+containerd,8,0,0,8
+ARM,7,1,0,8
+Azure APIs,8,0,0,8
+scikit-learn,7,1,0,8
+Podman,7,1,0,8
+Windows 11,8,0,0,8
+Administrácia LAN/WAN,8,0,0,8
+MES,7,1,0,8
+Microsoft SharePoint,8,0,0,8
+Grafana stack,8,0,0,8
+SAP WM,2,1,5,8
+pydantic,8,0,0,8
+Exchange,5,0,3,8
+EDR,6,1,1,8
+Adobe Illustrator,7,1,0,8
+Windows 10/11,8,0,0,8
+SQLite,7,1,0,8
+SERVICENOW,0,8,0,8
+AZURE DEVOPS,0,8,0,8
+Azure Functions,6,1,1,8
+Graylog,8,0,0,8
+Spring Security,4,3,1,8
+Wazuh,8,0,0,8
+SAP SuccessFactors,2,3,3,8
+DOORS,0,8,0,8
+BACKUP,0,8,0,8
+Microsoft Entra ID,6,2,0,8
+Azure),6,2,0,8
+Storybook,6,1,1,8
+Bicep,6,1,0,7
+MochaJS,7,0,0,7
+Dataiku,7,0,0,7
+pandas,7,0,0,7
+C++,6,1,0,7
+Looker Studio,6,1,0,7
+Qlik Sense,7,0,0,7
+NETWORK ACCESS,0,7,0,7
+CRM systems,5,1,1,7
+PL/SQL,7,0,0,7
+VBA,6,1,0,7
+Alertmanager,7,0,0,7
+MONGODB,0,7,0,7
+IaC,5,2,0,7
+NPM,7,0,0,7
+Azure cloud services,7,0,0,7
+PyTest,7,0,0,7
+NODE.JS,0,7,0,7
+Vaadin,5,2,0,7
+Fortify,7,0,0,7
+Fortigate,7,0,0,7
+FreeRTOS,6,1,0,7
+SAP ANALYTICS CLOUD,0,7,0,7
+Google Workspace,7,0,0,7
+SWIFT,0,7,0,7
+Word),3,3,1,7
+AWS/GCP/Azure,7,0,0,7
+Adobe Creative Suite,6,1,0,7
+SPSS,2,5,0,7
+.NET,4,1,2,7
+AzureDevOps,7,0,0,7
+SSO,7,0,0,7
+SAP LE,0,0,7,7
+Spring Cloud,6,1,0,7
+Adobe Photoshop,7,0,0,7
+Windows server,7,0,0,7
+SAP FI/CO,6,1,0,7
+NX,7,0,0,7
+Azure Data Lake,5,2,0,7
+LabVIEW,6,0,1,7
+ARM templates,5,2,0,7
+Redmine,6,1,0,7
+Virtualization,5,2,0,7
+DB,7,0,0,7
+MS Office 365,7,0,0,7
+Cloud Native Buildpacks,7,0,0,7
+Typescript,7,0,0,7
+VMWare,5,0,2,7
+Enterprise Studio,7,0,0,7
+Apache Camel,5,2,0,7
+Openshift,7,0,0,7
+Azure (AWS),7,0,0,7
+Desktop PC,0,7,0,7
+JWT,7,0,0,7
+OpenSearch,2,5,0,7
+Office,3,3,1,7
+Tosca,7,0,0,7
+Entra ID,7,0,0,7
+OAuth2,5,2,0,7
+OTEL,7,0,0,7
+FIGMA,6,1,0,7
+OAuth,6,1,0,7
+BitBucket,7,0,0,7
+CosmosDB,7,0,0,7
+CI/CD tools,6,1,0,7
+SPRING,0,7,0,7
+Docker / Podman,7,0,0,7
+SPARK,0,7,0,7
+Jenkins/GitHub Actions,7,0,0,7
+DLP,7,0,0,7
+EA,5,1,1,7
+Internet,7,0,0,7
+Pipelines,7,0,0,7
+GitHub Actions/GitLab CI,7,0,0,7
+DYNAMICS CRM,0,7,0,7
+Microsoft Visio,6,0,1,7
+Angular/React/Vue,6,0,0,6
+Application Insights,6,0,0,6
+TeamCity,5,1,0,6
+NodeJS,4,2,0,6
+Helm charts,6,0,0,6
+OpenShift/Kubernetes,6,0,0,6
+Istio,1,5,0,6
+APACHE,0,6,0,6
+DBT,2,4,0,6
+Hugging Face,6,0,0,6
+EWM,0,0,6,6
+Eclipse,5,1,0,6
+ETL tools,5,1,0,6
+Prefect,4,2,0,6
+ESLint,6,0,0,6
+React Testing Library,4,2,0,6
+MATLAB,2,4,0,6
+MDM,2,0,4,6
+Google Cloud Platform (GCP),3,1,2,6
+SECURITY TESTING,0,6,0,6
+LAN,3,3,0,6
+Google Sheets,3,3,0,6
+Mocha,4,2,0,6
+Sonar,4,2,0,6
+Firebase,5,1,0,6
+ServiceNOW,5,1,0,6
+Turborepo,6,0,0,6
+IBM QRadar,6,0,0,6
+MS Office (Outlook,6,0,0,6
+MS OFFICE WORD,0,6,0,6
+Klient/server administrácia,6,0,0,6
+C#,3,3,0,6
+SCSS,5,1,0,6
+Service Bus,5,1,0,6
+Service Now,4,1,1,6
+nUnit,6,0,0,6
+PowerApps,3,0,3,6
+Blue Prism,6,0,0,6
+SKTime,6,0,0,6
+CI/CD tools (Jenkins,6,0,0,6
+SNMP,6,0,0,6
+MS SQL),6,0,0,6
+AWS or Azure,6,0,0,6
+RTOS (e.g.,6,0,0,6
+ReadyAPI,6,0,0,6
+RPA,4,1,1,6
+Copilot Studio,4,0,2,6
+OneDrive,5,0,1,6
+Jama,4,2,0,6
+ROS (Robot Operating System),6,0,0,6
+logic analyzer),6,0,0,6
+Test Automation,0,6,0,6
+RHEL,5,0,1,6
+Zephyr),6,0,0,6
+Containerization,6,0,0,6
+Zustand,6,0,0,6
+Asana,4,1,1,6
+Tomcat,6,0,0,6
+Cloud architecture,6,0,0,6
+Oracle DB,6,0,0,6
+Ubiquiti,5,0,1,6
+Apache,3,3,0,6
+VMware ESX,6,0,0,6
+SAP Business Technology Platform (BTP),2,4,0,6
+Spring Framework,6,0,0,6
+Groovy,4,2,0,6
+Functions,5,1,0,6
+Network,2,4,0,6
+Nixtla,6,0,0,6
+Azure Integration Services,6,0,0,6
+SAP Cloud ALM,0,6,0,6
+Celonis,5,1,0,6
+Microsoft Dynamics 365 Business Central,6,0,0,6
+NOSQL,0,6,0,6
+debugging tools (oscilloscope,6,0,0,6
+Yocto,5,1,0,6
+AUTOMATIZÁLÁS,0,6,0,6
+ASP.NET,3,3,0,6
+Magento,6,0,0,6
+LangChain/LlamaIndex,6,0,0,6
+Google Tag Manager,6,0,0,6
+Google Analytics 4,6,0,0,6
+Meta Ads,6,0,0,6
+Lightning,1,0,5,6
+BITBUCKET,0,6,0,6
+Electron,4,2,0,6
+MQ,2,3,1,6
+Neo4j,4,2,0,6
+SAP FI,2,2,2,6
+Oracle SQL,4,1,1,6
+Quarkus,4,2,0,6
+Data platforms in Azure,6,0,0,6
+Solr,0,2,4,6
+Alteryx,4,2,0,6
+SAP NETWORK,0,6,0,6
+SOAP/REST,5,0,1,6
+Canva,5,1,0,6
+SQL Server Management Studio,6,0,0,6
+WCF,3,3,0,6
+Delta Lake,4,2,0,6
+WebInspect,6,0,0,6
+Administrácia Windows serverov,6,0,0,6
+Analytics,0,6,0,6
+Windows PowerShell,6,0,0,6
+SAP Signavio,3,3,0,6
+WSO2,6,0,0,6
+Mikrotik,4,0,2,6
+Glue,6,0,0,6
+SNS,3,1,2,6
+AZURE BI,0,6,0,6
+SOAP UI,6,0,0,6
+AWS/GCP,5,0,1,6
+XCode,6,0,0,6
+SQL/NoSQL databases,6,0,0,6
+Palantir,6,0,0,6
+EFK Stack,6,0,0,6
+pytest,5,1,0,6
+.NET Core,6,0,0,6
+Jira Atlassian,6,0,0,6
+Jira Service Management,6,0,0,6
+npm,5,1,0,6
+K6,6,0,0,6
+Jenkins CI,4,1,0,5
+ADOBE CLOUD,0,5,0,5
+Linux (Debian),5,0,0,5
+InteliJ Ultimate Edition,5,0,0,5
+Jupyter Notebook,5,0,0,5
+web services,5,0,0,5
+.NET Framework,4,0,1,5
+CAPE,5,0,0,5
+vCenter,5,0,0,5
+ECS,4,1,0,5
+ERD,5,0,0,5
+ENTERPRISE ARCHITECT,0,5,0,5
+PostgreSQL),4,0,1,5
+.C.,0,5,0,5
+qTest,5,0,0,5
+Linux shell and tools,5,0,0,5
+GitHub actions,5,0,0,5
+GitLab pipelines,5,0,0,5
+SQL (e.g.,5,0,0,5
+GitHub/GitLab,3,2,0,5
+Keboola,5,0,0,5
+Jenkins/GitLab,5,0,0,5
+Key Vault,5,0,0,5
+Spring Boot 3,5,0,0,5
+Spring Boot REST,5,0,0,5
+Camunda framework,5,0,0,5
+SAP TESTING NETWORK,0,5,0,5
+CYPRESS,0,5,0,5
+NATS.IO,5,0,0,5
+VueJS,5,0,0,5
+Veeam Backup & Replication,4,0,1,5
+WSUS,5,0,0,5
+WM,0,0,5,5
+Allure,3,2,0,5
+BACKEND TESTING,0,5,0,5
+Spring MVC,5,0,0,5
+Azure services,5,0,0,5
+HMI,5,0,0,5
+HP ALM,5,0,0,5
+Microservice architecture,5,0,0,5
+Gemini,4,1,0,5
+GDPR,0,5,0,5
+Sklik,5,0,0,5
+SnapLogic,5,0,0,5
+Microsoft Office 365 - Advanced,5,0,0,5
+SAP CPQ,1,3,1,5
+Azure Synapse,3,2,0,5
+Swagger/OpenAPI,3,2,0,5
+FortiManager,5,0,0,5
+GA4,5,0,0,5
+Qt Creator,5,0,0,5
+VS Code,2,3,0,5
+MIDDLEWARE,0,5,0,5
+MLOps nástroje,5,0,0,5
+MS Access,3,1,1,5
+Design Patterns,5,0,0,5
+PLC programming,4,1,0,5
+Prophet,5,0,0,5
+AWS Lambda,4,1,0,5
+gRPC,5,0,0,5
+firewall,5,0,0,5
+Multithreading,5,0,0,5
+certificates,5,0,0,5
+databases,4,1,0,5
+ASP.NET Core,5,0,0,5
+draw.io,4,1,0,5
+JIRA@BR,5,0,0,5
+Microsoft Outlook - Advanced,5,0,0,5
+Backend,0,5,0,5
+SAP APO,0,0,5,5
+Microsoft,3,0,2,5
+Azure Active Directory,5,0,0,5
+Cloud platforms (AWS,5,0,0,5
+Cloud Foundry,5,0,0,5
+DBeaver,5,0,0,5
+RBAC,5,0,0,5
+REGRESSION TESTING,0,5,0,5
+VMware Tanzu Kubernetes,5,0,0,5
+UVM,0,5,0,5
+REST/SOAP,4,1,0,5
+ClickUp,2,2,1,5
+DB2,3,1,1,5
+Apache Tomcat,5,0,0,5
+Apigee,5,0,0,5
+Linux RHEL / RHCOS,5,0,0,5
+Automation Anywhere,3,1,1,5
+T-SQL,4,0,1,5
+TM,0,0,5,5
+Automated Tests,0,5,0,5
+HubSpot,3,1,1,5
+Cloudwatch,4,0,1,5
+FireStore),5,0,0,5
+Microsoft Hyper-V,3,0,2,5
+ServiceNow platform,5,0,0,5
+CLOUD SECURITY,0,5,0,5
+Git/GitHub,5,0,0,5
+ETL,4,1,0,5
+Informatica,3,2,0,5
+Infrastructure as Code,5,0,0,5
+Log Analytics,5,0,0,5
+TikTok,5,0,0,5
+Ranorex,5,0,0,5
+Concourse CI,5,0,0,5
+FIORI,5,0,0,5
+React Navigation,5,0,0,5
+React Query,5,0,0,5
+OpenCV,5,0,0,5
+Zepline,5,0,0,5
+MS-SQL,3,0,2,5
+Zendesk,3,2,0,5
+Enterprise Architect Sparx,5,0,0,5
+Cursor,2,3,0,5
+Atlassian Bamboo,5,0,0,5
+Atlassian,4,1,0,5
+Testrail,5,0,0,5
+Talend,2,3,0,5
+MS Power BI,4,1,0,5
+k6,5,0,0,5
+LE,0,0,5,5
+iOS,3,2,0,5
+ANGULAR,0,5,0,5
+Kotlin,4,1,0,5
+UI5,5,0,0,5
+C4 model,5,0,0,5
+Saltstack,5,0,0,5
+Microsoft PowerApps,5,0,0,5
+Security,0,5,0,5
+SOAR,5,0,0,5
+CLOUD DEVOPS,0,5,0,5
+PowerCLI,2,0,3,5
+Power BI),5,0,0,5
+DevOps tools,5,0,0,5
+PrimeNG,5,0,0,5
+KeyCloak,5,0,0,5
+pgAdmin),5,0,0,5
+Java Microprofile/Spring boot,5,0,0,5
+ticketing system,3,0,1,4
+@SAP. MACHINE LEARNING,0,4,0,4
+Keras,3,1,0,4
+Kafka Streams,4,0,0,4
+Kanoah,4,0,0,4
+Kubernetes),4,0,0,4
+numpy,4,0,0,4
+Kafka Connect,4,0,0,4
+AI/ML,3,1,0,4
+AGILE TESTING,0,4,0,4
+AGILIS SCRUM,0,4,0,4
+message based communication,4,0,0,4
+PostgreSQL (Citus),4,0,0,4
+jUNIT/Mockito,4,0,0,4
+...),4,0,0,4
+ERP systems,2,1,1,4
+Polarion,2,0,2,4
+Docker Compose,3,1,0,4
+DigitalOcean,4,0,0,4
+Docker & Kubernetes,4,0,0,4
+Docker / Kubernetes,3,1,0,4
+WebdriverIO,2,2,0,4
+Windows 10,4,0,0,4
+Prettier,4,0,0,4
+Linux/Unix,2,2,0,4
+Windows Installer,4,0,0,4
+Database,0,4,0,4
+Databases,0,4,0,4
+CD,0,4,0,4
+CD/CI,0,4,0,4
+Burp Suite Pro,0,4,0,4
+Microsoft Visual Studio,4,0,0,4
+Microsoft Windows Scripting,0,0,4,4
+Microsoft Server,0,0,4,4
+Gitlab CI/CD,4,0,0,4
+Illustrator,4,0,0,4
+Impala,4,0,0,4
+MATLAB/Simulink,0,4,0,4
+Debian,2,2,0,4
+Adobe Creative Cloud,3,1,0,4
+Windows Services,4,0,0,4
+Linux environments,4,0,0,4
+Visual Basic for Applications (VBA),4,0,0,4
+Visual Studio Code,2,2,0,4
+VisualStudio,2,0,2,4
+WebSocket,4,0,0,4
+WAN,2,2,0,4
+Web services REST,4,0,0,4
+Agentforce,4,0,0,4
+Project Management,0,4,0,4
+PromQL,4,0,0,4
+Data Cloud,3,1,0,4
+PC,0,3,1,4
+Elementor,3,1,0,4
+MS Dynamics 365,4,0,0,4
+VS Code IDE,4,0,0,4
+Unreal Engine,0,1,3,4
+WORDPRESS,0,4,0,4
+MS 365,3,1,0,4
+MS AD,4,0,0,4
+LAN/WAN Administration,4,0,0,4
+CI/CD tools (GitLab CI,4,0,0,4
+SAP SECURITY,0,4,0,4
+CMDB,4,0,0,4
+Schema Registry,4,0,0,4
+Scikit,4,0,0,4
+SSH,4,0,0,4
+SOFTWARE TESTING,0,4,0,4
+Microsoft Outlook - Základy,4,0,0,4
+Microsoft PowerPoint - Advanced,4,0,0,4
+RAG,4,0,0,4
+RDBMS (PostgreSQL,4,0,0,4
+RDS,4,0,0,4
+Data Factory,3,1,0,4
+Apache Drools,4,0,0,4
+Angular/React,2,2,0,4
+Vertex AI,4,0,0,4
+Visio/Draw.io,4,0,0,4
+Ubuntu,2,0,2,4
+Android SDK,4,0,0,4
+RESTAPI,4,0,0,4
+AppDynamics,4,0,0,4
+Ubuntu Server,4,0,0,4
+Ubuntu),4,0,0,4
+IPS/IDS,4,0,0,4
+IDS/IPS,3,1,0,4
+UC4,4,0,0,4
+VLAN,4,0,0,4
+MySQL/MARIA DB,4,0,0,4
+Site24x7,4,0,0,4
+SparkML,4,0,0,4
+ASP.NET MVC,2,2,0,4
+NFS authorization management,0,0,4,4
+JSF,4,0,0,4
+LSMW,3,1,0,4
+Sonatype Nexus,4,0,0,4
+Siemens TIA Portal,2,2,0,4
+SharePoint Online,3,1,0,4
+Babel,4,0,0,4
+API Gateway,3,1,0,4
+LEAN,0,4,0,4
+UiPath Studio,4,0,0,4
+Thought Machine Vault,4,0,0,4
+Thousand Eyes,4,0,0,4
+Tibco,2,1,1,4
+Open LDAP,4,0,0,4
+OpenAI SDK,4,0,0,4
+Exchange Online,3,0,1,4
+Jaeger,4,0,0,4
+RabbitMQ/Kafka,3,1,0,4
+CrewAI,4,0,0,4
+Authentication,4,0,0,4
+TwinCAT,3,1,0,4
+Atlassian JIRA,1,3,0,4
+Atlassian products (Jira,4,0,0,4
+MS Outlook,4,0,0,4
+F5,3,0,1,4
+Microsoft Dynamics CRM,3,0,1,4
+SAP UI5,4,0,0,4
+SAP Service and Asset Manager,0,4,0,4
+SAP MRP,4,0,0,4
+Cambridge Semantics,4,0,0,4
+Yarn,4,0,0,4
+AWS (EC2,3,1,0,4
+AWS CDK,3,1,0,4
+AWS nebo Azure,4,0,0,4
+MS Teams,4,0,0,4
+CloudGuard AppSec WAF,4,0,0,4
+OAuth2/OpenID Connect,4,0,0,4
+XML/JSON,3,1,0,4
+XSD,3,0,1,4
+XGBoost,4,0,0,4
+AWS Redshift,0,3,1,4
+JEE,4,0,0,4
+Isaac Sim,1,3,0,4
+J2EE,1,3,0,4
+Hibernate ORM/JPA,4,0,0,4
+Hive,4,0,0,4
+Hoppscotch,4,0,0,4
+TRELLO,0,4,0,4
+Fiori,3,1,0,4
+Rest Assured,4,0,0,4
+RestAssured,3,1,0,4
+HTML 5,4,0,0,4
+SAP Asset Performance Management (APM),0,4,0,4
+NoSQL databases (PostgreSQL,4,0,0,4
+Make,3,1,0,4
+Hashicorp Vault,4,0,0,4
+S/4 HANA,0,0,4,4
+Azure Cosmos NoSQL,4,0,0,4
+Azure Data Explorer,4,0,0,4
+Azure Application Insights,4,0,0,4
+Azure Automation,1,2,1,4
+Azure CLI,4,0,0,4
+SAP HANA Cloud,0,4,0,4
+Gatling,1,3,0,4
+GCP/Azure,4,0,0,4
+GIS,4,0,0,4
+NPM/Yarn,4,0,0,4
+NUnit,4,0,0,4
+NLP,4,0,0,4
+Capacitor,4,0,0,4
+SAP S/4HANA Public Cloud,2,2,0,4
+GPO,4,0,0,4
+Microsoft Excel - Základy,4,0,0,4
+Microsoft Office products,3,1,0,4
+NextJS,4,0,0,4
+Flutter,4,0,0,4
+RxJS,4,0,0,4
+SAP CRM,0,3,1,4
+SAP Business Technology Platform,1,3,0,4
+Claude,2,2,0,4
+Claude Code,3,1,0,4
+Newman,4,0,0,4
+Spring or Spring Boot,4,0,0,4
+Azure Event Hub / Kafka,4,0,0,4
+TDD,4,0,0,4
+SAP Data Intelligence,0,4,0,4
+SAP Dynamic Forms,0,4,0,4
+NetBox,4,0,0,4
+Fortinet FortiGate,4,0,0,4
+Freemarker templates,4,0,0,4
+SolarWinds,3,1,0,4
+AzureDevops,4,0,0,4
+SAP Enterprise Asset Management (EAM),0,4,0,4
+Metaphactory,4,0,0,4
+Microsoft Azure Active Directory (AD),0,0,4,4
+Microsoft Azure DevOps,4,0,0,4
+Microsoft Exchange,4,0,0,4
+Pega,4,0,0,4
+middleware,2,0,2,4
+K8s,3,1,0,4
+Ionic,4,0,0,4
+(My)SQL,4,0,0,4
+Power Point,2,0,2,4
+.NET (C#),4,0,0,4
+SQL DATABASES,0,4,0,4
+Bruno,3,0,1,4
+CI/CD processes,4,0,0,4
+CI/CD (GitHub),4,0,0,4
+ABBYY,4,0,0,4
+@SAP. AGILE,0,4,0,4
+EDR/XDR,4,0,0,4
+EF Core,4,0,0,4
+EDI,2,1,1,4
+Postman Enterprise,4,0,0,4
+typescript,3,0,0,3
+EA (Enterprise Architect),3,0,0,3
+EA/UML,3,0,0,3
+Power Automate),0,1,2,3
+Power BI (Cloud & Desktop),3,0,0,3
+ACCESS DATABASES,0,3,0,3
+@SAP,0,3,0,3
+SQL and noSQL databases,3,0,0,3
+CAD,0,2,1,3
+CAN bus,1,2,0,3
+CATS,3,0,0,3
+STM32,3,0,0,3
+STM32CubeIDE,1,2,0,3
+SOAP API,2,1,0,3
+CI/CD setup,3,0,0,3
+CI tools,3,0,0,3
+CI/CD (GitLab),3,0,0,3
+SECURITY.,0,3,0,3
+SERVICE MANAGEMENT,0,3,0,3
+SFTP,3,0,0,3
+CL,3,0,0,3
+CLOUD ANALYTICS,0,3,0,3
+QAD,3,0,0,3
+PP/DS,3,0,0,3
+ETL/ELT tools,3,0,0,3
+MuleSoft,2,0,1,3
+Git/SVN,1,0,2,3
+GitHub / GitLab,3,0,0,3
+Modbus,2,1,0,3
+Mongo,3,0,0,3
+SIP,3,0,0,3
+SIP/SDP,3,0,0,3
+CLOUD API,0,3,0,3
+Middleware,0,2,1,3
+GitLab Runner,3,0,0,3
+SQLAlchemy,3,0,0,3
+CDS views,2,1,0,3
+Microsoft Word - Základy,3,0,0,3
+GitHub Actions/GitLab CI/Azure DevOps,3,0,0,3
+GitHub actions),3,0,0,3
+MsSQL Server,3,0,0,3
+MAVEN,0,3,0,3
+MCPs,0,3,0,3
+Dataproc,1,2,0,3
+Python robot framework,3,0,0,3
+Microsoft Visio / Draw.io,3,0,0,3
+Gitflow,2,1,0,3
+Github Actions,3,0,0,3
+Microsoft365 (Sharepoint,3,0,0,3
+Azure Pricing Calculator,3,0,0,3
+Azure Services,3,0,0,3
+Azure Storage,3,0,0,3
+Streamlit,3,0,0,3
+Azure Migrate,3,0,0,3
+Spring framework,2,0,1,3
+SpringBoot,2,0,1,3
+Springboot,2,1,0,3
+Azure Machine Learning,3,0,0,3
+Studio 5000,3,0,0,3
+SuccessFactors,2,1,0,3
+Azure DevOps (ADO),3,0,0,3
+TCP/IP LAN,3,0,0,3
+Azure functions,3,0,0,3
+Spinnaker,0,1,2,3
+Azure Portal,3,0,0,3
+Nette,3,0,0,3
+Navision,1,2,0,3
+NestJS,1,0,2,3
+NetApp OnCommand,3,0,0,3
+Nmap,3,0,0,3
+SAP Commerce Cloud,1,0,2,3
+Syniti,0,3,0,3
+Synology,1,0,2,3
+Metabase,2,1,0,3
+HDFS,3,0,0,3
+BGP,3,0,0,3
+Solution Order Management in SAP S/4HANA,0,3,0,3
+CheckPoint,3,0,0,3
+SAP PP/DS,3,0,0,3
+CheckMK,3,0,0,3
+Netscaler,3,0,0,3
+Storage,3,0,0,3
+Microservices architecture,3,0,0,3
+Microservices architectures,3,0,0,3
+Azure AI,3,0,0,3
+Azure AKS,3,0,0,3
+Azure ARC,3,0,0,3
+Manage Engine,3,0,0,3
+ManageEngine,0,0,3,3
+SAP S4 HANA,2,1,0,3
+Gardener,1,2,0,3
+GCP or Azure),3,0,0,3
+NVIDIA Omniverse,1,2,0,3
+NOSQL DATABASES,0,3,0,3
+SAP Field Service Management,0,3,0,3
+SAP GRC,3,0,0,3
+Step Functions,3,0,0,3
+Grafana/Prometeus,3,0,0,3
+Microsoft Office products and applications,3,0,0,3
+Sitecore,3,0,0,3
+SmartTrack,0,3,0,3
+Snaplogic,3,0,0,3
+BPMS,3,0,0,3
+BW6,3,0,0,3
+BWCE,3,0,0,3
+Cloud DWH solutions,3,0,0,3
+New Relic,2,1,0,3
+Flux,1,2,0,3
+Networking,3,0,0,3
+Flows,1,0,2,3
+Cloud computing,3,0,0,3
+Cloud technologies,2,1,0,3
+Grid,3,0,0,3
+XDR,3,0,0,3
+AWS cloud services,3,0,0,3
+Zabbix/Prometheus/Grafana,3,0,0,3
+Isaac Lab,1,2,0,3
+SAFe,2,1,0,3
+OData services,2,1,0,3
+batch,2,1,0,3
+agent frameworks,0,3,0,3
+TFS,2,0,1,3
+TIBCO products (BW5,3,0,0,3
+Autogen,3,0,0,3
+Automation testing tools,3,0,0,3
+Syslog,3,0,0,3
+Linux basics,3,0,0,3
+XSLT,3,0,0,3
+XD,2,1,0,3
+OPC UA,1,2,0,3
+ORACLE ADATTÁRHÁZ,0,3,0,3
+Robot framework,3,0,0,3
+Cloudflare,3,0,0,3
+Cloudflare WAF,3,0,0,3
+MS Visual Studio,3,0,0,3
+Maria DB,3,0,0,3
+TOGAF,3,0,0,3
+Matillion,3,0,0,3
+Hardware,0,3,0,3
+Microsoft .NET Framework,3,0,0,3
+Microsoft 365 services,3,0,0,3
+HTTP/REST,3,0,0,3
+Cloud Storage,1,2,0,3
+SAP Ariba,2,1,0,3
+Figma / Adobe XD,3,0,0,3
+Office applications,0,0,3,3
+OSGi,3,0,0,3
+FIREWALL,0,3,0,3
+FOM/FOS),3,0,0,3
+Rancher,3,0,0,3
+Concourse,3,0,0,3
+Confluence Atlassian,3,0,0,3
+MS Purview,3,0,0,3
+SAP IBP,0,0,3,3
+SAP LeanIX,0,3,0,3
+Azure/AWS,3,0,0,3
+Spring Data JPA,3,0,0,3
+Microsoft Dynamics 365 F&O,3,0,0,3
+Microsoft Dynamics 365 Finance & Operations,1,0,2,3
+OIDC,2,1,0,3
+OWASP ASVS,3,0,0,3
+SAP QM,3,0,0,3
+CRM tools,1,2,0,3
+CSS3,3,0,0,3
+CUDA,1,2,0,3
+SAP SuccessFactors Employee Central,3,0,0,3
+SAP TESTING,0,3,0,3
+SAP MM/PP,2,1,0,3
+SAP PM,2,0,1,3
+AWS CloudWatch,2,1,0,3
+cloud (AWS,3,0,0,3
+cloud services,3,0,0,3
+Liferay,3,0,0,3
+LLM frameworks,0,3,0,3
+JFrog,0,2,1,3
+JFrog Xray,3,0,0,3
+SAP ProcessIntegration/ProcesOrchestration (PI/PO),3,0,0,3
+MS OFFICE POWERPOINT,0,3,0,3
+MS Office (Excel - advanced),3,0,0,3
+IBM SOAR,3,0,0,3
+KrakenD,3,0,0,3
+Ktor,2,1,0,3
+eBPF,0,3,0,3
+etcd,3,0,0,3
+evaluation frameworks,0,3,0,3
+Event-driven development,3,0,0,3
+UiPath Assistant,3,0,0,3
+UiPath Insights,3,0,0,3
+UiPath Orchestrator,3,0,0,3
+Tricentis,0,3,0,3
+Tricentis Tosca,3,0,0,3
+UNIX/Linux Administration,3,0,0,3
+UML2,3,0,0,3
+JBoss,3,0,0,3
+Redux Toolkit,1,1,1,3
+RabbitMQ/AMQP,3,0,0,3
+RMAN,0,0,3,3
+ROS2,1,2,0,3
+RPG,2,0,1,3
+Copilot,2,1,0,3
+Cordova,3,0,0,3
+MS Power Automate,3,0,0,3
+Terraform/OpenTofu,3,0,0,3
+Terragrunt,3,0,0,3
+TestFlight,3,0,0,3
+AutoGen,3,0,0,3
+MS Windows Server,3,0,0,3
+JAX,0,3,0,3
+JBehave,3,0,0,3
+ARIS,2,1,0,3
+JUNIT tests,3,0,0,3
+OpenSearch/Elasticsearch,2,1,0,3
+OpenSearch/Kibana,3,0,0,3
+OpenUSD,1,2,0,3
+VISUAL STUDIO,0,3,0,3
+MS Active Directory,3,0,0,3
+IFS Cloud,3,0,0,3
+containers,3,0,0,3
+ASM,0,0,3,3
+ASP.NET Razor,3,0,0,3
+NETWORK SAP®,0,3,0,3
+Spark),3,0,0,3
+ASR,3,0,0,3
+ASSEMBLY,0,3,0,3
+firewalls,1,1,1,3
+Google Play,3,0,0,3
+Microsoft Purview,3,0,0,3
+Microsoft SQL,1,2,0,3
+JQuery,2,1,0,3
+LWC,1,0,2,3
+Lambda),2,1,0,3
+dependency injection,3,0,0,3
+AUTOMATED TESTS,0,3,0,3
+API gateway patterns,3,0,0,3
+git/bitbucket,3,0,0,3
+helm charts,3,0,0,3
+API TESTING,0,3,0,3
+SharePoint),2,1,0,3
+Shell,2,1,0,3
+Shopify,2,1,0,3
+Bash Scripting,3,0,0,3
+Visio),0,3,0,3
+Anaplan,2,1,0,3
+Apache Flink,3,0,0,3
+Apache NiFi,2,1,0,3
+VMware ESXi,3,0,0,3
+Oracle (11g–19c),0,0,3,3
+Oracle APEX,2,1,0,3
+Oracle Data Modeler,3,0,0,3
+Enterprise Manager Cloud Control,0,0,3,3
+Entity Framework Core,2,1,0,3
+Entra,3,0,0,3
+Oracle EM Cloud control,3,0,0,3
+Oracle RAC,0,0,3,3
+Ansible Automation Platform,2,0,1,3
+Ansible/Puppet,3,0,0,3
+VMware vCenter,3,0,0,3
+Apache web server,3,0,0,3
+Cypress or Playwright,3,0,0,3
+Cypress.io,3,0,0,3
+DATABASE ACCESS,0,3,0,3
+REST Assured,3,0,0,3
+REST and JSON,3,0,0,3
+REST-API Development,3,0,0,3
+Entra),3,0,0,3
+IFS,3,0,0,3
+IFS Applications 10,3,0,0,3
+MS Office (PowerPoint,3,0,0,3
+MS Office (especially Excel),3,0,0,3
+UCS Manager,3,0,0,3
+AppService,3,0,0,3
+Unity,3,0,0,3
+Unity Catalog,2,1,0,3
+CLOUD SQL,0,3,0,3
+Git/GitLab,3,0,0,3
+LARAVEL,0,3,0,3
+LibreNMS,3,0,0,3
+BPMN 2.0,0,1,2,3
+Data Management,2,1,0,3
+WMS,2,1,0,3
+Airflow),2,1,0,3
+Business Technology Platform (BTP),3,0,0,3
+SAP SLT,3,0,0,3
+SAP Sales and Distribution (SD),3,0,0,3
+SAP Sales and Service Cloud solutions,0,3,0,3
+SBC & PABX systems,3,0,0,3
+SCA,3,0,0,3
+SASS,1,2,0,3
+SECURITY INCIDENT MANAGEMENT,0,3,0,3
+Big Data technologies (Hadoop,3,0,0,3
+BigPicture,3,0,0,3
+Blazor,2,1,0,3
+ServiceMix,3,0,0,3
+ServiceNow ITSM modules,3,0,0,3
+Sass,2,1,0,3
+Salesforce Sales Cloud,0,1,2,3
+Salt,3,0,0,3
+REST API design and implementation,3,0,0,3
+QRadar,3,0,0,3
+QShell,3,0,0,3
+R DATABASE,0,3,0,3
+RAG pipelines,0,3,0,3
+DEBIAN,0,3,0,3
+Data Guard,0,0,3,3
+Screaming Frog,1,2,0,3
+Veeam Backup and Replication,3,0,0,3
+Visual Basic,1,2,0,3
+Visualforce,0,0,3,3
+Windows Server administration,3,0,0,3
+Linux servers,3,0,0,3
+Industrial networks,3,0,0,3
+Logic Apps,2,1,0,3
+MES-class systems,3,0,0,3
+WAF,3,0,0,3
+WAFs,3,0,0,3
+WCAG,3,0,0,3
+Web IDE,3,0,0,3
+Web browsers,0,1,2,3
+WebDriver,3,0,0,3
+Agile development,2,1,0,3
+Vue,1,2,0,3
+Data Engineering,3,0,0,3
+QT,2,1,0,3
+PC HW/SW Diagnostika,3,0,0,3
+Oracle/PostgreSQL,3,0,0,3
+PLCs (Programmable Logic Controllers),3,0,0,3
+Protobuf,2,0,1,3
+Protractor,3,0,0,3
+Debugging,0,3,0,3
+Akka,3,0,0,3
+MS ACCESS,0,3,0,3
+MLOps tools and CI/CD pipeline for ML projects,3,0,0,3
+Identity & Access Management,1,2,0,3
+MS Exchange,3,0,0,3
+MS OFFICE EXCEL,0,3,0,3
+ISO TESTING,0,3,0,3
+AngularJS,3,0,0,3
+push notifications,3,0,0,3
+Java EE,2,1,0,3
+prompt orchestration,0,3,0,3
+EPLAN,3,0,0,3
+relational database systems (e.g.,3,0,0,3
+third-party libraries and APIs,3,0,0,3
+Jira/Confluence/Mural,3,0,0,3
+SQL - Advanced,3,0,0,3
+Proxmox VE,3,0,0,3
+DevOps Center,2,1,0,3
+jBPM,3,0,0,3
+ELK/Prometheus/Icinga/Jaeger/Grafana,3,0,0,3
+Postman / SoapUI,3,0,0,3
+message brokers – Kafka,3,0,0,3
+ADF,1,2,0,3
+n8n/Flowise,3,0,0,3
+Windsurf,1,2,0,3
+WireMock,3,0,0,3
+Wiremock,3,0,0,3
+WinCC,3,0,0,3
+Prime Designer,3,0,0,3
+Prince2,3,0,0,3
+PowerShell/Bash/Python,3,0,0,3
+Powermock,3,0,0,3
+PLSQL,0,3,0,3
+Perl,0,3,0,3
+ESP,2,1,0,3
+Počítačové siete,3,0,0,3
+Intercom,3,0,0,3
+Linux servers (preferably RHEL),3,0,0,3
+ActiveDirectory,3,0,0,3
+AWS/GCP/Open Telekom Cloud,3,0,0,3
+Load Runner,3,0,0,3
+Pandas/NumPy,3,0,0,3
+Patroni,3,0,0,3
+ADFS,3,0,0,3
+ADLS,1,2,0,3
+microservices,2,1,0,3
+Microsoft Defender,3,0,0,3
+Microsoft Dynamics,0,2,1,3
+vector databases,2,1,0,3
+vmWare,1,0,2,3
+vue.js,3,0,0,3
+webes alkalmazások,0,0,3,3
+Jupyter,2,1,0,3
+shell (bash) scripting in Linux,3,0,0,3
+shell scripts,3,0,0,3
+ABB,1,2,0,3
+Dynamics 365,3,0,0,3
+Profinet,2,1,0,3
+Docker and Containers,3,0,0,3
+.Net 8,3,0,0,3
+webhooks,3,0,0,3
+workflow,3,0,0,3
+xUnit,3,0,0,3
+KNIME,2,1,0,3
+SQL DATABASE,0,3,0,3
+SQL DBA,3,0,0,3
+Selenide,3,0,0,3
+BrowserStack,2,1,0,3
+BuildBreaker,3,0,0,3
+PowerQuery,2,0,1,3
+Draw.io,2,1,0,3
+Drupal,3,0,0,3
+3ds Max,0,0,2,2
+tcpdump,2,0,0,2
+testowanie with Jest and Mocha,2,0,0,2
+transformers,2,0,0,2
+umbrella.js,2,0,0,2
+unknown,2,0,0,2
+v0,1,1,0,2
+@SAP. AGILE PROJECT MANAGEMENT,0,2,0,2
+AAD,2,0,0,2
+scanning vulnerabilities,2,0,0,2
+scipy,2,0,0,2
+sentence-transformers,2,0,0,2
+service mapping,2,0,0,2
+setuptools/poetry/uv,2,0,0,2
+shell scripting,1,1,0,2
+spaCy,2,0,0,2
+swagger,2,0,0,2
+Joomla,2,0,0,2
+Juniper,0,0,2,2
+Jupyter notebooks,2,0,0,2
+version control,2,0,0,2
+webpack,2,0,0,2
+…),2,0,0,2
+monitoring/logging,2,0,0,2
+nginx,2,0,0,2
+node.js,2,0,0,2
+ns-3,0,2,0,2
+low-level communication protocols (I2C,2,0,0,2
+microservice architectures,2,0,0,2
+midPoint,2,0,0,2
+iperf,2,0,0,2
+KUKA robotics,2,0,0,2
+orchestration tools (Dagster,2,0,0,2
+other IDEs,2,0,0,2
+perfquery,2,0,0,2
+AI tools (ChatGPT,2,0,0,2
+AI-assisted prototyping tools,0,2,0,2
+modern data warehouses (BigQuery,2,0,0,2
+monitoring dashboards,2,0,0,2
+Kubernetes (or similar),2,0,0,2
+Kubernetes Clusters,0,2,0,2
+JVM,2,0,0,2
+Jasper,0,2,0,2
+Jasper Reports,2,0,0,2
+Java 17,2,0,0,2
+JavaFX,2,0,0,2
+JavaScript (ES6+),2,0,0,2
+helm,2,0,0,2
+iOS SDK,2,0,0,2
+embeddings,2,0,0,2
+ember.js,2,0,0,2
+event-driven software architecture,2,0,0,2
+external APIs/tools,0,2,0,2
+KiCad,2,0,0,2
+Kubernetes (K8s),2,0,0,2
+PPT,1,1,0,2
+PRINCE 2,2,0,0,2
+PRTG/Zabbix,2,0,0,2
+PIM,2,0,0,2
+Databricks: Intermediate,2,0,0,2
+Dataflow,0,2,0,2
+Dataform,1,1,0,2
+Datenbanken,0,0,2,2
+Primavera,0,2,0,2
+Percipio,2,0,0,2
+ESET,2,0,0,2
+ETL nástroje,2,0,0,2
+Easreserve,0,0,2,2
+EcoStruxure™ Control Expert,2,0,0,2
+EcoSun,2,0,0,2
+PLM systems (such as CIM Database),0,2,0,2
+PuTTY,2,0,0,2
+Pub/Sub,0,2,0,2
+Pulumi,1,1,0,2
+Docker (Compose),0,0,2,2
+Docker - Expert,2,0,0,2
+PowerShell/Bash,2,0,0,2
+Powerpoint,2,0,0,2
+PriceShape,2,0,0,2
+Power Platform (Power Automate,2,0,0,2
+Power Platform (canvas apps,0,1,1,2
+Power Platform Admin Center,0,0,2,2
+PowerDesigner,2,0,0,2
+PowerHA,2,0,0,2
+PowerPivot,0,1,1,2
+PostCSS,2,0,0,2
+Proxyman,2,0,0,2
+Quarkus/Spring/SpringBoot,2,0,0,2
+QueryDSL,0,2,0,2
+DYNAMICS ERP,0,2,0,2
+Dagger2,2,0,0,2
+Data Migration tools,2,0,0,2
+Data Streaming),2,0,0,2
+Data Transformation,2,0,0,2
+DataDog,1,1,0,2
+Oracle),2,0,0,2
+OracleDB,2,0,0,2
+PAM,2,0,0,2
+PANDAS,0,2,0,2
+PCAP,2,0,0,2
+QlikSense),2,0,0,2
+Qt UI framework,2,0,0,2
+Qualys,2,0,0,2
+Eightfold,2,0,0,2
+Einstein 1,0,0,2,2
+Elastic Kibana,2,0,0,2
+Elastic Search,2,0,0,2
+Embedded systems,0,2,0,2
+Oracle Retail modules,0,2,0,2
+Oracle SQL Developer,2,0,0,2
+Oracle Simphony,0,0,2,2
+Dell,0,0,2,2
+Progress OpenEdge,2,0,0,2
+Project management software,0,2,0,2
+Prometheus monitoring tools,2,0,0,2
+Prometheus),2,0,0,2
+Prototyping platforms,2,0,0,2
+PLC programming tools,1,0,1,2
+PLCs,0,1,1,2
+OpenID Connect,1,1,0,2
+OpenJFX,2,0,0,2
+REST or SOAP,2,0,0,2
+REST services,2,0,0,2
+REST/SOAP APIs,1,1,0,2
+RHEL 10,2,0,0,2
+RHEL Satellite,2,0,0,2
+RHEL sat,2,0,0,2
+Oracle Linux),2,0,0,2
+Employee Central,2,0,0,2
+Enonic,2,0,0,2
+EnterpriseDB,0,1,1,2
+Entra - Basic,2,0,0,2
+Entra AD,2,0,0,2
+Entra ID / Active Directory,2,0,0,2
+OpenGL,0,2,0,2
+R SECURITY,0,2,0,2
+RDBMS,1,0,1,2
+RDS),2,0,0,2
+QNAP,0,0,2,2
+Oracle Cloud Infrastructure (OCI),2,0,0,2
+Oracle Data Integrator,2,0,0,2
+Oracle Databases,1,1,0,2
+Oracle ERP,1,1,0,2
+Putty,2,0,0,2
+PyCharm,2,0,0,2
+PyQGIS,2,0,0,2
+PyTorch or TensorFlow,2,0,0,2
+DMS,2,0,0,2
+DNS - Domain Name System,2,0,0,2
+DSC,0,2,0,2
+DYNAMICS CRM CLOUD,0,2,0,2
+Customer service systems,0,0,2,2
+CyberArk,2,0,0,2
+RMM,2,0,0,2
+RPA solutions like Blue Prism,2,0,0,2
+RS-232,2,0,0,2
+RS-485),2,0,0,2
+RabbitMQ/Azure Service Bus,2,0,0,2
+Redux/Zustand,2,0,0,2
+OpenAI Codex SDK,0,1,1,2
+ReactJS,2,0,0,2
+Real Time Operating Systems (RTOS),0,2,0,2
+Copilot),1,1,0,2
+CoreMedia CMS,0,0,2,2
+Couchbase,0,2,0,2
+Coupa,0,2,0,2
+Crossplane,1,1,0,2
+Exadata,2,0,0,2
+Exchange Online),2,0,0,2
+Experience with UI testing for desktop and/or web applications,2,0,0,2
+Experience with development and testing in Windows environments,2,0,0,2
+Experience with test automation using standard interfaces such as REST API,2,0,0,2
+Express,1,1,0,2
+Office365,2,0,0,2
+OpenAI API,2,0,0,2
+RISE with SAP methodology,0,2,0,2
+D3.js,2,0,0,2
+DATABASE TESTING,0,2,0,2
+DB principles,2,0,0,2
+DBT: Intermediate,2,0,0,2
+EtherCAT,0,2,0,2
+Ethernet TCP/IP protocol,2,0,0,2
+Event Hub,2,0,0,2
+OAuth/OIDC,2,0,0,2
+OBIEE,0,2,0,2
+ODI,0,2,0,2
+ODIS,2,0,0,2
+S4/HANA,0,2,0,2
+SAC,1,1,0,2
+CloudStack,2,0,0,2
+Cloudflare),2,0,0,2
+OpenApi/Swagger,0,2,0,2
+FI and CO,0,2,0,2
+FPGA,0,2,0,2
+FSMS - advanced,2,0,0,2
+OSGI based JVM,2,0,0,2
+OSPF,2,0,0,2
+OSS/infrastructure management tools,0,0,2,2
+Office (PowerPoint,0,1,1,2
+Confluent Kafka,0,1,1,2
+Connect,2,0,0,2
+Containers,2,0,0,2
+Radius,2,0,0,2
+Rasa,2,0,0,2
+RavenDB,0,0,2,2
+React Hook Form,0,1,1,2
+React.js,1,1,0,2
+Remote desktop,2,0,0,2
+Remote management tools,0,0,2,2
+Renesas,2,0,0,2
+Commvault,2,0,0,2
+Composable architecture (Sanity,2,0,0,2
+Compose,2,0,0,2
+Conan,2,0,0,2
+Confluence (plus),2,0,0,2
+Node.JS,2,0,0,2
+Nokia Motive,2,0,0,2
+Non-SAP,0,0,2,2
+Non-SAP Systems,0,0,2,2
+SAP ANALYTICS,0,2,0,2
+SAP ASSEMBLY,0,2,0,2
+SAP BACKEND,0,2,0,2
+SAP BI,0,2,0,2
+Fakturácia,2,0,0,2
+Familiarity with version control systems such as Git or SVN,2,0,0,2
+Faro,2,0,0,2
+Fastlane,0,1,1,2
+Fidelio Suite8,0,0,2,2
+Figma/Adobe XD,2,0,0,2
+Final Form,0,1,1,2
+NoSql,2,0,0,2
+Redshift,1,1,0,2
+Redshift Console,0,1,1,2
+Redshift),2,0,0,2
+OMNeT++,0,2,0,2
+ONNX,1,1,0,2
+OOP,2,0,0,2
+OPC-UA,1,1,0,2
+ORACLE SQL,0,2,0,2
+Cloudinary,2,0,0,2
+CodeIgniter,0,2,0,2
+Collibra,2,0,0,2
+Rest Web Services,2,0,0,2
+Rockwell Automation,2,0,0,2
+Routre/Firewall,2,0,0,2
+Red Hat,1,0,1,2
+Red Hat Linux,1,0,1,2
+Forti,0,0,2,2
+NgRx,2,0,0,2
+NinjaOne,1,0,1,2
+SAP HR,2,0,0,2
+Clean Core principles,0,2,0,2
+ClickHouse,2,0,0,2
+Client/server administration,2,0,0,2
+Cloud (AWS,0,2,0,2
+FlaUI,2,0,0,2
+Flink,2,0,0,2
+Flow Designer,0,2,0,2
+Flowmon,2,0,0,2
+Force.com platform,2,0,0,2
+Forcepoint,2,0,0,2
+Formal,0,2,0,2
+Forms,1,1,0,2
+Cloud platform,2,0,0,2
+NotebookLM,0,2,0,2
+Notepad++,2,0,0,2
+Numpy,2,0,0,2
+Nuxt,2,0,0,2
+Nuxt.js,1,1,0,2
+Nástroje pre API Gateway (Kong/Apigee/NGINX),2,0,0,2
+Firewall,2,0,0,2
+SAP BW - advanced,2,0,0,2
+SAP BW/4HANA,2,0,0,2
+SAP Basis,2,0,0,2
+SAP Business AI,0,2,0,2
+Cloud Flows,2,0,0,2
+Cloud Network Analytics,0,2,0,2
+Cloud Spanner,0,2,0,2
+Cloud Storage),0,2,0,2
+Check Point Next Generation Firewall (NGFW),2,0,0,2
+Checkpoint,2,0,0,2
+Cherwell,1,1,0,2
+Chromeleon,0,2,0,2
+Cilium,0,2,0,2
+Cisco ISE,2,0,0,2
+SAP ENTERPRISE ARCHITECT,0,2,0,2
+SAP ERP ECC,2,0,0,2
+NetFlow,2,0,0,2
+Netcool,2,0,0,2
+Netlify,2,0,0,2
+Netty,2,0,0,2
+Network Project Management,0,2,0,2
+SAP PROJECT MANAGEMENT,0,2,0,2
+SAP PS - beginner,2,0,0,2
+Check Point,2,0,0,2
+SAP ACCESS,0,2,0,2
+FortiAnalyzer,2,0,0,2
+FortiGate,2,0,0,2
+Front End Assistant,2,0,0,2
+Frontend,0,2,0,2
+Frontend Testing,0,2,0,2
+Function App,2,0,0,2
+Neo4j graph database,0,1,1,2
+Cloud (unspecified),2,0,0,2
+Cloud Composer,0,2,0,2
+Cloud ELT/ETL,2,0,0,2
+SAP Business One,1,0,1,2
+SAP CLOUD API,0,2,0,2
+SAP CRM - advanced,2,0,0,2
+SAP Cloud Platform Integration (CPI),1,1,0,2
+SAP Data Services,2,0,0,2
+SAP JAVA,0,2,0,2
+SAP MDG-M,2,0,0,2
+SAP Materials Management (MM),2,0,0,2
+SAP MesCat,2,0,0,2
+SAP PM - advanced,2,0,0,2
+SAP Solution Manager,1,1,0,2
+SAP Support Portal,2,0,0,2
+SAP WM - advanced,2,0,0,2
+GTM,2,0,0,2
+SAP S4HANA,2,0,0,2
+Camel,2,0,0,2
+Camunda BPM,2,0,0,2
+Camunda architektúra,2,0,0,2
+Catalyst Center,2,0,0,2
+Ceph,0,2,0,2
+SAP IS-U - beginner,2,0,0,2
+NVIDIA GPU-Accelerated server platform,2,0,0,2
+GCP (BigQuery,0,2,0,2
+GCP),1,1,0,2
+GENIE 2000,2,0,0,2
+GIS - advanced,2,0,0,2
+GIS systems and formats (SHP,2,0,0,2
+GML),2,0,0,2
+GPT,2,0,0,2
+SAP Extended Warehouse Managment,2,0,0,2
+SAP FI - beginner,2,0,0,2
+SAP Gateway,1,1,0,2
+NI LabVIEW,2,0,0,2
+NI TestStand,2,0,0,2
+NLTK,2,0,0,2
+NODEJS,0,2,0,2
+NPS,2,0,0,2
+CLOUD SAP ERP @SAP,0,2,0,2
+CMS software for Digital Signage,2,0,0,2
+COBOL,1,0,1,2
+SAST,2,0,0,2
+SCADE,0,2,0,2
+SCCM / Endpoint Configuration Manager,2,0,0,2
+SD,0,0,2,2
+SAP SECURITY CLOUD,0,2,0,2
+Git (Bitbucket),2,0,0,2
+Git and versioning code,2,0,0,2
+Git flow,2,0,0,2
+Git),2,0,0,2
+Git/Bitbucket,1,1,0,2
+Mobile Phone,0,2,0,2
+SECURITY ACCESS,0,2,0,2
+SECURITY CHANGE MANAGEMENT,0,2,0,2
+MuleSoft Anypoint Platform (Mule ESB),2,0,0,2
+NAS,2,0,0,2
+NATS,1,0,1,2
+NETWORK DATABASES,0,2,0,2
+Gemini CLI,2,0,0,2
+GenAI Hub,0,2,0,2
+GeoJSON,2,0,0,2
+Geutebrück G-Core,0,0,2,2
+SAP Warehouse Management,2,0,0,2
+SAP Warehouse Management (WM),2,0,0,2
+SAP-EWM,0,0,2,2
+CRM API,0,2,0,2
+CSS/SCSS,2,0,0,2
+Calico,0,2,0,2
+SAP Production Planning (PP),2,0,0,2
+SAP Quality Managment,2,0,0,2
+CI/CD pipeline (TeamCity,2,0,0,2
+CI/CD technologies,0,2,0,2
+SNP CrystalBridge®,2,0,0,2
+SOAP based microservices,2,0,0,2
+SOAP/REST Webservices,2,0,0,2
+SOAPUI,1,1,0,2
+SSRS,1,0,1,2
+SVA assertions,0,2,0,2
+Microsoft.NET,2,0,0,2
+Microsoft.net,2,0,0,2
+Microsoft/Office 365,0,0,2,2
+SQL Database,1,0,1,2
+CI/CD (GitHub Actions),2,0,0,2
+CI/CD Pipelines,1,1,0,2
+CI/CD concept,2,0,0,2
+CI/CD nástroje,2,0,0,2
+Modulario,2,0,0,2
+Monday,1,0,1,2
+Mongo DB,2,0,0,2
+MongoDB/CosmosDB,2,0,0,2
+Git/Github,2,0,0,2
+Git/Gitlab,2,0,0,2
+GitHub Actions/GitLab CI/CD,2,0,0,2
+GitHub/GitHub Actions,2,0,0,2
+SPFx,2,0,0,2
+SPI,2,0,0,2
+CLICKUP,2,0,0,2
+CLOUD ACCESS SECURITY,0,2,0,2
+SELinux,2,0,0,2
+SIMATIC S7-1200/1500,0,2,0,2
+SIMATIC STEP 7,2,0,0,2
+SDL Trados,2,0,0,2
+Salesforce Health Cloud,1,1,0,2
+Salesforce Lightning Cloud,2,0,0,2
+Salto ProAccess Space,0,0,2,2
+Satellite,0,0,2,2
+Scala,2,0,0,2
+Server console applications,0,0,2,2
+Service-Now,2,0,0,2
+Bitbucket Pipelines,2,0,0,2
+Microsoft Windows Server,2,0,0,2
+Browser DevTools,2,0,0,2
+Business Intelligence tools,2,0,0,2
+C#/.NET,2,0,0,2
+SalesForce,2,0,0,2
+Salesforce CRM,0,0,2,2
+Salesforce Commerce Cloud,0,2,0,2
+Salesforce DX,0,2,0,2
+MobiControl,2,0,0,2
+GitLab),1,1,0,2
+Gite,2,0,0,2
+GitlabCI,0,1,1,2
+Glide,0,2,0,2
+Go/Python/Bash scripting languages,2,0,0,2
+Microsoft Visio/Draw.io,2,0,0,2
+Microsoft Windows 11,2,0,0,2
+SYMFONY,0,2,0,2
+SageMaker,1,1,0,2
+SailPoint Identity Security Cloud,0,2,0,2
+CA,2,0,0,2
+CDK,2,0,0,2
+SRI - incident management system - beginner,2,0,0,2
+SQL (PostgreSQL,2,0,0,2
+MikroTik,2,0,0,2
+Bazel,1,1,0,2
+Beats,1,1,0,2
+Sharepoint Online,2,0,0,2
+Sharepoint),2,0,0,2
+Shodan,2,0,0,2
+Shoprenter,0,1,1,2
+Siemens Step7,0,1,1,2
+Selenium),2,0,0,2
+Google GSuite,2,0,0,2
+Google Search Console,0,2,0,2
+Microsoft Installer (MSI),2,0,0,2
+Microsoft Intune - Basic,2,0,0,2
+Microsoft Office (Excel,2,0,0,2
+Backtesting libraries,2,0,0,2
+Balsamiq,1,0,1,2
+Bash/PowerShell,2,0,0,2
+Scylla,2,0,0,2
+Seaborn,2,0,0,2
+Security Weaver,2,0,0,2
+Microsoft Power Bi - Advanced,2,0,0,2
+Microsoft Power Platforms (Power Apps,2,0,0,2
+Microsoft SCCM,2,0,0,2
+Google Cloud),2,0,0,2
+Google Docs,2,0,0,2
+Bizzdesign Enterprise Studio,2,0,0,2
+Blender,0,0,2,2
+Bloomreach,2,0,0,2
+Bloomreach (Exponea),2,0,0,2
+Bloomreach Engagement,2,0,0,2
+Scribe,1,1,0,2
+Scripting,0,2,0,2
+Scrum methodology,2,0,0,2
+HANA,2,0,0,2
+HANA DB,1,1,0,2
+Microsoft Dynamics 365 Business Central APIs,0,1,1,2
+Microsoft Excel - Skillful,2,0,0,2
+Spock,2,0,0,2
+Spotfire,0,0,2,2
+Spring Integration,2,0,0,2
+B&R Automation Studio,2,0,0,2
+Microsoft Office - Advanced,2,0,0,2
+Microsoft Office 365 - Basic,2,0,0,2
+Microsoft Office 365 - Intermediate,2,0,0,2
+Microsoft Office tools,2,0,0,2
+Microsoft Office365,2,0,0,2
+Graphite,2,0,0,2
+Greenhouse,0,2,0,2
+Gulp,2,0,0,2
+BMC,2,0,0,2
+BRMS,2,0,0,2
+BSM,2,0,0,2
+Simple Object Access Protocol (SOAP),2,0,0,2
+Sistrix,0,2,0,2
+Slurm,1,1,0,2
+Microsoft Office (Outlook,2,0,0,2
+Microsoft Office (Word,1,1,0,2
+Sentinel,2,0,0,2
+SentinelOne,1,0,1,2
+Sentry,2,0,0,2
+Solution manager (plus),2,0,0,2
+SonarCloud,0,2,0,2
+SonarQube / SonarLint,0,2,0,2
+Sonatype Lifecycle,2,0,0,2
+BI tools,2,0,0,2
+Azure Policy,2,0,0,2
+Azure SQL Managed Instances,2,0,0,2
+Azure Synapse Analytics,1,0,1,2
+Azure monitors,2,0,0,2
+Spectrum,2,0,0,2
+TERRAFORM,0,2,0,2
+TEST MANAGEMENT,0,2,0,2
+TESTING DATABASES,0,2,0,2
+Microservice,0,2,0,2
+Microservices Architecture,1,1,0,2
+Spring boot,2,0,0,2
+StockM,2,0,0,2
+Storage Account,2,0,0,2
+Storage Accounts,2,0,0,2
+Azure NetApp Files,2,0,0,2
+Azure OpenAI),2,0,0,2
+Microsoft Azure (App Service,2,0,0,2
+Microsoft Azure - Basic,2,0,0,2
+Microsoft Azure/Databricks,2,0,0,2
+Microsoft Azure: Intermediate,2,0,0,2
+Microsoft Copilot,1,1,0,2
+Microsoft Copilot Studio,2,0,0,2
+MicroStation,2,0,0,2
+MicroStrategy,2,0,0,2
+BACKEND TESTING SECURITY,0,2,0,2
+BACKUP SECURITY TESTING ISO NETWORK CLOUD DEVOPS INCIDENT MANAGEMENT,0,2,0,2
+BEM,2,0,0,2
+Software Defined Networking (SDN),2,0,0,2
+SolidWorks,1,0,1,2
+HARDWARE TESTING,0,2,0,2
+Microsoft Active Directory - Advanced,2,0,0,2
+Microsoft Active Directory - Basic,2,0,0,2
+Azure App Insights,2,0,0,2
+Azure App Services,0,1,1,2
+Azure Cloud Services,2,0,0,2
+Azure Cloud services,2,0,0,2
+Azure Data Lake (Delta Lake),2,0,0,2
+Azure Data Lake Storage,2,0,0,2
+Azure Datalake,2,0,0,2
+System Verilog HDLs,0,2,0,2
+Maven/Ant,2,0,0,2
+Maya,0,0,2,2
+Mendix,1,1,0,2
+Mac OS,2,0,0,2
+TailWindCSS,0,2,0,2
+Azure AI Foundry,2,0,0,2
+Azure API Management,0,1,1,2
+Azure ARM Templates,2,0,0,2
+Supervisory control and data acquisition (SCADA),2,0,0,2
+Synapse,2,0,0,2
+Microsoft 365 (SharePoint,2,0,0,2
+Hadoop/Hbase,2,0,0,2
+Hardware Testing,0,2,0,2
+HashiCorp Vault,2,0,0,2
+Hashicorp stack,2,0,0,2
+Material UI (MUI),2,0,0,2
+Azure DevOps Server,2,0,0,2
+Azure DevOps or Jira,2,0,0,2
+Azure DevOps),2,0,0,2
+Azure DevOps/GitHub Actions,2,0,0,2
+Azure Event Grid,1,1,0,2
+Azure Kubernetes Services,2,0,0,2
+Substance Painter/Designer,0,0,2,2
+Subversion,0,2,0,2
+MS Word - expert,2,0,0,2
+MS windows server,2,0,0,2
+MSAL,0,1,1,2
+MSTest,2,0,0,2
+Atlassian Confluence,2,0,0,2
+Atlassian Jira,2,0,0,2
+Atlassian products,0,0,2,2
+Atlassian termékek,0,2,0,2
+Manufacturing execution systems (MES),2,0,0,2
+Mapp (Webtrekk),2,0,0,2
+Hibernate/JPA,2,0,0,2
+Hotjar,2,0,0,2
+Hubspot Service Desk,2,0,0,2
+Hyper V,2,0,0,2
+MS Team Foundation Server,2,0,0,2
+MS Windows 10/11,2,0,0,2
+Temporal,2,0,0,2
+Avaloq,0,1,1,2
+Avigilon,2,0,0,2
+Azure AD / Entra ID,2,0,0,2
+TYPO3,2,0,0,2
+Tableau/Power BI/Qlik,2,0,0,2
+Tag Management,2,0,0,2
+Mantis,1,1,0,2
+System center operations manager (SCCM),2,0,0,2
+SystemVerilog,0,2,0,2
+Taskweave,2,0,0,2
+Tcl,0,2,0,2
+Tealium IQ / EventStream,2,0,0,2
+TeamViewer,2,0,0,2
+Teamcenter,1,0,1,2
+Teams),2,0,0,2
+ArchiCAD,2,0,0,2
+ArgoCD),2,0,0,2
+Aternity,2,0,0,2
+Tiger Lab,0,2,0,2
+Tools for resource management,2,0,0,2
+Torch,2,0,0,2
+Trellix,2,0,0,2
+Unit Testing,2,0,0,2
+IBM DB2,2,0,0,2
+IBM Db2 for i,2,0,0,2
+IBP,0,0,2,2
+MS Office (Excel),2,0,0,2
+UI Patch or Automation Anywhere,2,0,0,2
+UL Stages,0,2,0,2
+UML and Design patterns,2,0,0,2
+ArcSight,2,0,0,2
+MS Powerpoint,2,0,0,2
+MS Powerpoint - expert,2,0,0,2
+MS Project - expert,2,0,0,2
+MS Report Builder,2,0,0,2
+MS Report server,2,0,0,2
+IAM / Keycloak,2,0,0,2
+IBM Cloud Pak for Integration,2,0,0,2
+IBM Cognos Analytics,2,0,0,2
+Autodesk Maya,0,2,0,2
+Tenable,2,0,0,2
+TensorFlow/Keras/PyTorch/MLFlow,2,0,0,2
+Terraform/CDK/CloudFormation,0,2,0,2
+Testcontainers,2,0,0,2
+TanStack Query,0,1,1,2
+TanStack Table,0,1,1,2
+MS Outlook - expert,2,0,0,2
+MS Copilot Studio,1,1,0,2
+VC,0,0,2,2
+VCS,2,0,0,2
+VHDL or Verilog/SystemVerilog,0,2,0,2
+VMWARE,0,2,0,2
+VMware / vSphere,2,0,0,2
+Ansible/Salt-stack/Terraform/Helm automation tools,2,0,0,2
+Ansible/Terraform/Puppet,2,0,0,2
+MS Office tools (Excel,2,0,0,2
+MS Office+Teams,2,0,0,2
+IFS Cloud or earlier versions of IFS Applications,2,0,0,2
+IFS ERP,2,0,0,2
+MS Access - expert,2,0,0,2
+MS Access/SQL,2,0,0,2
+MS Azure Cloud technologies,2,0,0,2
+MS Copilot,1,1,0,2
+UI Automation,0,1,1,2
+MS Office (PowerPoint and Excel),2,0,0,2
+MS Office (advanced Excel),2,0,0,2
+MS Office - Excel (basics),2,0,0,2
+MS Office - Outlook (advanced),2,0,0,2
+MS Office - Word (advanced),2,0,0,2
+MS Office Excel,2,0,0,2
+MS Office applications (Excel,0,0,2,2
+Unit tests,1,1,0,2
+Unity 3D,2,0,0,2
+Unix & Linux,2,0,0,2
+AppStore,2,0,0,2
+AquaSec,2,0,0,2
+Tyk.IO,0,0,2,2
+UAT TESTING,0,2,0,2
+UC4 / Automic,2,0,0,2
+Airflow/Prefect,2,0,0,2
+Alembic,2,0,0,2
+Amazon EC2,2,0,0,2
+Amazon RDS,2,0,0,2
+Amazon SageMaker,2,0,0,2
+Amazon Web Services (AWS): Intermediate,2,0,0,2
+Amplitude,1,1,0,2
+Verilog,0,2,0,2
+MLFlow,1,1,0,2
+MLflow Spark,2,0,0,2
+MLflow/Kubeflow,2,0,0,2
+MM,0,0,2,2
+MPLS,2,0,0,2
+Lucom Interaction Platform,2,0,0,2
+M-Files,0,1,1,2
+Airflow/Cloud Composer,0,2,0,2
+VMware vSphere/ESX,2,0,0,2
+VTK,1,1,0,2
+VUE,0,2,0,2
+MS Dynamics 365 CRM,0,0,2,2
+MS Excel (advanced),2,0,0,2
+MS Excel - expert,2,0,0,2
+Icinga,2,0,0,2
+MIDAS,2,0,0,2
+Antivirus,2,0,0,2
+Apache Airflow: Intermediate,2,0,0,2
+Apache Arrow,0,2,0,2
+Apache Azure,0,2,0,2
+Ubuntu Linux,0,2,0,2
+Virtualizácia,2,0,0,2
+VirusTotal,2,0,0,2
+Angular/Polymer/React,2,0,0,2
+Windows desktop,2,0,0,2
+Windows environments,1,0,1,2
+Adobe AEM,2,0,0,2
+Adobe Analytics,2,0,0,2
+Adobe Premiere Pro,2,0,0,2
+Adobe RoboHelp,2,0,0,2
+WebSockets,1,1,0,2
+Webpack/NX,2,0,0,2
+Ignition SCADA,0,2,0,2
+Influx,2,0,0,2
+Insight,2,0,0,2
+Lobster,0,0,2,2
+Linux server administration,1,1,0,2
+Windows Server 2019-2025,2,0,0,2
+Windows XP,2,0,0,2
+Windows client and server systems,2,0,0,2
+Web Page Administration,2,0,0,2
+Web services,1,1,0,2
+WAI-ARIA,2,0,0,2
+MACOS,0,2,0,2
+MDT,2,0,0,2
+MES/ERP-Systeme,0,0,2,2
+MFA,2,0,0,2
+MFA - Basic,2,0,0,2
+Agent Frameworks: Claude Agent SDK,0,1,1,2
+Agentic Coding,2,0,0,2
+Agile CI/CD,0,2,0,2
+Agile Development,2,0,0,2
+Agile Scrum,2,0,0,2
+Agile Testing,0,2,0,2
+Agile methodologies,2,0,0,2
+Agile/Scrum,1,1,0,2
+Lint,2,0,0,2
+Linux (Debian/CentOS),2,0,0,2
+Linux (Ubuntu,2,0,0,2
+Linux (command line),2,0,0,2
+Zapier/Make,1,1,0,2
+Zscaler,2,0,0,2
+AWS RDS,1,1,0,2
+AWS cloud technologies (e.g.,2,0,0,2
+IntegrationHub,0,2,0,2
+IntelliJ IDE,1,1,0,2
+Intellij,2,0,0,2
+Internal project management systems,2,0,0,2
+Internet browsers,2,0,0,2
+Internálny systémy,2,0,0,2
+Intune),2,0,0,2
+IoT Management tools,2,0,0,2
+Acronis,2,0,0,2
+Across Translation Memory,2,0,0,2
+Active Directory / Azure AD (now Entra ID),2,0,0,2
+ActiveMQ,2,0,0,2
+Windows Desktop PC,0,2,0,2
+Linux servers (particularly RHEL),2,0,0,2
+Linux/UNIX administration,2,0,0,2
+LiveNX,2,0,0,2
+Websocket,2,0,0,2
+Windows server administration,2,0,0,2
+WordPress CMS,1,1,0,2
+Wordpress,1,1,0,2
+Workday Orchestrate,2,0,0,2
+Workday Studio,2,0,0,2
+AZURE CLOUD,0,2,0,2
+AZURE Cloud/or AWS,2,0,0,2
+containerization technologies,2,0,0,2
+AWS (Lambda,1,0,1,2
+AWS Bedrock,0,1,1,2
+AWS CodePipeline,0,2,0,2
+Zyxel,2,0,0,2
+agile software development methodology,2,0,0,2
+ansible,2,0,0,2
+atomic design,0,1,1,2
+Liferay platform,2,0,0,2
+LLM API-k: Claude,0,1,1,2
+LLM models,2,0,0,2
+cloud data solutions (GCP,2,0,0,2
+cloud platforms (Azure,1,1,0,2
+cloud technologies,0,2,0,2
+command line,2,0,0,2
+container platforms,2,0,0,2
+XRAY,1,1,0,2
+Linux RHEL/RHCOS,2,0,0,2
+Linux Red Hat OpenShift (Docker,2,0,0,2
+JBoss (Wildfly),2,0,0,2
+JBoss EAP,2,0,0,2
+JEST,2,0,0,2
+Laravel (PHP),0,2,0,2
+Lifecycle Services,0,0,2,2
+AWS components and services,2,0,0,2
+AWS infrastructure and services,2,0,0,2
+AWS/Azure cloud services,0,0,2,2
+AWS/Azure/GCP,2,0,0,2
+XLS,2,0,0,2
+XML (XSLT,2,0,0,2
+XML binding,2,0,0,2
+XPath),2,0,0,2
+jenkins,2,0,0,2
+jscript/vbscript,2,0,0,2
+json,2,0,0,2
+k8s,1,1,0,2
+log management,2,0,0,2
+API REST,0,2,0,2
+API Testing,0,2,0,2
+gradle,1,1,0,2
+LambdaTest,2,0,0,2
+LAN/WAN administration,2,0,0,2
+LB),2,0,0,2
+LEAN AGILE,0,2,0,2
+LGTM stack,2,0,0,2
+LIMS,0,1,1,2
+Keystore,2,0,0,2
+jUnit/Mockito,2,0,0,2
+AVEVEA InTouch/Historian,2,0,0,2
+containers/K8s,2,0,0,2
+data visualization tools,2,0,0,2
+databases (SQL),2,0,0,2
+databases and data models,2,0,0,2
+distributed tracing,2,0,0,2
+docker,1,1,0,2
+Ladder language,0,2,0,2
+automation tools,2,0,0,2
+avocode,2,0,0,2
+bash,1,0,1,2
+ZABBIX,2,0,0,2
+ZBrush,0,0,2,2
+Zabbisx,2,0,0,2
+ARCGIS,0,2,0,2
+ASP.NET Core Web API,0,1,1,2
+Jira SD,2,0,0,2
+Jira Service desk,2,0,0,2
+Jira and Confluence,2,0,0,2
+Jira/GLPI/ServiceNow/ServiceDesk,2,0,0,2
+10,2,0,0,2
+11,2,0,0,2
+3D CAD/BIM software,0,0,2,2
+(Py)Spark,2,0,0,2
+Kendo UI,2,0,0,2
+Kerberos,2,0,0,2
+Jenkins/GitLab CI,2,0,0,2
+Jenkins/Jira/Confluence,2,0,0,2
+Jest testing library,2,0,0,2
+Jest/React Testing Library/Cypress/Playwright,2,0,0,2
+Jetty,2,0,0,2
+Jira / Confluence,2,0,0,2
+requests,2,0,0,2
+nuxt,2,0,0,2
+nvidia-smi,2,0,0,2
+oVirt,2,0,0,2
+observability (metrics/traces/logs),2,0,0,2
+Kafka/EventHub,2,0,0,2
+Karat,2,0,0,2
+Karate,2,0,0,2
+syslog/ELK,2,0,0,2
+ACTIVE DIRECTORY,0,2,0,2
+AGILE SOFTWARE TESTING,0,2,0,2
+AI Agents,1,1,0,2
+AI adoption,0,2,0,2
+AI agents,2,0,0,2
+pydantic-ai,0,1,1,2
+relational SQL DB/MongoDB,2,0,0,2
+Docker/Kubernetes/OpenShift/Quarkus/Hibernate,0,2,0,2
+Domain Driven Design (DDD),2,0,0,2
+Domino,2,0,0,2
+Drupal CMS,2,0,0,2
+Dynamic 365,2,0,0,2
+Dynamics 365 CRM,2,0,0,2
+DynamoDB,1,1,0,2
+DynamoDB),1,1,0,2
+Playwright or Cypress or MochaJS,2,0,0,2
+ELK/EFK,2,0,0,2
+ERP @SAP.,0,2,0,2
+ERP BACKEND,0,2,0,2
+ESB,2,0,0,2
+Palo Alto Networks,2,0,0,2
+Palo Alto firewalls,2,0,0,2
+Docker containers,2,0,0,2
+EDR tools,2,0,0,2
+EJB 3.0,2,0,0,2
+PhpStorm,2,0,0,2
+Pingdom,2,0,0,2
+Pinia,2,0,0,2
+PixiJS,2,0,0,2
+Planner,0,2,0,2
+Planview,2,0,0,2
++ cloudové systémy,2,0,0,2
+.HTML.,0,2,0,2
+PostMan,2,0,0,2
+PostgreSQL/MySQL,2,0,0,2
+PostgreSQL/Oracle DB,2,0,0,2
+Postman/SoapUI,2,0,0,2
+Power Apps),2,0,0,2
+EC2,1,0,1,2
+thingsboard,1,0,0,1
+1Password Vault,0,0,1,1
+2D/3D CAD,1,0,0,1
+2N cloud,1,0,0,1
+365,1,0,0,1
+3CX,1,0,0,1
+3DSMax/Maya,1,0,0,1
+.Net Blazor,0,0,1,1
+.Net Core 6+ (WebApi REST,0,1,0,1
+.Net Framework 4.8 (MVC,0,1,0,1
+.net,0,1,0,1
+1C,1,0,0,1
+.NET Core or later,1,0,0,1
+.NET framework,1,0,0,1
+.NET framework or .NET Core,1,0,0,1
+-SQL,0,1,0,1
+.CHANGE MANAGEMENT,0,1,0,1
+.HTML,0,1,0,1
+wireless),1,0,0,1
+word),1,0,0,1
+workflow systems,1,0,0,1
+www),1,0,0,1
+zabbix,1,0,0,1
+vulnerability scanners,1,0,0,1
+webflux,1,0,0,1
+webservices,1,0,0,1
+websockets,0,1,0,1
+virtualization,1,0,0,1
+ACCESS DATA MANAGEMENT,0,1,0,1
+ACCESS DEBUGGING,0,1,0,1
+ACCESS TESTING,0,1,0,1
+ABAS ERP,0,1,0,1
+ABB or Kuka),0,1,0,1
+ABB robotics,1,0,0,1
+ABBYY Vantage,1,0,0,1
+ABBYY),1,0,0,1
+sanctuary-js,1,0,0,1
+scanners for vulnerabilities,1,0,0,1
+screen capturing and recording software,1,0,0,1
+segmentation,1,0,0,1
+self-declaration metrics,1,0,0,1
+ABRA Software,1,0,0,1
+ACCESS API,0,1,0,1
+ACCESS CHANGE MANAGEMENT,0,1,0,1
+source code control,1,0,0,1
+spring boot,0,1,0,1
+sqlx,0,1,0,1
+streaming telemetry,1,0,0,1
+serde,0,1,0,1
+serverless architectures,1,0,0,1
+services,1,0,0,1
+shadcn/ui,1,0,0,1
+ADATTÁRHÁZ AZURE,0,1,0,1
+streamlit,1,0,0,1
+studio equipment,0,0,1,1
+switching L2 and L3,1,0,0,1
+syslog,1,0,0,1
+tailwind),0,1,0,1
+tape backup,1,0,0,1
+simple automation technologies,1,0,0,1
+Kaldi,0,1,0,1
+KUBERNETES,0,1,0,1
+KUKA,0,1,0,1
+Kafka/Artemis MQ,1,0,0,1
+Jedox,0,1,0,1
+Jenkins / GitLab,1,0,0,1
+Jenkins / GitLab - Advanced,1,0,0,1
+Jenkins CI/CD,1,0,0,1
+Keycloak/Entra ID,1,0,0,1
+Keycloak/RH SSO,1,0,0,1
+Keyence,0,1,0,1
+Katalon,0,0,1,1
+Kedro,0,1,0,1
+Kerio,1,0,0,1
+Kafka/Eventstream,1,0,0,1
+Kafka/MongoDB/Elasticsearch,1,0,0,1
+Jest or Webpack,1,0,0,1
+Jest),1,0,0,1
+Jenkins or Bamboo,0,1,0,1
+Jenkins/Azure,1,0,0,1
+Jenkins/GitHub Actions/GitLab CI,1,0,0,1
+Jenkins/GitLab CI/CD,1,0,0,1
+KeyDB,1,0,0,1
+Keycloak / RHSSO / RHBK,1,0,0,1
+Jest/Mocha/Cypress,1,0,0,1
+JetBrains Exposed,0,1,0,1
+JetBrains IDEs,1,0,0,1
+Jetpack,0,1,0,1
+Jetpack Compose,1,0,0,1
+Jenkins/GitLab/Azure DevOps,1,0,0,1
+Jenkins/Gitlab CI,1,0,0,1
+Jenkins/Travis/Bamboo/CircleCI,0,0,1,1
+Koin,1,0,0,1
+Konfigurácia siete,1,0,0,1
+Kibana),1,0,0,1
+Kilosort,0,1,0,1
+Kimball,1,0,0,1
+Kinesis,1,0,0,1
+KingswaySoft,0,1,0,1
+LEAN CHANGE MANAGEMENT,0,1,0,1
+Kubernetes/EKS/AKS,1,0,0,1
+Kubernetes (AKS),1,0,0,1
+Kubernetes (EKS),1,0,0,1
+Kubernetes (Rancher/OpenShift),1,0,0,1
+Kite/Vidra,1,0,0,1
+Kiwi,1,0,0,1
+Kling,1,0,0,1
+Knex.js,0,1,0,1
+JUnit with Mockito,1,0,0,1
+JUnit/TestNG,1,0,0,1
+Jablotron,1,0,0,1
+Jakarta EE/Spring,1,0,0,1
+Kubernetes - Advanced (CKA,1,0,0,1
+Kubernetes / OpenShift,1,0,0,1
+Kubernetes Clusters (AKS),1,0,0,1
+Kubernetes/Docker,1,0,0,1
+Java Spring Boot,1,0,0,1
+Java Spring Framework,1,0,0,1
+Java – výhodou,1,0,0,1
+Java-based automation frameworks,1,0,0,1
+Java/J2EE,1,0,0,1
+Java/JUnit,1,0,0,1
+Jamf,1,0,0,1
+Jasmine (JavaScript testing framework),1,0,0,1
+JUnit Testing,0,1,0,1
+JSM,1,0,0,1
+JSON),1,0,0,1
+JSON-LD,0,1,0,1
+JSON-RPC,1,0,0,1
+JSON/XML,1,0,0,1
+JSON:API,1,0,0,1
+JMS,1,0,0,1
+Kyano Manage,1,0,0,1
+Kyriba,0,1,0,1
+LAMP/LEMP (PHP 8,1,0,0,1
+JTAG,1,0,0,1
+JTAG/SWD,0,1,0,1
+JUNIT,0,1,0,1
+JUPYTER,0,1,0,1
+JUnit 5,1,0,0,1
+LAN switche,1,0,0,1
+LAN/WAN,1,0,0,1
+LANGCHAIN,0,1,0,1
+Kubernetes/OKD,1,0,0,1
+Kubernetes/OpenShift,1,0,0,1
+Kubernetes/OpenShift/Docker,1,0,0,1
+Kudu,1,0,0,1
+Kustomize,1,0,0,1
+LEAN PROJECT MANAGEMENT,0,1,0,1
+LI CRM,1,0,0,1
+LINQ,1,0,0,1
+LKW control X,1,0,0,1
+LAW,1,0,0,1
+LBs),1,0,0,1
+LDAP/OpenLDAP,1,0,0,1
+LAN Routing,1,0,0,1
+LLM API (OpenAI / Azure OpenAI / Claude),0,0,1,1
+LLM API integration,1,0,0,1
+LLM integration,1,0,0,1
+LLM prompt engineering,1,0,0,1
+Lighthouse,1,0,0,1
+Lightning Web Components,1,0,0,1
+Linear,0,1,0,1
+Linked Open Data (LOD),0,1,0,1
+LabSolutions),0,1,0,1
+LabVIEW FPGA,0,0,1,1
+LLM-based tools,0,1,0,1
+LLM/AI orchestration framework,1,0,0,1
+LLVM tools (BOLT,0,1,0,1
+LMS/LXP platforms,1,0,0,1
+LPARs,1,0,0,1
+LLM,1,0,0,1
+JIRA®,0,1,0,1
+JIRE,1,0,0,1
+Lambdas,1,0,0,1
+Lambdas & Containers,1,0,0,1
+Lang Chain,0,1,0,1
+LangChain),1,0,0,1
+Lab View,0,1,0,1
+Lab view,1,0,0,1
+JMX monitoring tool,0,1,0,1
+JMeter/K6,1,0,0,1
+JPA/Hibernate,1,0,0,1
+JIRA Align,1,0,0,1
+JIRA CLOUD,0,1,0,1
+JIRA Product Discovery,1,0,0,1
+JIRA Service Management,1,0,0,1
+JIRA/XRAY,1,0,0,1
+JAVA BACKEND,0,1,0,1
+JAVA DATABASES SQL NOSQL,0,1,0,1
+JAVA DATABASES SQL NOSQL ANALYTICS SPRING REACT ANGULAR ACCESS NETWORK AGILE,0,1,0,1
+JAVA ERP,0,1,0,1
+JAVA MVC,0,1,0,1
+JAVA TESTING,0,1,0,1
+JAVA/JEE,0,1,0,1
+Ivanti,0,1,0,1
+Langfuse,1,0,0,1
+Lansweeper,1,0,0,1
+Laptop Windows,0,1,0,1
+JENKINS CI,0,1,0,1
+JFrog Artifactory,1,0,0,1
+JFrog X,1,0,0,1
+JBoss/WildFly,1,0,0,1
+JDEdwards,1,0,0,1
+Laravel 7 or higher,1,0,0,1
+Laravel Nova,1,0,0,1
+Laravel Nova 4,1,0,0,1
+Laravel),1,0,0,1
+Laravel/Symfony,1,0,0,1
+LangGraph/LangChain agents/AutoGen/crewAI,0,0,1,1
+LangSmith,1,0,0,1
+Langchain,1,0,0,1
+Launchpad,1,0,0,1
+Lauterbach Embedded Trace and debugger,0,1,0,1
+Leaflet,1,0,0,1
+Lean Agile,0,1,0,1
+Legacy System Migration Workbench (LSMW),1,0,0,1
+Leonardo,1,0,0,1
+Life Sciences Cloud,1,0,0,1
+Laravel (PHP framework) - Expert,1,0,0,1
+Linux (RHEL),0,0,1,1
+Intune/Orion,1,0,0,1
+Inubit,0,0,1,1
+Inventor,0,0,1,1
+Inventory - Advanced,1,0,0,1
+IriusRisk,1,0,0,1
+Internet (e-mail,1,0,0,1
+Intune MDM,1,0,0,1
+Linux (RHEL/RHCOS),1,0,0,1
+Linux (Red Hat,1,0,0,1
+Linux (RedHat,1,0,0,1
+Linux (RedHat family,1,0,0,1
+Linux - Advanced,1,0,0,1
+LinkedIn,1,0,0,1
+Linode,1,0,0,1
+Linux (RHEL,1,0,0,1
+Linux administration,1,0,0,1
+Linux administration tools,1,0,0,1
+Linux based operating systems,1,0,0,1
+Linux Administration,1,0,0,1
+Linux OS (RHEL/Debian),1,0,0,1
+Linux Red Hat,1,0,0,1
+Linux Server,1,0,0,1
+Linux (RHEL/Alma/Ubuntu),1,0,0,1
+Ivanti EPM,1,0,0,1
+J-Component,1,0,0,1
+JAMF,1,0,0,1
+JAMF Pro,0,1,0,1
+Linux Shell,1,0,0,1
+Linux System Administration,1,0,0,1
+Linux System Administration tools,1,0,0,1
+Linux Ubuntu/Debian/Proxmox,1,0,0,1
+Linux commands,0,1,0,1
+Linux kernel concepts,1,0,0,1
+Linux performance tools,0,1,0,1
+Linux server Ubuntu,1,0,0,1
+Linux servers (Debian,1,0,0,1
+Looker/Sigma,0,1,0,1
+Loop,0,1,0,1
+Lovable,1,0,0,1
+Linux/Unix command line,1,0,0,1
+Linux/Unix environments,1,0,0,1
+LinuxFromScratch (LFS),0,1,0,1
+Linux services,1,0,0,1
+Linux system administration - RHEL,1,0,0,1
+Linux systems (Ubuntu/Debian),1,0,0,1
+Linux tools,1,0,0,1
+Linux-based operating systems,1,0,0,1
+InteliJ Idea,1,0,0,1
+Lison,1,0,0,1
+Litmus,1,0,0,1
+LiveCompare,1,0,0,1
+Livewire,1,0,0,1
+Load Balancer F5,1,0,0,1
+Linux/Docker/Kubernetes,1,0,0,1
+Linux/UNIX,1,0,0,1
+IntelliJ IDEA Ultimate,1,0,0,1
+IntelliJ IDEA/Aqua,1,0,0,1
+IntelliJ Idea,1,0,0,1
+IntelliJ/Eclipse/VS Code,0,0,1,1
+InterSystems IRIS,1,0,0,1
+Interface Builder,0,0,1,1
+Integration framework,1,0,0,1
+Integration tests,0,1,0,1
+InstallShield,1,0,0,1
+Intapp,1,0,0,1
+Integration Suite,1,0,0,1
+Inertia,1,0,0,1
+InfinityQS,1,0,0,1
+InfluxDB,1,0,0,1
+Informatica PowerCenter/IICS,1,0,0,1
+Informix SPL,1,0,0,1
+Loadbalancer,1,0,0,1
+Locust,1,0,0,1
+Lodash,1,0,0,1
+Log Shipping,0,1,0,1
+Log management,1,0,0,1
+Infralife,0,0,1,1
+Ingress,1,0,0,1
+Inphinity Forms,1,0,0,1
+Log360,1,0,0,1
+Logging,1,0,0,1
+Logic Analyzer,0,1,0,1
+Logic apps,1,0,0,1
+Logikai analizátorok,0,0,1,1
+Logis,1,0,0,1
+Logpoint,0,0,1,1
+LoadRunner Enterprise,1,0,0,1
+Low code / no code platforms,1,0,0,1
+Low-code proprietary tools,1,0,0,1
+Low-code/No-code,0,0,1,1
+Lucidchart (intermediate),1,0,0,1
+Lucidchart - Intermediate,1,0,0,1
+Loki & Grafana stack / ELK,1,0,0,1
+Lombok,1,0,0,1
+Looker Data Studio,1,0,0,1
+Luma,1,0,0,1
+Luware Nimbus,1,0,0,1
+M formula language,1,0,0,1
+M365 (Outlook,1,0,0,1
+MQ V7R3,0,0,1,1
+MQTT,1,0,0,1
+MQTT protocols,1,0,0,1
+MOBILTELEFON,0,1,0,1
+MCP servers,1,0,0,1
+MDM tool,1,0,0,1
+MDM via Intune and Apple Business Manager,1,0,0,1
+MDR,1,0,0,1
+M365 ecosystem,0,1,0,1
+MARC21,1,0,0,1
+MCP,1,0,0,1
+Lucidchart...,1,0,0,1
+Ignition SCADA software,0,1,0,1
+Illustrator or InDesign,1,0,0,1
+Immer,1,0,0,1
+Impala),1,0,0,1
+MIC,1,0,0,1
+MICROSOFT,1,0,0,1
+MICROSOFT DEFENDER,0,1,0,1
+MCP BI tools (Metabase,1,0,0,1
+Implico,0,1,0,1
+InTouch,1,0,0,1
+InTune,1,0,0,1
+InVision,0,1,0,1
+Incident,1,0,0,1
+Incident Management,0,1,0,1
+Incident handling for PLM,0,1,0,1
+Industrial IoT sensor connectivity (IO-Link),0,1,0,1
+ITSM or ERP systems,1,0,0,1
+IT security tools,1,0,0,1
+IT service desk system,1,0,0,1
+ITIL CHANGE MANAGEMENT,0,1,0,1
+ITIL INCIDENT MANAGEMENT,0,1,0,1
+ITIL V4 Foundation – Intermediate level,1,0,0,1
+ITIL framework,1,0,0,1
+ITIL frameworks,1,0,0,1
+Icinga2,1,0,0,1
+ITIL practices,1,0,0,1
+ITIL processes,1,0,0,1
+ITIL-processes (change,1,0,0,1
+ITMS centrálny informačný systém - Advanced,1,0,0,1
+ITMS21+,1,0,0,1
+ITSM Suite,0,1,0,1
+ITSM and ticketing tools (ServiceNow,1,0,0,1
+MICROSOFT XDR,0,1,0,1
+MIRAKL,1,0,0,1
+MISRA-C,0,1,0,1
+MITRE ATT&CK,1,0,0,1
+ITSM system,0,0,1,1
+IaC principles,1,0,0,1
+IaC tools,1,0,0,1
+IaaC solutions like CloudFormation or Terraform,1,0,0,1
+MONACO,1,0,0,1
+MPLS/WAN,1,0,0,1
+ML frameworks,1,0,0,1
+ML frameworks such as Keras,1,0,0,1
+ML.NET,1,0,0,1
+MLOps,0,1,0,1
+MICROSOFT DYNAMICS 365,0,1,0,1
+MICROSOFT SENTINEL,0,1,0,1
+IP TELEFONIA,1,0,0,1
+IPA,0,0,1,1
+IPAM,1,0,0,1
+IPsec and SSL VPNs.,1,0,0,1
+ISE,1,0,0,1
+ISIS,1,0,0,1
+INTELLIJ,0,1,0,1
+INTELLIJ ECLIPSE,0,1,0,1
+MS Bot Framework,1,0,0,1
+MS Certified AZ/SC,1,0,0,1
+MS D365,1,0,0,1
+MS DPM,1,0,0,1
+MS Defender,1,0,0,1
+MS Dynamics,0,1,0,1
+MS Azure DevOps,1,0,0,1
+MS BI tools like SSIS & SSAS,1,0,0,1
+MS Hubdrive,1,0,0,1
+MS Intune,1,0,0,1
+MS OFFICE (WORD,0,1,0,1
+MS OFFICE OUTLOOK,0,1,0,1
+MS Dynamics Axapta,1,0,0,1
+MS Dynamics CRM,0,0,1,1
+MS Dynamics NAV,1,0,0,1
+MS Excel - advanced,1,0,0,1
+ISO SECURITY,0,1,0,1
+ISO SECURITY PROJECT MANAGEMENT PMP,0,1,0,1
+ISTQB Certified Tester Foundation Level,1,0,0,1
+IT Service Management (ITIL principles),1,0,0,1
+IT bezpečnosť,1,0,0,1
+IT security,1,0,0,1
+MS Excel / Google Sheet,1,0,0,1
+MS Fabric,0,1,0,1
+MS Office (Excel & Power Point),1,0,0,1
+MS Office (Office 365),1,0,0,1
+IBM WebSphere application server,1,0,0,1
+IBM i (AS400),1,0,0,1
+ICT,1,0,0,1
+IDE,1,0,0,1
+IDE (VS Code,1,0,0,1
+IDEX,1,0,0,1
+MS Office tools,1,0,0,1
+MS Office/O365,0,1,0,1
+MS Office - advanced,1,0,0,1
+MS Office / O365,1,0,0,1
+MS Office 365+,1,0,0,1
+MS Office (excel,1,0,0,1
+MS Office (with strong focus on Excel),0,0,1,1
+MS OFFICE R,0,1,0,1
+IDSK,1,0,0,1
+IDoc,0,1,0,1
+IDocs,1,0,0,1
+IFC,1,0,0,1
+IFS Applications,1,0,0,1
+MS Office Suite,1,0,0,1
+MS Office applications,1,0,0,1
+MS Office suite,0,1,0,1
+IOS ANDROID TESTING,0,1,0,1
+IOS ANDROID TESTING CLEAN CODE,0,1,0,1
+IOS API,0,1,0,1
+IOS SECURITY,0,1,0,1
+IFS ERP system,0,0,1,1
+IIS hosting,1,0,0,1
+IIS),1,0,0,1
+IDS,1,0,0,1
+MS SQL / PostgreSQL,1,0,0,1
+MS Power Pages),0,1,0,1
+MS Power Platform,0,1,0,1
+MS Power Platform (MS Power Automate,0,1,0,1
+MS PowerBi,1,0,0,1
+MS Outlook),1,0,0,1
+MS Planner,1,0,0,1
+MS Power Apps,0,1,0,1
+MS SQL 2019,1,0,0,1
+MS SQL Cloud,1,0,0,1
+MS SQL Cloud Knowledge – preferably Azure (KeyVault,1,0,0,1
+MS SQL or PostgreSQL,0,1,0,1
+MS SQL query language,1,0,0,1
+MS SQL server,1,0,0,1
+MS SQL - installation and configuration,1,0,0,1
+MS SQL / Azure SQL,1,0,0,1
+IBM MQ,1,0,0,1
+IBM MaaS360,0,1,0,1
+IAM tools,1,0,0,1
+IAM),0,0,1,1
+IBM AIX,1,0,0,1
+IBM AS/400,1,0,0,1
+IBM AS400,1,0,0,1
+IBM App Connect or MuleSoft,0,1,0,1
+IBM Process Automation Manager Open Edition (BAMOE),1,0,0,1
+IBM Sterling B2B Integrator,1,0,0,1
+IBM Sterling File Gateway,1,0,0,1
+IBM Storage Protect (TSM),0,0,1,1
+IBM Storage solutions based on IBM Storwize v7000 and IBM SAN Switches,1,0,0,1
+IBM Watson,1,0,0,1
+IBM DB2 UDB,0,1,0,1
+IBM Infosphere for data integration,1,0,0,1
+Hotjar/Clarity,0,1,0,1
+Huawei,1,0,0,1
+Huawei OceanStor,1,0,0,1
+HubSpot (CRM,0,1,0,1
+High charts,1,0,0,1
+Hikvision,1,0,0,1
+Hilt,1,0,0,1
+Homeassistant,1,0,0,1
+MS System Center Configuration Manage,1,0,0,1
+MS TEAMS,1,0,0,1
+Hugging Face Transformers,1,0,0,1
+Hugging face,1,0,0,1
+Human,1,0,0,1
+Humanitec,1,0,0,1
+Hybris,1,0,0,1
+Hyperledger Aries,0,1,0,1
+MS-Office (Excel,1,0,0,1
+MS Test,1,0,0,1
+MS Visio/Miro,0,1,0,1
+MS Windows Server 2019,1,0,0,1
+MS SQL-Server,0,0,1,1
+MS Sentinel,1,0,0,1
+MS Server,0,0,1,1
+MS Strategy,1,0,0,1
+MS365/O365,1,0,0,1
+MSSQL Server,1,0,0,1
+MSSQL database,1,0,0,1
+MSSQL databases,1,0,0,1
+MUI,1,0,0,1
+MS Windows administration,1,0,0,1
+MS project,1,0,0,1
+MS-Office,1,0,0,1
+MYSQL. TROUBLESHOOTING GDPR,0,1,0,1
+Mermaid,1,0,0,1
+Message Queue,1,0,0,1
+Message brokermi,1,0,0,1
+Messaging architectures,1,0,0,1
+Messaging queues,1,0,0,1
+Messaging systems (Kafka,1,0,0,1
+Meta Business Suite,1,0,0,1
+Maestro,1,0,0,1
+Maestro Studio,1,0,0,1
+Magento 2,1,0,0,1
+MVC BACKEND,0,1,0,1
+MVC Framework,1,0,0,1
+MVC architecture,1,0,0,1
+MVC framework (CodeIgniter,1,0,0,1
+MVVM,1,0,0,1
+Markdown,1,0,0,1
+Marketing,0,1,0,1
+Mailchimp,1,0,0,1
+MapStruct,1,0,0,1
+Mapbox,1,0,0,1
+Machine Learning frameworks (scikit-learn,1,0,0,1
+Machine Learning tools (NLP,0,1,0,1
+Macro development & animation,1,0,0,1
+Helios Orange,1,0,0,1
+Helm Charts,0,0,1,1
+Helm-chart,0,1,0,1
+Helm/Argo CD,1,0,0,1
+Help Scout,1,0,0,1
+Mapp (Webtrekk) & Tealium IQ / EventStream,1,0,0,1
+Maps services,1,0,0,1
+MariaDB),1,0,0,1
+Hardware debug tools (bus/protocol analyzers,1,0,0,1
+Hardware management - Intermediate,1,0,0,1
+HUAWEI/Cisco/HP IOS,1,0,0,1
+HUGO,1,0,0,1
+Habitat,0,1,0,1
+Hadoop/HDFS/Kafka,1,0,0,1
+Halcon,0,1,0,1
+HTML & CSS,1,0,0,1
+Matplotlib,1,0,0,1
+Haystack,0,1,0,1
+Heavy.AI,1,0,0,1
+HeavyAI,1,0,0,1
+Helios ERP,1,0,0,1
+Hamina,1,0,0,1
+Hardware Security,0,1,0,1
+Hardware Troubleshooting,0,1,0,1
+Maven / Gradle - Intermediate,1,0,0,1
+Medea,1,0,0,1
+Media Office,1,0,0,1
+Marketing Cloud,1,0,0,1
+MasterCam,1,0,0,1
+MatPlotLib,1,0,0,1
+Material UI,0,1,0,1
+Matlab,1,0,0,1
+MediatR,1,0,0,1
+Meet),0,1,0,1
+Mellanox/NVIDIA diagnostics,1,0,0,1
+Memcached,1,0,0,1
+Meraki,1,0,0,1
+Meraki Dashboard,1,0,0,1
+Meridian,1,0,0,1
+Maven / Gradle,1,0,0,1
+Microsoft Defender solutions (Defender XDR),1,0,0,1
+Microsoft Azure cloud platform,1,0,0,1
+Microsoft Azure services,0,1,0,1
+Microsoft BI,1,0,0,1
+Microsoft BI Suite (SSIS,1,0,0,1
+Microsoft BI services (SSIS/SSRS/PBIRS),1,0,0,1
+Microsoft Azure (computing,1,0,0,1
+Microsoft Azure - Advanced,1,0,0,1
+Microservice pattern,1,0,0,1
+Microservice systems,0,1,0,1
+Micrium,0,1,0,1
+Micro Focus ALM,1,0,0,1
+MicroSoftSQL,0,1,0,1
+Micropython,1,0,0,1
+Microsoft DISM,1,0,0,1
+Microsoft Data Protection,0,0,1,1
+Microsoft 365 tools (Excel,0,1,0,1
+Microsoft 365 tools (SharePoint,1,0,0,1
+Microsoft (.NET),1,0,0,1
+Microsoft .NET,1,0,0,1
+Microsoft .NET Runtime,1,0,0,1
+Microsoft .Net,1,0,0,1
+Microsoft 365 (Azure AD,1,0,0,1
+Microsoft 365 (OneDrive,1,0,0,1
+HTML/CSS,0,1,0,1
+HTML/CSS/JS,1,0,0,1
+HTMX,1,0,0,1
+HTTP,1,0,0,1
+Microsoft 365 (Outlook,1,0,0,1
+Microsoft 365 / Exchange Online,1,0,0,1
+Microsoft 365 Copilot,1,0,0,1
+Microsoft 365 technologies / Azure Active Directory,1,0,0,1
+HELM,1,0,0,1
+HFM,1,0,0,1
+HARDWARE DEVOPS NETWORK PYTHON C C++ TESTING DEBUGGING,0,1,0,1
+HARDWARE NETWORK,0,1,0,1
+HARDWARE NETWORK CISCO CLOUD,0,1,0,1
+HARDWARE PROJECT MANAGEMENT,0,1,0,1
+HARDWARE R,0,1,0,1
+HARDWARE SECURITY NETWORK,0,1,0,1
+HMC console,1,0,0,1
+HMI / SCADA systems (Siemens),0,1,0,1
+HMI software,0,0,1,1
+HP,1,0,0,1
+HART,0,1,0,1
+HAYSTACK,0,1,0,1
+HBase,0,0,1,1
+HCL Commerce,1,0,0,1
+HP SecurePrint,1,0,0,1
+HP Security Manager,1,0,0,1
+HP Web Jetadmin,1,0,0,1
+HPSM,1,0,0,1
+HSQL,1,0,0,1
+HSRP,1,0,0,1
+HIDS,1,0,0,1
+HL7,1,0,0,1
+Microsoft Azure Cloud,0,0,1,1
+Microsoft Azure Container Apps,1,0,0,1
+Microsoft Azure SQL,1,0,0,1
+Microsoft AD MS Entra ID,1,0,0,1
+Microsoft ASP.NET Web API,1,0,0,1
+Microsoft Analysis Services (OLAP),0,1,0,1
+HP Aruba,0,0,1,1
+HP CONFLUENCE,0,1,0,1
+HA Proxy,1,0,0,1
+HALO,1,0,0,1
+HAProxy,1,0,0,1
+HARDWARE DATABASES,0,1,0,1
+Great Expectations,0,1,0,1
+Group Policies,0,0,1,1
+Gson,0,1,0,1
+Grafana/ReportPortal Kibana,1,0,0,1
+Microsoft Endpoint manager,1,0,0,1
+Microsoft Entra (Azure),1,0,0,1
+Microsoft Dynamics 365 CE,1,0,0,1
+Microsoft Dynamics 365 CRM,1,0,0,1
+Microsoft Dynamics 365 Finance and Operations,0,0,1,1
+Microsoft Dynamics AX 2012,1,0,0,1
+Microsoft Dynamics BC,0,1,0,1
+H2,1,0,0,1
+Microsoft Excel (advanced),1,0,0,1
+Microsoft Excel - Expert,1,0,0,1
+Microsoft Excel - Pokročilý,1,0,0,1
+Microsoft Dynamics CRM - Advanced,1,0,0,1
+Microsoft E5 security stack,1,0,0,1
+Microsoft Ecosystem,1,0,0,1
+Microsoft Endpoint Configuration Manager,1,0,0,1
+Microsoft Endpoint Manager - Advanced,1,0,0,1
+HARDWARE SECURITY ROBOT AZURE ISO TEST AUTOMATION CYPRESS CUCUMBER,0,1,0,1
+HARDWARE TEST AUTOMATION,0,1,0,1
+Microsoft Excel: Advanced,1,0,0,1
+Microsoft Exchange - Basic,1,0,0,1
+Microsoft Exchange Online,1,0,0,1
+Microsoft Exchange Server,1,0,0,1
+Microsoft Fabric: Advanced,1,0,0,1
+Microsoft Excel (XLS),1,0,0,1
+Microsoft Intune - Advanced,1,0,0,1
+Microsoft Intune - Pokročilý,1,0,0,1
+Google Vertex AI,1,0,0,1
+Google Workspace (Drive,0,1,0,1
+Google Workspace),1,0,0,1
+Google tag manager,1,0,0,1
+Google),1,0,0,1
+Google+,0,1,0,1
+Microsoft Office / Microsoft 365,1,0,0,1
+Microsoft Office 365 (E-mail,1,0,0,1
+Microsoft Lists,0,0,1,1
+Microsoft MS SQL Management Studio,1,0,0,1
+Microsoft O365,0,1,0,1
+Microsoft Office (Project,0,1,0,1
+Microsoft Graph,1,0,0,1
+Microsoft InTune,1,0,0,1
+Grafana/Power BI,1,0,0,1
+Grafana/Prometheus,1,0,0,1
+Microsoft Office Suite; PMP certification required,1,0,0,1
+Microsoft Office suite,0,1,0,1
+Microsoft Office (especially Excel),1,0,0,1
+Microsoft Office - Basic,1,0,0,1
+Microsoft Office - Expert,1,0,0,1
+Microsoft Office - Intermediate,1,0,0,1
+Grafikprogramme,0,0,1,1
+Graph,1,0,0,1
+Graph databases & network graph concepts,1,0,0,1
+GraphQL API integráció,0,0,1,1
+Graphic design - Basic,1,0,0,1
+Grafana),1,0,0,1
+Grafana/ELK/Zabbix/Dynatrace/Prometheus,1,0,0,1
+Grafana/Kibana,1,0,0,1
+Microsoft Power Platform tools,1,0,0,1
+Microsoft Power Platform: Power Apps,1,0,0,1
+Microsoft Office: Intermediate,1,0,0,1
+Microsoft OneDrive,1,0,0,1
+Microsoft Outlook - Pokročilý,1,0,0,1
+Microsoft Paint,1,0,0,1
+Microsoft Planner,1,0,0,1
+Microsoft Windows Server - Basic,1,0,0,1
+Microsoft Power Point,0,0,1,1
+Microsoft PowerPlatform (PowerApps & PowerAutomate),1,0,0,1
+Microsoft PowerPoint (intermediate),1,0,0,1
+Microsoft PowerPoint - Intermediate,1,0,0,1
+Microsoft Power Automate,1,0,0,1
+Microsoft Power BI - Advanced,1,0,0,1
+Microsoft Power Platform (Copilot Studio,1,0,0,1
+Microsoft Power Platform (Power Apps,0,0,1,1
+Google Analytics / GA4,1,0,0,1
+Google Analytics / Tag Manager,1,0,0,1
+Google Apps,1,0,0,1
+Google BigQuery,1,0,0,1
+Microsoft PowerPoint - Skillful,1,0,0,1
+Microsoft SCCM - Expert,1,0,0,1
+Microsoft SQL Server (MSSQL),0,0,1,1
+Microsoft SQL Server - Basic,1,0,0,1
+Google Meet,1,0,0,1
+Google SecOps (Chronicle),0,1,0,1
+Google Services GCM,1,0,0,1
+Google Sheets - Intermediate,1,0,0,1
+Google Cloud AI,1,0,0,1
+Google Cloud Storage,1,0,0,1
+Google Keyword tools,1,0,0,1
+Google Looker Studio,1,0,0,1
+Gitlab CI/CD Pipelines,1,0,0,1
+Gitlab jobs,1,0,0,1
+Gitlab or Azure DevOps,1,0,0,1
+Gitlab/Github,1,0,0,1
+Gitlab/Jenkins,1,0,0,1
+Gitlab/Jenkins (CI/CD),1,0,0,1
+GitOps and CI/CD procesy,1,0,0,1
+GitOps tools (e.g.,1,0,0,1
+Microsoft Services,1,0,0,1
+Microsoft SharePoint / Office 365,1,0,0,1
+Gmail,0,1,0,1
+Go,1,0,0,1
+GoCD,1,0,0,1
+Google,1,0,0,1
+Google ADK,1,0,0,1
+Google AI Studio,0,1,0,1
+Microsoft Windows OS,1,0,0,1
+Microsoft TSF,1,0,0,1
+Microsoft Visual Studio 2026,1,0,0,1
+Microsoft Visual Studio Code,1,0,0,1
+Microsoft SQL Server Profiler,1,0,0,1
+Microsoft SQL Server administration,1,0,0,1
+Microsoft SQL databases,1,0,0,1
+Microsoft Sentinel,1,0,0,1
+Microsoft Windows Server 2016,1,0,0,1
+Microsoft Windows technologies,1,0,0,1
+Microsoft Word (advanced),1,0,0,1
+Microsoft VisualStudio,1,0,0,1
+Microsoft Viva Engage,0,1,0,1
+Microsoft Windows - Advanced,1,0,0,1
+Microsoft Windows - Basic,1,0,0,1
+Microsoft Windows 10/11 (advanced),1,0,0,1
+Microsoft cloud services,1,0,0,1
+Microsoft server environment (AD/DNS,1,0,0,1
+Microsoft software products,1,0,0,1
+Microsoft stack,1,0,0,1
+GitHub/GitLab and CI/CD tools like GitHub Actions or GitLab CI/CD,1,0,0,1
+GitHub/GitLab with CI/CD,1,0,0,1
+GitLab CI pipeline,1,0,0,1
+GitLab CI/Jenkins,1,0,0,1
+Mimecast SEG,1,0,0,1
+Microsoft technologies,0,1,0,1
+Microsoft-Technologien,0,0,1,1
+Microsoft-Technologies,0,0,1,1
+Microsoft-based stack,1,0,0,1
+Microsoft Word - Pokročilý,1,0,0,1
+Microsoft Word - Skillful,1,0,0,1
+Microsoft based operating systems and tools,1,0,0,1
+Minitab,1,0,0,1
+Minitab Engage,1,0,0,1
+Miro/Mural,1,0,0,1
+MobX / MobX-state-tree,1,0,0,1
+Midjourney,1,0,0,1
+MikroTik RouterOS,1,0,0,1
+Mikroservisná architektúra,1,0,0,1
+Mikrotik RouterOS,1,0,0,1
+GitOps tools and processes (e.g.,1,0,0,1
+GitOps tools such as ArgoCD or Flux,1,0,0,1
+GitLab Runners for CI,1,0,0,1
+GitLab agents,1,0,0,1
+GitLab/GitHub,1,0,0,1
+GitLab/Jenkins,1,0,0,1
+Mimix,0,0,1,1
+Mingle,1,0,0,1
+Mobile Device Management,1,0,0,1
+Mobisys Solution Builder (MSB),0,1,0,1
+Mock framework (pl. SwiftyMocky),0,0,1,1
+Git repositories (Bitbucket or GitHub),0,1,0,1
+Git-ops pipeline,0,1,0,1
+Git/Azure Repos,1,0,0,1
+Git/GitHub Actions CI/CD,1,0,0,1
+Git (GitLab),1,0,0,1
+MuJoCo,0,1,0,1
+MongoDB Compass,1,0,0,1
+Monitoring / logging / SIEM,1,0,0,1
+Model-driven development,1,0,0,1
+Model-driven),1,0,0,1
+ModelSim,1,0,0,1
+Modern development environment,1,0,0,1
+Monday.com,1,0,0,1
+GitHub CI/CD development,1,0,0,1
+Git/GitLab CI,1,0,0,1
+GitHub - Advanced,1,0,0,1
+Monitoring and logging tools (CloudWatch,1,0,0,1
+Monitoring solutions (e.g.,1,0,0,1
+Monitoring tools,1,0,0,1
+MoveIT,1,0,0,1
+MoveIt,1,0,0,1
+GitHub Copilot),1,0,0,1
+GitHub Enterprise,1,0,0,1
+GitHub Packages,0,1,0,1
+GitHub/Git,1,0,0,1
+GitHub Actions or GitLab CI/CD,1,0,0,1
+GitHub Actions),1,0,0,1
+GitHub Advanced Security (GHAS),0,0,1,1
+GitHub CI,1,0,0,1
+NATS/MQTT/Kafka,0,1,0,1
+NC PTP Beckhoff libraries,0,1,0,1
+NDR,1,0,0,1
+Mural,1,0,0,1
+Mural),1,0,0,1
+MyQ,1,0,0,1
+MySQL or PostgreSQL,1,0,0,1
+MySQL),0,1,0,1
+NETWORK SECURITY TESTING,0,1,0,1
+NETWORK TESTING,0,1,0,1
+NGFW (NextGeneration FireWall) Fortinet,1,0,0,1
+NEOS,1,0,0,1
+NETWORK API,0,1,0,1
+NETWORK BACKUP,0,1,0,1
+NETWORK DYNAMICS,0,1,0,1
+NETWORK HARDWARE,0,1,0,1
+Gemini),1,0,0,1
+Gemius,1,0,0,1
+GenAI,0,1,0,1
+GenAI technologies,1,0,0,1
+Generative AI tools,0,1,0,1
+Genesys,1,0,0,1
+NETWORK IIS,0,1,0,1
+NETWORK MACHINE LEARNING,0,1,0,1
+Git (GitLab/GitHub/Bitbucket),1,0,0,1
+Git - Expert,1,0,0,1
+Git / DevOps repo,1,0,0,1
+Git API Rest MVC,0,1,0,1
+Git or SVN,1,0,0,1
+GiHub,1,0,0,1
+Giltlab,0,1,0,1
+Git (Bitbucket/GitHub),0,0,1,1
+NVIDIA Enterprise software products,0,1,0,1
+NVIDIA NIMs,0,1,0,1
+NLP fundamentals,0,1,0,1
+NGINX,0,0,1,1
+NI DIAdem,1,0,0,1
+NIS IT,0,1,0,1
+NIS2,0,1,0,1
+NLB,1,0,0,1
+NVIDIA NVENC/NVDEC,0,1,0,1
+NVIDIA/Mellanox diagnostics,1,0,0,1
+NVR Hikvision,1,0,0,1
+Nano Banana,1,0,0,1
+NativeWind (Tailwind CSS),1,0,0,1
+NRQL,1,0,0,1
+NSQ,1,0,0,1
+NSX,1,0,0,1
+GS1 standards,1,0,0,1
+GHE,1,0,0,1
+GIGYA,1,0,0,1
+GIT - Expert,1,0,0,1
+GIT/Bitbucket,1,0,0,1
+GKE,1,0,0,1
+GCP/AWS,1,0,0,1
+GDPR SOX,0,1,0,1
+GSAP,1,0,0,1
+GSC,1,0,0,1
+GWT,0,1,0,1
+Gauge,1,0,0,1
+GLPI,1,0,0,1
+GO,0,1,0,1
+GOOGLE ANALYTICS,0,1,0,1
+GPT/LLM,1,0,0,1
+Front Arena,0,1,0,1
+Frontend API,0,1,0,1
+Frontend Angular,0,1,0,1
+Fortinet (FortiGate,1,0,0,1
+Fortinet NGFW,1,0,0,1
+Foundry pipelines,1,0,0,1
+Framer,1,0,0,1
+Framer Motion,1,0,0,1
+Neo4J,0,1,0,1
+Nessus,1,0,0,1
+Frontend Web Framework,1,0,0,1
+Frontend development tools,0,1,0,1
+Fusion,1,0,0,1
+Fusion HCM,0,1,0,1
+GBTEC BIC GRC,1,0,0,1
+Freshservice,1,0,0,1
+NetApp FAS / AFF / Ontap Select,1,0,0,1
+NetApp ONTAP,1,0,0,1
+NetApp StorageGRID Webscale,1,0,0,1
+NetBackup,0,1,0,1
+NetBeans,0,1,0,1
+Natural Language Processing (NLP),1,0,0,1
+Navitaire,0,1,0,1
+Nearline Storage,1,0,0,1
+Netscaler (Citrix ADC),1,0,0,1
+Network Equipment,1,0,0,1
+Network Equipment - Advanced,1,0,0,1
+NetCDF,0,1,0,1
+NetFlow analysis,1,0,0,1
+NetSuite,0,0,1,1
+Netconf/YANG,1,0,0,1
+NestJS/Express,1,0,0,1
+ForcePoint NGFW / Web / DLP,1,0,0,1
+Forigate,1,0,0,1
+FluentBit,0,1,0,1
+Fluentbit,1,0,0,1
+Fluentd,1,0,0,1
+Fluentd/Logstash,1,0,0,1
+Flyway,1,0,0,1
+Firmware development tools,1,0,0,1
+Nexus or Harbor,1,0,0,1
+Network configuration,1,0,0,1
+Networking (VNet),1,0,0,1
+Networking (routing,1,0,0,1
+Networking - Advanced,1,0,0,1
+Networking - Expert,1,0,0,1
+New Relic Dashboard,1,0,0,1
+Focused Run,1,0,0,1
+NgRx or RxJS,1,0,0,1
+Ngrx,1,0,0,1
+Nice-to-haves: Java 17+,1,0,0,1
+Nicelabel,1,0,0,1
+Nintex K2,1,0,0,1
+NewRelic,0,1,0,1
+Next JS,1,0,0,1
+Nextjs (App Router / Pages Router),1,0,0,1
+FreeIPA,1,0,0,1
+FortiAnalyzer),1,0,0,1
+FortiAuthenticator,1,0,0,1
+NixOS,0,1,0,1
+No-SQL,1,0,0,1
+No-SQL DB,1,0,0,1
+NoSQL (Cassandra),1,0,0,1
+NoSQL (MongoDB,1,0,0,1
+Fiori apps,1,0,0,1
+Fiori authorization concepts,1,0,0,1
+Fiori),0,0,1,1
+FireStore,1,0,0,1
+Figma AI,1,0,0,1
+Figma/Penpot,1,0,0,1
+Filament,0,1,0,1
+File,1,0,0,1
+Node-Red,1,0,0,1
+Node.js (Express/Nest.js),1,0,0,1
+NoSQL (PostgreSQL,1,0,0,1
+NoSQL Databases,1,0,0,1
+NoSQL databases (MongoDB,0,1,0,1
+NoSql Document DB,0,1,0,1
+Node-RED,1,0,0,1
+Fiori applications,0,0,1,1
+Firewalls and next-generation firewalls.,1,0,0,1
+Nutanix,1,0,0,1
+OA,0,1,0,1
+NonStop SQL,0,1,0,1
+Novitax,0,0,1,1
+Npm,1,0,0,1
+Nuget),0,1,0,1
+Nuke,0,1,0,1
+Flask/Tornado/FastAPI,1,0,0,1
+Flowise,1,0,0,1
+Firebase Cloud Firestore,1,0,0,1
+Firebird,0,1,0,1
+Firefox WebExtensions,1,0,0,1
+Firewall (Check Point),1,0,0,1
+Firewall management,1,0,0,1
+Firewalls ( NAT,1,0,0,1
+Office Tools,1,0,0,1
+Office Tools - Advanced,1,0,0,1
+OWASP,1,0,0,1
+OXID eShop,1,0,0,1
+Observability tools,1,0,0,1
+Observability: Grafana,1,0,0,1
+October CMS,1,0,0,1
+Octopus 8 ERP,0,0,1,1
+OPA policies,1,0,0,1
+ODBC,1,0,0,1
+ODYC,0,1,0,1
+OIDC/SAML,1,0,0,1
+OADocs,1,0,0,1
+OAuth2 flows,1,0,0,1
+OAuth2.0,1,0,0,1
+Office 365 services,1,0,0,1
+Fargate,1,0,0,1
+ORACLE DATABASE,0,1,0,1
+ORACLE ERP,0,1,0,1
+OMRON PLC,1,0,0,1
+OOP Design Patterns MVC architecture,1,0,0,1
+OPA,1,0,0,1
+OPA / Gatekeeper,0,1,0,1
+OPA / Gatekeeper and Conftest),0,1,0,1
+FileServer,1,0,0,1
+FastAPIs,1,0,0,1
+Fenix,1,0,0,1
+Fiddler,1,0,0,1
+Figma - Expert,1,0,0,1
+Fakturačný nástroj,1,0,0,1
+Fanuc,0,1,0,1
+Fanuc robotics,1,0,0,1
+FEM,0,1,0,1
+FFmpeg,0,1,0,1
+FIDO2,1,0,0,1
+ExpressJS,1,0,0,1
+External Secrets,0,1,0,1
+F5 BIG-IP (LTM or ASM; APM),1,0,0,1
+F5 Big-IP LTM,1,0,0,1
+F5 LTM,1,0,0,1
+Facebook Ads Manager,1,0,0,1
+Facebook Business Manager,1,0,0,1
+Failover Cluster,1,0,0,1
+FORRÁS,0,0,1,1
+FRONTEND JAVASCRIPT REACT HTML5 CSS SCSS,0,1,0,1
+FSMS,1,0,0,1
+FTP clients,1,0,0,1
+FEA software,1,0,0,1
+OS/400,0,0,1,1
+OSPF/BGP,1,0,0,1
+OSPF/MPLS/LDP/BGP,1,0,0,1
+FTP/SFTP,1,0,0,1
+FTP/sFTP,1,0,0,1
+FW (CheckPoint,1,0,0,1
+Fabric,1,0,0,1
+Facebook,1,0,0,1
+Odata Services,0,1,0,1
+OTC / AWS / Azure,1,0,0,1
+OTC / AWS / Azure - Intermediate,1,0,0,1
+OTC/AWS/Azure,1,0,0,1
+OTIS,0,1,0,1
+OTRS,1,0,0,1
+OS IBM Db2,1,0,0,1
+OS Windows,1,0,0,1
+Exposed,1,0,0,1
+Express.js,1,0,0,1
+Excel/Google Sheets,1,0,0,1
+Exchange EOP,1,0,0,1
+Exchange Server,1,0,0,1
+Exchange online,1,0,0,1
+ExactTarget,0,1,0,1
+Excel (Power Pivot,1,0,0,1
+Open VPN,1,0,0,1
+Office programs,0,0,1,1
+Office suite,1,0,0,1
+Olympic core banking system,0,1,0,1
+Omnichannel,0,1,0,1
+Omron,0,1,0,1
+Expo,1,0,0,1
+Exponea (Bloomreach),1,0,0,1
+OpenAI/Azure APIs,1,0,0,1
+OpenAPI (OAS),1,0,0,1
+OpenAPI / Javascrip,1,0,0,1
+OneDrive),1,0,0,1
+OneStream,1,0,0,1
+Open ID Connect,1,0,0,1
+Open Office,1,0,0,1
+Open Project,1,0,0,1
+FANUC,1,0,0,1
+FE frameworks (React,1,0,0,1
+OpenAPI specifications,1,0,0,1
+OpenAPI types from our backend,1,0,0,1
+OpenAPI/Javascript,1,0,0,1
+OpenAPI/YAML,1,0,0,1
+OpenApi,0,1,0,1
+OpenApi 3,1,0,0,1
+OpenFOAM,0,1,0,1
+OpenFOAM-MPPICFoam,0,1,0,1
+OpenFlow,1,0,0,1
+OpenJDK 11+,1,0,0,1
+EoMPLS/VPLS,1,0,0,1
+Epicor CMS/ERP,1,0,0,1
+ErchiMate/UML/EA,1,0,0,1
+Eset,1,0,0,1
+OpenTofu,0,1,0,1
+OpenLab,0,1,0,1
+OpenProject,1,0,0,1
+OpenSCAP,1,0,0,1
+OpenSSL,1,0,0,1
+OpenSearch (ElasticSearch),1,0,0,1
+OpenCities Map PowerView,1,0,0,1
+OpenCv,1,0,0,1
+Event-driven architectures,1,0,0,1
+OpenVINO,1,0,0,1
+OpenVMS,1,0,0,1
+Opensearch/Kibana,1,0,0,1
+Operation - Advanced,1,0,0,1
+Operations/Data Hub),0,1,0,1
+OpenStack - Advanced,1,0,0,1
+OpenTelemetry libraries,0,1,0,1
+Excel (Power Pivot),1,0,0,1
+Excel (Power Query,1,0,0,1
+Excel (VLOOKUP,1,0,0,1
+Excel / Word,1,0,0,1
+Excel VBA,1,0,0,1
+Ethereum,1,0,0,1
+Event Grid,1,0,0,1
+Event-Driven Architecture,1,0,0,1
+Oracle Cloud Infrastructure (IaaS,0,1,0,1
+OpsGenie,0,1,0,1
+Oracle & MySQL,1,0,0,1
+Oracle - Expert,1,0,0,1
+Oracle 12c,1,0,0,1
+Oracle 12c/19c,1,0,0,1
+Oracle 12c/19c or later,1,0,0,1
+PAM solutions,0,1,0,1
+Oracle Java Programmer,1,0,0,1
+Oracle PL/SQL,1,0,0,1
+Oracle Database 19c,1,0,0,1
+Oracle Database Administration,1,0,0,1
+Oracle Database administration,1,0,0,1
+Oracle EM Cloud Control,1,0,0,1
+Oracle CRM,0,1,0,1
+Oracle Cloud AI services,0,1,0,1
+Embeddings,1,0,0,1
+End-to-End testing,1,0,0,1
+Endpoint management tools,1,0,0,1
+Enterprise Architect (Sparx),1,0,0,1
+Oracle Enterprise Manager,0,0,1,1
+Oracle Fusion Finance,1,0,0,1
+Oracle HCM,0,1,0,1
+Oracle Idom,1,0,0,1
+Espressif ESP32-C3/C6,1,0,0,1
+Espressif IDF framework,1,0,0,1
+Espresso,0,1,0,1
+EntityFramework Core,0,1,0,1
+Entra ID (Azure AD),1,0,0,1
+Enterprise Architect - Expert,1,0,0,1
+Enterprise Linux 7,1,0,0,1
+Enterprise Mission Assurance Support Service (eMASS),0,1,0,1
+ElasticSearch (Kibana),1,0,0,1
+ElasticSearch - Advanced,1,0,0,1
+ElasticStack,1,0,0,1
+ElevenLabs,1,0,0,1
+Elastic APM,1,0,0,1
+Elastic Agent,1,0,0,1
+Elastic Stack (Logstash),1,0,0,1
+Elastic search,1,0,0,1
+Oracle Zones,1,0,0,1
+Embedded C++,1,0,0,1
+Embedded CI/CD,0,1,0,1
+Embedded Linux,1,0,0,1
+Embedded control systems,0,1,0,1
+Embedded software,1,0,0,1
+Embedded software development tools,1,0,0,1
+Embedded system software development,0,1,0,1
+Oracle and/or MSSQL databases,0,1,0,1
+Oracle basics,1,0,0,1
+Oracle cloud,1,0,0,1
+Oracle databases,1,0,0,1
+Oracle/MySQL/MongoDB,1,0,0,1
+Oracle RDBMS,0,1,0,1
+Oracle Solaris,1,0,0,1
+Oracle Weblogic application server,0,1,0,1
+PC LAN,0,1,0,1
+PCB design software,1,0,0,1
+OracleKVM,1,0,0,1
+OracleSQL,0,1,0,1
+OracleSQL/PostgreSQL,0,1,0,1
+Orchestrator,1,0,0,1
+Oszilloszkópok,0,0,1,1
+Outlook (advanced),1,0,0,1
+PF,1,0,0,1
+PG SQL/Oracle SQL,1,0,0,1
+PGO/AutoFDO/LTO,0,1,0,1
+PGpool,1,0,0,1
+PSQL,1,0,0,1
+PSSQL and MDB,1,0,0,1
+PUDIS,1,0,0,1
+PYTORCH,0,1,0,1
+PHP Mess Detector,0,1,0,1
+PHPIPAM,1,0,0,1
+PHPStan,0,1,0,1
+PHPUnit/Pest,1,0,0,1
+PI,0,1,0,1
+PCL,1,0,0,1
+PDD,1,0,0,1
+PEC,1,0,0,1
+PLC: SIEMENS,1,0,0,1
+PIC,0,1,0,1
+PIDT,1,0,0,1
+PITest,1,0,0,1
+PIXI.js,1,0,0,1
+PL-SQL,1,0,0,1
+PHP 8.4,1,0,0,1
+PHP Code Sniffer,0,1,0,1
+Elastic stack,1,0,0,1
+EduPage,1,0,0,1
+EfficientIP SOLIDserver,1,0,0,1
+Einstein,1,0,0,1
+Einstein Copilot,1,0,0,1
+Einstein Platform,1,0,0,1
+PLC programming software,0,0,1,1
+PLC systems,1,0,0,1
+ESXi,1,0,0,1
+ETHTool,1,0,0,1
+ETL design,1,0,0,1
+ETL orchestration tools (e.g.,0,1,0,1
+ETL processes,1,0,0,1
+ESET Endpoint Security,1,0,0,1
+ESET MSP,1,0,0,1
+ESET Remote Administrator,1,0,0,1
+Eclipse-based modeling,1,0,0,1
+Ecomail,1,0,0,1
+ETL tools or modern data platforms,1,0,0,1
+ETL-tools,0,0,1,1
+ETL/ELT,1,0,0,1
+EXCEL),0,1,0,1
+EXCID,1,0,0,1
+ESPNET,0,1,0,1
+POWERSHELL. TESTING @SAP.,0,1,0,1
+PP,0,0,1,1
+PLM systems,0,1,0,1
+PMI PROJECT MANAGEMENT,0,1,0,1
+PMI-JIRA,0,1,0,1
+PNPM,1,0,0,1
+Eagle,1,0,0,1
+Eclipse IDE,1,0,0,1
+PaaS),0,1,0,1
+Packer,0,0,1,1
+PRINCE2 Foundation/Practitioner,1,0,0,1
+PROJECT,0,1,0,1
+PROXMOX/VmWare,1,0,0,1
+POS systems,1,0,0,1
+POWER APPS,0,1,0,1
+POWER AUTOMATE,0,1,0,1
+ERP Systems,1,0,0,1
+ERP systémy,1,0,0,1
+ERP/CRM systems (Salesforce),0,1,0,1
+ES6,1,0,0,1
+EPLAN Electric P8,0,0,1,1
+EPLAN Pro Panel,0,0,1,1
+EPM data platform,0,1,0,1
+ERP (SAP preferred),0,0,1,1
+Panorama,1,0,0,1
+Paper-based testing,1,0,0,1
+PactumJS,1,0,0,1
+PagerDuty,0,1,0,1
+Paint.NET,1,0,0,1
+Pair programming,1,0,0,1
+Palantir's Foundry platform,1,0,0,1
+ERP AGILIS,0,1,0,1
+Phaser,1,0,0,1
+Parallel processing techniques,1,0,0,1
+Payara/Tomcat,0,1,0,1
+Payment gateways,1,0,0,1
+Pega platform development,1,0,0,1
+Penpot,1,0,0,1
+PaloAlto,1,0,0,1
+Palstat,1,0,0,1
+ESET XDR tools,1,0,0,1
+ESET server,1,0,0,1
+Perforce,1,0,0,1
+Perpetual futures mechanics,0,1,0,1
+PetaLinux,0,1,0,1
+PgBouncer,1,0,0,1
+PgSQL and PHP,1,0,0,1
+Phase-based Maintenance,0,1,0,1
+PlantUML,1,0,0,1
+Phoenix,1,0,0,1
+Photoshop),1,0,0,1
+Phpstan,1,0,0,1
+Phyton,1,0,0,1
+PinPoint,1,0,0,1
+EDR/XDR platforms,1,0,0,1
+EIB,1,0,0,1
+Portfolio,1,0,0,1
+Platform Events,0,1,0,1
+Playwright/Cypress,0,1,0,1
+Playwright/Cypress/Selenium,1,0,0,1
+Plotly,1,0,0,1
+Pluralsight,1,0,0,1
+Pivot tables),1,0,0,1
+Pixi.js,1,0,0,1
+ELK or EFK,1,0,0,1
+ELK stack (Elasticsearch,1,0,0,1
+Pokročilý Jira,1,0,0,1
+Pokročilý Microsoft Excel,1,0,0,1
+Pokročilý SQL,1,0,0,1
+Poly,1,0,0,1
+Port,1,0,0,1
+Portainer,1,0,0,1
+ELK/Graylog,0,1,0,1
+ELK/OpenSearch,1,0,0,1
+ELK/Prometheus/Grafana,1,0,0,1
+EMC DD2200 / DD3300,1,0,0,1
+ENTERPRISE ARCHITECT C SECURITY ITIL API ACCESS JAVASCRIPT SQL TROUBLESHOOTING SERVICE MANAGEMENT REST,0,1,0,1
+ENTITY FRAMEWORK,0,1,0,1
+ELK / Prometheus / Icinga / Jaeger / Grafana,1,0,0,1
+ELK / Prometheus / Icinga / Jaeger / Grafana - Advanced,1,0,0,1
+PostgreSQL/Oracle,1,0,0,1
+Postgres DB,1,0,0,1
+Postgres SQL,1,0,0,1
+Postgres/Cassandra,1,0,0,1
+Postgres/MySQL/Oracle,0,1,0,1
+Postgre SQL/Oracle,1,0,0,1
+PostgreSQL 9.6+,1,0,0,1
+PowerPoint/Google Slides,1,0,0,1
+Power Automate - Basic,1,0,0,1
+Power BI (advanced),1,0,0,1
+Power BI (user level),1,0,0,1
+Power BI - DAX,1,0,0,1
+Power BI / Tableau,1,0,0,1
+Postman/Insomnia,1,0,0,1
+Power App,1,0,0,1
+Power Automate (Nice to have),1,0,0,1
+ECC,1,0,0,1
+ECK,1,0,0,1
+ECLIPSE,0,1,0,1
+ECS object storage,1,0,0,1
+Dyntell BI,0,0,1,1
+Dátové úložiská,1,0,0,1
+E2E testing (Cypress,1,0,0,1
+EAGLE,1,0,0,1
+EJB,0,1,0,1
+ELB,1,0,0,1
+EDI tools,1,0,0,1
+EDI-Tools or Middleware-Lösungen (e.g. Seeburger,0,0,1,1
+EDR (Defender for Endpoint,1,0,0,1
+EDR-XDR,1,0,0,1
+EDR/XDR (Microsoft Defender),1,0,0,1
+EBS,0,1,0,1
+Docker/Podman/OCI,1,0,0,1
+Docker/Podman/containerd/cri-o,0,0,1,1
+Docs,0,1,0,1
+DocuSign,0,1,0,1
+Domain Server,1,0,0,1
+Domain controller,1,0,0,1
+Docker image scanning,1,0,0,1
+Docker/DockerSwarm,1,0,0,1
+Dynamics 365 CE,1,0,0,1
+Dynamics AX,0,1,0,1
+Dynamics365,1,0,0,1
+Doménové prostredie,1,0,0,1
+DrawIO,1,0,0,1
+Drools,0,1,0,1
+Drupal (coding),1,0,0,1
+Dyna Trace,1,0,0,1
+Power Point),1,0,0,1
+Power BI / data tooling,0,1,0,1
+Power BI Desktop,1,0,0,1
+Power BI Service (cloud),1,0,0,1
+Power BI reporting,0,1,0,1
+Power BI/Looker Studio,1,0,0,1
+Power Designer,1,0,0,1
+Power Pivot,1,0,0,1
+PowerQuery),1,0,0,1
+Power Query M,0,1,0,1
+Power apps (Canvas,1,0,0,1
+Power platforms,1,0,0,1
+Power shell,0,1,0,1
+PowerApps/Automate,0,1,0,1
+PowerAutomate,1,0,0,1
+Power Platform (Power BI,0,1,0,1
+Django REST,0,1,0,1
+DevOps eszközök és módszertanok,0,1,0,1
+DevOps pipelines,1,0,0,1
+DevOps practices,1,0,0,1
+DevOps principles,0,1,0,1
+DevOps tooling,1,0,0,1
+DevOps),0,0,1,1
+Destinations/Connectivity,1,0,0,1
+PowerShell scripting,1,0,0,1
+PowerVM,1,0,0,1
+Docker (CaaS),1,0,0,1
+DevSecOps tools,1,0,0,1
+DevTools,1,0,0,1
+DirectX/OpenGL/Vulkan,0,1,0,1
+Distributed caching,1,0,0,1
+Divi,0,1,0,1
+PrestaShop,1,0,0,1
+Primefaces,1,0,0,1
+Powershell scripting,1,0,0,1
+Powershell scripts,1,0,0,1
+Powershell/BASH,0,0,1,1
+Prax,1,0,0,1
+Premiere,1,0,0,1
+Premiere Pro,1,0,0,1
+Docker/Kubernetes (AKS),1,0,0,1
+Print,1,0,0,1
+PrintServer,1,0,0,1
+Prisma,1,0,0,1
+Privileged Access Management (PAM) solutions,0,1,0,1
+Process Mining tools (Celonis),1,0,0,1
+Process-controlled systems,1,0,0,1
+Profibus,0,1,0,1
+Depot,1,0,0,1
+Dataverse,1,0,0,1
+Deadline,0,1,0,1
+Debezium,1,0,0,1
+Deception technology,1,0,0,1
+Defect tracking tools,1,0,0,1
+Dataflow & Apache Beam,1,0,0,1
+Datango,1,0,0,1
+Propeller),0,1,0,1
+ProtoPie,0,1,0,1
+Profylax,1,0,0,1
+Project tracking systems,1,0,0,1
+Defender,1,0,0,1
+Delmia Apriso,1,0,0,1
+Delphi 2010,1,0,0,1
+Dependency Injection,1,0,0,1
+Pulsar/Kafka/RabbitMQ/SQS,0,1,0,1
+Protocol Buffers,0,1,0,1
+Prototyping tools,1,0,0,1
+Proxy,1,0,0,1
+Prometheus/Grafana,1,0,0,1
+Prometheus/Icinga/Grafana,1,0,0,1
+Prompt Builder,1,0,0,1
+Proofpoint,1,0,0,1
+Dev Studio,1,0,0,1
+DevExpress,1,0,0,1
+DevIDE,1,0,0,1
+DevOps (Azure),0,1,0,1
+DevOps (Kubernetes,1,0,0,1
+Proxy and reverse proxy services.,1,0,0,1
+Pug (Jade),1,0,0,1
+Pulsar,0,1,0,1
+Data visualization tools (Matplotlib,1,0,0,1
+Data visualization tools/libraries (Matplotlib,1,0,0,1
+Data-Tiering Optimization,1,0,0,1
+DataBricks,1,0,0,1
+DataCenter Hardware,1,0,0,1
+DataCenter Hardware - Advanced,1,0,0,1
+DataFactory,0,1,0,1
+Data Vault,1,0,0,1
+QA (Cypress),0,1,0,1
+Pydantic,1,0,0,1
+Pydantic AI,1,0,0,1
+Pyramid/Django,1,0,0,1
+Pytest-BDD,1,0,0,1
+PyCharm),1,0,0,1
+PyMC,1,0,0,1
+PySide,0,1,0,1
+QGIS,1,0,0,1
+QI informačný systém,1,0,0,1
+QMC,0,0,1,1
+Python (Nice to have),1,0,0,1
+Python Debugger,1,0,0,1
+Python or shell,1,0,0,1
+Python scripting,1,0,0,1
+Python/Bash,1,0,0,1
+Dataplex,1,0,0,1
+Datastores (AWS Aurora,1,0,0,1
+Database Access,0,1,0,1
+Database Administration,1,0,0,1
+Databricks SQL,0,1,0,1
+QAD ERP rendszer,0,0,1,1
+QAP,1,0,0,1
+QF-Test (or similar),1,0,0,1
+Qliksense,1,0,0,1
+Qnap,1,0,0,1
+QoS,1,0,0,1
+QinQ,1,0,0,1
+Qlik (Sense,0,0,1,1
+REST API (fetch/Axios),1,0,0,1
+REST API (fetch/axios),1,0,0,1
+REST API / GraphQL,1,0,0,1
+Qradar,1,0,0,1
+Qt Framework,0,1,0,1
+Qt6,0,1,0,1
+Quadient Inspire,1,0,0,1
+QlikSense,1,0,0,1
+QlikSense Script,0,1,0,1
+QlikSense/QlikView,1,0,0,1
+QlikView,1,0,0,1
+Dalux,1,0,0,1
+Dapper,1,0,0,1
+Data Bricks,0,1,0,1
+Quartus Prime,1,0,0,1
+Quay,1,0,0,1
+Queries in BW/4HANA,1,0,0,1
+Query builder,1,0,0,1
+QueryDsl,1,0,0,1
+Data Visualization / BI,0,1,0,1
+Data historian software,0,1,0,1
+Data modeling,1,0,0,1
+Data visualization tools,1,0,0,1
+Data Engineering Capabilities (S3,1,0,0,1
+Data Lakes,1,0,0,1
+DYNAMICS TROUBLESHOOTING,0,1,0,1
+Dagster or Apache Airflow,1,0,0,1
+DLP solutions,1,0,0,1
+DMARC,1,0,0,1
+DMN,1,0,0,1
+DMO (Database Migration Option),1,0,0,1
+DNA Control Center,1,0,0,1
+DEVOPS @SAP.,0,1,0,1
+DEVOPS AGILIS CI,0,1,0,1
+DEVOPS API POWER BI AGILE,0,1,0,1
+DWH from MicroStrategy and SAP,1,0,0,1
+DYNAMICS BI ENTERPRISE ARCHITECT TESTING MIDDLEWARE API ACCESS POWER BI REGRESSION TESTING PROJECT MANAGEMENT PMP SCRUM CONFLUENCE JIRA AGILE,0,1,0,1
+DYNAMICS C,0,1,0,1
+DYNAMICS CLOUD SECURITY ACCESS,0,1,0,1
+DO-178B/C,0,1,0,1
+DORA,0,1,0,1
+DVC,1,0,0,1
+DKIM,1,0,0,1
+RAGs,1,0,0,1
+RAP/BTP,1,0,0,1
+QuestDB,1,0,0,1
+QuickSight),1,0,0,1
+Quicksight,1,0,0,1
+RACOM,1,0,0,1
+RADIUS,1,0,0,1
+DWH,1,0,0,1
+REST API design and integration,1,0,0,1
+REST API integrations,1,0,0,1
+RDBMS / SQL,1,0,0,1
+RDF,0,1,0,1
+RDP,1,0,0,1
+REACT ANGULAR VUE,0,1,0,1
+REFramework,1,0,0,1
+RAFM/MoSes,1,0,0,1
+REST-assured,1,0,0,1
+REST/GraphQL API,1,0,0,1
+REST/GraphQL-APIs,0,0,1,1
+REST API webservice,0,1,0,1
+REST APIs with OpenAPI,1,0,0,1
+REST OpenAPI,1,0,0,1
+REST PROJECT MANAGEMENT,0,1,0,1
+REST clients,1,0,0,1
+D365 F&O,1,0,0,1
+RHEL 7/8/9,1,0,0,1
+RHEL 7–10,1,0,0,1
+RHEL 8/9/10,1,0,0,1
+REST/SOAP web services,1,0,0,1
+REST/SOAP/ETL,1,0,0,1
+RFC,0,1,0,1
+REST(ful) API,1,0,0,1
+DATABASE @SAP.SERVICE MANAGEMENT,0,1,0,1
+DATABASE ANALYTICS,0,1,0,1
+DATABASE BI ANALYTICS,0,1,0,1
+DATABASE HARDWARE DATABASES TESTING,0,1,0,1
+DATABASE SECURITY,0,1,0,1
+Cybersecurity fundamentals - Advanced,1,0,0,1
+Cycognito,1,0,0,1
+Cypress/Jest/Playwright,1,0,0,1
+DICOM,1,0,0,1
+DISA STIGs,0,1,0,1
+DB2 LUW,1,0,0,1
+DCS,1,0,0,1
+DDD),1,0,0,1
+DATABASES ACCESS,0,1,0,1
+DATAVERSE,0,1,0,1
+DB (Postgre SQL...),1,0,0,1
+Critical Manufacturing,1,0,0,1
+CronJobs,0,0,1,1
+Core Connectors,1,0,0,1
+CorelDRAW,1,0,0,1
+Cornerstone,0,1,0,1
+Cornerstone On Demand,0,1,0,1
+Cosmos DB,1,0,0,1
+Context),1,0,0,1
+ROS,1,0,0,1
+Crowdstrike,1,0,0,1
+Cucumber (BDD/Gherkin),1,0,0,1
+Cumulus OS,1,0,0,1
+Customer Data Platform (CDP),1,0,0,1
+Counter Strike 1.6,1,0,0,1
+Coupa platform,1,0,0,1
+CreateJS,1,0,0,1
+ROS/ROS 2,0,1,0,1
+ROS/ROS2,0,1,0,1
+RPM packaging,1,0,0,1
+ROBOT,0,1,0,1
+ROBOT ABB ASSEMBLY,0,1,0,1
+ROBOT FRAMEWORK,0,1,0,1
+ROBOT PLC,0,1,0,1
+ROCKWELL STUDIO 5000,0,1,0,1
+RUBY,0,1,0,1
+Rabbit MQ,1,0,0,1
+RabbitMQ),1,0,0,1
+RabbitMQ/Apache Kafka,1,0,0,1
+RRD,1,0,0,1
+RTL design tools,0,1,0,1
+RTL/HDL (Verilog,0,1,0,1
+RTP),1,0,0,1
+Contentstack,1,0,0,1
+Confluence - Expert,1,0,0,1
+Confluence Wiki,1,0,0,1
+Confluence/Jira,1,0,0,1
+Confluence®,0,1,0,1
+Conftest,0,1,0,1
+Conceptboard,0,1,0,1
+Conda,1,0,0,1
+React Native CLI,1,0,0,1
+Rally,1,0,0,1
+Rapid7,1,0,0,1
+Raspberry Pi,1,0,0,1
+Conga,1,0,0,1
+Contact Builder,0,1,0,1
+Container Apps,1,0,0,1
+Content Management System (any CMS),1,0,0,1
+React or Flutter frameworks,1,0,0,1
+React+Redux,0,1,0,1
+React/Angular,1,0,0,1
+React/Angular/Vue,1,0,0,1
+ReSharper,1,0,0,1
+React (Hooks,1,0,0,1
+React + Typescript,1,0,0,1
+React Native (Expo),1,0,0,1
+Continuous integration,1,0,0,1
+Control systems,0,1,0,1
+Copado,1,0,0,1
+React/Knockout experience is a plus,1,0,0,1
+React/Next,1,0,0,1
+React/Next.js,0,0,1,1
+Ready API,1,0,0,1
+Real-time operating systems (Linux),0,1,0,1
+Rockwell FactoryTalk,0,0,1,1
+Rockwell platforms,1,0,0,1
+Route53),1,0,0,1
+Router/Firewall,1,0,0,1
+Routing,1,0,0,1
+Rive,1,0,0,1
+Roblox Studio,1,0,0,1
+RoboHelp,1,0,0,1
+Redmine Helpdesk,1,0,0,1
+Redmine/Mantis,1,0,0,1
+Recruiting solutions,0,1,0,1
+Red Hat Quarkus,1,0,0,1
+RedHat Linux,0,0,1,1
+RedHat OpenShift Pipelines,1,0,0,1
+RedHat Openshift,1,0,0,1
+Robotics,0,0,1,1
+ReqIF,1,0,0,1
+Request,1,0,0,1
+Redux or Redux Toolkit,1,0,0,1
+Relational & NoSQL databases,1,0,0,1
+Relational Databases SQL language,1,0,0,1
+Relational databases,1,0,0,1
+RedHat Satellite,1,0,0,1
+Redis),1,0,0,1
+Comala,1,0,0,1
+Combine,0,1,0,1
+Command Line,1,0,0,1
+Command line,1,0,0,1
+Compliance Wire,1,0,0,1
+Remedy,1,0,0,1
+Replication,0,1,0,1
+Replit,1,0,0,1
+ClusterAPI,0,1,0,1
+Co-Pilot Studio,1,0,0,1
+CocoaPods,0,0,1,1
+Code Reviews,1,0,0,1
+CodeArts Light,1,0,0,1
+Cloudera DataLake technologies (CDP,0,1,0,1
+Cloudera tools (NiFi,1,0,0,1
+Cloudflare Workers,1,0,0,1
+CodeRabbit,1,0,0,1
+Codebeamer,0,1,0,1
+Coffeescript,1,0,0,1
+Cognex,0,1,0,1
+Cohesity,0,1,0,1
+Collaborative tools (MS Teams,1,0,0,1
+Cloudové prostredie,1,0,0,1
+Cluster Services,1,0,0,1
+Ribbon SBC,1,0,0,1
+Ringostat,1,0,0,1
+Requirement management / development systems,0,0,1,1
+Resource Scheduling (RSH),0,1,0,1
+Rest API - Expert,1,0,0,1
+Rest APIs,1,0,0,1
+Rest web services,1,0,0,1
+Rest-Assured,0,1,0,1
+Robot,0,1,0,1
+Robot programming (Fanuc,0,1,0,1
+Robotframework,0,1,0,1
+Restful APIs,1,0,0,1
+Retail as a Service (RaaS),1,0,0,1
+Retrieval Augmented Generation (RAG),1,0,0,1
+Retrofit,1,0,0,1
+Ribbon,1,0,0,1
+Run:AI,1,0,0,1
+Run:ai,0,1,0,1
+Runner,1,0,0,1
+Runway Gen-3,1,0,0,1
+Rust,0,0,1,1
+Cloud platforms (GCP),1,0,0,1
+Cloud systems,1,0,0,1
+Cloud-native architectures,0,1,0,1
+RxSwift,0,1,0,1
+S/4HANA (advantage),1,0,0,1
+S/4HANA EAM Fiori Apps,0,1,0,1
+S/4HANA Finance,1,0,0,1
+S/4HANA Public Cloud,0,1,0,1
+Rubrik,1,0,0,1
+Rubrik backup technologies,1,0,0,1
+RudderStack,1,0,0,1
+SAP (S4,0,1,0,1
+SAP - Basic,1,0,0,1
+SAP / ERP systems,1,0,0,1
+SAP @SAP.C MACHINE LEARNING,0,1,0,1
+S2D,1,0,0,1
+SAFe Agile,0,1,0,1
+SAGEMAKER,0,1,0,1
+SAML,1,0,0,1
+Cloudformation),1,0,0,1
+CloudFormation Templates or Terraform,1,0,0,1
+CloudFront,1,0,0,1
+CloudIDP,1,0,0,1
+CloudWatch),1,0,0,1
+Cloudera,1,0,0,1
+SAP (Material requirements planning,1,0,0,1
+SAP (R/3),1,0,0,1
+SAP BTP BAS,1,0,0,1
+SAP BTP Integration Suite,0,1,0,1
+SAP Administration,1,0,0,1
+SAP Analytics Cloud (SAC),0,1,0,1
+SAP ABAP BACKEND,0,1,0,1
+SAP ACCESS CHANGE MANAGEMENT,0,1,0,1
+SAP ARIBA,0,1,0,1
+SAP Concur,0,1,0,1
+SAP BW/BI,0,0,1,1
+SAP Best Practice Scope Items,0,1,0,1
+SAP Build,0,1,0,1
+SAP Build Apps or SAP Build Workzone,1,0,0,1
+SAP Build Process Automation,1,0,0,1
+SAP Business Data Cloud,0,1,0,1
+SAP BO,1,0,0,1
+SAP BO Web Intelligence,1,0,0,1
+Cloud SQL,1,0,0,1
+Cloud Scope,1,0,0,1
+Cloud Security,0,1,0,1
+Cloud Testing,0,1,0,1
+Cloud Foundry/Kyma,1,0,0,1
+Cloud LMS stack (Elasticsearch,1,0,0,1
+Cloud Monitoring tools,1,0,0,1
+Cloud Orchestrator Platform,0,1,0,1
+Cloud-native deployments,1,0,0,1
+Cloud-native development,0,1,0,1
+CloudALM system,0,1,0,1
+Cloud concepts (networking,1,0,0,1
+Cloud databases,0,1,0,1
+Cloud experience,1,0,0,1
+Cloud infrastructure,1,0,0,1
+Cloud Run,1,0,0,1
+ClearCase,0,1,0,1
+ClickUP,1,0,0,1
+Clickhouse,1,0,0,1
+Citrix Cloud,1,0,0,1
+Citrix Virtual Apps and Desktops,1,0,0,1
+Citrix virtualization platform,1,0,0,1
+Claude),0,1,0,1
+ClaudeAgent SDK,1,0,0,1
+Cloud Databases,0,1,0,1
+Cloud Deployment Manager,1,0,0,1
+Clickhouse/Trino,1,0,0,1
+Client/Server Administration,1,0,0,1
+Clockify,1,0,0,1
+Cloud (AWS),0,1,0,1
+Cloud (AWS/GCP),1,0,0,1
+Clear Case,1,0,0,1
+SAP CO/MM,1,0,0,1
+SAP Business Warehouse (BW),1,0,0,1
+SAP Business Workflow,1,0,0,1
+SAP BusinessObjects,1,0,0,1
+SAP C4C,1,0,0,1
+SAP CAP,1,0,0,1
+Cloud Composer/Airflow,1,0,0,1
+Cloud Database,0,1,0,1
+SAP Customer Service,0,1,0,1
+SAP DATA MANAGEMENT,0,1,0,1
+SAP CRM / IS-U,1,0,0,1
+SAP Cloud,0,1,0,1
+SAP Cloud ERP,0,1,0,1
+SAP CLOUD @SAP,0,1,0,1
+SAP CLOUD ABAP AZURE ANALYTICS TESTING API SPARK GIT DOCKER JAVASCRIPT SQL REACT ACCESS REST AGILE,0,1,0,1
+SAP CLOUD ERP,0,1,0,1
+CircleCI,0,1,0,1
+Cisco ACI,1,0,0,1
+Cisco Certified Network Professional (CCNP),1,0,0,1
+Cisco Firewalls (ASA/Firepower),1,0,0,1
+Cisco IOS,1,0,0,1
+Cisco IOS XR,1,0,0,1
+Checkpoint technologies,1,0,0,1
+Chromatic,1,0,0,1
+Cisco IronPort (ESA),1,0,0,1
+Cisco certification,0,0,1,1
+Cisco network device configurations,1,0,0,1
+Cisco prime,1,0,0,1
+Cisco switching environments,1,0,0,1
+Cisco switchov and routers,1,0,0,1
+Cisco),1,0,0,1
+Citrix,1,0,0,1
+SAP Focused Run,1,0,0,1
+SAP HANA - Intermediate,1,0,0,1
+SAP HANA Calculation Views,1,0,0,1
+SAP FI/CO (AR/AP),1,0,0,1
+SAP Fiori Elements,0,1,0,1
+SAP ECC 6.0,0,1,0,1
+SAP ECC System,1,0,0,1
+SAP ERP/R3,0,1,0,1
+Cleafy,1,0,0,1
+SAP HANA Cloud Migration cockpit,0,1,0,1
+SAP HANA DB,1,0,0,1
+SAP HANA Modeler,1,0,0,1
+SAP HANA databases,0,1,0,1
+SAP Hybris,1,0,0,1
+SAP Fiori Launchpad,0,1,0,1
+SAP Fiori Launchpad (BSP applications),1,0,0,1
+Change and Problem Management,1,0,0,1
+CeApp,1,0,0,1
+CentOS,1,0,0,1
+Centreon/Nagios,1,0,0,1
+Canva Pro,1,0,0,1
+Canva),1,0,0,1
+Canvas,1,0,0,1
+Canvas API,1,0,0,1
+SAP ISU,1,0,0,1
+SAP Integration Suite,0,1,0,1
+Ceragon,1,0,0,1
+Chai,1,0,0,1
+Chakra UI,1,0,0,1
+Change Data Capture,0,1,0,1
+Change Data Capture (CDC),1,0,0,1
+Change Management,1,0,0,1
+SAP Migration Cockpit,1,0,0,1
+SAP NetWeaver,1,0,0,1
+SAP PI/PO,0,1,0,1
+SAP MDG,0,1,0,1
+SAP MM/Ariba,1,0,0,1
+SAP IDEXGE,1,0,0,1
+SAP ILM,1,0,0,1
+SAP IS-U,1,0,0,1
+Chrome DevTools,1,0,0,1
+Chrome Extensions (Manifest V3),1,0,0,1
+ChatGPT),1,0,0,1
+Checkmk,0,0,1,1
+SAP PM module,0,0,1,1
+SAP PO/PI,1,0,0,1
+SAP Master Data,0,1,0,1
+SAP Materials Management,0,1,0,1
+SAP Production Planning,0,1,0,1
+SAP Quality Management,0,1,0,1
+Cache,1,0,0,1
+Cadence,1,0,0,1
+CakePHP,1,0,0,1
+CallCabinet,1,0,0,1
+Calypso,1,0,0,1
+CSV,1,0,0,1
+SAP R/3 - Advanced,1,0,0,1
+SAP R/3: Advanced,1,0,0,1
+SAP R3,0,1,0,1
+SAP RAP,0,1,0,1
+SAP S/4,1,0,0,1
+SAP Plant Maintenance,0,1,0,1
+SAP Plant Maintenance (PM),1,0,0,1
+SAP Process Orchestration / Process Integration (PO/PI),1,0,0,1
+SAP S4/HANA,0,0,1,1
+SAP SCM,0,0,1,1
+SAP S/4 HANA: Basic,1,0,0,1
+SAP S/4HANA (advantage),1,0,0,1
+SAP S/4HANA EWM,0,1,0,1
+SAP S/4HANA Embedded Analytics,0,1,0,1
+SAP S/4HANA Private Cloud,1,0,0,1
+SAP R,0,1,0,1
+Canvas/SVG,1,0,0,1
+Captivate,0,1,0,1
+Case,0,1,0,1
+Camunda BPM - Expert,1,0,0,1
+Camunda Workflow Engine,1,0,0,1
+SAP S/4HANA Service,0,1,0,1
+SAP S/4HANA security architecture,1,0,0,1
+SAP S4 HANA ABAP Cloud,0,1,0,1
+SAP System Measurement Tools,1,0,0,1
+SAP SECURITY @SAP.,0,1,0,1
+SCPI,0,1,0,1
+SCRUM AGILE,0,1,0,1
+SCSS/Sass,1,0,0,1
+SCADA (InTouch),1,0,0,1
+SCADA AUTOMATIZÁLÁS,0,1,0,1
+SCADA SW,1,0,0,1
+SAP eCommerce Cloud,1,0,0,1
+SAP eWM,0,1,0,1
+SAP modules (SD/MM),1,0,0,1
+SAP system survey,1,0,0,1
+SAP Systems (e.g.,0,0,1,1
+SAP TEST MANAGEMENT,0,1,0,1
+SAP Spartacus,0,0,1,1
+SAP SuccessFactors Employee Central – Compensation,1,0,0,1
+CSS/SASS,1,0,0,1
+CST Studio Suite,0,1,0,1
+CPPUnit framework,0,1,0,1
+CPT,1,0,0,1
+CRISC,0,1,0,1
+CRM & SRM systems,0,1,0,1
+CRM (Customer Relationship Management),1,0,0,1
+SAP administration,1,0,0,1
+CSV methodology,0,1,0,1
+CTI,1,0,0,1
+CTI platforms,1,0,0,1
+CUCUMBER,0,1,0,1
+CUDA13,1,0,0,1
+CWL or Nextflow,0,1,0,1
+CRP,1,0,0,1
+CS fixer,1,0,0,1
+CNC programs,1,0,0,1
+COBIT 5,1,0,0,1
+CLOUD@,0,1,0,1
+CLion,1,0,0,1
+CMD,1,0,0,1
+CMDB activity,1,0,0,1
+CMR systems (e.g. Jira,1,0,0,1
+CLOUD NETWORK,0,1,0,1
+COGNEX,0,1,0,1
+COGNOS,0,1,0,1
+COMOS,0,1,0,1
+CPI,0,1,0,1
+CMS API,0,1,0,1
+CMS Builder,1,0,0,1
+CMS/KMS,1,0,0,1
+CNC programming,1,0,0,1
+SAPUI5,1,0,0,1
+SAP®,0,1,0,1
+SAP’ TESTING,0,1,0,1
+SAS,1,0,0,1
+SAS Data Miner,1,0,0,1
+SAS Guide,0,1,0,1
+CODAS,0,1,0,1
+CODESYS,0,1,0,1
+SCADA systems,1,0,0,1
+SCADA/HMI,0,1,0,1
+SCAPE,0,1,0,1
+SAS Management Console (SMC),1,0,0,1
+SAST/DAST/SCA tools,1,0,0,1
+SBC & PABX,1,0,0,1
+SAP-PM,0,1,0,1
+SAP/MES,1,0,0,1
+SECURITY BACKUP.,0,1,0,1
+SECURITY CLOUD ACCESS NETWORK,0,1,0,1
+SD-WAN/SD-DC,1,0,0,1
+SD-Wan,1,0,0,1
+SDD,1,0,0,1
+SDL Studio,0,1,0,1
+SDSL components,1,0,0,1
+SINA,1,0,0,1
+SECURITY HARDWARE TESTING,0,1,0,1
+SECURITY MACHINE LEARNING,0,1,0,1
+SECURITY NETWORK CLOUD ISO AWS AZURE ACCESS GDPR SIEM,0,1,0,1
+SECURITY ACCESS CLOUD AWS LINUX DATABASES TESTING,0,1,0,1
+SECURITY ANALYTICS DATA MANAGEMENT,0,1,0,1
+SECURITY ANALYTICS DEVOPS CLOUD AGILE TESTING AZURE POWER BI SCRUM,0,1,0,1
+SECURITY API NETWORK CLOUD DATABASES ERP REST PROJECT MANAGEMENT PMP,0,1,0,1
+SECURITY BACKEND,0,1,0,1
+SECURITY SAP ISO CLOUD AWS AZURE ACCESS @SAP,0,1,0,1
+SECURITY TEST AUTOMATION,0,1,0,1
+SECURITY WORD,0,1,0,1
+SECURITY-ACCESS,0,1,0,1
+SECURITY CLOUD ACCESS NETWORK PYTHON,0,1,0,1
+SECURITY DATABASE,0,1,0,1
+SECURITY DEVOPS,0,1,0,1
+SECURITY DEVOPS ANALYTICS CLOUD ACCESS,0,1,0,1
+CLOUD NETWORK ANALYTICS,0,1,0,1
+CLOUD NETWORK SECURITY,0,1,0,1
+CLOUD PROJECT MANAGEMENT,0,1,0,1
+CLOUD SECURITY AGILE,0,1,0,1
+CLOUD SECURITY ORACLE,0,1,0,1
+SECURITY NETWORK CLOUD LINUX,0,1,0,1
+SECURITY PROJECT MANAGEMENT,0,1,0,1
+SECURITY PROJECT MANAGagement,0,1,0,1
+CLOUD ACCESS,0,1,0,1
+CLOUD ACCESS DEBUGGING REST,0,1,0,1
+CI/CD: GitLab CI,1,0,0,1
+CI/CD: GitLab CI / Jenkins,1,0,0,1
+CISA,0,1,0,1
+CISCO Finesse,1,0,0,1
+CISM,0,1,0,1
+CISSP,0,1,0,1
+SERVICENOW SERVICE MANAGEMENT,0,1,0,1
+SES,1,0,0,1
+CLOUD AGILE,0,1,0,1
+CLOUD AWS ACCESS,0,1,0,1
+CLOUD AZURE ACCESS ISO GDPR,0,1,0,1
+CLOUD BI,0,1,0,1
+CLOUD DATABASE,0,1,0,1
+CLOB mechanics,0,1,0,1
+SIEMENS,1,0,0,1
+SGE,1,0,0,1
+SIAE,1,0,0,1
+SIEM (Splunk,1,0,0,1
+SIEM (Wazuh/ELK),1,0,0,1
+SIEM ArcSight,1,0,0,1
+SIEM Splunk,1,0,0,1
+SEO tools (Ahrefs etc.),1,0,0,1
+SITA-based test automation tool,1,0,0,1
+SNOW,1,0,0,1
+SIEM platforms,1,0,0,1
+SIEM solutions,1,0,0,1
+SIEM tool,1,0,0,1
+SIEM/SOAR,1,0,0,1
+SIEM/SOC,1,0,0,1
+SIEM/log management,1,0,0,1
+CI/CD pipelines (GitLab preferred),1,0,0,1
+CI/CD pipelines in Azure DevOps,0,1,0,1
+CI/CD solutions - Github,1,0,0,1
+CI/CD deployment,1,0,0,1
+CI/CD eszközök (GitLab CI,0,1,0,1
+CI/CD pipeline (GitLab CI,1,0,0,1
+CI/CD pipeline (Jenkins,1,0,0,1
+CI/CD pipeline (e.g.,1,0,0,1
+SOAP),0,1,0,1
+SNP Datafridge,1,0,0,1
+SNP Outboard,1,0,0,1
+SNP Transformation Tool,1,0,0,1
+SNS),1,0,0,1
+SNS/SQS,0,1,0,1
+SOA,0,0,1,1
+CI/CD pipeline-ok,0,0,1,1
+SPIRA,1,0,0,1
+SPRING HIBERNATE SQL JUNIT,0,1,0,1
+SOC,1,0,0,1
+SOLID,1,0,0,1
+SOLID/Clean Code,1,0,0,1
+SOX,0,1,0,1
+SOAP APIs,1,0,0,1
+SOAP integrations,1,0,0,1
+CKAD or CKS certified),1,0,0,1
+CI/CD tools (e.g.,1,0,0,1
+CI/CD within GitHub Actions,1,0,0,1
+CI/CD workflow,1,0,0,1
+CI/CD workflows,1,0,0,1
+CI/CD),1,0,0,1
+SPF,1,0,0,1
+SPHINX,0,1,0,1
+SQL & Azure,1,0,0,1
+SQL (DB2/400 SQL),0,0,1,1
+SQL (MS SQL,0,1,0,1
+SQL (MSSQL or PostgreSQL),1,0,0,1
+SQL (MariaDB),1,0,0,1
+SQLITE,1,0,0,1
+SQLPlus,1,0,0,1
+SQuirreL SQL,1,0,0,1
+SQL DATA MANAGEMENT,0,1,0,1
+SQL (Oracle,0,0,1,1
+SQL (PostgreSQL),1,0,0,1
+SQL (Postgres),1,0,0,1
+SQL (SQLite/ORACLE),1,0,0,1
+SQL (advanced) - MS SQL Server and PostgreSQL,1,0,0,1
+SQL (basic),1,0,0,1
+SPRING SECURITY,0,1,0,1
+SQL MSSQL CLOUD AZURE,0,1,0,1
+SQL NOSQL API,0,1,0,1
+SQL NOSQL DATABASES,0,1,0,1
+SQL Report Builder,1,0,0,1
+SQL - Basic,1,0,0,1
+SQL / DB,1,0,0,1
+SQL / MSSQL,1,0,0,1
+SQL / PL-SQL,1,0,0,1
+CI/CD (Docker,1,0,0,1
+CI/CD (Jira/Confluence,1,0,0,1
+CI/CD DevOps in Gitlab,1,0,0,1
+CES,1,0,0,1
+CFD Modeling,0,1,0,1
+CI TEST AUTOMATION,0,1,0,1
+CI pipeline,1,0,0,1
+SQL Database),1,0,0,1
+CDS view,1,0,0,1
+CENTOS,0,1,0,1
+CERES-solver,1,0,0,1
+CATIA,1,0,0,1
+CDC frameworks,1,0,0,1
+CDE,1,0,0,1
+CDF),0,1,0,1
+CANalyzer,1,0,0,1
+SQL Server Reporting Services,1,0,0,1
+SQL Server Reporting Services (SSRS),0,1,0,1
+SQL Server/Azure SQL,1,0,0,1
+SQL and MS SQL Cloud Knowledge – preferably Azure (KeyVault,1,0,0,1
+CDK),1,0,0,1
+CDS,0,0,1,1
+CDS Views,1,0,0,1
+CDS platforms (e.g. Empower,0,1,0,1
+SQL databases (MySQL,1,0,0,1
+SQL databases (PostgreSQL,1,0,0,1
+SQL nyelv,0,1,0,1
+SQL or BigQuery,1,0,0,1
+SQL – základy,1,0,0,1
+SQL-,0,1,0,1
+SQL/MSSQL,1,0,0,1
+SQL Server Integration Services (SSIS),0,1,0,1
+SRI,1,0,0,1
+SRM,0,1,0,1
+SQL/NoSQL,0,1,0,1
+SQL/PLSQL,1,0,0,1
+SQL/noSQL databases,1,0,0,1
+SQL/práca s dátovým modelom,1,0,0,1
+SQL: Skillful,1,0,0,1
+SQLAlchemy 2.0,1,0,0,1
+STM32 ARM microcontrollers,1,0,0,1
+STM32 microcontrollers,0,1,0,1
+SSAS,0,0,1,1
+SSAS),1,0,0,1
+SSDLC,1,0,0,1
+SSH/SFTP,0,1,0,1
+SSO and MFA,1,0,0,1
+Sass/SCSS,1,0,0,1
+SUM (Software Update Manager),1,0,0,1
+SVN / TFS / GIT,1,0,0,1
+SW Integration - microservices,1,0,0,1
+SW NET/JAVA application,1,0,0,1
+SW Pohoda,1,0,0,1
+STEP7,1,0,0,1
+STIGViewer,0,1,0,1
+STM development kits,1,0,0,1
+CAM,1,0,0,1
+CAMEO,0,1,0,1
+CAN,0,1,0,1
+SW implementation,0,1,0,1
+SWPM (SAP Software Provisioning Manager),1,0,0,1
+SaaS,0,1,0,1
+SafeCom PullPrint,1,0,0,1
+STS,1,0,0,1
+CANoe,1,0,0,1
+CANopen,0,1,0,1
+CAP (Cloud Application Programming Model),1,0,0,1
+CAP Model,0,1,0,1
+CARLA,0,1,0,1
+CASE tools,1,0,0,1
+CA Service Desk Manager,1,0,0,1
+CAD Software,0,1,0,1
+Building tools,1,0,0,1
+Buildroot/Yocto,0,1,0,1
+BurpSuite,0,1,0,1
+Business Automation Workflow (BAW) /BPM,1,0,0,1
+Bosch IPN SMT,0,1,0,1
+Bref.sh (serverless),1,0,0,1
+Brevo,1,0,0,1
+Broadcom Spectrum,1,0,0,1
+C SECURITY,0,1,0,1
+C-Monitor,1,0,0,1
+Business Central,1,0,0,1
+Business Central (Navision),0,0,1,1
+Business Intelligence tool,1,0,0,1
+Business Objects,0,0,1,1
+Business Objects (BOR),1,0,0,1
+BrowserStack device-farm,0,1,0,1
+Salesforce Marketing Cloud,0,1,0,1
+Salesforce Object Query Language (SOQL),1,0,0,1
+Sales,0,1,0,1
+Sales Cloud,0,1,0,1
+SalesForce Commerce Cloud,1,0,0,1
+Salesforce CRM platform,1,0,0,1
+C API,0,1,0,1
+C FRONTEND,0,1,0,1
+SassLint,1,0,0,1
+Scaleway,1,0,0,1
+Schema ST4 - Skillful,1,0,0,1
+Salesforce Service Cloud,1,0,0,1
+Salt / Puppet / Bash / Python,1,0,0,1
+Salt-stack,1,0,0,1
+Salesforce Core Platform,0,1,0,1
+Salesforce Data Cloud,1,0,0,1
+BluePrism,1,0,0,1
+Bluebeam,0,1,0,1
+Boomi,0,0,1,1
+BlackRock Aladdin,1,0,0,1
+Blackduck,1,0,0,1
+Bloomberg,1,0,0,1
+Bloomreach - Basic,1,0,0,1
+BitBucket/Git,1,0,0,1
+Scrum or Kanban,1,0,0,1
+ScrumBan,0,1,0,1
+Scikit-Learn,1,0,0,1
+Scratch Orgs,0,1,0,1
+Script Runner,1,0,0,1
+Scripting (Shell),1,0,0,1
+Bloomreach Engagement (Exponea),1,0,0,1
+Bloomreach Engagement platform,1,0,0,1
+Sealed Secrets,0,1,0,1
+Sealed Secrets and External Secrets,0,1,0,1
+Secret Scanning,1,0,0,1
+Secure Code Review,1,0,0,1
+Secure Coding Practices,1,0,0,1
+Security - Advanced,1,0,0,1
+Scrum Master,0,1,0,1
+Scrum methodologies,1,0,0,1
+Brocade SAN,1,0,0,1
+Browser automation,1,0,0,1
+Security Analytics,0,1,0,1
+Security Testing,0,1,0,1
+Security tools,1,0,0,1
+Segment Routing (SR and SRv6),1,0,0,1
+Selenium WebDriver,1,0,0,1
+Seagull scientific,1,0,0,1
+Selenium/Puppeteer/Playwright,1,0,0,1
+SentinelOne),1,0,0,1
+Sentry.io,1,0,0,1
+Siemens PLC programming software,1,0,0,1
+Siemens Teamcenter PLM,0,1,0,1
+Siemens tools,0,1,0,1
+Signal Processing,0,1,0,1
+Signavio,1,0,0,1
+Service Now®,0,1,0,1
+Service mapping,1,0,0,1
+Serinity BDD,1,0,0,1
+Server Sent Events,1,0,0,1
+Serverless,1,0,0,1
+Serverless-Architectures,0,0,1,1
+Service,0,1,0,1
+Service Bus),1,0,0,1
+ServiceNow - Basic,1,0,0,1
+ServiceNow CSM,1,0,0,1
+ServiceNow IRM,1,0,0,1
+ServiceNow ITSM,0,1,0,1
+Service Cloud,0,1,0,1
+Service Desk,0,0,1,1
+Service Fabric,1,0,0,1
+Service Management,1,0,0,1
+BitSight,1,0,0,1
+Bitdefender,1,0,0,1
+BlackLine,1,0,0,1
+Big Data,0,1,0,1
+Big Data environments,1,0,0,1
+Big Data manipulation tools,1,0,0,1
+BigLake,1,0,0,1
+BigPanda,1,0,0,1
+Batch scripting,1,0,0,1
+BarTender,1,0,0,1
+Baramundi,0,0,1,1
+Bare Metal Programming,0,1,0,1
+Base Command Manager,0,1,0,1
+Basecamp,0,1,0,1
+Bash - Advanced,1,0,0,1
+Backbone,1,0,0,1
+Beyond Compare,1,0,0,1
+BeyondCompare),1,0,0,1
+BeyondTrust,1,0,0,1
+Bash shell scripting,0,0,1,1
+Bash/Python,1,0,0,1
+Bash/Python/Go,1,0,0,1
+Basic Yocto,1,0,0,1
+Basic experience with C# is a plus,1,0,0,1
+ServiceNow ITSM platform,1,0,0,1
+ServiceNow SecOps,1,0,0,1
+Services,1,0,0,1
+SharePoint Framework (SPFx),1,0,0,1
+SharePoint Online/OneDrive/Teams,0,1,0,1
+Behave,0,0,1,1
+Bentley (Microstation) - advanced,1,0,0,1
+Bentley MicroStation / OpenCities,1,0,0,1
+Shell scripting,1,0,0,1
+Shoptet,1,0,0,1
+Siemens NX CAD/CAM,1,0,0,1
+Siemens Opcenter,0,0,1,1
+Siemens PLC programming,0,1,0,1
+SharePoint on-premise,1,0,0,1
+SharePoint online,1,0,0,1
+Sheets,0,1,0,1
+BW on HANA,0,0,1,1
+BW/4 HANA,0,0,1,1
+BW/4HANA,1,0,0,1
+BPMN 3.0,1,0,0,1
+BPMN eszközök (DrawIO,0,1,0,1
+BPMN modeling,1,0,0,1
+BPMN2.0,0,1,0,1
+BIC Process Design,0,1,0,1
+SilverStripe CMS,1,0,0,1
+Simatic S7,0,1,0,1
+Simatic Step7,0,1,0,1
+Simplifier,1,0,0,1
+Simulink,0,1,0,1
+BUFR,0,1,0,1
+BW,0,1,0,1
+BW Modeling (ODS Views),1,0,0,1
+SmartForms,1,0,0,1
+SmartRecruiters,0,1,0,1
+Smartsheet,1,0,0,1
+Sitecore WCMS,1,0,0,1
+Siteimprove,1,0,0,1
+Skillmea,1,0,0,1
+Skriptovanie grafických SW,1,0,0,1
+Skymetrix,0,1,0,1
+Background Workers,0,0,1,1
+Backstage,1,0,0,1
+Snakemake,0,1,0,1
+SnapMirror,1,0,0,1
+SnapVault,1,0,0,1
+SoapUI/Postman,1,0,0,1
+Slides,1,0,0,1
+Smart IT,0,1,0,1
+Software Development,0,1,0,1
+Software Testing,0,1,0,1
+Solarwinds,1,0,0,1
+BAPIs,1,0,0,1
+BASIC ERP,1,0,0,1
+BDS,1,0,0,1
+BFD,1,0,0,1
+BACKEND API,0,1,0,1
+Sonarsource,1,0,0,1
+Sonatype Nexus Repository,1,0,0,1
+Solid Angle Arnold,0,1,0,1
+Solid.js,0,1,0,1
+SolidWorks Electrical,1,0,0,1
+Social media platforms (Instagram,1,0,0,1
+Socket.io,1,0,0,1
+Softip Profit,1,0,0,1
+BI EXCEL,0,1,0,1
+BI TESTING,0,1,0,1
+BI reporting tools,1,0,0,1
+Sophos,1,0,0,1
+Spark (PySpark),1,0,0,1
+Spark-based platform,1,0,0,1
+SpecFlow,1,0,0,1
+Sonar Qube,0,1,0,1
+BIM,1,0,0,1
+BMC Helix/Remedy,0,1,0,1
+BNAC,0,1,0,1
+BNS,1,0,0,1
+BI AGILIS,0,1,0,1
+BI ANALYTICS,0,1,0,1
+BI Analytics,0,1,0,1
+BI Architect,1,0,0,1
+Spectrum Power™,1,0,0,1
+SpikeInterface,0,1,0,1
+Spine,1,0,0,1
+Spine animations,1,0,0,1
+Spira,1,0,0,1
+Azure Virtual,1,0,0,1
+Azure analytics suite,1,0,0,1
+Azure cloud,1,0,0,1
+Spring - Expert,1,0,0,1
+Spring Core,1,0,0,1
+Spring Data Mongodb,1,0,0,1
+Splunk Enterprise,1,0,0,1
+Splunk),1,0,0,1
+Spotlight on SQL Server,1,0,0,1
+Spring (Boot),1,0,0,1
+Speciális fogtechnikai számítógépes program,0,0,1,1
+Azure services (App Services,1,0,0,1
+Azure services (Logic Apps,0,0,1,1
+Azure-based hybrid cloud solutions,0,1,0,1
+Spring Data Redis,1,0,0,1
+Spring Framework (Spring Core,1,0,0,1
+Spring Framework/Spring Boot,0,1,0,1
+Spring JPA,0,1,0,1
+Spring MVC/WebFlux,1,0,0,1
+BACKEND SECURITY,0,1,0,1
+BACKEND TESTING DEVOPS API NOSQL AWS DOCKER FRONTEND REACT CLEAN CODE LEAN AGILE,0,1,0,1
+BACKUP IT SUPPORT,0,1,0,1
+Azureboards,1,0,0,1
+B&R,1,0,0,1
+BACKEND ACCESS,0,1,0,1
+Azure or Amazon Web services,1,0,0,1
+Azure platform,1,0,0,1
+SpyKING CIRCUS,0,1,0,1
+Squish,0,1,0,1
+Standard EDI tools,1,0,0,1
+Stargate Customer 360,1,0,0,1
+Spring Security),1,0,0,1
+Spring-Boot,1,0,0,1
+Spring-Web,1,0,0,1
+Symphony,0,1,0,1
+Static Routes,1,0,0,1
+Statistical tools,1,0,0,1
+StatsD,0,1,0,1
+Sterling),0,0,1,1
+StorCLI,1,0,0,1
+Správa databázy,1,0,0,1
+Správa incidentov,1,0,0,1
+Správa počítačov,1,0,0,1
+Azure SQL Database/instance (PaaS),0,1,0,1
+Azure Maps,1,0,0,1
+Azure Node.js/npm,1,0,0,1
+Azure OpenAI,1,0,0,1
+Azure Pipelines,1,0,0,1
+Storage),1,0,0,1
+Storyboards,0,0,1,1
+Streams,1,0,0,1
+Azure cloud platform,1,0,0,1
+Azure landing zone,1,0,0,1
+Azure SQL PaaS,1,0,0,1
+Azure Service Bus,1,0,0,1
+Azure Stack,1,0,0,1
+Azure Storage Accounts,1,0,0,1
+Azure Remote management tools (DameWare,1,0,0,1
+Azure SQL Database (MS SQL),1,0,0,1
+Azure Logic Apps,1,0,0,1
+Azure Devops,1,0,0,1
+Azure Ecosystem,1,0,0,1
+Azure Event Hub,1,0,0,1
+Azure Firewall/WAF,1,0,0,1
+Azure GPT,1,0,0,1
+Azure DevOps Pipelines,0,1,0,1
+Azure DevOps Pipelines or GitHub Actions (YAML),1,0,0,1
+Structure Manager,1,0,0,1
+Structurizr,1,0,0,1
+Styled Components,1,0,0,1
+Styled Components/Tailwind/CSS Modules,1,0,0,1
+Azure Infrastructure,1,0,0,1
+Azure Infrastructure Services,1,0,0,1
+Azure Key Vault,1,0,0,1
+Azure Kubernetes Service (AKS),1,0,0,1
+Switch connect,1,0,0,1
+Symantec AV,1,0,0,1
+Subversion (SVN),1,0,0,1
+Supertest,1,0,0,1
+Suse,1,0,0,1
+Swagger / OpenAPI,1,0,0,1
+Swagger API - Pokročilý,1,0,0,1
+Structure,1,0,0,1
+Syndigo,1,0,0,1
+Synology NAS,1,0,0,1
+SysML/UML,0,1,0,1
+Swift Object Storage,1,0,0,1
+Swift Package Manager,0,0,1,1
+SwiftUI,0,1,0,1
+Swing,0,1,0,1
+Switch configuration,1,0,0,1
+System administration - Basic,1,0,0,1
+SystemVerilog/UVM,0,1,0,1
+Azure DataLake,0,1,0,1
+Azure BI,0,1,0,1
+Azure Container Registry,1,0,0,1
+Azure Active Directory (AAD),1,0,0,1
+Azure Active Directory (Entra ID),1,0,0,1
+Azure Application Gateway,1,0,0,1
+TESTING AGILE AUTOMATED TESTS,0,1,0,1
+TESTING API,0,1,0,1
+TESTING C,0,1,0,1
+TCP/ IP,1,0,0,1
+TCP/UDP stack,1,0,0,1
+TEI,0,1,0,1
+Sysmon,1,0,0,1
+Sysprep,1,0,0,1
+TESTING DYNAMICS CRM,0,1,0,1
+TESTING HARDWARE,0,1,0,1
+TESTING MACHINE LEARNING SQL ANALYTICS DATABASE PROJECT MANAGEMENT,0,1,0,1
+TESTING MIDDLEWARE API DYNAMICS ACCESS SCRUM PROJECT MANAGEMENT CONFLUENCE JIRA AGILE BI ENTERPRISE ARCHITECT POWER BI REGRESSION TESTING,0,1,0,1
+TESTING ORACLE CLOUD BACKUP,0,1,0,1
+TESTING PROJECT MANAGEMENT,0,1,0,1
+TESTING REGRESSION TESTING SOFTWARE TESTING CYPRESS,0,1,0,1
+TENSORFLOW,0,1,0,1
+Azure DevOps Server (Git,0,1,0,1
+Azure DevOps/GitHub/GitLab,1,0,0,1
+Azure DevOps (Backlog,1,0,0,1
+Azure DevOps (Boards,1,0,0,1
+Azure DevOps (Repos,1,0,0,1
+Azure DevOps (YAML pipelines),1,0,0,1
+Azure DevOps / Jira,1,0,0,1
+Azure DevOps CI/CD pipelines,1,0,0,1
+Azure AD (now Entra ID),1,0,0,1
+Avalonia framework,1,0,0,1
+Awaitility,0,1,0,1
+Axivion,0,1,0,1
+Axure RP,0,1,0,1
+Axway API Gateway solution,1,0,0,1
+Automatisierungstools,0,0,1,1
+Automatizált tesztelés (XCTest),0,1,0,1
+TFS/Azure DevOps,1,0,0,1
+TFTP,1,0,0,1
+TGI,1,0,0,1
+TIA PORTAL,0,1,0,1
+Azure (AppService,1,0,0,1
+Azure (KeyVault,1,0,0,1
+Azure - AppService,1,0,0,1
+Azure AD (Entra ID),1,0,0,1
+TV Control Tower,0,1,0,1
+TIA portal,1,0,0,1
+TIBCO Orchestra EBX MDM,1,0,0,1
+TLP Protocol,1,0,0,1
+TMF620,0,1,0,1
+TOAD,1,0,0,1
+TESTING SOFTWARE,0,1,0,1
+TFS AUTOMATED TESTS,0,1,0,1
+Azure AI Search,1,0,0,1
+Azure AI tools,1,0,0,1
+Tailwind CSS - Advanced,1,0,0,1
+Tailwind4,1,0,0,1
+TROUBLESHOOTING CI,0,1,0,1
+TSQL,0,1,0,1
+TSS trace,1,0,0,1
+TSX templates,1,0,0,1
+Tanstack-Query,1,0,0,1
+Tanstack/React-router,1,0,0,1
+Tantstack Start,0,1,0,1
+Tanzu Kubernetes,1,0,0,1
+Tardis,1,0,0,1
+TestRail (optional),1,0,0,1
+Testing automation tools,1,0,0,1
+Testing tools (Cucumber,1,0,0,1
+Teamcenter RAC,1,0,0,1
+Teams Collaboration,1,0,0,1
+Teams Enterprise Voice / Direct Routing,1,0,0,1
+Teams Rooms,1,0,0,1
+TargetProcess,1,0,0,1
+Task),1,0,0,1
+Tauri,0,1,0,1
+Team Services,1,0,0,1
+Automation anywhere,1,0,0,1
+Automation for Jira,1,0,0,1
+Teams/Microsoft Graph APIs,1,0,0,1
+Teams/Microsoft Graph APIs/PowerShell,1,0,0,1
+Technical Writing,0,1,0,1
+Tekton,1,0,0,1
+Telecom Customer & Party Telecom BSS,0,1,0,1
+TeamCity),1,0,0,1
+Automatizálás,0,1,0,1
+Automic - UC4,1,0,0,1
+Automic CDA,1,0,0,1
+Autopilot,0,0,1,1
+Autotools,1,0,0,1
+Automated testing (Cucumber + Gherkin),0,1,0,1
+Automated testing tools,1,0,0,1
+Automation Studio,0,1,0,1
+Atlassian Suite,0,1,0,1
+Atlassian products (Jira / Confluence),1,0,0,1
+Atlassian suite (JIRA,1,0,0,1
+Atlassian termékcsalád (JIRA,0,1,0,1
+Atlassian termékcsalád (Jira,0,0,1,1
+Atlassian termékeivel és saját fejlesztésű megoldásainkkal,0,1,0,1
+Atlassian (Jira,1,0,0,1
+Atlassian Cloud (Jira,1,0,0,1
+AutoCad - beginner,1,0,0,1
+Atlassian toolchain,0,1,0,1
+Atlassian tools,0,1,0,1
+Atmel,1,0,0,1
+Atrium CMDB,0,1,0,1
+AudioCodes,1,0,0,1
+AuditBoard,1,0,0,1
+Aurora,0,1,0,1
+Terraform (Terragrunt),0,1,0,1
+Terraform or CloudFormation,1,0,0,1
+Test Management,0,1,0,1
+Tenable One,1,0,0,1
+Terminal,1,0,0,1
+AutoCAD - Skillful,1,0,0,1
+AutoCAD/CAM,1,0,0,1
+AutoCad,1,0,0,1
+TexturePacker,1,0,0,1
+Thingsboard,1,0,0,1
+Test Plans),1,0,0,1
+Test management tools,1,0,0,1
+TestCafe,1,0,0,1
+TestLink,0,1,0,1
+TestPlan),1,0,0,1
+Terraform (OpenTofu),1,0,0,1
+Arm CoreSight or SPE,0,1,0,1
+Armosec,1,0,0,1
+Artemis ActiveMQ,1,0,0,1
+Articulate,0,1,0,1
+Artifactory/Nexus,1,0,0,1
+Artificial Intelligence/ Machine Learning (KNIME,1,0,0,1
+Aruba,1,0,0,1
+Argo CD/Flux (GitOps),0,1,0,1
+Ticketing tool,0,0,1,1
+Ticketing tools,1,0,0,1
+Asseco Spin,1,0,0,1
+Assembly,0,1,0,1
+Assertible,1,0,0,1
+Assertible),1,0,0,1
+Astro,0,1,0,1
+Asyncio,1,0,0,1
+Transformers,0,1,0,1
+Ticketsystem,0,0,1,1
+TikTok),1,0,0,1
+Tokio,0,0,1,1
+TopoRail,0,0,1,1
+ThousandEyes,1,0,0,1
+Ticketing system,1,0,0,1
+Ticketing systems,0,1,0,1
+Atlassian Confluence & JIRA,1,0,0,1
+Troubleshooting,0,1,0,1
+Tulip platform,0,1,0,1
+TwinCAT3,0,1,0,1
+TwinSAFE,0,1,0,1
+TorchVision,1,0,0,1
+TotalJS,1,0,0,1
+Traefik,1,0,0,1
+AppsFlyer,1,0,0,1
+Appsheet,1,0,0,1
+Arc42,0,1,0,1
+ArcGIS Online,1,0,0,1
+ArcGIS Pro,1,0,0,1
+ArcMap,1,0,0,1
+Appian,0,1,0,1
+Apple MacBook,1,0,0,1
+UML - Unified Modeling Language - Expert,1,0,0,1
+UFT,1,0,0,1
+UI Design,1,0,0,1
+UI framework,1,0,0,1
+Typesense,1,0,0,1
+UAT BI,0,1,0,1
+UBUNTU,0,1,0,1
+Application lifecycle management tools,1,0,0,1
+Arduino IDE,1,0,0,1
+UNICA,1,0,0,1
+UNIX (GNU/Linux) command line,0,1,0,1
+UNIX/Linux administration,1,0,0,1
+URL Filtering,1,0,0,1
+UI/UX design,0,1,0,1
+UIKit,0,1,0,1
+UML - Unified Modeling Language,1,0,0,1
+ArgoCD/Flux,1,0,0,1
+ArgoWorkflow,1,0,0,1
+Ariba),0,1,0,1
+Aris,1,0,0,1
+Arksys,0,0,1,1
+Archimate,1,0,0,1
+Archimate/Togaf,1,0,0,1
+ArchiveLink,1,0,0,1
+US JIRA,1,0,0,1
+USSM,1,0,0,1
+UX Design Tools,1,0,0,1
+UX/UI design tools,0,1,0,1
+Apache HTTP Server,1,0,0,1
+Apache Hadoop,0,1,0,1
+Apache JMeter,1,0,0,1
+Apache Kafka - Expert,1,0,0,1
+UmiJS,1,0,0,1
+UniFi,1,0,0,1
+Unica,1,0,0,1
+Unifi,1,0,0,1
+Unit Tests,1,0,0,1
+Unit testing (Vitest,1,0,0,1
+Ubuntu/Debian,1,0,0,1
+UiPath Process Mining,1,0,0,1
+Apache Tomcat/WildFly/JBoss,1,0,0,1
+Apache Wicket,1,0,0,1
+Apache Zeppelin,1,0,0,1
+Apache httpd/NGINX,1,0,0,1
+Apex Data Loader,0,1,0,1
+Unit testing frameworks,0,1,0,1
+Unix,0,1,0,1
+Unix/Linux,1,0,0,1
+Apple MacOS,1,0,0,1
+Apple iOS,1,0,0,1
+App Dynamics,1,0,0,1
+App Insights,1,0,0,1
+App Store,1,0,0,1
+App Store Connect,1,0,0,1
+App Studio,1,0,0,1
+App engine,1,0,0,1
+VHDL,0,1,0,1
+VHDL),0,1,0,1
+Unix/Linux Server,1,0,0,1
+Unknown,1,0,0,1
+VBA),1,0,0,1
+VBscript,1,0,0,1
+VUE.JS,0,1,0,1
+VUE.js,1,0,0,1
+VMware and KVM,1,0,0,1
+VMware environments,1,0,0,1
+VM workflows,1,0,0,1
+VMware (ESXi,1,0,0,1
+VCS (git),1,0,0,1
+VCS (preferably git),1,0,0,1
+VEEAM,1,0,0,1
+VEEAM BACKUP and REPLICATOR,1,0,0,1
+Ansible/Salt-stack/Terraform/Helm,1,0,0,1
+Ansys Fluent,0,1,0,1
+Ant,1,0,0,1
+Ant/Maven,1,0,0,1
+Antd/Pro,1,0,0,1
+AntiVirus,1,0,0,1
+VMware / KVM / Proxmox,1,0,0,1
+VMware Cloud Foundation 5.2 or later,1,0,0,1
+Apache Nifi,0,1,0,1
+Apache Cassandra,0,1,0,1
+Apache HTTP,1,0,0,1
+Antivirus systems,1,0,0,1
+Antivírus,1,0,0,1
+Any experience with iOS/Android development is a plus,1,0,0,1
+AnyDesk,1,0,0,1
+AnywhereNow,1,0,0,1
+Ansible/Puppet/Chef,1,0,0,1
+Ansible/Puppet/Jenkins,1,0,0,1
+Ansible - Advanced,1,0,0,1
+Ansible / Terraform / Puppet,1,0,0,1
+Ansible / Terraform / Puppet - Advanced,1,0,0,1
+Angular 14,1,0,0,1
+Angular 14+ (NPM,0,1,0,1
+Angular JS,0,1,0,1
+VMware products (vSphere,1,0,0,1
+VMware vSphere (8+),1,0,0,1
+VMware vSphere cluster,1,0,0,1
+VMware vSphere/ iná virtualizačná technológia - Pokročilý,1,0,0,1
+Ansible Scripting,1,0,0,1
+Ansible Tower/AWX,1,0,0,1
+Ansible roles/scripts,1,0,0,1
+Ansible/Chef/Puppet/Salt,1,0,0,1
+VNC,1,0,0,1
+VPN ),1,0,0,1
+VPN ACCESS,0,1,0,1
+VPN IPS,1,0,0,1
+VPN NETWORK CLOUD TROUBLESHOOTING,0,1,0,1
+VPN SECURITY ACCESS,0,1,0,1
+VPN technologies,1,0,0,1
+VMware products,1,0,0,1
+VXLAN,1,0,0,1
+Vector,0,1,0,1
+VPN/IPsec,1,0,0,1
+VPNs,1,0,0,1
+VS/Rider,1,0,0,1
+VSCode,1,0,0,1
+VSCode IDE,0,1,0,1
+VSTS,1,0,0,1
+Vector software and tools,0,1,0,1
+Vector tools,0,1,0,1
+Vectorcast,0,1,0,1
+Vectra,0,0,1,1
+Vue.js/React.js,1,0,0,1
+Vue/Nuxt,1,0,0,1
+VueUse Motion,1,0,0,1
+Vulnerability scanners,1,0,0,1
+Veeam/Commvault/NetBackup/Bacula/Bareos,1,0,0,1
+Veeva CRM,1,0,0,1
+Veeva Vault CRM,0,1,0,1
+Veeva Vault Medical (MARV),1,0,0,1
+Vercel,1,0,0,1
+Vector Stores,1,0,0,1
+Vector databases,1,0,0,1
+Vector databases or object storage systems,1,0,0,1
+Virtualizácia serverov - Základy,1,0,0,1
+VeriStand,0,0,1,1
+Version Control,1,0,0,1
+Vertex AI Agent Builder,1,0,0,1
+Verziókezelők (GitHub,0,1,0,1
+Video Conference Devices,1,0,0,1
+Virtual machines and Containers,1,0,0,1
+Veeam B&R,1,0,0,1
+Angular Material,1,0,0,1
+Angular Testing,0,1,0,1
+Angular or React,1,0,0,1
+Android API,0,1,0,1
+Android Jetpack,1,0,0,1
+Android Knox,1,0,0,1
+Android NDK (Native Development Kit),1,0,0,1
+Virtualization servers,1,0,0,1
+Amazon QuickSight,1,0,0,1
+Akka toolkit,1,0,0,1
+Alation/Purview,1,0,0,1
+Alert manager,1,0,0,1
+Alertmanage,1,0,0,1
+Alfresco Software - Expert,1,0,0,1
+Ali cloud,1,0,0,1
+Airflow/MLflow,1,0,0,1
+Visual Studio/ Visual Studio Code,1,0,0,1
+Amazon Web Services (AWS) - Expert,1,0,0,1
+Amdosoft b4,1,0,0,1
+Analitical tools,0,1,0,1
+Altaro VM Backup,1,0,0,1
+Alteryx/KNIME,1,0,0,1
+Altium Designer,0,0,1,1
+Always On,0,1,0,1
+Vue.js/Quasar or React,1,0,0,1
+Visualization tools,1,0,0,1
+Vivado IDE,1,0,0,1
+Vmware Vsphere,1,0,0,1
+VoIP (SIP,1,0,0,1
+Vodičský preukaz,1,0,0,1
+Visual Paradigm,1,0,0,1
+Visual Studio IDE,0,0,1,1
+Vulnerability scanning,1,0,0,1
+VÍZESÉS,0,1,0,1
+W3C Verifiable Credentials,0,1,0,1
+Volatility,1,0,0,1
+Vue or Svelte,1,0,0,1
+Vue),1,0,0,1
+Vue.js - Advanced,1,0,0,1
+Vue.js 3,1,0,0,1
+Web3,1,0,0,1
+WebDav,1,0,0,1
+WebDynpro,1,0,0,1
+WebEx,1,0,0,1
+WebGL,1,0,0,1
+Web IDE/BAS,0,1,0,1
+Web Services and APIs (REST/SOAP),1,0,0,1
+Web applications and API,1,0,0,1
+WEBAPI,0,1,0,1
+WEBSERVICE,0,1,0,1
+WECI,1,0,0,1
+WFS/WMS Protocols,1,0,0,1
+WIFI,0,1,0,1
+WAF’s,1,0,0,1
+WAN and macOS devices,1,0,0,1
+WATERFALL,0,1,0,1
+WIN10),1,0,0,1
+WINDOWS HARDWARE,0,1,0,1
+WINDOWS IT SUPPORT,0,1,0,1
+WIP),0,0,1,1
+WITNESS Horizon,1,0,0,1
+WIZ.io,1,0,0,1
+WCAG 2.0+ AA/Section 508,1,0,0,1
+WCF),0,1,0,1
+Airtable,0,1,0,1
+Akeneo,1,0,0,1
+Akixi,1,0,0,1
+WMS (preferably Blue Yonder),1,0,0,1
+WMS BlueYonder (former JDA),1,0,0,1
+WORD EXCEL,0,1,0,1
+WS services,1,0,0,1
+WSDL,1,0,0,1
+Agile - Advanced,1,0,0,1
+Adonis,1,0,0,1
+Ads Manager,1,0,0,1
+Advanced Custom Fields (ACF),1,0,0,1
+Advanced Excel,1,0,0,1
+Advanced feature like multithreading (Async,1,0,0,1
+Affinity,1,0,0,1
+After Effects,1,0,0,1
+Agile/Scrum/Kanban,0,1,0,1
+Agilis,0,1,0,1
+Ahrefs/Semrush,1,0,0,1
+Agile development tools,1,0,0,1
+Agile methodologies (Scrum / Kanban),1,0,0,1
+Agile methodologies - Expert,1,0,0,1
+Agile methodology,1,0,0,1
+Agentic AI,1,0,0,1
+WSO2 API GW,1,0,0,1
+WSOA,1,0,0,1
+WSUS),1,0,0,1
+Wagtail CMS,1,0,0,1
+Warehouse-Management-Systems (WMS),0,0,1,1
+Agile software development processes,1,0,0,1
+Agile software development tools,1,0,0,1
+Agile/Scrum methodologies,0,1,0,1
+Web design,1,0,0,1
+Web scraping tools,1,0,0,1
+WatchGuard firewalls,1,0,0,1
+Wazuh),1,0,0,1
+Web APIs,0,1,0,1
+Web CMS,1,0,0,1
+Web Developer tools,1,0,0,1
+WSL2,0,1,0,1
+Adobe Suite,1,0,0,1
+Adobe products,1,0,0,1
+Adobe Creative Suite (InDesign,1,0,0,1
+Adobe Experience Cloud,1,0,0,1
+Adobe Experience Manager,1,0,0,1
+Adobe Forms,1,0,0,1
+Adobe FrameMaker,1,0,0,1
+Adobe Id,0,1,0,1
+WebServices SOAP / REST,1,0,0,1
+WebSharper,0,1,0,1
+WebSocket Subscriptions,1,0,0,1
+WebSphere,1,0,0,1
+WebStorm,1,0,0,1
+WebViews in mobile apps,0,1,0,1
+Adobe InDesign,1,0,0,1
+Adobe Ps,0,1,0,1
+WinCC Advanced,1,0,0,1
+WinSCP,1,0,0,1
+WinUI,1,0,0,1
+Windows (client),1,0,0,1
+Webes alkalmazások,0,1,0,1
+Webflow,0,1,0,1
+Webflow/Framer,0,1,0,1
+Weights & Biases,1,0,0,1
+Agent Development Kit,1,0,0,1
+Windows 11 - Expert,1,0,0,1
+Windows 11 Pro,0,0,1,1
+Windows 365,1,0,0,1
+Windows 7-10,1,0,0,1
+Windows ADK,1,0,0,1
+Wiki.js,1,0,0,1
+WildFly,1,0,0,1
+Windows Azure,1,0,0,1
+Windows CMD/BAT and Powershell,1,0,0,1
+Windows Client,1,0,0,1
+Windows Desktop Application,0,0,1,1
+Windows File Services,1,0,0,1
+Active Directory (Windows) - Advanced,1,0,0,1
+Active Directory (Windows) - Basic,1,0,0,1
+Active Directory / Azure Entra ID,1,0,0,1
+Windows Server Infrastructure Services,1,0,0,1
+Windows Server/IIS,0,1,0,1
+Windows OS - Advanced,1,0,0,1
+Windows OS administration (WIN11,1,0,0,1
+Windows Security,1,0,0,1
+Windows Server 2012 R2,0,0,1,1
+Windows Administration,1,0,0,1
+Windows Administrator,1,0,0,1
+AdminLTE,1,0,0,1
+Administrácia SAP,1,0,0,1
+Administrácia webových stránok,1,0,0,1
+Windows access management,1,0,0,1
+Windows administration - MS SQL,1,0,0,1
+Windows platform,1,0,0,1
+Windows Server 2012/2016,1,0,0,1
+Windows Server 2019 and 2022,1,0,0,1
+Adobe,0,1,0,1
+Adobe Acrobat,1,0,0,1
+Adobe After Effects,1,0,0,1
+Adobe Ai,0,1,0,1
+Adobe Commerce,1,0,0,1
+Actix,0,0,1,1
+Adattárház,0,1,0,1
+Adform,1,0,0,1
+WithSecure MDR,1,0,0,1
+Wonderware,0,0,1,1
+WordPress (development),1,0,0,1
+Windows servers,1,0,0,1
+Windows servers (AD,1,0,0,1
+Windows workstations,1,0,0,1
+Windsurf or other AI assistants,0,1,0,1
+Winforms,1,0,0,1
+X-Ray,0,1,0,1
+X-Ray Search,1,0,0,1
+XCODE,0,1,0,1
+Wordpress/Woocommerce,1,0,0,1
+Work Clearance Management,0,1,0,1
+Workato,0,1,0,1
+Workbench,0,1,0,1
+Workday Integration Cloud Connect,1,0,0,1
+AZURE SERVICE MANAGEMENT,0,1,0,1
+AZURE SQL,0,1,0,1
+AccelQ,1,0,0,1
+AWS/GCP/OTC/MS Azure,1,0,0,1
+AXIS,1,0,0,1
+AZURE CLOUD TESTING,0,1,0,1
+Workfront,1,0,0,1
+Wrike,1,0,0,1
+Active Directory domains,1,0,0,1
+Accelya,0,1,0,1
+Access policy manager (APM),1,0,0,1
+Acrobat Pro,0,1,0,1
+Acronis True Image,1,0,0,1
+AZURE DATABASE,0,1,0,1
+AZURE SECURITY,0,1,0,1
+AZURE SECURITY BACKEND,0,1,0,1
+AWS or GCP,1,0,0,1
+AWS services (ALB,1,0,0,1
+AWS services (API Gateway,1,0,0,1
+AWS services (EC2,1,0,0,1
+AWS services (S3,1,0,0,1
+AWS services (e.g.,1,0,0,1
+AWS TESTING CLOUD,0,1,0,1
+AWS cloud platform,1,0,0,1
+XEN,1,0,0,1
+XML (XSD,1,0,0,1
+AWS solution,0,1,0,1
+AWS stack,1,0,0,1
+AWS),1,0,0,1
+AWS/Azure,1,0,0,1
+AWS/Azure vagy egyéb felhő alapú technológia,0,1,0,1
+AWS/ECS,1,0,0,1
+XSD/XML/JSON,1,0,0,1
+XSUAA,1,0,0,1
+XUnit,1,0,0,1
+XML and HTML,1,0,0,1
+XML tools (PSPad,1,0,0,1
+XML-basierte Redaktionssysteme,0,0,1,1
+XMLSpy,1,0,0,1
+XPath,1,0,0,1
+Xamarin/MAUI,1,0,0,1
+XcodeGen,0,0,1,1
+Xilinx ARM cortex SoC,0,1,0,1
+Xilinx tools,0,1,0,1
+Xiting tools,1,0,0,1
+Xray Jira plugin,1,0,0,1
+XQuery,1,0,0,1
+XQuery),1,0,0,1
+Yeti,1,0,0,1
+Yoast,1,0,0,1
+automated testing,1,0,0,1
+babel,1,0,0,1
+backup,0,0,1,1
+bash scripting,1,0,0,1
+antivírus,1,0,0,1
+apache,1,0,0,1
+YouTrack,0,1,0,1
+YubiKey,1,0,0,1
+ZABBIX monitoring,1,0,0,1
+ZEBRA printers and scanners,1,0,0,1
+YAML,1,0,0,1
+Yarn workspace,1,0,0,1
+Yaskawa,0,1,0,1
+Yealink,1,0,0,1
+ZeroMQ,0,1,0,1
+Zio,1,0,0,1
+Zoom,1,0,0,1
+Zustand/Redux,1,0,0,1
+Zapier,1,0,0,1
+Zend,0,1,0,1
+Yocto Linux,0,1,0,1
+Yocto Project,1,0,0,1
+AWS fundamentals,1,0,0,1
+AWS native technologies,1,0,0,1
+AWS QuickSight,1,0,0,1
+AWS S3,1,0,0,1
+AWS SQS,1,0,0,1
+AWS SQS/SNS,1,0,0,1
+AWS Services (ECS,1,0,0,1
+AWS Step Functions,1,0,0,1
+AWS CDK (TypeScript),1,0,0,1
+AWS Cloud Access,0,1,0,1
+AWS Cloud technology stack,0,1,0,1
+AWS CloudFormation,0,1,0,1
+AWS CodeBuild,0,1,0,1
+AWS Convex,1,0,0,1
+AWS ACCESS,0,1,0,1
+AWS ACCESS CHANGE MANAGEMENT,0,1,0,1
+ahrefs,1,0,0,1
+AWS DOCKER MAVEN,0,1,0,1
+AWS Data Streaming,1,0,0,1
+AWS Databricks / PySpark,1,0,0,1
+AWS EC2,1,0,0,1
+AWS Fargate/EKS/Redhat Openshift,1,0,0,1
+AWS Glue,0,1,0,1
+AWS Knowledge (Cloudfront,1,0,0,1
+and tiles,1,0,0,1
+antiBot,1,0,0,1
+antivirus,1,0,0,1
+antivirus systems,1,0,0,1
+Zálohovanie a obnova dát,1,0,0,1
+abseil/boost,1,0,0,1
+access rules,1,0,0,1
+actix-web,0,1,0,1
+asset management,0,0,1,1
+asyncio,1,0,0,1
+asyncpg,1,0,0,1
+attention mechanism,0,1,0,1
+autoloading,1,0,0,1
+analysis,0,1,0,1
+and ITIL4 is an advantage,1,0,0,1
+and data migration,1,0,0,1
+browser dev tools,1,0,0,1
+bs4,1,0,0,1
+building tools,1,0,0,1
+buildroot / yocto,0,1,0,1
+business analytics,1,0,0,1
+camera,0,0,1,1
+campaign tools,1,0,0,1
+digital collaboration tools,1,0,0,1
+cloud-based workflows,1,0,0,1
+catalogs,1,0,0,1
+certifikáty…,1,0,0,1
+chatGPT,1,0,0,1
+checkMK,1,0,0,1
+clang,0,1,0,1
+cloud DWH,1,0,0,1
+boost,0,1,0,1
+AWS - route53,1,0,0,1
+cloudfront,1,0,0,1
+computer vision),0,1,0,1
+configuration management,1,0,0,1
+containerd/docker/kubernetes,1,0,0,1
+cloud environments (Docker/Kubernetes),1,0,0,1
+cloud platforms (GCP,1,0,0,1
+cloud technologies (AWS,1,0,0,1
+AWS AI/ML,1,0,0,1
+AWS API ACCESS,0,1,0,1
+AWS Aurora,1,0,0,1
+AWS CD,0,1,0,1
+AVS,1,0,0,1
+AWC,1,0,0,1
+AWS (Cloudfront,1,0,0,1
+AWS (VPC,1,0,0,1
+ASP.NET Core MVC,0,0,1,1
+ASP.NET Core Razor Pages,1,0,0,1
+ASP.NET/MVC,1,0,0,1
+ARO BPMN,0,1,0,1
+AS/400,0,0,1,1
+AS400 / IBM i,1,0,0,1
+API’s,1,0,0,1
+APM,0,1,0,1
+context engineering,0,1,0,1
+core banking a platobné huby,1,0,0,1
+coroutines,1,0,0,1
+ATP,1,0,0,1
+AUTODESK AUTOCAD,0,1,0,1
+AUTOSAR,0,1,0,1
+AV and meeting room tech,1,0,0,1
+AVRO,1,0,0,1
+design patterns,1,0,0,1
+cron jobs,1,0,0,1
+data modeling techniques,1,0,0,1
+data science tools,1,0,0,1
+data transformation,1,0,0,1
+containerization technologies (Docker,1,0,0,1
+containerization technologies such as Docker and Kubernetes,1,0,0,1
+containers/Kubernetes,1,0,0,1
+distributed systems,1,0,0,1
+dlt,0,1,0,1
+docebo,0,0,1,1
+dokploy,1,0,0,1
+databázové systémy,1,0,0,1
+deception technology,1,0,0,1
+defect tracking,1,0,0,1
+dependency management,1,0,0,1
+embedded system debugging tools,0,1,0,1
+iPhone,0,1,0,1
+iPower,1,0,0,1
+iSeries,0,1,0,1
+iTAC-MES,1,0,0,1
+image Registry,0,1,0,1
+image editing software,1,0,0,1
+image processing algorithms,0,1,0,1
+erwin Data Modeler,1,0,0,1
+ethtool,1,0,0,1
+eFront,1,0,0,1
+eMASSter,0,1,0,1
+eazyBI,1,0,0,1
+ec2,1,0,0,1
+email security gateways,0,0,1,1
+embedded Linux build systems like the Yocto project,0,1,0,1
+event-driven and real-time systems,1,0,0,1
+event-driven design,1,0,0,1
+event-driven systems,1,0,0,1
+eventy (napr. Kafka),1,0,0,1
+fairseq,0,1,0,1
+fetch / axios,1,0,0,1
+emerging UX/UI AI technologies,1,0,0,1
+encryption,1,0,0,1
+APS,0,1,0,1
+AR System,0,1,0,1
+ARIBA,0,0,1,1
+firewalld,1,0,0,1
+fluture-js,1,0,0,1
+freeIPA,1,0,0,1
+gRPC with Protocol Buffers,1,0,0,1
+gRPC/REST,0,0,1,1
+API Gateway (Kong/Apigee/NGINX),1,0,0,1
+API Gateway kong,1,0,0,1
+API MANAGEMENT,0,1,0,1
+API REST BACKEND,0,1,0,1
+API SECURITY,0,1,0,1
+APEX,0,1,0,1
+API (REST,1,0,0,1
+API (REST/FastAPI),1,0,0,1
+geodata processing,1,0,0,1
+graphana,1,0,0,1
+API and Webservice (SOAPUI),0,1,0,1
+API communication,1,0,0,1
+API integrations,1,0,0,1
+API service-mesh,1,0,0,1
+API teszteszközök (pl. SoapUI Postman),0,1,0,1
+API tools (Swagger,1,0,0,1
+gulp,1,0,0,1
+haproxy,1,0,0,1
+hdf5,0,1,0,1
+help authoring tools,1,0,0,1
+heyapi,1,0,0,1
+gcc,1,0,0,1
+gdb,1,0,0,1
+generative AI tools (e.g.,1,0,0,1
+incident),1,0,0,1
+high-level synthesis (HLS),0,1,0,1
+homeassistant,1,0,0,1
+iManage Work v10,1,0,0,1
+iNUVIO,1,0,0,1
+iPXE,1,0,0,1
+iPadOS and MacOS products,1,0,0,1
+group policies,1,0,0,1
+internal systems,1,0,0,1
+interné PM nástroje,1,0,0,1
+interné systémy,1,0,0,1
+iptables,1,0,0,1
+microsoft,0,1,0,1
+model fine-tuning),1,0,0,1
+modern AI architectures (e.g.,1,0,0,1
+modern Analytics-tools,0,0,1,1
+kibana,1,0,0,1
+kitting felület,0,1,0,1
+javarx,1,0,0,1
+javascript,1,0,0,1
+jegykezelő rendszer,0,0,1,1
+infrastructure-as-code tools,1,0,0,1
+integration endpoints,1,0,0,1
+integračná vrstva,1,0,0,1
+knowledge graphs,0,1,0,1
+kubernetes,0,1,0,1
+leading vulnerability management tools,1,0,0,1
+load/performance testing,1,0,0,1
+log360,1,0,0,1
+logging,1,0,0,1
+kafka-streams,1,0,0,1
+kenlm,0,1,0,1
+API AZURE,0,1,0,1
+API DATABASE @SAP.SERVICE MANAGEMENT,0,1,0,1
+API Dev,0,1,0,1
+ANALYTICS ASSEMBLY,0,1,0,1
+ANALYTICS SECURITY PROJECT MANAGEMENT,0,1,0,1
+ANALYTICS SPRING AGILE,0,1,0,1
+ANALYTICS TESTING PROJECT MANAGEMENT ACCESS UAT,0,1,0,1
+AOI,1,0,0,1
+multimeters),1,0,0,1
+multithreading,1,0,0,1
+n8n workflows,1,0,0,1
+nHibernate,1,0,0,1
+nPrinting,1,0,0,1
+monitoring solutions (e.g.,1,0,0,1
+monitoring tools,1,0,0,1
+multi-agent libraries/frameworks like CrewAI,1,0,0,1
+macOS/Apple zariadenia,1,0,0,1
+make,1,0,0,1
+managed PostgreSQL,0,1,0,1
+mariadb,1,0,0,1
+nagios,1,0,0,1
+netsurvey,1,0,0,1
+networking),1,0,0,1
+notepad,1,0,0,1
+matplotlib,1,0,0,1
+message-based communication,1,0,0,1
+microphone,0,0,1,1
+microservice,0,0,1,1
+microservice architecture,1,0,0,1
+logs,1,0,0,1
+lowcode platforms,1,0,0,1
+macOS,1,0,0,1
+modern LLMs,1,0,0,1
+modern backend architecture (API-first,1,0,0,1
+microservice design patterns,1,0,0,1
+microservice pattern,1,0,0,1
+microservices and APIs,1,0,0,1
+microservices architecture,1,0,0,1
+microservices testing,1,0,0,1
+microservices),1,0,0,1
+AI tools (e.g.,1,0,0,1
+AI tools and services (ChatGPT,1,0,0,1
+AI tools for development (e.g.,1,0,0,1
+AI tools like Claude AI,1,0,0,1
+AI-based tools,1,0,0,1
+AI-powered design tools,1,0,0,1
+AI-powered tools,0,1,0,1
+AI prototyping tools,0,1,0,1
+AMM vs order book tradeoffs,0,1,0,1
+AI-supported tools,1,0,0,1
+AI/LLM,1,0,0,1
+AI/ML libraries,1,0,0,1
+AI/ML tools for agent development,0,1,0,1
+AIX,0,1,0,1
+AIX/Linux,1,0,0,1
+AJAX,1,0,0,1
+monitoring (Kibana/Grafana),1,0,0,1
+monitoring and alerting solutions such as Thousand Eyes,1,0,0,1
+AKS,1,0,0,1
+ALB,1,0,0,1
+ALM,1,0,0,1
+ALM directive,0,1,0,1
+ALM practices,1,0,0,1
+AML,1,0,0,1
+multi-step agentic workflows,0,1,0,1
+multi-vendor network automation,1,0,0,1
+multimeter,1,0,0,1
+modern software architecture patterns and principles,1,0,0,1
+moderní JS (ES6+),1,0,0,1
+module federation,1,0,0,1
+monday.com,1,0,0,1
+mongodb,0,1,0,1
+o365,1,0,0,1
+oAuth,1,0,0,1
+object-oriented technologies,1,0,0,1
+relational databases,1,0,0,1
+relational or NoSQL databases,1,0,0,1
+release,1,0,0,1
+rocket,0,1,0,1
+rsyslog,1,0,0,1
+pgbadger,0,0,1,1
+php,0,1,0,1
+observability tooling,0,1,0,1
+observability tools,0,1,0,1
+online ticketing system tool,1,0,0,1
+openshift,1,0,0,1
+oscilloscopes,1,0,0,1
+osciloskop,1,0,0,1
+pip,0,1,0,1
+pipeline development,1,0,0,1
+planIT,1,0,0,1
+platform,1,0,0,1
+pm2,1,0,0,1
+patch management,0,0,1,1
+payment and shipping solutions,1,0,0,1
+pfSense,0,0,1,1
+AI software architect,0,1,0,1
+AI tooling,0,1,0,1
+AI tools (Claude/ChatGPT),1,0,0,1
+AI tools (Cursor,0,1,0,1
+AI tools (GitHub Copilot),1,0,0,1
+php-fpm,1,0,0,1
+phpMyAdmin,1,0,0,1
+phpspec,1,0,0,1
+AGILIS jira,0,1,0,1
+ADO.NET,1,0,0,1
+ADOBE,0,1,0,1
+ADOBE ACCESS @ADOBE,0,1,0,1
+ADOBE DATABASE,0,1,0,1
+ADOBE XD,0,1,0,1
+AEB,1,0,0,1
+ACI,1,0,0,1
+problem,1,0,0,1
+process mining,1,0,0,1
+AI Instrumentation,1,0,0,1
+AI frameworks,0,1,0,1
+AI nástroje,1,0,0,1
+AI productivity tools (e.g.,1,0,0,1
+AGILE KANBAN SCRUM,0,1,0,1
+AGILE TEST MANAGEMENT,0,1,0,1
+profilers,1,0,0,1
+proprietary in-house manufacturing tools,1,0,0,1
+pnpm,1,0,0,1
+pnpm/yarn workspaces,1,0,0,1
+policy-as-code engines (e.g.,0,1,0,1
+powershell scripting,1,0,0,1
+preferably SAP,1,0,0,1
+prehooks,1,0,0,1
+röntgenový prístroj,1,0,0,1
+s3,1,0,0,1
+r2dbc,1,0,0,1
+reactor,1,0,0,1
+redis,0,1,0,1
+redis.asyncio,1,0,0,1
+process mining systems,0,1,0,1
+procurement with Purchase order / Schedule agreement),1,0,0,1
+tokio,0,1,0,1
+tools for data engineering,1,0,0,1
+telephony,1,0,0,1
+templating libraries,1,0,0,1
+test management tools,0,1,0,1
+testing,0,1,0,1
+testovacie s Jest a Mocha,1,0,0,1
+vite.js,1,0,0,1
+vcpkg,1,0,0,1
+vector DB,0,1,0,1
+uPlot,1,0,0,1
+unit testing,1,0,0,1
+use-case diagramy,1,0,0,1
+vCenter),1,0,0,1
+ticketing rendszer (pl Jira),0,1,0,1
+tiketovacie nástroje,1,0,0,1
+@ADOBE. SPRING,0,1,0,1
+@SAP. AGILE SCRUM TEST AUTOMATION,0,1,0,1
+vLLM,1,0,0,1
+vRealize Operations Manager,1,0,0,1
+vRealize Orchestrator,1,0,0,1
+vSAN),1,0,0,1
+vSphere,1,0,0,1
+vanilla JavaScript,1,0,0,1
+ABP,1,0,0,1
+@SAP. INCIDENT MANAGEMENT,0,1,0,1
+@SAP. SCRUM,0,1,0,1
+@SAP.MACHINE LEARNING,0,1,0,1
+@SAP.NETWORK,0,1,0,1
+ABAP Test Cockpit,1,0,0,1
+8 (RHE,1,0,0,1
+802.1q,1,0,0,1
+Jupyter Notebooks,0,1,0,1
+Jira Zephyr,0,1,0,1
+Jira/Confluence,1,0,0,1
+Jira/Confluence/Azure DevOps,0,1,0,1
+Jira/Redmine,1,0,0,1
+Jira (Atlassian),1,0,0,1
+Jira - Expert,1,0,0,1
+Jira / Azure DevOps,1,0,0,1
+JustInMind,0,0,1,1
+Jython,0,1,0,1
+K2,1,0,0,1
+K2/Icefall,0,1,0,1
+K8S,1,0,0,1
+K8s/Rancher,1,0,0,1
+Journey Builder,0,1,0,1
+Json,1,0,0,1
+virtual environments for software testing,1,0,0,1
+virtual whiteboards (like MIRO,1,0,0,1
+K8s/Rancher API service-mesh,1,0,0,1
+KANBAN API,0,1,0,1
+KEYENCE,0,1,0,1
+KMS,1,0,0,1
+KOHA,1,0,0,1
+KOTLIN,0,1,0,1
+vlan,1,0,0,1
+vmware,1,0,0,1
+vulnerability management,1,0,0,1
+vulnerability management tools,0,0,1,1
+veeam,1,0,0,1
+version management,1,0,0,1
+video interop technologies,1,0,0,1
+vim,1,0,0,1
